@@ -125,6 +125,7 @@ def read_canto(canticle, canto, model, include_thoughts):
         print(f"saved scene {s}-{e} to {path}")
 
     readings = "\n\n".join(block for _, _, block in iter_scene_blocks(path))
+    step_sep("recap")
     recap = make_recap(canto, canto_title, readings, model, include_thoughts)
     append_canto(path, canto, canto_title, blocks, recap=recap)
     print(f"\nCanto {canto} written to {path}")
