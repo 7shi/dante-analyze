@@ -1,0 +1,149 @@
+{
+  "canto_title": "The Encounter with the Enchanted Lady in the Forest",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Departure into the Forest",
+      "summary": "Dante leaves the riverbank to venture into the thick, fragrant, and living forest."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "The Gentle Breeze",
+      "summary": "A soft wind blows through the trees, causing the branches to bend toward the mountain."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Singing Birds",
+      "summary": "The birds in the treetops continue to sing happily despite the wind, like the wind released from Aeolus."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "Entering the Deep Woods",
+      "summary": "Dante wanders so deep into the ancient woods that he can no longer see where he entered, encountering a small stream."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Dark Stream",
+      "summary": "Dante observes a murky, dark stream that flows under a perpetual shadow where no light reaches."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Sight of the Lady",
+      "summary": "Stopping by the stream, Dante is suddenly struck by a vision that disrupts his thoughts."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "Dante's Invitation",
+      "summary": "Dante addresses a solitary woman gathering flowers and invites her to approach the riverbank."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "A Mythological Comparison",
+      "summary": "Dante compares her presence to the arrival of spring and the goddess Proserpina."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "The Lady's Modest Approach",
+      "summary": "The lady approaches with modest, maidenly steps, bringing her song closer to Dante."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "The Radiance of her Eyes",
+      "summary": "As she reaches the water's edge, her eyes shine with a light more brilliant than that of Venus."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "Her Joyful Presence",
+      "summary": "The lady smiles and moves her hands, her joy as vast as the land, while Dante reflects on historical floods."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Lady's Greeting",
+      "summary": "The woman speaks, explaining that her laughter might confuse the newcomer and offering to answer his questions."
+    },
+    {
+      "start_line": 85,
+      "end_line": 87,
+      "scene_name": "Dante's Confusion",
+      "summary": "Dante expresses his doubt, stating that the sounds of the forest contradict what he previously believed."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "The Divine Purpose of the Place",
+      "summary": "The lady begins to explain that God created this place for peace, despite the changes brought by human sin."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "The Mountain's Ascent",
+      "summary": "She explains that the mountain rises high toward heaven to escape the turbulent elements of earth."
+    },
+    {
+      "start_line": 103,
+      "end_line": 114,
+      "scene_name": "The Mechanics of the Wind and Trees",
+      "summary": "She describes how the moving air strikes the thick trees, causing them to spread virtue and life throughout the woods."
+    },
+    {
+      "start_line": 115,
+      "end_line": 117,
+      "scene_name": "Seedless Growth",
+      "summary": "She notes the marvel of plants that take root in this place without visible seeds."
+    },
+    {
+      "start_line": 118,
+      "end_line": 120,
+      "scene_name": "The Bounty of the Land",
+      "summary": "She describes the holy landscape as being full of life and eternal fruit."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Two Springs",
+      "summary": "She explains that the stream flows from a constant spring that follows God's will."
+    },
+    {
+      "start_line": 127,
+      "end_line": 129,
+      "scene_name": "Forgetfulness and Memory",
+      "summary": "She describes how one side of the stream erases the memory of sin, while the other restores goodness."
+    },
+    {
+      "start_line": 130,
+      "end_line": 133,
+      "scene_name": "Lethe and Eunoe",
+      "summary": "She identifies the two sides of the stream as Lethe and Eunoe, which must both be tasted."
+    },
+    {
+      "start_line": 134,
+      "end_line": 138,
+      "scene_name": "A Final Promise",
+      "summary": "The lady promises to share more information, offering a further 'corollary' of wisdom."
+    },
+    {
+      "start_line": 139,
+      "end_line": 144,
+      "scene_name": "The Golden Age",
+      "summary": "She concludes by saying that ancient poets might have dreamed of this paradise, the true Golden Age."
+    },
+    {
+      "start_line": 145,
+      "end_line": 148,
+      "scene_name": "Dante's Reflection",
+      "summary": "Dante looks back at his poets and sees them smiling at the lady's final words before she turns back to her task."
+    }
+  ]
+}

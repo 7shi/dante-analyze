@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Prophecies of the Two Celestial Lights",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Memory of Carlo",
+      "summary": "Dante reflects on the explanation given to him by Carlo regarding the deceits of the descendants of Clemenza."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "Condemnation of Vanity",
+      "summary": "A moralizing outburst directed at souls who turn away from divine goodness toward earthly vanity."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "Arrival of the First Light",
+      "summary": "A new celestial splendor approaches Dante, with Beatrice's eyes fixed upon him."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "Dante's Request",
+      "summary": "Dante prays for the spirit to act upon his will and clarify his thoughts."
+    },
+    {
+      "start_line": 25,
+      "end_line": 42,
+      "scene_name": "The Tale of Cunizza",
+      "summary": "The first spirit describes its origin as a flame rising from a hill in the Italian countryside."
+    },
+    {
+      "start_line": 43,
+      "end_line": 51,
+      "scene_name": "Prophecy of Shifting Waters",
+      "summary": "The spirit foretells the changing course of rivers and the dominance of a powerful lord in the Po valley."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "Warning of Clerical Corruption",
+      "summary": "The spirit warns of a corrupt pastor and the heavy toll of bloodshed in Ferrara."
+    },
+    {
+      "start_line": 64,
+      "end_line": 66,
+      "scene_name": "The Spirit's Reversion",
+      "summary": "The spirit falls silent and returns to its previous circular motion."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "Appearance of the Second Light",
+      "summary": "A second, brilliant light appears like a sun-struck arrow, though its shadow brings sadness."
+    },
+    {
+      "start_line": 73,
+      "end_line": 81,
+      "scene_name": "Dante's Dialogue",
+      "summary": "Dante addresses the spirit, asking why its song does not satisfy his desires."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "The Geography of the Great Valley",
+      "summary": "The second spirit describes the vast valley stretching between the Ebro and the Macra rivers."
+    },
+    {
+      "start_line": 94,
+      "end_line": 108,
+      "scene_name": "Identity and Divine Purpose",
+      "summary": "The spirit reveals its name as Folco and explains how its presence reflects the divine order."
+    },
+    {
+      "start_line": 109,
+      "end_line": 126,
+      "scene_name": "The Legacy of Raab",
+      "summary": "The spirit identifies itself as Raab and recounts its role in the victory of Joshua."
+    },
+    {
+      "start_line": 127,
+      "end_line": 142,
+      "scene_name": "Prophecy of Roman Liberation",
+      "summary": "The spirit critiques the corruption of the Papacy and foretells the eventual liberation of Rome."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "canto_title": "The Gate of Hell and the Approach to the Acheron",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Inscription on the Gate",
+      "summary": "Dante reads the terrifying inscription upon the entrance to the eternal city of woe."
+    },
+    {
+      "start_line": 10,
+      "end_line": 18,
+      "scene_name": "Virgil's Interpretation",
+      "summary": "Virgil explains the difficult meaning of the words and prepares Dante for the souls they will encounter."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "Entry into the Underworld",
+      "summary": "Virgil leads Dante into the dark depths, where the narrator is immediately moved to tears."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Tumult of Wailing",
+      "summary": "Dante describes the chaotic and terrifying sounds of various voices and cries echoing in the air."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Origin of the Uncommitted",
+      "summary": "Virgil explains that these souls are those who lived without honor or infamy, mixed with the neutral angels."
+    },
+    {
+      "start_line": 43,
+      "end_line": 51,
+      "scene_name": "The Fate of the Neutral",
+      "summary": "Virgil describes the eternal misery of those who have no hope of death and are despised by all."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "The Great Procession",
+      "summary": "Dante observes a vast, rapidly moving crowd of souls passing before him."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "The Shadow of the Great Refuser",
+      "summary": "Dante recognizes the shade of a specific figure who represents the essence of the wicked sect."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Torment of the Souls",
+      "summary": "Dante describes the gruesome physical suffering of the souls as they are bitten by insects."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "Approaching the River",
+      "summary": "Dante notices a crowd by a great river and asks Virgil for more information."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "Dante's Shame",
+      "summary": "Dante approaches the river with downcast eyes, feeling embarrassed by his own questions."
+    },
+    {
+      "start_line": 82,
+      "end_line": 89,
+      "scene_name": "The Arrival of Charon",
+      "summary": "Charon, the ferryman, appears and warns the living soul to stay away from the dead."
+    },
+    {
+      "start_line": 90,
+      "end_line": 99,
+      "scene_name": "Virgil Silences the Ferryman",
+      "summary": "Virgil commands Charon to obey the divine will, causing the ferryman to fall silent."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Wrath of the Damned",
+      "summary": "The souls react to Charon's words with violent blasphemies against God and their own lineage."
+    },
+    {
+      "start_line": 106,
+      "end_line": 108,
+      "scene_name": "Retreat to the Shore",
+      "summary": "The souls pull back to the riverbank in deep sorrow."
+    },
+    {
+      "start_line": 109,
+      "end_line": 120,
+      "scene_name": "The Continuous Flow of Souls",
+      "summary": "Using a simile of falling autumn leaves, Dante describes the unending stream of souls crossing the river."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "Virgil's Final Lesson",
+      "summary": "Virgil explains why the wrathful are driven to cross the river by divine justice."
+    },
+    {
+      "start_line": 130,
+      "end_line": 136,
+      "scene_name": "The Earthquake and Fainting",
+      "summary": "A violent tremor shakes the landscape, causing Dante to lose consciousness."
+    }
+  ]
+}

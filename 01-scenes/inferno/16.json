@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Encounter with the Three Florentine Souls and the Approaching Figure",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Appearance of the Wounded Souls",
+      "summary": "Three wounded souls emerge from the shadows, running toward Dante and the Guide amidst the sound of falling water."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "Virgil's Instruction",
+      "summary": "Virgil tells Dante to wait and to be polite to the approaching figures despite the infernal flames."
+    },
+    {
+      "start_line": 19,
+      "end_line": 27,
+      "scene_name": "The Rotation of the Three",
+      "summary": "The three souls rotate in a circular motion like wrestlers, turning their faces toward Dante."
+    },
+    {
+      "start_line": 28,
+      "end_line": 45,
+      "scene_name": "The Identification of the Souls",
+      "summary": "The three souls introduce themselves as Guido Guerra, Tegghiaio Aldobrandi, and Iacopo Rusticucci."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "Dante's Hesitation",
+      "summary": "Dante admits that his desire to embrace the souls was overcome by the fear of being burned by the flames."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "Dante's Response",
+      "summary": "Dante expresses his sorrow for their condition and explains that he recognizes their noble Florentine names."
+    },
+    {
+      "start_line": 64,
+      "end_line": 72,
+      "scene_name": "The Souls' Inquiry",
+      "summary": "The souls ask Dante if the virtues and nobility still reside in Florence or if they have departed the city."
+    },
+    {
+      "start_line": 73,
+      "end_line": 75,
+      "scene_name": "Dante's Political Rebuke",
+      "summary": "Dante sharply critiques the new Florentine generation for their pride and lack of restraint."
+    },
+    {
+      "start_line": 76,
+      "end_line": 85,
+      "scene_name": "The Request for Remembrance",
+      "summary": "The souls acknowledge Dante's words and ask him to speak of them to the living if he ever returns to the light."
+    },
+    {
+      "start_line": 86,
+      "end_line": 90,
+      "scene_name": "The Departure of the Souls",
+      "summary": "The three souls break their formation and vanish quickly, leaving Dante and Virgil alone."
+    },
+    {
+      "start_line": 91,
+      "end_line": 105,
+      "scene_name": "The Sound of the Water",
+      "summary": "As they walk, the roar of the approaching water becomes deafening, compared to the flow of the Acquacheta river."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Use of the Rope",
+      "summary": "Following Virgil's command, Dante secures the rope around his Guide to ensure they stay together."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "Dante's Reflection on Prudence",
+      "summary": "Dante muses on the necessity of being cautious and observant, just as Virgil is."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "Virgil's Warning",
+      "summary": "Virgil tells Dante to prepare himself for a new sight that is about to be revealed."
+    },
+    {
+      "start_line": 127,
+      "end_line": 136,
+      "scene_name": "The Approaching Figure",
+      "summary": "Dante breaks his silence to describe a marvelous and mysterious figure descending through the dark air."
+    }
+  ]
+}

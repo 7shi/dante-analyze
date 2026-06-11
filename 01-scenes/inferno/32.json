@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Frozen Landscape of Cocytus and the Encounters with Traitors",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Poet’s Prologue",
+      "summary": "Dante introduces the difficulty of his task and invokes the Muses for help."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Descent into the Pit",
+      "summary": "Dante describes the descent into the bottom of the universe and receives a warning to watch his step."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Frozen Lake of Cocytus",
+      "summary": "Dante observes the immense frozen lake and compares its cold to the great rivers of the world."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "The Sinners in the Ice",
+      "summary": "Dante describes the distorted and frozen appearance of the souls trapped in the ice."
+    },
+    {
+      "start_line": 40,
+      "end_line": 51,
+      "scene_name": "The Two Intertwined Sinners",
+      "summary": "Dante encounters two souls whose heads are pressed so tightly together that their hair is mingled."
+    },
+    {
+      "start_line": 52,
+      "end_line": 69,
+      "scene_name": "The Deaf Sinner’s Revelation",
+      "summary": "A third, partially deaf sinner identifies the two previous souls and provides his own name."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "Walking through the Frozen Multitude",
+      "summary": "Dante describes the movement through the crowd and an accidental step onto a sinner's face."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Scolding Sinner",
+      "summary": "The sinner who was stepped on rebukes Dante, referencing the battle of Montaperti."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Verbal Dispute",
+      "summary": "Dante and the scolding sinner engage in a sharp and aggressive exchange of words."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "The Physical Altercation",
+      "summary": "Dante reacts to the sinner's refusal to identify himself by physically pulling his hair."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Interruption by Bocca",
+      "summary": "A new sinner interrupts the struggle to mock the first sinner's behavior."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "The Catalog of Traitors",
+      "summary": "The sinner Bocca provides a list of other famous traitors frozen in the ice."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "The Biting Sinners",
+      "summary": "Dante observes two more souls trapped in a pit, one biting the other's temple."
+    },
+    {
+      "start_line": 133,
+      "end_line": 139,
+      "scene_name": "Dante’s Inquiry into Hatred",
+      "summary": "Dante questions the biting sinner about the animosity he shows toward his companion."
+    }
+  ]
+}

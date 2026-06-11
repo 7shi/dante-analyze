@@ -1,0 +1,113 @@
+{
+  "canto_title": "The Encounter with the Spirits of the Arno Valley",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Spirits' Observation",
+      "summary": "Two spirits observe Dante and remark on his presence among the living."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "The First Spirit's Greeting",
+      "summary": "The first spirit addresses Dante, marveling at his grace and his movement between worlds."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "The Riddle of the Arno",
+      "summary": "Dante describes the river Arno, and the spirit correctly identifies it."
+    },
+    {
+      "start_line": 25,
+      "end_line": 27,
+      "scene_name": "The Second Spirit's Query",
+      "summary": "The second spirit questions why Dante was so vague about the river's origin."
+    },
+    {
+      "start_line": 28,
+      "end_line": 51,
+      "scene_name": "The Corruption of the Valley",
+      "summary": "The first spirit describes the degeneration of the Arno valley, from swine to wolves."
+    },
+    {
+      "start_line": 52,
+      "end_line": 54,
+      "scene_name": "The Cunning Foxes",
+      "summary": "The spirit describes the presence of deceptive foxes in the deep valleys."
+    },
+    {
+      "start_line": 55,
+      "end_line": 66,
+      "scene_name": "The Prophecy of the Hunter",
+      "summary": "The spirit prophesies the arrival of a hunter who will devastate the valley's beasts."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Second Spirit's Grief",
+      "summary": "The second spirit is visibly disturbed by the news of the coming destruction."
+    },
+    {
+      "start_line": 73,
+      "end_line": 84,
+      "scene_name": "Guido's Introduction",
+      "summary": "The first spirit reveals his identity as Guido, the Duke's man, and speaks of the envy that ruined him."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Blight of Lineage",
+      "summary": "Guido laments the corruption and emptiness of his own family's legacy and lands."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "Lament for Romagna",
+      "summary": "Guido points to the political decline of specific leaders and towns in the Romagna region."
+    },
+    {
+      "start_line": 103,
+      "end_line": 111,
+      "scene_name": "Mourning the Lost Greatness",
+      "summary": "Guido weeps for the lost nobility and the destruction of famous historical figures and families."
+    },
+    {
+      "start_line": 112,
+      "end_line": 123,
+      "scene_name": "The Decay of Towns",
+      "summary": "Guido continues his lament, describing the death and disappearance of various noble lineages."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "Guido's Exhaustion",
+      "summary": "Overwhelmed by grief, Guido concludes his speech, preferring to weep rather than speak."
+    },
+    {
+      "start_line": 127,
+      "end_line": 135,
+      "scene_name": "The Thunderous Voice",
+      "summary": "As Dante and Virgil walk in silence, a sudden, thunderous voice strikes them from the air."
+    },
+    {
+      "start_line": 136,
+      "end_line": 139,
+      "scene_name": "The Appearance of Aglauro",
+      "summary": "The second spirit appears with a great noise, identifying herself as Aglauro."
+    },
+    {
+      "start_line": 140,
+      "end_line": 141,
+      "scene_name": "Dante's Reaction",
+      "summary": "Startled by the sudden appearance, Dante instinctively recoils from the spirit."
+    },
+    {
+      "start_line": 142,
+      "end_line": 151,
+      "scene_name": "Aglauro's Warning",
+      "summary": "Aglauro warns Dante that his focus on heavenly beauties makes him vulnerable to earthly temptations."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "canto_title": "The Center of the Earth and the Encounter with Lucifer",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Approaching the Mist",
+      "summary": "Dante and Virgil move through a thick fog that obscures the landscape."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "The Shadows in the Dark",
+      "summary": "The narrator describes the various positions of the souls lost in the darkness."
+    },
+    {
+      "start_line": 16,
+      "end_line": 21,
+      "scene_name": "The Arrival at Dite",
+      "summary": "Virgil stops Dante to present the terrifying sight of the City of Dis."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "Dante’s Internal Horror",
+      "summary": "Dante describes his profound state of shock and loss of words."
+    },
+    {
+      "start_line": 28,
+      "end_line": 36,
+      "scene_name": "The Emergence of Lucifer",
+      "summary": "The massive, once-beautiful figure of the Emperor of Pain emerges from the ice."
+    },
+    {
+      "start_line": 37,
+      "end_line": 52,
+      "scene_name": "The Anatomy of the Beast",
+      "summary": "A detailed description of Lucifer's three faces, six wings, and the freezing winds they create."
+    },
+    {
+      "start_line": 53,
+      "end_line": 60,
+      "scene_name": "The Devouring of Sinners",
+      "summary": "The sight of Lucifer using his teeth to tear apart sinners like morsels of food."
+    },
+    {
+      "start_line": 61,
+      "end_line": 67,
+      "scene_name": "Identifying the Traitors",
+      "summary": "Virgil identifies the three specific souls being eaten: Judas, Brutus, and Cassio."
+    },
+    {
+      "start_line": 68,
+      "end_line": 75,
+      "scene_name": "The Descent via the Beast",
+      "summary": "Virgil leads Dante down the hairy, frozen body of Lucifer."
+    },
+    {
+      "start_line": 76,
+      "end_line": 81,
+      "scene_name": "Reaching the Center",
+      "summary": "The pair reaches the point where the weight of the world shifts, causing Dante to fear a fall."
+    },
+    {
+      "start_line": 82,
+      "end_line": 87,
+      "scene_name": "Finding a Ledge",
+      "summary": "Virgil finds a stable place to sit Dante on the edge of a rock."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "The Sight of the Upside-Down Legs",
+      "summary": "Dante looks back and sees the terrifying sight of Lucifer’s legs pointing upward."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "The Difficult Path",
+      "summary": "The narrator describes the arduous and dark terrain they must now traverse."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "Dante’s Confusion",
+      "summary": "Dante asks Virgil to explain the strange physics and the sudden change in time."
+    },
+    {
+      "start_line": 106,
+      "end_line": 117,
+      "scene_name": "The Center of Gravity",
+      "summary": "Virgil explains that they have passed the center of the earth and are now in the opposite hemisphere."
+    },
+    {
+      "start_line": 118,
+      "end_line": 126,
+      "scene_name": "The Shifting Hemisphere",
+      "summary": "Virgil explains the cosmic movement of the earth and the displacement of the air."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Sound of the Stream",
+      "summary": "The travelers hear a small stream nearby, signaling their proximity to the exit."
+    },
+    {
+      "start_line": 133,
+      "end_line": 139,
+      "scene_name": "The Return to the Stars",
+      "summary": "The pair climbs out of the abyss and emerges into the light to see the stars once again."
+    }
+  ]
+}

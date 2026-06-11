@@ -1,0 +1,131 @@
+{
+  "canto_title": "The Terrace of the Envious and the Sienese Soul",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Second Terrace",
+      "summary": "Dante describes the physical landscape of the second terrace, a rocky path where the light and surroundings appear indistinguishable from a natural road."
+    },
+    {
+      "start_line": 10,
+      "end_line": 21,
+      "scene_name": "Virgil's Prayer to the Sun",
+      "summary": "Virgil expresses concern about their delay and addresses the sun, asking it to continue guiding them through the new path."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "The Flight of the Spirits",
+      "summary": "As the travelers move forward, unseen spirits fly toward them, speaking with the courtesy of a courtly feast."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The First Two Voices",
+      "summary": "Two distinct voices pass by, one uttering a Latin phrase about wine and another shouting a name from Greek mythology."
+    },
+    {
+      "start_line": 34,
+      "end_line": 36,
+      "scene_name": "The Third Voice",
+      "summary": "Dante asks Virgil about the strange sounds, and a third voice delivers a cryptic warning about loving those who have done you harm."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "Virgil's Interpretation",
+      "summary": "Virgil explains that these voices represent the sting of envy and instructs Dante to keep his eyes fixed on the air ahead."
+    },
+    {
+      "start_line": 46,
+      "end_line": 48,
+      "scene_name": "Discovery of the Shadows",
+      "summary": "Dante looks forward and sees many shadows sitting along the path, dressed in cloaks the color of the rocks."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "The Litany of Saints",
+      "summary": "As they approach, Dante hears the souls crying out to Mary, Michael, Peter, and all the saints."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "The Sight of the Envious",
+      "summary": "Dante observes the souls huddled together in misery, noting how their physical suffering and lack of sight drive them to lean on one another."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Dim Light of the Terrace",
+      "summary": "The poet describes the oppressive, narrow light of this place, which is as restricted as the vision of a wild hawk."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "Dante's Anxiety",
+      "summary": "Feeling uneasy about being a visible observer among the unseen, Dante turns to Virgil for guidance."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "Virgil's Movement",
+      "summary": "Virgil moves toward the edge of the terrace, passing by the mourning shadows who are pressed together in pain."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "Dante's Greeting",
+      "summary": "Dante addresses the souls, asking if there is anyone among them who was once a Latin speaker."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "The Reply",
+      "summary": "An unseen voice responds, clarifying that while all souls belong to the true city, some were once travelers in Italy."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Interrogation",
+      "summary": "Dante identifies a specific shadow waiting for a sign and asks for its name or place of origin."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Sienese Confession",
+      "summary": "The soul identifies as Sienese and confesses that its life was defined by envy and the harm it caused to others."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "The Tale of the Battle",
+      "summary": "The soul recounts a battle near Colle where, in a moment of false bravado, it defiantly shouted at God."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "A Prayer for Penance",
+      "summary": "The soul expresses its desire for peace with God and mentions a person who prayed for it in life."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "Dante's Explanation",
+      "summary": "Dante explains that his sight is temporarily impaired by the fear of the torment happening below him."
+    },
+    {
+      "start_line": 139,
+      "end_line": 144,
+      "scene_name": "The Living Traveler",
+      "summary": "The soul questions how Dante arrived there, and Dante reveals that he is a living man traveling with Virgil."
+    },
+    {
+      "start_line": 145,
+      "end_line": 154,
+      "scene_name": "The Prophecy of Tuscany",
+      "summary": "The soul reacts to the news of Dante's life and issues a cryptic warning about the future of Tuscany and its leaders."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Celestial Ladder and the Prophecy of the Corrupt Church",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 18,
+      "scene_name": "Beatrice's Warning",
+      "summary": "Beatrice warns Dante that her beauty is too intense for a mortal to behold directly without being destroyed like Semele."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "Dante's Obedience",
+      "summary": "Dante reflects on his internal state and his willingness to obey his celestial guide."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Vision of the Golden Ladder",
+      "summary": "Dante observes a luminous ladder of light descending through the crystalline sphere of the universe."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Analogy of the Sun",
+      "summary": "Dante compares the movement of the descending lights to the natural behavior of the sun's rays at dawn."
+    },
+    {
+      "start_line": 43,
+      "end_line": 48,
+      "scene_name": "Dante's Hesitation",
+      "summary": "Dante perceives the intensity of the light but chooses to suppress his desire to ask questions."
+    },
+    {
+      "start_line": 49,
+      "end_line": 60,
+      "scene_name": "The Inquiry of Silence",
+      "summary": "Beatrice perceives Dante's restraint and Dante asks why the divine music is silent in this sphere."
+    },
+    {
+      "start_line": 61,
+      "end_line": 72,
+      "scene_name": "Beatrice's Explanation",
+      "summary": "Beatrice explains that the silence is due to her lack of laughter and that divine love governs the spheres."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "The Question of Predestination",
+      "summary": "Dante asks if Beatrice's specific role in this sphere was predestined for her alone."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Light's Response",
+      "summary": "The divine Light responds, describing how God's essence penetrates its being and elevates it."
+    },
+    {
+      "start_line": 88,
+      "end_line": 102,
+      "scene_name": "The Limitation of Inquiry",
+      "summary": "The Light explains that the highest mysteries of the Seraphim are beyond mortal understanding and warns Dante not to probe further."
+    },
+    {
+      "start_line": 103,
+      "end_line": 105,
+      "scene_name": "Dante's Pivot",
+      "summary": "Dante ceases his questioning and turns his attention to a new voice to ask his identity."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Prophecy of Catria",
+      "summary": "The new speaker delivers a prophecy regarding the rise of a deformed power in the region of Catria."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "The Monk's Recollection",
+      "summary": "The speaker describes his former life of contemplative prayer in a peaceful monastery."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Revelation of Identity",
+      "summary": "The speaker reveals his identity as Peter Damian and mentions his time in the house of the Virgin Mary."
+    },
+    {
+      "start_line": 127,
+      "end_line": 135,
+      "scene_name": "Lament for the Church",
+      "summary": "The speaker laments the corruption of the clergy, where leaders and followers are indistinguishable and deceitful."
+    },
+    {
+      "start_line": 136,
+      "end_line": 142,
+      "scene_name": "The Celestial Shout",
+      "summary": "The descending lights gather and emit a thunderous cry that overwhelms Dante's senses."
+    }
+  ]
+}

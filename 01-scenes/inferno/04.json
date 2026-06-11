@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Limbo and the Great Hall of Heroes",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Awakening",
+      "summary": "Dante is jolted awake by a heavy sound and begins to survey his surroundings."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "The Valley of Sorrow",
+      "summary": "Dante describes the dark, deep, and misty landscape of the abyss."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "The Command to Descend",
+      "summary": "Virgil instructs Dante to follow him into the dark world, prompting Dante's fear of being left alone."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "Entering the First Circle",
+      "summary": "Virgil explains the sorrow of the unbaptized as they enter the first circle of Hell."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "The Sighing Spirits",
+      "summary": "Dante observes the vast multitude of men, women, and children who exist in eternal sighing."
+    },
+    {
+      "start_line": 31,
+      "end_line": 42,
+      "scene_name": "The Nature of Limbo",
+      "summary": "Virgil explains that these souls are not punished for sin, but lack the grace of baptism."
+    },
+    {
+      "start_line": 43,
+      "end_line": 50,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Deeply saddened by the news, Dante asks if any soul has ever been saved from this state."
+    },
+    {
+      "start_line": 51,
+      "end_line": 63,
+      "scene_name": "The Descent of the Patriarchs",
+      "summary": "Virgil recounts how great figures like Moses, Abraham, and David were brought to salvation."
+    },
+    {
+      "start_line": 64,
+      "end_line": 66,
+      "scene_name": "Through the Dense Forest",
+      "summary": "The poets continue their journey through a thick forest of spirits."
+    },
+    {
+      "start_line": 67,
+      "end_line": 78,
+      "scene_name": "The Discovery of the Light",
+      "summary": "A bright light appears in the distance, illuminating a place inhabited by honorable souls."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "The Divine Voice",
+      "summary": "An unseen voice calls out to honor the great poet Virgil."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "The Meeting of the Great Poets",
+      "summary": "Four great classical poets—Homer, Horace, Ovid, and Lucan—approach the travelers."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "The Assembly of Wisdom",
+      "summary": "Dante is honored to be included in the company of these great minds."
+    },
+    {
+      "start_line": 103,
+      "end_line": 111,
+      "scene_name": "The Noble Castle",
+      "summary": "The travelers reach a magnificent, seven-walled castle surrounded by a stream."
+    },
+    {
+      "start_line": 112,
+      "end_line": 117,
+      "scene_name": "The Meadow of Spirits",
+      "summary": "Passing through the gates, they enter a bright, open meadow filled with solemn souls."
+    },
+    {
+      "start_line": 118,
+      "end_line": 129,
+      "scene_name": "The Hall of Heroes",
+      "summary": "Dante identifies legendary figures from Troy, Rome, and Greek myth."
+    },
+    {
+      "start_line": 130,
+      "end_line": 144,
+      "scene_name": "The School of Philosophers",
+      "summary": "Dante sees the great masters of philosophy, science, and medicine seated together."
+    },
+    {
+      "start_line": 145,
+      "end_line": 147,
+      "scene_name": "The Poet's Limitation",
+      "summary": "Dante confesses he cannot name all the spirits because the subject is too vast."
+    },
+    {
+      "start_line": 148,
+      "end_line": 151,
+      "scene_name": "Moving Toward the Light",
+      "summary": "Virgil leads Dante away from the quiet assembly toward a place of greater light."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Radiance of Beatrice and the Celestial Harmony",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 15,
+      "scene_name": "The Simile of the Bird",
+      "summary": "Dante compares Beatrice's expectant and focused posture to a bird waiting in a nest for the dawn."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "Beatrice's Proclamation",
+      "summary": "Beatrice announces the arrival of Christ's triumph, her face shining with immense joy."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Vision of the Sun",
+      "summary": "Dante compares Beatrice's radiance to the moon reflecting a single sun that illuminates all stars."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Source of Virtue",
+      "summary": "Beatrice explains that her brilliance is a manifestation of the divine wisdom and power that connects heaven and earth."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "Expansion of the Mind",
+      "summary": "Dante's intellect expands beyond its natural limits, and Beatrice commands him to behold her true nature."
+    },
+    {
+      "start_line": 49,
+      "end_line": 63,
+      "scene_name": "The Limit of Language",
+      "summary": "Dante describes the feeling of being lost in vision and admits that even all the Muses could not adequately describe the divine joy."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Weight of the Subject",
+      "summary": "Dante acknowledges the immense difficulty and danger of attempting to navigate such a profound and heavy theme."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The Call to the Rose",
+      "summary": "Beatrice asks why Dante is distracted by her beauty rather than looking toward the celestial rose of the Incarnation."
+    },
+    {
+      "start_line": 76,
+      "end_line": 78,
+      "scene_name": "Focusing the Gaze",
+      "summary": "Dante redirects his attention from Beatrice back to the divine mysteries."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Burst of Light",
+      "summary": "Dante's eyes encounter a sudden, overwhelming series of celestial flashes and lightnings."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Crown of Light",
+      "summary": "Dante observes a descending ring of light that looks like a crown, centered around a great flame."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "The Celestial Lyre",
+      "summary": "The sound of the heavenly music is compared to a melody so sweet it surpasses any earthly music, like a divine lyre."
+    },
+    {
+      "start_line": 103,
+      "end_line": 108,
+      "scene_name": "The Voice of Angelic Love",
+      "summary": "A personified Angelic Love speaks, explaining its role in circling the throne of the Virgin Mary."
+    },
+    {
+      "start_line": 109,
+      "end_line": 111,
+      "scene_name": "The Chorus of Mary",
+      "summary": "The celestial music culminates in a collective hymn singing the name of Mary."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "The Distant Shore",
+      "summary": "Dante describes the vastness of the divine structure, noting that the ultimate boundary remains too distant for his eyes to follow."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Simile of the Infants",
+      "summary": "Dante compares the upward reaching of the lights to infants reaching for their mother's milk, all directed toward Mary."
+    },
+    {
+      "start_line": 130,
+      "end_line": 139,
+      "scene_name": "The Triumph of the Saints",
+      "summary": "Dante reflects on the immense richness of the heavenly treasury and the ultimate victory of Christ and Mary."
+    }
+  ]
+}

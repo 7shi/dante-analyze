@@ -1,0 +1,77 @@
+{
+  "canto_title": "The Fourth Circle and the Marsh of the Styx",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Pluto's Outburst and Virgil's Rebuke",
+      "summary": "Pluto the demon bellows a curse, but Virgil silences him by invoking the divine justice of Michael's victory."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "Descent into the Fourth Circle",
+      "summary": "The poets descend into the fourth circle, where the weight of all the world's evil is contained."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "The Chaos of the Swirling Souls",
+      "summary": "Dante contemplates the colliding masses of souls, comparing their frantic movement to the waves of Charybdis."
+    },
+    {
+      "start_line": 25,
+      "end_line": 35,
+      "scene_name": "The Mechanics of the Punishment",
+      "summary": "The souls of the avaricious and the profligate collide and reverse direction in a perpetual, noisy loop."
+    },
+    {
+      "start_line": 36,
+      "end_line": 48,
+      "scene_name": "Identification of the Avaricious",
+      "summary": "Dante asks for clarification on the identity of these souls, and Virgil explains they are the greedy, including high clergy."
+    },
+    {
+      "start_line": 49,
+      "end_line": 66,
+      "scene_name": "The Futility of Wealth",
+      "summary": "Virgil explains how earthly greed obscures the soul and notes that all the gold in the world cannot ease their torment."
+    },
+    {
+      "start_line": 67,
+      "end_line": 84,
+      "scene_name": "The Doctrine of Fortune",
+      "summary": "In response to Dante's question, Virgil explains how Providence uses the shifting nature of Fortune to regulate the world."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Unchanging Divine Order",
+      "summary": "Virgil describes how the divine plan remains constant despite human criticism and the chaotic shifts of luck."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "Transition to the Styx",
+      "summary": "The poets descend further into a dark, bubbling stream that leads into the marsh of the Styx."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Sight of the Wrathful and Sullen",
+      "summary": "Dante observes naked, mud-covered souls struggling and biting one another in the swampy sludge."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "The Lament of the Sullen",
+      "summary": "Virgil explains that these are the wrathful and the sullen, the latter of whom groan beneath the mud."
+    },
+    {
+      "start_line": 127,
+      "end_line": 130,
+      "scene_name": "Arrival at the Tower",
+      "summary": "The poets traverse the edge of the muddy pool and arrive at the foot of a jagged tower."
+    }
+  ]
+}

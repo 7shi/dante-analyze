@@ -1,0 +1,205 @@
+canticle = "inferno"
+canto = 1
+title = "The Dark Wood and the Encounter with Virgil"
+
+# Context-lock skeleton for translation pre-processing.
+# It fixes IDENTITY only (who/where/what), never the source's meaning or a
+# paraphrase. `basis` quotes the source solely as evidence, so each entry is
+# verifiable against inferno/01.txt. Recurring terms/realm vocabulary live in
+# the shared glossary, not here.
+#
+# Setting for the whole canto: the prologue, before Hell proper — the dark wood
+# (selva oscura) and the deserted slope at the foot of the sunlit hill. No
+# circle and no sinners yet; the only persons are Dante and the shade of Virgil,
+# plus the three allegorical beasts.
+
+[[scene]]
+lines = "1-12"
+location = "the dark wood (selva oscura)"
+cast = ["Dante"]
+basis = "l.1-2 «Nel mezzo del cammin di nostra vita / mi ritrovai per una selva oscura»"
+
+[[scene]]
+lines = "13-18"
+location = "the foot of the sunlit hill"
+cast = ["Dante"]
+refer = [
+  { phrase = "il pianeta che mena dritto altrui", line = 17, resolves = "the sun", note = "'the planet' = the sun, in medieval cosmology" },
+]
+basis = "l.13 «al piè d'un colle giunto»; l.17-18 «raggi del pianeta / che mena dritto altrui»"
+
+[[scene]]
+lines = "19-21"
+location = "the foot of the sunlit hill"
+cast = ["Dante"]
+basis = "l.19 «Allor fu la paura un poco queta»"
+
+[[scene]]
+lines = "22-30"
+location = "the foot of the sunlit hill"
+cast = ["Dante"]
+simile = [
+  { lines = "22-27", vehicle = "a swimmer who, escaped from the sea to shore, turns back to gaze at the perilous water", note = "imagery for Dante's still-fleeing spirit — no character enters the scene" },
+]
+basis = "l.22-24 «E come quei che con lena affannata, / uscito fuor del pelago a la riva, / si volge a l'acqua perigliosa e guata»"
+
+[[scene]]
+lines = "31-36"
+location = "the start of the slope (l'erta)"
+cast = ["Dante", "the leopard (lonza)"]
+basis = "l.32 «una lonza leggera e presta molto» (lonza = a spotted leopard, feminine)"
+
+[[scene]]
+lines = "37-43"
+location = "the slope"
+cast = ["Dante"]
+refer = [
+  { phrase = "quelle stelle ... quando l'amor divino / mosse di prima quelle cose belle", line = 38, resolves = "the constellation Aries (the sun at the spring equinox, the season of Creation)", note = "a time marker, not characters" },
+]
+basis = "l.37-40 «Temp' era dal principio del mattino, / e 'l sol montava 'n sù con quelle stelle / ch'eran con lui quando l'amor divino / mosse di prima quelle cose belle»"
+
+[[scene]]
+lines = "44-48"
+location = "the slope"
+cast = ["Dante", "the lion (leone)"]
+basis = "l.45 «la vista che m'apparve d'un leone»"
+
+[[scene]]
+lines = "49-60"
+location = "the slope"
+cast = ["Dante", "the she-wolf (lupa)"]
+simile = [
+  { lines = "55-58", vehicle = "a man who gladly amasses, and when the time to lose it comes weeps and grieves in all his thoughts", note = "imagery for Dante's despair before the she-wolf" },
+]
+basis = "l.49-50 «Ed una lupa, che di tutte brame / sembiava carca ne la sua magrezza»"
+
+[[scene]]
+lines = "61-66"
+location = "the slope, as Dante falls toward the dark (basso loco)"
+cast = ["Dante", "Virgil"]
+speaker = "Dante"
+addressee = "Virgil"
+refer = [
+  { phrase = "chi per lungo silenzio parea fioco", line = 63, resolves = "Virgil", note = "the faint figure; Dante does not yet know who it is — identity revealed only from l.67" },
+]
+basis = "l.62-65 «dinanzi a li occhi mi si fu offerto / chi per lungo silenzio parea fioco... «Miserere di me», gridai a lui»"
+
+[[scene]]
+lines = "67-75"
+location = "the slope (the great desert, gran diserto)"
+cast = ["Virgil"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "quel giusto / figliuol d'Anchise", line = 73, resolves = "Aeneas", note = "the SON of Anchises (= Aeneas), whom Virgil sang of — NOT Anchises himself" },
+]
+basis = "l.67-74 «Non omo, omo già fui... Poeta fui, e cantai di quel giusto / figliuol d'Anchise che venne di Troia»"
+
+[[scene]]
+lines = "76-78"
+location = "the slope"
+cast = ["Virgil"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "il dilettoso monte", line = 77, resolves = "the sunlit hill", note = "the same hill of l.13ff; allegory of salvation" },
+]
+basis = "l.77-78 «perché non sali il dilettoso monte / ch'è principio e cagion di tutta gioia?»"
+
+[[scene]]
+lines = "79-81"
+location = "the slope"
+cast = ["Dante", "Virgil"]
+speaker = "Dante"
+addressee = "Virgil"
+refer = [
+  { phrase = "quel Virgilio e quella fonte", line = 79, resolves = "Virgil", note = "Dante recognizes and names him" },
+]
+basis = "l.79-80 «Or se' tu quel Virgilio e quella fonte / che spandi di parlar sì largo fiume?»"
+
+[[scene]]
+lines = "82-90"
+location = "the slope"
+cast = ["Dante", "Virgil"]
+speaker = "Dante"
+addressee = "Virgil"
+refer = [
+  { phrase = "la bestia per cu' io mi volsi", line = 88, resolves = "the she-wolf (lupa)", note = "the beast of l.49 that drove Dante back" },
+]
+basis = "l.85 «Tu se' lo mio maestro e 'l mio autore»; l.88 «Vedi la bestia per cu' io mi volsi»"
+
+[[scene]]
+lines = "91-99"
+location = "the slope"
+cast = ["Virgil", "the she-wolf (lupa)"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "questa bestia", line = 94, resolves = "the she-wolf (lupa)" },
+]
+basis = "l.94-99 «questa bestia, per la qual tu gride... e dopo 'l pasto ha più fame che pria»"
+
+[[scene]]
+lines = "100-105"
+location = "the slope"
+cast = ["Virgil"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "veltro", line = 101, resolves = "the Hound (Veltro)", note = "the prophesied deliverer who will drive the she-wolf back to Hell; allegorical, unnamed" },
+]
+basis = "l.101-102 «infin che 'l veltro / verrà, che la farà morir con doglia»"
+
+[[scene]]
+lines = "106-111"
+location = "the slope"
+cast = ["Virgil"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "la vergine Cammilla, / Eurialo e Turno e Niso", line = 107, resolves = "Camilla, Euryalus, Turnus, Nisus", note = "Aeneid figures who died for Italy — named-but-absent exempla, not present characters" },
+  { phrase = "lo 'nferno", line = 110, resolves = "Hell", note = "where the she-wolf is driven back; metaphorical, not the present setting" },
+]
+basis = "l.106-108 «Di quella umile Italia fia salute / per cui morì la vergine Cammilla, / Eurialo e Turno e Niso di ferute»"
+
+[[scene]]
+lines = "112-120"
+location = "the slope"
+cast = ["Virgil"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "loco etterno", line = 114, resolves = "Hell (the eternal place)", note = "described, not the present setting" },
+  { phrase = "color che son contenti / nel foco", line = 118, resolves = "the souls in Purgatory", note = "content in the fire, hoping one day to reach the blessed" },
+]
+basis = "l.114-120 «e trarrotti di qui per loco etterno; / ove udirai le disperate strida... e vederai color che son contenti / nel foco»"
+
+[[scene]]
+lines = "121-129"
+location = "the slope"
+cast = ["Virgil"]
+speaker = "Virgil"
+addressee = "Dante"
+refer = [
+  { phrase = "anima fia a ciò più di me degna", line = 122, resolves = "Beatrice", note = "the worthier soul who will guide Dante to the blessed; unnamed here, named later" },
+  { phrase = "quello imperador che là sù regna", line = 124, resolves = "God", note = "Virgil, a pagan rebel to His law, may not enter His city" },
+]
+basis = "l.121-126 «anima fia a ciò più di me degna: / con lei ti lascerò nel mio partire; / ché quello imperador che là sù regna, / perch' i' fu' ribellante a la sua legge»"
+
+[[scene]]
+lines = "130-135"
+location = "the slope"
+cast = ["Dante", "Virgil"]
+speaker = "Dante"
+addressee = "Virgil"
+refer = [
+  { phrase = "quello Dio che tu non conoscesti", line = 131, resolves = "God", note = "whom Virgil, as a pagan, did not know" },
+  { phrase = "la porta di san Pietro", line = 134, resolves = "the gate of St. Peter", note = "metonymy for the entry to salvation" },
+]
+basis = "l.130-134 «Poeta, io ti richeggio / per quello Dio che tu non conoscesti... sì ch'io veggia la porta di san Pietro»"
+
+[[scene]]
+lines = "136-136"
+location = "the slope"
+cast = ["Dante", "Virgil"]
+basis = "l.136 «Allor si mosse, e io li tenni dietro»"

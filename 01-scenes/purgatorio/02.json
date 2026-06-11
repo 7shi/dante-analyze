@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Arrival of the Celestial Messenger and the Encounter with Casella",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Setting the Scene at Dawn",
+      "summary": "The poet establishes the astrological time of dawn and describes the travelers' position on the sea."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "A Sudden Light Appears",
+      "summary": "A brilliant, fast-moving light appears on the western horizon, startling the travelers."
+    },
+    {
+      "start_line": 19,
+      "end_line": 36,
+      "scene_name": "Description of the Angelic Wings",
+      "summary": "Virgil describes the divine messenger and the magnificent, incorruptible white wings appearing around the light."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "The Vessel Approaches",
+      "summary": "The divine vessel nears the shore, carrying a celestial pilot and over a hundred spirits."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "The Sacred Song and Signal",
+      "summary": "The spirits sing a psalm and react to the pilot's sign of the cross by casting themselves upon the shore."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "The Souls Seek Guidance",
+      "summary": "The spirits on the shore ask Dante and Virgil for the path to the mountain."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "Virgil's Response",
+      "summary": "Virgil explains that they are also pilgrims and that the path ahead will be easier than the one they have already traveled."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Souls' Reaction to Dante",
+      "summary": "The spirits notice Dante and move toward him with great affection and joy."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Physical Embrace",
+      "summary": "One spirit embraces Dante with such intensity that he reciprocates the gesture."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "Recognition of Casella",
+      "summary": "Dante recognizes the soul as Casella, who greets him with eternal love."
+    },
+    {
+      "start_line": 91,
+      "end_line": 105,
+      "scene_name": "Dialogue with Casella",
+      "summary": "Casella explains that his current state is due to a divine decree preventing him from crossing the Acheronte for three months."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Sweetness of the Song",
+      "summary": "Casella begins to sing a verse of 'Amor che ne la mente mi ragiona' with profound sweetness."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "The Pilot's Interruption",
+      "summary": "The celestial pilot interrupts the music, urging the spirits to hurry toward the mountain."
+    },
+    {
+      "start_line": 124,
+      "end_line": 133,
+      "scene_name": "The Dispersal of the Souls",
+      "summary": "Like a flock of startled pigeons, the souls suddenly abandon their song and flee toward the coast."
+    }
+  ]
+}

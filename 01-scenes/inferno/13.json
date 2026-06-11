@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Second Circle and the Wood of Suicides",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 15,
+      "scene_name": "The Gloomy Woods",
+      "summary": "Dante and Virgil enter a dark, twisted forest inhabited by the Harpies."
+    },
+    {
+      "start_line": 16,
+      "end_line": 21,
+      "scene_name": "Virgil's Warning",
+      "summary": "Virgil informs Dante that they have entered the second circle of Hell."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Mysterious Voices",
+      "summary": "Dante is confused by disembodied cries and Virgil warns him not to touch the vegetation."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "The Broken Branch",
+      "summary": "Dante breaks a twig from a plum tree, which begins to bleed and speak in pain."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Splintering Tree",
+      "summary": "The broken branch leaks both words and blood, leaving Dante terrified."
+    },
+    {
+      "start_line": 46,
+      "end_line": 54,
+      "scene_name": "Virgil's Inquiry",
+      "summary": "Virgil tells the speaking branch to identify himself to redeem his reputation."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The Keeper of Secrets",
+      "summary": "The tree reveals he was once a man who held the secrets of Frederick II."
+    },
+    {
+      "start_line": 64,
+      "end_line": 72,
+      "scene_name": "The Sin of Betrayal",
+      "summary": "The speaker describes how his political intrigues and betrayal led to his downfall."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "A Vow of Loyalty",
+      "summary": "The tree swears he never broke faith with his lord, despite his current state."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Poet's Encouragement",
+      "summary": "Virgil urges Dante to ask the tree more questions to gain understanding."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Request for Knowledge",
+      "summary": "Dante asks the spirit to explain the nature of the souls trapped in the trees."
+    },
+    {
+      "start_line": 91,
+      "end_line": 108,
+      "scene_name": "The Fate of the Suicides",
+      "summary": "The tree explains how Minos sends fierce souls to become trees that are eaten by Harpies."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Sound of the Hunt",
+      "summary": "A sudden, loud commotion like a hunting party interrupts the silence."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "The Fleeing Souls",
+      "summary": "Two naked, wounded souls run frantically through the woods, fleeing death."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "The Attack of the Hounds",
+      "summary": "Black hounds emerge from the woods and tear the fleeing souls apart."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "The Wounded Bush",
+      "summary": "Virgil leads Dante to a broken bush that cries out in agony."
+    },
+    {
+      "start_line": 136,
+      "end_line": 151,
+      "scene_name": "The History of Florence",
+      "summary": "The wounded bush reveals his identity and laments the destruction of his Florentine home."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "canto_title": "The Chaos and Combat of the Malebranche",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Knightly Vision",
+      "summary": "Dante recalls seeing armies and fleets moving in the world of the living."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "Dante’s Observation",
+      "summary": "Dante describes the company of demons and his intent to observe the behavior of the sinners."
+    },
+    {
+      "start_line": 19,
+      "end_line": 30,
+      "scene_name": "Sinners Hiding Like Frogs",
+      "summary": "Dante uses similes of dolphins and frogs to describe how the sinners attempt to hide themselves in the pitch."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "Graffiacan’s Agitation",
+      "summary": "The arrival of Barbariccia causes Graffiacan to react violently, moving like an otter."
+    },
+    {
+      "start_line": 37,
+      "end_line": 39,
+      "scene_name": "Dante’s Meta-Commentary",
+      "summary": "Dante notes that he already knows the names of all the sinners because he observed their election."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Demand for Hooks",
+      "summary": "The demons demand to use hooks to skin the prisoners, and Dante asks Virgil to identify the victim."
+    },
+    {
+      "start_line": 46,
+      "end_line": 54,
+      "scene_name": "The Navarrese’s Origin",
+      "summary": "The prisoner explains his birth in Navarre and his history of fraudulent behavior."
+    },
+    {
+      "start_line": 55,
+      "end_line": 57,
+      "scene_name": "Cirïatto’s Snorting",
+      "summary": "The demon Cirïatto reacts with a pig-like snorting sound."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "Barbariccia’s Command",
+      "summary": "Barbariccia orders the other demons to stand back so he can attack the prisoner."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "Searching for Italians",
+      "summary": "Virgil asks the prisoner if he knows any Italians in the pitch, and the prisoner replies that he does."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The Chaos of the Hooks",
+      "summary": "The demons begin attacking the prisoners with hooks, causing a frantic scramble."
+    },
+    {
+      "start_line": 76,
+      "end_line": 80,
+      "scene_name": "Virgil’s Inquiry",
+      "summary": "Virgil asks the prisoner about the person responsible for his current misfortune."
+    },
+    {
+      "start_line": 81,
+      "end_line": 90,
+      "scene_name": "The Denunciation of Gomita",
+      "summary": "The prisoner identifies Friar Gomita of Gallura as a corrupt official."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "The Threatening Gaze",
+      "summary": "The prisoner points out another sinner who is grimacing at him."
+    },
+    {
+      "start_line": 94,
+      "end_line": 96,
+      "scene_name": "Addressing Farfarello",
+      "summary": "Barbariccia directs a command toward the demon Farfarello."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "The Prisoner’s Bargain",
+      "summary": "The prisoner offers to bring more sinners into the pit if the demons wait for a moment."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "Cagnazzo’s Rebuttal",
+      "summary": "The demon Cagnazzo criticizes the prisoner’s attempt to use malice for his own advantage."
+    },
+    {
+      "start_line": 112,
+      "end_line": 117,
+      "scene_name": "Alichin’s Challenge",
+      "summary": "The demon Alichin threatens to fly over the pitch and challenges the prisoner's importance."
+    },
+    {
+      "start_line": 118,
+      "end_line": 120,
+      "scene_name": "The Moment of Tension",
+      "summary": "All the demons turn their eyes toward one another in anticipation of a fight."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Sudden Leap",
+      "summary": "The Navarrese prisoner suddenly jumps, causing the group to break apart."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Struggle in the Pitch",
+      "summary": "The movement causes some demons to dive into the pitch and others to struggle upward."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "Calcabrina’s Entanglement",
+      "summary": "Calcabrina attempts to chase the others but becomes trapped with his companion."
+    },
+    {
+      "start_line": 139,
+      "end_line": 144,
+      "scene_name": "Trapped in the Boiling Bog",
+      "summary": "The demons fall into the center of the boiling pitch and find themselves unable to escape."
+    },
+    {
+      "start_line": 145,
+      "end_line": 151,
+      "scene_name": "The Retreat of the Demons",
+      "summary": "Barbariccia and his companions move away, leaving the victims stuck and partially cooked in the pitch."
+    }
+  ]
+}

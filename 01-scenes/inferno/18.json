@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Descent into the First Bolgia of Malebolge",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 18,
+      "scene_name": "The Topography of Malebolge",
+      "summary": "Dante describes the structure of the ditches and the rocky walls of the eighth circle of Hell."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "Arrival in the First Bolgia",
+      "summary": "The poets arrive in the first ditch, which is filled with sinners being beaten by tormentors."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Flow of Sinners",
+      "summary": "Dante observes the continuous, massive stream of souls moving across the bridge like a crowd during a jubilee."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Brutal Tormentors",
+      "summary": "Horned demons cruelly lash the sinners, who endure the blows without even expecting the next."
+    },
+    {
+      "start_line": 40,
+      "end_line": 51,
+      "scene_name": "Recognition of Caccianemico",
+      "summary": "Dante recognizes a specific Venetian sinner and confronts him about his identity."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "The Sinner's Confession",
+      "summary": "The sinner explains his identity and recounts his role in a scandalous historical affair."
+    },
+    {
+      "start_line": 64,
+      "end_line": 66,
+      "scene_name": "The Demon's Interruption",
+      "summary": "A demon strikes the sinner and silences him, telling him there are no women to be found here."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "Moving Along the Rim",
+      "summary": "Dante and Virgil catch up to their companions and climb up a ledge of the ditch."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "Virgil's Warning",
+      "summary": "Virgil instructs Dante to observe the other newly arrived sinners whose faces they have not yet seen."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "Watching the Bridge",
+      "summary": "The poets watch the traffic of souls crossing the bridge from the opposite side."
+    },
+    {
+      "start_line": 82,
+      "end_line": 99,
+      "scene_name": "The Tragedy of Jason",
+      "summary": "Virgil points out Jason, the leader of the Argonauts, and describes his betrayal of Medea and Isifile."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Foul Junction",
+      "summary": "The poets reach a crossroads characterized by a nauseating, stagnant atmosphere and a thick, foul odor."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Sinner in the Filth",
+      "summary": "Dante spots a man submerged in a pit of excrement."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "Recognition of Alessio Interminei",
+      "summary": "Dante recognizes the man as Alessio Interminei, a notorious flatterer from Lucca."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "The Flattery of the Sinner",
+      "summary": "The sinner admits that he was undone by his own addiction to smooth-talking and flattery."
+    },
+    {
+      "start_line": 127,
+      "end_line": 136,
+      "scene_name": "The Observation of Taïde",
+      "summary": "Virgil directs Dante's attention to a woman covered in filth, the prostitute Taïde, to complete their visual tour."
+    }
+  ]
+}

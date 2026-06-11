@@ -1,0 +1,89 @@
+{
+  "canto_title": "Farinata's Imperial Monologue and Historical Survey",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Movement of the Imperial Eagle",
+      "summary": "The speaker describes the historical migration of the imperial eagle across Europe from the time of Constantine to the present."
+    },
+    {
+      "start_line": 10,
+      "end_line": 27,
+      "scene_name": "The Imperial Persona and Spiritual Journey",
+      "summary": "Farinata adopts the persona of Caesar and Justinian to recount his transition from a belief in natural law to the guidance of the Church."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Significance of the Political Sign",
+      "summary": "A brief transition addressing the conflict surrounding the imperial emblem and the legitimacy of those who claim it."
+    },
+    {
+      "start_line": 34,
+      "end_line": 48,
+      "scene_name": "The Glory of the Roman Lineage",
+      "summary": "A historical survey tracing the early triumphs and fame of the Roman people and their leaders."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "The Expansion of Imperial Power",
+      "summary": "A focused look at the expansion of power into the East and the rise of great generals like Scipio and Pompey."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The Era of Julius Caesar",
+      "summary": "A section dedicated to the vast and unmatchable scale of Julius Caesar's conquests."
+    },
+    {
+      "start_line": 64,
+      "end_line": 72,
+      "scene_name": "The Global Reach of the Empire",
+      "summary": "Tracing the movement of imperial influence through Spain, Italy, and North Africa."
+    },
+    {
+      "start_line": 73,
+      "end_line": 81,
+      "scene_name": "The Tragedies of War and the Era of Peace",
+      "summary": "Connecting the deaths of figures like Cleopatra to the period of peace brought by the empire."
+    },
+    {
+      "start_line": 82,
+      "end_line": 90,
+      "scene_name": "The Third Caesar and Divine Justice",
+      "summary": "A theological reflection on how divine justice allows certain rulers to enact vengeance."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "Charlemagne and the Defense of the Church",
+      "summary": "Highlighting Charlemagne's historical role in protecting the Church from the Lombards."
+    },
+    {
+      "start_line": 97,
+      "end_line": 111,
+      "scene_name": "The Corruption of the Factions",
+      "summary": "A political critique of the Guelphs and Ghibellines for their misuse of sacred and imperial symbols."
+    },
+    {
+      "start_line": 112,
+      "end_line": 123,
+      "scene_name": "The Cosmic Balance of Merit",
+      "summary": "A philosophical meditation on how divine justice measures the merits of all souls in the universe."
+    },
+    {
+      "start_line": 124,
+      "end_line": 135,
+      "scene_name": "The Harmony of the Troubadours",
+      "summary": "Using musical metaphors to discuss the legacy and impact of the Provençal poetic tradition."
+    },
+    {
+      "start_line": 136,
+      "end_line": 142,
+      "scene_name": "A Tribute to the Humble Wanderer",
+      "summary": "A concluding tribute to a man who lived a life of poverty, integrity, and quiet dignity."
+    }
+  ]
+}

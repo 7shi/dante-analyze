@@ -1,0 +1,77 @@
+{
+  "canto_title": "The Confession of the Second Flame",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 15,
+      "scene_name": "The Sound of the Flame",
+      "summary": "A second flame produces a distorted, metallic sound that catches the travelers' attention."
+    },
+    {
+      "start_line": 16,
+      "end_line": 30,
+      "scene_name": "The Inquiry of the Soul",
+      "summary": "The flame speaks to Dante, asking for news regarding the peace or war in the Romagna region."
+    },
+    {
+      "start_line": 31,
+      "end_line": 48,
+      "scene_name": "Dante's Political Report",
+      "summary": "Prompted by Virgil, Dante describes the violent political instability and tyranny in the Romagna territory."
+    },
+    {
+      "start_line": 49,
+      "end_line": 57,
+      "scene_name": "The Geography of the Region",
+      "summary": "Dante continues with a description of the rivers and cities of the land, ending with a request for the flame to identify itself."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "The Flame's Vow of Truth",
+      "summary": "The flame declares that it will speak the truth without fear of infamy since no one returns from the abyss to judge it."
+    },
+    {
+      "start_line": 67,
+      "end_line": 78,
+      "scene_name": "The Nature of the Deceiver",
+      "summary": "The soul confesses to a past life of cunning and trickery, acting more like a fox than a lion."
+    },
+    {
+      "start_line": 79,
+      "end_line": 93,
+      "scene_name": "The History of Deceit",
+      "summary": "The soul recounts how, in his later years, he turned to repentance but remained a master of fraudulent schemes."
+    },
+    {
+      "start_line": 94,
+      "end_line": 105,
+      "scene_name": "The Pope's Counselor",
+      "summary": "The soul describes how he used his cunning to advise the Pope, wielding spiritual power like the keys of heaven."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Dangerous Advice",
+      "summary": "Realizing the danger of his words, the soul offers a final piece of advice that will lead to his downfall."
+    },
+    {
+      "start_line": 112,
+      "end_line": 123,
+      "scene_name": "The Cherub's Intervention",
+      "summary": "A dark cherub prevents Saint Francis from reaching the soul, citing the soul's unrepentant fraud."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "The Judgment of Minos",
+      "summary": "Minos, the judge of the underworld, wraps his tail around his body and marks the soul for his specific sin."
+    },
+    {
+      "start_line": 130,
+      "end_line": 136,
+      "scene_name": "The Departure of the Flame",
+      "summary": "The flame departs in agony, and Dante and Virgil continue their journey across the bridge."
+    }
+  ]
+}

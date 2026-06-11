@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Vision of the Celestial Lights and the Descent to Earth",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 21,
+      "scene_name": "Beatrice's Rebuke",
+      "summary": "Beatrice reprimands Dante for his lack of awareness of his heavenly surroundings and instructs him to turn his gaze toward the other spirits."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Vision of the White Lights",
+      "summary": "Dante turns back to see a multitude of brilliant, white, flower-like lights shining together."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "Beatrice's Promise of Answer",
+      "summary": "Beatrice acknowledges Dante's presence but defers her full explanation to a more appropriate moment."
+    },
+    {
+      "start_line": 37,
+      "end_line": 51,
+      "scene_name": "The History of the Monastery",
+      "summary": "Beatrice identifies herself and describes the former glory of the monastery and its holy inhabitants."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "Dante's Request",
+      "summary": "Dante expresses his growing faith inspired by their warmth and asks to see Beatrice clearly."
+    },
+    {
+      "start_line": 61,
+      "end_line": 69,
+      "scene_name": "Description of the Empyrean",
+      "summary": "Beatrice describes the ultimate celestial sphere where all desires are perfectly fulfilled."
+    },
+    {
+      "start_line": 70,
+      "end_line": 84,
+      "scene_name": "The Decay of Monastic Discipline",
+      "summary": "Beatrice laments the physical and spiritual decay of the monastery and the decline of monastic rigor."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Inevitability of Change",
+      "summary": "Beatrice reflects on how even the most promising beginnings can end in decline, using nature and scripture as examples."
+    },
+    {
+      "start_line": 97,
+      "end_line": 99,
+      "scene_name": "The Ascent of the Spirits",
+      "summary": "The group of spirits gathers together and ascends rapidly like a whirlwind."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "Dante's Rapid Ascent",
+      "summary": "Beatrice signals Dante to follow, and he is pulled upward with a speed that surpasses his own power."
+    },
+    {
+      "start_line": 106,
+      "end_line": 120,
+      "scene_name": "The Sign of Taurus",
+      "summary": "Dante recalls his profound emotional reaction to seeing the celestial sign of the Bull."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "Prayer to the Stars",
+      "summary": "Dante offers a devotional prayer to the stars to gain the strength needed for his journey."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "Beatrice's Command to Look Down",
+      "summary": "Beatrice tells Dante he is near salvation and commands him to look down at the world below."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The View of the Earth",
+      "summary": "Dante looks down through the spheres and views the Earth with a sense of disdain for its worldly appearance."
+    },
+    {
+      "start_line": 139,
+      "end_line": 150,
+      "scene_name": "The Motion of the Planets",
+      "summary": "Dante observes the celestial bodies, including the sun, moon, and planets, and understands their relative positions and speeds."
+    },
+    {
+      "start_line": 151,
+      "end_line": 154,
+      "scene_name": "The Earth as a Small Garden",
+      "summary": "Dante sees the entire Earth as a small, fertile garden stretching from mountains to the sea before turning back to Beatrice."
+    }
+  ]
+}

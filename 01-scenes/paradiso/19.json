@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Vision of the Celestial Image and the Prophecy of Nations",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Visual Encounter",
+      "summary": "Dante describes the beautiful, radiant Image that appears before him, capable of both sight and sound."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "The Image's Self-Introduction",
+      "summary": "The Image speaks, explaining that it is elevated to glory due to its justice and piety, despite a worldly reputation of infamy."
+    },
+    {
+      "start_line": 19,
+      "end_line": 21,
+      "scene_name": "The Unity of the Vision",
+      "summary": "Dante perceives the many individual lights of the Image as a single, unified warmth and sound."
+    },
+    {
+      "start_line": 22,
+      "end_line": 33,
+      "scene_name": "Dante's Plea for Understanding",
+      "summary": "Dante addresses the celestial flowers, asking them to satisfy his spiritual hunger and resolve his doubts."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Gesture of Praise",
+      "summary": "The Image moves like a falcon, spreading its wings in a gesture of divine praise."
+    },
+    {
+      "start_line": 40,
+      "end_line": 51,
+      "scene_name": "The Doctrine of the Fall",
+      "summary": "The Image explains how the fall of the first prideful creature limits the capacity of all lesser beings to grasp infinite goodness."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "The Limits of Human Intellect",
+      "summary": "The Image describes how human vision, like an eye in the sea, can see the seabed but cannot perceive its true depth."
+    },
+    {
+      "start_line": 64,
+      "end_line": 78,
+      "scene_name": "The Problem of the Unbaptized",
+      "summary": "The Image addresses the dilemma of virtuous pagans who die without Christ, explaining that true light requires divine grace."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Rebuke of Dante",
+      "summary": "The Image questions Dante's right to judge the far reaches of the world with such limited perspective."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Primacy of Divine Will",
+      "summary": "The Image condemns the coarse minds of humanity and explains that all good things flow from the first Divine Will."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "The Image's Graceful Motion",
+      "summary": "The Image settles itself with the maternal grace of a stork tending to its young."
+    },
+    {
+      "start_line": 97,
+      "end_line": 99,
+      "scene_name": "The Oracle of Judgment",
+      "summary": "The Image issues a cryptic warning that its melodies are as incomprehensible to mortals as eternal judgment."
+    },
+    {
+      "start_line": 100,
+      "end_line": 102,
+      "scene_name": "The Stabilization of the Spirit",
+      "summary": "The lights of the Holy Spirit settle into the sign that once made the Romans venerable."
+    },
+    {
+      "start_line": 103,
+      "end_line": 111,
+      "scene_name": "The Requirement of Faith",
+      "summary": "The Image declares that only those who believe in Christ enter this kingdom, and distinguishes the true Christian from the false."
+    },
+    {
+      "start_line": 112,
+      "end_line": 126,
+      "scene_name": "Prophecies of Western Europe",
+      "summary": "The Image predicts the political and moral decline of various Western powers, including Prague, France, and Spain."
+    },
+    {
+      "start_line": 127,
+      "end_line": 138,
+      "scene_name": "Prophecies of the Mediterranean and Italy",
+      "summary": "The vision foretells the corruption of Jerusalem, the greed of the islands, and the instability of the Italian territories."
+    },
+    {
+      "start_line": 139,
+      "end_line": 148,
+      "scene_name": "Prophecies of the North and East",
+      "summary": "The prophecy concludes with the fates of Portugal, Norway, and Russia, and offers blessings for Hungary and Navarre."
+    }
+  ]
+}

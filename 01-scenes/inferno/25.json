@@ -1,0 +1,131 @@
+{
+  "canto_title": "The Metamorphosis of the Seventh Weight",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Thief's Struggle",
+      "summary": "A thief attempts to ward off serpents with his hands, but they entwine themselves around his neck and arms."
+    },
+    {
+      "start_line": 10,
+      "end_line": 16,
+      "scene_name": "Dante's Lament and the Centaur",
+      "summary": "Dante laments the fate of Pistoia before witnessing a proud centaur flee in silence."
+    },
+    {
+      "start_line": 17,
+      "end_line": 24,
+      "scene_name": "The Dragon's Presence",
+      "summary": "A raging centaur calls out, and Dante observes a dragon with open wings resting on a beast's back."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Virgil's Explanation of Cacus",
+      "summary": "Virgil identifies the dragon as Cacus and explains his punishment for theft following the labor of Hercules."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Arrival of Three Spirits",
+      "summary": "As the dragon passes, three unidentified spirits approach Dante and Virgil."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Conversation of the Spirits",
+      "summary": "One spirit speaks to another, and Dante signals Virgil to remain alert during the exchange."
+    },
+    {
+      "start_line": 46,
+      "end_line": 60,
+      "scene_name": "The Initial Entwining",
+      "summary": "A six-legged serpent strikes one spirit, wrapping its body around the other's limbs and waist."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "The Melting of the Forms",
+      "summary": "The two spirits begin to melt together like hot wax, creating a murky, intermediate color."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Loss of Individuality",
+      "summary": "The other spirits witness the two figures merging into a single, indistinguishable face."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "The Grotesque Fusion",
+      "summary": "The limbs and torso of the spirits merge into a single, monstrous, and unnatural anatomy."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Attack of the Small Serpent",
+      "summary": "A small, pepper-colored serpent darts forward and pierces one of the merged figures."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "The Reaction of the Wound",
+      "summary": "The pierced figure reacts with a yawn, while smoke rises and clashes between the wound and the mouth."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "A Literary Comparison",
+      "summary": "Dante calls for silence and compares this transformation to the mythological transformations of Ovid."
+    },
+    {
+      "start_line": 103,
+      "end_line": 111,
+      "scene_name": "The Structural Reorganization",
+      "summary": "The fused creature begins to reshape its anatomy, with the skin of one becoming soft and the other hard."
+    },
+    {
+      "start_line": 112,
+      "end_line": 117,
+      "scene_name": "The Alteration of Limbs",
+      "summary": "The arms and legs of the creature lengthen and shorten in a disturbing, asymmetrical manner."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "The Changing Surface",
+      "summary": "Smoke covers the creature as its skin and hair change color and pattern, while the figures shift faces."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "The Swelling of the Face",
+      "summary": "The protruding part of the creature swells, causing its ears to migrate and its nose and lips to thicken."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "The Splitting of the Tongue",
+      "summary": "The creature's head retracts like a snail, and its single tongue splits into a forked one."
+    },
+    {
+      "start_line": 136,
+      "end_line": 141,
+      "scene_name": "The Departure of the Spirits",
+      "summary": "The transformed, proud spirit flees through the valley, while the other continues to speak."
+    },
+    {
+      "start_line": 142,
+      "end_line": 144,
+      "scene_name": "Dante's Commentary",
+      "summary": "Dante reflects on the sight of the seventh weight changing and asks for excuse for his difficult description."
+    },
+    {
+      "start_line": 145,
+      "end_line": 151,
+      "scene_name": "The Identification of the Survivors",
+      "summary": "Despite his confusion, Dante recognizes one of the original three spirits who has remained unchanged."
+    }
+  ]
+}

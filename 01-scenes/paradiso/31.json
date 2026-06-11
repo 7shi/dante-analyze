@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Vision of the Celestial Rose and the Guidance of Saint Bernard",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Celestial Rose and the Angelic Bees",
+      "summary": "Dante describes the heavenly host as a white rose where angels move like bees tending to flowers."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Splendor of Divine Light",
+      "summary": "The angels appear with flaming faces and golden wings, moved by a divine light that penetrates all things."
+    },
+    {
+      "start_line": 25,
+      "end_line": 27,
+      "scene_name": "The Nature of the Eternal Kingdom",
+      "summary": "Dante provides a brief summary of the joyful and unified nature of this eternal realm."
+    },
+    {
+      "start_line": 28,
+      "end_line": 42,
+      "scene_name": "Dante's Prayer to the Trinity",
+      "summary": "Overwhelmed by the light, Dante offers a prayer to the Trinity and reflects on his own astonishment."
+    },
+    {
+      "start_line": 43,
+      "end_line": 54,
+      "scene_name": "The Wandering Gaze",
+      "summary": "Like a pilgrim in a temple, Dante's eyes wander restlessly through the various levels of Paradise."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The Appearance of Saint Bernard",
+      "summary": "Dante searches for Beatrice but instead encounters Saint Bernard, who appears as a pious and joyful figure."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Location of Beatrice",
+      "summary": "Saint Bernard informs Dante that Beatrice has moved to a higher sphere to complete her mission."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "A Distant Glimpse of Beatrice",
+      "summary": "Dante looks upward and catches a brief, distant glimpse of Beatrice's crown reflecting eternal rays."
+    },
+    {
+      "start_line": 79,
+      "end_line": 90,
+      "scene_name": "Dante's Address to Beatrice",
+      "summary": "Dante expresses his gratitude to Beatrice for her role in his salvation and asks her to preserve his soul."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "Beatrice's Silent Response",
+      "summary": "Despite her distance, Beatrice smiles at Dante before returning to the eternal fountain."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "Bernard's Instruction",
+      "summary": "Saint Bernard instructs Dante to look toward the higher circles of heaven to find the Queen of Heaven."
+    },
+    {
+      "start_line": 103,
+      "end_line": 111,
+      "scene_name": "Dante's Internal Wonder",
+      "summary": "Dante compares his own state of spiritual hunger and wonder to a traveler in search of Christ."
+    },
+    {
+      "start_line": 112,
+      "end_line": 117,
+      "scene_name": "The Command to Look Higher",
+      "summary": "Saint Bernard tells Dante that he must look toward the most remote circles to see the Queen."
+    },
+    {
+      "start_line": 118,
+      "end_line": 129,
+      "scene_name": "The Shifting Light of the Heavens",
+      "summary": "Dante describes the visual movement of light across the celestial spheres, like the rising and setting of the sun."
+    },
+    {
+      "start_line": 130,
+      "end_line": 138,
+      "scene_name": "The Vision of the Queen's Joy",
+      "summary": "Dante witnesses a multitude of angels and a central, incomparable beauty whose joy is beyond description."
+    },
+    {
+      "start_line": 139,
+      "end_line": 142,
+      "scene_name": "Bernard's Shared Devotion",
+      "summary": "Seeing Dante's intense focus, Saint Bernard turns his own gaze toward the Queen with equal affection."
+    }
+  ]
+}

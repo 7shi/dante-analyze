@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Second Circle: The Storm of Lust",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Presence of Minos",
+      "summary": "Dante describes descending into the second circle and encountering the terrifying Minos, who presides over the entrance."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "The Process of Judgment",
+      "summary": "The text explains how souls confess their sins and how Minos uses his tail to assign them to their specific level of Hell."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "Minos's Warning",
+      "summary": "Minos speaks to Dante, warning him not to be deceived by the wide entrance, and Virgil defends Dante's right to proceed."
+    },
+    {
+      "start_line": 25,
+      "end_line": 36,
+      "scene_name": "The Infernal Tempest",
+      "summary": "Dante describes the sensory horror of the unrelenting wind and the loud lamentations of the damned souls."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "The Nature of the Sin",
+      "summary": "The poet explains that those punished here are the lustful, who allowed their passion to overcome their reason."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "The Drifting Souls",
+      "summary": "Dante compares the swirling spirits to a flock of birds and asks Virgil who these people are."
+    },
+    {
+      "start_line": 52,
+      "end_line": 69,
+      "scene_name": "The Catalogue of Lovers",
+      "summary": "Virgil identifies famous historical and mythological figures, such as Semiramis, Cleopatra, and Helen, who were driven by lust."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "A Request for Dialogue",
+      "summary": "Overwhelmed by pity, Dante asks to speak to two souls that seem particularly light in the wind, and Virgil tells him to wait."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Approach of the Souls",
+      "summary": "As the wind brings the souls closer, Dante calls out to them, and they approach him like doves returning to a nest."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "The Souls' Greeting",
+      "summary": "The souls address Dante with kindness, promising to converse with him while the wind permits."
+    },
+    {
+      "start_line": 97,
+      "end_line": 107,
+      "scene_name": "The Tale of Dido",
+      "summary": "The soul of Dido recounts how love led her to death and describes her tragic end."
+    },
+    {
+      "start_line": 108,
+      "end_line": 114,
+      "scene_name": "Dante's Grief",
+      "summary": "After hearing the souls' pain, Dante lowers his head in sorrow, reflecting on the sweetness of the desires that led them to misery."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "An Inquiry to Francesca",
+      "summary": "Dante turns to Francesca to ask how love could allow such doubt and passion to take hold."
+    },
+    {
+      "start_line": 127,
+      "end_line": 138,
+      "scene_name": "The Lancelot Legend",
+      "summary": "Francesca explains that their passion was ignited while reading the romance of Lancelot and Guinevere."
+    },
+    {
+      "start_line": 139,
+      "end_line": 142,
+      "scene_name": "Dante's Collapse",
+      "summary": "As the two souls weep, Dante is overcome by such intense pity that he falls unconscious like a dead body."
+    }
+  ]
+}

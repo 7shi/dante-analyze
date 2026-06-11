@@ -1,0 +1,77 @@
+{
+  "canto_title": "The Vision of the Distorted Souls and the Legend of Mantua",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 3,
+      "scene_name": "Metapoetic Prologue",
+      "summary": "Dante introduces the purpose of this canto, which serves to continue the story of the submerged souls."
+    },
+    {
+      "start_line": 4,
+      "end_line": 18,
+      "scene_name": "The Procession of the Distorted",
+      "summary": "Dante observes a crowd of souls walking through the valley with faces so twisted that they cannot see forward."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "Dante's Grief",
+      "summary": "Dante describes his own intense weeping at the sight of the distorted physical forms of the souls."
+    },
+    {
+      "start_line": 25,
+      "end_line": 36,
+      "scene_name": "Virgil's Rebuke",
+      "summary": "Virgil reprimands Dante for his lack of fortitude and points out the tragic fate of the Theban warriors."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "Examples of Transformation",
+      "summary": "Virgil cites the stories of those whose forms were altered by fate, including Tiresias and the serpents."
+    },
+    {
+      "start_line": 46,
+      "end_line": 60,
+      "scene_name": "The Legend of Manto",
+      "summary": "Virgil recounts the myth of the prophetess Manto, who settled in the area that would become Mantua."
+    },
+    {
+      "start_line": 61,
+      "end_line": 78,
+      "scene_name": "Geography of Lake Garda",
+      "summary": "The narrative describes the waters of Lake Garda and how the Mincio river flows from it."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "Formation of the Marshland",
+      "summary": "The text describes the creation of a swampy, uninhabited land through the flow of the river."
+    },
+    {
+      "start_line": 88,
+      "end_line": 99,
+      "scene_name": "The Foundation of Mantua",
+      "summary": "Virgil explains how human settlement led to the establishment of the city of Mantua upon that land."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks Virgil if he can identify any other notable or famous individuals among the passing souls."
+    },
+    {
+      "start_line": 106,
+      "end_line": 123,
+      "scene_name": "Virgil's Catalog of Souls",
+      "summary": "Virgil provides a list of famous figures, including Eurypilus, Michele Scotto, and various sorceresses."
+    },
+    {
+      "start_line": 124,
+      "end_line": 130,
+      "scene_name": "Closing Exhortation",
+      "summary": "Virgil concludes his speech by warning Dante to remember these lessons as they continue their journey."
+    }
+  ]
+}

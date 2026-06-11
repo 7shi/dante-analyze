@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Encounter with Sordello and the Lament for Italy",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Dice Simile",
+      "summary": "Dante uses a metaphor of a gambling game to describe the chaotic movement of the crowd."
+    },
+    {
+      "start_line": 10,
+      "end_line": 24,
+      "scene_name": "The Catalog of the Crowd",
+      "summary": "Dante identifies specific souls he encountered in the previous canto's crowd."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks if the prayers of these souls are effective."
+    },
+    {
+      "start_line": 34,
+      "end_line": 48,
+      "scene_name": "Virgil's Theological Answer",
+      "summary": "Virgil explains that while their prayers are not ignored, their capacity for judgment is limited by their passions."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "Dante's Urgency",
+      "summary": "Dante expresses a desire to move faster as the light fades."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "The Approaching Shadow",
+      "summary": "Virgil warns Dante of the approaching darkness and points out a lonely soul ahead."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "The Silent Lombard",
+      "summary": "The travelers encounter a soul from Lombardy who observes them with regal indifference."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Reunion of Virgil and Sordello",
+      "summary": "Virgil greets the soul, which reveals itself to be Sordello of Mantua, leading to an embrace."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Lament for Italy",
+      "summary": "Virgil begins a scathing critique of Italy as a rudderless ship and a lawless land."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Failure of Law",
+      "summary": "Virgil criticizes the lack of authority and regulation in the Italian territories."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "The Condemnation of Albert",
+      "summary": "Virgil denounces the German ruler for his greed and the resulting devastation of the empire."
+    },
+    {
+      "start_line": 106,
+      "end_line": 117,
+      "scene_name": "The Chaos of Cities",
+      "summary": "Virgil points to the factional violence in Florence and the loneliness of Rome."
+    },
+    {
+      "start_line": 118,
+      "end_line": 126,
+      "scene_name": "An Appeal to Divine Justice",
+      "summary": "Virgil invokes Christ to lament the division and tyranny plaguing the Italian cities."
+    },
+    {
+      "start_line": 127,
+      "end_line": 138,
+      "scene_name": "The Unrest of Florence",
+      "summary": "Virgil describes the volatile and impulsive nature of the Florentine people."
+    },
+    {
+      "start_line": 139,
+      "end_line": 151,
+      "scene_name": "The Instability of Custom",
+      "summary": "Virgil compares the frequent changes in Florentine law to the instability of a sick person."
+    }
+  ]
+}

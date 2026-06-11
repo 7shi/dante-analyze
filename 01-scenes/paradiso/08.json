@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Descent of the Celestial Light and the Mystery of Providence",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Cosmological Prologue",
+      "summary": "Dante introduces the cosmic setting using mythological references to Cypris, Dione, and Cupid to establish the celestial order."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Vision of Divine Light",
+      "summary": "Dante describes the sight of luminous lights moving within Beatrice, appearing like flickering flames or voices."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Descent of the Spirits",
+      "summary": "A cloud of celestial lights descends toward the poets, accompanied by a chorus of 'Osanna' praises."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "The Approach of the Spirit",
+      "summary": "One of the lights draws near and addresses the poets, expressing its joy in serving their will."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Encounter with Beatrice",
+      "summary": "Dante looks toward Beatrice and asks a question, which increases her joy through his interaction with the Spirit."
+    },
+    {
+      "start_line": 49,
+      "end_line": 57,
+      "scene_name": "The Spirit's Earthly Connection",
+      "summary": "The celestial being speaks of its brief time on Earth and how its love for Dante would have been even greater had it stayed longer."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "Prophecy of the Northern and Central Lands",
+      "summary": "The Spirit describes the landmarks and crowns of the lands along the Rhone, the Adriatic, and the Danube."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Prophecy of Sicily",
+      "summary": "The Spirit speaks of the beauty of Sicily and the political unrest in Palermo regarding the local rulers."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Warning for Catalonia",
+      "summary": "The Spirit warns that the greed of Catalonia could lead to the ruin of its own resources if not properly managed."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "Dante's Theological Doubt",
+      "summary": "Dante expresses his joy at the Spirit's words but confesses his confusion as to how something so sweet can seem bitter."
+    },
+    {
+      "start_line": 94,
+      "end_line": 112,
+      "scene_name": "The Lesson on Divine Providence",
+      "summary": "The Spirit explains how Divine Providence directs all things, like an arrow aimed at a target, to ensure the perfection of the universe."
+    },
+    {
+      "start_line": 113,
+      "end_line": 120,
+      "scene_name": "The Socratic Interlude on Nature",
+      "summary": "A brief exchange occurs where Dante and the Spirit discuss whether human life would be worse without the necessity of diversity."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Diversity of Human Destinies",
+      "summary": "The Spirit explains that while nature provides a single law, it creates diverse outcomes, such as the different characters of Solon and Xerxes."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "Providence Overriding Nature",
+      "summary": "The Spirit provides examples of how divine intervention alters the natural course of lineage and character."
+    },
+    {
+      "start_line": 136,
+      "end_line": 148,
+      "scene_name": "The Final Warning",
+      "summary": "The Spirit concludes with a warning that when humans deviate from the fundamental laws of nature and religion, they lose their way."
+    }
+  ]
+}

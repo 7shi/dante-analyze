@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Encounter with Piccarda Donati and the Harmony of Divine Will",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Vision's Impact",
+      "summary": "Dante describes the overwhelming sensation of the light and his initial confusion."
+    },
+    {
+      "start_line": 10,
+      "end_line": 16,
+      "scene_name": "The Visual Metaphor",
+      "summary": "Dante observes the faces of the spirits appearing like reflections in glass or water."
+    },
+    {
+      "start_line": 17,
+      "end_line": 24,
+      "scene_name": "Encounter with the Guide",
+      "summary": "Dante notices the spirits are real and sees Beatrice smiling at him."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Beatrice's Reassurance",
+      "summary": "Beatrice instructs Dante not to be surprised and tells him to trust his eyes."
+    },
+    {
+      "start_line": 34,
+      "end_line": 41,
+      "scene_name": "Dante's Greeting",
+      "summary": "Dante addresses the spirits, asking for their names and their current state."
+    },
+    {
+      "start_line": 42,
+      "end_line": 49,
+      "scene_name": "Piccarda's Identity",
+      "summary": "Piccarda introduces herself as a former nun."
+    },
+    {
+      "start_line": 50,
+      "end_line": 57,
+      "scene_name": "Piccarda's Status",
+      "summary": "Piccarda explains her position in the lowest sphere of Heaven due to unfulfilled vows."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks if the souls in this sphere desire a more exalted place in Heaven."
+    },
+    {
+      "start_line": 67,
+      "end_line": 78,
+      "scene_name": "The Constraint of Charity",
+      "summary": "Piccarda explains that their desires are limited by their love for God's will."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Harmony of Wills",
+      "summary": "Piccarda describes how the souls' wills are perfectly aligned with the divine will."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "Dante's Epiphany",
+      "summary": "Dante reflects on the profound clarity of the truth he has just learned."
+    },
+    {
+      "start_line": 97,
+      "end_line": 108,
+      "scene_name": "The Tale of the Nun",
+      "summary": "Piccarda tells the story of a woman who entered a convent to follow a religious life."
+    },
+    {
+      "start_line": 109,
+      "end_line": 120,
+      "scene_name": "The Tale of the Sister",
+      "summary": "Piccarda describes a second woman whose religious veil was forcibly removed."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "The Fading Vision",
+      "summary": "The spirits begin to sing the 'Ave Maria,' causing the vision to fade like sinking objects."
+    },
+    {
+      "start_line": 124,
+      "end_line": 130,
+      "scene_name": "The Blinding Glory",
+      "summary": "Dante attempts to look back at Beatrice but finds her light too intense to bear."
+    }
+  ]
+}

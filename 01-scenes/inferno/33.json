@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Tale of Count Ugolino and the Frozen Souls",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Sinner’s Pause",
+      "summary": "Ugolino ceases his gruesome feeding and prepares to speak of his grief."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "The Introduction",
+      "summary": "Ugolini identifies himself and his companion, Archbishop Ruggieri, to Dante."
+    },
+    {
+      "start_line": 16,
+      "end_line": 27,
+      "scene_name": "The Imprisonment",
+      "summary": "Ugolino begins his narrative, describing how he was trapped and the onset of hunger."
+    },
+    {
+      "start_line": 28,
+      "end_line": 36,
+      "scene_name": "The Prison Landscape",
+      "summary": "Ugolino describes the tower and the Pisan lords watching over the prisoners."
+    },
+    {
+      "start_line": 37,
+      "end_line": 54,
+      "scene_name": "The Morning of Hunger",
+      "summary": "The tragedy unfolds as Ugolino’s children wake up hungry and he remains stoically silent."
+    },
+    {
+      "start_line": 55,
+      "end_line": 66,
+      "scene_name": "The Terrible Choice",
+      "summary": "A sudden light reveals the children's horrific suggestion that Ugolino eat them to survive."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Death of the Children",
+      "summary": "The narrative recounts the slow, agonizing starvation and deaths of Ugolino's sons."
+    },
+    {
+      "start_line": 76,
+      "end_line": 78,
+      "scene_name": "Resumption of the Feast",
+      "summary": "The poem cuts back to the present, showing Ugolino returning to gnawing on the skull."
+    },
+    {
+      "start_line": 79,
+      "end_line": 90,
+      "scene_name": "The Curse on Pisa",
+      "summary": "Ugolino directs a vitriolic curse against the city of Pisa and names other victims."
+    },
+    {
+      "start_line": 91,
+      "end_line": 108,
+      "scene_name": "Entering Cocytus",
+      "summary": "Dante and Virgil move into the frozen lake, where Dante observes the rain of tears."
+    },
+    {
+      "start_line": 109,
+      "end_line": 117,
+      "scene_name": "The Cry for Unmasking",
+      "summary": "A frozen soul in the ice begs Dante to remove the ice from his face."
+    },
+    {
+      "start_line": 118,
+      "end_line": 126,
+      "scene_name": "The Identity of Alberigo",
+      "summary": "The soul identifies himself as Fra Alberigo and explains the nature of his sin."
+    },
+    {
+      "start_line": 127,
+      "end_line": 138,
+      "scene_name": "The Mechanics of the Tolomea",
+      "summary": "Alberigo explains how the souls of the treacherous fall into the pit while their bodies remain above."
+    },
+    {
+      "start_line": 139,
+      "end_line": 150,
+      "scene_name": "The Dispute with Alberigo",
+      "summary": "Dante expresses doubt regarding the soul's claims, leading to a technical explanation of the Malebranche."
+    },
+    {
+      "start_line": 151,
+      "end_line": 157,
+      "scene_name": "The Curse on Genoa",
+      "summary": "Dante concludes the canto with a sharp condemnation of the people of Genoa."
+    }
+  ]
+}

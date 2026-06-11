@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Entrance into the Fire and the Ascent to the Earthly Paradise",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Solar Metaphor",
+      "summary": "Dante uses a metaphor of the setting sun and flowing rivers to describe the appearance of the Angel of God."
+    },
+    {
+      "start_line": 7,
+      "end_line": 13,
+      "scene_name": "The Angel's Command",
+      "summary": "An Angel stands outside the flames, singing and instructing the holy souls to enter the fire."
+    },
+    {
+      "start_line": 14,
+      "end_line": 18,
+      "scene_name": "Dante's Terror",
+      "summary": "Upon hearing the command, Dante is struck by intense fear, imagining human bodies being consumed by fire."
+    },
+    {
+      "start_line": 19,
+      "end_line": 32,
+      "scene_name": "Virgil's Reassurance",
+      "summary": "Virgil comforts Dante, explaining that the fire causes no harm and encouraging him to enter without fear."
+    },
+    {
+      "start_line": 33,
+      "end_line": 36,
+      "scene_name": "The Wall of Separation",
+      "summary": "Dante remains frozen by his conscience until Virgil reminds him that the fire stands between him and Beatrice."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "Dante's Conversion",
+      "summary": "Using the metaphor of Pyramus and Thisbe, Dante describes how his hard heart finally yields to Virgil's words."
+    },
+    {
+      "start_line": 43,
+      "end_line": 48,
+      "scene_name": "Entering the Fire",
+      "summary": "Virgil is surprised by Dante's sudden change, and the group enters the flames with Stazio following behind."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "The Intensity of the Flame",
+      "summary": "Dante describes the overwhelming heat of the fire and finds comfort in Virgil's mentions of Beatrice."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The Heavenly Voice",
+      "summary": "A divine voice calls to the pilgrims from within a light, urging them to continue their ascent before night falls."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Upward Climb",
+      "summary": "The group climbs a steep path through the rock, following the fading light of the sun."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The Evening Rest",
+      "summary": "As night approaches and the horizon darkens, the travelers stop to rest on the mountain slope."
+    },
+    {
+      "start_line": 76,
+      "end_line": 87,
+      "scene_name": "The Simile of the Shepherds",
+      "summary": "Dante compares their state to sheep and shepherds resting quietly under the watch of a master."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "The Arrival of Sleep",
+      "summary": "Despite the darkness, Dante observes the bright stars before being overcome by a heavy sleep."
+    },
+    {
+      "start_line": 94,
+      "end_line": 108,
+      "scene_name": "The Dream of Lia",
+      "summary": "Dante dreams of a beautiful woman named Lia wandering a meadow and weaving a garland of flowers."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Dawn of Awakening",
+      "summary": "As the morning light breaks and the darkness retreats, Dante wakes to find his companions already rising."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "Virgil's Comforting Words",
+      "summary": "Virgil speaks tenderly to Dante, promising that the day will bring satisfaction to his hunger and fatigue."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "The Impulse to Ascend",
+      "summary": "Dante feels an overwhelming, instinctive urge to climb higher toward the summit."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "The Limit of Virgil's Guidance",
+      "summary": "Upon reaching the top of the stairs, Virgil informs Dante that he has reached the limit of his ability to lead."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Beauty of the Paradise",
+      "summary": "Virgil points out the sun, flowers, and greenery, inviting Dante to explore the Earthly Paradise freely."
+    },
+    {
+      "start_line": 139,
+      "end_line": 142,
+      "scene_name": "The Granting of Free Will",
+      "summary": "Virgil formally relinquishes control, declaring that Dante's own judgment and free will are now supreme."
+    }
+  ]
+}

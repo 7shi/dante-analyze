@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Divine Intervention and Dante's Rebirth of Will",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Prologue and Invocation",
+      "summary": "As day fades, Dante invokes the Muses and his high intellect to assist him in recounting his journey."
+    },
+    {
+      "start_line": 10,
+      "end_line": 27,
+      "scene_name": "Virgil's Illustrious Lineage",
+      "summary": "Dante acknowledges Virgil's noble ancestry and the historical significance of his descent from Aeneas."
+    },
+    {
+      "start_line": 28,
+      "end_line": 36,
+      "scene_name": "Dante's Self-Doubt",
+      "summary": "Dante expresses his unworthiness for such a journey, feeling himself unfit to follow in the footsteps of great heroes."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "The Paralysis of Will",
+      "summary": "The narrator describes how his own indecision and loss of purpose stalled his spiritual progress."
+    },
+    {
+      "start_line": 43,
+      "end_line": 51,
+      "scene_name": "Virgil's Diagnosis",
+      "summary": "Virgil responds to Dante's hesitation by identifying his fear as a form of spiritual cowardice."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "The Setting of the Encounter",
+      "summary": "Virgil describes being among the uncommitted souls when a beautiful woman appeared to him."
+    },
+    {
+      "start_line": 58,
+      "end_line": 74,
+      "scene_name": "Beatrice's Message",
+      "summary": "Beatrice speaks with an angelic voice, commanding Virgil to guide Dante to safety."
+    },
+    {
+      "start_line": 75,
+      "end_line": 84,
+      "scene_name": "Dante's Inquiry",
+      "summary": "After a pause, Dante asks Beatrice why she does not descend herself to assist him."
+    },
+    {
+      "start_line": 85,
+      "end_line": 99,
+      "scene_name": "Beatrice's Immunity",
+      "summary": "Beatrice explains that she is not subject to earthly fears or the pains of the Inferno because of her heavenly state."
+    },
+    {
+      "start_line": 100,
+      "end_line": 114,
+      "scene_name": "Lucia's Intervention",
+      "summary": "Virgil recounts how Lucia prompted Beatrice to act, which compelled Beatrice to descend to the Limbo."
+    },
+    {
+      "start_line": 115,
+      "end_line": 117,
+      "scene_name": "The Emotional Impact",
+      "summary": "Upon hearing this, Virgil is moved to tears, which hastens the movement of the journey."
+    },
+    {
+      "start_line": 118,
+      "end_line": 126,
+      "scene_name": "Virgil's Final Challenge",
+      "summary": "Virgil confronts Dante, questioning why he remains so hesitant despite the divine support surrounding him."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Metaphor of the Flowers",
+      "summary": "Dante uses a metaphor of flowers opening to the sun to describe his sudden restoration of courage."
+    },
+    {
+      "start_line": 133,
+      "end_line": 140,
+      "scene_name": "Dante's Renewed Commitment",
+      "summary": "Dante thanks the divine messengers and accepts Virgil as his leader and teacher."
+    },
+    {
+      "start_line": 141,
+      "end_line": 142,
+      "scene_name": "The Resumed Journey",
+      "summary": "With his will restored, Dante begins his ascent into the upward path of the forest."
+    }
+  ]
+}

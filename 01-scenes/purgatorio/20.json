@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Prophecy of Ugo Ciappetta and the Catalog of Avarice",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Navigating the Narrow Ledge",
+      "summary": "Dante describes the difficulty of navigating the rocky, narrow path."
+    },
+    {
+      "start_line": 10,
+      "end_line": 12,
+      "scene_name": "The Curse of the She-Wolf",
+      "summary": "An outburst of loathing toward the hungry beast."
+    },
+    {
+      "start_line": 13,
+      "end_line": 15,
+      "scene_name": "Dante’s Cosmic Prayer",
+      "summary": "Dante wonders when the current worldly order will reach its end."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "The Women’s Lament",
+      "summary": "Dante hears the sounds of women weeping for a holy place."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Praising the Virtuous",
+      "summary": "The voices shift to honoring the poverty of Fabrizio and the generosity of Niccolò."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "Dante’s Inquiry",
+      "summary": "Dante addresses the voice, asking for its identity."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Root of Corruption",
+      "summary": "The shade identifies himself as the source of decay in France."
+    },
+    {
+      "start_line": 49,
+      "end_line": 60,
+      "scene_name": "The Rise of Ugo Ciappetta",
+      "summary": "The shade recounts his humble origins and his ascent to power."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "Conquest through Deceit",
+      "summary": "The shade describes the fraudulent expansion of French territories."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Fate of Leaders",
+      "summary": "The shade mentions the deaths of Curradino and the Pope."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "The Prophecy of the New King",
+      "summary": "A vision of a future king’s impact on the city of Florence."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Price of Avarice",
+      "summary": "A description of a father selling his daughter for profit."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "Visions of Future Corruption",
+      "summary": "Predictions of rising greed within the Church and the Temple."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "The Timing of Vengeance",
+      "summary": "Dante asks about divine justice and receives a cryptic response regarding the timing of answers."
+    },
+    {
+      "start_line": 103,
+      "end_line": 117,
+      "scene_name": "A Catalog of Greedy Souls",
+      "summary": "A rapid-fire list of mythological and historical figures consumed by gold."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "Dante’s Solitary Presence",
+      "summary": "Dante realizes he is the only living listener to this monologue."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "The Trembling Mountain",
+      "summary": "An earthquake strikes, filling Dante with intense terror."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Celestial Shout",
+      "summary": "A sudden burst of angelic praise interrupts the chaos."
+    },
+    {
+      "start_line": 139,
+      "end_line": 144,
+      "scene_name": "Resuming the Path",
+      "summary": "The trembling stops, and the travelers continue their journey through the weeping shadows."
+    },
+    {
+      "start_line": 145,
+      "end_line": 151,
+      "scene_name": "Dante’s Bewilderment",
+      "summary": "Dante reflects on his intense desire for knowledge and his confused state of mind."
+    }
+  ]
+}

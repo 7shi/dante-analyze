@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Interruption of the Souls and the Three Testimonies",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Sudden Cry",
+      "summary": "A voice cries out in alarm, noting the strange way the light is behaving and Dante's strange movement."
+    },
+    {
+      "start_line": 7,
+      "end_line": 9,
+      "scene_name": "Dante's Distraction",
+      "summary": "Dante turns to see the source of the voice, marvelling at the broken light and the sight of the soul."
+    },
+    {
+      "start_line": 10,
+      "end_line": 18,
+      "scene_name": "Virgil's Admonishment",
+      "summary": "Virgil rebukes Dante for his wandering thoughts, advising him to remain steady like a firm tower."
+    },
+    {
+      "start_line": 19,
+      "end_line": 21,
+      "scene_name": "Dante's Compliance",
+      "summary": "Dante humbly responds that he is following, his clothing stained by a color that makes him look unworthy."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "The Approaching Procession",
+      "summary": "A group of souls approaches from across the slope, chanting the 'Miserere'."
+    },
+    {
+      "start_line": 28,
+      "end_line": 30,
+      "scene_name": "The Messengers Arrive",
+      "summary": "Two souls run forward to ask Dante to provide news of their condition to the living."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "Virgil's Verification",
+      "summary": "Virgil instructs the messengers that they may tell others that Dante is a man of true flesh."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "The Swarming Souls",
+      "summary": "The souls pass by with the speed and density of thick clouds or a driverless crowd."
+    },
+    {
+      "start_line": 43,
+      "end_line": 45,
+      "scene_name": "The Poet's Warning",
+      "summary": "Virgil warns Dante that the crowd is large and pressing, and tells him to keep moving while listening."
+    },
+    {
+      "start_line": 46,
+      "end_line": 57,
+      "scene_name": "The Collective Plea",
+      "summary": "The crowd cries out, asking Dante to remember them and bring news of the living to those who died in sin."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "Dante's Vow",
+      "summary": "Dante promises to do what he can for these noble spirits as he travels through the worlds."
+    },
+    {
+      "start_line": 64,
+      "end_line": 72,
+      "scene_name": "The First Soul's Request",
+      "summary": "A soul asks Dante to pray for him in Fano, where he died due to a political vendetta."
+    },
+    {
+      "start_line": 73,
+      "end_line": 84,
+      "scene_name": "The Death in the Marsh",
+      "summary": "The first soul recounts how he was driven into a swamp and died as his blood pooled in the earth."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Second Soul's Appearance",
+      "summary": "A second soul, the Bonconte, asks for Dante's pity regarding his abandoned memory."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks how the soul met such a tragic end away from the battle of Campaldino."
+    },
+    {
+      "start_line": 94,
+      "end_line": 108,
+      "scene_name": "The Battle of Angels",
+      "summary": "The soul describes being wounded by a blade and the spiritual struggle between an angel and a demon over his soul."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Formation of Mist",
+      "summary": "The soul explains how the heavy vapors of the earth rose to form a thick, suffocating mist."
+    },
+    {
+      "start_line": 115,
+      "end_line": 129,
+      "scene_name": "The River's Embrace",
+      "summary": "The soul recounts how the rain and floodwaters carried his body into the Arno river, which buried him."
+    },
+    {
+      "start_line": 130,
+      "end_line": 136,
+      "scene_name": "The Plea of La Pia",
+      "summary": "A third soul, La Pia, asks to be remembered and recounts how she died in the Maremma."
+    }
+  ]
+}

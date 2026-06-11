@@ -1,0 +1,83 @@
+{
+  "canto_title": "The Praise of Saint Dominic and the Gathering of the Saints",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Rotation of the Celestial Gear",
+      "summary": "The divine mechanism begins its rotation, accompanied by a sacred song that surpasses the beauty of the Muses."
+    },
+    {
+      "start_line": 10,
+      "end_line": 21,
+      "scene_name": "The Intertwining Garlands",
+      "summary": "Two celestial garlands of roses rotate around the center, much like parallel clouds or the aftermath of a storm."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Voice Emerges",
+      "summary": "As the celestial light begins to dim, a single voice moves from the heart of one of the lights, drawing Dante's attention."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Theology of the Two Guides",
+      "summary": "St. Thomas Aquinas begins speaking, explaining that his love for the other guide (Bonaventure) necessitates speaking of him."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "The Allegory of the Church's Defense",
+      "summary": "St. Thomas describes the slow but steady movement of Christ's army and the arrival of two champions to aid the Church."
+    },
+    {
+      "start_line": 46,
+      "end_line": 60,
+      "scene_name": "The Birth of Saint Dominic",
+      "summary": "The narrative shifts to the birth of Saint Dominic in Calaroga, marked by divine destiny and early virtue."
+    },
+    {
+      "start_line": 61,
+      "end_line": 78,
+      "scene_name": "The Vision and Signs of Sanctity",
+      "summary": "Following his parents' marriage, a divine vision reveals the future importance of the child, who shows signs of holiness from infancy."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Rapid Growth of the Doctor",
+      "summary": "The text celebrates the holy parents and the saint's swift ascent to becoming a great doctor of the faith."
+    },
+    {
+      "start_line": 88,
+      "end_line": 105,
+      "scene_name": "The Missionary Zeal of Dominic",
+      "summary": "Dominic is praised for his apostolic mission, using the truth to strike down heresy and nourish the Catholic Church."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Vacancy in the Second Circle",
+      "summary": "The focus shifts to the second celestial ring, which appears neglected and empty at its center."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "The Vastness of the Second Ring",
+      "summary": "The second circle is described as so vast and sprawling that its true nature and the difficulty of reading its history are profound."
+    },
+    {
+      "start_line": 127,
+      "end_line": 141,
+      "scene_name": "The Assembly of the Saints",
+      "summary": "St. Bonaventure introduces himself and lists the company of holy scholars and doctors who accompany him."
+    },
+    {
+      "start_line": 142,
+      "end_line": 145,
+      "scene_name": "The Unified Praise",
+      "summary": "Inspired by the excellence of St. Thomas, Bonaventure's group concludes their shared movement in harmony."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "canto_title": "The Parade of Mutilated Schismatics",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Inadequacy of Language",
+      "summary": "Dante introduces the impossibility of fully describing the horrific wounds he has witnessed."
+    },
+    {
+      "start_line": 7,
+      "end_line": 21,
+      "scene_name": "Historical Precedents of Violence",
+      "summary": "Dante compares the current carnage to the historical bloodshed in Puglia and other Italian battles."
+    },
+    {
+      "start_line": 22,
+      "end_line": 33,
+      "scene_name": "The Vision of Muhammad",
+      "summary": "Dante describes the gruesome sight of Muhammad, whose body is split open from chin to groin."
+    },
+    {
+      "start_line": 34,
+      "end_line": 45,
+      "scene_name": "The Proclamation of Schism",
+      "summary": "Muhammad explains how he and his followers are eternally being cut by a demon for sowing discord."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "Virgil's Explanation",
+      "summary": "Virgil clarifies that he brought Dante into Hell to provide a complete experience of the suffering."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "The Prophecy to the Dolciniani",
+      "summary": "Muhammad delivers a specific message regarding the fate of Fra Dolcino's followers."
+    },
+    {
+      "start_line": 64,
+      "end_line": 75,
+      "scene_name": "The Second Mutilated Soul",
+      "summary": "A soul with a pierced throat and no nose identifies himself and addresses Dante personally."
+    },
+    {
+      "start_line": 76,
+      "end_line": 90,
+      "scene_name": "The Maritime Prophecy",
+      "summary": "The mutilated soul delivers an oracle concerning the fate of certain Italian lords and a betrayal at sea."
+    },
+    {
+      "start_line": 91,
+      "end_line": 99,
+      "scene_name": "The Identification of Curio",
+      "summary": "Dante asks for clarification, and a companion soul identifies the mutilated figure as Curio."
+    },
+    {
+      "start_line": 100,
+      "end_line": 111,
+      "scene_name": "The Encounter with the Severed Hands",
+      "summary": "A soul with both hands missing appears and quotes a bitter remark about the destruction of a lineage."
+    },
+    {
+      "start_line": 112,
+      "end_line": 126,
+      "scene_name": "The Human Lantern",
+      "summary": "Dante witnesses a headless bust that carries its own severed head by the hair to use as a light."
+    },
+    {
+      "start_line": 127,
+      "end_line": 142,
+      "scene_name": "The Confession of Bertram",
+      "summary": "The headless figure identifies himself as Bertram and explains his punishment for sowing discord between father and son."
+    }
+  ]
+}

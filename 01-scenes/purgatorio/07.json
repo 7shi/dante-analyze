@@ -1,0 +1,113 @@
+{
+  "canto_title": "The Encounter with Sordello and the Vision of the Limbo Valley",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Virgil's Identification",
+      "summary": "After a polite greeting, Virgil introduces himself and explains that he lost his place in heaven due to his lack of faith."
+    },
+    {
+      "start_line": 10,
+      "end_line": 21,
+      "scene_name": "Sordello's Inquiry",
+      "summary": "Surprised by the arrival, Sordello honors Virgil's poetic legacy and asks if he comes from Hell and from which circle."
+    },
+    {
+      "start_line": 22,
+      "end_line": 39,
+      "scene_name": "Virgil's Description of Limbo",
+      "summary": "Virgil describes his existence in the first circle among the unbaptized and the virtuous pagans, and asks for help reaching Purgatory."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Difficulty of the Ascent",
+      "summary": "Virgil explains that while he can move freely, the approaching darkness makes climbing difficult, and suggests moving to a different area."
+    },
+    {
+      "start_line": 49,
+      "end_line": 60,
+      "scene_name": "Sordello's Warning on Night Travel",
+      "summary": "Sordello explains that the darkness of night would physically prevent them from climbing the slope."
+    },
+    {
+      "start_line": 61,
+      "end_line": 63,
+      "scene_name": "Agreement to Proceed",
+      "summary": "Moved by the explanation, Virgil agrees to follow Sordello to the suggested place of rest."
+    },
+    {
+      "start_line": 64,
+      "end_line": 78,
+      "scene_name": "The Splendor of the Valley",
+      "summary": "The travelers descend into a valley filled with a breathtaking and overwhelming array of colors and lights."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Singing Souls",
+      "summary": "The travelers witness a group of souls in the valley singing the 'Salve Regina' amidst flowers."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Lament of Emperor Rudolf",
+      "summary": "Virgil begins to identify the figures in the valley, starting with Emperor Rudolf, who failed to heal Italy."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "The Story of Ottacchero",
+      "summary": "Virgil identifies Ottacchero, describing his lineage and the contrast between him and his son."
+    },
+    {
+      "start_line": 103,
+      "end_line": 106,
+      "scene_name": "The Death of the Young Man",
+      "summary": "Virgil points out a young man who died while fleeing, noting his physical distress."
+    },
+    {
+      "start_line": 107,
+      "end_line": 111,
+      "scene_name": "The French Ancestors",
+      "summary": "Virgil identifies two figures who suffered because of the vices of the French monarchy."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "The Virtuous Kings",
+      "summary": "Virgil describes a pair of singing kings and the potential greatness of the young king who followed them."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "A Reflection on Virtue",
+      "summary": "Virgil offers a brief, somber reflection on how rarely human probity rises above the clouds."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "The Mention of Pier",
+      "summary": "Virgil identifies Pier, who sings alongside another figure, bringing grief to certain regions."
+    },
+    {
+      "start_line": 127,
+      "end_line": 129,
+      "scene_name": "The Legacy of Constance",
+      "summary": "Virgil notes the diminished status of a lineage compared to the great women of the past."
+    },
+    {
+      "start_line": 130,
+      "end_line": 132,
+      "scene_name": "Henry of England",
+      "summary": "Virgil identifies Henry of England, a king characterized by a simple life."
+    },
+    {
+      "start_line": 133,
+      "end_line": 136,
+      "scene_name": "The Sorrow of Guillaume",
+      "summary": "The vision ends with the identification of Marquis Guillaume, whose wars cause great suffering."
+    }
+  ]
+}

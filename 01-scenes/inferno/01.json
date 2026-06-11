@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Dark Wood and the Encounter with Virgil",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Lost in the Dark Wood",
+      "summary": "Dante describes his state of spiritual confusion and how he lost the straight path in a dark forest."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "The Sight of the Sunlit Hill",
+      "summary": "Dante reaches the foot of a hill and sees its summit illuminated by the rays of the sun."
+    },
+    {
+      "start_line": 19,
+      "end_line": 21,
+      "scene_name": "Relief from Fear",
+      "summary": "The sight of the light causes Dante's intense fear to subside momentarily."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Swimmer Simile",
+      "summary": "Dante compares his traumatized spirit to a swimmer looking back at a dangerous sea."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Appearance of the Leopard",
+      "summary": "A spotted leopard appears and blocks Dante's path, forcing him to turn back."
+    },
+    {
+      "start_line": 37,
+      "end_line": 43,
+      "scene_name": "The Morning Light",
+      "summary": "The time of day is established as early morning, bringing a brief moment of hope through the cosmic order."
+    },
+    {
+      "start_line": 44,
+      "end_line": 48,
+      "scene_name": "The Appearance of the Lion",
+      "summary": "A hungry and fierce lion appears, causing the very air to tremble with its rage."
+    },
+    {
+      "start_line": 49,
+      "end_line": 60,
+      "scene_name": "The Appearance of the She-Wolf",
+      "summary": "A starving she-wolf appears, driving Dante back down into the darkness of the valley."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "A Shadow in the Desert",
+      "summary": "As Dante falls, he sees a faint figure and cries out to him for mercy."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "Virgil's Introduction",
+      "summary": "The stranger identifies himself as a Roman poet who sang of the Trojan wars."
+    },
+    {
+      "start_line": 76,
+      "end_line": 78,
+      "scene_name": "The Challenge to Ascend",
+      "summary": "The stranger questions why Dante has returned to such trouble instead of climbing the mountain."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "Dante's Recognition",
+      "summary": "Dante realizes with shame that the figure is the great poet Virgil."
+    },
+    {
+      "start_line": 82,
+      "end_line": 90,
+      "scene_name": "A Plea for Guidance",
+      "summary": "Dante praises Virgil as his master and begs him to protect him from the beasts."
+    },
+    {
+      "start_line": 91,
+      "end_line": 99,
+      "scene_name": "The Nature of the She-Wolf",
+      "summary": "Virgil warns that the she-wolf is a greedy beast that will never be satisfied."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Prophecy of the Veltro",
+      "summary": "Virgil foretells the coming of a hound who will finally bring an end to the wolf's hunger."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Fate of Italy",
+      "summary": "The prophecy links the end of the beast to the salvation of the Italian people."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "The Plan for the Journey",
+      "summary": "Virgil accepts the role of guide and describes the sights of Hell and Purgatory."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Prohibition of the Ascent",
+      "summary": "Virgil explains that he cannot lead Dante to the summit because of his past rebellion against imperial rule."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "Dante's Acceptance",
+      "summary": "Dante thanks Virgil and commits to the journey, hoping to reach the gates of Heaven."
+    },
+    {
+      "start_line": 136,
+      "end_line": 136,
+      "scene_name": "The Journey Begins",
+      "summary": "Virgil begins to move, and Dante follows closely behind him."
+    }
+  ]
+}

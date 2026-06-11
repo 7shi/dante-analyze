@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Encounter with Statius and the Nature of Purgatory",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Dante's Thirst",
+      "summary": "Dante describes his restless spiritual longing and his desire for justice as he follows Virgil."
+    },
+    {
+      "start_line": 7,
+      "end_line": 13,
+      "scene_name": "The Appearance of the Shade",
+      "summary": "A mysterious shadow appears behind the travelers and offers them a greeting of peace."
+    },
+    {
+      "start_line": 14,
+      "end_line": 21,
+      "scene_name": "The Initial Confrontation",
+      "summary": "Virgil acknowledges the shade, leading the shade to question why such a figure is being escorted by angels."
+    },
+    {
+      "start_line": 22,
+      "end_line": 33,
+      "scene_name": "Virgil's Explanation of the Shade's Arrival",
+      "summary": "Virgil explains that the shade was brought upward by the celestial design to be shown the mountain."
+    },
+    {
+      "start_line": 34,
+      "end_line": 36,
+      "scene_name": "The Inquiry Regarding the Earthquake",
+      "summary": "Virgil asks the shade why the mountain recently shook and why there was a great cry."
+    },
+    {
+      "start_line": 37,
+      "end_line": 39,
+      "scene_name": "Dante's Anticipation",
+      "summary": "Dante describes his intense interest and growing hope for the answer to Virgil's question."
+    },
+    {
+      "start_line": 40,
+      "end_line": 54,
+      "scene_name": "The Immutable Nature of Purgatory",
+      "summary": "Virgil explains that the climate of Purgatory is governed by divine order and remains free from earthly weather changes."
+    },
+    {
+      "start_line": 55,
+      "end_line": 66,
+      "scene_name": "The Cause of the Tremor",
+      "summary": "Virgil reveals that the mountain only trembles when a pure soul ascends to heaven."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Shade's Long Exile",
+      "summary": "The shade confirms that he felt the tremor because his soul was newly freed from the desire to sin."
+    },
+    {
+      "start_line": 73,
+      "end_line": 75,
+      "scene_name": "Dante's Impression",
+      "summary": "Dante reflects on how much the shade's profound words quenched his spiritual thirst."
+    },
+    {
+      "start_line": 76,
+      "end_line": 81,
+      "scene_name": "Virgil Demands Identity",
+      "summary": "Virgil confronts the shade, demanding to know who he is and why he has been here for so long."
+    },
+    {
+      "start_line": 82,
+      "end_line": 87,
+      "scene_name": "The Shade's Historical Context",
+      "summary": "The shade identifies himself by referencing the era of Emperor Titus and the betrayal of Judas."
+    },
+    {
+      "start_line": 88,
+      "end_line": 102,
+      "scene_name": "The Praise of the Poet",
+      "summary": "The shade reveals he is Statius, boasting of his Roman roots and his poetic debt to Virgil's Aeneid."
+    },
+    {
+      "start_line": 103,
+      "end_line": 108,
+      "scene_name": "Virgil's Gesture of Silence",
+      "summary": "Virgil signals for the shade to be quiet, but Dante's involuntary laughter breaks the silence."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Shade's Confusion",
+      "summary": "The shade notices Dante's smile and asks why he is laughing during such a serious moment."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "Dante's Internal Conflict",
+      "summary": "Dante struggles between the need to remain silent and the urge to speak, receiving encouragement from Virgil."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Revelation of Virgil",
+      "summary": "Dante explains that his laughter stems from the joy of recognizing Virgil as the great classical poet."
+    },
+    {
+      "start_line": 130,
+      "end_line": 132,
+      "scene_name": "The Interrupted Embrace",
+      "summary": "The shade attempts to embrace Virgil's feet, but Virgil reminds him that they are both merely shadows."
+    },
+    {
+      "start_line": 133,
+      "end_line": 136,
+      "scene_name": "The Weight of Love",
+      "summary": "The shade concludes by stating that the magnitude of his love for Virgil is proven by his tendency to treat shadows as if they were solid."
+    }
+  ]
+}

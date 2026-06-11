@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Poets of Limbo and the Enchanted Tree",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Departure and Ascent",
+      "summary": "The angel departs, leaving the poets to continue their weightless, rapid ascent through the heavens."
+    },
+    {
+      "start_line": 10,
+      "end_line": 24,
+      "scene_name": "Virgil’s Inquiry",
+      "summary": "Virgil questions how a soul possessing such wisdom as Statius could have been touched by the sin of avarice."
+    },
+    {
+      "start_line": 25,
+      "end_line": 36,
+      "scene_name": "Statius’s Defense",
+      "summary": "Statius responds that while his placement in the fourth circle is mysterious, it is rooted in his past."
+    },
+    {
+      "start_line": 37,
+      "end_line": 54,
+      "scene_name": "The Sin of Lukewarmness",
+      "summary": "Statius explains that his error was not greed for gold, but a lack of religious fervor that led to his punishment."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "Dante’s Doubt",
+      "summary": "Dante asks how Virgil's poetry could have guided Statius toward the light while he was still within the darkness of the lower circles."
+    },
+    {
+      "start_line": 64,
+      "end_line": 81,
+      "scene_name": "Statius’s Tribute to Virgil",
+      "summary": "Statius credits Virgil's transformative poetry with bringing him to the threshold of the new Christian era."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "The Burden of Tepidity",
+      "summary": "Statius recounts how his hesitation to fully embrace the new faith resulted in his confinement in the fourth circle."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "Dante’s Inquiry into Classical Poets",
+      "summary": "Dante asks Virgil if other great Roman authors like Terence and Plautus are also among the inhabitants of this circle."
+    },
+    {
+      "start_line": 100,
+      "end_line": 114,
+      "scene_name": "The Inhabitants of Limbo",
+      "summary": "Virgil lists the many illustrious Greek and Roman poets who dwell in the first circle of Limbo."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "Realigning the Ascent",
+      "summary": "The poets pause their conversation to adjust their course and navigate around the slope of the mountain."
+    },
+    {
+      "start_line": 127,
+      "end_line": 129,
+      "scene_name": "Dante’s Observation",
+      "summary": "Dante follows the two poets, finding himself intellectually stimulated by their profound conversation."
+    },
+    {
+      "start_line": 130,
+      "end_line": 138,
+      "scene_name": "The Discovery of the Tree",
+      "summary": "The travelers encounter a magnificent tree with sweet fruit and a spring of clear liquid dripping from the rocks."
+    },
+    {
+      "start_line": 139,
+      "end_line": 141,
+      "scene_name": "The Voice’s Invitation",
+      "summary": "A mysterious voice emerging from the tree's foliage invites the poets to eat of its fruit."
+    },
+    {
+      "start_line": 142,
+      "end_line": 154,
+      "scene_name": "The Theology of Fasting",
+      "summary": "The voice offers a theological meditation on the spiritual merits of hunger, thirst, and asceticism."
+    }
+  ]
+}

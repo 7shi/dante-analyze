@@ -1,0 +1,83 @@
+{
+  "canto_title": "The Descent into the Second Bolgia and the Prophecy of Vanni Fucci",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 15,
+      "scene_name": "The Peasant’s Morning",
+      "summary": "A peasant observes the frost and prepares to tend his sheep."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "Virgil’s Physical Aid",
+      "summary": "Virgil helps Dante navigate a difficult and rocky terrain."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "Virgil’s Climbing Method",
+      "summary": "Virgil provides practical advice on how to navigate the slope."
+    },
+    {
+      "start_line": 31,
+      "end_line": 45,
+      "scene_name": "The Difficult Descent",
+      "summary": "The poets navigate an increasingly steep and exhausting path."
+    },
+    {
+      "start_line": 46,
+      "end_line": 60,
+      "scene_name": "Virgil’s Exhortation",
+      "summary": "Virgil encourages Dante to overcome his physical fatigue through willpower."
+    },
+    {
+      "start_line": 61,
+      "end_line": 78,
+      "scene_name": "The Angry Voice",
+      "summary": "An unidentified voice speaks aggressively from a nearby ditch."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "Entering the Bolgia",
+      "summary": "The poets descend to the edge of the second pit."
+    },
+    {
+      "start_line": 82,
+      "end_line": 96,
+      "scene_name": "The Pit of Serpents",
+      "summary": "A terrifying abundance of snakes is described within the pit."
+    },
+    {
+      "start_line": 97,
+      "end_line": 111,
+      "scene_name": "The Phoenix Metaphor",
+      "summary": "A snake strikes a sinner, who is consumed and reborn like a phoenix."
+    },
+    {
+      "start_line": 112,
+      "end_line": 118,
+      "scene_name": "The Sinner’s Anguish",
+      "summary": "The text describes the profound, human suffering of the fallen man."
+    },
+    {
+      "start_line": 119,
+      "end_line": 126,
+      "scene_name": "Vanni Fucci’s Identity",
+      "summary": "The sinner reveals his name and his origins in Pistoia."
+    },
+    {
+      "start_line": 127,
+      "end_line": 139,
+      "scene_name": "The Confession of Theft",
+      "summary": "The sinner admits to his crime of sacrilegious theft."
+    },
+    {
+      "start_line": 140,
+      "end_line": 151,
+      "scene_name": "The Prophecy of War",
+      "summary": "The sinner predicts upcoming political violence and upheaval in Tuscany."
+    }
+  ]
+}

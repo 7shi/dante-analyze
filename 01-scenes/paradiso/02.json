@@ -1,0 +1,155 @@
+{
+  "canto_title": "The Vision of Beatrice and the Celestial Mechanics",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Prologue's Warning",
+      "summary": "Dante addresses the readers in their small boats, warning them not to follow his journey lest they become lost."
+    },
+    {
+      "start_line": 7,
+      "end_line": 9,
+      "scene_name": "The Divine Muses",
+      "summary": "The poet describes his divine inspiration, citing Minerva, Apollo, and the nine Muses."
+    },
+    {
+      "start_line": 10,
+      "end_line": 21,
+      "scene_name": "The Mythic Precedent",
+      "summary": "Dante compares his readers to the Argonauts, noting that even they will be amazed by the wonders to come."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "Beatrice Appears",
+      "summary": "Dante observes Beatrice turning toward him with a joyful expression and commanding him to fix his mind on God."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Metaphor of Light",
+      "summary": "A cloud of light passes through a divine diamond, much like light passing through water."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "Ontological Reflection",
+      "summary": "Dante contemplates the union of essence and the desire to see the divine nature."
+    },
+    {
+      "start_line": 43,
+      "end_line": 45,
+      "scene_name": "The Nature of Faith",
+      "summary": "Dante acknowledges that what follows is based on faith and primary truth rather than empirical proof."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante thanks Beatrice and asks for clarification on the dark signs that cause men to tell fables of Cain."
+    },
+    {
+      "start_line": 52,
+      "end_line": 58,
+      "scene_name": "Beatrice's Challenge",
+      "summary": "Beatrice dismisses the error of mortal opinion and asks Dante to share his own thoughts."
+    },
+    {
+      "start_line": 59,
+      "end_line": 60,
+      "scene_name": "Dante's Hypothesis",
+      "summary": "Dante suggests that the varied appearances in the heavens are due to the density and rarity of celestial bodies."
+    },
+    {
+      "start_line": 61,
+      "end_line": 72,
+      "scene_name": "The Argument from Virtue",
+      "summary": "Beatrice argues that if bodies were merely dense or rare, all virtues would be distributed in the same way."
+    },
+    {
+      "start_line": 73,
+      "end_line": 84,
+      "scene_name": "The Argument from Matter",
+      "summary": "Beatrice counters that if the celestial bodies were significantly different in density, the sun would be eclipsed."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Argument from Opacity",
+      "summary": "Beatrice explains that if the bodies were not transparent, light would be reflected or hidden like color in glass or lead."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "The Argument from Refraction",
+      "summary": "Beatrice addresses the potential objection regarding the darkening of light due to refraction."
+    },
+    {
+      "start_line": 94,
+      "end_line": 96,
+      "scene_name": "The Appeal to Experience",
+      "summary": "Beatrice suggests that Dante's own earthly experience can provide the proof he seeks."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "The Three-Mirror Experiment",
+      "summary": "Beatrice describes an optical experiment with three mirrors to demonstrate how light should shine equally."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Vision of Intense Light",
+      "summary": "Beatrice prepares Dante for a vision of light so bright it will make his intellect tremble."
+    },
+    {
+      "start_line": 112,
+      "end_line": 117,
+      "scene_name": "The Primum Mobile",
+      "summary": "Beatrice describes the central movement of a body within the heaven of divine peace."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "The Order of the Spheres",
+      "summary": "She explains how the various celestial spheres move in their specific order and purpose."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "The Way of the Truth",
+      "summary": "Beatrice instructs Dante to follow her path carefully to maintain his way toward the truth."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Divine Influence",
+      "summary": "She describes how the movement of the saints' spheres is driven by the Divine Intellect, much like a blacksmith's hammer."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Analogy of the Soul",
+      "summary": "Beatrice compares the multiplication of divine goodness in the stars to the way a soul divides its power through its members."
+    },
+    {
+      "start_line": 139,
+      "end_line": 141,
+      "scene_name": "The Union of Virtue and Body",
+      "summary": "She explains how divine virtue interacts with and animates the celestial bodies."
+    },
+    {
+      "start_line": 142,
+      "end_line": 144,
+      "scene_name": "The Radiance of Virtue",
+      "summary": "She compares the radiance of virtue in a body to the joy felt by a living eye."
+    },
+    {
+      "start_line": 145,
+      "end_line": 148,
+      "scene_name": "The Nature of Light",
+      "summary": "Beatrice concludes that the apparent differences in light come from its formal principle, not from density."
+    }
+  ]
+}

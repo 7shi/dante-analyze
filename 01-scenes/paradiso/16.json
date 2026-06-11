@@ -1,0 +1,101 @@
+{
+  "canto_title": "Cacciaguida's Prophecy and the Lament for Florence",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Reflections on Lineage and Time",
+      "summary": "Dante reflects on the fleeting nature of his noble blood and the passage of time since the era of Roman antiquity."
+    },
+    {
+      "start_line": 13,
+      "end_line": 15,
+      "scene_name": "Beatrice's Laughter",
+      "summary": "Beatrice reacts with a playful, lighthearted laugh at the beginning of the conversation."
+    },
+    {
+      "start_line": 16,
+      "end_line": 27,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante addresses his ancestor with great reverence and asks about his ancient origins and the era of his youth."
+    },
+    {
+      "start_line": 28,
+      "end_line": 39,
+      "scene_name": "Cacciaguida's Origins",
+      "summary": "Cacciaguida responds, tracing his lineage back to the time of his mother's birth and the specific era of the Florentine era."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Ancestral Boundaries",
+      "summary": "Cacciaguida speaks of his ancestors' arrival and the geographic limits of the old Florentine community."
+    },
+    {
+      "start_line": 49,
+      "end_line": 57,
+      "scene_name": "The Dilution of Citizenship",
+      "summary": "The ancestor laments the expansion of the Florentine borders and the arrival of corrupt outsiders into the city."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "The Loss of Florentine Virtue",
+      "summary": "Cacciaguida argues that if Florentine merchants had acted with maternal care rather than greed, the great families of Tuscany would still be intact."
+    },
+    {
+      "start_line": 67,
+      "end_line": 78,
+      "scene_name": "The Instability of Cities",
+      "summary": "The ancestor warns that the confusion of people is the cause of urban decay, using the disintegration of other territories as an example."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Unpredictability of Fortune",
+      "summary": "Cacciaguida compares the mortality of all things to the shifting phases of the moon and the unpredictable nature of Fortune."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "The Catalog of Illustrious Families",
+      "summary": "The ancestor lists the noble and powerful families that once brought glory to Florence."
+    },
+    {
+      "start_line": 94,
+      "end_line": 108,
+      "scene_name": "The Rise of Corrupt Families",
+      "summary": "Cacciaguida identifies the families whose greed and influence have burdened the city with new treacheries."
+    },
+    {
+      "start_line": 109,
+      "end_line": 118,
+      "scene_name": "The Pride of the New Class",
+      "summary": "The ancestor describes how the pride of newer, wealthier families has caused the downfall of the old order."
+    },
+    {
+      "start_line": 119,
+      "end_line": 126,
+      "scene_name": "The Shifts in the Marketplace",
+      "summary": "The speaker notes the changing demographics and the movement of people within the city's markets and districts."
+    },
+    {
+      "start_line": 127,
+      "end_line": 135,
+      "scene_name": "The Loss of Privileges",
+      "summary": "Cacciaguida describes how former municipal privileges and military honors have been diminished by new political realities."
+    },
+    {
+      "start_line": 136,
+      "end_line": 144,
+      "scene_name": "The Tragedy of Buondelmonte",
+      "summary": "The ancestor recounts the specific, historical tragedy of the house of Buondelmonte and the broken marriage that fractured the city."
+    },
+    {
+      "start_line": 145,
+      "end_line": 154,
+      "scene_name": "The Vision of a Lost Peace",
+      "summary": "Cacciaguida concludes by recalling a time when Florence was at peace and its people lived in unified glory."
+    }
+  ]
+}

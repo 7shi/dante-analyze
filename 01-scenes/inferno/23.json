@@ -1,0 +1,143 @@
+{
+  "canto_title": "The Flight from the Malebranche and the Encounter with the Hypocrites",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Fable of the Frog and the Mouse",
+      "summary": "Dante reflects on an Aesop's fable to process his spiraling thoughts and growing fear."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "Dante's Dread of the Demons",
+      "summary": "Dante expresses his fear of the Malebranche demons approaching them from behind."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Virgil's Strategic Plan",
+      "summary": "Virgil reassures Dante and proposes a plan to navigate to the next bolgia to avoid the hunt."
+    },
+    {
+      "start_line": 34,
+      "end_line": 51,
+      "scene_name": "The Rapid Descent",
+      "summary": "As the demons approach, Virgil quickly carries Dante down the steep, rocky path like a parent with a child."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "Reaching the Fifth Bolgia",
+      "summary": "The travelers reach the bottom of the pit, where Divine Providence has placed the ministers of the fifth ditch."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "The Appearance of the Hypocrites",
+      "summary": "Dante observes the hypocrites wearing heavy, gold-plated yet lead-filled cloaks."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Burden of the Cloaks",
+      "summary": "The travelers watch the exhausted, slow-moving crowd of hypocrites walking in sorrow."
+    },
+    {
+      "start_line": 73,
+      "end_line": 75,
+      "scene_name": "Dante's Request to Virgil",
+      "summary": "Dante asks Virgil to keep his eyes moving to identify the inhabitants of this circle."
+    },
+    {
+      "start_line": 76,
+      "end_line": 79,
+      "scene_name": "The Voice from Behind",
+      "summary": "A voice from the group of hypocrites calls out to the fleeing travelers."
+    },
+    {
+      "start_line": 80,
+      "end_line": 81,
+      "scene_name": "Virgil's Command",
+      "summary": "Virgil instructs Dante to wait for the speaker to approach."
+    },
+    {
+      "start_line": 82,
+      "end_line": 84,
+      "scene_name": "The Approaching Figures",
+      "summary": "Two hypocrites hurry toward Dante and Virgil, though they are slowed by their heavy burdens."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Recognition of the Living",
+      "summary": "The hypocrites stare at Dante, wondering how a living man could be walking among the dead."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "The Welcome to the Hypocrites",
+      "summary": "The hypocrites mockingly welcome Dante to the college of the sorrowful hypocrites."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante introduces himself and asks the hypocrites about their intense suffering."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Identity of the Hypocrites",
+      "summary": "A hypocrite explains the weight of their leaden cloaks and identifies themselves as various clerics."
+    },
+    {
+      "start_line": 109,
+      "end_line": 113,
+      "scene_name": "The Sight of the Crucifix",
+      "summary": "Dante's attempt to speak is interrupted by the sight of a crucifix on the ground, which causes a monk to react visibly."
+    },
+    {
+      "start_line": 114,
+      "end_line": 123,
+      "scene_name": "The Monk's Explanation",
+      "summary": "A Catalan monk explains that the crucifix serves as a reminder of the betrayal of Christ by the Pharisees."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "Virgil's Reaction",
+      "summary": "Virgil expresses his dismay at the sight of the crucifix so cruelly placed in the pit."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "Virgil's Plea for an Exit",
+      "summary": "Virgil asks if there is any opening or tool nearby that might allow them to escape the black angels."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Obstacle of the Stone",
+      "summary": "The monk informs Virgil that a massive, moving stone blocks their path and covers the exit."
+    },
+    {
+      "start_line": 139,
+      "end_line": 141,
+      "scene_name": "The Error of the Demon",
+      "summary": "Virgil laments that the demon's calculation of the sinners' number was incorrect."
+    },
+    {
+      "start_line": 142,
+      "end_line": 144,
+      "scene_name": "The Lie of the Devil",
+      "summary": "A monk adds that the devil is known in Bologna as the father of lies."
+    },
+    {
+      "start_line": 145,
+      "end_line": 148,
+      "scene_name": "The Departure",
+      "summary": "Irritated, Virgil leads Dante away from the heavy-laden figures toward the edge of the plants."
+    }
+  ]
+}

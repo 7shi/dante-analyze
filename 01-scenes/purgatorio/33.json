@@ -1,0 +1,131 @@
+{
+  "canto_title": "Beatrice's Prophecy and the River of Lethe",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Song of the Virtuous Women",
+      "summary": "The seven holy women sing a psalm while Beatrice listens with pious devotion."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "Beatrice's Proclamation",
+      "summary": "Beatrice rises and speaks to her sisters in Latin, warning them that they shall see her only a little while."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Encounter with Dante",
+      "summary": "Beatrice leads the group forward and stops to command Dante to follow her and listen closely."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "Dante's Stuttering Response",
+      "summary": "Overcome by reverence, Dante struggles to speak, and Beatrice tells him to cast aside his shame."
+    },
+    {
+      "start_line": 34,
+      "end_line": 45,
+      "scene_name": "The Prophecy of the Serpent and the Giant",
+      "summary": "Beatrice prophesies a political upheaval involving a figure of 'five hundred and fifteen' who will defeat a giant."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "The Riddle of the Naiads",
+      "summary": "Beatrice compares her obscure prophecy to the Sphinx and promises that the Naiads will soon solve the enigma."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "The Warning of the Fallen Fruit",
+      "summary": "Beatrice instructs Dante to record her words and warns of the sin of those who corrupt God's creation."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "The Weight of Original Sin",
+      "summary": "She reflects on the ancient pain of the Fall and the profound nature of the soul's descent."
+    },
+    {
+      "start_line": 67,
+      "end_line": 78,
+      "scene_name": "The Command to Remember",
+      "summary": "Beatrice criticizes Dante's wandering thoughts and commands him to carry her message as a painted image in his mind."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "Dante's Impressionable Mind",
+      "summary": "Dante compares his mind to sealing wax, though he confesses he is struggling to grasp her words."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Distance of the Divine",
+      "summary": "Beatrice explains that Dante's reliance on earthly logic prevents him from understanding her divine truth."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "Dante's Denial of Forgetting",
+      "summary": "Dante insists that he has never strayed from their company nor forgotten their teachings."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "The Reminder of Lethe",
+      "summary": "Beatrice smiles and reminds him of the Lethe, suggesting his forgetfulness stems from a wandering desire."
+    },
+    {
+      "start_line": 100,
+      "end_line": 111,
+      "scene_name": "The Noon Sun and the Seven Women",
+      "summary": "As the sun reaches its zenith, the seven women stand in the shade of a dark forest like an alpine grove."
+    },
+    {
+      "start_line": 112,
+      "end_line": 114,
+      "scene_name": "The Emergence of the Rivers",
+      "summary": "Dante observes the Euphrates and Tigris rivers emerging from a fountain and parting."
+    },
+    {
+      "start_line": 115,
+      "end_line": 119,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks about the nature of the mysterious water, and is directed to Matelda for the answer."
+    },
+    {
+      "start_line": 120,
+      "end_line": 123,
+      "scene_name": "Matelda's Revelation",
+      "summary": "Matelda confirms that the water is indeed from the Lethe and that she is permitted to speak of it."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "Beatrice's Instruction to Virgil",
+      "summary": "Beatrice notes that memory can fail and instructs Dante to follow Virgil to revive his fading virtue."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "The Departure of the Group",
+      "summary": "With a gentle command, Matelda tells Virgil to accompany Dante."
+    },
+    {
+      "start_line": 136,
+      "end_line": 141,
+      "scene_name": "The Poet's Constraint",
+      "summary": "Dante laments that the limits of the second cantica prevent him from describing the full sweetness of the experience."
+    },
+    {
+      "start_line": 142,
+      "end_line": 145,
+      "scene_name": "The Renewal of the Soul",
+      "summary": "Dante concludes by describing his spiritual renewal as he prepares to ascend toward the stars."
+    }
+  ]
+}

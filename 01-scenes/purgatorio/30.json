@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Arrival of Beatrice and the Vision of the Blessed",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Settling of the First Heaven",
+      "summary": "The northern part of the first heaven arrives and comes to a halt, bringing with it the faithful."
+    },
+    {
+      "start_line": 10,
+      "end_line": 12,
+      "scene_name": "The Herald's Cry",
+      "summary": "A messenger, appearing as an angel, cries out a liturgical greeting to the bride."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Anthem of the Blessed",
+      "summary": "A hundred blessed souls rise from their places, singing praises and scattering flowers."
+    },
+    {
+      "start_line": 22,
+      "end_line": 33,
+      "scene_name": "The Appearance of the Lady",
+      "summary": "As dawn breaks, Dante sees a woman dressed in white and green, clothed in the colors of flame."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "Spiritual Recognition",
+      "summary": "Dante feels the ancient power of love moving within him through a hidden spiritual virtue."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "Dante's Trembling",
+      "summary": "Overwhelmed by the sight, Dante turns to Virgil to confess his intense fear and recognition of the signs."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "Lament for Virgil",
+      "summary": "Dante weeps for the loss of his guide, Virgil, despite the comfort provided by the heavenly vision."
+    },
+    {
+      "start_line": 55,
+      "end_line": 57,
+      "scene_name": "Virgil's Warning",
+      "summary": "Virgil interjects to tell Dante not to weep for him, but to prepare for a different kind of sorrow."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "Beatrice's Gaze",
+      "summary": "Like a ship's captain, Beatrice directs her eyes toward Dante from the side of the celestial chariot."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Greeting of Beatrice",
+      "summary": "Partially veiled, Beatrice addresses Dante with a regal and somewhat stern greeting."
+    },
+    {
+      "start_line": 76,
+      "end_line": 81,
+      "scene_name": "Dante's Shame",
+      "summary": "Dante is overcome with shame and lowers his eyes before the lady's supercilious manner."
+    },
+    {
+      "start_line": 82,
+      "end_line": 84,
+      "scene_name": "Interrupted Song",
+      "summary": "The angels' song is briefly interrupted by a liturgical chant regarding trust in the Lord."
+    },
+    {
+      "start_line": 85,
+      "end_line": 99,
+      "scene_name": "The Release of Tears",
+      "summary": "Dante's frozen heart finally melts, releasing a flood of tears and sighs through the empathy of the angels."
+    },
+    {
+      "start_line": 100,
+      "end_line": 117,
+      "scene_name": "Theology of Grace",
+      "summary": "Beatrice explains that her response is carefully timed by divine grace to ensure the weight of sin is understood."
+    },
+    {
+      "start_line": 118,
+      "end_line": 126,
+      "scene_name": "The Metaphor of the Uncultivated Soil",
+      "summary": "She describes how a soul with great potential can become wild and lost if it is not properly nurtured."
+    },
+    {
+      "start_line": 127,
+      "end_line": 138,
+      "scene_name": "The Descent into Error",
+      "summary": "Beatrice recounts how a soul, once beautiful and virtuous, turned away to follow false images and became lost."
+    },
+    {
+      "start_line": 139,
+      "end_line": 145,
+      "scene_name": "The Necessity of Repentance",
+      "summary": "She explains her descent into the realm of the dead was a divine necessity to bring the lost to repentance through tears."
+    }
+  ]
+}

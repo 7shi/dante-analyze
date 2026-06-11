@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Encounter with Marco Lombardo",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Thick Fog",
+      "summary": "Dante describes the oppressive, dark, and suffocating smoke that obscures his vision."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "Following the Guide",
+      "summary": "Dante follows Virgil through the murky air, much like a blind man following a guide to avoid obstacles."
+    },
+    {
+      "start_line": 16,
+      "end_line": 21,
+      "scene_name": "The Voices of the Neutrals",
+      "summary": "Dante hears a chorus of souls collectively praying for mercy to the Lamb of God."
+    },
+    {
+      "start_line": 22,
+      "end_line": 24,
+      "scene_name": "Virgil’s Interpretation",
+      "summary": "Dante asks Virgil about the voices, and Virgil explains they are souls being released from the knot of wrath."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "The Voice’s Interruption",
+      "summary": "A voice from the darkness interrupts to question Dante’s identity, prompting Virgil to instruct Dante to respond."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "Dante’s Introduction and the Voice’s Promise",
+      "summary": "Dante introduces himself as a traveler seeking a return to God, and the voice promises to follow him as long as they can see or hear one another."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "The Mission and Request for Identity",
+      "summary": "Dante explains his infernal errand and asks the voice to reveal its identity and guide them through the threshold."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "Marco’s Identity and Request for Prayer",
+      "summary": "The voice reveals himself as Marco, a Lombard, and asks Dante to pray for him once he reaches heaven."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "Dante’s Doubt and the State of the World",
+      "summary": "Dante promises to pray but expresses confusion over the current state of a world that is desolate of virtue and heavy with malice."
+    },
+    {
+      "start_line": 64,
+      "end_line": 78,
+      "scene_name": "The Mechanics of Free Will",
+      "summary": "Marco explains that while the heavens set things in motion, humans possess the light of intellect and free will to choose between good and evil."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "Human Responsibility",
+      "summary": "Marco asserts that because humans possess intellect, the current deviation of the world is caused by human choice rather than nature."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "The Metaphor of the Soul",
+      "summary": "Marco uses the metaphor of a simple child or maiden to illustrate how the soul is easily led astray by small, deceptive pleasures."
+    },
+    {
+      "start_line": 94,
+      "end_line": 105,
+      "scene_name": "The Failure of Law and Leadership",
+      "summary": "Marco argues that the need for laws and rulers arises because people follow their appetites rather than the true path, leading to widespread corruption."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Conflict of the Two Suns",
+      "summary": "Marco describes how the historical struggle between the Papacy and the Empire has caused both powers to extinguish one another."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Decline of Lombardy",
+      "summary": "Marco observes the decay of the Lombardy region, which was once a place of great valor and courtesy."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Three Old Men",
+      "summary": "Marco identifies three specific figures from the past who represent the old era passing into the new."
+    },
+    {
+      "start_line": 127,
+      "end_line": 129,
+      "scene_name": "The Corruption of the Church",
+      "summary": "Marco concludes his critique by stating that the Church of Rome is falling into mud due to the confusion of its two roles."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "Dante’s Inquiry about Gherardo",
+      "summary": "Dante acknowledges Marco’s arguments but asks for clarification regarding which Gherardo is being referenced."
+    },
+    {
+      "start_line": 136,
+      "end_line": 140,
+      "scene_name": "Marco’s Difficulty with the Name",
+      "summary": "Marco explains that the name is difficult to identify without further context, noting only a connection to a woman named Gaia."
+    },
+    {
+      "start_line": 141,
+      "end_line": 145,
+      "scene_name": "The Departure of Marco",
+      "summary": "Seeing the first light of dawn breaking through the smoke, Marco bids Dante farewell and departs."
+    }
+  ]
+}

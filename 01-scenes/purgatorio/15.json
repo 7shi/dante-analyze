@@ -1,0 +1,113 @@
+{
+  "canto_title": "The Ascent through the Light and the Visions of Paradise",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Setting of the Hour",
+      "summary": "Dante describes the time of day and the atmospheric conditions as evening approaches."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "The Blinding Light",
+      "summary": "A sudden, intense brightness strikes Dante, causing him physical discomfort and disorientation."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "The Metaphor of Refraction",
+      "summary": "Dante uses a scientific comparison of light reflecting off water or a mirror to explain the light's effect."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Angel's Reassurance",
+      "summary": "Dante asks about the light, and Virgil explains that this brightness is a preparation for the heights of heaven."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "Arrival at the Stairway",
+      "summary": "The travelers reach a blessed angel and begin their ascent up a steep staircase while chanting hymns."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "Dante's Query on Political Terms",
+      "summary": "Dante asks Virgil to clarify the meaning of specific political terms he heard in a previous spirit's speech."
+    },
+    {
+      "start_line": 46,
+      "end_line": 57,
+      "scene_name": "The Paradox of Divine Distribution",
+      "summary": "Virgil explains how divine goods are distributed such that sharing does not diminish the owner's wealth."
+    },
+    {
+      "start_line": 58,
+      "end_line": 72,
+      "scene_name": "The Nature of Divine Love",
+      "summary": "Virgil explains that divine love behaves like light, increasing in intensity as it encounters more passion."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "The Promise of Beatrice",
+      "summary": "Virgil reveals that Beatrice will eventually guide Dante and satisfy all his spiritual desires."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "The Closing of the Wounds",
+      "summary": "Virgil concludes his speech by referencing the closing of Christ's wounds."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "The Vision of the Mother",
+      "summary": "Dante enters an ecstatic state and sees a woman welcoming him as a son."
+    },
+    {
+      "start_line": 94,
+      "end_line": 101,
+      "scene_name": "The Vision of the Trojan Widow",
+      "summary": "A second woman appears, grieving and calling for vengeance on behalf of her daughter."
+    },
+    {
+      "start_line": 102,
+      "end_line": 105,
+      "scene_name": "The Lord's Gentle Response",
+      "summary": "The lord responds to the widow's plea with a question about the fate of those who love him."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Vision of the Martyr",
+      "summary": "Dante witnesses a young man being stoned, praying for his persecutors amidst great agony."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "Return to Consciousness",
+      "summary": "Dante's soul returns to his body, and Virgil questions his sudden, trance-like state."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "Dante's Report",
+      "summary": "Dante begins to describe the extraordinary visions he just experienced."
+    },
+    {
+      "start_line": 127,
+      "end_line": 138,
+      "scene_name": "Virgil's Explanation of the Trance",
+      "summary": "Virgil explains that the vision occurred because Dante's heart was not yet fully open to the waters of peace."
+    },
+    {
+      "start_line": 139,
+      "end_line": 145,
+      "scene_name": "The Encroaching Darkness",
+      "summary": "As they continue their climb, a thickening mist or darkness begins to obscure the path and the light."
+    }
+  ]
+}

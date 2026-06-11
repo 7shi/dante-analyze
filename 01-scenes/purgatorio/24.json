@@ -1,0 +1,131 @@
+{
+  "canto_title": "Recognition of Souls and the Warning of the Tree",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Watching Souls",
+      "summary": "Dante describes the steady pace of the travelers and the admiring gazes of the souls passing them."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "Inquiry about Piccarda",
+      "summary": "Dante asks the soul he is walking with for news regarding Piccarda Donati."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "News of Piccarda and Bonagiunta",
+      "summary": "The soul reveals that Piccarda is in Heaven and begins identifying other souls by name."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The List of Notable Souls",
+      "summary": "The soul continues naming various figures, including Ubaldo da Pesaro and Boniface."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Muttering Soul",
+      "summary": "Dante notices a soul muttering and asks him to speak clearly so they may understand one another."
+    },
+    {
+      "start_line": 43,
+      "end_line": 51,
+      "scene_name": "The Poet's Identity and Inquiry",
+      "summary": "The soul introduces himself and asks if Dante recognizes the author of the 'nine rhymes'."
+    },
+    {
+      "start_line": 52,
+      "end_line": 63,
+      "scene_name": "The Knot of Poets",
+      "summary": "Dante identifies himself as a poet, prompting the soul to explain the literary connection that binds them together."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Simile of the Geese",
+      "summary": "A poetic simile compares the movement of the crowd to a flock of geese flying in formation."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "Forese Departs",
+      "summary": "Forese Giunchi leaves the group, walking ahead of Dante."
+    },
+    {
+      "start_line": 76,
+      "end_line": 81,
+      "scene_name": "Dialogue with Forese",
+      "summary": "Dante speaks with Forese about the difficulty of returning to the world of the living."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "Forese's Ominous Warning",
+      "summary": "Forese warns Dante of the approaching Beast and the destruction it brings."
+    },
+    {
+      "start_line": 94,
+      "end_line": 97,
+      "scene_name": "The Knight's Departure",
+      "summary": "Forese departs the group with the swiftness and dignity of a knight in a cavalry charge."
+    },
+    {
+      "start_line": 98,
+      "end_line": 111,
+      "scene_name": "Vision of the Hungry Souls",
+      "summary": "Dante observes souls beneath a tree, reaching upward in a state of desperate, unfulfilled desire."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "Warning Near the Tree",
+      "summary": "A voice warns the travelers not to approach the tree, which is linked to the Fall of Man."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "Mythological Allusions",
+      "summary": "A voice recalls stories of Theseus and the Hebrew warriors to illustrate the nature of the souls."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "Passing the Thickets",
+      "summary": "The group passes through dense thickets, observing the consequences of gluttony."
+    },
+    {
+      "start_line": 133,
+      "end_line": 136,
+      "scene_name": "A Sudden Interruption",
+      "summary": "A sudden voice startles Dante, causing him to recoil like a frightened animal."
+    },
+    {
+      "start_line": 137,
+      "end_line": 141,
+      "scene_name": "The Brilliant Figure's Warning",
+      "summary": "Dante sees a glowing, intense figure who warns that they must turn back if they wish to ascend."
+    },
+    {
+      "start_line": 142,
+      "end_line": 144,
+      "scene_name": "Dante's Reaction",
+      "summary": "Overwhelmed by the sight, Dante turns back to his guides, Virgil and Statius."
+    },
+    {
+      "start_line": 145,
+      "end_line": 150,
+      "scene_name": "The May Breeze",
+      "summary": "A fragrant, pleasant wind like that of May passes over Dante, bringing the scent of blossoms."
+    },
+    {
+      "start_line": 151,
+      "end_line": 154,
+      "scene_name": "The Benediction",
+      "summary": "Within the breeze, Dante hears a beatific blessing regarding the virtue of moderation."
+    }
+  ]
+}

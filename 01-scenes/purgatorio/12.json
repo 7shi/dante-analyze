@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Ascent from Hell and the Signs of the Fallen",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The separation of the travelers",
+      "summary": "Virgil instructs Dante to leave the heavy soul behind and proceed alone, allowing the two guides to travel more lightly."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The warning to watch the path",
+      "summary": "Virgil tells Dante to look down at the ground to observe the symbolic markings of the deceased."
+    },
+    {
+      "start_line": 25,
+      "end_line": 36,
+      "scene_name": "The sight of the Giants",
+      "summary": "Dante observes the fragmented and fallen bodies of the Giants scattered across the landscape."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "The signs of tragic figures",
+      "summary": "Dante sees the symbolic marks of Niobe, Saul, and Arachne along the path."
+    },
+    {
+      "start_line": 46,
+      "end_line": 54,
+      "scene_name": "The symbols of fallen kings",
+      "summary": "Dante observes the signs of Rehoboam and the tragic fate of Sennacherib's family."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The remnants of war and ruin",
+      "summary": "Dante sees the marks of the Assyrian retreat and the total destruction of Troy."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "Dante's reaction to the imagery",
+      "summary": "Dante marvels at how lifelike and artistically profound the shadows and their attributes appear."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "The command to look upward",
+      "summary": "Virgil rebukes Dante's downward gaze and commands him to lift his head as they progress."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The approaching messenger",
+      "summary": "Virgil points out an angel descending toward them to assist in their ascent."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The arrival of the angel",
+      "summary": "A beautiful, white-clad angel arrives and invites the travelers to climb the approaching stairs."
+    },
+    {
+      "start_line": 97,
+      "end_line": 108,
+      "scene_name": "The difficult climb",
+      "summary": "The travelers begin a steep ascent that is compared to climbing the difficult stairs of Florence."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The transition in song",
+      "summary": "As they ascend, the travelers hear blessed voices that contrast sharply with the screams of Hell."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "The mystery of the weightless ascent",
+      "summary": "Dante asks why his burden feels lighter, and Virgil responds with a cryptic prophecy regarding the end of their journey."
+    },
+    {
+      "start_line": 127,
+      "end_line": 136,
+      "scene_name": "The discovery of the inscription",
+      "summary": "Dante feels something on his forehead and discovers six mysterious letters inscribed there, causing Virgil to smile."
+    }
+  ]
+}

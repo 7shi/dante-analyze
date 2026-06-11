@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Encounter with Statius and the Metaphysics of the Soul",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Ascent of the Path",
+      "summary": "Dante describes the setting of the journey and the arduous climb up the path."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "Dante's Hesitation",
+      "summary": "Dante compares his own conflicted desire to a young stork reluctant to leave its nest."
+    },
+    {
+      "start_line": 16,
+      "end_line": 18,
+      "scene_name": "Virgil's Encouragement",
+      "summary": "Virgil prompts Dante to release his question like an arrow from a bow."
+    },
+    {
+      "start_line": 19,
+      "end_line": 21,
+      "scene_name": "The Central Question",
+      "summary": "Dante asks how life can be sustained where there is no nourishment."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Introduction of Statius",
+      "summary": "Virgil responds by introducing Statius as a healer for Dante's intellectual struggle."
+    },
+    {
+      "start_line": 31,
+      "end_line": 33,
+      "scene_name": "Statius's Consent",
+      "summary": "Statius agrees to answer the question if Dante is able to follow his logic."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Power of Blood",
+      "summary": "Statius begins his lecture by explaining the formative and nutritive power of blood."
+    },
+    {
+      "start_line": 43,
+      "end_line": 51,
+      "scene_name": "Digestion and Coagulation",
+      "summary": "Statius describes the physiological process of nutrients being processed and transformed within the body."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "The Evolution of Life",
+      "summary": "Statius explains the transition from simple plant-like life to the complex intellect of animals."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Development of the Spirit",
+      "summary": "Statius describes how the primary motor animates the brain to create a self-aware soul."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Thread of Fate",
+      "summary": "Statius uses the metaphor of the thread of life and the sharpening of the faculties at death."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Expansion of Virtue",
+      "summary": "Statius describes how the formative virtue radiates through all the limbs of the body."
+    },
+    {
+      "start_line": 91,
+      "end_line": 102,
+      "scene_name": "The Metaphor of Light and Shadow",
+      "summary": "Statius explains how the soul's form is shaped by light and shadow, much like colored air."
+    },
+    {
+      "start_line": 103,
+      "end_line": 108,
+      "scene_name": "The Cause of the Souls' Cries",
+      "summary": "Statius concludes by explaining that the souls' sighs and tears are shaped by their earthly desires."
+    },
+    {
+      "start_line": 109,
+      "end_line": 117,
+      "scene_name": "Navigating the Abyss",
+      "summary": "The travelers encounter a dangerous, flaming edge of the pit and struggle to stay on the path."
+    },
+    {
+      "start_line": 118,
+      "end_line": 120,
+      "scene_name": "Virgil's Warning",
+      "summary": "Virgil warns Dante to keep a tight grip on his focus to avoid falling into the flames."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Hymn of Mercy",
+      "summary": "The travelers witness spirits moving through the flames while singing a hymn to God's mercy."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Choral Interruptions",
+      "summary": "The sacred hymn is interrupted by cries referencing the myths of Diana and Elice."
+    },
+    {
+      "start_line": 133,
+      "end_line": 135,
+      "scene_name": "Cries of the Chastity",
+      "summary": "Men and women cry out in a manner that honors the virtues of chastity and marriage."
+    },
+    {
+      "start_line": 136,
+      "end_line": 139,
+      "scene_name": "The Purpose of the Ritual",
+      "summary": "Dante concludes that this rhythmic chanting serves as the only sustenance for the burning souls."
+    }
+  ]
+}

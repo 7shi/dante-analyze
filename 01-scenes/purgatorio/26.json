@@ -1,0 +1,131 @@
+{
+  "canto_title": "Encounters with the Souls of the Lustful",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Sunset in the Inferno",
+      "summary": "As Dante and Virgil walk, the setting sun casts long shadows that make the landscape appear to change."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "The Shadows Observe Dante",
+      "summary": "Noticing Dante's physical presence, the shadows begin to whisper that he is not a mere illusion."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "An Inquiry from the Flames",
+      "summary": "One of the shadows approaches Dante, expressing a thirst for water and asking how he remains untouched by the fire."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "Arrival of the New Group",
+      "summary": "A new group of souls approaches, momentarily causing Dante to stop in wonder."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Swarming Shadows",
+      "summary": "Dante observes the souls greeting one another with the frantic, busy energy of a colony of ants."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "The Divided Proclamations",
+      "summary": "As the two groups of souls pass each other, they exchange cries referencing Sodom, Gomorrah, and the lust of Pasiphae."
+    },
+    {
+      "start_line": 43,
+      "end_line": 48,
+      "scene_name": "The Parting of the Souls",
+      "summary": "The two groups diverge like birds, one toward the cold and the other toward the heat, retreating to their respective cries."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "The Return of the First Group",
+      "summary": "The original group of souls returns to Dante, waiting intently to hear his response."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "Dante's Explanation",
+      "summary": "Dante explains that he is a living man and asks the souls to identify themselves and the group following them."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Shadows' Confusion",
+      "summary": "The shadows are momentarily struck with a bewildered silence by Dante's words."
+    },
+    {
+      "start_line": 73,
+      "end_line": 87,
+      "scene_name": "Guido's Identification",
+      "summary": "A soul identifies himself as Guido Guinizzelli and explains that his group is defined by the sin of lust."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "The Pride of the Poet",
+      "summary": "Guido expresses his desire to purge himself through the sorrow of his recognition."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "Dante's Emotional Response",
+      "summary": "Dante is deeply moved by hearing the name of the great poet and gazes at him in silent contemplation."
+    },
+    {
+      "start_line": 103,
+      "end_line": 105,
+      "scene_name": "Dante's Readiness to Serve",
+      "summary": "Having finished his contemplation, Dante prepares himself to assist the soul."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "Guido's Request",
+      "summary": "Guido praises Dante's memory and asks him to reveal why he shows such affection toward the soul."
+    },
+    {
+      "start_line": 112,
+      "end_line": 114,
+      "scene_name": "Dante's Compliment",
+      "summary": "Dante responds by praising the sweetness of Guido's poetic style."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "Praise for Arnaut Daniel",
+      "summary": "Guido points out the soul of Arnaut Daniel, describing him as the supreme master of the vernacular."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "A Prayer for the Departed",
+      "summary": "Guido asks Dante to recite a Paternostro for the souls who can no longer sin."
+    },
+    {
+      "start_line": 133,
+      "end_line": 135,
+      "scene_name": "The Disappearance of Guido",
+      "summary": "Guido vanishes into the flames, much like a fish sinking into water."
+    },
+    {
+      "start_line": 136,
+      "end_line": 141,
+      "scene_name": "The Arrival of Arnaut Daniel",
+      "summary": "Dante approaches the next soul, and Arnaut Daniel begins to speak in his native Occitan."
+    },
+    {
+      "start_line": 142,
+      "end_line": 148,
+      "scene_name": "Arnaut's Lament and Departure",
+      "summary": "Arnaut Daniel laments the passing of the flowers of the past and then disappears back into the fire."
+    }
+  ]
+}

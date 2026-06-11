@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Marble Gallery and the Contorted Souls",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Closing of the Gate",
+      "summary": "The gate of the lustful closes behind the travelers, making the crooked path appear straight."
+    },
+    {
+      "start_line": 7,
+      "end_line": 9,
+      "scene_name": "The Moving Stone",
+      "summary": "The poets pass through a moving stone that oscillates like a wave."
+    },
+    {
+      "start_line": 10,
+      "end_line": 12,
+      "scene_name": "Virgil's Strategy",
+      "summary": "Virgil advises using skill to navigate the shifting movement of the stone."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "Arrival on the Plain",
+      "summary": "The poets emerge from the narrow passage onto a vast, solitary, and desolate plain."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "The Enclosed Ledge",
+      "summary": "Dante describes the immense, enclosing scale of the marble ledge surrounding them."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Exquisite Carvings",
+      "summary": "The marble ledge is revealed to be adorned with carvings so fine they surpass nature itself."
+    },
+    {
+      "start_line": 34,
+      "end_line": 45,
+      "scene_name": "The Annunciation",
+      "summary": "A beautiful carving of the Annunciation is described, capturing the moment of Mary's 'Fiat'."
+    },
+    {
+      "start_line": 46,
+      "end_line": 48,
+      "scene_name": "Virgil's Direction",
+      "summary": "Virgil instructs Dante not to fix his attention on just one single spot."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "Shifting Perspective",
+      "summary": "Dante moves around Virgil to view a different historical story carved into the opposite side of the rock."
+    },
+    {
+      "start_line": 55,
+      "end_line": 66,
+      "scene_name": "The Procession of the Ark",
+      "summary": "Dante observes a carving of the Ark being pulled by oxen, accompanied by a choir of alternating voices."
+    },
+    {
+      "start_line": 67,
+      "end_line": 69,
+      "scene_name": "The Figure of Michal",
+      "summary": "Dante notices a carving of Michal portrayed as a sorrowful and spiteful woman."
+    },
+    {
+      "start_line": 70,
+      "end_line": 81,
+      "scene_name": "The Imperial Carving",
+      "summary": "A grand carving depicting the Emperor Trajan and his victorious Roman forces is revealed."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "The Widow's Lament",
+      "summary": "A dialogue is depicted in the stone between a grieving widow and a divine figure regarding justice and duty."
+    },
+    {
+      "start_line": 94,
+      "end_line": 105,
+      "scene_name": "Wonder at the Artistry",
+      "summary": "Dante reflects on the many wonders of the carvings while greedily seeking out new sights."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "A Warning to the Reader",
+      "summary": "The poet pauses to warn the reader not to be dismayed by the severity of the coming punishment."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "The Hidden Torment",
+      "summary": "Dante expresses confusion at the movement of the figures, and Virgil directs him to look beneath the stones."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Sermon to Christians",
+      "summary": "Dante delivers a stern rebuke to prideful Christians, comparing them to larvae that fail to become butterflies."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "The Corbel Metaphor",
+      "summary": "Dante compares the contorted souls to architectural corbels that bear heavy weight with strained limbs."
+    },
+    {
+      "start_line": 136,
+      "end_line": 139,
+      "scene_name": "The Weight of Pain",
+      "summary": "The scene concludes by describing how the intensity of the souls' physical compression correlates to their level of patience."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "canto_title": "The Celestial Procession of the Empyrean",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 15,
+      "scene_name": "The Path Along the River",
+      "summary": "Beatrice finishes her words and walks along the riverbank, with Dante following closely behind her."
+    },
+    {
+      "start_line": 16,
+      "end_line": 30,
+      "scene_name": "The Sudden Light and Melody",
+      "summary": "A brilliant light and a sweet melody appear, causing Dante to reflect on the intoxicating nature of Eve's temptation."
+    },
+    {
+      "start_line": 31,
+      "end_line": 42,
+      "scene_name": "The Poet's Invocation",
+      "summary": "Dante experiences celestial joy and calls upon the Muses for assistance in composing his verses."
+    },
+    {
+      "start_line": 43,
+      "end_line": 54,
+      "scene_name": "The Golden Candelabra",
+      "summary": "Seven golden trees appear like candelabra, topped with a light brighter than the full moon."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "Beatrice's Rebuke",
+      "summary": "Dante looks at Virgil in astonishment, prompting Beatrice to scold him for not looking at what follows the light."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The White-Clad People",
+      "summary": "A group of people dressed in brilliant white approaches the riverbank."
+    },
+    {
+      "start_line": 70,
+      "end_line": 81,
+      "scene_name": "The Rainbow Trails",
+      "summary": "As Dante moves to better see the procession, he observes colorful trails of light left by the moving flames."
+    },
+    {
+      "start_line": 82,
+      "end_line": 87,
+      "scene_name": "The Twenty-Four Elders",
+      "summary": "Twenty-four elders, crowned in bluebells, appear under a divided sky singing praises."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "The Six-Winged Creatures",
+      "summary": "Four winged animals with eyes upon their feathers approach the elders."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "The Vision of Ezekiel",
+      "summary": "Dante struggles to describe the creatures, instead directing the reader to the prophecies of Ezekiel."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Triumph of the Griffin",
+      "summary": "A triumphal chariot pulled by a griffin moves through the air with majestic wings."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "Comparison to Imperial Glory",
+      "summary": "Dante compares the beauty of this chariot to the greatest triumphs of Rome, noting it surpasses them all."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Three Dancing Women",
+      "summary": "Three women, representing different colors, dance around the right wheel of the chariot."
+    },
+    {
+      "start_line": 130,
+      "end_line": 132,
+      "scene_name": "The Purple Group",
+      "summary": "Four figures dressed in purple celebrate around the left wheel."
+    },
+    {
+      "start_line": 133,
+      "end_line": 141,
+      "scene_name": "The Two Old Men",
+      "summary": "Two elderly men appear, one representing the healing arts and the other representing a contrasting, sharper power."
+    },
+    {
+      "start_line": 142,
+      "end_line": 144,
+      "scene_name": "The Humble Figures",
+      "summary": "A group of humble figures is followed by a single, wise-looking elderly man."
+    },
+    {
+      "start_line": 145,
+      "end_line": 150,
+      "scene_name": "The Floral Crowns",
+      "summary": "The elders are described as wearing crowns of red flowers rather than lilies."
+    },
+    {
+      "start_line": 151,
+      "end_line": 154,
+      "scene_name": "The Sudden Halt",
+      "summary": "A loud thunderclap sounds, causing the procession to halt abruptly before Dante."
+    }
+  ]
+}

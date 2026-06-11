@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Third Circle: The Gluttons and the Prophecy of Florence",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Dante's Reflection",
+      "summary": "Dante contemplates the grief caused by the events of the previous canto."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "The Environment of the Third Circle",
+      "summary": "A description of the eternal rain, hail, and snow that characterizes this level of Hell."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "The Appearance of Cerberus",
+      "summary": "The terrifying physical features of the three-mouthed demon are detailed."
+    },
+    {
+      "start_line": 19,
+      "end_line": 21,
+      "scene_name": "The Souls' Struggle",
+      "summary": "The wretched souls attempt to shield themselves from the storm and the beast."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "Virgil's Intervention",
+      "summary": "Virgil subdues the hungry Cerberus by throwing earth into his mouths."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Feeding Simile",
+      "summary": "A comparison is drawn between the demon's eating habits and a hungry dog."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Rising Soul",
+      "summary": "One particular soul emerges from the mud upon seeing the travelers."
+    },
+    {
+      "start_line": 40,
+      "end_line": 42,
+      "scene_name": "The Soul's Greeting",
+      "summary": "The rising soul asks Dante to recognize him."
+    },
+    {
+      "start_line": 43,
+      "end_line": 48,
+      "scene_name": "Dante's Reply",
+      "summary": "Dante expresses his difficulty in recognizing the soul due to his current distress."
+    },
+    {
+      "start_line": 49,
+      "end_line": 57,
+      "scene_name": "Ciacco's Identification",
+      "summary": "The soul reveals himself as Ciacco and explains his sin of gluttony."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "The Inquiry about Florence",
+      "summary": "Dante asks about the political future and current discord of his home city."
+    },
+    {
+      "start_line": 64,
+      "end_line": 75,
+      "scene_name": "The Prophecy of Discord",
+      "summary": "Ciacco predicts a period of violent civil war fueled by three specific vices."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "Dante's Second Inquiry",
+      "summary": "Dante asks about the ultimate fate of famous Florentine statesmen."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "Ciacco's Reply",
+      "summary": "Ciacco explains that these great men are located in the deeper, darker circles of Hell."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "The Soul's Descent",
+      "summary": "Ciacco sinks back down into the muddy earth."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "The Prophecy of Judgment",
+      "summary": "Virgil warns of the coming Last Judgment and the resurrection of the flesh."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Question of Intensity",
+      "summary": "Dante asks whether future torments will increase or decrease after the final judgment."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Principle of Suffering",
+      "summary": "Virgil explains that the intensity of pain is tied to the perfection of the soul."
+    },
+    {
+      "start_line": 112,
+      "end_line": 115,
+      "scene_name": "Arrival at Pluto",
+      "summary": "The travelers continue their descent and encounter the gatekeeper Pluto."
+    }
+  ]
+}

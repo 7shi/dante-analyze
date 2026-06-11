@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Sphinx's Instruction and the Celestial Dance",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Sphinx's Accusation",
+      "summary": "The Sphinx addresses Dante with a sharp question regarding the truth of his confession."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "Dante's Hesitant Response",
+      "summary": "Overcome by confusion and fear, Dante struggles to find the words to answer."
+    },
+    {
+      "start_line": 16,
+      "end_line": 21,
+      "scene_name": "The Burst of Sorrow",
+      "summary": "Like a broken crossbow, Dante's emotional dam breaks into tears and sighs."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Sphinx's Inquiry",
+      "summary": "The Sphinx questions why Dante's earthly desires forced him to strip away his spiritual defenses."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Confession of Sin",
+      "summary": "Through tears, Dante admits that earthly pleasures led him astray."
+    },
+    {
+      "start_line": 37,
+      "end_line": 48,
+      "scene_name": "The Command to Listen",
+      "summary": "The Sphinx tells Dante that his sin is known and commands him to prepare for a deeper truth."
+    },
+    {
+      "start_line": 49,
+      "end_line": 63,
+      "scene_name": "The Vanity of Earthly Beauty",
+      "summary": "The Sphinx explains that the fleeting beauty of her physical form should not have been a trap for Dante."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "A Call to Courage",
+      "summary": "Dante feels like a ashamed child, and the Sphinx urges him to lift his chin and face the pain."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The Simile of the Stripped Tree",
+      "summary": "The text compares Dante's vulnerability to a tree stripped of its branches by the wind."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Vision of Beatrice",
+      "summary": "Dante's eyes clear, and he glimpses Beatrice looking up at the two-natured beast."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "The Sting of Repentance",
+      "summary": "The realization of his error pierces Dante like nettles, causing him to fall in grief."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "Crossing the River",
+      "summary": "As his strength returns, the woman pulls Dante through the sacred river."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "Arrival at the Blessed Shore",
+      "summary": "Dante reaches the shore and is embraced by the woman and the four nymphs."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Nymphs' Identity",
+      "summary": "The nymphs introduce themselves as stars in the sky and servants to Beatrice."
+    },
+    {
+      "start_line": 112,
+      "end_line": 117,
+      "scene_name": "The Procession to the Griffin",
+      "summary": "The nymphs begin to sing and lead Dante toward the Griffin."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "The Splendor of the Griffin",
+      "summary": "The intense light of the Griffin's eyes dazzles Dante like a mirror reflecting the sun."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "Dante's Wonder",
+      "summary": "Dante marvels at how the creature remains calm while transforming within its own image."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Celestial Dance",
+      "summary": "Dante's soul finds joy in the sight of the three nymphs dancing around the Griffin."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Song of the Nymphs",
+      "summary": "The nymphs sing a plea for Beatrice to look upon Dante and reveal her beauty."
+    },
+    {
+      "start_line": 139,
+      "end_line": 145,
+      "scene_name": "Hymn to Eternal Light",
+      "summary": "Dante concludes with a prayer-like exaltation of the overwhelming brilliance of divine light."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "canto_title": "The Arrival of the Angels and the Encounter with the Malaspina",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 18,
+      "scene_name": "The Evening Hymn",
+      "summary": "As twilight falls, a female soul appears and sings a devout hymn to the Virgin Mary."
+    },
+    {
+      "start_line": 19,
+      "end_line": 30,
+      "scene_name": "The Descent of the Angels",
+      "summary": "Two green-clad angels descend from the heavens, wielding broken, blunt swords."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Crowd's Reaction",
+      "summary": "The arrival of the angels causes the assembled group of souls to pause and watch with uncertainty."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "Sordello's Warning",
+      "summary": "Sordello explains the angels' mission to guard the valley against an approaching serpent and calls the group to descend."
+    },
+    {
+      "start_line": 46,
+      "end_line": 55,
+      "scene_name": "Meeting the Gentle Judge",
+      "summary": "Dante descends and encounters a noble judge who observes him with curiosity and warmth."
+    },
+    {
+      "start_line": 56,
+      "end_line": 63,
+      "scene_name": "The Inquiry of Origins",
+      "summary": "The judge asks Dante about his journey, and Dante reveals he has come from the world of the living."
+    },
+    {
+      "start_line": 64,
+      "end_line": 81,
+      "scene_name": "The Message for Giovanna",
+      "summary": "The judge turns to call Currado and delivers a poignant message intended for his wife, Giovanna."
+    },
+    {
+      "start_line": 82,
+      "end_line": 93,
+      "scene_name": "Celestial Observations",
+      "summary": "Dante observes the shifting stars in the sky and engages in a brief astronomical dialogue with Virgil."
+    },
+    {
+      "start_line": 94,
+      "end_line": 108,
+      "scene_name": "The Serpent's Intrusion",
+      "summary": "A serpent creeps through the valley, prompting the angels to take flight and intercept the threat."
+    },
+    {
+      "start_line": 109,
+      "end_line": 120,
+      "scene_name": "The Identification of Currado",
+      "summary": "The soul revealed to be Currado Malaspina identifies himself and asks Dante for news of his homeland."
+    },
+    {
+      "start_line": 121,
+      "end_line": 132,
+      "scene_name": "Praise for the Malaspina",
+      "summary": "Dante offers high praise for the honor and integrity of the Malaspina family and their territory."
+    },
+    {
+      "start_line": 133,
+      "end_line": 139,
+      "scene_name": "The Judge's Dismissal",
+      "summary": "The judge concludes the encounter with a cryptic and authoritative instruction to move on."
+    }
+  ]
+}

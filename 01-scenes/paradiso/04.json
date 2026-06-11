@@ -1,0 +1,83 @@
+{
+  "canto_title": "Beatrice Resolves Dante's Theological Doubts",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Dante's Internal Tension",
+      "summary": "Dante describes the agonizing conflict between two opposing desires that leaves him unable to speak or act."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The First Doubt: Plato's Theory",
+      "summary": "Beatrice begins her discourse by addressing Dante's first question regarding the movement of souls and the validity of Plato's theories."
+    },
+    {
+      "start_line": 25,
+      "end_line": 39,
+      "scene_name": "The Hierarchy of the First Heaven",
+      "summary": "Beatrice explains the celestial hierarchy and how different spirits experience the eternal light differently."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Use of Anthropomorphism in Scripture",
+      "summary": "Beatrice explains that Scripture uses human imagery and physical descriptions to make divine truths accessible to human intellect."
+    },
+    {
+      "start_line": 49,
+      "end_line": 63,
+      "scene_name": "Correcting the Error of Astrology",
+      "summary": "Beatrice refutes the idea that souls return to planetary spheres, noting how this error misled the world into astrology."
+    },
+    {
+      "start_line": 64,
+      "end_line": 72,
+      "scene_name": "Transition to the Second Doubt",
+      "summary": "Beatrice prepares to address Dante's second, less poisonous concern regarding the justice of divine judgment."
+    },
+    {
+      "start_line": 73,
+      "end_line": 87,
+      "scene_name": "The Distinction Between Will and Force",
+      "summary": "Beatrice clarifies that true violence against the will is impossible because a steadfast will cannot be overcome by external force."
+    },
+    {
+      "start_line": 88,
+      "end_line": 99,
+      "scene_name": "The Paradox of Piccarda and Costanza",
+      "summary": "Beatrice introduces the difficult case of Piccarda's will, which seems to conflict with the memory of her devotion to Costanza."
+    },
+    {
+      "start_line": 100,
+      "end_line": 114,
+      "scene_name": "The Intersection of Force and Will",
+      "summary": "Beatrice explains how fear can cause a person to comply with a force without truly changing their fundamental will."
+    },
+    {
+      "start_line": 115,
+      "end_line": 117,
+      "scene_name": "The Resolution of Conflict",
+      "summary": "The narrator describes how Beatrice's words bring peace to Dante's opposing desires."
+    },
+    {
+      "start_line": 118,
+      "end_line": 129,
+      "scene_name": "Dante's Meditation on Truth",
+      "summary": "Dante expresses his profound devotion to Beatrice and reflects on how the intellect seeks and finds satisfaction in truth."
+    },
+    {
+      "start_line": 130,
+      "end_line": 138,
+      "scene_name": "The New Inquiry",
+      "summary": "Dante explains that doubt is natural to man and uses it as a bridge to pose a new, difficult question to Beatrice."
+    },
+    {
+      "start_line": 139,
+      "end_line": 142,
+      "scene_name": "Beatrice's Divine Gaze",
+      "summary": "Beatrice looks at Dante with eyes full of divine love, causing him to succumb to her overwhelming presence."
+    }
+  ]
+}

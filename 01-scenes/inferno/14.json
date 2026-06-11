@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Third Circle: The Wrathful and the Rain of Fire",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Transition to the Third Circle",
+      "summary": "Dante and Virgil move from the second circle to the third, where the horrors of justice are revealed."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "The Desolate Landscape",
+      "summary": "The poets arrive at a barren wasteland characterized by a thick, arid sand."
+    },
+    {
+      "start_line": 16,
+      "end_line": 21,
+      "scene_name": "The Multitude of Souls",
+      "summary": "Dante observes a vast, miserable crowd of naked souls undergoing various forms of torment."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "The Patterns of Suffering",
+      "summary": "The souls are described in different positions—lying down, sitting, or walking—yet all are vocal in their grief."
+    },
+    {
+      "start_line": 28,
+      "end_line": 39,
+      "scene_name": "The Rain of Fire",
+      "summary": "Great flakes of fire fall upon the sand like snow, heating the earth to intensify the suffering."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks Virgil about the massive figure who appears indifferent to the fire and the surrounding torment."
+    },
+    {
+      "start_line": 49,
+      "end_line": 60,
+      "scene_name": "Capaneus's Defiance",
+      "summary": "The soul Capaneus replies, declaring that his rage remains as strong in death as it was in life."
+    },
+    {
+      "start_line": 61,
+      "end_line": 75,
+      "scene_name": "Virgil's Rebuke and Warning",
+      "summary": "Virgil condemns Capaneus's pride and warns Dante to keep his feet on the edges of the path."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Red Stream",
+      "summary": "The poets reach a small, blood-red stream that flows through the wasteland."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "Virgil's Question to Dante",
+      "summary": "Virgil asks Dante if he noticed anything notable about the recent horrors of the third circle."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "The Legend of Mount Ida",
+      "summary": "Virgil describes a ruined landscape in Crete involving the myth of Rhea and the mountain Ida."
+    },
+    {
+      "start_line": 103,
+      "end_line": 111,
+      "scene_name": "The Colossus of Metals",
+      "summary": "Virgil describes a massive, multi-metal figure standing upright in the mountains."
+    },
+    {
+      "start_line": 112,
+      "end_line": 120,
+      "scene_name": "The Formation of the Rivers",
+      "summary": "The tears from the colossus's fissures flow down to form the various rivers of Hell."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Geometry of Hell",
+      "summary": "Dante wonders why they can see this place if it is so far from the world, and Virgil explains the circular nature of Hell."
+    },
+    {
+      "start_line": 130,
+      "end_line": 138,
+      "scene_name": "The Nature of the Rivers",
+      "summary": "Dante asks about the Phlegethon and Lethe, and Virgil explains the function of the red boiling water and the river of forgetfulness."
+    },
+    {
+      "start_line": 139,
+      "end_line": 142,
+      "scene_name": "Leaving the Woods",
+      "summary": "Virgil instructs Dante to follow him along the safe, unburned edges of the path, away from the woods."
+    }
+  ]
+}

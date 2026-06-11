@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Encounter with Forese and the Shadows of Limbo",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Father's Command",
+      "summary": "Dante's father urges him to move on as time is of the essence."
+    },
+    {
+      "start_line": 7,
+      "end_line": 9,
+      "scene_name": "Following the Sages",
+      "summary": "Dante follows a group of wise men with ease."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "The Sound of Sorrow",
+      "summary": "Dante hears weeping and asks the identity of the passing shadows."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "The Emaciated Crowd",
+      "summary": "A group of ghostly, hollow-eyed souls passes Dante."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "Reflections on Hunger",
+      "summary": "Dante compares the souls to Erysichthon and contemplates the fall of Jerusalem."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "The Scent of Temptation",
+      "summary": "Dante describes the souls' hollow eyes and the tempting smell of fruit and water."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "An Unexpected Encounter",
+      "summary": "A shadow approaches and Dante recognizes his old friend Forese."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "Forese's Inquiry",
+      "summary": "Forese asks Dante to reveal the identities of his two companions."
+    },
+    {
+      "start_line": 55,
+      "end_line": 60,
+      "scene_name": "Dante's Grief",
+      "summary": "Dante expresses his sorrow at seeing Forese's withered state."
+    },
+    {
+      "start_line": 61,
+      "end_line": 75,
+      "scene_name": "The Cause of Torment",
+      "summary": "Forese explains how the scent of nature induces unquenchable hunger and thirst."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "A Question of Time",
+      "summary": "Dante wonders how Forese reached Limbo so quickly after death."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Power of Prayer",
+      "summary": "Forese explains how his wife's prayers facilitated his arrival in Limbo."
+    },
+    {
+      "start_line": 97,
+      "end_line": 114,
+      "scene_name": "A Prophecy of Florence",
+      "summary": "Forese predicts a future of immodesty in Florentine women."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "Explaining the Companions",
+      "summary": "Dante describes the nature and presence of his two companions."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "Dante's Destination",
+      "summary": "Dante speaks of his eventual journey toward Beatrice."
+    },
+    {
+      "start_line": 130,
+      "end_line": 133,
+      "scene_name": "Identifying the Guides",
+      "summary": "Dante identifies Virgil and the shadow of the boatman."
+    }
+  ]
+}

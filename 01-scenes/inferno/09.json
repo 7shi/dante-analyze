@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Furies and the Arrival of Charon",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The obscured vision",
+      "summary": "Dante describes the thick fog and Virgil's sudden reaction to an approaching figure."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "The interrupted dialogue",
+      "summary": "A second figure arrives, and the conversation between Virgil and the newcomer is fragmented and difficult for Dante to follow."
+    },
+    {
+      "start_line": 16,
+      "end_line": 33,
+      "scene_name": "Virgil’s reminiscence",
+      "summary": "In response to Dante's inquiry about the lowest part of Hell, Virgil describes his own past descent via the witch Erichtho."
+    },
+    {
+      "start_line": 34,
+      "end_line": 48,
+      "scene_name": "The Furies revealed",
+      "summary": "Dante’s gaze is drawn to a tower where Virgil identifies the three blood-stained Furies."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "The Furies' frenzy",
+      "summary": "The three Furies are seen performing a violent, self-mutilating ritual."
+    },
+    {
+      "start_line": 55,
+      "end_line": 60,
+      "scene_name": "A warning to look away",
+      "summary": "Virgil commands Dante to avert his eyes to avoid being turned to and stone by the Gorgon."
+    },
+    {
+      "start_line": 61,
+      "end_line": 63,
+      "scene_name": "An authorial aside",
+      "summary": "Dante breaks the narrative to address the reader regarding the complexity of his poetic style."
+    },
+    {
+      "start_line": 64,
+      "end_line": 72,
+      "scene_name": "A violent disturbance",
+      "summary": "A sudden, loud, and wind-like noise approaches, causing the banks of the river to tremble."
+    },
+    {
+      "start_line": 73,
+      "end_line": 84,
+      "scene_name": "The approach of Charon",
+      "summary": "As souls flee like frogs from a predator, the grim figure of Charon appears on the Styx."
+    },
+    {
+      "start_line": 85,
+      "end_line": 87,
+      "scene_name": "Dante's pious reaction",
+      "summary": "Recognizing the messenger's divine origin, Dante prepares himself with humble reverence."
+    },
+    {
+      "start_line": 88,
+      "end_line": 99,
+      "scene_name": "Charon’s reprimand",
+      "summary": "Charon uses his rod to open the gate and scolds the damned for their resistance to the divine will."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The poets advance",
+      "summary": "Charon moves on to his duties, and Dante and Virgil continue their journey toward the next level."
+    },
+    {
+      "start_line": 106,
+      "end_line": 123,
+      "scene_name": "The field of tombs",
+      "summary": "Dante observes a vast landscape of burning graves and the agonizing cries of the dead."
+    },
+    {
+      "start_line": 124,
+      "end_line": 131,
+      "scene_name": "The identity of the dead",
+      "summary": "Virgil explains that the tombs contain the heresiarchs and their followers."
+    },
+    {
+      "start_line": 132,
+      "end_line": 133,
+      "scene_name": "Passing through the ruins",
+      "summary": "The poets move through the site of the martyrs and the high walls."
+    }
+  ]
+}

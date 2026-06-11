@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Ascent to Purgatory and the Encounter with the Guardian",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Poet’s Prologue",
+      "summary": "Dante introduces his new theme of Purgatory and invokes the Muses and Calliope to assist his song."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Awakening Sky",
+      "summary": "The celestial landscape changes as the dawn colors appear and the planet Venus rises in the sky."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "The Four Stars",
+      "summary": "Dante observes the bright northern stars and laments his inability to see them again."
+    },
+    {
+      "start_line": 28,
+      "end_line": 39,
+      "scene_name": "The Discovery of the Sage",
+      "summary": "Dante notices the elderly figure of Virgil illuminated by the celestial lights."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "Virgil’s Inquiry",
+      "summary": "Virgil questions how Dante has escaped the underworld to reach these caves."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "The Guide’s Gesture",
+      "summary": "Virgil takes Dante by the hand and signals for him to follow."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "The Explanation of the Mission",
+      "summary": "Virgil explains that he was sent by a heavenly woman to guide souls."
+    },
+    {
+      "start_line": 67,
+      "end_line": 84,
+      "scene_name": "The Plea for Passage",
+      "summary": "Virgil requests permission to proceed through the terraces of Purgatory."
+    },
+    {
+      "start_line": 85,
+      "end_line": 99,
+      "scene_name": "The Guardian’s Mandate",
+      "summary": "The interlocutor responds and instructs Dante to use a reed to cleanse his face."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Isle of Reeds",
+      "summary": "A description of the fragile, reed-covered islet where nothing else can grow."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Departure",
+      "summary": "The figure vanishes, and Virgil directs Dante to follow him down the plain."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Morning Trek",
+      "summary": "The pair walks through the lonely, dewy landscape as dawn approaches."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Light of Revelation",
+      "summary": "The sun hits the dew, and Dante is moved to tears by the sudden clarity of sight."
+    },
+    {
+      "start_line": 130,
+      "end_line": 136,
+      "scene_name": "Arrival at the Shore",
+      "summary": "The travelers reach the deserted coast, where Dante finds a reed to wrap himself in."
+    }
+  ]
+}

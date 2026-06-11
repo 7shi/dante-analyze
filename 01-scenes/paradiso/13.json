@@ -1,0 +1,83 @@
+{
+  "canto_title": "The Angelic Discourse on Divine Light and Wisdom",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Vision of the Fifteen Stars",
+      "summary": "The speaker directs Dante to visualize a clear, serene sky containing fifteen stars."
+    },
+    {
+      "start_line": 7,
+      "end_line": 24,
+      "scene_name": "The Movement of the Zodiacal Belt",
+      "summary": "The speaker describes the celestial horn of the zodiac and its relationship to the movement of the heavens."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "The Song of the Trinity",
+      "summary": "The focus shifts from visual imagery to the sound of three divine persons singing in harmony."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "The Metaphor of the Wheat",
+      "summary": "The angelic voice breaks the silence with a metaphor about the seasonal cycle of harvesting grain."
+    },
+    {
+      "start_line": 37,
+      "end_line": 48,
+      "scene_name": "The Metaphor of the Pierced Rib",
+      "summary": "The voice uses the imagery of Eve’s creation and the spear to explain the relationship between the source of light and its manifestation."
+    },
+    {
+      "start_line": 49,
+      "end_line": 60,
+      "scene_name": "The Hierarchy of Divine Light",
+      "summary": "The voice explains how the divine idea radiates through nine eternal levels of existence."
+    },
+    {
+      "start_line": 61,
+      "end_line": 78,
+      "scene_name": "The Descent of Light through the Spheres",
+      "summary": "The speaker describes how light filters through the celestial spheres, varying in intensity like light passing through wax."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Models of Perfect Reception",
+      "summary": "The voice cites the creation of the Earth and the Incarnation of the Virgin as the two supreme examples of receiving divine light."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "Dante’s Unspoken Question",
+      "summary": "The angelic voice anticipates and addresses Dante’s internal impulse to ask about Solomon."
+    },
+    {
+      "start_line": 94,
+      "end_line": 108,
+      "scene_name": "The Purpose of Solomon’s Wisdom",
+      "summary": "The voice clarifies that Solomon sought wisdom for the purpose of righteous governance rather than astronomical curiosity."
+    },
+    {
+      "start_line": 109,
+      "end_line": 120,
+      "scene_name": "The Danger of Unskilled Interpretation",
+      "summary": "The voice warns against making hasty or unrefined judgments without the necessary intellectual distinction."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Failures of Past Thinkers",
+      "summary": "The speaker cites historical examples of philosophers and heretics who went astray due to faulty reasoning."
+    },
+    {
+      "start_line": 130,
+      "end_line": 142,
+      "scene_name": "The Warning Against Premature Judgment",
+      "summary": "The voice concludes with a warning not to judge the maturity of things too early, as what rises may also fall."
+    }
+  ]
+}

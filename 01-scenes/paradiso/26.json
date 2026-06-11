@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Voice of the Spirit and the Vision of Beatrice",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Voice’s Command",
+      "summary": "A mysterious voice instructs the blinded Dante to explain his state and reassures him of Beatrice’s guiding sight."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "Dante’s Response",
+      "summary": "Dante responds that his eyes will find relief through the influence of Love."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "The Voice’s Inquiry",
+      "summary": "The voice demands a more specific explanation of what prompted his intense desire."
+    },
+    {
+      "start_line": 25,
+      "end_line": 45,
+      "scene_name": "Dante’s Philosophical Defense",
+      "summary": "Dante uses philosophy and scripture to explain how the pursuit of the ultimate Good drives his soul."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "The Voice’s Second Question",
+      "summary": "The voice confirms Dante’s focus on God but asks if other impulses pull him toward Him."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "Dante’s Declaration of Intent",
+      "summary": "Dante affirms that all his motivations are directed toward divine charity."
+    },
+    {
+      "start_line": 67,
+      "end_line": 79,
+      "scene_name": "Beatrice’s Radiant Appearance",
+      "summary": "A celestial hymn erupts, and Beatrice appears with a light so bright it restores Dante's vision."
+    },
+    {
+      "start_line": 80,
+      "end_line": 84,
+      "scene_name": "The Vision of the Fourth Light",
+      "summary": "Dante notices a fourth light and receives Beatrice's explanation of its primordial nature."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "Dante’s Physical Reaction",
+      "summary": "Overwhelmed by the vision, Dante’s body sways like a leaf before his renewed desire to speak."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "Dante’s Prayerful Plea",
+      "summary": "Dante addresses a primordial spirit, begging to be allowed to hear its voice."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "The Analogy of Hidden Desire",
+      "summary": "Dante uses an analogy of a hidden animal to describe how his internal passion reveals itself."
+    },
+    {
+      "start_line": 103,
+      "end_line": 114,
+      "scene_name": "The Spirit’s Promise",
+      "summary": "The Spirit responds, stating it knows Dante's desire and promises to reveal the mysteries of the heavenly garden."
+    },
+    {
+      "start_line": 115,
+      "end_line": 117,
+      "scene_name": "The Cause of the Journey",
+      "summary": "The Spirit explains that the journey was prompted by the transition of signs rather than the fall itself."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "The History of Virgil",
+      "summary": "The Spirit provides a historical account of Virgil's long period of existence in the afterlife."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "Reflections on Human Speech",
+      "summary": "The Spirit reflects on how human speech and nature allow for the expression of beauty and truth."
+    },
+    {
+      "start_line": 133,
+      "end_line": 142,
+      "scene_name": "The Revelation of the Name",
+      "summary": "The Spirit identifies the Name of the Highest Good and describes the setting of the cosmic mountain."
+    }
+  ]
+}

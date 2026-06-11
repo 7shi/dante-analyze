@@ -1,0 +1,71 @@
+{
+  "canto_title": "The Hierarchy of Sin and the Classification of Fraud and Violence",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Inscription at the Abyss",
+      "summary": "Dante and Virgil arrive at a rocky ledge near a pit and encounter a grave inscription regarding Pope Anastasius."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "Preparing for the Descent",
+      "summary": "Virgil advises a slow descent to allow their senses to adjust to the terrible stench of the abyss."
+    },
+    {
+      "start_line": 16,
+      "end_line": 27,
+      "scene_name": "Overview of the Circles",
+      "summary": "Virgil begins explaining the structure of the circles and the distinction between malice and violence."
+    },
+    {
+      "start_line": 28,
+      "end_line": 39,
+      "scene_name": "The Circle of Violence",
+      "summary": "Virgil describes the first ring, which contains those who used force against others, their property, or their lives."
+    },
+    {
+      "start_line": 40,
+      "end_line": 51,
+      "scene_name": "Violence Against Self and God",
+      "summary": "The lecture expands to include those who committed violence against themselves and those who blasphemed against God."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "The Circle of Fraud",
+      "summary": "Virgil explains how fraud breaks the bonds of trust and describes the various types of fraudulent sins."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks why the souls in the marsh are punished in a different manner than those in the city."
+    },
+    {
+      "start_line": 76,
+      "end_line": 90,
+      "scene_name": "The Aristotelian Defense",
+      "summary": "Virgil responds by referencing the three types of sinlessness found in Ethics: incontinence, malice, and bestiality."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "Dante's Request for Reversal",
+      "summary": "Dante prays for clarity and asks Virgil to revisit the explanation regarding the sin of usury."
+    },
+    {
+      "start_line": 97,
+      "end_line": 111,
+      "scene_name": "The Theology of Usury",
+      "summary": "Virgil uses philosophy and the Book of Genesis to explain why usury is a sin against nature and God."
+    },
+    {
+      "start_line": 112,
+      "end_line": 115,
+      "scene_name": "Celestial Navigation",
+      "summary": "Virgil concludes the lecture and directs Dante's attention to the movement of the stars and the zodiac."
+    }
+  ]
+}

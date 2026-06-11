@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Vision of the Needle and the Arrival at the Gate of Purgatory",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Celestial Setting",
+      "summary": "Dante describes the appearance of the Pleiades stars and his state of sleeping on the grass."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Dream Vision",
+      "summary": "In a dream-like state, Dante sees a golden needle suspended in the sky."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Descent of the Needle",
+      "summary": "The needle descends like lightning, causing an imagined fire that wakes the poet."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Awakening of Achilles",
+      "summary": "Dante compares his sudden, frightened awakening to the legendary awakening of Achilles."
+    },
+    {
+      "start_line": 43,
+      "end_line": 45,
+      "scene_name": "Return to Reality",
+      "summary": "Dante finds himself alone in the morning light facing the sea."
+    },
+    {
+      "start_line": 46,
+      "end_line": 63,
+      "scene_name": "Virgil's Revelation",
+      "summary": "Virgil reassures Dante and explains how Beatrice and Lucia guided him to Purgatory."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "Dante's Reaction",
+      "summary": "Dante's fear turns to comfort as he follows Virgil up the ascent."
+    },
+    {
+      "start_line": 70,
+      "end_line": 72,
+      "scene_name": "The Poet's Meta-commentary",
+      "summary": "Dante addresses the reader directly regarding his narrative technique."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "The Three Steps",
+      "summary": "The poets approach a gate with three colored steps and a silent porter."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "The Flash of the Sword",
+      "summary": "Dante is dazzled by the light reflecting off the porter's naked sword."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "The Porter's Inquiry",
+      "summary": "The porter questions their presence and acknowledges Virgil's previous instructions."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "The Three Colored Steps",
+      "summary": "Dante describes the varying textures and colors of the three steps."
+    },
+    {
+      "start_line": 103,
+      "end_line": 108,
+      "scene_name": "The Angel on the Threshold",
+      "summary": "An angel of God sits upon a diamond-like threshold, instructing Virgil to ask for entry."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Marking of the Forehead",
+      "summary": "Dante asks for mercy, but the porter marks his forehead with the number seven using his sword."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Golden and Silver Keys",
+      "summary": "The porter uses two keys, one gold and one silver, to unlock the gate."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Porter's Warning",
+      "summary": "The porter warns that the keys must be used correctly and explains his duty to prevent disorder."
+    },
+    {
+      "start_line": 130,
+      "end_line": 132,
+      "scene_name": "The Command to Enter",
+      "summary": "The porter opens the door and warns them to be careful not to look back."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Sound of the Hinges",
+      "summary": "The heavy metal hinges of the gate creak loudly like the myth of Tarpeia."
+    },
+    {
+      "start_line": 139,
+      "end_line": 145,
+      "scene_name": "The Celestial Hymn",
+      "summary": "Dante hears a beautiful, indistinct sound of the 'Te Deum' mixed with organ music."
+    }
+  ]
+}

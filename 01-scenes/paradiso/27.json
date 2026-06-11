@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Eclipse of Beatrice and the Celestial Motion",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "The Celestial Hymn",
+      "summary": "The heavens erupt in a joyful hymn to the Holy Trinity, filling Dante with divine ecstasy."
+    },
+    {
+      "start_line": 10,
+      "end_line": 27,
+      "scene_name": "The Angelic Transformation",
+      "summary": "One of the four faces begins to change color, warning Dante that the corruption of the Papacy has darkened the heavens."
+    },
+    {
+      "start_line": 28,
+      "end_line": 36,
+      "scene_name": "The Celestial Eclipse",
+      "summary": "The sky becomes covered in a dark cloud, mirroring a change in Beatrice's expression."
+    },
+    {
+      "start_line": 37,
+      "end_line": 54,
+      "scene_name": "The Critique of the Papacy",
+      "summary": "The transformed figure denounces the corruption of the Church, specifically the sale of sacred offices for profit."
+    },
+    {
+      "start_line": 55,
+      "end_line": 66,
+      "scene_name": "The Lament for the Church",
+      "summary": "The speaker laments the predatory nature of corrupt leaders and urges Dante to speak the truth."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The Vapor Metaphor",
+      "summary": "A visual metaphor involving celestial vapor describes the shifting atmosphere of the heavens."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Expanding Horizon",
+      "summary": "Beatrice directs Dante's gaze, revealing the movement of the Earth and the paths of ancient legends like Ulysses and Europa."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "Devotion to Beatrice",
+      "summary": "Dante's intense focus returns to Beatrice's radiant face, which outshines all other earthly or painted beauties."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "Celestial Propulsion",
+      "summary": "A divine virtue physically propels Dante through the heavens with incredible speed."
+    },
+    {
+      "start_line": 103,
+      "end_line": 114,
+      "scene_name": "The Order of the Cosmos",
+      "summary": "Beatrice explains the divine design and the central role of the Divine Mind in the movement of the spheres."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Mathematical Proportions",
+      "summary": "Beatrice describes the mathematical and rhythmic relationship between the various celestial spheres."
+    },
+    {
+      "start_line": 121,
+      "end_line": 129,
+      "scene_name": "The Corrupting Power of Greed",
+      "summary": "Beatrice condemns how avarice drowns human will and erodes innate innocence and faith."
+    },
+    {
+      "start_line": 130,
+      "end_line": 138,
+      "scene_name": "The Perversion of Nature",
+      "summary": "A metaphor of biological and behavioral decay illustrates how corruption alters the natural order."
+    },
+    {
+      "start_line": 139,
+      "end_line": 148,
+      "scene_name": "The Prophecy of Renewal",
+      "summary": "Beatrice foretells a coming political and celestial realignment that will restore order and bring true fruit."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Vision of the Celestial Order and Beatrice's Instruction",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Prologue",
+      "summary": "Dante declares his intention to sing of the divine glory that moves the universe."
+    },
+    {
+      "start_line": 13,
+      "end_line": 27,
+      "scene_name": "The Invocation",
+      "summary": "The poet prays to Apollo for the poetic inspiration and breath necessary to describe the blessed kingdom."
+    },
+    {
+      "start_line": 28,
+      "end_line": 36,
+      "scene_name": "The Poet's Struggle",
+      "summary": "Dante reflects on the difficulty of his task and the hope for a more successful voice in the future."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "The Cosmic Engine",
+      "summary": "A description of the celestial light and the perfection of the cosmic structure."
+    },
+    {
+      "start_line": 43,
+      "end_line": 54,
+      "scene_name": "The Vision of Beatrice",
+      "summary": "Dante witnesses Beatrice turning to look at the sun, pulling his gaze toward her."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The Blinding Light",
+      "summary": "The intense brilliance of the celestial light overwhelms the poet's vision like glowing iron."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Meeting",
+      "summary": "Dante and Beatrice gaze at one another within the eternal spheres."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The Linguistic Struggle",
+      "summary": "Dante finds himself unable to express the concept of 'transhumanizing' through mere words."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Celestial Harmony",
+      "summary": "The cosmic music and light ignite a profound and unprecedented desire within the poet."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "Beatrice's Rebuke",
+      "summary": "Beatrice speaks to correct Dante's false perceptions and clarify his true location."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "Dante's Wonder",
+      "summary": "Dante expresses his astonishment at the realization that he has transcended his earthly body."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Doctrine of Order",
+      "summary": "Beatrice explains how all things in the universe are ordered to reflect the divine."
+    },
+    {
+      "start_line": 109,
+      "end_line": 120,
+      "scene_name": "The Mechanics of the Spheres",
+      "summary": "Beatrice describes how all creatures and elements are moved through the heavens by instinct and intellect."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Guidance of Providence",
+      "summary": "The poet learns how Divine Providence maintains the stability and purpose of the celestial motions."
+    },
+    {
+      "start_line": 127,
+      "end_line": 135,
+      "scene_name": "The Deviation of Desire",
+      "summary": "Beatrice explains how certain forces can deviate from the divine path due to false pleasure."
+    },
+    {
+      "start_line": 136,
+      "end_line": 142,
+      "scene_name": "Final Instruction",
+      "summary": "Beatrice concludes her lesson by comparing Dante's ascent to a descending stream and turns back to the sky."
+    }
+  ]
+}

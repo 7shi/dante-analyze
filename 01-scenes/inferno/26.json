@@ -1,0 +1,89 @@
+{
+  "canto_title": "The Eighth Bolgia and the Tale of Ulysses",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Prologue to Florence",
+      "summary": "Dante addresses Florence, boasting of its greatness while expressing shame for the corrupt citizens found in Hell."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Ascent and Reflection",
+      "summary": "The poets climb the steep, rocky path as Dante reflects on the difficulty of the journey and the virtues guiding him."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Sight of the Eighth Bolgia",
+      "summary": "Dante observes the eighth ditch of the eighth circle, illuminated by many flickering flames."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Motion of the Flames",
+      "summary": "The flames move rapidly through the ditch like small clouds, each one carrying a sinner."
+    },
+    {
+      "start_line": 43,
+      "end_line": 48,
+      "scene_name": "Virgil's Explanation",
+      "summary": "From his position on the bridge, Dante watches the flames, and Virgil explains that the spirits are bound by their sins."
+    },
+    {
+      "start_line": 49,
+      "end_line": 63,
+      "scene_name": "The Inquiry of the Trojan Heroes",
+      "summary": "Dante asks about the identity of the souls in the divided flames, and Virgil identifies Ulysses, Diomedes, and the victims of the Trojan Horse."
+    },
+    {
+      "start_line": 64,
+      "end_line": 75,
+      "scene_name": "Dante's Request and Virgil's Warning",
+      "summary": "Dante begs to speak to the flames, but Virgil cautions him to be silent and let the guide speak."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Voice from the Flame",
+      "summary": "As a flame reaches the poets, a voice emerges from the fire, asking the two heroes to speak."
+    },
+    {
+      "start_line": 85,
+      "end_line": 99,
+      "scene_name": "Ulysses's Wandering Impulse",
+      "summary": "Ulysses begins his tale, describing how his thirst for worldly experience overcame his duties to family and home."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Voyage Through the Mediterranean",
+      "summary": "He recounts his journey across the open sea, passing through many lands and islands."
+    },
+    {
+      "start_line": 106,
+      "end_line": 120,
+      "scene_name": "The Pillars of Hercules and the Great Exhortation",
+      "summary": "Upon reaching the limits of the known world, Ulysses urges his crew to pursue knowledge and virtue beyond the boundaries of the earth."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Flight of the Crew",
+      "summary": "Ulysses's speech incites his men to a frantic, driven rowing toward the unknown."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "Descent into the Southern Seas",
+      "summary": "The ship enters uncharted waters where the stars and the moon appear entirely different from the northern hemisphere."
+    },
+    {
+      "start_line": 133,
+      "end_line": 142,
+      "scene_name": "The Final Storm and Shipwreck",
+      "summary": "The crew encounters a sudden mountain and a violent storm that causes the ship to capsize and sink beneath the sea."
+    }
+  ]
+}

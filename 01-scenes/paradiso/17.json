@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Prophecy of Exile and the Vision of the Great Lombard",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Mythological Parallel",
+      "summary": "Dante compares his state of seeking truth to the myth of Climenè."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "Beatrice's Instruction",
+      "summary": "Beatrice commands Dante to express his desires clearly so that his needs may be understood."
+    },
+    {
+      "start_line": 13,
+      "end_line": 27,
+      "scene_name": "Dante's Plea for Knowledge",
+      "summary": "Dante expresses his desire to understand the heavy prophecies he heard while descending into the underworld."
+    },
+    {
+      "start_line": 28,
+      "end_line": 36,
+      "scene_name": "The Divine Response",
+      "summary": "Beatrice responds to Dante's confession with clear, precise, and paternal words."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "The Theology of Contingency",
+      "summary": "Beatrice explains how all earthly events are reflected in the eternal divine order."
+    },
+    {
+      "start_line": 46,
+      "end_line": 54,
+      "scene_name": "The Prediction of Exile",
+      "summary": "Beatrice foretells Dante's necessary departure from Florence, comparing it to the fate of Hippolytus."
+    },
+    {
+      "start_line": 55,
+      "end_line": 69,
+      "scene_name": "The Hardships of Exile",
+      "summary": "Beatrice describes the loss of loved ones, the difficulty of living on others' charity, and the bad company Dante will endure."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The First Refuge",
+      "summary": "The prophecy identifies a great Lombard as Dante's first place of hospitality."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Rise of the Virtuous Leader",
+      "summary": "Beatrice describes the emergence of a powerful, virtuous figure whose influence is already being felt."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "The Global Impact of the Leader",
+      "summary": "The greatness of this leader's deeds will become known to all, changing the social order of rich and poor."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "A Warning Against Envy",
+      "summary": "Beatrice warns Dante not to harbor envy toward his neighbors during his upcoming trials."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "Dante's Request for Counsel",
+      "summary": "As Beatrice begins to weave her prophetic vision, Dante seeks guidance from her divine perspective."
+    },
+    {
+      "start_line": 106,
+      "end_line": 120,
+      "scene_name": "Dante's Existential Fear",
+      "summary": "Dante expresses his dread that his experiences may be too bitter for others to accept or that he will be forgotten by history."
+    },
+    {
+      "start_line": 121,
+      "end_line": 135,
+      "scene_name": "The Necessity of Bitter Truth",
+      "summary": "The Light responds that although the truth may be harsh at first, it eventually provides vital nourishment."
+    },
+    {
+      "start_line": 136,
+      "end_line": 142,
+      "scene_name": "The Purpose of the Vision",
+      "summary": "Beatrice explains that these famous souls are shown to Dante to provide a clear and certain example."
+    }
+  ]
+}

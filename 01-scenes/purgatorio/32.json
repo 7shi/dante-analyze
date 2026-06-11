@@ -1,0 +1,149 @@
+{
+  "canto_title": "The Celestial Vision and the Succession of Beasts",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Sensory Blindness",
+      "summary": "Dante describes a state of intense focus and thirst that renders his other senses nearly numb."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Movement of the Heavenly Host",
+      "summary": "Dante observes the glorious army of heaven turning with the sun and the seven flames."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The Descent of the Griffin",
+      "summary": "The nymphs return to the wheels of the chariot as the griffin moves the blessed burden."
+    },
+    {
+      "start_line": 34,
+      "end_line": 36,
+      "scene_name": "Beatrice's Descent",
+      "summary": "A sudden, rapid movement brings Beatrice down to the earthly realm."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "The Bare Tree",
+      "summary": "The travelers encounter a leafless tree whose branches reach toward the heights."
+    },
+    {
+      "start_line": 43,
+      "end_line": 48,
+      "scene_name": "The Voice of the Griffin",
+      "summary": "The creatures and the griffin cry out regarding the preservation of the righteous seed."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "The Tied Branch",
+      "summary": "The griffin moves the weight to the base of a widow's branch, leaving it attached."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "The Transformation of the Tree",
+      "summary": "The tree changes color, blooming with hues between rose and violet under the celestial light."
+    },
+    {
+      "start_line": 61,
+      "end_line": 69,
+      "scene_name": "The Limits of Description",
+      "summary": "Dante admits his inability to fully recount the celestial song and compares his state to a painter."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "The Awakening of the Apostles",
+      "summary": "A sudden splendor wakes Dante, mirroring the awakening of Peter, John, and James."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "The Diminished School",
+      "summary": "The Apostles return to find their school of prophets, Moses and Elijah, changed."
+    },
+    {
+      "start_line": 82,
+      "end_line": 90,
+      "scene_name": "The Reencounter with Beatrice",
+      "summary": "Dante finds Beatrice seated under a new leafy branch, surrounded by her company."
+    },
+    {
+      "start_line": 91,
+      "end_line": 93,
+      "scene_name": "The Closed Senses",
+      "summary": "Dante's focus is so fixed that he cannot process anything beyond Beatrice's presence."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "The Guard of the Nymphs",
+      "summary": "Beatrice sits alone like a guard, while seven nymphs form a protective circle."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "Beatrice's Command",
+      "summary": "Beatrice instructs Dante to observe the chariot and write down what he sees for the sake of the world."
+    },
+    {
+      "start_line": 106,
+      "end_line": 108,
+      "scene_name": "Dante's Devotion",
+      "summary": "Dante obediently directs his mind and eyes according to Beatrice's will."
+    },
+    {
+      "start_line": 109,
+      "end_line": 117,
+      "scene_name": "The Eagle's Strike",
+      "summary": "An eagle descends from the sky and strikes the celestial chariot with great force."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "The Attack of the Fox",
+      "summary": "A hungry fox attacks the vehicle, causing the lady to shrink in distress."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "The Descent of the Needle",
+      "summary": "An object like a needle falls from the heavens, prompting a cry of woe from the sky."
+    },
+    {
+      "start_line": 130,
+      "end_line": 135,
+      "scene_name": "The Dragon's Emergence",
+      "summary": "A dragon emerges from the earth and attaches its tail to the chariot like a wasp."
+    },
+    {
+      "start_line": 136,
+      "end_line": 141,
+      "scene_name": "The Covering of the Earth",
+      "summary": "The earth is covered by a layer of debris, leaving the landscape in a state of breathless suspension."
+    },
+    {
+      "start_line": 142,
+      "end_line": 147,
+      "scene_name": "The Appearance of the Monster",
+      "summary": "The holy vehicle is transformed into a strange, multi-horned monstrosity."
+    },
+    {
+      "start_line": 148,
+      "end_line": 153,
+      "scene_name": "The Proximity of the Giant",
+      "summary": "The monster sits near a loose woman, while a giant looms nearby."
+    },
+    {
+      "start_line": 154,
+      "end_line": 160,
+      "scene_name": "The Final Violence",
+      "summary": "A fierce driver strikes the monster, driving it into the forest and leaving Dante to face the new beasts alone."
+    }
+  ]
+}

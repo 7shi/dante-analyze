@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Ascent through the Ninth Circle and the Doctrine of Love",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Fog Analogy",
+      "summary": "Dante uses the image of mountain mist to describe his initial lack of mental clarity."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Wandering Imagination",
+      "summary": "Dante describes how his internal vision shifts and becomes intensely self-absorbed."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "The Vision of the Crucifix",
+      "summary": "A powerful, sudden vision of Christ and biblical figures appears in Dante's mind."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "The Maiden's Lament",
+      "summary": "The vision shatters to reveal a weeping girl mourning her lost connection to her mother."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Waking Analogy",
+      "summary": "Dante compares the sudden transition of his vision to the sensation of being jolted awake by light."
+    },
+    {
+      "start_line": 46,
+      "end_line": 54,
+      "scene_name": "The Blinding Light",
+      "summary": "A sudden voice and a brilliant light overwhelm Dante's senses as he turns to see the source."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "Virgil’s Instruction",
+      "summary": "Virgil explains the nature of the divine light and urges Dante to climb before darkness falls."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Angelic Greeting",
+      "summary": "As the pilgrims climb the scale, an angelic voice blesses those who are peacemakers."
+    },
+    {
+      "start_line": 70,
+      "end_line": 72,
+      "scene_name": "The Visibility of the Stars",
+      "summary": "The rising altitude allows the light of the stars to become visible from multiple sides."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "Dante’s Physical Exhaustion",
+      "summary": "Dante experiences a sense of internal trembling and physical weakness as they reach the top."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "Dante’s Inquiry",
+      "summary": "Dante asks Virgil which specific sin is being purified in this particular circle."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "Virgil’s Preface",
+      "summary": "Virgil agrees to answer but instructs Dante to focus his mind on the upcoming lesson."
+    },
+    {
+      "start_line": 91,
+      "end_line": 105,
+      "scene_name": "The Doctrine of Love",
+      "summary": "Virgil explains how both natural and volitional love can lead to error and sin."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Connection to Hate and the Three Modes",
+      "summary": "Virgil explains how misdirected love leads to hate and introduces the three types of sinful love."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "The First Mode of Sinful Love",
+      "summary": "Virgil describes those whose love for excellence leads them to seek the downfall of others."
+    },
+    {
+      "start_line": 124,
+      "end_line": 132,
+      "scene_name": "The Second Mode of Sinful Love",
+      "summary": "Virgil describes those who seek a good in a confused and disordered manner."
+    },
+    {
+      "start_line": 133,
+      "end_line": 139,
+      "scene_name": "The Third Mode and Conclusion",
+      "summary": "Virgil describes the final mode of excessive love and concludes his teaching."
+    }
+  ]
+}

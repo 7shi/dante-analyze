@@ -1,0 +1,119 @@
+{
+  "canto_title": "Beatrice's Theological Discourse on the Incarnation and Redemption",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 3,
+      "scene_name": "The Celestial Hymn",
+      "summary": "Beatrice sings a hymn of praise to the Holy God."
+    },
+    {
+      "start_line": 4,
+      "end_line": 9,
+      "scene_name": "Movement of the Lights",
+      "summary": "The celestial substances and lights dance and move with great speed."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "Dante's Awe",
+      "summary": "Dante feels overwhelmed by a sense of reverence and hesitation."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "Beatrice's Promise",
+      "summary": "Beatrice smiles and promises to resolve Dante's mental confusion."
+    },
+    {
+      "start_line": 25,
+      "end_line": 39,
+      "scene_name": "The Fall of Man",
+      "summary": "Beatrice explains how the sin of Adam caused humanity to deviate from the path of truth."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Justice of the Cross",
+      "summary": "She describes the Crucifixion as a just response to the injury of nature."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "Dante's Lingering Doubt",
+      "summary": "Dante expresses his difficulty in understanding the necessity of this divine method."
+    },
+    {
+      "start_line": 55,
+      "end_line": 63,
+      "scene_name": "The Hidden Decree",
+      "summary": "Beatrice introduces the idea of a divine decree that is hidden from those without love."
+    },
+    {
+      "start_line": 64,
+      "end_line": 75,
+      "scene_name": "The Radiance of Divine Goodness",
+      "summary": "She explains how divine goodness radiates and illuminates all things."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "The Impact of Sin",
+      "summary": "She describes how sin makes the human creature dissimilar to the supreme good."
+    },
+    {
+      "start_line": 85,
+      "end_line": 93,
+      "scene_name": "The Necessity of a Way Back",
+      "summary": "Beatrice explains that humanity could only be restored through divine grace or a divine gift."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "The Limits of Human Effort",
+      "summary": "She asserts that man could not have redeemed himself through mere obedience or humility."
+    },
+    {
+      "start_line": 103,
+      "end_line": 114,
+      "scene_name": "The Beauty of God's Plan",
+      "summary": "She discusses why God chose the path of the Incarnation to restore humanity."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Majesty of the Incarnation",
+      "summary": "Beatrice highlights the greatness of the Son of God descending to earth."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "Redirecting the Vision",
+      "summary": "Beatrice shifts Dante's attention back to his visual perception."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "Dante's Observation of Decay",
+      "summary": "Dante observes the corruption and fleeting nature of the material elements."
+    },
+    {
+      "start_line": 130,
+      "end_line": 138,
+      "scene_name": "The Hierarchy of Creation",
+      "summary": "Beatrice explains how angels, elements, and celestial stars are formed and animated."
+    },
+    {
+      "start_line": 139,
+      "end_line": 144,
+      "scene_name": "The Animation of the Soul",
+      "summary": "She describes how the human soul is uniquely infused with divine goodness."
+    },
+    {
+      "start_line": 145,
+      "end_line": 148,
+      "scene_name": "The Argument for Resurrection",
+      "summary": "Beatrice concludes with a logical point regarding the future resurrection of the flesh."
+    }
+  ]
+}

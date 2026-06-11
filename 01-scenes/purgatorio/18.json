@@ -1,0 +1,143 @@
+{
+  "canto_title": "The Nature of Love and the Passing of the Great Crowd",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Dante's Hesitation",
+      "summary": "Virgil finishes his thought and notices Dante's reluctance to ask a question, prompting him to encourage Dante to speak."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "Dante's Request",
+      "summary": "Dante expresses his clarity of vision and asks Virgil to explain the nature of love and its opposite."
+    },
+    {
+      "start_line": 16,
+      "end_line": 27,
+      "scene_name": "The Mechanics of Desire",
+      "summary": "Virgil explains how the soul is naturally inclined to love whatever provides pleasure, driven by instinct and nature."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Movement of the Soul",
+      "summary": "Virgil compares the upward movement of fire to the spiritual desire of the soul to reach the object of its love."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Deception of Appearances",
+      "summary": "Virgil warns that while the essence of love may be good, the outward signs or 'wax' can often be misleading."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "Dante's Doubt",
+      "summary": "Dante responds that Virgil's explanation has increased his doubt regarding whether the soul is responsible for its own merit."
+    },
+    {
+      "start_line": 46,
+      "end_line": 48,
+      "scene_name": "The Promise of Beatrice",
+      "summary": "Virgil tells Dante that the answer to his doubt lies ahead with Beatrice, which is a matter of faith."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "The Essence of Form",
+      "summary": "Virgil explains that every substantial form possesses an inherent virtue that is only revealed through action."
+    },
+    {
+      "start_line": 55,
+      "end_line": 60,
+      "scene_name": "The Instinct of the Soul",
+      "summary": "Virgil describes how the soul's first inclinations are instinctive, like a bee's drive to make honey, and are beyond praise or blame."
+    },
+    {
+      "start_line": 61,
+      "end_line": 63,
+      "scene_name": "The Role of Assent",
+      "summary": "Virgil explains that the virtue of the soul lies in its ability to judge and accept or reject these innate inclinations."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Basis of Morality",
+      "summary": "Virgil notes that those who have reached the depths of reasoning understand this freedom, which is the foundation of morality."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "The Power of Free Will",
+      "summary": "Virgil concludes that while loves may arise from necessity, the power to retain or reject them resides in human free will."
+    },
+    {
+      "start_line": 76,
+      "end_line": 81,
+      "scene_name": "The Night Sky",
+      "summary": "The scene shifts to a description of the moon and the sparse appearance of the stars in the late night sky."
+    },
+    {
+      "start_line": 82,
+      "end_line": 87,
+      "scene_name": "Dante's Lethargy",
+      "summary": "Dante describes his own physical state of heavy, drowsy exhaustion as he walks with Virgil."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "The Approaching Crowd",
+      "summary": "Dante's sleepiness is interrupted by the sudden appearance of a large, rushing crowd of spirits."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "The Shouts of the Travelers",
+      "summary": "Two figures in the crowd cry out about the historical conquests of Mary and Caesar."
+    },
+    {
+      "start_line": 103,
+      "end_line": 105,
+      "scene_name": "The Urgency of the Crowd",
+      "summary": "Other members of the crowd urge their companions to hurry so that time is not wasted."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "Virgil's Inquiry",
+      "summary": "Virgil asks the rushing group for directions to the path that leads upward."
+    },
+    {
+      "start_line": 112,
+      "end_line": 126,
+      "scene_name": "The Abbot's Warning",
+      "summary": "A spirit, formerly an Abbot from Verona, replies and provides a grim prophecy regarding the downfall of his monastery."
+    },
+    {
+      "start_line": 127,
+      "end_line": 129,
+      "scene_name": "Dante's Observation",
+      "summary": "Dante notes how quickly the spirit passed by and expresses his desire to retain the message."
+    },
+    {
+      "start_line": 130,
+      "end_line": 132,
+      "scene_name": "Virgil's Direction",
+      "summary": "Virgil directs Dante to look at two other spirits who are being driven by sloth."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Final Echoes",
+      "summary": "The departing spirits cry out biblical references regarding the Red Sea and the hardships of Dido."
+    },
+    {
+      "start_line": 139,
+      "end_line": 145,
+      "scene_name": "Dante's Drift into Sleep",
+      "summary": "As the spirits disappear, Dante's mind wanders through various thoughts until he eventually falls into a dream-state."
+    }
+  ]
+}

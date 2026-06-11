@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Approach to the City of Dis and the Encounter with Filippo Argenti",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Observation of the Flames",
+      "summary": "Dante describes seeing two small flames and a distant signal atop the tower."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "Inquiry of the Flames",
+      "summary": "Dante asks Virgil about the mysterious lights, and Virgil explains they mark what is expected ahead."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "The Approach of the Boat",
+      "summary": "A small boat approaches the travelers, steered by a single ferryman."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "The Quarrel with Flegias",
+      "summary": "Virgil rebukes the ferryman Flegias, who reacts with anger."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "Boarding the Vessel",
+      "summary": "Dante and Virgil board the boat, which immediately cuts through the water with unusual speed."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "The Encounter with the Muddy Spirit",
+      "summary": "A grotesque, mud-covered spirit confronts the travelers in the swamp."
+    },
+    {
+      "start_line": 40,
+      "end_line": 51,
+      "scene_name": "The Spirit's Monologue on Pride",
+      "summary": "The spirit embraces Dante and delivers a bitter prophecy about the proud kings who will suffer in Hell."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "Dante's Desire for Retribution",
+      "summary": "Dante expresses a wish to see the proud spirit fully submerged in the mud."
+    },
+    {
+      "start_line": 58,
+      "end_line": 64,
+      "scene_name": "The Torment of Filippo Argenti",
+      "summary": "The travelers witness the violent struggle of Filippo Argenti in the mud."
+    },
+    {
+      "start_line": 65,
+      "end_line": 78,
+      "scene_name": "Arrival at the Walls of Dis",
+      "summary": "As they approach the City of Dis, Dante notices the walls glowing red from the internal fires."
+    },
+    {
+      "start_line": 79,
+      "end_line": 93,
+      "scene_name": "Challenge at the Gates",
+      "summary": "The gatekeepers of the city aggressively challenge the travelers and demand they return via the path they came."
+    },
+    {
+      "start_line": 94,
+      "end_line": 102,
+      "scene_name": "Dante's Terror",
+      "summary": "Dante is overcome by fear and begs Virgil not to abandon him."
+    },
+    {
+      "start_line": 103,
+      "end_line": 108,
+      "scene_name": "Virgil's Reassurance",
+      "summary": "Virgil comforts Dante, promising that their path cannot be taken from them."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "Separation at the Gate",
+      "summary": "Virgil leaves Dante alone at the gate as the inhabitants of the city retreat into chaos."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "Virgil's Despair",
+      "summary": "The gates close, leaving Virgil dejected and mourning his inability to enter."
+    },
+    {
+      "start_line": 121,
+      "end_line": 130,
+      "scene_name": "The Secret Path Revealed",
+      "summary": "Virgil tells Dante not to fear, revealing that a secret, unguarded entrance exists nearby."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "canto_title": "The Tenth Bolgia: The Alchemists and the Italic Souls",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Virgil's Reprimand",
+      "summary": "Virgil tells Dante to stop focusing on the weeping shadows and to look ahead, as time is short and much remains to be seen."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Memory of Geri",
+      "summary": "Dante explains his distraction, and Virgil reveals he was watching a specific soul from his own bloodline being punished."
+    },
+    {
+      "start_line": 22,
+      "end_line": 36,
+      "scene_name": "Reflection on Violent Death",
+      "summary": "Virgil warns Dante not to dwell on the fallen, while Dante reflects on the pride and lack of vengeance surrounding the man's death."
+    },
+    {
+      "start_line": 37,
+      "end_line": 51,
+      "scene_name": "Arrival at the Tenth Ditch",
+      "summary": "As the travelers reach the edge of the final ditch of Malebolge, they are met with a terrifying stench of decay."
+    },
+    {
+      "start_line": 52,
+      "end_line": 66,
+      "scene_name": "The Toxic Atmosphere",
+      "summary": "Dante describes a landscape so filled with malice that the very air becomes poisonous, killing all living creatures."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Condition of the Damned",
+      "summary": "The travelers observe the exhausted and suffering souls who are unable to even move themselves in the dark path."
+    },
+    {
+      "start_line": 73,
+      "end_line": 84,
+      "scene_name": "The Agony of the Itch",
+      "summary": "Dante witnesses two souls desperately clawing at their skin due to the unbearable torment of scabies."
+    },
+    {
+      "start_line": 85,
+      "end_line": 96,
+      "scene_name": "The Greeting to the Souls",
+      "summary": "Virgil addresses the scratching souls to see if any Latins are present and identifies himself as a guide through Hell."
+    },
+    {
+      "start_line": 97,
+      "end_line": 108,
+      "scene_name": "The Inquiry of the Living",
+      "summary": "The souls turn to Dante, who asks them to identify themselves and their origins despite their agonizing state."
+    },
+    {
+      "start_line": 109,
+      "end_line": 120,
+      "scene_name": "The Tale of the Alchemist",
+      "summary": "An inhabitant of Arezzo explains how his prideful boast about flight led to his death by fire and his punishment via alchemy."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "Dante's Sienese Jibe",
+      "summary": "Dante makes a witty, disparaging remark comparing the vanity of the Arezzans to that of the Sienese."
+    },
+    {
+      "start_line": 124,
+      "end_line": 139,
+      "scene_name": "The Testimony of Capocchio",
+      "summary": "A second soul, Capocchio, identifies himself and his companions from Siena before revealing his own identity as a fraudster."
+    }
+  ]
+}

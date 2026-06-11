@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Ascent of the Mountain and the Encounter with Belacqua",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "Philosophical Prologue",
+      "summary": "Dante reflects on how intense emotion can divide the soul's attention, making one part of the self present and the other absent."
+    },
+    {
+      "start_line": 13,
+      "end_line": 18,
+      "scene_name": "The Voice in the Dark",
+      "summary": "Dante recalls the moment an unexpected voice announced their arrival at a specific destination."
+    },
+    {
+      "start_line": 19,
+      "end_line": 24,
+      "scene_name": "The Simile of the Vineyard",
+      "summary": "Dante uses a vivid metaphor of a peasant harvesting grapes to describe the suddenness and separation of the souls."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "The Flight of Desire",
+      "summary": "Dante describes the sensation of flying up the mountain, driven by a great longing."
+    },
+    {
+      "start_line": 31,
+      "end_line": 35,
+      "scene_name": "The Difficult Climb",
+      "summary": "The poets struggle through a broken, narrow path where the ground seems to pull at their feet and hands."
+    },
+    {
+      "start_line": 36,
+      "end_line": 39,
+      "scene_name": "Virgil's Command",
+      "summary": "Dante asks for direction at the edge of a precipice, and Virgil instructs him to keep climbing."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "The Exhausted Climber",
+      "summary": "Overwhelmed by the steepness and his own fatigue, Dante asks Virgil to look back at his solitary state."
+    },
+    {
+      "start_line": 49,
+      "end_line": 54,
+      "scene_name": "The Rest on the Summit",
+      "summary": "Encouraged by Virgil, Dante manages a leap to reach a ridge where they sit facing the sunrise."
+    },
+    {
+      "start_line": 55,
+      "end_line": 60,
+      "scene_name": "Observing the Sun",
+      "summary": "Dante observes the position of the sun and realizes its light is striking them from the left."
+    },
+    {
+      "start_line": 61,
+      "end_line": 75,
+      "scene_name": "The Astronomical Lecture",
+      "summary": "Virgil explains the complex movement of the sun and the zodiac through a geographical analogy involving Mt. Sion."
+    },
+    {
+      "start_line": 76,
+      "end_line": 84,
+      "scene_name": "Dante's Astronomical Observation",
+      "summary": "Dante confirms his understanding of the equator and the different perspectives of the sun's path."
+    },
+    {
+      "start_line": 85,
+      "end_line": 87,
+      "scene_name": "A Request for Guidance",
+      "summary": "Dante expresses his desire to know how much further they must climb."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "The Nature of the Mountain",
+      "summary": "Virgil explains that the climb becomes easier as they ascend and that the end of the path awaits them."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "A Voice from the Shadows",
+      "summary": "A sudden voice interrupts them, leading them to discover a large rock nearby."
+    },
+    {
+      "start_line": 103,
+      "end_line": 108,
+      "scene_name": "The Slumbering Figure",
+      "summary": "They find a person sitting in the shadows of the rock, slumped in a state of extreme lethargy."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "The Recognition of Belacqua",
+      "summary": "Dante points out the lazy figure, and the man awakens to address them."
+    },
+    {
+      "start_line": 115,
+      "end_line": 122,
+      "scene_name": "The Encounter with Belacqua",
+      "summary": "Dante recognizes the man as Belacqua, whose lethargy brings a momentary smile to Dante's lips."
+    },
+    {
+      "start_line": 123,
+      "end_line": 126,
+      "scene_name": "Questioning the Sloth",
+      "summary": "Dante asks Belacqua why he is sitting there alone and if he is waiting for a guide."
+    },
+    {
+      "start_line": 127,
+      "end_line": 135,
+      "scene_name": "Belacqua's Excuse",
+      "summary": "Belacqua explains that he cannot climb because he must first complete a period of purgation outside the gate."
+    },
+    {
+      "start_line": 136,
+      "end_line": 139,
+      "scene_name": "Resuming the Journey",
+      "summary": "Virgil urges Dante to continue moving as the sun begins to set and night approaches."
+    }
+  ]
+}

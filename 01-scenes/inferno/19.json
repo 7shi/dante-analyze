@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Encounter with the Simoniac Boniface",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Invocation to the Simoniacs",
+      "summary": "Dante opens with a bitter, direct address to the souls of the simoniacs, denouncing their greed."
+    },
+    {
+      "start_line": 7,
+      "end_line": 12,
+      "scene_name": "Reflection on Divine Wisdom",
+      "summary": "The focus shifts to the poets' movement and a prayerful contemplation of God's justice."
+    },
+    {
+      "start_line": 13,
+      "end_line": 30,
+      "scene_name": "The Landscape of the Third Bolgia",
+      "summary": "Dante provides a detailed visual description of the sinners embedded in the flaming holes of the rock."
+    },
+    {
+      "start_line": 31,
+      "end_line": 39,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante notices a particularly distressed sinner and asks Virgil for an explanation."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Physical Descent",
+      "summary": "The poets descend the steep slope toward the bottom of the fourth ditch."
+    },
+    {
+      "start_line": 46,
+      "end_line": 48,
+      "scene_name": "Dante’s Salutation",
+      "summary": "Dante addresses the specific sinner, prompting a response from the pit."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "The Confessor Simile",
+      "summary": "Dante describes his own trembling state using the metaphor of a nervous confessor."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "The Sinner’s Accusation",
+      "summary": "The sinner, Boniface, recognizes Dante and accuses him of being a seeker of wealth."
+    },
+    {
+      "start_line": 58,
+      "end_line": 60,
+      "scene_name": "Dante’s Bewilderment",
+      "summary": "Dante describes his stunned and silent reaction to the sinner's sudden outburst."
+    },
+    {
+      "start_line": 61,
+      "end_line": 63,
+      "scene_name": "Virgil’s Instruction",
+      "summary": "Virgil provides a brief, necessary command on how Dante should respond to the accusation."
+    },
+    {
+      "start_line": 64,
+      "end_line": 78,
+      "scene_name": "The Sinner’s Revelation",
+      "summary": "The sinner explains his past identity and the circumstances of his current physical entrapment."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Prophecy of the Shepherd",
+      "summary": "The sinner foretells the coming of a lawless leader in France who will eventually cover him."
+    },
+    {
+      "start_line": 88,
+      "end_line": 105,
+      "scene_name": "Dante’s First Rebuttal",
+      "summary": "Dante responds by condemning the simoniacs for their betrayal of the keys of Saint Peter."
+    },
+    {
+      "start_line": 106,
+      "end_line": 117,
+      "scene_name": "Dante’s Second Rebuttal",
+      "summary": "Dante expands his critique to include the Whore of Babylon and the corrupt legacy of Constantine."
+    },
+    {
+      "start_line": 118,
+      "end_line": 123,
+      "scene_name": "Virgil’s Silent Approval",
+      "summary": "Virgil observes Dante’s passionate, righteous delivery with satisfaction."
+    },
+    {
+      "start_line": 124,
+      "end_line": 129,
+      "scene_name": "The Ascent",
+      "summary": "Virgil physically lifts Dante and carries him up the embankment."
+    },
+    {
+      "start_line": 130,
+      "end_line": 133,
+      "scene_name": "Arrival at a New Valley",
+      "summary": "The poets pass the fifth embankment and encounter a new landscape."
+    }
+  ]
+}

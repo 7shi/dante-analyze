@@ -1,0 +1,119 @@
+{
+  "canto_title": "The Encounter with Geryon and the Descent into the Abyss",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 3,
+      "scene_name": "The Herald of the Beast",
+      "summary": "Virgil alerts Dante to the arrival of a terrifying beast with a sharp tail."
+    },
+    {
+      "start_line": 4,
+      "end_line": 9,
+      "scene_name": "The Beast Approaches",
+      "summary": "The creature approaches the edge of the path, revealing its massive body but leaving its tail behind the bank."
+    },
+    {
+      "start_line": 10,
+      "end_line": 18,
+      "scene_name": "Description of Geryon's Form",
+      "summary": "Dante describes the beast's unsettling hybrid features, including a human face and a torso covered in complex patterns."
+    },
+    {
+      "start_line": 19,
+      "end_line": 27,
+      "scene_name": "The Serpent's Tail",
+      "summary": "The beast's tail twitches violently, ending in a venomous stinger like a scorpion."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "Changing Course",
+      "summary": "Virgil directs Dante to deviate from their path to approach the beast directly."
+    },
+    {
+      "start_line": 34,
+      "end_line": 42,
+      "scene_name": "The Decision to Investigate",
+      "summary": "Upon reaching the beast, Virgil sends Dante to observe the nearby souls while he speaks with the creature."
+    },
+    {
+      "start_line": 43,
+      "end_line": 51,
+      "scene_name": "The Agony of the Souls",
+      "summary": "Dante observes the suffering of the souls in the seventh circle, who writhe in pain from heat and insects."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "The Symbolic Pouches",
+      "summary": "Dante notices that each soul carries a distinct colored pouch from which they gaze."
+    },
+    {
+      "start_line": 58,
+      "end_line": 65,
+      "scene_name": "The Colors of Sin",
+      "summary": "Dante observes the various colors and animal motifs depicted on the different pouches."
+    },
+    {
+      "start_line": 66,
+      "end_line": 73,
+      "scene_name": "An Encounter with a Sinner",
+      "summary": "A sinner in a white pouch warns Dante of the dangers of the area and the presence of nearby Florentines."
+    },
+    {
+      "start_line": 74,
+      "end_line": 78,
+      "scene_name": "Dante's Retreat",
+      "summary": "The sinner's frightening physical gesture causes Dante to flee back toward Virgil."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "Mounting the Beast",
+      "summary": "Dante finds Virgil already atop Geryon and is instructed to climb up in front of him."
+    },
+    {
+      "start_line": 85,
+      "end_line": 90,
+      "scene_name": "Dante's Internal Terror",
+      "summary": "Dante experiences intense psychological dread and shame as he prepares for the descent."
+    },
+    {
+      "start_line": 91,
+      "end_line": 99,
+      "scene_name": "The Instructions for Flight",
+      "summary": "Dante climbs onto the beast's shoulders, and Geryon instructs him to prepare for a wide, controlled descent."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Start of the Descent",
+      "summary": "Geryon begins to move, twisting his body and using his limbs to catch the air like a ship leaving port."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "Mythological Parallels of Fear",
+      "summary": "Dante compares his overwhelming terror to the falls of Phaethon and Icarus."
+    },
+    {
+      "start_line": 115,
+      "end_line": 123,
+      "scene_name": "The Sensory Chaos of the Fall",
+      "summary": "As they plummet, Dante experiences rushing wind, the sight of distant fires, and the sound of crying."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "Approaching the Abyss",
+      "summary": "Dante glimpses the various horrors and massive calamities approaching from different sides of the pit."
+    },
+    {
+      "start_line": 127,
+      "end_line": 136,
+      "scene_name": "The Final Landing",
+      "summary": "Using the simile of a descending falcon, the text describes Geryon's arrival at the bottom and his sudden disappearance."
+    }
+  ]
+}

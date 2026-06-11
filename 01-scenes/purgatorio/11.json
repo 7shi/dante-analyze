@@ -1,0 +1,101 @@
+{
+  "canto_title": "The Prayer of the Souls and the Vanity of Earthly Glory",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Souls' Praise",
+      "summary": "The souls begin their recitation of the Lord's Prayer by exalting the glory and eternal nature of God."
+    },
+    {
+      "start_line": 13,
+      "end_line": 24,
+      "scene_name": "The Souls' Petitions",
+      "summary": "The prayer continues with requests for daily sustenance, divine forgiveness, and protection from temptation."
+    },
+    {
+      "start_line": 25,
+      "end_line": 30,
+      "scene_name": "Entering the First Ring",
+      "summary": "The souls move deeper into the first terrace of Purgatory, struggling under the weight of their purification."
+    },
+    {
+      "start_line": 31,
+      "end_line": 36,
+      "scene_name": "Thoughts on Divine Intercession",
+      "summary": "A reflective moment regarding how the prayers of those in Heaven can assist the souls in Purgatory."
+    },
+    {
+      "start_line": 37,
+      "end_line": 45,
+      "scene_name": "A Request for Direction",
+      "summary": "The souls ask Dante and Virgil for guidance on the easiest path to ascend the mountain."
+    },
+    {
+      "start_line": 46,
+      "end_line": 57,
+      "scene_name": "Virgil's Guidance",
+      "summary": "Virgil responds to the souls' request, providing instructions for the climb while noting his own physical struggle."
+    },
+    {
+      "start_line": 58,
+      "end_line": 72,
+      "scene_name": "The Confession of Omberto",
+      "summary": "A soul named Omberto recounts his noble lineage and how his pride led to his death."
+    },
+    {
+      "start_line": 73,
+      "end_line": 81,
+      "scene_name": "Recognition and Inquiry",
+      "summary": "A soul notices Dante and Virgil, prompting Dante to ask if the man is the painter Oderisi of Gubbio."
+    },
+    {
+      "start_line": 82,
+      "end_line": 90,
+      "scene_name": "The Sin of Pride",
+      "summary": "The soul denies being Oderisi and confesses how his worldly desires led to his downfall."
+    },
+    {
+      "start_line": 91,
+      "end_line": 99,
+      "scene_name": "The Ephemerality of Fame",
+      "summary": "The soul reflects on how fame in the arts and literature is fleeting and constantly superseded by new masters."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Brevity of Earthly Goods",
+      "summary": "The soul compares the transient nature of worldly wealth and time to a passing breeze."
+    },
+    {
+      "start_line": 109,
+      "end_line": 117,
+      "scene_name": "The Fading of Sienese Glory",
+      "summary": "The soul laments the decline of the political power and influence of Siena."
+    },
+    {
+      "start_line": 118,
+      "end_line": 120,
+      "scene_name": "Dante's Humble Response",
+      "summary": "Dante acknowledges the truth of the soul's grim observations with humility."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "The Identification of Salvani",
+      "summary": "The soul identifies the previously mentioned figure as Provenzan Salvani, a man driven by political ambition."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "A Question of Salvation",
+      "summary": "Dante asks if prayer can help a soul like Salvani find relief before the long wait for release is over."
+    },
+    {
+      "start_line": 133,
+      "end_line": 142,
+      "scene_name": "The Story of the Great Sacrifice",
+      "summary": "The soul recounts the heavy price Salvani paid to rescue a friend from imprisonment."
+    }
+  ]
+}

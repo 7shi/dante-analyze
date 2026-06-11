@@ -1,0 +1,155 @@
+{
+  "canto_title": "The Descent into the Valley of Violence and the Encounter with the Centaurs",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 15,
+      "scene_name": "The Ruin and the Minotaur",
+      "summary": "Dante describes the massive rocky descent caused by a landslide and the sight of the Minotaur, which bites itself in rage upon seeing the travelers."
+    },
+    {
+      "start_line": 16,
+      "end_line": 21,
+      "scene_name": "Virgil's Rebuke",
+      "summary": "Virgil commands the beast to depart, clarifying that they are not there to be taught by the Minotaur's kin but to witness the suffering of the damned."
+    },
+    {
+      "start_line": 22,
+      "end_line": 27,
+      "scene_name": "The Frenzy of the Bull",
+      "summary": "Dante observes the Minotaur's unstable, leaping movements and Virgil warns him to take cover while the beast is in its fury."
+    },
+    {
+      "start_line": 28,
+      "end_line": 30,
+      "scene_name": "The Descent",
+      "summary": "The two travelers begin their descent down the unstable, shifting stones of the precipice."
+    },
+    {
+      "start_line": 31,
+      "end_line": 45,
+      "scene_name": "The Earthquake and the Fall",
+      "summary": "Virgil explains that the great rock fell due to the seismic shock caused by the arrival of a certain powerful figure in the upper circles."
+    },
+    {
+      "start_line": 46,
+      "end_line": 48,
+      "scene_name": "The River of Blood",
+      "summary": "Virgil directs Dante's eyes toward the approaching river of boiling blood where the victims of violence are immersed."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "Dante's Moral Reflection",
+      "summary": "Dante pauses to reflect on the destructive nature of greed and anger in human life and eternity."
+    },
+    {
+      "start_line": 52,
+      "end_line": 57,
+      "scene_name": "The Centaurs' Patrol",
+      "summary": "The travelers see a wide ditch where a group of centaurs, armed with arrows, hunt like hunters in the world."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "The Centaurs' Challenge",
+      "summary": "Three centaurs part from the group and threaten to shoot the travelers if they do not reveal their purpose."
+    },
+    {
+      "start_line": 64,
+      "end_line": 66,
+      "scene_name": "Virgil's Strategy",
+      "summary": "Virgil instructs Dante to remain quiet and wait to answer the centaurs up close."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "Identification of the Centaurs",
+      "summary": "Virgil identifies the centaurs as Nessus, Chiron, and Pholus."
+    },
+    {
+      "start_line": 73,
+      "end_line": 75,
+      "scene_name": "The Rain of Arrows",
+      "summary": "Dante observes the mass of centaurs continuously shooting arrows into the trench."
+    },
+    {
+      "start_line": 76,
+      "end_line": 79,
+      "scene_name": "The Inspection",
+      "summary": "The travelers approach the creatures, and Chiron uses an arrow to pull back his lips and inspect them."
+    },
+    {
+      "start_line": 80,
+      "end_line": 82,
+      "scene_name": "Chiron's Suspicion",
+      "summary": "Chiron questions his companions, wondering if someone is hidden behind the travelers to manipulate them."
+    },
+    {
+      "start_line": 83,
+      "end_line": 96,
+      "scene_name": "Virgil's Plea for Passage",
+      "summary": "Virgil responds that they are not thieves and explains they must traverse this path by the force of divine virtue, requesting the centaur to carry them."
+    },
+    {
+      "start_line": 97,
+      "end_line": 99,
+      "scene_name": "The Order to Guide",
+      "summary": "Chiron instructs Nessus to lead the travelers and guide them safely through the valley."
+    },
+    {
+      "start_line": 100,
+      "end_line": 102,
+      "scene_name": "The Boiling Blood",
+      "summary": "The travelers move along the banks of the red, boiling river where the souls of the violent scream."
+    },
+    {
+      "start_line": 103,
+      "end_line": 112,
+      "scene_name": "The Tyrants in the Blood",
+      "summary": "Chiron identifies the tyrants submerged in the blood, including Alexander the Great and various Italian lords."
+    },
+    {
+      "start_line": 113,
+      "end_line": 114,
+      "scene_name": "Dante's Turn",
+      "summary": "Dante turns to Virgil, who tells him that he will be the first to learn these things and Dante will be second."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Shadow of the Thames",
+      "summary": "Chiron stops by a mass of souls, pointing out a figure whose blood flows into the Thames."
+    },
+    {
+      "start_line": 121,
+      "end_line": 123,
+      "scene_name": "The Severed Heads",
+      "summary": "Dante observes more souls whose heads and bodies are partially submerged in the river."
+    },
+    {
+      "start_line": 124,
+      "end_line": 126,
+      "scene_name": "The Rising Tide",
+      "summary": "The level of the blood rises so high that it begins to touch the travelers' feet as they walk along the edge."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Depths of Tyranny",
+      "summary": "Chiron explains that the bottom of the trench descends deeper to where even greater tyranny is punished."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Scourge of Attila",
+      "summary": "Chiron describes how divine justice punishes figures like Attila and the Rinvieri, whose tears are harvested by the boiling blood."
+    },
+    {
+      "start_line": 139,
+      "end_line": 139,
+      "scene_name": "Departure",
+      "summary": "Chiron turns away and returns to the depths of the river."
+    }
+  ]
+}

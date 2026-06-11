@@ -1,0 +1,149 @@
+{
+  "canto_title": "The Encounter with the Giants and the Descent with Antaeus",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Introductory Metaphor",
+      "summary": "Dante describes a stinging sensation that serves as a metaphor for the transition into this new realm."
+    },
+    {
+      "start_line": 7,
+      "end_line": 15,
+      "scene_name": "The Horn Blast",
+      "summary": "A sudden, loud horn blast interrupts the silent descent through the darkness."
+    },
+    {
+      "start_line": 16,
+      "end_line": 18,
+      "scene_name": "Legendary Echoes",
+      "summary": "The narrator compares the power of the horn's sound to the historical legends of Charlemagne and Orlando."
+    },
+    {
+      "start_line": 19,
+      "end_line": 27,
+      "scene_name": "The Tower Illusion",
+      "summary": "Dante mistakes the distant, massive shapes for towers and asks Virgil for clarification."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Truth of the Giants",
+      "summary": "Virgil corrects Dante, revealing that the 'towers' are actually giants standing in the pit."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Clearing Mist",
+      "summary": "As the fog dissipates, Dante's fear increases as the true scale of the giants becomes visible."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Wall of Giants",
+      "summary": "The giants appear to Dante like the massive, fortified walls of a walled city."
+    },
+    {
+      "start_line": 46,
+      "end_line": 48,
+      "scene_name": "Anatomy of the Giants",
+      "summary": "Dante observes the specific, massive body parts of the giants that are visible through the gloom."
+    },
+    {
+      "start_line": 49,
+      "end_line": 57,
+      "scene_name": "Nature's Weapons",
+      "summary": "Dante reflects on how Nature created these giants as powerful weapons for the god of war."
+    },
+    {
+      "start_line": 58,
+      "end_line": 66,
+      "scene_name": "Massive Proportions",
+      "summary": "Dante describes the immense, almost impossible scale of one of the giants."
+    },
+    {
+      "start_line": 67,
+      "end_line": 69,
+      "scene_name": "The Unintelligible Cry",
+      "summary": "A giant lets out a terrifying, unintelligible roar."
+    },
+    {
+      "start_line": 70,
+      "end_line": 75,
+      "scene_name": "Virgil's Rebuke",
+      "summary": "Virgil sternly tells the giant to use his leash to vent his anger rather than shouting."
+    },
+    {
+      "start_line": 76,
+      "end_line": 81,
+      "scene_name": "The Identity of Nembrot",
+      "summary": "Virgil identifies the giant as Nembrot and instructs Dante to ignore his strange language."
+    },
+    {
+      "start_line": 82,
+      "end_line": 90,
+      "scene_name": "The Second Giant",
+      "summary": "The travelers encounter a second, even more ferocious giant who is bound by a chain."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "The Fall of Fialte",
+      "summary": "Virgil explains that this giant, Fialte, is punished for challenging the power of Jupiter."
+    },
+    {
+      "start_line": 97,
+      "end_line": 99,
+      "scene_name": "Dante's Curiosity",
+      "summary": "Dante expresses a desire to see even more massive giants like Briareus."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "The Promise of Antaeus",
+      "summary": "Virgil tells Dante that they will soon encounter Antaeus, who will guide them further."
+    },
+    {
+      "start_line": 106,
+      "end_line": 111,
+      "scene_name": "The Earth Shaking",
+      "summary": "A violent movement by a giant causes a sudden, terrifying tremor."
+    },
+    {
+      "start_line": 112,
+      "end_line": 114,
+      "scene_name": "The Arrival of Antaeus",
+      "summary": "The giant Antaeus emerges from his cave into the valley."
+    },
+    {
+      "start_line": 115,
+      "end_line": 129,
+      "scene_name": "Virgil's Diplomacy",
+      "summary": "Virgil addresses Antaeus, praising his strength but commanding him to lower them down."
+    },
+    {
+      "start_line": 130,
+      "end_line": 132,
+      "scene_name": "The Giant's Obedience",
+      "summary": "Antaeus responds to Virgil by reaching out and lifting the travelers."
+    },
+    {
+      "start_line": 133,
+      "end_line": 135,
+      "scene_name": "Securing the Poet",
+      "summary": "Virgil grabs Dante to ensure he is held safely during the sudden movement."
+    },
+    {
+      "start_line": 136,
+      "end_line": 141,
+      "scene_name": "The Dizzying Descent",
+      "summary": "Dante describes the disorienting sensation of being lowered into the depths."
+    },
+    {
+      "start_line": 142,
+      "end_line": 145,
+      "scene_name": "Reaching the Abyss",
+      "summary": "The travelers arrive at the very bottom of the pit, where Lucifer resides."
+    }
+  ]
+}

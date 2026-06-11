@@ -1,0 +1,167 @@
+{
+  "canto_title": "The Siren's Song and the Vision of the Avaricious",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "The Astronomical Prologue",
+      "summary": "Dante describes the pre-dawn astrological setting and the timing of his dream."
+    },
+    {
+      "start_line": 7,
+      "end_line": 9,
+      "scene_name": "The Monstrous Vision",
+      "summary": "A grotesque and physically deformed woman appears in Dante's dream."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "The Siren's Transformation",
+      "summary": "Dante's gaze causes the creature's face to change color and her tongue to straighten."
+    },
+    {
+      "start_line": 16,
+      "end_line": 24,
+      "scene_name": "The Song of the Siren",
+      "summary": "The creature begins to sing a seductive song about her power over mariners and Ulysses."
+    },
+    {
+      "start_line": 25,
+      "end_line": 27,
+      "scene_name": "The Holy Intervention",
+      "summary": "A holy woman appears suddenly to interrupt the Siren's song."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Siren's Revelations",
+      "summary": "The holy woman exposes the Siren's belly, revealing a nauseating stench."
+    },
+    {
+      "start_line": 34,
+      "end_line": 36,
+      "scene_name": "Virgil's Command",
+      "summary": "Virgil wakes Dante and instructs him to find the opening through which they must pass."
+    },
+    {
+      "start_line": 37,
+      "end_line": 39,
+      "scene_name": "The Ascent Begins",
+      "summary": "Dante rises to find the slopes of the sacred mountain already filled with people."
+    },
+    {
+      "start_line": 40,
+      "end_line": 45,
+      "scene_name": "The Sweet Voice",
+      "summary": "Dante hears a divine and incredibly gentle voice calling them to cross."
+    },
+    {
+      "start_line": 46,
+      "end_line": 51,
+      "scene_name": "The Appearance of the Angels",
+      "summary": "Angels with swan-like wings appear between the walls of the rock."
+    },
+    {
+      "start_line": 52,
+      "end_line": 54,
+      "scene_name": "Virgil's Inquiry",
+      "summary": "Virgil asks Dante why he is gazing so intently at the earth."
+    },
+    {
+      "start_line": 55,
+      "end_line": 57,
+      "scene_name": "Dante's Disturbance",
+      "summary": "Dante explains that a recent, troubling vision has left him unable to stop thinking about it."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "The Vision of the Wheel",
+      "summary": "Virgil explains the dream and instructs Dante to look at the eternal wheel."
+    },
+    {
+      "start_line": 64,
+      "end_line": 69,
+      "scene_name": "The Falcon's Flight",
+      "summary": "Dante moves toward the spinning wheel with the sudden intensity of a hunting falcon."
+    },
+    {
+      "start_line": 70,
+      "end_line": 72,
+      "scene_name": "The Wailing Souls",
+      "summary": "Dante observes the people on the fifth terrace lying on the ground in grief."
+    },
+    {
+      "start_line": 73,
+      "end_line": 75,
+      "scene_name": "The Audible Grief",
+      "summary": "The souls cry out with such heavy sighs that their words are difficult to understand."
+    },
+    {
+      "start_line": 76,
+      "end_line": 78,
+      "scene_name": "The Prayer for Ascent",
+      "summary": "The souls pray for strength and justice to help them rise toward higher levels."
+    },
+    {
+      "start_line": 79,
+      "end_line": 81,
+      "scene_name": "Virgil's Instruction",
+      "summary": "Virgil tells the souls to keep their right sides facing outward to find the quickest path."
+    },
+    {
+      "start_line": 82,
+      "end_line": 87,
+      "scene_name": "The Silent Agreement",
+      "summary": "Dante watches as Virgil receives a silent nod of agreement from the hidden guide."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "The Approach to the Bishop",
+      "summary": "Dante approaches the soul and asks for the identity and reason for his punishment."
+    },
+    {
+      "start_line": 97,
+      "end_line": 105,
+      "scene_name": "The Bishop's Identity",
+      "summary": "The soul identifies himself as a successor of Peter and describes his origins."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Sin of Avarice",
+      "summary": "The Bishop describes his late conversion and his punishment for being avaricious."
+    },
+    {
+      "start_line": 115,
+      "end_line": 126,
+      "scene_name": "The Nature of the Punishment",
+      "summary": "The Bishop explains how avarice destroys love and leaves the souls immobile and bound."
+    },
+    {
+      "start_line": 127,
+      "end_line": 130,
+      "scene_name": "Dante's Conscience",
+      "summary": "Dante kneels in reverence, prompting the Bishop to ask why he has bowed so low."
+    },
+    {
+      "start_line": 131,
+      "end_line": 132,
+      "scene_name": "The Scruple of Guilt",
+      "summary": "Dante admits that his own conscience prompted him to bow in respect."
+    },
+    {
+      "start_line": 133,
+      "end_line": 138,
+      "scene_name": "The Dismissal",
+      "summary": "The Bishop tells Dante to rise and cites scripture to justify his authority."
+    },
+    {
+      "start_line": 139,
+      "end_line": 145,
+      "scene_name": "The Final Postscript",
+      "summary": "The Bishop asks Dante to leave and briefly mentions his surviving relative."
+    }
+  ]
+}

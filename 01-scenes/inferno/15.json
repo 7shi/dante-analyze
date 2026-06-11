@@ -1,0 +1,95 @@
+{
+  "canto_title": "The Encounter with Brunetto Latino",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 12,
+      "scene_name": "The Simile of the Flooding Banks",
+      "summary": "Dante uses a simile comparing the souls to people building defenses against floods in Flanders and Padua to describe the formation of the approaching group."
+    },
+    {
+      "start_line": 13,
+      "end_line": 21,
+      "scene_name": "The Approaching Procession",
+      "summary": "Dante describes how the travelers become lost in the woods before encountering a group of souls watching them intensely."
+    },
+    {
+      "start_line": 22,
+      "end_line": 30,
+      "scene_name": "The Recognition of Dante",
+      "summary": "A member of the group recognizes Dante by his clothing and calls out to him."
+    },
+    {
+      "start_line": 31,
+      "end_line": 42,
+      "scene_name": "Brunetto's Instructions",
+      "summary": "Brunetto Latino greets Dante as his son and tells him to keep moving ahead while he catches up later."
+    },
+    {
+      "start_line": 43,
+      "end_line": 54,
+      "scene_name": "Dante's Explanation of his Descent",
+      "summary": "Dante explains how he became lost in the dark wood and ended up on this path."
+    },
+    {
+      "start_line": 55,
+      "end_line": 60,
+      "scene_name": "The Promise of Destiny",
+      "summary": "Brunetto reassures Dante that if he follows his destiny, he will reach a glorious port."
+    },
+    {
+      "start_line": 61,
+      "end_line": 69,
+      "scene_name": "The Warning Against Fiesole",
+      "summary": "Brunetto warns Dante that the people of Fiesole will be his enemies due to their greedy and proud nature."
+    },
+    {
+      "start_line": 70,
+      "end_line": 78,
+      "scene_name": "The Prophecy of the Holy Seed",
+      "summary": "Brunetto predicts that while the Fiesolese will vie for Dante, their malice will not destroy the sacred legacy of the Romans."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "Dante's Tribute to his Teacher",
+      "summary": "Dante expresses his deep gratitude and emotional connection to Brunetto's past teachings."
+    },
+    {
+      "start_line": 88,
+      "end_line": 96,
+      "scene_name": "Acceptance of Fortune",
+      "summary": "Dante vows to record this encounter and expresses his stoic acceptance of the whims of Fortune."
+    },
+    {
+      "start_line": 97,
+      "end_line": 99,
+      "scene_name": "Virgil's Instruction",
+      "summary": "Virgil turns back to Dante and tells him to listen closely to what is being noted."
+    },
+    {
+      "start_line": 100,
+      "end_line": 105,
+      "scene_name": "Dante's Inquiry",
+      "summary": "Dante asks Brunetto about the identities of the other notable souls in the procession."
+    },
+    {
+      "start_line": 106,
+      "end_line": 114,
+      "scene_name": "The Catalog of Scholars",
+      "summary": "Brunetto identifies several famous scholars who are in Hell due to the same sin."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "The Interrupted Farewell",
+      "summary": "Brunetto is forced to end the conversation because a new group of souls is approaching."
+    },
+    {
+      "start_line": 121,
+      "end_line": 124,
+      "scene_name": "The Final Simile",
+      "summary": "Dante concludes the canto with a simile comparing the new group of souls to victorious runners in Verona."
+    }
+  ]
+}

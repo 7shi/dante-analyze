@@ -1,0 +1,149 @@
+{
+  "canto_title": "The Encounter with the Malebranche and Malacoda",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 6,
+      "scene_name": "Arrival at the new, dark ditch",
+      "summary": "The travelers reach a new, obscured opening in the eighth circle."
+    },
+    {
+      "start_line": 7,
+      "end_line": 18,
+      "scene_name": "The Venetian shipyard simile",
+      "summary": "Dante compares the boiling pitch to the substance used in the Venetian shipyards to repair vessels."
+    },
+    {
+      "start_line": 19,
+      "end_line": 21,
+      "scene_name": "Observing the boiling pitch",
+      "summary": "Dante describes the movement and appearance of the thick, bubbling pitch."
+    },
+    {
+      "start_line": 22,
+      "end_line": 24,
+      "scene_name": "Virgil pulls Dante away",
+      "summary": "Virgil moves Dante to a safer position to observe the scene."
+    },
+    {
+      "start_line": 25,
+      "end_line": 33,
+      "scene_name": "The appearance of the demon",
+      "summary": "A black demon is seen running up the rocks toward the travelers."
+    },
+    {
+      "start_line": 34,
+      "end_line": 36,
+      "scene_name": "The demon's physical ferocity",
+      "summary": "Dante describes the demon's aggressive physical form and how he carries a sinner."
+    },
+    {
+      "start_line": 37,
+      "end_line": 42,
+      "scene_name": "The demon's declaration",
+      "summary": "The demon identifies himself to the Malebranche and comments on the corruption of the land."
+    },
+    {
+      "start_line": 43,
+      "end_line": 46,
+      "scene_name": "The demon's departure",
+      "summary": "After dropping the sinner, the demon quickly turns to continue his pursuit."
+    },
+    {
+      "start_line": 47,
+      "end_line": 54,
+      "scene_name": "Warnings from the bridge demons",
+      "summary": "The demons covering the bridge warn the incoming demon not to overflow the pitch."
+    },
+    {
+      "start_line": 55,
+      "end_line": 57,
+      "scene_name": "The cooking simile",
+      "summary": "Dante compares the demons' actions to a cook pushing meat into a cauldron with hooks."
+    },
+    {
+      "start_line": 58,
+      "end_line": 63,
+      "scene_name": "Virgil's advice to Dante",
+      "summary": "Virgil instructs Dante to hide behind a rock to avoid being noticed."
+    },
+    {
+      "start_line": 64,
+      "end_line": 66,
+      "scene_name": "Virgil crosses the bridge",
+      "summary": "Virgil reaches the other side of the bridge with a steady face."
+    },
+    {
+      "start_line": 67,
+      "end_line": 75,
+      "scene_name": "The demon attack and Virgil's challenge",
+      "summary": "The demons emerge with hooks to attack, but Virgil demands a negotiator."
+    },
+    {
+      "start_line": 76,
+      "end_line": 78,
+      "scene_name": "The selection of Malacoda",
+      "summary": "The demons agree to send Malacoda to speak with Virgil."
+    },
+    {
+      "start_line": 79,
+      "end_line": 84,
+      "scene_name": "Virgil's rebuttal",
+      "summary": "Virgil asserts that his presence is due to divine will rather than chance."
+    },
+    {
+      "start_line": 85,
+      "end_line": 87,
+      "scene_name": "The demons' submission",
+      "summary": "Intimidated by Virgil, the demons drop their hooks and agree not to harm him."
+    },
+    {
+      "start_line": 88,
+      "end_line": 90,
+      "scene_name": "Virgil's second command to Dante",
+      "summary": "Virgil tells Dante to stay close to the rocks."
+    },
+    {
+      "start_line": 91,
+      "end_line": 96,
+      "scene_name": "The travelers' encirclement",
+      "summary": "Dante moves to Virgil as they find themselves surrounded by many demons."
+    },
+    {
+      "start_line": 97,
+      "end_line": 102,
+      "scene_name": "The demons' taunts",
+      "summary": "The demons surround the travelers and provocatively offer to let Dante touch them."
+    },
+    {
+      "start_line": 103,
+      "end_line": 105,
+      "scene_name": "Malacoda's interruption",
+      "summary": "Malacoda breaks the taunting by commanding another demon to stop."
+    },
+    {
+      "start_line": 106,
+      "end_line": 117,
+      "scene_name": "Malacoda's news",
+      "summary": "Malacoda explains that the path is broken and provides instructions for the travelers."
+    },
+    {
+      "start_line": 118,
+      "end_line": 126,
+      "scene_name": "The deployment of the demons",
+      "summary": "Malacoda assigns various demons to patrol the area for lost souls."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "Dante's growing anxiety",
+      "summary": "Dante expresses his fear of the demons' threatening glares and bared teeth."
+    },
+    {
+      "start_line": 133,
+      "end_line": 139,
+      "scene_name": "Malacoda's reassurance and the demons' exit",
+      "summary": "Malacoda tells Dante not to fear, as the demons are merely snarling, and the demons depart."
+    }
+  ]
+}

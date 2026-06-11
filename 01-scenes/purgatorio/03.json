@@ -1,0 +1,107 @@
+{
+  "canto_title": "The Encounter with Manfred and the Limits of Reason",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Dante's Internal Turmoil",
+      "summary": "Dante reflects on his fear of being lost and his sense of conscience."
+    },
+    {
+      "start_line": 10,
+      "end_line": 15,
+      "scene_name": "The Widening View",
+      "summary": "Dante describes his physical movement and the sight of the mountain ascending toward the sky."
+    },
+    {
+      "start_line": 16,
+      "end_line": 30,
+      "scene_name": "The Obscured Sun",
+      "summary": "Virgil explains that the sun is obscured by the shadow of the mountain."
+    },
+    {
+      "start_line": 31,
+      "end_line": 45,
+      "scene_name": "The Limits of Reason",
+      "summary": "Virgil discusses the impossibility of human reason grasping the mysteries of the Trinity."
+    },
+    {
+      "start_line": 46,
+      "end_line": 54,
+      "scene_name": "The Steep Ascent",
+      "summary": "The travelers reach the base of the mountain and find a difficult, broken path."
+    },
+    {
+      "start_line": 55,
+      "end_line": 66,
+      "scene_name": "The Approaching Souls",
+      "summary": "A group of souls moves toward the travelers, prompting Dante to suggest Virgil speak to them."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Gathering Crowd",
+      "summary": "The approaching souls cluster closely against the rocks of the mountain."
+    },
+    {
+      "start_line": 73,
+      "end_line": 78,
+      "scene_name": "Virgil’s Appeal",
+      "summary": "Virgil calls out to the souls, asking for the way to the summit."
+    },
+    {
+      "start_line": 79,
+      "end_line": 87,
+      "scene_name": "The Sheep Simile",
+      "summary": "Dante compares the modest, timid movement of the souls to a flock of sheep."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "The Souls' Hesitation",
+      "summary": "The souls react with uncertainty to the sudden darkness caused by the passing shadow."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "The Reason for Darkness",
+      "summary": "The souls explain that the sun's light is blocked by the mountain's wall."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Encounter",
+      "summary": "A beautiful, wounded soul signals the travelers and draws their attention."
+    },
+    {
+      "start_line": 109,
+      "end_line": 111,
+      "scene_name": "The Wound Revealed",
+      "summary": "Dante greets the man, who shows him a wound on his chest."
+    },
+    {
+      "start_line": 112,
+      "end_line": 123,
+      "scene_name": "Manfred's Identity",
+      "summary": "The soul identifies himself as Manfred and describes his violent death."
+    },
+    {
+      "start_line": 124,
+      "end_line": 135,
+      "scene_name": "Manfred's History",
+      "summary": "Manfred recounts his death in Benevento and the enduring power of divine love."
+    },
+    {
+      "start_line": 136,
+      "end_line": 141,
+      "scene_name": "The Doctrine of Schism",
+      "summary": "Manfred explains the punishment for those who die in contumacy against the Church."
+    },
+    {
+      "start_line": 142,
+      "end_line": 145,
+      "scene_name": "The Final Request",
+      "summary": "Manfred asks Dante to deliver a message to his daughter, Constance."
+    }
+  ]
+}

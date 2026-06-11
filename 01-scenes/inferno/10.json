@@ -1,0 +1,125 @@
+{
+  "canto_title": "The Encounter with Farinata and the Shadows of Dis",
+  "scenes": [
+    {
+      "start_line": 1,
+      "end_line": 9,
+      "scene_name": "Dante’s Inquiry",
+      "summary": "Dante asks Virgil if the souls in the tombs can be seen."
+    },
+    {
+      "start_line": 10,
+      "end_line": 18,
+      "scene_name": "The Epicurean’s Reply",
+      "summary": "A soul from a tomb explains the nature of the resurrection and the belief of the Epicureans."
+    },
+    {
+      "start_line": 19,
+      "end_line": 27,
+      "scene_name": "Virgil’s Admonition",
+      "summary": "Virgil rebukes Dante for his indiscreet way of speaking."
+    },
+    {
+      "start_line": 28,
+      "end_line": 33,
+      "scene_name": "The Voice from the Tomb",
+      "summary": "A sudden voice directs Dante to look at the upright figure of Farinata."
+    },
+    {
+      "start_line": 34,
+      "end_line": 39,
+      "scene_name": "The Defiance of Farinata",
+      "summary": "Dante observes Farinata’s majestic and defiant posture in the face of Hell."
+    },
+    {
+      "start_line": 40,
+      "end_line": 48,
+      "scene_name": "Farinata’s Inquiry",
+      "summary": "Farinata questions Dante about his political origins and lineage."
+    },
+    {
+      "start_line": 49,
+      "end_line": 51,
+      "scene_name": "Dante’s Rebuttal",
+      "summary": "Dante counters Farinata by suggesting his people failed to master the art of war."
+    },
+    {
+      "start_line": 52,
+      "end_line": 60,
+      "scene_name": "The Emergence of the Shadow",
+      "summary": "A shadow rises from a grave and asks about his missing son."
+    },
+    {
+      "start_line": 61,
+      "end_line": 66,
+      "scene_name": "The Reference to Guido",
+      "summary": "Dante answers the shadow by indirectly referencing Guido da Montefeltro."
+    },
+    {
+      "start_line": 67,
+      "end_line": 72,
+      "scene_name": "The Shadow’s Grief",
+      "summary": "The shadow reacts with shock to the news and collapses in despair."
+    },
+    {
+      "start_line": 73,
+      "end_line": 84,
+      "scene_name": "Farinata’s Question on Impiety",
+      "summary": "An unmoved Farinata asks why the living are so wicked toward his people."
+    },
+    {
+      "start_line": 85,
+      "end_line": 87,
+      "scene_name": "The Metaphor of the Arbia",
+      "summary": "Dante responds by comparing the destruction of his people to a blood-stained river."
+    },
+    {
+      "start_line": 88,
+      "end_line": 93,
+      "scene_name": "Farinata’s Lament for Florence",
+      "summary": "Farinata mourns his role as the sole defender of Florence during its downfall."
+    },
+    {
+      "start_line": 94,
+      "end_line": 99,
+      "scene_name": "Dante’s Request for Prophecy",
+      "summary": "Dante asks for clarification regarding his destiny and the vision of the future."
+    },
+    {
+      "start_line": 100,
+      "end_line": 108,
+      "scene_name": "The Limitation of Hell’s Vision",
+      "summary": "Farinata explains that souls in Hell can only see things that are far away."
+    },
+    {
+      "start_line": 109,
+      "end_line": 114,
+      "scene_name": "Dante’s Apology",
+      "summary": "Dante apologizes to Virgil for his previous silence and error."
+    },
+    {
+      "start_line": 115,
+      "end_line": 120,
+      "scene_name": "Virgil’s List of Souls",
+      "summary": "Virgil identifies other famous figures, such as Frederick II, resting nearby."
+    },
+    {
+      "start_line": 121,
+      "end_line": 126,
+      "scene_name": "Virgil’s Question to Dante",
+      "summary": "Virgil questions why Dante appears so lost and disoriented."
+    },
+    {
+      "start_line": 127,
+      "end_line": 132,
+      "scene_name": "The Command regarding Beatrice",
+      "summary": "Virgil instructs Dante to remember this moment and look toward Beatrice for guidance."
+    },
+    {
+      "start_line": 133,
+      "end_line": 136,
+      "scene_name": "Departure into the Valley",
+      "summary": "The poets leave the wall and descend into a foul-smelling valley."
+    }
+  ]
+}

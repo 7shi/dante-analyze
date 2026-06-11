@@ -1,0 +1,22 @@
+[project]
+name = "dante-analyze"
+version = "0.1.0"
+description = "Formalization / knowledge-graph layer for Dante's Divine Comedy"
+readme = "README.md"
+license = { text = "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication" }
+requires-python = ">=3.10"
+dependencies = [
+    "dante-corpus",
+    "llm7shi",
+]
+
+[tool.uv.sources]
+llm7shi = { git = "https://github.com/7shi/llm7shi.git" }
+dante-corpus = { path = "../dante-corpus", editable = true }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+dante-analyze = "dante_analyze.cli:main"
