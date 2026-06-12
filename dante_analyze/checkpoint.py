@@ -110,7 +110,7 @@ def load_tags(canticle, canto):
     """{(start, end): {tag_no: name}} for a canto from 04-tags/<canticle>/NN.txt, or exit if the
     file is absent — the authoritative per-scene referent table the downstream consumes. Each
     `n. Name` line becomes {n: name}, the labels exactly as committed (tags.py already applied
-    `fix_elision` at generation time; `verify_tags.py --fix` repairs older files)."""
+    `fix_elision` at generation time — no post-run verifier)."""
     path = out_path(TAGS_DIR, canticle, canto)
     if not path.exists():
         print(f"Error: tags not found: {path} (run 04-tags/tags.py first)", file=sys.stderr)

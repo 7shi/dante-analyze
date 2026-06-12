@@ -62,7 +62,6 @@ def unbrace(text):
 # clause over-corrected; see PLAN.md history). These determiners all elide the same way — drop
 # the final vowel and join the next word with an apostrophe (`lo`->`l'`, `una`->`un'`,
 # `nello`->`nell'`, `quella`->`quell'`). The apostrophe written is U+0027 (ASCII `'`).
-# verify_tags.py keeps the check as a regression guard and `--fix` repairs older files.
 ELIDE_WORDS = (
     "lo", "la", "una",
     "dello", "della", "nello", "nella", "allo", "alla",

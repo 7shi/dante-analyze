@@ -30,7 +30,7 @@ in-conversation retry.
    already resolved once.
 2. **The orthography clause backfired.** The prompt asked the model to correct malformed
    elisions; the model over-applied it, un-eliding required elisions (`l'altra` → `la altra`),
-   creating a standing residual class patched post-hoc by `verify_tags --fix`. A mechanical
+   creating a standing residual class that required post-hoc repair. A mechanical
    quirk with one canonical form belongs in code, not in the prompt (ARCHITECTURE §12).
 3. **Surface forms were the model's job for no reason.** Which words the text uses for a tag
    is already in the markup: `number_scene`'s `meta` carries each tag's `(kind, surface)`.
@@ -91,10 +91,6 @@ The check proves STRUCTURE only. Whether `Beatrice` is the *right* person is int
 inherited from the reading — unverified and shipped as generated, per the project's
 no-hand-proofreading policy (root PLAN.md "Decisions to keep").
 
-Post-run, `verify_tags.py` (no LLM) cross-checks tag counts (markup `k` vs the reading's
-enumeration vs the committed lines) and keeps the elision scan as a regression guard
-(expected 0 now that the fix runs at generation; `--fix` repairs older files in place).
-
 ## What downstream consumes
 
 - `load_tags()` → `{(s, e): {n: name}}` — identity per tag.
@@ -113,7 +109,5 @@ Ollama's separate thinking channel cover the risk (ARCHITECTURE §1).
 
 ```bash
 uv run 04-tags/tags.py inferno [-c 1] [-m MODEL] [--no-think]
-uv run 04-tags/verify_tags.py inferno purgatorio paradiso [--fix] [--strict]
 make -C 04-tags          # all canticles
-make -C 04-tags verify
 ```
