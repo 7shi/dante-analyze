@@ -1,15 +1,14 @@
 # dante-analyze — analysis layer: plan & status (2026-06)
 
-> **▶ STATUS: pipeline = scenes → markup → reading → tags; 04-tags newly built**
+> **▶ STATUS: pipeline = scenes → markup → reading → tags ✓; next = registry (Active work 1)**
 >
 > 1. ✓ **`02-markup/markup.py`** — single pass, `gemma4:31b-it-qat` + CoT on; markup
 >    regenerated for all canticles and committed.
 > 2. ✓ **`03-reading/reading.py`** — readings regenerated on the new markup and committed.
 > 3. ✓ **`04-tags/`** — the identity-first per-tag resolution pass (design: `04-tags/PLAN.md`).
->    Implemented; single-canto validation complete.
-> 4. **Full `04-tags/` run** over all canticles, commit — see Active work 0.
-> 5. **Downstream layer** (registry → speech edges → relations → KG assembly) — design from
->    measured outputs; see Active work.
+>    Implemented; full run complete (100 files, all three canticles), committed.
+> 4. **Downstream layer** (registry → speech edges → relations → KG assembly) — design from
+>    measured outputs; see Active work 1–4.
 
 ### Sanity check (run before committing)
 
@@ -31,28 +30,7 @@ live in their pipeline subdirectory and import the
 shared library package `dante_analyze/`. All LLM calls go
 through the single shared gateway `call_llm` (from `dante_analyze/llm.py`).
 
-## ▶ Now (keep this section first; record where things stand)
-
-- **`04-tags/` is the new formalization seam.** It enumerates the reading's WHO decisions
-  into a checked `n. Name` table per scene, **identity-first**: the most specific
-  identification the reading establishes, in source spelling — a figure the reading knows by
-  proper name gets that name even where the scene's text uses only an epithet or pronoun.
-  Orthography (elision) is repaired in code at generation time, not requested of the model.
-  Full design: `04-tags/PLAN.md`; downstream steps: Active work 1–4 below.
-
-- **Known limit (cross-scene, NOT tags' job): one label per figure across scenes is the
-  registry's invariant.** Identity-first narrows the splits a lot (the reading usually knows
-  the proper name), but where the reading itself tracks a figure only by epithet, different
-  scenes can still expose different epithets for one figure. This is by design (ARCH §11:
-  per-unit local, the global invariant deferred to a registry).
-
 ## Active work
-
-0. **Full `04-tags/` run** [first].
-   - `make -C 04-tags` (inferno, purgatorio, paradiso) on the committed readings.
-   - Spot-check the identity-first behavior against the readings (a figure the reading
-     names should never commit as its scene-local epithet).
-   - Commit the `04-tags/` outputs.
 
 1. **Registry / entity reconciliation (the node table)** [next; mostly code].
    Aggregate the per-scene `04-tags/` labels across each canticle into one canonical,
@@ -98,8 +76,8 @@ through the single shared gateway `call_llm` (from `dante_analyze/llm.py`).
                         (single pass, gemma4:31b-it-qat + CoT on, token-boundary normalization)
      03-reading/reading.py ─→ 03-reading/<c>/NN.txt      free prose reading         [done]
                                                      (committed, not proofread, no check)
-     04-tags/tags.py       ─→ 04-tags/<c>/NN.txt         n. Name identity-first     [built;
-                                                     resolution (checked, reader)  full run pending]
+     04-tags/tags.py       ─→ 04-tags/<c>/NN.txt         n. Name identity-first     [done]
+                                                     resolution (checked, reader)
      (downstream) ─→ TBD                           registry (nodes) + speech    [next: design
                                                    edges + relations + assembly  from outputs]
         ↑ Active work 1–4. The speaker/edge data is intended to feed the
@@ -111,38 +89,11 @@ through the single shared gateway `call_llm` (from `dante_analyze/llm.py`).
 Scene segmentation (`01-scenes/<canticle>/NN.json`) is owned by this repo. The tokenizer and
 quote-span tree are provided by **dante-corpus** and consumed through its API.
 
-- **`02-markup/markup.py`** [done] — per-scene reference markup over the corpus source lines.
-  Single pass, `gemma4:31b-it-qat` + CoT on — both pronoun (`[..]`/`[+..]`) and name (`{..}`) layers
-  in one call. **Model choice**: 31b over 26b — 26b had formatting defects (missing spaces between
-  adjacent marks like `[+io][mi]`) and semantic errors (wrong subject pronoun on L29, L114, L65 of
-  Inferno 1); 31b's occasional name over-marking is acceptable per "Decisions to keep".
-  Post-LLM token-boundary normalization (`normalize_token_brackets`, ARCH §12): LLM outputs like
-  `[m]'` where the tokenizer treats `m'` as one token; the function expands the bracket to match
-  token boundaries, so bracket edges always align with `dante_corpus.tokenize` output.
-  Output: `NN.txt` per canto (committed). Reads source lines from the dante_corpus API; reads scene ranges from `01-scenes/` JSON.
-- **`dante_analyze/`** [done] — the shared library for 03-reading/reading.py +
-  04-tags/tags.py, split across modules:
-  `corpus.py` (corpus input readers: `read_markup`, `load_scenes`, `available_cantos`),
-  `checkpoint.py` (`load_readings`, `load_tags`, per-canto `## Scene` + `# recap` I/O),
-  `marks.py` (deterministic tag numbering `number_scene`, reply normalizer `unbrace`, elision repair `fix_elision`),
-  `llm.py` (the **single runaway-guarded LLM gateway** `call_llm`),
-  `prompts.py` (Turn-1 `build_reason_prompt`),
-  `cli.py` (read-only query CLI). All re-exported from `dante_analyze/__init__.py`.
-- **`03-reading/reading.py`** [done] — free prose reading per scene
-  → `03-reading/<c>/NN.txt`. CoT ON, `gemma4:31b-it-qat`; no check, not proofread. Owns the recap.
-  Decides WHO every numbered tag refers to (the single source of truth — ARCH §11).
-- **`04-tags/tags.py`** [built; full run pending] — authoritative identity-first `n. Name`
-  resolution per scene → `04-tags/<c>/NN.txt`. Binds directly to the committed reading
-  (replayed as the assistant's reasoning turn); WHO not re-decided — the turn enumerates the
-  reading's most specific identification per tag, in source spelling. `fix_elision` applied
-  in code before the check and the history write-back (ARCH §12). Structure-checked
-  (every tag named exactly once, none extra/empty, no pronoun echo), no review. Design:
-  `04-tags/PLAN.md`. Feeds the downstream registry/edges (Active work 1–4).
-- **`dante_analyze/cli.py`** [done] — read-only query CLI over the committed outputs:
-  `dante-analyze {scenes,reading,tags} show <canticle> <canto>`.
-
-The cross-scene registry (one canonical node per figure), the speaker/edge attribution, the
-relations pass, and the KG assembly are the downstream layer, Active work 1–4 — not yet built.
+- **`02-markup/markup.py`** [done] — per-scene reference markup; single pass, `gemma4:31b-it-qat` + CoT on, both pronoun and name layers; `normalize_token_brackets` post-LLM (ARCH §12); round-trip checked.
+- **`dante_analyze/`** [done] — shared library: `corpus.py`, `checkpoint.py`, `marks.py` (`number_scene`, `unbrace`, `fix_elision`), `llm.py` (`call_llm`), `prompts.py` (`build_reason_prompt`), `cli.py`; all re-exported from `__init__.py`.
+- **`03-reading/reading.py`** [done] — free prose reading per scene, CoT on, `gemma4:31b-it-qat`; no check, not proofread; single source of truth for WHO (ARCH §11).
+- **`04-tags/tags.py`** [done] — identity-first `n. Name` resolution per scene; replays reading as reasoning turn; `fix_elision` in code (ARCH §12); structure-checked (ARCH §11); design: `04-tags/PLAN.md`.
+- **`dante_analyze/cli.py`** [done] — read-only query CLI: `dante-analyze {scenes,reading,tags} show <canticle> <canto>`.
 
 ## Deferred
 
@@ -216,7 +167,7 @@ relations pass, and the KG assembly are the downstream layer, Active work 1–4 
 | `04-tags/PLAN.md` | ✓ | Design of the identity-first resolution pass |
 | `04-tags/tags.py` | ✓ | Authoritative identity-first `n. Name` resolution per scene (binds direct to reading); reader `gemma4:31b-it-qat`; structure-checked |
 | `04-tags/Makefile` | ✓ | Build target for tags pass |
-| `04-tags/<canticle>/NN.txt` | after run | Per-tag identity resolution (committed, the data downstream consumes); the checkpoint |
+| `04-tags/<canticle>/NN.txt` | ✓ | Per-tag identity resolution (committed, the data downstream consumes); the checkpoint |
 
 The normalized source `.txt`, tokens, and quote-span XML live in **dante-corpus** and are read
 through its API. Scene JSON (`01-scenes/<canticle>/NN.json`) lives in this repo.

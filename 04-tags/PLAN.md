@@ -1,10 +1,5 @@
 # 04-tags — identity-first per-tag resolution (design)
 
-> Successor to `_05-tags/` (scheduled for deletion). Same seam in the pipeline — the pass
-> that turns the reading's unchecked WHO decisions into checked, machine-readable data —
-> rebuilt to fix the defects found in the prior run's output (REVIEW.md §3, evidence in
-> `.venv/bak/05/inferno/01.txt`).
-
 ## Pipeline position
 
 ```
