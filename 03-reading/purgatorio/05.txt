@@ -1,0 +1,305 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+
+## Scene 1-6: The Sudden Cry
+In this scene, Dante and Virgil are continuing their journey upward. Dante is following Virgil's footsteps, moving away from the spirits of the slothful. As they walk, a female soul among the slothful notices something strange about Dante and shouts to get the attention of others, pointing out that Dante appears to be a living man because of the way the sunlight is hitting him.
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: Dante
+*   **{2:quell' ombre}**: the souls of the slothful (the spirits Dante just left behind)
+*   **[3:+io]**: Dante
+*   **{4:mio duca}**: Virgil
+*   **[5:me]**: Dante
+*   **{6:una}**: an unnamed female soul (one of the slothful spirits)
+*   **[7:+tu]**: the other souls nearby (the female soul is calling out to her companions to look)
+*   **[8:+ei]**: Dante
+*   **[9:si]**: Dante
+
+## Scene 7-9: Dante's Distraction
+In this brief scene, Dante reacts to the shout of the female soul from the previous scene. Hearing her words, he turns around and looks back at the group of slothful spirits. He observes that they are staring at him with great wonder, captivated by his presence and the light reflecting off his living body.
+
+**Tag Resolutions:**
+
+* **[1:+io]**: Dante (the narrator turning his eyes)
+* **[2:+io]**: Dante (the narrator seeing the spirits)
+* **[3:me]**: Dante (the object of the spirits' gaze)
+* **[4:me]**: Dante (the object of the spirits' gaze)
+
+## Scene 10-18: Virgil's Admonishment
+In this scene, Virgil notices that Dante has slowed his pace because he is distracted by the shouts and curiosity of the slothful spirits. Virgil intervenes to refocus Dante's attention on their ascent. He tells Dante to ignore the chatter and to remain mentally steadfast, comparing the ideal state of mind to a firm tower that does not shake in the wind. Virgil concludes with a general observation about human nature: when a person allows their thoughts to wander or becomes overly excited by a succession of distractions, they lose sight of their goal.
+
+**Tag Resolutions:**
+
+*   **{1:l maestro}**: Virgil
+*   **[2:ti]**: Dante
+*   **[3:+tu]**: Dante
+*   **[4:me]**: Virgil
+*   **[5:+tu]**: Dante
+*   **{6:le genti}**: the souls of the slothful
+*   **[7:+tu]**: Dante
+*   **{8:l'omo}**: a man (used here in a generic, philosophical sense to refer to any person)
+*   **[9:sé]**: the man (referring back to `{8:l'omo}`)
+
+## Scene 19-21: Dante's Compliance
+In this brief scene, Dante responds to Virgil’s reprimand. Having been told to ignore the distractions of the slothful spirits and keep his mind focused like a firm tower, Dante realizes he has no choice but to comply. He answers Virgil with a simple "I come" (or "I am following"). As he does so, he is blushing—a physical manifestation of his embarrassment or humility—which the narrator notes is the "color" (blush) that often makes a human being appear worthy of forgiveness.
+
+**Tag Resolutions:**
+
+*   **[1:io]**: Dante (the narrator reflecting on his limited options for reply)
+*   **[2:Io]**: Dante (the speaker of the words "I come")
+*   **[3:+ei]**: 
+    *   The subject (implied by *dissi*) is **Dante**.
+    *   The indirect object (implied by the context of the reply) is **Virgil**.
+*   **{4:l'uom}**: a man (used here in a generic sense to refer to any human being)
+
+## Scene 22-27: The Approaching Procession
+In this scene, while Dante and Virgil continue their ascent, a group of souls appears, walking slightly ahead of them across the slope. This procession is singing the *Miserere* (Psalm 51) in an alternating, verse-by-verse fashion. As the souls move closer, they realize that Dante is not a translucent spirit like them; his physical body blocks the sunlight from passing through him. Startled by the presence of a living man among the dead, the souls stop their prayer and let out a collective, long, and hoarse cry of astonishment ("oh!").
+
+**Tag Resolutions:**
+
+*   **{1:genti}**: a group of souls/spirits (the procession)
+*   **[2:noi]**: Dante and Virgil
+*   **[3:+elli]**: the souls/spirits (referring back to `{1:genti}`)
+*   **[4:s']**: the souls/spirits (referring back to `{1:genti}`)
+*   **[5:i']**: Dante
+*   **[6:+elli]**: the souls/spirits (referring back to `{1:genti}`)
+
+## Scene 28-30: The Messengers Arrive
+In this scene, two spirits from the procession of souls mentioned in the previous scene step forward to act as spokespersons. They run toward Dante and Virgil to investigate the strange sight of a living man among them, asking the pair to explain their "condition" (their nature or identity).
+
+**Tag Resolutions:**
+
+* **[1:loro]**: the souls/spirits of the procession
+* **{2:messaggi}**: two of those souls (acting as messengers)
+* **[3:+elli]**: the two messenger souls
+* **[4:noi]**: Dante and Virgil
+* **[5:+voi]**: Dante and Virgil
+
+## Scene 31-36: Virgil's Verification
+In this scene, Virgil takes over the communication with the two spirits who have approached them. He instructs the two messengers to return to the larger group of souls from which they came and deliver a specific message: that Dante is indeed a living man made of "true flesh."
+
+Virgil explains that if the group had stopped because they noticed Dante casting a shadow (which the translucent spirits cannot do), then this confirmation is sufficient. He concludes by suggesting that the souls should show Dante honor and that he may be a welcome or dear figure to them.
+
+**Tag Resolutions:**
+
+*   **{1:l mio maestro}**: Virgil
+*   **[2:Voi]**: the two messenger souls
+*   **[3:color]**: the procession of souls (those who sent the messengers)
+*   **[4:vi]**: the two messenger souls
+*   **[5:costui]**: Dante
+*   **{6:la sua ombra}**: Dante's shadow
+*   **[7:+elli]**: the souls/spirits (the group who stopped to look)
+*   **[8:io]**: Virgil
+*   **[9:lor]**: the souls/spirits
+*   **[10:+elli]**: the souls/spirits
+*   **[11:+elli]**: the souls/spirits
+*   **[12:lor]**: the souls/spirits
+
+## Scene 37-42: The Swarming Souls
+In this scene, Dante uses a vivid simile to describe the movement of the souls. After Virgil instructs the two messengers to return to their group, they do so with incredible speed. Dante compares their swift ascent back to the main body of souls to the way glowing heat vapors (mist or steam) pierce the clear early morning sky, or how August clouds move quickly as the sun sets. Once the messengers reach their companions, the entire group of souls turns as one and rushes back toward Dante and Virgil, moving like an unrestrained crowd or a flooding torrent.
+
+**Tag Resolutions:**
+
+*   **{1:Vapori accesi}**: glowing vapors (natural phenomena used in a simile to describe the souls' movement)
+*   **[2:io]**: Dante (the narrator)
+*   **[3:color]**: the glowing vapors (and August clouds)
+*   **[4:noi]**: Dante and Virgil
+*   **[5:+elli]**: the souls (the messengers and the group they rejoined)
+*   **{6:schiera}**: the group of souls (the "multitude" or "crowd")
+
+## Scene 43-45: The Poet's Warning
+In this scene, Virgil (the poet) speaks to Dante as the large crowd of souls reaches them. Virgil notes that there are many of them and that they have come to speak with or beseech Dante. Rather than stopping to engage with the crowd, Virgil instructs Dante to keep moving upward, advising him to listen to the spirits while continuing their ascent.
+
+**Tag Resolutions:**
+
+*   **{1:Questa gente}**: the group of souls (the procession/crowd)
+*   **[2:noi]**: Dante and Virgil
+*   **[3:+elli]**: the group of souls
+*   **{4:l poeta}**: Virgil
+*   **[5:+tu]**: Dante
+*   **[6:+tu]**: Dante
+
+## Scene 46-57: The Collective Plea
+In this scene, the crowd of souls that has rushed toward Dante and Virgil begins to shout their collective plea. They address Dante directly, recognizing him as a living being because he possesses the physical body he was born with. They beg him to slow his pace and check if he recognizes any of them from the living world, so that he might bring them news from "beyond" (the world of the living). 
+
+The souls then explain their spiritual state: they were all sinners until the very last moment of their lives, but the "light of heaven" (God's grace) gave them awareness. This allowed them to repent and forgive others, meaning they died in peace with God. Now, they are consumed by a painful yearning to finally see God.
+
+**Tag Resolutions:**
+
+*   **{1:anima}**: Dante (addressed as "soul," though he is living)
+*   **[2:+tu]**: Dante
+*   **[3:+elli]**: the group of souls
+*   **[4:+tu]**: Dante
+*   **[5:+tu]**: Dante
+*   **[6:noi]**: the group of souls
+*   **[7:+tu]**: Dante
+*   **[8:lui]**: any one of the souls in the group
+*   **[9:+tu]**: Dante
+*   **[10:+tu]**: Dante
+*   **[11:+tu]**: Dante
+*   **[12:t']**: Dante
+*   **[13:Noi]**: the group of souls
+*   **[14:+noi]**: the group of souls
+*   **{15:peccatori}**: the group of souls
+*   **{16:lume del ciel}**: God (specifically, the divine light/grace of God)
+*   **[17:ne]**: the group of souls
+*   **[18:+noi]**: the group of souls
+*   **{19:Dio}**: God
+*   **[20:sé]**: God
+*   **[21:n']**: the group of souls
+
+## Scene 58-63: Dante's Vow
+In this scene, Dante responds to the collective plea of the souls. He admits that as he looks at their faces, he does not recognize any of them. However, he offers his assistance, telling the "well-born spirits" that if there is anything within his power to do for them, they should tell him and he will do it. He explains that he does this for the sake of the peace/grace he is seeking as he travels from one world to another, following the footsteps of his guide.
+
+**Tag Resolutions:**
+
+*   **[1:io]**: Dante (the speaker)
+*   **[2:+io]**: Dante
+*   **[3:voi]**: the group of souls
+*   **[4:io]**: Dante
+*   **{5:spiriti ben nati}**: the group of souls
+*   **[6:voi]**: the group of souls
+*   **[7:io]**: Dante
+*   **{8:sì fatta guida}**: Virgil
+*   **[9:mi]**: Dante
+*   **[10:si]**: Dante (part of the passive construction *si face*, meaning "I am made to seek")
+
+## Scene 64-72: The First Soul's Request
+In this scene, one of the souls from the crowd steps forward to speak on behalf of the group. He begins by stating that everyone in the group trusts in Dante's willingness to help them without needing a formal oath, as long as Dante's will remains steadfast. This specific soul then makes a personal request: he asks Dante that if he ever visits the region between Romagna and the lands of Charles (specifically mentioning the city of Fano), he should be kind enough to offer prayers for the soul there. The purpose of these prayers is to help the soul purge his grave offenses more quickly.
+
+**Tag Resolutions:**
+
+*   **[1:si]**: everyone (referring to the group of souls)
+*   **[2:io]**: the first soul (the speaker)
+*   **[3:+io]**: the first soul (the speaker)
+*   **[4:ti]**: Dante
+*   **[5:+tu]**: Dante
+*   **{6:Carlo}**: Charles (referring to the territory/kingdom of Charles of Anjou)
+*   **[7:tu]**: Dante
+*   **[8:mi]**: the first soul (the speaker)
+*   **[9:me]**: the first soul (the speaker)
+*   **[10:s']**: impersonal "one" (in the construction *si adori*, meaning "that prayers may be offered")
+*   **[11:i']**: the first soul (the speaker)
+
+## Scene 73-84: The Death in the Marsh
+In this scene, the first soul (the one who stepped forward in the previous scene) describes the violent circumstances of his death to Dante. He explains that he was attacked and wounded while he was at the home or under the protection of the Antenori family, a place where he had believed he was safe. He reveals that the murder was orchestrated by a political enemy from Esti, who harbored a great hatred for him. The soul describes his desperate attempt to escape toward the river Mira; he mentions passing through Oriaco, noting that if he had successfully reached the river, he might still be alive. Instead, he ran into a marsh, where he became entangled in the reeds and branches, fell, and eventually bled to death.
+
+**Tag Resolutions:**
+
+*   **[1:io]**: the first soul (the speaker)
+*   **[2:io]**: the first soul (the speaker)
+*   **[3:mi]**: the first soul (the speaker)
+*   **{4:li Antenori}**: the Antenori family (or their house/domain)
+*   **[5:io]**: the first soul (the speaker)
+*   **[6:quel]**: the man from Esti (the enemy who ordered the attack)
+*   **{7:Esti}**: Esti (the city/region of the enemy's origin)
+*   **[8:m']**: the first soul (the speaker)
+*   **[9:+egli]**: the man from Esti
+*   **[10:io]**: the first soul (the speaker)
+*   **[11:+io]**: the first soul (the speaker)
+*   **{12:Orïaco}**: Oriaco (a location)
+*   **[13:+io]**: the first soul (the speaker)
+*   **[14:+io]**: the first soul (the speaker)
+*   **[15:io]**: the first soul (the speaker)
+*   **[16:m']**: the first soul (the speaker)
+*   **[17:i']**: the first soul (the speaker)
+*   **[18:io]**: the first soul (the speaker)
+
+## Scene 85-90: The Second Soul's Appearance
+In this scene, a second soul from the crowd steps forward to address Dante. Like the first soul, he asks for Dante's assistance, hoping that if Dante successfully completes his ascent of the mountain, he will show piety toward the speaker's own plight. The soul identifies himself as Bonconte of Montefeltro. He expresses sadness that he has been forgotten by a woman named Giovanna and by others in the living world, which is why he now walks among the other souls with a "lowered brow" (indicating sadness, humility, or shame).
+
+**Tag Resolutions:**
+
+*   **{1:un altro}**: a second soul from the crowd
+*   **[2:ti]**: Dante
+*   **[3:+tu]**: Dante
+*   **[4:Io]**: Bonconte
+*   **[5:io]**: Bonconte
+*   **{6:Bonconte}**: Bonconte
+*   **{7:Giovanna}**: Giovanna (a relative of Bonconte)
+*   **[8:me]**: Bonconte
+*   **[9:io]**: Bonconte
+*   **[10:costor]**: the other souls in the procession
+
+## Scene 91-93: Dante's Inquiry
+In this brief scene, Dante responds to Bonconte of Montefeltro. Curious about the soul's history, Dante asks him what force or twist of fate led him so far away from the Battle of Campaldino that the location of his burial remained unknown to the world.
+
+**Tag Resolutions:**
+* **[1:io]**: Dante (the narrator and speaker)
+* **[2:lui]**: Bonconte of Montefeltro
+* **[3:ti]**: Bonconte of Montefeltro
+
+## Scene 94-108: The Battle of Angels
+In this scene, Bonconte of Montefeltro answers Dante's question about how he ended up so far from the Battle of Campaldino and why his burial site was forgotten.
+
+Bonconte describes his final moments: he was fleeing on foot, bleeding and with his throat pierced, until he reached the banks of the Archiano river (near the Casentino region in the Apennines). There, he lost his sight and his ability to speak. He died in the name of Mary, and his body was left behind in that place.
+
+Bonconte then asks Dante to repeat this account among the living. He describes a supernatural conflict that took place at the moment of his death: an angel of God claimed his soul, while a demon from hell shouted in protest. The demon complained to the angel, asking why he was being deprived of the soul's eternal damnation just because of a "little tear" (a tear of repentance). The demon concluded by declaring that since he lost Bonconte, he would seek some other way to exercise his power or find another victim.
+
+**Tag Resolutions:**
+
+* **[1:elli]**: Bonconte of Montefeltro
+* **[2:io]**: Bonconte of Montefeltro
+* **[3:+io]**: Bonconte of Montefeltro
+* **{4:Maria}**: the Virgin Mary
+* **[5:+io]**: Bonconte of Montefeltro
+* **[6:+io]**: Bonconte of Montefeltro
+* **[7:Io]**: Bonconte of Montefeltro
+* **[8:tu]**: Dante
+* **{9:vivi}**: the living people
+* **{10:l'angel di Dio}**: the angel of God
+* **[11:mi]**: Bonconte of Montefeltro
+* **[12:quel d'inferno]**: the demon (the angel of hell)
+* **[13:+elli]**: the demon
+* **[14:tu]**: the angel of God
+* **[15:+tu]**: the angel of God
+* **[16:mi]**: the demon
+* **[17:Tu]**: the angel of God
+* **[18:te]**: the angel of God
+* **[19:costui]**: Bonconte of Montefeltro
+* **[20:mi]**: Bonconte of Montefeltro
+* **[21:io]**: the demon
+
+## Scene 109-114: The Formation of Mist
+In this scene, Bonconte of Montefeltro continues his explanation to Dante, using a natural analogy to describe the supernatural actions of the demon. 
+
+Bonconte begins by reminding Dante of a common physical phenomenon: how humid vapor rises into the air and, upon hitting the cold, condenses and returns as water. He then explains that the demon—driven by a malicious will and using its intellectual power—mimicked this process or used similar atmospheric control to stir up wind and smoke (creating a mist). This act of stirring the elements was an expression of the demon's spite and the inherent power given to it by its nature, following its failure to claim Bonconte's soul.
+
+**Tag Resolutions:**
+
+*   **[1:+tu]**: Dante (Bonconte is addressing him)
+*   **{2:quel mal voler}**: the demon (the "angel of hell" from the previous scene, characterized here as "that evil will")
+*   **[3:+lui]**: the demon (referring back to `{2:quel mal voler}`)
+
+## Scene 115-129: The River's Embrace
+In this scene, Bonconte of Montefeltro continues his account to Dante, explaining the physical fate of his body after his death. He describes how the demon's manipulation of the elements resulted in a sudden, dense fog and a torrential downpour. The resulting floodwaters rushed from the slopes of Pratomagno into the gullies and streams, eventually surging into the Archiano river.
+
+The swollen Archiano river swept up Bonconte's frozen corpse and pushed it into the larger Arno river. In the process, the current tore away a cross that Bonconte had fashioned for himself out of desperation and grief in his final moments. The river tumbled his body along the banks and the bottom until it finally deposited him, covering and burying him beneath the river's sediment. This explains why his burial place remained a mystery to the living world.
+
+**Tag Resolutions:**
+
+*   **[1:i']**: Bonconte of Montefeltro
+*   **[2:me]**: Bonconte of Montefeltro
+*   **[3:mi]**: Bonconte of Montefeltro
+*   **[4:mi]**: Bonconte of Montefeltro
+
+## Scene 130-136: The Plea of La Pia
+In this scene, the pattern of the souls' requests continues. After Bonconte of Montefeltro (the second spirit) finishes his story, a third soul steps forward to address Dante. This soul identifies herself as "la Pia" (the Pious One).
+
+She asks Dante that once he has completed his journey and returned to the living world, he remember her. She describes her life in a poetic, tragic contrast: she was "made" (born/raised) in Siena, but "unmade" (ruined or destroyed) by the Maremma (a coastal marshland region). She concludes by mentioning the man who once adorned her with a ring (the "gem"), implying a lost marriage or a betrayed love.
+
+**Tag Resolutions:**
+
+*   **[1:tu]**: Dante (the person La Pia is addressing)
+*   **{2:l terzo spirito}**: la Pia (the speaker)
+*   **{3:al secondo}**: Bonconte of Montefeltro (the second spirit who spoke previously)
+*   **[4:+tu]**: Dante
+*   **[5:me]**: la Pia
+*   **{6:la Pia}**: la Pia
+*   **[7:mi]**: la Pia
+*   **[8:colui]**: la Pia's husband (the man who gave her the ring)
+*   **[9:m']**: la Pia
+
+# recap
+- Dante and Virgil are traveling together, continuing their ascent.
+- They have just finished listening to the pleas of a crowd of souls, most recently the testimony of la Pia.

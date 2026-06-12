@@ -1,0 +1,418 @@
+# Canto 13 — The Terrace of the Envious and the Sienese Soul
+
+## Scene 1-9: The Second Terrace
+In this opening scene of Canto 13, Dante provides a geographical description of the second terrace of Purgatory. There is no dialogue or action other than the arrival of the travelers.
+
+Dante describes reaching the top of the stairs and finding a second ledge (cornice) that encircles the mountain, similar to the first terrace, though the curve of this one is tighter. He notes the stark, bleak appearance of the landscape: there is no shade and no distinguishing landmarks. The path and the slope are characterized by a "livid" (leaden or greyish-blue) color of the stony ground.
+
+**Tag Resolutions:**
+- `[1:Noi]` (We): Dante and Virgil.
+
+## Scene 10-21: Virgil's Prayer to the Sun
+**Scene Analysis**
+
+In this scene, Virgil expresses concern about the time they are spending on the second terrace. He worries that their delay might cause issues for Beatrice (their "elected one"), who is waiting for Dante. To seek guidance and ensure their progress, Virgil performs a ritual gesture—turning his body from right to left—and addresses the sun in a prayer. He acknowledges the sun as a source of light and warmth for the world and asks that its rays continue to guide them on their "new path" through Purgatory.
+
+**Who speaks to whom:**
+- Virgil speaks to Dante (lines 10–12).
+- Virgil speaks to the Sun (lines 16–21).
+
+**Tag Resolutions:**
+- `{1:gente}`: The souls/people inhabiting the second terrace.
+- `[2:s']`: The souls/people (impersonal reflexive referring back to `gente`).
+- `{3:il poeta}`: Virgil.
+- `[4:io]`: Virgil.
+- `{5:nostra eletta}`: Beatrice.
+- `[6:+ei]`: Virgil.
+- `[7:+ei]`: Virgil.
+- `[8:+ei]`: Virgil.
+- `[9:sé]`: Virgil.
+- `{10:dolce lume}`: The Sun.
+- `[11:i']`: Virgil.
+- `[12:tu]`: The Sun.
+- `[13:+ei]`: Virgil.
+- `[14:si]`: One/the travelers (impersonal pronoun).
+- `[15:Tu]`: The Sun.
+- `[16:tu]`: The Sun.
+
+## Scene 22-27: The Flight of the Spirits
+**Scene Analysis**
+
+In this brief transition, Dante describes the physical progress he and Virgil have made along the second terrace. They have covered a significant distance (roughly a thousand paces) quite quickly, driven by their eagerness to proceed. As they move, they sense the approach of other beings. Although they cannot yet see them, they hear the voices of spirits flying toward them. These spirits are speaking with courtesy, inviting the travelers to the "table of love," which symbolizes the communal spiritual journey toward God.
+
+**Who speaks to whom:**
+- The spirits (the souls of the envious) are speaking to Dante and Virgil, though their specific words are described generally as "courteous invitations" rather than quoted dialogue.
+
+**Tag Resolutions:**
+- `[1:noi]` (we): Dante and Virgil.
+- `[2:noi]` (us): Dante and Virgil.
+- `{3:spiriti}` (spirits): The souls of the envious inhabiting the second terrace.
+
+## Scene 28-33: The First Two Voices
+**Scene Analysis**
+
+In this scene, Dante and Virgil are approached by two spirits flying past them. These spirits are the souls of the envious, who are characterized by their flight and their tendency to call out as they move.
+
+The first spirit flies by and shouts a phrase in Latin: *"Vinum non habent"* ("They have no wine"). This is a lament regarding the lack of spiritual joy or the "wine" of divine love among the envious. The spirit continues to repeat this phrase as it moves behind the travelers. 
+
+Before the sound of the first voice has completely faded away, a second spirit flies past. This spirit identifies himself, shouting, "I am Orestes!" Like the first spirit, Orestes does not stop to engage in a conversation; he continues on his flight.
+
+**Who speaks to whom:**
+- The first spirit speaks (loudly/generally), heard by Dante and Virgil.
+- Orestes speaks (shouting), heard by Dante and Virgil.
+
+**Tag Resolutions:**
+- `{1:La prima voce}`: The first spirit (a soul of the envious).
+- `[2:+elli]`: The souls of the envious (the group to which the speaker belongs).
+- `[3:+ella]`: The first spirit.
+- `[4:noi]`: Dante and Virgil.
+- `[5:+ella]`: The first spirit.
+- `[6:+ella]`: The first spirit (specifically the sound of its voice).
+- `[7:si]`: The first spirit (the voice being heard).
+- `[8:allungarsi]`: The first spirit (referring to the prolonging/stretching of its voice as it moves away).
+- `[9:I']`: Orestes.
+- `{10:Oreste}`: Orestes.
+- `[11:+ella]`: Orestes.
+- `[12:+ella]`: Orestes.
+- `[13:s']`: Orestes.
+
+## Scene 34-36: The Third Voice
+**Scene Analysis**
+
+In this short scene, Dante reacts with surprise and confusion to the mysterious voices shouting as they fly past. He turns to Virgil to ask for an explanation regarding the nature of these voices. However, before Virgil can answer, a third spirit flies by. This spirit does not identify itself (unlike Orestes) but instead shouts a moral imperative: "Love those from whom you suffered harm." This phrase serves as the spiritual "cure" for the sin of Envy, instructing the souls to replace resentment with love.
+
+**Who speaks to whom:**
+- Dante speaks to Virgil (line 34).
+- The third spirit speaks to Dante and Virgil (line 36).
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:padre}`: Virgil
+- `[3:io]`: Dante
+- `{4:la terza}`: The third spirit (a soul of the envious)
+- `[5:+voi]`: Dante and Virgil (addressed as the listeners receiving the moral lesson)
+
+## Scene 37-45: Virgil's Interpretation
+**Scene Analysis**
+
+In this scene, Virgil responds to Dante's confusion regarding the shouting spirits. He explains the symbolic nature of the punishment on the second terrace: the "whip" that lashes the sin of Envy is actually composed of "cords of love." In other words, the corrective therapy for Envy is the practice of love and goodwill toward others. Virgil suggests that Dante will continue to hear these corrective "sounds" (the moral imperatives shouted by the spirits) before they reach the point of transition to the next stage. Finally, Virgil directs Dante's attention forward, telling him to look closely at the air/horizon, where he will see the inhabitants of this terrace sitting along the ledge of the mountain.
+
+**Who speaks to whom:**
+- Virgil speaks to Dante.
+
+**Tag Resolutions:**
+- `{1:'l buon maestro}`: Virgil.
+- `[2:+io]`: Virgil.
+- `[3:+tu]`: Dante.
+- `[4:+tu]`: Dante.
+- `[5:+tu]`: Dante.
+- `[6:+tu]`: Dante.
+- `{7:gente}`: The souls of the envious.
+- `[8:noi]`: Dante and Virgil.
+
+## Scene 46-48: Discovery of the Shadows
+**Scene Analysis**
+
+In this brief scene, Dante follows Virgil's previous instruction to look closely at the horizon. He opens his eyes wide and looks ahead, where he finally sees the inhabitants of the second terrace. He describes them as "shadows" (spirits) wearing cloaks that are the same leaden, grey-blue color as the stony ground of the terrace itself. This visual detail emphasizes the bleakness of the environment and the integration of the souls into their place of punishment.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it consists entirely of Dante's narrative description of his observations.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+- `[3:mi]`: Dante
+- `[4:+io]`: Dante
+- `{5:ombre}`: The souls of the envious
+
+## Scene 49-51: The Litany of Saints
+**Scene Analysis**
+
+In this brief scene, Dante and Virgil continue their progress along the second terrace. As they move forward, Dante hears a chorus of voices shouting. These voices are reciting a litany of prayer, calling upon the Virgin Mary, the Archangel Michael, Saint Peter, and all the saints to intercede on their behalf. These are the souls of the envious, who, in their state of purgation, turn to the heavenly host for help and grace.
+
+**Who speaks to whom:**
+- The souls of the envious (the spirits of the terrace) are shouting prayers directed toward the divine figures (Mary, Michael, Peter, and the Saints).
+- Dante is the observer hearing these shouts.
+
+**Tag Resolutions:**
+- `[1:+noi]` (we): Dante and Virgil.
+- `[2:+io]` (I): Dante.
+- `{3:Maria}`: The Virgin Mary.
+- `[4:noi]` (us): The souls of the envious (the spirits shouting the prayer).
+- `{5:Michele}`: The Archangel Michael.
+- `{6:Pietro}`: Saint Peter.
+- `{7:Tutti santi}`: All the Saints.
+
+## Scene 52-66: The Sight of the Envious
+**Scene Analysis**
+
+In this scene, Dante describes his emotional reaction to seeing the souls of the envious up close. He asserts that no person on earth is so cold-hearted that they would not feel compassion upon seeing the pathetic state of these spirits. 
+
+Dante describes the physical appearance and posture of the souls: they are dressed in coarse, vile hairshirts (ciliccio) and are leaning on one another for support against the ledge of the terrace. To emphasize the misery of the scene, Dante employs a poignant simile: he compares the souls to blind beggars who, lacking money, huddle together and lean on each other while begging at the doors of those selling indulgences (*perdoni*). Just as the sight of blind beggars leaning on one another is intended to evoke pity in passersby, the sight of the envious souls evokes a deep, crushing sorrow in Dante.
+
+**Who speaks to whom:**
+There is no dialogue in this scene. It is a narrative reflection and description provided by Dante the narrator.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `{2:omo}`: A hypothetical hard-hearted man on earth
+- `[3:quel]`: The sight/the souls that Dante saw
+- `[4:i']`: Dante
+- `[5:+io]`: Dante
+- `[6:lor]`: The souls of the envious
+- `[7:me]`: Dante
+- `[8:+io]`: Dante
+- `[9:mi]`: Dante
+- `[10:+elli]`: The souls of the envious
+- `[11:l'un]`: One soul of the envious
+- `[12:l'altro]`: Another soul of the envious
+- `[13:tutti]`: The souls of the envious
+- `{14:li ciechi}`: Blind beggars (used in a simile)
+- `[15:+elli]`: The blind beggars
+- `{16:a' perdoni}`: The pardoners (those selling indulgences)
+- `[17:l'uno]`: One blind beggar
+- `[18:l'altro]`: Another blind beggar
+
+## Scene 67-72: The Dim Light of the Terrace
+**Scene Analysis**
+
+In this scene, Dante explains the specific nature of the punishment for the souls on the second terrace. He uses a poignant simile to describe their state: just as the sun cannot "reach" the blind (because they lack the faculty of sight), the light of heaven does not reach the spirits in this place. 
+
+The reason for this "darkness" is physical and punitive: the eyelids and eye sockets of every soul on this terrace have been sewn shut with a wire of iron. Dante compares this practice to the way a wild hawk's eyes are sewn to prevent it from flying away or remaining restless, forcing it to stay quiet and controlled. This serves as a symbolic correction for the sin of Envy, which is often associated with the "evil eye" or a distorted way of looking at others.
+
+**Who speaks to whom:**
+There is no dialogue in this scene. It is a narrative description provided by Dante the narrator to the reader.
+
+**Tag Resolutions:**
+- `{1:l'ombre}`: The souls of the envious.
+- `[2:io]`: Dante.
+- `{3:luce del ciel}`: The Sun (the heavenly light).
+- `[4:sé]`: The Sun (referring back to the light of heaven).
+
+## Scene 73-78: Dante's Anxiety
+In this scene, Dante experiences a moment of moral discomfort. As he walks among the souls of the envious, he realizes that he can see them, but because their eyes are sewn shut, they cannot see him. This asymmetry—observing others without being observed—feels like an "oltraggio" (an offense or an unfair intrusion) to him. To resolve this unease, he turns to Virgil for guidance.
+
+Virgil, ever the intuitive guide, senses that Dante is about to ask a question. Before Dante can even speak, Virgil anticipates the request and tells him to go ahead and ask, though he instructs Dante to be brief and concise.
+
+**Who speaks to whom:**
+- Virgil speaks to Dante (line 78).
+
+**Tag Resolutions:**
+- `[1:me]`: Dante
+- `[2:+io]`: Dante
+- `[3:io]`: Dante
+- `[4:mi]`: Dante
+- `{5:mio consiglio saggio}`: Virgil (his "wise counsel")
+- `[6:ei]`: Virgil
+- `[7:+ei]`: Dante (referring back to the "mute one")
+- `{8:lo muto}`: Dante (the "mute one" because he has not yet spoken)
+- `[9:+ei]`: Virgil
+- `[10:+ei]`: Virgil
+- `[11:+tu]`: Dante
+- `[12:+tu]`: Dante
+
+## Scene 79-84: Virgil's Movement
+In this scene, Virgil moves his position relative to Dante. He approaches Dante from the outer edge of the terrace (the side where the ledge is open and one could potentially fall off the mountain). Virgil does this because the other side of the path is crowded with the "devout shadows"—the souls of the envious. These spirits are pressing their faces against the ledge, and the pain and sorrow caused by the "horrible stitches" (their sewn-shut eyelids) cause tears to stream down their cheeks. There is no dialogue in this passage; it is a descriptive transition.
+
+**Tag Resolutions:**
+- `{1:Virgilio}`: Virgil
+- `[2:mi]`: Dante
+- `[3:si]`: One/a person (impersonal reflexive)
+- `[4:m']`: Dante
+- `{5:le divote}`: The souls of the envious
+- `{6:ombre}`: The souls of the envious
+- `[7:+elli]`: The souls of the envious
+
+## Scene 85-93: Dante's Greeting
+In this scene, Dante turns to address the souls inhabiting the second terrace. He calls them "secure people" (meaning they are certain of their eventual salvation since they are in Purgatory). Dante acknowledges that while their eyes are sewn shut, the "high light" (God/the Sun) cares for their desire and will eventually clear the "foam" (the confusion and residue of sin) from their consciousness, allowing their minds to function clearly again. He asks the group to tell him if there is any soul among them who is Latin, as it would be a pleasure for him to find one, and he hopes that such a soul would be kind to him upon his arrival/appearance.
+
+**Who speaks to whom:**
+- Dante speaks to the souls of the envious.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:loro]`: The souls of the envious
+- `{3:gente sicura}`: The souls of the envious
+- `[4:+io]`: Dante
+- `{5:l'alto lume}`: The Sun (representing God's light/grace)
+- `[6:+voi]`: The souls of the envious
+- `[7:mi]`: Dante
+- `{8:anima}`: A Latin soul (a hypothetical individual among the group)
+- `[9:voi]`: The souls of the envious
+- `[10:lei]`: The Latin soul
+- `[11:i']`: Dante
+- `[12:l']`: The Latin soul
+
+## Scene 94-99: The Reply
+**Scene Analysis**
+
+In this scene, a soul from the second terrace responds to Dante's request to find a Latin speaker. The spirit begins by addressing Dante as "brother," gently correcting his premise: while every soul in Purgatory is a "citizen" of the true, heavenly city, the spirit understands that Dante is specifically asking for someone who lived in "wandering Italy." 
+
+Dante notes that the voice seems to be coming from a point further ahead on the terrace. Because the speaker is not immediately beside him, Dante raises his voice (or moves his call forward) to make himself heard by the spirit.
+
+**Who speaks to whom:**
+- An anonymous soul (the responding spirit) speaks to Dante (lines 94–96).
+- Dante (as narrator) describes his perception and reaction to the reader (lines 97–99).
+
+**Tag Resolutions:**
+- `{1:frate}`: Dante
+- `[2:tu]`: Dante
+- `[3:mi]`: Dante
+- `[4:io]`: Dante
+- `[5:io]`: Dante
+- `[6:mi]`: Dante
+
+## Scene 100-105: The Interrogation
+**Scene Analysis**
+
+In this scene, Dante visually identifies the spirit that responded to his call. He sees a shadow waiting ahead of him. To clarify for the reader how a blind spirit can "see" or orient itself toward a visitor, Dante explains that the spirit raises its chin, much like a blind person would do to sense their surroundings or the direction of a sound.
+
+Dante then addresses the spirit directly. He acknowledges the spirit's struggle to ascend Purgatory and, confirming that this is the same soul who just answered him, he asks the spirit to identify itself, requesting either its place of origin or its name.
+
+**Who speaks to whom:**
+- Dante speaks to the responding spirit (lines 103–105).
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `{2:un'ombra}`: The responding spirit (a soul of the envious)
+- `[3:+ei]`: The responding spirit
+- `{4:orbo}`: A blind person (used in a comparison)
+- `{5:Spirto}`: The responding spirit
+- `[6:io]`: Dante
+- `[7:ti]`: The responding spirit
+- `[8:tu]`: The responding spirit
+- `[9:quelli]`: The responding spirit
+- `[10:mi]`: Dante
+- `[11:+tu]`: The responding spirit
+
+## Scene 106-114: The Sienese Confession
+**Scene Analysis**
+
+In this scene, the responding spirit finally identifies herself. She reveals that she was from Siena and is now spending her "wretched life" on the second terrace alongside the other envious souls, weeping and praying to God for mercy. 
+
+She shares a poignant irony regarding her name: she was called "Sapia" (which means "wise" in Italian), yet she admits that she was not wise at all. She confesses to the core of her sin—Envy—explaining that she felt more joy at the misfortunes of others than she did at her own good fortune. To prove her lack of wisdom and to ensure Dante does not think she is deceiving him, she offers to recount how she lived foolishly, even as she began to grow old ("descending the arc of my years").
+
+**Who speaks to whom:**
+- The Sienese soul (Sapia) speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:Io]`: The Sienese soul (Sapia)
+- `[2:+ella]`: The Sienese soul (Sapia)
+- `[3:questi]`: The other souls of the envious
+- `[4:+io]`: The Sienese soul (Sapia)
+- `[5:colui]`: God
+- `[6:sé]`: God (referring to the one who can grant mercy/relief)
+- `[7:+io]`: The Sienese soul (Sapia)
+- `{8:Sapia}`: The Sienese soul (Sapia)
+- `[9:+io]`: The Sienese soul (Sapia)
+- `[10:+io]`: The Sienese soul (Sapia)
+- `[11:tu]`: Dante
+- `[12:io]`: The Sienese soul (Sapia)
+- `[13:t']`: Dante
+- `[14:+tu]`: Dante
+- `[15:i']`: The Sienese soul (Sapia)
+- `[16:io]`: The Sienese soul (Sapia)
+- `[17:ti]`: Dante
+
+## Scene 115-123: The Tale of the Battle
+In this scene, the Sienese soul, Sapia, continues her confession to Dante by providing a specific example of her sin of Envy. She describes a military encounter near Colle (Colle di Val d'Elsa), where her fellow Sienese citizens faced their adversaries in battle. Sapia claims that she prayed to God for the outcome He willed, but when the enemy was defeated and forced into a bitter retreat, she felt a surge of joy far greater than any other she had ever known. This joy was so intense and hubristic that she turned her face upward and shouted to God that she no longer feared Him. Dante concludes the scene with a simile, comparing Sapia's misplaced confidence to that of a blackbird that emerges during a brief lull in a storm, mistakenly believing the danger has passed.
+
+**Tag Resolutions:**
+- `{1:li cittadin miei}`: Sapia's fellow Sienese citizens.
+- `{2:loro avversari}`: The opponents of the Sienese.
+- `[3:io]`: Sapia.
+- `{4:Iddio}`: God.
+- `[5:+elli]`: The adversaries of the Sienese.
+- `[6:+io]`: Sapia.
+- `[7:io]`: Sapia.
+- `{8:Dio}`: God.
+- `[9:+io]`: Sapia.
+- `[10:ti]`: God.
+
+## Scene 124-132: A Prayer for Penance
+In this scene, Sapia concludes her confession by discussing her final days on Earth and her current state of purgation. She explains that toward the end of her life, she sought peace with God. She mentions that her obligation to perform penance would not have been reduced if it weren't for the intercession of Pier Pettinaio, who prayed for her out of charity.
+
+After explaining her situation, Sapia turns her attention to Dante. She asks him who he is, noting that he is inquiring about the condition of the souls on the terrace and—most notably—that he possesses "unbound eyes" (meaning his eyes are not sewn shut like hers and the others) and the ability to speak and reason.
+
+**Who speaks to whom:**
+- Sapia speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:+io]`: Sapia
+- `{2:Dio}`: God
+- `[3:m']`: Sapia
+- `{4:Pier Pettinaio}`: Pier Pettinaio
+- `[5:me]`: Sapia
+- `[6:tu]`: Dante
+- `[7:chi]`: Dante
+- `[8:+tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:io]`: Sapia
+
+## Scene 133-138: Dante's Explanation
+In this scene, Dante responds to Sapia's curiosity about his identity and his ability to see and speak. He explains that while he is subject to the conditions of the second terrace, his "eyes" are only "taken" (meaning he is only temporarily subject to the constraints of the envious) for a short time, because his own sin of envy was relatively minor. He further reveals that the psychological burden and fear stemming from the torments he witnessed in Hell ("the torment below") weigh much more heavily on his soul than the sin of envy does.
+
+**Who speaks to whom:**
+- Dante speaks to Sapia.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:mi]`: Dante
+- `[3:mi]`: Dante
+
+## Scene 139-144: The Living Traveler
+**Scene Analysis**
+
+In this scene, the conversation between Sapia and Dante continues. Sapia is curious about how Dante arrived on the second terrace, especially since he is not a permanent resident (as he expects to eventually leave Purgatory and move upward, or as she puts it, "return down" from the perspective of the mountain's peak). She asks him who his guide is.
+
+Dante responds by pointing to Virgil, noting that Virgil is the one who led him there and is currently remaining silent. Dante then reveals a startling fact: he is still alive. He explains that this is why Sapia is questioning him—it is rare for a living person to wander through Purgatory. He addresses her as a "chosen spirit" (meaning she is destined for Heaven) and asks if she would like him to continue walking past her with his "mortal feet," emphasizing the contrast between his living body and her spiritual state.
+
+**Who speaks to whom:**
+- Sapia speaks to Dante (lines 139–140).
+- Dante speaks to Sapia (lines 141–144).
+
+**Tag Resolutions:**
+- `[1:ella]`: Sapia
+- `[2:me]`: Dante
+- `[3:Chi]`: Virgil (the person who led him)
+- `[4:t']`: Dante
+- `[5:noi]`: The souls of the envious (including Sapia)
+- `[6:+tu]`: Dante
+- `[7:io]`: Dante
+- `[8:Costui]`: Virgil
+- `[9:meco]`: Dante
+- `[10:+io]`: Dante
+- `[11:mi]`: Dante
+- `[12:+tu]`: Sapia
+- `{13:spirito eletto}`: Sapia
+- `[14:tu]`: Sapia
+- `[15:i']`: Dante
+- `[16:te]`: Sapia
+
+## Scene 145-154: The Prophecy of Tuscany
+In this scene, Sapia responds to Dante’s revelation that he is a living man traveling through Purgatory. She is astonished by this "new thing" and interprets it as a sign of God's great love for Dante. She notes that because he is alive, his prayers on earth can actually benefit the souls in Purgatory, including her own. 
+
+Sapia then makes a personal request: if Dante ever travels through the land of Tuscany, she asks him to speak well of her to her relatives. She provides a prophetic warning about these relatives, stating that they are among "vain people" in Talamone. These people are clinging to a false hope (likely related to the revival of the port of Talamone), and she predicts that they will lose more hope than they will find success (symbolized by "the Diana"). Finally, she predicts that the admirals or ship-owners of that region will suffer even greater losses.
+
+**Tag Resolutions:**
+
+- `[1:+ei]` (rispuose): Sapia
+- `{2:Dio}`: God
+- `[3:t']`: Dante
+- `[4:mi]`: Sapia
+- `[5:tu]`: Dante
+- `[6:+tu]`: Dante
+- `{7:miei propinqui}`: Sapia's relatives
+- `[8:tu]`: Dante
+- `[9:mi]`: Sapia
+- `[10:Tu]`: Dante
+- `[11:li]`: Sapia's relatives
+- `{12:quella gente vana}`: The vain people of Talamone
+- `[13:+elli]`: The vain people of Talamone
+- `{14:la Diana}`: Diana (the goddess/symbol of the hope associated with the port)
+- `{15:li ammiragli}`: The admirals/ship-owners of Talamone
+
+# recap
+- Dante and Virgil are traveling together on the second terrace of Purgatory.
+- They have just concluded a conversation with Sapia, a Sienese soul who requested that Dante pray for her and speak of her to her relatives in Tuscany.
+- Dante and Virgil continue their progress through the terrace of the envious.

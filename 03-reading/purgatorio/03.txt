@@ -1,0 +1,457 @@
+# Canto 03 — The Encounter with Manfred and the Limits of Reason
+
+## Scene 1-9: Dante's Internal Turmoil
+**Scene Analysis: Dante's Internal Turmoil**
+
+**What is happening:**
+The scene opens with the immediate aftermath of the souls' sudden rush toward the mountain of Purgatory. As the crowd scatters, Dante experiences a moment of acute vulnerability and dependency. He realizes that without his guide, he would be utterly lost and unable to navigate the ascent. He clings to Virgil, both physically and emotionally. While doing so, he observes Virgil’s expression and notices that the guide appears troubled or plagued by remorse. This leads Dante to reflect on the nature of a "clean conscience," noting that for someone of Virgil's high moral stature, even a minor failing can feel like a devastating blow.
+
+**Who does what:**
+*   **The newly arrived souls** scatter across the landscape toward the mountain.
+*   **Dante** clings to Virgil and contemplates his own helplessness without him.
+*   **Virgil** remains silent but betrays a sense of inner guilt or sadness through his demeanor.
+*   **Dante (the narrator)** addresses the concept of a pure conscience in a rhetorical apostrophe.
+
+**Who speaks to whom:**
+There is no spoken dialogue between characters. The entire passage is Dante’s internal monologue/narration. In lines 8-9, Dante speaks rhetorically to a personified "conscience."
+
+**Tag Resolutions:**
+*   `[1:color]`: the newly arrived souls (the crowd)
+*   `{2:ragion}`: Reason (personified as the guiding force/entity of Purgatory)
+*   `[3:i']`: Dante
+*   `[4:mi]`: Dante
+*   `{5:la fida compagna}`: Virgil
+*   `[6:io]`: Dante
+*   `[7:lui]`: Virgil
+*   `[8:chi]`: a hypothetical guide (rhetorically referring to the necessity of Virgil)
+*   `[9:m']`: Dante
+*   `[10:El]`: Virgil
+*   `[11:mi]`: Dante
+*   `[12:sé stesso]`: Virgil
+*   `{13:dignitosa coscïenza e netta}`: Virgil (specifically, his conscience)
+*   `[14:t']`: Virgil (specifically, his conscience)
+
+## Scene 10-15: The Widening View
+**Scene Analysis: The Widening View**
+
+**What is happening:**
+The scene captures a transition in Dante’s psychological state. The "haste" (*fretta*)—the frantic energy that drove the crowd of newly arrived souls toward the mountain—has subsided. As the immediate chaos ends and the physical tension eases, Dante’s mental focus, which had been "constricted" (*ristretta*) by fear and his desperate clinging to Virgil, begins to expand. He is no longer blinded by panic or total dependency; he is now able to look upward and take in the sight of the mountain of Purgatory, which rises high toward the heavens.
+
+**Who does what:**
+*   **The souls/Virgil:** The "haste" (the rush of the crowd) ceases. (While "li piedi suoi" refers to a singular possessor, in this context it likely refers to the guide, Virgil, whose movements dictated Dante's own, or functions as a collective reference to the rush of the crowd).
+*   **Dante:** His mind expands from a state of narrow anxiety to a broader awareness. He turns his gaze toward the mountain.
+
+**Who speaks to whom:**
+There is no spoken dialogue. This is Dante’s narration of his internal experience and his visual perception.
+
+**Tag Resolutions:**
+*   `[1:+io]`: Dante (the narrator/protagonist)
+
+## Scene 16-30: The Obscured Sun
+**Scene Analysis: The Obscured Sun**
+
+**What is happening:**
+The scene begins with a visual phenomenon: the sun is setting (or positioned) behind Virgil, and from Dante's perspective, Virgil’s figure blocks the light, casting a shadow over Dante. This sudden darkness triggers a flash of panic in Dante; fearing that he has been abandoned or that something is wrong, he turns around. Seeing Dante's distress, Virgil turns to him to offer reassurance. Virgil explains that he is a spirit and does not cast a physical shadow in the way a living person does. To illustrate his nature as a shade, he references his own mortal remains—his body, which was transported from Brindisi to its burial place in Naples. He tells Dante that since he (Virgil) does not block the light, Dante should not be surprised by the lack of a shadow in front of him, comparing it to the clarity of the heavens.
+
+**Who does what:**
+*   **The Sun:** Shines from behind Virgil, creating an optical obstruction.
+*   **Virgil:** Acts as the "figure" blocking the light; notices Dante's fear and speaks to comfort him; reflects on his own death and burial.
+*   **Dante:** Experiences a moment of fear; turns around suddenly; listens to Virgil's explanation.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Tag Resolutions:**
+*   `[1:m']`: Dante
+*   `{2:la figura}`: Virgil
+*   `[3:me]`: Dante
+*   `[4:Io]`: Dante
+*   `[5:mi]`: Dante
+*   `[6:io]`: Dante
+*   `[7:me]`: Dante
+*   `{8:'l mio conforto}`: Virgil
+*   `[9:+tu]`: Dante
+*   `[10:+ei]`: Virgil
+*   `[11:mi]`: Dante
+*   `[12:tu]`: Dante
+*   `[13:me]`: Virgil
+*   `[14:teco]`: Dante
+*   `[15:io]`: Virgil
+*   `[16:ti]`: Dante
+*   `{17:lo corpo}`: Virgil's body
+*   `[18:io]`: Virgil
+*   `[19:l']`: Virgil's body
+*   `[20:+ei]`: Virgil's body
+*   `[21:me]`: Virgil
+*   `[22:+tu]`: Dante
+*   `[23:ti]`: Dante
+
+## Scene 31-45: The Limits of Reason
+**Scene Analysis: The Limits of Reason**
+
+**What is happening:**
+Virgil is concluding his explanation about the nature of spirits. He transitions from the physical lack of a shadow to a broader theological point: the inherent limitations of human reason. He explains that Divine Virtue (God's power) orchestrates the punishments of heat and cold but remains hidden from human sight. Virgil argues that it is foolish to believe that human reason can fully comprehend the "infinite path" of the Trinity (one substance in three persons). He addresses humanity at large, stating that if humans could perceive the divine totality through reason alone, the Incarnation (the birth of Christ via Mary) would have been unnecessary. He points to the greatest minds of antiquity—Aristotle and Plato—as examples of those who sought this ultimate truth through reason but were unable to achieve it, leaving them in eternal longing and grief. The scene ends on a somber note: Virgil, recognizing the boundary where his own power as the embodiment of Reason ends, bows his head in silence and remains visibly troubled.
+
+**Who does what:**
+*   **Divine Virtue/God:** Disposes the punishments and remains hidden from human perception.
+*   **Virgil:** Delivers a lecture on the limits of human intellect; cites the failures of ancient philosophers; eventually falls silent and becomes distressed.
+*   **Aristotle and Plato:** Represent the pinnacle of human reason who nonetheless failed to reach the divine mystery.
+*   **Dante:** Listens to Virgil's explanation.
+
+**Who speaks to whom:**
+Virgil speaks to Dante (though he uses a rhetorical "you" to address all of humanity).
+
+**Tag Resolutions:**
+*   `{1:la Virtù}`: Divine Virtue / God
+*   `[2:+ella]`: Divine Virtue / God
+*   `[3:noi]`: Humans (including Virgil and Dante)
+*   `[4:+ella]`: Divine Virtue / God
+*   `[5:si]`: Divine Virtue / God
+*   `[6:chi]`: Anyone (the foolish person who relies solely on reason)
+*   `{7:tre persone}`: The Holy Trinity / God
+*   `[8:+voi]`: Human beings / humanity
+*   `{9:umana gente}`: Human beings / humanity
+*   `[10:+voi]`: Human beings / humanity
+*   `{11:Maria}`: Mary
+*   `[12:+voi]`: Human beings / humanity
+*   `[13:lor]`: The philosophers (Aristotle, Plato, and others)
+*   `[14:io]`: Virgil
+*   `{15:Aristotile}`: Aristotle
+*   `{16:Plato}`: Plato
+*   `[17:+ei]`: Virgil
+*   `[18:+ei]`: Virgil
+*   `[19:+ei]`: Virgil
+
+## Scene 46-54: The Steep Ascent
+**Scene Analysis: The Steep Ascent**
+
+**What is happening:**
+Dante and Virgil arrive at the base of Mount Purgatory. Upon reaching the foot of the mountain, they find the rock face to be incredibly steep—so much so that Dante suggests even the most agile legs would struggle to climb it. He compares the ruggedness and isolation of the terrain to the coastlines between Lerice and Turbia (in Liguria). While there is a ruined staircase and an easier path nearby, the overall ascent remains daunting. Virgil stops in his tracks, unsettled by the terrain, and voices his uncertainty. He wonders who knows which side of the slope is manageable enough for someone without wings (a human soul or a living man) to climb.
+
+**Who does what:**
+*   **Dante and Virgil:** Travel together to the foot of the mountain and observe the steep cliff.
+*   **Virgil:** Stops walking and expresses doubt about how to proceed up the slope.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Tag Resolutions:**
+*   `[1:Noi]`: Dante and Virgil
+*   `[2:+noi]`: Dante and Virgil
+*   `[3:chi]`: Anyone / Any person (rhetorical, referring to who might know the way)
+*   `{4:l maestro mio}`: Virgil
+*   `[5:chi]`: Anyone / Any person (specifically a soul or human without wings, including Dante)
+
+## Scene 55-66: The Approaching Souls
+**Scene Analysis: The Approaching Souls**
+
+**What is happening:**
+While Virgil is preoccupied—looking downward and mentally calculating the best way to navigate the steep climb—Dante looks around and notices a group of souls approaching them from the left. The souls are moving so slowly that the group almost doesn't look like a "crowd." Seeing an opportunity for guidance, Dante urges Virgil to look up, suggesting that these arriving souls might provide the advice or direction that Virgil cannot find within himself. Virgil looks up, his mood lightens (he adopts a "free manner"), and he tells Dante that they should move toward the souls since they are approaching slowly. He concludes by encouraging Dante to keep his courage and hope.
+
+**Who does what:**
+*   **Virgil:** Looks down at the path, contemplating the ascent; later looks up and decides to approach the souls.
+*   **Dante:** Observes the surrounding landscape, spots the approaching souls, and prompts Virgil to pay attention to them.
+*   **The souls:** Move slowly toward Dante and Virgil.
+
+**Who speaks to whom:**
+*   Dante speaks to Virgil.
+*   Virgil speaks to Dante.
+
+**Tag Resolutions:**
+*   `[1:+ei]`: Virgil
+*   `[2:+ei]`: Virgil
+*   `[3:io]`: Dante
+*   `[4:m']`: Dante
+*   `{5:una gente}`: a group of souls
+*   `{6:anime}`: the souls
+*   `[7:noi]`: Dante and Virgil
+*   `[8:+ella]`: the group of souls (`una gente`)
+*   `[9:+elli]`: the souls
+*   `[10:+tu]`: Virgil
+*   `[11:io]`: Dante
+*   `{12:maestro}`: Virgil
+*   `[13:chi]`: the approaching souls (one or more of them)
+*   `[14:tu]`: Virgil
+*   `[15:te]`: Virgil
+*   `[16:+ei]`: Virgil
+*   `[17:+ei]`: Virgil
+*   `[18:+noi]`: Dante and Virgil
+*   `[19:ei]`: the souls
+*   `[20:tu]`: Dante
+*   `{21:dolce figlio}`: Dante
+
+## Scene 67-72: The Gathering Crowd
+**Scene Analysis: The Gathering Crowd**
+
+**What is happening:**
+Dante and Virgil continue their approach toward the group of souls they spotted. Dante describes the distance they travel—a "thousand steps"—noting that the souls were still quite far off (roughly the distance a skilled thrower could cast a stone). As the distance closes, the souls reach the rugged rocks of the high cliff. Instead of continuing or dispersing, they crowd together and stand still. Dante observes that they seem to be waiting and watching, noting a general truth: that someone who is uncertain or doubting their path tends to stop and wait.
+
+**Who does what:**
+* **Dante and Virgil:** Walk toward the souls.
+* **The souls:** Move toward the cliff, then press themselves against the hard rocks and stop to observe the newcomers.
+* **A "good thrower" (`un buon gittator`):** A hypothetical figure used by Dante to illustrate the distance.
+
+**Who speaks to whom:**
+There is no spoken dialogue. This is Dante's narration of the event.
+
+**Tag Resolutions:**
+* `{1:quel popol}`: the group of souls
+* `[2:i']`: Dante
+* `{3:un buon gittator}`: a hypothetical skilled thrower
+* `[4:+elli]`: the group of souls
+* `[5:si]`: the group of souls
+* `[6:+elli]`: the group of souls
+* `[7:chi]`: anyone / a hypothetical person (who is doubting)
+* `[8:+ei]`: the same hypothetical person (`chi`)
+
+## Scene 73-78: Virgil’s Appeal
+**Scene Analysis: Virgil’s Appeal**
+
+**What is happening:**
+Virgil takes the lead in communicating with the group of souls they have approached. He addresses them with high honor, calling them "well-finished" (those who have successfully completed their earthly journey toward salvation) and "elect spirits." He appeals to the common hope they all share—the "peace" of final salvation—to persuade them to help. Specifically, he asks them to point out where the path up the mountain lies so that he and Dante can begin their ascent. He concludes with a logical justification for his urgency, noting that wasting time is particularly frustrating for those who possess greater knowledge or awareness.
+
+**Who does what:**
+* **Virgil:** Speaks to the souls, praising them and requesting geographical guidance to the mountain's ascent.
+* **The souls:** Are the recipients of Virgil's address (they are listening).
+
+**Who speaks to whom:**
+Virgil speaks to the group of souls.
+
+**Tag Resolutions:**
+* `{1:ben finiti}`: the group of souls
+* `{2:spiriti eletti}`: the group of souls
+* `{3:Virgilio}`: Virgil
+* `[4:i']`: Virgil
+* `[5:voi]`: the group of souls
+* `[6:+voi]`: the group of souls
+* `[7:chi]`: a knowledgeable person (a general reference to those who know more, which includes Virgil himself in this context)
+
+## Scene 79-87: The Sheep Simile
+**Scene Analysis: The Sheep Simile**
+
+**What is happening:**
+Dante uses a detailed simile to describe the behavior of the group of souls as they respond to Virgil’s request for guidance. He compares them to a flock of sheep emerging from a fold: they are timid, hesitant, and instinctively follow the lead of the first sheep without knowing why. This imagery emphasizes the souls' humility, their collective nature, and their trust in their leader. Transitioning from the simile back to the actual events, Dante observes the "head" of this "fortunate flock"—a specific leading soul—beginning to move toward him and Virgil. This leader is described as having a modest face and an honest, dignified manner of walking.
+
+**Who does what:**
+*   **The souls (represented as sheep):** Act timidly and follow one another instinctively.
+*   **The leading soul (the "head of the flock"):** Steps forward from the group to approach Dante and Virgil.
+*   **Dante:** Observes the movement of the souls and describes the scene.
+
+**Who speaks to whom:**
+There is no spoken dialogue in this scene. It consists entirely of Dante's narrative description and his use of a simile.
+
+**Tag Resolutions:**
+*   `[1:+elle]`: the sheep (representing the group of souls)
+*   `[2:io]`: Dante
+
+## Scene 88-93: The Souls' Hesitation
+**Scene Analysis: The Souls' Hesitation**
+
+**What is happening:**
+The scene describes a moment of sudden hesitation and recoil by the group of souls. As they approach Dante and Virgil, they notice the way the sunlight is hitting the ground. Because the sun is positioned to Dante's right, he is casting a distinct physical shadow that stretches from him toward the cave. To the souls—who are spirits and therefore cast no shadows—this visual evidence is a stark reminder that Dante is a living man among the dead. Startled by this, the leading souls stop in their tracks and draw back slightly. The rest of the crowd, following the "sheep-like" instinct described in the previous simile, mirrors this movement and retreats as well, though they do not consciously understand why the leaders have stopped.
+
+**Who does what:**
+*   **Dante:** Unwittingly causes the hesitation by casting a physical shadow on the ground.
+*   **The leading souls:** Observe the shadow, stop moving, and step backward.
+*   **The rest of the souls:** Follow the lead of the first souls and also step back, acting instinctively.
+
+**Who speaks to whom:**
+There is no spoken dialogue in this scene. This is Dante's narration of the souls' reaction to his physical presence.
+
+**Tag Resolutions:**
+*   `[1:color]`: the souls (specifically the ones in the lead)
+*   `{2:ombra}`: Dante's shadow
+*   `[3:me]`: Dante
+*   `[4:+elli]`: the leading souls
+*   `[5:+elli]`: the leading souls
+*   `[6:sé]`: the leading souls
+*   `{7:tutti li altri}`: the rest of the group of souls
+*   `[8:+elli]`: the rest of the group of souls
+
+## Scene 94-99: The Reason for Darkness
+**Scene Analysis: The Reason for Darkness**
+
+**What is happening:**
+Observing the souls' shock and hesitation upon seeing his shadow, Dante speaks up to explain his nature. He proactively confesses that he possesses a physical human body, which is the reason the sunlight is blocked and a shadow is cast on the ground. He urges the souls not to be amazed or frightened by this, but rather to believe that his presence here—and his attempt to scale the steep cliff of Purgatory—is made possible by a divine grace (a "virtue") sent from heaven.
+
+**Who does what:**
+*   **Dante:** Speaks to the souls to explain his physical condition and the divine permission allowing him to be in Purgatory.
+*   **The souls:** Listen to Dante's explanation.
+
+**Who speaks to whom:**
+Dante speaks to the group of souls.
+
+**Tag Resolutions:**
+*   `[1:io]`: Dante
+*   `[2:vi]`: the group of souls
+*   `[3:questo]`: Dante (his physical presence)
+*   `{4:corpo uman}`: Dante
+*   `[5:voi]`: the group of souls
+*   `[6:+voi]`: the group of souls
+*   `[7:vi]`: the group of souls
+*   `[8:+voi]`: the group of souls
+
+## Scene 100-108: The Encounter
+**Scene Analysis: The Encounter**
+
+**What is happening:**
+Following Dante's explanation of his physical nature, Virgil (the master) addresses the group of souls, gesturing with the backs of his hands to signal them to move forward and continue their way. As the group begins to move, one specific soul separates himself and speaks to Dante. He asks Dante to turn and look at him, questioning whether Dante recognizes him from "over there" (referring to their time on Earth). Dante turns and looks intently at the soul. He observes that the man is handsome, blond, and has a noble appearance, but he notices a distinct physical deformity: one of his eyelids has been split by a blow.
+
+**Who does what:**
+* **Virgil:** Tells the souls to proceed and uses hand gestures to direct them.
+* **The group of souls:** Listen to Virgil and begin to move.
+* **A specific soul (the "one of them"):** Stops to address Dante, asking for recognition.
+* **Dante:** Turns to look at the soul and observes his physical features and his scar.
+
+**Who speaks to whom:**
+* Virgil speaks to the group of souls.
+* The specific soul speaks to Dante.
+
+**Tag Resolutions:**
+* `{1:l maestro}`: Virgil
+* `{2:quella gente degna}`: the group of souls
+* `[3:+voi]`: the group of souls
+* `[4:+ei]`: Virgil
+* `[5:+voi]`: the group of souls
+* `[6:loro]`: the group of souls
+* `[7:Chiunque]`: Dante
+* `[8:tu]`: Dante
+* `[9:+tu]`: Dante
+* `[10:+tu]`: Dante
+* `[11:mi]`: the specific soul who is speaking
+* `[12:+tu]`: Dante
+* `[13:Io]`: Dante
+* `[14:mi]`: Dante
+* `[15:lui]`: the specific soul who is speaking
+* `[16:+io]`: Dante
+* `[17:+ei]`: the specific soul who is speaking
+
+## Scene 109-111: The Wound Revealed
+**Scene Analysis: The Wound Revealed**
+
+**What is happening:**
+In this brief but pivotal moment, Dante responds to the blond soul's question about whether they knew each other on Earth. Dante humbly admits that he does not recognize him and has no memory of ever having seen him. In response, the soul says, "Now you see," and reveals a wound on the upper part of his chest. This wound serves as a physical sign or "token" of identity, intended to trigger Dante's memory and reveal who this soul actually is.
+
+**Who does what:**
+*   **Dante:** Humbly denies that he recognizes the soul or has ever seen him before.
+*   **The specific soul (the blond soul):** Speaks to Dante and reveals a wound on his chest as a means of identification.
+
+**Who speaks to whom:**
+The specific soul speaks to Dante.
+
+**Tag Resolutions:**
+*   `[1:io]`: Dante
+*   `[2:mi]`: Dante
+*   `[3:el]`: the specific soul (the blond soul)
+*   `[4:+tu]`: Dante
+*   `[5:+el]`: the specific soul (the blond soul)
+
+## Scene 112-123: Manfred's Identity
+**Scene Analysis: Manfred's Identity**
+
+**What is happening:**
+The blond soul reveals his identity to Dante, identifying himself as Manfred, the nephew of Empress Constance. He uses this introduction to ask a personal favor of Dante: when Dante returns to the world of the living, he asks Dante to visit his daughter (Constance of Sicily) and tell her the truth about his state—that he is in Purgatory and moving toward salvation—counteracting any rumors or historical accounts that might claim he is damned. Manfred then reflects on his end, describing how he was killed by two mortal wounds (referring to his death in battle). He explains that in his final moments, he wept and surrendered himself to God, who is merciful. He concludes with a theological reflection on the nature of Divine Mercy, admitting that while his sins were "horrible," God's "infinite goodness" is vast enough to embrace anyone who sincerely turns back toward Him.
+
+**Who does what:**
+*   **Manfred:** Smiles and identifies himself; requests a favor of Dante; describes his death and subsequent repentance; praises the mercy of God.
+*   **Dante:** Listens to Manfred's request and reflection.
+*   **God (Divine Mercy):** The entity to whom Manfred surrendered and who provides the "infinite goodness" that saves the penitent.
+
+**Who speaks to whom:**
+Manfred speaks to Dante.
+
+**Tag Resolutions:**
+*   `[1:+egli]`: Manfred
+*   `[2:Io]`: Manfred
+*   `{3:Manfredi}`: Manfred
+*   `{4:nepote}`: Manfred
+*   `{5:Costanza imperadrice}`: Empress Constance
+*   `[6:io]`: Manfred
+*   `[7:ti]`: Dante
+*   `[8:tu]`: Dante
+*   `[9:+tu]`: Dante
+*   `{10:mia bella figlia}`: Manfred's daughter (Constance of Sicily)
+*   `{11:genitrice}`: Manfred's daughter (Constance of Sicily)
+*   `{12:Cicilia}`: Cecilia (daughter of Constance of Sicily)
+*   `{13:Aragona}`: The House of Aragon (referring to the lineage/descendants of Constance and Peter of Aragon)
+*   `[14:+tu]`: Dante
+*   `[15:lei]`: Manfred's daughter (Constance of Sicily)
+*   `[16:io]`: Manfred
+*   `[17:io]`: Manfred
+*   `[18:mi]`: Manfred
+*   `[19:quei]`: God
+*   `{20:la bontà infinita}`: God (specifically Divine Mercy/Goodness)
+*   `[21:+ella]`: God (la bontà infinita)
+*   `[22:lei]`: God (la bontà infinita)
+
+## Scene 124-135: Manfred's History
+**Scene Analysis: Manfred's History**
+
+**What is happening:**
+Manfred continues his account of his death and the aftermath, reflecting on the intersection of earthly hatred and divine mercy. He mentions the "Shepherd of Cosenza," the man sent by Pope Clement IV to hunt him down. Manfred suggests that if the hunter had been able to perceive the divine grace written on Manfred's face (or if the hunter had seen him through the eyes of God), Manfred's remains might still be resting at the bridge of Benevento, where he was killed. Instead, his bones were relocated to a place outside the kingdom, near the river Verde. He concludes with a powerful theological reflection: no matter how severe the curses of men may be, a soul is not so lost that "eternal love" (God) cannot bring them back, provided that hope still remains.
+
+**Who does what:**
+* **Manfred:** Recalls his pursuit and death; describes the movement of his physical remains; reflects on the nature of salvation.
+* **The Shepherd of Cosenza:** The man tasked by the Pope to hunt Manfred and who subsequently moved his remains.
+* **Pope Clement IV:** The authority who ordered the hunt for Manfred.
+* **God:** The source of the "eternal love" that enables a soul's return to grace.
+
+**Who speaks to whom:**
+Manfred is speaking to Dante.
+
+**Tag Resolutions:**
+* `{1:'l pastor di Cosenza}`: The Shepherd of Cosenza (the man sent to hunt Manfred)
+* `[2:me]`: Manfred
+* `{3:Clemente}`: Pope Clement IV
+* `{4:Dio}`: God
+* `[5:e']`: The Shepherd of Cosenza
+* `[6:si]`: a person / any soul (impersonal reflexive)
+* `[7:+ei]`: Eternal Love (referring to God)
+
+## Scene 136-141: The Doctrine of Schism
+**Scene Analysis: The Doctrine of Schism**
+
+**What is happening:**
+Manfred is explaining the specific "legal" reason why he and others like him are currently stuck in Ante-Purgatory rather than ascending the mountain immediately. He describes the penalty for those who die in "contumacy" (stubborn rebellion or defiance) of the Holy Church. Even if such a person repents at the very last moment of their life, they are required to wait outside the shores of Purgatory for a period of time. The duration of this waiting period is proportional to the time they spent in rebellion: for every single day they spent in their "presumption" (defiance), they must wait thirty days in Ante-Purgatory. However, Manfred notes a caveat: this sentence can be shortened if "good prayers" (intercessions from the living or the saints) are offered on their behalf.
+
+**Who does what:**
+* **Manfred:** Acts as a theological instructor, explaining the divine law governing the wait times in Ante-Purgatory.
+* **Dante:** Listens to this explanation.
+* **The "contumacious" souls (the general category including Manfred):** The subjects of the rule who must suffer this delay.
+* **The Holy Church:** The authority against which the rebellion is committed.
+
+**Who speaks to whom:**
+Manfred speaks to Dante.
+
+**Tag Resolutions:**
+* `[1:+ei]`: a person who dies in contumacy of the Church (a general category including Manfred)
+* `[2:si]`: a person who dies in contumacy of the Church
+* `[3:li]`: a person who dies in contumacy of the Church
+* `[4:elli]`: a person who dies in contumacy of the Church
+
+## Scene 142-145: The Final Request
+**Scene Analysis: The Final Request**
+
+**What is happening:**
+In this concluding moment of their encounter, Manfred makes a final, heartfelt appeal to Dante. He asks Dante to bring him happiness by acting as a messenger to his daughter, Constance. Specifically, he wants Dante to tell her that he is indeed in Purgatory (as Dante has seen him) and to explain the "prohibition" (the waiting period in Ante-Purgatory) he is currently undergoing. Manfred explains the motivation behind this request: the reality of his situation "here" (in Purgatory, moving toward salvation) is far superior to the rumors and reports "over there" (on Earth), which likely claim that he is damned in Hell.
+
+**Who does what:**
+* **Manfred:** Makes a request of Dante to inform his daughter of his true spiritual state to counteract false reports of his damnation.
+* **Dante:** The recipient of the request.
+
+**Who speaks to whom:**
+Manfred speaks to Dante.
+
+**Tag Resolutions:**
+* `[1:+tu]`: Dante
+* `[2:tu]`: Dante
+* `[3:mi]`: Manfred
+* `{4:la mia buona Costanza}`: Constance of Sicily (Manfred's daughter)
+* `[5:+tu]`: Dante
+* `[6:m']`: Manfred
+* `[7:quei]`: the rumors/reports of Manfred's damnation (circulating on Earth)
+
+# recap
+- Dante and Virgil are at the base of Mount Purgatory with Manfred and a group of souls.
+- Manfred has just finished explaining his state of repentance and requested that Dante inform his daughter, Constance, of his salvation.
+- The group remains gathered at the foot of the steep mountain, awaiting the start of their ascent.

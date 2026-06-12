@@ -1,0 +1,215 @@
+# Canto 31 — The Vision of the Celestial Rose and the Guidance of Saint Bernard
+
+## Scene 1-12: The Celestial Rose and the Angelic Bees
+In this scene, Dante provides a breathtaking visual description of the Empyrean. He sees the blessed souls arranged in the form of a massive, white rose (the "Celestial Rose"). He observes Beatrice's movement: she flies back and forth between the rose (where the saints reside) and the divine light of God. Dante compares her to a bee visiting flowers, descending into the rose and then ascending back to the source of her love.
+
+There is no dialogue in this passage; it is the narrator (Dante) describing the divine choreography.
+
+**Tag Resolutions:**
+- [1:mi]: **Dante** (the narrator/pilgrim)
+- {2:la milizia santa}: **The Holy Militia** (the assembly of the blessed souls/saints)
+- {3:Cristo}: **Christ**
+- [4:l'altra]: **Beatrice**
+- [5:colui]: **God** (the Divine Essence/the Father)
+- [6:la]: **Beatrice**
+- [7:la]: **Beatrice**
+- [8:+ella]: **Beatrice**
+- [9:+ella]: **Beatrice**
+- {10:'l süo amor}: **God** (the Divine Essence/the Father, as the object of Beatrice's love)
+
+## Scene 13-24: The Splendor of Divine Light
+In this scene, Dante describes the angelic host that inhabits the Empyrean. He details their appearance—faces of living flame and golden wings—and their activity: they fly back and forth between the divine light of God (the "above") and the souls in the Celestial Rose. As they move, they transfer the peace and fervor they receive from God to the blessed souls. Dante notes that despite the immense number of angels filling the space between the source of light and the Rose, they do not block his view, because divine light is all-penetrating and cannot be obstructed.
+
+There is no dialogue; this is a descriptive passage narrated by Dante.
+
+**Tag Resolutions:**
+- [1:l'altro]: **The angels** (specifically, the rest of their bodies/appearance, in contrast to their faces and wings)
+- [2:+elli]: **The angels**
+- [3:+elli]: **The angels**
+- [4:elli]: **The angels**
+- {5:tanta moltitudine volante}: **The angels** (the flying multitude)
+
+## Scene 25-27: The Nature of the Eternal Kingdom
+In this brief passage, Dante continues his description of the Empyrean. He characterizes the realm as a secure and joyful kingdom. He notes that it is populated by a vast number of people from both ancient and modern times. Crucially, he observes that for all these blessed souls, their vision and their love are perfectly aligned, focused on a single point (the divine essence of God).
+
+**Tag Resolutions:**
+- {1:gente antica e in novella}: **The blessed souls** (the saints from both ancient and modern times inhabiting the Celestial Rose)
+
+## Scene 28-42: Dante's Prayer to the Trinity
+In this scene, Dante breaks his silence to address the Divine. He begins with a prayer directed at the Holy Trinity, describing God as a "threefold light" that manifests as a single point of light to the blessed souls, satisfying their eternal longing. He pleads for God to look down upon the "storm" of human existence (the turmoil and suffering of the earthly world).
+
+To express the magnitude of his awe, Dante employs a hypothetical analogy: he suggests that if "barbarians" from the far North (where the constellation Helix/the Big Dipper dominates the sky) were to travel to Rome and behold the grandeur of its achievements—specifically the Lateran Palace—they would be struck with amazement. Dante compares himself to these barbarians; having traveled from the human realm to the divine and from time to eternity, he is overwhelmed by astonishment. He reflects on the ideal of Florence as a "just and healthy people," and the combination of this longing and the sheer joy of the Empyrean leaves him feeling that silence is the only appropriate response.
+
+**Tag Resolutions:**
+- {1:trina luce}: **God** (The Holy Trinity)
+- [2:li]: **The blessed souls** (the saints in the Celestial Rose)
+- [3:+tu]: **God** (The Holy Trinity)
+- {4:i barbari}: **The barbarians** (the foreign peoples from the North)
+- [5:si]: **The barbarians**
+- [6:ïo]: **Dante**
+- {7:popol giusto e sano}: **The just and healthy people of Florence** (the idealized citizens of his city)
+- [8:+io]: **Dante**
+- [9:mi]: **Dante**
+
+## Scene 43-54: The Wandering Gaze
+In this scene, Dante describes his experience of scanning the vast assembly of the blessed souls in the Celestial Rose. He uses a simile to express his state of mind: he feels like a pilgrim who has finally reached a long-desired temple and is now absorbing the sight, eager to return home and tell others about the experience. After this reflection, the narrator describes his physical action of moving his gaze across the different ranks (the "degrees") of the Rose, looking up and down and circling. He observes the faces of the saints, which are filled with charity, light, and joy. He concludes by noting that while he has grasped the general form of Paradise, his gaze has not yet fixed upon any one specific individual.
+
+**Tag Resolutions:**
+- {1:peregrin}: **Dante** (used here as a figurative comparison to a pilgrim)
+- [2:si]: **Dante** (the pilgrim in the simile)
+- [3:+elli]: **Other people** (the people the pilgrim intends to tell about his journey)
+- [4:ello]: **The temple** (the "tempio del suo voto," the object of the pilgrim's vow)
+- [5:ïo]: **Dante**
+- [6:+io]: **Dante**
+- {7:visi}: **The blessed souls/saints** (specifically their faces)
+- {8:atti}: **The blessed souls/saints** (specifically their expressions/actions)
+
+## Scene 55-63: The Appearance of Saint Bernard
+In this scene, Dante transitions from his prayer to the Holy Trinity back to his interaction with the divine assembly. He feels a rekindled desire to ask Beatrice (his guide) some remaining questions. As he turns his attention, he perceives a figure and initially believes it to be Beatrice. However, the figure speaks, and Dante realizes it is someone else. He sees a man dressed in the same glorious white robes as the other saints. This figure's face radiates a benign, paternal joy and piety, revealing him to be Saint Bernard of Clairvaux.
+
+**Tag Resolutions:**
+
+- [1:+tu]: **God** (The Holy Trinity, to whom Dante has been praying; he is asking God to turn his gaze/attention back toward Beatrice)
+- {2:la mia donna}: **Beatrice**
+- [3:Uno]: **Beatrice** (The figure Dante perceives and mistakenly identifies as Beatrice)
+- [4:altro]: **Saint Bernard** (The actual person who responds to Dante)
+- [5:mi]: **Dante**
+- [6:+io]: **Dante**
+- {7:Beatrice}: **Beatrice**
+- [8:+io]: **Dante**
+- {9:le genti glorïose}: **The blessed souls** (the saints inhabiting the Celestial Rose)
+- [10:+egli]: **Saint Bernard**
+- {11:tenero padre}: **Saint Bernard**
+
+## Scene 64-69: The Location of Beatrice
+In this scene, Dante realizes that the figure he is speaking with is not Beatrice, but Saint Bernard. He immediately asks Saint Bernard where Beatrice has gone. Saint Bernard explains that Beatrice moved him from his position in the Celestial Rose in order to fulfill Dante's desire (to get answers to his questions). Saint Bernard then directs Dante's gaze back up to the third circle from the highest level, telling him that he will find Beatrice there, seated in the throne she earned through her merits.
+
+**Tag Resolutions:**
+- [1:ella]: **Beatrice**
+- [2:io]: **Dante**
+- [3:elli]: **Saint Bernard**
+- {4:Beatrice}: **Beatrice**
+- [5:me]: **Saint Bernard**
+- [6:+tu]: **Dante**
+- [7:tu]: **Dante**
+- [8:la]: **Beatrice**
+- [9:le]: **Beatrice**
+
+## Scene 70-78: A Distant Glimpse of Beatrice
+In this scene, Dante follows Saint Bernard's instructions and looks upward toward the third circle. He catches a glimpse of Beatrice, who appears as a crown of light, reflecting the eternal rays of God. However, Dante notes the immense distance between them. He uses a simile to illustrate this: the gap between his mortal vision and Beatrice's high position is as great as the distance between the surface of the ocean and a deep-sea diver. Because of this extreme distance, he is unable to see her image clearly; her likeness does not "descend" to him.
+
+**Tag Resolutions:**
+- [1:+io]: **Dante**
+- [2:+io]: **Dante**
+- [3:lei]: **Beatrice**
+- [4:si]: **Beatrice**
+- [5:sé]: **Beatrice**
+- {6:occhio mortale alcun}: **Any mortal eye** (referring to the limitation of human vision, specifically Dante's)
+- [7:s']: **A diver** (a generic person used in the simile)
+- {8:Beatrice}: **Beatrice**
+- [9:mi]: **Dante**
+- [10:me]: **Dante**
+
+## Scene 79-90: Dante's Address to Beatrice
+In this scene, Dante speaks directly to Beatrice, who is positioned far above him in the Celestial Rose. He expresses his profound gratitude and devotion, recognizing that his entire journey—from the depths of the *Inferno* to the heights of the *Paradiso*—was made possible by her intervention. He specifically recalls the "suffering" she endured by leaving her place in the Empyrean to descend into Limbo to enlist Virgil's help for his salvation. He acknowledges that she has led him from the "servitude" of sin and earthly limitation to a state of "libertate" (spiritual freedom). Finally, he prays that her divine influence remains within him so that his now-purified soul may eventually be detached from his mortal body to dwell in eternal joy with her.
+
+**Tag Resolutions:**
+- {1:donna}: **Beatrice**
+- [2:i']: **Dante**
+- [3:+io]: **Dante**
+- [4:Tu]: **Beatrice**
+- [5:m']: **Dante**
+- [6:me]: **Dante**
+- [7:+tu]: **Beatrice**
+- {8:l'anima mia}: **Dante** (specifically his soul)
+- [9:te]: **Beatrice**
+- [10:si]: **Dante** (referring to his soul)
+
+## Scene 91-93: Beatrice's Silent Response
+In this brief scene, Dante concludes his emotional address to Beatrice. After finishing his prayer, he describes Beatrice's reaction. Despite the immense distance between them, Beatrice acknowledges him with a smile and a glance. Following this silent exchange, she turns away from Dante and returns her focus to the "eternal fountain" (the divine light of God). This moment marks a poignant transition, as Beatrice's active guidance of Dante concludes, leaving him in the care of Saint Bernard.
+
+**Tag Resolutions:**
+- [1:+io]: **Dante**
+- [2:quella]: **Beatrice**
+- [3:+ella]: **Beatrice**
+- [4:+ella]: **Beatrice**
+- [5:+ella]: **Beatrice**
+- [6:+ella]: **Beatrice**
+- [7:si]: **Beatrice** (as the subject of the reflexive verb *si tornò*, meaning "she returned")
+
+## Scene 94-102: Bernard's Instruction
+In this scene, Saint Bernard takes over as Dante's guide. He instructs Dante to survey the "garden" (the Celestial Rose) with his eyes. Bernard explains that this act of observation will prepare Dante's vision for the final ascent toward the divine light of God. Bernard also mentions the "Queen of Heaven" (the Virgin Mary), assuring Dante that she will grant him grace because of Bernard's own devoted relationship as her "faithful Bernard."
+
+**Tag Resolutions:**
+- {1:'l santo sene}: **Saint Bernard**
+- [2:tu]: **Dante**
+- [3:+ei]: **Saint Bernard**
+- [4:+ei]: **Saint Bernard** (the one sent by prayer and holy love)
+- [5:+tu]: **Dante**
+- [6:t']: **Dante**
+- {7:la regina del cielo}: **The Virgin Mary**
+- [8:ïo]: **Saint Bernard**
+- [9:i']: **Saint Bernard**
+- {10:il suo fedel Bernardo}: **Saint Bernard**
+
+## Scene 103-111: Dante's Internal Wonder
+In this scene, Dante uses a vivid simile to describe his internal state of awe as he observes Saint Bernard. He compares himself to a hypothetical visitor from Croatia who travels to see the "Veronica" (the sacred relic/cloth bearing the image of Christ). He describes this visitor's intense longing and the shock of finally seeing the likeness of Christ, asking, "Was your likeness made thus now?" Dante explains that this is exactly how he feels while gazing at the "living charity" of Saint Bernard, who, through contemplation on earth, had already experienced a foretaste of the eternal peace he now enjoys in Paradise.
+
+**Tag Resolutions:**
+
+- [1:colui]: **The hypothetical visitor** (the person from Croatia used in the simile)
+- {2:la Veronica}: **The Veronica** (the sacred relic/cloth bearing the image of Christ)
+- [3:+ella]: **The longing/hunger** (referring back to "l'antica fame," the visitor's spiritual longing)
+- [4:+ella]: **The Veronica** (the relic)
+- [5:si]: **The Veronica** (the relic)
+- {6:Segnor}: **Jesus Christ**
+- {7:Iesù Cristo}: **Jesus Christ**
+- {8:Dio verace}: **Jesus Christ**
+- [9:io]: **Dante**
+- [10:colui]: **Saint Bernard**
+
+## Scene 112-117: The Command to Look Higher
+In this scene, Saint Bernard continues his role as Dante's guide. He addresses Dante with a paternal and affectionate epithet, telling him that if he keeps his gaze "down here at the bottom" (looking only at the lower ranks of the Rose or at Bernard himself), he will not fully grasp the nature of the divine joy present in the Empyrean. Bernard instructs Dante to look upward, scanning the circles of the Celestial Rose all the way to the highest and most distant point. He directs Dante's attention toward the "Queen" who governs this spiritual realm, guiding Dante's vision toward the Virgin Mary.
+
+**Tag Resolutions:**
+- {1:Figliuol di grazia}: **Dante** (Saint Bernard's affectionate address to him)
+- [2:elli]: **Saint Bernard** (the speaker)
+- [3:ti]: **Dante**
+- [4:+tu]: **Dante**
+- [5:+tu]: **Dante**
+- {6:la regina}: **The Virgin Mary** (the Queen of Heaven)
+
+## Scene 118-129: The Shifting Light of the Heavens
+In this scene, Dante follows Saint Bernard's instructions to look upward and survey the divine light of the Empyrean. He describes the visual experience through two similes. First, he compares the gradient of light to a morning sky, where the eastern horizon is brighter than the west; as he moves his gaze from the lower ranks of the Celestial Rose to the highest, he sees the light intensify. Second, he compares the distribution of this light to the myth of Phaethon’s chariot: just as Phaethon’s fire was most intense in the center and faded toward the edges, the "peaceful aura" of God's light is most vivid in the center and diminishes equally in all directions.
+
+**Tag Resolutions:**
+- [1:Io]: **Dante**
+- [2:+io]: **Dante**
+- {3:Fetonte}: **Phaethon** (the mythological figure who drove the sun chariot)
+
+## Scene 130-138: The Vision of the Queen's Joy
+In this scene, Dante describes the culmination of his gaze as he looks toward the center of the divine light, following Saint Bernard's guidance. He sees a vast multitude of celebrating angels, each unique in their brilliance and artistry. Amidst this angelic host, he perceives a "beauty" (the Virgin Mary) laughing. Her joy is so radiant that it is reflected in the eyes of every other saint in the Celestial Rose. Dante reflects on the inadequacy of human language, stating that even if his ability to express himself were as vast as his ability to imagine, he would not dare to attempt to describe even the smallest fraction of the Virgin Mary's eternal delight.
+
+**Tag Resolutions:**
+- [1:io]: **Dante**
+- {2:mille angeli festanti}: **The celebrating angels**
+- [3:+io]: **Dante**
+- {4:una bellezza}: **The Virgin Mary**
+- {5:tutti li altri santi}: **The blessed souls/saints**
+- [6:io]: **Dante**
+- [7:+io]: **Dante**
+
+## Scene 139-142: Bernard's Shared Devotion
+In this scene, Saint Bernard notices Dante's intense and attentive gaze. Seeing Dante's fervor, Bernard turns his own eyes with great affection toward the Virgin Mary. Witnessing Bernard's devotion only intensifies Dante's own passion, making his gaze toward the Virgin Mary even more ardent. It is a moment of shared spiritual contemplation where the guide's love for the Queen of Heaven inspires and amplifies the pilgrim's own vision.
+
+**Tag Resolutions:**
+- {1:Bernardo}: **Saint Bernard**
+- [2:+egli]: **Saint Bernard**
+- [3:+egli]: **Saint Bernard**
+- [4:lei]: **The Virgin Mary**
+- [5:+egli]: **The Virgin Mary** (In the Tuscan dialect of the time, *egli* could be used as a feminine pronoun, referring back to *lei*).
+
+# recap
+- Dante and Saint Bernard are together in the Empyrean.
+- Beatrice has returned to her seat in the Celestial Rose, ending her role as guide.
+- Guided by Saint Bernard, Dante is gazing upon the Virgin Mary and the celebrating angels.

@@ -1,0 +1,371 @@
+# Canto 31 — The Encounter with the Giants and the Descent with Antaeus
+
+## Scene 1-6: Introductory Metaphor
+In this brief introductory passage, Dante the narrator is reflecting on the emotional impact of the previous scene (the tenth bolgia of the eighth circle). 
+
+Dante is speaking. He uses a metaphor involving a "tongue" (*lingua*) to describe how he was affected by the deceptive and divisive speech of the sowers of discord. This "tongue" first "bit" him—causing him pain or distress that manifested as tears (staining his cheeks)—but was then countered by a "medicine." This "medicine" is the stern moral lesson Virgil delivered at the end of Canto 30, which corrected Dante's misplaced amusement and restored his moral equilibrium.
+
+To illustrate this movement from harm to healing, Dante draws a parallel to Greek mythology. He mentions the spear of Achilles and his father (Peleus), noting that the spear was the cause of both a "sad reward" (death and tragedy) and later a "good reward" (likely referring to the recovery of the body or the eventual glory/resolution associated with the heroic cycle).
+
+**Tag Resolutions:**
+
+*   `[1:mi]`: Dante
+*   `[2:+ella]`: the tongue (*una medesma lingua*), personified as the instrument of discord/deception
+*   `[3:mi]`: Dante
+*   `[4:mi]`: Dante
+*   `[5:io]`: Dante
+*   `{6:Achille}`: Achilles
+*   `{7:suo padre}`: Peleus (Achilles' father)
+
+## Scene 7-15: The Horn Blast
+In this scene, Dante and Virgil are leaving the tenth bolgia of the eighth circle. They climb up the bank that surrounds the "miserable valley" and cross it in silence. The light is very dim—somewhere between day and night—making visibility poor; Dante notes that he can barely see Virgil's face just ahead of him.
+
+Suddenly, a massive blast from a horn sounds. The noise is so powerful that it would make any clap of thunder seem weak by comparison. Startled by the sound, Dante momentarily diverts from the path he was following to look toward the source of the noise.
+
+**Tag Resolutions:**
+
+*   `[1:Noi]`: Dante and Virgil
+*   `[2:m']`: Dante (The face of Virgil was moving slightly ahead of *him*)
+*   `[3:io]`: Dante
+*   `[4:sé]`: Dante (He turned away from the direction *he* was traveling)
+*   `[5:+io]`: Dante
+
+## Scene 16-18: Legendary Echoes
+In this brief scene, Dante the narrator provides a cultural and historical comparison to emphasize the sheer volume and terror of the horn blast he just heard. 
+
+He refers to the "painful rout" (*dolorosa rotta*), which is a reference to the Battle of Roncevaux Pass. He mentions how Charlemagne lost his "holy enterprise" (his military campaign/quest) during this disaster. Specifically, he recalls the legend of Orlando (Roland), Charlemagne's nephew and most famous paladin, who blew his horn (the olifant) to signal for help during the massacre. Dante asserts that even Orlando's legendary, desperate blast was not as terrifying as the sound currently echoing through the depths of Hell.
+
+**Tag Resolutions:**
+
+*   `{1:Carlo Magno}`: Charlemagne (the Emperor)
+*   `{2:Orlando}`: Orlando (Roland, the paladin of Charlemagne)
+
+## Scene 19-27: The Tower Illusion
+In this scene, Dante turns his head toward the source of the thunderous horn blast. In the dim light, he believes he sees a series of high towers in the distance. Confused, he asks Virgil what land he is looking at. Virgil responds by correcting him, explaining that because Dante is traveling through deep darkness and looking at something from a great distance, his senses are deceiving him. Virgil tells Dante that once he actually reaches the edge (the rim of the pit), he will realize how unreliable the senses are when viewing things from afar, and suggests that Dante should be more critical of his own hasty conclusions.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `[2:me]`: Dante
+*   `[3:io]`: Dante
+*   `{4:Maestro}`: Virgil
+*   `[5:+tu]`: Virgil
+*   `[6:elli]`: Virgil
+*   `[7:me]`: Dante
+*   `[8:tu]`: Dante
+*   `[9:+tu]`: Dante
+*   `[10:Tu]`: Dante
+*   `[11:tu]`: Dante
+*   `[12:ti]`: Dante
+*   `[13:+tu]`: Dante
+*   `[14:te]`: Dante
+
+## Scene 28-33: The Truth of the Giants
+In this scene, Virgil takes a tender and guiding tone with Dante. He physically leads Dante by the hand and speaks to him to clear up the optical illusion from the previous scene. Virgil explains that the "towers" Dante thought he saw in the distance are not buildings at all, but are actually Giants. He describes their position: they are trapped in the pit, surrounding the rim of the bottom of Hell, submerged from the navel down.
+
+**Tag Resolutions:**
+
+*   `[1:+ei]`: Virgil
+*   `[2:mi]`: Dante
+*   `[3:+ei]`: Virgil
+*   `[4:noi]`: Dante and Virgil
+*   `[5:men]`: Virgil (the speaker, providing the explanation)
+*   `[6:ti]`: Dante
+*   `[7:+tu]`: Dante
+*   `{8:giganti}`: the Giants
+*   `[9:+elli]`: the Giants
+
+## Scene 34-39: The Clearing Mist
+In this scene, Dante the narrator describes the psychological and visual transition as he and Virgil move closer to the edge of the pit. He uses a simile: just as mist gradually clears to reveal what was hidden, his vision is clearing as he pushes through the thick, dark air toward the shore. 
+
+As the visual evidence becomes clearer, Dante's internal state shifts. The "error"—his mistaken belief that the giants were towers—vanishes, and in its place, a growing sense of dread and fear takes hold as he realizes the true nature of the figures before him.
+
+**Tag Resolutions:**
+
+* `{1:errore}`: Error (the personified misconception/illusion that the giants were towers)
+* `{2:paura}`: Fear (the personified emotion of dread felt by Dante)
+
+## Scene 40-45: The Wall of Giants
+In this scene, Dante provides a vivid visual comparison to describe the appearance of the Giants. He compares the rim of the pit to the town of Montereggio (a fortified town in Emilia known for its circular wall and towers). Just as Montereggio is crowned with towers, the edge of the pit is "towered" by the upper halves of the Giants' bodies, which emerge from the depths. Dante notes that these Giants are still terrified of Jupiter, the king of the gods, who threatens them whenever he thunders from the heavens.
+
+**Tag Resolutions:**
+
+*   `{1:li orribili giganti}`: the Giants
+*   `{2:Giove}`: Jupiter
+*   `[3:+ei]`: Jupiter
+
+## Scene 46-48: Anatomy of the Giants
+In this brief scene, Dante is now close enough to the rim of the pit that the visual illusion has completely vanished. He is describing the physical sight of one of the Giants. He observes the upper body of one of these massive beings, specifically noting the face, the shoulders, the chest, a large part of the belly, and the arms hanging down along the sides of the torso. This visual confirms Virgil's previous explanation that the Giants are submerged in the pit up to their navels.
+
+**Tag Resolution:**
+
+* `[1:io]`: Dante
+
+## Scene 49-57: Nature's Weapons
+In this scene, Dante the narrator pauses to offer a philosophical reflection on the creation and existence of the Giants. He addresses the "art" of Nature, arguing that Nature acted wisely by ceasing to produce such creatures. 
+
+Dante explains that while the world still has massive creatures like elephants and whales, those animals are harmless because they lack human-like reason. The Giants, however, were terrifying because they combined immense physical power (*possa*) and malice (*mal volere*) with the "argument of the mind" (*argomento de la mente*)—essentially, intelligence and strategic thought. Dante concludes that if creatures possessing all three of these traits existed, humanity would have no way to defend itself. Therefore, he views Nature's decision to stop creating Giants as a necessary act of protection for mankind.
+
+**Tag Resolutions:**
+
+*   `{1:Natura}`: Nature (personified as the creative force)
+*   `[2:+ella]`: Nature
+*   `[3:+ella]`: Nature
+*   `{4:tali essecutori}`: the Giants (described as "such executors" or agents of war)
+*   `{5:Marte}`: Mars (the god of war, for whom the Giants served as soldiers)
+*   `[6:ella]`: Nature
+*   `[7:si]`: Nature (reflexive: "if she does not repent")
+*   `[8:chi]`: whoever/the observer (a generic "he who looks closely")
+*   `[9:+egli]`: the observer (referring back to `[8:chi]`)
+*   `[10:la]`: Nature
+*   `{11:la gente}`: humanity / mankind
+
+## Scene 58-66: Massive Proportions
+In this scene, Dante the narrator provides a detailed description of the staggering physical proportions of one of the Giants. He is visually assessing the scale of the creature to convey the sense of awe and terror he feels.
+
+Dante begins by describing the Giant's face, comparing its size and length to the "pina" (likely referring to a massive pinnacle or architectural feature) of St. Peter's in Rome. He notes that the rest of the Giant's skeletal structure is proportionally as massive. Because the Giant is submerged in the rim of the pit up to its waist—which Dante describes as the rim serving as a "loincloth" (*perizoma*)—only the upper half is visible. 
+
+To emphasize the height of this upper half, Dante uses a hypothetical comparison: he claims that three Frisians (people from Friesland, renowned in the Middle Ages for their great height) would have struggled or "boasted in vain" if they tried to reach the Giant's hair by standing on each other's shoulders. Finally, Dante provides a specific (though hyperbolic) measurement, noting that he sees "thirty great palms" of distance from the Giant's waist (where a man would typically buckle a cloak) to the top of its head.
+
+**Tag Resolutions:**
+
+*   `[1:mi]`: Dante
+*   `{2:San Pietro}`: St. Peter (referring to the Basilica/landmark in Rome)
+*   `{3:la ripa}`: the rim/bank of the pit
+*   `[4:ne]`: the Giant
+*   `{5:tre Frison}`: three Frisians
+*   `[6:s']`: the three Frisians
+*   `[7:i']`: Dante
+*   `[8:ne]`: the Giant
+*   `{9:omo}`: a man (generic human)
+
+## Scene 67-69: The Unintelligible Cry
+In this scene, one of the Giants opens his mouth and lets out a loud, guttural cry: *«Raphèl maì amècche zabì almi»*. 
+
+The language is intentionally distorted and unintelligible to Dante, serving as a literary echo of the "confusion of tongues" associated with the Tower of Babel (which the Giants, specifically Nimrod, were involved in). Dante the narrator observes that the mouth producing this sound is "fierce" and ironically remarks that it would have been more fitting for such a mouth to sing "sweeter psalms" than to shout these barbaric sounds.
+
+**Tag Resolutions:**
+
+*   `{1:Raphèl}`: The entity being addressed by the Giant (though the word is part of a corrupted, nonsense language, it functions here as a name or an invocation).
+*   `{2:la fiera bocca}`: The Giant who is speaking.
+
+## Scene 70-75: Virgil's Rebuke
+In this scene, Virgil speaks to Dante, reacting to Dante's reaction to the Giant's barbaric cry. Virgil adopts a corrective and slightly mocking tone, calling Dante a "silly soul" and a "confused soul." 
+
+Virgil tells Dante to keep his own "horn" (his voice or emotional reactions) to himself and to vent his passions elsewhere. He then directs Dante's attention to the Giant, pointing out the rope (*la soga*) that keeps the creature bound and urging Dante to look at the Giant's massive chest to realize how small and insignificant he is by comparison. Essentially, Virgil is reminding Dante of the scale of the forces at play and the necessity of humility and composure in the face of such monstrousness.
+
+**Tag Resolutions:**
+
+*   `{1:'l duca mio}`: Virgil
+*   `[2:lui]`: Virgil
+*   `{3:Anima sciocca}`: Dante
+*   `[4:+tu]`: Dante
+*   `[5:+tu]`: Dante
+*   `[6:ti]`: Dante
+*   `[7:ti]`: Dante
+*   `[8:+tu]`: Dante
+*   `[9:+tu]`: Dante
+*   `[10:'l]`: the Giant (the rope that keeps *him* tied)
+*   `{11:anima confusa}`: Dante
+*   `[12:+tu]`: Dante
+*   `[13:lui]`: the Giant
+*   `[14:ti]`: Dante
+
+## Scene 76-81: The Identity of Nembrot
+In this scene, Virgil continues his conversation with Dante, explaining the identity and the symbolic punishment of the Giant who just let out the unintelligible cry.
+
+Virgil informs Dante that the Giant is Nimrod (Nembrotto), the biblical figure associated with the construction of the Tower of Babel. Virgil explains that Nimrod is the reason the world no longer speaks a single, unified language. The irony of Nimrod's punishment in Hell is that he is now a victim of the very confusion he caused: to him, every language spoken by others sounds as nonsensical and unknown as his own barbaric speech sounds to everyone else. Consequently, Virgil advises Dante that there is no point in trying to speak to him, as communication is impossible.
+
+**Tag Resolutions:**
+
+*   `[1:+ei]`: Virgil
+*   `[2:me]`: Dante
+*   `[3:Elli]`: Nimrod (the Giant)
+*   `[4:s']`: Nimrod
+*   `[5:questi]`: Nimrod
+*   `{6:Nembrotto}`: Nimrod
+*   `[7:+elli]`: the Giants (or a general "they")
+*   `[8:Lasciànlo]`: Nimrod (the object "lo")
+*   `[9:+noi]`: Virgil and Dante
+*   `[10:lui]`: Nimrod
+
+## Scene 82-90: The Second Giant
+In this scene, Dante and Virgil continue their journey along the rim of the pit, moving toward the left. As they walk, they encounter a second Giant who is even more ferocious and larger than the first (Nimrod). 
+
+Dante notes that he lacks the descriptive skill of his "master" (Virgil) to fully capture the creature's appearance, but he describes the Giant's restraint. This Giant is bound by a massive chain that secures him from the neck down. This chain is so immense that it coils upward, reaching as high as the fifth circle of Hell. He is positioned in relation to the first Giant they encountered.
+
+**Tag Resolutions:**
+
+*   `[1:+noi]`: Dante and Virgil
+*   `[2:+noi]`: Dante and Virgil
+*   `{3:l'altro}`: the second Giant (Antaeus)
+*   `[4:lui]`: the second Giant
+*   `{5:'l maestro}`: Virgil
+*   `[6:io]`: Dante
+*   `[7:el]`: the second Giant
+*   `{8:l'altro}`: Nimrod (the first Giant)
+*   `[9:'l]`: the second Giant
+
+## Scene 91-96: The Fall of Fialte
+In this scene, Virgil speaks to Dante to identify and explain the punishment of the second Giant they have encountered. 
+
+Virgil explains that this "proud one" attempted to test his own strength against Jupiter, the king of the gods. Because of this hubris, the Giant has earned his current miserable state (his "reward"). Virgil reveals the Giant's name as Fialtes and recalls the era when the Giants waged war and struck fear into the gods. He concludes by noting the irony of Fialtes' current condition: the massive arms he once used to fight and terrorize are now eternally frozen and motionless, bound by the chains of Hell.
+
+**Tag Resolutions:**
+
+*   `{1:Questo superbo}`: Fialtes (the second Giant)
+*   `{2:l mio duca}`: Virgil
+*   `[3:elli]`: Fialtes
+*   `{4:Fïalte}`: Fialtes
+*   `[5:+elli]`: Fialtes
+*   `{6:i giganti}`: the Giants
+*   `{7:dèi}`: the gods
+*   `[8:el]`: Fialtes
+*   `[9:+elli]`: Fialtes
+
+## Scene 97-99: Dante's Curiosity
+In this brief scene, Dante expresses his curiosity about the other Giants. He turns to Virgil and asks if it is possible for him to see Briareus (the "immeasurable" or "vast" Briareus), the hundred-handed giant of Greek mythology. Dante wants his own eyes to have a direct "experience" of this monstrous creature, continuing his pattern of questioning Virgil to better understand the scale and nature of the inhabitants of the pit.
+
+**Tag Resolutions:**
+
+* `[1:io]`: Dante
+* `[2:lui]`: Virgil
+* `[3:io]`: Dante
+* `{4:lo smisurato Brïareo}`: Briareus (the hundred-handed Giant)
+
+## Scene 100-105: The Promise of Antaeus
+In this scene, Virgil responds to Dante's request to see the hundred-handed giant Briareus. 
+
+Virgil informs Dante that before they reach Briareus, they will encounter another giant named Antaeus. He notes that Antaeus is nearby, unlike the previous giants, he is not bound, and he is capable of speech. More importantly, Virgil reveals that Antaeus will be the means by which they descend to the very bottom of the pit to reach the sinners there.
+
+As for Briareus, Virgil explains that he is located much further along the rim. He describes Briareus as being bound and physically similar to Fialtes (the giant they just encountered), with the only notable difference being that Briareus has an even more ferocious expression on his face.
+
+**Tag Resolutions:**
+
+*   `[1:ei]`: Virgil
+*   `[2:Tu]`: Dante
+*   `{3:Anteo}`: Antaeus
+*   `[4:ne]`: Antaeus
+*   `{5:ogne reo}`: every sinner (the damned in the bottom of Hell)
+*   `[6:Quel]`: Briareus
+*   `[7:tu]`: Dante
+*   `[8:+ei]`: Briareus
+*   `[9:+ei]`: Briareus
+*   `[10:questo]`: Fialtes
+*   `[11:+ei]`: Briareus
+
+## Scene 106-111: The Earth Shaking
+In this scene, the narrative focuses on a sudden, terrifying movement by one of the Giants. Fialtes, who was previously described as being bound and motionless, suddenly shakes himself. Dante compares this movement to a violent earthquake capable of shaking a strong tower, emphasizing the sheer scale and power of the Giant. 
+
+This sudden activity causes Dante to be seized by an intense fear of death. He feels an urgent need for the protection and guidance of Virgil (referred to as *la dotta*, the learned one). However, Dante notes that his terror would have been absolute if he hadn't seen the *ritorte*—the twisted coils of the massive chains that keep Fialtes bound—which serve as a reminder that the Giant is imprisoned and cannot freely attack them.
+
+**Tag Resolutions:**
+
+*   `{1:Fïalte}`: Fialtes (the Giant)
+*   `[2:scuotersi]`: Fialtes
+*   `[3:io]`: Dante
+*   `[4:io]`: Dante
+
+## Scene 112-114: The Arrival of Antaeus
+In this brief scene, Dante and Virgil continue their journey along the rim of the pit, moving further along. They arrive at the location of the Giant Antaeus. Dante describes the scale of the creature: Antaeus emerges from the grotto/pit, and the part of him extending above the rim (excluding his head) is about five *braccia* (cubits/arms) in length.
+
+**Tag Resolutions:**
+
+* `[1:Noi]`: Dante and Virgil
+* `[2:+noi]`: Dante and Virgil
+* `{3:Anteo}`: Antaeus
+* `[4:+elli]`: Antaeus
+
+## Scene 115-129: Virgil's Diplomacy
+In this scene, Virgil takes the lead to negotiate their passage to the bottom of Hell. He speaks directly to the Giant Antaeus, using a combination of flattery, mythological reminders, and a promise of future reward to persuade him to help them.
+
+Virgil begins by acknowledging Antaeus's legendary strength. He references the "fortunate valley" (the plains of Zama), where the Roman general Scipio Africanus defeated Hannibal. In mythology, Antaeus was said to have helped Scipio in this battle; Virgil reminds him of this victory and his prowess in hunting lions. He then recalls the "high war" of the Gigantomachy, where the Giants (the "sons of the earth") fought against the gods, suggesting that if Antaeus had been present in a certain capacity, the Giants might have actually won.
+
+Having established Antaeus's greatness, Virgil makes his request: he asks the Giant to carry them down to the frozen lake of Cocytus. He warns Antaeus not to cause a scene or provoke the authorities/others (referring to them as "Tizio and Tifo"), and instructs him to bend down carefully to pick them up.
+
+Finally, Virgil offers a powerful incentive: since Dante is a living poet, he can grant Antaeus "fame in the world." He notes that Dante is still alive and likely has a long life ahead of him—unless God calls him home sooner—meaning Antaeus has a unique opportunity to be immortalized in literature if he agrees to help them.
+
+**Tag Resolutions:**
+
+*   `[1:tu]`: Antaeus
+*   `{2:Scipïon}`: Scipio Africanus
+*   `{3:Anibàl}`: Hannibal
+*   `[4:+tu]`: Antaeus
+*   `{5:fratelli}`: the other Giants
+*   `{6:i figli de la terra}`: the Giants
+*   `[7:+tu]`: Antaeus
+*   `{8:Cocito}`: Cocytus (the frozen lake at the bottom of Hell)
+*   `[9:+tu]`: Antaeus
+*   `{10:Tizio}`: Tizio (a generic name for an authority/entity in Hell)
+*   `{11:Tifo}`: Tifo (a generic name for an authority/entity in Hell)
+*   `[12:questi]`: Dante
+*   `[13:+tu]`: Antaeus
+*   `[14:ti]`: Antaeus
+*   `[15:+tu]`: Antaeus
+*   `[16:+ei]`: Dante
+*   `[17:ti]`: Antaeus
+*   `[18:el]`: Dante
+*   `[19:+el]`: Dante
+*   `[20:sé]`: God
+
+## Scene 130-132: The Giant's Obedience
+In this brief scene, Virgil finishes his request, and the Giant Antaeus complies immediately. Antaeus quickly stretches out his massive hands and picks up Virgil (and Dante). Dante notes the immense physical pressure of the Giant's grip, drawing a mythological parallel to Hercules, who famously fought Antaeus in antiquity, to emphasize the overwhelming strength of the Giant's hold.
+
+**Tag Resolutions:**
+
+*   `{1:l maestro}`: Virgil
+*   `[2:quelli]`: Antaeus
+*   `[3:+elli]`: Antaeus
+*   `{4:l duca mio}`: Virgil
+*   `{5:Ercule}`: Hercules
+
+## Scene 133-135: Securing the Poet
+In this brief scene, Virgil ensures that Dante is safely secured before the descent begins. 
+
+As Virgil feels himself being lifted by the Giant Antaeus, he realizes he needs to bring Dante along in the same grip to keep them together and safe. Virgil speaks to Dante, telling him to move closer so that he (Virgil) can grab hold of him. Virgil then pulls Dante close, effectively bundling the two of them together so they can be carried as a single unit in the giant's massive hand.
+
+**Tag Resolutions:**
+
+*   `{1:Virgilio}`: Virgil
+*   `[2:+elli]`: Antaeus (the giant who is picking up Virgil)
+*   `[3:si]`: Virgil (reflexive: Virgil feels *himself* being picked up)
+*   `[4:+elli]`: Virgil
+*   `[5:me]`: Dante
+*   `[6:+tu]`: Dante
+*   `[7:io]`: Virgil
+*   `[8:ti]`: Dante
+*   `[9:+elli]`: Virgil
+*   `[10:elli]`: Virgil
+*   `[11:io]`: Dante
+
+## Scene 136-141: The Dizzying Descent
+In this scene, Dante describes the terrifying visual experience of looking up at the giant Antaeus as he leans down to pick them up. To convey the sheer scale and the dizzying perspective, Dante uses a simile involving the Carisenda, a famous tower in Bologna known for its great height and slight lean. He explains that looking at the tower from below, especially when a cloud hangs over it, makes the tower appear to bend or lean even further toward the cloud.
+
+Dante compares this optical illusion to the sight of Antaeus bending over him. The perspective was so overwhelming and the giant's size so imposing that Dante felt a surge of intense vertigo and fear. He concludes by admitting that at that moment, he felt such dread that he wished he were traveling by a different path entirely.
+
+**Tag Resolutions:**
+
+*   `{1:la Carisenda}`: the Carisenda tower (a landmark in Bologna)
+*   `{2:l chinato}`: the Carisenda tower (referring to its characteristic lean)
+*   `[3:essa]`: the Carisenda tower
+*   `[4:ella]`: the Carisenda tower
+*   `{5:Antëo}`: Antaeus
+*   `[6:me]`: Dante
+*   `[7:i']`: Dante
+
+## Scene 142-145: Reaching the Abyss
+In this final scene of Canto 31, the transition to the bottom of Hell is completed. Antaeus carries Dante and Virgil gently down to the absolute center of the abyss. He delivers them to the place where Lucifer and Judas are located. Once the two poets have been set down, Antaeus does not remain bent over; instead, he straightens his massive body, rising upward like a ship's mast.
+
+**Tag Resolutions:**
+
+*   `{1:Lucifero}`: Lucifer
+*   `{2:Giuda}`: Judas Iscariot
+*   `[3:ci]`: Dante and Virgil
+*   `[4:+elli]`: Antaeus
+*   `[5:+elli]`: Antaeus
+*   `[6:si]`: Antaeus
+
+# recap
+- Dante and Virgil are together at the absolute bottom of Hell.
+- Having been carried down by the Giant Antaeus, they have just arrived at the center of the abyss.
+- They are now in the immediate presence of Lucifer and Judas.

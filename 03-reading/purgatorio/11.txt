@@ -1,0 +1,298 @@
+# Canto 11 — The Prayer of the Souls and the Vanity of Earthly Glory
+
+## Scene 1-12: The Souls' Praise
+In this scene, the souls of the proud on the first ledge of Purgatory are singing a collective prayer. This is a liturgical chant, similar in structure to the "Our Father," where the penitent souls address God in unison.
+
+The souls are praising God's infinite nature and love, acknowledging that they are incapable of achieving the peace of His kingdom through their own human effort or intellect ("ingegno"). They plead for His grace to come to them. They conclude by hoping that the human beings still living on earth will be as devoted to God's will as the angels are in heaven.
+
+**Tag Resolutions:**
+- `{1:Padre nostro}`: God
+- `[2:tu]`: God
+- `[3:noi]`: the souls of the proud
+- `[4:noi]`: the souls of the proud
+- `[5:noi]`: the souls of the proud
+- `{6:li angeli tuoi}`: the angels
+- `[7:te]`: God
+- `{8:li uomini de' suoi}`: mankind / human beings on earth
+
+## Scene 13-24: The Souls' Petitions
+In this scene, the collective of souls burdened by pride continues their liturgical prayer, addressing God directly. The structure of their plea closely mirrors the "Our Father" (the Pater Noster).
+
+They begin by asking God for "daily manna"—spiritual grace—without which those struggling through the arduous desert of Purgatory might falter or lose heart. They then move to a petition for forgiveness, stating that just as they forgive others for the wrongs they have suffered, God should also forgive them, asking Him not to judge them based on their own meager merits.
+
+Finally, they make a selfless request. They ask God to protect the fragile virtue of those still living on earth, praying that God does not let the "ancient adversary" (Lucifer) tempt or provoke them. They clarify that this last request is not for themselves (as they are already beyond the reach of earthly temptation in their state of purgation) but for the living humans who remain behind them in the world.
+
+**Tag Resolutions:**
+- `[1:+tu]`: God
+- `[2:noi]`: the souls of the proud
+- `[3:chi]`: those who struggle (the penitent souls)
+- `[4:s']`: those who struggle (the penitent souls)
+- `[5:noi]`: the souls of the proud
+- `[6:+noi]`: the souls of the proud
+- `[7:+noi]`: the souls of the proud
+- `[8:tu]`: God
+- `{9:benigno}`: God
+- `[10:+tu]`: God
+- `[11:s']`: their virtue (the souls' virtue)
+- `[12:+tu]`: God
+- `{13:l'antico avversaro}`: Lucifer
+- `[14:lui]`: Lucifer
+- `{15:segnor caro}`: God
+- `[16:noi]`: the souls of the proud
+- `[17:color]`: the living people on earth
+- `[18:noi]`: the souls of the proud
+
+## Scene 25-30: Entering the First Ring
+In this scene, Dante describes the physical state and movement of the spirits as they continue the prayer they began in the previous scenes.
+
+The spirits of the proud are moving along the first ledge of Purgatory, bent low under the crushing weight of the stones they are forced to carry. Their collective prayer acts as a "good exhortation" or spiritual reminder, not only for their own benefit as they undergo purgation but also for the benefit of the living (represented by Dante and Virgil). Dante observes that their slow, labored movement is surreal, resembling the strange, heavy atmosphere of a dream. They are exhausted and distressed, but they persevere in their movement to purge the "cloudiness" (the delusions and blindness caused by earthly pride) that they carried during their lives on earth.
+
+**Tag Resolutions:**
+- `[1:sé]`: the souls of the proud
+- `[2:noi]`: Dante and Virgil
+- `{3:quell' ombre}`: the souls of the proud
+- `[4:si]`: an indefinite person / anyone (impersonal "one")
+
+## Scene 31-36: Thoughts on Divine Intercession
+In this scene, Dante shifts from observing the souls' prayer to reflecting on the nature of divine intercession and the relationship between the three realms (Paradise, Purgatory, and Earth).
+
+Dante muses that if the blessed souls in Paradise (the "over there") constantly pray for the well-being of humanity, then those still living on earth who possess a "good root in their will" (the virtuous and faithful) should also pray and act for the benefit of the souls currently in Purgatory. He concludes that the only way for these penitent spirits to be cleansed of their "notes" (the stains or marks of their pride) is through this process of purgation and intercession, which will eventually allow them to leave the ledge "clean and light" and ascend to the "starry wheels" of Heaven.
+
+**Tag Resolutions:**
+- `[1:noi]`: mankind / human beings (both the living and those in Purgatory)
+- `[2:lor]`: the souls of the proud
+- `[3:quei]`: the virtuous living people on earth
+- `[4:loro]`: the souls of the proud
+
+## Scene 37-45: A Request for Direction
+In this scene, Virgil addresses the souls of the proud. He begins with a wish that divine justice and mercy soon relieve the souls of their heavy burdens, allowing them to "move their wings" (ascend) according to their desire. 
+
+Taking advantage of this interaction, Virgil asks the souls for practical guidance regarding the topography of Purgatory. He wants to know which path or "stair" is the shortest and, if there are multiple openings, which one is the least steep. Virgil explains the reason for his request: unlike himself (a spirit) or the penitent souls, Dante is a living human being. Because Dante is "clothed" in the physical flesh of Adam, he finds the physical act of climbing the mountain arduous and exhausting, making him "scant" or limited in his ability to ascend against his own will.
+
+**Tag Resolutions:**
+- `[1:vi]`: the souls of the proud
+- `[2:+voi]`: the souls of the proud
+- `[3:+elli]`: justice and mercy (`giustizia e pietà`)
+- `[4:vi]`: the souls of the proud
+- `[5:+voi]`: the souls of the proud
+- `[6:+voi]`: the souls of the proud
+- `[7:questi]`: Dante
+- `[8:meco]`: Virgil
+- `{9:Adamo}`: Adam
+- `[10:+elli]`: Dante
+- `[11:si]`: Dante
+- `[12:+elli]`: Dante
+
+## Scene 46-57: Virgil's Guidance
+In this scene, Dante the narrator describes the response to Virgil's inquiry about the best path up the mountain. The answer does not come from a single individual but is delivered as a collective response from the souls of the proud.
+
+A speaking soul provides the directions, telling Dante and Virgil to turn right along the bank to find a path that is manageable for a living person (Dante). The soul then expresses a poignant limitation: because they are forced to keep their head bowed low by the crushing weight of the stone on their neck (the punishment for their earthly pride), they cannot look up. The soul explains that if they could look up, they would try to see if they recognize Dante and would hope to evoke Dante's pity for their miserable, burdened state.
+
+**Tag Resolutions:**
+- `[1:colui]`: Virgil
+- `[2:io]`: Dante
+- `[3:noi]`: the souls of the proud
+- `[4:+voi]`: Dante and Virgil
+- `[5:+voi]`: Dante and Virgil
+- `{6:persona viva}`: Dante
+- `[7:io]`: the speaking soul of the proud
+- `[8:convienmi]`: the speaking soul of the proud
+- `[9:cotesti]`: Dante
+- `[10:si]`: Dante
+- `[11:io]`: the speaking soul of the proud
+- `[12:i']`: the speaking soul of the proud
+- `[13:'l]`: Dante
+- `[14:farlo]`: Dante
+- `{15:questa soma}`: the speaking soul of the proud (identified here by their burden)
+
+## Scene 58-72: The Confession of Omberto
+In this scene, the speaking soul who provided directions to Virgil in the previous scene identifies himself and explains the source of his pride. He introduces himself as Omberto, a Latin and a Tuscan, and the son of Guiglielmo Aldobrandesco.
+
+Omberto confesses that his noble lineage and the distinguished achievements of his ancestors filled him with such arrogance that he looked down upon all other human beings, forgetting that all people share a "common mother" (humanity). He notes that his death was well-known in the region of Siena, specifically in Campagnatico. He further laments that his pride did not only harm him but also brought his kinsmen into misery. He concludes by stating that he must now carry the heavy stone in Purgatory to satisfy God's justice, as he failed to humble himself while he was among the living.
+
+**Tag Resolutions:**
+- `[1:Io]`: Omberto
+- `{2:un gran Tosco}`: Guiglielmo Aldobrandesco (Omberto's father)
+- `{3:Guiglielmo Aldobrandesco}`: Guiglielmo Aldobrandesco
+- `{4:mio padre}`: Guiglielmo Aldobrandesco
+- `[5:+io]`: Omberto
+- `{6:i miei maggior}`: Omberto's ancestors
+- `[7:+elli]`: Omberto's ancestors (or their noble deeds)
+- `[8:mi]`: Omberto
+- `{9:la comune madre}`: humanity / mankind
+- `{10:ogn' uomo}`: any human being / other people
+- `[11:+io]`: Omberto
+- `[12:io]`: Omberto
+- `{13:ogne fante}`: every boy/person in Campagnatico
+- `[14:Io]`: Omberto
+- `{15:Omberto}`: Omberto
+- `[16:me]`: Omberto
+- `{17:tutti miei consorti}`: Omberto's kinsmen / relatives
+- `[18:ella]`: pride (`superbia`)
+- `[19:seco]`: pride (`superbia`)
+- `[20:io]`: Omberto
+- `[21:lei]`: pride (`superbia`)
+- `{22:Dio}`: God
+- `[23:io]`: Omberto
+- `{24: ' vivi}`: the living people on earth
+- `{25: ' morti}`: the souls of the dead/penitents
+
+## Scene 73-81: Recognition and Inquiry
+In this scene, Dante is listening to Omberto's confession. While doing so, he bows his head. This movement catches the attention of another soul among the proud (not Omberto). This second soul, struggling under the crushing weight of his stone, manages to turn, recognize Dante, and call out to him. Dante looks up and recognizes the soul as Oderisi, recalling his great fame as an illuminator in Agobbio and in Paris.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:lor]`: the souls of the proud
+- `[3:questi]`: Omberto
+- `[4:+ei]`: the other soul (Oderisi)
+- `[5:si]`: the other soul (Oderisi)
+- `[6:li]`: the other soul (Oderisi)
+- `[7:+ei]`: the other soul (Oderisi)
+- `[8:+ei]`: the other soul (Oderisi)
+- `[9:+ei]`: the other soul (Oderisi)
+- `[10:+ei]`: the other soul (Oderisi)
+- `[11:me]`: Dante
+- `[12:loro]`: the souls of the proud
+- `[13:io]`: Dante
+- `[14:lui]`: the other soul (Oderisi)
+- `[15:tu]`: the other soul (Oderisi)
+- `{16:Oderisi}`: Oderisi
+- `{17:onor d'Agobbio}`: Oderisi (specifically his fame/honor in Agobbio)
+- `{18:onor di quell' arte}`: Oderisi (specifically his fame/honor in the art of illumination)
+- `{19:ch'alluminar chiamata è in Parisi}`: the art of illumination (practiced in Paris)
+
+## Scene 82-90: The Sin of Pride
+In this scene, Oderisi continues his conversation with Dante. He addresses Dante as "Brother" and reflects on the nature of artistic fame and the pride that led him to Purgatory. 
+
+Oderisi mentions Franco Bolognese, a contemporary artist, noting that the glory of their shared craft (illumination) now belongs entirely to Franco, while Oderisi's own fame has faded. He confesses that when he was alive, he was not humble or "courteous" because he was driven by an intense desire for excellence and preeminence in his art. He acknowledges that it is specifically for this "superbia" (pride) that he is now paying the penalty in Purgatory. Finally, he expresses gratitude that he is in Purgatory rather than Hell; he explains that this is because, while he was still capable of sinning (i.e., while he was alive), he ultimately turned his heart back toward God.
+
+**Tag Resolutions:**
+- `{1:Frate}`: Dante
+- `[2:elli]`: Oderisi
+- `{3:Franco Bolognese}`: Franco Bolognese
+- `[4:io]`: Oderisi
+- `[5:io]`: Oderisi
+- `[6:+io]`: Oderisi
+- `[7:+io]`: Oderisi
+- `[8:mi]`: Oderisi
+- `{9:Dio}`: God
+
+## Scene 91-99: The Ephemerality of Fame
+In this scene, Oderisi continues his address to Dante, reflecting on the "vanity of earthly glory." He argues that human fame is fleeting and unstable, comparing it to a thin patch of greenery on a harsh mountain peak that cannot survive without deep roots. 
+
+To illustrate this, he provides two examples of how successors inevitably overshadow their predecessors. First, in the world of painting, he mentions Cimabue, who once believed he dominated the field, only to be eclipsed by Giotto, leaving Cimabue's fame in the shadows. Second, in the realm of poetry (the "glory of the tongue"), he notes that Guido Cavalcanti displaced those who came before him. He concludes with a cynical prediction: that someone has likely already been born who will eventually displace Guido and his predecessors, "chasing them from the nest" of fame.
+
+**Tag Resolutions:**
+- `{1:Cimabue}`: Cimabue (the painter)
+- `{2:Giotto}`: Giotto (the painter)
+- `[3:colui]`: Cimabue
+- `[4:l'uno]`: the poets who preceded Guido
+- `[5:l'altro]`: the poets who preceded Guido
+- `{6:Guido}`: Guido Cavalcanti (the poet)
+- `[7:chi]`: a future poet / successor
+- `[8:l'uno]`: Guido Cavalcanti (and/or the preceding poets)
+- `[9:l'altro]`: Guido Cavalcanti (and/or the preceding poets)
+
+## Scene 100-108: The Brevity of Earthly Goods
+In this scene, Oderisi continues his discourse on the vanity of earthly glory, moving from the fame of artists and poets to the general ephemerality of all worldly reputation and wealth.
+
+Oderisi argues that worldly fame ("mondan romore") is nothing more than a gust of wind that shifts direction and changes its name depending on where it blows. He addresses Dante directly, asking him to consider his own future. He poses a rhetorical question: will Dante be remembered any more if he lives to an old age and eventually separates his soul from his physical body ("scindi da te la carne"), than if he had died young, before he had the chance to accumulate wealth (using the colloquial terms ‘pappo’ and ‘dindi’ for money)?
+
+Oderisi asserts that in the grand scale of time, the difference is negligible. He claims that within a thousand years, any such earthly distinction will have vanished. To emphasize this, he contrasts human time with the perspective of the Eternal One (God), for whom a thousand years is a shorter span than the blink of an eye is to the slowest-moving sphere in the heavens.
+
+**Tag Resolutions:**
+- `[1:tu]`: Dante
+- `[2:+tu]`: Dante
+- `[3:te]`: Dante
+- `[4:+tu]`: Dante
+- `[5:tu]`: Dante
+- `{6:l'etterno}`: God
+
+## Scene 109-117: The Fading of Sienese Glory
+This scene is a continuation of Oderisi’s discourse on the vanity of earthly fame. To illustrate his point, he provides a specific, albeit unnamed, example of how quickly a "great" reputation vanishes.
+
+Oderisi speaks of a man who, before Oderisi's own time, was famous throughout all of Tuscany. This man was a lord in Siena, but now he is barely remembered even in his own city. Oderisi notes that this man's prominence coincided with the time when Siena was ravaged by the "Florentine rage"—the prideful city of Florence—which Oderisi remarks was as arrogant then as it is now. 
+
+He concludes with a powerful metaphor: human reputation is like the color of grass. It springs up vividly from the earth, but the very same force (the sun/time) that allows it to grow eventually causes it to fade and wither.
+
+**Tag Resolutions:**
+- `[1:Colui]`: an unnamed, formerly famous Sienese lord
+- `[2:me]`: Oderisi
+- `[3:+ei]`: the unnamed, formerly famous Sienese lord
+- `[4:+ei]`: the unnamed, formerly famous Sienese lord
+- `{5:sire}`: the unnamed, formerly famous Sienese lord
+- `{6:la rabbia fiorentina}`: the city of Florence / the Florentines
+- `[7:quei]`: the sun / the natural force (that causes grass to grow and then fade)
+
+## Scene 118-120: Dante's Humble Response
+In this brief scene, Dante responds to the long discourse delivered by Oderisi regarding the vanity of earthly glory. Dante acknowledges the truth in Oderisi's words, admitting that the lesson serves to instill a healthy sense of humility within him and to flatten any lingering pride or "great tumor" (emotional swelling/arrogance) he might still possess. 
+
+However, Dante's intellectual curiosity is piqued by the specific example Oderisi used in the previous scene. He asks Oderisi for the identity of the man he had just described—the formerly great Sienese lord who has since been forgotten by history.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:lui]`: Oderisi
+- `[3:m']`: Dante
+- `[4:m']`: Dante
+- `[5:chi]`: the unnamed Sienese lord
+- `[6:quei]`: the unnamed Sienese lord
+- `[7:tu]`: Oderisi
+
+## Scene 121-126: The Identification of Salvani
+In this scene, Oderisi answers Dante's question by identifying the forgotten Sienese lord. He reveals the man's name as Provenzan Salvani and explains the reason for his presence on the first ledge of Purgatory: Salvani was overly presumptuous in his attempt to bring the entire city of Siena under his personal control. Oderisi describes how Salvani has been burdened by the heavy stone without rest since the moment of his death. He concludes that this grueling penance is the "coin" or price that Salvani must pay to satisfy the justice of God, as a consequence of being too daring and arrogant during his life on earth.
+
+**Tag Resolutions:**
+- `[1:Quelli]`: Provenzan Salvani
+- `[2:+elli]`: Oderisi
+- `{3:Provenzan Salvani}`: Provenzan Salvani
+- `[4:+elli]`: Provenzan Salvani
+- `[5:+elli]`: Provenzan Salvani
+- `[6:+elli]`: Provenzan Salvani
+- `[7:+elli]`: Provenzan Salvani
+- `[8:+elli]`: Provenzan Salvani
+- `[9:+elli]`: Provenzan Salvani
+- `[10:chi]`: Provenzan Salvani
+
+## Scene 127-132: A Question of Salvation
+In this scene, Dante addresses Oderisi with a theological question regarding the mechanics of Purgatory and the efficacy of prayer. 
+
+Dante asks about the situation of a soul—specifically referring to Provenzan Salvani—who is currently stuck on the ledge and cannot ascend. He notes that such a soul must wait for a period of time (potentially as long as the duration of their earthly life) before they can move upward. Dante wants to know if "good prayers" (intercessory prayers from the living) can help the soul and shorten this waiting period, and how such grace is granted to facilitate the soul's progression.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:quello spirito}`: Provenzan Salvani
+- `[3:si]`: Provenzan Salvani
+- `[4:+egli]`: Provenzan Salvani
+- `[5:+egli]`: Provenzan Salvani
+- `[6:lui]`: Provenzan Salvani
+- `[7:+egli]`: Provenzan Salvani
+- `[8:lui]`: Provenzan Salvani
+
+## Scene 133-142: The Story of the Great Sacrifice
+In this scene, Oderisi answers Dante's question about whether a soul's time in Purgatory can be shortened by explaining the specific circumstances that helped Provenzan Salvani.
+
+Oderisi recounts a daring act of selflessness performed by Salvani during the height of his earthly power in Siena. He explains that Salvani set aside all pride and fear to rescue a friend who was being held prisoner by King Charles (Charles II of Anjou). This act was so perilous that it left Salvani trembling in every vein. 
+
+Oderisi chooses not to provide all the historical details, noting that his account might seem obscure to Dante at the moment. However, he predicts that in the near future, Dante's "neighbors" (his fellow Florentines or the chroniclers of the region) will provide the full details so that Dante can verify the story. The central point is that this noble deed—this "work" of sacrifice for another—is what ultimately allowed Salvani to overcome the boundaries of his pride and facilitated his progress toward salvation.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Provenzan Salvani
+- `[2:+ei]`: Oderisi
+- `[3:+ei]`: Provenzan Salvani
+- `[4:s']`: Provenzan Salvani
+- `{5:l'amico suo}`: Provenzan Salvani's friend
+- `[6:e']`: Provenzan Salvani's friend
+- `{7:Carlo}`: Charles II of Anjou
+- `[8:+ei]`: Provenzan Salvani
+- `[9:si]`: Provenzan Salvani
+- `[10:+io]`: Oderisi
+- `[11:+io]`: Oderisi
+- `[12:+io]`: Oderisi
+- `{13:' tuoi vicini}`: Dante's fellow Florentines / people of the region
+- `[14:tu]`: Dante
+- `[15:li]`: Provenzan Salvani
+
+# recap
+- Dante and Virgil are on the first ledge of Purgatory.
+- They are in conversation with the soul of Oderisi.
+- Oderisi has just explained how Provenzan Salvani's act of selflessness helped shorten his penance.

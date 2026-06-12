@@ -1,0 +1,284 @@
+# Canto 05 — The Integrity of Vows and the Ascent to the Second Heaven
+
+## Scene 1-6: The Source of Beatrice's Radiance
+In this scene, Beatrice is speaking directly to Dante. Dante has been stunned by the overwhelming radiance of her gaze, and she is now explaining the source of this intensity to him.
+
+Beatrice tells him that if she is "flaming" with a heat of love that is far beyond anything experienced on earth—so much so that her brilliance overpowers the strength of his own gaze—he should not be surprised. She explains that this radiance is the result of "perfect seeing" (the beatific vision of God). In the celestial realm, the act of understanding the Divine Good leads immediately and inevitably to an act of love and movement toward that Good. Essentially, her light is a reflection of her perfect union with God's will.
+
+**Tag Resolutions:**
+- `[1:io]`: Beatrice (the speaker)
+- `[2:ti]`: Dante (the person being addressed)
+- `[3:+io]`: Beatrice (the speaker)
+- `[4:ti]`: Dante (the person being addressed)
+
+## Scene 7-15: The Question of Vows
+In this scene, Beatrice continues her conversation with Dante. She observes that the "eternal light" (God) is already shining within Dante's intellect. She explains a key theological point: the sight of this Divine Light is the only thing that truly ignites love. If Dante ever found himself seduced by other, earthly things, Beatrice explains that those things were merely imperfect "traces" or reflections of that same Divine Light, which he simply failed to recognize at the time.
+
+Beatrice then pivots to address a specific question Dante has asked: he wants to know if there is some other way to serve God—perhaps through a "lesser vow" (one less rigorous than those of the monastic orders or the high standards of the celestial spheres)—that can still ensure the soul's eternal happiness and security.
+
+**Tag Resolutions:**
+- `[1:Io]`: Beatrice (the speaker)
+- `{2:etterna luce}`: God (the Divine Light)
+- `[3:quella]`: God (referring back to the "etterna luce")
+- `[4:Tu]`: Dante (the person being addressed)
+- `{5:anima}`: Dante (specifically, Dante's soul/the human soul seeking salvation)
+
+## Scene 16-18: Beatrice Begins Her Discourse
+In this brief transitional scene, the narrator (Dante) describes the manner in which Beatrice begins her answer to his question. He notes that she starts speaking and continues her "holy discourse" without interruption, comparing her steady flow of speech to that of a person who does not break their train of thought.
+
+**Tag Resolutions:**
+- `{1:Beatrice}`: Beatrice.
+- `{2:uom}`: a generic man (used as a point of comparison in a simile to describe Beatrice's fluency).
+- `[3:+ella]`: Beatrice.
+
+## Scene 19-33: The Gift of Free Will
+In this scene, Beatrice provides a theological explanation of the nature of free will and the spiritual mechanism of a vow. She explains that the greatest gift God gave to "intelligent creatures" (angels and humans) is the freedom of the will. A vow is described as a sacred pact between God and a human; when a person makes a vow, they are essentially offering the "treasure" of their free will back to God. 
+
+The scene concludes with a rhetorical shift: Beatrice begins to speak *vox Dei* (in the voice of God). She articulates God's perspective, stating that because the human has offered their will, God desires to reward them by transforming the "bad material" (the flawed, mortal human) into "good work" (a sanctified soul).
+
+**Tag Resolutions:**
+
+- `{1:Dio}`: God
+- `[2:+ei]`: God
+- `{3:le creature intelligenti}`: Intelligent creatures (Angels and Humans)
+- `[4:ti]`: Dante
+- `[5:tu]`: Dante
+- `[6:s']`: The vow/the value of the vow (the subject of "is so made")
+- `{7:Dio}`: God
+- `[8:tu]`: Dante (acting as the representative of a human making a vow)
+- `{9:Dio}`: God
+- `{10:l'omo}`: Man (generic human)
+- `{11:vittima}`: The person making the vow (the human who "sacrifices" their will)
+- `[12:+ei]`: The person making the vow (the human)
+- `[13:io]`: Beatrice (the speaker)
+- `[14:+ei]`: The person making the vow (the human)
+- `[15:+io]`: God (Beatrice speaking in the voice of God)
+- `[16:+tu]`: Dante (or the human making the vow)
+- `[17:+tu]`: Dante (or the human making the vow)
+- `[18:+io]`: God (Beatrice speaking in the voice of God)
+
+## Scene 34-39: The Difficulty of Truth
+In this scene, Beatrice is continuing her theological instruction of Dante. She acknowledges that Dante now understands the "most important point"—the fundamental nature of the vow as a gift of free will to God. However, she identifies a potential point of confusion: the fact that the Catholic Church often grants "dispensations" (releases or modifications of vows), which seems to contradict the absolute truth she just explained. Using a metaphor of eating, she tells Dante that because the "food" (the theological truth) he has just "consumed" is "rigid" (difficult to digest), he needs further explanation to help him fully process and understand how the Church's laws align with divine truth.
+
+**Tag Resolutions:**
+
+- `[1:Tu]`: Dante (the person Beatrice is addressing)
+- `{2:Santa Chiesa}`: The Holy Church (the institutional Church)
+- `[3:i']`: Beatrice (the speaker)
+- `[4:t']`: Dante (the person Beatrice has revealed the truth to)
+- `[5:+tu]`: Dante (the one who has "taken" the food)
+- `[6:c']`: The "rigid food" (the difficult theological truth/the lesson Beatrice just provided)
+
+## Scene 40-54: The Nature of Sacrifice
+In this scene, Beatrice continues her theological explanation to Dante, focusing on the distinction between the "matter" and the "intent" (or "agreement") of a sacred vow. She urges Dante to focus and retain the lesson she is giving him, as knowledge requires active retention. 
+
+She explains that any sacrifice (or vow) consists of two parts: the **matter** (the physical act or specific thing offered) and the **convenience/agreement** (the spiritual obligation and intent). She argues that while the *matter* of a vow can be changed or substituted (which explains why the Church can grant dispensations), the *agreement* (the core commitment to God) is immutable and absolute. To illustrate this, she mentions that the Hebrews were obligated to offer sacrifices; even if the specific offering was changed, the divine requirement to offer something remained.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: Dante
+- `[2:quel]`: the truth/lesson Beatrice is revealing
+- `[3:io]`: Beatrice
+- `[4:ti]`: Dante
+- `[5:+tu]`: Dante
+- `[6:+ella]`: the truth/knowledge (the lesson)
+- `[7:+ella]`: the sacrifice/vow
+- `[8:+ella]`: the *convenienza* (the agreement/divine rule of the vow)
+- `[9:+ella]`: the *convenienza* (the agreement/divine rule of the vow)
+- `{10:li Ebrei}`: the Hebrews (the Jewish people)
+- `{11:dei}`: God
+- `[12:t']`: Dante
+- `[13:+ella]`: the *materia* (the material part/the substance of the vow)
+- `[14:+ella]`: the sacrifice/vow
+- `[15:+ella]`: the *materia* (the material part/the substance of the vow)
+
+## Scene 55-63: The Necessity of Authority
+In this scene, Beatrice continues her theological lesson on the nature of vows and the authority required to change them. She is explaining that the "matter" (the specific act) of a vow cannot be changed simply because the person who made the vow wants it changed ("per suo arbitrio"). 
+
+She introduces the concept of ecclesiastical authority using the imagery of the "white and yellow keys," which are the traditional symbols of the Papacy (the keys to the kingdom of heaven). She explains that only the Church, through the Pope, has the power to grant a dispensation to alter a vow. Furthermore, she notes that any such change is "foolish" unless the new obligation is equal to or greater than the original one—using a mathematical metaphor where the number four is "collected" (contained) within the number six. She concludes by stating that if a vow has an immense spiritual value (it "tips every scale"), it cannot be replaced by something of lesser value.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante (Beatrice is instructing him not to assume that the burden of a vow can be shifted by personal will).
+- `[2:+tu]`: Dante (Beatrice tells him that he should consider such unauthorized changes as foolish).
+- `[3:si]`: This is an impersonal pronoun (*si* passivante/impersonale), meaning "it cannot be satisfied" or "one cannot satisfy." It does not refer to a specific person but describes the impossibility of the action.
+
+## Scene 64-72: Historical Warnings of Broken Vows
+In this scene, Beatrice provides a stern warning about the seriousness of making vows. She cautions that mortals should not treat a vow as a trivial thing (*ciancia*). She urges Dante—and all humans—to be faithful to their commitments but warns against a blind, rigid adherence to a vow if doing so leads to an even greater evil.
+
+To illustrate this, she provides two historical/mythological examples of "foolish" obedience to a vow. First, she mentions the biblical figure Jephthah, who vowed to sacrifice the first thing that greeted him upon his return from battle; when it was his own daughter, he carried out the sacrifice. Beatrice argues that Jephthah would have been better off admitting he had made a mistake ("Wrongly I acted") than committing such a horror. Second, she points to Agamemnon ("the great leader of the Greeks"), who sacrificed his daughter Iphigenia. She notes that Iphigenia's tragedy brought tears to the eyes of everyone, both the foolish and the wise, who heard the story of the event.
+
+**Tag Resolutions:**
+
+- `{1:li mortali}`: Mortals / Humanity in general.
+- `[2:+voi]`: Dante (addressed as a representative of all mortals).
+- `{3:Ieptè}`: Jephthah.
+- `[4:+io]`: Jephthah (this is a hypothetical quote of what Jephthah should have said).
+- `[5:+tu]`: Dante.
+- `{6:il gran duca de' Greci}`: Agamemnon.
+- `{7:Efigènia}`: Iphigenia.
+- `[8:+ella]`: Iphigenia.
+- `[9:sé]`: Iphigenia.
+- `{10:i folli}`: The foolish (generic group of people).
+- `{11:i savi}`: The wise (generic group of people).
+- `{12:cólto}`: The "deed" or the "act" (specifically, the sacrifice of Iphigenia).
+
+## Scene 73-84: Exhortation to Christians
+In this scene, Beatrice shifts from discussing the specific theological mechanics of vows to a broader moral exhortation. She addresses Dante, but she speaks in the plural "you," expanding her audience to include all Christians.
+
+Beatrice urges Christians to be steadfast and "grave" (serious/steady) in their faith, rather than being like feathers blown about by every wind or believing that any "water" (any false promise or easy path) can wash away their sins. She reminds them that they have everything they need for salvation: the Old and New Testaments and the guidance of the Pope (the "shepherd of the Church").
+
+She warns that if "evil greed" (the desire for earthly power or gain) tempts them, they must act as rational men rather than "mad sheep." She cautions that if they are inconsistent and fickle, they will become a laughingstock to those outside the faith (represented by "the Jew"). She concludes with a metaphor of a lamb that abandons its mother's milk, becoming simple and wanton and fighting with itself—suggesting that those who abandon the guidance of the Church end up in a state of internal spiritual conflict and confusion.
+
+**Tag Resolutions:**
+
+- `[1:+voi]`: Christians (Dante and all believers)
+- `{2:Cristiani}`: Christians
+- `[3:+voi]`: Christians
+- `[4:+voi]`: Christians
+- `[5:vi]`: Christians
+- `[6:+voi]`: Christians
+- `{7:'l pastor de la Chiesa}`: The Pope
+- `[8:vi]`: Christians
+- `[9:vi]`: Christians
+- `{10:mala cupidigia}`: Evil greed (personified)
+- `[11:vi]`: Christians
+- `{12:uomini}`: Men / Humans (specifically Christians)
+- `[13:+voi]`: Christians
+- `{14:'l Giudeo}`: The Jew (representing non-believers)
+- `[15:voi]`: Christians
+- `[16:voi]`: Christians
+- `[17:+voi]`: Christians
+- `[18:+elli]`: the lamb (the "agnel" used in the metaphor)
+
+## Scene 85-93: Movement to the Second Heaven
+In this scene, Beatrice concludes her detailed discourse on vows and ecclesiastical authority. As she stops speaking and changes her expression, she turns away from Dante and looks upward toward the more "vivid" (higher/more intense) parts of the celestial spheres. Dante, who had more questions prepared, realizes the conversation is over because of her silence and shifted demeanor. The scene ends with a sudden, rapid ascent—compared to the speed of an arrow—as Dante and Beatrice travel together into the Second Heaven (the sphere of Mercury).
+
+**Tag Resolutions:**
+- `{1:Beatrice}`: Beatrice.
+- `[2:me]`: Dante (the person Beatrice was addressing).
+- `[3:ïo]`: Dante (the narrator/author writing the poem).
+- `[4:+ella]`: Beatrice.
+- `[5:si]`: Beatrice (reflexive pronoun: she turned herself).
+- `[6:+elli]`: Beatrice's silence and change of expression (these two attributes of Beatrice are what silence Dante's curiosity).
+- `[7:+noi]`: Dante and Beatrice.
+
+## Scene 94-99: Beatrice's Increasing Brilliance
+In this scene, Dante describes the immediate effect of arriving in the Second Heaven (the sphere of Mercury). He observes Beatrice's extreme happiness as she enters the light of this new sphere. Her radiance is so intense that it actually increases the brilliance of the planet/sphere itself. Dante notes that when Beatrice (whom he calls "the star") changes her expression or laughs, it triggers a corresponding change in his own emotional and spiritual state. He concludes with a reflection on his own nature, noting how "changeable" he is in response to her divine presence.
+
+**Tag Resolutions:**
+
+- `{1:la donna}`: Beatrice.
+- `[2:io]`: Dante.
+- `[3:+ella]`: Beatrice.
+- `[4:si]`: Beatrice (reflexive: she placed *herself* in the light).
+- `[5:se]`: The planet/sphere (reflexive: the planet made *itself* more brilliant/became more brilliant).
+- `{6:'l pianeta}`: The planet Mercury (the Second Heaven).
+- `{7:la stella}`: Beatrice (an epithet).
+- `[8:si]`: Beatrice (reflexive: she changed *herself*).
+- `[9:+ella]`: Beatrice.
+- `[10:mi]`: Dante.
+- `[11:io]`: Dante.
+- `[12:+io]`: Dante.
+
+## Scene 100-108: The Arrival of the Spirits
+In this scene, Dante uses a simile to describe the arrival of the souls in the Second Heaven. He compares the souls to fish in a clear, still pond that are drawn to something entering the water, mistaking it for food. 
+
+In reality, more than a thousand "splendors" (the spirits of the blessed) are drawn toward Dante and Beatrice. As they approach, the spirits speak, proclaiming that the arrival of the newcomer (Dante) will increase their love. Dante observes that as each individual soul approaches, it is filled with joy, illuminated by the brilliant light emanating from Beatrice.
+
+**Tag Resolutions:**
+- `[1:+elli]`: The fish (in the simile), representing the spirits/souls of the Second Heaven.
+- `[2:io]`: Dante.
+- `{3:splendori}`: The spirits/souls of the Second Heaven.
+- `[4:noi]`: Dante and Beatrice.
+- `[5:chi]`: Dante.
+- `[6:noi]`: Dante and Beatrice.
+- `{7:l'ombra}`: An individual spirit/soul of the Second Heaven.
+- `[8:lei]`: Beatrice.
+
+## Scene 109-114: Dante's Desire for Knowledge
+In this scene, the narrator (Dante) pauses the narrative to address the reader directly. He acknowledges the reader's curiosity, suggesting that if the story ended here, the reader would feel a painful longing for more knowledge. He tells the reader that he will now describe his own intense desire to learn the "conditions" (the state or nature) of the spirits in this heaven, noting that he was clearly visible to the spirits as they approached.
+
+**Tag Resolutions:**
+- `[1:+tu]`: The reader.
+- `{2:lettor}`: The reader.
+- `[3:tu]`: The reader.
+- `[4:te]`: The reader.
+- `[5:+tu]`: The reader.
+- `[6:questi]`: The spirits/souls of the Second Heaven.
+- `[7:+io]`: Dante.
+- `[8:m']`: Dante.
+- `[9:+elli]`: The spirits/souls of the Second Heaven.
+- `[10:mi]`: Dante.
+
+## Scene 115-120: The Greeting of the Spirit
+In this scene, one of the "splendors" (the blessed spirits of the Second Heaven/Mercury) speaks directly to Dante. The spirit greets Dante, calling him "well-born" or fortunate, because he has been granted the grace to behold the eternal triumph of God while still in his mortal state (before "abandoning the militia," meaning before his earthly life and its struggles end). 
+
+The spirit explains that they (the souls of this sphere) are illuminated by the divine light that fills the heavens. Recognizing Dante's curiosity (mentioned in the previous scene), the spirit offers to explain the nature and condition of their existence to satisfy Dante's desire for knowledge.
+
+**Tag Resolutions:**
+- `{1:bene nato}`: Dante
+- `[2:noi]`: The spirits/souls of the Second Heaven
+- `[3:+io]`: The speaking spirit (one of the souls of the Second Heaven)
+- `[4:noi]`: The spirits/souls of the Second Heaven
+- `[5:ti]`: Dante
+
+## Scene 121-123: Beatrice's Command
+In this scene, Dante is reporting the interaction that follows the spirit's greeting. After one of the blessed spirits of the Second Heaven addresses him, Beatrice intervenes. She gives a dual command: she encourages the spirit to continue the explanation and instructs Dante to trust the words he is hearing.
+
+Beatrice tells the spirit to speak "surely" (with certainty and clarity), and she tells Dante to believe the spirit's words as if they were spoken by gods—emphasizing that the truth shared by the blessed in heaven is divine and infallible.
+
+**Tag Resolutions:**
+- `{1:quelli spirti pii}`: The blessed spirits of the Second Heaven (Mercury).
+- `[2:mi]`: Dante.
+- `{3:Beatrice}`: Beatrice.
+- `[4:+tu]`: The speaking spirit (the one Beatrice is telling to "tell").
+- `[5:+tu]`: The speaking spirit.
+- `[6:+tu]`: Dante (the one Beatrice is telling to "believe").
+- `{7:dii}`: Gods (used as a metaphor for the divine authority and truth of the spirits' words).
+
+## Scene 124-129: Dante's Inquiry
+In this scene, Dante speaks for the first time since arriving in the Second Heaven. He addresses the spirit who has just offered to explain the nature of this sphere.
+
+Dante observes the spirit's appearance, noting how the spirit seems to "hide" or blend into its own divine light, and how that light flashes and flickers in synchronization with the spirit's laughter. Despite these observations, Dante admits that he does not know who the spirit is, nor does he understand why this "worthy soul" has been granted a place in this specific sphere (the sphere of Mercury), which is normally hidden from the sight of mortal humans.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the speaker)
+- `[2:tu]`: The speaking spirit of the Second Heaven
+- `[3:t']`: The speaking spirit of the Second Heaven (reflexive)
+- `[4:+tu]`: The speaking spirit of the Second Heaven
+- `[5:+tu]`: The speaking spirit of the Second Heaven
+- `[6:tu]`: The speaking spirit of the Second Heaven
+- `[7:+io]`: Dante (the speaker)
+- `[8:chi]`: The speaking spirit of the Second Heaven
+- `[9:tu]`: The speaking spirit of the Second Heaven
+- `[10:+tu]`: The speaking spirit of the Second Heaven
+- `{11:anima degna}`: The speaking spirit of the Second Heaven
+- `{12:mortai}`: Mortals / Humanity in general
+
+## Scene 130-132: Beatrice's Radiant Reaction
+In this scene, Dante is completing the action of the previous scene. He has just posed his question to the spirit of the Second Heaven. He notes that he spoke directly to this "luminary" (the spirit), who had previously addressed him. In response to this interaction, the spirit becomes even more brilliant, increasing in radiance.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:la lumera}`: The speaking spirit of the Second Heaven
+- `[3:m']`: Dante
+- `[4:ella]`: The speaking spirit of the Second Heaven
+- `[5:ell']`: The speaking spirit of the Second Heaven
+
+## Scene 133-139: The Elusive Response
+In this scene, Dante describes the reaction of the spirit of the Second Heaven to his inquiry. He uses a striking simile: just as the sun hides itself from view when its light is too intense or when heat dissipates the thick vapors of the atmosphere, the spirit becomes so overcome with joy that its visible form disappears into its own radiance.
+
+The "holy figure" (the spirit's form) is absorbed into the light it emits, effectively hiding itself from Dante's sight. However, despite being "closed" or hidden within this brilliance, the spirit proceeds to answer Dante's questions. The scene ends with a meta-narrative transition, as Dante informs the reader that the actual response is what the next canto will describe.
+
+**Tag Resolutions:**
+- `[1:+ella]`: The speaking spirit of the Second Heaven (referred to as "la lumera" in the previous scene).
+- `[2:mi]`: Dante.
+- `[3:si]`: The speaking spirit of the Second Heaven (reflexive: the spirit hid itself).
+- `{4:la figura santa}`: The speaking spirit of the Second Heaven.
+- `[5:+ella]`: The speaking spirit of the Second Heaven.
+- `[6:mi]`: Dante.
+
+# recap
+- Dante and Beatrice are in the Second Heaven (the sphere of Mercury).
+- They are joined by a radiant spirit (a luminary) who has greeted them.
+- The spirit is about to answer Dante's questions regarding the nature of this sphere and the reason for its inhabitants' presence.

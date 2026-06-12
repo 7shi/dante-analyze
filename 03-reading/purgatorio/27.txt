@@ -1,0 +1,488 @@
+# Canto 27 — The Entrance into the Fire and the Ascent to the Earthly Paradise
+
+## Scene 1-6: The Solar Metaphor
+**Scene Analysis: The Solar Metaphor**
+
+**What happens:**
+The scene opens with a complex astronomical description used to establish the exact time and date of the action. Dante describes the position of the sun as it begins to set, referencing its alignment with the Iberian Peninsula and the Ganges River (likely indicating the autumnal equinox). This atmospheric setup serves as a cinematic transition: just as the day is ending, a joyful angel suddenly appears before the travelers.
+
+**Who does what:**
+*   **Dante (the narrator):** Observes and describes the celestial alignment and the arrival of the divine messenger.
+*   **The Angel:** Appears before the group.
+
+**Who speaks to whom:**
+There is no dialogue in these six lines; it is purely narrative description.
+
+**Resolution of Numbered Tags:**
+*   `{1:il suo fattor}`: **Jesus Christ**. (The "maker" who shed his blood on the cross).
+*   `{2:l'angel di Dio}`: **The Angel of God** (specifically the guardian angel who stands at the threshold of the Earthly Paradise).
+*   `[3:ci]`: **Dante, Virgil, and Statius**. (The group of three poets traveling together).
+
+## Scene 7-13: The Angel's Command
+**Scene Analysis: The Angel's Command**
+
+**What happens:**
+The angel is positioned on the bank, just outside the purgatorial flames of the Lustful. He is singing the beatitude "Blessed are the pure in heart" in a voice far more vibrant than that of the humans. As Dante, Virgil, and Statius approach, the angel stops singing and delivers a stern command: they cannot proceed any further unless they first pass through the fire. He instructs them to enter the flames and to listen to the singing emanating from the other side.
+
+**Who does what:**
+*   **The Angel:** Stands on the bank, sings a divine verse, and then gives the travelers the necessary instructions to advance.
+*   **Dante, Virgil, and Statius:** Approach the angel and receive his command.
+
+**Who speaks to whom:**
+The Angel speaks to the group (Dante, Virgil, and Statius).
+
+**Resolution of Numbered Tags:**
+*   `[1:+ei]`: **The Angel**.
+*   `[2:+ei]`: **The Angel**.
+*   `[3:si]`: **Anyone/The Travelers**. (This is an impersonal "si," meaning "one does not go further," referring specifically to the group's progress).
+*   `{4:anime sante}`: **Dante, Virgil, and Statius**. (The angel addresses them as "holy souls"; though Dante is living, he is addressed as part of the group seeking purification).
+*   `[5:+voi]`: **Dante, Virgil, and Statius**.
+*   `[6:+voi]`: **Dante, Virgil, and Statius**.
+*   `[7:ci]`: **Dante, Virgil, and Statius**.
+*   `[8:+ei]`: **The Angel**.
+*   `[9:noi]`: **Dante, Virgil, and Statius**.
+*   `[10:li]`: **The Angel**. (Referring to the group being near *him*).
+
+## Scene 14-18: Dante's Terror
+**Scene Analysis: Dante's Terror**
+
+**What happens:**
+Upon hearing the angel's command that they must pass through the purgatorial fire to move forward, Dante is seized by an overwhelming sense of dread. He describes his reaction using a vivid simile, comparing his state to that of a condemned man being thrown into a pit. Paralyzed by fear, he extends his hands in a gesture of desperation or warding, unable to stop himself from visualizing the horrific sight of burning human bodies he had previously witnessed during his journey through the *Inferno*.
+
+**Who does what:**
+*   **Dante:** Reacts with physical and psychological terror to the angel's instructions. He remembers the sights of Hell and shrinks back from the fire.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is the narrator describing his own internal state and physical reaction.
+
+**Resolution of Numbered Tags:**
+*   `[1:io]`: **Dante**.
+*   `[2:+io]`: **Dante**.
+*   `[3:lo]`: **The Angel's command**. (The "it" that Dante heard).
+*   `[4:colui]`: **A condemned person**. (A metaphorical reference to someone cast into a pit/abyss).
+*   `[5:+io]`: **Dante**.
+*   `[6:mi]`: **Dante**.
+*   `{7:umani corpi}`: **The damned souls in Hell**. (Specifically the burning bodies Dante saw in the *Inferno*, which are now haunting his imagination).
+
+## Scene 19-32: Virgil's Reassurance
+**Scene Analysis: Virgil's Reassurance**
+
+**What happens:**
+Seeing Dante paralyzed by fear at the prospect of entering the flames, Virgil and Statius (the "good guides") turn toward him. Virgil speaks with paternal tenderness to calm Dante's panic. He makes a crucial theological distinction: while there is "torment" (pain) in Purgatory, there is no "death" (permanent destruction or the eternal agony of Hell). 
+
+To restore Dante's confidence, Virgil uses a logical argument based on their history: if he was able to lead Dante safely past the monster Gerion in the depths of the *Inferno*, he can certainly protect him here, in a place much closer to God. Virgil assures Dante that the purgatorial fire is not destructive—it wouldn't even singe a single hair on his head, even if he stayed in it for a thousand years. To prove this, Virgil invites Dante to test the fire himself by touching it with the hem of his clothing. The scene ends with Virgil commanding Dante to cast off his fear and step forward into the fire with confidence.
+
+**Who does what:**
+*   **Virgil:** Turns to Dante and delivers a reassuring speech, using both a historical reminder and a physical challenge to overcome Dante's fear.
+*   **Statius:** Along with Virgil, he turns toward Dante in support.
+*   **Dante:** The recipient of Virgil's reassurance, struggling to overcome his trauma from the *Inferno*.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `[1:me]`: **Dante**.
+*   `{2:le buone scorte}`: **Virgil and Statius**.
+*   `{3:Virgilio}`: **Virgil**.
+*   `[4:mi]`: **Dante**. (Virgil is speaking to him).
+*   `{5:Figliuol}`: **Dante**.
+*   `[6:+tu]`: **Dante**.
+*   `[7:+tu]`: **Dante**.
+*   `[8:io]`: **Virgil**.
+*   `{9:Gerïon}`: **Gerion**. (The monster of fraud encountered in the *Inferno*).
+*   `[10:+io]`: **Virgil**.
+*   `[11:ti]`: **Dante**.
+*   `[12:+io]`: **Virgil**.
+*   `{13:Dio}`: **God**.
+*   `[14:+tu]`: **Dante**.
+*   `[15:+tu]`: **Dante**.
+*   `[16:ti]`: **Dante**.
+*   `[17:tu]`: **Dante**.
+*   `[18:io]`: **Virgil**.
+*   `[19:t']`: **Dante**.
+*   `[20:+tu]`: **Dante**.
+*   `[21:+tu]`: **Dante**.
+*   `[22:+tu]`: **Dante**.
+*   `[23:+tu]`: **Dante**.
+*   `[24:+tu]`: **Dante**.
+*   `[25:+tu]`: **Dante**.
+*   `[26:+tu]`: **Dante**.
+
+## Scene 33-36: The Wall of Separation
+**Scene Analysis: The Wall of Separation**
+
+**What happens:**
+Despite Virgil's extensive reassurances in the previous scene, Dante remains paralyzed by fear, standing still even though his reason (his "conscience") tells him he should move. Virgil, noticing that Dante is still stubborn and frozen, becomes slightly troubled or frustrated. He delivers a poignant reminder to motivate Dante: he points out that the wall of fire is the only remaining obstacle separating Dante from Beatrice.
+
+**Who does what:**
+*   **Dante:** Remains frozen in place, fighting a battle between his terror and his will.
+*   **Virgil:** Observes Dante's hesitation and speaks to him, framing the fire not as a danger, but as the final barrier between the poet and his beloved.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `[1:io]`: **Dante**.
+*   `[2:+egli]`: **Virgil**.
+*   `[3:mi]`: **Dante**.
+*   `[4:+egli]`: **Virgil**.
+*   `[5:+tu]`: **Dante**.
+*   `{6:figlio}`: **Dante**. (Virgil's habitual affectionate term for him).
+*   `{7:Bëatrice}`: **Beatrice**.
+*   `[8:te]`: **Dante**.
+
+## Scene 37-42: Dante's Conversion
+**Scene Analysis: Dante's Conversion**
+
+**What happens:**
+Dante describes the moment his fear and paralysis finally break. He uses a classical literary allusion to Pyramus and Thisbe (from Ovid's *Metamorphoses*) to illustrate this shift. Just as Pyramus, in his dying moments, opened his eyes and looked upon Thisbe when he heard/saw her (symbolized by the mulberry tree turning red with his blood), Dante's "hardness" (his stubborn fear) is softened. The catalyst for this change is the mention of Beatrice's name by Virgil in the previous scene. Hearing her name awakens Dante's will, and he finally turns back to Virgil, ready to proceed.
+
+**Who does what:**
+*   **Dante (the narrator):** Experiences a sudden emotional and psychological shift. He moves from a state of frozen terror to a state of readiness, physically turning toward his guide.
+*   **Pyramus and Thisbe:** Appear in a simile to represent the power of a beloved's name to provoke a reaction, even in the face of death or despair.
+*   **Virgil (the "wise guide"):** The object of Dante's attention as Dante turns back to him.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a narrative reflection and a description of Dante's physical reaction.
+
+**Resolution of Numbered Tags:**
+*   `{1:Tisbe}`: **Thisbe**. (The female protagonist of the Ovidian myth).
+*   `{2:Piramo}`: **Pyramus**. (The male protagonist of the Ovidian myth).
+*   `[3:+elli]`: **Pyramus**. (The pronoun referring back to Pyramus).
+*   `[4:+io]`: **Dante**.
+*   `[5:mi]`: **Dante**.
+*   `{6:al savio duca}`: **Virgil**. (The "wise guide").
+*   `[7:mi]`: **Dante**.
+
+## Scene 43-48: Entering the Fire
+**Scene Analysis: Entering the Fire**
+
+**What happens:**
+Following the mention of Beatrice's name, Dante is suddenly transformed from a state of frozen terror to a state of eager readiness. Virgil reacts to this sudden change with a mixture of surprise and amusement. He shakes his head and asks rhetorically (and teasingly) if Dante really intended to stay behind on the safe side of the fire. Virgil's smile is compared to that of a parent who has successfully coaxed a child with a piece of fruit. To lead by example and prove the fire is harmless, Virgil steps into the flames first. As he does, he calls for Statius to follow him, noting that they had been separated for a long time (referring to their disparate journeys through the afterlife before reuniting in Purgatory).
+
+**Who does what:**
+*   **Virgil:** Reacts with amusement to Dante's change of heart, teases him, leads the way into the purgatorial fire, and invites Statius to follow.
+*   **Dante:** Has just experienced his "conversion" and is now ready to proceed; he observes Virgil entering the fire.
+*   **Statius:** Is called forward by Virgil to enter the fire.
+
+**Who speaks to whom:**
+Virgil speaks to Dante (the teasing question) and then to Statius (the request to follow).
+
+**Resolution of Numbered Tags:**
+*   `[1:ei]`: **Virgil**. (The one who shakes his brow in reaction to Dante).
+*   `[2:+ei]`: **Virgil**. (The speaker).
+*   `[3:+io]`: **Virgil**. (Speaking in the first person: "Did I [think] you wanted to stay here?").
+*   `[4:+ei]`: **Virgil**. (The one who smiles).
+*   `{5:al fanciul}`: **Dante**. (The "child" in the simile who is tempted/won over).
+*   `[6:+ei]`: **Virgil**. (The one who goes in first).
+*   `[7:mi]`: **Dante**. (Virgil enters "before me").
+*   `[8:si]`: **Virgil**. (The reflexive "himself"—he put *himself* into the fire).
+*   `{9:Stazio}`: **Statius**.
+*   `[10:ci]`: **Virgil and Statius**. (Referring to the poets who were separated by time and space before meeting in the divine comedy).
+
+## Scene 49-54: The Intensity of the Flame
+**Scene Analysis: The Intensity of the Flame**
+
+**What happens:**
+As Dante steps into the purgatorial fire, he is immediately struck by the sheer intensity of the heat. He describes the heat using a paradoxical hyperbole: the fire is so overwhelming ("beyond measure") that he feels as though he would have thrown himself into a vessel of boiling liquid just to find some relief or "cool down" by comparison. To distract Dante from this physical distress and to keep his spirits high, Virgil continues to speak of Beatrice. Virgil's words serve as a psychological anchor, reminding Dante of the goal ahead. Virgil expresses his own anticipation, stating that he feels as if he can already see Beatrice's eyes.
+
+**Who does what:**
+*   **Dante:** Enters the fire and experiences an intense, overwhelming heat that causes him immediate distress.
+*   **Virgil:** Observes Dante's struggle and actively comforts him by talking about Beatrice to redirect his focus from the pain to the reward.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `[1:+io]`: **Dante**. (The narrator entering the fire).
+*   `[2:+io]`: **Dante**. (The one who would have thrown himself).
+*   `[3:mi]`: **Dante**. (The object of the action of throwing).
+*   `{4:Lo dolce padre mio}`: **Virgil**. (Dante's "sweet father"/mentor).
+*   `{5:Beatrice}`: **Beatrice**.
+*   `[6:+elli]`: **Virgil**. (The one who continues to talk/reason).
+
+## Scene 55-63: The Heavenly Voice
+**Scene Analysis: The Heavenly Voice**
+
+**What happens:**
+As the trio emerges from the purgatorial flames, they are guided by a singing voice emanating from the other side. Following this voice, Dante, Virgil, and Statius reach the point of ascent. The voice, which originates from within a brilliant, blinding light, speaks to them, welcoming them as the "blessed" of God (the Father). The light is so intense that Dante is overwhelmed and unable to look directly at it. The voice then urges the group to hasten their progress and not linger, warning them that the sun is setting and the western sky is about to darken.
+
+**Who does what:**
+*   **The Voice/Angel:** Guides the travelers out of the fire with song, welcomes them with a divine greeting, and warns them to hurry before night falls.
+*   **Dante, Virgil, and Statius:** Follow the voice out of the fire and receive the divine instructions.
+*   **Dante:** Is physically overwhelmed and blinded by the radiance of the light accompanying the voice.
+
+**Who speaks to whom:**
+The Voice (the Angel) speaks to the group (Dante, Virgil, and Statius).
+
+**Resolution of Numbered Tags:**
+*   `{1:una voce}`: **The Voice/Angel**. (The divine messenger guiding them).
+*   `[2:noi]`: **Dante, Virgil, and Statius**.
+*   `[3:lei]`: **The Voice/Angel**.
+*   `[4:+noi]`: **Dante, Virgil, and Statius**.
+*   `[5:+voi]`: **Dante, Virgil, and Statius**. (The Voice addressing the group).
+*   `{6:benedicti}`: **Dante, Virgil, and Statius**. (The Voice calls them "the blessed").
+*   `{7:Patris}`: **God**. (The "Father" of the blessed).
+*   `[8:+ella]`: **The Voice/Angel**.
+*   `{9:un lume}`: **The Light/Angel**. (The visual manifestation of the divine presence).
+*   `[10:mi]`: **Dante**.
+*   `[11:+ella]`: **The Voice/Angel** (or the accompanying light).
+*   `[12:+io]`: **Dante**.
+*   `[13:+ella]`: **The Voice/Angel**.
+*   `[14:+voi]`: **Dante, Virgil, and Statius**.
+*   `[15:+voi]`: **Dante, Virgil, and Statius**.
+
+## Scene 64-69: The Upward Climb
+**Scene Analysis: The Upward Climb**
+
+**What happens:**
+The trio begins their final ascent toward the Earthly Paradise. The path is a straight climb carved into the rock. Dante describes the atmospheric lighting: the sun is already low in the sky, and as they move, Dante finds himself positioned between the sun and the path, blocking the rays and casting a shadow in front of himself. After climbing just a few steps, they all feel the sun sinking further behind them, as the shadows they cast begin to fade or stretch in the twilight.
+
+**Who does what:**
+*   **Dante, Virgil, and Statius:** They physically ascend the rocky path.
+*   **Dante (the narrator):** He observes the position of the sun and the movement of the shadows, noting how the light is failing behind the group.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a purely narrative description of the ascent and the environment.
+
+**Resolution of Numbered Tags:**
+*   `[1:io]`: **Dante**. (The narrator blocking the sun's rays).
+*   `[2:me]`: **Dante**. (The rays are blocked in front of him).
+*   `[3:+noi]`: **Dante, Virgil, and Statius**. (The group climbing the steps).
+*   `[4:si]`: **The shadow**. (This is a reflexive pronoun referring to *l'ombra*—the shadow that "extinguished" itself or faded as the sun set).
+*   `[5:io]`: **Dante**.
+*   `{6:li miei saggi}`: **Virgil and Statius**. (Dante's "guides").
+
+## Scene 70-75: The Evening Rest
+**Scene Analysis: The Evening Rest**
+
+**What happens:**
+As the sun finishes setting and the horizon blends into a single, darkening hue, night begins to take full control of the landscape. Before total darkness falls, the travelers decide to stop their ascent. Because they are climbing a rocky, stepped path, each person finds a stone step to serve as a makeshift bed. Dante explains that the physical nature of the mountain (the steepness or the layout of the path) has exhausted their strength or blocked their ability to continue climbing further for the time being.
+
+**Who does what:**
+*   **Dante, Virgil, and Statius:** They cease their climb and settle down to sleep on the steps of the mountain.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a narrative description of the group's need for rest.
+
+**Resolution of Numbered Tags:**
+*   `[1:noi]`: **Dante, Virgil, and Statius**. (Referring to the three travelers who each find a place to sleep).
+*   `[2:ci]`: **Dante, Virgil, and Statius**. (The group whose progress was halted by the nature of the mountain).
+
+## Scene 76-87: The Simile of the Shepherds
+**Scene Analysis: The Simile of the Shepherds**
+
+**What happens:**
+Dante uses a vivid, pastoral simile to describe the state of the three travelers as they rest on the mountain steps. He compares the group to a flock of goats and their caretakers. He describes goats that are usually fast and headstrong but are now calm and docile, chewing cud in the shade while the sun is hot. These goats are watched over by a shepherd who leans on his staff, providing a sense of security during their rest. He adds another layer to the image with a swineherd who sleeps outdoors beside his herd, remaining vigilant so that a wild beast does not scatter them. Dante then applies the simile to his own situation: he is the docile goat, and his two guides are the watchful shepherds, all of them sheltered by the overhang of the high rock.
+
+**Who does what:**
+*   **Dante (the narrator):** Observes the group's state and constructs this metaphor to illustrate their peace and the protective relationship between him and his guides.
+*   **Virgil and Statius:** Act as the "shepherds" in the simile, providing the protection and guidance that allow Dante to rest.
+*   **Dante (the pilgrim):** Acts as the "goat," the one being cared for and protected.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a narrative description using a simile.
+
+**Resolution of Numbered Tags:**
+*   `{1:dal pastor}`: **The Shepherd** (a figure in the simile representing the guides).
+*   `[2:s']`: **The Shepherd**.
+*   `[3:+ei]`: **The Shepherd**.
+*   `{4:il mandrïan}`: **The Swineherd** (another figure in the simile representing the guides).
+*   `[5:+ei]`: **The Swineherd**.
+*   `[6:lo]`: **The Swineherd** (or his peace/rest).
+*   `[7:+noi]`: **Dante, Virgil, and Statius**.
+*   `[8:io]`: **Dante**.
+*   `[9:ei]`: **Virgil and Statius**.
+*   `{10:pastori}`: **Virgil and Statius**.
+
+## Scene 88-93: The Arrival of Sleep
+**Scene Analysis: The Arrival of Sleep**
+
+**What happens:**
+As the twilight deepens, very little daylight remains. Through this dim light, Dante observes the stars, noting that they appear clearer and larger than usual—likely due to the altitude and the purity of the air on the mountain of Purgatory. While contemplating the stars and "ruminating" (a callback to the goat simile in the previous scene), Dante is overcome by sleep. He concludes the scene with a poetic reflection on the nature of sleep, suggesting that it often possesses a prophetic quality, knowing "the news" of events before they actually occur.
+
+**Who does what:**
+*   **Dante:** Gazes at the stars and falls asleep.
+*   **Sleep (personified):** "Takes" Dante and is described as having a prescient or prophetic nature.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a narrative description of Dante's transition from wakefulness to sleep.
+
+**Resolution of Numbered Tags:**
+*   `[1:io]`: **Dante**. (The narrator observing the stars).
+*   `[2:mi]`: **Dante**. (The one whom sleep overcomes).
+*   `{3:il sonno}`: **Sleep**. (Personified as the force that takes hold of Dante).
+*   `{4:il sonno}`: **Sleep**. (The subject of the reflection on prophetic dreams).
+
+## Scene 94-108: The Dream of Lia
+**Scene Analysis: The Dream of Lia**
+
+**What happens:**
+Dante, having fallen asleep on the rocky path, experiences a vivid dream. He identifies the timing of the dream by referencing the first rays of dawn hitting Mount Cytherea (a poetic reference to Cyprus, the island of Venus). In the dream, he sees a young, beautiful woman walking through a flowery meadow, gathering blooms and singing. The woman identifies herself as Lia and explains that she is weaving a garland to adorn herself so she can look beautiful in a mirror. She contrasts her behavior with that of her sister, Rachel. While Lia finds satisfaction in the *act* of adorning herself (the work), Rachel finds satisfaction in *beholding* her own beauty in the mirror (the vision).
+
+**Who does what:**
+*   **Dante:** The dreamer. He observes the woman and listens to her song.
+*   **Lia:** The woman in the dream. She gathers flowers, weaves a garland, and describes the difference between her nature and her sister's.
+*   **Rachel:** Mentioned by Lia. She is the sister who spends her time gazing into a mirror.
+
+**Who speaks to whom:**
+Lia speaks (through song) to anyone who might ask her name, and effectively to Dante, the observer of the dream.
+
+**Resolution of Numbered Tags:**
+*   `[1:+io]`: **Dante**. (The narrator stating his belief about the time).
+*   `[2:mi]`: **Dante**. (The woman appeared "to me" in the dream).
+*   `{3:donna}`: **Lia**. (The woman Dante sees).
+*   `[4:+ella]`: **Lia**. (The woman singing).
+*   `[5:i']`: **Lia**. (Speaking in the first person: "I am Lia").
+*   `[6:mi]`: **Lia**. (The reflexive "myself" in "I [myself] am Lia").
+*   `{7:Lia}`: **Lia**.
+*   `[8:+io]`: **Lia**. (Speaking in the first person: "I go moving [my hands]").
+*   `[9:+io]`: **Lia**. (Speaking in the first person: "I adorn [myself]").
+*   `[10:m']`: **Lia**. (The reflexive "myself" being adorned).
+*   `{11:suora Rachel}`: **Rachel**.
+*   `[12:si]`: **Rachel**. (The reflexive pronoun meaning Rachel "does not remove herself" from the mirror).
+*   `[13:+ella]`: **Rachel**. (The sister who sits all day).
+*   `[14:Ell']`: **Rachel**. (The one who is eager to see her beauty).
+*   `[15:io]`: **Lia**. (Speaking in the first person: "as I [am eager] to adorn myself").
+*   `[16:lei]`: **Rachel**. (The one who is satisfied by seeing).
+*   `[17:me]`: **Lia**. (The one who is satisfied by the work/doing).
+
+## Scene 109-114: The Dawn of Awakening
+**Scene Analysis: The Dawn of Awakening**
+
+**What happens:**
+The scene describes the transition from the dream world back to reality as dawn breaks. The "pre-dawn splendors" (the first light of morning) appear, and Dante notes that this light is particularly welcome to a pilgrim who is progressing toward his goal. As the darkness vanishes from all sides, Dante's sleep vanishes with it. He wakes up and stands up, observing that his two guides are already awake and standing, ready to continue their journey.
+
+**Who does what:**
+*   **The Dawn/Light:** Drives away the darkness and signals the end of the night.
+*   **Dante:** Wakes up from his dream of Lia and rises to his feet.
+*   **Virgil and Statius:** Have already risen and are waiting for Dante.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a narrative description of the awakening.
+
+**Resolution of Numbered Tags:**
+*   `{1:a' pellegrin}`: **Dante**. (The "pilgrim" is Dante himself).
+*   `[2:+elli]`: **The pre-dawn splendors/lights**. (Referring back to *li splendori antelucani* in line 109).
+*   `[3:io]`: **Dante**. (The first-person narrator).
+*   `[4:mi]`: **Dante**. (The reflexive "myself" as he stands up).
+*   `{5:i gran maestri}`: **Virgil and Statius**. (The "great masters" are Dante's two guides).
+
+## Scene 115-120: Virgil's Comforting Words
+**Scene Analysis: Virgil's Comforting Words**
+
+**What happens:**
+As Dante awakens from his dream of Lia and stands up to continue the journey, Virgil greets him with words of profound encouragement. Virgil uses a metaphor of a "sweet fruit" (*dolce pome*)—representing the ultimate goal of their journey, the sight of Beatrice, and the peace of the Earthly Paradise—which all of humanity (*mortali*) spends their lives searching for through various "branches" (paths or efforts). Virgil tells Dante that today, his own long-held hunger and longing for this divine peace will finally be satisfied. Dante reflects on these words, noting that they were the most pleasing and joyful things he had ever heard.
+
+**Who does what:**
+*   **Virgil:** Speaks to Dante, providing a hopeful and poetic promise that their long quest is nearing its end.
+*   **Dante:** Listens to Virgil and experiences a feeling of immense pleasure and relief.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `{1:mortali}`: **Mankind/Mortals**. (The general human condition of searching for happiness or salvation).
+*   `{2:Virgilio}`: **Virgil**.
+*   `[3:me]`: **Dante**. (The narrator to whom Virgil is speaking).
+*   `[4:+ei]`: **Virgil**. (The subject who "used" or spoke these words).
+
+## Scene 121-123: The Impulse to Ascend
+**Scene Analysis: The Impulse to Ascend**
+
+**What happens:**
+Following Virgil's encouraging words about the "sweet fruit" of their destination, Dante is overcome by an intense, cumulative surge of desire and anticipation. He describes this feeling as "desire upon desire," an eagerness to finally reach the summit. This emotional state is so powerful that it manifests as a physical sensation of lightness and propulsion; he uses a vivid metaphor, stating that with every step he took, he felt as if he were growing wings (feathers) to fly toward his goal.
+
+**Who does what:**
+*   **Dante:** Experiences a psychological and spiritual "lift," feeling an overwhelming eagerness to ascend to the Earthly Paradise.
+
+**Who speaks to whom:**
+There is no dialogue in this scene; it is a narrative description of Dante's internal state and his physical sensation of anticipation.
+
+**Resolution of Numbered Tags:**
+*   `[1:mi]`: **Dante**. (The one to whom the overwhelming desire comes).
+*   `[2:+io]`: **Dante**. (The subject who feels the sensation).
+*   `[3:mi]`: **Dante**. (The one who feels feathers growing on himself).
+
+## Scene 124-132: The Limit of Virgil's Guidance
+**Scene Analysis: The Limit of Virgil's Guidance**
+
+**What happens:**
+The trio reaches the final step of the ascent, completing their climb of the mountain of Purgatory. At this threshold, Virgil stops and looks intently at Dante. He delivers a significant declaration regarding the limits of his role as a guide. Virgil explains that Dante has now seen both the "temporal fire" (the purifying flames of Purgatory) and the "eternal fire" (the punishing flames of Hell). He admits that they have reached a point beyond which he can no longer see or lead the way, as his guidance is based on human reason, intellect, and "art" (poetry/skill), which are insufficient for the realm they are about to enter. Virgil instructs Dante that he must now rely on his own "pleasure"—his longing and desire for Beatrice—to serve as his guide. He informs Dante that he has now moved beyond the "steep ways" and the realm of human art.
+
+**Who does what:**
+*   **Dante, Virgil, and Statius:** Together, they complete the climb to the "highest step" (the entrance to the Earthly Paradise).
+*   **Virgil:** Stops the group, fixes his gaze on Dante, and explains the theological and narrative necessity of his departure as a guide.
+*   **Dante:** The recipient of Virgil's final instructions, now tasked with transitioning from a reliance on Reason (Virgil) to a reliance on Divine Love/Desire.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `[1:noi]`: **Dante, Virgil, and Statius**. (The group of three).
+*   `[2:+noi]`: **Dante, Virgil, and Statius**. (The group reaching the top step).
+*   `[3:me]`: **Dante**. (The one Virgil looks at).
+*   `{4:Virgilio}`: **Virgil**.
+*   `[5:+ei]`: **Virgil**. (The speaker).
+*   `[6:+tu]`: **Dante**. (The one who has seen the fires).
+*   `{7:figlio}`: **Dante**. (Virgil's affectionate term for his pupil).
+*   `[8:+tu]`: **Dante**. (The one who has reached the limit).
+*   `[9:io]`: **Virgil**. (The speaker admitting his limitation).
+*   `[10:me]`: **Virgil**. (Referring to his own nature/capacity).
+*   `[11:+io]`: **Virgil**. (The guide who brought Dante this far).
+*   `[12:t']`: **Dante**. (The one brought by Virgil).
+*   `[13:+tu]`: **Dante**. (The one who must now take charge of his own progress).
+*   `{14:duce}`: **Dante's pleasure/desire**. (The "guide" Virgil refers to is no longer a person, but Dante's own internal longing for Beatrice).
+*   `[15:+tu]`: **Dante**.
+*   `[16:+tu]`: **Dante**.
+
+## Scene 133-138: The Beauty of the Paradise
+**Scene Analysis: The Beauty of the Paradise**
+
+**What happens:**
+Following his declaration that his guidance has reached its limit, Virgil directs Dante's attention to the splendor of the environment they have just entered: the Earthly Paradise. He points out the sunlight shining before them and the natural beauty of the flora—the grasses, flowers, and shrubs—that the earth produces spontaneously in this sacred place. Virgil then tells Dante to wait for the arrival of Beatrice. In a poignant reminder of the journey's origin, Virgil mentions that it was Beatrice's weeping (her "beautiful eyes") that prompted him to descend and lead Dante to this point. Finally, Virgil gives Dante the freedom to either sit and wait or wander among the lush vegetation.
+
+**Who does what:**
+*   **Virgil:** Acts as the final pointer, directing Dante's gaze toward the physical beauty of the Paradise and the impending arrival of Beatrice. He reminds Dante of the divine impetus (Beatrice's grief) that started the journey.
+*   **Dante:** The recipient of these instructions, now standing at the threshold of the Earthly Paradise, encouraged to contemplate nature while awaiting Beatrice.
+*   **Beatrice:** Though not yet physically present, she is the subject of Virgil's words; her tears are identified as the catalyst for Virgil's mission.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `[1:+tu]`: **Dante**.
+*   `[2:ti]`: **Dante**.
+*   `[3:+tu]`: **Dante**.
+*   `{4:li occhi belli}`: **Beatrice**. (A metonymy using "beautiful eyes" to refer to the woman herself).
+*   `[5:te]`: **Dante**.
+*   `[6:mi]`: **Virgil**. (The speaker).
+*   `[7:+tu]`: **Dante**.
+*   `[8:ti]`: **Dante**.
+*   `[9:+tu]`: **Dante**.
+*   `[10:elli]`: **The grasses, flowers, and shrubs**. (The vegetation of the Earthly Paradise mentioned in line 134).
+
+## Scene 139-142: The Granting of Free Will
+**Scene Analysis: The Granting of Free Will**
+
+**What happens:**
+In these final lines of the encounter, Virgil officially releases Dante from his tutelage. He tells Dante that he no longer needs to wait for Virgil's words or signals to know how to act. He affirms that Dante's will (*arbitrio*) is now "free, straight, and healthy," meaning that Dante has been purified enough to make his own correct moral and spiritual choices. However, Virgil adds a final caution: Dante must not let his will deviate from reason (*senno*). Virgil concludes by explaining the nature of this transition: he has "crowned and anointed" Dante, effectively elevating him to a state where Dante is now the master of his own journey, surpassing the limited guidance that Human Reason (represented by Virgil) could provide.
+
+**Who does what:**
+*   **Virgil:** Relinquishes his role as the active director of Dante's movements, grants Dante autonomy, and warns him to remain guided by reason.
+*   **Dante:** The recipient of this autonomy, now entrusted with his own free will as he enters the Earthly Paradise.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Resolution of Numbered Tags:**
+*   `[1:+tu]`: **Dante**. (Virgil tells him not to wait for further instructions).
+*   `[2:+tu]`: **Dante**. (Virgil warns him not to lead his will astray).
+*   `[3:io]`: **Virgil**. (The speaker who has guided and now "crowns" Dante).
+*   `[4:te]`: **Dante**. (The one being crowned and anointed).
+*   `[5:te]`: **Dante**. (Virgil has elevated Dante "above" his former self/previous state).
+
+# recap
+- Dante, Virgil, and Statius have completed their ascent and entered the Earthly Paradise.
+- Virgil has relinquished his role as guide, granting Dante autonomy and free will.
+- Dante is now waiting for the arrival of Beatrice.

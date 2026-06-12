@@ -1,0 +1,260 @@
+# Canto 27 — The Confession of the Second Flame
+
+## Scene 1-15: The Sound of the Flame
+In this opening scene, the flame containing Ulysses and Diomedes has become still and departed from Dante and Virgil, having finished its discourse. As they stand there, a second flame approaches. Dante and Virgil notice a muffled, distorted sound emanating from the top of this new flame.
+
+To describe this sound, Dante uses a vivid and harrowing simile involving the "Sicilian bull" (the Brazen Bull). He describes how a craftsman filed and shaped a brass bull so that the screams of the victim trapped inside were transformed into the lowing of an animal. Despite the bull being made of metal, it sounded as if it were pierced by genuine agony. Similarly, the soul inside the second flame is unable to speak clearly because the fire provides no opening or outlet for the voice, causing the "grim words" to be converted into a confused, distorted language.
+
+**Resolution of Tags:**
+- `[1:noi]` refers to Dante and Virgil.
+- `{2:del dolce poeta}` refers to Ulysses (who has just finished speaking).
+- `[3:colui]` refers to the craftsman who fashioned the Brazen Bull.
+- `{4:de l'afflitto}` refers to the victim trapped inside the Brazen Bull.
+
+## Scene 16-30: The Inquiry of the Soul
+In this scene, the distorted sounds from the second flame finally reach the "tip" of the fire, allowing the soul inside to speak clearly enough for Dante and Virgil to understand. 
+
+The soul immediately addresses Dante, having overheard him speaking in "Lombardo" (the Northern Italian vernacular). The soul specifically quotes a comment Dante made to Virgil regarding Istria. The soul, realizing Dante is a living man from the "sweet Latin land" (Italy), asks him to stop and chat. The soul is not bothered by the interruption because, as they point out, they are already burning in hell. The soul then asks for news from home, specifically wanting to know if the people of Romagna are currently at peace or at war, and identifies their own origin as the mountains between Orbino and the Tiber.
+
+**Tag Resolutions:**
+
+*   **[1:elli]**: The sounds/words of the soul (which had to travel "their journey" to the tip of the flame to be heard).
+*   **[2:noi]**: Dante and Virgil.
+*   **[3:tu]**: Dante.
+*   **[4:io]**: The soul in the second flame.
+*   **[5:tu]**: Dante.
+*   **{6:Istra}**: The region of Istria (mentioned as part of the quote of Dante's speech).
+*   **[7:ten]**: Virgil (the "you" Dante was addressing in the quoted speech).
+*   **[8:io]**: Dante (the "I" in the quoted speech).
+*   **[9:t']**: Virgil (the "you" Dante was addressing in the quoted speech).
+*   **[10:io]**: The soul in the second flame.
+*   **[11:t']**: Dante.
+*   **[12:meco]**: The soul in the second flame.
+*   **[13:tu]**: Dante.
+*   **[14:me]**: The soul in the second flame.
+*   **[15:io]**: The soul in the second flame.
+*   **[16:tu]**: Dante.
+*   **[17:tu]**: Dante.
+*   **[18:io]**: The soul in the second flame.
+*   **[19:tu]**: Dante.
+*   **[20:io]**: The soul in the second flame.
+
+## Scene 31-48: Dante's Political Report
+In this scene, the soul in the second flame has just asked Dante for news regarding the political state of Romagna. Dante, who was leaning down to listen, is prompted by Virgil to answer.
+
+Dante provides a bleak summary of Romagna's instability. He informs the soul that the region is perpetually plagued by the internal wars and ambitions of its tyrants. He gives three specific examples of the region's decay:
+1. **Ravenna and Cervia:** He notes that the Polenta family (the lords of Ravenna) are allowing the city of Cervia to be swallowed by the marshes/lagoon (a reference to the diversion of waterways for political or strategic gain).
+2. **The Franceschi:** He mentions a piece of land where the Franceschi family was massacred, noting that the earth has now grown over that "bloody heap."
+3. **The Malatesta:** He refers to the "old" and "new" "mastiffs" (the Malatesta family) from Verrucchio, who have governed the mountain regions poorly and predatory-like.
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: Dante
+*   **{2:il mio duca}**: Virgil
+*   **[3:mi]**: Dante
+*   **[4:tu]**: Dante
+*   **[5:questi]**: The soul in the second flame
+*   **[6:io]**: Dante
+*   **[7:+io]**: Dante
+*   **{8:anima}**: The soul in the second flame
+*   **{9:de' suoi tiranni}**: The tyrants of Romagna
+*   **[10:+io]**: Dante
+*   **{11:da Polenta}**: The Polenta family (Lords of Ravenna)
+*   **[12:+ella]**: Cervia
+*   **{13:Franceschi}**: The Franceschi family
+*   **[14:+ella]**: The land/earth (where the Franceschi were slain)
+*   **{15:'l mastin vecchio}**: Malatesta Vecchio (the "old mastiff")
+*   **{16:'l nuovo da Verrucchio}**: Malatesta Giovane (the "new mastiff")
+*   **[17:+elli]**: The Malatesta (the "mastiffs")
+*   **[18:+elli]**: The Malatesta (the "mastiffs")
+
+## Scene 49-57: The Geography of the Region
+In this scene, Dante concludes his report on the political instability of Romagna before turning the conversation back to the mysterious soul in the flame.
+
+Dante continues describing the fractured landscape of the region. He mentions the cities located along the rivers Lamone and Santerno, which are controlled by a ruler he calls the "little lion" (a reference to a local lord, likely from the House of Este or a similar potentate, associated with a "white nest" or fortress) who is fickle and changes political alliances between the summer and winter seasons. He then mentions the city situated by the river Savio (Forlì), describing it as a place caught between the plain and the mountains, where the people oscillate between living under a tyrant and enjoying a free state.
+
+Having finished his update, Dante asks the soul to finally reveal its identity. He pleads with the soul to tell him who it is, urging it not to be more stubborn or secretive than others have been, especially if its name is still remembered or respected in the world above.
+
+**Tag Resolutions:**
+
+*   **{1:il lïoncel}**: The "little lion," referring to the ruler/lord of the cities of Lamone and Santerno.
+*   **{2:il Savio}**: The river Savio (which defines the location of the city of Forlì).
+*   **[3:chi]**: The soul in the second flame.
+*   **[4:+io]**: Dante.
+*   **[5:ti]**: The soul in the second flame.
+*   **[6:+tu]**: The soul in the second flame.
+*   **[7:+tu]**: The soul in the second flame.
+
+## Scene 58-66: The Flame's Vow of Truth
+In this scene, the soul in the second flame prepares to answer Dante's request for its identity. After the flame "roars" or gurgles in its characteristic way, the sharp tip of the flame moves back and forth before the soul finally speaks.
+
+The soul explains its logic for speaking: if it believed that the person it was addressing was someone who could actually return to the living world, the soul would have remained silent and still out of shame. However, because the soul understands that no one ever returns alive from the depths of Hell, it feels it can speak freely. Since there is no risk of its confession reaching the world above and causing further infamy, the soul agrees to answer Dante.
+
+**Tag Resolutions:**
+
+*   **{1:l'aguta punta}**: The sharp tip of the flame (which serves as the "mouth" or outlet for the soul's voice).
+*   **[2:+ella]**: The sharp tip of the flame.
+*   **[3:i']**: The soul in the second flame.
+*   **{4:persona}**: Dante (the "person" the soul is addressing).
+*   **{5:questa fiamma}**: The flame containing the soul.
+*   **[6:i']**: The soul in the second flame.
+*   **[7:+io]**: The soul in the second flame.
+*   **[8:ti]**: Dante.
+
+## Scene 67-78: The Nature of the Deceiver
+In this scene, the soul in the second flame begins its autobiography, detailing the contradictions of its earthly life. The soul explains that it first lived as a soldier (a man-at-arms) and later became a Franciscan friar (a "cordigliero"), believing that by taking the habit, it was making amends for its past. However, the soul blames the Pope ("the great priest") for leading it back into its old sins. 
+
+The soul then admits to Dante that throughout its mortal life—from the moment it was born of its mother—it never possessed the noble bravery of a lion. Instead, it operated with the cunning and deceit of a fox. The soul boasts that it mastered every trick and hidden path of deception so effectively that its reputation for guile reached the ends of the earth.
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: The soul in the second flame.
+*   **{2:uom d'arme}**: The soul in the second flame.
+*   **[3:+io]**: The soul in the second flame.
+*   **{4:cordigliero}**: The soul in the second flame.
+*   **{5:il gran prete}**: The Pope.
+*   **[6:mi]**: The soul in the second flame.
+*   **[7:+io]**: The soul in the second flame.
+*   **[8:+tu]**: Dante.
+*   **[9:m']**: The soul in the second flame.
+*   **[10:io]**: The soul in the second flame.
+*   **{11:la madre}**: The soul's mother.
+*   **[12:mi]**: The soul in the second flame.
+*   **[13:io]**: The soul in the second flame.
+*   **[14:+io]**: The soul in the second flame.
+
+## Scene 79-93: The History of Deceit
+In this scene, the soul in the second flame continues its autobiography, describing a pivotal moment of attempted redemption and its subsequent failure.
+
+The soul explains that upon reaching an age where one should naturally slow down and prepare for the end of life (using the nautical metaphor of "lowering the sails"), he experienced a change of heart. The things that had previously brought him pleasure now disgusted him. Consequently, he repented, confessed his sins, and entered the Franciscan order. He laments his situation, calling himself a "wretched man" and noting that this repentance would have actually been beneficial for his soul.
+
+However, the soul explains that he was led astray again by the Pope, whom he disparagingly calls the "Prince of the new Pharisees." He describes the Pope as being embroiled in political wars near the Lateran against other Christians, rather than fighting "holy wars" against Saracens or Jews. The soul claims that the Pope had no regard for the sanctity of his own high office or the sacred orders, nor did he respect the Franciscan vow of poverty (symbolized by the "capestro" or cord) that the soul had taken. In essence, the Pope used the soul's skills in deceit for his own political ends, dragging the soul back into sin.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: The soul in the second flame
+*   **[2:mi]**: The soul in the second flame
+*   **[3:mi]**: The soul in the second flame
+*   **[4:m']**: The soul in the second flame
+*   **[5:+io]**: The soul in the second flame
+*   **[6:mi]**: The soul in the second flame
+*   **{7:miser lasso}**: The soul in the second flame (referring to himself)
+*   **[8:+io]**: The soul in the second flame
+*   **{9:Lo principe d'i novi Farisei}**: The Pope
+*   **[10:sé]**: The Pope
+*   **[11:me]**: The soul in the second flame
+
+## Scene 94-105: The Pope's Counselor
+In this scene, the soul in the second flame describes how the Pope recruited him for a specific political mission. He begins with a historical analogy: just as the Emperor Constantine sought out Pope Sylvester (who was living in seclusion at Siratti) to be cured of leprosy, the Pope sought out the soul to help "cure" his "proud fever"—a metaphor for the Pope's intense political ambition and the turmoil surrounding it.
+
+The soul admits that he initially remained silent and hesitant because the Pope's requests seemed irrational or "drunken" in their extremity. However, the Pope persisted, attempting to manipulate the soul by offering him papal absolution from his sins. The Pope then gave the soul a specific objective: to bring about the downfall of Penestrino. To seal the deal, the Pope boasted of his supreme authority, claiming the power to "lock and unlock heaven" (referring to the Keys of St. Peter), and disparaged his predecessor for not valuing that power as much as he does.
+
+**Tag Resolutions:**
+
+*   **{1:Costantin}**: Emperor Constantine.
+*   **{2:Silvestro}**: Pope Sylvester I.
+*   **{3:Siratti}**: The location/cave where Pope Sylvester lived in seclusion.
+*   **[4:mi]**: The soul in the second flame.
+*   **[5:questi]**: The Pope.
+*   **{6:maestro}**: The soul in the second flame (acting as the "master" or expert advisor).
+*   **[7:io]**: The soul in the second flame.
+*   **[8:+ei]**: The Pope.
+*   **[9:+io]**: The Pope.
+*   **[10:t']**: The soul in the second flame.
+*   **[11:tu]**: The soul in the second flame.
+*   **[12:m']**: The Pope.
+*   **{13:Penestrino}**: The town/fortress of Penestrino.
+*   **[14:+tu]**: The soul in the second flame.
+*   **[15:io]**: The Pope.
+*   **[16:tu]**: The soul in the second flame.
+*   **{17:l mio antecessor}**: The previous Pope.
+
+## Scene 106-111: The Dangerous Advice
+In this brief scene, the soul in the second flame describes his decision to accept the Pope's request. After weighing the situation, the soul concludes that remaining silent would be the worst course of action. He decides to enter into the Pope's service, effectively returning to his old ways of deceit.
+
+The soul speaks to the Pope, addressing him as "Father." He acknowledges the Pope's offer of absolution, noting that since the Pope is "washing" him of the sin he is currently committing (the sin of returning to fraud), he is now committed to the task. He assures the Pope that by employing a specific strategy—characterized as a "long promise with short waiting" (a deceptive tactic involving delaying the outcome while appearing to act)—the Pope will achieve a triumphant victory in his high office.
+
+**Tag Resolutions:**
+- **[1:mi]**: The soul in the second flame
+- **[2:mi]**: The soul in the second flame
+- **[3:+io]**: The soul in the second flame
+- **{4:Padre}**: The Pope
+- **[5:tu]**: The Pope
+- **[6:mi]**: The soul in the second flame
+- **[7:io]**: The soul in the second flame
+- **[8:ti]**: The Pope
+
+## Scene 112-123: The Cherub's Intervention
+In this scene, the soul in the flame describes the moment of its death and the subsequent struggle for its soul. The soul claims that St. Francis (representing the Franciscan order or the saint himself) came to intercede or rescue the soul. However, this attempt was blocked by a "black cherub" (a demonic guardian of Hell).
+
+The cherub argues with St. Francis, insisting that the soul must remain in Hell among the other "wretched" ones. The cherub's logic is that the soul provided fraudulent advice and, therefore, could not have truly repented. According to the cherub, it is impossible to simultaneously repent of a sin and still desire the things that lead to that sin—the "contradiction" of the soul's heart made absolution impossible. The scene ends with the soul recalling how it shuddered when the cherub seized it, mocking the soul by claiming to be a master of logic.
+
+**Tag Resolutions:**
+
+*   **{1:Francesco}**: St. Francis of Assisi
+*   **[2:io]**: The soul in the second flame
+*   **[3:me]**: The soul in the second flame
+*   **{4:un d'i neri cherubini}**: A black cherub (a demonic guardian)
+*   **[5:+ei]**: The black cherub
+*   **[6:li]**: St. Francis
+*   **[7:+tu]**: St. Francis
+*   **[8:mi]**: The black cherub
+*   **[9:+tu]**: St. Francis
+*   **[10:+ei]**: The soul in the second flame
+*   **[11:se]**: The soul in the second flame
+*   **{12:' miei meschini}**: The wretched souls in Hell
+*   **[13:+ei]**: The soul in the second flame
+*   **[14:chi]**: Anyone who does not repent
+*   **[15:si]**: Anyone who does not repent
+*   **[16:+ei]**: The soul in the second flame
+*   **[17:me]**: The soul in the second flame
+*   **[18:+io]**: The soul in the second flame
+*   **[19:mi]**: The soul in the second flame
+*   **[20:+ei]**: The black cherub
+*   **[21:mi]**: The soul in the second flame
+*   **[22:tu]**: The soul in the second flame
+*   **[23:io]**: The black cherub
+
+## Scene 124-129: The Judgment of Minos
+In this scene, the soul in the second flame concludes its autobiography by describing its descent into the depths of Hell and the final judgment that determined its eternal punishment.
+
+Picking up from the previous scene, the soul explains that after the "black cherub" (the demon) seized it and defeated the intercession of St. Francis, the demon brought the soul to Minos, the judge of the underworld. Minos performs his customary act of judgment: he wraps his tail around his own hard body eight times, signaling that the soul is condemned to the eighth circle of Hell. In a fit of rage, Minos bites his own tail and declares that the soul belongs among the "sinners of the fire."
+
+The soul then addresses Dante directly, explaining that this judgment is the reason why it is now "lost" in the place where Dante sees it, "clothed" (wrapped) in the flame as it moves.
+
+**Tag Resolutions:**
+
+*   **{1:Minòs}**: Minos (the judge of Hell)
+*   **[2:mi]**: The soul in the second flame
+*   **[3:+elli]**: Minos
+*   **[4:quelli]**: Minos
+*   **[5:si]**: The tail of Minos
+*   **[6:+elli]**: Minos
+*   **[7:+elli]**: Minos
+*   **[8:Questi]**: The soul in the second flame
+*   **{9:i rei}**: The sinners (specifically those punished in the flames of the eighth bolgia)
+*   **[10:io]**: The soul in the second flame
+*   **[11:+tu]**: Dante
+*   **[12:+io]**: The soul in the second flame
+*   **[13:mi]**: The soul in the second flame
+
+## Scene 130-136: The Departure of the Flame
+In this final scene of Canto 27, the interaction with the second soul concludes and the poets move on.
+
+**Narrative Summary:**
+Once the soul in the second flame has finished its confession, the flame departs in agony, twisting and thrashing its sharp tip (the "horn"). Dante and Virgil then continue their journey, walking along the rocky ledge toward the next arch that spans the ditch. As they move, Dante observes that this ditch is the place where those who gained power or wealth through fraudulent schemes (specifically the fraudulent counselors) pay the penalty for their sins.
+
+**Tag Resolutions:**
+*   **[1:elli]**: The soul in the second flame (the former soldier and friar).
+*   **{2:la fiamma}**: The flame containing the soul.
+*   **[3:si]**: The flame/soul.
+*   **[4:Noi]**: Dante and Virgil.
+*   **[5:io]**: Dante.
+*   **{6:l duca mio}**: Virgil.
+*   **[7:si]**: This is an impersonal reflexive used in the phrase "si paga il fio" (the evil is paid for/atoned for); it refers to the process of punishment being undergone by the sinners.
+*   **[8:quei]**: The sinners trapped in the flames of the eighth bolgia (the fraudulent counselors).
+
+# recap
+- Dante and Virgil are traveling together.
+- They have just finished speaking with the soul in the second flame and are walking along the rocky ledge.
+- They are heading toward the next arch that spans the ditch in the eighth bolgia.

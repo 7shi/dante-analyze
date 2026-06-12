@@ -1,0 +1,294 @@
+# Canto 18 — The Vision of the Celestial Lights and the Inscription of Justice
+
+## Scene 1-6: Beatrice's Command
+In this scene, Dante and Beatrice are in a moment of pause following the harsh prophecy of exile delivered by Cacciaguida in the previous canto. Beatrice is content with her words, while Dante is internally struggling, trying to balance the "sweetness" of his current divine company with the "bitterness" of his future earthly fate. Beatrice notices his distress and commands him to shift his focus, reminding him that she is now in the presence of God, the ultimate source of justice who corrects all wrongs.
+
+**Tag Resolutions:**
+- `[1:si]`: Beatrice (reflexive pronoun; she is enjoying her own word/speech)
+- `{2:quello specchio beato}`: Beatrice
+- `[3:io]`: Dante
+- `{4:quella donna}`: Beatrice
+- `{5:Dio}`: God
+- `[6:mi]`: Dante
+- `[7:+tu]`: Dante
+- `[8:+tu]`: Dante
+- `[9:i']`: Beatrice
+- `[10:colui]`: God
+
+## Scene 7-18: Dante's Emotional Response
+In this scene, Dante is describing the emotional and spiritual effect of looking into Beatrice's eyes after her words of comfort and correction. He is narrating to the reader his struggle to accurately describe the experience because the intensity of the divine vision exceeded the capacity of his human mind to record it.
+
+Dante explains that as he looked at Beatrice, all his earthly desires disappeared. He saw the light of God's eternal pleasure radiating through her, which provided him with a profound sense of contentment and peace, effectively neutralizing the bitterness of the prophecy of his exile.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:mi]`: Dante
+- `{3:mio conforto}`: Beatrice (the one providing him comfort)
+- `[4:io]`: Dante
+- `{5:amor}`: Love (the Divine Love manifested in Beatrice's eyes)
+- `[6:+ei]`: Love (referring back to the Love in {5})
+- `[7:io]`: Dante
+- `[8:io]`: Dante
+- `[9:lei]`: Beatrice
+- `{10: 'l piacere etterno}`: God (the source of Eternal Pleasure/Light)
+- `{11:Bëatrice}`: Beatrice
+- `[12:mi]`: Dante
+
+## Scene 19-21: Beatrice's Second Instruction
+In this brief but pivotal scene, Beatrice uses a smile to soothe Dante's remaining distress and then directs his attention away from her and toward the surrounding celestial environment. 
+
+Beatrice's smile "wins over" or overcomes Dante's internal struggle, effectively calming him. She then speaks to him, commanding him to turn around and listen, explaining that the experience of Paradise (the divine light and truth) is not contained solely within her eyes, but is present in the wider vision he is about to witness.
+
+**Tag Resolutions:**
+- `[1:me]`: Dante (the one being overcome by Beatrice's smile)
+- `[2:ella]`: Beatrice (the one who smiles and speaks)
+- `[3:mi]`: Dante (the one to whom Beatrice is speaking)
+- `[4:+tu]`: Dante (the person Beatrice is commanding to turn around)
+- `[5:+tu]`: Dante (the person Beatrice is commanding to listen)
+
+## Scene 22-27: The Spirit's Presence
+In this scene, Dante uses a simile to describe a moment of intense emotional and spiritual recognition. He compares the way a look of deep affection can completely captivate a person's soul to the experience he has just had. Following Beatrice's instruction to turn around, Dante turns toward a "holy lightning" (a flash of divine light). In that light, he recognizes the presence of a spirit who wishes to continue their conversation.
+
+Based on the narrative progression of the poem (having just spoken with his ancestor in the previous canto), the spirit in the light is Cacciaguida. Dante recognizes Cacciaguida's desire to speak further with him.
+
+**Tag Resolutions:**
+- `[1:ch'io]`: Dante (The subject who turns)
+- `[2:mi]`: Dante (The reflexive object of the turning)
+- `[3:+io]`: Dante (The subject who recognizes the desire)
+- `[4:lui]`: Cacciaguida (The spirit in the light who wants to speak to Dante)
+
+## Scene 28-36: The Threshold and the Cross
+In this scene, Cacciaguida begins to explain the nature of the sphere they have entered—the fifth heaven (Jupiter). He uses the metaphor of a tree that is eternally fruitful and evergreen to describe the divine order and the abundance of grace in this realm. He explains that the spirits residing here are those who were renowned and outspoken on earth, such that their eloquence would have enriched the Muses. Cacciaguida then directs Dante's attention toward the "horns of the cross" (the specific configuration of lights in this heaven), telling Dante that the person he is about to name will perform a sudden, flashing sign (like lightning) in that location.
+
+**Tag Resolutions:**
+- `[1:El]`: Cacciaguida (the spirit who begins to speak)
+- `[2:+egli]`: The tree (the metaphorical "albero" representing the divine celestial hierarchy)
+- `[3:+egli]`: The tree (the metaphorical "albero" representing the divine celestial hierarchy)
+- `{4:spiriti}`: The blessed spirits (specifically those in the sphere of Jupiter)
+- `{5:ogne musa}`: The Muses (the personified muses of poetry/inspiration)
+- `[6:+tu]`: Dante (the one being told to look)
+- `[7:quello]`: The spirit Cacciaguida is about to name/introduce
+- `[8:io]`: Cacciaguida (the speaker)
+
+## Scene 37-42: The Procession of Heroes
+In this scene, Dante describes the visual manifestations of the spirits as they are named. He observes a sequence of divine signs that coincide with the naming of biblical heroes who were just and courageous leaders.
+
+As the name of Joshua is spoken, Dante sees a streak of light. He notes that the visual sign happened so quickly—or with such power—that the action preceded his conscious processing of the spoken name. This is a reference to the biblical account where Joshua commanded the sun to stand still. Then, when the name of the "high Maccabee" (Judas Maccabeus) is spoken, Dante sees another light moving in a whirling motion. The atmosphere is one of intense joy and divine power.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the observer)
+- `{2:Iosuè}`: Joshua
+- `[3:el]`: Joshua (the one who performed the deed/sign)
+- `[4:si]`: Joshua (reflexive pronoun referring to Joshua's action)
+- `[5:mi]`: Dante (the one who perceives the sequence of the sound and the sight)
+- `{6:l'alto Macabeo}`: Judas Maccabeus
+- `[7:+io]`: Dante (the observer)
+
+## Scene 43-48: The Continued Parade
+In this scene, the procession of divine lights continues. Dante is describing the experience of visually tracking the sparks of light as they are named by Cacciaguida. He uses a vivid simile, comparing his focused gaze to that of a falconer watching his bird in flight, to emphasize the intensity and speed with which his eyes follow these spirits across the formation of the celestial cross.
+
+Dante's gaze moves from the figures of the Carolingian era (Charlemagne and Roland) to other great leaders and knights (William, Rainardo, Duke Godfrey, and Robert Guiscard), all of whom are exemplary figures of justice and leadership in the sphere of Jupiter.
+
+**Tag Resolutions:**
+- `{1:Carlo Magno}`: Charlemagne
+- `{2:Orlando}`: Orlando (Roland)
+- `[3:ne]`: the spirits/lights (specifically Charlemagne and Orlando)
+- `{4:Guiglielmo}`: William (likely William the Conqueror)
+- `{5:Rinoardo}`: Rainardo
+- `{6:duca Gottifredi}`: Duke Godfrey (Godfrey of Bouillon)
+- `{7:Ruberto Guiscardo}`: Robert Guiscard
+
+## Scene 49-51: The Identity of the Singer
+In this scene, the action shifts from the listing of various just rulers to a moment of personal revelation. Dante is observing the movement of the divine lights in the sphere of Jupiter. The soul who has been guiding him through this specific section—Cacciaguida—reveals his own position and rank among the blessed spirits. Cacciaguida shows Dante where he stands among the "singers" of heaven, identifying himself as an "artista" (meaning a skilled or master soul) within that celestial choir.
+
+**Tag Resolutions:**
+- `{1:l'altre luci}`: The other blessed spirits in the sphere of Jupiter.
+- `[2:+io]`: Dante (the "mi" in *mostrommi*; the one to whom the soul shows its rank).
+- `{3:l'alma}`: Cacciaguida (the soul who has been speaking to Dante).
+- `[4:m']`: Dante (the person Cacciaguida had been speaking to).
+- `{5:i cantor}`: The blessed spirits of heaven (who are characterized by their singing/praise).
+- `{6:artista}`: Cacciaguida (the "skilled one" or "master" among those singers).
+
+## Scene 52-57: Beatrice's Radiance
+In this scene, Dante momentarily shifts his attention away from the procession of just spirits described by Cacciaguida and turns back toward Beatrice. He does this to seek guidance, looking to her for a sign—either a word or a gesture—to understand what his next duty or action should be. Upon looking at her, Dante is struck by the extraordinary purity and joy in her eyes. He observes that her radiance and beauty are so intense that they outshine all the other lights and the final brilliance of the surrounding celestial environment.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:mi]`: Dante
+- `{3:Beatrice}`: Beatrice
+- `[4:+io]`: Dante
+
+## Scene 58-63: The Growth of Virtue
+In this scene, Dante uses a general analogy to describe his own spiritual progression. He starts with a universal observation: a person who performs good deeds feels increasing pleasure, and as a result, they notice their own virtue growing day by day. 
+
+Dante then applies this logic to his own current experience in the sphere of Jupiter. He realizes that his own "arc"—his spiritual capacity and his range of vision—has expanded as he revolves in synchronization with the celestial movements. By expanding this "arc," he is able to perceive the divine miracle of the celestial lights with even greater clarity and beauty.
+
+**Tag Resolutions:**
+- `{1:uom}`: a generic man (representing any human who does good works)
+- `[2:+ei]`: a generic man (referring back to {1})
+- `[3:s']`: a generic man (referring back to {1})
+- `[4:m']`: Dante
+- `[5:io]`: Dante
+- `[6:+io]`: Dante
+
+## Scene 64-69: The Metaphor of Transformation
+In this scene, Dante employs a delicate and vivid simile to describe the sudden shift in his spiritual perception and emotional state. He compares the change in his own vision to the facial transformation of a fair-skinned woman whose expression shifts as she is relieved of the "burden of shame" (likely referring to the fading of a blush or a transition from modesty to openness).
+
+Dante is describing the moment he turned his gaze to behold the brilliant, tempered light of the sphere they are currently inhabiting. He identifies this as the "sixth" star/sphere, which is Jupiter. He describes the feeling of being "gathered" or "collected" within the encompassing light and presence of this celestial realm.
+
+**Tag Resolutions:**
+- `{1:bianca donna}`: a white woman (a generic figure used in a simile)
+- `[2:+io]`: Dante
+- `{3:la temprata stella}`: Jupiter (the sixth celestial sphere)
+- `{4:sesta}`: Jupiter (the sixth celestial sphere)
+- `[5:sé]`: Jupiter (the sixth celestial sphere)
+- `[6:m']`: Dante
+
+## Scene 70-78: The Formation of Letters
+In this scene, Dante witnesses a spectacular visual manifestation of divine order. As he looks into the bright, joyful light of the sphere of Jupiter, he sees the love radiating from the blessed spirits organizing itself into a legible form. The light begins to spell out the letters of their language before his eyes.
+
+To describe this, Dante uses a simile: he compares the spirits to birds rising from a riverbank that fly in changing formations (circles or other shapes) as if to congratulate their shepherd. Returning from the simile to the reality of the vision, Dante explains that the "holy creatures" (the blessed souls of Jupiter) are flying and singing, and by their movement, they are forming letters. In the provided text, they are forming the letters D, I, and L (which are the beginning of the word "DILETTI" or, in the full context of the canto, the word "GIUSTIZIA" / Justice).
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the observer)
+- `{2:pasture}`: God (the Divine Shepherd whom the "birds" / spirits are congratulating)
+- `[3:+elli]`: The birds (the subjects of the simile)
+- `{4:sante creature}`: The blessed spirits (the souls in the sphere of Jupiter)
+- `[5:+elli]`: The blessed spirits (the souls in the sphere of Jupiter)
+
+## Scene 79-81: The Rhythms of the Lights
+In this scene, Dante describes the precise choreography of the blessed spirits in the sphere of Jupiter as they form the word "GIUSTIZIA" (Justice). He observes a rhythmic alternation between movement and stillness, and between sound and silence.
+
+The spirits move in synchronization with the music of their singing. Once they have successfully arranged themselves into the shape of one of the letters (one of the "signs"), they pause their movement and fall silent. This creates a punctuated effect, allowing Dante to clearly perceive each letter of the divine word as it is formed.
+
+**Tag Resolutions:**
+- `[1:+elli]`: The blessed spirits (the souls residing in the sphere of Jupiter).
+- `{2:questi segni}`: The letters (specifically the letters of the word "GIUSTIZIA" formed by the spirits).
+- `[3:+elli]`: The blessed spirits.
+- `[4:s']`: The blessed spirits (reflexive).
+- `[5:+elli]`: The blessed spirits.
+
+## Scene 82-87: Invocation to the Muse
+In this scene, Dante pauses the narrative to make a formal invocation to the Muse. He addresses the "Divine Pegasaean" (the Muse of Poetry), acknowledging her power to make creative minds famous and to grant them a form of immortality. He notes that through the Muse's influence, poets allow the cities and kingdoms they write about to endure eternally in human memory.
+
+Dante then asks the Muse to enlighten him with her divine inspiration. His goal is to be able to describe the visual images of the blessed spirits (the figures forming the word "Justice") exactly as he perceived and conceived them in his mind. He concludes with a plea for the Muse's power to manifest in the short verses he is writing.
+
+**Tag Resolutions:**
+- `{1:diva Pegasëa}`: The Muse (the Muse of Poetry)
+- `{2:li 'ngegni}`: the poets (the creative minds/geniuses)
+- `[3:+tu]`: The Muse
+- `[4:rendili]`: the poets (the "them" being made long-lived)
+- `[5:essi]`: the poets
+- `[6:teco]`: The Muse (the "with you" in *teco*)
+- `[7:+tu]`: The Muse
+- `[8:illustrami]`: Dante (the "me" being illuminated)
+- `[9:te]`: The Muse
+- `[10:io]`: Dante
+- `[11:io]`: Dante
+
+## Scene 88-93: The Inscribed Words
+In this scene, the visual spectacle described in the previous lines reaches its conclusion. The blessed spirits of the sphere of Jupiter have arranged themselves into a total of thirty-five letters (five times seven), consisting of vowels and consonants. Dante carefully observes and records the words being spelled out by these living letters.
+
+The inscription is in Latin and is divided into two parts. The first part, which Dante notes first, is "DILIGITE IUSTITIAM" ("Love Justice"). The second part follows: "QUI IUDICATIS TERRAM" ("Here you judge the earth"). The text is not merely a decorative painting, but a divine statement regarding the nature of the souls in this sphere: they are the just rulers who, in their celestial state, are tasked with the administration of divine justice over the earthly realm.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the observer recording the letters)
+- `[2:mi]`: Dante (the one to whom the words seemed spoken/clear)
+- `[3:+voi]`: The blessed spirits (the "you" plural in the imperative "Love Justice," addressed to the spirits of Jupiter)
+- `[4:+io]`: Dante (the one who first noted the first part of the message)
+- `[5:+voi]`: The blessed spirits (the "you" plural in "Here you judge the earth," referring to the souls of Jupiter)
+
+## Scene 94-96: The Letter M
+In this brief scene, the visual spectacle of the divine inscription reaches its conclusion. The blessed spirits have finished spelling out the phrase "DILIGITE IUSTITIAM QUI IUDICATIS TERRAM." 
+
+Dante observes that the spirits remain momentarily arranged in the shape of the letter 'M', which is the final letter of the fifth word ("TERRAM"). This arrangement creates a striking chromatic contrast: the silver radiance of the spirits stands out distinctly against the golden background of the celestial sphere they are inhabiting.
+
+**Tag Resolution:**
+- `{1:Giove}`: Jupiter (referring to the sphere/planet of Jupiter, which provides the golden light).
+
+## Scene 97-99: The Descent of Light
+In this scene, the visual spectacle of the divine inscription is completed by a new movement. Dante observes additional lights descending from above to the top of the letter 'M' (the final letter of the phrase "DILIGITE IUSTITIAM QUI IUDICATIS TERRAM"). He notes that these spirits settle there while singing. Dante reflects on the spiritual cause of this movement, attributing it to the "Good" (the Divine Good/God), who acts as the ultimate attractor, drawing these blessed souls toward Himself.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante (the observer)
+- `{2:altre luci}`: the blessed spirits (the newly descending lights)
+- `[3:+io]`: Dante (the narrator reflecting on the cause of the movement)
+- `{4:il ben}`: God (the Divine Good/the Prime Mover)
+- `[5:sé]`: God (referring back to the Divine Good)
+- `[6:le]`: the blessed spirits (the "altre luci" being moved by God)
+
+## Scene 100-108: The Explosion of Sparks
+In this scene, Dante describes a sudden and dramatic shift in the arrangement of the blessed spirits. He uses a vivid simile to describe the movement: he compares the spirits to the innumerable sparks that fly up when dry, burnt logs are struck. He mentions that "the foolish" often use such sparks to make wishes or predict the future (a superstitious practice).
+
+Following this simile, Dante describes how more than a thousand lights suddenly rise from the previously formed inscription, ascending at varying heights, much like the sun that ignites them. Once each light has settled into its new designated position, Dante observes the final result: the collective formation of these spirits now resembles the "head and neck of a needle" (the pointed top part of a needle).
+
+**Tag Resolutions:**
+- `{1:li stolti}`: The foolish (generic people on earth who use sparks for divination/superstition)
+- `[2:+io]`: Dante (the observer)
+
+## Scene 109-114: The Divine Designer
+In this scene, Dante reflects on the divine agency behind the spectacular visual arrangements he is witnessing. He observes that the "Painter" creating these formations of light—God—does not need a guide, for He is the ultimate source of all guidance and the architect of the cosmic order. He describes how the divine will (virtue) serves as the blueprint for these celestial "nests" of light. Dante then shifts his focus to Beatrice, whom he calls "the other beatitude." He notes that she had been contentedly watching the spirits as they formed the letter 'M', and as the formation shifted into the new, needle-like shape, she followed the movement with a subtle shift of her own.
+
+**Tag Resolutions:**
+- `[1:Quei]`: God (the Divine Painter/Architect who arranges the lights)
+- `[2:chi]`: A hypothetical guide (the text says God has *no one* who guides him; this refers to a non-existent entity)
+- `[3:'l]`: God (the one who would be guided, if such a thing were possible)
+- `[4:esso]`: God (the one who performs the act of guiding)
+- `[5:lui]`: God (the source of the divine memory/order)
+- `{6:L'altra bëatitudo}`: Beatrice (characterized as "the other beatitude" alongside the souls of Jupiter)
+- `[7:ingigliarsi]`: Beatrice (reflexive; her gaze "tangling" or becoming absorbed in the letter 'M')
+- `[8:+ella]`: Beatrice (the one who follows the change in formation with a slight movement)
+
+## Scene 115-117: Prayer for Justice
+In this scene, Dante addresses Beatrice directly, reflecting on the visual spectacle he has just witnessed. He uses the metaphor of "gems" (referring to the brilliant, jewel-like lights of the blessed spirits) to express a profound realization: the justice practiced by the just rulers of the earth is not merely a human achievement, but a divine effect originating from the celestial realm that Beatrice adorns. Essentially, Dante is acknowledging that the order and justice he sees in the sphere of Jupiter are reflections of the divine will and beauty embodied by Beatrice.
+
+**Tag Resolutions:**
+- `{1:dolce stella}`: Beatrice (the "sweet star" to whom Dante is speaking)
+- `[2:mi]`: Dante (the one to whom the vision demonstrated the truth)
+- `[3:tu]`: Beatrice (the one who "jewels" or adorns the heaven)
+
+## Scene 118-123: Prayer against Greed
+In this scene, Dante addresses Beatrice with a solemn request. Having witnessed the divine order of Justice in the sphere of Jupiter, Dante is reminded of the corruption and greed (simony) plaguing the earthly Church.
+
+Dante prays to the Divine Mind (God), who is the source of Beatrice's power and motion, asking that Beatrice look down upon the "smoke" (the corruption) that obscures her radiance on earth. His ultimate hope is that God will once again breathe a wind of righteous indignation—similar to the biblical account of Jesus cleansing the temple—to purge the Church of those who treat the faith as a business ("buying and selling inside the temple").
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the one making the prayer)
+- `{2:la mente}`: God (the Divine Mind/Prime Mover who initiates the movement of the spheres)
+- `[3:+tu]`: Beatrice (the one Dante asks to look toward the earthly corruption)
+- `{4:un'altra fïata}`: God (the "other breath"; a reference to the Divine Spirit/God's righteous anger)
+- `[5:s']`: God (the Divine Breath that becomes angry)
+
+## Scene 124-129: The Critique of Modernity
+In this scene, Dante addresses the blessed spirits he has just seen forming the word "Justice," calling them the "militia of heaven." He asks these just souls to intercede and pray for the people of Earth, who have been led astray by the poor examples set by their current leaders. 
+
+Dante then offers a scathing critique of the nature of conflict. He observes that in the past, war was fought openly and physically with swords. In contrast, the "war" of his own time is fought through insidious theft and greed—specifically by stealing the "bread" (the spiritual and physical resources) that God provides freely to everyone. This is a pointed reference to the simony and corruption of the Church, where the "battle" is no longer about honor or righteousness, but about the accumulation of wealth at the expense of the poor.
+
+**Tag Resolutions:**
+- `{1:milizia del ciel}`: The blessed spirits in the sphere of Jupiter
+- `[2:io]`: Dante
+- `[3:+tu]`: The blessed spirits in the sphere of Jupiter
+- `[4:color]`: The people on earth
+- `[5:si]`: People/warriors (generic "one" referring to humans of the past)
+- `[6:si]`: People/corrupt figures (generic "one" referring to humans of the current era)
+- `{7:l pïo Padre}`: God
+
+## Scene 130-136: A Warning to the Poet
+In this scene, Cacciaguida delivers a stern warning to Dante regarding his poetic mission. He cautions Dante that if he writes solely to "cancel" or destroy (referring to his scathing critiques of the Church and political leaders), he must remember that the founders of the Church, St. Peter and St. Paul, are still alive in heaven and are watching. Cacciaguida warns that by attacking the "vineyard" (the Church), Dante is essentially opposing the legacy of those who died to establish it.
+
+Cacciaguida then anticipates a possible defense Dante might offer: that he has fixed his spiritual desire on a more solitary, intellectual, or personal path—specifically referring to the experience of St. Paul, who lived as a solitary scholar before his sudden ("by leaps") conversion and eventual martyrdom. In this imagined defense, Dante would claim that he recognizes this personal, spiritual journey rather than the institutional authority represented by "the fisherman" (Peter) and "Paul" (the official apostle). Cacciaguida is highlighting the danger of using a selective reading of faith to justify the destruction of the Church's earthly structure.
+
+**Tag Resolutions:**
+- `[1:tu]`: Dante (the poet who is writing to "cancel" or critique)
+- `{2:Pietro}`: St. Peter
+- `{3:Paulo}`: St. Paul
+- `[4:tu]`: Dante (the one imagining his own defense)
+- `[5:I']`: Dante (the "I" in the imagined quote)
+- `[6:colui]`: St. Paul (specifically referring to Paul's early life as a solitary scholar and his sudden conversion)
+- `[7:io]`: Dante (the "I" in the imagined quote)
+- `{8:il pescator}`: St. Peter (the "fisherman")
+- `{9:Polo}`: St. Paul (the apostle/institutional figure)
+
+# recap
+- Dante, Beatrice, and Cacciaguida are together in the sphere of Jupiter.
+- Cacciaguida is delivering a stern warning to Dante regarding the dangers and responsibilities of his poetic critiques of the Church.

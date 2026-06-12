@@ -1,0 +1,320 @@
+# Canto 14 — The Encounter with the Spirits of the Arno Valley
+
+## Scene 1-6: The Spirits' Observation
+In this scene, two unnamed souls on the second terrace of Purgatory (the terrace of the envious) are observing Dante and Virgil as they walk by.
+
+The first soul is struck by the fact that one of the travelers is clearly alive—noting that he has not yet experienced death and is able to open and close his eyes at will (a biological function the dead souls there lack). 
+
+The second soul responds, admitting they don't know who the man is but noting that he is accompanied by someone else (Virgil). The second soul then encourages the first soul to move closer and gently ask the stranger who he is.
+
+**Tag Resolutions:**
+
+*   `[1:Chi]` refers to **Dante**.
+*   `[2:costui]` refers to **Dante**.
+*   `{3:morte}` refers to **Death** (personified).
+*   `[4:li]` refers to **Dante**.
+*   `[5:+ei]` refers to **Dante**.
+*   `[6:+ei]` refers to **Dante**.
+*   `[7:+io]` refers to **a soul on the terrace** (the second speaker).
+*   `[8:chi]` refers to **Dante**.
+*   `[9:+io]` refers to **a soul on the terrace** (the second speaker).
+*   `[10:e']` refers to **Dante**.
+*   `[11:tu]` refers to **a soul on the terrace** (the first speaker).
+*   `[12:li]` refers to **Dante**.
+*   `[13:t']` refers to **a soul on the terrace** (the first speaker).
+*   `[14:+tu]` refers to **a soul on the terrace** (the first speaker).
+*   `[15:+tu]` refers to **a soul on the terrace** (the first speaker).
+*   `[16:lo]` refers to **Dante**.
+
+## Scene 7-15: The First Spirit's Greeting
+In this scene, the two spirits who have been observing Dante and Virgil from the sidelines finally decide to engage with them. They shift from whispering among themselves to facing Dante directly. One of the spirits speaks, addressing Dante with curiosity and a plea for information. He recognizes that Dante is a "soul" who is uniquely "fixed" within a living body—a rare occurrence in Purgatory. The spirit asks Dante, in the name of charity, to tell them who he is and where he comes from, explaining that Dante's living presence is so extraordinary that it fills them with immense wonder.
+
+**Tag Resolutions:**
+
+*   `{1:due spirti}`: **The two spirits** (on the second terrace).
+*   `[2:l'uno]`: **One of the two spirits**.
+*   `[3:l'altro]`: **The other of the two spirits**.
+*   `[4:+elli]`: **The two spirits**.
+*   `[5:me]`: **Dante**.
+*   `[6:+elli]`: **The two spirits**.
+*   `[7:dirmi]`: **Dante**.
+*   `[8:l'uno]`: **One of the two spirits** (the one who speaks).
+*   `{9:anima}`: **Dante** (addressed as a soul still in a body).
+*   `[10:+tu]`: **Dante**.
+*   `[11:+tu]`: **Dante**.
+*   `[12:ne]`: **The spirits** (meaning "us").
+*   `[13:+tu]`: **Dante**.
+*   `[14:ne]`: **The spirits** (meaning "us").
+*   `[15:+tu]`: **Dante**.
+*   `[16:chi]`: **Dante**.
+*   `[17:tu]`: **Dante**.
+*   `[18:ne]`: **The spirits** (meaning "us").
+*   `[19:+ella]`: **The grace/state of being alive** (referring back to *la tua grazia*).
+
+## Scene 16-24: The Riddle of the Arno
+In this scene, Dante responds to the spirits' curiosity with a riddle rather than a direct answer. He describes a small river that originates in Falterona and flows for a hundred miles through the heart of Tuscany. He explains that he hails from the region of this river, but adds that stating his name directly would be "speaking in vain" (using the word *indarno*, which is a clever pun on the name of the river, *Arno*), noting that he is not yet famous. The spirit who had first spoken to him quickly catches the drift of the riddle and identifies the river as the Arno.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: **Dante** (the speaker).
+*   `[2:io]`: **Dante** (the speaker).
+*   `{3:questa persona}`: **Dante** (referring to himself in the third person/gesturing to himself).
+*   `[4:i']`: **Dante** (the speaker).
+*   `[5:+tu]`: **Dante** (addressed by the spirit).
+*   `[6:mi]`: **Dante** (the narrator).
+*   `[7:+ei]`: **The spirit** (the one who spoke first in the previous scene).
+*   `[8:quei]`: **The spirit** (the one who spoke first in the previous scene).
+*   `[9:tu]`: **Dante** (addressed by the spirit).
+
+## Scene 25-27: The Second Spirit's Query
+In this brief scene, the second of the two spirits speaks up. While the first spirit quickly understood Dante's riddle about the Arno river, the second spirit is puzzled by Dante's indirectness. He asks why Dante concealed the name of the river, comparing this habit of avoiding a specific word to the way people often avoid naming things that are horrific or terrifying.
+
+**Tag Resolutions:**
+
+*   `{1:l'altro}`: **The second spirit** (the one who had not yet spoken in the previous scene).
+*   `[2:lui]`: **The second spirit**.
+*   `[3:questi]`: **Dante**.
+*   `{4:om}`: **Man** (referring to people/humanity in general).
+
+## Scene 28-51: The Corruption of the Valley
+In this scene, the first spirit (the one who had previously solved Dante's riddle) answers the second spirit's question about why Dante was so indirect in naming the Arno river. The spirit admits he doesn't know why Dante spoke in riddles, but he asserts that it is fitting for the name of the Arno valley to be obscured or "perish" because of the moral corruption of its people.
+
+The spirit provides a geographical and moral tour of the river's course. He describes the Arno flowing from the mountains down to the sea, noting that the river's "virtue" or goodness shuns the people it passes. He compares the inhabitants of the valley to animals, suggesting that Circe (the enchantress who turned men into swine) seems to have used them as livestock. As the river descends, the spirit describes a progression of degradation: the river first passes through "pigs" (coarse people), then "Botoli" (aggressive, snarling dogs), and finally, as the river grows larger, it encounters "wolves" (predatory, vicious people). The river itself is personified as being disgusted by the people it encounters, "turning its nose" away from them.
+
+**Tag Resolutions:**
+
+*   `{1:l'ombra}`: **The first spirit** (the one who understood the riddle).
+*   `[2:+ella]`: **The first spirit**.
+*   `[3:si]`: **The first spirit**.
+*   `[4:+io]`: **The first spirit**.
+*   `[5:si]`: **The "virtue" (virtù) of the river** (referring to the river's purity or goodness).
+*   `[6:li]`: **The inhabitants of the Arno valley**.
+*   `[7:+elli]`: **The inhabitants of the Arno valley**.
+*   `{8:li abitator}`: **The inhabitants of the Arno valley**.
+*   `{9:Circe}`: **Circe** (the mythological enchantress).
+*   `[10:li]`: **The inhabitants of the Arno valley**.
+*   `[11:+ella]`: **The river Arno**.
+*   `[12:+ella]`: **The river Arno**.
+*   `[13:+elli]`: **The "Botoli"** (the aggressive, dog-like inhabitants).
+*   `[14:+ella]`: **The river Arno**.
+*   `[15:ella]`: **The river Arno**.
+*   `[16:+ella]`: **The river Arno**.
+
+## Scene 52-54: The Cunning Foxes
+In this brief scene, the first spirit continues his moral geography of the Arno valley. Following the description of the "pigs," "dogs," and "wolves," he describes the river as it continues its descent through dark waters. There, the river encounters people he characterizes as "foxes" (*le volpi*). These people are defined by their extreme fraudulence and cunning; they are so arrogant in their own deceit that they do not fear any intellect or scheme that might attempt to outsmart or entrap them.
+
+**Tag Resolutions:**
+
+*   `[1:+ella]`: **The river Arno** (specifically its personified "virtue" or presence, as established in the previous scene).
+*   `{2:le volpi}`: **The fraudulent inhabitants of the Arno valley** (characterized as "foxes").
+*   `[3:le]`: **The fraudulent inhabitants of the Arno valley** (the "foxes").
+
+## Scene 55-66: The Prophecy of the Hunter
+In this scene, the first spirit continues his discourse, transitioning from a critique of the present moral state of the Arno valley to a prophecy about its future. He declares that he will continue to speak so that others may hear his warning. He addresses Dante, stating that it will be beneficial for Dante to remember the revelations being unfolded to the spirit by a "true spirit" (likely a divine or angelic source of inspiration).
+
+The spirit then delivers a vision: he sees a future "descendant" or kinsman of Dante's (a fellow Florentine) who will rise as a "hunter" to purge the "wolves" (the corrupt inhabitants) from the banks of the Arno. This hunter will be ruthless—metaphorically "selling their flesh while still alive" and eventually killing them like wild beasts, stripping them of both their lives and their honor. The spirit describes the hunter emerging bloodstained from the "dismal forest" of this corruption. He concludes by advising Dante to leave the valley as it is, suggesting that this violent purge is a necessary process to ensure the corruption does not simply return to its original, wild state.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: **The first spirit** (the speaker).
+*   `[2:m']`: **The first spirit** (the speaker).
+*   `[3:costui]`: **Dante**.
+*   `[4:+ei]`: **Dante**.
+*   `[5:s']`: **Dante**.
+*   `{6:vero spirto}`: **A true spirit** (the divine/angelic source providing the revelation).
+*   `[7:mi]`: **The first spirit** (the speaker, who is receiving the revelation).
+*   `[8:Io]`: **The first spirit** (the speaker).
+*   `{9:tuo nepote}`: **A future just leader/kinsman of Florence** (the "descendant").
+*   `{10:cacciator}`: **The future just leader/kinsman of Florence** (the "hunter").
+*   `[11:+ei]`: **The "wolves"** (the corrupt inhabitants of the Arno valley).
+*   `[12:+ei]`: **The future just leader** (the "hunter").
+*   `[13:+ei]`: **The "wolves"** (the corrupt inhabitants of the Arno valley).
+*   `[14:sé]`: **The "wolves"** (referring back to the "many" being deprived of honor).
+*   `[15:+ei]`: **The future just leader** (the "hunter," the subject who "deprives").
+*   `[16:+ei]`: **The future just leader** (the "hunter").
+*   `[17:+tu]`: **Dante**.
+
+## Scene 67-72: The Second Spirit's Grief
+In this scene, Dante describes the emotional reaction of the second spirit to the prophecy delivered by the first spirit. He uses a simile to illustrate this: just as a person's face becomes troubled when they hear news of sorrowful losses or danger, the second spirit becomes visibly distressed. Having listened to the first spirit's vision of the "hunter" purging the corrupt inhabitants of the Arno valley, the second spirit is left feeling sad and troubled as he processes the gravity of those words.
+
+**Tag Resolutions:**
+
+*   `[1:colui]`: **A generic person/listener** (used in a simile to describe someone hearing bad news).
+*   `[2:l']`: **A generic person/listener** (referring back to `[1]`).
+*   `[3:io]`: **Dante** (the narrator).
+*   `{4:l'altr' anima}`: **The second spirit** (the one who had been listening to the first spirit's prophecy).
+*   `[5:sé]`: **The second spirit**.
+
+## Scene 73-84: Guido's Introduction
+In this scene, Dante is moved by the previous events—the prophecy delivered by the first spirit and the visible distress of the second spirit. This combination of words and expressions makes him eager to know who these two souls are. He asks them for their names, blending his request with humble pleas.
+
+The first spirit (the one who delivered the prophecy) responds. He begins by pointing out a contradiction: Dante wants the spirit to be open and identify himself, whereas Dante himself was reluctant to do so (referring back to the riddle he used to avoid naming the Arno and himself). However, the spirit notes that because God’s grace is so evident in Dante (as he is the only living soul permitted here), the spirit is happy to be generous with the information. He reveals his identity as Guido del Duca. He then explains the depth of his sin of envy, stating that his blood was so "boiled" by envy that if he had seen any person being happy—or if he had seen Dante himself in his current state—he would have burst with hatred.
+
+**Tag Resolutions:**
+
+*   `[1:l'una]`: **The first spirit** (referring to his speech).
+*   `[2:l'altra]`: **The second spirit** (referring to his appearance/expression).
+*   `[3:mi]`: **Dante**.
+*   `[4:+io]`: **Dante**.
+*   `[5:ne]`: **The names of the two spirits**.
+*   `{6:lo spirto}`: **The first spirit**.
+*   `[7:+ei]`: **The first spirit**.
+*   `[8:Tu]`: **Dante**.
+*   `[9:io]`: **The first spirit**.
+*   `[10:mi]`: **The first spirit**.
+*   `[11:te]`: **Dante**.
+*   `[12:tu]`: **Dante**.
+*   `{13:Dio}`: **God**.
+*   `[14:te]`: **Dante**.
+*   `[15:+io]`: **The first spirit**.
+*   `[16:ti]`: **Dante**.
+*   `[17:+tu]`: **Dante**.
+*   `[18:io]`: **The first spirit**.
+*   `{19:Guido}`: **Guido**.
+*   `{20:del Duca}`: **Guido** (specifically his family name/title).
+*   `{21:uom}`: **Man** (referring to people in general).
+*   `[22:+tu]`: **Dante**.
+*   `[23:m']`: **The first spirit (Guido)**.
+
+## Scene 85-96: The Blight of Lineage
+In this scene, Guido del Duca continues his speech to Dante. He begins with a personal lament, noting that he "reaps only straw" from his own lineage—meaning his descendants are worthless or the family line has dwindled in quality. He then pivots to a general rhetorical question addressed to all of humanity, questioning why people invest their hearts and desires in things that should be forbidden or are harmful.
+
+Guido then introduces the second spirit who has been accompanying him. He identifies this spirit as Rinier, a man of honor from the house of Calboli. Guido praises Rinier, stating that since Rinier's time, no one in that family has ever matched his value or achieved such prestige.
+
+Finally, Guido expands his critique from a single family to a whole region of Italy (the area between the Po River, the mountains, the sea, and the Reno River). He describes this entire region as being overgrown with "poisonous shrubs," a metaphor for the corrupt, envious, and fraudulent people who inhabit the land. He suggests that the moral blight is so severe that any attempt to "cultivate" or reform these people would be futile.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: **Guido del Duca** (the speaker).
+*   `{2:gente umana}`: **The human race** (addressed generally).
+*   `[3:+tu]`: **The human race** (addressed as a collective singular).
+*   `{4:consorte}`: **A companion/partner** (referring generally to those with whom one shares their heart/desires).
+*   `[5:Questi]`: **The second spirit** (Rinier).
+*   `{6:Rinier}`: **Rinier** (the second spirit).
+*   `[7:questi]`: **Rinier**.
+*   `{8:'l pregio e l'onore}`: **Rinier** (described as the "prize and honor" of his house).
+*   `[9:s']`: **The descendants/members of the house of Calboli**.
+*   `{10:lo suo sangue}`: **Rinier's lineage/descendants**.
+*   `{11:venenosi sterpi}`: **The corrupt people of the region** (metaphorically "poisonous shrubs").
+*   `[12:+elli]`: **The corrupt people of the region** (the "poisonous shrubs").
+
+## Scene 97-102: Lament for Romagna
+In this scene, Guido del Duca continues his lament for the moral decline of Romagna. He lists several individuals who were once symbols of honor and virtue in the region, asking rhetorically where they have gone. By invoking the names of these respected figures, Guido emphasizes the contrast between the noble past and the current state of the Romagnuols, whom he dismissively calls "bastards" (meaning they have degenerated from their ancestors). He specifically looks toward cities like Bologna and Faenza, wondering when the region will once again produce men of such high character as the Fabbro family or Bernardin di Fosco.
+
+**Tag Resolutions:**
+
+*   `{1:l buon Lizio}`: **Lizio**, an honorable man from Romagna.
+*   `{2:Arrigo Mainardi}`: **Arrigo Mainardi**, an honorable man from Romagna.
+*   `{3:Pier Traversaro}`: **Pier Traversaro**, an honorable man from Romagna.
+*   `{4:Guido di Carpigna}`: **Guido di Carpigna**, an honorable man from Romagna.
+*   `{5:un Fabbro}`: **A member of the Fabbro family** (specifically a virtuous one).
+*   `[6:si]`: **A member of the Fabbro family** (referring back to `{5}`).
+*   `{7:un Bernardin di Fosco}`: **Bernardin di Fosco**, an honorable man from Faenza.
+*   `{8:verga gentil di picciola gramigna}`: **Bernardin di Fosco** (described as a noble shoot/branch coming from a humble origin).
+
+## Scene 103-111: Mourning the Lost Greatness
+In this scene, Guido del Duca continues his mournful reflection on the decline of Romagna. He tells Dante not to be surprised that he is weeping as he recalls the nobility of the past. He lists several specific figures and families—Guido da Prata, Ugolino d'Azzo, Federigo Tignoso, the Traversari, and the Anastagi—noting that these lineages have since died out. He reminisces about the women, knights, and the general atmosphere of "love and courtesy" (the courtly values) that once defined those people, contrasting that lost elegance with the wickedness of the hearts of those who now inhabit the region.
+
+**Tag Resolutions:**
+
+*   `[1:ti]`: **Dante**.
+*   `[2:io]`: **Guido del Duca**.
+*   `{3:Tosco}`: **Dante** (referred to as "Tuscan").
+*   `[4:+io]`: **Guido del Duca**.
+*   `{5:Guido da Prata}`: **Guido da Prata** (a noble of Romagna).
+*   `{6:Ugolin d'Azzo}`: **Ugolino d'Azzo** (a noble of Romagna).
+*   `{7:Federigo Tignoso}`: **Federigo Tignoso** (a noble of Romagna).
+*   `{8:la casa Traversara}`: **The Traversari family**.
+*   `{9:li Anastagi}`: **The Anastagi family**.
+*   `[10:ne]`: **The noble people of the past** (specifically the women, knights, and their courtly experiences mentioned in lines 107-109).
+
+## Scene 112-123: The Decay of Towns
+In this scene, Guido del Duca continues his mournful reflection on the decline of Romagna, focusing on specific noble families and individuals. His tone is one of bitter irony; he suggests that for many of these lineages, the only "mercy" or "good" remaining is their extinction. He argues that it is better for a corrupt family line to end than to continue producing offspring who will only propagate the same vices.
+
+Guido addresses Bretinoro, questioning why the line hasn't already vanished to avoid further evil. He praises Bagnacaval for not having more children, while condemning Castrocaro and Conio for continuing to produce heirs, thereby further entangling their lineage in sin. He mentions the Pagan family, noting that while they might find some relief when the "demon" (the spirit of corruption or literal demonic influence) leaves them, no pure remnant of their honor will ever survive. Finally, he addresses Ugolin de' Fantolin, stating that Ugolin's name is now "secure" (safe from further degradation) precisely because there is no one left to carry it on or further tarnish it through dark, deviant behavior.
+
+**Tag Resolutions:**
+
+*   `{1:Bretinoro}`: **Bretinoro** (a noble family/person from Romagna).
+*   `[2:+tu]`: **Bretinoro**.
+*   `{3:Bagnacaval}`: **Bagnacaval** (a noble family/person from Romagna).
+*   `{4:Castrocaro}`: **Castrocaro** (a noble family/person from Romagna).
+*   `{5:Conio}`: **Conio** (a noble family/person from Romagna).
+*   `{6:tai conti}`: **The counts** (specifically Castrocaro, Conio, and their kind).
+*   `[7:s']`: **The counts** (Castrocaro, Conio, and their descendants).
+*   `{8:i Pagan}`: **The Pagan family**.
+*   `{9:'l demonio}`: **The Devil** (personified as the source of their corruption).
+*   `[10:lor]`: **The Pagan family**.
+*   `[11:essi]`: **The Pagan family**.
+*   `{12:testimonio}`: **A pure remnant/testimony** (referring to a virtuous descendant of the Pagan family).
+*   `{13:Ugolin de' Fantolin}`: **Ugolin de' Fantolin** (a noble from Romagna).
+*   `[14:chi]`: **Anyone** (a potential descendant who could carry on the name).
+*   `[15:lo]`: **Ugolin's name/legacy**.
+
+## Scene 124-126: Guido's Exhaustion
+In this brief scene, Guido del Duca reaches an emotional breaking point. After his extensive and bitter lament over the moral decay of Romagna and the loss of its noble houses, he finds himself overwhelmed by grief. He tells Dante to move on, explaining that he currently finds more solace (or is more compelled) by weeping than by speaking. He concludes by noting that the reflection on the shared fate and "reason" of his people has constricted his mind, leaving him unable to continue the conversation.
+
+**Tag Resolutions:**
+
+*   `[1:+tu]`: **Dante** (addressed by Guido).
+*   `{2:Tosco}`: **Dante** (addressed as "Tuscan").
+*   `[3:mi]`: **Guido del Duca** (the speaker).
+*   `[4:m']`: **Guido del Duca** (the speaker).
+
+## Scene 127-135: The Thunderous Voice
+In this scene, Dante narrates the moment after he and Virgil leave the company of Guido del Duca and Rinier. He notes that they were aware the two souls were still listening to them as they departed, though the souls remained silent, allowing the travelers to proceed. 
+
+As Dante and Virgil continue on their way alone, they are suddenly startled by a booming voice that arrives like a bolt of lightning cutting through the air. The voice, coming from the opposite direction, shouts a menacing warning: "I would kill anyone who knows me!" After this brief, violent outburst, the voice vanishes as quickly as it appeared, compared to the way thunder dissipates when a cloud descends.
+
+**Tag Resolutions:**
+
+*   `[1:Noi]`: **Dante and Virgil**
+*   `{2:quell' anime care}`: **Guido del Duca and Rinier**
+*   `[3:ci]`: **Dante and Virgil**
+*   `[4:+elli]`: **Guido del Duca and Rinier**
+*   `[5:+elli]`: **Guido del Duca and Rinier**
+*   `[6:noi]`: **Dante and Virgil**
+*   `[7:+noi]`: **Dante and Virgil**
+*   `[8:+io]`: **The voice/The spirit who speaks**
+*   `[9:m']`: **The voice/The spirit who speaks**
+
+## Scene 136-139: The Appearance of Aglauro
+In this brief scene, Dante and Virgil are continuing their progress on the second terrace. The menacing voice they heard in the previous scene suddenly falls silent. Almost immediately, they are startled by a second voice that erupts with a crash as loud as thunder. This new voice identifies itself as Aglauro, referring to the mythological figure who turned to stone.
+
+**Tag Resolutions:**
+
+*   `[1:lei]`: **The voice of the first spirit** (from the previous scene; *voce* is feminine in Italian).
+*   `[2:l'altra]`: **The voice of the second spirit** (specifically the voice of Aglauro).
+*   `[3:Io]`: **Aglauro**.
+*   `{4:Aglauro}`: **Aglauro**.
+
+## Scene 140-141: Dante's Reaction
+In this brief scene, Dante reacts to the sudden and thunderous voice of Aglauro. Startled and perhaps seeking the protection or guidance of his mentor, Dante moves closer to Virgil. Instead of continuing to step forward, he shifts his step to the right to press himself against "the poet."
+
+**Tag Resolutions:**
+*   `{1:al poeta}`: **Virgil**
+*   `[2:+io]`: **Dante**
+
+## Scene 142-151: Aglauro's Warning
+In this scene, the air becomes quiet, and the spirit who just identified himself as Aglauro speaks to Dante. Aglauro first comments on the menacing voice heard in the previous scene, describing it as a "hard blow" or "harsh path" (likely referring to the uncontrolled passion of envy or hatred) that a person should keep contained. 
+
+Aglauro then shifts his focus to Dante and Virgil, warning them that they are taking the bait of the "ancient adversary" (Satan), who uses such lures to pull souls toward himself. He points out a spiritual contradiction: while Heaven is calling to them and unfolding its eternal beauties all around them, their eyes (particularly Dante's) remain fixed on the earth. Because of this preoccupation with earthly matters, Aglauro explains that they are being rebuked or "struck" by the one who sees and understands all things (God).
+
+**Tag Resolutions:**
+
+*   `[1:el]`: **Aglauro** (the speaker).
+*   `[2:mi]`: **Dante** (the one being spoken to).
+*   `{3:l'uom}`: **Man** (referring to humanity/people in general).
+*   `[4:voi]`: **Dante and Virgil**.
+*   `{5:l'antico avversaro}`: **The ancient adversary** (Satan/the Devil).
+*   `[6:sé]`: **The ancient adversary** (Satan/the Devil).
+*   `[7:vi]`: **Dante and Virgil**.
+*   `[8:+voi]`: **Dante and Virgil**.
+*   `[9:mostrandovi]`: **Dante and Virgil**.
+*   `[10:vi]`: **Dante and Virgil**.
+*   `[11:chi]`: **God** (the one who discerns everything).
+
+# recap
+- Dante and Virgil are traveling together on the second terrace of Purgatory.
+- They are currently being addressed by the spirit Aglauro.
+- Aglauro is warning them against the "ancient adversary" and rebuking them for their preoccupation with earthly matters.

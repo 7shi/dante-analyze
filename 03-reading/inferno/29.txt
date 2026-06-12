@@ -1,0 +1,251 @@
+# Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
+
+## Scene 1-12: Virgil's Reprimand
+In this scene, Dante is emotionally overwhelmed by the sight of the mutilated souls in the eighth bolgia. He is so affected by the sheer number of people and the horror of their wounds that he is weeping and staring fixedly. Virgil notices this and steps in to reprimand him. Virgil asks why he is lingering and staring at the "severed shadows," reminding Dante that he hasn't been this distracted in previous bolge. Virgil warns him that they have a vast distance to cover (twenty-two miles of the valley) and that their allotted time is limited. He urges Dante to move forward, noting that there are other things they must see which Dante is currently ignoring.
+
+**Tag Resolutions:**
+- {1:La molta gente}: the souls in the eighth bolgia (the schismatics)
+- {2:Virgilio}: Virgil
+- [3:mi]: Dante
+- [4:+voi]: Dante
+- {5:ombre}: the souls in the eighth bolgia (the schismatics)
+- [6:Tu]: Dante
+- [7:+tu]: Dante
+- [8:tu]: Dante
+- [9:tu]: Dante
+
+## Scene 13-21: The Memory of Geri
+In this scene, Dante responds to Virgil's reprimand. Dante argues that if Virgil had understood the reason for his fixation on the souls in the eighth bolgia, Virgil would have been more patient and allowed him to linger. As they begin to move forward, Virgil responds (likely prompting Dante to explain further), and Dante reveals the cause of his distress: he believes that a kinsman (a "spirit of his blood") is among the souls suffering in that specific area.
+
+**Tag Resolutions:**
+- [1:tu]: Virgil
+- [2:io]: Dante
+- [3:io]: Dante
+- [4:+tu]: Virgil
+- [5:m']: Dante
+- [6:+ei]: Virgil
+- [7:+ei]: Virgil
+- [8:io]: Dante
+- [9:li]: Virgil
+- {10:lo duca}: Virgil
+- [11:io]: Dante
+- [12:+io]: Dante
+- {13:un spirto del mio sangue}: Geri (a Florentine kinsman of Dante)
+
+## Scene 22-36: Reflection on Violent Death
+In this scene, Virgil and Dante discuss a missed encounter with Dante's kinsman, Geri del Bello.
+
+Virgil begins by telling Dante to stop dwelling on the kinsman he mentioned in the previous scene. Virgil explains that he actually saw Geri at the foot of the little bridge; Geri was pointing and threatening Dante with his finger. Virgil heard Geri's name called, but because Dante was so completely preoccupied with the severed head of Bertram dal Bornio (the man who once held the fortress of Altaforte), Dante didn't look over in time, and Geri departed.
+
+Dante responds to his guide, explaining why Geri likely behaved this way. He notes that Geri suffered a violent death that has not yet been avenged by anyone sharing in that shame. This lack of vengeance made Geri disdainful. Dante believes that because of this pride, Geri left without speaking to him, and Dante paradoxically views this silence as an act of mercy or kindness toward him.
+
+**Tag Resolutions:**
+- {1:'l maestro}: Virgil
+- [2:ello]: Geri del Bello
+- [3:+tu]: Dante
+- [4:ei]: Geri del Bello
+- [5:si]: Geri del Bello
+- [6:io]: Virgil
+- [7:lui]: Geri del Bello
+- [8:+io]: Virgil
+- {9:Geri del Bello}: Geri del Bello
+- [10:Tu]: Dante
+- [11:colui]: Bertram dal Bornio
+- [12:+tu]: Dante
+- [13:+ei]: Geri del Bello
+- {14:duca}: Virgil
+- [15:li]: Geri del Bello
+- [16:io]: Dante
+- [17:lui]: Geri del Bello
+- [18:el]: Geri del Bello
+- [19:sen]: Geri del Bello
+- [20:ïo]: Dante
+- [21:m']: Dante
+- [22:el]: Geri del Bello
+- [23:sé]: Geri del Bello
+
+## Scene 37-51: Arrival at the Tenth Ditch
+In this scene, Dante and Virgil conclude their conversation and continue walking until they reach the vantage point overlooking the final ditch of Malebolge (the tenth bolgia). As they stand on the last ledge, they are able to see the souls below. Dante is immediately assaulted by the sounds of the suffering souls—their laments strike him like arrows of pity—causing him to cover his ears with his hands. He then describes the scene using a visceral simile: the pain and the overwhelming stench of rotting flesh are compared to the combined misery of the plague-ridden hospitals of Valdichiana, Maremma, and Sardinia all gathered into a single pit.
+
+**Tag Resolutions:**
+- [1:+noi]: Dante and Virgil
+- [2:noi]: Dante and Virgil
+- {3:i suoi conversi}: the souls in the tenth bolgia (specifically the alchemists, who tried to "convert" metals)
+- [4:me]: Dante
+- [5:io]: Dante
+
+## Scene 52-66: The Toxic Atmosphere
+In this scene, Dante and Virgil descend the final ledge of the cliff on the left side to reach the bottom of the tenth bolgia. As they descend, Dante’s vision becomes clearer, and he observes the souls being punished there by the agent of God's justice. 
+
+Dante is so struck by the wretchedness of the scene that he compares it to a legendary plague in Egina (Aegina). He recalls (referencing classical poets) how the air in Egina became so toxic that every animal, down to the smallest worm, perished. According to the myth, the surviving humans were forced to replenish their population by eating the seeds of ants. Dante uses this visceral image of biological decay and desperation to describe the sight of the souls languishing in the various pits of the tenth bolgia.
+
+**Tag Resolutions:**
+- [1:Noi]: Dante and Virgil
+- {2:la ministra}: the agent/instrument of God's justice
+- {3:l'alto Sire}: God
+- [4:+ella]: the agent/instrument of God's justice
+- {5:i falsador}: the souls in the tenth bolgia (the falsifiers)
+- [6:+io]: Dante
+- {7:il popol}: the sick people of Egina
+- {8:le genti antiche}: the people of Egina
+- {9:i poeti}: the classical poets
+- [10:si]: the people of Egina
+- {11:li spirti}: the souls in the tenth bolgia
+
+## Scene 67-72: The Condition of the Damned
+In this scene, Dante describes the wretched physical state of the souls in the tenth bolgia. He observes that the damned are so incapacitated by their diseases that they cannot stand; some lie on their stomachs, others on their backs, and some crawl on all fours along the gloomy path. Dante and Virgil proceed slowly and in silence, watching and listening to these "sick" souls who are unable to lift themselves up.
+
+**Tag Resolutions:**
+- [1:l'un]: the souls in the tenth bolgia (the falsifiers)
+- [2:l'altro]: the souls in the tenth bolgia (the falsifiers)
+- [3:si]: the souls in the tenth bolgia (the falsifiers)
+- [4:+noi]: Dante and Virgil
+- {5:li ammalati}: the souls in the tenth bolgia (the falsifiers)
+- {6:le lor persone}: the souls in the tenth bolgia (the falsifiers)
+
+## Scene 73-84: The Agony of the Itch
+In this scene, Dante describes a specific and harrowing sight among the falsifiers in the tenth bolgia. He observes two souls sitting and leaning against one another for support, much like two pans resting against each other on a stove. Both are covered in scabs and sores from head to toe. 
+
+Dante is struck by the intensity of their suffering; he remarks that he has never seen a child being disciplined by his father, nor a reluctant sleeper being roused, with such vigor as these two souls scratch themselves. Driven by the "rage" of an insatiable itch (scabies), they dig their nails into their own skin. He uses a vivid image to describe this, comparing the way they scrape their scabs to the way a knife scales a fish.
+
+**Tag Resolutions:**
+- [1:Io]: Dante
+- [2:due]: two of the falsifiers
+- [3:sé]: the two falsifiers
+- [4:+io]: Dante
+- {5:ragazzo}: a child (used in a general comparison)
+- {6:dal segnorso}: a father (used in a general comparison)
+- [7:colui]: a reluctant sleeper (used in a general comparison)
+- [8:sé]: the two falsifiers
+
+## Scene 85-96: The Greeting to the Souls
+In this scene, Virgil initiates a conversation with the suffering souls. He addresses one of the two souls who had been scratching themselves violently, asking him if there are any "Latins" (Italic/Italian souls) among the group in the tenth bolgia. The soul responds tearfully, confirming that both he and his companion are Latins. The soul then asks Virgil who he is to be making such inquiries. Virgil identifies himself as a guide who is descending through Hell with a living man (Dante) for the purpose of showing the depths of the underworld to that man.
+
+**Tag Resolutions:**
+- [1:tu]: one of the two falsifiers
+- [2:ti]: one of the two falsifiers
+- {3:l duca mio}: Virgil
+- [4:l'un]: one of the two falsifiers
+- [5:loro]: the two falsifiers
+- [6:+tu]: one of the two falsifiers
+- [7:+tu]: one of the two falsifiers
+- {8:alcun Latino}: any Latin (Italic/Italian) soul
+- [9:costoro]: the souls in the tenth bolgia
+- [10:ti]: one of the two falsifiers
+- [11:noi]: the two falsifiers
+- [12:tu]: Virgil
+- [13:ambedue]: the two falsifiers
+- [14:l'un]: one of the two falsifiers
+- [15:tu]: Virgil
+- [16:chi]: Virgil
+- [17:+tu]: Virgil
+- [18:noi]: the two falsifiers
+- {19:l duca}: Virgil
+- [20:I']: Virgil
+- [21:un]: Virgil
+- {22:questo vivo}: Dante
+- [23:lui]: Dante
+- [24:+io]: Virgil
+
+## Scene 97-108: The Inquiry of the Living
+In this scene, the tension and hesitation of the damned souls break. Upon hearing Virgil's introduction, the souls—trembling—turn toward Dante, including those who had only overheard the conversation. Virgil draws close to Dante and encourages him to speak, telling him to ask the souls whatever he wishes. 
+
+Dante then addresses the falsifiers. He asks them to tell him who they are and where they are from, provided that their memories have not faded since they left the world of the living. He tells them that they should not let the hideous and repulsive nature of their punishment prevent them from revealing their identities to him.
+
+**Tag Resolutions:**
+- [1:me]: Dante
+- [2:si]: the souls in the tenth bolgia (the falsifiers)
+- {3:Lo buon maestro}: Virgil
+- [4:me]: Dante
+- [5:s']: Virgil
+- [6:+tu]: Dante
+- [7:lor]: the souls in the tenth bolgia (the falsifiers)
+- [8:tu]: Dante
+- [9:io]: Dante
+- [10:ei]: Virgil
+- [11:+voi]: the souls in the tenth bolgia (the falsifiers)
+- [12:ditemi]: Dante (as the recipient of the information)
+- [13:chi]: the souls in the tenth bolgia (the falsifiers)
+- [14:voi]: the souls in the tenth bolgia (the falsifiers)
+- [15:palesarvi]: the souls in the tenth bolgia (the falsifiers)
+- [16:me]: Dante
+- [17:vi]: the souls in the tenth bolgia (the falsifiers)
+
+## Scene 109-120: The Tale of the Alchemist
+In this scene, one of the two scratching souls responds to Dante's request for their identity. The speaker identifies himself as being from Arezzo and mentions a man named Albero from Siena. He explains that Albero had him burned at the stake. However, the speaker clarifies that the reason for his death is not the reason he is currently suffering in the tenth bolgia.
+
+He recounts that he had jokingly told Albero that he knew how to fly through the air. Albero, who was gullible and lacked sense, demanded that the speaker demonstrate this "art." Because the speaker could not actually fly, Albero (whom the speaker ironically nicknames "Dedalus") had him burned, treating him with the severity of a father toward a son. Finally, the speaker reveals that he is in the tenth bolgia because he practiced alchemy—the falsification of metals—which led the judge Minos to condemn him to this place.
+
+**Tag Resolutions:**
+- [1:Io]: the soul from Arezzo
+- {2:Albero}: Albero (a man from Siena)
+- {3:l'un}: the soul from Arezzo
+- [4:mi]: the soul from Arezzo
+- [5:+lui]: Albero
+- [6:io]: the soul from Arezzo
+- [7:mi]: the soul from Arezzo
+- [8:i']: the soul from Arezzo
+- [9:lui]: Albero
+- [10:I']: the soul from Arezzo
+- [11:mi]: the soul from Arezzo
+- [12:quei]: Albero
+- [13:+lui]: Albero
+- [14:i']: the soul from Arezzo
+- [15:li]: Albero
+- [16:io]: the soul from Arezzo
+- {17:Dedalo}: Albero
+- [18:+lui]: Albero
+- [19:mi]: the soul from Arezzo
+- [20:tal]: Albero
+- [21:l']: the soul from Arezzo
+- [22:me]: the soul from Arezzo
+- [23:+io]: the soul from Arezzo
+- {24:Minòs}: Minos (the judge of the underworld)
+
+## Scene 121-123: Dante's Sienese Jibe
+In this brief scene, Dante reacts to the story told by the soul from Arezzo. Specifically, he is reacting to the gullibility of Albero from Siena, who believed a man could fly and subsequently burned him for failing to do so.
+
+Dante turns to Virgil (the poet) and makes a sarcastic comment about the people of Siena. He asks if there has ever been any people as vain or foolish as the Sienese, concluding that even the French (a frequent target of Dante's political and social criticism) are not nearly as gullible.
+
+**Tag Resolutions:**
+- [1:io]: Dante
+- {2:al poeta}: Virgil
+- {3:la francesca}: the French people
+
+## Scene 124-139: The Testimony of Capocchio
+In this scene, the second of the two scratching souls—the "other leper"—overhears Dante’s sarcastic comment about the gullibility of the Sienese. Eager to join in the mockery and establish his own identity, he speaks to Dante.
+
+The soul tells Dante to associate him with a group of other notorious fraudsters: Stricca (who was skilled in "temperate spending," likely a euphemism for financial fraud), Niccolò (who discovered the commercial use of cloves), Caccia d'Ascian (who squandered a large estate), and a man called "l'Abbagliato" (the Deluded). 
+
+He then tells Dante to look closely at his face so that Dante can see exactly who is agreeing with his insults toward the Sienese. He identifies himself as the shade of Capocchio, who is in the tenth bolgia because he practiced alchemy to falsify metals. He concludes by reminding Dante (or suggesting that Dante should remember) that he was, by nature, a "good scimia"—meaning a mimic or a trickster (literally "ape").
+
+**Tag Resolutions:**
+- {1:l'altro lebbroso}: Capocchio
+- [2:m']: Capocchio
+- [3:+tu]: Dante
+- [4:mene]: Capocchio
+- {5:Stricca}: Stricca (a falsifier/fraudster)
+- {6:Niccolò}: Niccolò (a falsifier/fraudster)
+- [7:+tu]: Dante
+- {8:la brigata}: the group of falsifiers/fraudsters
+- {9:Caccia d'Ascian}: Caccia d'Ascian (a falsifier/fraudster)
+- {10:l'Abbagliato}: l'Abbagliato (a falsifier/fraudster)
+- [11:+tu]: Dante
+- [12:chi]: Capocchio
+- [13:ti]: Dante
+- {14:i Sanesi}: the Sienese people
+- [15:+tu]: Dante
+- [16:me]: Capocchio
+- [17:ti]: Dante
+- [18:+tu]: Dante
+- [19:io]: Capocchio
+- {20:l'ombra di Capocchio}: Capocchio
+- [21:te]: Dante
+- [22:+io]: Capocchio
+- [23:t']: Dante
+- [24:io]: Capocchio
+
+# recap
+- Dante and Virgil are in the tenth bolgia of Malebolge.
+- They have just finished speaking with the diseased shades of Capocchio and an alchemist from Arezzo.
+- They remain among the suffering falsifiers, who are incapacitated by various ailments.

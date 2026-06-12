@@ -1,0 +1,341 @@
+# Canto 26 — Encounters with the Souls of the Lustful
+
+## Scene 1-9: Sunset in the Inferno
+In this scene, the trio—Dante, Virgil, and Statius—is continuing their ascent along the edge of the terrace of the Lustful. They are walking in single file. Virgil, acting as the guide, frequently urges Dante to stay alert and observant of his surroundings.
+
+As the sun begins to set in the west, the sky turns a bright, gypsum-white. Because of the angle of the sun, Dante casts a shadow over the purgatorial flames. This shadow creates a visual contrast that makes the fire appear even more intense and burning. This optical effect attracts the attention of the spirits (the shades) undergoing purification in the fire, who begin to notice the group's presence.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante, Virgil, and Statius
+- `[2:ce]`: Dante, Virgil, and Statius
+- `{3:il buon maestro}`: Virgil
+- `[4:+ei]`: Virgil
+- `[5:+tu]`: Dante
+- `[6:io]`: Virgil
+- `[7:ti]`: Dante
+- `[8:io]`: Dante
+- `[9:+io]`: Dante
+- `{10:molt' ombre}`: the souls of the Lustful
+
+## Scene 10-15: The Shadows Observe Dante
+In this scene, Dante explains that the optical effect of his shadow falling upon the flames (mentioned in the previous scene) is what caught the attention of the spirits. This triggers a reaction from the souls of the Lustful, who begin to whisper among themselves about him. They observe that he does not look like a "fictitious body"—meaning he does not look like a ghostly shade, but rather like a living, breathing human being. Driven by curiosity, the spirits try to edge closer to him, though they are careful to remain within the boundaries of the fire, as their purgatorial punishment requires them to stay immersed in the flames.
+
+**Tag Resolutions:**
+- `[1:loro]`: the souls of the Lustful
+- `[2:me]`: Dante
+- `[3:+elli]`: the souls of the Lustful
+- `[4:Colui]`: Dante
+- `[5:me]`: Dante
+- `[6:+elli]`: the souls of the Lustful
+- `[7:+elli]`: the souls of the Lustful
+- `[8:si]`: the souls of the Lustful
+- `[9:+elli]`: the souls of the Lustful
+
+## Scene 16-24: An Inquiry from the Flames
+In this scene, one of the souls of the Lustful, who has been observing the trio from within the purgatorial fire, speaks directly to Dante. The spirit addresses Dante, noting that he is walking behind his companions (Virgil and Statius), perhaps out of reverence rather than slowness. 
+
+The spirit asks Dante to explain a phenomenon that has baffled the souls: he is casting a physical shadow ("making a wall") against the sun. Since shades (ghosts) are translucent and do not block light, this indicates to the spirits that Dante is a living man who has not yet "entered the net of death." The speaker emphasizes that not only is he curious, but all the other spirits in the flames are desperate for this information, comparing their intellectual thirst to the physical thirst of an Indian or Ethiopian for cold water.
+
+**Tag Resolutions:**
+- `[1:tu]`: Dante
+- `[2:+tu]`: Dante
+- `[3:me]`: a soul of the Lustful (the speaker)
+- `[4:me]`: a soul of the Lustful (the speaker)
+- `[5:questi]`: the souls of the Lustful
+- `[6:+tu]`: Dante
+- `[7:+tu]`: Dante
+- `[8:te]`: Dante
+- `[9:tu]`: Dante
+
+## Scene 25-30: Arrival of the New Group
+In this scene, the dialogue between Dante and the soul of the Lustful is interrupted. The spirit continues to speak to Dante, and Dante notes that he would have responded and made his situation clear (answered the question about his shadow) if he hadn't been distracted by a new arrival. A new group of souls appears, moving through the fire toward them. This sight captures Dante's full attention, leaving him suspended in contemplation as he watches them approach.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `{2:un}`: a soul of the Lustful (the speaker)
+- `[3:essi]`: the souls of the Lustful
+- `[4:io]`: Dante
+- `[5:mi]`: Dante
+- `[6:io]`: Dante
+- `{7:gente}`: a new group of souls
+- `[8:questa]`: Dante's group (Dante, Virgil, and Statius)
+- `[9:mi]`: Dante
+
+## Scene 31-36: The Swarming Shadows
+In this scene, Dante continues to observe the souls of the Lustful as they react to the presence of the visitors. He describes a scene of flurry and greeting: the spirits are rushing toward one another from all directions, exchanging brief, affectionate kisses. Because they are in Purgatory, these moments of social connection are fleeting ("a brief feast"). Dante employs a simile, comparing the movement of these dark shadows within their throng to the way ants swarm and mingle with one another, suggesting that the spirits are curiously scouting the path and the circumstances of the living man (Dante) and his guides.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `{2:ciascun' ombra}`: the souls of the Lustful
+- `[3:una]`: the souls of the Lustful
+- `[4:una]`: the souls of the Lustful
+- `{5:schiera bruna}`: the souls of the Lustful
+
+## Scene 37-42: The Divided Proclamations
+In this scene, the spirits of the Lustful have just finished their brief, affectionate greetings. As soon as they move past these initial welcomes, they immediately begin to shout out phrases. This is part of their purgatorial penance: the souls on this terrace must recite examples of extreme or unnatural lust to remind themselves of the destructive power of passion and to purge those desires from their hearts. 
+
+One group of souls shouts "Sodom and Gomorrah" (referencing the biblical cities destroyed for their sins), while another group shouts about Pasiphae, the mythological figure who lusted after a bull. They are essentially chanting their lessons of repentance.
+
+**Tag Resolutions:**
+- `[1:+elli]`: the souls of the Lustful
+- `[2:s']`: the souls of the Lustful (referring to "each one" of them)
+- `{3:la nova gente}`: the new group of souls (who just arrived)
+- `{4:Pasife}`: Pasiphae
+
+## Scene 43-48: The Parting of the Souls
+In this scene, Dante observes the movement of the souls of the Lustful as they disperse after their brief greeting. He uses a simile, comparing the souls to cranes migrating between the Rifean mountains (in the north) and the sands (in the south), with some fleeing the cold and others fleeing the heat. Similarly, the souls split apart: one group departs and another arrives. Ultimately, they all return to their purgatorial penance, weeping and resuming the chanting of the examples of lust that are appropriate for their purification.
+
+**Tag Resolutions:**
+- `{1:l'una gente}`: a group of the souls of the Lustful
+- `[2:l'altra]`: another group of the souls of the Lustful
+- `[3:+elli]`: the souls of the Lustful
+- `[4:lor]`: the souls of the Lustful
+
+## Scene 49-51: The Return of the First Group
+In this scene, the spirits of the Lustful who had first approached Dante return to him. After the distraction of the new group arriving and departing (the "migration" described in the previous scene), the original group—those who were curious about Dante's physical shadow—re-approach him. They are eager to hear the answer to the question they had previously asked, and their focused facial expressions reveal their intense desire to listen to his response.
+
+**Tag Resolutions:**
+- `[1:+elli]`: the souls of the Lustful (the first group)
+- `[2:me]`: Dante
+- `[3:essi]`: the souls of the Lustful (the first group)
+- `[4:m']`: Dante
+
+## Scene 52-66: Dante's Explanation
+In this scene, Dante finally answers the question posed by the spirits of the Lustful regarding his physical presence and his shadow. 
+
+Dante begins by addressing the souls, acknowledging that they are destined for eventual peace in Heaven. He explains the mystery of his shadow by stating that he has not left his physical body behind in the world of the living; rather, he is present here in the flesh, "with blood and joints." He explains that he is ascending Purgatory to overcome his spiritual blindness and that he has been granted this extraordinary journey through the grace of Beatrice (the "lady" above).
+
+After explaining his situation, Dante turns the conversation back to the spirits. He expresses a wish that their purification be completed quickly so they may enter the expansive love of Heaven. Finally, he asks them for information to include in his records (his poem): he wants to know who they are and who the other group of souls was—the crowd he saw departing just moments before.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:lor]`: the souls of the Lustful
+- `[3:+io]`: Dante
+- `{4:anime}`: the souls of the Lustful
+- `[5:meco]`: Dante
+- `[6:+io]`: Dante
+- `{7:donna}`: Beatrice
+- `[8:m']`: Dante
+- `{9: 'l mortal}`: Dante
+- `[10:v']`: the souls of the Lustful
+- `[11:+voi]`: the souls of the Lustful
+- `[12:ditemi]`: Dante (the "me" in "tell me")
+- `[13:+io]`: Dante
+- `[14:chi]`: the souls of the Lustful
+- `[15:voi]`: the souls of the Lustful
+- `[16:chi]`: the new group of souls
+- `{17:quella turba}`: the new group of souls
+- `[18:se]`: the new group of souls
+
+## Scene 67-72: The Shadows' Confusion
+In this scene, the narrative focuses on the immediate aftermath of Dante’s explanation to the souls of the Lustful. 
+
+Virgil (the guide) is momentarily struck by the situation; he is described as being "disturbed" or confounded, falling silent as he reflects on the scene. The cause of this disruption is the presence of Dante, who is described as "rough and wild"—a reference to his corporeal, living nature—and the fact that his physical body acts as a "wall" that casts a shadow, something impossible for the ethereal shades. 
+
+Eventually, the souls of the Lustful shake off their amazement and recover from their stupor, their "high hearts" (their spirits) returning to a state of composure so that the conversation can proceed.
+
+**Tag Resolutions:**
+- `[1:si]`: Virgil
+- `{2:lo montanaro}`: Virgil
+- `[3:+egli]`: Virgil
+- `[4:+egli]`: Dante
+- `[5:s']`: Dante
+- `{6:ciascun' ombra}`: the souls of the Lustful
+- `[7:+elli]`: the souls of the Lustful
+- `{8:li alti cuor}`: the souls of the Lustful
+
+## Scene 73-87: Guido's Identification
+In this scene, the soul who first questioned Dante (later identified as Guido da Montefeltro) resumes the conversation. The spirit begins by calling Dante "blessed," noting that by experiencing Purgatory while still alive, Dante is gaining a unique perspective that will allow him to "die better" (achieve a more perfected state of salvation).
+
+The spirit then explains the difference between the two groups of souls Dante witnessed. The group that just departed (the "new people") were those whose lust was specifically "Sodomitic." To illustrate this, the speaker references Julius Caesar, who, during his triumph, mockingly called his male lover "Queen." This group of souls shouts "Sodom" and feels deep shame, which fuels their purgatorial fire.
+
+The speaker then distinguishes their own group's sin, describing it as "hermaphroditic" (likely meaning a lust that blurred the boundaries of nature or was all-consuming). They admit that they failed to follow human law, instead following their animal appetites. The speaker notes that their shame is tied to the "name" of the lust (the passion) that drove them to act like beasts.
+
+**Tag Resolutions:**
+- `[1:te]`: Dante
+- `[2:colei]`: the soul of the Lustful (the speaker)
+- `[3:m']`: Dante
+- `[4:+tu]`: Dante
+- `{5:La gente}`: the new group of souls (who just departed)
+- `[6:noi]`: the first group of souls (the speaker's group)
+- `{7:Cesar}`: Julius Caesar
+- `{8:“Regina”}`: Julius Caesar's male lover (referred to as "Queen")
+- `[9:sé]`: Julius Caesar
+- `[10:s']`: Julius Caesar
+- `[11:+elli]`: the new group of souls (who just departed)
+- `[12:si]`: the new group of souls (who just departed)
+- `[13:sé]`: the new group of souls (who just departed)
+- `[14:+tu]`: Dante
+- `[15:+elli]`: the new group of souls (who just departed)
+- `[16:+noi]`: the first group of souls (the speaker's group)
+- `[17:noi]`: the first group of souls (the speaker's group)
+- `[18:noi]`: the first group of souls (the speaker's group)
+- `[19:si]`: impersonal (referring to the act of reading/recording the sin)
+- `[20:+noi]`: the first group of souls (the speaker's group)
+- `[21:colei]`: lust/passion (la lussuria/la passione)
+- `[22:s']`: lust/passion (la lussuria/la passione)
+
+## Scene 88-93: The Pride of the Poet
+In this scene, the soul who has been speaking to Dante concludes his explanation of their sins and moves toward a personal revelation. 
+
+The speaker tells Dante that he now understands their actions and the nature of their guilt. He acknowledges that Dante might want to know their specific names, but he notes that it is not yet the appropriate time for the souls in Purgatory to reveal their identities (as souls typically do so only after they have progressed further in their purification). However, the speaker decides to disregard this restriction and his own discipline ("make a fool of his will") to satisfy the moment. He reveals himself to be Guido Guinizzelli, explaining that he is currently undergoing purification to ensure he has fully repented before his time in Purgatory ends.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `[2:+noi]`: the first group of souls (including the speaker)
+- `[3:+tu]`: Dante
+- `[4:chi]`: the identity of the souls
+- `[5:+noi]`: the first group of souls (including the speaker)
+- `[6:+io]`: Guido Guinizzelli (the speaker)
+- `[7:+io]`: Guido Guinizzelli (the speaker)
+- `[8:me]`: Guido Guinizzelli (the speaker)
+- `[9:+io]`: Guido Guinizzelli (the speaker)
+- `{10:Guido Guinizzelli}`: Guido Guinizzelli
+- `[11:+io]`: Guido Guinizzelli (the speaker)
+- `[12:mi]`: Guido Guinizzelli (the speaker)
+
+## Scene 94-102: Dante's Emotional Response
+In this scene, Dante reacts with profound emotion to the revelation that the spirit speaking to him is Guido Guinizzelli. For Dante, Guinizzelli is not just another soul; he is a pioneer of the *Dolce Stil Novo* (the "sweet new style") of poetry, a spiritual "father" and a primary influence on Dante's own poetic development.
+
+Dante begins with a classical allusion to Ligurgo (a mythological Thracian king), comparing his own sadness to the grief felt by Ligurgo's two sons when they were reunited with their mother. Dante explains that hearing the name of his poetic "father" (Guinizzelli) and the other great masters of love poetry fills him with a similar, overwhelming sorrow. 
+
+Struck by this encounter, Dante falls into a pensive silence. He walks a bit, staring intently at Guido from a distance, careful not to get too close because of the purgatorial flames that separate them.
+
+**Tag Resolutions:**
+- `{1:Ligurgo}`: Ligurgo (a mythological figure)
+- `[2:si]`: the two sons of Ligurgo (reflexive/impersonal)
+- `{3:due figli}`: the two sons of Ligurgo
+- `{4:la madre}`: the mother of Ligurgo's sons
+- `[5:mi]`: Dante
+- `[6:io]`: Dante
+- `[7:+io]`: Dante
+- `[8:io]`: Dante
+- `[9:sé stesso]`: Guido Guinizzelli
+- `{10:il padre}`: Guido Guinizzelli (as Dante's spiritual/poetic father)
+- `{11:li altri miei miglior}`: the other great love poets preceding Dante
+- `[12:+io]`: Dante
+- `[13:lui]`: Guido Guinizzelli
+- `[14:+io]`: Dante
+- `[15:m']`: Dante
+
+## Scene 103-105: Dante's Readiness to Serve
+In this brief scene, Dante transitions from his silent, emotional contemplation of Guido Guinizzelli to active engagement. Having "fed" his eyes by gazing at the spirit of his poetic mentor, Dante now formally offers his assistance and service to Guido. He makes this offer with a clear and firm affirmation, ensuring that his sincerity is evident and believable to the spirit.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+- `[3:m']`: Dante
+
+## Scene 106-111: Guido's Request
+In this scene, Guido Guinizzelli (speaking on behalf of the group of souls) responds to Dante’s offer of service. 
+
+Guido tells Dante that the words he has just spoken have left a deep and clear impression on him—an impression so strong that even the river Lethe (the river of oblivion in the afterlife, which wipes away memories of earthly life) cannot erase it or make it fade. 
+
+However, Guido seeks confirmation of Dante's sincerity. He asks Dante to explain the reason why he is showing such affection and reverence toward him, both in the words he uses and in the way he looks at him. Essentially, Guido is asking: "Why do you hold me in such high regard?"
+
+**Tag Resolutions:**
+- `[1:elli]`: the souls of the Lustful (specifically Guido, acting as their spokesperson)
+- `[2:me]`: Dante
+- `[3:Tu]`: Dante
+- `[4:i']`: Guido Guinizzelli
+- `[5:me]`: Guido Guinizzelli
+- `{6:Letè}`: Lethe (the river of forgetfulness)
+- `[7:+tu]`: Dante
+- `[8:+tu]`: Dante
+
+## Scene 112-114: Dante's Compliment
+In this brief scene, Dante responds to Guido Guinizzelli's question about why he is being treated with such reverence. Dante offers a high compliment to Guido's poetic legacy, stating that Guido's "sweet words" (his verses) will continue to be cherished for as long as the modern style of poetry persists.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:lui]`: Guido Guinizzelli
+
+## Scene 115-126: Praise for Arnaut Daniel
+In this scene, Guido Guinizzelli continues his conversation with Dante. He addresses Dante as a "brother" and points out another soul among the Lustful. Guido identifies this spirit as a master of the vernacular—specifically the Occitan/Provençal language—and declares him to be a superior craftsman of poetry than any other. He asserts that this poet surpassed everyone in both love verses and romantic prose.
+
+Guido then reflects on the nature of fame and critical judgment. He suggests that "fools" may believe this poet (Arnaut Daniel) is the greatest, but they do so because they follow the "voice" of the crowd (popularity) rather than the "truth" (actual artistic merit). He explains that these ignorant people form their opinions based on rumor before they ever consider art or reason. To illustrate this phenomenon of misplaced praise, Guido brings up Guittone d'Arezzo, noting that many of Guittone's old followers praised him loudly and blindly, until eventually, the truth—supported by a greater number of people—overcame Guittone's reputation.
+
+**Tag Resolutions:**
+
+- `{1:frate}`: Dante
+- `[2:+ei]`: Guido Guinizzelli
+- `[3:questi]`: Arnaut Daniel (the spirit being pointed to)
+- `[4:io]`: Guido Guinizzelli
+- `[5:ti]`: Dante
+- `[6:+ei]`: Guido Guinizzelli
+- `{7:un spirto}`: Arnaut Daniel
+- `[8:+ei]`: Arnaut Daniel
+- `{9:fabbro}`: Arnaut Daniel
+- `[10:+ei]`: Arnaut Daniel
+- `[11:+ei]`: Arnaut Daniel
+- `{12:li stolti}`: the fools/ignorant critics
+- `[13:quel]`: Arnaut Daniel
+- `[14:+elli]`: the fools
+- `[15:+ei]`: Arnaut Daniel
+- `[16:+elli]`: the fools
+- `[17:+elli]`: the fools
+- `[18:lor]`: the fools
+- `{19:molti antichi di Guittone}`: the old followers/supporters of Guittone d'Arezzo
+- `[20:lui]`: Guittone d'Arezzo
+- `[21:l']`: Guittone d'Arezzo
+- `{22:il ver}`: the Truth (personified)
+- `{23:più persone}`: a larger group of people (who recognized the truth)
+
+## Scene 127-132: A Prayer for the Departed
+In this scene, Guido Guinizzelli makes a humble request of Dante. Recognizing that Dante possesses the "broad privilege" of being alive—and therefore has the ability to enter a church (the "cloister" where Christ is the "abbot")—Guido asks Dante to pray for him. Specifically, he asks Dante to recite a *Pater Noster* (the Lord's Prayer) on his behalf. Guido explains that such prayers from the living world are necessary for the souls in Purgatory, as they no longer have the agency to act or sin on Earth and must rely on divine mercy and the intercessions of the living to complete their purification.
+
+**Tag Resolutions:**
+- `[1:tu]`: Dante
+- `[2:ti]`: Dante
+- `{3:Cristo}`: Christ
+- `{4:abate del collegio}`: Christ
+- `[5:+tu]`: Dante
+- `[6:me]`: Guido Guinizzelli
+- `[7:noi]`: the souls of the Lustful (including Guido)
+
+## Scene 133-135: The Disappearance of Guido
+In this brief scene, the conversation between Dante and Guido Guinizzelli comes to an end. Guido decides to step aside to allow other spirits, who have been waiting nearby and are equally curious about Dante, the opportunity to speak with him. To do this, Guido vanishes into the purgatorial flames, with Dante using a simile to describe the movement as being like a fish sinking to the bottom of the water.
+
+**Tag Resolutions:**
+- `[1:+elli]`: the other souls of the Lustful (who were nearby)
+- `[2:+elli]`: Guido Guinizzelli
+
+## Scene 136-141: The Arrival of Arnaut Daniel
+In this scene, Dante acts upon the introduction provided by Guido Guinizzelli in the previous scene. Dante moves closer to the spirit who had been pointed out to him—the great Occitan poet Arnaut Daniel. Dante expresses his deep admiration for Arnaut, telling him that he has long desired to meet him.
+
+Arnaut Daniel then responds, speaking in his own native language (Occitan). He tells Dante that he is greatly pleased by Dante's courteous and respectful manner, and because of this, he has no desire to remain distant or hide himself from the living poet; he is happy to engage in conversation.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:mi]`: Dante
+- `{3:al mostrato}`: Arnaut Daniel
+- `[4:+io]`: Dante
+- `[5:El]`: Arnaut Daniel
+- `[6:m']`: Arnaut Daniel
+- `[7:ieu]`: Arnaut Daniel
+- `[8:me]`: Arnaut Daniel
+- `[9:+ieu]`: Arnaut Daniel
+- `[10:vos]`: Dante
+
+## Scene 142-148: Arnaut's Lament and Departure
+In this scene, the Occitan poet Arnaut Daniel formally introduces himself and shares a brief reflection on his spiritual state before departing. He describes his current existence as a paradox of weeping and singing: he looks back with sorrow at his past "madness" (his earthly lusts) but looks forward with joy to the salvation that awaits him at the end of his purification. 
+
+Arnaut then makes a poignant request to Dante. He asks Dante, by the virtue or "worth" that is guiding him toward the summit of Purgatory, to remember his sorrow (essentially asking for Dante's prayers and remembrance in the living world). Once he has finished his request, Arnaut vanishes, sinking back into the refining fires of the terrace to continue his penance.
+
+**Tag Resolutions:**
+- `[1:Ieu]`: Arnaut Daniel
+- `{2:Arnaut}`: Arnaut Daniel
+- `[3:+io]`: Arnaut Daniel
+- `[4:+io]`: Arnaut Daniel
+- `[5:vos]`: Dante
+- `[6:+io]`: Arnaut Daniel
+- `[7:vos]`: Dante
+- `[8:vos]`: Dante
+- `[9:+elli]`: Arnaut Daniel
+- `[10:s']`: Arnaut Daniel
+- `[11:li]`: Arnaut Daniel
+
+# recap
+- Dante, Virgil, and Statius are traveling together along the terrace of the Lustful.
+- Dante has just finished conversations with the poets Guido Guinizzelli and Arnaut Daniel.
+- Both spirits have vanished back into the purgatorial flames to resume their penance.

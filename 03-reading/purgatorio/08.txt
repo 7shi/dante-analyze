@@ -1,0 +1,301 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+
+## Scene 1-18: The Evening Hymn
+**Scene Analysis: The Evening Hymn**
+
+**What happens:**
+The scene opens with a poignant description of the hour of sunset. Dante describes how this time of day stirs longing in people: sailors missing their homes and lovers missing their beloveds. As a bell rings in the distance, signaling the end of the day, Dante is approached by a female soul. She gestures to him and then turns toward the East (the direction of God/the rising sun), raising her arms in prayer. She begins to sing a hymn ("Te lucis ante"), and her voice is so incredibly sweet and devout that Dante feels himself losing consciousness or falling into a trance. Other souls in the valley then join her in the hymn, all of them gazing upward toward the celestial spheres.
+
+**Tag Resolutions:**
+
+*   `{1:navicanti}`: The sailors (generic people experiencing longing).
+*   `[2:+elli]`: The sailors.
+*   `{3:dolci amici}`: The sweet friends (the loved ones the sailors left behind).
+*   `{4:lo novo peregrin d'amore}`: Dante (the pilgrim).
+*   `[5:+ei]`: Dante.
+*   `[6:io]`: Dante.
+*   `{7:una de l'alme}`: A female soul (the leader of the hymn).
+*   `[8:Ella]`: The female soul.
+*   `[9:+ella]`: The female soul.
+*   `[10:+ella]`: The female soul.
+*   `{11:Dio}`: God.
+*   `[12:Te]`: God (as the subject of the hymn "Te lucis ante").
+*   `[13:le]`: The female soul.
+*   `[14:me]`: Dante.
+*   `[15:me]`: Dante.
+*   `{16:l'altre}`: The other souls in the valley.
+*   `[17:lei]`: The female soul.
+
+## Scene 19-30: The Descent of the Angels
+**Scene Analysis: The Descent of the Angels**
+
+**What happens:**
+Dante breaks the narrative flow to address the reader directly, urging them to pay close attention. He explains that the "veil" between the physical world and the spiritual truth is now so thin that it is easy to see through to the reality of the afterlife. 
+
+Returning to the vision, Dante observes the "gentle army" (the gathering of souls in the valley) standing in silent, humble anticipation, looking upward. From the heavens, two angels descend. They are dressed in green, like new spring leaves, and their green wings beat behind them as they fly. Notably, each angel carries a sword, but these swords are blunt, truncated, and lack points—symbolizing that they come not to kill or wound, but to perform a ritual of purification or authority.
+
+**Tag Resolutions:**
+
+*   `[1:+tu]`: The reader.
+*   `{2:lettor}`: The reader.
+*   `[3:Io]`: Dante.
+*   `{4:quello essercito gentile}`: The group of souls gathered in the valley of Ante-Purgatory.
+*   `[5:+io]`: Dante.
+*   `{6:due angeli}`: Two angels.
+*   `[7:+elli]`: The two angels.
+
+## Scene 31-36: The Crowd's Reaction
+**Scene Analysis: The Crowd's Reaction**
+
+**What happens:**
+The two angels position themselves to flank the assembly of souls. One angel hovers just above Dante and Virgil, while the other descends to the opposite bank of the valley. This positioning effectively places the crowd of souls in the middle, between the two celestial beings. Dante observes the angels closely and notes their blond hair; however, he finds it impossible to focus on their faces. The divine radiance of their countenances is so overwhelming that his vision is blurred or "lost," a sensation he compares to a virtue so intense that it becomes confusing or incomprehensible to the human mind.
+
+**Tag Resolutions:**
+
+*   `{1:L'un}`: One of the two angels.
+*   `[2:noi]`: Dante and Virgil (and Sordello).
+*   `[3:si]`: The first angel (`{1:L'un}`).
+*   `{4:l'altro}`: The second of the two angels.
+*   `{5:la gente}`: The group of souls gathered in the valley.
+*   `[6:si]`: The group of souls (`{5:la gente}`).
+*   `[7:+io]`: Dante.
+*   `[8:lor]`: The two angels.
+
+## Scene 37-45: Sordello's Warning
+**Scene Analysis: Sordello's Warning**
+
+**What happens:**
+Sordello speaks to Dante and Virgil, explaining the purpose of the two angels. He notes that the angels come from the "womb of Mary" (a poetic way of saying they are messengers of the divine/heavenly realm) to guard the valley against a serpent (a demon) that will soon arrive. Dante, who was unaware of this threat and doesn't know where the danger is coming from, becomes terrified. He spins around and presses himself tightly against the "trusted shoulders" of Virgil for protection. Sordello then suggests that the three of them should move down among the "great shadows" (the noble souls resting in the valley) to converse with them, noting that those souls would be very pleased to see them.
+
+**Tag Resolutions:**
+
+*   `[1:Ambo]`: The two angels.
+*   `{2:Maria}`: Mary.
+*   `{3:Sordello}`: Sordello.
+*   `{4:lo serpente}`: The serpent (the demon that tempts souls).
+*   `[5:io]`: Dante.
+*   `[6:+io]`: Dante.
+*   `[7:mi]`: Dante.
+*   `[8:+io]`: Dante.
+*   `[9:m']`: Dante.
+*   `{10:Sordello}`: Sordello.
+*   `[11:+noi]`: Sordello, Dante, and Virgil.
+*   `{12:le grandi ombre}`: The noble souls (the "great shadows") resting in the valley.
+*   `[13:+noi]`: Sordello, Dante, and Virgil.
+*   `[14:esse]`: The noble souls (the "great shadows").
+*   `[15:lor]`: The noble souls (the "great shadows").
+
+## Scene 46-55: Meeting the Gentle Judge
+**Scene Analysis: Meeting the Gentle Judge**
+
+**What happens:**
+Dante descends just a few steps into the valley of noble souls. As he does, he notices a particular soul staring at him, as if trying to recognize him. Although the evening air is growing dark, there is still enough light for them to see each other clearly. The two approach one another. Dante recognizes the soul as Judge Nin (a noble judge from the Malaspina family) and expresses his great joy at seeing that Nin is not among the "sinners" (meaning he is not in Hell, but has reached Purgatory). The scene ends with the two of them exchanging warm, heartfelt greetings.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `[2:i']`: Dante
+*   `[3:+io]`: Dante
+*   `[4:+io]`: Dante
+*   `[5:un]`: Judge Nin (the soul looking at Dante)
+*   `[6:me]`: Dante
+*   `[7:+ei]`: Judge Nin
+*   `[8:mi]`: Dante
+*   `[9:me]`: Dante
+*   `[10:+ei]`: Judge Nin
+*   `[11:si]`: Judge Nin
+*   `[12:io]`: Dante
+*   `[13:lui]`: Judge Nin
+*   `[14:mi]`: Dante
+*   `{15:giudice Nin gentil}`: Judge Nin
+*   `[16:mi]`: Dante (the speaker)
+*   `[17:ti]`: Judge Nin (the person being addressed)
+*   `[18:+io]`: Dante (the speaker)
+*   `{19:rei}`: The sinners/the damned (those in Hell)
+*   `[20:noi]`: Dante and Judge Nin
+
+## Scene 56-63: The Inquiry of Origins
+**Scene Analysis: The Inquiry of Origins**
+
+**What happens:**
+Judge Nin asks Dante how long it has been since he arrived at the foot of the mountain by way of the "distant waters" (the shores of Purgatory). Dante responds by telling him that he arrived only this morning, having passed through the "sad places" (a reference to his journey through Hell). Most significantly, Dante reveals that he is still in his "first life"—meaning he is a living man—even though he is gaining the experience of the "other" life (the afterlife) through his journey. Upon hearing this shocking revelation—that a living person is walking among them—Sordello and the other noble souls recoil in sudden bewilderment and surprise.
+
+**Tag Resolutions:**
+
+*   `[1:+ei]`: Judge Nin
+*   `[2:tu]`: Dante
+*   `[3:io]`: Dante
+*   `[4:lui]`: Judge Nin
+*   `[5:+io]`: Dante
+*   `[6:+io]`: Dante
+*   `{7:Sordello}`: Sordello
+*   `[8:elli]`: The noble souls (the "great shadows")
+*   `[9:si]`: Sordello and the noble souls
+*   `{10:gente}`: Sordello and the noble souls (described here as "bewildered people")
+
+## Scene 64-81: The Message for Giovanna
+**Scene Analysis: The Message for Giovanna**
+
+**What happens:**
+Following the shock of Dante’s revelation that he is still alive, two of the souls react. Sordello turns to Virgil (likely in a gesture of shared amazement), while Judge Nin turns to another soul sitting nearby, calling out to him—Currado—to come and witness the miracle God has performed. 
+
+Judge Nin then addresses Dante directly. He acknowledges the "singular" and extraordinary nature of Dante's journey (being a living man among spirits). He asks Dante for a favor: once Dante returns to the land of the living ("beyond the wide waves"), he must deliver a message to Nin's daughter (or close relative), Giovanna. Nin asks her to pray for him ("call me"), mentioning a place associated with the souls of the Innocents.
+
+Nin then reflects on his late wife (Giovanna's mother). He expresses a bittersweet doubt that she still loves him, noting that since she became a widow ("changed the white bands" of her bridal veil), her passion has likely faded. He muses on the nature of female love, suggesting it dies out if not regularly rekindled by physical presence or touch. He concludes with a sharp, political comment about her burial, stating that the "Viper" (a reference to a political enemy, likely the house of the Melanesi or their allies) will not provide her with as honorable a burial as the "Rooster of Gallura" would have.
+
+**Tag Resolutions:**
+
+*   `[1:L'uno]`: Sordello
+*   `{2:Virgilio}`: Virgil
+*   `[3:l'altro]`: Judge Nin
+*   `{4:un}`: Currado
+*   `[5:si]`: Currado
+*   `{6:Currado}`: Currado
+*   `[7:+tu]`: Currado
+*   `{8:Dio}`: God
+*   `[9:me]`: Dante
+*   `[10:tu]`: Dante
+*   `[11:colui]`: God
+*   `[12:+tu]`: Dante
+*   `[13:+tu]`: Dante
+*   `{14:Giovanna}`: Giovanna
+*   `[15:me]`: Judge Nin
+*   `[16:+ella]`: Giovanna
+*   `{17:li 'nnocenti}`: The Innocents (unbaptized infants in Limbo)
+*   `[18:si]`: impersonal "one" (one responds)
+*   `[19:+io]`: Judge Nin
+*   `{20:la sua madre}`: Giovanna's mother (Judge Nin's wife)
+*   `[21:m']`: Judge Nin
+*   `[22:+ella]`: Giovanna's mother
+*   `{23:misera}!`: Giovanna's mother
+*   `[24:+ella]`: Giovanna's mother
+*   `[25:lei]`: Giovanna's mother
+*   `[26:si]`: impersonal "it" (it is understood)
+*   `{27:femmina}`: a woman (generic)
+*   `[28:le]`: Giovanna's mother
+*   `{29:la vipera}`: The Viper (a political enemy/family)
+*   `{30:il gallo di Gallura}`: The Rooster of Gallura (a specific noble/family)
+
+## Scene 82-93: Celestial Observations
+**Scene Analysis: Celestial Observations**
+
+**What happens:**
+As Judge Nin finishes speaking, Dante observes that Nin’s manner is marked by a "right zeal"—a balanced, noble passion that burns moderately in his heart. However, Dante’s attention shifts from the conversation to the night sky. He gazes intensely at the celestial pole, specifically toward the stars that move most slowly (those closest to the axis of the universe). 
+
+Virgil, noticing Dante's distraction, asks him why he is staring upward. Dante responds that he is captivated by three glowing lights (stars or planets) that seem to illuminate the entire northern sky. Virgil then provides a lesson in astronomy, explaining the movement of the spheres: he tells Dante that the four bright stars he saw earlier that morning have now descended, and these three lights have risen to take their place.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]`: Judge Nin (referring back to the speaker of the previous lines).
+*   `{2:l duca mio}`: Virgil.
+*   `{3:Figliuol}`: Dante.
+*   `[4:io]`: Dante.
+*   `[5:lui]`: Virgil.
+*   `[6:elli]`: Virgil.
+*   `[7:me]`: Dante.
+*   `[8:+tu]`: Dante.
+
+## Scene 94-108: The Serpent's Intrusion
+**Scene Analysis: The Serpent's Intrusion**
+
+**What happens:**
+While Virgil is still speaking (finishing his astronomical lesson), Sordello pulls Dante toward him and points out "our adversary." Dante looks in the direction Sordello indicates—the open part of the small valley—and sees a serpent. Dante compares this creature to the one that tempted Eve in Eden. The "evil streak" (the serpent) glides through the grass and flowers, turning its head and licking its back like a grooming animal.
+
+Dante admits that he did not see exactly how the "celestial hawks" (the two angels) reacted, but he clearly saw both of them move. As the sound of their green wings cutting through the air reaches the serpent, the creature is frightened away. Once the threat is gone, the two angels fly back up to their original positions.
+
+**Tag Resolutions:**
+
+*   `[1:ei]`: Virgil (who was speaking in the previous scene).
+*   `{2:Sordello}`: Sordello.
+*   `[3:sé]`: Sordello.
+*   `[4:il]`: Dante.
+*   `[5:+tu]`: Dante.
+*   `{6:l nostro avversaro}`: The serpent (the demon).
+*   `[7:+ei]`: Sordello.
+*   `[8:+tu]`: Dante.
+*   `{9:Eva}`: Eve.
+*   `[10:Io]`: Dante.
+*   `[11:+io]`: Dante.
+*   `{12:li astor celestïali}`: The two angels (metaphorically called "celestial hawks").
+*   `[13:+io]`: Dante.
+*   `[14:l'uno]`: One of the two angels.
+*   `[15:l'altro]`: The other of the two angels.
+*   `{16:li angeli}`: The two angels.
+
+## Scene 109-120: The Identification of Currado
+**Scene Analysis: The Identification of Currado**
+
+**What happens:**
+Dante returns his attention to the soul who had gathered around Judge Nin when he was called. Dante admits that he has not stopped staring at this figure. The soul begins to speak to Dante, using a poetic metaphor: he refers to Virgil as a "lamp" (`la lucerna`) that guides Dante upward. He asks Dante if this "lamp" has enough "wax" (meaning, if Virgil has enough guidance or strength) to lead Dante all the way to the summit of the mountain (the "highest enamel").
+
+Currado then asks Dante if he has any true news from the Val di Magra or the surrounding regions, noting that he was once a man of great importance there. He formally introduces himself as Currado Malaspina. He clarifies a point of genealogy: he is not the "ancient" Currado (the famous ancestor of the family), but a descendant of that man. He concludes by stating that he brought love to his kin—a love that is now being purified/refined in the fires of Purgatory.
+
+**Tag Resolutions:**
+
+*   `{1:L'ombra}`: Currado Malaspina (the shade who approached the judge).
+*   `[2:s']`: Currado Malaspina (`{1:L'ombra}`).
+*   `{3:al giudice}`: Judge Nin.
+*   `[4:+lui]`: Judge Nin.
+*   `[5:+ella]`: Currado Malaspina (`{1:L'ombra}`).
+*   `[6:me]`: Dante.
+*   `{7:la lucerna}`: Virgil (metaphorically described as the lamp guiding Dante).
+*   `[8:ti]`: Dante.
+*   `[9:+ella]`: Virgil (`{7:la lucerna}`).
+*   `[10:ella]`: Currado Malaspina (`{1:L'ombra}`).
+*   `[11:+tu]`: Dante.
+*   `[12:me]`: Currado Malaspina.
+*   `[13:+io]`: Currado Malaspina.
+*   `{14:Currado Malaspina}`: Currado Malaspina.
+*   `[15:+io]`: Currado Malaspina.
+*   `{16:l'antico}`: The ancient/ancestral Currado Malaspina.
+*   `[17:lui]`: The ancient Currado Malaspina (`{16:l'antico}`).
+*   `[18:+io]`: Currado Malaspina.
+*   `[19:+io]`: Currado Malaspina (the subject of the verb "portai").
+
+## Scene 121-132: Praise for the Malaspina
+**Scene Analysis: Praise for the Malaspina**
+
+**What happens:**
+Dante responds to Currado Malaspina's inquiry about the Val di Magra. Dante admits that he has never actually visited the lands of the Malaspina. However, he explains that he doesn't need to have been there to know of them, as the fame and honor of the Malaspina house are manifest throughout all of Europe. He notes that both the nobility ("the lords") and the common people ("the region") proclaim their virtue, such that even those who have never visited the area are aware of it.
+
+Dante goes so far as to swear that, if he successfully ascends the mountain of Purgatory, he will testify that the Malaspina family has never lost its reputation for generosity (the "purse") and courage (the "sword"). He concludes by stating that while the rest of the world may be twisted by corrupt leaders ("the wicked head"), the Malaspina family alone remains upright and despises the "evil path."
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `[2:lui]`: Currado Malaspina
+*   `[3:+io]`: Dante
+*   `[4:si]`: impersonal "one" (where one dwells)
+*   `[5:ei]`: the honors/fame of the Malaspina house (they are manifest)
+*   `{6:la vostra casa}`: The Malaspina family/house
+*   `{7:i segnori}`: The lords/nobility
+*   `{8:la contrada}`: The region/countryside
+*   `[9:chi]`: anyone/whoever
+*   `[10:io]`: Dante
+*   `[11:vi]`: Currado Malaspina (and his kin)
+*   `[12:io]`: Dante
+*   `{13:vostra gente onrata}`: The Malaspina family
+*   `[14:si]`: The Malaspina family
+*   `{15:Uso}`: Custom/Tradition
+*   `{16:natura}`: Nature
+*   `[17:la]`: The Malaspina family/house
+*   `{18:il capo reo}`: The corrupt/wicked leader
+*   `[19:+ella]`: The Malaspina family/house
+*   `[20:+ella]`: The Malaspina family/house
+
+## Scene 133-139: The Judge's Dismissal
+**Scene Analysis: The Judge's Dismissal**
+
+**What happens:**
+Following Dante's lavish praise of the Malaspina family, the souls (led by Judge Nin) politely but firmly dismiss him. They tell him it is time to move on, using a vivid astronomical metaphor: they warn him not to let the sun circle seven times (one week) in the "bed of the Ram" (the constellation Aries) while he lingers there. They remark that his "courteous opinion"—his high praise of their family—will be "nailed" into his head with bigger nails than any other speech if he doesn't continue his journey and "arrest" his course of judgment (a play on words referring to his role as a pilgrim/judge of characters). Essentially, they are telling him that he has said enough and must now proceed upward.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: The Malaspina souls (specifically Judge Nin and Currado, acting as a group).
+*   `[2:+tu]`: Dante.
+*   `[3:ti]`: Dante.
+
+# recap
+- Dante and Virgil are in the valley of Ante-Purgatory.
+- They have just finished their encounter with Sordello, Judge Nin, and Currado Malaspina.
+- The noble souls have urged Dante to stop lingering and proceed with his ascent of the mountain.

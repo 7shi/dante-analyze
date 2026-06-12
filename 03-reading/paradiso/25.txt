@@ -1,0 +1,284 @@
+# Canto 25 — The Vision of the Three Lights and the Revelation of Hope
+
+## Scene 1-12: Dante's Prologue
+**Scene Analysis**
+
+In these opening lines, the narrative pauses for a meta-textual reflection. Dante the Poet speaks directly to the reader, stepping back from the immediate action in the Empyrean to comment on the act of writing the *Divina Commedia* itself. 
+
+He describes the "sacred poem" as a massive undertaking involving both divine (heaven) and earthly (earth) inspiration, a process that has worn him down ("made me lean") over many years. He expresses a hope that this work will overcome the "cruelty" of his exile and the social/political opposition he faces. He envisions a spiritual and perhaps literal homecoming—returning to his baptismal font (his roots in Florence) as a transformed poet. He justifies this hope by referencing the event that just occurred in the previous canto: his successful entry into the community of faith, an achievement facilitated by Beatrice and sealed by the blessing of Saint Peter.
+
+**Tag Resolutions**
+
+*   `{1:cielo}`: Heaven (as a creative force/entity)
+*   `{2:terra}`: Earth (as a creative force/entity)
+*   `[3:m']`: Dante
+*   `[4:mi]`: Dante
+*   `[5:io]`: Dante
+*   `[6:li]`: The lambs/the faithful (those within the "bello ovile"/beautiful fold)
+*   `[7:+io]`: Dante
+*   `{8:poeta}`: Dante
+*   `[9:+io]`: Dante
+*   `{10:Dio}`: God
+*   `[11:io]`: Dante
+*   `{12:Pietro}`: Saint Peter
+*   `[13:lei]`: Beatrice
+*   `[14:mi]`: Dante
+
+## Scene 13-18: The Appearance of the Second Light
+In this scene, a second light emerges from the same celestial sphere that produced the first light (Saint Peter). This new light moves toward the group. Beatrice, filled with joy, calls Dante's attention to the arriving figure, identifying him as "the baron" for whom Galicia (in Spain) is visited—a clear reference to Saint James the Greater (Santiago), the patron saint of Spain and the figure associated with the pilgrimage to Santiago de Compostela.
+
+**Tag Resolutions**
+
+*   `{1:un lume}`: Saint James the Greater (appearing as a light)
+*   `[2:noi]`: Dante, Beatrice, and Saint Peter
+*   `{3:la primizia}`: Saint Peter (the "first fruit" or first light to appear)
+*   `{4:Cristo}`: Christ
+*   `{5:i vicari suoi}`: The vicars of Christ (the Apostles/the Popes)
+*   `{6:la mia donna}`: Beatrice
+*   `[7:+ella]`: Beatrice
+*   `[8:mi]`: Dante
+*   `[9:+tu]`: Dante
+*   `[10:+tu]`: Dante
+*   `{11:il barone}`: Saint James the Greater
+
+## Scene 19-24: Simile of the Two Princes
+In this scene, Dante employs a gentle, naturalistic simile to describe the interaction between the two apostolic figures. He compares the arrival of Saint James to two doves showing affection to one another through soft sounds and movements. This emphasizes the harmony, kinship, and mutual love existing among the blessed in the Empyrean. Dante observes Saint James being warmly received by Saint Peter, and the two engage in praising the divine "food" (the beatific vision of God) that sustains them.
+
+**Tag Resolutions**
+
+*   `[1:ïo]`: Dante
+*   `[2:l'un]`: Saint James the Greater (the newcomer)
+*   `[3:l'altro]`: Saint Peter (the one already present)
+*   `{4:principe glorïoso}`: Saint James the Greater
+*   `[5:+ella]`: Beatrice (acting as the guide/mediator of divine grace)
+*   `[6:li]`: The blessed souls (the saints/the community of the Rose)
+
+## Scene 25-33: Beatrice's Invocation of Hope
+In this scene, the interaction between Saint Peter and Saint James the Greater concludes. After their mutual exchange of greetings, both saints turn their attention toward Dante, their blinding celestial light overwhelming his vision. Beatrice, reacting with joy, addresses Saint James directly. She calls him "Illustrious life" and asks him to "ring the spear" (referring to his iconic attribute). She notes that he is depicted with this spear as many times as Jesus showed a special, intimate affection to the inner circle of three apostles (Peter, James, and John).
+
+**Tag Resolutions**
+
+*   `{1: 'l gratular }`: The act of congratulating (conducted by Saint Peter and Saint James)
+*   `[2:si]`: The act of congratulating
+*   `[3:me]`: Dante
+*   `[4:s']`: Saint Peter and Saint James (each of them)
+*   `[5:+ei]`: Saint Peter and Saint James (their collective light)
+*   `{6:Bëatrice}`: Beatrice
+*   `{7:Inclita vita}`: Saint James the Greater
+*   `[8:+tu]`: Saint James the Greater
+*   `[9:tu]`: Saint James the Greater
+*   `[10:+tu]`: Saint James the Greater
+*   `[11:la]`: the spear (*la spene*)
+*   `{12:Iesù}`: Jesus / Christ
+*   `{13:ai tre}`: The inner circle of three apostles (Peter, James, and John)
+
+## Scene 34-36: Beatrice's Command
+In this scene, Beatrice is speaking directly to Dante. He has been overwhelmed by the brilliance of the two apostolic lights (Saint Peter and Saint James), and Beatrice encourages him to lift his gaze. She provides a spiritual reassurance: she explains that any soul ascending from the mortal world to the Empyrean must be "matured" or perfected by the light (the "rays") of the blessed souls before they can fully withstand or comprehend the divine presence.
+
+**Tag Resolutions**
+
+*   `[1:+tu]`: Dante
+*   `[2:+tu]`: Dante
+*   `[3:+tu]`: Dante
+*   `[4:t']`: Dante
+
+## Scene 37-47: The Second Light's Inquiry
+In this scene, Dante describes the relief he feels following the words of the "second light" (Saint James the Greater). This comfort allows him to lift his gaze, which had previously been weighed down by the overwhelming brilliance of the celestial lights. Saint James then speaks directly to Dante, acknowledging that God has granted him the grace to face the Divine Presence and the highest assembly of heaven. He encourages Dante to use this experience to comfort himself and others and asks him to describe "the spear" (the symbol of spiritual zeal and apostolic power associated with James), explaining what it is, how it manifests in his mind, and how it came to be.
+
+**Tag Resolutions**
+
+*   `[1:mi]`: Dante
+*   `[2:io]`: Dante
+*   `[3:+egli]`: God
+*   `[4:tu]`: Dante
+*   `[5:t']`: Dante
+*   `{6:lo nostro Imperadore}`: God
+*   `{7:la morte}`: Death (as the threshold/entity overcome by the soul)
+*   `{8:suoi conti}`: The blessed souls/saints (the "counts" of God's court)
+*   `[9:+tu]`: Dante
+*   `[10:te]`: Dante
+*   `[11:+tu]`: Dante
+*   `[12:+tu]`: Dante
+*   `[13:ell']`: the spear (*la spene*)
+*   `[14:+tu]`: Dante
+*   `[15:+tu]`: Dante
+*   `[16:te]`: Dante
+
+## Scene 48-63: The Nature of Hope in the Church
+In this scene, the dialogue continues following Saint James the Greater's inquiry. Saint James (the second light) has just asked Dante about the "spear" of apostolic zeal. Before Dante can answer, Beatrice intercedes.
+
+Beatrice answers the first part of the question on Dante's behalf. She asserts that Dante possesses an extraordinary level of hope—more than any other "son" of the Church Militant (the community of believers still on earth). She explains this by using a biblical analogy: Dante has been granted the grace to travel from "Egypt" (the world of sin/mortality) to "Jerusalem" (the celestial city/the White Rose) to witness the divine presence before he even has to "fight" the battles of the Church Militant.
+
+Regarding the other two parts of Saint James's question—which are designed not to gain information, but to allow Dante to express the joy and pleasure he feels in this virtue—Beatrice steps aside. She leaves it to Dante to answer for himself, trusting that he will be humble and not boastful, and she prays that God's grace will enable him to speak.
+
+**Tag Resolutions**
+
+*   `{1:l secondo lume}`: Saint James the Greater
+*   `{2:quella pïa}`: Beatrice
+*   `[3:mi]`: Dante
+*   `{4:La Chiesa militante}`: The Church Militant (the faithful on Earth)
+*   `{5:Sol}`: God
+*   `[6:li]`: Dante
+*   `[7:+ei]`: Dante
+*   `[8:li]`: Dante
+*   `[9:t']`: Dante
+*   `[10:lui]`: Dante
+*   `[11:io]`: Beatrice
+*   `[12:elli]`: Dante
+*   `{13:Dio}`: God
+*   `[14:li]`: Dante
+
+## Scene 64-78: Dante's Scholarly Response
+In this scene, Dante answers Saint James the Greater's question regarding the nature of the "spear" (the symbol of Hope). Dante begins by employing a simile, comparing his current state to that of a student who answers a teacher eagerly and skillfully in a subject he has mastered, desiring to reveal his understanding.
+
+Dante defines "Hope" (the spear) as the "certain expectation of future glory," which attracts divine grace and creates prior merit. He explains that while this light of hope comes from many sources (the "many stars" of the blessed), a specific individual first distilled this hope into his heart: Virgil (the "supreme singer" of Augustus Caesar). Dante references Virgil’s poetry, noting that Virgil pointed the faithful toward God.
+
+Finally, Dante addresses Saint James directly. He explains that Saint James's own writings (the "epistle," referring to the Epistle of James) worked in tandem with Virgil's poetic influence to fill Dante with this grace. Consequently, Dante describes himself as being so full of this divine hope that he now overflows, sharing this "rain" of hope with others.
+
+**Tag Resolutions**
+
+*   `{1:discente}`: Dante (as the student)
+*   `{2:dottor}`: Saint James the Greater (as the teacher/doctor)
+*   `[3:+egli]`: Dante
+*   `[4:elli]`: Dante
+*   `[5:io]`: Dante
+*   `[6:mi]`: Dante
+*   `[7:quei]`: Virgil
+*   `{8:sommo cantor}`: Virgil
+*   `{9:sommo duce}`: Augustus Caesar
+*   `[10:+elli]`: the faithful / those who hope
+*   `[11:te]`: God
+*   `[12:+elli]`: Virgil
+*   `[13:color]`: the faithful / those who know God's name
+*   `[14:chi]`: those who do not know God's name
+*   `[15:elli]`: those who do not know God's name
+*   `[16:Tu]`: Saint James the Greater
+*   `[17:mi]`: Dante
+*   `[18:io]`: Dante
+
+## Scene 79-87: The Third Light's Command
+**Scene Analysis**
+
+While Dante is in the middle of his explanation about Hope (the "spear"), a third light suddenly emerges from within the existing celestial fire, appearing as a quick, flashing bolt of lightning. This third light (which, completing the inner circle of the three apostles, is Saint John) begins to speak. 
+
+Saint John speaks of the love he feels for the virtue (Hope) that accompanied him throughout his life, through his struggles ("the field"), and until his ultimate reward ("the palm"). He expresses a desire to share this feeling of love with Dante, noting that Dante also finds delight in this same virtue. Finally, Saint John asks Dante to describe what hope promises to him.
+
+**Tag Resolutions**
+
+*   `[1:io]`: Dante
+*   `[2:+ei]`: Saint John (the third light)
+*   `[3:ïo]`: Saint John
+*   `{4:la virtù}`: Hope (the virtue)
+*   `[5:mi]`: Saint John
+*   `[6:io]`: Saint John
+*   `[7:te]`: Dante
+*   `[8:ti]`: Dante
+*   `[9:lei]`: Hope (the virtue)
+*   `[10:+io]`: Saint John
+*   `[11:tu]`: Dante
+*   `[12:ti]`: Dante
+
+## Scene 88-96: Scriptural Identification of Hope
+In this scene, Dante responds to Saint John's inquiry by grounding the virtue of Hope in both classical and scriptural authority. He argues that the destiny of the blessed is foretold in the works of the nine Muses and the Holy Scriptures. Dante specifically cites the prophet Isaiah, who describes the blessed as wearing "double garments" in their own land—an image Dante interprets as the earthly life being a preparation for the heavenly one. He then tells Saint John that "your brother" (referring to Saint Peter) provides an even clearer explanation of this glory, specifically in references to the "white robes" (symbols of purity and salvation). This scriptural evidence, Dante concludes, makes the revelation of hope clear to all believers.
+
+**Tag Resolutions**
+
+*   `[1:io]`: Dante
+*   `[2:mi]`: Dante
+*   `{3:l}'anime`: The blessed souls (the saints)
+*   `{4:Dio}`: God
+*   `[5:s']`: God
+*   `{6:Isaia}`: Isaiah (the prophet)
+*   `[7:+ella]`: The blessed soul
+*   `{8:l tuo fratello}`: Saint Peter (addressed as the "brother" of Saint John)
+*   `[9:+egli]`: Saint Peter
+*   `[10:ci]`: Dante and the faithful (the community of believers)
+
+## Scene 97-99: The Heavenly Response
+In this short scene, the dialogue between Dante and Saint John concludes, and a divine intervention occurs. Immediately after Dante finishes speaking, a voice echoes from above the group, stating "Sperent in te" ("Let them hope in you"). This divine utterance is then echoed and affirmed by the surrounding community of the blessed souls, who are arranged in singing circles (*carole*). This moment serves as a celestial ratification of Dante's discourse on Hope, confirming that God is the ultimate object of all hope.
+
+**Tag Resolutions**
+
+*   `[1:te]`: God
+*   `[2:noi]`: Dante, Beatrice, Saint Peter, Saint James, and Saint John
+*   `{3:tutte le carole}`: The blessed souls (the saints of the Empyrean)
+
+## Scene 100-108: The Arrival of the Third Light
+In this scene, following the divine voice's utterance ("Sperent in te"), Dante describes the movement and brilliance of the third light (Saint John). Dante uses two similes to convey the quality of this light. First, he suggests the light is so intense that if the constellation Cancer possessed such a crystal, winter would be reduced to a single day. Second, he compares the movement of the light to a joyful virgin who joins a dance specifically to honor a novice. Just as the virgin's presence is an act of honor rather than a mistake, the brilliance of Saint John moves toward Saint Peter and Saint James, who turn to listen to the expression of their shared divine love.
+
+**Tag Resolutions**
+
+*   `[1:esse]`: Saint Peter and Saint James (the two lights already present).
+*   `[2:+ella]`: the happy virgin (a simile for Saint John).
+*   `[3:+ella]`: the happy virgin (a simile for Saint John).
+*   `[4:+ella]`: the happy virgin (a simile for Saint John).
+*   `{5:vergine lieta}`: the happy virgin (a simile for Saint John).
+*   `{6:la novizia}`: Dante (the "novice" in the celestial assembly).
+*   `[7:io]`: Dante.
+*   `{8:due}`: Saint Peter and Saint James.
+*   `[9:si]`: Saint Peter and Saint James.
+
+## Scene 109-114: Beatrice's Identification
+In this scene, the third light (Saint John) integrates himself into the celestial dance and song with Saint Peter and Saint James. Beatrice watches the three apostolic lights, remaining silent and still, described through a simile as a bride. Beatrice then speaks to Dante to identify the newcomer. She describes Saint John by referencing two specific biblical roles: first, as the "beloved disciple" who leaned on the breast of Christ (the "pelican") during the Last Supper, and second, as the one entrusted with the "great office" of caring for Mary at the foot of the Cross.
+
+**Tag Resolutions**
+
+*   `[1:+ei]`: Saint John
+*   `{2:la mia donna}`: Beatrice
+*   `[3:lor]`: Saint Peter, Saint James, and Saint John
+*   `{4:sposa tacita e immota}`: Beatrice
+*   `[5:Questi]`: Saint John
+*   `[6:colui]`: Saint John
+*   `{7:nostro pellicano}`: Christ/Jesus
+*   `[8:questi]`: Saint John
+
+## Scene 115-117: Beatrice's Silent Attention
+In this brief scene, Dante describes Beatrice's behavior after she has finished identifying Saint John. He notes that she remained attentive, her gaze fixed and unwavering, even after she had spoken her words. She is observing the interaction between Dante and the three apostolic lights (Saint Peter, Saint James, and Saint John), maintaining a state of focused, silent attention.
+
+**Tag Resolutions**
+* `{1:La donna}`: Beatrice
+* `[2:+ella]`: Beatrice
+
+## Scene 118-129: The Prophecy of the Two Lights
+In this scene, Dante uses a powerful simile to describe the physical and spiritual sensation of facing the brilliance of the Empyrean. He compares his experience to someone who attempts to watch a solar eclipse; by trying to see the sun, the observer is blinded. Dante explains that the "Third Light" (Saint John) had the same effect on him—his radiance was so intense that it dazzled him.
+
+Saint John then speaks to Dante, questioning why he is trying to "see" something that has no place in the Empyrean (referring to Dante's physical, mortal body). Saint John explains the nature of his own existence: his physical body has returned to the earth, and he now exists as a spirit among the other blessed souls, fulfilling the divine plan. He refers to the other two apostolic lights (Saint Peter and Saint James) as the "two lights" who ascended. Finally, Saint John tells Dante that he will carry this divine experience and revelation back to the mortal world.
+
+**Tag Resolutions**
+
+*   `[1:colui]`: A person (generic figure in a simile) who watches a solar eclipse.
+*   `[2:s']`: The person (generic figure in a simile) who watches a solar eclipse.
+*   `[3:mi]`: Dante.
+*   `[4:ïo]`: Saint John (the Third Light).
+*   `[5:+tu]`: Dante.
+*   `[6:t']`: Dante.
+*   `[7:+io]`: Saint John.
+*   `{8:li altri}`: The other blessed souls/saints.
+*   `{9:le due luci sole}`: Saint Peter and Saint James.
+*   `[10:+tu]`: Dante.
+
+## Scene 130-135: The Settling of the Heavens
+In this brief scene, Dante describes a transition from celestial harmony to silence. The "voice" mentioned in line 130 is that of Saint John, who has just finished speaking to Dante. Upon hearing this voice, the "infiammato giro" (the flaming circle of blessed souls) falls quiet. Along with it, the "dolce mischio" (sweet mixture/harmony) created by the "trino spiro" (the triple breath of the three apostles—Peter, James, and John) also ceases.
+
+To illustrate the suddenness and synchronicity of this silence, Dante uses a nautical simile. He compares the collective silence of the saints to a rowing crew: just as oars that were previously striking the water all stop simultaneously at the sound of a whistle to avoid further effort or danger, the celestial choir falls silent together.
+
+**Tag Resolution**
+*   `[1:+io]`: Dante (The narrator/poet, speaking as the subject of the simile's action—the one who was striking the oars into the water).
+
+## Scene 136-139: Dante's Final Vision
+In this final scene of Canto 25, the narrative concludes with a moment of sudden, emotional distress for Dante. After the silence that falls over the celestial choir, Dante turns his gaze toward Beatrice, only to find that he can no longer see her. He is deeply shaken by this sudden disappearance, especially since he knows he is still physically/spiritually right beside her in the "happy world" (the Empyrean). This creates a poignant cliffhanger, shifting the tone from the triumphant revelation of Hope to a sense of loss and disorientation.
+
+**Tag Resolutions**
+
+*   `[1:+io]`: Dante
+*   `[2:mi]`: Dante
+*   `[3:+io]`: Dante
+*   `[4:mi]`: Dante
+*   `{5:Beatrice}`: Beatrice
+*   `[6:io]`: Dante
+*   `[7:lei]`: Beatrice
+
+# recap
+- Dante, Beatrice, and the three apostles (Peter, James, and John) are together in the Empyrean.
+- The celestial choir has fallen silent following the discourse on the virtue of Hope.
+- Dante is suddenly distressed and disoriented because Beatrice has vanished from his sight.

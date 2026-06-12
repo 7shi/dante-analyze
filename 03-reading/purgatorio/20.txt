@@ -1,0 +1,317 @@
+# Canto 20 — The Prophecy of Ugo Ciappetta and the Catalog of Avarice
+
+## Scene 1-9: Navigating the Narrow Ledge
+In this opening scene of Canto 20, Dante reflects on the conclusion of his conversation with the Bishop of Savona. He notes that it is futile to fight against a "better will" (a superior desire or a necessary course of action). Consequently, despite his own inclinations, he does so to please the Bishop: he stops soaking the sponge in the water.
+
+Dante and Virgil then resume their journey. They are forced to walk in a very narrow space along the edge of the rocky cliff, comparing their movement to someone walking along a narrow wall toward the battlements. The reason for this tight squeeze is the presence of the souls condemned to the fifth terrace; these souls are lying face-down on the ground, weeping "drop by drop" (the "evil" of avarice manifesting as tears), and they occupy so much of the path that they nearly crowd Dante and Virgil off the ledge.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: Dante
+*   **[2:+io]**: Dante
+*   **{3:l duca mio}**: Virgil
+*   **[4:si]**: Virgil
+*   **[5:si]**: This is an impersonal pronoun ("as one goes"), but in the context of the simile, it refers to the manner in which Virgil (and Dante) is moving.
+*   **{6:la gente}**: The souls of the avaricious and prodigal
+*   **[7:s']**: The souls of the avaricious and prodigal
+
+## Scene 10-12: The Curse of the She-Wolf
+In this brief scene, Dante is reacting to the sight of the souls on the fifth terrace of Purgatory. Seeing the misery caused by the sin of avarice—represented by the souls lying face-down and weeping—Dante lets out a curse. He addresses the She-Wolf, the beast that first blocked his path in the opening of the *Inferno* and which serves as the allegorical symbol for Avarice. He condemns her for her insatiable greed and the destructive "prey" she has claimed throughout history.
+
+**Tag Resolutions:**
+* **[1:tu]**: The She-Wolf (the personification of Avarice)
+* **{2:antica lupa}**: The She-Wolf (the personification of Avarice)
+
+## Scene 13-15: Dante’s Cosmic Prayer
+In this brief scene, Dante shifts his focus from the wretched souls on the terrace and his curse against the She-Wolf to a higher, cosmic perspective. He addresses the heavens, reflecting on the astrological belief of his time—that the movement and rotation of the celestial spheres influence the conditions and fortunes of the earthly world ("down here"). 
+
+Dante is essentially asking when a celestial shift or divine intervention will occur to transform the corrupt state of the world, particularly the greed and political instability plaguing Italy. It is a moment of longing for a systemic change that only a divine or cosmic movement can bring.
+
+**Tag Resolutions:**
+
+*   **{1:ciel}**: The Heavens (the celestial spheres/the divine cosmic order)
+
+## Scene 16-24: The Women’s Lament
+In this scene, Dante and Virgil continue their slow and careful progress along the narrow ledge of the fifth terrace. Dante is listening intently to the sounds surrounding them—the mournful weeping and complaining of the souls condemned to this level of Purgatory. Suddenly, he hears a specific voice crying out to the Virgin Mary. The intensity and pain of this cry are compared to the screams of a woman in the throes of childbirth. The speaker of these words is lamenting the extreme poverty in which the Virgin Mary lived, specifically referencing the humble conditions of the place where she gave birth to her son.
+
+**Tag Resolutions:**
+
+* **[1:Noi]**: Dante and Virgil
+* **[2:io]**: Dante
+* **{3:l'ombre}**: The souls of the avaricious and prodigal
+* **[4:i']**: The souls of the avaricious and prodigal (The pronoun "i" here is the object "them," referring back to the shades)
+* **[5:lagnarsi]**: The souls of the avaricious and prodigal (While this is a verb, it refers to the entity performing the action of lamenting)
+* **[6:+io]**: Dante
+* **{7:Dolce Maria}**: The Virgin Mary
+* **[8:noi]**: Dante and Virgil
+* **{9:donna}**: A woman in childbirth (used in a simile)
+* **[10:+tu]**: The Virgin Mary
+* **[11:+tu]**: The Virgin Mary
+* **{12:il tuo portato santo}**: Jesus Christ
+
+## Scene 25-33: Praising the Virtuous
+In this scene, Dante hears a soul speaking to another. The speaker addresses a man named Fabrizio, praising him for choosing a life of virtuous poverty over a life of wealthy vice. Dante is so pleased by these words that he moves closer to identify who is speaking. As he approaches, he hears the spirit continuing to speak, this time praising the generosity of a man named Niccolò, who provided for "the maidens" (young women in need of dowries) to ensure they could enter adulthood with honor.
+
+**Tag Resolutions:**
+
+* **[1:+io]**: Dante
+* **{2:buon Fabrizio}**: Fabrizio (a soul on the fifth terrace)
+* **[3:+tu]**: Fabrizio
+* **[4:m']**: Dante
+* **[5:io]**: Dante
+* **[6:mi]**: Dante
+* **{7:quello spirto}**: The soul who is speaking (who will be identified as Ugo Ciappetta)
+* **[8:Esso]**: The soul who is speaking (Ugo Ciappetta)
+* **{9:Niccolò}**: Niccolò (specifically Niccolò degli Acciaiuoli, known for his charity)
+* **{10:le pulcelle}**: The poor maidens/young women assisted by Niccolò's generosity
+
+## Scene 34-39: Dante’s Inquiry
+In this scene, Dante is struck by the virtue and eloquence of the soul who has been praising Fabrizio and Niccolò. He steps forward to address the spirit directly, asking for two things: the soul's identity (who they were in life) and the reason why they are the only one among the suffering multitude to voice these praises. To encourage the soul to answer, Dante offers a promise: if he survives his journey and returns to the world of the living, he will ensure that the soul's words are not forgotten and that their "mercy" (the act of praising others) is rewarded by being shared with others.
+
+**Tag Resolutions:**
+
+*   **{1:anima}**: The soul who is speaking (later identified as Ugo Ciappetta)
+*   **[2:+tu]**: The soul who is speaking (Ugo Ciappetta)
+*   **[3:chi]**: The soul who is speaking (Ugo Ciappetta)
+*   **[4:+io]**: Dante
+*   **[5:tu]**: The soul who is speaking (Ugo Ciappetta)
+*   **[6:io]**: Dante
+
+## Scene 40-48: The Root of Corruption
+In this scene, the soul who has been praising others (who is identified as Ugo Ciappetta) responds to Dante’s inquiry. He explains that he is not speaking in hopes of receiving some reward or comfort from the afterlife, but rather because he recognizes the "grace" that shines in Dante while Dante is still among the living. 
+
+The soul then makes a startling confession: he admits that he was the "root of the evil plant"—meaning he was a primary source of the corruption (specifically simony and greed) that spread throughout the Christian world, stifling any "good fruit" (virtue). He then lists several corrupt individuals from his time—Doagio, Lilla, Guanto, and Bruggia—expressing a desire for them to be punished. He concludes by calling for this justice from the one who judges everyone (God).
+
+**Tag Resolutions:**
+
+* **[1:elli]**: The soul who is speaking (Ugo Ciappetta)
+* **[2:Io]**: The soul who is speaking (Ugo Ciappetta)
+* **[3:ti]**: Dante
+* **[4:io]**: The soul who is speaking (Ugo Ciappetta)
+* **[5:te]**: Dante
+* **[6:+io]**: Dante
+* **[7:Io]**: The soul who is speaking (Ugo Ciappetta)
+* **{8:Doagio}**: Doagio (a corrupt figure known to Ciappetta)
+* **{9:Lilla}**: Lilla (a corrupt figure known to Ciappetta)
+* **{10:Guanto}**: Guanto (a corrupt figure known to Ciappetta)
+* **{11:Bruggia}**: Bruggia (a corrupt figure known to Ciappetta)
+* **[12:io]**: The soul who is speaking (Ugo Ciappetta)
+* **[13:lui]**: God (the ultimate Judge)
+
+## Scene 49-60: The Rise of Ugo Ciappetta
+In this scene, the soul who has been praising others finally reveals his identity to Dante. He introduces himself as Ugo Ciappetta and explains his historical significance. He claims to be the progenitor of the Capetian dynasty, the royal line of France (the "Philippes and Louises"). 
+
+Ciappetta describes his humble origins as the son of a butcher in Paris. He recounts how, during a period of political collapse when the "ancient kings" had fallen, he seized the "reins of government." Through his political maneuvering, power, and network of allies, he was able to place his son on the "widowed crown" (the vacant or unstable French throne), thereby establishing the royal lineage of the subsequent French kings.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: Ugo Ciappetta
+*   **{2:Ugo Ciappetta}**: Ugo Ciappetta
+*   **[3:me]**: Ugo Ciappetta
+*   **{4:i Filippi}**: The Philippes (the kings of France from the Capetian line)
+*   **{5:i Luigi}**: The Louises (the kings of France from the Capetian line)
+*   **{6:Figliuol}**: Ugo Ciappetta
+*   **[7:io]**: Ugo Ciappetta
+*   **{8:un beccaio}**: Ugo Ciappetta's father
+*   **{9:li regi antichi}**: The ancient kings (the previous French dynasties/Carolingians)
+*   **[10:+io]**: Ugo Ciappetta
+*   **{11:la corona vedova}**: The French crown
+*   **{12:la testa di mio figlio}**: Ugo Ciappetta's son (Hugh Capet)
+*   **[13:costor]**: The Philippes and Louises (the French royal lineage)
+*   **{14:le sacrate ossa}**: The Philippes and Louises (the French royal lineage)
+
+## Scene 61-66: Conquest through Deceit
+In this scene, Ugo Ciappetta continues to recount the rise of the royal house he established. He mentions the "great Provençal dowry," noting that while it didn't erase the "shame" of his humble origins (being the son of a butcher), it was nonetheless beneficial or at least harmless. He then describes the aggressive expansion of the French monarchy, explaining how his descendants used force and deceit to seize vast territories, specifically mentioning Poitou, Normandy, and Gascony.
+
+**Tag Resolutions:**
+
+* **[1:+ella]**: The great Provençal dowry (la gran dota provenzale)
+* **[2:+ella]**: The great Provençal dowry (la gran dota provenzale)
+* **[3:+elli]**: The Philippes and Louises (the French kings/descendants of Ciappetta)
+* **[4:+elli]**: The Philippes and Louises (the French kings/descendants of Ciappetta)
+
+## Scene 67-72: The Fate of Leaders
+In this scene, Ugo Ciappetta continues his commentary on the influence of the French royal line (his descendants) on Italian politics. He reflects on the actions of Charles of Anjou, noting how Charles came to Italy and executed Conradin (the last of the Hohenstaufen line). He also mentions Thomas Aquinas, suggesting that Charles's actions or the era's turbulence sent the great philosopher back to heaven. 
+
+The scene then shifts from history to prophecy. Ciappetta claims to foresee a time in the near future when another "Charles" will emerge from France and enter Italy, seeking to increase the renown and power of himself and his kinsmen.
+
+**Tag Resolutions:**
+
+*   **{1:Carlo}**: Charles of Anjou (the brother of King Louis IX of France)
+*   **[2:+egli]**: Charles of Anjou
+*   **{3:Curradino}**: Conradin (the Hohenstaufen claimant to the throne)
+*   **[4:+egli]**: Charles of Anjou
+*   **{5:Tommaso}**: Thomas Aquinas
+*   **[6:io]**: Ugo Ciappetta
+*   **{7:un altro Carlo}**: Another Charles (a prophetic reference to a future leader of the house of Anjou, likely Charles Robert)
+*   **[8:sé]**: Another Charles (the same figure mentioned in tag {7})
+
+## Scene 73-78: The Prophecy of the New King
+In this scene, Ugo Ciappetta continues his prophecy regarding the "other Charles" (the future leader of the House of Anjou) mentioned at the end of the previous scene.
+
+Ciappetta predicts that this new Charles will enter Italy not with a traditional army ("Sanz' arme"), but wielding a metaphorical "spear." He explicitly compares this spear to the one used by Judas Iscariot, signaling that this leader's power will be rooted in betrayal and treachery rather than legitimate conquest. Ciappetta warns that this "spear" will cause devastating internal strife and ruin in Florence ("fa scoppiar la pancia").
+
+Ultimately, Ciappetta concludes that this venture will be a failure in the moral and spiritual sense: instead of gaining land or political territory, this Charles will only acquire "sin and shame." The gravity of his spiritual failure is compounded by his own indifference or lack of remorse regarding the damage he inflicts on others.
+
+**Tag Resolutions:**
+
+*   **[1:+ei]**: Another Charles (the prophetic future leader of the house of Anjou)
+*   **{2:Giuda}**: Judas Iscariot
+*   **[3:+ei]**: Another Charles
+*   **[4:sé]**: Another Charles
+*   **[5:+ei]**: Another Charles
+
+## Scene 79-84: The Price of Avarice
+In this scene, Ugo Ciappetta continues his prophecy regarding the corruption of the house he founded. He identifies another member of the Angevin line (the "other") who has departed by ship. Ciappetta describes a horrific act of greed: he sees this man selling and bargaining away his own daughter as if she were a slave being traded by pirates.
+
+This leads Ciappetta to a passionate lament against Avarice itself. He questions the limits of such greed, noting that the "blood" of his own lineage (his descendants) has been so drawn toward Avarice that a father has lost all natural affection and care for his own child (his "own flesh").
+
+**Tag Resolutions:**
+
+*   **{1:L'altro}**: Another leader of the house of Anjou (likely Robert of Anjou or a similar relative of the "other Charles").
+*   **[2:+io]**: Ugo Ciappetta.
+*   **{3:sua figlia}**: The daughter of "the other" ({1}).
+*   **[4:patteggiarne]**: The daughter of "the other" ({3}) (the pronoun "ne" refers to her).
+*   **{5:i corsar}**: Pirates (used in a simile).
+*   **{6:l'altre schiave}**: Other slaves (used in a simile).
+*   **{7:avarizia}**: Avarice (personified).
+*   **[8:tu]**: Avarice.
+*   **[9:c']**: Avarice/the power of greed (the force that has drawn the bloodline away).
+*   **{10:il mio sangue}**: Ugo Ciappetta's descendants (the Capetian/Angevin royal line).
+*   **[11:te]**: Avarice.
+*   **[12:+ei]**: The "other" Angevin leader ({1}).
+*   **[13:si]**: The "other" Angevin leader ({1}).
+*   **{14:la propria carne}**: The daughter of "the other" ({3}).
+
+## Scene 85-93: Visions of Future Corruption
+In this scene, Ugo Ciappetta continues his prophetic visions, moving from the personal failures of his descendants to a broader vision of political and spiritual corruption. He describes a future where the French monarchy (the house he founded) corrupts the highest office in Christendom: the Papacy.
+
+Ciappetta uses heavy religious allegory, mirroring the Passion of Christ to describe the degradation of the Church. He sees the "lily" (the symbol of France) entering the sphere of the Pope. He envisions this figure being mocked and suffering a death reminiscent of Christ (the vinegar, the gall, and the "thieves"), but in a perverse, political sense. Finally, he describes a "new Pilate"—a cruel, corrupt authority figure—who allows greed (the "cupide vele" or greedy sails/influence) to invade the Temple (the Church). This is a clear critique of the Avignon Papacy, where the Popes were seen as puppets of the French crown.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: Ugo Ciappetta
+*   **{2:lo fiordaliso}**: The French monarchy / a member of the French royal line (represented by the fleur-de-lis)
+*   **{3:nel vicario suo Cristo}**: The Pope (the Vicar of Christ)
+*   **[4:+io]**: Ugo Ciappetta
+*   **[5:+io]**: Ugo Ciappetta
+*   **{6:vivi ladroni}**: Living thieves (the corrupt people surrounding the "lily")
+*   **[7:+io]**: Ugo Ciappetta
+*   **{8:il novo Pilato}**: The "new Pilate" (a corrupt leader or judge; likely a reference to a corrupt Pope or French official overseeing the Church's degradation)
+
+## Scene 94-102: The Timing of Vengeance
+In this scene, Ugo Ciappetta concludes his prophetic discourse by shifting from historical and political analysis to a personal, spiritual plea and a reflection on the nature of hope and despair in Purgatory.
+
+First, Ciappetta addresses God directly. He asks when he will finally be allowed to witness the "hidden vengeance" of God—the divine justice that will punish the corrupt leaders and the greed-driven dynasty he previously described. He acknowledges that while God's wrath is currently concealed in His "secret" (His divine plan), it will eventually bring satisfaction to those who have suffered.
+
+Ciappetta then turns his attention back to Dante. He refers to his previous mentions of the Church (the "only spouse of the Holy Spirit") and acknowledges that something (perhaps divine providence or Dante's own innate grace) prompted Dante to turn toward him and listen to his story. 
+
+Finally, Ciappetta reflects on the emotional cycle of the souls on the fifth terrace. He observes that while their prayers seem to be answered or find some hope during the daylight hours, the mood shifts drastically as night falls, and they return to a "contrary sound"—the sounds of lamentation and the heavy reality of their penance.
+
+**Tag Resolutions:**
+
+*   **{1:Segnor}**: God
+*   **[2:io]**: Ugo Ciappetta
+*   **[3:io]**: Ugo Ciappetta
+*   **{4:quell' unica sposa}**: The Church (the Holy Catholic Church)
+*   **{5:lo Spirito Santo}**: The Holy Spirit
+*   **[6:ti]**: Dante
+*   **[7:me]**: Ugo Ciappetta
+*   **[8:+noi]**: The souls of the avaricious and prodigal (including Ugo Ciappetta)
+
+## Scene 103-117: A Catalog of Greedy Souls
+In this scene, Ugo Ciappetta describes the collective activity of the souls on the fifth terrace. He explains that they spend their time recounting the stories of infamous figures from history, mythology, and scripture who were consumed by greed. This "catalog of avarice" serves as a form of mutual penance and a warning, as they mock the folly of those who sacrificed everything—family, honor, and salvation—for the sake of gold.
+
+The souls reflect on Pygmalion (the king who killed his father for wealth), King Midas (whose greed led to a miserable "golden touch"), and Achan (who stole forbidden spoils during the conquest of Jericho). They also condemn Ananias (the husband of Sapphira), Eliodorus (who tried to rob the temple), and Polynestor (who murdered his son Polydorus). Finally, Ciappetta mentions the Roman general Crassus, famously the wealthiest man in Rome, who is mocked by the other souls with a cruel question about the "taste of gold" (a reference to the legend that the Parthians poured molten gold down his throat after his defeat).
+
+**Tag Resolutions:**
+
+*   **[1:Noi]**: The souls of the avaricious and prodigal (including Ugo Ciappetta)
+*   **{2:Pigmalïon}**: Pygmalion (the King of Cyprus who killed his father for gold)
+*   **{3:l'avaro Mida}**: King Midas
+*   **{4:folle Acàn}**: Achan
+*   **[5:si]**: The souls of the avaricious and prodigal (functioning as "everyone remembers")
+*   **[6:+ei]**: Achan
+*   **{7:Iosüè}**: Joshua
+*   **[8:lo]**: Achan
+*   **[9:+noi]**: The souls of the avaricious and prodigal (including Ugo Ciappetta)
+*   **{10:marito Saffira}**: Ananias (the husband of Sapphira)
+*   **[11:+noi]**: The souls of the avaricious and prodigal (including Ugo Ciappetta)
+*   **{12:Elïodoro}**: Eliodorus
+*   **[13:+ei]**: Polynestor
+*   **{14:Polinestòr}**: Polynestor
+*   **{15:Polidoro}**: Polydorus
+*   **[16:ci]**: The souls of the avaricious and prodigal (including Ugo Ciappetta)
+*   **{17:Crasso}**: Marcus Licinius Crassus
+*   **[18:+tu]**: Marcus Licinius Crassus
+
+## Scene 118-123: Dante’s Solitary Presence
+In this closing scene of Ugo Ciappetta's discourse, Ciappetta provides a final observation about the social dynamics of the souls on the fifth terrace. He explains that the souls converse with one another in varying tones—some loud, some soft—depending on their emotional state or the pace of their penance. 
+
+Ciappetta clarifies that while he was the one Dante heard speaking, he is not the only soul who engages in these discussions about virtue and the folly of greed throughout the day. However, he notes that in the immediate vicinity of where Dante and Virgil were standing, he happened to be the only one raising his voice at that moment.
+
+**Tag Resolutions:**
+
+*   **{1:l'uno}**: The souls of the avaricious and prodigal
+*   **{2:l'altro}**: The souls of the avaricious and prodigal
+*   **[3:ci]**: The souls of the avaricious and prodigal (including Ugo Ciappetta)
+*   **[4:si]**: The souls of the avaricious and prodigal (functioning as "we" or "they" in the act of reasoning together)
+*   **[5:io]**: Ugo Ciappetta
+*   **{6:altra persona}**: Other souls on the fifth terrace
+
+## Scene 124-132: The Trembling Mountain
+In this final scene of Canto 20, Dante and Virgil move away from Ugo Ciappetta and continue their climb. As they strive to make progress along the narrow path, the mountain of Purgatory suddenly trembles. This seismic event fills Dante with an intense, icy terror, which he compares to the fear felt by someone walking toward their own execution. To emphasize the magnitude of the shaking, Dante uses a mythological simile: he claims that even the island of Delos did not shake so violently before Latona (Leto) settled there to give birth to her children, Apollo and Artemis (referred to as "the two eyes of the sky").
+
+**Tag Resolutions:**
+
+*   **[1:Noi]**: Dante and Virgil
+*   **[2:esso]**: Ugo Ciappetta
+*   **[3:+noi]**: Dante and Virgil
+*   **[4:io]**: Dante
+*   **[5:mi]**: Dante
+*   **[6:colui]**: A person facing death (used in a simile)
+*   **{7:Latona}**: Latona (Leto)
+*   **{8:li due occhi del cielo}**: Apollo and Artemis (the children of Latona)
+
+## Scene 133-138: The Celestial Shout
+In this scene, a sudden and loud shout erupts from all directions across the mountain of Purgatory. Startled by the noise—following the terror of the earthquake in the previous scene—Dante is reassured by Virgil. Virgil turns to him and tells him not to be afraid or doubt as long as Virgil is the one guiding him. Dante realizes that the shout is actually a collective hymn of praise: the souls are all singing "Gloria in excelsis" (Glory to God in the highest). Dante is able to discern this because he listens to the souls in his immediate vicinity.
+
+**Tag Resolutions:**
+
+*   **{1:l maestro}**: Virgil
+*   **[2:me]**: Dante
+*   **[3:si]**: Virgil (reflexive pronoun: "turned himself")
+*   **[4:+tu]**: Dante
+*   **[5:io]**: Virgil
+*   **[6:ti]**: Dante
+*   **{7:Deo}**: God
+*   **[8:io]**: Dante
+*   **{9:vicin}**: The souls of the avaricious and prodigal (those near Dante)
+
+## Scene 139-144: Resuming the Path
+In this brief concluding scene of Canto 20, Dante and Virgil remain frozen in place, struck by the intensity of the earthquake and the subsequent celestial shout. Dante compares their state of awe and suspension to that of the biblical shepherds who first heard the angelic song announcing the birth of Christ.
+
+Once the shaking of the mountain stops and the hymn of praise concludes, Dante and Virgil resume their "holy journey" upward. As they move, they look down at the shades of the avaricious and prodigal, who have ceased their singing and returned to their perpetual penance: lying face-down on the ground and weeping.
+
+**Tag Resolutions:**
+
+*   **[1:No']**: This tag is placed on the contraction of *non*, but it refers to the implied subject of the verb *istavamo* ("we stood"): Dante and Virgil.
+*   **{2:i pastor}**: The shepherds (referencing the biblical account of the Nativity).
+*   **[3:+noi]**: Dante and Virgil.
+*   **{4:l'ombre}**: The souls of the avaricious and prodigal.
+
+## Scene 145-151: Dante’s Bewilderment
+In this scene, Dante reflects on his state of mind immediately following the earthquake and the celestial shout. He describes a profound sense of bewilderment, noting that he had never felt such an intense desire to understand something while being so completely ignorant of the cause. He reflects on how vast his lack of knowledge seemed to him in that moment. Despite this curiosity, he explains that he did not dare to ask Virgil for an explanation—likely due to the urgency of their ascent—nor could he see anything in his surroundings that would provide an answer. Consequently, he continues forward, feeling both timid and preoccupied.
+
+**Tag Resolutions:**
+* **[1:mi]**: Dante
+* **[2:+io]**: Dante
+* **[3:me]**: Dante
+* **[4:+io]**: Dante
+* **[5:+io]**: Dante
+* **[6:m']**: Dante
+
+# recap
+- Dante and Virgil are continuing their ascent through the fifth terrace of Purgatory.
+- They have just witnessed a violent earthquake and a collective hymn of praise from the souls.
+- Dante is left feeling bewildered and curious about the cause of these events as they move forward.

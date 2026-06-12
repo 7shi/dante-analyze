@@ -1,0 +1,458 @@
+# Canto 20 — The Celestial Lights and the Mystery of Divine Will
+
+## Scene 1-12: The Vision of the Heavens
+In this scene, Dante is observing a transition of sound and light. He uses a cosmic analogy to describe the shift from the Eagle’s singular, powerful voice to the collective singing of the souls in Jupiter. 
+
+He begins by describing a sunset: when the Sun descends and the day ends, the sky—which was previously illuminated only by the Sun—suddenly reveals a multitude of stars. Dante notes that this natural occurrence reminded him of the current moment: the Eagle (the "sign of the world") has stopped speaking, and as its voice falls silent, the countless souls (the "living lights") begin to sing.
+
+**Who does what:**
+*   **The Sun** (conceptually) sets, allowing the stars to appear.
+*   **The Eagle** stops speaking (its beak becomes silent).
+*   **The souls in Jupiter** begin to sing.
+*   **Dante** observes these events and makes the mental connection between the sunset and the change in the heavenly choir.
+
+**Who speaks:**
+Dante is the narrator; he is not speaking to anyone in these lines, but reflecting internally on the scene.
+
+**Resolution of tags:**
+*   `[1:colui]`: The Sun
+*   `[2:lui]`: The Sun
+*   `[3:mi]`: Dante
+*   `{4:l segno del mondo}`: The Eagle
+*   `{5:duci}`: The rulers/leaders of the world
+*   `{6:benedetto rostro}`: The Eagle (specifically its beak)
+
+## Scene 13-18: Reflection on the Angelic Lights
+In this short passage, Dante transitions from observing the silence of the Eagle to contemplating the nature of the light and joy surrounding him. He begins with an apostrophe (a direct address) to Divine Love, marveling at how this love manifests as an intense, burning passion within the holy spirits inhabiting the sphere of Jupiter. He then notes that the musical "blasts" (the singing) of these souls have come to an end.
+
+**Who does what:**
+*   **Divine Love** (the addressee) animates and "burns" within the souls, filling them with joy.
+*   **The souls (the "flames" and "pebbles")** are the vessels for this love; they stop their singing/trumpeting.
+*   **Dante** observes the visual splendor of the "sixth light" (Jupiter) and reflects on the divine love driving the experience.
+
+**Who speaks:**
+Dante is speaking/addressing Divine Love.
+
+**Resolution of tags:**
+*   `{1:dolce amor}`: Divine Love (God)
+*   `[2:t']`: Divine Love (God)
+*   `[3:+tu]`: Divine Love (God)
+*   `{4:que' flailli}`: The souls of the just rulers (visualized as flames)
+*   `{5:spirto sol di pensier santi}`: The souls of the just rulers
+*   `[6:io]`: Dante
+*   `[7:+elli]`: The souls of the just rulers (referred to as "cari e lucidi lapilli" or "dear and lucid pebbles/sparks")
+
+## Scene 19-27: The Sound of the Stream
+In this scene, Dante experiences a sensory shift. He hears a new sound that resembles the murmur of a clear stream flowing down over stones, reflecting the "abundance" or fullness of its source. 
+
+To describe the quality of this sound and how he interacts with it, Dante uses two musical analogies: he compares the sound to the way a note is shaped in the neck of a lyre or how air enters the opening of a bagpipe. Following this logic, Dante does not merely listen to the sound; he "ascends" it. He describes himself moving upward through this "spire" (*aguglia*) of sound, as if he were traveling through a hollow tube or pipe (*bugio*). This transition marks a movement from a state of observation to a state of active ascent within the divine harmony.
+
+**Who does what:**
+*   **Dante** hears the sound of the "stream" and then spiritually/physically ascends through the "neck" of this sound-spire.
+*   **The sound** (the "murmur") acts as the conduit through which Dante rises.
+
+**Who speaks:**
+Dante is the narrator, describing his own experience.
+
+**Resolution of tags:**
+*   `[1:mi]`: Dante
+*   `[2:+io]`: Dante
+
+## Scene 28-30: The Emergence of the Voice
+In this scene, the sensory experience of sound transitions into an experience of meaning. The "stream" of sound that Dante ascended culminates in the emergence of a voice. This voice manifests through the Eagle's beak as actual spoken words. These words are received by Dante’s heart, which has been waiting for this revelation, and he "writes" (records or engraves) these words within himself.
+
+**Who does what:**
+*   **The Eagle** (the celestial image) produces the voice and speaks the words.
+*   **The voice** emerges from the Eagle's beak.
+*   **Dante** receives these words in his heart, having waited for them, and "writes" (records) them internally.
+
+**Who speaks:**
+The Eagle is the speaker (the source of the voice), though Dante is the narrator describing the event.
+
+**Resolution of tags:**
+*   `{1:il core}`: Dante’s heart (Dante)
+*   `[2:io]`: Dante
+
+## Scene 31-36: The First Light: The Holy Spirit's Cantor
+In this scene, the sensory transition from the previous scene concludes, and Dante begins to speak. He addresses the Eagle (the celestial image), acknowledging his own nature as a mortal being.
+
+**Who does what:**
+Dante expresses a desire to gaze intently at the lights he is seeing. He reflects on the nature of his own physical existence, mentioning the "fires" (the vital spirits or intellect) that compose his mortal form and allow his eyes to see. He contrasts his own mortal composition with the lights of the souls in Jupiter, noting that these spirits are the highest in rank among all such lights.
+
+**Who speaks:**
+Dante is speaking to the Eagle.
+
+**Resolution of tags:**
+*   `[1:me]`: Dante (referring to his physical/mortal self).
+*   `[2:+io]`: Dante.
+*   `[3:si]`: The "part" of Dante that sees and feels (his mortal self).
+*   `[4:io]`: Dante.
+*   `[5:mi]`: Dante.
+
+## Scene 37-42: The Glory of the Cantor
+In this scene, the voice speaking through the Eagle identifies the first of the luminous souls that Dante is observing. The voice points out a specific light and identifies it as the "singer of the Holy Spirit." This is a reference to St. Gregory the Great (San Gregorio Magno). The voice explains that this soul is now experiencing a reward (merit) that is exactly proportional to the effectiveness and influence of his singing (his preaching and teaching) and his counsel.
+
+**Who does what:**
+*   **The Voice (from the Eagle)** identifies a specific soul for Dante.
+*   **St. Gregory the Great** (the soul) shines in the center of the vision and receives the divine reward for his earthly work.
+
+**Who speaks:**
+The Eagle's voice is speaking to Dante.
+
+**Resolution of tags:**
+*   `[1:Colui]`: St. Gregory the Great
+*   `[2:+elli]`: St. Gregory the Great
+*   `{3:il cantor de lo Spirito Santo}`: St. Gregory the Great
+*   `[4:+elli]`: St. Gregory the Great
+
+## Scene 43-48: The Second Light: The Widow's Comfort
+In this scene, the Eagle continues to guide Dante’s gaze, identifying the souls surrounding him. The Eagle describes a group of five lights (just rulers) that form a circle around Dante. The Eagle singles out one specific soul—the one positioned closest to the Eagle's beak—and reveals his earthly merit. This soul provided comfort to a grieving widow who had lost her son. The Eagle notes that this widow now (in the afterlife) understands the grave cost of failing to follow Christ, having experienced the contrast between the "sweet life" (divine bliss) and its opposite (suffering or sin).
+
+**Who does what:**
+*   **The five souls** circle around Dante.
+*   **The second light (the specific soul)** draws close to the Eagle's beak; in his earthly life, he consoled a widow.
+*   **The widow** received consolation from the soul and now possesses the knowledge of the cost of rejecting Christ.
+*   **The Eagle** speaks to Dante, identifying the soul and explaining the widow's realization.
+*   **Dante** listens and observes the lights.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:Dei cinque}`: The five souls of just rulers
+*   `[2:mi]`: Dante
+*   `[3:colui]`: The specific just soul (the second light)
+*   `[4:mi]`: Dante
+*   `[5:s']`: The specific just soul (the second light)
+*   `{6:la vedovella}`: The widow
+*   `[7:+elli]`: The specific just soul (the second light)
+*   `{8:del figlio}`: The widow's son
+*   `[9:+ella]`: The widow
+*   `{10:Cristo}`: Christ
+
+## Scene 49-54: The Third Light: The Penitent
+In this scene, the Eagle continues to guide Dante’s gaze around the circle of five lights, identifying the third soul. The Eagle explains that this particular soul delayed death in order to perform a true act of penance. Now, in the bliss of Jupiter, this soul understands a theological truth: while a "worthy prayer" on earth can change a person's fate (altering the "tomorrow" relative to "today" by granting salvation), the final, eternal judgment of God is immutable and does not change.
+
+**Who does what:**
+*   **The Eagle** speaks to Dante and identifies the third soul.
+*   **The third soul (the third light)** delayed death to repent and now possesses the understanding of the nature of divine judgment.
+*   **Death** (personified) delayed its arrival to allow for the soul's penance.
+*   **Dante** listens to the Eagle's explanation.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `[1:quel]`: The third soul (the third light/just ruler)
+*   `[2:+io]`: The Eagle
+*   `{3:morte}`: Death
+*   `[4:+ei]`: The third soul (the third light/just ruler)
+
+## Scene 55-60: The Fourth Light: The Good Intention
+In this scene, the Eagle continues to guide Dante through the circle of just rulers, identifying the fourth luminous soul. This soul is described as someone who acted with good intentions, yet those intentions led to a poor outcome ("bad fruit"). Specifically, the Eagle explains that this person yielded to the Pope (the "pastor") and "made himself Greek" (likely a reference to the ecclesiastical and political tensions between the Latin West and the Greek East during the Great Schism). Now, in the bliss of Jupiter, this soul understands a crucial theological point: an error in reasoning or a "bad deduction" does not harm the soul's eternal state as long as the underlying will (the "good operation") was virtuous. Even if the world were destroyed, the soul's salvation remains secure because God judges the intent of the heart.
+
+**Who does what:**
+*   **The Eagle** speaks to Dante, identifying the fourth soul and explaining the theological lesson associated with that soul's life.
+*   **The fourth soul (the fourth light)**, in his earthly life, yielded to the Pope and adopted Greek positions/alignments; now, he understands that his good intentions protected him from the negative consequences of his error.
+*   **The Pope ("the pastor")** is the authority to whom the soul yielded.
+*   **Dante** listens and observes.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:L'altro}`: The fourth soul (a just ruler)
+*   `[2:meco]`: The Eagle
+*   `{3:al pastor}`: The Pope
+*   `[4:+elli]`: The fourth soul
+*   `[5:si]`: The fourth soul
+*   `[6:+elli]`: The fourth soul
+*   `[7:li]`: The fourth soul
+
+## Scene 61-66: The Fifth Light: The Just King
+In this scene, the Eagle identifies the fifth and final soul in the circle of just rulers surrounding Dante. This soul is William II of Sicily (Guiglielmo). The Eagle explains that the land of Sicily mourns the loss of William's just rule, contrasting him with other rulers like Charles and Frederick. In the bliss of Jupiter, William now understands the depth of the love that Heaven has for a just king, and he is shown his own divine radiance.
+
+**Who does what:**
+*   **The Eagle** speaks to Dante, identifying the fifth light.
+*   **William II of Sicily** (the fifth light) exists in a state of bliss where he understands Heaven's love for just rulers and contemplates his own brilliance.
+*   **The land of Sicily** (personified as "that land") weeps for William.
+*   **Charles and Frederick** (other rulers) are mentioned as figures for whom the land also weeps (or whom the land weeps over), contrasting their rule with William's.
+*   **Heaven** loves the just king (William).
+*   **Dante** observes the light as described by the Eagle.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `[1:quel]`: The fifth soul (William II of Sicily)
+*   `[2:+tu]`: Dante
+*   `{3:Guiglielmo}`: William II of Sicily
+*   `{4:quella terra}`: Sicily
+*   `{5:Carlo}`: Charles (Charles I of Anjou)
+*   `{6:Federigo}`: Frederick (Frederick II)
+*   `[7:+elli]`: William II of Sicily
+*   `[8:s']`: Heaven (the reflexive subject of "falls in love")
+*   `{9:lo ciel}`: Heaven
+*   `{10:del giusto rege}`: William II of Sicily
+*   `[11:+elli]`: William II of Sicily
+*   `[12:il]`: The appearance/countenance of William's radiance (the *sembiante*)
+
+## Scene 67-72: The Fifth Light Revealed: Rifeyo
+In this scene, the Eagle continues its guided tour of the five luminous souls surrounding Dante. After identifying the previous souls, the Eagle now identifies the final soul in the circle. 
+
+The Eagle expresses a sense of irony or wonder, noting that people living in the "wandering world" (earthly existence) would find it unbelievable that Rhesus the Trojan—a pagan from the ancient world—is one of the "holy lights" in the sphere of Jupiter. The Eagle explains that Rhesus now possesses a profound understanding of divine grace, something invisible to those on Earth. However, the Eagle adds a theological nuance: while Rhesus knows much, his vision does not yet "discern the bottom," meaning that even in paradise, the full depth of God's grace is an infinite mystery that cannot be entirely exhausted by a created spirit.
+
+**Who does what:**
+*   **The Eagle** speaks to Dante, identifying the fifth light and commenting on the surprising nature of this soul's presence in Jupiter.
+*   **Rhesus the Trojan** is the soul being identified; he possesses a high degree of knowledge regarding divine grace, though his understanding is not absolute/infinite.
+*   **The people of the "wandering world"** (mankind on Earth) are mentioned as those who would be surprised by Rhesus's salvation.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `[1:Chi]`: The people of the world / humanity (specifically those on Earth).
+*   `{2:Rifëo Troiano}`: Rhesus the Trojan.
+*   `{3:la quinta de le luci sante}`: Rhesus the Trojan.
+*   `[4:+elli]`: Rhesus the Trojan.
+
+## Scene 73-78: Analogy of the Satisfied Bird
+In this scene, Dante uses a lyrical simile to describe the silence that follows the Eagle's long series of revelations. He compares the Eagle to a lark (*allodetta*) that flies high in the air, singing first, and then falling silent, completely satisfied by the "sweetness" of its own experience. Just as the lark's song culminates in a peaceful silence, the Eagle (which Dante calls "the image of the imprint of eternal pleasure") also falls silent. Dante reflects on the nature of this silence, noting that all creation is shaped by the desire for this eternal divine pleasure.
+
+**Who does what:**
+*   **The lark** (the analogical figure) sings and then becomes silent in a state of contentment.
+*   **The Eagle** (the "image of the imprint") falls silent, mirroring the lark.
+*   **Dante** observes the Eagle and makes the comparison to the lark.
+
+**Who speaks:**
+Dante is the narrator, describing his internal observation.
+
+**Resolution of tags:**
+*   `[1:+ella]`: The lark (*allodetta*)
+*   `[2:mi]`: Dante
+
+## Scene 79-84: Dante's Inquiry
+In this scene, Dante's patience reaches its limit. Despite being enveloped in the divine light (which he describes as being like glass that takes on the color of the light clothing it), he can no longer bear to wait in silence. He interrupts the stillness to ask the Eagle a question: "What are these things?" (referring to the luminous souls). The response—or perhaps the divine force behind the answer—hits him with a palpable weight, and in that moment, he witnesses a brilliant display of flashing lights.
+
+**Who does what:**
+*   **Dante** feels a deep sense of doubt and curiosity. He describes himself as being transparent like glass.
+*   **Dante** speaks up, asking the Eagle to identify the lights.
+*   **The Eagle** (or the divine force/voice of the Eagle) responds with such intensity that it "presses" or "weights" Dante down.
+*   **Dante** sees a great "celebration" of sparkling, flashing lights as a result.
+
+**Who speaks:**
+Dante speaks to the Eagle.
+
+**Resolution of tags:**
+*   `[1:io]`: Dante
+*   `[2:el]`: Dante (referred to via the metaphor of "glass" being clothed in color)
+*   `[3:+io]`: Dante
+*   `[4:queste]`: The lights/souls of the just rulers
+*   `[5:mi]`: Dante
+*   `[6:io]`: Dante
+
+## Scene 85-93: The Mystery of Essence
+In this scene, the Eagle (the celestial image) responds to Dante’s query about the nature of the luminous souls. The Eagle acknowledges that while Dante accepts the identities of these souls, he does so based on the Eagle's authority rather than through his own direct vision of their essence. The Eagle explains that there is a gap between knowing a "name" (the identification) and understanding the "quiddity" (the essential nature or "what-ness") of the thing. He advises Dante to be patient, as the essence of these divine truths is hidden and can only be revealed through the guidance of another.
+
+**Who does what:**
+*   **The Eagle** speaks to Dante, correcting his perception and explaining the difference between nominal knowledge and essential understanding.
+*   **Dante** listens and is the subject of the Eagle's observation; he believes the Eagle's words but lacks the vision to see the underlying reasons.
+*   **"Those who learn by name"** (a general group used in an analogy) serve as the example of people who know a thing exists but cannot perceive its essence without help.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:lo benedetto segno}`: The Eagle
+*   `[2:mi]`: Dante
+*   `[3:Io]`: The Eagle
+*   `[4:tu]`: Dante
+*   `[5:io]`: The Eagle
+*   `[6:+tu]`: Dante
+*   `[7:+tu]`: Dante
+*   `[8:quei]`: Those who learn things by name (generic learners/humanity)
+*   `[9:+egli]`: Those who learn things by name (referring back to the group in [8])
+
+## Scene 94-99: The Paradox of Divine Will
+In this scene, the Eagle explains a profound theological paradox regarding how the "Kingdom of Heaven" operates. The Eagle explains that the Kingdom is "overcome" or "suffers violence" from the ardent love and living hope of the saved souls. This love and hope "conquer" the Divine Will. However, the Eagle clarifies that this is not a conquest of force or dominance, like one person dominating another. Instead, the Divine Will *chooses* to be conquered; it allows itself to be "defeated" by the love of the souls, and in that act of surrender, the Divine Will actually triumphs through its own benevolence and kindness.
+
+**Who does what:**
+*   **Ardent love and living hope** (the feelings of the holy souls) "conquer" or "overpower" the Divine Will.
+*   **The Divine Will** allows itself to be overcome, and through this submission, expresses its own benevolence.
+*   **A man** (generic example) is compared to another man to illustrate how *human* victory (through dominance) differs from *divine* victory (through love).
+*   **The Eagle** explains this mystery to Dante.
+*   **Dante** listens to this explanation.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:l'omo}`: A man (generic human example).
+*   `{2:l'om}`: A man (generic human example).
+*   `[3:lei]`: The Divine Will.
+*   `[4:+ella]`: The Divine Will.
+*   `[5:+ella]`: The Divine Will.
+
+## Scene 100-105: The Nature of the First and Fifth Lights
+In this scene, the Eagle continues its theological explanation to Dante, addressing the specific reasons why Dante is amazed by the group of souls he is observing.
+
+**Who does what:**
+The Eagle points out that the first soul (St. Gregory) and the fifth soul (Rhesus) are the ones causing Dante the most wonder. The reason for this amazement is that they represent the two great divisions of humanity in relation to the coming of Christ. The Eagle explains that the "region of the angels" is mirrored in these souls. He corrects Dante's possible assumption about the nature of salvation: it is not just Christians who are saved, but also the Gentiles (Pagans). The Eagle asserts that both those who lived before Christ ("those who have passed") and those who live after Him ("those who are to pass") stand on a "firm faith" (or are anchored by the divine will), bridging the gap between the pre-Christian and Christian eras.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:La prima vita}`: St. Gregory the Great (the first light).
+*   `{2:la quinta}`: Rhesus the Trojan (the fifth light).
+*   `[3:ti]`: Dante.
+*   `[4:ne]`: The first and fifth lights (St. Gregory and Rhesus).
+*   `[5:+tu]`: Dante.
+*   `{6:li angeli}`: The angels.
+*   `[7:+tu]`: Dante.
+*   `{8:Gentili}`: The Gentiles/Pagans (those who lived before Christ).
+*   `{9:Cristiani}`: The Christians (those who lived after Christ).
+*   `{10:i passuri}`: Those who are to pass/future generations (the Christians).
+*   `{11:i passi}`: Those who have passed/past generations (the Pagans).
+
+## Scene 106-117: The Story of the First Light's Rebirth
+In this scene, the Eagle provides a concrete illustration of the paradox of Divine Will discussed in the previous scene—the idea that the "Kingdom of Heaven" can be "overcome" by ardent love and hope. To explain this, the Eagle tells a story of a soul who was originally in Hell. In the immutable laws of the afterlife, no one ever returns to a state of "good will" (salvation) once in Hell. However, through the "living effort" (intense, powerful prayers) of someone still alive who pleaded with God, this soul was miraculously returned to her physical body. During this brief second chance in the flesh, the soul placed her faith in God, which ignited a passionate, true love within her. Because of this transformation, when she died for the second time, she was now worthy to enter the celestial bliss of Jupiter.
+
+**Who does what:**
+*   **A living person** (unnamed) put great effort into prayers to God to save a soul.
+*   **God** responded to these prayers and returned a soul from Hell to her body.
+*   **The soul** (the "one from Hell") returned to her bones, believed in God's power to help her, and was filled with a fire of divine love.
+*   **The soul**, upon her "second death," ascended to the sphere of Jupiter.
+*   **The Eagle** narrates this example to Dante to explain the workings of Divine Mercy.
+*   **Dante** listens to the explanation.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `[1:una]`: The soul brought back from Hell
+*   `[2:si]`: A soul in Hell (impersonal/general)
+*   `[3:+ella]`: The soul brought back from Hell
+*   `{4:Dio}`: God
+*   `{5:L'anima glorïosa}`: The soul brought back from Hell
+*   `[6:si]`: The soul brought back from Hell (the subject of the current discussion)
+*   `[7:+ella]`: The soul brought back from Hell
+*   `[8:lui]`: God/Christ
+*   `[9:+ella]`: The soul brought back from Hell
+*   `[10:s']`: The soul brought back from Hell (reflexive: she ignited herself/was ignited)
+*   `[11:+ella]`: The soul brought back from Hell
+
+## Scene 118-126: The Story of the Second Light's Conversion
+In this scene, the Eagle continues its explanation of how the souls in Jupiter attained salvation despite their earthly circumstances. After telling the story of the first soul (the one brought back from Hell), the Eagle now describes the spiritual journey of the second light. 
+
+This soul was a pagan who, through a profound act of divine grace (described as a fountain so deep that no created being has ever reached its depths), directed all her love toward humanity ("down there"). Because of this selfless love, God responded by granting her a vision of the future redemption (the coming of Christ). Once she believed in Christ, she found the beliefs of paganism repulsive ("the stench of paganism") and spent the rest of her life rebuking and correcting the "perverse" pagans of her time.
+
+**Who does what:**
+*   **The second light (the soul)** received grace, loved humanity, believed in Christ's future redemption, abandoned paganism, and rebuked the pagans.
+*   **God** provided the grace and opened the soul's eyes to the truth of the future redemption.
+*   **The "perverse people" (the pagans)** were the targets of the soul's rebukes.
+*   **The Eagle** is narrating this history to Dante.
+*   **Dante** is listening.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:creatura}`: any created being (humanity/creation)
+*   `{2:Dio}`: God
+*   `[3:li]`: the second light (the soul)
+*   `[4:ei]`: the second light (the soul)
+*   `[5:+ei]`: the second light (the soul)
+*   `[6:+ei]`: the second light (the soul)
+*   `{7:le genti perverse}`: the pagans (the perverse people)
+
+## Scene 127-129: The Identity of the Three Women
+In this scene, the Eagle continues his theological explanation to Dante regarding the salvation of those who lived before the coming of Christ. He refers to three specific women whom Dante encountered earlier in his journey (specifically, the three women in *Purgatorio* Canto 27 who were waiting for baptism). The Eagle explains that these women were effectively "baptized" by the grace of Christ's coming, even though they lived more than a thousand years before the actual sacrament of baptism was established.
+
+**Who does what:**
+*   **The Eagle** is speaking and providing a clarification about the salvation of the "late-baptized" (those who lived before Christ).
+*   **The three women** are the subjects being discussed; they were spiritually baptized despite their antiquity.
+*   **Dante** is the listener, who is reminded of a vision he had earlier in his journey.
+
+**Who speaks:**
+The Eagle is speaking to Dante.
+
+**Resolution of tags:**
+*   `{1:Quelle tre donne}`: The three women (pre-Christian souls seen by Dante in Purgatory).
+*   `[2:li]`: The three women.
+*   `[3:tu]`: Dante.
+
+## Scene 130-132: A Lament on Predestination
+In this scene, Dante pauses to reflect on the mystery of predestination. After hearing the Eagle's explanations about how Divine Mercy can save souls in ways that seem paradoxical or impossible to human reasoning (like the soul returned from Hell or the salvation of pagans), Dante makes an exclamation. He addresses the concept of Predestination directly, lamenting how vast the distance is between the true "root" (the actual nature) of God's plan and the limited perspectives of humans who cannot fully perceive the "first cause" (God's overarching divine will).
+
+**Who does what:**
+*   **Dante** reflects on the incomprehensibility of Divine Providence and the inadequacy of human understanding.
+*   **The "First Cause" (God)** is the source of predestination, whose full nature remains hidden from those who view the world through limited human expectations.
+
+**Who speaks:**
+Dante is the speaker; he is addressing the concept of Predestination (an apostrophe).
+
+**Resolution of tags:**
+*   `{1:la prima cagion}`: God (the First Cause)
+
+## Scene 133-138: The Limits of Mortal Judgment
+In this scene, the Eagle (the celestial image) delivers a final, humbling lesson regarding the limits of human knowledge. He warns all mortal beings against the arrogance of judging who is saved and who is damned. 
+
+The Eagle explains a startling point: even the blessed souls in Paradise, who have reached the ultimate goal of seeing God, do not yet have full knowledge of the complete list of the "elect" (those saved by God). He suggests that there is a divine sweetness in this state of "not knowing," because it represents a perfect surrender. For the blessed souls, their own happiness is found in the total alignment of their will with the Divine Will; their greatest joy is wanting exactly what God wants.
+
+**Who does what:**
+*   **The Eagle** warns mortals to be cautious in their judgments and explains the nature of divine will.
+*   **Mortals** (on Earth) are the ones being warned to hold back their judgments.
+*   **The blessed souls (the "we")** observe God but acknowledge their limited knowledge of the full number of the saved.
+*   **God** is the source of the will that the blessed souls align themselves with.
+*   **The elect** are the souls chosen for salvation, whose full number is a mystery even to those in Heaven.
+
+**Who speaks:**
+The Eagle is speaking to Dante (addressing humanity generally).
+
+**Resolution of tags:**
+*   `[1:voi]`: Mortals / Humanity (including Dante)
+*   `{2:mortali}`: Mortals / Humanity (including Dante)
+*   `[3:noi]`: The blessed souls in Paradise
+*   `{4:Dio}`: God
+*   `[5:+noi]`: The blessed souls in Paradise
+*   `{6:li eletti}`: The elect (the saved souls)
+*   `{7:Iddio}`: God
+*   `[8:noi]`: The blessed souls in Paradise
+
+## Scene 139-141: The Healing Word
+In this short concluding scene, Dante reflects on the theological revelations he has just received. He describes the Eagle's explanation as a "sweet medicine" given to him to remedy his "short sight" (his limited human perspective and ignorance). The Eagle’s words have served as a spiritual cure, clearing away his confusion regarding the mysteries of Divine Will and the salvation of the souls in Jupiter.
+
+**Who does what:**
+* **The Eagle** (the "divine image") provides the "sweet medicine" (the knowledge/revelation).
+* **Dante** receives this "medicine," which clarifies his limited human understanding.
+
+**Who speaks:**
+Dante is the narrator, reflecting internally on the experience.
+
+**Resolution of tags:**
+* `{1:quella imagine divina}`: The Eagle
+* `[2:mi]`: Dante
+
+## Scene 142-148: The Harmony of Light and Word
+In this scene, Dante describes a moment of perfect harmony between sound and sight. He uses a musical analogy: just as a skilled zither player synchronizes the plucking of the strings with a singer's voice to enhance the beauty of the music, the visual movement of the souls in Jupiter was perfectly synchronized with the Eagle's voice. As the Eagle spoke, the "blessed lights" (the souls) flickered or moved their flames in time with the spoken words, like a rhythmic blinking of eyes.
+
+**Who does what:**
+*   **The Eagle** speaks, and its words are synchronized with the lights.
+*   **The two blessed lights (the souls)** move their flames in time with the Eagle's speech.
+*   **Dante** remembers this synchronization and describes it using the analogy of a singer and a zither player.
+
+**Who speaks:**
+Dante is the narrator, reflecting on his experience.
+
+**Resolution of tags:**
+*   `{1:buon cantor}`: A good singer (a generic figure used in the analogy).
+*   `{2:buon citarista}`: A good zither-player (a generic figure used in the analogy).
+*   `[3:e']`: The Eagle (the source of the voice).
+*   `[4:mi]`: Dante.
+*   `[5:io]`: Dante.
+
+# recap
+- Dante and the Eagle (accompanied by Beatrice) are in the sphere of Jupiter.
+- Dante has received a theological explanation of Divine Will and the salvation of those who lived before Christ.
+- He is observing the rhythmic synchronization between the Eagle's voice and the flickering lights of the just souls.

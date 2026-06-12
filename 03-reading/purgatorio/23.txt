@@ -1,0 +1,304 @@
+# Canto 23 — The Encounter with Forese and the Shadows of Limbo
+
+## Scene 1-6: The Father's Command
+In this scene, Dante is mesmerized by the inverted tree. He is staring intently into its green foliage, lost in curiosity, comparing himself to someone who wastes their life obsessively following birds. Virgil, acting as his guide and father figure, interrupts this distraction. He tells Dante that it is time to move on, as the time allotted for them to be in this place needs to be used more productively.
+
+Here is the resolution of the tags:
+
+- `[1:ïo]`: **Dante** (The narrator describing his own action of staring).
+- `[2:chi]`: **Bird-watchers** (A generic reference to people who waste their lives following birds, used here as a simile for Dante's distraction).
+- `{3:padre}`: **Virgil** (Dante's guide, whom he consistently refers to as his "father").
+- `[4:mi]`: **Dante** (The person Virgil is speaking to).
+- `{5:Figliuole}`: **Dante** (The "son" Virgil is addressing).
+- `[6:+tu]`: **Dante** (The person Virgil is telling to come along).
+- `[7:si]`: **Impersonal/General** (This is an impersonal reflexive construction meaning "it is desired" or "one wishes"; it refers to the general necessity or the divine schedule governing their journey rather than a specific character).
+
+## Scene 7-9: Following the Sages
+In this brief transition, Dante reacts immediately to Virgil's call. He turns away from the distracting, inverted tree and begins walking again. He follows his two guides, Virgil and Statius, who are engaged in a conversation. Because the guides are talking, Dante finds that following them requires no effort—their conversation makes the journey feel effortless and the pace easy.
+
+**Tag Resolutions:**
+- `[1:Io]`: **Dante** (The narrator describing his own action of turning away from the tree).
+- `{2:i savi}`: **Virgil and Statius** (The "sages" or "wise ones"; the two poetic guides accompanying Dante).
+- `[3:+elli]`: **Virgil and Statius** (The pronoun referring back to the sages).
+- `[4:mi]`: **Dante** (The person for whom the walking became effortless).
+
+## Scene 10-15: The Sound of Sorrow
+In this scene, as the trio continues their ascent, the silence is broken by a haunting sound—a mixture of singing and weeping. The lyrics include the Latin phrase "Labia mea, Domine" (My lips, O Lord), and the melody is so poignant that it evokes both pleasure and pain in the listener. Curious, Dante asks Virgil what this sound is. Virgil explains that these are the voices of spirits (shadows) who are in the process of completing their penance (solving the "knot" of their duty).
+
+**Tag Resolutions:**
+- `{1:Domine}`: **God** (The "Lord" being addressed in the prayer/song).
+- `{2:dolce padre}`: **Virgil** (Dante's guide, addressed with affection).
+- `[3:i']`: **Dante** (The "I" who hears the sound).
+- `[4:io]`: **Dante** (The narrator describing himself starting to speak).
+- `[5:elli]`: **Virgil** (The "he" who answers Dante's question).
+- `{6:Ombre}`: **The souls/spirits of the penitents** (The "shadows" on the terrace of Avarice whose voices are heard).
+
+## Scene 16-24: The Emaciated Crowd
+**Scene Analysis**
+
+In this scene, Dante describes the physical appearance and behavior of the spirits he encounters on the terrace of Avarice. He begins with a simile: he compares the situation to that of thoughtful pilgrims who, while traveling, encounter strangers. In the simile, the pilgrims look at the strangers, but the strangers do not stop. 
+
+Returning to the actual events, Dante explains that a "silent and devoted" crowd of souls is moving past him and his guides. These souls are moving more quickly than the trio. Dante provides a grim description of their physical state: their eyes are dark and hollow, their faces are pale, and they are so emaciated that their skin clings tightly to their bones (a physical manifestation of the fasting penance they must undergo to purge the sin of Avarice).
+
+**Tag Resolutions**
+
+- `{1:i peregrin pensosi}`: **Generic thoughtful pilgrims** (part of a simile describing a hypothetical encounter).
+- `{2:gente non nota}`: **Generic unknown people/strangers** (the people the hypothetical pilgrims encounter in the simile).
+- `[3:si]`: **The generic thoughtful pilgrims** (they are the ones turning to look at the strangers).
+- `[4:essa]`: **The generic unknown people/strangers** (referred to by the feminine singular "essa" because "gente" is a feminine singular noun in Italian).
+- `[5:+elli]`: **The generic unknown people/strangers** (they are the ones who do not stop).
+- `[6:noi]`: **Dante, Virgil, and Statius** (the group the souls are passing).
+- `[7:ci]`: **Dante, Virgil, and Statius** (the group being passed by the souls).
+- `{8:d'anime turba tacita e devota}`: **The crowd of penitent souls** (the spirits on the terrace of Avarice).
+- `[9:s']`: **The penitent souls** (the reflexive pronoun refers to the skin "shaping itself" to the bones; the entity possessing the skin is the soul).
+
+## Scene 25-30: Reflections on Hunger
+In this scene, Dante continues to reflect on the harrowing appearance of the souls on the terrace of Avarice. He is struck by how incredibly thin they are, using a mythological comparison to emphasize their emaciation. He recalls Erysichthon, a figure from Greek mythology who was cursed with an insatiable hunger that eventually led him to consume his own limbs. Dante observes that even Erysichthon, in his extreme hunger, did not look as "dried up" or skeletal as these penitent souls. 
+
+Dante then turns his thoughts toward a biblical/historical parallel. Looking at the gaunt, sorrowful faces of the crowd, he thinks to himself that they resemble the people of Jerusalem during the time of Christ's Passion—specifically those who lost their city—linking the physical suffering of the souls to the historical tragedy of the Jewish people during the time Mary kissed her son before the crucifixion.
+
+**Tag Resolutions:**
+
+- `[1:+io]`: **Dante** (The narrator expressing his disbelief at the level of emaciation).
+- `{2:Erisittone}`: **Erysichthon** (The mythological king of Thessaly cursed with eternal hunger).
+- `[3:+egli]`: **Erysichthon** (The "he" who feared hunger).
+- `[4:Io]`: **Dante** (The narrator speaking to himself).
+- `[5:me]`: **Dante** (The "myself" to whom he is speaking).
+- `{6:Maria}`: **Mary** (The mother of Jesus).
+- `{7:figlio}`: **Jesus** (The son of Mary).
+
+## Scene 31-39: The Scent of Temptation
+**Scene Analysis**
+
+In this scene, Dante provides a striking visual description of the penitent souls on the terrace of Avarice, followed by a reflection on the nature of their suffering. 
+
+He begins with a vivid anatomical observation: the souls' eye sockets are so sunken they look like "rings without gems." He then employs a clever linguistic metaphor: if a person were to "read" the word *omo* (man) in the faces of human beings, in these spirits they would clearly see the letter "m" (*emme*). This is a play on the physical appearance of the face—the two hollow eyes acting as the 'o's and the sunken bridge of the nose and cheeks forming the 'm'—essentially saying their faces have become skeletal diagrams of the word "man."
+
+Dante then shifts from visual description to rhetorical questioning. He expresses amazement at the psychological and physical power of the scents emanating from the inverted tree. He wonders how the mere smell of an apple or water could "govern" these souls so completely, triggering such an intense, agonizing craving (*brama*). He concludes by admitting that he is still in a state of wonder and confusion, as the exact cause of their extreme emaciation and "sad scale" (the dry, shriveled quality of their skin) has not yet been explained to him.
+
+**Tag Resolutions**
+
+- `[1:chi]`: **A generic observer** (A rhetorical "he" or "anyone" who would look at a face).
+- `{2:li uomini}`: **Men in general** (The general category of human beings).
+- `[3:+elli]`: **The generic observer** (Referring back to the person in tag `[1]` who reads the faces).
+- `[4:Chi]`: **A generic observer/Rhetorical "who"** (Dante posing a question to the reader or himself about who could believe such a thing).
+- `[5:+io]`: **Dante** (The narrator expressing his amazement).
+- `[6:li]`: **The penitent souls** (The emaciated spirits on the terrace of Avarice).
+
+## Scene 40-48: An Unexpected Encounter
+In this scene, Dante is suddenly noticed by one of the emaciated spirits in the crowd. A soul turns to look at him intently and cries out in surprise, asking what "grace" has allowed the soul to see Dante (since living people do not typically enter Purgatory). Dante admits that he would never have recognized the spirit by sight alone because the soul's face has been so ravaged and transformed by the penance of hunger. However, the sound of the spirit's voice acts as a "spark" that triggers Dante's memory. Through the voice, Dante is able to recognize the altered features of the face and realizes that the spirit is Forese, a fellow Florentine.
+
+**Tag Resolutions:**
+
+- `[1:me]`: **Dante** (The narrator, whom the shadow looks at).
+- `{2:un'ombra}`: **The penitent soul** (The "shadow" who notices Dante; later revealed to be Forese).
+- `[3:+ella]`: **The penitent soul** (The shadow/Forese; "ella" refers back to the feminine noun *ombra*).
+- `[4:+ella]`: **The penitent soul** (The shadow/Forese).
+- `[5:m']`: **The penitent soul** (Forese, speaking in the first person).
+- `[6:+io]`: **Dante** (The narrator reflecting on the lack of recognition).
+- `[7:l']`: **The penitent soul** (Forese, the one who would not have been recognized).
+- `[8:mi]`: **Dante** (The one to whom the identity became clear via the voice).
+- `[9:sé]`: **The penitent soul** (Forese; referring to the transformation his appearance had undergone).
+- `[10:mi]`: **Dante** (The one whose memory is rekindled).
+- `[11:+io]`: **Dante** (The narrator who finally recognizes the face).
+- `{12:Forese}`: **Forese** (The specific identity of the penitent soul).
+
+## Scene 49-54: Forese's Inquiry
+In this scene, Forese—having just recognized Dante—addresses him with a mixture of humility and eager curiosity. He begins by urging Dante not to focus on his own wretched physical condition; he tells Dante not to "contend" with or dwell upon the "dry scab" that discolors his skin or the severe lack of flesh on his body. Essentially, Forese asks Dante to look past the horror of his emaciated state.
+
+Turning the conversation toward the living world and the present company, Forese asks Dante to tell him the truth about his own life and circumstances. Furthermore, he is curious about the two figures accompanying Dante, asking who they are and why they are escorting him. He concludes with an emotional plea, begging Dante not to leave without giving him these answers.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: **Dante** (The person Forese is telling not to dwell on his appearance).
+- `[2:mi]`: **Forese** (The person whose skin is discolored).
+- `[3:+ei]`: **Forese** (The speaker who is praying/begging Dante).
+- `[4:io]`: **Forese** (The speaker who lacks flesh).
+- `[5:+tu]`: **Dante** (The person asked to tell the truth).
+- `[6:te]`: **Dante** (The person whose truth is requested).
+- `[7:+tu]`: **Dante** (The person being asked to identify the companions).
+- `[8:chi]`: **Virgil and Statius** (The identity of the two souls).
+- `[9:quelle]`: **Virgil and Statius** (The "those" referring to the companions).
+- `{10:due anime}`: **Virgil and Statius** (The two souls accompanying Dante).
+- `[11:ti]`: **Dante** (The person being escorted).
+- `[12:+tu]`: **Dante** (The person Forese asks not to leave).
+- `[13:tu]`: **Dante** (The person who is requested to speak).
+- `[14:mi]`: **Forese** (The person to whom the information should be spoken).
+
+## Scene 55-60: Dante's Grief
+In this scene, Dante responds to Forese’s inquiry. He expresses a deep, enduring sorrow for the soul; he notes that he wept when Forese died in the earthly world, and seeing Forese's skeletal, distorted face now in Purgatory causes him just as much pain. 
+
+Overcome by emotion and wonder, Dante asks Forese to explain what has caused his extreme emaciation (what "strips" him of his flesh). He admits that he is currently too overwhelmed by his feelings to speak coherently, noting a general truth that a person consumed by intense emotion or desire finds it difficult to find their words.
+
+**Tag Resolutions:**
+
+- `[1:io]`: **Dante** (The one who wept when Forese died).
+- `[2:mi]`: **Dante** (The one who currently feels pain/sorrow).
+- `[3:io]`: **Dante** (The narrator responding to Forese).
+- `[4:lui]`: **Forese** (The person to whom Dante is responding).
+- `[5:mi]`: **Dante** (The person asking to be told).
+- `[6:+tu]`: **Forese** (The person being asked to speak).
+- `{7:Dio}`: **God** (Invoked in the phrase "for God's sake").
+- `[8:vi]`: **Forese** (The person whose flesh is being "stripped" or wasted away).
+- `[9:mi]`: **Dante** (The person who is being asked not to be forced to speak yet).
+- `[10:+tu]`: **Forese** (The person Dante is asking not to press him).
+- `[11:io]`: **Dante** (The person experiencing wonder/amazement).
+- `[12:mi]`: **Dante** (The reflexive pronoun referring to his own state of wonder).
+- `[13:chi]`: **A generic person** (A rhetorical "he who" or "anyone who," used to make a general observation about the difficulty of speaking when overwhelmed by emotion).
+
+## Scene 61-75: The Cause of Torment
+In this scene, Forese answers Dante's question about why he and the other souls are so emaciated. He explains that the penance on the terrace of Avarice is governed by divine will ("the eternal counsel"). A divine power is infused into the inverted tree and its water, making the scents of the fruit and the spray of the water irresistible. 
+
+Forese explains that for those who lived their lives pursuing material desires beyond measure, this triggered craving for food and drink—coupled with the required fasting—is what purges them and makes them "holy" again. He notes that the rotating branches of the tree constantly refresh this craving. In a profound theological turn, Forese corrects himself: he calls this experience a "pain," but realizes it is actually a "pleasure." He reasons that the same longing and drive that lead the penitents toward the tree is the same kind of divine "will" or "desire" that led Christ to the Cross, where He cried out to God and saved humanity through His sacrifice.
+
+**Tag Resolutions:**
+
+- `[1:elli]`: **Forese** (The speaker addressing Dante).
+- `[2:me]`: **Dante** (The person Forese is speaking to).
+- `[3:io]`: **Forese** (The speaker describing his own emaciation).
+- `[4:m']`: **Forese** (The speaker referring to himself).
+- `{5:Tutta esta gente}`: **The penitent souls on the terrace of Avarice** (The crowd of avaricious spirits).
+- `[6:+ella]`: **The penitent souls** (Referring back to "tutta esta gente").
+- `[7:si]`: **The penitent souls** (Reflexive; they make themselves holy again).
+- `[8:io]`: **Forese** (The speaker).
+- `[9:+io]`: **Forese** (The speaker).
+- `[10:ci]`: **Forese and the other penitent souls** (The group driven by desire toward the trees).
+- `{11:Cristo}`: **Jesus Christ**.
+- `{12:Elì}`: **God** (Referencing the Aramaic cry of Christ on the cross, "Eli, Eli...").
+- `[13:+ei]`: **Jesus Christ** (The one who liberated humanity with His blood).
+
+## Scene 76-84: A Question of Time
+In this scene, Dante is surprised by Forese's presence so high up in Purgatory. He does some mental arithmetic, noting that Forese has been dead for less than five years. Given the amount of time usually required to purge one's sins, Dante is baffled that Forese has already ascended to the terrace of Avarice. He admits that he expected to find Forese "down below," still undergoing the process of spiritual restoration/purging.
+
+**Tag Resolutions:**
+
+- `[1:io]`: **Dante** (The narrator who is speaking).
+- `[2:lui]`: **Forese** (The person Dante is addressing).
+- `[3:+tu]`: **Forese** (The person who "changed worlds," i.e., died).
+- `[4:te]`: **Forese** (The person whose ability to sin ended at death).
+- `{5:Dio}`: **God** (The deity to whom the soul is restored through "good pain" or penance).
+- `[6:tu]`: **Forese** (The person Dante is asking how he arrived here so quickly).
+- `[7:Io]`: **Dante** (The narrator expressing his previous assumption).
+- `[8:ti]`: **Forese** (The person Dante expected to find in a lower region).
+- `[9:+ei]`: **Forese** (The "he" who would be undergoing restoration).
+- `[10:si]`: **Forese** (The reflexive pronoun referring back to Forese being restored/purged).
+
+## Scene 85-96: The Power of Prayer
+In this scene, Forese answers Dante's question about how he was able to ascend to the terrace of Avarice so quickly despite having died only a few years prior. Forese explains that his rapid progress is not due to his own merits, but rather the result of the intercession of his wife, Nella. He credits her devoted prayers and her heartfelt weeping for "pulling" him up from the lower regions of Purgatory where he would normally be expected to remain for much longer. Forese expresses his deep love for Nella and praises her exceptional virtue and modesty, comparing her favorably to the women of Barbagia in Sardinia (a region known for its ruggedness and traditional modesty), suggesting that Nella's purity far exceeds even that standard.
+
+**Tag Resolutions:**
+
+- `[1:elli]`: **Forese** (The speaker responding to Dante).
+- `[2:me]`: **Dante** (The person Forese is addressing).
+- `[3:+ella]`: **Nella** (Forese's wife, whose prayers helped him).
+- `[4:m']`: **Forese** (The one who was led/brought up).
+- `{5:la Nella mia}`: **Nella** (Forese's wife).
+- `[6:+ella]`: **Nella** (The one who drew him from the lower levels).
+- `[7:m']`: **Forese** (The one being drawn up).
+- `[8:+ella]`: **Nella** (The one who liberated him).
+- `[9:m']`: **Forese** (The one liberated from the other circles).
+- `{10:Dio}`: **God** (To whom Nella is dear).
+- `{11:la vedovella mia}`: **Nella** (Forese's "little widow").
+- `[12:+io]`: **Forese** (The one who loved her much).
+- `[13:+ella]`: **Nella** (The one who is singular in doing good).
+- `{14:le femmine sue}`: **The women of Barbagia** (The women of the Sardinian region used as a point of comparison).
+- `[15:io]`: **Forese** (The one who left his wife behind upon death).
+- `[16:la]`: **Nella** (The wife who was left behind).
+
+## Scene 97-114: A Prophecy of Florence
+In this scene, Forese takes advantage of the spiritual clarity he possesses in Purgatory to offer Dante a prophecy about the future of their home city, Florence. He asks Dante what he wishes to know, revealing that the future is already visible to him.
+
+Forese predicts a time of strict moral censorship in Florence, where "brazen" women will be forbidden from showing their cleavage (showing their breasts through their dresses). He mocks these women, suggesting they are more barbaric than Saracens, as they will require spiritual or other harsh disciplines to force them to cover themselves. He warns that if these women knew what "the fast-moving sky" (Fate/Providence) had in store for them, they would be screaming in terror. He specifically foretells that these women will be made miserable before a certain person—someone who is currently a child "consoling himself with a nurse's breast"—grows a beard (reaches adulthood/power).
+
+Finally, Forese urges Dante to stop being reserved or secretive. He points out that not only he, but the entire crowd of emaciated penitents on the terrace, is watching them with intense curiosity, waiting to hear Dante's news.
+
+**Tag Resolutions:**
+
+- `{1:dolce frate}`: **Dante** (addressed affectionately by Forese).
+- `[2:tu]`: **Dante** (the person Forese is asking).
+- `[3:io]`: **Forese** (the speaker).
+- `[4:m']`: **Forese** (the one who can see the future).
+- `{5:le sfacciate donne fiorentine}`: **The brazen women of Florence** (the subject of the prophecy).
+- `[6:+elle]`: **The brazen women of Florence**.
+- `{7:le svergognate}`: **The brazen women of Florence** (the "shameless ones").
+- `{8:'l ciel veloce}`: **The fast-moving sky** (a poetic reference to Fate, Providence, or the Divine Will).
+- `[9:loro]`: **The brazen women of Florence**.
+- `[10:+elle]`: **The brazen women of Florence**.
+- `[11:m']`: **Forese** (the speaker).
+- `[12:+elle]`: **The brazen women of Florence**.
+- `[13:colui]`: **An unnamed future figure** (a person currently an infant/child who will later grow a beard and hold power).
+- `[14:si]`: **The unnamed future figure**.
+- `{15:frate}`: **Dante**.
+- `[16:+tu]`: **Dante** (the person being urged to speak).
+- `[17:+tu]`: **Dante** (the subject of the verb "to hide").
+- `[18:mi]`: **Forese** (the person from whom Dante is allegedly hiding things).
+- `[19:ti]`: **Dante** (the reflexive pronoun; "don't you hide yourself from me").
+- `[20:+tu]`: **Dante**.
+- `[21:io]`: **Forese** (the speaker).
+- `{22:questa gente}`: **The penitent souls on the terrace of Avarice**.
+- `[23:+ella]`: **The penitent souls on the terrace of Avarice** (referring back to "gente").
+- `{24:'l sol}`: **The sun**.
+
+## Scene 115-123: Explaining the Companions
+In this scene, Dante responds to Forese's request for information about his companions and his own status. 
+
+Dante begins by appealing to their shared past, reminding Forese of the friendship and bond they had when they were both alive in Florence. He suggests that the memory of their earthly relationship makes the current encounter even more poignant and emotionally heavy.
+
+Dante then introduces his guides. He refers to Virgil as the one who "goes before" him and who first led him back toward the awareness of his own life (referring to the journey through the afterlife). He mentions the other companion—Statius—noting that he joined them "yesterday," timed with the appearance of the moon (which Dante poetically calls the "sister" of the sun).
+
+Finally, Dante clarifies the most shocking part of the encounter: that he is a living man. He points to himself and explains that Virgil has guided him through the "deep night" (the descent through Hell) and away from the "truly dead," and that he possesses "true flesh"—a physical, living body—which accompanies the spirit of Virgil.
+
+**Tag Resolutions:**
+
+- `[1:io]`: **Dante** (the narrator speaking).
+- `[2:lui]`: **Forese** (the person Dante is addressing).
+- `[3:tu]`: **Forese** (the person being asked to remember).
+- `[4:+tu]`: **Forese** (the person who was with Dante on earth).
+- `[5:meco]`: **Dante** (the "me" Forese was with).
+- `[6:io]`: **Dante** (the narrator).
+- `[7:teco]`: **Forese** (the "you" Dante was with).
+- `[8:mi]`: **Dante** (the person Virgil turned back toward life/awareness).
+- `[9:costui]`: **Virgil** (the guide leading the way).
+- `[10:mi]`: **Dante** (the person Virgil is guiding).
+- `[11:si]`: **The Moon** (the reflexive pronoun; the moon "showed itself").
+- `{12:la suora di [colui]}`: **The Moon** (described as the sister of the sun; "[colui]" refers to the Sun).
+- `[13:+io]`: **Dante** (the person pointing to his own living body).
+- `[14:costui]`: **Virgil** (the guide).
+- `[15:+ei]`: **Virgil** (the one who performed the act of leading).
+- `[16:m']`: **Dante** (the one being led).
+- `{17:i veri morti}`: **The truly dead** (the spirits of the afterlife).
+- `{18:questa vera carne}`: **Dante's living body** (his physical flesh).
+- `[19:'l]`: **Virgil** (the spirit whom Dante's living body accompanies).
+
+## Scene 124-129: Dante's Destination
+In this scene, Dante continues his conversation with Forese, explaining the purpose of his journey and the nature of the mountain they are climbing. He tells Forese that Virgil's guidance and encouragement have led him up Purgatory—the mountain designed to "straighten" or correct those, like Forese and his fellow penitents, who did wrong during their earthly lives. Dante further explains Virgil's ultimate goal: he is guiding Dante all the way to the place where Beatrice awaits. However, Dante notes the limitation of this guidance: once they reach that destination, Virgil (being a virtuous pagan) must depart and stay behind, as he cannot enter the celestial realm of Paradise.
+
+**Tag Resolutions:**
+
+- `[1:m']`: **Dante** (The person being led up the mountain by Virgil's encouragement).
+- `[2:voi]`: **Forese and the other penitent souls** (The "you" plural; those who are being "straightened" or corrected by Purgatory because they did wrong in the world).
+- `[3:+ei]`: **Virgil** (The guide who insists on accompanying Dante).
+- `{4:sua compagna}`: **Dante** (The "companion" of Virgil).
+- `[5:io]`: **Dante** (The narrator who will eventually reach Beatrice).
+- `{6:Beatrice}`: **Beatrice** (The woman awaiting Dante at the top of the mountain).
+- `[7:lui]`: **Virgil** (The person without whom Dante will proceed, or rather, the person whom Dante will eventually leave behind).
+- `[8:+ei]`: **Virgil** (The guide who must remain behind/depart at the boundary of Paradise).
+
+## Scene 130-133: Identifying the Guides
+In this scene, Dante introduces his two guides to Forese. First, he identifies Virgil, the guide who has been leading him and providing instruction. Dante physically points to Virgil to make the identification clear. Then, he introduces his second companion, Statius. Dante explains that Statius is the soul who had previously spoken from within the inverted tree, a voice that caused the foliage of the realm (the terrace of Avarice where Forese resides) to rustle.
+
+**Tag Resolutions:**
+
+- `{1:Virgilio}`: **Virgil** (The guide being identified).
+- `[2:questi]`: **Virgil** (The "this one" Dante is referring to).
+- `[3:mi]`: **Dante** (The person Virgil is speaking to/guiding).
+- `[4:+ei]`: **Dante** (The person doing the pointing).
+- `[5:lo]`: **Virgil** (The person being pointed to).
+- `[6:quest' altro]`: **Statius** (The second guide).
+- `{7:quell' ombra}`: **Statius** (The "shadow" who spoke from the tree).
+- `[8:+ella]`: **Statius** (Referring back to "quell' ombra"; the soul who caused the tree to shake by speaking).
+- `[9:sé]`: **Statius** (The soul who "clears" or departs from the tree/realm).
+
+# recap
+- Dante, Virgil, and Statius are on the terrace of Avarice, conversing with the emaciated soul of Forese.
+- Dante has just introduced his guides and revealed that he is a living man traveling toward Beatrice.

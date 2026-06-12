@@ -1,0 +1,275 @@
+# Canto 28 — The Parade of Mutilated Schismatics
+
+## Scene 1-6: The Inadequacy of Language
+In this opening scene, Dante pauses to reflect on the sheer horror of the sights he has just witnessed in the eighth bolgia. He is not speaking to Virgil, but rather addressing the reader (or reflecting as the narrator-poet) about the limitations of human expression. He argues that no amount of words could ever fully convey the extent of the blood and wounds he has seen; human language and the human mind simply lack the capacity ("poco seno," or "little breast/capacity") to encapsulate such grotesque suffering.
+
+**Reference Resolutions:**
+- `[1:Chi]` (Who): Any human being or poet attempting to describe these horrors (a rhetorical "anyone").
+- `[2:i']` (I): Dante.
+- `{3:Ogne lingua}` (Every tongue): All human languages/speakers.
+
+## Scene 7-21: Historical Precedents of Violence
+This scene is a continuation of Dante’s internal meditation on the limits of language. To illustrate just how grotesque the wounds in the eighth bolgia are, Dante creates a massive, hypothetical "comparison of carnage."
+
+**Plain English Summary:**
+Dante argues that even if a person were to gather every single victim of the bloodiest wars ever fought in Puglia—specifically mentioning the slaughter during the Norman conquests—the sum of all those historical wounds would still not equal the horror of the filth and mutilation found in the ninth bolgia. He references the historian Livy to establish the scale of historical violence and cites specific battles and figures (like Robert Guiscard and Alardo) to evoke the image of severed limbs and pierced bodies. Essentially: "If you took all the worst wounds in history, they wouldn't even come close to what I'm seeing here."
+
+**Reference Resolutions:**
+
+*   `[1:el]` (he/one): A hypothetical person who would gather the victims.
+*   `[2:s']` (himself/one): The same hypothetical person as `[1]`.
+*   `{3:Livïo}`: Livy (Titus Livius), the ancient Roman historian.
+*   `[4:quella]` (that [group/people]): The group of people (*la gente*) who suffered blows while fighting Robert Guiscard.
+*   `{5:Ruberto Guiscardo}`: Robert Guiscard, the Norman adventurer who conquered Southern Italy.
+*   `[6:l'altra]` (the other [group/people]): The other group of victims whose bones remain at Ceperano and Tagliacozzo.
+*   `{7:ciascun Pugliese}`: Every person from Puglia (specifically those involved in these conflicts).
+*   `{8:il vecchio Alardo}`: Old Alardo (a military leader/noble involved in the struggles of the region).
+*   `[9:+egli]` (he/one): The same hypothetical person/collector as `[1]` and `[2]`.
+
+## Scene 22-33: The Vision of Muhammad
+**Plain English Summary**
+Dante sees a soul in the ditch who has been brutally split open. The wound runs from the chin all the way down to the groin, so severely that the man's internal organs and intestines are hanging out between his legs. As Dante watches in horror, the soul notices him and deliberately pulls open his chest to show Dante the full extent of his mutilation. The soul identifies himself as Muhammad, explaining that he is "falling apart." He then points out another figure walking ahead of him, Ali, who is also severely mutilated with a gash running from his chin to his hairline.
+
+**Reference Resolutions**
+- `[1:+io]` (I): Dante.
+- `[2:io]` (I): Dante.
+- `[3:un]` (one): The unnamed soul (revealed in line 31 to be Muhammad).
+- `[4:+ei]` (he): The unnamed soul (Muhammad).
+- `[5:si]` (himself): The unnamed soul (Muhammad).
+- `[6:+ei]` (he): The unnamed soul (Muhammad).
+- `[7:si]` (himself): The unnamed soul (Muhammad).
+- `[8:lui]` (him): The unnamed soul (Muhammad).
+- `[9:+io]` (I): Dante.
+- `[10:m']` (me): Dante.
+- `[11:+ei]` (he): The unnamed soul (Muhammad).
+- `[12:+ei]` (his): The unnamed soul (Muhammad).
+- `[13:s']` (himself/his chest): The unnamed soul (Muhammad).
+- `[14:+tu]` (you): Dante (the person being spoken to).
+- `[15:io]` (I): Muhammad (the speaker).
+- `[16:mi]` (myself): Muhammad (the speaker).
+- `[17:+tu]` (you): Dante (the person being spoken to).
+- `{18:Mäometto}`: Muhammad.
+- `[19:me]` (me): Muhammad (the speaker).
+- `{20:Alì}`: Ali.
+
+## Scene 34-45: The Proclamation of Schism
+**Plain English Summary**
+In this scene, Muhammad continues speaking to Dante. He explains the nature of the punishment in this part of the eighth bolgia: everyone Dante sees here was a "sower of scandal and schism" during their earthly life, and as a result, they are physically split open. Muhammad describes a gruesome cycle: a demon follows the procession and uses a sword to re-open the gashes of every soul in the group as they traverse their painful path. The wounds heal just in time for the souls to return to the starting point, only to be sliced open again before the souls behind them catch up. Finally, Muhammad turns his attention to Dante, asking who he is and why he is lingering on the rocky ledge—wondering if Dante is simply trying to delay his own inevitable journey toward the punishment decreed for his own sins.
+
+**Reference Resolutions**
+- `{1:tutti li altri}`: The other souls inhabiting this ditch/bolgia.
+- `[2:tu]`: Dante.
+- `{3:seminator di scandalo e di scisma}`: The souls in this bolgia (the schismatics), including Muhammad and Ali.
+- `[4:+elli]`: The sowers of scandal and schism `{3}`.
+- `[5:+elli]`: The sowers of scandal and schism `{3}`.
+- `{6:Un diavolo}`: The demon who serves as the executioner in this bolgia.
+- `[7:n']`: The sowers of scandal and schism `{3}`.
+- `{8:questa risma}`: The crowd/group of mutilated souls in this bolgia.
+- `[9:+noi]`: Muhammad and the other souls in the ditch.
+- `{10:altri}`: Other souls following behind them in the procession.
+- `[11:tu]`: Dante.
+- `[12:chi]`: Dante (specifically his identity).
+
+## Scene 46-51: Virgil's Explanation
+**Plain English Summary**
+In this scene, Virgil responds to Muhammad's question about Dante's identity and why he is present on the ledge. Virgil clarifies that Dante is not a damned soul; he explains that death has not yet come for Dante, nor is he being led here by his own sins to be tormented. Instead, Virgil (who is dead) is guiding Dante through the various circles of Hell so that Dante can gain a complete and firsthand experience of the afterlife. Virgil concludes by asserting that everything he is saying is the truth.
+
+**Reference Resolutions**
+- `[1:'l]` (him): Dante.
+- `[2:'l]` (him): Dante.
+- `{3:l mio maestro}` (my master): Virgil.
+- `[4:tormentarlo]` (to torment him): Dante.
+- `[5:lui]` (him): Dante.
+- `[6:me]` (me): Virgil.
+- `[7:menarlo]` (to lead him): Dante.
+- `[8:io]` (I): Virgil.
+- `[9:ti]` (you): Muhammad.
+
+## Scene 52-63: The Prophecy to the Dolciniani
+**Plain English Summary**
+As Virgil finishes explaining that Dante is a living man, a crowd of more than a hundred mutilated souls stop in their tracks, momentarily forgetting their agony out of curiosity to look at him. Before moving on, Muhammad speaks again. He asks Virgil to deliver a message to Fra Dolcino (a radical religious leader of Dante's time). Muhammad warns Dolcino to arm himself and prepare provisions—specifically warning that he should not let the snows of winter allow the forces of Novara to claim an easy victory—unless Dolcino wishes to end up in Hell quickly. After delivering this prophecy, Muhammad lifts a foot to leave and stretches himself out on the ground to continue his miserable procession.
+
+**Reference Resolutions**
+- `[1:l']` (him): Virgil (whom the souls heard speaking).
+- `[2:s']` (they): The group of more than a hundred souls.
+- `[3:+tu]` (you): Virgil (the person Muhammad is asking to relay the message).
+- `{4:fra Dolcin}`: Fra Dolcino.
+- `[5:+ei]` (he): Fra Dolcino.
+- `[6:s']` (himself): Fra Dolcino.
+- `[7:tu]` (you): Fra Dolcino (Muhammad is now addressing the content of the message to Dolcino).
+- `[8:ello]` (he): Fra Dolcino.
+- `{9:Noarese}`: The people/forces of Novara.
+- `{10:Mäometto}`: Muhammad.
+- `[11:mi]` (me): Dante.
+- `[12:+ei]` (he): Muhammad.
+
+## Scene 64-75: The Second Mutilated Soul
+**Plain English Summary**
+In this scene, another mutilated soul steps forward to address Dante. This soul is severely disfigured: his throat is pierced, his nose is cut off up to his eyelashes, and he is missing one ear. Having stood with the rest of the crowd watching Dante in wonder, he moves ahead of the others and opens his "reed" (the gaping wound of his throat), which is raw and red. The soul recognizes Dante from their time on earth in Italy and, assuming his eyes are not deceiving him, asks Dante for a favor. He requests that if Dante ever returns to the plains between Vercelli and Marcabò, he should remember a man named Pier da Medicina.
+
+**Reference Resolutions**
+- `{1:Un altro}`: A second mutilated soul (the speaker).
+- `{2:li altri}`: The other souls in the procession.
+- `{3:li altri}`: The other souls in the procession.
+- `[4:+ei]`: The second mutilated soul `{1}`.
+- `[5:+ei]`: The second mutilated soul `{1}`.
+- `[6:tu]`: Dante.
+- `[7:io]`: The second mutilated soul `{1}`.
+- `[8:m']`: The second mutilated soul `{1}`.
+- `[9:tu]`: Dante.
+- `{10:Pier da Medicina}`: Pier da Medicina (a physician/scholar).
+- `[11:tu]`: Dante.
+
+## Scene 76-90: The Maritime Prophecy
+**Plain English Summary**
+
+In this scene, the second mutilated soul, Pier da Medicina, continues his request to Dante. He asks Dante to deliver a prophetic warning to two prominent men from Fano: Messer Guido and Angiolello. Pier predicts that these two men will be betrayed by a "wicked tyrant." According to the prophecy, the tyrant will lure them into a meeting, but instead, he will have them thrown from their ship and killed near the shrine of "la Cattolica."
+
+Pier emphasizes the cruelty of this act, stating that Neptune himself has never seen such a heinous crime, not even among the most notorious pirates or the deceptive people of Argos. He describes the traitor as a man who sees with only one eye and currently holds the land. Pier suggests that this traitor is the kind of person—like the damned souls currently surrounding Pier in Hell—who would wish to see Dante deprived of that land (or perhaps stripped of his life). The scene concludes with the warning that the tyrant will summon them to a meeting, after which their prayers and vows will be useless against the coming disaster.
+
+**Reference Resolutions**
+
+- `[1:+ei]`: Pier da Medicina (the speaker, referring to himself as the source of the message).
+- `{2:due miglior da Fano}`: Messer Guido and Angiolello.
+- `{3:messer Guido}`: Messer Guido.
+- `{4:Angiolello}`: Angiolello.
+- `[5:+elli]`: Messer Guido and Angiolello.
+- `{6:un tiranno fello}`: The wicked tyrant (the traitor who will kill Guido and Angiolello).
+- `{7:Nettuno}`: Neptune.
+- `{8:pirate}`: Pirates.
+- `{9:gente argolica}`: The people of Argos (the Argolians).
+- `{10:Quel traditor}`: The wicked tyrant `{6}`.
+- `[11:+ei]`: The wicked tyrant `{6}`.
+- `[12:tale]`: A person like the souls in this bolgia (a traitor/schismatic).
+- `[13:meco]`: Pier da Medicina.
+- `[14:+io]`: Dante.
+- `[15:+ei]`: The wicked tyrant `{6}`.
+- `[16:venirli]`: Messer Guido and Angiolello.
+- `[17:seco]`: The wicked tyrant `{6}`.
+- `[18:+ei]`: The wicked tyrant `{6}`.
+
+## Scene 91-99: The Identification of Curio
+**Plain English Summary**
+
+In this scene, Dante speaks to Pier da Medicina. Dante asks Pier to identify and explain who a particular soul is—one whom Dante observes with a "bitter" or sorrowful expression. Dante offers a motivation for this: if Pier wants Dante to carry news of him (Pier) back to the world of the living, he should cooperate and identify this silent figure.
+
+In response, Pier da Medicina does not simply speak; he physically reaches out and grabs the jaw of a companion soul, forcing the man's mouth open. Pier shouts that this man is the one Dante is asking about, but notes that the man does not speak. Pier explains that this soul, having been exiled, ended his doubts by throwing his lot in with Caesar, though he ultimately suffered harm as a result of this decision. (The soul is Curio, a Roman politician known for his shifting allegiances).
+
+**Reference Resolutions**
+
+- `[1:io]`: Dante.
+- `[2:lui]`: Pier da Medicina.
+- `[3:+tu]`: Pier da Medicina.
+- `[4:+tu]`: Pier da Medicina.
+- `[5:+tu]`: Pier da Medicina.
+- `[6:i']`: Dante.
+- `[7:te]`: Pier da Medicina.
+- `[8:chi]`: Curio (the silent soul).
+- `[9:colui]`: Curio (the silent soul).
+- `[10:+egli]`: Pier da Medicina.
+- `{11:un suo compagno}`: Curio.
+- `[12:+egli]`: Pier da Medicina.
+- `[13:li]`: Curio.
+- `[14:Questi]`: Curio.
+- `[15:+egli]`: Curio.
+- `[16:Questi]`: Curio.
+- `{17:Cesare}`: Julius Caesar.
+- `[18:+egli]`: Curio.
+
+## Scene 100-111: The Encounter with the Severed Hands
+**Plain English Summary**
+
+Dante reflects on the sight of Curio, noting how bewildered the soul seems and observing that his tongue has been cut off—a fitting punishment for someone who was once so bold and influential with his speech. 
+
+As Dante watches, another soul approaches. This man has had both of his hands severed. He lifts his bleeding stumps into the murky air, causing blood to splatter and stain his own face. This soul cries out to Dante, asking him to also remember a man named Mosca. Mosca describes himself as a "bad seed" for the people of Tuscany and recalls a specific phrase he used in life: "The Head (the leader) has done the deed."
+
+Dante responds to Mosca with a biting remark, adding, "And death of your own kin," referencing the fact that Mosca was killed by his own people. Overcome by this additional emotional pain on top of his physical suffering, Mosca retreats, wandering away like a man driven mad by sorrow.
+
+**Reference Resolutions**
+
+- `[1:mi]` (me): Dante.
+- `{2:Curïo}`: Curio.
+- `[3:un]` (one): The soul with severed hands (revealed to be Mosca).
+- `[4:+elli]` (he): Mosca.
+- `[5:+tu]` (you): Dante.
+- `[6:ti]` (you): Dante.
+- `{7:Mosca}`: Mosca.
+- `{8:Capo}` (The Head): The political leader/head of state whom Mosca served or manipulated.
+- `[9:io]` (I): Dante.
+- `[10:li]` (to him): Mosca.
+- `[11:elli]` (he): Mosca.
+- `[12:+elli]` (he): Mosca.
+- `{13:persona trista e matta}` (sad and mad person): Mosca.
+
+## Scene 112-126: The Human Lantern
+**Plain English Summary**
+In this scene, Dante continues to observe the crowd of mutilated souls. He pauses for a moment of internal reflection, admitting that he feels a sense of dread or hesitation in recounting the next sight on his own. However, he feels reassured by the "good company" (Virgil) and the purity of his own conscience, which gives him the courage to describe it.
+
+Dante then describes a truly surreal and grotesque sight: a headless torso walking in the same manner as the other souls in the "sad flock." This torso is carrying its own severed head by the hair, holding it aloft like a lantern. The head looks at Dante and Virgil and cries out in lament, "Oh me!" Dante marvels at the paradox of this soul, who has become his own light—simultaneously two entities (head and body) and one single soul. Dante concludes by noting that the one who governs the soul (God/Divine Justice) is the only one who truly understands how such a state is possible.
+
+**Reference Resolutions**
+
+- `[1:io]`: Dante.
+- `{2:lo stuolo}`: The crowd of mutilated souls.
+- `[3:+io]`: Dante.
+- `[4:io]`: Dante.
+- `[5:m']`: Dante.
+- `{6:la buona compagnia}`: Virgil.
+- `{7:l'uom}`: Dante (or a man in general, specifically referring to the poet's experience).
+- `[8:sentirsi]`: Dante (specifically his conscience feeling pure).
+- `[9:Io]`: Dante.
+- `[10:io]`: Dante.
+- `[11:'l]`: The headless torso/soul.
+- `{12:un busto sanza capo}`: The headless torso/soul.
+- `[13:+elli]`: The other souls in the bolgia.
+- `{14:li altri}`: The other souls in the bolgia.
+- `{15:la trista greggia}`: The crowd/flock of mutilated souls.
+- `{16:l capo tronco}`: The severed head of the soul.
+- `[17:pesol]`: The severed head.
+- `[18:quel]`: The severed head/soul.
+- `[19:noi]`: Dante and Virgil.
+- `[20:+ei]`: The severed head/soul.
+- `[21:me]`: The severed head/soul.
+- `[22:sé]`: The severed head/soul.
+- `[23:+egli]`: The severed head/soul.
+- `[24:sé]`: The severed head/soul.
+- `[25:+elli]`: The severed head and the headless torso (the soul as a whole).
+- `[26:quei]`: God (the Divine Governor/Justice).
+- `[27:+ei]`: The severed head/soul.
+
+## Scene 127-142: The Confession of Bertram
+**Plain English Summary**
+In this scene, the headless torso described in the previous scene reaches the foot of the bridge where Dante and Virgil are standing. To make himself heard, the soul lifts his arm high, holding his severed head close to Dante. The soul addresses Dante, pointing out the agony of the dead and challenging him to find any punishment as severe as this one. He asks Dante to carry news of him back to the living world and identifies himself as Bertram dal Bornio. 
+
+Bertram confesses his crime: he acted as an advisor to a young king and deliberately sowed discord between the king and his father, turning them against one another. He compares his treachery to the biblical betrayal of King David by Ahithophel and Absalom. Because he spent his life splitting apart people who should have been united, his eternal punishment is to be physically split apart—carrying his own head separated from his torso. He concludes by noting that his condition is a perfect example of *contrapasso* (the law of symbolic retribution).
+
+**Reference Resolutions**
+- `[1:+egli]`: The headless soul (Bertram dal Bornio).
+- `[2:+egli]`: The headless soul (Bertram dal Bornio).
+- `[3:+tu]`: Dante.
+- `[4:tu]`: Dante.
+- `{5:i morti}`: The dead souls in Hell.
+- `[6:+tu]`: Dante.
+- `[7:tu]`: Dante.
+- `[8:me]`: Bertram dal Bornio.
+- `[9:+tu]`: Dante.
+- `[10:i']`: Bertram dal Bornio.
+- `{11:Bertram dal Bornio}`: Bertram dal Bornio.
+- `[12:quelli]`: Bertram dal Bornio.
+- `{13:al re giovane}`: The young king (the son whom Bertram advised).
+- `[14:Io]`: Bertram dal Bornio.
+- `{15:il padre}`: The father (the older king).
+- `{16:'l figlio}`: The son (the young king).
+- `[17:sé]`: Each other (referring to the father and son).
+- `{18:Achitofèl}`: Ahithophel (the biblical counselor who betrayed David).
+- `{19:Absalone}`: Absalom (the biblical son who rebelled against David).
+- `{20:Davìd}`: King David.
+- `[21:io]`: Bertram dal Bornio.
+- `{22:persone}`: The joined persons (the father and son).
+- `[23:+io]`: Bertram dal Bornio.
+- `[24:me]`: Bertram dal Bornio.
+
+# recap
+- Dante and Virgil are together on the rocky ledge overlooking the eighth bolgia.
+- They have just concluded a conversation with the severed-head soul, Bertram dal Bornio.
+- The pair remains positioned above the procession of mutilated schismatics.

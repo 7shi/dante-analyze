@@ -1,0 +1,251 @@
+# Canto 09 — The Prophecies of the Two Celestial Lights
+
+## Scene 1-6: Memory of Carlo
+In this scene, the narrator (Dante) is speaking to a woman named Clemenza. He is recalling a past conversation he had with a man named Carlo.
+
+Dante explains that after Carlo had clarified certain matters for him, Carlo told him about the deceits and hardships that Carlo's own descendants (his "semenza") were destined to endure. However, Carlo commanded Dante to remain silent and let time pass (let the years move). Because of this command, Dante tells Clemenza that he cannot reveal the specifics of the prophecy, only that a "just weeping" (justified grief) will follow their losses.
+
+**Tag Resolutions:**
+- `{1:Carlo}`: Carlo
+- `{2:bella Clemenza}`: Clemenza
+- `[3:m']`: Dante
+- `[4:+elli]`: Carlo
+- `[5:mi]`: Dante
+- `[6:+elli]`: Carlo
+- `[7:+tu]`: Dante
+- `[8:+tu]`: Dante
+- `[9:io]`: Dante
+
+## Scene 7-12: Condemnation of Vanity
+In this scene, the narrator, Dante, observes a celestial movement and then transitions into a moral lament.
+
+**Narrative Summary:**
+Dante observes that the "holy light" (a celestial being or soul) has turned toward the Sun, which fills that light with its radiance, just as the Sun is the ultimate "Good" for all creation. Moved by this vision of divine alignment, Dante breaks into an exclamation of grief ("Ahi"), addressing the "deceived souls" of humanity. He condemns these souls for turning their hearts away from such a divine source of goodness and instead focusing their attention (their "temples" or brows) on vanity.
+
+**Tag Resolutions:**
+- `{1:quel lume santo}`: The holy light (the soul/light of the Cumaean Sibyl, whom they had just been speaking with).
+- `{2:al Sol}`: The Sun.
+- `{3:quel ben}`: The Sun (described here as the "good" that is everything to all things).
+- `{4:anime ingannate e fatture empie}`: The deceived souls and wicked deeds (the misguided souls of humanity).
+- `{5:sì fatto ben}`: The Sun (referring back to the divine "good" mentioned in tag 3).
+
+## Scene 13-18: Arrival of the First Light
+In this scene, a new soul arrives to interact with Dante. 
+
+A second "splendor" (a soul inhabiting the sphere of Venus) approaches Dante. This spirit communicates its willingness and desire to be helpful or pleasing to Dante not through words, but through the way its light brightens. While this is happening, Beatrice remains focused on Dante, looking at him with affection and approval, signaling that she agrees with Dante's desire to hear from this new spirit.
+
+**Tag Resolutions:**
+- `{1:un altro di quelli splendori}`: Another light/soul (a second spirit in the sphere of Venus).
+- `[2:+ella]`: Another light/soul (referring back to tag 1).
+- `[3:me]`: Dante.
+- `[4:si]`: Another light/soul (referring back to tag 2).
+- `{5:Bëatrice}`: Beatrice.
+- `[6:me]`: Dante.
+
+## Scene 19-24: Dante's Request
+In this scene, Dante addresses the new spirit that has just arrived. He asks the spirit to satisfy his curiosity and desire for knowledge, specifically asking for proof that he (Dante) can "reflect" or find the answers to his thoughts within the spirit's essence. In response, the light (the spirit) moves toward him, demonstrating its willingness and inclination to be helpful.
+
+**Tag Resolutions:**
+- `[1:+tu]`: The second light/soul (the blessed spirit)
+- `{2:beato spirto}`: The second light/soul (the blessed spirit)
+- `[3:+io]`: Dante
+- `[4:+tu]`: The second light/soul (the blessed spirit)
+- `[5:i']`: Dante
+- `[6:te]`: The second light/soul (the blessed spirit)
+- `[7:io]`: Dante
+- `{8:la luce}`: The second light/soul (the blessed spirit)
+- `[9:m']`: Dante
+- `[10:ella]`: The second light/soul (the blessed spirit)
+- `[11:+ella]`: The second light/soul (the blessed spirit)
+
+## Scene 25-42: The Tale of Cunizza
+In this scene, the second light (the blessed spirit) reveals its identity and provides a brief history of its earthly life and current state. 
+
+The spirit identifies herself as **Cunizza**. She describes her origins in a specific region of Italy (the Veneto region, mentioned by the Rialto, Brenta, and Piava rivers). She mentions a "torch" (a metaphor for a fiery or destructive person) who came from a hill in that area and caused great unrest; Cunizza explains that she and this "torch" share the same root (the same family lineage). 
+
+Cunizza explains that she now resides in the sphere of Venus because the light of this star "conquered" her (referring to the nature of love and desire associated with Venus). She accepts her fate with joy and is unbothered by it, despite how the "common people" (the vulgo) might perceive her life or her destiny. Finally, she asks Dante to consider a philosophical question: whether an "excellent man" should leave one life for another (possibly referring to the transition from earthly existence to spiritual existence, or a change in moral nature).
+
+**Tag Resolutions:**
+- `{1:una facella}`: The torch (a metaphor for a fiery ancestor/relative of Cunizza).
+- `[2:+io]`: Cunizza
+- `[3:io]`: Cunizza
+- `[4:ella]`: The torch (the ancestor mentioned in tag 1).
+- `{5:Cunizza}`: Cunizza
+- `[6:+io]`: Cunizza
+- `[7:+io]`: Cunizza
+- `[8:mi]`: Cunizza
+- `[9:me]`: Cunizza
+- `[10:+io]`: Cunizza
+- `[11:mi]`: Cunizza
+- `{12:vostro vulgo}`: Dante's people (the common crowd/society).
+- `[13:m']`: Cunizza
+- `[14:+io]`: Cunizza
+- `[15:+tu]`: Dante
+- `{16:omo eccellente}`: An excellent man (a general archetype of a virtuous or noble person).
+
+## Scene 43-51: Prophecy of Shifting Waters
+In this scene, Cunizza continues her discourse, shifting from her personal history to a series of prophecies concerning her homeland in the Veneto region. She observes that the people currently living in the lands between the Tagliamento and Adige rivers are oblivious to the coming changes. She mentions that the "torch" (the fiery relative mentioned in the previous scene) does not repent for having been beaten. 
+
+Cunizza then predicts a coming upheaval where the waters surrounding Vicenza will change or shift toward the marshes of Padua, a consequence of the cruelty and failure of the people to fulfill their duties. Finally, she mentions a specific ruler who reigns where the Sile and Cagnan rivers meet; she describes him as arrogant and haughty, but warns that a "web" is already being spun for him, implying that his downfall is inevitable.
+
+**Tag Resolutions:**
+- `{1:la turba presente}`: The people/crowd of the region (the inhabitants of the Veneto/Friuli area).
+- `[2:+ella]`: The torch (the fiery relative/ancestor mentioned in the previous scene).
+- `[3:si]`: The torch (the fiery relative/ancestor).
+- `{4:le genti crude}`: The cruel people (the inhabitants of the region failing in their duty).
+- `[5:tal]`: A certain lord/ruler (a prophesied figure ruling near the Sile and Cagnan rivers).
+- `[6:+lui]`: The lord/ruler.
+- `[7:lui]`: The lord/ruler.
+
+## Scene 52-63: Warning of Clerical Corruption
+In this scene, Cunizza continues her prophetic warnings, shifting her focus from political rulers to clerical corruption. She predicts a tragedy for the region of Feltro, caused by its "wicked pastor." This priest, described sardonically as "courteous," will be responsible for a massive bloodshed of the people of Ferrara—a slaughter so vast that a vat (bigoncia) could not hold the blood, and anyone attempting to weigh it would grow exhausted. 
+
+After describing this carnage, Cunizza reflects on the nature of the celestial spheres. She notes a discrepancy in terminology: while humans (like Dante) call the celestial lights "Thrones" (referring to the angelic hierarchy), the blessed souls see them as "mirrors" that reflect the light of God the Judge. This divine radiance confirms the truth of the prophecies she is delivering.
+
+**Tag Resolutions:**
+- `{1:empio suo pastor}`: The wicked pastor/priest of Feltro.
+- `[2:chi]`: A hypothetical person (whoever would weigh the blood).
+- `{3:questo prete cortese}`: The wicked pastor/priest of Feltro (the same person as tag 1).
+- `[4:voi]`: Dante (and by extension, humanity/people on Earth).
+- `[5:noi]`: The blessed souls in the sphere of Venus (including Cunizza).
+- `{6:Dio giudicante}`: God the Judge.
+
+## Scene 64-66: The Spirit's Reversion
+In this scene, the blessed spirit, **Cunizza**, concludes her discourse. She falls silent and gives Dante a sign to indicate that she is turning away to follow the rotation of the celestial sphere. She returns to the same position she occupied before she first approached Dante.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Cunizza
+- `[2:si]`: Cunizza
+- `[3:+ei]`: Cunizza
+- `[4:+ei]`: Cunizza
+- `[5:si]`: Cunizza
+- `[6:+ei]`: Cunizza
+
+## Scene 67-72: Appearance of the Second Light
+In this scene, after Cunizza has returned to her position in the celestial rotation, Dante shifts his attention back to Beatrice. He describes her as "the other joy," emphasizing her deep importance to him ("a dear thing"). He describes her appearance as a brilliant flash of light, comparing her to a clear crystal (balasso) struck by sunlight. 
+
+Dante then reflects on the nature of expression in Paradise versus Earth: he observes that in the celestial realms, joy is manifested as brightness and radiance (fulgor), whereas on Earth, joy is shown through a smile (riso) and sadness is manifested as a darkening of the outer appearance (the "shadow") mirroring a sad mind.
+
+**Tag Resolutions:**
+- `{1:L'altra letizia}`: Beatrice
+- `[2:m']`: Dante
+- `{3:cara cosa}`: Beatrice
+- `[4:+ella]`: Beatrice
+- `[5:mi]`: Dante
+- `[6:si]`: Beatrice (reflexive pronoun for "made herself [visible]")
+
+## Scene 73-81: Dante's Dialogue
+In this scene, Dante speaks to Cunizza, the blessed spirit who has just finished her prophecies. Dante acknowledges that because Cunizza is illuminated by God, her understanding is complete, and nothing of her own will or destiny is hidden from her. He then asks why her voice—which joins the eternal song of the Seraphim—did not fully satisfy his own intellectual desires or questions. He concludes by admitting that if he possessed the same level of self-insight that Cunizza has regarding him (i.e., if he saw himself as she sees him), he wouldn't have had to wait for her to speak or ask for her guidance.
+
+**Tag Resolutions:**
+
+- `{1:Dio}`: God
+- `[2:io]`: Dante
+- `{3:beato spirto}`: Cunizza
+- `[4:te]`: Cunizza
+- `{5:quei fuochi pii}`: The Seraphim (the six-winged angels)
+- `[6:io]`: Dante
+- `[7:io]`: Dante
+- `[8:m']`: Dante
+- `[9:tu]`: Cunizza
+- `[10:t']`: Dante (This is the object of the intuition; though the text says "t'", the context—comparing Dante's self-ignorance to Cunizza's insight into him—indicates this refers to Dante).
+
+## Scene 82-93: The Geography of the Great Valley
+In this scene, **Cunizza** responds to Dante's previous questions by describing her origins. She describes a vast geographical area—the "greatest valley" (referring to the region of Spain)—which extends between "discordant shores" across the sea. She identifies herself as having been a coastal inhabitant (*litorano*) of this land, specifically in the region between the Ebro and Macra rivers (the area that separates the Genoese and Tuscan spheres of influence/territories). She mentions a place called "Buggea" and reflects on the violent history of her homeland, noting that it once "warmed the port" with blood.
+
+**Tag Resolutions:**
+- `[1:+ei]`: The discordant shores (referring back to *discordanti liti*).
+- `[2:io]`: Cunizza
+- `{3:litorano}`: Cunizza
+- `[4:io]`: Cunizza
+
+## Scene 94-108: Identity and Divine Purpose
+In this scene, **Cunizza** continues her conversation with Dante, reflecting on the intensity of her earthly passions by comparing herself to legendary figures of love and longing.
+
+Cunizza mentions a soul named **Folco**, who told her about the people on Earth who knew her name. She notes a reciprocal recognition between them: Folco "imprinted" her presence in the celestial sphere, just as she did for him. 
+
+To illustrate the scale of her passion, Cunizza claims that she "burned" more intensely than the daughter of Belo (who longed for Sicheo and Creusa), the Rodopean woman deceived by Demofoonte, and even Alcide (Hercules) during his passionate love for Iole.
+
+Finally, she explains the perspective of the blessed souls in Paradise. Using Alcide (Hercules) as an example, she explains that he does not repent for his past passions (as they are no longer "faults" in the eyes of the saved), but instead laughs with joy. This joy comes from recognizing the Divine Providence (the "valor") that guided his life and the divine art that orchestrates the movement of the heavens and the soul's journey toward the Good.
+
+**Tag Resolutions:**
+- `{1:Folco}`: Folco
+- `[2:mi]`: Cunizza
+- `{3:quella gente}`: the people (who knew Cunizza's name)
+- `[4:me]`: Cunizza
+- `[5:+elli]`: Folco
+- `[6:s']`: Folco
+- `[7:io]`: Cunizza
+- `[8:lui]`: Folco
+- `{9:la figlia di Belo}`: the daughter of Belo
+- `{10:Sicheo}`: Sicheo
+- `{11:Creusa}`: Creusa
+- `[12:me]`: Cunizza
+- `[13:+ella]`: the daughter of Belo
+- `[14:si]`: the daughter of Belo
+- `{15:quella Rodopëa}`: the Rodopean woman
+- `{16:Demofoonte}`: Demofoonte
+- `{17:Alcide}`: Alcide (Hercules)
+- `{18:Iole}`: Iole
+- `[19:+elli]`: Alcide (Hercules)
+- `[20:+elli]`: Alcide (Hercules)
+- `[21:si]`: Alcide (Hercules)
+- `[22:+elli]`: Alcide (Hercules)
+- `[23:si]`: Alcide (Hercules)
+- `[24:+elli]`: Alcide (Hercules)
+- `[25:si]`: Alcide (Hercules)
+- `[26:+elli]`: Alcide (Hercules)
+
+## Scene 109-126: The Legacy of Raab
+This scene takes place as a continuation of the dialogue between the blessed spirit **Cunizza** and **Dante**.
+
+Cunizza informs Dante that although his current desires and questions (which were "born in this sphere" of Venus) have been satisfied, he must still proceed further in his journey. She notices that Dante is curious about another brilliant light sparkling nearby. 
+
+Cunizza identifies this light as **Raab**. She explains that Raab is integrated into their celestial order and holds a high rank. She provides a theological and historical detail: Raab was the first soul to be assumed into the heavens, occurring even before the triumph of Christ. Cunizza argues that it was fitting for Raab to be placed in a sphere associated with victory (signified by the "palm"), because Raab aided **Joshua** in his first victory in the Holy Land—a historical fact that Cunizza notes is largely forgotten by the **Pope** and the modern church.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: Dante
+- `[2:mi]`: Dante (The speaker, Cunizza, is telling Dante that it is necessary for *him* to proceed)
+- `[3:Tu]`: Dante
+- `[4:chi]`: Raab
+- `[5:me]`: Cunizza
+- `[6:+tu]`: Dante
+- `[7:si]`: Raab
+- `{8:Raab}`: Raab
+- `[9:lei]`: Raab
+- `[10:+ella]`: Raab
+- `[11:si]`: Raab
+- `{12:l'ombra}`: The Moon (The first sphere, which forms the boundary of the earthly world)
+- `[13:s']`: The Moon
+- `{14:altr' alma}`: Any other soul
+- `{15:Cristo}`: Christ
+- `[16:lei]`: Raab
+- `[17:ella]`: Raab
+- `{18:Iosüè}`: Joshua
+- `{19:al papa}`: The Pope
+
+## Scene 127-142: Prophecy of Roman Liberation
+In this scene, the blessed spirit **Raab** speaks to **Dante**, delivering a stern prophecy and a critique of the contemporary state of the Church and the city of Florence.
+
+Raab begins by addressing Dante's city (Florence), noting that it was founded by those who had turned away from their Creator. She warns that Florence is currently producing a "cursed flower"—a metaphor for corrupt leadership or political strife—that misleads the faithful (the "sheep and lambs") because the spiritual leader (the shepherd) has turned into a wolf.
+
+She then laments the intellectual and spiritual decay of the Church: the Gospel and the teachings of the great Church Fathers are ignored in favor of the *Decretals* (Canon Law), which the clergy study not for spiritual guidance, but as a means of making a living (profit). She explicitly identifies the Pope and the Cardinals as the ones driving this materialism, noting that they have forgotten the humility and purity associated with Nazareth and the Annunciation.
+
+Finally, Raab predicts a liberation for Rome. She mentions the Vatican and other holy sites that have served as cemeteries for the martyrs who followed St. Peter, prophesying that these places will soon be freed from "the adulterer"—a derogatory reference to the corrupt Pope who has betrayed his spiritual marriage to the Church.
+
+**Tag Resolutions:**
+- `[1:colui]`: The Roman founder (the Romans/Augustus)
+- `{2:suo fattore}`: God (the Creator)
+- `{3:del pastore}`: The shepherd (the Pope/Church leadership)
+- `{4:i dottor magni}`: The great doctors (the Church Fathers)
+- `{5:il papa}`: The Pope
+- `{6:' cardinali}`: The Cardinals
+- `{7:Gabrïello}`: Gabriel (the archangel)
+- `{8:la milizia}`: The militia (the martyrs and holy followers of Peter)
+- `{9:Pietro}`: St. Peter
+- `{10:l'avoltero}`: The adulterer (the corrupt Pope)
+
+# recap
+- Dante and Beatrice remain together in the sphere of Venus.
+- They have just finished a conversation with the blessed spirit Raab, who delivered a stern prophecy regarding the corruption of the Church and the liberation of Rome.

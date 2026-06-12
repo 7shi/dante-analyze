@@ -1,0 +1,230 @@
+# Canto 17 — The Prophecy of Exile and the Vision of the Great Lombard
+
+## Scene 1-6: The Mythological Parallel
+In this scene, Dante uses a mythological analogy to describe his state of mind and his relationship with Beatrice. He compares himself to Phaethon, the son of the Sun (Helios). In the myth, Phaethon travels to his father's realm to confirm his divine lineage. Similarly, Dante feels a pressing need to know the truth about his fate and the destiny of Florence. He describes how his longing and anxiety were perceived by Beatrice.
+
+Here is the resolution of the tags:
+
+- {1:Climenè}: **Climenes** (the father of Phaethon).
+- [2:sé]: **Phaethon** (the son who came to Climenes to confirm his parentage).
+- [3:quei]: **Phaethon**.
+- {4:li padri}: **fathers** (general group).
+- {5:ai figli}: **sons** (general group).
+- [6:io]: **Dante**.
+- [7:+io]: **Dante**.
+- {8:Beatrice}: **Beatrice**.
+- {9:la santa lampa}: **Beatrice** (referred to here as the "holy lamp" of light).
+- [10:me]: **Dante**.
+
+## Scene 7-12: Beatrice's Instruction
+In this scene, Beatrice responds to Dante's inner longing and anxiety (which he has just compared to Phaethon's quest). Beatrice, knowing exactly what is troubling him, instructs him to express his desire and question out loud. She clarifies that the purpose of this request is not to inform her—since she already knows his heart—but rather to formalize the request so that Cacciaguida (the "man" who possesses the answers) can respond to him and provide the "water" to quench his "thirst" for knowledge.
+
+**Tag Resolutions:**
+- `{1:mia donna}`: **Beatrice** (Dante's "lady").
+- `[2:+ella]`: **Beatrice** (the speaker).
+- `[3:mi]`: **Dante** (the person being addressed).
+- `[4:+tu]`: **Dante** (the person Beatrice is urging to speak).
+- `[5:t']`: **Dante**.
+- `{6:l'uom}`: **Cacciaguida** (the "man" who is present and capable of providing the answers Dante seeks).
+- `[7:ti]`: **Dante** (the one for whom the "man" will "mix" the answer).
+
+## Scene 13-27: Dante's Plea for Knowledge
+In this scene, Dante speaks to Beatrice, responding to her request that he voice his question. He begins by praising her divine perspective; he acknowledges that while humans on Earth are limited by linear time, Beatrice can see all contingent events before they happen because she gazes upon the eternal point where all time is present simultaneously. 
+
+Dante then explains why he is asking this: he recalls that during his travels through the underworld and up the mountain of Purgatory with Virgil, Virgil had given him some grave, ominous warnings about his future. Although Dante believes himself to be "tetragono" (sturdy or square/firm) in the face of adversity, he admits that he would feel more at peace if he knew exactly what fate is coming for him. He concludes with the reasoning that a "foreseen lightning bolt" is "slower"—meaning that knowing a disaster in advance makes it easier to endure.
+
+**Tag Resolutions:**
+- `{1:cara piota mia}`: **Beatrice** (his "dear pious one").
+- `[2:t']`: **Beatrice**.
+- `{3:le terrene menti}`: **earthly minds** (general group of humans on Earth).
+- `[4:+tu]`: **Beatrice**.
+- `[5:io]`: **Dante**.
+- `{6:Virgilio}`: **Virgil**.
+- `{7:l'anime}`: **the souls** (general group of souls in Purgatory).
+- `[8:mi]`: **Dante**.
+- `[9:io]`: **Dante**.
+- `[10:mi]`: **Dante**.
+- `[11:mi]`: **Dante**.
+
+## Scene 28-36: The Divine Response
+In this scene, Dante is wrapping up his plea to Beatrice. He confirms that he has spoken his heart’s desire aloud, as Beatrice had requested. He then describes the nature of the response he is about to receive. He contrasts the clarity of the coming answer with the "ambiguities" (the riddles or vague prophecies) that misled the "foolish people" before the time of Christ. The response comes from Cacciaguida, who is described as a "paternal love" and is smiling as he prepares to speak in precise Latin.
+
+**Tag Resolutions:**
+- `[1:io]`: **Dante** (the narrator).
+- `{2:quella luce stessa}`: **Beatrice** (the "light" Dante is addressing).
+- `[3:m']`: **Dante** (the person Beatrice had previously spoken to).
+- `{4:Beatrice}`: **Beatrice**.
+- `{5:la gente folle}`: **the foolish people** (a general group of people who were misled by ambiguous prophecies).
+- `[6:s']`: **the foolish people** (referring back to the general group).
+- `{7:l'Agnel di Dio}`: **The Lamb of God** (Jesus Christ).
+- `{8:quello amor paterno}`: **Cacciaguida** (described here as "paternal love" because he is Dante's ancestor/forefather).
+
+## Scene 37-45: The Theology of Contingency
+In this scene, Cacciaguida begins his response to Dante by explaining the theology of divine foreknowledge versus human free will (contingency). He explains that while human events seem unpredictable to those on Earth, they are all fully visible to God in His eternal gaze. However, he clarifies a crucial point: the fact that God *sees* the future does not mean the future is *forced* (necessity). He uses the analogy of a ship: a ship sailing down a river is reflected in the water, but the reflection does not cause the ship to move. Similarly, God's vision of the future is a reflection of what will happen, not the cause of it. Because Cacciaguida is in Paradise, he shares in this divine perspective. He tells Dante that just as an organ produces harmony for the ear, this divine vision allows Cacciaguida to see the future events that are currently preparing themselves for Dante.
+
+**Tag Resolutions:**
+- `[1:mi]`: **Cacciaguida** (the speaker, who is seeing the vision of the future).
+- `[2:ti]`: **Dante** (the person whose future is being seen).
+
+## Scene 46-54: The Prediction of Exile
+In this scene, Cacciaguida delivers the central prophecy of the canto: Dante will be exiled from his beloved city of Florence. To prepare Dante for this, Cacciaguida uses a mythological parallel. He compares Dante’s situation to that of Hippolytus of Athens, who was forced to flee his home because of the lies and malice of his stepmother, Phaedra.
+
+Cacciaguida informs Dante that his exile is not just a possibility, but a current plot being orchestrated by his political enemies in the marketplaces of Florence (where Christ is mentioned as the overarching spiritual presence, though the activity is mundane commerce). He explains the mechanism of the exile: his enemies will play the role of the "offended party," raising a public cry of injustice against him. This orchestrated "outcry" will create a false narrative of guilt, and the resulting punishment (the vengeance) will be used as the "proof" that the accusations were true.
+
+**Tag Resolutions:**
+- `[1:si]`: **Hippolytus** (the subject of the verb "departed").
+- `{2:Ipolito d'Atene}`: **Hippolytus of Athens**.
+- `{3:la spietata e perfida noverca}`: **Phaedra** (Hippolytus's stepmother).
+- `[4:ti]`: **Dante**.
+- `[5:chi]`: **Dante's political enemies** (the Black Guelphs who are plotting his exile).
+- `{6:Cristo}`: **Christ**.
+- `[7:si]`: **The merchants/citizens of Florence** (implied by the impersonal "si merca," referring to those who trade in the market).
+- `{8:la parte offensa}`: **Dante's political enemies** (the party who will claim to be "offended" to justify the legal action against Dante).
+- `[9:la]`: **the guilt/blame** (referring back to "la colpa").
+
+## Scene 55-69: The Hardships of Exile
+In this scene, Cacciaguida describes the visceral and emotional hardships Dante will face during his exile. He warns Dante that he will lose everything he loves most, framing exile as an arrow shot from a bow. He uses two poignant metaphors to describe the humiliation of dependence: the "salty taste" of bread provided by others (meaning it is bitter or lacking in generosity) and the difficulty of "climbing and descending others' stairs" (meaning the lack of autonomy and the need to be humble or subservient to hosts).
+
+Cacciaguida then warns Dante about the people he will associate with during this period. He describes a "wicked and foolish company" of fellow exiles. He predicts that this group, driven by ingratitude and madness, will eventually turn against Dante. However, Cacciaguida reassures Dante that this betrayal will not harm him in the end; instead, the company's own "beastliness" will lead to their own downfall (symbolized by the "red temple," indicating violence or death). Ultimately, Cacciaguida tells Dante that he will be glad that he maintained his own integrity and kept himself separate from their corruption.
+
+**Tag Resolutions:**
+- `[1:Tu]`: **Dante**
+- `[2:Tu]`: **Dante**
+- `[3:ti]`: **Dante**
+- `{4:la compagnia malvagia e scempia}`: **the wicked and foolish company** (the group of fellow exiles Dante will associate with)
+- `[5:tu]`: **Dante**
+- `[6:si]`: **the wicked and foolish company** (the group that will turn against Dante)
+- `[7:te]`: **Dante**
+- `[8:ella]`: **the wicked and foolish company**
+- `[9:tu]`: **Dante**
+- `[10:te]`: **Dante**
+- `[11:te]`: **Dante**
+
+## Scene 70-75: The First Refuge
+In this scene, Cacciaguida continues his prophecy regarding Dante's exile. After describing the hardships and the betrayals Dante will encounter, Cacciaguida provides a glimmer of hope by identifying where Dante will find his first place of shelter. He tells Dante that his first refuge will be the courtesy of the "great Lombard."
+
+The "great Lombard" is identified by the "holy bird" (the eagle) on his stairs, a clear reference to the Holy Roman Emperor (historically, this refers to Henry VII). Cacciaguida explains that the Emperor will treat Dante with such extraordinary kindness that the normal order of social transaction will be reversed: instead of Dante having to ask for help and then receive it, the Emperor will offer help (the "doing") before Dante even thinks to ask (the "asking"). This signifies a level of generosity and proactive grace that is rare among men.
+
+**Tag Resolutions:**
+- `{1:del gran Lombardo}`: **the great Lombard** (The Holy Roman Emperor, specifically Henry VII).
+- `[2:te]`: **Dante**.
+- `[3:+ei]`: **the great Lombard** (The Holy Roman Emperor/Henry VII).
+- `[4:voi]`: **Dante and the great Lombard**.
+
+## Scene 76-84: The Rise of the Virtuous Leader
+In this scene, Cacciaguida continues his prophecy about Dante’s first place of refuge, expanding on the character and destiny of the "great Lombard" (the Holy Roman Emperor Henry VII). 
+
+Cacciaguida tells Dante that through this man, he will encounter someone who was born under a powerful and auspicious star, ensuring that his deeds will be distinguished and notable. He explains that the world (the general population) is not yet aware of this man's significance because he is still young—the "wheels" of time have only turned nine years since his rise. Cacciaguida then predicts that the Emperor's virtue—specifically his lack of greed (silver) and his lack of anxiety—will be evident before he is eventually deceived and betrayed by the Tuscans.
+
+**Tag Resolutions:**
+- `[1:lui]`: **the great Lombard** (Henry VII).
+- `[2:+tu]`: **Dante**.
+- `[3:colui]`: **Henry VII** (the "one" born under a strong star).
+- `[4:se]`: **Henry VII** (the object of the people's lack of awareness; the people are not yet aware *of him/his importance*).
+- `{5:le genti}`: **the people** (general population).
+- `[6:lui]`: **Henry VII**.
+- `{7:'l Guasco}`: **the Tuscan** (referring to the Tuscans/the people of Tuscany who will betray the Emperor).
+- `{8:l'alto Arrigo}`: **Henry VII** (the "high Henry").
+
+## Scene 85-93: The Global Impact of the Leader
+In this scene, Cacciaguida continues his prophecy regarding the "great Lombard" (Emperor Henry VII), describing the positive impact the Emperor will have on the world and his relationship with Dante.
+
+Cacciaguida asserts that Henry's magnificence and glory will be so undeniable that even his enemies will be forced to acknowledge them. He informs Dante that the Emperor is waiting for him and will be generous toward him. Furthermore, Cacciaguida predicts a period of social transformation under Henry's leadership, where the conditions of both the rich and the poor will be changed. He explains that the memory of the Emperor's greatness will be so deeply etched in the collective mind of the people that Dante will not even need to speak of it (or, alternatively, that Dante should keep this prophecy secret). The scene concludes with the narrator noting that Cacciaguida's words were astounding and "incredible" to those present.
+
+**Tag Resolutions:**
+
+- `{1: suoi nemici}`: **the enemies of the great Lombard** (the enemies of Henry VII).
+- `[2: lui]`: **the great Lombard** (Henry VII).
+- `[3: +ei]`: **the great Lombard** (Henry VII).
+- `[4: t']`: **Dante**.
+- `[5: lui]`: **the great Lombard** (Henry VII).
+- `{6: molta gente}`: **many people** (the general population).
+- `{7: ricchi e mendici}`: **the rich and the beggars** (the general population, representing all social classes).
+- `[8: +ella]`: **the people** (referring back to *molta gente*).
+- `[9: ne]`: **the great Lombard** (referring to the memory or the deeds of Henry VII).
+- `[10: lui]`: **the great Lombard** (Henry VII).
+- `[11: +tu]`: **Dante**.
+- `[12: +ei]`: **Cacciaguida** (the speaker).
+- `[13: quei]`: **Dante and Beatrice** (the ones who were present and hearing Cacciaguida's words).
+
+## Scene 94-99: A Warning Against Envy
+In this scene, Cacciaguida brings his prophecy to a close. Having described the pain of exile and the hope offered by the "great Lombard" (Henry VII), he now provides a final piece of moral and spiritual guidance. He summarizes the "conclusions" of the warnings he has given regarding the "snares" (the plots of his enemies) that are lying in wait for Dante in the near future. 
+
+Crucially, Cacciaguida warns Dante against the danger of envy and resentment. He urges Dante not to harbor hatred toward his "neighbors"—the fellow citizens of Florence who are plotting his downfall. Cacciaguida's reasoning is a lesson in perspective and divine justice: he tells Dante that his own life (and by extension, his legacy and fame) will extend far beyond the time it takes for the perfidy of his enemies to be punished. In essence, he tells Dante that he does not need to seek vengeance or dwell on bitterness, as history and divine justice will outlast those who wrong him.
+
+**Tag Resolutions:**
+- `[1:+elli]`: **Cacciaguida** (the speaker, who has reached the conclusion of his discourse).
+- `{2:Figlio}`: **Dante** (addressed by Cacciaguida as "Son").
+- `[3:ti]`: **Dante** (the person to whom the prophecy was told).
+- `[4:+elli]`: **Cacciaguida** (the speaker, expressing his will/desire).
+- `{5:vicini}`: **Dante's fellow citizens of Florence** (specifically his political enemies/the Black Guelphs).
+- `[6:+tu]`: **Dante** (the person being warned not to feel envy/resentment).
+
+## Scene 100-105: Dante's Request for Counsel
+In this scene, Cacciaguida has finished his prophecy, and a silence falls. Beatrice (the "holy soul") signals to Dante that it is now his turn to speak. Dante uses a weaving metaphor to describe the interaction: he had provided the "warp" (the basic structure of his longing and request), and Beatrice now provides the "weft" (the completing thread) to facilitate the conversation. Feeling anxious and uncertain, Dante begins to ask for further counsel from Cacciaguida, whom he regards as someone who possesses true vision, a right will, and love.
+
+**Tag Resolutions:**
+
+- `[1:si]`: **Beatrice** (the reflexive pronoun referring back to the subject, the "holy soul").
+- `{2:l'anima santa}`: **Beatrice**.
+- `[3:io]`: **Dante**.
+- `[4:le]`: **Beatrice** (the "her" to whom Dante presented the "warp" of the conversation).
+- `[5:io]`: **Dante**.
+- `[6:colui]`: **Dante** (the one who "longs" or "yearns" for counsel).
+- `{7:persona}`: **Cacciaguida** (the person from whom Dante seeks counsel because he sees and wills rightly and loves).
+
+## Scene 106-120: Dante's Existential Fear
+In this scene, Dante responds to Cacciaguida’s prophecy of exile. He acknowledges the inevitable approach of his misfortune, noting that Time is pushing him toward a blow that will be particularly painful because of his deep emotional investment. He expresses a need for prudence; he fears that if he loses his most beloved home (Florence), the contents of his poetry—the truths he intends to write—might make him an outcast everywhere else as well.
+
+Dante reflects on his cosmic journey: his descent into the depths of the world, his ascent of the mountain of Purgatory (where Beatrice's eyes lifted him), and his current journey through the spheres of Heaven. He realizes that the truths he has learned and is now recounting will be "bitter" to many. He describes himself as a "timid friend" of the truth, fearing that by revealing these truths, he may lose the ability to live among future generations, who will one day look back at his present time as "ancient."
+
+**Tag Resolutions:**
+
+- `[1:+io]`: **Dante**
+- `{2:padre mio}`: **Cacciaguida** (his ancestor/forefather)
+- `{3:lo tempo}`: **Time** (personified as a force driving Dante toward his fate)
+- `[4:me]`: **Dante**
+- `[5:darmi]`: **Dante**
+- `[6:chi]`: **anyone/the person** (a general reference to those who are deeply devoted or attached)
+- `[7:s']`: **anyone/the person** (referring back to the person in [6])
+- `[8:io]`: **Dante**
+- `[9:m']`: **Dante**
+- `[10:m']`: **Dante**
+- `[11:io]`: **Dante**
+- `{12:la mia donna}`: **Beatrice**
+- `[13:mi]`: **Dante**
+- `[14:io]`: **Dante**
+- `[15:io]`: **Dante**
+- `[16:io]`: **Dante**
+- `{17:timido amico}`: **Dante** (referring to himself as a "timid friend" to the truth)
+- `[18:+io]`: **Dante**
+- `[19:coloro]`: **future generations** (those who will eventually view his era as "ancient")
+
+## Scene 121-135: The Necessity of Bitter Truth
+In this scene, Beatrice responds to Dante's anxiety about the "bitter" nature of the truths he intends to write. Dante describes the light of Beatrice (his "treasure") flashing like a golden mirror, signaling her speech. 
+
+Beatrice offers a powerful validation of Dante's mission. She explains that if his words seem "harsh" or "blunt," it is only because they strike those with "darkened consciences"—people who are plagued by their own or others' shame. She encourages him not to shy away from this, using a gritty metaphor: he should let the truth "scratch the scab" (provoke those who are corrupt). 
+
+She compares the effect of his poetry to a medicine: though the "first taste" is unpleasant, it becomes "vital nourishment" once it is "digested" (understood/absorbed). Finally, she tells him that his "cry" (his poetry) will be like a wind that hits the "highest peaks" most strongly. In other words, his critiques will hit the most powerful and high-ranking people the hardest, but Beatrice asserts that this is not a cause for fear, but rather a point of honor.
+
+**Tag Resolutions:**
+- `{1:il mio tesoro}`: **Beatrice** (Dante's "treasure").
+- `[2:io]`: **Dante** (the narrator who found Beatrice in the light).
+- `[3:+ella]`: **Beatrice** (the one responding to Dante).
+- `[4:+ella]`: **the vision** (specifically, the divine vision/experience Dante has had, which the pronoun *ella* refers back to as the subject that "makes itself manifest").
+- `[5:+tu]`: **Dante** (the person Beatrice is urging to let the truth provoke the corrupt).
+
+## Scene 136-142: The Purpose of the Vision
+In this scene, Beatrice continues her explanation to Dante regarding the purpose of his journey. She explains why he was shown specific souls throughout the various realms—the "spheres" of Paradise, the mountain of Purgatory, and the "sorrowful valley" of Hell.
+
+Beatrice clarifies that the souls he encountered were chosen because they are "known for their fame." The pedagogical goal of this is to provide the listener (the reader of the poem) with concrete examples of divine justice and grace. By presenting these well-known figures, the "listener" is given evidence that makes their faith firm, ensuring that their belief is not based on abstract, "hidden" roots, but on clear, evident arguments. Essentially, the famous souls serve as proof for the reader that God's justice is real and consistent.
+
+**Tag Resolutions:**
+- `[1:ti]`: **Dante** (the person to whom the souls were shown).
+- `{2:l'anime}`: **the famous souls** (the souls known by their fame whom Dante encountered on his journey).
+- `[3:quel]`: **the listener/reader** (the person who hears the account of Dante's journey).
+
+# recap
+- Dante and Beatrice are together in Paradise.
+- Dante has received a prophecy of his exile from Cacciaguida and a divine mandate from Beatrice to write the bitter truth.
+- They are continuing their journey through the spheres of Heaven.

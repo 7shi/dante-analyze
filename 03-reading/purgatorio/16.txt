@@ -1,0 +1,347 @@
+# Canto 16 — The Encounter with Marco Lombardo
+
+## Scene 1-9: The Thick Fog
+In this opening scene, Dante describes a blindness so absolute that it surpasses any natural or infernal darkness he can imagine. He compares the current smoke to a night stripped of all stars and planets, noting that the smoke is not only a "thick veil" over his vision but is also physically caustic, stinging his eyes so harshly that he cannot keep them open.
+
+Because Dante is effectively blind and unable to see the path, Virgil (his guide) steps in to provide physical support. Virgil draws close to Dante and offers his shoulder for Dante to lean on or hold onto, ensuring they stay together as they move through the gloom.
+
+**Tag Resolutions:**
+- `[1:ci]` refers to **Dante and Virgil** (the "us" covered by the smoke).
+- `{2:la scorta mia saputa e fida}` refers to **Virgil**.
+- `[3:mi]` refers to **Dante**.
+- `[4:s']` refers to **Virgil** (reflexive: Virgil drew *himself* near).
+- `[5:+ella]` refers to **Virgil** (the subject who offers the shoulder).
+- `[6:m']` refers to **Dante**.
+
+## Scene 10-15: Following the Guide
+In this scene, Dante uses a poignant simile to describe his total dependence on Virgil. He compares himself to a blind man who must follow a guide to avoid getting lost or walking into a dangerous obstacle that could injure or kill him. Dante is moving through the "bitter and foul" smoke, unable to see, relying entirely on the voice of Virgil. Virgil speaks, warning Dante to be careful so that they do not become separated in the gloom.
+
+**Tag Resolutions:**
+- `{1:cieco}` refers to **Dante** (as the subject of the simile).
+- `{2:sua guida}` refers to **Virgil** (as the subject of the simile).
+- `[3:smarrirsi]` refers to **Dante** (the one who might get lost).
+- `[4:'l]` refers to **Dante** (the one who might be molested or killed by an obstacle).
+- `[5:m']` refers to **Dante**.
+- `[6:io]` refers to **Dante**.
+- `{7:il mio duca}` refers to **Virgil**.
+- `[8:+tu]` refers to **Dante** (Virgil is speaking to him).
+- `[9:me]` refers to **Virgil** (Virgil is speaking about himself).
+- `[10:tu]` refers to **Dante** (Virgil is speaking to him).
+
+## Scene 16-21: The Voices of the Neutrals
+In this scene, Dante is still blinded by the acrid smoke, but his other senses remain active. He begins to hear a chorus of voices drifting through the gloom. He observes that every single voice seems to be praying for peace and mercy, specifically directing their pleas toward the "Lamb of God" (Jesus Christ) who takes away the sins of the world. The voices are so uniform in their phrasing and tone—all chanting the Latin "Agnus Dei"—that they sound perfectly synchronized, creating a sense of eerie concord among the suffering souls.
+
+**Tag Resolutions:**
+- `[1:Io]` refers to **Dante**.
+- `{2:l'Agnel di Dio}` refers to **Jesus Christ**.
+- `{3:‘Agnus Dei’}` refers to **Jesus Christ**.
+
+## Scene 22-24: Virgil’s Interpretation
+In this brief scene, Dante is reacting to the mysterious chorus of voices chanting "Agnus Dei" that he heard in the previous scene. Still blinded by the caustic smoke, he turns to Virgil to confirm his suspicions about who is making these sounds. 
+
+Dante asks Virgil if the voices he hears are indeed spirits. Virgil confirms that Dante is correct and provides a theological/emotional explanation for their presence: these are the souls of the wrathful, and they are currently "untying the knot" of their anger (meaning they are working through their rage, or perhaps their punishment is the result of it).
+
+**Tag Resolutions:**
+- `[1:Quei]` refers to **the spirits** (the voices Dante is hearing).
+- `{2:spirti}` refers to **the spirits**.
+- `{3:maestro}` refers to **Virgil**.
+- `[4:i']` refers to **Dante**.
+- `[5:io]` refers to **Dante**.
+- `[6:elli]` refers to **Virgil**.
+- `[7:me]` refers to **Dante**.
+- `[8:Tu]` refers to **Dante**.
+- `[9:+elli]` refers to **the spirits**.
+
+## Scene 25-30: The Voice’s Interruption
+In this scene, the silence and the chorus of "Agnus Dei" are interrupted by a specific voice emerging from the smoke. This voice belongs to one of the souls of the wrathful. The speaker is curious and suspicious, asking who these newcomers are and why they are speaking about the spirits as if they were still living (referencing the "calends," a Roman way of marking time for the living). 
+
+Upon hearing this, Virgil instructs Dante to take the lead in the conversation. He tells Dante to respond to the spirit and to specifically inquire whether there is a way to ascend from their current position in the marsh.
+
+**Tag Resolutions:**
+- `[1:tu]` refers to **Dante** (addressed by the spirit).
+- `[2:chi]` refers to **Dante** (the spirit asking "who are you").
+- `[3:noi]` refers to **the spirits of the wrathful**.
+- `[4:+tu]` refers to **Dante** (addressed by the spirit).
+- `[5:+tu]` refers to **Dante** (addressed by the spirit).
+- `{6:una voce}` refers to **a spirit of the wrathful** (who will be revealed as Marco Lombardo).
+- `{7:l maestro mio}` refers to **Virgil**.
+- `[8:+tu]` refers to **Dante** (Virgil is speaking to him).
+- `[9:+tu]` refers to **Dante** (Virgil is speaking to him).
+- `[10:si]` refers to **the travelers** (an impersonal "one," meaning "if one/we can go up from here").
+
+## Scene 31-36: Dante’s Introduction and the Voice’s Promise
+In this scene, Dante follows Virgil's advice and initiates a conversation with the mysterious voice emerging from the smoke. Dante addresses the spirit as a "creature" undergoing a process of purification (cleansing itself) to eventually be restored to the beauty intended by its Creator (God). Dante tells the spirit that it will hear something marvelous if it continues to engage with him.
+
+The spirit responds positively, agreeing to follow along in the conversation as far as it is permitted. The spirit also notes the irony of their current situation: although the thick smoke prevents them from seeing one another, their sense of hearing will serve as the bond that keeps them together for the time being.
+
+**Tag Resolutions:**
+- `[1:io]` refers to **Dante**.
+- `{2:creatura}` refers to **the spirit of the wrathful** (later identified as Marco Lombardo).
+- `[3:ti]` refers to **the spirit of the wrathful**.
+- `[4:colui]` refers to **God**.
+- `[5:ti]` refers to **the spirit of the wrathful**.
+- `[6:+tu]` refers to **the spirit of the wrathful**.
+- `[7:+tu]` refers to **the spirit of the wrathful**.
+- `[8:mi]` refers to **Dante**.
+- `[9:Io]` refers to **the spirit of the wrathful**.
+- `[10:ti]` refers to **Dante**.
+- `[11:mi]` refers to **the spirit of the wrathful**.
+- `[12:+ella]` refers to **the spirit of the wrathful**.
+- `[13:+noi]` refers to **the travelers and the spirit** (the group blinded by the smoke).
+- `[14:ci]` refers to **the travelers and the spirit**.
+
+## Scene 37-45: The Mission and Request for Identity
+In this scene, Dante begins his conversation with the mysterious voice in the smoke. He explains his unusual circumstances: he is traveling through Hell on a divine mission, guided by a mandate (the "fascia" or band) that normally only death can impose. He suggests that God has granted him a special grace, allowing him to witness the divine court and the realms of the afterlife in a way that defies the "modern usage" (meaning, he is visiting while still alive).
+
+Dante then makes two specific requests to the spirit: first, he asks the spirit to reveal his identity—who he was before death claimed him; and second, he asks for confirmation that they are on the correct path toward the exit or passage (*il varco*). He concludes by stating that the spirit's answers will serve as a guide for their journey.
+
+**Tag Resolutions:**
+- `[1:+io]` refers to **Dante**.
+- `{2:la morte}` refers to **Death**.
+- `[3:+io]` refers to **Dante**.
+- `[4:+io]` refers to **Dante**.
+- `{5:Dio}` refers to **God**.
+- `[6:m']` refers to **Dante**.
+- `[7:+egli]` refers to **God**.
+- `[8:i']` refers to **Dante**.
+- `[9:+tu]` refers to **the spirit** (the voice in the smoke).
+- `[10:mi]` refers to **Dante**.
+- `[11:chi]` refers to **the spirit**.
+- `{12:la morte}` refers to **Death**.
+- `[13:+tu]` refers to **the spirit**.
+- `[14:+tu]` refers to **the spirit**.
+- `[15:i']` refers to **Dante**.
+
+## Scene 46-51: Marco’s Identity and Request for Prayer
+In this scene, the mysterious voice in the smoke finally reveals his identity to Dante. He introduces himself as Marco Lombardo, noting that in his life he was worldly and loved a particular kind of virtue (or "value") that is now widely attacked or contested. He then answers Dante's earlier question about the path, instructing him to continue straight ahead to ascend from the marsh. Finally, Marco makes a personal request: he asks Dante to pray for him once Dante has successfully completed his journey and returned to the world above.
+
+**Tag Resolutions:**
+- `{1:Lombardo}` refers to **Marco Lombardo**.
+- `[2:+io]` refers to **Marco Lombardo**.
+- `[3:+io]` refers to **Marco Lombardo**.
+- `{4:Marco}` refers to **Marco Lombardo**.
+- `[5:+io]` refers to **Marco Lombardo**.
+- `[6:+io]` refers to **Marco Lombardo**.
+- `[7:+tu]` refers to **Dante**.
+- `[8:+ei]` refers to **Marco Lombardo**.
+- `[9:+ei]` refers to **Marco Lombardo**.
+- `[10:I']` refers to **Marco Lombardo**.
+- `[11:ti]` refers to **Dante**.
+- `[12:me]` refers to **Marco Lombardo**.
+- `[13:+tu]` refers to **Dante**.
+- `[14:+tu]` refers to **Dante**.
+
+## Scene 52-63: Dante’s Doubt and the State of the World
+In this scene, Dante responds to Marco Lombardo's request for prayer and his comments on the state of the world. 
+
+Dante begins by solemnly promising Marco that he will indeed pray for him once he returns to the living. However, Dante reveals that he is plagued by a deep doubt. He reflects on Marco's previous statement regarding the lack of virtue in the world; Dante agrees that the world is indeed devoid of virtue and overflowing with malice. Because this bleak reality is confirmed both by Marco's experience in Hell and by Dante's own observations in the living world, Dante is desperate to understand the "cause" (*la cagione*) of this spiritual decay. He asks Marco to explain the reason for this corruption so that Dante can understand it and communicate that truth to others, noting that there are conflicting explanations for this state of affairs—one given in heaven and another here on earth.
+
+**Tag Resolutions:**
+- `[1:io]` refers to **Dante**.
+- `[2:lui]` refers to **Marco Lombardo**.
+- `[3:mi]` refers to **Dante**.
+- `[4:ti]` refers to **Marco Lombardo**.
+- `[5:+io]` refers to **Dante**.
+- `[6:mi]` refers to **Dante**.
+- `[7:+tu]` refers to **Marco Lombardo**.
+- `[8:io]` refers to **Dante**.
+- `[9:io]` refers to **Dante**.
+- `[10:me]` refers to **Dante**.
+- `[11:mi]` refers to **Dante**.
+- `[12:io]` refers to **Dante**.
+- `[13:tu]` refers to **Marco Lombardo**.
+- `[14:mi]` refers to **Dante**.
+- `[15:+io]` refers to **Dante**.
+- `[16:+tu]` refers to **Marco Lombardo**.
+- `[17:m']` refers to **Dante**.
+- `[18:i']` refers to **Dante**.
+- `[19:i']` refers to **Dante**.
+
+## Scene 64-78: The Mechanics of Free Will
+In this scene, Marco Lombardo responds to Dante’s inquiry about the cause of the world's corruption. He begins with a heavy sigh of sorrow and then addresses Dante as "Brother," launching into a theological explanation regarding free will and astral influence.
+
+Marco argues against the common belief of his time—that human actions are entirely determined by the stars or celestial movements (astrological determinism). He asserts that if everything were moved by "necessity" (fate/heaven), free will would be non-existent, and therefore, there would be no divine justice in rewarding the virtuous or punishing the wicked. 
+
+He clarifies that while the heavens "initiate" or influence human impulses, they do not dictate every action. According to Marco, humans are given the capacity (the "light") to choose between good and evil. He concludes that the human will is free; although it may struggle initially against celestial inclinations, it can ultimately triumph over them if it is properly nurtured and strengthened.
+
+**Tag Resolutions:**
+- `[1:+egli]` refers to **Marco Lombardo**.
+- `[2:+egli]` refers to **Marco Lombardo**.
+- `{3:Frate}` refers to **Dante**.
+- `[4:tu]` refers to **Dante**.
+- `[5:Voi]` refers to **the living (mankind)**.
+- `[6:voi]` refers to **the living (mankind)**.
+- `[7:+io]` refers to **Marco Lombardo**.
+- `[8:i']` refers to **Marco Lombardo**.
+- `[9:v']` refers to **the living (mankind)**.
+
+## Scene 79-84: Human Responsibility
+In this scene, Marco Lombardo concludes his theological discourse on free will. He asserts that human beings are endowed with a "better nature" and a superior strength of will, making them free agents. He explains that the human mind possesses a capacity for choice and reason that the heavens (the astral influences) do not control or manage. 
+
+Because of this inherent freedom, Marco argues that if the modern world has lost its way and become corrupt, the fault lies entirely with humanity itself—the "cause" and the "blame" are found within human choices, not in the stars. He ends by telling Dante that he will serve as a truthful witness (a "spy" or "testimony") to this truth.
+
+**Tag Resolutions:**
+- `[1:+voi]` refers to **the living (mankind)**.
+- `[2:voi]` refers to **the living (mankind)**.
+- `{3:'l ciel}` refers to **the heavens/astral influence**.
+- `[4:voi]` refers to **the living (mankind)**.
+- `[5:voi]` refers to **the living (mankind)**.
+- `[6:io]` refers to **Marco Lombardo**.
+- `[7:te]` refers to **Dante**.
+- `{8:vera spia}` refers to **Marco Lombardo**.
+
+## Scene 85-93: The Metaphor of the Soul
+In this scene, Marco Lombardo continues his theological explanation to Dante, using a metaphor to describe the vulnerability and innocence of the human soul at its inception. 
+
+Marco explains that the soul emerges from the hand of its Creator (God), who looks upon it with love. He compares the nascent soul to a young child who babbles, cries, and laughs—essentially, a "simple soul" that possesses no inherent knowledge. This innocent soul is driven by pleasure; when it encounters something that brings it joy (a "pleasant stimulus"), it instinctively returns to that source of delight. Marco argues that the soul is easily deceived by these small, immediate pleasures and will blindly pursue them unless its "love" (its desire/will) is directed or restrained by a guide or a "bridle" (reason or divine grace).
+
+This metaphor serves to reinforce Marco's previous point: while God creates the soul as a free and innocent agent, the responsibility for its eventual corruption lies in the soul's failure to be guided, rather than in a predetermined celestial fate.
+
+**Tag Resolutions:**
+- `[1:+ella]` refers to **the human soul**.
+- `[2:lui]` refers to **God**.
+- `[3:la]` refers to **the human soul**.
+- `[4:+ella]` refers to **the human soul**.
+- `{5:fanciulla}` refers to **a young girl/child** (used as a simile for the soul).
+- `{6:l'anima semplicetta}` refers to **the human soul**.
+- `{7:lieto fattore}` refers to **a pleasant stimulus/agent of joy**.
+- `[8:+ella]` refers to **the human soul**.
+- `[9:la]` refers to **the human soul**.
+- `[10:+ella]` refers to **the human soul**.
+- `[11:+ella]` refers to **the human soul**.
+- `[12:s']` refers to **the human soul** (reflexive: the soul deceives *itself*).
+- `[13:+ella]` refers to **the human soul**.
+
+## Scene 94-105: The Failure of Law and Leadership
+In this scene, Marco Lombardo continues his theological and political lecture to Dante. He argues that because the human soul is naturally inclined toward immediate pleasure and easily deceived (as established in the previous scene), it is necessary to have laws to act as a "bridle" or restraint. Furthermore, he asserts that a ruler is necessary to provide direction and distinguish the "true city" (the ideal, virtuous society).
+
+Marco then laments the current state of the world: while laws exist on paper, there is no one to enforce them. He uses a vivid metaphor of a shepherd to describe the failure of leadership. He says the "shepherd" (the leader) can "bleat" (speak or give commands), but lacks "claws" (the power or will to actually enforce the laws and discipline the flock). Consequently, the people, seeing their guide is toothless, simply pursue their own greedy desires for pleasure and ask for nothing more. 
+
+Marco concludes by telling Dante that the wickedness of the world is not the result of an inherently corrupt human nature, but rather the result of "mala condotta"—bad leadership and the failure to properly guide and restrain human impulses.
+
+**Tag Resolutions:**
+- `{1:rege}` refers to **a ruler/king** (specifically the ideal sovereign/emperor).
+- `[2:chi]` refers to **the authorities/rulers** (those who should be enforcing the laws).
+- `{3:'l pastor}` refers to **the ruler/leader** (metaphorically described as a shepherd).
+- `[4:+egli]` refers to **the ruler/leader** (the shepherd).
+- `[5:+egli]` refers to **the ruler/leader** (the shepherd).
+- `{6:la gente}` refers to **the people** (the living population).
+- `{7:sua guida}` refers to **the ruler/leader** (the shepherd).
+- `[8:ella]` refers to **the people** (referring back to *la gente*).
+- `[9:+ella]` refers to **the people** (referring back to *la gente*).
+- `[10:si]` refers to **the people** (referring back to *la gente*).
+- `[11:+ella]` refers to **the people** (referring back to *la gente*).
+- `[12:+tu]` refers to **Dante**.
+- `[13:voi]` refers to **the living/mankind**.
+
+## Scene 106-114: The Conflict of the Two Suns
+In this scene, Marco Lombardo moves from a general discussion of leadership to a specific political critique of the historical state of the world. He introduces the "Two Suns" theory, explaining that in the ideal Roman order, there were two distinct and supreme authorities: one to guide humanity in secular/earthly matters (the Emperor) and one to guide humanity in spiritual matters toward God (the Pope).
+
+Marco laments that this balance has been destroyed. He explains that one of these "suns" has extinguished the other—meaning that the spiritual authority (the Papacy) has usurped the secular authority (the Empire). He uses the symbols of the "sword" (Imperial power) and the "pastoral staff" (Papal power) to illustrate this conflict. He argues that when these two powers are forced together or when one consumes the other, the natural order is corrupted and the "check and balance" is lost.
+
+He concludes by telling Dante that the proof of this failure is evident in the current state of the world; just as one can identify a plant by its seed, the current chaos (the "ear of grain") is the direct result of this corrupted political seed.
+
+**Tag Resolutions:**
+- `{1:due soli}` refers to **the Emperor and the Pope** (the two supreme authorities).
+- `{2:Deo}` refers to **God**.
+- `[3:L'un]` refers to **one of the two authorities** (specifically the one that usurps, the Pope).
+- `[4:l'altro]` refers to **the other authority** (specifically the one extinguished, the Emperor).
+- `{5:la spada}` refers to **the Emperor** (Imperial/secular power).
+- `{6:col pasturale}` refers to **the Pope** (Papal/spiritual power).
+- `[7:l'un]` refers to **one of the two authorities**.
+- `[8:l'altro]` refers to **the other authority**.
+- `[9:l'un]` refers to **one of the two authorities**.
+- `[10:l'altro]` refers to **the other authority**.
+- `[11:+tu]` refers to **Dante**.
+- `[12:mi]` refers to **Marco Lombardo**.
+- `[13:+tu]` refers to **Dante**.
+
+## Scene 115-120: The Decline of Lombardy
+In this scene, Marco Lombardo provides a concrete, geographical example of the political and moral decay he has been describing. He focuses on the region of Lombardy (the land defined by the Adige and Po rivers), which he remembers as once being a center of "valor and courtesy." 
+
+He attributes the decline of this region to the conflicts caused by Frederick II (Federigo), the Holy Roman Emperor, whose struggles with the Papacy—the very "conflict of the two suns" Marco just mentioned—devastated the area. Marco laments that the nobility and virtue of the region have vanished to such an extent that a traveler can now pass through the land without encountering any virtuous people, or without any "good" people feeling the desire to speak or associate with others, due to the shame of the current state of society.
+
+**Tag Resolutions:**
+- `{1:Federigo}` refers to **Frederick II**, the Holy Roman Emperor.
+- `[2:+ei]` refers to **an impersonal "one" / a traveler** (anyone passing through the land).
+- `[3:+ei]` refers to **the virtuous people** (specifically, any individual among the "good" who might be left behind/encountered).
+- `{4:coi buoni}` refers to **the virtuous/good people of Lombardy**.
+
+## Scene 121-126: The Three Old Men
+In this scene, Marco Lombardo concludes his lament about the decline of his homeland. He notes that there are still a few remnants of the old, virtuous ways surviving in the form of three elderly men. These men are characterized by their longing for the past; they criticize the current age and feel that God is taking too long to grant them the release of death (bringing them to a "better life"). 
+
+Marco explicitly names these three figures: Currado da Palazzo, "the good" Gherardo, and Guido da Castel. He mentions a personal connection to Guido, identifying him as a relative. Marco ends the passage by referring to himself with humility as "the simple Lombardo," effectively signing off on his political and theological lecture to Dante.
+
+**Tag Resolutions:**
+- `{1:tre vecchi}` refers to **Currado da Palazzo, Gherardo, and Guido da Castel**.
+- `[2:lor]` refers to **the three old men**.
+- `{3:Dio}` refers to **God**.
+- `[4:li]` refers to **the three old men**.
+- `{5:Currado da Palazzo}` refers to **Currado da Palazzo**.
+- `{6:'l buon Gherardo}` refers to **Gherardo**.
+- `{7:Guido da Castel}` refers to **Guido da Castel**.
+- `[8:si]` refers to **Guido da Castel** (reflexive: he is named/called a relative of Marco).
+- `{9:il semplice Lombardo}` refers to **Marco Lombardo**.
+
+## Scene 127-129: The Corruption of the Church
+In this brief closing scene of Marco Lombardo's discourse, Marco gives Dante a final instruction. He urges Dante to go back to the world of the living and testify to the cause of the current global corruption. Marco declares that the Church of Rome, by attempting to merge and confuse the two distinct forms of governance (the spiritual and the secular) into one, has caused its own downfall. As a result, the Church is now "falling into the mud," becoming distorted, ugly, and burdened by its own greed and overreach.
+
+**Tag Resolutions:**
+- `[1:+tu]` refers to **Dante**.
+- `{2:la Chiesa di Roma}` refers to **the Church of Rome (the Papacy)**.
+- `[3:sé]` refers to **the Church of Rome**.
+- `[4:sé]` refers to **the Church of Rome**.
+
+## Scene 130-135: Dante’s Inquiry about Gherardo
+In this scene, Dante responds to Marco Lombardo's lengthy discourse on free will, the corruption of the world, and the decline of Lombardy. Dante begins by praising Marco's reasoning, telling him that he argues his points well. 
+
+Dante then makes a theological/biblical observation regarding the "children of Levi" (the priestly tribe of Israel). By mentioning that they were excluded from the "heritage" (the land inheritance), Dante is drawing a parallel to Marco's "Two Suns" theory: just as the priests of Levi were meant for spiritual service rather than worldly land-ownership, the Church should be focused on spiritual guidance rather than secular power.
+
+Finally, Dante asks for a clarification regarding one of the three virtuous old men Marco mentioned in the previous scene. He asks Marco to identify which "Gherardo" he is referring to—the one Marco described as a "wise man" who remains as a living reproach to the current "savage age."
+
+**Tag Resolutions:**
+- `{1:Marco}` refers to **Marco Lombardo**.
+- `[2:io]` refers to **Dante**.
+- `[3:+tu]` refers to **Marco Lombardo**.
+- `[4:+io]` refers to **Dante**.
+- `{5:li figli di Levì}` refers to **the children of Levi** (the biblical priestly tribe).
+- `{6:qual Gherardo}` refers to **Gherardo** (one of the three virtuous men of Lombardy).
+- `[7:quel]` refers to **Gherardo**.
+- `[8:tu]` refers to **Marco Lombardo**.
+- `{9:saggio}` refers to **Gherardo**.
+- `[10:+tu]` refers to **Marco Lombardo**.
+
+## Scene 136-140: Marco’s Difficulty with the Name
+In this scene, Marco Lombardo reacts to Dante’s question about "Gherardo." Marco is slightly confused, suggesting that either Dante’s way of speaking is deceiving him or that the conversation is testing him. He notes that because Dante is speaking in Tuscan (his native dialect), it seems as though Marco doesn't recognize the "good Gherardo" being mentioned. Marco explains that he doesn't know a Gherardo by that specific name or designation, unless he associates the name with Gherardo's daughter, Gaia. Essentially, Marco only recognizes Gherardo through his relationship to his daughter.
+
+**Tag Resolutions:**
+- `[1:m']` refers to **Marco Lombardo**.
+- `[2:el]` refers to **Dante's speaking/way of talking** (*tuo parlar*).
+- `[3:mi]` refers to **Marco Lombardo**.
+- `[4:+ei]` refers to **Marco Lombardo**.
+- `[5:me]` refers to **Dante**.
+- `{6:del buon Gherardo}` refers to **Gherardo**.
+- `[7:+io]` refers to **Marco Lombardo**.
+- `[8:io]` refers to **Marco Lombardo**.
+- `[9:io]` refers to **Marco Lombardo**.
+- `{10:figlia Gaia}` refers to **Gaia** (Gherardo's daughter).
+
+## Scene 141-145: The Departure of Marco
+In this final scene of Canto 16, the conversation between Dante and Marco Lombardo comes to an end. Marco bids farewell to Dante and Virgil, wishing them God's blessing. He observes that the first light of dawn is beginning to penetrate the thick, caustic smoke of the marsh, signaling that it is time for him to depart. He mentions the presence of an angel, indicating that he must leave before he is seen by this divine entity. Marco then turns away and ceases to listen to Dante, disappearing back into the gloom.
+
+**Tag Resolutions:**
+- `{1:Dio}` refers to **God**.
+- `[2:voi]` refers to **Dante and Virgil** (addressed by Marco).
+- `[3:+io]` refers to **Marco Lombardo**.
+- `[4:+tu]` refers to **Dante** (addressed by Marco).
+- `[5:me]` refers to **Marco Lombardo**.
+- `{6:l'angelo}` refers to **the angel** (a divine messenger or overseer).
+- `[7:io]` refers to **Marco Lombardo**.
+- `[8:li]` refers to **the angel**.
+- `[9:+elli]` refers to **Marco Lombardo**.
+- `[10:+elli]` refers to **Marco Lombardo**.
+
+# recap
+- Dante and Virgil are traveling together through the marsh.
+- Marco Lombardo has departed and vanished back into the gloom.
+- The caustic smoke is beginning to clear as the first light of dawn arrives.

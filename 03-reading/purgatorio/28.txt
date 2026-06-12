@@ -1,0 +1,405 @@
+# Canto 28 — The Encounter with the Enchanted Lady in the Forest
+
+## Scene 1-6: Departure into the Forest
+In this scene, Dante is filled with eagerness to explore the "divine forest" (the Earthly Paradise) that surrounds him. The new day's light is softened by the thick foliage of the woods. Without further hesitation, he leaves the riverbank and begins to walk slowly across the landscape, which is described as being olive-green in every direction.
+
+There is no dialogue in this passage; it is a first-person narrative account of Dante's movements.
+
+**Tag Resolution:**
+- `[1]` refers to Dante.
+
+## Scene 7-12: The Gentle Breeze
+In this scene, a gentle and steady breeze blows through the Earthly Paradise. The breeze brushes softly against Dante's forehead, feeling no more forceful than a light wind. This breeze is consistent enough that it causes all the leaves of the trees to tremble and bend in a single direction—toward the area where the holy mountain casts its first shadow.
+
+**Tag Resolution:**
+- `[1]` refers to Dante.
+
+## Scene 13-21: The Singing Birds
+**Analysis of the Scene: The Singing Birds**
+
+**What happens:**
+The scene continues the description of the Earthly Paradise's atmosphere. Although the breeze (from the previous scene) is bending the leaves, it is not so strong that it disrupts the birds in the treetops. Instead, the birds sing with great joy in the early hours of the day. The rustling of the leaves creates a rhythmic, humming accompaniment (a "drone" or *bordone*) to the birds' melodies. Dante compares this experience to the pine forests on the shore of Chiaia (in Naples), where birds flutter from branch to branch when the scirocco wind is released.
+
+**Who does what:**
+* **The birds:** Sing joyfully and move between the branches.
+* **The leaves:** Provide a musical backdrop to the birds' songs.
+* **Aeolus:** Mentioned in a simile as the one who releases the scirocco wind.
+
+**Tag Resolution:**
+* `{1:Ëolo}`: Aeolus (the Greek god/personification of the winds).
+
+## Scene 22-27: Entering the Deep Woods
+**Analysis of the Scene: Entering the Deep Woods**
+
+**What happens:**
+Dante continues his slow walk into the "ancient forest" of the Earthly Paradise. He has progressed so far into the woods that he can no longer see the point where he first entered. His forward movement is then halted by a small stream (*rio*) flowing to his left. Dante describes the stream's gentle current, noting how its small waves bend the grass growing along its bank.
+
+**Who does what:**
+* **Dante:** Walks deep into the forest until he loses sight of the entrance and is eventually stopped by a stream.
+* **The stream:** Blocks Dante's path and bends the grass on its bank.
+
+**Tag Resolution:**
+* `[1]`: Dante (his "slow steps")
+* `[2]`: Dante
+* `[3]`: Dante
+* `[4]`: Dante
+* `[5]`: Dante
+
+## Scene 28-33: The Dark Stream
+In this scene, Dante provides a detailed description of the stream (*rio*) he has encountered. 
+
+He observes a paradox: although the water appears dark (*bruna bruna*), he claims it is actually purer and clearer than any other water he has seen, because it "hides nothing." The reason for its dark appearance is not the quality of the water itself, but the environment; the stream flows beneath a "perpetual shadow" created by the dense canopy of the Earthly Paradise, which blocks out the light of both the sun and the moon.
+
+**Who does what:**
+* **Dante:** Observes and reflects on the clarity and appearance of the stream.
+* **The stream:** Flows darkly under the shadow of the trees.
+
+**Tag Resolution:**
+There are no numbered tags in this passage.
+
+## Scene 34-39: The Sight of the Lady
+**Analysis of the Scene: The Sight of the Lady**
+
+**What happens:**
+Dante carefully crosses the small stream (*fiumicello*) he had just been observing. He does this so that he can better admire the vast and lush variety of the greenery and foliage surrounding him. However, as he moves beyond the stream, something suddenly appears to him. This appearance is so striking and wondrous that it instantly captures his entire attention, diverting his mind away from all other thoughts. (In the context of the poem, this is the moment he first sees Matelda).
+
+**Who does what:**
+* **Dante:** Crosses the stream with cautious steps and observant eyes to look at the forest; he is then suddenly struck with wonder by a mysterious appearance.
+* **The "thing" (the lady):** Appears suddenly, commanding Dante's full attention.
+
+**Tag Resolution:**
+* `[1]`: Dante (the narrator/protagonist "I")
+* `[2]`: Dante (to whom the figure appears)
+
+## Scene 40-48: Dante's Invitation
+**Analysis of the Scene: Dante's Invitation**
+
+**What happens:**
+Dante spots a woman alone in the forest. She is singing and picking flowers, leaving a trail of blossoms behind her. Struck by her beauty and her loving demeanor, Dante speaks to her. He invites her to come closer to the stream where he is standing, explaining that he wishes to hear and understand the song she is singing.
+
+**Who does what:**
+* **The woman (Matelda):** She is walking alone, singing, and selecting flowers from the landscape.
+* **Dante:** He observes the woman, addresses her as "beautiful woman," and asks her to approach him.
+
+**Tag Resolution:**
+* `{1:una donna soletta}`: Matelda (the lady in the Earthly Paradise).
+* `[2:si]`: Matelda.
+* `{3:bella donna}`: Matelda.
+* `[4:ti]`: Matelda.
+* `[5:i']`: Dante.
+* `[6:+tu]`: Matelda.
+* `[7:io]`: Dante.
+* `[8:lei]`: Matelda.
+* `[9:io]`: Dante.
+* `[10:tu]`: Matelda.
+
+## Scene 49-51: A Mythological Comparison
+**Analysis of the Scene: A Mythological Comparison**
+
+**What happens:**
+Dante continues his address to the mysterious lady (Matelda). He tells her that her image—walking through the woods, singing and gathering flowers—reminds him of the mythological figure Proserpina (Persephone). Specifically, he evokes the time before Proserpina was abducted by Pluto, when she spent her days in the meadows of spring. He notes the sorrow of that time: Proserpina lost her mother (Ceres/Demeter), and in turn, the mother lost her daughter and the joy of the springtime.
+
+**Who does what:**
+* **Dante:** Speaks to Matelda, drawing a parallel between her current presence in the Earthly Paradise and the youth of Proserpina.
+* **Matelda:** The subject of the comparison (the "You" being addressed).
+* **Proserpina:** The mythological figure mentioned in the comparison.
+* **The mother (Ceres):** The mythological figure mentioned as having lost her daughter.
+
+**Tag Resolution:**
+* `[1:Tu]`: Matelda
+* `[2:mi]`: Dante
+* `{3:Proserpina}`: Proserpina
+* `{4:la madre}`: Ceres (the mother of Proserpina)
+* `[5:lei]`: Proserpina
+* `[6:ella]`: Proserpina
+
+## Scene 52-60: The Lady's Modest Approach
+**Analysis of the Scene: The Lady's Modest Approach**
+
+**What happens:**
+In this scene, the lady (Matelda) responds to Dante's invitation. Her movement is described as a graceful, dance-like progression; she walks slowly, placing one foot carefully before the other. As she turns toward Dante, she looks at the red and yellow flowers, but she does so with a modest, downcast gaze, which Dante compares to the behavior of a shy virgin. Ultimately, she grants Dante's request by approaching him, moving close enough that he can hear the "sweet sound" of her voice and perceive the meaning behind her words.
+
+**Who does what:**
+* **Matelda:** She turns, walks with a dance-like grace, looks at the flowers, and eventually approaches Dante.
+* **Dante:** He observes her modest movements and eventually hears her song.
+
+**Tag Resolution:**
+* `[1:+ella]`: Matelda
+* `[2:si]`: Matelda
+* `[3:sé]`: Matelda
+* `{4:donna}`: Matelda
+* `[5:+ella]`: Matelda
+* `[6:+ella]`: Matelda
+* `{7:fioretti}`: the little flowers (Note: This is an object, not a person, but tagged in the text)
+* `[8:me]`: Dante
+* `{9:vergine}`: a modest virgin (used here as a simile for Matelda)
+* `[10:+ella]`: Matelda
+* `[11:sé]`: Matelda
+* `[12:me]`: Dante
+
+## Scene 61-66: The Radiance of her Eyes
+**Analysis of the Scene: The Radiance of her Eyes**
+
+**What happens:**
+As soon as the lady (Matelda) reaches the riverbank where the grass is wet from the water, she looks up at Dante. Dante is profoundly struck by the radiance and light in her eyes. He makes a mythological comparison, stating that he does not believe the goddess Venus ever had such brilliant light beneath her eyelids, even at the moment she was pierced by the arrow of her son (Cupid), which was a departure from her usual nature.
+
+**Who does what:**
+* **Matelda:** Reaches the riverbank and looks up at Dante.
+* **Dante:** Observes Matelda's eyes and reflects on their extraordinary brilliance, comparing her to Venus.
+* **Venus:** Mentioned in a simile as the goddess of love.
+* **The son (Cupid):** Mentioned as the one who pierced Venus with love.
+
+**Tag Resolution:**
+* `[1:+ei]`: Matelda
+* `[2:+ei]`: Matelda
+* `[3:mi]`: Dante
+* `[4:+io]`: Dante
+* `{5:Venere}`: Venus
+* `{6:dal figlio}`: Cupid (the son of Venus)
+
+## Scene 67-75: Her Joyful Presence
+**Analysis of the Scene: Her Joyful Presence**
+
+**What happens:**
+Matelda stands on the opposite bank of the stream, smiling at Dante. She continues to handle the colorful flowers with her hands, contrasting the lushness of the Earthly Paradise with the barren, "seedless" heights of the mountain Dante has just climbed. Although they are separated by only three paces, the stream remains a physical barrier. Dante describes the intensity of his longing to reach her by using a classical analogy: he compares his desire to cross this small stream to the legendary struggle of Leander, who swam across the Hellespont to reach his lover. Dante suggests that Leander's longing to swim between Sestos and Abydos was no greater than the frustration Dante feels being kept apart from Matelda by the water. He also mentions Xerxes, who attempted to bridge the Hellespont, as a symbol of human pride.
+
+**Who does what:**
+* **Matelda:** Stands on the other side of the stream, smiling and touching the flowers.
+* **Dante:** Observes Matelda and reflects on his intense desire to cross the stream to reach her, comparing his feeling to that of Leander.
+* **Xerxes (Serse):** Mentioned as a historical/mythological figure who crossed the Hellespont.
+* **Leander (Leandro):** Mentioned in a simile as the lover who braved the Hellespont.
+
+**Tag Resolution:**
+* `[1:Ella]`: Matelda
+* `[2:color]`: the flowers (referring back to the *fioretti* mentioned in earlier scenes)
+* `[3:ci]`: Dante and Matelda
+* `{4:Serse}`: Xerxes
+* `{5:Leandro}`: Leander
+* `[6:me]`: Dante
+
+## Scene 76-84: The Lady's Greeting
+**Analysis of the Scene: The Lady's Greeting**
+
+**What happens:**
+Matelda finally speaks, addressing Dante. She observes that he is a newcomer to the Earthly Paradise and notes that he seems to be marvelling at her, perhaps with a touch of suspicion or confusion, especially because she is smiling. She suggests a remedy for his confusion: the psalm *Delectasti* ("Delight thyself in the Lord"), which she claims can bring light and clarity to his intellect. Acknowledging that Dante has just requested her presence, she invites him to ask whatever else he wishes to know, stating that she has come quickly to answer his questions as fully as necessary.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, identifies his state of wonder/suspicion, offers spiritual guidance via a psalm, and offers herself as a source of information.
+* **Dante:** The recipient of Matelda's greeting; he is the "newcomer" who has been observing her and asking her to approach.
+
+**Tag Resolution:**
+* `[1:Voi]`: Dante
+* `[2:io]`: Matelda
+* `[3:ella]`: Matelda
+* `[4:tienvi]`: Dante
+* `[5:tu]`: Dante
+* `[6:mi]`: Matelda
+* `[7:+tu]`: Dante
+* `[8:+tu]`: Dante
+* `[9:i']`: Matelda
+
+## Scene 85-87: Dante's Confusion
+In this brief scene, Dante responds to Matelda's invitation to ask her questions. He expresses a feeling of inner conflict or confusion. He tells her that the physical environment—specifically the water of the stream and the sounds of the forest—is challenging or contradicting ("impugnan") a new belief or "faith" he had formed based on something he had heard previously that is opposite to his current experience. He is struggling to reconcile his current sensory perceptions with prior information.
+
+**Tag Resolution:**
+- `[1:io]`: Dante (the speaker)
+- `[2:me]`: Dante
+- `[3:io]`: Dante
+
+## Scene 88-96: The Divine Purpose of the Place
+**Analysis of the Scene: The Divine Purpose of the Place**
+
+**What happens:**
+In response to Dante's confusion, Matelda takes on the role of a teacher. She promises to explain the reason for the nature of this place and to clear the "fog" of doubt from Dante's mind. She provides a theological explanation for the Earthly Paradise: she explains that God (the "Highest Good") created the first "good man" (Adam) and designed this specific location as a starting point or threshold for that man to enter into eternal peace. However, she notes that because of the man's own failure (the Original Sin), he remained in this paradise for only a short time, and his initial joy and laughter were replaced by tears and suffering.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, promising to clarify his confusion and explaining the origin and purpose of the Earthly Paradise and the fall of man.
+* **Dante:** The listener who is being guided out of his intellectual "fog."
+* **The Highest Good (God):** The creator who made the first man and the Earthly Paradise.
+* **The good man (Adam):** The first human, created for good, who was granted this paradise but lost it through his own fault.
+
+**Tag Resolution:**
+* `[1:ella]`: Matelda
+* `[2:Io]`: Matelda
+* `[3:ti]`: Dante
+* `[4:+io]`: Matelda
+* `[5:ti]`: Dante
+* `{6:Lo sommo Ben}`: The Highest Good (God)
+* `[7:esso]`: The Highest Good (God)
+* `[8:sé]`: The Highest Good (God)
+* `[9:+elli]`: The Highest Good (God)
+* `{10:l'uom buono}`: the good man (Adam)
+* `[11:+elli]`: The Highest Good (God)
+* `[12:lui]`: the good man (Adam)
+* `[13:+elli]`: the good man (Adam)
+* `[14:+elli]`: the good man (Adam)
+
+## Scene 97-102: The Mountain's Ascent
+**Analysis of the Scene: The Mountain's Ascent**
+
+**What happens:**
+Matelda continues her explanation of the nature of the Earthly Paradise and the geography of the mountain. She explains the physical reason why the mountain rises so high toward the sky. She describes the "disturbance" caused by the tides (*l'essalazion*) of the water and the earth, which are driven by the heat (a reference to the influence of the moon and sun). According to Matelda, the mountain was elevated to such a great height specifically to protect humanity from the destructive power of these tides (floods and seismic shifts), ensuring that the summit remains "free" and safe from such turmoil.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, providing a cosmological/geological explanation for the height of the Mountain of Purgatory.
+* **The mountain:** Rises toward the heavens to serve as a sanctuary.
+* **The tides/elements:** Create disturbances that follow the "heat."
+* **Man:** The beneficiary of the mountain's height, being protected from the "war" of the elements.
+
+**Tag Resolution:**
+* `{1:l'uomo}`: Man/Humanity (specifically referring to the first man, Adam, and the human race in general).
+
+## Scene 103-114: The Mechanics of the Wind and Trees
+In this scene, Matelda continues her role as a teacher, providing Dante with a cosmological and biological explanation for the phenomena he has observed in the Earthly Paradise.
+
+**What happens:**
+Matelda explains the source of the breeze and the sound of the forest. She describes how the air rotates in synchronization with the "first sphere" (the Moon's orbit). Because the summit of the mountain is so high and immersed in this "living air," the rotating motion of the atmosphere strikes the dense forest, creating the rhythmic humming or rustling sound that Dante noticed earlier. 
+
+Furthermore, she explains a mystical-biological process: when the wind strikes the trees, the plants transfer their "virtue" (their essence or innate power) into the breeze. As the wind continues to rotate and travel, it carries these essences to other parts of the earth. Depending on the nature of the land and its relationship with the sky, different regions "conceive" and produce different types of trees and plants based on the diverse virtues carried by the wind.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, explaining the mechanics of the wind, the sounds of the woods, and the distribution of botanical diversity across the world.
+* **Dante:** The silent listener, receiving this explanation.
+* **The air/breeze:** Rotates with the celestial spheres, strikes the forest, and transports the "virtues" of the plants.
+* **The plants/forest:** Produce sound when struck by the wind and infuse the air with their essence.
+
+**Tag Resolution:**
+There are no numbered tags in this passage to resolve.
+
+## Scene 115-117: Seedless Growth
+In this brief scene, Matelda continues her pedagogical explanation to Dante. Having just described how the wind carries the "virtue" (essence) of plants from one region to another, she now argues that it should no longer be a cause of wonder ("maraviglia") that some plants in the Earthly Paradise appear to grow without any visible seed. She is essentially providing the logical conclusion to her previous cosmological lesson: the "seeds" are invisible, carried by the air.
+
+**Who does what:**
+* **Matelda:** Continues speaking, explaining why the seedless growth of some plants is not miraculous once the mechanics of the wind are understood.
+* **Dante:** The listener who is being taught.
+
+**Tag Resolution:**
+There are no numbered tags in this passage.
+
+## Scene 118-120: The Bounty of the Land
+**Analysis of the Scene: The Bounty of the Land**
+
+**What happens:**
+Matelda continues her pedagogical explanation to Dante. She expands on the botanical richness of the Earthly Paradise (the "holy countryside"), informing him that it is filled with every possible kind of seed. Furthermore, she notes a supernatural quality of the flora here: the paradise produces fruit that is incorruptible and does not decay or perish, unlike the fruit found in the mortal world outside this sacred space.
+
+**Who does what:**
+* **Matelda:** Continues speaking to Dante, describing the abundance and the eternal nature of the plants and fruits in the Earthly Paradise.
+* **Dante:** The listener who is being informed about the nature of his current surroundings.
+
+**Tag Resolution:**
+* `[1:tu]`: Dante (the person Matelda is addressing).
+* `[2:+ella]`: The holy countryside (*la campagna santa* / the Earthly Paradise).
+
+## Scene 121-126: The Two Springs
+**Analysis of the Scene: The Two Springs**
+
+**What happens:**
+Matelda continues her pedagogical explanation, this time focusing on the stream (*rio*) that Dante has just crossed. She explains that this water is not like the water in ordinary earthly rivers. Natural rivers are subject to the water cycle—evaporating as vapor or freezing into ice—and their flow (their "strength" or *lena*) fluctuates, increasing or decreasing based on these conditions. 
+
+In contrast, she explains that the water in the Earthly Paradise comes from a "steady and certain" fountain. This divine source does not rely on weather or natural cycles; instead, it is maintained by the will of God. The fountain receives exactly as much water from God's will as it pours out, and it divides its flow into two separate directions (this is a symbolic reference to the rivers Lethe and Eunoe).
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, explaining the supernatural and divine nature of the stream's source.
+* **Dante:** The listener who is observing the water.
+* **God:** The source of the fountain's constancy, maintaining the water level through His will.
+* **The ordinary river:** Used as a point of comparison to highlight the difference between natural and divine water.
+
+**Tag Resolution:**
+* `[1:+tu]`: Dante (the person Matelda is addressing).
+* `[2:+egli]`: the river (*fiume*).
+* `[3:+ella]`: the water (*l'acqua*).
+* `{4:Dio}`: God.
+
+## Scene 127-129: Forgetfulness and Memory
+**Analysis of the Scene: Forgetfulness and Memory**
+
+**What happens:**
+Matelda continues her explanation of the divine fountain. She reveals that the water, which she previously stated divides into two directions, possesses two distinct supernatural powers (virtues). The flow on one side has the power to erase the memory of one's sins. The flow on the other side has the power to restore the memory of every good deed the soul has performed. (In the broader context of the poem, these are the rivers Lethe and Eunoe).
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, explaining the purifying and restorative properties of the two streams of water.
+* **Dante:** The listener receiving this revelation.
+* **The water/streams:** These are the active agents; one removes the memory of sin, and the other returns the memory of good works.
+
+**Tag Resolution:**
+* `[1:+ella]`: The water/stream (specifically the one that becomes the river Lethe).
+* `[2:+ella]`: The water/stream (specifically the one that becomes the river Eunoe).
+
+## Scene 130-133: Lethe and Eunoe
+**Analysis of the Scene: Lethe and Eunoe**
+
+**What happens:**
+Matelda continues her pedagogical explanation, providing the specific names for the two streams she just described. She identifies the stream that erases the memory of sin as Lethe and the stream that restores the memory of good deeds as Eunoe. She further explains the "mechanics" of these divine waters: the restorative power of Eunoe is not effective unless the soul has first tasted the waters of Lethe. To achieve the full purification of the soul, one must first forget the bad and then remember the good. She concludes by noting that this particular sensory experience (the tasting of these waters) is superior to any other taste.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, naming the rivers and explaining the necessary sequence of tasting them for the process to be effective.
+* **Dante:** The listener receiving this theological and mythological instruction.
+* **Lethe:** The river that erases the memory of sin.
+* **Eunoe:** The river that restores the memory of good works.
+
+**Tag Resolution:**
+* `{1:Letè}`: Lethe (the river of forgetfulness).
+* `{2:Eünoè}`: Eunoe (the river of memory).
+* `[3:si]`: Eunoe (referring to the name by which it is called).
+* `[4:+ella]`: Eunoe (the river/water).
+* `[5:+ei]`: the water/the river (referring to the waters of the two rivers, specifically the requirement to taste the first before the second).
+
+## Scene 134-138: A Final Promise
+**Analysis of the Scene: A Final Promise**
+
+**What happens:**
+In this brief concluding passage of her pedagogical explanation, Matelda addresses Dante's intellectual curiosity. She acknowledges that his "thirst" for knowledge may already be satisfied by the extensive explanations she has provided regarding the nature of the Earthly Paradise and the two rivers. Nevertheless, she offers to provide a "corollary"—a final, additional piece of information—as a gesture of grace. She expresses her belief that Dante will find her further words welcome, even if she speaks more than she had originally intended or promised.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, offering one last piece of insight despite the possibility that he has already heard enough.
+* **Dante:** The listener, whose intellectual "thirst" is the subject of Matelda's comment.
+
+**Tag Resolution:**
+* `[1:io]`: Matelda (the speaker)
+* `[2:ti]`: Dante
+* `[3:+io]`: Matelda (the speaker)
+* `[4:+io]`: Matelda (the speaker)
+* `[5:ti]`: Dante
+* `[6:teco]`: Dante ("with you")
+
+## Scene 139-144: The Golden Age
+**Analysis of the Scene: The Golden Age**
+
+**What happens:**
+In this concluding part of her explanation, Matelda connects the reality of the Earthly Paradise to classical mythology and the history of humanity. She suggests that the ancient poets who wrote about the "Golden Age" and its state of perfect happiness were likely imagining or dreaming of this very place, perhaps associating it with Mount Parnassus (the home of the Muses). She identifies this location as the site where "the human root" (the origin of mankind) was originally innocent. Finally, she describes the eternal spring and the abundance of fruit here, asserting that this is the true "nectar" that legends describe.
+
+**Who does what:**
+* **Matelda:** Speaks to Dante, providing a final synthesis that links the Earthly Paradise to the poets' visions of the Golden Age and the primordial innocence of Adam.
+* **Ancient Poets:** Mentioned as those who wrote about the Golden Age and who likely envisioned this paradise in their dreams.
+* **The human root (Adam):** The figure who was innocent in this place.
+* **Dante:** The listener.
+
+**Tag Resolution:**
+* `[1:Quelli]`: The ancient poets.
+* `[2:+elli]`: The ancient poets.
+* `{3:l'umana radice}`: The human root (Adam/the origin of humanity).
+
+## Scene 145-148: Dante's Reflection
+**Analysis of the Scene: Dante's Reflection**
+
+**What happens:**
+After listening to Matelda's extensive explanation about the Earthly Paradise and the two rivers, Dante turns around to check on his companions. He looks at the two poets accompanying him (Virgil and Statius) and observes that they are smiling, having heard the conclusion of Matelda's discourse. After this brief moment of connection with his guides, Dante turns his gaze back to the beautiful lady.
+
+**Who does what:**
+* **Dante:** Turns around to look at his companions and then returns his attention to Matelda.
+* **The poets (Virgil and Statius):** Listen to Matelda's explanation and respond with smiles.
+* **Matelda:** The object of Dante's returning gaze.
+
+**Tag Resolution:**
+* `[1:Io]`: Dante
+* `[2:mi]`: Dante
+* `{3:miei poeti}`: Virgil and Statius
+* `[4:+io]`: Dante
+* `[5:+elli]`: Virgil and Statius
+* `{6:la bella donna}`: Matelda
+* `[7:+io]`: Dante
+
+# recap
+- Dante, Virgil, and Statius are in the Earthly Paradise with Matelda.
+- Matelda has just concluded her explanation of the paradise's nature and the two rivers of memory and forgetfulness.
+- Dante is currently gazing back at Matelda after a brief moment of connection with his guides.

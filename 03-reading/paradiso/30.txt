@@ -1,0 +1,396 @@
+# Canto 30 — The Vision of the Empyrean and the Celestial Rose
+
+## Scene 1-15: The Fading of the Earthly Light
+In this scene, Dante describes a shift in his visual perception. He begins with a terrestrial analogy: he imagines the world thousands of miles away, where it is noon, and explains how the sky's light (specifically the moon) eventually disappears from view as the perspective shifts or the distance grows. He then applies this to his current experience in the Empyrean: the blinding, triumphant light of God, which had "conquered" his vision, gradually fades from his sight. Because he can no longer behold that overwhelming light, he is compelled by love to turn his eyes back toward Beatrice.
+
+**Who does what:**
+*   **Dante** is observing the divine light, experiences its fading, and turns his gaze back to Beatrice.
+*   **Beatrice** is present as Dante's guide and the object of his gaze.
+*   **Love** (personified) is the force that prompts Dante to look back at Beatrice.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing his experiences and internal state.
+
+**Resolution of Tags:**
+*   `[1:ci]`: This is a locative adverb meaning "there," referring to **Earth** (the terrestrial world).
+*   `[2:noi]`: **Dante and Beatrice** (who are positioned far "above" or "deep" relative to the earthly plane).
+*   `{3:la chiarissima ancella}`: **The Moon** (literally "the brightest handmaiden" of the sun).
+*   `{4:la più bella}`: **Beatrice**.
+*   `[5:mi]`: **Dante**.
+*   `{6:Bëatrice}`: **Beatrice**.
+*   `{7:amor}`: **Love** (personified as the driving force of the pilgrim's will).
+*   `[8:mi]`: **Dante**.
+
+## Scene 16-27: Praise for Beatrice
+In this scene, Dante takes a momentary pause in the narrative to reflect on the sheer inadequacy of human language—and specifically his own poetic skill—to describe the beauty of Beatrice. He admits that if all the praise he has written for her so far were compressed into a single hymn, it would still be insufficient. He posits that Beatrice's beauty is so transcendent that it exceeds the capacity of any created being ([3:noi]) to fully grasp; in fact, he believes that only God, her Creator, is capable of fully appreciating her beauty.
+
+Dante then compares himself to all the poets of the past, both comic and tragic, claiming that he has pushed the boundaries of poetic praise further than any of them ever did. However, he concludes by admitting that despite his efforts, the mere memory of Beatrice's "sweet smile" is so overwhelming that it makes his mind reel, effectively "emptying" him of his own self-awareness, much like the blinding glare of the sun.
+
+**Who does what:**
+*   **Dante** reflects on his own poetry, acknowledges the limitations of human language, and experiences a state of mental disorientation caused by the memory of Beatrice's smile.
+*   **Beatrice** is the object of the praise and the source of the "sweet smile."
+*   **God** is identified as the only being capable of fully enjoying Beatrice's beauty.
+
+**Who speaks:**
+*   **Dante** is the narrator, addressing the reader.
+
+**Resolution of Tags:**
+*   `[1:lei]`: **Beatrice**.
+*   `[2:io]`: **Dante**.
+*   `[3:noi]`: **Created beings/humans** (including Dante and Beatrice, as opposed to the Creator).
+*   `[4:io]`: **Dante**.
+*   `{5:il suo fattor}`: **God** (the "Maker" of Beatrice).
+*   `[6:la]`: **Beatrice** (or specifically, her beauty).
+*   `[7:+io]`: **Dante**.
+*   `[8:mi]`: **Dante**.
+*   `[9:+io]`: **Dante**.
+*   `[10:me]`: **Dante**.
+
+## Scene 28-33: The Limits of Poetry
+In this scene, Dante reflects on the lifelong pursuit of his poetic expression. He looks back over the entire span of his experience with Beatrice—from the very first time he saw her face in the earthly world until the present moment of the divine vision in the Empyrean. He admits that his poetry has never been able to perfectly capture or "follow" her beauty with absolute precision. He concludes that he must now stop attempting to describe her beauty through verse, because every artist eventually reaches a limit where their skill can no longer keep pace with the subject they are depicting.
+
+**Who does what:**
+* **Dante** reflects on his history as a poet and recognizes the inherent limitations of art when faced with transcendent beauty.
+* **Beatrice** is the subject whose beauty is the object of Dante's lifelong poetic effort.
+
+**Who speaks:**
+* **Dante** is the narrator, addressing the reader.
+
+**Resolution of Tags:**
+* `[1:i']`: **Dante** (the pilgrim/poet).
+* `[2:m']`: **Dante**.
+* `{3:ciascuno artista}`: **Any artist / artists in general** (referring to the universal human limitation of art).
+
+## Scene 34-45: The Angelic Trumpet
+In this scene, Dante transitions from his internal reflection on Beatrice's beauty to the next phase of the journey. He decides to stop his own descriptions and let a more official announcement take over. An angel (the "swift guide") blows a trumpet, signaling the completion of a difficult stage of the ascent. The angel then speaks, informing Dante and Beatrice that they have now exited the physical universe (the "greatest body") and have entered the Empyrean. The angel describes this realm as a place of pure intellectual light and love for God, and tells Dante that he will now see the two heavenly armies (the saints and the angels) in their final state of divine justice.
+
+**Who does what:**
+* **Dante** stops his poetic narration to allow a divine herald to speak.
+* **The Angel** blows a trumpet and explains their current location and the nature of the Empyrean.
+* **God** is the "true good" and the source of the love that fills the Empyrean.
+
+**Who speaks:**
+* **Dante** is the narrator for the first few lines.
+* **The Angel** speaks from line 38 to the end of the scene, addressing **Dante**.
+
+**Resolution of Tags:**
+* `[1:io]`: **Dante** (the narrator/poet).
+* `[2:quel]`: This refers back to the **"bando" (announcement/proclamation)** of the trumpet.
+* `{3:spedito duce}`: **The Angel** (the herald/guide).
+* `[4:+egli]`: **The Angel**.
+* `[5:Noi]`: **The Angel, Dante, and Beatrice** (the group currently ascending).
+* `{6:vero ben}`: **God** (the "true good").
+* `[7:+tu]`: **Dante**.
+* `[8:tu]`: **Dante**.
+
+## Scene 46-54: The Blinding Light
+**Analysis of the Scene: The Blinding Light**
+
+**What happens:**
+Dante describes a sudden, overwhelming experience of divine light. He uses a simile, comparing the experience to a flash of lightning that startles the visual spirits and blinds even the strongest eyes. This "living light" completely surrounds him, wrapping him in a "veil" of brilliance that renders him temporarily blind. Following this experience, the Angel explains the purpose of this blinding: the divine love that governs the Empyrean welcomes newcomers in this manner to prepare them. He uses the metaphor of a candle (Dante) being prepared to receive a flame (God), suggesting that the pilgrim's senses must be "reset" or purified before he can behold the ultimate divine light.
+
+**Who does what:**
+*   **The Divine Light** (acting as an instrument of God) blinds **Dante**.
+*   **Dante** is overwhelmed and loses his sight.
+*   **The Angel** explains the theological reason for this blinding.
+*   **Divine Love** (God) welcomes the pilgrim into the celestial realm.
+
+**Who speaks:**
+*   **Dante** narrates the physical experience (lines 46-51).
+*   **The Angel** speaks to **Dante** (lines 52-54), explaining the nature of the experience.
+
+**Resolution of Tags:**
+*   `[1:mi]`: **Dante** (the pilgrim).
+*   `[2:m']`: **Dante** (the pilgrim).
+*   `[3:sé]`: **God** (specifically, the "amor" or Divine Love that governs the Empyrean).
+
+## Scene 55-60: The Overwhelming Vision
+In this scene, Dante describes the immediate aftermath of the Angel's explanation. As soon as the Angel's words reach him, Dante realizes that the transformation he is experiencing is beyond his own human capacity or power (his "virtue"). He is then granted a "new vision"—his sight is "re-ignited" (continuing the candle metaphor from the previous scene). This new, divine capacity for seeing is so pure and powerful that no light, no matter how intense or brilliant, can now blind him; his eyes have been "defended" or fortified to withstand the glory of the Empyrean.
+
+**Who does what:**
+*   **Dante** receives and understands the Angel's words, recognizes his own human limitations, and experiences a supernatural enhancement of his vision.
+*   **The Divine Power/Grace** (implied) is the agent that "re-lights" Dante's sight, preparing him for the ultimate vision.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing the transition of his sensory perception.
+
+**Resolution of Tags:**
+*   `[1:me]`: **Dante**
+*   `[2:io]`: **Dante**
+*   `[3:me]`: **Dante**
+*   `[4:+io]`: **Dante**
+*   `[5:mi]`: **Dante**
+
+## Scene 61-69: The Luminous River
+In this scene, Dante describes a stunning visual manifestation of the divine light. He sees a river made of light, bordered by two banks that look like a wondrous, eternal springtime. From this river, "living sparks" emerge and land among the flowers, looking like rubies set in gold. After being "intoxicated" by the fragrance of the flowers, these sparks dive back into the whirlpool of light. The movement is constant and cyclical: as one spark enters the river, another emerges.
+
+In the theological context of the *Paradiso*, these "living sparks" represent the souls of the blessed (the saints), who are moving in a state of perpetual joy and contemplation of God.
+
+**Who does what:**
+*   **Dante** is the observer, witnessing this celestial phenomenon.
+*   **The Blessed Souls** (the "living sparks") emerge from the river of light, land among the flowers, and then return to the river.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing the scene to the reader.
+
+**Resolution of Tags:**
+*   `[1:+io]`: **Dante**
+*   `{2:faville vive}`: **The Blessed Souls** (represented as living sparks)
+*   `[3:+elli]`: **The Blessed Souls**
+*   `[4:si]`: **The Blessed Souls**
+*   `[5:+elli]`: **The Blessed Souls**
+*   `[6:sé]`: **The Blessed Souls**
+*   `[7:una]`: **A Blessed Soul** (one of the sparks)
+*   `[8:un'altra]`: **A Blessed Soul** (another of the sparks)
+
+## Scene 70-75: The Voice of the Light
+In this scene, Beatrice speaks to Dante as he gazes upon the river of light and the living sparks. She notices his intense eagerness and longing to understand what he is seeing. She tells him that his growing desire pleases her, but she explains that before his "thirst" for knowledge can be satisfied, he must first "drink" from the divine waters of the Empyrean—meaning he must further immerse himself in divine grace and light to be capable of understanding the vision.
+
+**Who does what:**
+*   **Beatrice** observes Dante's intellectual and spiritual longing and tells him he must first undergo a further purification or absorption of divine light.
+*   **Dante** is the recipient of this instruction, filled with a "high desire" to understand the celestial phenomena.
+
+**Who speaks:**
+*   **Beatrice** speaks to **Dante** (lines 70-74).
+*   **Dante** is the narrator reporting the conversation (line 75).
+
+**Resolution of Tags:**
+*   `[1:t']`: **Dante** (the person being inflamed by desire).
+*   `[2:tu]`: **Dante** (the one who sees the sparks).
+*   `[3:mi]`: **Beatrice** (the speaker who is pleased by Dante's eagerness).
+*   `[4:tu]`: **Dante** (the one who must "drink" from the light).
+*   `[5:te]`: **Dante** (the one whose thirst must be quenched).
+*   `[6:mi]`: **Dante** (the narrator being spoken to).
+*   `{7:il sol de li occhi miei}`: **Beatrice** (the "sun of my eyes").
+
+## Scene 76-81: Instruction on Perception
+**Analysis of the Scene: Instruction on Perception**
+
+**What happens:**
+Beatrice continues her instruction to Dante regarding the river of light and the "living sparks" (the blessed souls) he has just witnessed. She explains that these beautiful images—the river, the topaz-like sparks, and the "laughing" grass—are actually "umbriferi prefazi" (shadowy prefaces). In other words, they are simplified, symbolic representations used to prepare his human mind for a greater truth. Beatrice clarifies that there is nothing wrong or "harsh" about these visions themselves; rather, the limitation lies with Dante. His spiritual capacity (his "sight") is not yet developed enough to perceive the souls in their full, superb glory.
+
+**Who does what:**
+*   **Beatrice** explains the nature of the celestial imagery as symbolic preparations (prefaces) for a higher reality.
+*   **Dante** is the student whose current perceptive capacity is the "defect" preventing him from seeing the full truth.
+*   **The Blessed Souls** are the subjects being represented by the river and the sparks.
+
+**Who speaks:**
+*   **Beatrice** speaks to **Dante** (lines 76-81).
+
+**Resolution of Tags:**
+*   `[1:+ei]`: **Beatrice** (the speaker who "added" to her previous statement).
+*   `[2:lor]`: **The Blessed Souls** (the images are prefaces to the *true* state of the souls).
+*   `[3:+tu]`: **Dante** (the one who has not yet seen the full glory).
+
+## Scene 82-90: Dante's Immersive Drinking
+In this scene, Dante describes the act of "drinking" from the river of light as Beatrice previously instructed. He uses a simile to illustrate his eagerness: he compares himself to a young child who, upon waking, rushes instinctively toward milk. Just as that child would run to satisfy a basic need, Dante bends his face toward the luminous wave to rinse and refresh his eyes ("far migliori spegli"), further purifying his vision. As soon as his eyelids "drink" from the light, Dante experiences a profound shift in perception: the river, which had appeared to have a linear length, suddenly seems to become round (circular), signaling a transition to a higher, more divine way of seeing.
+
+**Who does what:**
+* **Dante** bends down to the river of light to rinse his eyes and experiences a change in his visual perception (seeing the linear river become round).
+* **The child (generic figure)** is used in a simile to represent the instinctive, eager rush toward nourishment/light.
+
+**Who speaks:**
+* **Dante** is the narrator, describing his experience.
+
+**Resolution of Tags:**
+* `{1:fantin}`: **A child/young boy** (used as a generic figure in a simile).
+* `[2:+egli]`: **The child** (`{1:fantin}`).
+* `[3:si]`: **The child** (`{1:fantin}`).
+* `[4:io]`: **Dante**.
+* `[5:mi]`: **Dante**.
+
+## Scene 91-96: The Revelation of the Two Courts
+In this scene, Dante experiences a sudden and profound shift in perception, moving from symbolic imagery to a direct vision of celestial reality. He uses a simile to describe this transition: he compares the experience to people wearing masks (larvae) who, upon removing their disguises, reveal their true identities. 
+
+Similarly, the "flowers" and "living sparks" (which Beatrice had previously explained were merely "shadowy prefaces" or simplified symbols for the human mind) are transformed into their true, glorious forms. As a result of this visual "unmasking," Dante is now able to see the "two courts of heaven"—the celestial hierarchies of the angels and the saints—clearly and manifestly.
+
+**Who does what:**
+* **Dante** observes the transformation of the imagery and finally perceives the true nature of the celestial orders.
+* **The Blessed Souls/Angels** (represented by the flowers and sparks) reveal their true, glorious forms as the "two courts."
+* **Generic people** (mentioned in the simile) act as the analog for the transformation.
+
+**Who speaks:**
+* **Dante** is the narrator, describing his experience to the reader.
+
+**Resolution of Tags:**
+* `{1:gente}`: **Generic people** (used as a comparison in a simile).
+* `[2:+ella]`: **The people** (`{1:gente}`).
+* `[3:si]`: **The people** (`{1:gente}`).
+* `[4:+ella]`: **The people** (`{1:gente}`).
+* `[5:mi]`: **Dante**.
+* `[6:io]`: **Dante**.
+
+## Scene 97-102: The Prayer to God
+In this scene, Dante pauses his narrative to offer a direct prayer to God. Having just witnessed the "two courts" of heaven, he is acutely aware of the gap between the majesty of the vision and the limitations of his human language. He asks God for the "virtue" (the strength, grace, or ability) to accurately describe the "true kingdom" he has seen. He concludes with a theological observation: that the divine Light (God) is what allows the Creator to become visible to the created being, and that the ultimate peace of a soul is found solely in the act of beholding God.
+
+**Who does what:**
+* **Dante** prays to God, asking for the capacity to translate his divine vision into poetry.
+* **God** is the recipient of the prayer and the source of the light that enables the vision.
+* **The created being** (the blessed soul) finds eternal peace by seeing God.
+
+**Who speaks:**
+* **Dante** speaks to **God** (lines 97-102).
+
+**Resolution of Tags:**
+* `{1:Dio}`: **God**
+* `[2:io]`: **Dante**
+* `[3:+tu]`: **God**
+* `[4:ïo]`: **Dante**
+* `{5:Lume}`: **God** (specifically, God as the Divine Light)
+* `{6:lo creatore}`: **God**
+* `{7:quella creatura}`: **A created being** (a blessed soul or angel)
+* `[8:lui]`: **God**
+
+## Scene 103-108: The Geometry of the Light
+In this scene, Dante provides a geometric and cosmological description of the divine light he is witnessing. He explains that this light expands in a circular form of such immense proportions that the physical sun would be tiny in comparison to its circumference. He further describes the light's interaction with the physical universe: the light's appearance is made of rays that reflect upon the "mobile primo" (the Primum Mobile, the outermost sphere of the physical universe). He notes that the Primum Mobile derives its very life and power from this divine light.
+
+**Who does what:**
+*   **The Divine Light/Glory of God** extends itself in a vast circle and provides the energy and existence required for the physical universe to function.
+*   **The Primum Mobile** (the outermost sphere) receives its "life and power" from this light.
+*   **Dante** is the observer and narrator, describing the scale and mechanics of the divine light.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing his vision to the reader.
+
+**Resolution of Tags:**
+*   `[1:+ella]`: **The Divine Light/Glory of God** (referring to *la luce* or *la gloria*, which are feminine nouns in Italian).
+
+## Scene 109-114: The Mirroring of the Saints
+**Analysis of the Scene: The Mirroring of the Saints**
+
+**What happens:**
+Dante describes the way the blessed souls are manifested within the divine light using a nature-based simile. He compares the scene to a lush, green hillside covered in flowers that reflects itself in the still water below to behold its own beauty. In the same way, while standing within the surrounding divine light, Dante observes the souls of the blessed reflecting across "more than a thousand thresholds" (representing the various ranks and hierarchies of the saints). The "return" mentioned refers to the souls' final homecoming to God after their earthly and purgatorial journeys.
+
+**Who does what:**
+*   **Dante** is the observer, watching the souls of the blessed reflect in the divine light.
+*   **The Blessed Souls** (the "we" who have returned) are the ones being mirrored in the light, appearing in their various ranks (the "thousand thresholds").
+*   **The Divine Light** acts as the mirror (the "water" in the simile) that allows the souls' glory to be seen.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing his vision to the reader.
+
+**Resolution of Tags:**
+*   `[1:+io]`: **Dante** (the observer).
+*   `[2:noi]`: **The Blessed Souls/Saints** (including Dante, as he is now positioned among them in the Empyrean, referring to the collective of those who have "returned" to God).
+
+## Scene 115-123: The Magnitude of the Rose
+In this scene, Dante reflects on the immense scale and nature of the "Celestial Rose" (the arrangement of the blessed souls). He observes that if even the lowest rank of the Rose contains such an incredible amount of light, the overall breadth of the entire structure must be unfathomable. Dante describes his experience of perceiving this vastness: his vision does not get lost or overwhelmed by the scale; instead, it encompasses the entirety and the essence of the joy of the blessed. He notes that in this realm, the traditional concepts of spatial distance—near and far, or the act of placing and lifting—are meaningless. This is because the Empyrean is a realm where God governs directly, without a physical medium, meaning that the laws of natural physics (such as perspective and distance) no longer apply.
+
+**Who does what:**
+*   **Dante** observes the Celestial Rose and experiences a supernatural form of perception.
+*   **Dante's vision** encompasses the totality of the divine joy.
+*   **God** governs the Empyrean directly, overriding the laws of nature.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing his vision to the reader.
+
+**Resolution of Tags:**
+*   `[1:+ella]`: **Dante's vision** (referring back to *la vista mia* in line 118; effectively **Dante**).
+*   `[2:+ella]`: **Dante's vision** (referring back to *la vista mia*; effectively **Dante**).
+*   `[3:+ella]`: **Dante's vision** (referring back to *la vista mia*; effectively **Dante**).
+*   `{4:Dio}`: **God**.
+
+## Scene 124-127: The Scent of Praise
+In this scene, Dante describes the visual and olfactory properties of the "everlasting rose" (the arrangement of the blessed souls). He notes its yellow hue, its expansive structure, and a fragrance of praise that it emanates toward the "sun that always verna" (the eternal sun, which is God). As he witnesses this, Dante begins a simile to describe his own internal state: he compares himself to someone who is overwhelmed by a vision, feeling a strong desire to speak and describe the experience, yet remaining silent due to the sheer magnitude of the glory.
+
+**Who does what:**
+*   **The Eternal Rose / The Blessed Souls** emanate a scent of praise directed toward God.
+*   **God** (the eternal sun) is the recipient of this praise.
+*   **Dante** observes this scene and feels the tension between his desire to articulate the vision and his inability to find words.
+
+**Who speaks:**
+*   **Dante** is the narrator, describing his observations and feelings to the reader.
+
+**Resolution of Tags:**
+*   `[1:colui]`: **Dante** (the pilgrim/poet who is silent but wants to speak).
+
+## Scene 128-132: Beatrice Points to the Assembly
+In this scene, Beatrice takes the initiative to guide Dante's attention toward the vast assembly of the blessed souls. She pulls him along and urges him to behold the scale and fullness of the "Celestial Rose." She refers to this assembly as "our city," explicitly identifying herself as a member of this community of saints. She points out that the "seats" (the ranks of the blessed) are so packed that there is hardly any room left for anyone else, emphasizing the immense number of souls who have achieved salvation.
+
+**Who does what:**
+*   **Beatrice** leads **Dante** and directs his gaze toward the assembly of the blessed.
+*   **The Blessed Souls** (the "convent") occupy the "seats" of the celestial city.
+
+**Who speaks:**
+*   **Beatrice** speaks to **Dante** (lines 128-132).
+
+**Resolution of Tags:**
+*   `[1:mi]`: **Dante**.
+*   `{2:Bëatrice}`: **Beatrice**.
+*   `[3:+ella]`: **Beatrice**.
+*   `[4:+tu]`: **Dante**.
+*   `{5:l convento de le bianche stole}`: **The Blessed Souls/Saints**.
+*   `[6:+tu]`: **Dante**.
+*   `[7:+tu]`: **Dante**.
+*   `{8:poca gente}`: **The few remaining people** (those not yet admitted to the assembly).
+
+## Scene 133-138: The Prophecy of Henry VII
+**Analysis of the Scene: The Prophecy of Henry VII**
+
+**What happens:**
+Beatrice continues her guidance, but shifts from the general nature of the celestial city to a specific prophecy regarding the earthly realm. She directs Dante’s attention to a particular "great seat" in the Celestial Rose, marked by a crown. She informs Dante that before he himself "dines at these nuptials" (a metaphor for reaching his final union with God at the end of his journey), the soul of "the high Arrigo" (Henry VII, the Holy Roman Emperor) will occupy that seat. Beatrice predicts that Henry VII will descend to "set Italy straight" (restore political order and peace), though she notes he will arrive before Italy is truly ready or prepared for such a restoration.
+
+**Who does what:**
+*   **Beatrice** makes a prophecy about the political future of Italy and the spiritual destiny of Henry VII.
+*   **Dante** is the listener, observing the "great seat" as Beatrice describes it.
+*   **Henry VII** is the subject of the prophecy—the emperor who will attempt to reform Italy and eventually earn a place of honor in the Empyrean.
+
+**Who speaks:**
+*   **Beatrice** speaks to **Dante** (lines 133-138).
+
+**Resolution of Tags:**
+*   `[1:tu]`: **Dante** (the one looking at the seat).
+*   `[2:tu]`: **Dante** (the one who will eventually "dine" at the divine nuptials).
+*   `{3:l'alma}`: **Henry VII** (specifically, the soul of the Emperor).
+*   `{4:Arrigo}`: **Henry VII**.
+*   `[5:+lui]`: **Henry VII** (the one who will come to straighten Italy).
+
+## Scene 139-141: The Warning Against Greed
+In this scene, Beatrice is providing a biting critique of the political and moral state of Italy. Following her prophecy about Henry VII, she explains why Italy is in such a wretched state: "blind greed" has corrupted the people. She employs a tragic metaphor to describe this self-destructive behavior: she compares the Italians to a starving infant who is so confused and desperate that he pushes away the wet-nurse who is the only one capable of feeding and saving him. In this allegory, the "wet-nurse" represents the rightful authority of the Holy Roman Emperor, whose leadership the Italians reject due to their own avarice.
+
+**Who does what:**
+* **Blind Greed** (personified) beguiles and manipulates the people of Italy.
+* **The Italians** (metaphorically represented as a starving child) reject the only source of their salvation.
+* **The Holy Roman Emperor** (metaphorically represented as the wet-nurse) is the one being driven away by the people he is meant to lead.
+
+**Who speaks:**
+* **Beatrice** is speaking to **Dante**.
+
+**Resolution of Tags:**
+* `{1:La cieca cupidigia}`: **Blind Greed / Avarice** (personified).
+* `[2:v']`: **The people of Italy / The Italians**.
+* `[3:+ella]`: **Blind Greed / Avarice** (referring back to tag 1).
+* `[4:v']`: **The people of Italy / The Italians**.
+* `{5:al fantolino}`: **Italy / The Italians** (metaphorically represented as a starving child).
+* `[6:+egli]`: **Italy / The Italians** (referring back to tag 5).
+* `{7:la balia}`: **The Holy Roman Emperor** (metaphorically represented as the wet-nurse).
+
+## Scene 142-148: The Fate of the Simoniac
+In this scene, Beatrice continues her political and spiritual prophecy, shifting her focus from the Emperor Henry VII to the corruption within the Church. She describes a future Pope who will hold the "divine forum" (the Papacy) during Henry VII's attempt to reform Italy. Beatrice predicts that this Pope will be an adversary to the Emperor, refusing to walk the same path as him. However, she warns that God will not tolerate this Pope's corruption for long. This Pope will be cast down into Hell, specifically to the pit where Simon Magus (the father of simony) resides. Furthermore, this Pope's fall will be so catastrophic that he will drag Boniface VIII (referred to as "the one from Alagna") even deeper into the depths of Hell.
+
+**Who does what:**
+*   **Beatrice** speaks to Dante, delivering a prophecy of judgment.
+*   **The Pope** (the future occupant of the holy office) opposes **Henry VII** and is eventually cast down by **God**.
+*   **God** judges and removes the corrupt Pope from office.
+*   **Simon Magus** is the inhabitant of the place where the Pope will be sent.
+*   **Boniface VIII** (the one from Alagna) is pushed further down into Hell by the fall of this subsequent Pope.
+
+**Who speaks:**
+*   **Beatrice** speaks to **Dante** (lines 142-148).
+
+**Resolution of Tags:**
+*   `[1:+ei]`: **The Pope** (the future opponent of Henry VII).
+*   `{2:prefetto}`: **The Pope** (specifically as the head of the "divine forum").
+*   `[3:tal]`: **The Pope**.
+*   `[4:lui]`: **Henry VII** (Arrigo).
+*   `[5:+ei]`: **The Pope**.
+*   `{6:Dio}`: **God**.
+*   `[7:el]`: **The Pope**.
+*   `{8:Simon mago}`: **Simon Magus**.
+*   `[9:+ei]`: **The Pope**.
+*   `[10:quel]`: **Boniface VIII** (referred to as "the one from Alagna").
+
+# recap
+- Dante and Beatrice are in the Empyrean, gazing upon the vast assembly of the Celestial Rose.
+- Beatrice has just finished delivering a series of prophecies regarding Henry VII and the corruption of the Papacy and Italy.
+- The two continue their journey together, positioned amidst the divine light and the ranks of the blessed.

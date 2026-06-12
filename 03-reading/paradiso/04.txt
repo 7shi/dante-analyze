@@ -1,0 +1,247 @@
+# Canto 04 — Beatrice Resolves Dante's Theological Doubts
+
+## Scene 1-12: Dante's Internal Tension
+In this scene, Dante is describing a state of psychological paralysis. He is caught in a conflict of desires: he desperately wants to ask Beatrice the theological questions that are troubling him, but he is overwhelmed by her brilliance and the gravity of the situation. To explain this tension, he uses three analogies:
+1. A starving man caught between two sources of food that are moving in such a way that he cannot reach either.
+2. A lamb trapped between two hungry wolves.
+3. A dog caught between two ladies.
+
+Dante concludes that because he was caught between these opposing forces (fear/awe vs. longing), he doesn't blame himself for remaining silent, but he doesn't praise himself either. He explains that while he didn't speak, his longing was written clearly on his face, conveying his questions more intensely than words would have.
+
+**Tag Resolutions:**
+- `[1:si]`: a hypothetical person / generic man (the subject of the first analogy).
+- `{2:liber' omo}`: a hypothetical person / generic man.
+- `{3:due dame}`: hypothetical ladies (the subjects of the third analogy).
+- `[4:i']`: Dante.
+- `[5:mi]`: Dante.
+- `[6:+io]`: Dante.
+- `[7:me]`: Dante.
+- `[8:+io]`: Dante.
+- `[9:Io]`: Dante.
+- `[10:mi]`: Dante.
+- `[11:m']`: Dante.
+
+## Scene 13-24: The First Doubt: Plato's Theory
+In this scene, Beatrice demonstrates her ability to read Dante's mind, acting as a divine interpreter of his silent distress. She compares herself to the biblical prophet Daniel, who could interpret the dreams and visions of King Nebuchadnezzar. Beatrice acknowledges the psychological tension Dante is feeling—the conflict between his awe of her and his urgent need for theological answers.
+
+She then explicitly voices the two doubts that are troubling Dante:
+1. **The Problem of Moral Merit:** If a person has a genuine "good will" but is forced by another person's violence to act against that will, does the external force diminish the spiritual merit of the victim?
+2. **The Platonic Theory:** He is confused by the Platonic notion that souls return to the stars.
+
+**Tag Resolutions:**
+- `{1:Beatrice}`: Beatrice
+- `{2:Danïello}`: Daniel
+- `{3:Nabuccodonosor}`: Nebuchadnezzar
+- `[4:l']`: Daniel (referring to how Nebuchadnezzar had unjustly treated/made him suffer)
+- `[5:+elli]`: Beatrice
+- `[6:Io]`: Beatrice
+- `[7:ti]`: Dante
+- `[8:+ella]`: Dante's anxiety/care (`cura`)
+- `[9:Tu]`: Dante
+- `[10:mi]`: Dante (this is Beatrice quoting Dante's internal thought)
+- `[11:ti]`: Dante
+- `[12:+ella]`: The appearance/notion that souls return to the stars
+- `{13:Platone}`: Plato
+
+## Scene 25-39: The Hierarchy of the First Heaven
+In this scene, Beatrice continues her discourse to resolve Dante's theological confusion. She addresses the "bitter" question—the one causing him the most distress—which concerns the nature of the celestial spheres and the placement of souls.
+
+Beatrice explains a counter-intuitive point about the hierarchy of Heaven: she asserts that the most exalted beings—the Seraphim, Moses, Samuel, John, and Mary—do not reside in a different heaven than the spirits Dante is currently seeing in the sphere of the Moon. She clarifies that while they all share this first celestial orbit, their experience of "sweet life" (bliss) differs based on how much they perceive and participate in the "eternal breath" (the Divine Will/God). Finally, she explains that the spirits appearing to Dante are being shown to him here not because the Moon is their final, assigned destination, but to serve as a symbolic introduction to the lowest level of the celestial ascent.
+
+**Tag Resolutions:**
+- `[1:+io]`: Beatrice
+- `{2:i Serafin}`: The Seraphim
+- `[3:colui]`: The Seraphim
+- `[4:s']`: The Seraphim
+- `{5:Moïsè}`: Moses
+- `{6:Samuel}`: Samuel
+- `{7:quel Giovanni}`: John
+- `[8:io]`: Beatrice
+- `{9:Maria}`: Mary
+- `[10:+elli]`: The exalted figures mentioned (The Seraphim, Moses, Samuel, John, and Mary)
+- `{11:questi spirti}`: The souls currently appearing to Dante in the Moon
+- `[12:t']`: Dante
+- `[13:+elli]`: The exalted figures mentioned
+- `[14:+elli]`: All the souls in the first sphere (both the exalted and those appearing to Dante)
+- `[15:+elli]`: The souls currently appearing to Dante
+- `[16:si]`: The souls currently appearing to Dante
+- `[17:lor]`: The souls currently appearing to Dante
+
+## Scene 40-48: The Use of Anthropomorphism in Scripture
+In this scene, Beatrice explains the pedagogical necessity of anthropomorphism—the practice of attributing human characteristics to divine or spiritual beings. She tells Dante that because the human intellect is limited and must begin its learning process through the "sensible" (the physical, perceptible world) before it can grasp higher spiritual truths, the Holy Scriptures and the Church adapt their language to fit human capacity. She provides examples: the Bible describes God as having hands and feet, and the Church depicts angels like Gabriel and Michael in human form, even though their true nature is far different.
+
+**Tag Resolutions:**
+- `{1:sensato}`: the sensible/perceptible world (the realm of physical sensation)
+- `[2:+ei]`: Dante (representing the human mind/man in general)
+- `{3:Dio}`: God
+- `{4:Santa Chiesa}`: The Holy Church
+- `{5:Gabrïel}`: Gabriel
+- `{6:Michel}`: Michael
+- `[7:vi]`: Dante
+- `[8:l'altro]`: Raphael (the archangel who healed Tobias)
+- `{9:Tobia}`: Tobias
+
+## Scene 49-63: Correcting the Error of Astrology
+In this scene, Beatrice continues her theological instruction to Dante, specifically addressing his confusion regarding the Platonic idea that souls return to the stars (a point she mentioned in the previous scene).
+
+Beatrice explains that the arguments made by Timaeus (the character in Plato's dialogue) do not match the reality of the afterlife seen in Heaven. She clarifies that Timaeus's claim—that the soul returns to its star based on the destiny assigned by Nature at birth—is likely a misunderstanding of the actual meaning. Beatrice suggests that if Timaeus intended to say that the *influence* (the celestial impact on earthly life) and the resulting merit or blame return to the celestial spheres, then he might be touching upon a truth. However, she warns that when this principle is misunderstood, it leads to the widespread error of astrology, where people mistakenly attribute human destiny and character to the influence of planets like Jupiter, Mercury, and Mars.
+
+**Tag Resolutions:**
+- `{1:Timeo}`: Timaeus
+- `{2:l'anime}`: the souls
+- `[3:+ei]`: Timaeus
+- `[4:+ella]`: the soul (referring to the soul's ability to sense)
+- `[5:+ei]`: Timaeus
+- `{6:l'alma}`: the soul
+- `[7:quella]`: the soul
+- `{8:natura}`: Nature
+- `[9:la]`: the soul
+- `[10:elli]`: Timaeus
+- `[11:+ei]`: Timaeus
+- `{12:Giove}`: Jupiter
+- `{13:Mercurio}`: Mercury
+- `{14:Marte}`: Mars
+
+## Scene 64-72: Transition to the Second Doubt
+In this scene, Beatrice transitions from resolving the first doubt (the Platonic theory of the stars) to the second doubt (the problem of moral merit and divine justice). She tells Dante that this second doubt is "less poisonous" because it does not risk leading him away from her (and thus away from the truth). She explains that when Divine Justice appears unjust to the eyes of mortals, it is actually a sign of faith rather than heresy. Acknowledging that Dante's intellect is capable of grasping this truth, she promises to provide the answer he desires.
+
+**Tag Resolutions:**
+- `[1:ti]`: Dante
+- `[2:+ella]`: the second doubt (the doubt regarding moral merit/divine justice)
+- `[3:+ella]`: the second doubt (the doubt regarding moral merit/divine justice)
+- `[4:ti]`: Dante
+- `[5:me]`: Beatrice
+- `{6:i mortali}`: mortals / human beings
+- `[7:+tu]`: Dante
+- `[8:+io]`: Beatrice
+- `[9:ti]`: Dante
+
+## Scene 73-87: The Distinction Between Will and Force
+In this scene, Beatrice provides a theological answer to Dante's second doubt regarding moral merit and divine justice. She addresses the question of whether a person is excused from sin if they are forced by external violence to act against their will.
+
+Beatrice argues that the human will is fundamentally indestructible. She explains that while physical force may compel the body to act, it cannot "subdue" or change the internal will. To illustrate this, she uses the analogy of fire: just as the nature of fire remains the same regardless of how much it is "twisted" or pressured by external force, the will remains itself. 
+
+She then applies this to the souls Dante is seeing in the sphere of the Moon. She asserts that these souls are not excused by the "violence" they faced because their wills were not "whole" or "firm" enough to resist. To prove that a strong will can overcome any physical coercion, she cites two historical/hagiographical examples: St. Lawrence, who remained steadfast while being roasted on a gridiron, and Gaius Mucius Scaevola, who showed his resolve by thrusting his hand into a fire. Beatrice concludes that if the souls in the Moon had possessed such an absolute, unwavering will, they would have repelled the forces that led them astray, but such a level of spiritual strength is rare.
+
+**Tag Resolutions:**
+- `[1:quel]`: the person who suffers violence (the victim)
+- `[2:quel]`: the person who exerts violence (the perpetrator)
+- `{3:quest' alme}`: the souls currently in the sphere of the Moon
+- `{4:natura}`: Nature (the personified principle of nature/natural law)
+- `{5:queste fero}`: the souls currently in the sphere of the Moon
+- `[6:+elli]`: the souls currently in the sphere of the Moon
+- `{7:Lorenzo}`: St. Lawrence
+- `{8:Muzio}`: Gaius Mucius Scaevola
+- `[9:l']`: the souls currently in the sphere of the Moon (the ones who would have been repelled/pushed back by a strong will)
+- `[10:+elli]`: the souls currently in the sphere of the Moon
+- `[11:+elli]`: the souls currently in the sphere of the Moon
+
+## Scene 88-99: The Paradox of Piccarda and Costanza
+In this scene, Beatrice continues her theological instruction. She tells Dante that if he has accepted her previous explanation regarding the strength of the will as if it were divine truth, then the specific trouble that was bothering him is now resolved. However, she anticipates a new intellectual obstacle (a "step") that Dante cannot overcome on his own.
+
+She reminds Dante of a principle she already established: that a blessed soul cannot lie because they are always aligned with the "first truth" (God). She then points out a perceived paradox: Dante heard Piccarda say that she still maintains her affection for Costanza. Beatrice observes that, on the surface, Piccarda's expression of an earthly attachment seems to contradict Beatrice's own teachings about the nature of the blessed will and its alignment with Divine Will.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `{2:dei}`: gods / divine beings (used as a comparison for the authority of the words)
+- `[3:t']`: Dante
+- `[4:ti]`: Dante
+- `[5:te]`: Dante
+- `[6:+tu]`: Dante
+- `[7:+tu]`: Dante
+- `[8:Io]`: Beatrice
+- `[9:t']`: Dante
+- `{10:alma beata}`: a blessed soul (generic)
+- `[11:+ella]`: a blessed soul (generic)
+- `[12:+tu]`: Dante
+- `{13:Piccarda}`: Piccarda
+- `{14:Costanza}`: Costanza
+- `[15:ella]`: Piccarda
+- `[16:meco]`: Beatrice
+
+## Scene 100-114: The Intersection of Force and Will
+In this scene, Beatrice provides a sophisticated psychological and theological explanation to resolve the apparent contradiction between her teaching (that the blessed will is perfectly aligned with God) and Piccarda’s claim that she still feels earthly love for Costanza.
+
+Beatrice introduces the concept of the "mixed will." She explains that in the human experience, external force or fear can "mix" with the will. To illustrate this, she uses the example of Almeone, who killed his own mother because his father commanded it; Almeone did not *want* to kill his mother (his absolute will), but he did so to avoid the "greater" pain of his father's wrath. 
+
+She distinguishes between:
+1. **Absolute Will (Voglia assoluta):** The core of the soul, which never consents to evil or damage.
+2. **Mixed Will:** The will as it operates under pressure, which may consent to a lesser evil to avoid a greater one.
+
+By this logic, when Piccarda says she loves Costanza, she is speaking from her **absolute will** (which remains pure and loving). When Beatrice points out the reason for Piccarda's placement in the Moon, she is referring to the **mixed will** (the part of the will that succumbed to external pressure). Because they are describing two different "layers" of the will, both Beatrice and Piccarda are telling the truth.
+
+**Tag Resolutions:**
+- `{1:frate}`: Dante (Beatrice addresses him affectionately as "brother")
+- `[2:+ei]`: a generic man / a person (the subject of the analogy)
+- `[3:si]`: a generic man / a person
+- `[4:+ei]`: a generic man / a person
+- `[5:si]`: a generic man / a person
+- `{6:Almeone}`: Almeone
+- `{7:padre suo}`: Almeone's father
+- `{8:la propria madre}`: Almeone's mother
+- `[9:si]`: Almeone
+- `[10:+io]`: Beatrice
+- `[11:tu]`: Dante
+- `[12:si]`: Force (`la forza`)
+- `[13:si]`: an impersonal "one" (referring to anyone attempting to excuse the offense)
+- `[14:si]`: the will (referring to the will's tendency to withdraw/shrink back)
+- `{15:Piccarda}`: Piccarda
+- `[16:+ella]`: Piccarda
+- `[17:io]`: Beatrice
+- `[18:+noi]`: Beatrice and Piccarda
+
+## Scene 115-117: The Resolution of Conflict
+In this brief concluding scene, Dante uses a water metaphor to describe the effect of Beatrice's theological explanation. 
+
+He describes her discourse as a "holy river" (*santo rio*) flowing from the "fountain" (*fonte*)—a clear reference to God, the source of all truth. The "flowing" (the way Beatrice's explanation unfolded) has achieved its goal: it has brought peace to "one and another desire" (*uno e altro disio*). This refers back to the psychological paralysis described at the beginning of the Canto (Scene 1-12), where Dante was caught between the competing desires of his urgent need for theological answers and his overwhelming awe of Beatrice's radiance. The internal conflict that caused his silence is now fully resolved through the clarity of Beatrice's teaching.
+
+**Tag Resolutions:**
+There are no numbered tags in this scene.
+
+## Scene 118-129: Dante's Meditation on Truth
+In this scene, Dante responds to Beatrice after she has resolved his theological doubts. He expresses his gratitude and a profound realization about the nature of human longing and truth.
+
+Dante addresses Beatrice with high praise, calling her the "beloved of the first lover" (referring to himself as the first lover) and the "divine one." He describes the effect of her words as a flood and a warmth that invigorates him. He humbly admits that his own love, however deep, is not sufficient to repay the grace she has shown him; he suggests that only someone who possesses the actual vision of God and the power to act accordingly (a blessed soul or God Himself) could properly return such grace.
+
+The scene then shifts into a philosophical meditation. Dante reflects on the human intellect, stating that it can never be fully satisfied unless it is illuminated by the Truth (God), as no truth exists outside of Him. He uses a simile: the human intellect rests in this Truth like a thirsty animal resting at a watering hole (*lustra*). He concludes that the intellect is capable of reaching this goal, for if it weren't, all human desire would be pointless.
+
+**Tag Resolutions:**
+- `{1:amanza}`: Beatrice
+- `{2:primo amante}`: Dante
+- `{3:diva}`: Beatrice
+- `[4:io]`: Dante
+- `[5:m']`: Dante
+- `[6:m']`: Dante
+- `[7:voi]`: Beatrice
+- `[8:quei]`: the one who sees [God] and is able [to respond/repay] (a generic reference to a blessed soul or a divine being)
+- `[9:Io]`: Dante
+
+## Scene 130-138: The New Inquiry
+In this scene, Dante reflects on the nature of intellectual inquiry before posing a new question to Beatrice. He observes that the discovery of one truth naturally gives rise to new doubts, comparing this process to a sprout (*rampollo*) growing at the foot of a tree. He suggests that it is the nature of God to link human beings together in a chain of continuous learning and questioning.
+
+Encouraged by the clarity Beatrice has provided and acting with deep reverence, Dante asks her for further guidance on a new "obscure" truth. Specifically, he asks whether a human being who failed to fulfill the desires or expectations (*voti*) of a beloved person on earth can compensate for that deficiency with other merits (*beni*), such that those other goods would balance the scales (*statera*) of divine justice or the expectations of the blessed.
+
+**Tag Resolutions:**
+- `{1:al sommo}`: God (the Highest)
+- `[2:noi]`: human beings / mankind
+- `[3:m']`: Dante
+- `[4:m']`: Dante
+- `{5:donna}`: Beatrice
+- `[6:m']`: Dante
+- `[7:Io]`: Dante
+- `{8:l'uom}`: man / a human being
+- `[9:+ei]`: man / a human being
+
+## Scene 139-142: Beatrice's Divine Gaze
+In this brief but intense scene, Beatrice responds to Dante's new inquiry not with words, but with a gaze. She looks at him with eyes full of "divine sparks of love." The power of this gaze is so overwhelming that Dante's strength and resolve collapse ("diè le reni"), and he nearly loses consciousness or loses himself, bowing his head with his eyes cast downward. This marks a recurring motif in the *Paradiso* where the intensity of Beatrice's radiance and love often overwhelms Dante's human capacity to withstand it.
+
+**Tag Resolutions:**
+- `{1:Beatrice}`: Beatrice
+- `[2:mi]`: Dante
+- `[3:+io]`: Dante
+- `[4:mi]`: Dante
+
+# recap
+- Dante and Beatrice are in the sphere of the Moon.
+- Having resolved several theological doubts, Beatrice has responded to Dante's latest inquiry with an overwhelming gaze of love.
+- Dante is left physically and emotionally overcome by her divine radiance.

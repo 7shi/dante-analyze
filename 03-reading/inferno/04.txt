@@ -1,0 +1,354 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+
+## Scene 1-6: The Awakening
+In this scene, the narrator (Dante) describes the moment he regains consciousness after fainting on the banks of the Acheron. He is jolted awake by a loud, thunderous sound, which he compares to the experience of someone being forced awake against their will. Once he is awake, he sits up and looks around his surroundings with focus and intent, trying to figure out exactly where he has ended up. There is no dialogue in these six lines; it is a purely internal, descriptive narrative.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:mi]`: Dante
+- `{3:persona}`: A generic person (used in a simile to describe Dante's state)
+- `[4:+io]`: Dante
+- `[5:+io]`: Dante
+- `[6:io]`: Dante
+
+## Scene 7-12: The Valley of Sorrow
+In this scene, Dante, having just regained consciousness on the banks of the Acheron, surveys his immediate surroundings. He describes seeing a vast, sorrowful valley of the abyss, a place that contains endless misery and suffering. He notes that the valley is so dark, deep, and shrouded in mist that it is impossible for him to see the bottom or discern any specific details of the landscape.
+
+There is no dialogue in this scene; it is a continuation of Dante's descriptive narrative as he takes in the terrifying geography of the first circle of Hell.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:mi]`: Dante
+- `[3:io]`: Dante
+
+## Scene 13-18: The Command to Descend
+In this scene, the dialogue begins between the two protagonists as they prepare to enter the first circle of Hell. 
+
+Virgil (referred to here as "the poet") speaks first. He is visibly pale ("smorto"), which indicates a level of apprehension or solemnity. He proposes that they now descend into the "blind world" (Limbo) and explicitly states that he will lead the way, with Dante following behind him.
+
+Dante, observing Virgil's pale complexion, becomes anxious. He responds by questioning how he is expected to move forward with confidence if his guide—the person who is usually the source of comfort and resolution for Dante's doubts—appears to be afraid.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Virgil and Dante
+- `{2:il poeta}`: Virgil
+- `[3:Io]`: Virgil
+- `[4:tu]`: Dante
+- `[5:io]`: Dante
+- `[6:mi]`: Dante (part of the phrase "mi fui accorto," meaning "I noticed")
+- `[7:+io]`: Dante
+- `[8:+io]`: Dante
+- `[9:tu]`: Virgil
+- `[10:+tu]`: Virgil
+
+## Scene 19-24: Entering the First Circle
+In this scene, Virgil responds to Dante’s anxiety regarding Virgil's pale complexion. Virgil explains that the expression on his face is not caused by fear (as Dante suspected), but is instead a reflection of the deep anguish and sorrow felt by the souls who reside in the first circle of Hell. After this clarification, Virgil urges Dante to keep moving because they have a long way to go. The scene concludes with Virgil leading Dante across the threshold and into the first circle of the abyss.
+
+**Tag Resolutions:**
+- `[1:elli]`: Virgil
+- `[2:me]`: Dante
+- `{3:le genti}`: The souls of Limbo
+- `[4:mi]`: Virgil
+- `[5:tu]`: Dante
+- `[6:+noi]`: Virgil and Dante
+- `[7:+elli]`: Virgil
+- `[8:si]`: Virgil
+- `[9:+elli]`: Virgil
+- `[10:mi]`: Dante
+
+## Scene 25-30: The Sighing Spirits
+In this scene, Dante describes the sensory experience of entering the first circle of Hell (Limbo). Unlike the harrowing screams and wailing typical of the lower circles, Dante notes that here there is no crying, only an endless stream of sighs that make the eternal air tremble. He explains that these sighs are the result of "sorrow without torment" (duol sanza martìri)—a psychological pain rather than a physical torture. He observes that these sighs are emitted by vast, dense crowds of souls.
+
+There is no dialogue in this scene; it is a continuation of Dante's internal narrative as he surveys the inhabitants of Limbo.
+
+**Tag Resolutions:**
+- `{1:le turbe}`: The souls/crowds of Limbo
+- `{2:infanti}`: The unbaptized infants in Limbo
+- `{3:femmine}`: The virtuous pagan women in Limbo
+- `{4:viri}`: The virtuous pagan men in Limbo
+
+## Scene 31-42: The Nature of Limbo
+In this scene, Virgil takes on his role as a teacher to explain the theology of the first circle of Hell. Before Dante can even ask, Virgil preempts his question, explaining who the inhabitants of Limbo are and why they are there. 
+
+Virgil explains that these souls are not "sinners" in the traditional sense; they did not commit evil acts. Instead, they are here because they lacked baptism (the gateway to faith) or lived before the time of Christ and therefore did not worship God correctly. Virgil then reveals his own status, identifying himself as one of these spirits. He concludes by describing the specific nature of their suffering: they are not physically tortured, but they live in a state of eternal longing—desiring a Heaven they know they can never enter.
+
+**Tag Resolutions:**
+- `{1:Lo buon maestro}`: Virgil
+- `[2:me]`: Dante
+- `[3:Tu]`: Dante
+- `{4:spiriti}`: The souls of Limbo
+- `[5:questi]`: The souls of Limbo
+- `[6:tu]`: Dante
+- `[7:+io]`: Virgil
+- `[8:+tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:ei]`: The souls of Limbo
+- `[11:elli]`: The souls of Limbo
+- `[12:+elli]`: The souls of Limbo
+- `[13:tu]`: Dante
+- `[14:e']`: The souls of Limbo
+- `[15:+elli]`: The souls of Limbo
+- `{16:Dio}`: God
+- `[17:questi]`: The souls of Limbo
+- `[18:io]`: Virgil
+- `[19:+noi]`: Virgil and the souls of Limbo
+- `[20:+noi]`: Virgil and the souls of Limbo
+- `[21:+noi]`: Virgil and the souls of Limbo
+
+## Scene 43-50: Dante's Inquiry
+In this scene, titled "Dante's Inquiry," Dante reacts to Virgil's explanation of Limbo. He is struck by a deep sense of sorrow upon realizing that so many noble and virtuous people—the "people of great value"—are eternally confined to this place. Seeking certainty and hoping for a glimmer of hope, Dante addresses Virgil with deep respect (calling him "master" and "lord"), asking a pivotal theological question: has any soul ever escaped Limbo, whether through their own merit or through the grace of another, to eventually achieve beatitude (entrance into Heaven)?
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `[2:+io]`: Dante
+- `{3:gente di molto valore}`: The souls of Limbo (the virtuous pagans)
+- `[4:+io]`: Dante
+- `[5:+tu]`: Virgil
+- `{6:maestro mio}`: Virgil
+- `[7:+tu]`: Virgil
+- `{8:segnore}`: Virgil
+- `[9:io]`: Dante
+
+## Scene 51-63: The Descent of the Patriarchs
+In this scene, Virgil answers the pivotal question Dante posed in the previous scene: whether anyone has ever escaped Limbo to reach Heaven. 
+
+Virgil explains that shortly after he arrived in Limbo, he witnessed a monumental event. He describes the arrival of a "powerful one" (Christ), who appeared wearing a crown of victory. Virgil recounts how this figure descended into Limbo to rescue the righteous souls of the Old Testament—the patriarchs and prophets who lived before the coming of Christ. Virgil lists the figures who were led away to beatitude: Abel, Noah, Moses, Abraham, King David, Jacob (Israel) along with his father (Isaac) and his children, and Rachel. Virgil concludes by telling Dante that prior to this specific event, no human spirits had ever been saved from Limbo.
+
+**Tag Resolutions:**
+- `[1:quei]`: Virgil
+- `[2:Io]`: Virgil
+- `[3:+io]`: Virgil
+- `[4:ci]`: Virgil and the other souls of Limbo
+- `{5:un possente}`: Christ
+- `[6:+ei]`: Christ
+- `{7:l'ombra del primo parente}`: Abel
+- `{8:Abèl}`: Abel
+- `{9:suo figlio}`: Abel
+- `[10:quella]`: the shadow (of Noah)
+- `{11:Noè}`: Noah
+- `{12:Moïsè legista e ubidente}`: Moses
+- `{13:Abraàm patrïarca}`: Abraham
+- `{14:Davìd re}`: David
+- `{15:Israèl}`: Jacob
+- `{16:lo padre}`: Isaac
+- `{17:suoi nati}`: the children of Jacob
+- `{18:Rachele}`: Rachel
+- `[19:+ei]`: Christ
+- `[20:+ei]`: Christ
+- `[21:+io]`: Virgil
+- `[22:+tu]`: Dante
+- `[23:essi]`: the saved souls (the Patriarchs)
+- `{24:spiriti umani}`: human spirits
+
+## Scene 64-66: Through the Dense Forest
+In this brief scene, the narrative shifts from the content of Virgil's theological explanation back to the physical movement of the two protagonists. Dante explains that they did not stop walking while Virgil was recounting the story of Christ's descent into Limbo. Instead, they continued to move forward through the "forest"—a metaphor Dante uses to describe the dense, crowded assembly of souls inhabiting the first circle. Dante explicitly clarifies for the reader that this "forest" is actually composed of these thick crowds of spirits.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Virgil and Dante
+- `[2:ei]`: Virgil
+- `[3:+noi]`: Virgil and Dante
+- `[4:+io]`: Dante
+- `{5:spiriti}`: The souls of Limbo
+
+## Scene 67-78: The Discovery of the Light
+In this scene, Dante and Virgil continue their journey through the first circle of Hell. Dante notices a distant light—a "fire" that illuminates a vast area of the surrounding darkness. As they approach, Dante realizes that this place is inhabited by a group of distinguished and honorable spirits.
+
+Intrigued by the difference in status between these spirits and the others they have encountered in Limbo, Dante asks Virgil (whom he addresses as one who honors science and art) who these people are and why they are treated with such exceptional honor. Virgil responds by explaining that the fame and renown these individuals achieved during their earthly lives have earned them a special grace in the afterlife, granting them this superior position within Limbo.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:+noi]`: Dante and Virgil
+- `[3:io]`: Dante
+- `{4:orrevol gente}`: The noble souls of Limbo
+- `[5:tu]`: Virgil
+- `[6:questi]`: The noble souls of Limbo
+- `[7:chi]`: The noble souls of Limbo
+- `[8:li]`: The noble souls of Limbo
+- `[9:quelli]`: Virgil
+- `[10:me]`: Dante
+- `[11:lor]`: The noble souls of Limbo
+- `[12:li]`: The noble souls of Limbo
+
+## Scene 79-81: The Divine Voice
+In this brief scene, a mysterious voice interrupts the conversation between Dante and Virgil. The narrator (Dante) hears this voice, which addresses him and the group of noble spirits they have encountered. The voice commands them to show honor and respect to "the highest poet," announcing that his shadow is returning to them after having momentarily departed.
+
+**Tag Resolutions:**
+- `[1:me]`: Dante
+- `[2:+voi]`: Dante and the noble souls of Limbo
+- `{3:l'altissimo poeta}`: Virgil
+- `{4:l'ombra}`: Virgil
+
+## Scene 82-93: The Meeting of the Great Poets
+**Scene Analysis: The Meeting of the Great Poets**
+
+In this scene, the mysterious voice from the previous passage has fallen silent. Dante observes four imposing figures (the "great shadows") approaching him and Virgil. He notes that their countenances are neutral—neither joyful nor sorrowful.
+
+Virgil then takes the opportunity to introduce these figures to Dante. He points out the leader of the group, who carries a sword and walks ahead of the others like a lord; Virgil identifies him as the "sovereign poet," Homer. He then identifies the other three poets following Homer: Horace (the satirist), Ovid, and Lucan. Virgil explains that these poets are gathering around him because of the summons of the voice, and he notes that by doing so, they are paying him honor, which he welcomes.
+
+**Tag Resolutions:**
+
+- `[1:+io]`: Dante
+- `{2:quattro grand' ombre}`: Homer, Horace, Ovid, and Lucan
+- `[3:noi]`: Dante and Virgil
+- `[4:+elli]`: Homer, Horace, Ovid, and Lucan
+- `{5:Lo buon maestro}`: Virgil
+- `[6:+tu]`: Dante
+- `[7:colui]`: Homer
+- `{8:ai tre}`: Horace, Ovid, and Lucan
+- `{9:sire}`: Homer
+- `[10:quelli]`: Homer
+- `{11:Omero}`: Homer
+- `{12:poeta sovrano}`: Homer
+- `[13:l'altro]`: Horace
+- `{14:Orazio}`: Horace
+- `{15:satiro}`: Horace
+- `{16:Ovidio}`: Ovid
+- `{17:'l terzo}`: Ovid
+- `{18:l'ultimo}`: Lucan
+- `{19:Lucano}`: Lucan
+- `[20:meco]`: Virgil
+- `[21:si]`: Homer, Horace, Ovid, and Lucan
+- `[22:+elli]`: Homer, Horace, Ovid, and Lucan
+- `[23:+elli]`: Homer, Horace, Ovid, and Lucan
+
+## Scene 94-102: The Assembly of Wisdom
+In this scene, "The Assembly of Wisdom," Dante describes the interaction between himself, Virgil, and the four great poets of antiquity. He watches as the "beautiful school"—the group of poets—gathers around Homer, whom Dante describes in lofty terms as the "lord of the highest song" who towers over the others like an eagle.
+
+After the poets have conversed among themselves for a short while, Homer (the leader) turns to Dante with a welcoming gesture. Virgil, seeing this gesture of acceptance, smiles. The honor bestowed upon Dante increases when the poets formally invite him into their circle. Dante concludes by noting that he has become the sixth member of this group, placing himself among the greatest intellectual and artistic minds of history.
+
+**Tag Resolutions:**
+- `[1:i']`: Dante
+- `{2:la bella scola}`: The Great Poets (Homer, Horace, Ovid, Lucan, and Virgil)
+- `{3:quel segnor}`: Homer
+- `[4:li altri]`: The other poets (Horace, Ovid, Lucan, and Virgil)
+- `[5:+elli]`: The Great Poets (Homer, Horace, Ovid, Lucan, and Virgil)
+- `[6:+egli]`: Homer
+- `[7:me]`: Dante
+- `{8:'l mio maestro}`: Virgil
+- `[9:+elli]`: The Great Poets (Homer, Horace, Ovid, Lucan, and Virgil)
+- `[10:mi]`: Dante
+- `[11:e']`: The Great Poets (Homer, Horace, Ovid, Lucan, and Virgil)
+- `[12:mi]`: Dante
+- `{13:la loro schiera}`: The Great Poets (Homer, Horace, Ovid, Lucan, and Virgil)
+- `[14:io]`: Dante
+- `{15:cotanto senno}`: The Great Poets (Homer, Horace, Ovid, Lucan, and Virgil)
+
+## Scene 103-111: The Noble Castle
+In this scene, "The Noble Castle," the narrative describes the collective movement of the group toward a specific sanctuary within Limbo. Dante, Virgil, and the four great poets (Homer, Horace, Ovid, and Lucan) walk together toward the light they previously spotted. As they walk, they engage in a high-level, intellectual conversation—the kind of discourse that Dante suggests is so profound it is almost "beautiful" to leave unspoken.
+
+The group arrives at the foot of a "noble castle," a structure characterized by its grandeur and security, featuring seven concentric walls and a small river acting as a moat. They cross this stream, pass through seven gates in the company of the "wise ones," and eventually emerge into a lush, green meadow. This transition from the "darkness" of the general Limbo forest to the light and greenery of the castle signifies their entry into the most honored section of the first circle.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante, Virgil, Homer, Horace, Ovid, and Lucan
+- `[2:+noi]`: Dante, Virgil, Homer, Horace, Ovid, and Lucan
+- `[3:+noi]`: Dante, Virgil, Homer, Horace, Ovid, and Lucan
+- `[4:+noi]`: Dante, Virgil, Homer, Horace, Ovid, and Lucan
+- `{5:questi savi}`: The poets/wise souls (Homer, Horace, Ovid, Lucan, and Virgil)
+- `[6:+noi]`: Dante, Virgil, Homer, Horace, Ovid, and Lucan
+
+## Scene 112-117: The Meadow of Spirits
+In this scene, "The Meadow of Spirits," Dante and his companions enter the inner sanctum of the noble castle in Limbo. Upon arriving in a bright, open, and elevated meadow, they encounter a group of inhabitants who possess a dignified and authoritative presence. Dante notes that these spirits are characterized by their gravity and their soft, infrequent speech, suggesting a place of deep contemplation and wisdom. The group (Dante, Virgil, and the four great poets) moves toward a position in the meadow where they are fully visible to those around them, or where they can see everyone present.
+
+**Tag Resolutions:**
+- `{1:Genti}`: The noble souls/people inhabiting the meadow of the castle in Limbo (the great philosophers and thinkers).
+- `[2:+elli]`: The noble souls/people inhabiting the meadow.
+- `[3:+noi]`: Dante, Virgil, Homer, Horace, Ovid, and Lucan.
+- `[4:si]`: This is an impersonal pronoun used in a passive construction ("si potien"), meaning "it was possible" or "one could." In the context of "veder si potien tutti quanti," it refers to the collective visibility of everyone present (the visiting poets and the noble inhabitants).
+
+## Scene 118-129: The Hall of Heroes
+This scene, "The Hall of Heroes," serves as a prestigious "roll call" of the noble souls residing in the inner meadow of the castle in Limbo. Having entered the sanctuary with Virgil and the other great poets, Dante is now presented with a gallery of legendary figures from antiquity.
+
+There is no dialogue in this passage; it is a purely descriptive sequence. Dante acts as the observer, listing the figures he recognizes with a sense of profound awe and excitement. He identifies a wide array of heroes and noble figures: Trojan war heroes like Hector and Aeneas, Roman figures like Julius Caesar and the founder of the Republic, Lucius Junius Brutus, and several virtuous Roman women. Notably, the scene ends with the mention of Saladin, the Muslim leader, who is placed "alone, off to one side," signifying his nobility and virtue despite being outside the Judeo-Christian tradition.
+
+**Tag Resolutions:**
+
+- `[1:mi]`: Dante
+- `{2:li spiriti magni}`: The Great Spirits (the noble inhabitants of the meadow)
+- `[3:me]`: Dante
+- `[4:+io]`: Dante
+- `[5:m']`: Dante
+- `[6:I']`: Dante
+- `{7:Eletra}`: Electra
+- `[8:+io]`: Dante
+- `{9:Ettòr}`: Hector
+- `{10:Enea}`: Aeneas
+- `{11:Cesare armato}`: Julius Caesar
+- `[12:+io]`: Dante
+- `{13:Cammilla}`: Camilla
+- `{14:la Pantasilea}`: Pantasilea
+- `[15:+io]`: Dante
+- `{16: 'l re Latino}`: King Latinus
+- `{17:Lavina}`: Lavinia
+- `{18:figlia}`: Lavinia
+- `[19:+io]`: Dante
+- `{20:quel Bruto}`: Lucius Junius Brutus
+- `{21:Tarquino}`: Tarquin the Proud
+- `{22:Lucrezia}`: Lucretia
+- `{23:Iulia}`: Julia
+- `{24:Marzïa}`: Marcia
+- `{25:Corniglia}`: Cornelia
+- `[26:+io]`: Dante
+- `{27: 'l Saladino}`: Saladin
+
+## Scene 130-144: The School of Philosophers
+In this scene, "The School of Philosophers," Dante continues his survey of the illustrious souls residing in the noble meadow of Limbo. Shifting his gaze slightly upward from the heroes and warriors he previously listed, he encounters the great intellectuals of antiquity.
+
+Dante first identifies a central figure, "the master" (Aristotle), who is surrounded by a "philosophical family." He observes that everyone in this group looks upon Aristotle with deep respect and honor. Dante then begins a "roll call" of the philosophers, noting that Socrates and Plato stand closest to Aristotle, followed by others such as Democritus, Diogenes, Anaxagoras, Thales, Empedocles, Heraclitus, and Zeno.
+
+Dante then expands the list to include other scholars and masters of various arts and sciences. He mentions Dioscorides (whom he calls "the good host"), Orpheus, Tullio, Linus, and the "moral" Seneca. He concludes the scene by listing the great scientists and physicians: Euclid the geometer, Ptolemy, Hippocrates, Avicenna, Galen, and Averroes (noted for his great commentary).
+
+**Tag Resolutions:**
+
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+- `{3:'l maestro}`: Aristotle
+- `[4:color]`: The philosophers
+- `{5:filosofica famiglia}`: The philosophers
+- `[6:lo]`: Aristotle
+- `[7:li]`: Aristotle
+- `[8:ïo]`: Dante
+- `{9:Socrate}`: Socrates
+- `{10:Platone}`: Plato
+- `[11:li]`: Socrates and Plato
+- `{12:Democrito}`: Democritus
+- `{13:Dïogenès}`: Diogenes
+- `{14:Anassagora}`: Anaxagoras
+- `{15:Tale}`: Thales
+- `{16:Empedoclès}`: Empedocles
+- `{17:Eraclito}`: Heraclitus
+- `{18:Zenone}`: Zeno
+- `[19:+io]`: Dante
+- `{20:il buono accoglitor}`: Dioscorides
+- `[21:quale]`: Dioscorides
+- `{22:Dïascoride}`: Dioscorides
+- `[23:+io]`: Dante
+- `[24:+io]`: Dante
+- `{25:Orfeo}`: Orpheus
+- `{26:Tulïo}`: Tullio
+- `{27:Lino}`: Linus
+- `{28:Seneca morale}`: Seneca
+- `{29:Euclide geomètra}`: Euclid
+- `{30:Tolomeo}`: Ptolemy
+- `{31:Ipocràte}`: Hippocrates
+- `{32:Avicenna}`: Avicenna
+- `{33:Galïeno}`: Galen
+- `{34:Averoìs}`: Averroes
+
+## Scene 145-147: The Poet's Limitation
+In this brief scene, "The Poet's Limitation," the narrator (Dante) steps back from his "roll call" of the illustrious souls in Limbo to address the reader directly. He admits that he cannot provide a full and exhaustive portrait of everyone present in the meadow. He explains that the sheer scale and length of the subject matter ("il lungo tema") press him forward, meaning that his poetic description often falls short of the actual reality of the scene.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:mi]`: Dante
+
+## Scene 148-151: Moving Toward the Light
+In this scene, "Moving Toward the Light," the group of six poets (Homer, Horace, Ovid, Lucan, Virgil, and Dante) splits apart. Virgil, acting in his role as the guide, leads Dante away from the serene and quiet meadow of the philosophers. They leave the peace of the noble castle and return to the "trembling air" (the atmospheric sorrow of the general Limbo population). The scene concludes as Dante arrives at a location characterized by light, signaling a transition to the next stage of their journey.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `{2:il savio duca}`: Virgil
+- `[3:+io]`: Dante
+
+# recap
+- Dante and Virgil are traveling together.
+- They have left the Noble Castle and the company of the great poets and philosophers.
+- They are moving back through the first circle toward a new source of light.

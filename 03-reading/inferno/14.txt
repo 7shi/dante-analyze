@@ -1,0 +1,264 @@
+# Canto 14 — The Third Circle: The Wrathful and the Rain of Fire
+
+## Scene 1-6: Transition to the Third Circle
+In this brief transition, the scene concludes the interaction between Dante and the soul of Jacob in the Wood of Suicides.
+
+Dante is moved by a sense of kinship with Jacob because they are both from Florence ("the love of the native place"). Because of this bond, Dante gathers the leaves that were scattered from Jacob's tree-body by the Harpies and returns them to him. Jacob is described as "fioco" (faint or exhausted), likely due to the trauma of the Harpies' attack. Once this act of compassion is complete, Dante and Virgil move forward to the boundary that separates the second girone (the Wood of Suicides) from the third girone of the Seventh Circle. Dante notes that at this boundary, the "horrible art of justice" (the divine punishment) is visible.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `[2:+io]`: Dante
+- `[3:+io]`: Dante
+- `[4:colui]`: Jacob
+- `[5:+noi]`: Dante and Virgil
+
+## Scene 7-15: The Desolate Landscape
+**Narrative Summary**
+
+In this scene, the narrator (Dante) describes the transition from the Wood of Suicides to the next section of the Seventh Circle (the third girone). Dante and Virgil arrive at a vast, desolate plain. This landscape is completely barren—no plants can grow there. The "sorrowful wood" (the Wood of Suicides) forms a circular border around this plain, just as a moat encircles the wood itself. Dante and Virgil stop side-by-side to survey the area. Dante describes the terrain as a thick, dry sand, comparing its appearance and texture to the sands of Purgatory that have been trodden by Cato.
+
+**Tag Resolutions**
+
+- `[1:+io]`: Dante (the narrator)
+- `[2:+noi]`: Dante and Virgil
+- `[3:+noi]`: Dante and Virgil
+- `{4:Caton}`: Cato (the Younger), the guardian of the shores of Purgatory, used here as a geographical and textural comparison.
+
+## Scene 16-21: The Multitude of Souls
+**Scene Analysis**
+
+In this brief passage, Dante shifts from describing the geography of the third girone to reacting emotionally to the sight of the sinners. He begins with an exclamation (an apostrophe) addressed to divine vengeance, warning any reader of his poem to fear the power of God's retribution. He then describes the visual spectacle before him: vast crowds of naked souls, weeping miserably. He notes that they seem to be divided or governed by different rules ("diversa legge"), hinting that while they are all in the same girone, there are different categories of wrathful souls (which we will later discover are the active-wrathful and the passive-wrathful).
+
+**Tag Resolutions**
+
+- `{1:vendetta di Dio}`: The vengeance of God (the personified divine retribution/justice).
+- `[2:tu]`: The vengeance of God.
+- `{3:anime nude}`: The naked souls (the sinners of the Third Girone/the Wrathful).
+- `[4:+io]`: Dante.
+
+## Scene 22-27: The Patterns of Suffering
+**Scene Analysis**
+
+In this scene, Dante observes the physical postures and behaviors of the naked souls in the third girone of the Seventh Circle. He notices that the sinners are not all reacting to their punishment in the same way; they are divided into three distinct groups based on their movement. Some are lying supine (on their backs) on the sand, some are sitting huddled up, and others are walking around incessantly. Dante observes a contrast between the groups: those walking around are the most numerous, while those lying on the ground are fewer in number but more vocal and expressive in their grief and suffering.
+
+**Tag Resolutions**
+
+- `{1:alcuna gente}`: The souls of the Wrathful (specifically those lying on the ground).
+- `[2:si]`: The souls of the Wrathful (specifically those sitting huddled).
+- `[3:Quella]`: The souls of the Wrathful who are walking around.
+- `[4:quella]`: The souls of the Wrathful who are lying on the ground.
+- `[5:+ella]`: The souls of the Wrathful who are lying on the ground.
+
+## Scene 28-39: The Rain of Fire
+In this scene, Dante describes the specific nature of the punishment in the third girone of the Seventh Circle. He observes a slow, steady rain of fire falling in wide sheets over the entire sandy plain, comparing the visual effect to windless snowfall in the Alps. 
+
+To illustrate the intensity and nature of this fire, Dante employs a historical/mythological simile. He references Alexander the Great's campaign in India, recounting a legend where Alexander encountered raining fire. In that legend, Alexander ordered his troops to dig up the ground to release damp vapors from the earth to extinguish the flames. 
+
+Dante concludes by explaining the "double" nature of the torment: the souls are not only burned by the fire falling from the sky, but the fire also ignites the sand beneath them—like tinder struck by a flint—meaning the sinners are burned from both above and below.
+
+**Tag Resolutions:**
+- `{1:Alessandro}`: Alexander the Great
+- `[2:ei]`: Alexander the Great
+
+## Scene 40-48: Dante's Inquiry
+In this scene, Dante describes the behavior of the souls in the third girone before asking Virgil for clarification about a specific individual.
+
+The scene opens with a description of the sinners' movements: they are restless and use their hands to shield themselves from the rain of fire, moving them back and forth to ward off the heat. Dante then speaks to Virgil, acknowledging Virgil's vast knowledge (with the exception of the nature of the harsh demons they encountered at the gate). Dante points out a particularly large soul lying on the sand who appears indifferent to the fire, lying there in a contorted, spiteful posture as if the rain of fire were not torturing him. Dante asks Virgil who this person is.
+
+**Tag Resolutions**
+- `[1:sé]`: the souls of the Wrathful (specifically those moving their hands to shield themselves)
+- `[2:I']`: Dante
+- `{3:Maestro}`: Virgil
+- `[4:tu]`: Virgil
+- `{5:demon duri}`: the harsh demons (at the gate)
+- `[6:+tu]`: Virgil
+- `[7:chi]`: the large soul
+- `{8:quel grande}`: the large soul
+- `[9:+ei]`: the large soul
+- `[10:+ei]`: the large soul
+- `[11:+ei]`: the large soul
+- `[12:'l]`: the large soul
+
+## Scene 49-60: Capaneus's Defiance
+**Narrative Analysis**
+
+In this scene, the "large soul" Dante noticed in the previous scene identifies himself through his actions and words. This is Capaneus, a figure from Greek mythology known for his extreme hubris. 
+
+Capaneus overhears Dante asking Virgil about him. Instead of reacting with the sorrow or pleading common among the souls in Hell, Capaneus responds with an explosion of defiance. He shouts that he is exactly the same in death as he was in life: proud, stubborn, and unyielding. 
+
+He addresses Jupiter (the king of the gods in classical mythology, whom Dante uses here as the agent of the punishment). Capaneus dares Jupiter to send more lightning bolts—the same kind that struck him on his final day of earthly life. He goes so far as to suggest that Jupiter should exhaust his smith, Vulcan, or the other workers in the black forge of Mount Etna (Mongibello), calling for Vulcan to help create more weapons, just as Jupiter did during the battle of Phlegra. 
+
+Capaneus concludes with a defiant boast: even if Jupiter strikes him with all his divine might, the god will never achieve the "joyful vengeance" of seeing Capaneus broken or repentant. His punishment is essentially a mirror of his sin; because he refused to submit to the divine in life, he remains in a state of perpetual, stubborn rebellion in the afterlife, making his torment infinite and his pride his own prison.
+
+**Tag Resolutions**
+
+- `[1:quel medesmo]`: Capaneus
+- `[2:si]`: Capaneus
+- `[3:io]`: Dante
+- `{4:il mio duca}`: Virgil
+- `[5:lui]`: Capaneus
+- `[6:+ei]`: Capaneus
+- `[7:io]`: Capaneus
+- `[8:+io]`: Capaneus
+- `{9:Giove}`: Jupiter
+- `{10:l suo fabbro}`: Vulcan
+- `[11:+ei]`: Jupiter
+- `[12:+io]`: Capaneus
+- `[13:elli]`: Jupiter
+- `[14:li altri]`: Vulcan's assistants (the Cyclopes/forge workers)
+- `{15:Buon Vulcano}`: Vulcan
+- `[16:+tu]`: Vulcan
+- `[17:+tu]`: Vulcan
+- `[18:el]`: Jupiter
+- `[19:+ei]`: Jupiter
+- `[20:me]`: Capaneus
+- `[21:+ei]`: Jupiter
+
+## Scene 61-75: Virgil's Rebuke and Warning
+**Scene Analysis**
+
+In this scene, Virgil reacts to Capaneus's outburst of pride and defiance. Virgil speaks with a force and volume that surprises Dante, who notes that he has never heard his guide speak so powerfully. 
+
+Virgil addresses Capaneus directly, explaining the spiritual logic of his torment: as long as Capaneus's pride remains unyielding, his punishment is actually intensified. Virgil asserts that no external torture could ever be a "complete" or sufficient punishment for Capaneus's fury; rather, it is Capaneus's own rage and refusal to repent that truly complete his suffering.
+
+Turning back to Dante with a gentler tone, Virgil provides the historical context for the soul: Capaneus was one of the seven kings of Thebes. He explains that Capaneus held God in contempt and showed Him no respect. Virgil notes that he (Virgil) told Capaneus that his insults are like "fitting badges" (debiti fregi) upon his chest—meaning that such arrogance is the natural and appropriate adornment for a soul so consumed by hubris.
+
+Finally, Virgil urges Dante to follow him, warning him to be careful not to step onto the burning sands of the plain, advising him to keep his feet close to the safety of the bordering Wood of Suicides.
+
+**Tag Resolutions**
+
+- `{1:il duca mio}`: Virgil
+- `[2:i']`: Dante
+- `[3:l']`: Virgil
+- `{4:Capaneo}`: Capaneus
+- `[5:tu]`: Capaneus
+- `[6:+ei]`: Virgil
+- `[7:si]`: Virgil
+- `[8:me]`: Dante
+- `[9:Quei]`: Capaneus
+- `{10:l'un d'i sette regi}`: Capaneus
+- `[11:+ei]`: Capaneus
+- `[12:elli]`: Capaneus
+- `{13:Dio}`: God
+- `[14:+ei]`: Capaneus
+- `[15:'l]`: God
+- `[16:io]`: Virgil
+- `[17:lui]`: Capaneus
+- `[18:+ei]`: Virgil
+- `[19:mi]`: Virgil
+- `[20:+tu]`: Dante
+- `[21:+tu]`: Dante
+- `[22:+tu]`: Dante
+
+## Scene 76-84: The Red Stream
+**Scene Analysis: The Red Stream**
+
+**Narrative Summary**
+In this scene, Dante and Virgil continue their journey in silence, moving away from the defiant Capaneus. They come upon a small stream that emerges from the Wood of Suicides and flows across the burning sands of the third girone. Dante is struck with horror by the stream's red color. To describe it, he uses a geographical comparison to the Phlegethon (referred to here as *Bulicame*), the river of boiling blood found in the Fourth Girone of the Seventh Circle, specifically mentioning the tributary that flows among the female sinners. Dante notes that the bed and the banks of this stream are made of smooth stone. This is a crucial detail for the travelers: because the banks are stone rather than burning sand, Dante realizes that it is safe for them to cross or walk along it without suffering the tortures of the wrathful.
+
+**Tag Resolutions**
+- `[1:+noi]`: Dante and Virgil
+- `[2:mi]`: Dante
+- `[3:lor]`: the female sinners (le peccatrici)
+- `{4:le peccatrici}`: the female sinners of the Phlegethon (located in the Fourth Girone)
+- `[5:io]`: Dante
+- `[6:m']`: Dante
+
+## Scene 85-93: Virgil's Question to Dante
+In this scene, Virgil addresses Dante as they stand by the red stream. Virgil asks Dante if, among everything he has shown him since they entered the gate of the Seventh Circle (a gate whose threshold is open to all), Dante has noticed anything as remarkable as this current stream, which is capable of extinguishing the flames of the rain of fire. Upon hearing this, Dante asks Virgil to grant him the information and explanation that he is eager to receive.
+
+**Tag Resolutions:**
+- `[1:i']`: Virgil
+- `[2:t']`: Dante
+- `[3:noi]`: Dante and Virgil
+- `{4:del duca mio}`: Virgil
+- `[5:io]`: Dante
+- `[6:'l]`: Virgil
+- `[7:+elli]`: Virgil
+- `[8:mi]`: Dante
+- `[9:m']`: Dante
+
+## Scene 94-102: The Legend of Mount Ida
+In this scene, Virgil begins to answer Dante's request for information by telling a mythological origin story to explain the nature of the red stream.
+
+Virgil describes the island of Crete, noting that it was once ruled by a king under whom the world was "chaste" or pure. He focuses on Mount Ida, a mountain on Crete that was once lush with water and foliage but has since become desolate. Virgil explains that the goddess Rhea chose this mountain as a safe cradle for her son (Zeus/Jupiter). To better conceal the child's presence, Rhea arranged for other cries to be made on the mountain to mask the sound of the infant's weeping.
+
+**Tag Resolutions**
+- `[1:elli]`: Virgil
+- `{2: 'l cui rege }`: The King of Crete
+- `{3:Rëa}`: Rhea
+- `{4:suo figliuolo}`: Zeus (Jupiter)
+- `[5:+elli]`: Zeus (Jupiter)
+- `[6:+ella]`: Rhea
+
+## Scene 103-111: The Colossus of Metals
+In this scene, Virgil continues his explanation to Dante regarding the red stream by describing a mythological figure located inside Mount Ida on the island of Crete. 
+
+He describes a giant statue—a Colossus—that stands upright within the mountain. This figure is positioned with its back to the city of Dammiata and its gaze fixed upon Rome, which it uses as a "mirror" (a point of reference or reflection). Virgil details the composition of the statue, which represents the legendary "Ages of Man" through the metals of which it is made: the head is gold, the chest and arms are silver, the midsection down to the crotch is copper (bronze), and from there down to the feet, it is made of iron. The only exception is the right foot, which is made of baked earth (terracotta), and the statue leans more heavily on this terracotta foot than on the other.
+
+**Tag Resolutions**
+- `{1:un gran veglio}`: The Colossus of Metals (the giant statue in Mount Ida)
+- `[2:+elli]`: The Colossus of Metals
+- `[3:+elli]`: The Colossus of Metals
+- `[4:+elli]`: The Colossus of Metals
+- `[5:+elli]`: The Colossus of Metals
+
+## Scene 112-120: The Formation of the Rivers
+In this scene, Virgil concludes his mythological explanation regarding the red stream. He explains that every part of the Colossus—except for the golden head—is cracked, and from these fissures drip tears. These collected tears fill the cave and then flow out into the valley, forming the great rivers of the underworld: the Acheron, the Styx, and the Phlegethon. 
+
+Virgil further explains that these waters eventually flow down to the lowest point of Hell to form the frozen lake of Cocytus. He tells Dante that he will see this final pool for himself later in their journey, and therefore there is no need to describe it further at this moment.
+
+**Tag Resolution**
+- `[1:tu]`: Dante
+
+## Scene 121-129: The Geometry of Hell
+In this scene, Dante asks a question based on Virgil's previous explanation of the red stream's origin. Since Virgil explained that the stream is formed from the tears of the Colossus on Mount Ida (in the terrestrial world), Dante is confused as to why it is appearing here, in this specific "valley" or section of the Third Girone.
+
+Virgil responds by explaining the physical layout and "geometry" of Hell. He reminds Dante that the abyss is circular (round). He explains that although they have descended a great distance, they have been moving "to the left" as they go down. Because they have not yet completed a full circuit of the circle, they are continuing to encounter new geographical features. Therefore, Virgil tells Dante that he should not be surprised when new things appear.
+
+**Tag Resolutions**
+- `[1:io]`: Dante
+- `[2:lui]`: Virgil
+- `[3:ci]`: Dante and Virgil
+- `[4:elli]`: Virgil
+- `[5:me]`: Dante
+- `[6:Tu]`: Dante
+- `[7:tu]`: Dante
+- `[8:+tu]`: Dante
+
+## Scene 130-138: The Nature of the Rivers
+**Scene Analysis: The Nature of the Rivers**
+
+**Narrative Summary**
+Following Virgil's explanation of the Colossus and the geometry of Hell, Dante asks another question. He asks where the rivers Phlegethon and Lethe are located, noting that Virgil has remained silent about one (the Phlegethon, whose tributary they are currently observing) and asking for information about the other.
+
+Virgil responds with a bit of gentle irony, telling Dante that his constant questioning is pleasing. He points out that the "boiling red water" right in front of them should have already answered the question regarding the Phlegethon. Regarding the Lethe, Virgil explains that Dante will see it later, but it is located outside of this "pit" (Hell), in the place where souls go to wash away their memories of sin once they have repented.
+
+**Tag Resolutions**
+- `[1:io]`: Dante
+- `{2:Maestro}`: Virgil
+- `[3:+tu]`: Virgil
+- `[4:+tu]`: Virgil
+- `[5:mi]`: Virgil
+- `[6:+tu]`: Dante
+- `[7:+egli]`: Virgil
+- `[8:tu]`: Dante
+- `[9:+tu]`: Dante
+- `{10:l'anime}`: the souls (specifically the penitent souls who move toward Purgatory)
+
+## Scene 139-142: Leaving the Woods
+**Scene Analysis: Leaving the Woods**
+
+**Narrative Summary**
+In this brief concluding scene of the sequence, Virgil tells Dante that it is now time to move away from the Wood of Suicides. Virgil instructs Dante to follow behind him, explaining that they will use the banks of the red stream as their path. He notes that these banks are not burning (unlike the sands of the plain) and that the moisture/vapor rising from the stream extinguishes the rain of fire above them, providing a safe passage for the travelers.
+
+**Tag Resolutions**
+- `[1:+elli]`: Virgil
+- `[2:+tu]`: Dante
+- `[3:me]`: Virgil
+- `[4:+tu]`: Dante
+
+# recap
+- Dante and Virgil are traveling together through the Third Girone of the Seventh Circle.
+- They are following the stone banks of a red stream, which provides safe passage by extinguishing the rain of fire.
+- They are moving away from the Wood of Suicides and the defiant soul of Capaneus.

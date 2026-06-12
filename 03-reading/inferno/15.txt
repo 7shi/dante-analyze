@@ -1,0 +1,269 @@
+# Canto 15 — The Encounter with Brunetto Latino
+
+## Scene 1-12: The Simile of the Flooding Banks
+In this opening scene, Dante and Virgil are continuing their journey through the Third Girone of the Seventh Circle. They are walking along one of the hard, stony banks of the red stream. The physical barrier of the bank, combined with the smoke rising from the stream, acts as a shield that protects them from the falling rain of fire.
+
+Dante employs a detailed simile to describe these banks, comparing them to man-made flood defenses in the real world: first, the dikes built by the Flemish people between Ghent and Bruges to keep out the sea, and second, the embankments built by the people of Padua along the Brenta river to protect their villas and castles from flooding. Dante notes that while the banks in Hell serve their purpose, they are not as high or as thick as they would be if they had been designed by a master architect.
+
+There is no dialogue in this scene; it is purely narrative description.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Dante and Virgil
+- `[2:lor]`: The Flemish people
+- `[3:+elli]`: The Flemish people
+- `[4:+elli]`: The banks (li argini)
+- `{5:lo maestro}`: God (The Divine Architect)
+
+## Scene 13-21: The Approaching Procession
+In this scene, Dante and Virgil have traveled a significant distance away from the Wood of Suicides—so far that Dante notes he could no longer see the forest even if he turned around. As they continue along the stony bank of the red stream, they encounter a procession of souls walking toward them. The souls are squinting intently at Dante and Virgil, trying to make out who they are in the dim light (a situation Dante compares to trying to see someone during a new moon or an old tailor straining his eyes to see the eye of a needle).
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante and Virgil
+- `[2:i']`: Dante
+- `[3:io]`: Dante
+- `[4:mi]`: Dante
+- `[5:+noi]`: Dante and Virgil
+- `{6:d'anime una schiera}`: A crowd of souls
+- `[7:ci]`: Dante and Virgil
+- `{8:uno altro}`: Another person (used in a general simile)
+- `[9:noi]`: Dante and Virgil
+- `[10:+elli]`: The crowd of souls
+- `{11:l vecchio sartor}`: An old tailor (used in a general simile)
+
+## Scene 22-30: The Recognition of Dante
+In this scene, the tension of the previous encounter with the staring procession resolves into a personal recognition. The crowd of souls is still squinting at Dante and Virgil. One specific soul from this group recognizes Dante and reaches out to grab him by the edge of his garment, exclaiming in surprise ("What a marvel!").
+
+Dante looks closely at the man's face. Because the souls in this circle are subjected to a rain of fire, the man's skin is burnt and scorched. Despite this physical disfigurement, Dante is able to recognize him. Dante reaches out to touch the man's face and speaks, identifying the soul as Ser Brunetto (Brunetto Latino, a famous Florentine intellectual and former mentor to Dante).
+
+**Tag Resolutions:**
+- `{1:cotal famiglia}`: The crowd of souls
+- `[2:+io]`: Dante
+- `[3:un]`: Ser Brunetto
+- `[4:mi]`: Dante
+- `[5:+ei]`: Ser Brunetto
+- `[6:io]`: Dante
+- `[7:me]`: Dante
+- `[8:+ei]`: Ser Brunetto
+- `[9:+io]`: Dante
+- `{10:lo cotto aspetto}`: Ser Brunetto
+- `{11:'l viso abbrusciato}`: Ser Brunetto
+- `[12:+io]`: Dante
+- `[13:voi]`: Ser Brunetto
+- `{14:ser Brunetto}`: Ser Brunetto
+
+## Scene 31-42: Brunetto's Instructions
+In this scene, Ser Brunetto Latino speaks to Dante, asking if he may walk back with him for a short distance, leaving the rest of the procession of souls to move forward. Dante responds that he is happy to comply as much as possible, provided that Virgil (his guide) allows it.
+
+Brunetto then gives Dante a crucial warning about the mechanics of their punishment: anyone in this "flock" of souls who stops moving is doomed to remain stationary for a hundred years before the rain of fire reaches them again. Because of this, he urges Dante to keep walking forward, promising that he will follow closely behind Dante's garments before eventually returning to rejoin his group of fellow sufferers.
+
+**Tag Resolutions:**
+- `[1:quelli]`: Ser Brunetto
+- `{2:figliuol}`: Dante
+- `[3:ti]`: Dante
+- `{4:Brunetto Latino}`: Ser Brunetto
+- `[5:teco]`: Dante
+- `[6:I']`: Dante
+- `[7:lui]`: Ser Brunetto
+- `[8:+io]`: Dante
+- `[9:+io]`: Dante
+- `[10:+voi]`: Ser Brunetto
+- `[11:voi]`: Ser Brunetto
+- `[12:+ei]`: Virgil
+- `[13:m']`: Dante
+- `[14:+io]`: Dante
+- `[15:costui]`: Virgil
+- `[16:+io]`: Dante
+- `[17:seco]`: Virgil
+- `{18:figliuol}`: Dante
+- `[19:+ei]`: Ser Brunetto
+- `[20:il]`: A soul who stops (a member of the "greggia")
+- `[21:+tu]`: Dante
+- `[22:i']`: Ser Brunetto
+- `[23:ti]`: Dante
+- `[24:+io]`: Ser Brunetto
+
+## Scene 43-54: Dante's Explanation of his Descent
+In this scene, Dante describes his behavior and the subsequent conversation with Ser Brunetto Latino. Out of respect for his former mentor, Dante does not dare leave the designated path to walk side-by-side with Brunetto; instead, he keeps his head bowed in a gesture of reverence.
+
+Brunetto begins the dialogue by asking Dante what "fortune or destiny" has brought him down to Hell before the "final day" (the day of judgment/death). He also asks for the identity of the man guiding him.
+
+Dante responds by briefly summarizing the start of his journey: he explains that he became lost in a "valley" (the dark wood) before reaching the midpoint of his life. He notes that he only just recently turned away from that state, and that Virgil appeared to him as he was returning toward that darkness, eventually leading him along the path to where they currently stand in the Seventh Circle.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:lui]`: Ser Brunetto
+- `[3:+io]`: Dante
+- `{4:uom}`: A reverent man (referring to Dante's manner)
+- `[5:El]`: Ser Brunetto
+- `[6:ti]`: Dante
+- `[7:chi]`: Virgil
+- `[8:questi]`: Virgil
+- `[9:io]`: Dante
+- `[10:lui]`: Ser Brunetto
+- `[11:mi]`: Dante
+- `[12:+io]`: Dante
+- `[13:+io]`: Dante
+- `[14:questi]`: Virgil
+- `[15:m']`: Dante
+- `[16:ïo]`: Dante
+- `[17:+elli]`: Virgil
+
+## Scene 55-60: The Promise of Destiny
+In this scene, Ser Brunetto Latino responds to Dante's account of his journey. He offers a prophecy and a piece of encouragement, telling Dante that as long as he follows his "star" (his divine destiny), he is certain to reach a "glorious port" (a successful or spiritually triumphant destination). 
+
+Brunetto then reflects on his own life, noting that he lived "the beautiful life" but died prematurely. He observes that since Heaven/Providence seems so favorable toward Dante, Brunetto would have gladly provided support and guidance for Dante's intellectual or poetic work had he not been dead.
+
+**Tag Resolutions:**
+- `[1:elli]`: Ser Brunetto Latino
+- `[2:me]`: Dante
+- `[3:tu]`: Dante
+- `[4:+tu]`: Dante
+- `[5:+io]`: Ser Brunetto Latino
+- `[6:m']`: Ser Brunetto Latino
+- `[7:io]`: Ser Brunetto Latino
+- `{8:il cielo}`: God (Divine Providence)
+- `[9:te]`: Dante
+- `[10:+io]`: Ser Brunetto Latino
+- `[11:t']`: Dante
+
+## Scene 61-69: The Warning Against Fiesole
+In this scene, Ser Brunetto Latino continues his conversation with Dante, shifting from encouragement to a stern warning. He warns Dante about the people of Florence, whom he describes as an "ungrateful, malignant people" who descended from the hills of Fiesole. Brunetto predicts that these people will become Dante's enemies, even as Dante achieves success. 
+
+Brunetto uses a botanical metaphor to explain this: the "sweet fig" (representing Dante's virtue or intellectual excellence) does not belong among "sour sorbs" (representing the bitter and corrupt nature of the Florentines). He notes that historical reputation ("Old Fame") views these people as "blind," and he characterizes the Florentine populace as greedy, envious, and proud. He concludes by urging Dante to distance himself from their corrupt customs and to cleanse himself of their influence.
+
+**Tag Resolutions:**
+- `[1:+ei]`: The people of Florence (descendants of Fiesole)
+- `[2:+ei]`: The people of Florence
+- `[3:ti]`: Dante
+- `[4:si]`: The people of Florence
+- `{5:Vecchia fama}`: Old fame / historical reputation (personified)
+- `[6:li]`: The people of Florence
+- `[7:+tu]`: Dante
+- `[8:tu]`: Dante
+- `[9:ti]`: Dante
+
+## Scene 70-78: The Prophecy of the Holy Seed
+In this scene, Ser Brunetto Latino continues his prophecy regarding Dante's future relationship with his home city, Florence. He tells Dante that his destiny (fortune) will bring him such honor that people from all sides (likely referring to the warring political factions) will crave or "hunger" for him. However, Brunetto uses a metaphor to reassure him: while these people may hunger for him, they will not be able to destroy him—the "grass" (Dante) will remain far from the "beak" of the predatory beasts.
+
+Brunetto then expresses a hope that the "Fiesolan beasts" (the corrupt Florentines) will feed only upon themselves ("make straw of themselves") and leave alone any virtuous "plant" that might still be growing in the "manure" of the city. He refers to a "holy seed" descended from the original Romans who settled there before the city became a "nest of malice."
+
+**Tag Resolutions:**
+- `[1:ti]`: Dante
+- `[2:te]`: Dante
+- `[3:+elli]`: The people of Florence (the "Fiesolan beasts")
+
+## Scene 79-87: Dante's Tribute to his Teacher
+In this scene, Dante responds to Ser Brunetto Latino’s prophecy and warnings. He expresses profound gratitude and respect for his former mentor, stating that if his wishes could be granted, Brunetto would not have been cast out from "human nature" (meaning he would not be in Hell or exiled from the living). Dante explains that he still carries a "dear and good paternal image" of Brunetto in his mind, which now brings him sadness. He recalls how Brunetto taught him how a man can make himself "eternal" (through intellectual achievement and lasting fame). Dante concludes by declaring that as long as he lives, he will express this high esteem for Brunetto through his words.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:lui]`: Ser Brunetto Latino
+- `[3:voi]`: Ser Brunetto Latino
+- `[4:m']`: Dante
+- `[5:m']`: Dante
+- `{6:la cara e buona imagine paterna}`: Ser Brunetto Latino (specifically the memory/image of him)
+- `[7:voi]`: Ser Brunetto Latino
+- `[8:+voi]`: Ser Brunetto Latino
+- `[9:m']`: Dante
+- `{10:l'uom}`: Man (humanity in general)
+- `[11:s']`: Man (humanity in general)
+- `[12:io]`: Dante
+- `[13:l']`: Ser Brunetto Latino (referring back to the "image" in tag 6)
+- `[14:io]`: Dante
+
+## Scene 88-96: Acceptance of Fortune
+In this scene, Dante responds to Ser Brunetto Latino's prophecy about his future exile and the hostility of the Florentines. Dante tells Brunetto that he is recording these predictions (effectively referring to the act of writing the *Divina Commedia*) and intends to present them to a certain lady—almost certainly Beatrice—should he ever reach her. 
+
+Dante then expresses his resignation to his fate. He wants to make it clear to Brunetto, and to his own conscience, that he is ready to accept whatever the personified force of Fortune decrees for him. He concludes with a Stoic observation: Fortune turns her wheel as she pleases, and the peasant continues to toil with his hoe; the world continues its course regardless of individual destiny.
+
+**Tag Resolutions:**
+- `[1:+voi]`: Ser Brunetto Latino
+- `[2:+io]`: Dante
+- `[3:+io]`: Dante
+- `{4:donna}`: Beatrice
+- `[5:lei]`: Beatrice
+- `[6:+io]`: Dante
+- `[7:io]`: Dante
+- `[8:vi]`: Ser Brunetto Latino
+- `[9:mi]`: Dante
+- `{10:la Fortuna}`: Fortune (Personification)
+- `[11:+ella]`: Fortune (Personification)
+- `[12:+io]`: Dante
+- `{13:Fortuna}`: Fortune (Personification)
+- `[14:le]`: Fortune (Personification)
+- `{15:l villan}`: The peasant (a general figure representing the common man)
+
+## Scene 97-99: Virgil's Instruction
+In this brief scene, the focus shifts from the emotional conversation between Dante and Ser Brunetto Latino back to the guiding presence of Virgil. Virgil, who has been observing the encounter, turns around to look at Dante and gives him a short, pointed instruction to listen carefully to the "note" (the signal or voice) indicating that it is time to move on or pay attention to the path ahead.
+
+**Tag Resolutions:**
+- `{1:Lo mio maestro}`: Virgil
+- `[2:+ei]`: Virgil
+- `[3:si]`: Virgil
+- `[4:+ei]`: Virgil
+- `[5:+ei]`: Virgil
+- `[6:+tu]`: Dante
+- `[7:chi]`: The person providing the "note" or signal (referring to Virgil himself in his capacity as the guide directing the journey)
+
+## Scene 100-105: Dante's Inquiry
+In this scene, Dante continues his conversation with Ser Brunetto Latino. While speaking with him, Dante expresses curiosity about the other souls in the procession, asking who among Brunetto's companions are the most famous or distinguished. Brunetto responds by telling Dante that while it is fine to know about one person (meaning himself), it would be better to remain silent regarding the others, as they simply do not have enough time to identify everyone.
+
+**Tag Resolutions:**
+- `{1:men}`: Ser Brunetto Latino
+- `[2:+io]`: Dante
+- `{3:ser Brunetto}`: Ser Brunetto Latino
+- `[4:+io]`: Dante
+- `[5:chi]`: The companions of Brunetto
+- `{6:li suoi compagni}`: The companions of Brunetto
+- `[7:elli]`: Ser Brunetto Latino (speaking as the representative of the group)
+- `[8:me]`: Dante
+
+## Scene 106-114: The Catalog of Scholars
+In this scene, Ser Brunetto Latino answers Dante's previous inquiry about the identities of the other souls in the procession. He explains that the entire group consists of scholars and clerics—men who were once highly respected and famous intellectuals but who are now "filthy" (condemned) because they all committed the same sin.
+
+Brunetto specifically names two of these figures: Priscian (the ancient Latin grammarian) and Francesco d'Accorso (a prominent legal scholar). He then tells Dante that if he had the desire to seek out such "contagions," he would also find a specific person here: a man who moved from the Arno river (Florence) to the Bacchiglione river (Padua) and who held the title of "servant of servants" (the Pope). This is a reference to Pope Adrian V.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `{2:cherci}`: The group of souls (scholars/clerics)
+- `{3:litterati grandi e di gran fama}`: The group of souls (scholars/clerics)
+- `{4:lerci}`: The group of souls (scholars/clerics)
+- `{5:Priscian}`: Priscian
+- `{6:quella turba grama}`: The group of souls (scholars/clerics)
+- `{7:Francesco d'Accorso}`: Francesco d'Accorso
+- `[8:+tu]`: Dante
+- `[9:colui]`: Pope Adrian V
+- `{10:dal servo de' servi}`: Pope Adrian V
+
+## Scene 115-120: The Interrupted Farewell
+In this concluding scene of Canto 15, the encounter between Dante and Ser Brunetto Latino comes to an end. Dante indicates that he would like to continue the conversation, but it must stop now because he observes new smoke rising from the sand, signaling the approach of another group of souls. Dante notes that he should not remain in the presence of these newcomers. As he departs, he gives a final, affectionate farewell to his former mentor, calling him "my Treasure" (a reference to the intellectual and moral wealth he gained from Brunetto's teachings), stating that he still lives by those lessons and desires nothing more.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:i']`: Dante
+- `{3:Gente}`: The incoming crowd of souls
+- `[4:+io]`: Dante
+- `[5:+tu]`: Ser Brunetto Latino
+- `{6:il mio Tesoro}`: Ser Brunetto Latino
+- `[7:io]`: Dante
+- `[8:+io]`: Dante
+
+## Scene 121-124: The Final Simile
+In this final scene of Canto 15, the encounter between Dante and Ser Brunetto Latino concludes. Ser Brunetto turns away from Dante and Virgil to rejoin the procession of souls in the Third Girone. 
+
+Dante describes Brunetto's departure using a simile: Brunetto’s stride and manner remind Dante of the athletes who compete in a race for a green cloth (a prize banner) in the countryside around Verona. Specifically, Brunetto does not look like a defeated man; he looks like the winner of the race, not the loser. This highlights Brunetto's enduring pride and the dignified, almost arrogant, carriage he maintains even in his state of condemnation.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Ser Brunetto Latino
+- `[2:si]`: Ser Brunetto Latino
+- `[3:+ei]`: Ser Brunetto Latino
+- `[4:coloro]`: The runners in Verona
+- `[5:+ei]`: Ser Brunetto Latino
+- `[6:costoro]`: The runners in Verona
+- `[7:quelli]`: The winner of the race
+- `[8:colui]`: The loser of the race
+
+# recap
+- Dante and Virgil are traveling together.
+- They have just bid farewell to Ser Brunetto Latino, who has rejoined the procession of condemned scholars.
+- They continue through the Seventh Circle as new smoke signals the approach of another group of souls.

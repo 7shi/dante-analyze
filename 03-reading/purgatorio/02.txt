@@ -1,0 +1,392 @@
+# Canto 02 — The Arrival of the Celestial Messenger and the Encounter with Casella
+
+## Scene 1-12: Setting the Scene at Dawn
+**Scene Analysis: Setting the Scene at Dawn**
+
+**What happens:**
+The scene opens with a cosmic "wide shot" to establish the exact time and location of the action. The narrator describes the sunrise. Specifically, he notes that the sun is at the horizon in Purgatory, which corresponds to the sun being at its zenith (noon) over Jerusalem. As the sun rises, the personified Night is retreating across the east (specifically the Ganges river in India), accompanied by the constellation Libra. Consequently, the personified Aurora (the Dawn), whose cheeks are described as white and red, is fading away as she "ages" into the full light of day. Finally, the focus shifts from the heavens down to the two protagonists, who are lingering or moving slowly along the shore, feeling a sense of hesitation or deep reflection about the journey ahead.
+
+**Who does what:**
+- **The Sun ({1}):** Rises on the horizon of Purgatory and reaches its highest point over Jerusalem.
+- **Night ({2}):** Recedes across the Ganges.
+- **Aurora ({6}):** Fades/ages as the morning progresses.
+- **Dante ([5]) and Virgil ([7]):** They are traveling slowly, their hearts and bodies lagging as they contemplate their path.
+
+**Who speaks:**
+There is no dialogue in this scene. The text is the narrative description provided by the poet-narrator, Dante.
+
+**Resolution of Numbered Tags:**
+- `{1:l sole}` $\rightarrow$ The Sun
+- `{2:la notte}` $\rightarrow$ Night (personified)
+- `[3:lui]` $\rightarrow$ The Sun ({1})
+- `{4:le Bilance}` $\rightarrow$ Libra (the constellation/zodiac sign)
+- `[5:i']` $\rightarrow$ Dante
+- `{6:la bella Aurora}` $\rightarrow$ Aurora (the personification of Dawn)
+- `[7:Noi]` $\rightarrow$ Dante and Virgil
+
+## Scene 13-18: A Sudden Light Appears
+**Scene Analysis: A Sudden Light Appears**
+
+**What happens:**
+The scene describes a sudden visual phenomenon. Dante uses a simile to describe what he sees: he compares the incoming sight to the appearance of the planet Mars, which glows red through thick morning mists over the western sea. The actual event is the appearance of a light speeding across the water toward the protagonists. This light is moving with such extraordinary velocity that it surpasses the speed of any bird or known flight.
+
+**Who does what:**
+- **Mars ({1}):** Appears as a red glow through the vapors in the west (used as a point of comparison).
+- **Dante ([2], [3]):** Observes the approaching light and reflects on the memory of it.
+- **A light ({5}):** Races across the sea toward Dante and Virgil at an incredible speed.
+
+**Who speaks:**
+There is no dialogue. This is the narrative voice of Dante the poet describing the experience of Dante the pilgrim.
+
+**Resolution of Numbered Tags:**
+- `{1:Marte}` $\rightarrow$ Mars (the planet)
+- `[2:m']` $\rightarrow$ Dante
+- `[3:io]` $\rightarrow$ Dante
+- `[4:lo]` $\rightarrow$ The light ({5})
+- `{5:un lume}` $\rightarrow$ A light (the celestial messenger)
+
+## Scene 19-36: Description of the Angelic Wings
+**Scene Analysis: Description of the Angelic Wings**
+
+**What happens:**
+Dante briefly looks away from the approaching light to address Virgil, but when he looks back, the light has grown significantly in size and brilliance. As the light draws closer, white forms emerge from it—first one, then another—which are revealed to be wings. While Virgil had been silent during the approach, he suddenly recognizes the entity as a divine messenger. He immediately takes charge, commanding Dante to humble himself by kneeling and folding his hands in prayer. Virgil explains that the being is a celestial official of God who transcends human physics; the angel requires no oars or sails to cross the distance between shores, using only eternal wings that point toward heaven and do not decay like mortal hair.
+
+**Who does what:**
+- **Dante ([1], [3], [5]):** Briefly looks away from the light toward Virgil, then looks back to see the light expanding and transforming. He is the recipient of Virgil's instructions.
+- **The Light / The Angel ([4], [7], {6}, {9}, {11}, {16}, {19}, [21], [22], [24]):** Approaches with increasing brilliance, reveals its wings, and represents the divine authority of God.
+- **Virgil ({2}, {8}, [10], [12]):** Observes the light, recognizes the messenger, and instructs Dante on the proper ritual posture (kneeling/praying) and the nature of the angel's flight.
+
+**Who speaks:**
+Virgil speaks to Dante (lines 28-36).
+
+**Resolution of Numbered Tags:**
+- `[1:io]` $\rightarrow$ Dante
+- `{2:lo duca mio}` $\rightarrow$ Virgil
+- `[3:+io]` $\rightarrow$ Dante
+- `[4:esso]` $\rightarrow$ The light (the angel)
+- `[5:m']` $\rightarrow$ Dante
+- `{6:un non sapeva che bianco}` $\rightarrow$ The first wing (of the angel)
+- `[7:lui]` $\rightarrow$ The light (the angel)
+- `{8:Lo mio maestro}` $\rightarrow$ Virgil
+- `{9:i primi bianchi}` $\rightarrow$ The wings (of the angel)
+- `[10:+lui]` $\rightarrow$ Virgil
+- `{11:il galeotto}` $\rightarrow$ The celestial messenger (the angel)
+- `[12:+lui]` $\rightarrow$ Virgil
+- `[13:+tu]` $\rightarrow$ Dante
+- `[14:+tu]` $\rightarrow$ Dante
+- `[15:+tu]` $\rightarrow$ Dante
+- `{16:l'angel di Dio}` $\rightarrow$ The celestial messenger (the angel)
+- `[17:+tu]` $\rightarrow$ Dante
+- `[18:+tu]` $\rightarrow$ Dante
+- `{19:officiali}` $\rightarrow$ The angel (or angels of this nature)
+- `[20:+tu]` $\rightarrow$ Dante
+- `[21:+lui]` $\rightarrow$ The angel
+- `[22:+lui]` $\rightarrow$ The angel
+- `[23:+tu]` $\rightarrow$ Dante
+- `[24:+lui]` $\rightarrow$ The angel
+
+## Scene 37-45: The Vessel Approaches
+**Scene Analysis: The Vessel Approaches**
+
+**What happens:**
+As the celestial messenger draws closer, its brilliance increases to such an intensity that Dante cannot keep his eyes open; he is forced to look down to shield his sight. The messenger arrives at the shore in a small, swift, and incredibly light boat—so light that it barely displaces the water. The angel acts as the helmsman, steering from the stern. Dante notes that the angel is so divine that even a mere description of him would bring bliss to the reader. The boat is not empty; it carries a group of more than one hundred souls.
+
+**Who does what:**
+- **The Angel / The Divine Bird ({2}, [4], {5}, [6]):** Approaches the shore, steers the light vessel from the stern, and radiates a blinding light.
+- **Dante ([1], [3]):** Observes the approach and is forced to cast his eyes downward because the light is too bright to bear.
+- **Virgil ([1]):** Is with Dante on the shore as the boat arrives.
+- **The Spirits ({7}):** Sit within the boat as passengers.
+
+**Who speaks:**
+There is no dialogue in this scene. The text is the narrative description provided by Dante.
+
+**Resolution of Numbered Tags:**
+- `[1:noi]` $\rightarrow$ Dante and Virgil
+- `{2:l'uccel divino}` $\rightarrow$ The celestial messenger (the angel)
+- `[3:+ei]` $\rightarrow$ Dante's eye (referring back to *l'occhio* in line 39)
+- `[4:quei]` $\rightarrow$ The celestial messenger (the angel)
+- `{5:il celestial nocchiero}` $\rightarrow$ The celestial messenger (the angel)
+- `[6:+ei]` $\rightarrow$ The celestial messenger (the angel)
+- `{7:cento spirti}` $\rightarrow$ The souls being transported to Purgatory
+
+## Scene 46-51: The Sacred Song and Signal
+**Scene Analysis: The Sacred Song and Signal**
+
+**What happens:**
+As the boat arrives, the passengers—the hundred souls—sing in unison. They chant the beginning of Psalm 114 ("When Israel went out of Egypt"), which is a symbolic choice: just as the Israelites were liberated from slavery in Egypt, these souls are being liberated from the "slavery" of their sins and the depths of the afterlife to begin their ascent toward God. Once the singing is complete, the angel performs a ritual action, making the sign of the cross over the souls. This acts as a divine signal or blessing, prompting the spirits to quickly disembark from the vessel and move onto the sandy shore of Purgatory. The vessel itself arrives at the beach with great speed.
+
+**Who does what:**
+- **The Spirits ([1], [3], [4]):** Sing the Psalm together and, upon the angel's signal, cast themselves onto the shore.
+- **The Angel ([2]):** Makes the sign of the holy cross over the spirits to signal their arrival and transition.
+
+**Who speaks:**
+The spirits are singing (chanting a psalm), but there is no spoken dialogue in this scene.
+
+**Resolution of Numbered Tags:**
+- `[1:+elli]` $\rightarrow$ The spirits (the "cento spirti" mentioned in the previous scene)
+- `[2:+ei]` $\rightarrow$ The celestial messenger (the angel)
+- `[3:ei]` $\rightarrow$ The spirits
+- `[4:si]` $\rightarrow$ The spirits (reflexive pronoun)
+
+## Scene 52-60: The Souls Seek Guidance
+**Scene Analysis: The Souls Seek Guidance**
+
+**What happens:**
+The scene focuses on the arrival and initial disorientation of the hundred souls. Having just disembarked, the crowd behaves like strangers in an unfamiliar land, looking around with curiosity and confusion—compared by Dante to someone tasting nine different new things for the first time. Meanwhile, the narrator notes that the sun is shining brightly from all directions, having already chased the sign of Capricorn from the center of the sky. Noticing Dante and Virgil standing on the shore, the newcomers look up to them and ask if they know the way to the mountain of Purgatory, requesting that they show them the path.
+
+**Who does what:**
+- **The Crowd of Souls ({1}, [2], {4}):** They land on the shore, look around in a state of confusion/novelty, and eventually address Dante and Virgil to ask for directions.
+- **A hypothetical person ([3]):** Used in a simile to describe the curiosity of the souls.
+- **The Sun:** Shines brightly and moves the celestial signs (Capricorn).
+- **Dante and Virgil ([5], [6], [7], [8]):** They stand on the shore and are approached by the newly arrived spirits.
+
+**Who speaks:**
+The souls (the "new people") speak collectively to Dante and Virgil (lines 59-60).
+
+**Resolution of Numbered Tags:**
+- `{1:La turba}` $\rightarrow$ The crowd of souls
+- `[2:+ella]` $\rightarrow$ The crowd of souls
+- `[3:colui]` $\rightarrow$ A person (used in a simile to describe the souls' curiosity)
+- `{4:la nova gente}` $\rightarrow$ The crowd of souls (the new arrivals)
+- `[5:noi]` $\rightarrow$ Dante and Virgil
+- `[6:noi]` $\rightarrow$ Dante and Virgil
+- `[7:voi]` $\rightarrow$ Dante and Virgil
+- `[8:+voi]` $\rightarrow$ Dante and Virgil
+
+## Scene 61-66: Virgil's Response
+**Scene Analysis: Virgil's Response**
+
+**What happens:**
+Virgil answers the request for directions from the newly arrived spirits. He corrects their assumption that he and Dante are experts or guides of Purgatory, explaining that they are pilgrims just like the newcomers. He notes that while they arrived slightly before the group, they did so via a different route—one so harsh and grueling (referring to their descent through the Inferno) that the climb up the mountain of Purgatory will likely seem like a "game" (easy) by comparison.
+
+**Who does what:**
+- **Virgil ({1}, [3], [4], [6]):** Speaks on behalf of himself and Dante, clarifying their status as fellow pilgrims and contrasting their previous journey with the one ahead.
+- **The Crowd of Souls ([2], [5], [7]):** The recipients of Virgil's explanation.
+
+**Who speaks:**
+Virgil speaks to the crowd of souls (lines 61-66).
+
+**Resolution of Numbered Tags:**
+- `{1:Virgilio}` $\rightarrow$ Virgil
+- `[2:Voi]` $\rightarrow$ The crowd of souls
+- `[3:+noi]` $\rightarrow$ Virgil and Dante
+- `[4:noi]` $\rightarrow$ Virgil and Dante
+- `[5:voi]` $\rightarrow$ The crowd of souls
+- `[6:+noi]` $\rightarrow$ Virgil and Dante
+- `[7:voi]` $\rightarrow$ The crowd of souls
+
+## Scene 67-75: The Souls' Reaction to Dante
+**Scene Analysis: The Souls' Reaction to Dante**
+
+**What happens:**
+The newly arrived souls realize something shocking: Dante is still breathing, which means he is a living man inhabiting the realm of the dead. This revelation leaves them stunned and pale with wonder. Dante uses a simile to describe their reaction, comparing the souls to a crowd of people swarming a messenger who brings an olive branch (a symbol of peace) to hear news. Driven by intense curiosity, the souls crowd around Dante, staring intently at his face, momentarily forgetting their urgent mission to ascend the mountain and undergo the purification necessary to "make themselves beautiful" (attain a state of grace).
+
+**Who does what:**
+- **The Souls ({1}, [2], [5], [9], {10}):** They notice Dante's breath, realize he is alive, become stunned, and then swarm around him in curiosity.
+- **Dante ([3], [4]):** He is the object of the souls' fascination because he is a living human in Purgatory.
+- **A hypothetical messenger ({6}):** Used in a simile as someone bringing peace/news.
+- **Hypothetical people ({7}, [8]):** Used in a simile to describe how a crowd eagerly presses in to hear news.
+
+**Who speaks:**
+There is no dialogue in this scene. This is the narrative description provided by Dante the poet.
+
+**Resolution of Numbered Tags:**
+- `{1:L'anime}` $\rightarrow$ The crowd of souls
+- `[2:si]` $\rightarrow$ The crowd of souls (reflexive)
+- `[3:me]` $\rightarrow$ Dante
+- `[4:i']` $\rightarrow$ Dante
+- `[5:+elli]` $\rightarrow$ The crowd of souls
+- `{6:messagger}` $\rightarrow$ A hypothetical messenger (simile)
+- `{7:la gente}` $\rightarrow$ Hypothetical people (simile)
+- `[8:si]` $\rightarrow$ The hypothetical people (simile)
+- `[9:s']` $\rightarrow$ The crowd of souls (reflexive)
+- `{10:anime fortunate}` $\rightarrow$ The crowd of souls
+
+## Scene 76-84: The Physical Embrace
+**Scene Analysis: The Physical Embrace**
+
+**What happens:**
+Among the crowd of newly arrived souls, one specific soul steps forward and embraces Dante with great affection. Moved by this gesture, Dante responds and embraces her back. Dante pauses to reflect on the nature of these beings, calling them "vain shadows" (*ombre vane*), noting that while they have a visible appearance, they lack physical substance. Dante describes the embrace in detail: he wraps his arms around the soul three times, and she does the same to him. Dante believes his face betrays his amazement at the experience. Noticing this, the soul smiles and pulls away, and Dante continues to lean forward as she recedes.
+
+**Who does what:**
+- **Dante ([1], [4], [7], [8], [9], [11], [12], [13], [17], [19]):** He is embraced by a soul, responds with a reciprocal embrace, feels amazement, and leans forward as the soul pulls back.
+- **A specific soul ([2], [6], [10], {14}, [15], [16], [18]):** She separates herself from the group, embraces Dante with affection, returns the embrace three times, smiles at Dante's wonder, and then pulls away.
+- **The crowd of souls ([3], {5}):** The group from which the specific soul emerged; they are collectively referred to as "vain shadows."
+
+**Who speaks:**
+There is no dialogue between characters. Dante the poet narrates the scene and includes a brief emotional exclamation/aside in line 79 ("Ohi ombre vane"), lamenting the incorporeal nature of the spirits.
+
+**Resolution of Numbered Tags:**
+- `[1:Io]` $\rightarrow$ Dante
+- `[2:una]` $\rightarrow$ A specific soul (from the crowd)
+- `[3:lor]` $\rightarrow$ The crowd of souls
+- `[4:me]` $\rightarrow$ Dante
+- `{5:ombre vane}` $\rightarrow$ The crowd of souls (ghosts)
+- `[6:lei]` $\rightarrow$ The specific soul
+- `[7:+io]` $\rightarrow$ Dante
+- `[8:mi]` $\rightarrow$ Dante
+- `[9:+io]` $\rightarrow$ Dante
+- `[10:esse]` $\rightarrow$ The specific soul (referring to her arms)
+- `[11:+io]` $\rightarrow$ Dante
+- `[12:mi]` $\rightarrow$ Dante
+- `[13:+io]` $\rightarrow$ Dante
+- `{14:l'ombra}` $\rightarrow$ The specific soul
+- `[15:si]` $\rightarrow$ The specific soul
+- `[16:+ella]` $\rightarrow$ The specific soul
+- `[17:io]` $\rightarrow$ Dante
+- `[18:lei]` $\rightarrow$ The specific soul
+- `[19:mi]` $\rightarrow$ Dante
+
+## Scene 85-90: Recognition of Casella
+**Scene Analysis: Recognition of Casella**
+
+**What happens:**
+The soul who embraced Dante in the previous scene speaks to him with sweetness, telling him to be still. At this moment, Dante recognizes the identity of the soul (Casella) and begs him to linger for a moment so they can speak. Casella agrees to stay, declaring that he loves Dante now as a released spirit just as much as he loved him when they were both in their mortal bodies. The scene ends with Casella asking Dante why he is traveling through this realm.
+
+**Who does what:**
+- **The Soul/Casella ([1], [4], [6], [7], [8], [9], [11], [13], [14]):** Speaks gently to Dante, is recognized by him, expresses his enduring love for Dante, and asks about Dante's journey.
+- **Dante ([2], [3], [5], [10], [12], [15]):** Is told to be still, recognizes the soul, requests a conversation, and is the recipient of Casella's affection and question.
+
+**Who speaks:**
+- **Casella** speaks to Dante (lines 85, 88-90).
+- **Dante** speaks to Casella (line 87, though phrased as a request "pregai che...").
+
+**Resolution of Numbered Tags:**
+- `[1:+egli]` $\rightarrow$ The soul (Casella)
+- `[2:io]` $\rightarrow$ Dante
+- `[3:+io]` $\rightarrow$ Dante
+- `[4:chi]` $\rightarrow$ The soul (Casella)
+- `[5:+io]` $\rightarrow$ Dante
+- `[6:+egli]` $\rightarrow$ The soul (Casella)
+- `[7:s']` $\rightarrow$ The soul (Casella)
+- `[8:+egli]` $\rightarrow$ The soul (Casella)
+- `[9:io]` $\rightarrow$ The soul (Casella)
+- `[10:t']` $\rightarrow$ Dante
+- `[11:+egli]` $\rightarrow$ The soul (Casella)
+- `[12:t']` $\rightarrow$ Dante
+- `[13:+egli]` $\rightarrow$ The soul (Casella)
+- `[14:m']` $\rightarrow$ The soul (Casella)
+- `[15:tu]` $\rightarrow$ Dante
+
+## Scene 91-105: Dialogue with Casella
+**Scene Analysis: Dialogue with Casella**
+
+**What happens:**
+Dante and Casella engage in a brief conversation. Dante explains the purpose of his journey: he is traveling through the afterlife so that he may eventually return to the world of the living. He then asks Casella why he has been delayed so long before being allowed to enter Purgatory. Casella responds by explaining that his delay was not due to any offense or "insult" (*oltraggio*), but rather the will of the celestial messenger (the angel boatman). He explains that the angel collects souls according to a divine, just will, and that for the past three months, the angel had stopped all entries. Casella describes how he was waiting at the mouth of the Tiber River (where the fresh water meets the salt water of the sea) and was benignly turned back by the angel. He concludes by noting that the angel's boat always returns to that specific location to gather the souls who are not destined for the descent into Acheron (Hell).
+
+**Who does what:**
+- **Dante ([2], [3], [4]):** Explains his goal of returning to the living world and questions Casella about his delay.
+- **Casella ([6], [7], [8], [12], [15], [16]):** Answers Dante, explaining the mechanics of his arrival and the divine timing of the angel's transport.
+- **The Celestial Messenger / The Angel ([9], [10], [11], [13], [17], [18]):** The divine official who decides when and whom to transport, who paused arrivals for three months, and who gathers souls at the mouth of the Tiber.
+- **The Souls ([14], [19], [20]):** The collective group of spirits (including Casella) who seek entry to Purgatory and are gathered from the shores to avoid the descent into Hell.
+
+**Who speaks:**
+- **Dante** speaks to Casella (lines 91-93).
+- **Casella** speaks to Dante (lines 94-105).
+
+**Resolution of Numbered Tags:**
+- `{1:Casella}` $\rightarrow$ Casella
+- `[2:io]` $\rightarrow$ Dante
+- `[3:io]` $\rightarrow$ Dante
+- `[4:io]` $\rightarrow$ Dante
+- `[5:te]` $\rightarrow$ Casella
+- `[6:elli]` $\rightarrow$ Casella
+- `[7:me]` $\rightarrow$ Casella
+- `[8:m']` $\rightarrow$ Casella
+- `[9:quei]` $\rightarrow$ The celestial messenger (the angel)
+- `[10:li]` $\rightarrow$ The celestial messenger (the angel)
+- `[11:+elli]` $\rightarrow$ The celestial messenger (the angel)
+- `[12:m']` $\rightarrow$ Casella
+- `[13:elli]` $\rightarrow$ The celestial messenger (the angel)
+- `[14:chi]` $\rightarrow$ The souls seeking entry
+- `[15:io]` $\rightarrow$ Casella
+- `[16:+io]` $\rightarrow$ Casella
+- `[17:lui]` $\rightarrow$ The celestial messenger (the angel)
+- `[18:elli]` $\rightarrow$ The celestial messenger (the angel)
+- `[19:si]` $\rightarrow$ The souls
+- `[20:si]` $\rightarrow$ The souls
+
+## Scene 106-114: The Sweetness of the Song
+**Scene Analysis: The Sweetness of the Song**
+
+**What happens:**
+Dante, feeling the emotional and spiritual exhaustion of his journey, turns to Casella. Knowing Casella was a skilled musician in life, Dante asks him if the "new law" of the afterlife has stripped him of the memory or the ability to perform the "loving songs" that used to soothe Dante's sorrows on earth. He asks Casella to please console his distressed soul with a song. Casella complies, beginning to sing a canzone that starts with the line, "Love that reasons in my mind." The singing is so beautiful and sweet that Dante, the poet, remarks that the sweetness of that melody still resonates within him as he recounts the experience.
+
+**Who does what:**
+- **Dante ([1], [3], {5}, {6}, [10]):** Requests a song from Casella to soothe his weariness and feels the lasting emotional impact of the music.
+- **Casella ([2], [4], [8], [9]):** Receives the request and begins to sing a sweet, melodic song.
+- **Love ({7}):** The personified subject of the song Casella begins to sing.
+
+**Who speaks:**
+- **Dante** speaks to Casella (lines 106-111).
+- **Casella** sings (line 112).
+
+**Resolution of Numbered Tags:**
+- `[1:io]` $\rightarrow$ Dante
+- `[2:ti]` $\rightarrow$ Casella
+- `[3:mi]` $\rightarrow$ Dante
+- `[4:ti]` $\rightarrow$ Casella
+- `{5:l'anima mia}` $\rightarrow$ Dante
+- `{6:la sua persona}` $\rightarrow$ Dante (specifically his living physical presence)
+- `{7:Amor}` $\rightarrow$ Love (personified)
+- `[8:mi]` $\rightarrow$ Casella (as the speaker/voice of the song he is singing)
+- `[9:elli]` $\rightarrow$ Casella
+- `[10:mi]` $\rightarrow$ Dante
+
+## Scene 115-123: The Pilot's Interruption
+**Scene Analysis: The Pilot's Interruption**
+
+**What happens:**
+The scene begins with a moment of collective enchantment. Dante, Virgil, and the crowd of newly arrived souls are all completely absorbed in Casella's singing; they are so content and focused on the music that nothing else seems to occupy their minds. This peaceful atmosphere is abruptly shattered by the intervention of an "honest old man" (Cato, the guardian of Purgatory). Cato shouts at the group, reprimanding them for their laziness and negligence. He calls them "slow spirits" and commands them to stop lingering and instead hurry toward the mountain to strip away their "rock" (a metaphor for their sins/burdens) so that they may be made manifest to God.
+
+**Who does what:**
+- **Dante ([2], [5]):** Listens intently and happily to Casella's song.
+- **Virgil ({1}, [5]):** Also listens intently, sharing in the momentary distraction of the music.
+- **The Crowd of Souls ({3}, [4], [5], {7}, [8], [9]):** They gather around Casella, listening with total focus until they are shouted at by Cato.
+- **Casella ([4]):** The source of the singing that captivates the group.
+- **Cato ({6}):** The "honest old man" who interrupts the scene, shouting commands and urging the souls to begin their purification.
+- **God ({10}):** The ultimate destination and judge to whom the souls must be presented.
+
+**Who speaks:**
+Cato speaks to the crowd of souls (lines 120-123).
+
+**Resolution of Numbered Tags:**
+- `{1:Lo mio maestro}` $\rightarrow$ Virgil
+- `[2:io]` $\rightarrow$ Dante
+- `{3:quella gente}` $\rightarrow$ The crowd of souls
+- `[4:lui]` $\rightarrow$ Casella
+- `[5:Noi]` $\rightarrow$ Dante, Virgil, and the crowd of souls
+- `{6:il veglio onesto}` $\rightarrow$ Cato
+- `{7:spiriti lenti}` $\rightarrow$ The crowd of souls
+- `[8:+voi]` $\rightarrow$ The crowd of souls
+- `[9:voi]` $\rightarrow$ The crowd of souls
+- `{10:Dio}` $\rightarrow$ God
+
+## Scene 124-133: The Dispersal of the Souls
+**Scene Analysis: The Dispersal of the Souls**
+
+**What happens:**
+The scene describes the immediate reaction of the souls to Cato's reprimand using a vivid simile. Dante compares the souls to a flock of pigeons gathered to feed on grain; the pigeons are peaceful and devoid of their usual pride until something appears that frightens them, causing them to suddenly abandon the bait out of a more urgent fear. Similarly, Dante observes the "fresh crowd" of new arrivals abruptly stop listening to Casella's song and flee toward the coast. They run in a state of disorientation, compared to a man who wanders without knowing where he is going. Finally, Dante and Virgil also promptly depart from the shore to continue their own journey.
+
+**Who does what:**
+- **The Pigeons ([1], [2]):** In the simile, they gather to eat, then suddenly scatter in fear.
+- **Dante ([3]):** Observes the chaotic dispersal of the souls and then departs.
+- **The Crowd of Souls ({4}):** They stop singing and rush toward the coast in a panic.
+- **A hypothetical man ({5}, [6], [7]):** Used in a simile to describe the blind, disoriented manner in which the souls are fleeing.
+- **Dante and Virgil:** They leave the beach immediately following the souls.
+
+**Who speaks:**
+There is no dialogue in this scene. This is the narrative voice of Dante the poet.
+
+**Resolution of Numbered Tags:**
+- `[1:+elli]` $\rightarrow$ The pigeons (in the simile)
+- `[2:+elli]` $\rightarrow$ The pigeons (in the simile)
+- `[3:io]` $\rightarrow$ Dante
+- `{4:quella masnada fresca}` $\rightarrow$ The crowd of newly arrived souls
+- `{5:om}` $\rightarrow$ A hypothetical man (used in a simile)
+- `[6:+ei]` $\rightarrow$ The hypothetical man ({5})
+- `[7:+ei]` $\rightarrow$ The hypothetical man ({5})
+
+# recap
+- Dante and Virgil are traveling together, having just departed from the shore of Purgatory.
+- The crowd of newly arrived souls, including Casella, has dispersed toward the mountain under the commands of Cato.

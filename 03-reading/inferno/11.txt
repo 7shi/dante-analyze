@@ -1,0 +1,202 @@
+# Canto 11 — The Hierarchy of Sin and the Classification of Fraud and Violence
+
+## Scene 1-9: The Inscription at the Abyss
+In this scene, Dante and Virgil have reached the edge of a high cliff or bank formed by massive broken stones, marking the transition to a deeper, more sinister part of Hell. As they stand there, they are hit by an overwhelming, foul stench rising from the abyss below. The smell is so repulsive that they instinctively recoil, pressing their backs against the lid of a large sarcophagus (a tomb) for support. While leaning there, Dante notices an inscription carved into the tomb. The text of the inscription identifies Pope Anastasius and mentions that he led Photinus away from the "straight way" (the path of truth/orthodoxy).
+
+**Resolution of Tags:**
+- `[1]`: Dante and Virgil
+- `[2]`: Dante and Virgil
+- `[3]`: Dante and Virgil
+- `[4]`: Dante
+- `[5]`: Pope Anastasius
+- `[6]`: Photinus
+
+## Scene 10-15: Preparing for the Descent
+In this scene, Virgil and Dante are preparing to descend into the abyss. Virgil suggests that they should descend slowly so that their senses can acclimate to the "dismal breath" (the foul stench) rising from below; he notes that once they are adjusted, he will proceed without hesitation. Dante agrees but asks Virgil to find a way to ensure that this waiting time is not "lost" (wasted). Virgil responds by reassuring Dante that he is already thinking of a way to make the time productive.
+
+**Tag Resolutions:**
+- `[1]`: Virgil (he is the speaker of the quote ending in line 12)
+- `[2]`: Virgil (identified as "the master")
+- `[3]`: Dante (the narrator/protagonist)
+- `[4]`: Dante (the narrator/protagonist)
+- `[5]`: Virgil (the person Dante is addressing)
+- `[6]`: Virgil (the person Dante is addressing)
+- `[7]`: Virgil (the person replying to Dante)
+- `[8]`: Dante (the person Virgil is addressing)
+- `[9]`: Virgil (he is the speaker of the quote in line 15)
+
+## Scene 16-27: Overview of the Circles
+In this scene, Virgil begins to explain the geography and moral logic of the circles they are about to enter. He tells Dante that there are three concentric circles ahead. He explains that all malice results in injury to others, and such injury is caused either by violence (force) or by fraud. However, because fraud is a sin specifically tied to the human capacity for reason (and thus a perversion of the highest human faculty), it is more offensive to God. Consequently, the fraudulent are punished deeper in Hell and suffer more intensely than those who were merely violent.
+
+**Tag Resolutions:**
+- `{1:Figliuol}`: Dante (Virgil addresses him as "my son")
+- `[2:+ei]`: Virgil (the speaker)
+- `[3:+io]`: Virgil (the speaker)
+- `{4:spirti maladetti}`: the damned spirits
+- `[5:ti]`: Dante (the person Virgil is speaking to)
+- `[6:+tu]`: Dante (the person Virgil is speaking to)
+- `[7:+elli]`: the damned spirits
+- `{8:l'uom}`: man/mankind (referring to human nature)
+- `{9:Dio}`: God
+- `[10:+elli]`: the fraudulent
+- `{11:li frodolenti}`: the fraudulent
+- `[12:li]`: the fraudulent
+
+## Scene 28-39: The Circle of Violence
+In this scene, Virgil continues his lecture to Dante, focusing on the specific structure of the Seventh Circle (the Circle of Violence). He explains that because violence can be directed at three different targets, the circle is subdivided into three "gironi" (rings or rounds). He identifies these targets as God, oneself, and one's neighbor. He then describes the first ring in detail, explaining that it houses those who were violent toward others—either by killing them or by destroying their property. This includes murderers, those who commit assault, destroyers, and plunderers.
+
+**Tag Resolutions:**
+- `{1:vïolenti}`: the violent (the class of sinners in this circle)
+- `{2:tre persone}`: three types of targets (God, self, and neighbor)
+- `[3:+elli]`: the first circle (referring to the structure of the circle of the violent being divided)
+- `{4:Dio}`: God
+- `[5:sé]`: oneself (the sinner committing the violence)
+- `{6:prossimo}`: the neighbor (other people)
+- `[7:+io]`: Virgil (the speaker)
+- `[8:loro]`: the three targets (God, self, and neighbor)
+- `[9:+tu]`: Dante (the listener)
+- `{10:prossimo}`: the neighbor
+- `[11:+elli]`: the violent against others (the sinners)
+- `[12:si]`: the violent against others (used here as an impersonal/reflexive pronoun indicating that these acts are committed by the sinners)
+- `{13:omicide}`: murderers
+- `{14:guastatori}`: destroyers
+- `{15:predon}`: plunderers
+
+## Scene 40-51: Violence Against Self and God
+In this scene, Virgil continues his lecture to Dante, detailing the remaining two subdivisions (rings) of the Seventh Circle of Hell. He explains that violence can be turned inward or upward. 
+
+First, he describes the second ring, which is reserved for those who were violent against themselves (suicides) or their own property. He notes that those who throw away their lives—depriving themselves of the world and wasting their own existence—are condemned to weep in a place where they should have been happy.
+
+Then, he moves to the third and smallest ring, which contains those who were violent against the "divinity" (God). This group includes those who denied or blasphemed God in their hearts, as well as those who acted against nature and its goodness. He mentions Sodom and Caorah as examples of this spiritual violence and concludes by mentioning those who speak out of hatred for God.
+
+**Tag Resolutions:**
+- `{1:omo}`: a person/man (generic reference to a sinner)
+- `[2:sé]`: the person/man (referring back to `{1:omo}`)
+- `[3:si]`: the sinners of the second ring (reflexive pronoun indicating their repentance/suffering)
+- `[4:sé]`: the suicide (the person who deprives themselves of the world)
+- `[5:+elli]`: the suicides/sinners of the second ring
+- `[6:+elli]`: the suicides/sinners of the second ring
+- `[7:+elli]`: the suicides/sinners of the second ring
+- `[8:+elli]`: the sinners of the third ring (used here as an impersonal "one" or "they" to introduce the category)
+- `{9:la deïtade}`: the divinity (God)
+- `[10:quella]`: the divinity (referring back to `{9:la deïtade}`)
+- `{11:natura}`: nature (personified)
+- `[12:chi]`: those who (the blasphemers/sinners of the third ring)
+- `{13:Dio}`: God
+
+## Scene 52-66: The Circle of Fraud
+In this scene, Virgil continues his lecture to Dante, shifting the focus from violence to the more complex sin of fraud. He explains that fraud is a perversion of the intellect and can be categorized into two distinct types based on the nature of the trust involved.
+
+First, Virgil describes fraud committed against someone who does not trust the fraudster. This type of deceit attacks the general "bond of love" created by nature. He explains that this category of sin leads to the second of the remaining circles (the Eighth Circle, or Malebolge), where various forms of fraud are punished, including hypocrisy, flattery, forgery, simony, panderers, and corrupt officials.
+
+Second, Virgil describes a more heinous form of fraud: the betrayal of someone who *does* trust the fraudster. This is seen as worse because it destroys not only the natural bond of love but also the "special trust" (loyalty or faith) that is added to that bond. This extreme form of fraud—treachery—leads to the final, smallest circle (the Ninth Circle) at the very center of the universe, where Lucifer (Dite) resides and where all traitors are eternally punished.
+
+**Tag Resolutions:**
+- `{1:l'omo}`: a man/human being (generic reference to a person who commits fraud)
+- `[2:colui]`: the person who trusts (the victim of betrayal)
+- `[3:lui]`: the man/fraudster (referring back to `{1:l'omo}`)
+- `[4:quel]`: the person who does not trust (the victim of deception)
+- `{5:natura}`: Nature (personified)
+- `[6:chi]`: those who fabricate/forge (the fraudulent spirits of the Eighth Circle)
+- `{7:ruffian}`: panderers (a class of sinners in the Eighth Circle)
+- `{8:baratti}`: barrators/corrupt officials (a class of sinners in the Eighth Circle)
+- `{9:natura}`: Nature (personified)
+- `{10:Dite}`: Dis/Lucifer (the ruler of Hell)
+- `{11:qualunque trade}`: any traitor (the sinners of the Ninth Circle)
+
+## Scene 67-75: Dante's Inquiry
+In this scene, Dante responds to Virgil’s detailed explanation of the hierarchy of Hell. He acknowledges that Virgil's reasoning is clear and effectively explains the structure of the abyss and the nature of the sinners within it. However, Dante is curious about a specific detail regarding the geography of the Seventh Circle. He asks Virgil why the sinners in the "fat marsh" (the Styx)—who are characterized by the wind, rain, and their aggressive behavior toward one another—are located outside the "red city" (the City of Dis). Dante’s question is a logical one: if God is angry with them, why aren't they imprisoned within the city walls? Conversely, if God is not angry with them, why are they suffering in such a miserable state?
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:Maestro}`: Virgil
+- `[3:+ella]`: Virgil's reasoning (referring back to *la tua ragione*)
+- `[4:+tu]`: Virgil
+- `[5:quei]`: the wrathful (the sinners in the marsh of the Styx)
+- `[6:s']`: the wrathful (reflexive; they encounter *each other*)
+- `[7:ei]`: the wrathful
+- `{8:Dio}`: God
+- `[9:li]`: the wrathful
+- `[10:li]`: the wrathful
+- `[11:+elli]`: the wrathful
+- `[12:+elli]`: the wrathful
+
+## Scene 76-90: The Aristotelian Defense
+In this scene, Virgil responds to Dante's question about why the wrathful are kept outside the City of Dis. Virgil is somewhat surprised by Dante's confusion, as the answer is rooted in the Aristotelian philosophy that Dante studied.
+
+Virgil reminds Dante of the *Nicomachean Ethics*, which categorizes sins into three types: incontinence (lack of self-control), malice, and "mad bestiality" (violence). Virgil explains that incontinence is the least offensive of these categories to God and therefore attracts the least blame. By applying this logic, Virgil points out that the sinners located outside the walls of Dis are those guilty of incontinence (which includes the lustful, gluttonous, and wrathful). Because their sin is considered less grave than fraud or violence, they are separated from the more "wicked" souls inside the city and are subjected to a less severe divine punishment.
+
+**Tag Resolutions:**
+- `[1:elli]`: Virgil (the speaker; using a plural form often used in the vernacular of the time for a singular subject)
+- `[2:me]`: Dante
+- `[3:+tu]`: Dante
+- `[4:ti]`: Dante
+- `{5:'l ciel}`: Heaven/God
+- `{6:Dio}`: God
+- `[7:tu]`: Dante
+- `[8:+tu]`: Dante
+- `[9:chi]`: the incontinent sinners (those outside the city)
+- `[10:quelli]`: the incontinent sinners (those outside the city)
+- `[11:tu]`: Dante
+- `{12:questi felli}`: the more wicked sinners (those inside the City of Dis, specifically the fraudulent and violent)
+- `[13:+elli]`: the incontinent sinners (the ones outside the city)
+- `[14:li]`: the incontinent sinners (the ones outside the city)
+
+## Scene 91-96: Dante's Request for Reversal
+In this scene, Dante is reacting to Virgil's Aristotelian explanation of the circles of Hell. He is deeply impressed by Virgil's clarity and the way his teacher resolves his doubts. Using a sun metaphor, Dante praises Virgil for "healing" his clouded understanding. He admits that he finds the process of questioning and then receiving an answer to be as satisfying as the knowledge itself. 
+
+However, Dante isn't quite finished with the intellectual preparation. He asks Virgil to backtrack slightly in his lecture to clarify a specific point: the sin of usury. Virgil had previously mentioned those who were violent against God/Nature, and Dante wants Virgil to "untie the knot" (explain the complexity) of how usury specifically offends the divine goodness.
+
+**Tag Resolutions:**
+- `{1:sol}`: Virgil (addressed metaphorically as the "sun" that clears Dante's vision/confusion)
+- `[2:tu]`: Virgil
+- `[3:mi]`: Dante
+- `[4:tu]`: Virgil
+- `[5:m']`: Dante
+- `[6:+tu]`: Virgil
+- `[7:ti]`: Virgil
+- `[8:io]`: Dante
+- `[9:+tu]`: Virgil
+- `[10:+tu]`: Virgil
+
+## Scene 97-111: The Theology of Usury
+In this scene, Virgil answers Dante's question about why usury is classified as violence against nature. He provides a philosophical and theological explanation based on the order of creation.
+
+Virgil explains that Philosophy teaches that Nature follows the course set by God's Divine Intellect. He tells Dante that if he remembers his studies in "Physics" (which, in the medieval sense, meant the study of the natural world), he will see that human art and industry are designed to follow Nature, just as a student follows a teacher. In this hierarchy, God is the master, Nature is the primary agent, and human industry is the "grandchild" or subordinate of God.
+
+Virgil then references the Book of Genesis to argue that the purpose of life is to sustain existence and advance the human race through natural reproduction and honest labor. The usurer, however, chooses a different path. By making money "breed" money without any actual labor or natural process, the usurer rejects the natural order. Consequently, the usurer despises both Nature and the human industry that follows Nature, placing his hope and profit in a sterile, artificial process. This perversion of the creative order is why usury is considered a violent act against the divine plan.
+
+**Tag Resolutions:**
+- `{1:Filosofia}`: Philosophy (personified)
+- `[2:mi]`: Dante (the person Virgil is speaking to)
+- `[3:+ei]`: Virgil (the speaker)
+- `[4:chi]`: those who understand philosophy (generic reference)
+- `[5:la]`: Philosophy
+- `[6:+ella]`: Philosophy
+- `{7:natura}`: Nature (personified)
+- `{8:divino 'ntelletto}`: God (the Divine Intellect)
+- `[9:tu]`: Dante
+- `[10:tu]`: Dante
+- `{11: 'l maestro}`: God (metaphorically the teacher)
+- `{12: 'l discente}`: Natural Philosophy/Science (metaphorically the student)
+- `{13:Dio}`: God
+- `[14:tu]`: Dante
+- `[15:ti]`: Dante
+- `{16:l'usuriere}`: the usurer
+- `[17:sé]`: the usurer
+- `{18:natura}`: Nature
+- `{19:la sua seguace}`: human art/industry (the "follower" of Nature)
+- `[20:+ei]`: the usurer
+- `[21:+ei]`: the usurer
+
+## Scene 112-115: Celestial Navigation
+In this brief scene, Virgil brings their intellectual discussion to a close and signals that it is time to move. He tells Dante to follow him, noting that the current celestial alignment is favorable for their descent. He points to the positions of the constellations—specifically the Fish (Pisces) rising on the horizon and the Wain (the Big Dipper/Ursa Major) positioned over the "Choir" (a specific region of the sky)—to indicate that the proper moment has arrived to make the leap down into the abyss.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante (Virgil is telling him to follow)
+- `[2:mi]`: Virgil (he is the one who finds the timing/rotation of the spheres favorable)
+
+# recap
+- Dante and Virgil are together at the edge of the abyss.
+- Having concluded their discussion on the hierarchy of sin and the theology of usury, they are preparing to descend.
+- Virgil determines that the celestial alignment is now favorable for their leap downward into the deeper circles of Hell.

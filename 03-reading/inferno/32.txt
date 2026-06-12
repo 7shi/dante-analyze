@@ -1,0 +1,320 @@
+# Canto 32 — The Frozen Landscape of Cocytus and the Encounters with Traitors
+
+## Scene 1-12: The Poet’s Prologue
+In this opening scene, Dante the Poet pauses the narrative action to reflect on the immense difficulty of the task ahead. He and Virgil have reached the very center of the Earth—the "dismal hole" (tristo buco) that serves as the axis of the universe.
+
+Dante expresses a sense of poetic inadequacy. He suggests that the horror and ugliness of the scene actually call for a "harsh and grating" style of poetry. Since he feels his current poetic tools aren't naturally suited to this grim aesthetic, he admits he is proceeding "not without fear." He acknowledges that describing the absolute bottom of the universe is a feat beyond the capacity of any ordinary human being (anyone born of a mother and father). To bridge this gap between his human limitation and the cosmic scale of the scene, he invokes the help of the Muses (the women who helped Amphion), praying that they grant him the inspiration to describe the event accurately, without deviation from the truth.
+
+**Tag Resolutions:**
+- [1:ïo]: Dante
+- [2:io]: Dante
+- [3:io]: Dante
+- [4:+io]: Dante
+- [5:mi]: Dante
+- {6:lingua}: A human (specifically, any human tongue/speaker)
+- {7:mamma}: A mother
+- {8:babbo}: A father
+- {9:quelle donne}: The Muses
+- {10:Anfïone}: Amphion
+
+## Scene 13-21: The Descent into the Pit
+In this scene, Dante (the Poet) continues his prologue by addressing a general audience and then transitioning back into the narrative of the descent.
+
+First, Dante addresses the "plebe" (the common people or perhaps the readers), suggesting that if they were in this terrifying place, they would be as helpless and frightened as sheep or goats. 
+
+Then, the action resumes: Dante and Virgil have been lowered into the dark pit by the giant Antaeus. As they descend, Dante is looking up at the towering walls of the abyss. While doing so, Virgil speaks to him, warning him to watch his step so that he does not accidentally tread upon the heads of the sinners frozen in the ice.
+
+**Tag Resolutions:**
+- `{1:plebe}`: The multitude of people/humanity (the readers/audience Dante is addressing)
+- `[2:mei]`: Dante
+- `[3:+voi]`: The multitude of people/humanity (`{1}`)
+- `[4:noi]`: Dante and Virgil
+- `{5:del gigante}`: Antaeus
+- `[6:io]`: Dante
+- `[7:+io]`: Dante
+- `[8:mi]`: Dante
+- `[9:+tu]`: Dante
+- `[10:+tu]`: Dante
+- `[11:+tu]`: Dante
+- `[12:tu]`: Dante
+- `{13:de' fratei miseri lassi}`: The traitors frozen in the ice of Cocytus
+
+## Scene 22-30: The Frozen Lake of Cocytus
+In this scene, Dante the Pilgrim describes the terrifying environment of the bottom of Hell. Having been lowered into the pit, Dante turns around and looks down at his feet, discovering that he is standing on a massive, frozen lake (Cocytus). 
+
+He describes the ice as being so thick and hard that it resembles glass rather than water. To emphasize the sheer density of the ice, he uses geographical comparisons: he notes that the Don river (at Osterlicchi) and the Tanais river (under the cold northern skies) never froze as thickly as this lake. He goes even further, asserting that if massive rocks or mountains (such as Tambernicchi or Pietrapana) were to fall onto the surface, they would not even cause a crack on the edge of the ice.
+
+**Tag Resolutions:**
+- [1:io]: Dante
+- [2:mi]: Dante
+- [3:+io]: Dante
+
+## Scene 31-39: The Sinners in the Ice
+In this scene, Dante describes the grotesque and pitiful sight of the sinners trapped in the ice of Cocytus. He uses a striking simile, comparing the sinners to frogs that stick their noses out of the water to croak, imagining they are peasant women gleaning in a field. 
+
+The sinners are submerged in the ice up to their waists (the point where "shame appears"), and their skin is "livid"—a pale, bluish color caused by the extreme cold. Their heads are tilted downward, and their mouths are open, exposing their teeth in a manner reminiscent of a heron or stork. This posture serves a functional purpose in their punishment: because their faces are turned down, the freezing air enters through their mouths and their sorrow is visible in their eyes, providing a silent, physical testimony of their agony.
+
+**Tag Resolutions:**
+- `{1:la villana}`: A peasant woman (used in a simile to describe the frog's daydream)
+- `{2:l'ombre dolenti}`: The sinners frozen in the ice of Cocytus
+- `[3:lor]`: The sinners frozen in the ice of Cocytus (`{2}`)
+
+## Scene 40-51: The Two Intertwined Sinners
+In this scene, Dante finishes scanning the immediate area and looks down at his feet. He discovers two souls frozen together in such an intimate, grotesque embrace that the hair on their heads is intertwined. 
+
+Dante addresses the two figures, asking them who they are and why they are pressed so tightly against one another. As the sinners raise their heads to look at him, they begin to weep; however, the extreme cold of Cocytus freezes their tears instantly, effectively "welding" them together even more firmly. Dante observes that no wooden bar ever bound wood as tightly as the ice binds these two. He notes that they ended up in this position because they were overcome by a mutual, violent rage and crashed into one another like two rams butting heads.
+
+**Tag Resolutions:**
+- [1:io]: Dante
+- [2:m']: Dante
+- [3:+io]: Dante
+- [4:+io]: Dante
+- [5:due]: Two sinners frozen together
+- [6:voi]: The two sinners frozen together ([5])
+- [7:io]: Dante
+- [8:chi]: The two sinners frozen together ([5])
+- [9:quei]: The two sinners frozen together ([5])
+- [10:me]: Dante
+- [11:essi]: The two sinners frozen together ([5])
+- [12:ei]: The two sinners frozen together ([5])
+- {13:due becchi}: The two sinners frozen together ([5]) (used here as a simile comparing them to "two rams")
+- [14:li]: The two sinners frozen together ([5])
+
+## Scene 52-69: The Deaf Sinner’s Revelation
+In this scene, Dante is addressed by a third sinner who is frozen in Cocytus. This sinner is particularly grotesque because he has lost both of his ears to the extreme cold, rendering him deaf. Despite his condition, he speaks to Dante, who has been staring at the two intertwined sinners from the previous scene.
+
+The deaf sinner explains the identity of the two intertwined souls: they are brothers, sons of a man named Alberto, and originate from the valley of the Bisenzo. He claims that these two are the most deserving of their frozen fate in the zone of Caina, even more so than others he mentions, such as those killed by King Arthur or a sinner named Focaccia. He specifically points out another sinner whose head is blocking his own view, identifying him as the Tuscan Sassol Mascheroni.
+
+Finally, the speaker identifies himself to Dante to avoid further questioning, revealing that he is Camiscion de' Pazzi. He concludes by stating that he is waiting for someone named Carlin to "exonerate" or save him.
+
+**Tag Resolutions:**
+- [1:un]: The deaf sinner (later revealed as Camiscion de' Pazzi)
+- [2:+ei]: The deaf sinner / Camiscion de' Pazzi
+- [3:noi]: The group of frozen sinners (including the two brothers and Camiscion)
+- [4:ti]: Dante
+- [5:+tu]: Dante
+- [6:+tu]: Dante
+- [7:chi]: The two intertwined sinners
+- {8:cotesti due}: The two intertwined sinners
+- {9:Bisenzo}: The Bisenzo river (defining the location)
+- [10:si]: The Bisenzo river
+- {11:padre loro Alberto}: Alberto (the father of the two intertwined sinners)
+- [12:lor]: The two intertwined sinners
+- {13:un corpo}: The mother of the two intertwined sinners
+- [14:+elli]: The two intertwined sinners
+- [15:+tu]: Dante
+- [16:+tu]: Dante
+- {17:ombra}: Any other soul in the zone of Caina
+- [18:quelli]: The sinners killed by King Arthur
+- {19:l'ombra}: Another sinner killed by King Arthur
+- {20:Artù}: King Arthur
+- {21:Focaccia}: Focaccia (a sinner in Cocytus)
+- [22:questi]: Sassol Mascheroni
+- [23:m']: The deaf sinner / Camiscion de' Pazzi
+- [24:i']: The deaf sinner / Camiscion de' Pazzi
+- [25:+ei]: Sassol Mascheroni
+- {26:Sassol Mascheroni}: Sassol Mascheroni
+- {27:tosco}: Sassol Mascheroni
+- [28:se']: Sassol Mascheroni
+- [29:+tu]: Dante
+- [30:chi]: Sassol Mascheroni
+- [31:mi]: The deaf sinner / Camiscion de' Pazzi
+- [32:+tu]: Dante
+- [33:+tu]: Dante
+- [34:i']: The deaf sinner / Camiscion de' Pazzi
+- {35:il Camiscion de' Pazzi}: The deaf sinner / Camiscion de' Pazzi
+- [36:+io]: The deaf sinner / Camiscion de' Pazzi
+- {37:Carlin}: Carlin (a person Camiscion is waiting for)
+- [38:mi]: The deaf sinner / Camiscion de' Pazzi
+
+## Scene 70-78: Walking through the Frozen Multitude
+In this scene, Dante describes his continued journey across the frozen lake of Cocytus toward the center of the Earth. He observes the grotesque, "dog-like" faces of the frozen sinners, which fill him with a lasting sense of disgust and repulsion. As he and Virgil make their way toward the absolute center—the point where all gravity converges—Dante is physically shaking, overwhelmed by the "eternal shrieking" of the damned. While navigating the ice and walking among the heads of the sinners, Dante accidentally and forcefully steps on the face of one of the souls.
+
+**Tag Resolutions:**
+- [1:io]: Dante
+- [2:mi]: Dante
+- [3:+noi]: Dante and Virgil
+- [4:io]: Dante
+- [5:+io]: Dante
+- [6:+io]: Dante
+
+## Scene 79-84: The Scolding Sinner
+In this scene, Dante continues his traversal of the frozen lake of Cocytus. He has just accidentally stepped on the face of one of the frozen traitors.
+
+The sinner reacts with anger and sorrow, weeping as he scolds Dante. He asks Dante why he is "plaguing" or "molesting" him, noting that Dante is not there to further the vengeance associated with the Battle of Montaperti (a famous conflict between the Guelphs and Ghibellines).
+
+Dante responds by addressing Virgil, asking his mentor to wait for a moment. Dante wishes to resolve a specific doubt or curiosity regarding this particular sinner. He tells Virgil that once he has obtained the answer, Virgil can hurry him along as much as he likes.
+
+**Tag Resolutions:**
+- [1:+ei]: The scolding sinner (whose face Dante stepped on)
+- [2:mi]: Dante
+- [3:+tu]: Dante
+- [4:mi]: The scolding sinner ([1])
+- [5:tu]: Dante
+- [6:+tu]: Dante
+- [7:mi]: The scolding sinner ([1])
+- [8:io]: Dante
+- {9:Maestro}: Virgil
+- [10:+tu]: Virgil
+- [11:m']: Dante
+- [12:io]: Dante
+- [13:costui]: The scolding sinner ([1])
+- [14:+tu]: Virgil
+- [15:mi]: Dante
+- [16:+tu]: Virgil
+
+## Scene 85-96: The Verbal Dispute
+In this scene, the interaction between Dante and the frozen sinner continues as a sharp verbal dispute. Virgil (the guide) stops as requested, allowing Dante to interrogate the soul whose face he has just stepped on. 
+
+Dante asks the sinner who he is. The sinner responds with hostility, asking who Dante thinks he is to wander through the zone of Antenora striking the faces of the damned. He suggests that if Dante were a living man (rather than a ghost/spirit, which is how the sinner perceives him), his arrogance would be intolerable.
+
+Dante corrects him, stating clearly that he is indeed alive. He offers the sinner a "benefit": if the sinner desires fame, Dante can immortalize his name in his poetry. The sinner flatly rejects this offer, stating he wants the exact opposite of fame. He tells Dante to get away from him and stop complaining/bothering him, mocking Dante's attempt at "flattery" while he is still standing on the freezing ice (the "blade") atop the sinner.
+
+**Tag Resolutions:**
+- `{1:Lo duca}`: Virgil
+- `[2:io]`: Dante
+- `[3:colui]`: The scolding sinner
+- `[4:tu]`: The scolding sinner
+- `[5:tu]`: Dante
+- `[6:chi]`: Dante
+- `[7:+elli]`: The scolding sinner
+- `[8:+tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:io]`: Dante
+- `[11:ti]`: The scolding sinner
+- `[12:+tu]`: The scolding sinner
+- `[13:io]`: Dante
+- `[14:elli]`: The scolding sinner
+- `[15:me]`: Dante
+- `[16:io]`: The scolding sinner
+- `[17:+tu]`: Dante
+- `[18:mi]`: The scolding sinner
+- `[19:+tu]`: Dante
+- `[20:+tu]`: Dante
+
+## Scene 97-105: The Physical Altercation
+In this scene, the verbal dispute between Dante and the frozen sinner escalates into a physical altercation. Frustrated by the sinner's refusal to identify himself and his hostile attitude, Dante takes a surprisingly aggressive approach. He grabs the sinner by the scalp (the "cuticagna") and threatens to rip his hair out unless he reveals his name.
+
+The sinner remains defiantly stubborn. He responds by questioning why he should disclose his identity and declares that he will neither tell Dante who he is nor show himself, even if Dante were to pull his hair a thousand times.
+
+Dante does not back down. He proceeds to pull out several locks of the sinner's hair. The scene ends with the sinner "barking" (latrando)—a word that strips him of human dignity and likens him to a dog—while keeping his eyes cast downward in the ice.
+
+**Tag Resolutions:**
+- [1:+io]: Dante
+- [2:lo]: The scolding sinner
+- [3:+io]: Dante
+- [4:tu]: The scolding sinner
+- [5:ti]: The scolding sinner
+- [6:ti]: The scolding sinner
+- [7:elli]: The scolding sinner
+- [8:me]: Dante
+- [9:tu]: Dante
+- [10:mi]: The scolding sinner
+- [11:+io]: The scolding sinner
+- [12:ti]: Dante
+- [13:io]: The scolding sinner
+- [14:+io]: The scolding sinner
+- [15:+tu]: Dante
+- [16:mi]: The scolding sinner
+- [17:Io]: Dante
+- [18:+io]: Dante
+- [19:glien']: The scolding sinner
+- [20:lui]: The scolding sinner
+
+## Scene 106-114: The Interruption by Bocca
+In this scene, the stalemate between Dante and the stubborn sinner is broken not by Dante’s aggression, but by the intervention of a third party.
+
+While Dante is pulling the sinner's hair, another soul frozen in the ice (`{1:un altro}`) shouts out, mocking the sinner and revealing his name as Bocca (`{3:Bocca}`). This second sinner ridicules Bocca's "barking" and asks what on earth is bothering him.
+
+With the name finally revealed, Dante tells the "wicked traitor" (`{11:malvagio traditor}`) that he no longer needs to hear anything further from him, as he now has the information needed to bring "true news" (record his shame) in his poetry.
+
+Bocca responds with typical hostility, telling Dante to go away and tell whatever he likes. However, he adds a spiteful request: if Dante ever returns to this part of Hell, he should be sure to mention the sinner who just spoke—the one who was so "ready" with his tongue to betray Bocca's identity.
+
+**Tag Resolutions:**
+- `{1:un altro}`: A different sinner in Cocytus (who reveals Bocca's name)
+- `[2:tu]`: Bocca
+- `{3:Bocca}`: Bocca
+- `[4:+tu]`: Bocca
+- `[5:ti]`: Bocca
+- `[6:tu]`: Bocca
+- `{7:diavol}`: The devil (referring to a tormenting force or impulse)
+- `[8:ti]`: Bocca
+- `[9:io]`: Dante
+- `[10:+io]`: Dante
+- `{11:malvagio traditor}`: Bocca
+- `[12:io]`: Dante
+- `[13:te]`: Bocca
+- `[14:+tu]`: Dante
+- `[15:+ei]`: Bocca
+- `[16:tu]`: Dante
+- `[17:+tu]`: Dante
+- `[18:+tu]`: Dante
+- `[19:tu]`: Dante
+- `[20:quel]`: The other sinner who spoke (`{1}`)
+
+## Scene 115-123: The Catalog of Traitors
+This scene is a continuation of the spiteful dialogue between Bocca and Dante. After being outed by a fellow sinner, Bocca turns the tables by urging Dante to use his poetry to immortalize the shame of those who betrayed him or are simply nearby in the ice. 
+
+Bocca suggests that Dante should record that the "informant" (the other sinner who just spoke) is frozen there, lamenting the "silver" (money/bribes) of the Franceschi family. He then tells Dante that if he is asked who else is in this region of Hell, he should mention the traitor from the Beccheria family—someone Florence executed by cutting their throat. Finally, Bocca speculates on the location of Gianni de' Soldanier, believing him to be deeper in the ice alongside other traitors like Ganellone and Tebaldello (the man who betrayed the city of Faenza while its citizens slept).
+
+**Tag Resolutions:**
+- [1:El]: The other sinner (the one who revealed Bocca's name)
+- {2:Franceschi}: The Franceschi family (associated with the other sinner)
+- [3:Io]: Dante (as the imagined speaker in Bocca's suggested quote)
+- [4:+tu]: Dante
+- [5:quel]: The other sinner (the informant)
+- {6:i peccatori}: The sinners frozen in Cocytus
+- [7:+tu]: Dante
+- [8:chi]: Other sinners in Cocytus
+- [9:tu]: Dante
+- [10:quel]: The sinner from the Beccheria family
+- {11:Beccheria}: The Beccheria family/member
+- {12:Gianni de' Soldanier}: Gianni de' Soldanier
+- [13:+io]: Bocca
+- [14:+ei]: Gianni de' Soldanier
+- {15:Ganellone}: Ganellone
+- {16:Tebaldello}: Tebaldello
+- [17:si]: The people of Faenza (the city)
+
+## Scene 124-132: The Biting Sinners
+In this scene, Dante and Virgil continue their movement through the frozen lake of Cocytus. Having left the spiteful Bocca behind, Dante notices two more sinners frozen together in a pit. Their positioning is grotesque: one is situated directly on top of the other. The sinner on top is violently biting the one below, specifically at the base of the skull where the brain meets the nape of the neck. 
+
+To describe the savagery of this act, Dante employs a mythological simile, comparing the scene to the Greek figure Tideus, who, in a fit of rage, gnawed the temples of Menalippus, crushing his skull and other parts of his head.
+
+**Tag Resolutions:**
+- `[1:Noi]`: Dante and Virgil
+- `[2:ello]`: Bocca
+- `[3:io]`: Dante
+- `{4:due ghiacciati}`: Two frozen sinners
+- `{5:'l sovran}`: The sinner positioned on top
+- `[6:l'altro]`: The sinner positioned underneath
+- `{7:Tidëo}`: Tideus
+- `[8:si]`: Tideus
+- `{9:Menalippo}`: Menalippus
+- `[10:quei]`: Tideus
+
+## Scene 133-139: Dante’s Inquiry into Hatred
+In this scene, Dante addresses the "biter"—the sinner positioned on top of the other in the frozen lake. He is struck by the "bestial sign" of hatred displayed by the act of gnawing on the other sinner's skull. Dante asks the biter to explain the reason for such visceral hatred. He offers a deal: if the sinner explains who they both are and what the sin was, Dante will "change" the sinner's fate in the world above—not by removing them from Hell, but by immortalizing their story (and thus their shame or identity) in his poem. He adds a condition that the soul he is speaking to must not "dry up" (meaning, must not fall silent or become unresponsive).
+
+**Tag Resolutions:**
+- [1:tu]: The sinner positioned on top (the biter)
+- [2:colui]: The sinner positioned underneath (the one being bitten)
+- [3:tu]: The sinner positioned on top (the biter)
+- [4:ti]: The sinner positioned on top (the biter)
+- [5:+tu]: The sinner positioned on top (the biter)
+- [6:io]: Dante
+- [7:tu]: The sinner positioned on top (the biter)
+- [8:lui]: The sinner positioned underneath (the one being bitten)
+- [9:ti]: The sinner positioned on top (the biter)
+- [10:chi]: The two frozen sinners (the biter and the bitten)
+- [11:voi]: The two frozen sinners (the biter and the bitten)
+- [12:io]: Dante
+- [13:te]: The sinner positioned on top (the biter)
+- [14:quella]: The sinner positioned on top (referring to the "ombra" or shade/soul)
+- [15:io]: Dante
+- [16:si]: The sinner positioned on top (the biter)
+
+# recap
+- Dante and Virgil are traversing the frozen lake of Cocytus at the bottom of Hell.
+- They have encountered two frozen sinners, one of whom is violently biting the other's skull.
+- Dante is currently questioning the "biter" to learn their identities and the reason for such hatred.

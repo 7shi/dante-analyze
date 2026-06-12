@@ -1,0 +1,297 @@
+# Canto 26 — The Eighth Bolgia and the Tale of Ulysses
+
+## Scene 1-12: The Prologue to Florence
+In this scene, Dante (the pilgrim) pauses his journey through the eighth bolgia to address his hometown of Florence directly. He uses a biting, ironic tone. He "congratulates" Florence for being so "great" that its name is known even in Hell—not because of its virtue or art, but because so many of its citizens are among the thieves. He then shifts to a cryptic political prophecy, warning Florence that it will soon hear something from the city of Prato (likely referring to the political instability and conflict that would lead to Dante's own exile). He concludes by noting that this upcoming fate will weigh heavily on him as his own time runs short.
+
+**Tag Resolutions:**
+
+*   **[1]**: Florence (the personified city)
+*   **{2}**: Florence (the personified city)
+*   **[3]**: Florence
+*   **[4]**: Florence
+*   **{5}**: The thieves (the group of spirits in this bolgia)
+*   **[6]**: Dante
+*   **{7}**: The citizens of Florence (specifically the five thieves Dante encountered)
+*   **[8]**: Dante
+*   **[9]**: Florence
+*   **[10]**: The citizens of Florence (the thieves)
+*   **[11]**: Florence
+*   **[12]**: Florence
+*   **[13]**: The event/fate involving Florence and Prato (the "situation" predicted in the previous lines)
+*   **[14]**: The event/fate involving Florence and Prato
+*   **[15]**: Dante
+*   **[16]**: Dante
+*   **[17]**: Dante
+
+## Scene 13-24: The Ascent and Reflection
+In this scene, Dante and Virgil transition from the harrowing sights of the thieves' bolgia back toward the path that will lead them further into the depths of the eighth circle.
+
+**Action and Narrative:**
+The scene begins with the pair climbing back up the steep, rocky stairs they had previously descended. The terrain is described as treacherous and "lonely," requiring them to use their hands to scramble over the shards and blocks of rock. 
+
+Once they are moving, the narrative shifts from physical action to internal reflection. Dante expresses a lingering sense of pain—both the pain he felt as the pilgrim in the moment and the pain he feels now as the poet recounting the experience. He makes a conscious decision to restrain his *ingegno* (his creative intellect or imaginative faculty). He wants to ensure that his storytelling is guided by *virtù* (virtue/moral truth) rather than just poetic invention, fearing that if he lets his imagination run wild, he might undermine the genuine spiritual benefit or "good star" that has allowed him to undertake this journey.
+
+**Tag Resolutions:**
+
+*   **[1]** (Noi): Dante and Virgil
+*   **[2]** (ci): Dante and Virgil
+*   **{3}** ('l duca mio): Virgil
+*   **[4]** (egli): Virgil
+*   **[5]** (mee): Dante
+*   **[6]** (io): Dante
+*   **[7]** (mi): Dante
+*   **[8]** (io): Dante
+*   **[9]** (mi): Dante
+*   **[10]** (io): Dante
+*   **[11]** (io): Dante
+*   **[12]** (io): Dante
+*   **[13]** (i'): Dante
+*   **[14]** (esso): the intellect/creative faculty (*lo 'ngegno*)
+*   **{15}** (virtù): Virtue (personified)
+*   **[16]** (m'): Dante
+*   **[17]** (io): Dante
+*   **[18]** (m'): Dante
+
+## Scene 25-33: The Sight of the Eighth Bolgia
+In this scene, Dante employs a vivid simile to describe his first sight of the eighth bolgia. He compares the view of the pit from above to the experience of a peasant resting on a hillside during the day. To such a person, distant lights flickering in the valley below might look like fireflies (or perhaps distant hearth fires from farming activities), but in this case, those "fireflies" are actually the countless flames of the eighth bolgia. Dante explains that as soon as he reached the edge where the bottom was visible, he realized the entire area was glowing with these fires.
+
+**Tag Resolutions:**
+
+*   **{1:'l villan}**: The peasant (a generic figure used in the simile)
+*   **[2:si]**: The peasant
+*   **[3:colui]**: The sun (described as "he who clears/brightens the world")
+*   **[4:noi]**: Humanity/People in general
+*   **[5:+egli]**: The sun
+*   **[6:+egli]**: The peasant
+*   **[7:io]**: Dante
+*   **[8:m']**: Dante
+*   **[9:+io]**: Dante
+
+## Scene 34-42: The Motion of the Flames
+This scene consists of a vivid biblical simile used to describe the movement of the flames in the eighth bolgia.
+
+**Narrative and Action:**
+Dante describes the motion of the flames in the ditch. To convey the speed and the blinding, enveloping nature of these fires, he compares the sight to the biblical account of the prophet Elisha witnessing the ascent of the prophet Elijah. Just as Elisha saw Elijah swept up into heaven in a chariot of fire—where the intensity of the flame eventually obscured everything except the fire itself—the flames in this bolgia move with such velocity and intensity that they completely envelop the souls within them. 
+
+Dante notes that these flames swoop through the "throat" (the narrow passage) of the ditch. As each flame wraps around a sinner, it effectively hides them from view (the "theft" of their visibility/identity), carrying the sinner away in a whirlwind of fire.
+
+**Tag Resolutions:**
+
+*   **[1:colui]**: Elisha (the prophet who witnessed Elijah's ascent and who was involved in the incident with the bears in 2 Kings 2)
+*   **[2:si]**: Elisha
+*   **[3:+elli]**: Elisha
+*   **{4:Elia}**: Elijah
+*   **[5:+elli]**: Elisha
+*   **[6:el]**: Elisha
+*   **{7:un peccatore}**: a sinner (the fraudulent spirits inhabiting the eighth bolgia)
+
+## Scene 43-48: Virgil's Explanation
+In this scene, Dante is standing on the bridge overlooking the eighth bolgia, completely mesmerized by the swirling, violent motion of the flames he has just described. He is so captivated (and perhaps terrified) that he loses his balance; he notes that if he hadn't been gripping a rocky projection or ledge, he would have fallen straight into the pit without anyone even pushing him.
+
+Virgil observes Dante’s stunned state and speaks to him to explain the nature of the punishment. He clarifies that the spirits are actually inside those flames, and that each individual soul is enveloped or "wrapped" in a tongue of fire.
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: Dante
+*   **[2:io]**: Dante
+*   **[3:+io]**: Dante
+*   **{4:'l duca}**: Virgil
+*   **[5:mi]**: Dante
+*   **[6:+elli]**: Virgil
+*   **{7:li spirti}**: The spirits (the fraudulent counselors in the eighth bolgia)
+*   **[8:si]**: Each spirit (referring back to the spirits in {7})
+*   **[9:elli]**: The fire/flame (the entity that is burning/incensed)
+
+## Scene 49-63: The Inquiry of the Trojan Heroes
+In this scene, Dante and Virgil are observing the swirling flames of the eighth bolgia. Dante, having seen the tongues of fire, admits to Virgil that he had already suspected the nature of the punishment but seeks confirmation. He asks who the spirits are in those flames, comparing the sight to the funeral pyre of the warring brothers Eteocles and Polynices.
+
+Virgil responds by identifying the two souls as Ulysses and Diomedes. He explains that they are bound together in their punishment because they were partners in fraud. He specifically references the "ambush of the horse" (the Trojan Horse), which led to the fall of Troy and the subsequent emergence of the Romans (the "noble seed"). Virgil further elaborates on the theme of deceit, mentioning the grief of Deidamia for Achilles and the theft of the Palladion (the sacred statue of Pallas Athena), for which Ulysses and Diomedes are now paying the price.
+
+**Tag Resolutions:**
+
+*   **{1:Maestro}**: Virgil
+*   **[2:io]**: Dante
+*   **[3:io]**: Dante
+*   **[4:m']**: Dante
+*   **[5:+io]**: Dante
+*   **[6:chi]**: The spirits in the flames (specifically Ulysses and Diomedes)
+*   **{7:Eteòcle}**: Eteocles
+*   **{8:fratel}**: Polynices (the brother of Eteocles)
+*   **[9:+ei]**: Virgil
+*   **[10:me]**: Dante
+*   **[11:si]**: Ulysses and Diomedes
+*   **{12:Ulisse}**: Ulysses
+*   **{13:Dïomede}**: Diomedes
+*   **[14:+elli]**: Ulysses and Diomedes
+*   **{15:il gentil seme}**: The Romans (the descendants of Aeneas/Troy)
+*   **{16:Deïdamìa}**: Deidamia
+*   **[17:si]**: Deidamia
+*   **{18:Achille}**: Achilles
+*   **{19:Palladio}**: The Palladion (the sacred statue of Pallas Athena)
+
+## Scene 64-75: Dante's Request and Virgil's Warning
+In this scene, Dante expresses an urgent desire to speak with the spirits he has just identified. He asks Virgil if the souls trapped within the swirling flames are capable of speech. He then pleads intensely—using hyperbolic language ("ten-fold," "worth a thousand")—asking Virgil not to deny him the chance to wait until the "horned flame" (the two-pronged tongue of fire containing both Ulysses and Diomedes) drifts close enough for an encounter. Dante admits that his longing to hear them is so strong that he is physically leaning toward the fire.
+
+Virgil responds by granting the request, noting that Dante's eagerness is commendable. However, Virgil gives him a stern warning: Dante must remain silent and let Virgil handle the conversation. Virgil explains that he understands what Dante wants, but warns that the spirits, being Greeks, might be reluctant or "shy" to respond to Dante’s own way of speaking (likely referring to the linguistic or cultural gap).
+
+**Tag Resolutions:**
+
+*   **[1:ei]**: Ulysses and Diomedes (the spirits in the flames)
+*   **[2:io]**: Dante
+*   **{3:maestro}**: Virgil
+*   **[4:+io]**: Dante
+*   **[5:ten]**: (This is part of the intensifier "ten priego," meaning ten-fold/very much; it does not refer to a person)
+*   **[6:+io]**: Dante
+*   **[7:+tu]**: Virgil
+*   **[8:mi]**: Dante
+*   **{9:la fiamma cornuta}**: The flame containing Ulysses and Diomedes (the "horned" or "two-pronged" flame)
+*   **[10:+tu]**: Virgil
+*   **[11:lei]**: The flame ({9})
+*   **[12:+io]**: Dante
+*   **[13:mi]**: Dante
+*   **[14:elli]**: Virgil
+*   **[15:me]**: Dante
+*   **[16:io]**: Virgil
+*   **[17:+tu]**: Dante
+*   **[18:+tu]**: Dante
+*   **[19:me]**: Virgil
+*   **[20:i']**: Virgil
+*   **[21:tu]**: Dante
+*   **[22:ei]**: Ulysses and Diomedes
+*   **[23:e']**: Ulysses and Diomedes
+*   **{24:greci}**: The Greeks (specifically Ulysses and Diomedes)
+
+## Scene 76-84: The Voice from the Flame
+**Scene Analysis: The Voice from the Flame**
+
+**Action and Narrative:**
+The scene opens with the "horned flame" (carrying Ulysses and Diomedes) drifting close to Dante and Virgil. Once Virgil decides that the timing and position are correct, he takes the lead as agreed. Virgil addresses the two spirits trapped within the single tongue of fire. 
+
+He speaks to them with a degree of formal respect, referencing his own identity as a poet who wrote "high verses" (a reference to the *Aeneid*). He asks the two souls to remain still and requests that one of them explain the circumstances under which Virgil himself was "lost" or led toward death because of the actions/fraud of one of them. This is a poignant moment where the poet of Rome addresses the cunning strategist of Greece, linking their historical and literary legacies through the tragedy of the Trojan War.
+
+**Tag Resolutions:**
+
+*   **{1:al mio duca}**: Virgil
+*   **[2:lui]**: Virgil (the speaker)
+*   **[3:+io]**: Dante (the listener)
+*   **[4:voi]**: Ulysses and Diomedes
+*   **[5:io]**: Virgil
+*   **[6:voi]**: Ulysses and Diomedes
+*   **[7:io]**: Virgil
+*   **[8:io]**: Virgil
+*   **[9:voi]**: Ulysses and Diomedes
+*   **[10:+io]**: Virgil
+*   **[11:+voi]**: Ulysses and Diomedes
+*   **[12:vi]**: Ulysses and Diomedes
+*   **[13:voi]**: Ulysses and Diomedes
+*   **[14:lui]**: The specific soul (among Ulysses and Diomedes) who caused the loss/ruin
+*   **[15:+io]**: Virgil
+
+## Scene 85-99: Ulysses's Wandering Impulse
+In this scene, the interaction between Virgil and the spirits in the flames begins. The "horned flame"—the single tongue of fire enveloping both Ulysses and Diomedes—reacts to Virgil's request. Specifically, the larger of the two "horns" (which contains Ulysses) begins to shake and flutter, resembling a speaking tongue. Ulysses then begins his famous monologue, explaining the irresistible drive that led him away from his home and family. He describes how his passion for exploration and his desire to experience the world's knowledge, human vices, and virtues overrode his love for his son, his pity for his aging father, and his marital duty to his wife, Penelope.
+
+**Tag Resolutions:**
+
+*   **{1:Lo maggior corno}**: The larger horn of the flame (the part containing Ulysses)
+*   **[2:+ei]**: The larger horn of the flame
+*   **[3:crollarsi]**: The larger horn of the flame (the entity performing the action of shaking)
+*   **{4:la lingua}**: The tongue (a simile for the flame)
+*   **[5:+ei]**: Ulysses
+*   **[6:+ei]**: Ulysses
+*   **[7:mi]**: Ulysses
+*   **[8:+io]**: Ulysses
+*   **{9:Circe}**: Circe
+*   **[10:me]**: Ulysses
+*   **{11:Enëa}**: Aeneas
+*   **[12:la]**: Circe
+*   **{13:figlio}**: Ulysses's son (Telemachus)
+*   **{14:vecchio padre}**: Ulysses's father (Laertes)
+*   **{15:Penelopè}**: Penelope
+*   **[16:me]**: Ulysses
+*   **[17:i']**: Ulysses
+
+## Scene 100-105: The Voyage Through the Mediterranean
+**Scene Analysis: The Voyage Through the Mediterranean**
+
+**Action and Narrative:**
+In this scene, Ulysses continues his monologue, shifting from his internal motivations to the physical action of his journey. He describes the act of setting sail into the open sea. He emphasizes the modesty of his means, stating that he had only a single, small ship, which he poetically refers to as his "companion." He then lists the geographical reaches of his voyage, noting that he sailed the Mediterranean to its fringes: from the shores of Spain to Morocco (Africa), including the island of Sardinia and various other islands that dot the sea.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: Ulysses
+*   **[2:me]**: Ulysses
+*   **{3:quella compagna}**: The ship (personified as a "companion")
+*   **[4:+io]**: Ulysses
+*   **[5:+io]**: Ulysses
+
+## Scene 106-120: The Pillars of Hercules and the Great Exhortation
+In this scene, Ulysses continues his narrative, describing the climax of his journey. He and his companions, now old, reach the Strait of Gibraltar—the "narrow mouth" marked by the Pillars of Hercules, which served as the ancient world's boundary beyond which humans were warned not to pass. Ulysses describes leaving behind his guides or anchors—the Sibyl on one side and Setta on the other. 
+
+The scene culminates in Ulysses's "Great Exhortation." He addresses his crew as "brothers," reminding them of the immense dangers they have already survived to reach the edge of the west. He appeals to their curiosity and ambition, urging them not to deny themselves the experience of the unknown world that lies "beyond the sun." He delivers the famous philosophical justification for his voyage: that human beings were not created to live like mindless animals ("bruti"), but were instead designed to pursue virtue and knowledge.
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: Ulysses
+*   **{2:' compagni}**: Ulysses's companions
+*   **[3:+noi]**: Ulysses and his companions
+*   **{4:Ercule}**: Hercules
+*   **{5:l'uom}**: Humanity/Man
+*   **[6:si]**: Humanity/Man
+*   **[7:+io]**: Ulysses
+*   **[8:mi]**: Ulysses
+*   **{9:Sibilia}**: The Sibyl
+*   **[10:m']**: Ulysses
+*   **{11:Setta}**: Setta (the place/entity Ulysses left behind)
+*   **{12:frati}**: Ulysses's companions
+*   **[13:+io]**: Ulysses
+*   **[14:+voi]**: Ulysses's companions
+*   **[15:+voi]**: Ulysses's companions
+*   **[16:+voi]**: Ulysses's companions
+*   **[17:+voi]**: Ulysses's companions
+
+## Scene 121-126: The Flight of the Crew
+**Scene Analysis: The Flight of the Crew**
+
+**Action and Narrative:**
+In this scene, Ulysses describes the immediate impact of his "Great Exhortation" on his crew. He explains that his short, powerful speech made his companions so eager and determined to proceed that he would have had great difficulty holding them back had he changed his mind. 
+
+The narrative then shifts to the physical act of departure. In the morning, they turn the stern of their ship away from the known world and set sail. Ulysses uses a vivid and ominous metaphor, stating that they used their oars as "wings" for a "foolish flight" (*folle volo*). This phrasing highlights the hubris of their mission—they are no longer merely sailing, but attempting to fly beyond the limits imposed on humanity. He concludes by noting their steering technique, always gaining distance by keeping to the left.
+
+**Tag Resolutions:**
+
+*   **{1:Li miei compagni}**: Ulysses's companions (the crew)
+*   **[2:io]**: Ulysses
+*   **[3:+io]**: Ulysses
+*   **[4:li]**: Ulysses's companions (the crew)
+*   **[5:+noi]**: Ulysses and his companions (the crew)
+
+## Scene 127-132: Descent into the Southern Seas
+In this scene, Ulysses describes the physical and astronomical evidence of his journey as he leads his crew deeper into the Southern Hemisphere. 
+
+He explains that they have traveled so far south that the stars of the opposite (Southern) pole are now visible in the night sky, while the North Pole—their original point of reference—has sunk so low that it barely rises above the horizon of the sea. To mark the passage of time, Ulysses notes that the moon has gone through five full cycles of waxing and waning (being "lit" and "extinguished") since the moment they passed through the "high pass" (the Strait of Gibraltar) and entered the open ocean.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: Ulysses
+*   **[2:+noi]**: Ulysses and his companions (the crew)
+
+## Scene 133-142: The Final Storm and Shipwreck
+This scene describes the catastrophic conclusion of Ulysses's final voyage. As he tells his story to Dante and Virgil, he recounts the moment his crew finally spotted land.
+
+**Narrative and Action:**
+Ulysses describes the appearance of a dark mountain in the distance, which seemed taller than any mountain he had ever seen. This sight initially brings great joy to the crew, believing they have found a new land. However, this happiness is short-lived. A violent whirlwind (*turbo*) arises from the new land and strikes the bow of the ship. The storm is so powerful that it spins the ship three times in the churning waters. On the fourth rotation, the ship is flipped—the stern is lifted high and the prow is driven down—as if by the will of a higher power. Finally, the ocean closes over the ship, drowning Ulysses and all his companions.
+
+**Tag Resolutions:**
+
+*   **[1:+ella]**: The mountain (*montagna*)
+*   **[2:+io]**: Ulysses
+*   **[3:Noi]**: Ulysses and his companions (the crew)
+*   **[4:ci]**: Ulysses and his companions (the crew)
+*   **[5:+ella]**: The joy/cheer (implied by *allegrammo*; the feminine pronoun refers back to the feeling of *allegrezza*)
+*   **[6:+esso]**: The whirlwind (*turbo*)
+*   **[7:+esso]**: The whirlwind (*turbo*)
+*   **[8:noi]**: Ulysses and his companions (the crew)
+
+# recap
+- Dante and Virgil are in the eighth bolgia of the eighth circle.
+- They have just finished listening to Ulysses, who is trapped in a flame with Diomedes, recount his final hubristic voyage and subsequent shipwreck.

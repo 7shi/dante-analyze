@@ -1,0 +1,337 @@
+# Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
+
+## Scene 1-12: The Fable of the Frog and the Mouse
+In this opening scene, Dante and Virgil are quietly making their exit from the fifth bolgia, moving away from the chaos of the boiling pitch. They walk in single file, maintaining a silence and a disciplined gait that Dante compares to the way Franciscan friars walk.
+
+As they move, Dante's mind is preoccupied with the fight he just witnessed between the Malebranche demons and the barrators. He finds a parallel between this "present fight" and one of Aesop's fables—specifically the one involving a frog and a mouse. He reflects on the similarity between the current situation and the fable's plot. This line of thinking triggers a subsequent thought (a "spark"), which causes Dante's existing anxiety to increase, doubling his fear.
+
+There is no dialogue in this passage; it consists entirely of Dante's narrative description and his internal reflections.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante and Virgil
+- `[2:l'un]`: Virgil (as the guide leading the way)
+- `[3:l'altro]`: Dante (following Virgil)
+- `{4:frati minor}`: The Friars Minor (Franciscan monks)
+- `{5:Isopo}`: Aesop
+- `[6:el]`: Aesop
+- `[7:mi]`: Dante
+
+## Scene 13-24: Dante's Dread of the Demons
+In this scene, Dante is consumed by anxiety. While they are making their escape, he reflects on the humiliation the Malebranche demons suffered (specifically the ones who got stuck in the boiling pitch). He reasons that the demons will be furious over this mockery and will hunt them down with the ferocity of a dog chasing a hare. This internal panic manifests physically—his hair stands on end—and he urgently pleads with Virgil to find a hiding place, claiming that he can almost hear the demons closing in behind them.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `[2:Questi]`: The Malebranche (the demons)
+- `[3:noi]`: Dante and Virgil
+- `[4:+elli]`: The Malebranche (the demons)
+- `[5:+io]`: Dante
+- `[6:lor]`: The Malebranche (the demons)
+- `[7:ei]`: The Malebranche (the demons)
+- `[8:elli]`: The dog (from the simile)
+- `[9:mi]`: Dante
+- `[10:+io]`: Dante
+- `[11:+io]`: Dante
+- `[12:io]`: Dante
+- `{13:Maestro}`: Virgil
+- `[14:+tu]`: Virgil
+- `[15:te]`: Virgil
+- `[16:me]`: Dante
+- `[17:i']`: Dante
+- `{18:i Malebranche}`: The Malebranche (the demons)
+- `[19:Noi]`: Dante and Virgil
+- `[20:li]`: The Malebranche (the demons)
+- `[21:io]`: Dante
+- `[22:li]`: The Malebranche (the demons)
+- `[23:+io]`: Dante
+- `[24:li]`: The Malebranche (the demons)
+
+## Scene 25-33: Virgil's Strategic Plan
+In this scene, Virgil responds to Dante's mounting panic. Virgil uses a poetic metaphor involving "leaded glass" to tell Dante that his fear is so visible on his face that it is almost as if Virgil is absorbing it or seeing a perfect reflection of it. Essentially, Virgil is saying, "I can see exactly how terrified you are; your anxiety is written all over you."
+
+Because Virgil recognizes this shared sense of urgency (or because Dante's panic has pushed him to a decision), Virgil proposes a strategic escape. He notes that the layout of the ledge on the right side allows them to climb down directly into the next *bolgia* (the sixth), which will allow them to evade the "imagined hunt"—the pursuit by the Malebranche that Dante is so certain is coming.
+
+**Tag Resolutions:**
+- `[1:quei]`: Virgil (the speaker)
+- `[2:i']`: Virgil
+- `[3:+io]`: Virgil
+- `[4:me]`: Virgil
+- `[5:+io]`: Virgil
+- `[6:intrambi]`: Dante and Virgil
+- `[7:+io]`: Virgil
+- `[8:noi]`: Dante and Virgil
+- `[9:noi]`: Dante and Virgil
+
+## Scene 34-51: The Rapid Descent
+In this scene, the transition from Virgil's planning to action is instantaneous. Dante explains that before Virgil could even finish articulating his plan, Dante spotted the Malebranche demons gliding toward them with their wings spread, intent on capturing them. 
+
+Reacting with sudden urgency, Virgil seizes Dante. Dante employs a poignant simile to describe this action, comparing Virgil to a mother who is awakened by the sound of fire; seeing the flames nearby, she grabs her child and flees without hesitation, caring more for her son's safety than her own, fleeing in nothing but her nightgown.
+
+Following this impulse, Virgil throws himself and Dante backward down the steep, rocky slope that forms the wall between the fifth and sixth *bolgia*. Dante compares the speed of their descent to the rush of water in a mill-race as it accelerates toward the wheel. As they plunge downward, Virgil carries Dante pressed against his chest, acting not as a mere guide or companion, but as a protective father would for his son.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:li]`: The Malebranche
+- `{3:Lo duca mio}`: Virgil
+- `[4:mi]`: Dante
+- `{5:la madre}`: A mother (in the simile)
+- `[6:+ella]`: The mother
+- `[7:sé]`: The mother
+- `{8:il figlio}`: The son (in the simile)
+- `[9:s']`: The mother
+- `[10:lui]`: The son
+- `[11:sé]`: The mother
+- `[12:+ella]`: The mother
+- `[13:+ei]`: Virgil
+- `[14:si]`: Virgil
+- `{15: 'l maestro mio}`: Virgil
+- `[16:me]`: Dante
+- `{17:figlio}`: Dante
+- `{18:compagno}`: Dante
+
+## Scene 52-57: Reaching the Fifth Bolgia
+In this short scene, Dante and Virgil have completed their rapid descent and landed at the bottom of the sixth bolgia. 
+
+Dante notes that as soon as Virgil's feet touch the ground, the Malebranche demons are already positioned on the ledge above them. However, there is no longer any danger of being captured. Dante explains that this is because Divine Providence (God) has decreed a restriction on the demons: while they are the "ministers" (the appointed jailers and torturers) of the fifth bolgia, they have been stripped of the power to leave that specific area. Consequently, the demons are trapped within the boundaries of their own jurisdiction and cannot descend into the sixth bolgia to pursue the poets.
+
+**Tag Resolutions:**
+- `[1:noi]`: Dante and Virgil
+- `[2:+ei]`: The Malebranche (the demons)
+- `{3:l'alta provedenza}`: Divine Providence (God)
+- `[4:lor]`: The Malebranche
+- `{5:ministri de la fossa quinta}`: The Malebranche
+- `[6:partirs']`: The Malebranche
+- `[7:+ella]`: Divine Providence (God)
+
+## Scene 58-66: The Appearance of the Hypocrites
+In this scene, Dante and Virgil have arrived in the sixth *bolgia*. They encounter a procession of souls—the Hypocrites—who are walking in a slow, mournful circle. Dante describes them as "painted," suggesting a deceptive outer appearance.
+
+The souls are dressed in heavy capes with low hoods that shade their eyes, similar to the habits worn by the monks of the monastery of Cluny. Dante notes a stark contrast in the construction of these garments: the outside is gilded to look brilliant and precious, but the inside is made of solid lead. This serves as a physical manifestation of hypocrisy—a shining exterior hiding a heavy, oppressive interior. Dante concludes with a reference to Federigo (Federigo da Pisa, a figure known for his extreme frugality), noting that even someone as stingy as Federigo would have preferred to stuff those capes with straw rather than bear the crushing weight of the lead.
+
+There is no dialogue in this passage; it is Dante's narrative observation.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante and Virgil
+- `{2:una gente dipinta}`: The Hypocrites
+- `[3:Elli]`: The Hypocrites
+- `{4:li monaci}`: The monks of Cluny
+- `[5:elli]`: The observers/onlookers (those who are dazzled by the gilded exterior)
+- `{6:Federigo}`: Federigo da Pisa
+
+## Scene 67-72: The Burden of the Cloaks
+In this scene, Dante and Virgil join the procession of the Hypocrites. Dante begins with an exclamation about the "eternally tiring" nature of the leaden cloaks the souls must wear. Dante and Virgil turn to the left, walking alongside the souls and focusing on their sorrowful weeping. 
+
+However, because the leaden cloaks are so incredibly heavy, the Hypocrites move with agonizing slowness. As a result, Dante and Virgil—who are not burdened by such weight—find themselves constantly overtaking the souls. Every time they shift their hips to move forward, they find themselves walking beside a "new" member of the procession.
+
+**Tag Resolutions:**
+- `[1:Noi]`: Dante and Virgil
+- `[2:ci]`: Dante and Virgil
+- `[3:loro]`: The Hypocrites
+- `{4:quella gente stanca}`: The Hypocrites
+- `[5:+ella]`: The Hypocrites
+- `[6:noi]`: Dante and Virgil
+
+## Scene 73-75: Dante's Request to Virgil
+In this brief scene, Dante speaks to Virgil as they walk among the slow-moving procession of Hypocrites. Dante asks Virgil to be observant and look around to find a soul who is recognizable, either by their reputation (their "deeds") or by their name. Essentially, Dante is requesting that Virgil identify someone noteworthy among the damned so they can interact with them.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:al duca mio}`: Virgil
+- `[3:+tu]`: Virgil
+- `[4:tu]`: Virgil
+- `[5:si]`: a soul among the Hypocrites (referred to as "alcun")
+- `[6:+tu]`: Virgil
+
+## Scene 76-79: The Voice from Behind
+In this scene, a soul among the Hypocrites overhears Dante speaking in his native Tuscan dialect. Hearing this, the soul calls out from behind the poets, urging them to stop their relatively fast pace through the gloomy air. The speaker suggests that he might be the very person Dante is looking for—the recognizable soul Dante requested from Virgil in the previous scene.
+
+**Tag Resolutions:**
+- `[1:noi]`: Dante and Virgil
+- `[2:+lui]`: An unnamed soul among the Hypocrites
+- `[3:+voi]`: Dante and Virgil
+- `[4:voi]`: Dante and Virgil
+- `[5:+tu]`: Dante
+- `[6:me]`: An unnamed soul among the Hypocrites
+- `[7:tu]`: Dante
+
+## Scene 80-81: Virgil's Command
+In this brief scene, Virgil reacts to the voice of the unnamed soul who has just called out to them. Virgil turns around to face the speaker and instructs the soul to wait a moment before continuing to move at his own pace. Virgil is essentially managing the interaction, ensuring the soul is patient as they pause to listen.
+
+**Tag Resolutions:**
+- `{1:l duca}`: Virgil
+- `[2:si]`: Virgil
+- `[3:+elli]`: The unnamed soul among the Hypocrites
+- `[4:+tu]`: The unnamed soul among the Hypocrites
+- `[5:+tu]`: The unnamed soul among the Hypocrites
+
+## Scene 82-84: The Approaching Figures
+In this scene, Dante reacts to the voice that called out to him. He stops and turns around to face the speaker. As he does, he sees two souls (the one who spoke and a companion) who are clearly eager to reach him; their facial expressions reveal their haste and desire to be in his company. However, their progress is slow and labored because of the crushing weight of their leaden cloaks ("the burden") and the narrowness of the path they are walking.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+- `[3:due]`: Two Hypocrites (the soul who spoke and another)
+- `[4:meco]`: Dante
+
+## Scene 85-90: The Recognition of the Living
+In this scene, the two Hypocrites who called out to Dante and Virgil finally reach them. They gaze at Dante with squinted, suspicious eyes, remaining silent at first. Then, they turn to one another and whisper, speculating about the nature of the two visitors. They observe that Dante appears to be alive, noting the rhythmic movement of his throat (breathing). They wonder that if these two are indeed dead souls, by what special privilege are they allowed to walk without wearing the crushing leaden cloaks that all other Hypocrites must bear.
+
+**Tag Resolutions:**
+- `[1:+elli]`: Two Hypocrites
+- `[2:+elli]`: Two Hypocrites
+- `[3:mi]`: Dante
+- `[4:+elli]`: Two Hypocrites
+- `[5:si]`: Two Hypocrites
+- `[6:sé]`: Two Hypocrites
+- `[7:+elli]`: Two Hypocrites
+- `[8:seco]`: Two Hypocrites
+- `[9:Costui]`: Dante
+- `[10:e']`: Dante and Virgil
+- `[11:+elli]`: Dante and Virgil
+
+## Scene 91-93: The Welcome to the Hypocrites
+In this brief scene, the two Hypocrites who have approached Dante and Virgil finally break their silence. They address Dante directly, recognizing him as a "Tuscan" (based on the dialect he used earlier). They acknowledge that he has arrived at the "college" or assembly of the sorrowful hypocrites. They then politely, yet tentatively, ask him to reveal his identity, provided that he does not hold them in such contempt that he refuses to answer.
+
+**Tag Resolutions:**
+- `[1:+elli]`: The two Hypocrites
+- `[2:me]`: Dante
+- `{3:Tosco}`: Dante
+- `{4:l}'{5:ipocriti tristi}`: The Hypocrites
+- `[6:+tu]`: Dante
+- `[7:+tu]`: Dante
+- `[8:chi]`: Dante
+- `[9:tu]`: Dante
+- `[10:+tu]`: Dante
+
+## Scene 94-99: Dante's Inquiry
+In this scene, Dante responds to the two Hypocrites who have just approached him and asked for his identity. He identifies himself as a native of Florence, noting that he was born and raised by the Arno river. Crucially, he informs them that he is still alive, stating that he possesses the same physical body he has always had. Having answered their question, Dante turns the inquiry back to them; he asks who they are, commenting on the visible sorrow (the tears) streaming down their cheeks and inquiring about the nature of the punishment they are enduring (referring to the glittering, gilded leaden cloaks).
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:loro]`: The two Hypocrites
+- `[3:I']`: Dante
+- `[4:+io]`: Dante
+- `[5:i']`: Dante
+- `[6:voi]`: The two Hypocrites
+- `[7:chi]`: The two Hypocrites
+- `[8:i']`: Dante
+- `[9:voi]`: The two Hypocrites
+
+## Scene 100-108: The Identity of the Hypocrites
+In this scene, one of the two Hypocrites responds to the questions Dante asked in the previous scene. The speaker begins by explaining the nature of their punishment: the "foul" cloaks are made of lead and are so heavy that they cause the souls to creak like weighted scales. 
+
+The speaker then reveals their identities. He explains that he and his companion were "Joyful Friars" (*Frati godenti*) from Bologna. He identifies himself as Catalano and his companion as Loderingo. He mentions that they were taken from Dante's homeland (Tuscany/Florence) together, comparing this event to the way a solitary man is often removed from a place to preserve the peace. He concludes by noting that their reputation—likely for their hedonistic and hypocritical lifestyle—is still remembered by the people around Lake Garda.
+
+**Tag Resolutions:**
+- `[1:l'un]`: Catalano (the speaker among the two Hypocrites)
+- `[2:me]`: Dante
+- `{3:Frati godenti}`: Catalano and Loderingo (and the group they belonged to)
+- `[4:+noi]`: Catalano and Loderingo
+- `[5:io]`: Catalano
+- `{6:Catalano}`: Catalano
+- `{7:Loderingo}`: Loderingo
+- `{8:un uom solingo}`: a lone man (a hypothetical person used in a comparison)
+- `[9:+noi]`: Catalano and Loderingo
+
+## Scene 109-113: The Sight of the Crucifix
+In this scene, Dante begins to respond to Catalano and Loderingo, starting to comment on their suffering. However, he is abruptly interrupted when he spots a shocking sight: a soul crucified on the ground, held down by three stakes. As soon as this crucified figure sees Dante, he reacts with intense physical distress, twisting his body and letting out heavy sighs that blow into his beard.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `{2:frati}`: Catalano and Loderingo
+- `[3:+io]`: Dante
+- `[4:mi]`: Dante
+- `[5:un]`: The crucified soul
+- `[6:+egli]`: The crucified soul
+- `[7:mi]`: Dante
+- `[8:+egli]`: The crucified soul
+- `[9:si]`: The crucified soul
+
+## Scene 114-123: The Monk's Explanation
+In this scene, Brother Catalano notices Dante's reaction to the soul nailed to the ground and steps in to explain who the man is and why he is being punished. Catalano explains that this individual advised the Pharisees that it was necessary to sacrifice one man to appease the people. Because of this, he is now pinned naked across the path, forced to feel the weight of every single person who passes over him. Catalano specifically identifies this man as "the father-in-law" (Caiaphas) and notes that other members of the council who brought ruin to the Jews are suffering similarly in this bolgia.
+
+**Tag Resolutions:**
+- `{1:l frate Catalan}`: Brother Catalano
+- `[2:s']`: Brother Catalano
+- `[3:mi]`: Dante
+- `[4:+ei]`: Brother Catalano
+- `{5:Quel confitto}`: The crucified soul (Caiaphas)
+- `[6:tu]`: Dante
+- `[7:+ei]`: The crucified soul (Caiaphas)
+- `{8:i Farisei}`: The Pharisees
+- `{9:un uom}`: A man (the sacrificial victim)
+- `{10:lo popolo}`: The people/the crowd
+- `[11:+ei]`: The crucified soul (Caiaphas)
+- `[12:tu]`: Dante
+- `[13:el]`: The crucified soul (Caiaphas)
+- `[14:qualunque]`: Anyone who passes (the other souls)
+- `[15:+ei]`: The crucified soul (Caiaphas)
+- `{16:il socero}`: The father-in-law (Caiaphas)
+- `[17:si]`: The father-in-law (Caiaphas)
+- `{18:li altri}`: Other members of the council
+- `{19:dal concilio}`: Those from the council
+- `{20:li Giudei}`: The Jews
+
+## Scene 124-126: Virgil's Reaction
+In this brief scene, Dante observes Virgil's reaction to the sight of the soul nailed to the ground. Dante notes that Virgil is marveling (or looking with astonishment) at the person who is stretched out on a cross, struck by how vilely this figure is positioned in his eternal exile.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:Virgilio}`: Virgil
+- `[3:colui]`: The crucified soul (Caiaphas)
+
+## Scene 127-132: Virgil's Plea for an Exit
+In this scene, Virgil turns his attention to the Hypocrites who have been speaking with them. He addresses Brother Catalano (and by extension, his companion Loderingo) with a polite request for directions. Virgil asks if there is an exit or opening to the right that would allow him and Dante to leave the sixth bolgia without being forced or harassed by the "black angels"—a caustic reference to the Malebranche demons—who might emerge from the depths to separate them or impede their progress.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Virgil
+- `{2:al frate}`: Brother Catalano
+- `[3:vi]`: Catalano and Loderingo
+- `[4:vi]`: Catalano and Loderingo
+- `[5:dirci]`: Virgil and Dante
+- `[6:noi]`: Virgil and Dante
+- `{7:de li angeli neri}`: The Malebranche demons
+- `[8:dipartirci]`: Virgil and Dante
+
+## Scene 133-138: The Obstacle of the Stone
+In this scene, Brother Catalano responds to Virgil's request for a safe exit from the sixth *bolgia*. He informs Virgil that there is a way out that is even better than what Virgil might be hoping for. He explains that a massive rock, which normally moves along the great outer circle and crosses over all the jagged valleys (the *bolge*), is broken in this particular section, meaning it does not cover the gap here. Consequently, he tells Dante and Virgil that they will be able to climb out of the bolgia by using the ruins of this rock, which lean against the slope and overhang the bottom of the pit.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Brother Catalano
+- `[2:tu]`: Virgil
+- `[3:+voi]`: Dante and Virgil
+
+## Scene 139-141: The Error of the Demon
+In this brief scene, Virgil reacts to the information provided by Brother Catalano about the broken rock that allows for an exit from the sixth *bolgia*. Virgil stands for a moment with his head bowed in reflection. He then makes a dry, ironic comment, suggesting that whoever designed the enclosure for the sinners in this area miscalculated the requirements, as the structural failure of the rock creates an unintended opening.
+
+**Tag Resolutions:**
+- `{1:Lo duca}`: Virgil
+- `[2:+ei]`: Virgil
+- `[3:colui]`: The Divine Architect (God/Divine Providence)
+- `{4:i peccator}`: The Hypocrites (the sinners of the sixth bolgia)
+
+## Scene 142-144: The Lie of the Devil
+In this scene, Brother Catalano responds to Virgil's ironic comment about the "error" of the Divine Architect. Catalano, wanting to defend the perfection of God's design, suggests that the gap in the rock is not a mistake by God, but rather a result of the devil's deceit. He mentions that during his time in Bologna, he heard that the devil is plagued by many vices, most notably that he is a liar and the "father of lies." He is essentially attributing the structural "failure" to diabolical trickery rather than divine oversight.
+
+**Tag Resolutions:**
+- `{1:l frate}`: Brother Catalano
+- `[2:Io]`: Brother Catalano
+- `{3:del diavol}`: The Devil (Satan/Lucifer)
+- `[4:+io]`: Brother Catalano
+- `[5:elli]`: The Devil (Satan/Lucifer)
+- `{6:padre di menzogna}`: The Devil (Satan/Lucifer)
+
+## Scene 145-148: The Departure
+In this brief concluding scene of Canto 23, Virgil decides it is time to move on. He begins to lead the way with large, hurried strides, his facial expression showing a hint of irritation or anger (likely stemming from the tedious nature of the conversation with the Hypocrites or Catalano's simplistic attempt to explain divine architecture). Consequently, Dante leaves the "burdened ones"—the Hypocrites, specifically Catalano and Loderingo, who are weighed down by their leaden cloaks—and follows closely behind Virgil, stepping in the footprints of his guide's "dear feet."
+
+**Tag Resolutions:**
+- `{1:il duca}`: Virgil
+- `[2:+noi]`: Dante and Virgil
+- `[3:io]`: Dante
+- `{4:li 'ncarcati}`: The Hypocrites (specifically Catalano and Loderingo)
+- `[5:mi]`: Dante
+
+# recap
+- Dante and Virgil are traveling together.
+- They have just departed from the sixth bolgia after encountering the Hypocrites, including Catalano and Loderingo.
+- They are utilizing a gap in the surrounding rock to exit the area.

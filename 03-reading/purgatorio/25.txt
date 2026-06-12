@@ -1,0 +1,336 @@
+# Canto 25 — The Encounter with Statius and the Metaphysics of the Soul
+
+## Scene 1-9: The Ascent of the Path
+**Scene Analysis: The Ascent of the Path**
+
+In this opening sequence, the group (Dante, Virgil, and Statius) prepares to begin their climb. Dante opens with an astronomical observation to establish the time of day: the sun has passed the meridian, moving from Taurus toward Scorpio. 
+
+He employs a simile to describe their determination: they are like a man who does not stop or hesitate, but presses forward on his path regardless of what he encounters, driven by a necessary "spur" or inner urgency. Following this comparison, the three poets enter the narrow path (*callaia*), moving in single file, ascending a climb so steep that the summit remains hidden from the climbers' view.
+
+**Tag Resolutions:**
+
+- `{1:storpio}`: A generic/hypothetical cripple (used to illustrate the difficulty of the climb).
+- `{2:l sole}`: The sun.
+- `{3:l'uom}`: A generic/hypothetical man (used in a simile).
+- `[4:s']`: The generic man `{3}`.
+- `[5:+ei]`: The generic man `{3}`.
+- `[6:li]`: The generic man `{3}`.
+- `[7:il]`: The generic man `{3}`.
+- `[8:noi]`: Dante, Virgil, and Statius.
+- `[9:uno]`: One member of the group (Dante, Virgil, or Statius).
+- `[10:altro]`: Another member of the group (Dante, Virgil, or Statius).
+- `{11:i salitor}`: The climbers (Dante, Virgil, and Statius).
+
+## Scene 10-15: Dante's Hesitation
+In this scene, Dante describes a moment of internal hesitation using a vivid simile. 
+
+He compares himself to a young stork (*il cicognin*) that is eager to fly; the bird lifts its wing in an attempt to take flight, but then hesitates or realizes it is not yet ready, and lets the wing drop back down. 
+
+Dante explains that he was in a similar state of conflict: he felt a strong, "ignited" desire to ask a question, but that desire was simultaneously "extinguished." He reached the very brink of speaking—the physical point where a person prepares their breath and posture to speak—but he ultimately held back and remained silent.
+
+**Tag Resolutions:**
+
+- `[1:+egli]`: The young stork (*il cicognin*).
+- `[2:+egli]`: The young stork (*il cicognin*).
+- `[3:io]`: Dante.
+- `[4:colui]`: A generic person who is about to speak (used to complete the comparison).
+- `[5:s']`: The generic person `[4]`.
+
+## Scene 16-18: Virgil's Encouragement
+In this brief scene, Virgil notices Dante's internal struggle and hesitation to speak. Despite the fact that they are moving quickly up the steep path, Virgil does not ignore Dante's silence. He encourages Dante to finally voice the question that has been on his mind, using a vivid metaphor of archery: he tells Dante to "release the bow" of speech, since Dante has already "drawn it back" (meaning he has prepared the words in his mind and is on the verge of speaking).
+
+**Tag Resolutions:**
+
+- `{1:lo dolce padre mio}`: Virgil (Dante's guide and mentor).
+- `[2:+elli]`: Virgil.
+- `[3:+tu]`: Dante.
+- `[4:+tu]`: Dante.
+
+## Scene 19-21: The Central Question
+In this brief scene, Dante finally overcomes his hesitation, spurred on by Virgil's encouragement in the previous sequence. He opens his mouth and poses a specific metaphysical question to his guides. He is curious about the nature of the purification process in Purgatory: specifically, he asks how a soul can "become thin" (lose weight/be purged) in a realm where there is no biological need for nourishment or the physical process of eating and fasting.
+
+**Tag Resolutions:**
+
+- `[1:+io]`: Dante.
+- `[2:+io]`: Dante.
+- `[3:si]`: An impersonal "one," referring specifically to the souls undergoing purification in Purgatory.
+
+## Scene 22-30: The Introduction of Statius
+In this scene, Virgil responds to Dante's question regarding how souls in Purgatory can "lose weight" (be purified) without the physical act of eating or fasting. 
+
+Virgil uses two analogies to explain that the spiritual realm operates on different laws than the material world. First, he references the myth of Meleager, who died when a brand of wood (a "stizzo") was thrown into a fire—suggesting a spiritual consumption that is rapid and non-biological. Second, he uses the image of a mirror: just as a reflection mimics a person's movements without having the physical mass of the person, the "weight" of sin in Purgatory is a spiritual quality rather than a physical one.
+
+However, rather than providing a full technical explanation himself, Virgil decides that Statius—who is actually a resident of Purgatory and undergoing the process—is better equipped to answer. Virgil calls upon Statius to act as the "healer" of Dante's confusion (his "wounds").
+
+**Tag Resolutions:**
+
+- `[1:+io]`: Virgil (the speaker).
+- `[2:t']`: Dante (the listener).
+- `{3:Meleagro}`: Meleager (the mythological figure).
+- `[4:si]`: Meleager.
+- `[5:+ei]`: Virgil (the speaker).
+- `[6:te]`: Dante (the listener).
+- `[7:+tu]`: Dante (the listener).
+- `[8:ti]`: Dante (the listener).
+- `[9:+tu]`: Dante (the listener).
+- `[10:t']`: Dante (the listener).
+- `{11:Stazio}`: Statius.
+- `[12:io]`: Virgil (the speaker).
+- `[13:lui]`: Statius.
+- `[14:+ei]`: Statius.
+- `{15:sanator}`: Statius (as the "healer" of Dante's doubt).
+
+## Scene 31-33: Statius's Consent
+In this brief scene, Statius responds to Virgil's request to answer Dante's question about the nature of spiritual "weight loss" in Purgatory. 
+
+Statius agrees to try, but he begins with a humble caveat. He acknowledges that while he is a resident of Purgatory, he is still subject to its laws and limitations. He suggests that if the "eternal vision" (the Beatific Vision of God) eventually releases him from his purification, he will have a fuller understanding. However, given Dante's current state (as a living soul) and Statius's own current state of purgation, he asks Dante to excuse him if he is unable to provide a perfectly clear or complete explanation. He does not deny that he might struggle to articulate these divine mysteries.
+
+**Tag Resolutions:**
+
+- `[1:li]`: Statius (referring to himself as the one who will be released by the eternal vision).
+- `{2:Stazio}`: Statius.
+- `[3:tu]`: Dante (the person Statius is addressing).
+- `[4:me]`: Statius (asking for excuse/exculpation).
+- `[5:potert']`: Dante (the "ti" in *poterti*; the person Statius might be unable to fully explain things to).
+- `[6:io]`: Statius (the speaker).
+
+## Scene 34-42: The Power of Blood
+**Scene Analysis: The Power of Blood**
+
+In this scene, Statius begins to answer Dante's metaphysical question about how souls are purified (or "lose weight") in Purgatory without the physical act of fasting or eating. 
+
+Statius addresses Dante affectionately as "son," promising that if Dante's mind is open and receptive, he will provide a "fierce light" (a clear, powerful explanation) to clarify the "how" of the process.
+
+The core of the explanation is a theological analogy involving the "perfect blood" (the blood of Christ). Statius explains that this divine blood acts as a spiritual nourishment. He compares it to the way a person lifts food from a table and consumes it; once ingested, the food is processed by the body to provide the "informative virtue" (the formative power/nourishment) necessary to build and maintain the physical members of the body. Similarly, the grace of Christ's sacrifice enters the soul and works upon its "members," purifying and transforming it from the inside out. This spiritual infusion replaces the need for biological processes like eating or fasting to achieve the state of purification.
+
+**Tag Resolutions:**
+
+- `[1:+elli]`: Statius (the speaker who begins his explanation).
+- `{2:figlio}`: Dante (addressed by Statius as "son").
+- `[3:ti]`: Dante (the one who will receive the "light" of the explanation).
+- `[4:tu]`: Dante (the one who asked the question "how").
+- `[5:+tu]`: Dante (used here as a representative "you" in the simile about lifting food from a table).
+- `[6:quello]`: The food (*alimento*) mentioned in line 39.
+
+## Scene 43-51: Digestion and Coagulation
+This scene is a continuation of Statius's complex biological analogy. To explain how the "perfect blood" of Christ purifies the soul, Statius describes the physiological process of digestion and assimilation as it was understood in the Middle Ages.
+
+**Scene Analysis: Digestion and Coagulation**
+
+Statius continues the metaphor of nourishment. He describes the path of food after it has been ingested: it is digested and descends into the lower parts of the body (the "place where it is better to be silent than to speak," likely a reference to the gut/intestines). From there, the essence of the food (the nutrients) is absorbed and enters the bloodstream ("another's blood in a natural vessel").
+
+He explains that in the veins, two things meet: the nutrient derived from the food and the blood already present in the body. He characterizes one as passive (the blood, which "suffers" or receives) and the other as active (the nutrient, which "acts" or transforms). This mixture is then pressed through the vascular system to reach the various members (organs/limbs) of the body. Once the nutrient reaches its destination, it begins to "operate," first coagulating (solidifying into tissue) and then giving life and structure to the body.
+
+The metaphysical point is that just as physical food is transformed into the very fabric of the body, the grace of Christ's sacrifice is not merely an external wash, but is absorbed into the "members" of the soul, transforming its nature and removing the "weight" of sin.
+
+**Tag Resolutions:**
+
+- `[1:+ei]`: The food/nutrient (the substance being digested).
+- `[2:+ei]`: The food/nutrient.
+- `[3:s']`: The food/nutrient (the agent that gathers the components).
+- `[4:l'uno]`: The nutrient (derived from the food).
+- `[5:l'altro]`: The blood (already present in the "natural vessel").
+- `[6:l'un]`: The blood (the passive element that "suffers" the change).
+- `[7:l'altro]`: The nutrient (the active element that "acts").
+- `[8:+ei]`: The nutrient/blood mixture.
+- `[9:si]`: The nutrient/blood mixture.
+- `[10:lui]`: The target organ or limb (the "member" of the body).
+- `[11:+ei]`: The nutrient.
+- `[12:+ei]`: The nutrient.
+- `[13:+ei]`: The nutrient.
+
+## Scene 52-66: The Evolution of Life
+In this scene, "The Evolution of Life," Statius continues his metaphysical explanation, moving from the biological process of blood and nutrients to the development of the soul and the intellect.
+
+Statius explains that the Soul possesses an "active virtue" (a formative power). He compares the growth of the soul to that of a plant, noting a progression from a state of being "on the way" (developing) to arriving "at the shore" (reaching maturity/completion). He describes how the soul first develops basic movement and sensation—comparing this early stage to a sea urchin (*spungo marino*)—and then begins to organize the various faculties and powers for which it serves as the "seed."
+
+He further describes how this formative virtue expands from the heart of the parent ("the generator"), guided by Nature, to reach all the members of the developing body.
+
+However, Statius reaches a limit to his explanation when it comes to the transition from an animal to a human being (*fante*). He admits that this is a point of profound mystery. He references a figure "wiser" than Dante—Aristotle (the "Philosopher")—who also struggled with this point and "erred" or wandered in his conclusions. Statius explains that Aristotle's teaching separated the "possible intellect" from the soul because Aristotle could find no physical organ in the body that corresponded to the functions of the intellect.
+
+**Tag Resolutions:**
+
+- `{1:Anima}`: The Soul (as a general metaphysical entity).
+- `{2:figliuolo}`: Dante (addressed by Statius).
+- `{3:del generante}`: The parent/generator (the biological source of the seed/life).
+- `{4:natura}`: Nature (personified as the guiding force of biological growth).
+- `{5:fante}`: A human being (specifically a speaking/rational person, the result of the evolution from animal).
+- `[6:tu]`: Dante.
+- `{7:più savio}`: Aristotle (the "Philosopher").
+- `[8:te]`: Dante.
+- `{9:errante}`: Aristotle (referring to his intellectual wandering or error regarding the intellect).
+- `[10:+ei]`: The possible intellect (*il possibile intelletto*).
+- `{11:l'anima}`: The Soul.
+- `[12:+ei]`: The possible intellect (*il possibile intelletto*).
+
+## Scene 67-75: The Development of the Spirit
+In this scene, "The Development of the Spirit," Statius continues his metaphysical lesson for Dante, moving from the biological growth of the fetus to the divine moment of ensoulment. 
+
+Statius urges Dante to be open to the truth of how a human being is truly formed. He explains that once the physical structure of the fetus's brain is fully developed (the "articulation" is perfect), the First Mover (God) looks upon this natural work with joy. God then breathes a "new spirit," full of divine virtue, into the fetus. This spirit acts as a catalyst: it draws the active elements of the physical body into its own substance. Through this divine infusion and merging, a single, unified soul is created—a soul that possesses life, sensation, and the capacity for self-reflection (the ability to "turn within itself"). 
+
+This explanation serves to resolve the tension raised in the previous scene regarding Aristotle's struggle; Statius is arguing that the intellect is not a physical organ, but a divine gift that animates the biological form.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: Dante (the listener).
+- `[2:+tu]`: Dante (the listener).
+- `{3:al feto}`: The fetus (the developing human embryo).
+- `{4:lo motor primo}`: God (The First Mover).
+- `[5:lui]`: The fetus `{3}`.
+- `[6:si]`: God `{4}` (who turns Himself toward the fetus).
+- `[7:+ei]`: God `{4}`.
+- `{8:spirito novo}`: The new spirit (the divine intellectual spark).
+- `[9:+ei]`: The new spirit `{8}`.
+- `{10:un'alma sola}`: The unified soul (the result of the spirit merging with the body).
+- `[11:sé]`: The unified soul `{10}`.
+- `[12:sé]`: The unified soul `{10}`.
+
+## Scene 76-84: The Thread of Fate
+In this scene, Statius continues his metaphysical explanation, moving from the creation of the soul to its liberation from the physical body at the moment of death.
+
+To help Dante accept these complex ideas, Statius provides a natural analogy: he tells Dante to consider how the heat of the sun transforms the sap of the vine into wine. Just as an external, celestial force (the sun) transforms a raw biological fluid into something more refined (wine), the divine spirit transforms the biological fetus into a rational human being.
+
+Statius then invokes the figure of Lachesis (the Fate who measures the thread of human life). He explains that when Lachesis runs out of "linen" (meaning the allotted span of life has ended), the soul detaches itself from the flesh. Upon this liberation, the soul carries with it both its human qualities and its divine essence. Furthermore, the soul's mental faculties—memory, intelligence, and will—are no longer hindered by the limitations of a physical brain or body; instead, they become "sharper" and more fully realized (*in atto*) than they ever were during earthly life.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: Dante.
+- `[2:+tu]`: Dante.
+- `{3:omor}`: The sap/fluid of the vine.
+- `{4:Làchesis}`: Lachesis (the Fate who measures the length of life).
+- `[5:+ella]`: The Soul (which detaches from the flesh).
+- `[6:+ella]`: The Soul.
+- `[7:seco]`: The Soul (carrying these qualities "with itself").
+
+## Scene 85-90: The Expansion of Virtue
+In this scene, "The Expansion of Virtue," Statius continues his metaphysical lecture on the soul's transition from the physical world to the spiritual one. Following the moment of death (where Lachesis cuts the thread of life), Statius describes the soul's immediate trajectory.
+
+The soul does not linger; it "falls" or descends rapidly to the "shores" of the afterlife. Once the soul arrives and is settled into its new spiritual environment ("circumscribed" by a place), its "formative virtue"—the same creative power that organized the biological fetus in the womb—begins to radiate again. However, it now operates on the soul itself, mirroring the way it once gave life and structure to the physical limbs of the body. Essentially, Statius is arguing that the soul's spiritual "anatomy" is organized by the same divine logic that organized its physical body.
+
+**Tag Resolutions:**
+
+- `[1:sé]`: The Soul.
+- `[2:+ella]`: The Soul.
+- `[3:+ella]`: The Soul.
+- `[4:la]`: The Soul.
+
+## Scene 91-102: The Metaphor of Light and Shadow
+In this scene, Statius continues his metaphysical explanation by describing how a disembodied soul acquires a visible, sensible form in the afterlife. Since the soul is immaterial, it cannot be seen or "felt" in a physical sense; however, Statius explains that the soul interacts with the spiritual environment to create a "body" of sorts.
+
+He begins with a natural analogy: when clear air reflects a ray of light, the air itself becomes colored. Similarly, when a soul arrives in the afterlife, the "nearby air" of that realm gathers around it. This air conforms itself to the "form" or essence of the soul, creating a spiritual envelope. 
+
+Statius compares this relationship to a small flame that follows a fire wherever the fire moves; the air-envelope follows the soul as its "new form." Because the soul now possesses this external appearance (a "wall" or boundary), it is called a "shade" (*ombra*). This spiritual body is not merely decorative; it is the mechanism that allows the soul to experience the senses—such as sight—even though it no longer possesses biological organs.
+
+**Tag Resolutions:**
+
+- `[1:+ei]`: The air (*l'aere*).
+- `[2:+ei]`: The nearby air (*l'aere vicin*).
+- `{3:l'alma}`: The soul.
+- `[4:+ella]`: The air-envelope/spiritual form.
+- `[5:+ei]`: The fire (*foco*).
+- `{6:lo spirto}`: The spirit/soul.
+- `[7:+ei]`: The soul (now possessing an external appearance).
+- `[8:+ei]`: The shade/the combined soul-and-air entity.
+- `{9:ombra}`: The shade.
+- `[10:+ella]`: The shade (the spiritual form).
+
+## Scene 103-108: The Cause of the Souls' Cries
+In this scene, Statius concludes his metaphysical explanation by describing the practical consequences of the soul's "shade" (*ombra*). He explains that because the soul now possesses this spiritual envelope (the air that conforms to its essence), it is capable of simulating human physical expressions. 
+
+Statius notes that this is why the souls in Purgatory can speak, laugh, weep, and sigh—sounds that Dante has heard throughout his ascent of the mountain. He explains that the "shade" acts as a mirror of the soul's internal state; when the soul is afflicted by desires or other strong emotions ("affections"), the shade physically manifests those feelings. He concludes by telling Dante that this mechanism is the reason why Dante sees and hears these emotional displays from the spirits he encounters.
+
+**Tag Resolutions:**
+
+- `[1:+noi]`: The souls/shades in Purgatory (including Statius).
+- `[2:noi]`: The souls/shades in Purgatory (including Statius).
+- `[3:+noi]`: The souls/shades in Purgatory (including Statius).
+- `[4:+tu]`: Dante.
+- `[5:ci]`: The souls/shades in Purgatory (including Statius).
+- `{6:l'ombra}`: The shade (the spiritual form/envelope of the soul).
+- `[7:si]`: The shade `{6}`.
+- `[8:tu]`: Dante.
+
+## Scene 109-117: Navigating the Abyss
+In this scene, titled "Navigating the Abyss," the narrative shifts from Statius’s metaphysical lecture back to the immediate, physical peril of the climb. The group has reached a point of "ultima tortura"—a final, grueling stretch of the path that is both physically and psychologically taxing.
+
+Virgil, acting in his capacity as the guide, leads the way, turning toward the right to navigate the group through the hazard. While Virgil focuses on the route, Dante and Statius are preoccupied with the dangers surrounding them. 
+
+The geography of this section is treacherous: on one side, the rock face shoots out flames like a crossbow (*balestra*). However, a draft of air blowing upward from the ledge pushes these flames back, creating a narrow, barely passable gap. Because the opening is so slim, the three poets are forced to move in single file ("one by one"). Dante expresses a sense of acute vulnerability and fear, caught between two lethal threats: the fire on one side and the dizzying precipice on the other, from which he fears falling.
+
+**Tag Resolutions:**
+
+- `[1:+ei]`: Virgil (the guide leading the group).
+- `[2:s']`: Virgil (the reflexive "si" in *s'era*, referring back to the subject `[1]`).
+- `[3:noi]`: Dante, Virgil, and Statius.
+- `[4:+noi]`: Dante, Virgil, and Statius.
+- `[5:io]`: Dante.
+- `[6:+io]`: Dante.
+
+## Scene 118-120: Virgil's Warning
+In this brief scene, Virgil continues to guide the group through the treacherous narrow passage. Recognizing the extreme danger of the "ultima tortura," Virgil warns Dante and Statius about the need for absolute precision. He uses the metaphor of a rider keeping a "tight rein" (*stretto il freno*) on the eyes, meaning they must maintain intense, unwavering focus on their footing. He explains that in this specific location, even the slightest deviation or lapse in concentration could result in a fatal error.
+
+**Tag Resolutions:**
+
+- `{1:Lo duca mio}`: Virgil (Dante's guide).
+- `[2:si]`: A generic person/climber (referring to anyone navigating this path, specifically Dante and Statius, who must be vigilant).
+
+## Scene 121-126: The Hymn of Mercy
+In this scene, titled "The Hymn of Mercy," the narrative tension of the dangerous climb is juxtaposed with a moment of spiritual devotion. As the group navigates the narrow gap between the fire and the precipice, Dante hears a Latin hymn—"Summae Deus clementïae" (To God of highest mercy)—being sung.
+
+The sound of the singing, combined with the intensity of the environment, causes Dante to look around. He sees a procession of spirits walking through the flames, undergoing their purification. This creates a psychological and physical struggle for Dante: he is captivated by the sight of the souls and the sound of their prayer, but he is also acutely aware of the danger of his footing. He describes the act of "dividing his vision," alternating his gaze between the spirits in the fire and the treacherous path beneath his feet to ensure he does not slip or fall.
+
+**Tag Resolutions:**
+
+- `{1:Deus}`: God.
+- `[2:+io]`: Dante.
+- `[3:mi]`: Dante.
+- `[4:+io]`: Dante.
+- `{5:spirti}`: The spirits (the souls being purified in Purgatory).
+- `[6:io]`: Dante.
+- `[7:loro]`: The spirits (the souls being purified in Purgatory).
+
+## Scene 127-132: The Choral Interruptions
+This scene, "The Choral Interruptions," depicts the ritualistic behavior of the spirits undergoing purification in the flames. Dante observes that these souls do not simply sing their hymn; they intersperse the prayer with loud, rhythmic shouts of renunciation.
+
+The spirits alternate between singing the hymn to God and shouting phrases that emphasize the rejection of lust. First, they shout in Latin, "Virum non cognosco" ("I do not know the man"), which is a declaration of chastity. After singing the hymn again in a lower register, they shout a reference to Greek mythology regarding the goddess Diana and her companion Elice. They recount how Diana kept her followers in the woods, but drove Elice away because Elice had succumbed to the "sting" (the passion or desire) of Venus. By shouting these phrases, the souls are symbolically purging themselves of lust by praising chastity and condemning the surrender to erotic passion.
+
+**Tag Resolutions:**
+
+- `[1:+elli]`: The spirits/souls undergoing purification in the flames.
+- `{2:Virum}`: A generic man (representing a lover or husband in the context of a vow of chastity).
+- `[3:+io]`: The spirits/souls (speaking in the first person within the quoted Latin phrase).
+- `[4:+elli]`: The spirits/souls.
+- `[5:+elli]`: The spirits/souls.
+- `[6:si]`: Elice (the object of Diana's keeping/control in the woods).
+- `{7:Diana}`: Diana (the goddess of the hunt and chastity).
+- `[8:+ella]`: Diana.
+- `{9:Elice}`: Elice (the nymph/companion of Diana).
+- `{10:Venere}`: Venus (the goddess of love and lust).
+
+## Scene 133-135: Cries of the Chastity
+In this brief scene, Dante describes the continuing ritual of the souls being purified in the flames of the terrace of Lust. He observes a rhythmic alternation in their behavior: after their previous shouts of renunciation, the spirits return to singing their hymn to God.
+
+Following the song, a specific group among the spirits—the women and the husbands—break into shouts of their own. They are proclaiming their commitment to chastity, specifically the kind of chastity defined by the intersection of moral virtue and the marital bond. They celebrate the standard of purity that "Virtue" (personified as the governing moral force) imposes upon the institution of marriage.
+
+**Tag Resolutions:**
+
+- `[1:+elli]`: The spirits/souls undergoing purification in the flames (the Lustful).
+- `{2:donne}`: The women among the spirits being purified.
+- `{3:mariti}`: The husbands among the spirits being purified.
+- `[4:+ella]`: Virtue (personified as the moral authority that imposes the rules of chastity and marriage).
+
+## Scene 136-139: The Purpose of the Ritual
+In this brief scene, "The Purpose of the Ritual," Dante reflects on the rhythmic pattern of prayer and renunciation he has just observed among the spirits in the flames.
+
+Dante observes that this specific "way" (the alternation of hymns and shouts) is, in his opinion, sufficient for the souls to endure and achieve their purification for the entire duration that the fire burns them. To explain the spiritual logic behind this, Dante employs a medical metaphor: he compares the ritual to the careful treatment of a physical wound. Just as a deep cut (*sezzo*) requires specific care and "nourishment" (healing treatments) to properly close and heal, the spiritual wound caused by the sin of lust requires this specific ritual of penance and devotion to be fully purged.
+
+**Tag Resolutions:**
+
+- `[1:+io]`: Dante (the narrator/speaker).
+- `[2:lor]`: The spirits/souls undergoing purification in the flames (the Lustful).
+- `[3:li]`: The spirits/souls undergoing purification in the flames (the Lustful).
+
+# recap
+- Dante, Virgil, and Statius are traveling together, ascending the steep paths of Purgatory.
+- They have just navigated a treacherous narrow passage and are observing the ritual purifications of the Lustful spirits in the flames.
+- The group continues their climb toward the summit.

@@ -1,0 +1,363 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+
+## Scene 1-6: Arrival at the new, dark ditch
+In this opening scene of Canto 21, the narrative focuses on the transition between the Fourth and Fifth Bolgia. Dante and Virgil are crossing the bridges that span the ditches of Malebolge. Virgil is speaking to Dante, though the poet notes that Virgil's conversation does not concern the "comedy" (the poem itself). They arrive at the edge of the next ditch, where they stop to look down and hear the sounds of the suffering souls. Dante observes that this particular ditch is exceptionally dark.
+
+**Tag Resolutions:**
+- `[1:+egli]` (he): **Virgil**. He is the guide who is talking to Dante but is not concerned with discussing the poetic composition of the journey.
+- `[2:+noi]` (we): **Dante and Virgil**.
+- `[3:+noi]` (we): **Dante and Virgil**.
+- `[4:+noi]` (we): **Dante and Virgil**.
+- `[5:+io]` (I): **Dante**. The narrator/protagonist observing the darkness of the ditch.
+
+## Scene 7-18: The Venetian shipyard simile
+In this scene, Dante uses a vivid simile to describe the environment of the Fifth Bolgia. He compares the sight of the boiling pitch in Hell to the Venetian shipyards (*arzanà*) during the winter. In Venice, pitch is boiled to recaulk and repair ships that are unfit for sailing because the winter weather prevents them from going to sea. Dante describes the various activities of the shipyard workers: some build new ships, some repair old ones, some work on the bow or stern, some make oars, some sew sails, and some fix the masts.
+
+He then transitions from the simile back to the reality of the Inferno: just as the pitch boils in the shipyard, a thick layer of pitch boils in the ditch. However, unlike the shipyard where fire is used, this pitch is boiled by "divine art" (the power of God's judgment), and it is so sticky that it clings to the banks of the ditch.
+
+There is no dialogue in this scene; it is a descriptive passage narrated by Dante.
+
+**Tag Resolutions:**
+- `[1:+elli]` (they): **The Venetians/shipbuilders** in the shipyard who cannot sail during the winter.
+- `[2:chi]` (who/the one who): **A shipbuilder/worker** in the shipyard.
+- `[3:chi]` (who/the one who): **A shipbuilder/worker** in the shipyard.
+- `[4:quel]` (that/the one): **The ship** (specifically, the ship that has made the most journeys). Note: This refers to the object (*legno*), not a person.
+- `[5:chi]` (who/the one who): **A shipbuilder/worker** in the shipyard.
+- `[6:chi]` (who/the one who): **A shipbuilder/worker** in the shipyard.
+- `[7:chi]` (who/the one who): **A shipbuilder/worker** in the shipyard.
+
+## Scene 19-21: Observing the boiling pitch
+**Scene Analysis**
+
+In these three lines, Dante shifts from the detailed simile of the Venetian shipyards back to the immediate reality of the Fifth Bolgia. He is looking down into the ditch and describing what he sees. He notes that he can see the substance filling the ditch, but because it is boiling so violently, the surface is a mass of bubbles. This creates a visual barrier; the pitch is swelling and churning, making it impossible for him to see anything beneath the surface (such as the sinners submerged within it) at this specific moment.
+
+**Tag Resolutions**
+
+- `[1:I']` (I): **Dante**. The narrator and protagonist who is observing the scene.
+- `[2:lei]` (her/it): **The boiling pitch** (or the ditch/bolgia containing it). In Italian, both *pece* (pitch) and *bolgia* (ditch) are feminine. Given that the substance is "swelling" and "boiling," it refers to the mass of boiling pitch.
+- `[3:+io]` (I): **Dante**.
+- `[4:essa]` (it/her): **The boiling pitch** (or the ditch/bolgia). This refers back to the same feminine entity as `[2:lei]`, specifying that Dante cannot see *inside* the pitch/ditch due to the bubbles.
+
+## Scene 22-24: Virgil pulls Dante away
+In this brief scene, Dante is captivated by the sight of the boiling pitch in the Fifth Bolgia, staring intently down into the ditch. Virgil, noticing something—presumably the approaching Malebranche demons—urgently warns Dante to look and physically pulls him away from the edge of the ditch to safety.
+
+**Tag Resolutions:**
+- `[1:io]` (I): **Dante**.
+- `{2:lo duca mio}` (my guide): **Virgil**.
+- `[3:+tu]` (you): **Dante**. Virgil is speaking to him.
+- `[4:+tu]` (you): **Dante**. Virgil is speaking to him.
+- `[5:+elli]` (he): **Virgil**.
+- `[6:mi]` (me): **Dante**.
+- `[7:sé]` (himself): **Virgil**.
+- `[8:io]` (I): **Dante**.
+
+## Scene 25-33: The appearance of the demon
+**Scene Analysis**
+
+In this scene, Dante describes his reaction to Virgil's urgent warning. Startled, he turns around quickly—comparing himself to a man who is desperate to see the very thing he needs to flee from, driven by a sudden, sharp fear. As he looks back, he sees a black demon running toward them along the rocky ledge. Dante is struck by the demon's terrifying appearance: its fierce expression, its harsh demeanor, its wide-open wings, and the lightness of its step as it charges.
+
+**Tag Resolutions**
+
+- `[1:+io]` (I): **Dante**. The narrator and protagonist.
+- `[2:mi]` (myself): **Dante**.
+- `{3:l'uom}` (the man): **A man**. This is used in a general simile to describe the type of person who reacts with sudden fear, representing Dante's state of mind.
+- `[4:li]` (him): **The man** (mentioned in the simile).
+- `[5:+io]` (I): **Dante**.
+- `[6:noi]` (us): **Dante and Virgil**.
+- `{7:un diavol nero}` (a black demon): **A black demon** (one of the Malebranche).
+- `[8:elli]` (he): **The black demon**.
+- `[9:+elli]` (he): **The black demon**.
+- `[10:mi]` (me): **Dante**.
+
+## Scene 34-36: The demon's physical ferocity
+**Scene Analysis**
+
+In these three lines, Dante continues his description of the black demon's terrifying physical presence and brutality. He focuses on the demon's upper body—specifically his "sharp and haughty" shoulder—to emphasize his strength and arrogance. The demon is depicted in the act of tormenting a soul: he is hoisting a sinner up using the strength of his flanks, while gripping the sinner tightly by the tendons (the "nerbo") of the feet. This imagery highlights the predatory and effortless violence with which the Malebranche treat the inhabitants of the Fifth Bolgia.
+
+**Tag Resolutions**
+
+- `[1:+elli]` (he): **The black demon**. He is the subject of the action, possessing the "sharp and haughty shoulder" mentioned in line 34.
+- `{2:un peccator}` (a sinner): **A sinner**. This is an unnamed soul residing in the boiling pitch of the Fifth Bolgia, currently being tormented by the demon.
+- `[3:quei]` (that one): **The sinner**. This refers back to the sinner mentioned in tag [2], who is being held by the feet.
+
+## Scene 37-42: The demon's declaration
+**Scene Analysis**
+
+In this scene, the black demon reaches the bridge where Dante and Virgil are standing. He shouts to his fellow demons, the Malebranche, alerting them to the presence of the two visitors. The demon speaks in a mocking, sarcastic tone, pretending that Dante and Virgil are "elders of Santa Zita" (corrupt officials from a specific district in Florence). He urges the other demons to throw them into the boiling pitch. He then makes a biting joke about Florence, claiming that the city is so full of barrators (corrupt politicians) that every single citizen is guilty of the crime, with the sole (and likely ironic) exception of a man named Bonturo.
+
+**Tag Resolutions**
+
+- `{1:nostro ponte}` (our bridge): **The bridge** spanning the Fifth Bolgia where Dante and Virgil are currently located.
+- `[2:+ei]` (he): **The black demon**. He is the one who has just run up to the bridge and is now speaking.
+- `{3:Malebranche}` (Malebranche): **The Malebranche**. The group of demons who guard the Fifth Bolgia.
+- `{4:li anzïan di Santa Zita}` (the elders of Santa Zita): **Dante and Virgil**. The demon is using this as a mocking label, identifying them as corrupt Florentine officials from the Santa Zita district.
+- `[5:+voi]` (you): **The Malebranche**. The black demon is addressing his fellow demons.
+- `[6:i']` (I): **The black demon**. The speaker.
+- `{7:Bonturo}` (Bonturo): **Bonturo**. A specific resident of Florence, mentioned by the demon as the only person in the city who is not a barrator.
+
+## Scene 43-46: The demon's departure
+**Scene Analysis**
+
+In this brief transition, the black demon completes his interaction with the soul he was holding. He drops the sinner back into the boiling pitch of the Fifth Bolgia. Dante describes the demon's agility and ferocity, comparing him to a "loose mastiff" (a hunting dog) chasing a thief. The demon dives headlong into the boiling substance and then resurfaces, twisting or coiling as he emerges. This sequence emphasizes the predatory nature of the Malebranche and their effortless movement within the environment of their torment.
+
+**Tag Resolutions**
+
+- `[1:+ei]` (he): **The black demon**. He is the one who throws the sinner back into the ditch.
+- `[2:'l]` (him): **The sinner**. The unnamed soul that the demon had been hoisting up by the feet (referenced in lines 35-36).
+- `[3:+ei]` (he): **The black demon**.
+- `[4:si]` (himself): **The black demon**. He turns around to dive back into the pitch.
+- `{5:mastino sciolto}` (loose mastiff): **The black demon**. This is a simile comparing the demon's speed and aggression to that of a released hunting dog.
+- `{6:lo furo}` (the thief/fugitive): **The sinner**. In the context of the simile, the "thief" is the prey being pursued by the "mastiff."
+- `[7:Quel]` (That one/He): **The black demon**.
+- `[8:s']` (himself): **The black demon**. He dives into the boiling pitch.
+- `[9:+ei]` (he): **The black demon**. He returns to the surface.
+
+## Scene 47-54: Warnings from the bridge demons
+**Scene Analysis**
+
+In this scene, the Malebranche demons who are stationed on the bridge confront Dante and Virgil. They shout warnings and threats, making it clear that the visitors are not welcome. They mockingly refer to them as the "Holy Face," emphasizing the contrast between the purity of the divine and the filth of the boiling pitch. The demons specifically warn Dante not to lean too far over the edge of the ditch if he wishes to avoid being scratched by their claws. As they speak, they snap at him aggressively. Finally, they advise him that the only way to survive or navigate this area is to stay hidden and, if possible, sneak away unnoticed.
+
+**Tag Resolutions**
+
+- `{1:i demon}` (the demons): **The Malebranche**. The group of demons guarding the bridge of the Fifth Bolgia.
+- `[2:+elli]` (they): **The Malebranche**.
+- `{3:il Santo Volto}` (the Holy Face): **Dante and Virgil**. This is a sarcastic epithet used by the demons to mock the humans, contrasting their "holy" or "pure" appearance with the corruption of the ditch.
+- `[4:tu]` (you): **Dante**. The demons are addressing the visitor who is leaning over the edge.
+- `[5:+tu]` (you): **Dante**.
+- `[6:+elli]` (they): **The Malebranche**.
+- `[7:l']` (him): **Dante**. The demons are snapping at or threatening Dante.
+- `[8:+elli]` (they): **The Malebranche**.
+- `[9:+tu]` (you): **Dante**.
+- `[10:+tu]` (you): **Dante**.
+- `[11:+tu]` (you): **Dante**.
+
+## Scene 55-57: The cooking simile
+In this brief scene, Dante employs a culinary simile to describe the cruelty and method of the Malebranche demons. He compares the demons' treatment of the sinners in the boiling pitch to that of cruel cooks. Just as cooks use hooks to push meat (or, sarcastically, their "vassals") down into a boiling cauldron to ensure it doesn't float to the surface, the Malebranche use their hooks to force the barrators deep into the boiling pitch, preventing them from escaping the heat by floating.
+
+**Tag Resolutions:**
+
+- `{1:i cuoci}` (the cooks): **The Malebranche demons**. In this simile, the demons are compared to cooks who manage the "cauldron" of the Fifth Bolgia.
+- `{2:lor vassalli}` (their vassals): **The sinners in the Fifth Bolgia**. Dante uses "vassals" sarcastically to describe the souls who are now subject to the absolute and brutal power of the demons, effectively treating them as the "meat" being cooked in the cauldron.
+
+## Scene 58-63: Virgil's advice to Dante
+In this scene, Virgil takes decisive action to protect Dante from the aggressive Malebranche demons. Recognizing the danger, Virgil instructs Dante to hide behind a piece of rocky debris (*uno scheggio*) so that the demons cannot see him. Virgil reassures Dante, telling him not to be afraid even if the demons insult or attack him (Virgil), as Virgil has a plan. He reveals that he has dealt with such "bargaining" or confrontations with these demons in the past, implying he knows how to manipulate or handle them.
+
+**Tag Resolutions:**
+
+- `{1:Lo buon maestro}` (The good master): **Virgil**. He is Dante's guide and the one giving instructions.
+- `[2:tu]` (you): **Dante**. Virgil is speaking to him.
+- `[3:mi]` (me): **Dante**. This is the narrator reporting that Virgil spoke to him.
+- `[4:+tu]` (you): **Dante**. Virgil is telling him to hide.
+- `[5:t']` (yourself): **Dante**. Virgil is telling him to crouch/hide himself.
+- `[6:t']` (you): **Dante**. Virgil is referring to Dante having a screen/cover.
+- `[7:mi]` (me): **Virgil**. Virgil tells Dante not to worry if any offense is committed against him (Virgil).
+- `[8:tu]` (you): **Dante**. Virgil is telling Dante not to fear.
+- `[9:i']` (I): **Virgil**. The speaker who has the situation under control.
+- `[10:+io]` (I): **Virgil**. The speaker who has encountered this situation before.
+
+## Scene 64-66: Virgil crosses the bridge
+In this scene, Virgil puts his plan into action. Having instructed Dante to remain hidden and safe behind a rocky fragment, Virgil proceeds alone across the bridge. As he reaches the sixth bank (the ledge on the opposite side of the ditch), he realizes he must be extremely cautious and vigilant, as he is now entering the immediate domain of the Malebranche demons.
+
+**Tag Resolutions:**
+- `[1:+elli]` (he): **Virgil**. He is the one who moves forward across the bridge after telling Dante to hide.
+- `[2:el]` (he): **Virgil**.
+- `[3:li]` (him/he): **Virgil**. It is Virgil who must keep a "secure brow" (remain vigilant) upon arriving at the sixth bank.
+
+## Scene 67-75: The demon attack and Virgil's challenge
+In this scene, the Malebranche demons launch a sudden and aggressive attack on Virgil as he reaches the far side of the bridge. Dante uses a simile to describe the intensity of their charge, comparing the demons to hunting dogs rushing at a helpless person. The demons emerge from beneath the bridge and surround Virgil, pointing their hooks (*runcigli*) at him. Virgil, however, remains composed; he shouts for them to hold their aggression and demands that one of them step forward to listen to him before they attempt to hook him.
+
+**Tag Resolutions**
+
+- `{1:poverello}` (the poor soul/unfortunate man): **A hypothetical man** used in a simile to represent a victim being attacked by dogs.
+- `[2:+ei]` (he): **The dog** (in the simile), whose position the "poverello" is questioning.
+- `[3:s']` (himself): **The dog** (in the simile).
+- `[4:quei]` (those): **The Malebranche demons**, who emerge from under the bridge.
+- `[5:+elli]` (they): **The Malebranche demons**.
+- `[6:lui]` (him): **Virgil**, who is the target of the demons' hooks.
+- `[7:el]` (he): **Virgil**, who shouts to stop the attack.
+- `[8:voi]` (you): **The Malebranche demons**.
+- `[9:mi]` (me): **Virgil**, the speaker.
+- `[10:voi]` (you): **The Malebranche demons**.
+- `[11:m']` (me): **Virgil**, the speaker.
+- `[12:+ei]` (he): **The demon** who steps forward to hear Virgil.
+- `[13:si]` (himself): **The demon** who steps forward.
+
+## Scene 76-78: The selection of Malacoda
+In this brief scene, the Malebranche demons decide who among them should deal with Virgil. They collectively shout for Malacoda to step forward. Following the group's command, Malacoda separates himself from the others and approaches Virgil, demanding to know what has brought him to this part of the Inferno.
+
+**Tag Resolutions:**
+- `{1:Malacoda}`: **Malacoda**, the leader/representative of the Malebranche demons.
+- `[2:si]`: **Malacoda**. He is the "one" who moves forward after being called by the others.
+- `[3:+ei]`: **Malacoda**. The demon who approaches Virgil.
+- `[4:lui]`: **Virgil**. He is the one being approached by Malacoda.
+- `[5:li]`: **Virgil**. Malacoda is asking what brings "him" (Virgil) to the ditch.
+
+## Scene 79-84: Virgil's rebuttal
+In this scene, Virgil responds to Malacoda’s questioning. He speaks with authority and confidence, challenging the demon's assumption that Virgil's presence is a random or vulnerable occurrence. Virgil asks rhetorically if Malacoda believes he could have arrived here, safely bypassing the demons' defenses and hooks, without the backing of divine will and a favorable fate. He then commands the demons to let them pass, explaining that it is the will of Heaven that he (Virgil) guide another person (Dante) through this "wild path" of the Inferno.
+
+**Tag Resolutions:**
+
+- `[1:tu]` (you): **Malacoda**. Virgil is addressing the demon leader.
+- `{2:Malacoda}`: **Malacoda**.
+- `{3:l mio maestro}` (my master): **Virgil**. The narrator, Dante, identifies the speaker.
+- `[4:+elli]` (they): **The Malebranche**. Virgil is telling the group of demons to let them pass.
+- `[5:+ella]` (she): **Divine Will** (*la volontà*). In Italian, *volontà* is feminine; Virgil is referring to the will of God in Heaven.
+- `[6:i']` (I): **Virgil**. He is the one tasked with showing the way to Dante.
+
+## Scene 85-87: The demons' submission
+In this brief scene, the power dynamic shifts instantly. After Virgil asserts that their journey is mandated by Divine Will, Malacoda’s previous arrogance and hostility vanish. He is so humbled (or intimidated) by the authority of Heaven that he physically drops his hook to the ground, signaling a cessation of the attack. He then commands his fellow demons to stop threatening Virgil.
+
+**Tag Resolutions:**
+- `[1:li]` (his): **Malacoda**. It is his pride (*orgoglio*) that has fallen.
+- `[2:e']` (he): **Malacoda**. He is the one who lets the hook drop.
+- `[3:si]` (himself): **Malacoda**. This is the reflexive subject of the action of letting the hook fall.
+- `[4:+ei]` (he): **Malacoda**. He is the one speaking to the other demons.
+- `{5:li altri}` (the others): **The Malebranche**. The other demons who were surrounding Virgil and preparing to attack.
+
+## Scene 88-90: Virgil's second command to Dante
+In this brief scene, Virgil takes advantage of the temporary truce he has established with Malacoda and the Malebranche. He calls out to Dante, who has been hiding in the rocky debris of the bridge as previously instructed, telling him that the danger has passed and he can now safely emerge and rejoin him.
+
+**Tag Resolutions:**
+- `{1:l duca mio}` (my guide): **Virgil**.
+- `[2:me]` (me): **Dante**.
+- `[3:tu]` (you): **Dante**.
+- `{4:li scheggion}` (the fragments): **The rocky fragments of the bridge** (where Dante is hiding).
+- `[5:me]` (me): **Virgil**. As the speaker, he is referring to himself.
+- `[6:+tu]` (you): **Dante**.
+- `[7:ti]` (yourself): **Dante**.
+
+## Scene 91-96: The travelers' encirclement
+In this scene, Dante responds to Virgil's call and emerges from his hiding place. As Dante quickly approaches Virgil, the Malebranche demons also move forward, surrounding the two travelers. This sudden movement triggers a surge of anxiety in Dante; he fears that the demons have made a secret pact or agreement among themselves to attack them despite the temporary truce. 
+
+To describe this feeling of vulnerability, Dante employs a historical simile. He compares his current state to that of the soldiers (*fanti*) from Caprona who, having negotiated a truce to leave the city, felt intense fear upon seeing themselves outnumbered and surrounded by a vast army of enemies.
+
+**Tag Resolutions**
+
+- `[1:io]` (I): **Dante**. The narrator and protagonist.
+- `[2:mi]` (myself): **Dante**.
+- `[3:+io]` (I): **Dante**.
+- `[4:lui]` (him): **Virgil**. Dante is moving toward his guide.
+- `{5:i diavoli}` (the demons): **The Malebranche**.
+- `[6:si]` (themselves): **The Malebranche**.
+- `[7:io]` (I): **Dante**.
+- `[8:ei]` (they): **The Malebranche**. Dante fears they have a secret agreement.
+- `[9:ïo]` (I): **Dante**. The narrator recalling a sight from history/experience.
+- `{10:li fanti}` (the soldiers): **The soldiers of Caprona**. Used in a simile.
+- `[11:sé]` (themselves): **The soldiers of Caprona**.
+- `{12:nemici cotanti}` (so many enemies): **The opposing army** surrounding the soldiers of Caprona.
+
+## Scene 97-102: The demons' taunts
+In this scene, Dante moves close to Virgil for protection and safety. Despite his fear, Dante cannot stop staring at the Malebranche demons, whose expressions and demeanors are menacing and "not good." The demons, meanwhile, are lowering their hooks and whispering among themselves. They are mockingly discussing whether one of them should "touch" one of the visitors (specifically Dante) with a hook on the rump (*groppone*), as a way of harassing them despite the truce. The other demons encourage this idea, urging their companion to go ahead and "plant" the hook.
+
+**Tag Resolutions:**
+
+- `[1:I']` (I): **Dante**. The narrator and protagonist.
+- `[2:m']` (myself): **Dante**.
+- `{3:la persona}` (the person): **Dante**. He is referring to his entire physical self/body as he moves toward Virgil.
+- `{4:l mio duca}` (my guide): **Virgil**.
+- `[5:+io]` (I): **Dante**.
+- `[6:Ei]` (They): **The Malebranche demons**.
+- `[7:+tu]` (you): **A Malebranche demon**. This is the demon being spoken to by a companion.
+- `[8:+io]` (I): **A Malebranche demon**. This is the demon who is speaking/proposing the action.
+- `[9:'l]` (him): **Dante**. The demons are eyeing the visitors, and Dante, as the vulnerable newcomer, is the target of their malicious joke.
+- `{10:l'un}` (one): **A Malebranche demon**.
+- `{11:l'altro}` (the other): **Another Malebranche demon**.
+- `[12:+elli]` (they): **The Malebranche demons**.
+- `[13:+tu]` (you): **The Malebranche demon** who first proposed the idea (the speaker from line 100).
+- `[14:+tu]` (you): **The Malebranche demon** who first proposed the idea.
+- `[15:gliel']` (it to him): **Dante** (`gli` / him) and **the hook** (`el` / it). The demons are suggesting planting the hook into Dante.
+
+## Scene 103-105: Malacoda's interruption
+In this brief scene, the tension builds as the Malebranche demons contemplate a malicious prank on Dante. Malacoda, the leader who had been negotiating the truce with Virgil, notices the other demons' intentions. He quickly turns away from Virgil to intervene, shouting at one of the demons—Scarmiglione—to stop and hold back, preventing the immediate attack.
+
+**Tag Resolutions**
+- `{1:quel demonio}` (that demon): **Malacoda**. He is the demon who has been conducting the "sermone" (conversation/negotiation) with Virgil.
+- `{2:col duca mio}` (with my guide): **Virgil**.
+- `[3:+ei]` (he): **Malacoda**.
+- `[4:si]` (himself): **Malacoda**. He turns around quickly.
+- `[5:+ei]` (he): **Malacoda**. He is the one speaking.
+- `[6:+tu]` (you): **Scarmiglione**. Malacoda is addressing the demon who proposed hooking Dante.
+- `[7:+tu]` (you): **Scarmiglione**.
+- `{8:Scarmiglione}`: **Scarmiglione**. A specific member of the Malebranche.
+
+## Scene 106-117: Malacoda's news
+In this scene, Malacoda takes over the conversation to provide Dante and Virgil with directions. He informs them that they cannot proceed further along the current ledge because the sixth arch of the bridge has completely collapsed into the ditch. He suggests an alternative route: if they still wish to move forward, they should climb up through a nearby grotto to reach another ledge. 
+
+Malacoda provides a very specific date for the collapse of the bridge, noting that it happened "yesterday," five hours after the eighth hour, exactly 1,266 years ago. He then explains that he is sending a group of his fellow demons to that area to see if any of the sinners are attempting to climb out of the pitch. He tells Dante and Virgil that they should accompany this group of demons, assuring them that the demons will not harm them.
+
+**Tag Resolutions:**
+
+- `[1:+egli]` (he): **Malacoda**. He is the one speaking to the travelers after interrupting Scarmiglione.
+- `[2:noi]` (us): **Dante and Virgil**.
+- `[3:vi]` (you): **Dante and Virgil**. Malacoda is addressing them.
+- `[4:+voi]` (you): **Dante and Virgil**.
+- `[5:Io]` (I): **Malacoda**. The speaker.
+- `[6:questi]` (these): **The Malebranche demons**. Malacoda is referring to his subordinates/companions.
+- `[7:se]` (himself/themselves): **A sinner**. This refers back to "alcun" (anyone/someone), specifically any barrator who might be trying to climb out of the boiling pitch.
+- `[8:+voi]` (you): **Dante and Virgil**.
+- `[9:lor]` (them): **The Malebranche demons**. Malacoda is telling the travelers to go with the group of demons he is sending forward.
+
+## Scene 118-126: The deployment of the demons
+**Scene Analysis**
+
+In this scene, Malacoda acts as a commander, organizing a squad of his subordinates to escort Dante and Virgil. He calls out ten specific demons by name to form a group (a *decina*), ordering them to move forward. He designates Barbariccia as the leader of this detachment. Once the group is assembled, Malacoda gives them their orders: they are to patrol the areas of boiling pitch (the "boiling pans") to check for any escaping sinners, while simultaneously ensuring that Dante and Virgil are kept safe and unmolested until they reach the next intact ledge of the bridge.
+
+**Tag Resolutions**
+
+- `[1:+tu]` (you): **Alichino**. Malacoda is addressing him directly.
+- `[2:ti]` (yourself): **Alichino**.
+- `{3:Alichino}`: **Alichino**. A member of the Malebranche.
+- `{4:Calcabrina}`: **Calcabrina**. A member of the Malebranche.
+- `[5:elli]` (he): **Malacoda**. He is the speaker organizing the demons.
+- `[6:tu]` (you): **Cagnazzo**. Malacoda is addressing him.
+- `{7:Cagnazzo}`: **Cagnazzo**. A member of the Malebranche.
+- `{8:Barbariccia}`: **Barbariccia**. A member of the Malebranche, appointed to lead the group.
+- `{9:Libicocco}`: **Libicocco**. A member of the Malebranche.
+- `{10:Draghignazzo}`: **Draghignazzo**. A member of the Malebranche.
+- `{11:Cirïatto sannuto}`: **Cirïatto sannuto**. A member of the Malebranche.
+- `{12:Graffiacane}`: **Graffiacane**. A member of the Malebranche.
+- `{13:Farfarello}`: **Farfarello**. A member of the Malebranche.
+- `{14:Rubicante pazzo}`: **Rubicante pazzo**. A member of the Malebranche.
+- `[15:+voi]` (you all): **The Malebranche demons** (specifically the ten just named: Alichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Cirïatto, Graffiacane, Farfarello, and Rubicante).
+- `[16:costor]` (these ones): **Dante and Virgil**. Malacoda is ordering the demons to ensure the safety of the two travelers.
+
+## Scene 127-132: Dante's growing anxiety
+In this scene, Dante is reacting with immediate alarm and suspicion to Malacoda's "offer" of an escort. While Malacoda has presented the group of ten demons as a helpful guide to navigate the collapsed bridge, Dante sees them for what they are: predatory monsters. He turns to Virgil in a state of anxiety, pleading with his guide to abandon the plan and find a way to proceed alone. He appeals to Virgil's legendary prudence, pointing out the obvious physical signs of the demons' hostility—their grinding teeth and menacing glares—which suggest that the "escort" is more likely a trap than a safeguard.
+
+**Tag Resolutions**
+
+- `{1:maestro}` (master): **Virgil**. Dante is addressing his guide.
+- `[2:quel]` (that/what): **The group of demons/the situation**. This refers to the sight of the ten Malebranche assembling to escort them.
+- `[3:i']` (I): **Dante**. The speaker observing the scene.
+- `[4:io]` (I): **Dante**. The narrator identifying himself as the speaker of the dialogue.
+- `{5:scorta}` (escort): **The ten Malebranche demons**. Specifically, the squad led by Barbariccia.
+- `[6:+noi]` (we): **Dante and Virgil**.
+- `[7:tu]` (you): **Virgil**. Dante is asking if Virgil knows the way.
+- `[8:i']` (I): **Dante**.
+- `[9:me]` (me): **Dante**.
+- `[10:tu]` (you): **Virgil**.
+- `[11:+tu]` (you): **Virgil**.
+- `[12:tu]` (you): **Virgil**.
+- `[13:e']` (he/they): **The Malebranche demons**. Although the pronoun *e'* (egli) is singular, it refers to the demons as a collective or a representative member of the group who is grinding their teeth (matching the plural verb *digrignan*).
+- `[14:+elli]` (they): **The Malebranche demons**. The ones threatening Dante and Virgil with their expressions.
+
+## Scene 133-139: Malacoda's reassurance and the demons' exit
+In this scene, Malacoda attempts to soothe Dante's fears while the demon escort prepares to lead them forward. Malacoda tells Dante not to be alarmed by the menacing expressions and grinding teeth of the demons, claiming that they are simply reacting to the "suffering souls" (the sinners) they are about to torment. However, as the group of demons turns to lead the way along the left bank, they reveal their true intentions through a series of crude, secret signals. Each demon bites his tongue and makes a farting noise with his rear end as a signal to their leader, Barbariccia, confirming that they have a secret plan to attack the travelers.
+
+**Tag Resolutions**
+
+- `[1:elli]` (he): **Malacoda**. He is the one responding to Dante's fear.
+- `[2:me]` (me): **Dante**. The narrator and recipient of Malacoda's reassurance.
+- `[3:+elli]` (I): **Malacoda**. The speaker in the first person.
+- `[4:tu]` (you): **Dante**. Malacoda is telling him not to be afraid.
+- `[5:+tu]` (you): **Dante**. Malacoda is telling him to ignore the demons' behavior.
+- `[6:lasciali]` (them): **The Malebranche demons** (specifically the squad of ten). Dante is told to let them grind their teeth.
+- `[7:e']` (they): **The Malebranche demons**. Malacoda claims they act this way because of the sinners.
+- `{8:li lessi dolenti}` (the suffering souls): **The sinners** submerged in the boiling pitch of the Fifth Bolgia.
+- `[9:+elli]` (they): **The Malebranche demons** (the squad). They turn to walk along the left bank.
+- `{10:lor duca}` (their leader): **Barbariccia**. He is the leader of the detachment of ten demons.
+- `[11:elli]` (they): **The Malebranche demons**. They are the ones making the crude signals (the "trombetta") to their leader.
+
+# recap
+- Dante and Virgil are being escorted along the left bank of the Fifth Bolgia by a squad of ten Malebranche demons led by Barbariccia.
+- Although Malacoda has pledged their safety, the escorting demons have secretly signaled to one another their intent to betray and attack the travelers.

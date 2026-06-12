@@ -1,0 +1,288 @@
+# Canto 32 — St. Bernard's Vision of the Celestial Rose and the Identification of the Blessed
+
+## Scene 1-9: The Arrangement of the Matriarchs
+In this scene, Saint Bernard, who has been contemplating the divine light and the Virgin Mary, takes on the role of a teacher to guide Dante's understanding of the celestial arrangement. He begins to explain the theological relationship between two primordial women: Mary and Eve. He explains that the "wound" (the fall of man) that Mary closed and healed was the same wound that Eve opened and pierced. He then points out the specific placement of souls in the "third order" of the Celestial Rose, noting that Rachel is seated below Eve and alongside Beatrice.
+
+**Tag Resolutions:**
+- {1:quel contemplante}: Saint Bernard
+- [2:+ei]: Saint Bernard
+- {3:Maria}: Maria (the Virgin Mary)
+- [4:+ella]: Maria (the Virgin Mary)
+- [5:quella]: Eve
+- [6:colei]: Eve
+- {7:i terzi sedi}: the souls in the third order of seats
+- {8:Rachel}: Rachel
+- [9:costei]: Eve
+- {10:Bëatrice}: Beatrice
+- [11:tu]: Dante
+
+## Scene 10-15: The Lineage of the Hebrew Mothers
+In this scene, Saint Bernard continues to act as Dante's guide, pointing out the placement of various blessed souls within the Celestial Rose. He lists several biblical women from the Hebrew tradition: Sarah, Rebecca, and Judith. He then describes a fourth woman by her relationship to a famous figure: the great-grandmother of the "singer" (King David) who prayed "Miserere mei" (have mercy on me). This describes Ruth. Bernard explains to Dante that he can see these souls arranged in descending order of rank or placement ("di soglia in soglia"), comparing this movement to his own progression through the petals of the Rose as he seeks out his own place/name.
+
+**Tag Resolutions:**
+- {1:Sarra}: Sarah
+- {2:Rebecca}: Rebecca
+- {3:Iudìt}: Judith
+- [4:colei]: Ruth
+- {5:bisava}: Ruth
+- {6:al cantor}: King David
+- [7:mei]: King David
+- [8:tu]: Dante
+- [9:io]: Saint Bernard
+
+## Scene 16-27: The Structure of the Two Hemispheres
+In this scene, Saint Bernard continues his role as Dante's guide, explaining the theological and structural organization of the Celestial Rose. He describes how the Rose is split into two halves based on the timing of the souls' faith in Christ.
+
+Bernard explains that the Hebrew women (mentioned in the previous lines) form a boundary or "wall" (line 20). This boundary divides the Rose into two sections: one side contains those who believed in Christ *before* his coming (the Jews/Hebrews), and the other side contains those who believed in Christ *after* his arrival (the Gentiles/Christians).
+
+**Tag Resolutions:**
+- {1:Cristo}: Jesus Christ
+- [2:queste]: the Hebrew women (the "Ebree" from line 17)
+- [3:quei]: the Jews (those who believed in Christ to come)
+- {4:Cristo}: Jesus Christ
+- [5:si]: the Gentiles (referring back to the subject [6])
+- [6:quei]: the Gentiles (those who saw Christ after his arrival)
+- {7:Cristo}: Jesus Christ
+
+## Scene 28-36: The Hierarchy of the Great Doctors
+In this scene, Saint Bernard continues to explain the symmetry and geography of the Celestial Rose to Dante. He describes the layout as a mirror image or a balanced structure. He notes that just as there is a curved arrangement of thrones beneath the seat of the Virgin Mary, there is a corresponding circular arrangement on the opposite side of the Rose.
+
+The center of this opposing arc is Saint John the Baptist. Bernard identifies him by mentioning his asceticism in the desert, his martyrdom, and the theological tradition that he descended into Limbo (referred to here as "hell") for two years to preach to the souls there before the Resurrection. Below Saint John the Baptist, Bernard points out other great figures of the Church—Saint Francis, Saint Benedict, and Saint Augustine—who are arranged in concentric circles extending downward.
+
+**Tag Resolutions:**
+- {1:la donna del cielo}: The Virgin Mary
+- {2:gran Giovanni}: Saint John the Baptist
+- [3:lui]: Saint John the Baptist
+- {4:Francesco}: Saint Francis of Assisi
+- {5:Benedetto}: Saint Benedict
+- {6:Augustino}: Saint Augustine
+
+## Scene 37-45: The Principle of Divine Providence
+In this scene, Saint Bernard explains the overarching logic of Divine Providence that governs the arrangement of the Celestial Rose. He explains that the garden is balanced and filled equally by two different "aspects of faith": those who believed in Christ before his coming (the Jews) and those who believed after his coming (the Gentiles).
+
+Bernard further clarifies the nature of the "merit" for those in the lower ranks of these two groups. He explains to Dante that the souls residing in these specific positions are not there because of their own individual merit, but rather through the merit of another (referring to the grace of Christ). He defines these individuals as "called spirits" (spiriti ascolti)—those who were brought into salvation by divine call/grace before their final election was realized.
+
+**Tag Resolutions:**
+- [1:+tu]: Dante
+- [2:+tu]: Dante
+- [3:si]: the blessed souls in the lower ranks of the two divisions (Hebrews and Gentiles)
+- [4:questi]: the blessed souls in the lower ranks of the two divisions (Hebrews and Gentiles)
+- {5:spiriti ascolti}: the blessed souls in the lower ranks of the two divisions (Hebrews and Gentiles)
+
+## Scene 46-51: A Promise of Clarification
+In this scene, Saint Bernard is addressing Dante, continuing his explanation of the "called spirits" (the souls in the lower ranks who are saved by grace). Bernard points out that Dante can distinguish these souls from the others by observing their faces and listening to their childlike voices. Bernard notices that Dante has fallen silent because he is confused or doubting the theological implications of what he is seeing. Bernard then promises that he will clarify these complex matters and resolve the doubts that are currently troubling Dante's mind.
+
+**Tag Resolutions:**
+- [1:+tu]: Dante
+- [2:te]: Dante
+- [3:tu]: Dante
+- [4:li]: the called spirits (the blessed souls in the lower ranks)
+- [5:+tu]: Dante
+- [6:li]: the called spirits (the blessed souls in the lower ranks)
+- [7:tu]: Dante
+- [8:+tu]: Dante
+- [9:io]: Saint Bernard
+- [10:ti]: Dante
+
+## Scene 52-66: The Nature of Eternal Joy and Grace
+In this scene, Saint Bernard continues his theological explanation to Dante, addressing the question of why there are different levels of bliss and "excellence" among the blessed souls in the Celestial Rose. 
+
+Bernard argues that nothing in the Empyrean happens by chance. He explains that the entire arrangement is governed by an "eternal law" that ensures everything fits together perfectly (using the metaphor of a ring fitting a finger). He explains that the variation in the degree of joy or rank among the blessed souls is not random but is a result of God's will. God, the King of this realm, creates all minds and distributes grace to them in different measures according to His own pleasure. The visible arrangement of the Rose serves as the "effect" (the evidence) of this divine distribution of grace.
+
+**Tag Resolutions:**
+- [1:+tu]: Dante
+- {2:questa festinata gente}: the blessed souls
+- [3:+ella]: the blessed souls
+- [4:sé]: the blessed souls
+- {5:Lo rege}: God
+- [6:+egli]: God
+
+## Scene 67-75: The Distinction of Divine Gifts
+In this scene, Saint Bernard continues his theological explanation to Dante regarding the distribution of grace and the resulting hierarchy of bliss in the Celestial Rose. To make his point, Bernard employs a biblical analogy from the Book of Genesis.
+
+He refers to the story of the twins Jacob and Esau, noting that their mother (Rebecca) felt their struggle within her womb. He uses the physical difference between them—specifically the color of their hair—to illustrate that their different destinies and ranks were determined by God's will from the beginning.
+
+Bernard's point is that the "Highest Light" (God) assigns grace to each soul according to His own pleasure. Therefore, the blessed souls are placed in different levels ("gradi differenti") not based on their own personal habits or merits, but by divine decree. He concludes by clarifying that while their levels of bliss differ in "acume" (the intensity or sharpness of the joy), this does not diminish their happiness; they simply experience different degrees of the same divine light.
+
+**Tag Resolutions:**
+- {1:quei gemelli}: Jacob and Esau
+- {2:la madre}: Rebecca
+- [3:+elli]: Jacob and Esau
+- {4:l'altissimo lume}: God
+- [5:+ella]: the soul (of the blessed)
+- [6:+elli]: the blessed souls
+
+## Scene 76-84: The Evolution of the Covenant
+In this scene, Saint Bernard is continuing his theological lecture to Dante, explaining how the requirements for the salvation of infants (the "innocents") evolved over time according to Divine Providence. He describes three historical stages of the covenant between God and humanity.
+
+First, in the earliest ages, infants could achieve salvation simply through the faith of their parents. Second, after the initial ages passed, the requirement changed for males; they had to be circumcised to acquire virtue. Finally, Bernard explains that once the "time of grace" (the era of Christ) began, the previous forms of "innocence" were no longer sufficient; salvation for infants now requires the perfect baptism in the name of Christ.
+
+**Tag Resolutions:**
+- {1:i parenti}: the parents (of the infants in the early ages)
+- {2:ai maschi}: the male children (of the Hebrew people)
+- {3:l'innocenti penne}: the male children (specifically referring to their foreskins/skins)
+- {4:Cristo}: Jesus Christ
+
+## Scene 85-87: The Command to Focus on Christ
+In this brief scene, Saint Bernard is giving Dante a final directive to prepare him for the ultimate vision. Bernard instructs Dante to look once more at the face that most closely resembles that of Christ (referring to the Virgin Mary). He explains that the divine clarity emanating from her face is the only thing capable of preparing Dante's spiritual sight for the overwhelming experience of seeing Christ Himself.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `{2:Cristo}`: Jesus Christ
+- `[3:ti]`: Dante
+- `{4:Cristo}`: Jesus Christ
+
+## Scene 88-96: The Celestial Anthem
+In this scene, Dante describes a sudden, overwhelming manifestation of divine joy. He observes a "rain" of happiness descending from the Virgin Mary, carried by the holy souls and angels who populate the heights of the Empyrean. Dante reflects that this experience is more awe-inspiring than anything he has witnessed so far in his journey and provides him with a greater glimpse into the nature of God than any previous sight. Then, a specific embodiment of love—a blessed spirit or angel—descends first, singing the "Ave Maria" (Hail Mary) and spreading its wings in an act of homage before the Virgin.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:lei]`: the Virgin Mary
+- `{3:le menti sante}`: the blessed souls/angels
+- `[4:io]`: Dante
+- `[5:mi]`: Dante
+- `[6:mi]`: Dante
+- `{7:Dio}`: God
+- `{8:quello amor}`: a blessed spirit/angel (personifying love)
+- `{9:Maria}`: the Virgin Mary
+- `[10:lei]`: the Virgin Mary
+- `[11:+elli]`: a blessed spirit/angel (referring back to `{8:quello amor}`)
+
+## Scene 97-99: The Responding Court
+In this scene, the "divine song" (the "Ave Maria" sung by the blessed spirit/angel in the previous scene) is met with a collective response. The entire "blessed court"—the assembly of holy souls and angels inhabiting the Empyrean—responds from all directions. This choral response has a clarifying effect, making the vision even more serene and clear for those watching, particularly for Dante.
+
+**Tag Resolution:**
+- {1:la beata corte}: the blessed souls and angels (the collective assembly of the Empyrean)
+
+## Scene 100-105: A Question of Love
+In this scene, Dante breaks his silence to ask Saint Bernard a specific question about one of the heavenly inhabitants. Dante addresses Saint Bernard with gratitude and reverence, acknowledging that Bernard has stepped down from his own place of eternal bliss to guide Dante. 
+
+Dante's curiosity is piqued by the "blessed spirit/angel" who had just sung the "Ave Maria" (mentioned in the previous scene). He asks Bernard to identify this angel, describing the way the angel gazes into the eyes of the Virgin Mary with such intense, passionate love that the angel appears to be made of fire.
+
+**Tag Resolutions:**
+- {1:santo padre}: Saint Bernard
+- [2:me]: Dante
+- [3:tu]: Saint Bernard
+- {4:quell' angel}: the blessed spirit/angel (the one who sang the "Ave Maria")
+- {5:la nostra regina}: the Virgin Mary
+- [6:+ei]: the blessed spirit/angel (referring back to {4})
+
+## Scene 106-114: Identification of the Angel
+In this scene, Dante turns to Saint Bernard for the answer to the question he posed in the previous scene regarding the identity of the angel who sang the "Ave Maria" and looked upon the Virgin Mary with such passion. 
+
+Dante describes Saint Bernard's role as his teacher, noting that Bernard's own brilliance is derived from Mary (comparing Bernard to the morning star that reflects the light of the sun/Mary). Saint Bernard responds by explaining that the angel in question possesses the maximum amount of boldness and grace possible for any celestial being (whether an angel or a human soul). Bernard explains that this high state is by divine design because this specific angel was the messenger who brought the palm of victory to Mary at the moment of the Incarnation—when the Son of God decided to take on human flesh.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:colui]`: Saint Bernard
+- `{3:Maria}`: Maria (the Virgin Mary)
+- `{4:stella mattutina}`: Saint Bernard
+- `[5:elli]`: Saint Bernard
+- `[6:me]`: Dante
+- `{7:angelo}`: an angel (generic category)
+- `{8:alma}`: a soul (generic category)
+- `[9:lui]`: the blessed spirit/angel (the one who sang the "Ave Maria")
+- `[10:+noi]`: the heavenly host/divine will (God and the blessed)
+- `[11:elli]`: the blessed spirit/angel (the one who sang the "Ave Maria")
+- `[12:quelli]`: the blessed spirit/angel (the one who sang the "Ave Maria")
+- `{13:Maria}`: Maria (the Virgin Mary)
+- `{14:Figliuol di Dio}`: Jesus Christ
+- `[15:si]`: Jesus Christ
+- `{16:salma}`: human flesh (the mortal body assumed by Christ)
+
+## Scene 115-120: The Roots of the Rose
+In this scene, Saint Bernard continues his role as Dante's guide through the Celestial Rose. He instructs Dante to follow his lead with his eyes, promising to explain what they are seeing as he speaks. Bernard directs Dante's attention to the "great patricians" (the highest-ranking souls) of the divine empire. Specifically, he points out two figures who enjoy the greatest bliss because of their extreme proximity to the Virgin Mary (referred to here by the epithet "Agusta"). Bernard describes these two figures as the "roots" of the Rose, signifying their foundational role in the establishment of the Church.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `[2:io]`: Saint Bernard
+- `[3:+io]`: Saint Bernard
+- `[4:+tu]`: Dante
+- `{5:i gran patrici}`: the high-ranking blessed souls (specifically referring to Saint Peter and Saint Paul)
+- `[6:Quei due]`: Saint Peter and Saint Paul
+- `{7:Agusta}`: the Virgin Mary
+- `[8:+elli]`: Saint Peter and Saint Paul
+
+## Scene 121-126: The Patriarchs of the Church
+In this scene, Saint Bernard is identifying the two "roots" of the Celestial Rose he mentioned in the previous scene. He is acting as a guide for Dante, pointing out the two pillars of the early Church who sit closest to the Virgin Mary.
+
+First, Bernard points to the left, identifying the soul there as Saint Paul. He describes him as "the father" who possesses a "bold taste" and who experienced the "bitterness" of the human race (likely referring to Paul's early persecution of Christians and his subsequent intense zeal to save humanity).
+
+Then, Bernard directs Dante’s attention to the right, where he identifies "that ancient father" as Saint Peter. Bernard clarifies Peter's identity by mentioning his role in the "Holy Church" and the specific divine mandate he received: Jesus Christ entrusted him with the keys to the "beautiful flower" (the Celestial Rose, which symbolizes the Church of the blessed).
+
+**Tag Resolutions:**
+- `[1:colui]`: Saint Paul
+- `[2:le]`: the Virgin Mary
+- `{3:il padre}`: Saint Paul
+- `[4:+egli]`: Saint Paul
+- `[5:+tu]`: Dante
+- `{6:quel padre vetusto}`: Saint Peter
+- `{7:Santa Chiesa}`: the Holy Church
+- `{8:Cristo}`: Jesus Christ
+- `{9:questo fior venusto}`: the Celestial Rose (representing the Church)
+
+## Scene 127-132: The Great Biblical Figures
+In this scene, Saint Bernard continues his geographical and theological mapping of the Celestial Rose for Dante. He identifies two more pivotal figures located near the "roots" (Saint Peter and Saint Paul).
+
+First, Bernard describes the position of Jesus Christ. He refers to Christ as the one who witnessed the suffering of humanity ("heavy times") and who, through his death and the instruments of the Passion (the spear and the nails), won the "beautiful bride" (the Church). Bernard notes Christ's specific placement: he is seated far from Saint Paul but beside Saint Peter.
+
+Then, Bernard identifies another figure seated nearby: Moses. He describes Moses as the leader ("that leader") who guided the Israelites—whom Bernard characterizes as ungrateful, fickle, and backward—during their time of eating manna in the desert.
+
+**Tag Resolutions:**
+- [1:quei]: Jesus Christ
+- [2:+egli]: Jesus Christ
+- [3:s']: Jesus Christ
+- [4:+egli]: Jesus Christ
+- [5:esso]: Saint Paul
+- [6:l'altro]: Saint Peter
+- {7:quel duca}: Moses
+- {8:la gente ingrata, mobile e retrosa}: the Israelites
+
+## Scene 133-138: The Matriarchal Counterparts
+In this scene, Saint Bernard continues his guided tour of the Celestial Rose, identifying the female counterparts to the great fathers of the Church. 
+
+First, Bernard points out Saint Anna, who is seated opposite Saint Peter. He describes Anna as being so filled with joy while gazing at her daughter (the Virgin Mary) that she does not move her eyes even as she sings praises (hosannas).
+
+Then, Bernard directs Dante's attention to the soul seated opposite the "greatest father of the family" (Saint Paul). This person is Saint Lucia. Bernard reminds Dante of Lucia's pivotal role in his own salvation: she was the one who prompted Beatrice ("your lady") to intervene and rescue Dante when he was spiraling toward spiritual ruin (symbolized by the lowering of his eyelashes/eyes).
+
+**Tag Resolutions:**
+- {1:Pietro}: Saint Peter
+- [2:+tu]: Dante
+- {3:Anna}: Saint Anna
+- {4:sua figlia}: the Virgin Mary
+- [5:+ella]: Saint Anna
+- {6:maggior padre di famiglia}: Saint Paul
+- {7:Lucia}: Saint Lucia
+- {8:la tua donna}: Beatrice
+- [9:+tu]: Dante
+
+## Scene 139-144: The Final Instruction
+In this final scene of Canto 32, Saint Bernard brings his guided tour of the Celestial Rose to a close. He informs Dante that their time for this specific survey is running out (or that the moment is right to move to the final stage). He tells Dante that they will "make a point" (stop/finish) here. 
+
+To explain this, he uses a simile: just as a skilled tailor makes a garment using the cloth available to him, Bernard and Dante will make the most of the current moment to achieve their purpose. Bernard then instructs Dante to turn his gaze away from the various souls and focus entirely on the "First Love" (God). The goal is for Dante to penetrate as deeply as possible into the divine radiance of God, preparing him for the final, ultimate vision of the *Divina Commedia*.
+
+**Tag Resolutions:**
+- `[1:t']`: Dante
+- `[2:+noi]`: Saint Bernard and Dante
+- `{3:buon sartore}`: a good tailor (a generic figure used in a simile)
+- `[4:elli]`: the good tailor
+- `[5:+noi]`: Saint Bernard and Dante
+- `{6:primo amore}`: God
+- `[7:lui]`: God
+- `[8:+tu]`: Dante
+
+## Scene 145-151: The Call for Grace
+In this scene, Saint Bernard is preparing Dante for the final, overwhelming vision of God. He warns Dante that if he attempts to ascend or reach the divine light by his own strength (metaphorically "moving his wings" and believing he can go beyond his limits), he may recoil in fear or fail. Bernard explains that the only way to succeed is to obtain grace through the intercession of the Virgin Mary, who is the one capable of helping him. He instructs Dante to follow his words with complete devotion and focus. The scene concludes with the Virgin Mary beginning a holy prayer to facilitate this process.
+
+**Tag Resolutions:**
+- `[1:tu]`: Dante
+- `[2:t']`: Dante
+- `[3:quella]`: the Virgin Mary
+- `[4:tu]`: Dante
+- `[5:mi]`: Saint Bernard
+- `[6:+ella]`: the Virgin Mary
+
+# recap
+- Dante and Saint Bernard are in the Empyrean, positioned before the Virgin Mary.
+- Bernard has finished guiding Dante through the ranks of the blessed and is preparing him for the ultimate vision of God.
+- The Virgin Mary begins a prayer to grant Dante the necessary grace to behold the divine light.

@@ -1,0 +1,287 @@
+# Canto 17 — The Ascent through the Ninth Circle and the Doctrine of Love
+
+## Scene 1-12: The Fog Analogy
+In this scene, the narrator (Dante the Poet) pauses the narrative to speak directly to the reader. He uses a vivid analogy to describe the transition from the thick, suffocating gloom of the ninth circle to the dim light of the outside world. 
+
+Dante asks the reader to imagine being in the mountains and getting caught in a fog so thick that they can only see as a mole sees through its skin. He then describes the slow process of that fog thinning, allowing the weak light of the sun to filter through. He tells the reader to use this mental image to understand how he himself began to see the sun again. Finally, the action resumes: Dante walks in step with his guide, Virgil, and emerges from the cloud-like gloom into the pale light of a sun that is already low on the horizon.
+
+**Tag Resolutions:**
+- `[1:+tu]`: the reader
+- `{2:lettor}`: the reader
+- `[3:ti]`: the reader
+- `[4:+tu]`: the reader
+- `[5:io]`: Dante
+- `{6:mio maestro}`: Virgil
+- `[7:+io]`: Dante
+
+## Scene 13-24: The Wandering Imagination
+In this scene, Dante the Poet pauses the narrative to engage in a philosophical and psychological reflection on the nature of the human imagination. He addresses the "imaginativa" (the faculty of imagination) directly, as if it were a person.
+
+He describes a mental state where the imagination becomes so dominant that a person becomes completely oblivious to their external surroundings—even if a thousand trumpets were sounding around them. He questions the source of these internal images: when the physical senses are not providing input, what "moves" the imagination? He wonders if it is the Divine Light (God) or a specific Will that triggers these mental images.
+
+To illustrate this, he mentions a specific image that had entered his mind: a bird that was once a woman transformed as a punishment for her impiety (a classical mythological reference to metamorphosis). He uses this example to explain that his mind was so "restricted" (turned inward) that it was totally closed off to any external sensory information.
+
+**Tag Resolutions:**
+- `{1:imaginativa}`: the Imagination (the personified faculty of the mind)
+- `[2:om]`: man (generic human being)
+- `[3:s']`: man (generic human being)
+- `[4:chi]`: the mover/the cause (the entity or force that triggers the imagination)
+- `[5:te]`: the Imagination
+- `[6:ti]`: the Imagination
+- `[7:lei]`: the impious woman (the mythological figure who was transformed into a bird)
+- `{8:l'uccel}`: the bird (the transformed woman)
+- `[9:si]`: the bird
+
+## Scene 25-30: The Vision of the Crucifix
+In this scene, Dante continues his philosophical digression about the "imaginativa" (the faculty of imagination). He provides a concrete example of an image that appeared in his mind while his external senses were shut off. He describes a vision of a crucifix appearing within his imagination. The figure on the cross (Christ) is described as appearing "scornful and fierce" (*dispettoso e fero*). Surrounding this figure are three people from the biblical Book of Esther: King Ahasuerus, Queen Esther, and the righteous Mordecai.
+
+**Tag Resolutions:**
+- `{1:un crucifisso}`: Jesus Christ (the figure on the crucifix)
+- `[2:cotal]`: Jesus Christ
+- `[3:si]`: Jesus Christ
+- `[4:esso]`: Jesus Christ (or the crucifix)
+- `{5:il grande Assüero}`: Ahasuerus
+- `{6:Estèr}`: Esther
+- `{7:l giusto Mardoceo}`: Mordecai
+
+## Scene 31-39: The Maiden's Lament
+In this scene, Dante the Poet continues to describe the internal workings of his imagination. He describes a transition between two mental images. 
+
+First, the previous vision (the crucifix and the figures from the Book of Esther) dissolves or "pops" like a soap bubble that has lost its water. As that image vanishes, a new one appears: a young maiden who is weeping intensely.
+
+The maiden speaks to a "queen," whom she addresses as her mother. She is lamenting the queen's suicide. The maiden explains that the queen killed herself out of anger and a desire to protect her daughter (Lavinia), but in doing so, the queen actually caused her daughter's ruin. The maiden identifies herself as the one now suffering because of her mother's actions.
+
+Based on the mythology of Virgil's *Aeneid* (which heavily informs Dante's world), the "maiden" is Lavinia and the "queen/mother" is Amata.
+
+**Tag Resolutions:**
+- `{1:questa imagine}`: the previous vision (the crucifix and the figures from the Book of Esther)
+- `[2:sé]`: the previous vision
+- `[3:sé]`: the previous vision
+- `{4:una fanciulla}`: Lavinia (the maiden)
+- `[5:+ella]`: Lavinia
+- `{6:regina}`: Amata (the queen)
+- `[7:+tu]`: Amata
+- `[8:+tu]`: Amata
+- `[9:t']`: Amata
+- `{10:Lavina}`: Lavinia
+- `[11:+tu]`: Amata
+- `[12:m']`: Lavinia
+- `[13:Io]`: Lavinia
+- `[14:essa]`: Lavinia
+- `{15:madre}`: Amata
+
+## Scene 40-45: The Waking Analogy
+In this scene, Dante the Poet concludes his philosophical digression on the internal workings of the imagination by describing the moment he "woke up" from his internal visions.
+
+He uses a final analogy: he compares the disappearance of his mental images to the way sleep is suddenly broken when a new light strikes a closed eyelid, causing the state of sleep to flicker and then vanish. Similarly, the internal images (the crucifix and Lavinia) collapsed and fell away the moment a physical light struck his face. He emphasizes that this light was far more intense than the ordinary light humans experience in their daily lives, signaling his transition out of the depths of Hell.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+
+## Scene 46-54: The Blinding Light
+In this scene, Dante is emerging from his internal state of imagination and attempting to reorient himself to his physical surroundings. He turns around to see where he is, and at that moment, he hears a voice (Virgil's) telling him, "Here one ascends." This voice immediately snaps Dante out of his reverie and makes him eager to see who is speaking. He turns to face the speaker, but he finds that the light is so overwhelming that he cannot see clearly—comparing the experience to trying to look directly at the sun, which is so bright that it blinds the viewer.
+
+**Tag Resolutions:**
+- `[1:I']`: Dante
+- `[2:mi]`: Dante
+- `[3:io]`: Dante
+- `{4:una voce}`: Virgil (his voice)
+- `[5:si]`: one (generic traveler, referring to Dante)
+- `[6:mi]`: Dante
+- `[7:+ella]`: the voice (Virgil)
+- `[8:chi]`: Virgil (the one speaking)
+
+## Scene 55-63: Virgil’s Instruction
+In this scene, Dante is reacting to the voice he heard and the blinding light he is experiencing. He realizes that the voice belongs to Virgil, whom he calls the "divine spirit." 
+
+Dante observes that Virgil is directing them upward without needing to be asked, but he is also hiding himself within his own radiance (the blinding light described in the previous scene). Dante then makes a brief, somewhat cynical analogy: he compares Virgil’s current elusive behavior—hiding himself while guiding them—to the way a stubborn or malicious man behaves when he sees someone in need but refuses to help or remains aloof.
+
+Finally, Dante urges that they act on the invitation to ascend immediately. He insists that they make their climb before the light fades and darkness returns, as they would then be unable to proceed until the next day.
+
+**Tag Resolutions:**
+- `[1:Questo]`: Virgil
+- `{2:divino spirito}`: Virgil
+- `[3:+ei]`: Virgil
+- `[4:sé medesmo]`: Virgil
+- `[5:+ei]`: Virgil
+- `[6:noi]`: Dante and Virgil
+- `{7:uom}`: a generic man
+- `[8:si]`: a generic man
+- `[9:sego]`: a generic man
+- `[10:+ei]`: a generic man
+- `[11:+ei]`: a generic man
+- `[12:si]`: a generic man
+- `[13:+noi]`: Dante and Virgil
+- `[14:+noi]`: Dante and Virgil
+
+## Scene 64-69: The Angelic Greeting
+In this brief but pivotal scene, Dante and Virgil act upon Virgil's previous urgency to ascend. They turn toward a "scala" (a staircase or ladder) that leads out of the Ninth Circle. 
+
+As soon as Dante sets foot on the first step, he experiences a sudden, supernatural sensory event. He feels the fluttering of wings and a breeze against his face, indicating the presence of an angel. The angel speaks a blessing—a variation of the Beatitudes from the Gospel of Matthew—declaring that the peacemakers are blessed because they are free from "evil anger." This greeting serves as a spiritual transition: they are leaving the circle of the ultimate betrayal (the peak of "evil anger" and hatred) and moving toward the realm of Purgatory, where the soul is cleansed of such passions.
+
+**Tag Resolutions:**
+- `{1:il mio duca}`: Virgil
+- `[2:io]`: Dante
+- `[3:lui]`: Virgil
+- `[4:io]`: Dante
+- `[5:+io]`: Dante
+- `[6:mi]`: Dante
+- `[7:ventarmi]`: Dante
+- `{8:pacifici}`: the peacemakers (the blessed souls)
+
+## Scene 70-72: The Visibility of the Stars
+In this brief scene, Dante describes the changing light as he and Virgil begin their ascent. He observes that the last rays of the sun have moved so far beyond them—being followed closely by the personified Night—that the stars are now becoming visible from multiple directions. This transition to starlight is a significant motif in the *Divine Comedy*, usually signaling the end of a descent into darkness and the beginning of a journey toward salvation.
+
+**Tag Resolutions:**
+- `[1:noi]`: Dante and Virgil
+- `{2:la notte}`: Night (personified)
+
+## Scene 73-78: Dante’s Physical Exhaustion
+In this scene, Dante describes the physical toll of the journey. He is exhausted and finds his strength failing him as they complete their ascent. He asks himself why his vitality is vanishing, noting that his legs feel weak and trembling. He and Virgil finally reach the top of the stairs and come to a halt, a moment he compares to a ship finally arriving at the shore.
+
+**Tag Resolutions:**
+- `{1:virtù}`: Dante's strength/vitality
+- `[2:+ella]`: Dante's strength/vitality
+- `[3:ti]`: Dante's strength/vitality
+- `[4:me]`: Dante
+- `[5:+io]`: Dante
+- `[6:mi]`: Dante
+- `[7:Noi]`: Dante and Virgil
+- `[8:+noi]`: Dante and Virgil
+
+## Scene 79-84: Dante’s Inquiry
+In this scene, Dante and Virgil have reached the top of the stairs and come to a halt. Dante pauses for a moment of silence, listening intently to see if he can hear anything from the new region ("the new circle") they have entered. After this brief pause, Dante turns to Virgil and addresses him with a term of deep affection and respect, calling him "sweet father." Dante then asks Virgil to explain what specific sins or offenses are purged in this new realm. He concludes by urging Virgil to speak, noting that since their feet have stopped moving, his speech should now begin.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:io]`: Dante
+- `[3:+io]`: Dante
+- `[4:mi]`: Dante
+- `{5:al maestro mio}`: Virgil
+- `[6:+io]`: Dante
+- `{7:Dolce mio padre}`: Virgil
+- `[8:+tu]`: Virgil
+- `[9:+noi]`: Dante and Virgil
+
+## Scene 85-90: Virgil’s Preface
+In this scene, Virgil begins to answer the question Dante posed at the end of the previous scene regarding the nature of the realm they have just entered (the foothills of Purgatory).
+
+Virgil explains that Purgatory is a place of restoration. He describes it as the place where "the love of the good," which may have been deficient or misdirected in its duty during earthly life, is finally restored. He uses the metaphor of a "belated oar" being rowed back, suggesting that those who were slow to turn toward God or who steered their lives in the wrong direction can now correct their course. To ensure Dante understands this concept more clearly, Virgil tells him to focus his attention on him, promising that doing so will yield "good fruit" from their shared journey and current location.
+
+**Tag Resolutions:**
+- `[1:elli]`: Virgil
+- `[2:me]`: Dante
+- `[3:+tu]`: Dante
+- `[4:+tu]`: Dante
+- `[5:me]`: Virgil
+- `[6:+tu]`: Dante
+
+## Scene 91-105: The Doctrine of Love
+In this scene, Virgil provides a fundamental philosophical lesson on the nature of love, which serves as the psychological and moral framework for the entire *Divine Comedy*.
+
+Virgil explains to Dante that every action—whether performed by God (the Creator) or by any created being—is motivated by love. He distinguishes between two types of love: "natural love" (which is instinctive and always correct) and the "love of the soul" (the will). He argues that while natural love never errs, the love of the soul can lead to sin if it is directed toward a "bad object" or if it is exercised with too much or too little intensity (vigor). 
+
+When love is properly directed toward the "First Good" (God) or is balanced in its pursuit of secondary goods, it produces virtue. However, when love is distorted or misdirected, it acts against the design of the "Maker" (God), thereby becoming the source of every sin that deserves punishment. Virgil concludes that love is the essential "seed" of both all virtue and all vice.
+
+**Tag Resolutions:**
+- `{1:creator}`: God
+- `{2:creatura}`: any created being (humans, angels, etc.)
+- `[3:el]`: Virgil
+- `{4:figliuol}`: Dante
+- `[5:+elli]`: love (the motivating force)
+- `[6:tu]`: Dante
+- `[7:+elli]`: love (specifically the love of the soul/will)
+- `[8:+elli]`: love
+- `[9:+elli]`: love
+- `[10:+elli]`: love
+- `{11:l fattore}`: God (the Maker)
+- `[12:+tu]`: Dante
+- `[13:voi]`: human beings (in general, including Dante)
+
+## Scene 106-114: The Connection to Hate and the Three Modes
+In this scene, Virgil continues his philosophical lecture on the nature of love, transitioning from the definition of love to the origin of hate and the specific ways humans misdirect their affection.
+
+Virgil explains that since the soul's inherent nature (the "love of the subject") is always oriented toward salvation and the Good, anything that opposes that salvation is perceived as "hateful." He argues that because no created being can be truly separate from its source (the "First" or God) and still be "itself," any entity that chooses to isolate itself from God effectively creates a state of hatred. In Virgil's logic, hate is not an independent force but a distortion or a "turning away" from the primary love of the Creator.
+
+Finally, Virgil summarizes his reasoning. He states that if his calculations are correct, the "evil" that humans mistakenly love is typically associated with their "neighbor" (other human beings). He concludes by telling Dante that this distorted form of love arises in three distinct ways within the "limo" (the clay/material nature) of human beings. This sets the stage for Virgil to explain the three categories of sin that Purgatory is designed to purge.
+
+**Tag Resolutions:**
+- `{1:amor del suo subietto}`: the love of the created being (the soul)
+- `[2:si]`: one (a generic person/the intellect)
+- `[3:sé]`: any created being
+- `{4:alcuno esser}`: any created being
+- `{5:dal primo}`: God (the First Cause)
+- `[6:quello]`: God
+- `[7:+io]`: Virgil
+- `[8:s']`: one (a generic human being)
+- `{9:del prossimo}`: the neighbor (other human beings)
+
+## Scene 115-123: The First Mode of Sinful Love
+In this scene, Virgil is continuing his philosophical lecture to Dante about the misdirection of love. Having established that sin arises when love is directed toward the wrong object or with the wrong intensity, Virgil now describes the first of the three "modes" of distorted love.
+
+This first mode concerns the "love of the neighbor" (or rather, the distortion of it) through the lens of Pride, Envy, and Wrath. Virgil describes three types of people:
+1. The person who desires excellence only by ensuring their neighbor is suppressed and kept lower than them.
+2. The person who fears losing their own status, honor, or fame because others might surpass them, leading them to feel sadness and eventually to "love" the misfortune of others (Envy).
+3. The person who, feeling injured or offended, becomes consumed by a hunger for revenge and seeks to inflict harm upon others (Wrath).
+
+Essentially, Virgil is explaining that when the soul's love is focused on its own ego rather than the "First Good" (God) or the genuine well-being of others, it manifests as these destructive passions.
+
+**Tag Resolutions:**
+- `[1:chi]`: a person (a generic human being driven by pride/envy)
+- `{2:vicin}`: the neighbor (another human being)
+- `[3:el]`: the neighbor
+- `[4:chi]`: a person (a generic human being driven by pride/envy)
+- `[5:+ei]`: a person (a generic human being driven by pride/envy)
+- `[6:s']`: a person (a generic human being driven by pride/envy)
+- `[7:+ei]`: a person (a generic human being driven by pride/envy)
+- `[8:chi]`: a person (a generic human being driven by wrath)
+- `[9:+ei]`: a person (a generic human being driven by wrath)
+- `[10:+ei]`: a person (a generic human being driven by wrath)
+- `[11:si]`: a person (a generic human being driven by wrath)
+- `[12:tal]`: a person (a generic human being driven by wrath)
+- `[13:+ei]`: a person (a generic human being driven by wrath)
+
+## Scene 124-132: The Second Mode of Sinful Love
+In this scene, Virgil continues his philosophical lecture on the nature of sinful love. He begins by wrapping up his explanation of the first mode of sin (Pride, Envy, and Wrath), which he summarizes as a "three-fold love" (*triforme amor*). He notes that those who were driven by these passions are now weeping in the lower reaches of Purgatory.
+
+Virgil then directs Dante’s attention to the second mode of sinful love. He explains that this second distortion occurs when a person pursues a "good" (*ben*), but does so in a "corrupted order" (*ordine corrotto*). Virgil explains a general truth of human nature: every person instinctively seeks a "good" that will bring peace to their soul, and they strive to attain it. 
+
+The sin occurs in the *manner* of this pursuit. If the love for that good is "slow" (*lento amore*)—meaning the person is sluggish, indifferent, or lacks the necessary vigor (which corresponds to the sin of Sloth or Acedia)—they are punished on this specific terrace (*cornice*) of Purgatory after they have undergone righteous repentance.
+
+**Tag Resolutions:**
+- `{1:triforme amor}`: the three-fold love (the combination of Pride, Envy, and Wrath)
+- `[2:+ei]`: the three-fold love
+- `[3:si]`: the souls who succumbed to the three-fold love
+- `[4:+io]`: Virgil
+- `[5:tu]`: Dante
+- `[6:l'altro]`: the second mode of sinful love
+- `[7:+ei]`: a generic human being (`ciascun`)
+- `{8:lento amore}`: slow love (the distortion of love characterized by Sloth)
+- `[9:vi]`: a person driven by slow love
+- `[10:ve]`: the souls who sinned through slow love
+
+## Scene 133-139: The Third Mode and Conclusion
+In this final scene of Canto 17, Virgil completes his philosophical lecture on the three modes of sinful love. He describes the third and final distortion: the love of "false goods."
+
+Virgil explains that there are certain things that humans perceive as "goods" but which do not actually lead to true happiness or the "good essence" (God), which is the source and goal of all genuine good. He explains that when the soul's love abandons itself too excessively to these false goods, it results in sin. 
+
+He informs Dante that the souls who were driven by this specific misdirection of love are punished on three separate terraces (circles) located above their current position. These three terraces correspond to Gluttony, Avarice, and Prodigality. Virgil concludes by stating that he is summarizing these points now so that Dante can discover the specifics for himself as they continue their ascent through Purgatory.
+
+**Tag Resolutions:**
+- `{1:l}'uom`: a generic human being
+- `{2:L}'amor`: the love of false goods
+- `[3:esso]`: the false good
+- `[4:s']`: the love of false goods
+- `[5:noi]`: Dante and Virgil
+- `[6:+ei]`: the love of false goods (or the souls driven by it)
+- `[7:si]`: the love of false goods (or the souls driven by it)
+- `[8:+ei]`: the love of false goods
+- `[9:si]`: the love of false goods
+- `[10:+io]`: Virgil
+- `[11:tu]`: Dante
+- `[12:te]`: Dante
+
+# recap
+- Dante and Virgil have ascended from the Ninth Circle and are now at the base of Purgatory.
+- Virgil has just finished explaining the "Doctrine of Love," outlining how misdirected love leads to the three categories of sin purged in this realm.
+- The two are prepared to continue their ascent and explore the terraces of Purgatory.

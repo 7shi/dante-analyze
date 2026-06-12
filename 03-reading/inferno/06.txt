@@ -1,0 +1,324 @@
+# Canto 06 — The Third Circle: The Gluttons and the Prophecy of Florence
+
+## Scene 1-6: Dante's Reflection
+In this short opening scene, Dante is regaining consciousness after fainting from extreme emotional distress. He reflects on the cause of his collapse—the pity he felt for the souls of the two lovers he just encountered—and describes the sensation of waking up and observing his new surroundings. There is no dialogue; it is a narrative internal reflection.
+
+**Action Summary:**
+Dante awakens from his faint. As his mind returns, he realizes he has moved (or the scene has shifted) and finds himself surrounded by a new set of punishments and suffering souls. He describes the physical process of coming to: moving his body, turning his head, and looking around to understand where he is.
+
+**Tag Resolutions:**
+- `{1:i due cognati}`: Francesca and Paolo (the two cousins/in-laws from Canto 5).
+- `[2:mi]`: Dante.
+- `{3:novi tormentati}`: The souls of the gluttons in the Third Circle.
+- `[4:+io]`: Dante.
+- `[5:mi]`: Dante.
+- `[6:io]`: Dante.
+- `[7:mi]`: Dante.
+- `[8:io]`: Dante.
+- `[9:mi]`: Dante.
+- `[10:io]`: Dante.
+
+## Scene 7-12: The Environment of the Third Circle
+**Plain English Analysis**
+
+**Action Summary:**
+In this short passage, Dante describes the miserable environment of the Third Circle. There is no dialogue or interaction; it is a sensory description of the punishment. Dante observes that the circle is characterized by a perpetual, cursed rain that is cold and heavy. He notes that the conditions never change ("never new"): a mixture of large hail, muddy water, and snow falls through the dark air, turning the ground into a putrid, stinking slush.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the narrator/pilgrim).
+
+## Scene 13-18: The Appearance of Cerberus
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Dante describes the terrifying guardian of the Third Circle: Cerberus. The three-headed beast barks ferociously over the souls of the gluttons who are lying submerged in the filth. Dante provides a vivid physical description of the monster, noting its red eyes, greasy black beard, wide belly, and clawed hands. Cerberus is actively tormenting the souls, scratching, flaying, and tearing them apart.
+
+**Tag Resolutions:**
+- `{1:la gente}`: The souls of the gluttons in the Third Circle.
+- `[2:+ei]`: Cerberus.
+- `[3:+ei]`: Cerberus.
+- `{4:li spirti}`: The souls of the gluttons in the Third Circle.
+- `[5:+ei]`: Cerberus.
+- `[6:+ei]`: Cerberus.
+
+## Scene 19-21: The Souls' Struggle
+**Plain English Analysis**
+
+**Action Summary:**
+In this brief passage, Dante describes the reaction of the gluttons to their environment. The relentless, freezing rain causes the souls to howl in pain and misery, comparing their cries to those of dogs. In a futile attempt to find some relief or comfort, the souls try to shield one another from the falling sleet and hail, frequently tossing and turning in the putrid mud.
+
+**Tag Resolutions:**
+- `[1:li]`: The souls of the gluttons in the Third Circle.
+- `[2:+elli]`: The souls of the gluttons in the Third Circle.
+- `{3:i miseri profani}`: The souls of the gluttons in the Third Circle (described here as "the wretched profanes").
+
+## Scene 22-27: Virgil's Intervention
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, the monster Cerberus notices the presence of the two travelers. The beast reacts with immediate aggression, opening its multiple mouths to show its tusks and shaking violently with rage. To protect Dante and neutralize the threat, Virgil (the guide) takes action: he scoops up the foul mud and filth of the Third Circle with both hands and hurls it into the gaping, eager mouths of the beast to silence and distract it.
+
+**Tag Resolutions:**
+- `[1:ci]`: Dante and Virgil.
+- `{2:'l duca mio}`: Virgil.
+- `[3:+ei]`: Virgil.
+- `[4:+ei]`: Virgil.
+
+## Scene 28-33: The Feeding Simile
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Dante uses a simile to explain the sudden change in Cerberus's behavior. He compares the monster to a hungry dog that barks incessantly in longing, only to become quiet once it finally bites into food, focusing all its energy on devouring the meal. This comparison illustrates how Cerberus was silenced after Virgil threw the mud into its mouths. Dante then returns to the reality of the Third Circle, describing how the thunderous barking of the demon Cerberus is so overwhelming that the tormented souls wish they were deaf.
+
+**Tag Resolutions:**
+- `{1:quel cane}`: A dog (used in the simile).
+- `[2:+egli]`: The dog (in the simile).
+- `[3:si]`: The dog (in the simile).
+- `[4:+egli]`: The dog (in the simile).
+- `{5:l pasto}`: The food (which, in the context of the action, is the mud Virgil threw).
+- `[6:divorarlo]`: The food (the mud).
+- `[7:+egli]`: The dog (in the simile).
+- `[8:+egli]`: The dog (in the simile).
+- `{9:lo demonio Cerbero}`: Cerberus.
+- `{10:l'anime}`: The souls of the gluttons.
+- `[11:+elli]`: The souls of the gluttons.
+
+## Scene 34-39: The Rising Soul
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Dante and Virgil continue their journey through the Third Circle. As they walk, they move directly over the souls of the gluttons, who are lying flat in the mud under the heavy rain. Because the souls are incorporeal "shadows" (described as "vanities"), the travelers are able to step on them. While almost all the souls remain prone and miserable, one specific soul notices Dante and Virgil passing by and quickly pushes itself up into a sitting position to address them.
+
+**Tag Resolutions:**
+- `[1:Noi]`: Dante and Virgil.
+- `{2:l'ombre}`: The souls of the gluttons in the Third Circle.
+- `[3:+noi]`: Dante and Virgil.
+- `{4:persona}`: A soul/shadow of a glutton (referring to the illusory, human-like appearance of their incorporeal form).
+- `[5:Elle]`: The souls of the gluttons in the Third Circle.
+- `[6:una]`: A specific soul among the gluttons (who will soon be identified as Ciacco).
+- `[7:si]`: The specific soul of a glutton.
+- `[8:ella]`: The specific soul of a glutton.
+- `[9:ci]`: Dante and Virgil.
+
+## Scene 40-42: The Soul's Greeting
+**Plain English Analysis**
+
+**Action Summary:**
+In this brief scene, the soul who has sat up addresses Dante directly. The soul acknowledges that Dante is a living being currently being guided through Hell. He asks Dante to try to recognize him and points out the fundamental difference between their current states: Dante is "made" (alive/born), whereas the soul was "undone" (died) before Dante was even born.
+
+**Tag Resolutions:**
+- `[1:tu]`: Dante.
+- `[2:+ei]`: The specific soul of a glutton (who will be identified as Ciacco).
+- `[3:mi]`: Dante.
+- `[4:+tu]`: Dante.
+- `[5:+tu]`: Dante.
+- `[6:tu]`: Dante.
+- `[7:io]`: The specific soul of a glutton (Ciacco).
+
+## Scene 43-48: Dante's Reply
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Dante responds to the soul who has just spoken to him. Dante admits that he does not recognize the soul, explaining that the extreme anguish and suffering the soul endures have likely distorted its appearance, making it unrecognizable. Dante then asks the soul to identify himself and to explain why he has been placed in such a miserable location and subjected to such a severe punishment—a punishment that Dante remarks is so unpleasant that it would be difficult to imagine anything worse.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante.
+- `[2:lui]`: The specific soul of a glutton (who will be identified as Ciacco).
+- `[3:tu]`: The specific soul of a glutton.
+- `[4:ti]`: The specific soul of a glutton.
+- `[5:i']`: Dante.
+- `[6:ti]`: The specific soul of a glutton.
+- `[7:+tu]`: The specific soul of a glutton.
+- `[8:chi]`: The specific soul of a glutton.
+- `[9:tu]`: The specific soul of a glutton.
+- `[10:+tu]`: The specific soul of a glutton.
+
+## Scene 49-57: Ciacco's Identification
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, the soul finally identifies himself to Dante. He begins by mentioning Dante's home city, Florence, describing it as a place so filled with envy that it overflows. He explains that he lived among the Florentines, who gave him the nickname "Ciacco" (which means "hog" or "glutton"). He confesses that he is being punished here for the sin of gluttony, and notes that the relentless rain has left him exhausted and weak. He concludes by pointing out that he is not alone; all the other souls surrounding them in the Third Circle are suffering the same punishment for the same sin. After this explanation, he falls silent.
+
+**Tag Resolutions:**
+- `[1:elli]`: The soul of a glutton (now identified as Ciacco).
+- `[2:me]`: Dante.
+- `[3:+elli]`: The citizens of Florence.
+- `[4:seco]`: The citizens of Florence.
+- `[5:mi]`: Ciacco.
+- `[6:Voi]`: The citizens of Florence.
+- `{7:cittadini}`: The citizens of Florence.
+- `[8:mi]`: Ciacco.
+- `{9:Ciacco}`: Ciacco.
+- `[10:tu]`: Dante.
+- `[11:+io]`: Ciacco.
+- `[12:mi]`: Ciacco.
+- `[13:io]`: Ciacco.
+- `{14:anima trista}`: Ciacco.
+- `[15:tutte queste]`: The other souls of the gluttons in the Third Circle.
+- `[16:+elli]`: Ciacco.
+
+## Scene 58-63: The Inquiry about Florence
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Dante responds to Ciacco. He begins by expressing deep empathy, telling Ciacco that the sight of his suffering weighs heavily on him and moves him to tears. However, Dante then shifts the conversation toward his concern for his hometown. He asks Ciacco for a prophecy regarding the future of the "divided city" (Florence), inquiring whether there are any just citizens left and asking for the cause of the intense civil strife and discord that has overtaken the city.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante.
+- `[2:li]`: Ciacco.
+- `{3:Ciacco}`: Ciacco.
+- `[4:mi]`: Dante.
+- `[5:mi]`: Dante.
+- `[6:+tu]`: Ciacco.
+- `[7:tu]`: Ciacco.
+- `{8:li cittadin}`: The citizens of Florence.
+- `[9:+tu]`: Ciacco.
+
+## Scene 64-75: The Prophecy of Discord
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Ciacco answers Dante's questions about the political turmoil in Florence. He provides a bleak prophecy of the city's future, predicting a cycle of violence and instability. He explains that after long disputes, the citizens will resort to bloodshed, and a "wild party" (a faction) will violently drive out its opponents. However, this victorious party will eventually split into three factions, allowing the exiled party to return and seize power through force. This returning party will then maintain dominance for a long time, keeping their opponents suppressed and miserable. Finally, Ciacco answers Dante's specific question about whether any just men remain in Florence, stating that there are only two, and they are ignored by the rest of the city. He concludes by identifying the three "sparks" fueling the city's hatred: pride, envy, and avarice.
+
+**Tag Resolutions:**
+- `[1:quelli]`: Ciacco.
+- `[2:me]`: Dante.
+- `[3:+elli]`: The citizens of Florence.
+- `{4:la parte selvaggia}`: The "wild party" (a faction of Florentine citizens).
+- `[5:+ella]`: The wild party.
+- `[6:l'altra]`: The opposing party/faction of Florentine citizens.
+- `[7:questa]`: The wild party.
+- `[8:l'altra]`: The opposing party/faction.
+- `[9:tal]`: The opposing party/faction.
+- `[10:+ella]`: The opposing party/faction (now the dominant one).
+- `[11:l'altra]`: The wild party (now the defeated one).
+- `[12:+ella]`: The wild party.
+- `[13:+ella]`: The wild party.
+- `[14:+elli]`: The just citizens of Florence.
+
+## Scene 76-84: Dante's Second Inquiry
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Ciacco finishes speaking his prophecy about the fate of Florence. Dante then addresses Ciacco once more, asking him for further information. Specifically, Dante provides a list of several prominent Florentine citizens—Farinata, Tegghiaio, Iacopo Rusticucci, Arrigo, and Mosca, as well as others who worked for the good of the city. Dante asks Ciacco to tell him where these individuals are and to help him recognize them. He explains that he has a strong desire to know whether these people were granted mercy in Heaven or if they are suffering in Hell.
+
+**Tag Resolutions:**
+- `[1:+elli]`: Ciacco.
+- `[2:io]`: Dante.
+- `[3:lui]`: Ciacco.
+- `[4:+io]`: Dante.
+- `[5:+tu]`: Ciacco.
+- `[6:mi]`: Dante.
+- `[7:+tu]`: Ciacco.
+- `[8:mi]`: Dante.
+- `{9:Farinata}`: Farinata degli Uberti (a prominent Ghibelline leader).
+- `{10:l Tegghiaio}`: Tegghiaio degli Uberti (Farinata's father).
+- `{11:Iacopo Rusticucci}`: Jacopo Rusticucci.
+- `{12:Arrigo}`: Arrigo (likely Arrigo degli Uberti).
+- `{13:l Mosca}`: Mosca (likely Mosca dei Pisani).
+- `{14:li altri}`: Other Florentines who worked for the city's benefit.
+- `[15:+tu]`: Ciacco.
+- `[16:+elli]`: The group of Florentines mentioned (Farinata, Tegghiaio, etc.).
+- `[17:+tu]`: Ciacco.
+- `[18:io]`: Dante.
+- `[19:li]`: The group of Florentines mentioned (Farinata, Tegghiaio, etc.).
+- `[20:mi]`: Dante.
+- `[21:li]`: The group of Florentines mentioned (Farinata, Tegghiaio, etc.).
+- `[22:li]`: The group of Florentines mentioned (Farinata, Tegghiaio, etc.).
+
+## Scene 85-90: Ciacco's Reply
+**Plain English Analysis**
+
+**Action Summary:**
+In this concluding scene of the conversation, Ciacco responds to Dante's inquiry about the fate of the prominent Florentine citizens (Farinata, Tegghiaio, etc.). Ciacco informs Dante that these individuals are located much deeper in Hell, among the most evil ("blackest") souls, where their various sins weigh them down to the lower depths. He tells Dante that if he continues his descent far enough, he will be able to see them there. Before ending the conversation, Ciacco makes a personal request: he asks Dante, upon returning to the world of the living ("the sweet world"), to remember him and speak of him to others. Ciacco then abruptly cuts off the dialogue, stating that he has nothing more to say or answer.
+
+**Tag Resolutions:**
+- `[1:quelli]`: Ciacco.
+- `[2:Ei]`: The group of Florentines mentioned by Dante (Farinata, Tegghiaio, Iacopo Rusticucci, Arrigo, and Mosca).
+- `{3:anime}`: The souls in Hell (specifically those in the lower, more severe circles).
+- `[4:li]`: The group of Florentines mentioned by Dante.
+- `[5:+tu]`: Dante.
+- `[6:+tu]`: Dante.
+- `[7:i]`: The group of Florentines mentioned by Dante.
+- `[8:tu]`: Dante.
+- `[9:+io]`: Ciacco.
+- `[10:+tu]`: Dante.
+- `[11:mi]`: Ciacco.
+- `[12:+io]`: Ciacco.
+- `[13:ti]`: Dante.
+- `[14:+io]`: Ciacco.
+- `[15:ti]`: Dante.
+
+## Scene 91-93: The Soul's Descent
+**Plain English Analysis**
+
+**Action Summary:**
+In this final brief scene of the encounter, Ciacco ends the conversation and returns to his state of suffering. He shifts his gaze, looking at Dante one last time, and then bows his head. He sinks back down into the mud, returning to the same prone and miserable position as the other gluttons surrounding him.
+
+**Tag Resolutions:**
+- `[1:+elli]`: Ciacco.
+- `[2:+elli]`: Ciacco.
+- `[3:+elli]`: Ciacco.
+- `[4:+elli]`: Ciacco.
+- `{5:li altri ciechi}`: The other souls of the gluttons in the Third Circle (described here as "the other blind ones").
+
+## Scene 94-99: The Prophecy of Judgment
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Virgil speaks to Dante to explain the state of the souls in Hell, specifically addressing why Ciacco has fallen silent and sunk back into the mud. Virgil explains that Ciacco will not "wake up" or rise again until the Day of Judgment. He describes the events of the Last Judgment: the sounding of the angelic trumpet and the arrival of the "enemy power" (the divine authority of Judgment). Virgil notes that at that time, every soul will be reunited with their physical body and will hear the eternal sentence that will echo forever.
+
+**Tag Resolutions:**
+- `{1:l duca}`: Virgil.
+- `[2:me]`: Dante.
+- `[3:+ei]`: Ciacco (the soul who just sank back into the mud).
+- `[4:si]`: Ciacco.
+- `{5:la nimica podesta}`: The Day of Judgment (or the divine power of the final reckoning).
+- `[6:+ei]`: Every soul in Hell (the dead).
+- `[7:+ei]`: Every soul in Hell (the dead).
+
+## Scene 100-105: The Question of Intensity
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Dante and Virgil continue their progress through the Third Circle, walking slowly through the disgusting mixture of freezing rain and the incorporeal souls of the gluttons. Dante reflects that by experiencing this, he is getting a foretaste of the afterlife ("the future life"). This leads Dante to ask Virgil a theological question: he wants to know if the intensity of these punishments will change after the Day of Judgment (the "great sentence"). Specifically, he asks if the torments will increase, decrease, or remain as searing as they are currently.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante and Virgil.
+- `{2:l'ombre}`: The souls of the gluttons in the Third Circle.
+- `[3:io]`: Dante.
+- `{4:Maestro}`: Virgil.
+- `[5:+elli]`: The torments/punishments of the Third Circle.
+- `[6:+elli]`: The torments/punishments of the Third Circle.
+
+## Scene 106-111: The Principle of Suffering
+**Plain English Analysis**
+
+**Action Summary:**
+In this scene, Virgil responds to Dante's question about whether the intensity of the punishments in Hell will change after the Day of Judgment. Virgil tells Dante to recall his own knowledge and learning, explaining a philosophical principle: the more "perfect" or complete a being is, the more intensely it experiences both pleasure and pain. Virgil explains that although the damned souls will never reach "true perfection" (spiritual holiness), the reunification of the soul with the body at the Last Judgment will make them more "complete" than they are in their current incorporeal state. Consequently, Virgil concludes that the suffering of the damned is expected to be even more intense after the Judgment than it is currently.
+
+**Tag Resolutions:**
+- `[1:elli]`: Virgil.
+- `[2:me]`: Dante.
+- `[3:+tu]`: Dante.
+- `{4:questa gente maladetta}`: The damned souls in Hell (specifically those in the Third Circle/the gluttons).
+- `[5:+ella]`: The damned souls in Hell (referring back to "questa gente maladetta").
+
+## Scene 112-115: Arrival at Pluto
+**Plain English Analysis**
+
+**Action Summary:**
+In this brief scene, Dante and Virgil complete their circuit of the Third Circle. Dante notes that they spent a significant amount of time talking during this walk, though he chooses not to disclose the contents of their conversation to the reader. As they reach the point where the terrain slopes downward to the next level of Hell, they encounter Pluto, whom Dante identifies as "the great enemy."
+
+**Tag Resolutions:**
+- `[1:Noi]`: Dante and Virgil.
+- `[2:i']`: Dante.
+- `[3:+noi]`: Dante and Virgil.
+- `[4:+noi]`: Dante and Virgil.
+- `{5:Pluto}`: Pluto.
+- `{6:il gran nemico}`: Pluto.
+
+# recap
+- Dante and Virgil are traveling together.
+- They have completed their journey through the Third Circle and are descending to the next level of Hell.
+- They have just encountered Pluto, "the great enemy."

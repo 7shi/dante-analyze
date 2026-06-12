@@ -1,0 +1,284 @@
+# Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
+
+## Scene 1-12: The Appearance of the Wounded Souls
+**Scene Analysis**
+
+In this opening passage of Canto 16, Dante and Virgil are moving through the Seventh Circle of Hell. Dante describes the auditory landscape first—the roar of water falling into the next region, which he compares to the humming of bees. As they move, three spirits separate themselves from a larger crowd of condemned souls who are being tormented by a rain of fire. These three souls approach Dante and Virgil, calling out to Dante because his clothing suggests he is from their own "wicked land" (Florence). Dante is struck with pity and horror at the sight of the burns on their bodies, noting that the memory of these wounds still causes him pain.
+
+**Tag Resolutions**
+
+*   `[1:+io]`: Dante
+*   `{2:tre ombre}`: Three Florentine souls
+*   `[3:si]`: Three Florentine souls
+*   `{4:una torma}`: A crowd of condemned souls (in the Seventh Circle)
+*   `[5:+elli]`: Three Florentine souls
+*   `[6:noi]`: Dante and Virgil
+*   `[7:tu]`: Dante
+*   `[8:+tu]`: Dante
+*   `[9:+io]`: Dante
+*   `[10:i']`: Dante
+*   `[11:me]`: Dante
+
+## Scene 13-18: Virgil's Instruction
+In this scene, the three Florentine souls have called out to Dante. Virgil, hearing their cries, pauses and turns to Dante to give him a brief lesson in etiquette and a wry observation about their situation.
+
+Virgil tells Dante to wait, explaining that it is only proper to be courteous to these spirits. He then makes a joke regarding their urgency: he remarks that if it weren't for the raining fire (which makes the souls desperate for any distraction or companionship), he would say that Dante (the living man) should be the one in more of a hurry to get away from this place than the condemned souls are to speak to him.
+
+**Tag Resolutions**
+* `{1:il mio dottor}`: Virgil
+* `[2:s']`: Virgil
+* `[3:+ei]`: Virgil
+* `[4:me]`: Dante
+* `[5:+tu]`: Dante
+* `[6:+ei]`: Virgil
+* `[7:costor]`: Three Florentine souls
+* `[8:i']`: Virgil
+* `[9:te]`: Dante
+* `[10:lor]`: Three Florentine souls
+
+## Scene 19-27: The Rotation of the Three
+**Scene Analysis**
+
+In this scene, Virgil resumes his progress after the brief pause to instruct Dante. As they continue, the three Florentine souls reach them. The souls form a circle around Dante and Virgil, rotating around them. Dante uses a vivid simile to describe this motion, comparing the three spirits to ancient gladiators (*i campion*) who, naked and oiled, circle their opponents to study their weaknesses and find an advantage before the combat begins. As the souls rotate, each one keeps their eyes fixed steadily on Dante, which creates a strange visual effect: while their feet move in one direction, their necks turn in the opposite direction to maintain eye contact with the living poet.
+
+**Tag Resolutions**
+
+* `[1:noi]`: Dante and Virgil
+* `[2:ei]`: Virgil
+* `[3:noi]`: Dante and Virgil
+* `[4:+elli]`: Three Florentine souls
+* `[5:+elli]`: Three Florentine souls
+* `[6:sé]`: Three Florentine souls
+* `{7:i campion}`: Champions (gladiators/wrestlers)
+* `[8:+elli]`: Champions (gladiators/wrestlers)
+* `[9:lor]`: Champions (gladiators/wrestlers)
+* `[10:me]`: Dante
+
+## Scene 28-45: The Identification of the Souls
+In this scene, one of the three Florentine souls takes the lead and speaks to Dante. He begins by acknowledging their wretched state—their scorched, dark appearances—and hopes that their reputations (their "fame") will persuade Dante to reveal who he is, noting the curiosity of seeing a living person walking so confidently through Hell.
+
+The speaker then introduces his two companions. First, he points to the soul whose footprints he is currently treading, identifying him as Guido Guerra, a man of high rank and a grandson of the well-known Gualdrada, who was distinguished both in wisdom and in war. Next, he introduces the second companion, Tegghiaio Aldobrandi, noting that Tegghiaio's voice was (or should have been) well-regarded in the world above. Finally, the speaker identifies himself as Iacopo Rusticucci, adding a personal complaint that his "fierce wife" causes him more suffering than anything else.
+
+**Tag Resolutions**
+
+* `[1:noi]`: Three Florentine souls
+* `[2:l'uno]`: Iacopo Rusticucci (the speaker)
+* `[3:chi]`: Dante
+* `[4:tu]`: Dante
+* `[5:+tu]`: Dante
+* `[6:Questi]`: Guido Guerra
+* `[7:mi]`: Iacopo Rusticucci
+* `[8:+tu]`: Dante
+* `[9:+ei]`: Guido Guerra
+* `[10:tu]`: Dante
+* `[11:+ei]`: Guido Guerra
+* `{12:la buona Gualdrada}`: Gualdrada
+* `{13:Guido Guerra}`: Guido Guerra
+* `[14:+ei]`: Guido Guerra
+* `[15:L'altro]`: Tegghiaio Aldobrandi
+* `[16:me]`: Iacopo Rusticucci
+* `[17:+ei]`: Tegghiaio Aldobrandi
+* `{18:Tegghiaio Aldobrandi}`: Tegghiaio Aldobrandi
+* `[19:io]`: Iacopo Rusticucci
+* `[20:loro]`: Guido Guerra and Tegghiaio Aldobrandi
+* `{21:Iacopo Rusticucci}`: Iacopo Rusticucci
+* `[22:+io]`: Iacopo Rusticucci
+* `{23:la fiera moglie}`: Iacopo Rusticucci's wife
+* `[24:mi]`: Iacopo Rusticucci
+
+## Scene 46-51: Dante's Hesitation
+In this scene, Dante is reacting internally to the appeal of the three Florentine souls (Guido Guerra, Tegghiaio Aldobrandi, and Iacopo Rusticucci). He expresses a deep, instinctive desire to embrace his fellow citizens, but this impulse is countered by the visceral horror of their punishment—the rain of fire. 
+
+Dante muses on a hypothetical: if he were already a condemned spirit "covered by fire," he would have been cast down among them, and he believes that Virgil (his guide/teacher) would have permitted or endured this. However, because he is a living man, the reality of being "burned and cooked" outweighs his affection. Ultimately, fear wins over his "good will," preventing him from stepping closer to embrace them.
+
+**Tag Resolutions**
+* `[1:i']`: Dante
+* `[2:+io]`: Dante
+* `[3:mi]`: Dante
+* `[4:lor]`: Three Florentine souls
+* `[5:+io]`: Dante
+* `{6:l dottor}`: Virgil
+* `[7:l']`: Virgil
+* `[8:io]`: Dante
+* `[9:mi]`: Dante
+* `[10:loro]`: Three Florentine souls
+* `[11:mi]`: Dante
+
+## Scene 52-63: Dante's Response
+In this scene, Dante finally speaks to the three Florentine souls (Guido Guerra, Tegghiaio Aldobrandi, and Iacopo Rusticucci) after his moment of hesitation. He clarifies that his delay in responding was not due to disdain or lack of respect, but rather because he was overwhelmed with pity and sorrow at the sight of their scorched condition. 
+
+Dante admits that Virgil's previous words had tipped him off that he was about to encounter people of their kind. He confirms that he is indeed from their homeland (Florence) and expresses his long-standing admiration for their deeds and their honored names. Finally, he explains his current situation: he is on a journey away from the "gall" (the bitterness of Hell) toward the "sweet fruits" (Paradise) promised to him by his guide, Virgil, though he acknowledges that he must first descend to the very center of Hell before he can exit.
+
+**Tag Resolutions**
+* `[1:+io]`: Dante
+* `[2:mi]`: Dante
+* `{3:questo mio segnor}`: Virgil
+* `[4:mi]`: Dante
+* `[5:i']`: Dante
+* `[6:mi]`: Dante
+* `[7:voi]`: Three Florentine souls
+* `[8:+io]`: Dante
+* `[9:voi]`: Three Florentine souls
+* `[10:+io]`: Dante
+* `[11:+io]`: Dante
+* `[12:+io]`: Dante
+* `[13:+io]`: Dante
+* `[14:me]`: Dante
+* `{15:lo verace duca}`: Virgil
+* `[16:i']`: Dante
+
+## Scene 64-72: The Souls' Inquiry
+In this scene, the speaker among the three Florentine souls (likely Iacopo Rusticucci, who has been the primary spokesperson) continues his conversation with Dante. 
+
+First, he asks a fundamental question: is Dante still alive? He phrases this by asking if Dante's soul still "leads" his limbs. He then asks about the current state of their beloved home, Florence. He wants to know if the virtues of "courtesy and valor" still reside in the city as they once did, or if these qualities have vanished entirely.
+
+The reason for this inquiry is that another Florentine soul, Guiglielmo Borsiere, who occasionally joins their group before returning to his own companions, has been telling them discouraging things about the city's decline, causing the three souls great distress.
+
+**Tag Resolutions**
+
+* `{1:anima}`: Dante's soul
+* `[2:quelli]`: One of the three Florentine souls (specifically the speaker, Iacopo Rusticucci)
+* `[3:te]`: Dante
+* `[4:+ella]`: The city (Florence)
+* `[5:+ella]`: The city (Florence)
+* `{6:Guiglielmo Borsiere}`: Guiglielmo Borsiere
+* `[7:si]`: Guiglielmo Borsiere
+* `[8:noi]`: Three Florentine souls
+* `[9:+elli]`: Guiglielmo Borsiere
+* `{10:i compagni}`: Guiglielmo Borsiere's companions
+* `[11:+elli]`: Guiglielmo Borsiere
+
+## Scene 73-75: Dante's Political Rebuke
+In this brief but poignant scene, Dante answers the question posed by the three Florentine souls regarding the state of their beloved city. 
+
+Dante delivers a scathing political and moral rebuke. He explains that the arrival of "the new people" (the *gente nuova*—the nouveau riche and newly powerful mercantile class) and the pursuit of "sudden gains" (rapid wealth accumulation) have bred pride and excess within the city. 
+
+Notably, Dante shifts his speech into an apostrophe, addressing the city of Florence directly. He tells the city that these vices have taken root within her to such an extent that she should already be weeping for herself.
+
+**Tag Resolutions**
+* `{1:La gente nuova}`: The new people (the newly wealthy/powerful citizens of Florence)
+* `[2:te]`: Florence
+* `[3:tu]`: Florence
+
+## Scene 76-85: The Request for Remembrance
+**Scene Analysis**
+
+In this scene, Dante concludes his scathing critique of the moral decline of Florence. After he speaks his mind with "his face lifted" (showing conviction), the three Florentine souls (Guido Guerra, Tegghiaio Aldobrandi, and Iacopo Rusticucci) exchange glances, as if trying to process the bluntness and truth of his words.
+
+The three souls respond collectively. They remark that if Dante is always this direct and honest in his dealings with others, he is a fortunate man. They then make a heartfelt request: if he manages to survive this journey through the "dark places" of Hell and returns to the world of the living (symbolized by the "beautiful stars"), he should ensure that he speaks of them to the people of Florence. They are seeking a form of immortality through remembrance, hoping that their names and stories will persist in their homeland through Dante's testimony.
+
+**Tag Resolutions**
+
+* `[1:+io]`: Dante
+* `{2:i tre}`: Three Florentine souls
+* `[3:+elli]`: Three Florentine souls
+* `[4:l'un]`: One of the three Florentine souls
+* `[5:l'altro]`: Another of the three Florentine souls
+* `[6:ti]`: Dante
+* `[7:te]`: Dante
+* `[8:+tu]`: Dante
+* `[9:+tu]`: Dante
+* `[10:+tu]`: Dante
+* `[11:ti]`: Dante
+* `[12:I']`: Dante
+* `[13:+tu]`: Dante
+* `[14:noi]`: Three Florentine souls
+* `{15:la gente}`: The people of Florence
+* `[16:+tu]`: Dante
+
+## Scene 86-90: The Departure of the Souls
+**Scene Analysis**
+
+In this brief concluding scene of the encounter, the interaction between Dante and the three Florentine souls (Guido Guerra, Tegghiaio Aldobrandi, and Iacopo Rusticucci) ends abruptly. The three spirits, who had been circling the poets like gladiators, suddenly break their rotation and rush away. Dante emphasizes their speed, noting that their thin legs seemed like wings as they fled. They vanish so quickly that there is no time for a final word or a formal goodbye (not even an "amen" could be spoken). Seeing that the spirits have departed, Virgil (the "master") decides that it is time for he and Dante to move on and continue their descent.
+
+**Tag Resolutions**
+
+* `[1:+elli]`: Three Florentine souls
+* `[2:fuggirsi]`: Three Florentine souls
+* `[3:dirsi]`: Dante and the Three Florentine souls (as the subjects of the implied exchange)
+* `[4:e']`: Three Florentine souls
+* `{5:al maestro}`: Virgil
+* `[6:partirsi]`: Virgil (and Dante)
+
+## Scene 91-105: The Sound of the Water
+In this scene, Dante and Virgil are moving forward after their encounter with the three Florentine souls. Dante describes the sensory experience of their progress, specifically the overwhelming noise of falling water that begins to drown out their ability to speak.
+
+To illustrate the nature of this sound and the flow of the water, Dante employs a detailed geographical analogy. He compares the water in Hell to a river in the living world that originates near Monte Viso, flows along the Apennines (mentioning Acquacheta), passes through the area of Forlì, and thunders down near San Benedetto. 
+
+Ultimately, the poets reach a steep drop-off where they encounter the "tinta" (tinted or blood-stained) water. The roar is so intense that Dante notes his ears would have been pained if they had stayed there much longer.
+
+**Tag Resolutions**
+* `[1:Io]`: Dante
+* `[2:lo]`: Virgil
+* `[3:+noi]`: Dante and Virgil
+* `[4:+noi]`: Dante and Virgil
+* `[5:+noi]`: Dante and Virgil
+
+## Scene 106-114: The Use of the Rope
+In this scene, Dante describes a specific object he has been carrying: a rope wound around his waist. He recalls that at one point—referencing the beginning of his journey—he had thought of using this rope to capture the *lonza* (the leopard) by its "painted skin." 
+
+Following the instructions given by his guide, Virgil, Dante unties the rope and hands it over to him, coiled up. Virgil then turns to the right and throws the rope down into the steep abyss/ravine they have reached.
+
+**Tag Resolutions**
+* `[1:Io]`: Dante
+* `[2:+io]`: Dante
+* `[3:io]`: Dante
+* `[4:me]`: Dante
+* `{5:'l duca}`: Virgil
+* `[6:m']`: Dante
+* `[7:lui]`: Virgil
+* `[8:ei]`: Virgil
+* `[9:si]`: Virgil
+* `[10:+ei]`: Virgil
+
+## Scene 115-120: Dante's Reflection on Prudence
+**Scene Analysis**
+
+In this brief passage, Dante is reacting to Virgil's silent communication. Virgil has just thrown the rope down into the abyss and is now using a look or a gesture ("a new sign") to signal something to Dante. 
+
+Dante does not speak aloud; instead, he conducts an internal monologue. He acknowledges that he must respond appropriately to Virgil's non-verbal cue. This leads Dante to a general reflection on prudence and the nature of insight. He muses on how cautious human beings must be when dealing with those who can see beyond outward actions and are instead capable of perceiving a person's inner thoughts and intentions. In this specific context, he is referring to Virgil's superior intellect and his ability to guide and read Dante without the need for spoken words.
+
+**Tag Resolutions**
+
+* `[1:+io]`: Dante
+* `[2:me]`: Dante
+* `{3:l maestro}`: Virgil
+* `{4:li uomini}`: Human beings (in general)
+* `[5:color]`: Those who can perceive inner thoughts (exemplified by Virgil)
+* `[6:+elli]`: Those who can perceive inner thoughts (exemplified by Virgil)
+
+## Scene 121-126: Virgil's Warning
+In this scene, Virgil speaks to Dante, addressing the internal anticipation and reflection Dante had in the previous passage. 
+
+Virgil informs Dante that whatever he (Virgil) is expecting—and whatever Dante is currently wondering about or "dreaming" of in his thoughts—will soon arrive and be revealed to Dante's sight. 
+
+Following this, Virgil offers a general maxim about prudence and discretion. He warns that when a truth appears to be a lie (or seems paradoxical/unbelievable), a man should keep his lips sealed for as long as possible. The reason for this is that speaking too soon about such a truth can bring shame upon the speaker, even if they have committed no actual fault, simply because the truth is so surprising or counterintuitive that it may be dismissed or mocked.
+
+**Tag Resolutions**
+* `[1:El]`: Virgil
+* `[2:me]`: Dante
+* `[3:io]`: Virgil
+* `{4:l'uom}`: a man (referring to mankind in general / a prudent person)
+* `[5:el]`: a man (referring to mankind in general / a prudent person)
+
+## Scene 127-136: The Approaching Figure
+In this scene, Dante breaks the narrative flow to address the reader directly. This is a response to Virgil's previous warning about the danger of speaking truths that seem like lies; Dante explains that, in this specific instance, he cannot remain silent. He swears by the very verses of the *Commedia* that he witnessed something truly extraordinary.
+
+He describes seeing a figure swimming upward through the thick, dark air. To illustrate the unusual motion of this figure, Dante uses a simile: he compares the figure to a diver who descends into the sea to loosen an anchor caught on a rock and then swims back up to the surface, stretching his body and pulling himself upward.
+
+**Tag Resolutions**
+
+* `[1:+io]`: Dante
+* `{2:lettor}`: The reader
+* `[3:ti]`: The reader
+* `[4:+io]`: Dante
+* `[5:i']`: Dante
+* `{6:una figura}`: An approaching figure (the monster Geryon, though not yet named)
+* `[7:colui]`: A hypothetical diver/sailor (used in the simile)
+* `[8:si]`: A hypothetical diver/sailor (used in the simile)
+* `[9:si]`: A hypothetical diver/sailor (used in the simile)
+
+# recap
+- Dante and Virgil are at the edge of a steep ravine in the Seventh Circle.
+- Virgil has cast a rope down into the abyss.
+- An unidentified figure is swimming upward through the air toward them.

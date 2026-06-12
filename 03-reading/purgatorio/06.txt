@@ -1,0 +1,368 @@
+# Canto 06 — The Encounter with Sordello and the Lament for Italy
+
+## Scene 1-9: The Dice Simile
+This scene is a **simile**. Dante is not describing an event currently happening in Purgatory, but rather recalling a common street scene from his earthly life to illustrate a feeling or situation.
+
+**The Action:**
+The scene describes the aftermath of a game of *zara* (a popular dice game of the time). When the game ends, the winner and the surrounding crowd of spectators move away. The loser, however, remains behind for a moment, miserable and brooding. He obsessively reviews the turns of the game in his head. Eventually, he begins to move, navigating through the crowd. He is hyper-aware of the people around him—who is in front of him, who is behind him, and who is to his side. He moves cautiously, making minimal contact with others and trying to avoid being crushed or pushed by the mass of people as he makes his exit.
+
+**The Participants:**
+There are three entities in this simile:
+1. **The Loser:** The central figure, characterized by sadness and social withdrawal.
+2. **The Winner:** Mentioned briefly as the person the crowd follows.
+3. **The Crowd:** The mass of people watching the game.
+
+**Tag Resolutions:**
+- `[1:colui]`: The loser of the zara game.
+- `[2:si]`: The loser of the zara game (reflexive).
+- `[3:+el]`: The loser of the zara game.
+- `[4:l'altro]`: The winner of the zara game.
+- `[5:se]`: The crowd (`{6:tutta la gente}`).
+- `{6:tutta la gente}`: The crowd of spectators/gamblers.
+- `[7:il]`: The loser of the zara game.
+- `[8:li]`: The loser of the zara game.
+- `[9:si]`: The people in the crowd (those who are keeping the loser in their peripheral vision).
+- `[10:el]`: The loser of the zara game.
+- `[11:s']`: The loser of the zara game (reflexive).
+- `[12:+el]`: The loser of the zara game.
+- `[13:+el]`: The loser of the zara game.
+- `[14:+el]`: The loser of the zara game.
+- `{15:la calca}`: The crowd of spectators/gamblers.
+- `[16:+el]`: The loser of the zara game.
+- `[17:si]`: The loser of the zara game (reflexive).
+
+## Scene 10-24: The Catalog of the Crowd
+**Analysis of the Scene: The Catalog of the Crowd**
+
+In this scene, Dante transitions from the simile of the *zara* player back into the actual narrative. He explains that he felt just like that lonely, confused loser in the dice game—disoriented and trying to navigate his way through the dense crowd of souls in Ante-Purgatory. 
+
+As he makes his way through the "thick crowd," he begins to recognize and list several specific souls. This is a "catalog" section where Dante identifies people he sees, often mentioning how they died or their reputations. 
+
+First, he notices "the Aretine," who was killed by the famous brigand Ghin di Tacco, and another soul who drowned during a hunt. He sees Federigo Novello praying with outstretched hands, and a man from Pisa who had made "good Marzucco" appear strong. Then, Dante identifies Count Orso; he notes that Orso's soul was separated from his body not because of any crime he committed, but because of someone else's hatred and envy. Dante identifies that killer as Pier da la Broccia. Finally, he mentions the Lady of Brabant, noting her presence in the group.
+
+The tone is one of observation and recognition, moving from the general feeling of the crowd (the simile) to the specific identities of the individuals within it.
+
+**Tag Resolutions**
+
+- `[1:io]`: Dante
+- `[2:loro]`: the souls in the crowd
+- `[3:+io]`: Dante
+- `[4:mi]`: Dante
+- `{5:l'Aretin}`: the Aretine (a soul from Arezzo)
+- `{6:Ghin di Tacco}`: Ghin di Tacco (a notorious robber)
+- `[7:l'altro]`: a soul who drowned during a hunt
+- `{8:Federigo Novello}`: Federigo Novello (the Marquess of Novara)
+- `[9:quel]`: a soul from Pisa
+- `{10:lo buon Marzucco}`: Marzucco
+- `[11:+io]`: Dante
+- `{12:conte Orso}`: Count Orso
+- `{13:l'anima}`: Count Orso's soul
+- `[14:e']`: Count Orso
+- `{15:Pier da la Broccia}`: Pier da la Broccia
+- `[16:+io]`: Dante
+- `{17:la donna di Brabante}`: the Lady of Brabant
+
+## Scene 25-33: Dante's Inquiry
+**Analysis of the Scene: Dante's Inquiry**
+
+In this brief scene, Dante has finally managed to distance himself from the dense crowd of souls he was navigating. Now that he has some space and quiet, he turns to Virgil to resolve a contradiction he has observed.
+
+Dante is perplexed: Virgil had previously suggested that the divine decrees of heaven are immutable (meaning the time a soul must spend purifying itself is fixed). However, Dante has just spent a significant amount of time surrounded by souls who are pleading for the living to pray for them, specifically in the hope that such prayers will shorten their time in Purgatory. 
+
+Dante asks Virgil directly: "It seems you are telling me that no prayer can change heaven's decree; yet these people are praying for exactly that. Is their hope therefore in vain, or have I misunderstood what you told me?"
+
+**Tag Resolutions**
+
+- `[1:+io]`: Dante
+- `{2:quell' ombre}`: the souls in Ante-Purgatory
+- `[3:io]`: Dante
+- `[4:tu]`: Virgil
+- `[5:mi]`: Dante
+- `{6:luce mia}`: Virgil (an affectionate epithet meaning "my light")
+- `{7:questa gente}`: the souls in Ante-Purgatory
+- `[8:m']`: Dante
+
+## Scene 34-48: Virgil's Theological Answer
+**Analysis of the Scene: Virgil's Theological Answer**
+
+In this scene, Virgil responds to Dante's confusion regarding the apparent contradiction between the immutability of divine decrees and the efficacy of prayers for the souls in Purgatory. 
+
+Virgil clarifies that his previous statements remain true, but that there is a theological nuance Dante is missing. He explains that while the "debt" of punishment must be paid, the "fire of love" (the prayers and charity of the living) can satisfy that debt more quickly. Essentially, the prayer doesn't change the *requirement* of justice, but it accelerates the *fulfillment* of that justice. 
+
+Virgil then distinguishes this from the situation in Hell (where he had previously mentioned the immutability of decrees); in Hell, prayers are useless because those souls are entirely severed from God. Finally, Virgil admits that this is a complex theological point. He tells Dante that if he remains confused, he should wait for Beatrice, who serves as the "light" between divine truth and human understanding. He reveals that Dante will encounter Beatrice, smiling and happy, at the summit of Mount Purgatory.
+
+**Tag Resolutions**
+
+- `[1:elli]`: Virgil (In this context, the singular "elli" is used for "he").
+- `[2:me]`: Dante
+- `[3:costor]`: the souls in Ante-Purgatory
+- `[4:si]`: an observer/one who reasons (impersonal "si," referring to anyone applying a "sound mind," including Dante).
+- `[5:chi]`: a soul being purified in Purgatory
+- `[6:s']`: a soul being purified in Purgatory (reflexive)
+- `[7:io]`: Virgil
+- `{8:Dio}`: God
+- `[9:+tu]`: Dante
+- `[10:ti]`: Dante (reflexive)
+- `[11:quella]`: Beatrice
+- `[12:ti]`: Dante
+- `[13:+io]`: Virgil
+- `[14:+tu]`: Dante
+- `[15:io]`: Virgil
+- `{16:Beatrice}`: Beatrice
+- `[17:tu]`: Dante
+- `[18:la]`: Beatrice
+
+## Scene 49-51: Dante's Urgency
+In this brief scene, Dante expresses a sense of urgency to Virgil. Having received the theological explanation regarding prayers and the promise of meeting Beatrice, Dante is now eager to move forward. He urges Virgil to pick up the pace, noting that he is no longer as exhausted as he was earlier in their journey. He justifies this need for haste by pointing out the changing light—the hill is now casting a shadow, indicating that the day is advancing and they should keep moving.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:Segnore}`: Virgil
+- `[3:+noi]`: Dante and Virgil
+- `[4:+io]`: Dante
+- `[5:m']`: Dante
+- `[6:+tu]`: Virgil
+
+## Scene 52-60: The Approaching Shadow
+**Analysis of the Scene: The Approaching Shadow**
+
+In this scene, Virgil responds to Dante's request for haste. Virgil agrees that they should move forward as much as they can during the remaining daylight. However, he warns Dante about the movement of the sun; he notes that the sun is beginning to dip behind the ridge of the mountain (the "costa"), and Dante must move in such a way that he doesn't "break" or outrun the rays—essentially, they must make their progress before the light vanishes.
+
+As Virgil is speaking, he notices a lone soul standing ahead of them. This soul is positioned by themselves and is looking back toward Dante and Virgil. Virgil suggests that this individual will be the quickest way to find the correct path forward.
+
+**Tag Resolutions**
+
+- `[1:Noi]`: Virgil and Dante
+- `[2:+ei]`: Virgil
+- `[3:+noi]`: Virgil and Dante
+- `[4:+ei]`: the sun (personified)
+- `[5:+tu]`: Dante
+- `[6:colui]`: the sun (personified)
+- `[7:si]`: the sun (reflexive)
+- `[8:tu]`: Dante
+- `[9:+tu]`: Dante
+- `{10:un'anima}`: a soul in Purgatory (soon to be identified as Sordello)
+- `[11:noi]`: Virgil and Dante
+- `[12:quella]`: the soul in Purgatory
+
+## Scene 61-66: The Silent Lombard
+In this scene, Dante and Virgil reach the lone soul they had spotted from a distance. Dante addresses this figure, identifying him as a "Lombard soul" (Sordello). Dante is immediately struck by the soul's demeanor, describing him as haughty, disdainful, and possessing a dignified, slow way of moving his eyes. Despite Dante's address, the soul does not speak; he simply allows them to pass, observing them with a calm, steady gaze compared to that of a resting lion.
+
+**Tag Resolutions:**
+- `[1:+noi]`: Dante and Virgil
+- `[2:lei]`: the Lombard soul (Sordello)
+- `{3:anima lombarda}`: the Lombard soul (Sordello)
+- `[4:+tu]`: the Lombard soul (Sordello)
+- `[5:ti]`: the Lombard soul (Sordello)
+- `[6:Ella]`: the Lombard soul (Sordello)
+- `[7:ci]`: Dante and Virgil
+- `[8:+ella]`: the Lombard soul (Sordello)
+
+## Scene 67-75: The Reunion of Virgil and Sordello
+**Analysis of the Scene: The Reunion of Virgil and Sordello**
+
+In this scene, the tension of the previous encounter breaks as a kinship is discovered. Virgil steps forward to ask the silent, haughty Lombard soul for guidance on the best path to ascend the mountain. Rather than answering the request for directions, the soul asks Virgil and Dante about their origins and their lives. 
+
+As soon as Virgil begins to respond, mentioning his hometown of "Mantua," the soul is instantly transformed. The previously distant and disdainful figure suddenly rises and approaches Virgil, identifying himself as Sordello, a fellow citizen of Mantua. The scene concludes with an emotional embrace between the two poets, marking a rare moment of warm, earthly connection in the austere environment of Purgatory.
+
+**Tag Resolutions**
+
+- `{1:Virgilio}`: Virgil
+- `[2:si]`: Virgil (reflexive)
+- `[3:lei]`: the Lombard soul (Sordello)
+- `[4:quella]`: the Lombard soul (Sordello)
+- `[5:+ella]`: the Lombard soul (Sordello)
+- `[6:ci]`: Dante and Virgil
+- `{7:dolce duca}`: Virgil
+- `{8:l'ombra}`: the Lombard soul (Sordello)
+- `[9:sé]`: the Lombard soul (Sordello) (reflexive)
+- `[10:+ella]`: the Lombard soul (Sordello)
+- `[11:lui]`: Virgil
+- `[12:+ella]`: the Lombard soul (Sordello)
+- `{13:Mantoano}`: Virgil (referring to his origin in Mantua)
+- `[14:io]`: Sordello
+- `{15:Sordello}`: Sordello
+- `[16:l'un]`: Virgil (or Sordello)
+- `[17:l'altro]`: Sordello (or Virgil)
+
+## Scene 76-84: The Lament for Italy
+This scene is a powerful parenthetical lament by Dante the narrator. He is not speaking to Virgil or Sordello, but is instead addressing the reader (and the entity of Italy itself) in a passionate outburst of political and social grief.
+
+**The Action:**
+Dante observes the immediate, heartfelt bond between Sordello and Virgil—two men who, despite being separated by centuries, feel an instant kinship simply because they both hail from Mantua. This act of purity and love triggers a bitter contrast in Dante's mind. He looks "back" toward his homeland and sees a land torn apart by factionalism, civil war, and hatred. He compares Italy to a ship without a captain and a brothel rather than a dignified lady. He notes the tragedy that while souls in Purgatory find unity in their shared origins, the living people of Italy use those same shared origins (their cities and walls) as reasons to hate and destroy one another, extending their enmity even to the dead.
+
+**Tag Resolutions:**
+- `{1:serva Italia}`: Italy (personified)
+- `{2:nocchiere}`: the steersman/leader of Italy (metaphorical)
+- `{3:donna}`: Italy (personified as a "lady")
+- `{4:anima gentil}`: Sordello
+- `{5:cittadin}`: Virgil (Sordello's fellow citizen of Mantua)
+- `[6:te]`: Italy
+- `{7:li vivi tuoi}`: the living inhabitants of Italy
+- `[8:un]`: a living citizen of Italy
+- `[9:altro]`: another living citizen of Italy
+- `[10:si]`: the living citizens of Italy (reciprocal: they gnaw at each other)
+- `[11:quei]`: the dead inhabitants of Italy (those shut in by walls and graves)
+
+## Scene 85-96: The Failure of Law
+**Analysis of the Scene: The Failure of Law**
+
+In this scene, Dante continues his passionate, parenthetical lament for his homeland. He shifts from a general mourning of Italy's division to a specific political and legal critique.
+
+First, he addresses Italy as a personified, miserable entity, urging her to look at her shores and into her own heart to see if any part of her is actually at peace (his implied answer is "no"). 
+
+He then introduces a legal metaphor involving a horse. He mentions the Emperor Justinian, who "repaired the bridle"—a reference to Justinian's massive project of codifying Roman law. Dante argues that this legal framework is useless because the "saddle is empty," meaning there is no strong, central Imperial authority (an Emperor) to actually enforce the law. He suggests that without Justinian's laws, the shame of Italy's current state might actually be less, because the existence of the law only highlights the failure of the leadership.
+
+Finally, Dante addresses the "people" of Italy. He scolds them for not being "devout" (loyal) to the Imperial office ("Caesar"). He warns them that God has made the necessity of this authority clear. He compares Italy to a "beast" (*fiera*) that has become savage and vicious because it is no longer controlled by "spurs" (the discipline of the law and the Emperor). This savagery happened because the people themselves "put their hand to the stirrup"—meaning they attempted to overthrow or bypass the Imperial authority, and in doing so, they lost the only thing that could keep their internal violence in check.
+
+**Tag Resolutions**
+
+- `[1:+tu]`: Italy (personified)
+- `{2:misera}`: Italy (personified)
+- `[3:+tu]`: Italy (personified)
+- `[4:ti]`: Italy (personified)
+- `[5:te]`: Italy (personified)
+- `[6:ti]`: Italy (personified)
+- `{7:Iustinïano}`: Justinian (the Byzantine Emperor who codified Roman law)
+- `[8:esso]`: Justinian
+- `{9:gente}`: the people of Italy
+- `{10:Cesare}`: Caesar (the Emperor/the Imperial authority)
+- `[11:+tu]`: the people of Italy
+- `{12:Dio}`: God
+- `[13:ti]`: the people of Italy
+- `[14:+tu]`: the people of Italy
+- `{15:esta fiera}`: Italy (personified as a savage beast)
+- `[16:+tu]`: the people of Italy
+
+## Scene 97-105: The Condemnation of Albert
+In this scene, Dante continues his passionate parenthetical lament for Italy, shifting his focus from a general critique of the people and the law to a specific condemnation of the Imperial leadership.
+
+**The Action:**
+Dante addresses Albert I of Habsburg (the German King), accusing him of abandoning Italy and allowing it to become "untamed and savage." Dante argues that Albert should be exercising his authority to curb Italy's chaos. He expresses a harsh wish that a divine judgment fall upon Albert's bloodline, hoping that this would serve as a warning to Albert's successor, ensuring the next Emperor does not neglect Italy. Finally, Dante blames both Albert and his father (Rudolph I) for their greed, which led them to remain distant from Italy, leaving the "garden of the empire" deserted and without leadership.
+
+**Tag Resolutions:**
+- `{1:Alberto tedesco}`: Albert I of Habsburg (the German King/Emperor).
+- `[2:costei]`: Italy (personified as a woman/beast, continuing the metaphor from the previous scene).
+- `[3:+tu]`: Albert I of Habsburg.
+- `{4: 'l tuo successor }`: Albert's successor (the next Holy Roman Emperor).
+- `[5:tu]`: Albert I of Habsburg.
+- `{6: 'l tuo padre }`: Rudolph I of Habsburg (Albert's father).
+
+## Scene 106-117: The Chaos of Cities
+**Analysis of the Scene: The Chaos of Cities**
+
+In this scene, Dante continues his passionate, parenthetical lament, focusing his anger on Albert I of Habsburg. He moves from the theoretical failure of the law to a vivid "tour" of the specific blood-feuds and urban decays ravaging Italy.
+
+Dante commands Albert to "come and see" the actual results of his neglect. He lists the most infamous warring factions of the time: the Montecchi and Cappelletti (the legendary rivals of Verona) and the Monaldi and Filippeschi (rivals in Florence). He describes these groups as living in a state of perpetual misery and suspicion.
+
+Calling Albert a "man without care" and "cruel," Dante urges him to take an interest in the "faults" or "grievances" (*magagne*) of his Italian subjects, specifically mentioning the darkness/corruption of Santafior (a city in Tuscany).
+
+Dante then personifies Rome as a grieving widow, left alone and abandoned. He imagines Rome crying out day and night, asking why her "Caesar" (the Emperor) does not return to lead and protect her.
+
+Finally, Dante uses biting sarcasm, inviting Albert to see how much the Italian people "love" one another—referring, of course, to their murderous civil wars. He concludes with a challenge: if Albert feels no pity for the suffering of the Italians, he should at least return out of a sense of shame for the stain such neglect leaves on his reputation and fame.
+
+**Tag Resolutions**
+
+- `[1:+tu]`: Albert I of Habsburg
+- `{2:Montecchi}`: the Montecchi faction (of Verona)
+- `{3:Cappelletti}`: the Cappelletti faction (of Verona)
+- `{4:Monaldi}`: the Monaldi faction (of Florence)
+- `{5:Filippeschi}`: the Filippeschi faction (of Florence)
+- `{6:uom sanza cura}`: Albert I of Habsburg
+- `[7:color]`: the Montecchi and Cappelletti
+- `[8:questi]`: the Monaldi and Filippeschi
+- `[9:+tu]`: Albert I of Habsburg
+- `{10:crudel}`: Albert I of Habsburg
+- `[11:+tu]`: Albert I of Habsburg
+- `[12:+tu]`: Albert I of Habsburg
+- `{13:i tuoi gentili}`: the nobles/subjects of Italy
+- `[14:+tu]`: Albert I of Habsburg
+- `[15:+tu]`: Albert I of Habsburg
+- `[16:+tu]`: Albert I of Habsburg
+- `{17:la tua Roma}`: Rome (personified)
+- `{18:vedova e sola}`: Rome (personified)
+- `[19:+ella]`: Rome (personified)
+- `{20:Cesare mio}`: the Emperor (Albert I of Habsburg)
+- `[21:+ei]`: the Emperor (Albert I of Habsburg)
+- `[22:m']`: Rome (personified)
+- `[23:+tu]`: Albert I of Habsburg
+- `[24:+ella]`: the people of Italy (`la gente`)
+- `[25:s']`: the people of Italy (reflexive/reciprocal)
+- `[26:noi]`: the people of Italy
+- `[27:ti]`: Albert I of Habsburg
+- `[28:ti]`: Albert I of Habsburg
+
+## Scene 118-126: An Appeal to Divine Justice
+This scene is the climax of Dante's parenthetical lament for Italy. Having exhausted his anger toward the Italian people and the neglectful Emperor Albert, Dante now turns his gaze upward to the divine.
+
+**The Action:**
+Dante addresses God (using the classical epithet "sommo Giove," but immediately clarifying the address by referencing the Crucifixion). He asks a desperate question: Is God ignoring Italy, or is He secretly preparing some divine remedy in the "abyss" of His inscrutable wisdom to heal the fractured state of the land? 
+
+He justifies his plea by describing the current wretched state of Italian cities. He notes that they are overrun by tyrants and that any low-born peasant (*villan*) can suddenly become a powerful, oppressive leader (metaphorically called a "Marcel") simply by picking a political side and joining a faction.
+
+**Tag Resolutions:**
+- `[1:m']`: Dante
+- `{2:sommo Giove}`: God (Christ)
+- `[3:+tu]`: God (Christ)
+- `[4:noi]`: humanity / mankind
+- `[5:+tu]`: God (Christ)
+- `{6:tiranni}`: the tyrants ruling the Italian cities
+- `{7:un Marcel}`: a powerful/tyrannical leader (referencing Marcellus)
+- `{8:ogne villan}`: the low-born people / peasants of Italy who seize power via factionalism
+
+## Scene 127-138: The Unrest of Florence
+**Analysis of the Scene: The Unrest of Florence**
+
+In this scene, Dante narrows the focus of his parenthetical lament. Having criticized the general state of Italy and the negligence of Emperor Albert, he now turns his gaze toward his own hometown, Florence. 
+
+The tone is one of biting irony and sarcasm. Dante addresses Florence as if she should be happy that he didn't include her in the previous list of grievances, but he immediately reveals that this is because the citizens of Florence are uniquely hypocritical. 
+
+He draws two sharp contrasts between the general behavior of virtuous people and the behavior of the Florentines. First, he notes that while many people hold justice in their hearts and are cautious before acting (the metaphor of the bow and arrow), the people of Florence keep justice "on the tip of their tongues"—meaning they talk incessantly about justice without actually practicing it. Second, he observes that while many virtuous people shun the burdens of public office, the citizens of Florence eagerly volunteer for power, shouting "I'll shoulder it!" without even being asked.
+
+The scene concludes with a series of sarcastic affirmations. Dante tells Florence to be "happy" because she is "rich," "at peace," and "wise." He then immediately undercuts this by stating that if he were telling the truth, the actual evidence (the "effect") would not hide it—meaning that the reality of Florence's chaos, poverty of spirit, and lack of wisdom is blindingly obvious to everyone.
+
+**Tag Resolutions**
+
+- `{1:Fiorenza}`: the city of Florence (personified)
+- `[2:+tu]`: Florence
+- `[3:ti]`: Florence
+- `[4:si]`: the people of Florence
+- `[5:+lui]`: a generic virtuous person (representing the "many" who are truly just)
+- `[6:+lui]`: a generic citizen of Florence (representing the people of Florence)
+- `[7:I']`: a generic citizen of Florence (speaking)
+- `[8:mi]`: a generic citizen of Florence (speaking)
+- `[9:ti]`: Florence
+- `[10:tu]`: Florence
+- `[11:tu]`: Florence
+- `[12:tu]`: Florence
+- `[13:tu]`: Florence
+- `[14:io]`: Dante
+
+## Scene 139-151: The Instability of Custom
+In this scene, Dante continues his scathing parenthetical address to his hometown, Florence. He shifts from criticizing the Florentines' hypocrisy to criticizing the city's pathological instability.
+
+**The Action:**
+Dante begins by referencing Athens and Sparta (Lacedemona), the cradles of ancient law and civilization. He notes that these ancient cities provided a "small hint" or an example of how to live well—an example that Florence has completely ignored. He mocks Florence's erratic governance, stating that the city's laws and decrees are so fickle that a law passed in October is often scrapped or forgotten by mid-November.
+
+He then challenges Florence to look back at its own history and count how many times it has changed its laws, its currency, its public offices, and its customs. He describes this constant churning as a "renewal of members," suggesting a city that is perpetually trying to reinvent itself because it lacks a stable foundation.
+
+To conclude, Dante uses a vivid medical simile. He tells Florence that if she has the clarity to see herself honestly, she will see that she resembles a sick woman tossing and turning in bed. Just as a feverish patient cannot find a comfortable position on her pillows and must constantly shift her body to ward off or mitigate her pain, Florence is in a state of constant, restless agitation, changing its systems not for improvement, but as a desperate, futile response to its own internal dysfunction.
+
+**Tag Resolutions:**
+- `[1:+elli]`: Athens and Sparta
+- `[2:te]`: Florence (personified)
+- `[3:tu]`: Florence (personified)
+- `[4:+tu]`: Florence (personified)
+- `[5:tu]`: Florence (personified)
+- `[6:+tu]`: Florence (personified)
+- `[7:ti]`: Florence (personified)
+- `[8:+tu]`: Florence (personified)
+- `[9:+tu]`: Florence (personified)
+- `[10:te]`: Florence (personified)
+- `{11:quella inferma}`: a sick woman (the subject of the simile)
+- `[12:+ella]`: the sick woman (the subject of the simile)
+
+# recap
+- Dante and Virgil are in Ante-Purgatory, accompanied by the soul of Sordello.
+- Virgil and Sordello have shared an emotional reunion as fellow citizens of Mantua.
+- Dante has just concluded a long, passionate parenthetical lament regarding the political and social decay of Italy and Florence.

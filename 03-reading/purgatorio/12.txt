@@ -1,0 +1,287 @@
+# Canto 12 — The Ascent from Hell and the Signs of the Fallen
+
+## Scene 1-12: The separation of the travelers
+In this scene, Dante and Virgil are preparing to leave the soul of Oderisi on the first ledge of Purgatory. 
+
+Dante describes how he and Oderisi were walking side-by-side, compared to oxen sharing a yoke. Virgil, acting as the guide, eventually decides it is time to move on. He tells Dante to leave Oderisi behind and "cross over," using a nautical metaphor to explain that in Purgatory, every soul must "steer their own boat"—meaning each person is responsible for their own penance and spiritual progress.
+
+Dante physically turns away from Oderisi to follow Virgil, though he notes a lingering emotional heaviness; while his body moves forward, his thoughts remain behind with the soul he is leaving. As Dante and Virgil walk away, the narrator emphasizes the contrast between their "lightness" (as they are not currently undergoing the penance of the ledge) and the "burden" carried by the souls remaining there.
+
+**Tag Resolutions:**
+
+*   [1: m'] $\rightarrow$ Dante
+*   [2: io] $\rightarrow$ Dante
+*   {3: quell' anima carca} $\rightarrow$ Oderisi (the "burdened soul")
+*   [4: 'l] $\rightarrow$ Virgil
+*   {5: il dolce pedagogo} $\rightarrow$ Virgil
+*   [6: +ei] $\rightarrow$ Virgil
+*   [7: +tu] $\rightarrow$ Dante
+*   [8: lui] $\rightarrow$ Oderisi
+*   [9: +tu] $\rightarrow$ Dante
+*   [10: +io] $\rightarrow$ Dante
+*   {11: la persona} $\rightarrow$ Oderisi
+*   [12: mi] $\rightarrow$ Dante
+*   [13: Io] $\rightarrow$ Dante
+*   [14: m'] $\rightarrow$ Dante
+*   [15: +io] $\rightarrow$ Dante
+*   {16: mio maestro} $\rightarrow$ Virgil
+*   [17: amendue] $\rightarrow$ Dante and Virgil
+*   [18: +noi] $\rightarrow$ Dante and Virgil
+*   [19: +noi] $\rightarrow$ Dante and Virgil
+
+## Scene 13-24: The warning to watch the path
+In this scene, Virgil gives Dante a piece of advice as they walk along the first ledge of Purgatory. He tells Dante to look down at the ground beneath his feet. Virgil explains that the path is marked with inscriptions identifying the people who were buried in earthly graves; these markers serve as memories of their former lives, and they often cause the pious to weep when they remember the dead. Dante observes these inscriptions and notes that they are more finely crafted than those found on earth, and they continue along the path as it winds around the mountain.
+
+**Tag Resolutions:**
+
+*   [1: el] $\rightarrow$ Virgil
+*   [2: mi] $\rightarrow$ Dante
+*   [3: +tu] $\rightarrow$ Dante
+*   [4: ti] $\rightarrow$ Dante
+*   {5: i sepolti} $\rightarrow$ the buried (the souls of the dead)
+*   [6: elli] $\rightarrow$ the buried (the souls of the dead)
+*   [7: si] $\rightarrow$ people/the pious (impersonal "one")
+*   {8: a' pïi} $\rightarrow$ the pious (those who pray for the dead)
+*   [9: io] $\rightarrow$ Dante
+
+## Scene 25-36: The sight of the Giants
+In this scene, Dante describes a series of visions or "signs" he sees appearing on the landscape as he traverses the first ledge of Purgatory. These images serve as a mythological and historical backdrop to the sin of Pride, which is the focus of this ledge. 
+
+Dante sees Jupiter (the most noble of creatures) descending from the sky with lightning. He then sees the giant Briareus pinned down by the celestial vault, dead and cold. Next, he sees Timbreus, Pallas Athena, and Mars—still armed—standing around their father (Jupiter), observing the scattered remains of the Giants. Finally, Dante sees Nimrod standing at the foot of the Tower of Babel (the "great work"), looking bewildered as he gazes back at the proud people of Shinar who had built the tower with him.
+
+**Tag Resolutions:**
+
+*   [1: +io] $\rightarrow$ Dante
+*   [2: colui] $\rightarrow$ Jupiter (Zeus)
+*   {3: altra creatura} $\rightarrow$ other creatures (used as a comparison to Jupiter)
+*   [4: +io] $\rightarrow$ Dante
+*   {5: Brïareo} $\rightarrow$ Briareus
+*   [6: +io] $\rightarrow$ Dante
+*   {7: Timbreo} $\rightarrow$ Timbreus
+*   [8: +io] $\rightarrow$ Dante
+*   {9: Pallade} $\rightarrow$ Pallas Athena
+*   {10: Marte} $\rightarrow$ Mars
+*   {11: al padre loro} $\rightarrow$ Jupiter (Zeus)
+*   {12: i Giganti} $\rightarrow$ the Giants
+*   [13: +io] $\rightarrow$ Dante
+*   {14: Nembròt} $\rightarrow$ Nimrod
+*   {15: le genti} $\rightarrow$ the people of Shinar (Babel)
+*   [16: lui] $\rightarrow$ Nimrod
+
+## Scene 37-45: The signs of tragic figures
+In this scene, Dante continues to observe the inscriptions on the path of the first ledge of Purgatory. These images serve as warnings against the sin of Pride. Dante speaks directly to three tragic figures whose images he sees etched into the ground, reflecting on their falls from grace.
+
+First, he addresses Niobe, recalling her grief as she watches her children—who were killed by the gods as punishment for her boastfulness—lying dead around her. Next, he addresses King Saul, depicting the moment of his suicide on Mount Gilboa, emphasizing that his body was left unburied (feeling neither rain nor dew). Finally, he addresses Arachne, the weaver who challenged Athena; he describes her as a "half-spider," miserable amidst the ruins of the tapestry that led to her downfall.
+
+**Tag Resolutions:**
+
+*   {1:Nïobè} $\rightarrow$ Niobe
+*   [2:io] $\rightarrow$ Dante
+*   [3:te] $\rightarrow$ Niobe
+*   {4:tuoi figliuoli} $\rightarrow$ Niobe's children
+*   {5:Saùl} $\rightarrow$ Saul
+*   [6:+tu] $\rightarrow$ Saul
+*   {7:folle Aragne} $\rightarrow$ Arachne
+*   [8:io] $\rightarrow$ Dante
+*   [9:te] $\rightarrow$ Arachne
+*   {10:mezza ragna} $\rightarrow$ Arachne
+*   [11:te] $\rightarrow$ Arachne
+
+## Scene 46-54: The symbols of fallen kings
+In this scene, Dante continues to observe the images carved into the stone pavement of the first ledge of Purgatory. These images act as "exempla"—cautionary tales of historical and mythological figures whose pride led to their violent or miserable ends.
+
+First, Dante addresses Rehoboam (the son of Solomon), noting that he no longer seems threatening. He describes an image where terrified people carry Rehoboam’s body in a chariot, though notably, there is no one driving the chariot.
+
+Next, the pavement shows Almeon, a figure from Greek legend who murdered his own mother (the "unfortunate adornment" refers to the act of killing her or the resulting state of the body).
+
+Finally, Dante sees the image of the Assyrian king Sennacherib. The image depicts the moment Sennacherib was murdered inside a temple by his own sons, who then abandoned his dead body on the spot.
+
+**Tag Resolutions:**
+
+*   {1:Roboàm} $\rightarrow$ Rehoboam
+*   [2:+elli] $\rightarrow$ the people carrying the chariot
+*   [3:+elli] $\rightarrow$ the people carrying the chariot
+*   [4:il] $\rightarrow$ Rehoboam
+*   {5:Almeon} $\rightarrow$ Almeon
+*   {6:sua madre} $\rightarrow$ Almeon's mother
+*   {7:i figli} $\rightarrow$ the sons of Sennacherib
+*   [8:si] $\rightarrow$ the sons of Sennacherib
+*   {9:Sennacherìb} $\rightarrow$ Sennacherib
+*   [10:lui] $\rightarrow$ Sennacherib
+*   [11:+elli] $\rightarrow$ the sons of Sennacherib
+*   [12:il] $\rightarrow$ Sennacherib
+
+## Scene 55-63: The remnants of war and ruin
+This scene continues Dante's observation of the "exempla" (cautionary images) carved into the stone pavement of the first ledge of Purgatory. These images serve as permanent reminders of the consequences of pride.
+
+First, Dante sees an image of the ruin and carnage caused by Tamyris (a king of the Massagetae). He recalls the historical/legendary moment when Tamyris defeated Cyrus the Great; Tamyris mockingly tells Cyrus that since he thirsted for the blood of others (through conquest), Tamyris will now satisfy that thirst by drenching him in his own blood (referring to the act of pouring blood into Cyrus's severed head).
+
+Next, the pavement depicts the rout of the Assyrian army following the death of their general, Holofernes (who was beheaded by Judith), as well as the remnants of that massacre.
+
+Finally, Dante sees the ruins of Troy (Ilion). He reflects on how the once-mighty city was reduced to ashes and caves, noting that the sign carved in the stone perfectly captures how low and vile the proud city had fallen.
+
+**Tag Resolutions:**
+
+*   [1: +ella] $\rightarrow$ the pavement (or the image on it)
+*   {2: Tamiri} $\rightarrow$ Tamyris
+*   [3: +elli] $\rightarrow$ Tamyris
+*   {4: Ciro} $\rightarrow$ Cyrus
+*   [5: +tu] $\rightarrow$ Cyrus
+*   [6: io] $\rightarrow$ Tamyris
+*   [7: t'] $\rightarrow$ Cyrus
+*   [8: +ella] $\rightarrow$ the pavement (or the image on it)
+*   [9: +elli] $\rightarrow$ the Assyrians
+*   [10: si] $\rightarrow$ the Assyrians
+*   {11: Oloferne} $\rightarrow$ Holofernes
+*   [12: +io] $\rightarrow$ Dante
+*   [13: +ella] $\rightarrow$ the pavement (or the image on it)
+
+## Scene 64-69: Dante's reaction to the imagery
+In this scene, Dante pauses to reflect on the incredible artistry of the images carved into the stone pavement of the first ledge of Purgatory. He is struck by the realism of these "exempla," wondering who the master artist—whether using a brush or a pen—could have been to render these figures with such precision. He notes that the depictions are so lifelike that the dead appear alive and the living appear vivid. He describes an immersive experience where the "truth" (the realism) of the art is so overwhelming that the observer is almost lost in it. He concludes by describing his physical posture: walking along the path and bending low to examine the details of the carvings.
+
+**Tag Resolutions:**
+
+*   {1: maestro} $\rightarrow$ the hypothetical artist/master who created the images
+*   {2: l'ombre} $\rightarrow$ the images/shadows depicted on the pavement
+*   {3: uno ingegno sottile} $\rightarrow$ a subtle/discerning mind (a generic observer of the art)
+*   {4: li morti} $\rightarrow$ the dead figures depicted in the images
+*   {5: i vivi} $\rightarrow$ the living figures depicted in the images
+*   [6: mei] $\rightarrow$ Dante
+*   [7: me] $\rightarrow$ Dante
+*   [8: chi] $\rightarrow$ the observer (the person who sees the truth of the art)
+*   [9: io] $\rightarrow$ Dante
+*   [10: +io] $\rightarrow$ Dante
+
+## Scene 70-78: The command to look upward
+In this scene, the narrative shifts from Dante’s immersive observation of the carvings to a broader moral reflection and then back to the immediate interaction between the two travelers.
+
+Lines 70–72 function as a general exhortation to all of humanity. The narrator addresses "children of Eve," warning them against the sin of pride and the habit of looking downward—not just physically, but metaphorically—dwelling on the "evil path" of their past sins rather than looking upward toward salvation.
+
+The scene then returns to the physical journey. Dante and Virgil have continued to walk along the ledge. Dante has been so absorbed in studying the images on the ground that he hasn't noticed how much time has passed or how far they have progressed around the mountain. Virgil, who is leading the way, eventually speaks up to break Dante's concentration. He tells Dante to "lift his head," indicating that it is time to stop obsessing over the cautionary tales of the fallen and to focus on the ascent.
+
+**Tag Resolutions:**
+
+*   [1: +voi] $\rightarrow$ humanity (the "children of Eve")
+*   {2: figliuoli d'Eva} $\rightarrow$ humanity
+*   [3: +voi] $\rightarrow$ humanity (the "children of Eve")
+*   [4: +voi] $\rightarrow$ humanity (the "children of Eve")
+*   [5: noi] $\rightarrow$ Dante and Virgil
+*   {6: l'animo} $\rightarrow$ Dante's mind/soul
+*   [7: colui] $\rightarrow$ Virgil
+*   [8: +tu] $\rightarrow$ Dante
+
+## Scene 79-84: The approaching messenger
+In this scene, Virgil continues to guide Dante’s attention, shifting his gaze from the ground (the cautionary images of pride) to the horizon. Virgil points out an approaching angel who is coming toward them. 
+
+Virgil explains that the angel is returning from the "service of the sixth handmaid," a poetic reference to the sixth hour of the day (noon). The angel's appearance is marked by a sense of reverence and solemnity in both his expression and his gestures. Virgil notes that the "beloved ones" (the Blessed souls in Heaven) are the ones urging the angel to bring the travelers further up the mountain. Finally, Virgil remarks on the angel's sense of urgency, noting that the angel is mindful that this particular day—and the opportunity it presents—will never occur again.
+
+**Tag Resolutions:**
+
+*   [1: +tu] $\rightarrow$ Dante
+*   {2: un angel} $\rightarrow$ the angel
+*   [3: s'] $\rightarrow$ the angel
+*   [4: noi] $\rightarrow$ Dante and Virgil
+*   [5: +tu] $\rightarrow$ Dante
+*   [6: +ei] $\rightarrow$ the angel
+*   {7: l'ancella sesta} $\rightarrow$ the sixth hour of the day (personified as a handmaid)
+*   [8: +ei] $\rightarrow$ the angel
+*   {9: i diletti} $\rightarrow$ the Blessed (the souls in Paradise)
+*   [10: lo] $\rightarrow$ the angel
+*   [11: +ei] $\rightarrow$ the angel
+
+## Scene 85-96: The arrival of the angel
+In this scene, the angel arrives to guide Dante and Virgil further up the mountain of Purgatory.
+
+Dante begins by reflecting on Virgil's previous warning about not wasting time. He notes that he was already well-accustomed to Virgil's reminders to keep moving, so he did not allow himself to remain too absorbed or "closed" in his study of the images on the pavement.
+
+The "beautiful creature" (the angel) then arrives before them. Dante describes him as dressed in white, with a face that shimmers like the morning star. The angel opens his arms and then his wings, gesturing for the travelers to follow. He speaks to Dante and Virgil, inviting them to come forward and noting that he is now near the steps (the transition to the next level), where the ascent becomes easier.
+
+The angel then shifts from addressing the travelers to making a general observation about mankind. He remarks that very few people actually respond to this divine invitation. He addresses humanity, noting that although humans were born to "fly upward" (toward God), they are fragile and fall at the slightest "wind" (temptation or sin).
+
+**Tag Resolutions:**
+
+*   [1:Io] $\rightarrow$ Dante
+*   [2:+io] $\rightarrow$ Dante
+*   [3:noi] $\rightarrow$ Dante and Virgil
+*   {4:la creatura bella} $\rightarrow$ the angel
+*   [5:+ella] $\rightarrow$ the angel
+*   [6:+ella] $\rightarrow$ the angel
+*   [7:+ella] $\rightarrow$ the angel
+*   [8:+voi] $\rightarrow$ Dante and Virgil
+*   [9:+io] $\rightarrow$ the angel
+*   [10:si] $\rightarrow$ the climber (impersonal "one")
+*   {11:molto radi} $\rightarrow$ the very few (souls/humans who respond to grace)
+*   {12:gente umana} $\rightarrow$ humanity / the human race
+*   [13:+tu] $\rightarrow$ the individual human / humanity (personified)
+
+## Scene 97-108: The difficult climb
+In this scene, the angel leads Dante and Virgil to the transition point between the first and second ledges of Purgatory.
+
+The angel guides Dante to the spot where the rock has been cut into steps. Upon arriving, the angel performs a ritual action, striking Dante's forehead with his wings—a gesture of blessing or spiritual preparation—and assures him that the path ahead is safe.
+
+Dante then uses a detailed simile to describe the geography of the mountain. He compares the ascent to a climb toward a church overlooking the Rubicon river, where the steepness of the mountain is broken by man-made stairs to ensure a secure climb. Similarly, the sheer cliff face at the end of this circle of Purgatory is softened by these steps, although the surrounding stone remains high and rugged.
+
+**Tag Resolutions:**
+
+*   {1:Menocci} $\rightarrow$ the angel (this is the subject of the verb "led")
+*   [2:mi] $\rightarrow$ Dante
+*   [3:mi] $\rightarrow$ Dante
+
+## Scene 109-114: The transition in song
+In this brief concluding scene of Canto 12, Dante and Virgil prepare to move from the first ledge of Purgatory to the second. As they turn to begin their ascent, they hear a chorus of voices singing the first Beatitude: "Blessed are the poor in spirit!" This song is so beautiful and profound that Dante feels ordinary speech is incapable of describing it.
+
+This auditory experience prompts a reflection by Dante on the fundamental difference between the atmosphere of Purgatory and that of Hell. He compares the "mouths" (the entrances) of the two realms: while the way into the circles of Hell is heralded by ferocious screams and laments, the way forward in Purgatory is opened by song and divine harmony.
+
+**Tag Resolutions:**
+
+*   [1: Noi] $\rightarrow$ Dante and Virgil
+*   {2: le nostre persone} $\rightarrow$ Dante and Virgil
+*   {3: pauperes} $\rightarrow$ the humble souls (specifically the souls on the first ledge of Purgatory)
+*   {4: l'infernali} $\rightarrow$ the infernal entrances/mouths (of Hell)
+*   [5: s'] $\rightarrow$ the traveler/soul (impersonal "one")
+
+## Scene 115-126: The mystery of the weightless ascent
+In this scene, Dante and Virgil begin their ascent up the "holy steps" to the second ledge of Purgatory. As they climb, Dante is surprised to find that the ascent feels significantly lighter and easier than walking along the flat path of the first ledge. Curious about this shift in physical sensation, Dante asks Virgil what "heavy thing" has been removed from him to make the effort feel so negligible.
+
+Virgil explains that the lightness is tied to Dante's spiritual purification. He points out the "P"s (the marks of Pride) carved into Dante's forehead; he tells Dante that once these marks are completely erased (as one of them already is), his "good will" (spiritual desire for God) will so completely govern his physical body that his feet will not only feel no fatigue but will actually find pleasure in the act of climbing.
+
+**Tag Resolutions:**
+
+*   [1: +noi] $\rightarrow$ Dante and Virgil
+*   [2: mi] $\rightarrow$ Dante
+*   [3: mi] $\rightarrow$ Dante
+*   [4: +esso] $\rightarrow$ the ascent / the act of climbing
+*   [5: io] $\rightarrow$ Dante
+*   {6: Maestro} $\rightarrow$ Virgil
+*   [7: +tu] $\rightarrow$ Virgil
+*   [8: me] $\rightarrow$ Dante
+*   [9: me] $\rightarrow$ Dante
+*   [10: +ei] $\rightarrow$ Virgil
+*   [11: +tu] $\rightarrow$ Dante
+*   [12: +elli] $\rightarrow$ the marks of Pride (the 'P's) on Dante's forehead
+*   [13: +elli] $\rightarrow$ Dante's feet
+
+## Scene 127-136: The discovery of the inscription
+In this scene, Dante reacts to Virgil's revelation that there are letters carved into his forehead. Since he cannot see his own forehead, Dante describes his actions using a simile: he acts like someone who suspects there is something on their head because others have hinted at it, but who must use their hand to confirm it since sight is impossible.
+
+Dante reaches up with the fingers of his right hand to feel his skin. Through touch, he discovers six carved letters located between the "keys" (the temples) of his head. As he does this, Virgil watches him and smiles, likely amused by Dante's tactile curiosity and the confirmation of the marks of Pride.
+
+**Tag Resolutions:**
+
+*   [1: io] $\rightarrow$ Dante
+*   [2: color] $\rightarrow$ people (generic "those who")
+*   [3: lor] $\rightarrow$ people (generic "those who")
+*   [4: +io] $\rightarrow$ Dante
+*   [5: s'] $\rightarrow$ Dante (or impersonal "one")
+*   [6: +io] $\rightarrow$ Dante
+*   [7: +io] $\rightarrow$ Dante
+*   [8: +io] $\rightarrow$ Dante
+*   [9: si] $\rightarrow$ one (impersonal "one")
+*   [10: +io] $\rightarrow$ Dante
+*   [11: me] $\rightarrow$ Dante
+*   {12: il mio duca} $\rightarrow$ Virgil
+
+# recap
+- Dante and Virgil are traveling together.
+- They have ascended the steps from the first ledge to the second ledge of Purgatory.
+- Dante has just discovered the carved letters of Pride on his forehead.

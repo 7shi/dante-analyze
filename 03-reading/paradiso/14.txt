@@ -1,0 +1,252 @@
+# Canto 14 — The Ascent to a Higher Sphere and the Vision of the New Light
+
+## Scene 1-9: The Proem and the Analogy of Thomas
+In this opening passage, Dante provides a physical analogy to describe the transition between two speakers. He describes how water in a round vessel ripples from the center to the edge or from the edge to the center, depending on where the water is struck.
+
+Dante realizes that this movement mirrors the way the discourse has proceeded: St. Thomas Aquinas spoke first and then fell silent, and then Beatrice began to speak. The "rippling" effect represents the flow of wisdom moving from one source to the other.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante (the narrator/pilgrim).
+- `[2:io]`: Dante (the narrator/pilgrim).
+- `{3:la glorïosa vita di Tommaso}`: Thomas Aquinas.
+- `{4:Beatrice}`: Beatrice.
+- `[5:lui]`: Thomas Aquinas (referring back to the "glorious life of Thomas").
+
+## Scene 10-18: The Celestial Question
+In this scene, Beatrice acts as an intermediary between Dante and St. Thomas Aquinas. Dante is curious about the nature of the light that illuminates the souls in the Fourth Heaven, but he is too hesitant to ask the question himself. Beatrice notices this and speaks to Thomas on Dante's behalf. She asks Thomas to explain if the light that currently adorns his essence will remain with him eternally, and if so, how that is possible given that the souls will eventually be "remade" (transformed into their final, glorified state). She specifically asks if this transformation will make Thomas invisible to Dante and other observers.
+
+**Tag Resolutions:**
+
+*   **[1:costui]**: Dante (the pilgrim, referred to as "this man" by Beatrice).
+*   **[2:vi]**: Thomas Aquinas (the "you" Beatrice is addressing).
+*   **[3:+ei]**: Dante (referring back to the person who needs the answer/the one who is not speaking).
+*   **[4:+voi]**: Thomas Aquinas (the "you" being asked to explain).
+*   **[5:s']**: Thomas Aquinas (the light that adorns *his* substance).
+*   **[6:voi]**: Thomas Aquinas.
+*   **[7:+voi]**: Thomas Aquinas.
+*   **[8:+voi]**: Thomas Aquinas.
+*   **[9:vi]**: Thomas Aquinas (the object of the sight).
+*   **[10:nòi]**: Dante (as part of the "us" who are observing).
+
+## Scene 19-24: The Joy of the Saints
+In this scene, Dante describes the reaction of the souls in the Fourth Heaven to Beatrice's request. He uses a simile: just as people moving in a circle (like in a dance or a procession) express their happiness by raising their voices and becoming more animated, the souls of the wise react to the "devout prayer" (Beatrice's request) with a renewed surge of joy. This joy is expressed through their circular movement and their focused gaze.
+
+**Tag Resolutions:**
+- `[1:quei]`: the souls/saints moving in the celestial circles.
+- `[2:+elli]`: the souls/saints moving in the celestial circles.
+- `{3:li santi cerchi}`: the souls/saints arranged in the holy circles of the Fourth Heaven.
+
+## Scene 25-27: The Lament of the Ascetic
+In this brief scene, St. Thomas Aquinas begins his response to Beatrice’s question. He uses a hypothetical analogy to explain the relationship between the current state of the blessed souls in the Fourth Heaven and their eventual final transformation.
+
+Thomas speaks of a person who is so focused on the desire to reach the highest state (the Empyrean) that they lament their current condition, failing to realize the divine grace and "refreshment" they are already experiencing. He is illustrating that the current light they possess is a precursor to the final glory, and that longing for the "up there" doesn't negate the bliss of the "here."
+
+**Tag Resolutions:**
+
+*   **[1:si]**: a hypothetical person (whoever laments).
+*   **[2:si]**: a hypothetical person (the same person who laments).
+*   **[3:+ei]**: a hypothetical person (the same person who laments).
+
+## Scene 28-33: The Trinitarian Hymn
+In this scene, Dante the narrator describes a hymn being sung by the souls of the Fourth Heaven. The passage focuses on the subject of their praise: the Holy Trinity. The souls are singing a melody of such beauty and devotion that it is described as a just reward for any merit. They praise God's eternal nature, His reign in the triune unity, and His omnipresence (the fact that He is not limited by space but instead encompasses everything).
+
+**Tag Resolutions:**
+- `{1:Quell' uno e due e tre}`: God (the Holy Trinity).
+- `[2:+egli]`: God (the Holy Trinity).
+- `{3:tre e 'n due e 'n uno}`: God (the Holy Trinity).
+- `[4:+egli]`: God (the Holy Trinity).
+- `[5:+egli]`: God (the Holy Trinity).
+- `{6:quelli spirti}`: the souls/saints of the Fourth Heaven (the assembly of the wise).
+
+## Scene 34-39: The Angelic Answer
+In this scene, Dante hears the response to the question Beatrice posed to St. Thomas Aquinas. The voice is described as "modest," and Dante compares its quality to the voice of the Archangel Gabriel when he spoke to the Virgin Mary. The speaker (Thomas Aquinas) explains that as long as the eternal celebration of Paradise continues, the love of the saints will radiate around them like a garment of light.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the narrator/pilgrim).
+- `{2:una voce modesta}`: Thomas Aquinas (whose voice is being described).
+- `{3:angelo}`: The Archangel Gabriel (referenced in the simile).
+- `{4:Maria}`: The Virgin Mary (referenced in the simile).
+
+## Scene 40-51: The Mechanics of Divine Light
+In this scene, St. Thomas Aquinas provides a technical explanation of how divine light works in Paradise. He describes a causal chain: the **Vision** of God produces **Ardor** (intense love/passion), and that Ardor produces **Clarity** (the light that radiates from the soul). The extent of this light depends on the amount of grace God grants the soul beyond its own natural merit.
+
+Thomas further explains that when the souls are eventually "reclothed" in their glorified bodies (the final state of the resurrection), their capacity to receive grace will increase. Because they will receive more light from God, their vision of God will be enhanced, which in turn will increase their love (ardor) and the light they emit.
+
+**Tag Resolutions:**
+
+*   **[1:+egli]**: a blessed soul (representing any saint in Paradise).
+*   **{2:la carne glorïosa e santa}**: the glorified bodies of the blessed souls (the state they will assume at the final resurrection).
+*   **{3:la nostra persona}**: the blessed souls (Thomas is speaking as one of the blessed, using "our" to include himself and the other saints).
+*   **{4:il sommo bene}**: God.
+*   **[5:lui]**: God (the one whom the light enables the souls to see).
+
+## Scene 52-60: The Analogy of the Ember
+In this scene, St. Thomas Aquinas continues his technical explanation to Dante and Beatrice, specifically addressing whether the souls will become invisible once they are "reclothed" in their glorified bodies. He uses a physical analogy to explain how the light and the body will coexist.
+
+Thomas compares a soul to a piece of coal (*carbon*). He explains that just as a glowing coal produces a flame, and the intense white heat (the *candor*) makes the flame's appearance seem surpassed or eclipsed, the current light (*folgor*) that Dante sees surrounding the souls will be "overcome in appearance" by the glorified flesh. However, this does not mean the light vanishes; rather, the presence of the body becomes the dominant visual feature. He concludes by reassuring Dante that this intense light will not overwhelm or "fatigue" the resurrected body, because the body's physical organs will be strengthened by God to fully experience and enjoy the divine delight.
+
+**Tag Resolutions:**
+
+*   **[1:+ella]**: the flame (the *fiamma* in the analogy, which represents the current light emitted by the blessed souls).
+*   **{2:la carne}**: the glorified bodies of the blessed souls (the "flesh" they will assume at the final resurrection).
+*   **{3:li organi del corpo}**: the organs of the glorified bodies (the physical senses of the saints' resurrected bodies).
+
+## Scene 61-66: The Amen of the Souls
+In this scene, the blessed souls of the Fourth Heaven react to St. Thomas Aquinas's explanation about the restoration of their glorified bodies. They respond with a collective and enthusiastic "Amen!" 
+
+Dante observes their eagerness and interprets it as a longing for the Resurrection of the dead. He realizes that the saints' desire for their bodies is not merely for their own sake, but is motivated by love for their earthly families—their mothers, fathers, and other dear ones. They long for the final state where they can be reunited with their loved ones in a fully restored, glorified form.
+
+**Tag Resolutions:**
+
+*   **[1:mi]**: Dante (the narrator/pilgrim).
+*   **{2:l'uno e l'altro coro}**: the souls/saints of the Fourth Heaven (the two "choirs" or groups of the wise).
+*   **[3:Amme!]**: the souls/saints of the Fourth Heaven (as the speakers of the word).
+*   **{4:i corpi morti}**: the deceased earthly bodies of humans.
+*   **[5:lor]**: the deceased earthly bodies (referring back to the "dead bodies").
+*   **{6:le mamme}**: the mothers of the blessed souls.
+*   **{7:li padri}**: the fathers of the blessed souls.
+*   **[8:+elli]**: the souls/saints of the Fourth Heaven.
+*   **{9:sempiterne fiamme}**: the souls/saints of the Fourth Heaven (described metaphorically as "everlasting flames").
+
+## Scene 67-75: The Emergence of New Spheres
+In this scene, there are no numbered tags to resolve. However, here is the plain English analysis of the action:
+
+**Scene Summary: The Emergence of New Spheres**
+Dante observes a visual transition as he and Beatrice prepare to ascend. He sees a new radiance emerge, adding to the light already present, which he compares to a brightening horizon. He then uses a simile, comparing the experience to the onset of evening when the first stars (the "nine appearances") begin to appear in the sky. To Dante, it seems as though new "existences" (the souls of the next sphere) are appearing and forming a circle outside the two circles he had seen in the Fourth Heaven. This marks the transition from the sphere of the Sun toward the sphere of Jupiter.
+
+**Tag Resolutions:**
+No numbered tags were provided in this text segment.
+
+## Scene 76-78: The Intensity of the Holy Spirit
+**Scene Analysis**
+
+In this brief but intense scene, Dante experiences a sudden and blinding flash of light as he continues his ascent. He identifies this brilliant shimmering as the manifestation of the Holy Spirit. The light becomes so white and searing (*candente*) that Dante's eyes are overwhelmed, and he is unable to withstand the intensity of the vision. This serves as a spiritual and visual bridge as he moves from the sphere of the Sun toward the sphere of Jupiter.
+
+**Tag Resolutions**
+
+*   `{1:Santo Spiro}`: The Holy Spirit.
+
+## Scene 79-81: The Sight of Beatrice
+In this scene, Dante describes the immediate aftermath of the blinding flash of the Holy Spirit. As he recovers his sight, he sees Beatrice. She appears to him radiant and smiling, and her presence is so magnificent that it transcends human understanding. Dante suggests that her appearance is intentionally overwhelming, leaving his mind unable to fully grasp or "follow" the intensity of the vision.
+
+**Tag Resolutions:**
+- `{1:Bëatrice}`: Beatrice.
+- `[2:mi]`: Dante (the narrator/pilgrim).
+- `[3:si]`: Beatrice (reflexive: she showed *herself* to Dante).
+- `[4:si]`: Beatrice (the one who "wants to leave" the experience beyond the mind's grasp).
+
+## Scene 82-84: The Translocation
+In this brief scene, Dante's vision recovers after the blinding flash of the Holy Spirit. As his eyes regain their strength, he realizes that he has been instantaneously transported (translocated) to a higher state or sphere. He finds himself alone with Beatrice, having left the sphere of the Sun behind and ascended toward the sphere of Jupiter.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante (the narrator/pilgrim).
+- `{2:mia donna}`: Beatrice.
+
+## Scene 85-87: The Radiance of the Star
+In this brief scene, Dante describes the moment of realization following his translocation. He understands that he has ascended to a higher level of Paradise not through a physical sensation of movement, but through a visual cue: the appearance of Beatrice. He notices that her smile is "fiery" and her radiance is redder (*roggio*) than he has seen previously. In the *Divina Commedia*, the increasing intensity and shifting colors of the light often signal an ascent to a higher sphere of divine grace and wisdom.
+
+**Tag Resolutions:**
+- `[1:m']`: Dante (the narrator/pilgrim).
+- `[2:io]`: Dante (the narrator/pilgrim).
+- `[3:io]`: Dante (the narrator/pilgrim).
+- `{4:la stella}`: Beatrice (referred to by the poetic epithet "the star").
+- `[5:mi]`: Dante (the narrator/pilgrim).
+
+## Scene 88-90: The Sacrifice of Praise
+In this scene, Dante responds to his arrival in the sphere of Jupiter and the increased intensity of the divine light he is experiencing. He offers a "holocaust"—a metaphorical sacrifice of total praise and devotion—to God. He does this with all his heart, using the universal language of prayer that is common to all the blessed souls in Paradise, recognizing that this act of worship is the appropriate response to the "new grace" he has just received.
+
+**Tag Resolutions:**
+- `[1:tutti]`: the blessed souls/saints (who all share the same language of praise).
+- `{2:Dio}`: God.
+- `[3:+io]`: Dante (the narrator/pilgrim).
+
+## Scene 91-96: The Double Radiance
+In this scene, Dante is still feeling the emotional and spiritual intensity of the "sacrifice" (the prayer of praise) he just offered to God. He feels that his prayer was accepted and welcomed. While in this state of spiritual exaltation, he is suddenly struck by a vision of intense, reddish brilliance appearing within two rays of light. Overwhelmed by the magnificence of this sight, he exclaims, addressing the Sun (using its Greek name, Helios), marveling at how the Sun has so beautifully adorned these rays.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the narrator/pilgrim).
+- `[2:m']`: Dante (the narrator/pilgrim).
+- `[3:io]`: Dante (the narrator/pilgrim).
+- `{4:Elïòs}`: The Sun (addressed by Dante).
+
+## Scene 97-102: The Analogy of the Milky Way
+In this scene, Dante continues to describe the visually overwhelming light he is experiencing as he ascends. He employs a complex astronomical simile to help the reader visualize the "two rays" of light he mentioned in the previous scene.
+
+Dante compares the brilliance and appearance of these rays to the Milky Way (*Galassia*), which stretches between the poles of the world and is composed of a mixture of smaller and larger lights. He notes that the appearance of the Milky Way is so complex that it can cause even the "wise" to doubt or be confused about its nature. He then relates this to the current vision: the rays of light are forming a "venerable sign" (a cross) that appears in the depths of the sphere of Mars (looking back/down from his current height). This creates a geometric image of a cross formed by quadrants in a circle, marking a transition in the celestial architecture as he moves toward Jupiter.
+
+**Tag Resolutions:**
+
+*   `{1:saggi}`: The wise (referring to earthly astronomers or scholars of the natural world who study the stars and the Galaxy).
+
+## Scene 103-108: The Cruciform Light
+In this scene, Dante reflects on the limits of his own poetic and descriptive abilities. He admits that his memory and his "wit" (his creative imagination) are insufficient to find a worthy example or metaphor to describe the flashing cross he is witnessing. 
+
+He acknowledges his failure to describe the vision perfectly, but he offers a spiritual justification: he suggests that those who truly follow Christ—by "taking up their cross"—will forgive his shortcomings. He believes that these faithful believers, who share the same spiritual vision, will recognize the presence of Christ flashing in the white light and will therefore understand why the experience transcends human language.
+
+**Tag Resolutions:**
+
+*   `{1:Cristo}`: Christ.
+*   `[2:io]`: Dante (the narrator/pilgrim).
+*   `[3:chi]`: A disciple/believer (anyone who takes up their cross).
+*   `[4:+ei]`: A disciple/believer (the same person as `[3:chi]`).
+*   `{5:Cristo}`: Christ.
+*   `[6:+ei]`: A disciple/believer (the same person as `[3:chi]`).
+*   `[7:mi]`: Dante (the narrator/pilgrim).
+*   `[8:io]`: Dante (the narrator/pilgrim).
+*   `{9:Cristo}`: Christ.
+
+## Scene 109-117: The Motion of the Lights
+In this scene, Dante is describing the dynamic visual quality of the cruciform light he has just witnessed. He describes a flurry of activity within the rays of light, with sparks and luminosities moving in all directions—from side to side ("horn to horn") and from top to bottom. These lights intersect and pass through one another, appearing in various shapes (straight or crooked) and speeds (fast or slow).
+
+Dante explains that he can see the "minutiae of bodies" (tiny particles or motes) moving through the rays of light. This movement creates a pattern of light and shadow. He compares this effect to the way human beings on earth use their ingenuity and artistic skill to create shade or shielding ("for its own defense"), perhaps referring to architectural shading or the way painters create depth and shadow to protect the eye or define form. Essentially, he is using a physical analogy of dust motes in a sunbeam to describe the shimmering, living quality of the divine light.
+
+**Tag Resolution:**
+- `{1:la gente}`: human beings/people on earth.
+
+## Scene 118-123: The Celestial Melody
+**Scene Analysis: The Celestial Melody**
+
+In this scene, Dante describes the auditory experience that accompanies the visual vision of the cruciform light. He uses a musical simile to explain how he is affected by the divine sound. He compares the experience to hearing a harp or a *giga* (a medieval stringed instrument); even a person who does not understand the technical theory of the music or the specific notes being played can still be delighted by the "sweet tinkling" of the strings.
+
+Similarly, Dante explains that a melody was emanating from the "lights" (the blessed souls/divine sparks) forming the cross. Although he cannot comprehend the actual words or the theological meaning of the hymn being sung, the sheer beauty and holiness of the sound "rapture" him, transporting him emotionally and spiritually.
+
+**Tag Resolutions:**
+
+*   **[1:tal]**: a hypothetical person (anyone who hears a harp without understanding the music).
+*   **{2:lumi}**: the blessed souls (the radiant lights making up the cruciform vision).
+*   **[3:m']**: Dante (the narrator/pilgrim).
+*   **[4:mi]**: Dante (the narrator/pilgrim).
+
+## Scene 124-126: The Unintelligible Hymn
+In this scene, Dante reflects on the nature of the melody he is hearing from the cruciform light. He realizes that the song consists of "high praise," even though he cannot fully understand the language. He identifies a few specific words—"Resurgi" (Rise) and "Vinci" (Conquer/Overcome)—that reach him. He compares his state to that of a person who can hear a sound but cannot comprehend the meaning of the words being spoken.
+
+**Tag Resolutions:**
+
+*   **[1:m']**: Dante (the narrator/pilgrim).
+*   **[2:io]**: Dante (the narrator/pilgrim).
+*   **[3:elli]**: the blessed souls (the radiant lights/souls forming the cross, who are singing the praises).
+*   **[4:me]**: Dante (the narrator/pilgrim).
+*   **[5:colui]**: a hypothetical person (someone who hears a sound without understanding its meaning).
+
+## Scene 127-139: The Poet's Apologia
+In this scene, Dante reflects on the overwhelming emotional and spiritual effect of the cruciform light and the heavenly music he just experienced. He admits that he was so captivated by this divine melody that he felt a sense of bondage—not a restrictive one, but a "sweet" bondage of love and attraction—stronger than anything he had felt before.
+
+Dante then pauses to offer a poetic "apologia" (a formal justification). He worries that his words might seem arrogant or "too bold" because he is essentially ranking the pleasure of the divine sound above the pleasure of Beatrice's beautiful eyes, which have always been the focus of his desire. However, he explains that this is not a contradiction. He argues that the purpose of all beauty is to lead the soul "further upward" toward the source of all beauty. Since he was following the path that beauty itself indicates, he asks the reader (or any understanding observer) to excuse him for the perceived slight toward Beatrice. He concludes by stating that "holy pleasure" is not yet fully revealed; it becomes purer and more "sincere" the higher he ascends.
+
+**Tag Resolutions:**
+
+*   **[1:Ïo]**: Dante (the narrator/pilgrim).
+*   **[2:m']**: Dante (the narrator/pilgrim).
+*   **[3:mi]**: Dante (the narrator/pilgrim).
+*   **[4:chi]**: anyone/whoever (a generic person or a reader who understands the nature of beauty).
+*   **[5:s']**: anyone/whoever (the same generic person).
+*   **[6:io]**: Dante (the narrator/pilgrim).
+*   **[7:m']**: Dante (the narrator/pilgrim).
+*   **[8:+io]**: Dante (the narrator/pilgrim).
+*   **[9:io]**: Dante (the narrator/pilgrim).
+*   **[10:m']**: Dante (the narrator/pilgrim).
+
+# recap
+- Dante and Beatrice are traveling together.
+- They have ascended from the Sphere of the Sun to the Sphere of Jupiter.
+- Dante has just experienced a blinding vision of a cruciform light and an overwhelming celestial melody.

@@ -1,0 +1,402 @@
+# Canto 21 — The Encounter with Statius and the Nature of Purgatory
+
+## Scene 1-6: Dante's Thirst
+**Scene Analysis: Dante's Thirst**
+
+**What happens:**
+Dante describes a physical sensation: he is suffering from an intense, "natural" thirst. He uses a biblical allusion to the Samaritan woman at the well to emphasize the depth of this thirst. As he struggles with this discomfort, he follows Virgil across the rough, difficult terrain of the fifth terrace. While walking, he reflects on the punishments he is witnessing, noting that he feels the "vengeance" (the divine punishment) inflicted upon the angry souls is just.
+
+**Who speaks to whom:**
+There is no dialogue in these lines; this is a first-person narrative account of Dante's internal state and his physical movements.
+
+**Tag Resolutions:**
+- `{1:la femminetta}`: The Samaritan woman (from the Gospel of John).
+- `{2:samaritana}`: The Samaritan woman.
+- `[3:+ella]`: The natural thirst (*la sete natural*). Although not a person, the pronoun refers back to this personified physical craving.
+- `[4:mi]`: Dante.
+- `{5:duca}`: Virgil (Dante's guide).
+- `[6:+io]`: Dante.
+
+## Scene 7-13: The Appearance of the Shade
+**Scene Analysis: The Appearance of the Shade**
+
+**What happens:**
+Dante uses a biblical simile to describe the sudden appearance of a new character. He compares the situation to the Gospel of Luke, where the resurrected Christ appears to two disciples on the road to Emmaus. Just as Christ appeared to them, a "shade" (a soul) emerges and begins following Dante and Virgil. The shade walks behind them, looking down at the suffering crowd of angry souls lying on the ground. Dante and Virgil are so preoccupied that they don't notice the figure until the shade speaks first, greeting them with a wish for God's peace.
+
+**Who speaks to whom:**
+The shade (who is later revealed to be Statius) speaks to Dante and Virgil.
+
+**Tag Resolutions:**
+- `{1:Luca}`: Luke (the Evangelist).
+- `{2:Cristo}`: Christ.
+- `[3:due]`: The two disciples on the road to Emmaus.
+- `[4:ci]`: Dante and Virgil.
+- `{5:un'ombra}`: A shade (the soul of Statius).
+- `[6:noi]`: Dante and Virgil.
+- `[7:+ella]`: The shade.
+- `{8:la turba}`: The crowd (the souls of the angry on the fifth terrace).
+- `[9:+noi]`: Dante and Virgil.
+- `[10:ci]`: Dante and Virgil.
+- `[11:lei]`: The shade.
+- `[12:+ella]`: The shade.
+- `{13:frati miei}`: Dante and Virgil.
+- `{14:Dio}`: God.
+- `[15:vi]`: Dante and Virgil.
+
+## Scene 14-21: The Initial Confrontation
+**Scene Analysis: The Initial Confrontation**
+
+**What happens:**
+Dante and Virgil react to the greeting of the mysterious shade. They turn around, and Virgil acknowledges the stranger with a customary gesture of greeting. Virgil speaks first, wishing the shade peace from the "true court" (Heaven), while lamenting that this same divine court keeps Virgil himself in eternal exile. The shade is visibly surprised by this; he is bewildered that two souls—whom he assumes are both "unworthy" of Heaven—are being allowed to travel so freely and with such guidance up the mountain (which he calls "His stairway").
+
+**Who speaks to whom:**
+1. Virgil speaks to the shade.
+2. The shade (who is later revealed to be Statius) speaks to Virgil and Dante.
+
+**Tag Resolutions:**
+- `[1:Noi]`: Dante and Virgil.
+- `[2:ci]`: Dante and Virgil.
+- `{3:Virgilio}`: Virgil.
+- `[4:rendéli]` (the *gli* suffix): The shade (Statius).
+- `[5:+elli]`: Virgil.
+- `[6:ti]`: The shade (Statius).
+- `{7:la verace corte}`: The Court of Heaven (the assembly of the blessed).
+- `[8:me]`: Virgil.
+- `[9:elli]`: The shade (Statius).
+- `[10:+noi]`: Dante and Virgil.
+- `[11:voi]`: Dante and Virgil.
+- `{12:ombre}`: Dante and Virgil (the shade perceives them both as spirits).
+- `{13:Dio}`: God.
+- `[14:chi]`: The entity/power granting the escort (referring to God).
+- `[15:v']`: Dante and Virgil.
+
+## Scene 22-33: Virgil's Explanation of the Shade's Arrival
+**Scene Analysis: Virgil's Explanation of the Shade's Arrival**
+
+**What happens:**
+Virgil responds to the shade's bewilderment by explaining Dante's presence. He tells the shade to look at the "signs" (the seven P's carved into Dante's forehead by the angel), which prove that Dante is destined to be among the blessed in Heaven. However, Virgil explains that because Dante is still alive—meaning the Fate Clotho has not yet cut the thread of his life—his soul cannot navigate the afterlife on its own. Consequently, Virgil was brought out of the "wide maw" of Hell to act as a guide, and he will continue to lead Dante as far as his "school" (his guidance and knowledge) can take him.
+
+**Who speaks to whom:**
+Virgil speaks to the shade (who is later identified as Statius).
+
+**Tag Resolutions:**
+- `{1:l dottor mio}`: The shade (Statius), whom Virgil addresses with respect for his learning.
+- `[2:tu]`: The shade (Statius).
+- `[3:questi]`: Dante.
+- `{4:l}'angel`: The Angel of the Fifth Terrace.
+- `[5:+tu]`: The shade (Statius).
+- `{6:coi buon}`: The blessed souls in Heaven.
+- `[7:e']`: Dante.
+- `[8:lei]`: The personified Fate/the spinning process of life.
+- `[9:li]`: Dante (specifically, his thread of life).
+- `{10:Cloto}`: Clotho, the Fate who spins the thread of life.
+- `{11:l}'anima sua`: Dante's soul.
+- `{12:tua e mia serocchia}`: Dante (addressed as the "junior" or "late-comer" to the poetic tradition shared by Virgil and Statius).
+- `[13:+ella]`: Dante's soul.
+- `[14:+ella]`: Dante's soul.
+- `[15:io]`: Virgil.
+- `[16:mostrarli]` (the *li* suffix): Dante.
+- `[17:+io]`: Virgil.
+- `[18:mosterrolli]` (the *li* suffix): Dante.
+- `[19:'l]`: Dante.
+- `{20:mia scola}`: Virgil's guidance/teaching (his "school").
+
+## Scene 34-36: The Inquiry Regarding the Earthquake
+**Scene Analysis: The Inquiry Regarding the Earthquake**
+
+**What happens:**
+Continuing the conversation, Virgil asks the mysterious shade for information. He is curious about the seismic event they just experienced—the earthquake that shook the mountain—and the collective, simultaneous shouting (or singing) that seemed to echo from the summit all the way down to the base of the mountain. Virgil is seeking an explanation for these supernatural occurrences.
+
+**Who speaks to whom:**
+Virgil speaks to the shade (who is later revealed to be Statius).
+
+**Tag Resolutions:**
+- `[1:+tu]`: The shade (Statius).
+- `[2:tu]`: The shade (Statius).
+
+## Scene 37-39: Dante's Anticipation
+**Scene Analysis: Dante's Anticipation**
+
+**What happens:**
+As the mysterious shade (Statius) begins to respond to Virgil's questions about the earthquake, Dante experiences a psychological shift. The prospect of receiving an answer—the "hope" of satisfying his curiosity—acts as a mental relief. This hope is described as passing through the "eye" (or narrow opening) of his desire, and it effectively eases the intensity of the physical thirst Dante has been suffering from since the beginning of the canto. The intellectual satisfaction of an impending answer mitigates his physical distress.
+
+**Who speaks to whom:**
+While these lines are Dante's internal narrative, they describe the moment the shade (Statius) begins to address Virgil's inquiry.
+
+**Tag Resolutions:**
+- `[1:+lui]`: The shade (Statius), who provides the answer/response.
+- `[2:mi]`: Dante, who receives the answer and feels the relief.
+
+## Scene 40-54: The Immutable Nature of Purgatory
+**Scene Analysis: The Immutable Nature of Purgatory**
+
+**What happens:**
+The mysterious shade (Statius) begins to answer Virgil's question about the earthquake. He explains that the mountain of Purgatory is governed by a strict, divine order and is not subject to the erratic changes of nature or weather. He asserts that the only cause for any occurrence on the mountain is the will of Heaven. To illustrate this stability, he lists the things that *do not* happen here: there is no rain, hail, snow, dew, or frost, nor are there clouds or lightning above the first terrace (the "three steps"). He specifically mentions that the atmospheric disturbances common in the mortal world do not exist here, except for the very bottom of the mountain where the proud—including those who held the highest earthly power, the papacy—are purged.
+
+**Who speaks to whom:**
+The shade (Statius) speaks to Virgil and Dante.
+
+**Tag Resolutions:**
+- `[1:Quei]`: The shade (Statius).
+- `{2:figlia di Taumante}`: Iris (the goddess of the rainbow/messenger of the gods, here representing atmospheric phenomena/rainbows).
+- `[3:io]`: The shade (Statius).
+- `{4:'l vicario di Pietro}`: The Pope (the Vicar of Peter).
+
+## Scene 55-66: The Cause of the Tremor
+**Scene Analysis: The Cause of the Tremor**
+
+**What happens:**
+The shade (Statius) continues his explanation of the supernatural mechanics of Purgatory. He clarifies that while there might be tremors further down the mountain, they are never caused by natural phenomena like subterranean winds. Instead, an earthquake occurs whenever a soul is finally purified ("monda") and is ready to ascend to a higher level. He explains that this process demonstrates the power of the will; the soul now genuinely desires the good. However, he notes a crucial theological distinction: although the soul's *will* has changed, it still retains the ingrained habits or dispositions (*talento*) of its past sins. Therefore, Divine Justice continues to subject the soul to the purgatorial torment until those lingering habits are completely erased, just as the soul was subject to the consequences of its actions during the act of sinning.
+
+**Who speaks to whom:**
+The shade (Statius) speaks to Virgil and Dante.
+
+**Tag Resolutions:**
+- `[1:+io]`: The shade (Statius).
+- `{2:alcuna anima monda}`: A purified soul (any soul that has completed its purging).
+- `[3:si]`: A purified soul.
+- `[4:+ella]`: A purified soul.
+- `{5:l'alma}`: The soul (in a general sense, the soul undergoing purgation).
+- `[6:le]`: The soul.
+- `[7:+ella]`: The soul.
+- `[8:+ella]`: The soul.
+- `{9:divina giustizia}`: Divine Justice.
+- `[10:+ella]`: The soul.
+- `[11:+ella]`: The soul.
+
+## Scene 67-72: The Shade's Long Exile
+**Scene Analysis: The Shade's Long Exile**
+
+**What happens:**
+The mysterious shade (who is later revealed to be Statius) provides the specific cause for the earthquake and the singing that Dante and Virgil just witnessed. He reveals that he has been suffering in the pains of Purgatory for over five hundred years. He explains that, at that very moment, he finally felt his "free will" shift toward a "better threshold" (meaning he has finally achieved the internal disposition necessary to ascend). Because his soul has reached this state of purification, the mountain shook, and the other pious spirits sang praises to God, who is the one who sends the purified souls upward.
+
+**Who speaks to whom:**
+The shade (Statius) speaks to Virgil (and Dante).
+
+**Tag Resolutions:**
+- `[1:io]`: The shade (Statius).
+- `[2:+io]`: The shade (Statius).
+- `[3:+tu]`: Virgil (the shade is responding to Virgil's specific inquiry from lines 34-36).
+- `{4:li pii}`: The pious souls in Purgatory.
+- `{5:spiriti}`: The pious souls in Purgatory.
+- `{6:quel Segnor}`: God.
+- `[7:li]`: The pious souls (the purified spirits).
+
+## Scene 73-75: Dante's Impression
+**Scene Analysis: Dante's Impression**
+
+**What happens:**
+Dante reflects on the words spoken by the mysterious shade (Statius). He notes that the shade's joy in finally achieving purification is proportional to the long "thirst" (the 500 years of suffering) he endured. Dante then remarks that he cannot fully express how much the shade's explanation benefited him; the intellectual relief of knowing the cause of the earthquake acted as a remedy for his own intense physical thirst, easing his suffering.
+
+**Who speaks to whom:**
+This is a first-person narrative account of Dante's internal state; there is no spoken dialogue in these lines.
+
+**Tag Resolutions:**
+- `[1:+elli]`: The shade (Statius).
+- `[2:el]`: The shade (Statius).
+- `[3:si]`: The shade (Statius).
+- `[4:+io]`: Dante.
+- `[5:el]`: The shade (Statius).
+- `[6:mi]`: Dante.
+
+## Scene 76-81: Virgil Demands Identity
+**Scene Analysis: Virgil Demands Identity**
+
+**What happens:**
+Having heard the explanation about the earthquake, Virgil expresses that he now understands the "net" (the divine mechanism/system) that entangles the souls in Purgatory, how it operates, why the mountain shakes, and what causes the souls to rejoice. Now that the mystery of the supernatural event is solved, Virgil turns his attention to the mystery of the stranger. He asks the shade to reveal who he was in life and why he has remained in Purgatory for so many centuries, requesting that the shade's words provide him with this information.
+
+**Who speaks to whom:**
+Virgil speaks to the shade (Statius).
+
+**Tag Resolutions:**
+- `{1:l savio duca}`: Virgil.
+- `[2:+io]`: Virgil.
+- `[3:vi]`: The shade (and by extension, the souls of Purgatory who are subject to its laws).
+- `[4:ci]`: Dante, Virgil, and the shade (everyone present on the mountain).
+- `[5:+voi]`: The shade (and the other pious spirits of Purgatory).
+- `[6:chi]`: The shade.
+- `[7:+tu]`: The shade.
+- `[8:+tu]`: The shade.
+- `[9:io]`: Virgil.
+- `[10:+tu]`: The shade.
+- `[11:mi]`: Virgil.
+- `[12:+tu]`: The shade.
+
+## Scene 82-87: The Shade's Historical Context
+**Scene Analysis: The Shade's Historical Context**
+
+**What happens:**
+The mysterious shade begins to answer Virgil's request for his identity by placing himself in a specific historical timeframe. He explains that he lived during the era of the Emperor Titus, specifically during the time when Titus—with the help of the "Highest King" (God)—avenged the city (Jerusalem) from which the blood of Christ (who was sold by Judas) had flowed. The shade reveals that during his life in the mortal world ("di là"), he was very famous and held a name that brought him great honor; however, he qualifies this by admitting that his fame was secular and that he did not yet possess the Christian faith.
+
+**Who speaks to whom:**
+The shade (who is soon revealed to be the poet Statius) speaks to Virgil and Dante.
+
+**Tag Resolutions:**
+- `{1:l buon Tito}`: Emperor Titus.
+- `{2:del sommo rege}`: God.
+- `{3:Giuda}`: Judas Iscariot.
+- `[4:io]`: The shade (Statius).
+- `{5:quello spirto}`: The shade (Statius).
+
+## Scene 88-102: The Praise of the Poet
+**Scene Analysis: The Praise of the Poet**
+
+**What happens:**
+The mysterious shade finally reveals his identity and shares his history. He describes how his poetic talent (his "vocal spirit") was so great that it drew him from his home in Tolosa (Toulouse) to Rome, where he was honored with a myrtle crown. He explicitly identifies himself as Statius and notes that he is still remembered by that name in the mortal world. He mentions his two major works: one concerning Thebes (the *Thebaid*) and another concerning Achilles (the *Achilleid*), though he admits he struggled with the latter. He then pays a profound tribute to Virgil, explaining that he was inspired by the "divine flame" of great poets, specifically the *Aeneid*. He personifies the *Aeneid* as both a mother and a nurse, claiming that without its influence, his own poetry would have no value. Finally, he mentions that because he lived during the same era as Virgil, he would be happy to spend an extra day (a "sun") in Purgatory if it were necessary, as a mark of respect for the poet.
+
+**Who speaks to whom:**
+Statius speaks to Virgil and Dante.
+
+**Tag Resolutions:**
+- `{1:mio vocale spirto}`: Statius's poetic voice/spirit.
+- `{2:tolosano}`: Statius (referring to his origin in Toulouse).
+- `[3:sé]`: Rome (the city that drew him to itself).
+- `[4:mi]`: Statius.
+- `{5:Roma}`: Rome.
+- `[6:+io]`: Statius.
+- `{7:Stazio}`: Statius.
+- `{8:la gente}`: The people of the mortal world.
+- `[9:mi]`: Statius.
+- `[10:+io]`: Statius.
+- `{11:del grande Achille}`: Achilles.
+- `[12:+io]`: Statius.
+- `[13:mi]`: Statius.
+- `[14:+io]`: Statius.
+- `{15:la qual mamma}`: The *Aeneid* (personified as a mother).
+- `[16:+ella]`: The *Aeneid*.
+- `[17:+ella]`: The *Aeneid*.
+- `{18:nutrice}`: The *Aeneid* (personified as a nurse).
+- `[19:essa]`: The *Aeneid*.
+- `[20:+io]`: Statius.
+- `{21:Virgilio}`: Virgil.
+- `[22:+io]`: Statius.
+- `[23:+io]`: Statius.
+
+## Scene 103-108: Virgil's Gesture of Silence
+**Scene Analysis: Virgil's Gesture of Silence**
+
+**What happens:**
+Following the heartfelt praise from Statius, Virgil is deeply moved. Rather than responding with words, he turns to Dante with a facial expression that communicates a request for silence ("Be silent"). Dante observes this and reflects on the limitations of human willpower (*virtù*). He notes that laughter and tears are so instinctively tied to strong passion that even the most steadfast and truthful people (*i più veraci*) cannot always control their emotional responses through sheer will. Virgil, despite his wisdom and composure, is momentarily overcome by the emotion of the tribute.
+
+**Who speaks to whom:**
+Virgil does not speak aloud; he communicates non-verbally to Dante through a look/gesture.
+
+**Tag Resolutions:**
+- `{1:Virgilio}`: Virgil.
+- `[2:me]`: Dante.
+- `[3:+tu]`: Dante (Virgil is signaling to Dante to remain silent).
+- `[4:si]`: Everyone/anyone (referring back to *ciascun*, the general subject of the line).
+- `{5:più veraci}`: The most steadfast/truthful people (referring to those of strong character or virtue in general).
+
+## Scene 109-114: The Shade's Confusion
+**Scene Analysis: The Shade's Confusion**
+
+**What happens:**
+Dante reacts to Virgil's emotional state and the subsequent request for silence by smiling—a subtle, knowing smile compared to a wink. Seeing this, Statius (the shade) stops speaking and looks intently into Dante's eyes. Statius is confused by this reaction. He asks Dante why, if he is undertaking such a strenuous and serious journey for a virtuous purpose (his ascent to Heaven), his face would show a "flash of laughter" or a smile. Statius finds the smile incongruous with the gravity of Dante's spiritual labor.
+
+**Who speaks to whom:**
+Statius speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante.
+- `{2:l'uom} ch'ammicca`: A man who winks (a generic figure used in a simile to describe Dante).
+- `{3:l'ombra}`: Statius.
+- `[4:si]`: Statius.
+- `[5:+ella]`: Statius.
+- `[6:+tu]`: Dante.
+- `[7:+ella]`: Statius.
+
+## Scene 115-120: Dante's Internal Conflict
+**Scene Analysis: Dante's Internal Conflict**
+
+**What happens:**
+Dante finds himself in a psychological dilemma, caught between two conflicting pressures. On one hand, Virgil has signaled for him to remain silent; on the other, Statius has explicitly asked him to explain his smile. Unable to resolve this tension, Dante lets out a sigh. Virgil notices this sigh and intervenes, reassuring Dante and giving him permission to speak. Virgil tells him not to be afraid and encourages him to answer the question that Statius has asked with such earnest curiosity.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante.
+- `[2:mi]`: Dante.
+- `[3:io]`: Dante.
+- `[4:io]`: Dante.
+- `[5:+io]`: Dante.
+- `{6:dal mio maestro}`: Virgil.
+- `[7:+tu]`: Dante.
+- `[8:mi]`: Dante.
+- `[9:+ei]`: Virgil.
+- `[10:+tu]`: Dante.
+- `[11:+tu]`: Dante.
+- `[12:e']`: Statius (the one asking the question).
+
+## Scene 121-129: The Revelation of Virgil
+**Scene Analysis: The Revelation of Virgil**
+
+**What happens:**
+Following Virgil's permission to speak, Dante addresses Statius to explain the reason for his smile. Dante tells the "ancient spirit" that while he may have been puzzled by the smile, he should instead be filled with amazement. He reveals the identity of his guide: the man leading him is indeed Virgil, the very poet from whom Statius derived the strength and inspiration to write about men and gods. Dante tells Statius that if he suspected any other reason for the laughter, he should discard that thought as untrue and instead trust in the truth of the glowing praise he had just offered to Virgil.
+
+**Who speaks to whom:**
+Dante speaks to Statius.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante.
+- `[2:tu]`: Statius.
+- `[3:ti]`: Statius.
+- `{4:antico spirto}`: Statius.
+- `[5:io]`: Dante.
+- `[6:+io]`: Dante.
+- `[7:ti]`: Statius.
+- `[8:Questi]`: Virgil.
+- `{9:Virgilio}`: Virgil.
+- `[10:tu]`: Statius.
+- `{11:li uomini}`: Human beings/mankind.
+- `{12:i dèi}`: The gods.
+- `[13:+tu]`: Statius.
+- `[14:+tu]`: Statius.
+- `[15:+tu]`: Statius.
+- `[16:lui]`: Virgil.
+- `[17:+tu]`: Statius.
+
+## Scene 130-132: The Interrupted Embrace
+**Scene Analysis: The Interrupted Embrace**
+
+**What happens:**
+Overcome with emotion and reverence after learning that his guide is indeed the great Virgil, Statius bends down to embrace Virgil's feet. However, Virgil stops him. He reminds Statius that such a physical gesture is impossible because they are both "shades" (spirits). Since they lack material bodies, they cannot physically touch or embrace one another.
+
+**Who speaks to whom:**
+Virgil speaks to Statius.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Statius.
+- `[2:s']`: Statius.
+- `{3:mio dottor}`: Virgil.
+- `[4:el]`: Virgil.
+- `[5:li]`: Statius.
+- `{6:Frate}`: Statius.
+- `[7:+tu]`: Statius.
+- `[8:tu]`: Statius.
+- `{9:ombra}`: Statius.
+- `{10:ombra}`: Virgil.
+- `[11:+tu]`: Statius.
+
+## Scene 133-136: The Weight of Love
+**Scene Analysis: The Weight of Love**
+
+**What happens:**
+Following Virgil's reminder that spirits cannot physically touch, Statius rises from his attempt to embrace Virgil's feet. He remarks that Virgil can now truly understand the intensity of the love Statius feels for him. He explains that his passion was so great that it caused him to forget their "vanity"—their insubstantial, ghostly nature—leading him to treat the shades as if they were solid, physical beings.
+
+**Who speaks to whom:**
+Statius speaks to Virgil.
+
+**Tag Resolutions:**
+- `[1:ei]`: Statius.
+- `[2:+tu]`: Virgil.
+- `[3:te]`: Virgil.
+- `[4:mi]`: Statius.
+- `[5:io]`: Statius.
+- `{6:l'ombre}`: The shades (the spirits of the dead, specifically Virgil and Statius).
+
+# recap
+- Dante, Virgil, and the poet Statius are now traveling together.
+- Statius has revealed his identity and expressed his profound reverence for Virgil.
+- The group is continuing their ascent on the fifth terrace of Purgatory.

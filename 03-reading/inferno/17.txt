@@ -1,0 +1,257 @@
+# Canto 17 — The Encounter with Geryon and the Descent into the Abyss
+
+## Scene 1-3: The Herald of the Beast
+In this brief scene, the unidentified figure who has been swimming upward through the air finally reaches Dante and Virgil. He speaks to them, acting as a herald to announce the arrival of a monster. He describes this creature as a beast with a sharp tail, capable of bypassing mountains and smashing through walls and armor, and one whose stench permeates the entire world.
+
+**Tag Resolutions:**
+- `{1:la fiera}`: Geryon (the monster of fraud)
+- `[2:+ella]`: Geryon
+- `[3:colei]`: Geryon
+
+## Scene 4-9: The Beast Approaches
+In this scene, Virgil begins to speak to Dante, but he also addresses the herald (the unidentified figure who just swam up from the abyss). Virgil signals to the herald, instructing him to come closer to the shore, specifically toward the end of the marble walkway. 
+
+As they do this, Geryon—the monster representing fraud—arrives. Geryon brings its head and torso up to the edge of the ravine, but it does not pull its long tail up onto the shore.
+
+**Tag Resolutions:**
+- `{1:lo mio duca}`: Virgil
+- `[2:+ei]`: The herald
+- `[3:+tu]`: The herald
+- `{4:quella sozza imagine di froda}`: Geryon
+- `[5:+ella]`: Geryon
+- `[6:+ella]`: Geryon
+
+## Scene 10-18: Description of Geryon's Form
+In this scene, Dante provides a detailed physical description of Geryon, the monster of Fraud, as he comes into view. The focus is on the juxtaposition between Geryon's deceptive, "honest" face and his monstrous, serpentine body. 
+
+Dante notes that Geryon's face looks like that of a just man, designed to trick the observer into trusting him. However, the rest of his body is that of a serpent, with hairy arms reaching up to his armpits. Most striking is Geryon's skin, which is covered in multicolored, intricate patterns of knots and circles. Dante compares these patterns to the ornate fabrics produced by the Tartars and Turks, claiming that even those master weavers—and even the mythological weaver Arachne—could not have produced such complex designs.
+
+**Tag Resolutions:**
+- `{1:uom giusto}`: Geryon (specifically, the deceptive appearance of his face)
+- `[2:+ei]`: Geryon
+- `[3:+ei]`: Geryon
+- `[4:+ei]`: Geryon
+- `[5:+elli]`: The Tartars and Turks (the weavers of those regions)
+- `{6:Aragne}`: Arachne
+
+## Scene 19-27: The Serpent's Tail
+In this scene, Dante describes the physical positioning of Geryon as the monster prepares to transport them. He uses a detailed simile to explain how Geryon is balanced on the edge of the abyss. 
+
+Dante compares Geryon to flat-bottomed boats (*burchi*) that sit partially on the shore and partially in the water. He specifically references the "German rogues" (*Tedeschi lurchi*) and their manner of maneuvering their boats for combat. Just as these boats are split between land and water, Geryon's front half rests on the stone edge of the ravine while his rear half remains suspended in the void. Dante focuses on Geryon's tail, which writhes in the empty space and curves upward, ending in a venomous sting similar to that of a scorpion.
+
+**Tag Resolutions:**
+- `{1:li Tedeschi lurchi}`: The German rogues/scoundrels (used in the boat simile)
+- `{2:la fiera pessima}`: Geryon
+- `[3:si]`: Geryon
+- `[4:+ella]`: Geryon
+- `[5:+ella]`: Geryon (specifically referring to the "venenosa forca" / venomous tail of the beast)
+
+## Scene 28-33: Changing Course
+In this scene, Virgil informs Dante that they need to shift their position on the ledge to get closer to Geryon. Virgil explains that they must move a short distance toward the "wicked beast" where it is resting. Consequently, Dante and Virgil walk about ten paces to the right along the edge of the ravine, moving away from the burning sand and flames that characterize this region of the Seventh Circle.
+
+**Tag Resolutions:**
+- `{1:Lo duca}`: Virgil
+- `[2:+noi]`: Dante and Virgil
+- `[3:+noi]`: Dante and Virgil
+
+## Scene 34-42: The Decision to Investigate
+In this scene, Dante and Virgil have reached the position where Geryon is waiting. As they arrive, Dante notices a group of souls sitting on the burning sand near the edge of the abyss. Virgil decides that this is a pedagogical opportunity; he instructs Dante to go and observe these people and speak with them briefly, so that Dante can gain a full understanding of the punishments and nature of the Seventh Circle. While Dante is occupied with this investigation, Virgil intends to negotiate with Geryon to ensure the monster will allow them to climb onto its strong shoulders for their descent.
+
+**Tag Resolutions:**
+- `[1:noi]`: Dante and Virgil
+- `[2:lei]`: Geryon
+- `[3:+io]`: Dante
+- `{4:gente}`: The souls/sinners of the Seventh Circle
+- `{5:l maestro}`: Virgil
+- `[6:+tu]`: Dante
+- `[7:mi]`: Dante
+- `[8:+tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:+tu]`: Dante
+- `[11:+io]`: Virgil
+- `[12:questa]`: Geryon
+
+## Scene 43-51: The Agony of the Souls
+In this scene, Dante follows Virgil's instructions and walks alone along the edge of the Seventh Circle to observe the sinners dwelling there. He encounters a group of sorrowful souls who are in visible agony. Their grief is so intense that it "bursts from their eyes" (they are weeping), and they are frantically using their hands to soothe themselves against the scorching ground and the suffocating sulfurous vapors.
+
+To emphasize the physical restlessness and irritation of these souls, Dante uses a stark simile: he compares them to dogs in the summer who scratch themselves with their muzzles or paws to relieve the itch and pain of being bitten by fleas, flies, or horseflies.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `{2:la gente mesta}`: The souls/sinners of the Seventh Circle
+- `[3:+elli]`: The souls/sinners of the Seventh Circle
+
+## Scene 52-57: The Symbolic Pouches
+In this scene, Dante follows Virgil's instructions to observe the souls trapped in the Seventh Circle. As he looks closely into the faces of these sinners—who are being rained upon by painful fire—he realizes that he does not recognize any of them. However, he notices a strange and uniform detail: each soul has a pouch hanging from their neck. These pouches possess a specific color and a specific sign or mark, and the sinners appear to be preoccupied with them, staring at them constantly.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+- `[3:ne]`: The souls/sinners of the Seventh Circle
+- `[4:io]`: Dante
+- `[5:m']`: Dante
+- `[6:si]`: The souls/sinners of the Seventh Circle (specifically, their eyes gazing upon the pouches)
+
+## Scene 58-65: The Colors of Sin
+In this scene, Dante continues his close observation of the sinners clinging to the edge of the abyss. He focuses on the pouches he noticed in the previous scene, describing the specific colors and heraldic symbols emblazoned on them. He identifies three distinct examples: first, a yellow pouch featuring a blue lion; second, a blood-red pouch featuring a white goose; and third, a white pouch featuring a large blue sow. These symbols serve as a cryptic marking system for the souls in this region.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:lor]`: The souls/sinners of the Seventh Circle
+- `[3:+io]`: Dante
+- `[4:+io]`: Dante
+
+## Scene 66-73: An Encounter with a Sinner
+In this scene, as Dante observes the souls on the burning sand, one of the sinners—a man from Padua—addresses him. The sinner asks Dante what he is doing in the pit and tells him to leave. Because Dante is still alive, the sinner provides some information about the people there. He mentions that his neighbor, Vitaliano (Vitaliano Calzecchi), will soon be arriving to sit by his left side. The speaker explains that he is a Paduan among a group of Florentines, and he complains that the Florentines frequently taunt him, shouting for the "sovereign knight" (Vitaliano) to arrive with his specific pouch (the one with three beaks).
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `[2:+ei]`: The Paduan sinner (the speaker)
+- `[3:tu]`: Dante
+- `[4:te]`: Dante
+- `[5:+tu]`: Dante
+- `[6:+tu]`: Dante
+- `[7:+tu]`: Dante
+- `{8:'l mio vicin Vitalïano}`: Vitaliano Calzecchi
+- `[9:+io]`: The Paduan sinner (the speaker)
+- `[10:mi]`: The Paduan sinner (the speaker)
+- `[11:+elli]`: The Florentine sinners
+- `{12:'l cavalier sovrano}`: Vitaliano Calzecchi
+
+## Scene 74-78: Dante's Retreat
+In this scene, the interaction between Dante and the Paduan sinner comes to an abrupt and rude end. The sinner makes a mocking or dismissive gesture, twisting his mouth and sticking out his tongue, which Dante compares to an ox licking its own nose. Sensing the sinner's increasing irritation—and recalling that the man had already warned him to leave—Dante decides not to linger any longer. He retreats from the group of suffering souls to return to Virgil.
+
+**Tag Resolutions:**
+- `[1:+lui]`: The Paduan sinner
+- `[2:+lui]`: The Paduan sinner
+- `[3:io]`: Dante
+- `[4:+lui]`: The Paduan sinner
+- `[5:lui]`: The Paduan sinner
+- `[6:m']`: Dante
+- `[7:+io]`: Dante
+- `[8:mi]`: Dante
+- `{9:l'anime lasse}`: The souls/sinners of the Seventh Circle
+
+## Scene 79-84: Mounting the Beast
+In this scene, Dante returns from his encounter with the souls on the burning sand and finds that Virgil has already climbed onto the back of the monster, Geryon. Virgil encourages Dante to be brave and bold as they prepare for the descent into the abyss. He instructs Dante to mount the beast in front of him, explaining that he (Virgil) will position himself in the middle to serve as a shield, protecting Dante from the danger of Geryon's venomous tail.
+
+**Tag Resolutions:**
+- `{1:il duca mio}`: Virgil
+- `[2:+ei]`: Virgil
+- `[3:me]`: Dante
+- `[4:+tu]`: Dante
+- `[5:si]`: Geryon
+- `[6:+tu]`: Dante
+- `[7:i']`: Virgil
+
+## Scene 85-90: Dante's Internal Terror
+In this scene, Dante describes his intense fear and his eventual decision to overcome it. He uses a medical simile to illustrate his terror: he compares himself to a person suffering from "quartan fever" (a recurring malarial fever). Such a patient is so fragile and chilled that they tremble violently at the slightest movement of a bedsheet or a cold breeze. Dante admits that Virgil's warnings about the danger of Geryon's tail left him in this same state of shivering terror.
+
+However, Dante is saved by his sense of "vergogna" (shame or propriety). He feels that it would be shameful to show such cowardice in the presence of his guide. He concludes that just as a servant finds strength and courage when standing before a noble and good lord, his respect and loyalty toward Virgil allow him to push past his fear and prepare to mount the beast.
+
+**Tag Resolutions:**
+- `[1:colui]`: A hypothetical person suffering from quartan fever (used in the simile)
+- `{2:la quartana}`: The quartan fever (personified as the attacker)
+- `[3:+ei]`: A hypothetical person suffering from quartan fever (used in the simile)
+- `[4:io]`: Dante
+- `[5:mi]`: Dante
+- `{6:buon segnor}`: Virgil
+- `{7:servo}`: Dante
+
+## Scene 91-99: The Instructions for Flight
+In this scene, Dante finally overcomes his terror and climbs onto the broad shoulders of Geryon. As he does so, he is so shaken that his voice fails him; when he finally manages to speak, he asks Virgil to hold him tightly for safety. Virgil, anticipating Dante's need for support, immediately wraps his arms around him to secure him. Once Dante is safe, Virgil addresses the monster Geryon, commanding it to begin the descent into the abyss. He instructs Geryon to take wide turns and to be mindful of the "new load" (Dante) it is now carrying.
+
+**Tag Resolutions:**
+- `[1:I']`: Dante
+- `[2:m']`: Dante
+- `[3:+io]`: Dante
+- `[4:io]`: Dante
+- `[5:+tu]`: Virgil
+- `[6:tu]`: Virgil
+- `[7:m']`: Dante
+- `[8:esso]`: Virgil
+- `[9:mi]`: Dante
+- `[10:i']`: Dante
+- `[11:+esso]`: Virgil
+- `[12:m']`: Dante
+- `[13:+esso]`: Virgil
+- `[14:mi]`: Dante
+- `[15:+esso]`: Virgil
+- `{16:Gerïon}`: Geryon
+- `[17:+tu]`: Geryon
+- `[18:+tu]`: Geryon
+- `[19:tu]`: Geryon
+
+## Scene 100-105: The Start of the Descent
+In this brief scene, Dante describes the moment Geryon begins the descent into the abyss. He uses a simile, comparing the monster to a small ship (*navicella*) backing away from a dock. Geryon moves backward away from the ledge, and once he feels completely secure in the air, he whips his long tail around toward his chest. He then moves the tail with the fluid motion of an eel and uses his arms to beat against the air, propelling himself and his passengers downward.
+
+**Tag Resolutions:**
+- `{1:la navicella}`: Geryon (compared to a little ship)
+- `[2:+ella]`: Geryon
+- `[3:si]`: Geryon
+- `[4:+ella]`: Geryon
+- `[5:si]`: Geryon
+- `[6:+ella]`: Geryon
+- `[7:+ella]`: Geryon
+- `[8:sé]`: Geryon
+- `[9:+ella]`: Geryon
+
+## Scene 106-114: Mythological Parallels of Fear
+In this scene, Dante reflects on the sheer terror he feels as he and Virgil plunge into the abyss on the back of Geryon. To express the magnitude of his fear, he draws two parallels to mythological figures who suffered catastrophic falls from the sky. 
+
+First, he compares his dread to that of Phaethon, who lost control of the reins of the sun chariot, nearly scorching the heavens. Second, he compares it to the experience of Icarus, who felt his feathers strip away as the wax melted, while his father, Daedalus, cried out in vain that he was taking a dangerous path. Dante concludes that his fear was equal to or greater than theirs because he suddenly found himself suspended in the air on all sides, with no sight remaining to him except for the monster carrying them.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `{2:Fetonte}`: Phaethon
+- `{3:Icaro}`: Icarus
+- `[4:+elli]`: Icarus
+- `{5:il padre}`: Daedalus
+- `[6:lui]`: Icarus
+- `[7:+tu]`: Icarus
+- `[8:+io]`: Dante
+- `[9:i']`: Dante
+- `[10:+io]`: Dante
+
+## Scene 115-123: The Sensory Chaos of the Fall
+In this scene, Dante describes the disorienting sensation of the descent. Geryon moves in a slow, spiraling motion ("rota") as they drop into the abyss. Initially, Dante is so overwhelmed or focused that he doesn't even realize they are turning and descending, noticing only a draft of wind hitting his face and the underside of his body. 
+
+As the descent continues, he begins to hear a terrifying roaring sound (*scroscio*) coming from the whirlpool below them. Driven by curiosity or alarm, Dante leans his head over the edge of Geryon's back to look down. The sight of the fires and the sound of the wailing souls below intensify his terror. Overcome by a sudden surge of fear at the prospect of the impact or the horror of the destination, Dante trembles and recoils, pulling himself back inward.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:me]`: Dante
+- `[3:mi]`: Dante
+- `[4:Io]`: Dante
+- `[5:noi]`: Dante and Virgil
+- `[6:+io]`: Dante
+- `[7:io]`: Dante
+- `[8:i']`: Dante
+- `[9:+io]`: Dante
+- `[10:io]`: Dante
+- `[11:mi]`: Dante
+
+## Scene 124-126: Approaching the Abyss
+In this brief scene, Dante describes his changing perception as he continues the descent on Geryon's back. Having previously recoiled in terror, he now manages to observe the actual motion of their flight. He realizes that they are descending in a spiraling or circling motion. As they drop further, he begins to see the "great evils" (the punishments and sinners of the Eighth Circle) approaching from all sides.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+
+## Scene 127-136: The Final Landing
+In this final scene of Canto 17, Dante uses a detailed simile to describe Geryon’s landing. He compares Geryon to a falcon that has flown too high and become exhausted. The falconer, seeing the bird's fatigue, calls out for the falcon to descend. The falcon obeys, spiraling down in a hundred circles, but it lands far from its master, exhibiting a disdainful and fierce attitude.
+
+Returning from the simile to the narrative, Geryon delivers Dante and Virgil to the bottom of the jagged cliff (the entrance to the Eighth Circle). Once he has "discharged" his passengers, Geryon vanishes instantly, disappearing with the speed and suddenness of an arrow shot from a bow.
+
+**Tag Resolutions:**
+- `{1:al falconiere}`: The falconer (part of the simile)
+- `[2:tu]`: The falcon (addressed by the falconer in the simile)
+- `{3:dal suo maestro}`: The falconer (the falcon's master in the simile)
+- `{4:Gerïone}`: Geryon
+- `{5:le nostre persone}`: Dante and Virgil
+- `[6:+elli]`: Geryon (using the archaic singular "elli" for "he")
+- `[7:si]`: Geryon
+
+# recap
+- Dante and Virgil have arrived at the bottom of the cliff, entering the Eighth Circle.
+- Geryon has vanished instantly after discharging them.

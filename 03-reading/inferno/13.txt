@@ -1,0 +1,319 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+
+## Scene 1-15: The Gloomy Woods
+In this scene, Dante and Virgil move away from the river of boiling blood. As Nesso (the Centaur who guided them through the river) hasn't yet caught up or reached their position, the two poets enter a dark, oppressive forest. 
+
+Dante describes the woods as a nightmare: there are no paths, no green leaves, and the branches are twisted and thorny rather than straight. He compares the density and harshness of this place to the wilder parts of his home region in Tuscany (between Cecina and Corneto), noting that the infernal woods are far worse.
+
+As they enter, they encounter the Harpies, who have made their nests here. Dante provides a brief mythological flashback, noting that these creatures once drove the Trojans away from the Strophades islands by delivering ominous prophecies. He then describes the grotesque anatomy of the Harpies—combining human faces and necks with the wings, bellies, and claws of birds—and notes the mournful sounds they make among the strange trees.
+
+**Tag Resolutions:**
+- `{1:Nesso}`: Nesso (the Centaur)
+- `[2:noi]`: Dante and Virgil
+- `[3:ci]`: Dante and Virgil
+- `{4:le brutte Arpie}`: The Harpies
+- `{5:i Troiani}`: The Trojans
+- `[6:+elli]`: The Trojans
+- `[7:+elli]`: The Harpies
+- `[8:+elli]`: The Harpies
+
+## Scene 16-21: Virgil's Warning
+In this scene, Virgil (referred to as "the good master") stops to give Dante an important orientation. As they proceed deeper into the gloomy woods, Virgil warns Dante that they have now entered the second "girone" (rim or subdivision) of the seventh circle. He informs Dante that they will be in this section until they reach the "horrible sands" (the edge of the circle). Virgil urges Dante to pay close attention to his surroundings, promising that the things he is about to see will serve as evidence and confirmation of Virgil's words.
+
+**Tag Resolutions:**
+- `{1:l buon maestro}`: Virgil
+- `[2:+tu]`: Dante
+- `[3:+tu]`: Dante
+- `[4:+tu]`: Dante
+- `[5:mi]`: Dante
+- `[6:+ei]`: Virgil
+- `[7:+tu]`: Dante
+- `[8:tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:+tu]`: Dante
+
+## Scene 22-30: The Mysterious Voices
+In this scene, Dante and Virgil are moving through the oppressive woods of the second girone. Dante begins to hear wails and screams coming from all directions, but he is bewildered because he cannot see anyone who could be making these sounds. This confusion causes him to stop in his tracks.
+
+Dante reflects on the interaction between himself and Virgil: he believes that Virgil realizes Dante is under the impression that there are people hiding among the branches to avoid being seen by the two poets.
+
+Virgil then speaks to Dante, offering a cryptic piece of advice. He tells Dante that if he breaks a small twig off one of the trees, the misconceptions ("thoughts") Dante is currently harboring will be "broken" or shattered. This is the first clue that the trees themselves are the souls of the sinners.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:+io]`: Dante
+- `{3:persona}`: a person/soul
+- `[4:io]`: Dante
+- `[5:m']`: Dante
+- `[6:ïo]`: Dante
+- `[7:ei]`: Virgil
+- `[8:io]`: Dante
+- `{9:gente}`: people/souls (the suicides)
+- `[10:noi]`: Dante and Virgil
+- `[11:si]`: the people/souls `{9}`
+- `{12:'l maestro}`: Virgil
+- `[13:tu]`: Dante
+- `[14:+tu]`: Dante
+
+## Scene 31-39: The Broken Branch
+In this scene, Dante puts Virgil’s advice into practice to uncover the mystery of the forest. He reaches out and breaks a small twig off a large sloe tree. To his horror, the tree does not react like a plant; instead, the trunk cries out in pain, and the broken branch bleeds dark blood.
+
+The tree then speaks to Dante, questioning why he is breaking and wounding it, and asking if he has no pity. The speaker reveals the nature of the Wood of Suicides: the trees were once human beings who, having rejected their own lives, are now condemned to exist as stunted, thorny shrubs. The soul argues that Dante's hand should be more merciful, even if they were merely the souls of snakes.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:+io]`: Dante
+- `{3:un gran pruno}`: a large sloe tree (a soul of a suicide)
+- `{4:'l tronco suo}`: the sloe tree/the soul
+- `[5:mi]`: the sloe tree/the soul
+- `[6:+tu]`: Dante
+- `[7:+ei]`: the sloe tree/the soul (specifically the branch)
+- `[8:+ei]`: the sloe tree/the soul
+- `[9:mi]`: the sloe tree/the soul
+- `[10:+tu]`: Dante
+- `[11:tu]`: Dante
+- `{12:Uomini}`: the souls of the suicides
+- `[13:+noi]`: the souls of the suicides
+- `[14:+noi]`: the souls of the suicides
+- `{15:anime di serpi}`: souls of snakes (used as a hypothetical comparison)
+
+## Scene 40-45: The Splintering Tree
+In this brief scene, Dante describes the immediate and horrifying effect of breaking the twig from the sloe tree. He uses a vivid simile, comparing the tree's reaction to a green stick that is burning at one end while the other end groans and creaks in the wind. From the broken splinter of the tree, blood and words flow out simultaneously. Terrified by this supernatural occurrence, Dante drops the branch and stands frozen in fear.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:+io]`: Dante
+- `{3:l'uom}`: Dante (referring to himself via a comparison to a frightened man)
+
+## Scene 46-54: Virgil's Inquiry
+In this scene, Virgil responds to the wounded sloe tree (the soul of a suicide) after Dante has broken its branch.
+
+Virgil explains to the soul that if Dante had been able to believe or comprehend the nature of this forest beforehand, he would not have extended his hand to break the branch. Virgil mentions that Dante has already encountered such supernatural transformations in Virgil's own poetry (referring to his literary works). Virgil admits that the sheer "incredibility" of the situation prompted him to encourage Dante to break the twig, an action that Virgil now finds regrettable or burdensome ("pesa") because it caused the soul pain. Finally, Virgil asks the soul to reveal its identity to Dante, suggesting that by doing so, the soul's reputation might be renewed in the living world above, where such stories are permitted to return.
+
+**Tag Resolutions:**
+- `[1:elli]`: Dante
+- `{2:'l savio mio}`: Virgil
+- `{3:anima lesa}`: the wounded soul (the sloe tree)
+- `[4:c']`: this/the matter (the nature of the punishment/transformation)
+- `[5:+elli]`: Dante
+- `[6:te]`: the wounded soul
+- `[7:mi]`: Virgil
+- `[8:me]`: Virgil
+- `[9:+tu]`: the wounded soul
+- `[10:chi]`: the identity of the wounded soul
+- `[11:tu]`: the wounded soul
+- `[12:+tu]`: the wounded soul
+- `[13:li]`: the reports/news of the soul's identity (referring back to "fama")
+
+## Scene 55-63: The Keeper of Secrets
+In this scene, the wounded soul (the sloe tree) responds to Virgil's request for its identity. The soul admits that Virgil's persuasive and "sweet" words have convinced it to speak, and it asks the poets not to be offended that it takes a moment to gather its thoughts and speak.
+
+The soul then reveals its former status: it was the most trusted advisor to Emperor Frederick II. Using the metaphor of holding the "keys to the heart" of the Emperor, the soul explains that it managed Frederick's secrets so effectively that it essentially blocked all others from accessing them. The soul describes its devotion to this high-ranking position as a "glorious office," noting that it was so consumed by the duty that it suffered from insomnia and physical exhaustion.
+
+**Tag Resolutions:**
+- `{1:l tronco}`: the wounded soul (the sloe tree)
+- `[2:+tu]`: Virgil
+- `[3:m']`: the wounded soul
+- `[4:i']`: the wounded soul
+- `[5:voi]`: Dante and Virgil
+- `[6:ïo]`: the wounded soul
+- `[7:+tu]`: Virgil
+- `[8:m']`: the wounded soul
+- `[9:Io]`: the wounded soul
+- `[10:colui]`: the wounded soul
+- `{11:Federigo}`: Emperor Frederick II
+- `[12:+io]`: the wounded soul
+- `[13:+io]`: the wounded soul
+- `[14:i']`: the wounded soul
+
+## Scene 64-72: The Sin of Betrayal
+**Scene Analysis: The Sin of Betrayal**
+
+In this scene, the wounded soul (the sloe tree) continues its explanation to Dante and Virgil, detailing the circumstances that led to its suicide. The soul describes how it fell from grace at the court of Emperor Frederick II. A woman—described as a "prostitute" and the embodiment of courtly vice—used her influence at the imperial court to turn everyone against the soul. Eventually, she managed to poison the Emperor's own mind against his trusted advisor, transforming the advisor's former honors into grief and shame. Driven by a prideful desire to escape this disgrace ("disdegnoso gusto"), the advisor committed suicide. In a moment of retrospective clarity, the soul admits that in trying to flee his shame, he committed an unjust act against himself.
+
+**Tag Resolutions:**
+- `{1:La meretrice}`: The prostitute (a woman at Frederick II's court)
+- `{2:Cesare}`: Emperor Frederick II
+- `{3:morte comune}`: The prostitute (epithet: "common death")
+- `{4:de le corti vizio}`: The prostitute (epithet: "vice of the courts")
+- `[5:me]`: The wounded soul (the former advisor)
+- `{6:li animi tutti}`: The people/courtiers at Frederick II's court
+- `{7:li 'nfiammati}`: The people/courtiers who were incited
+- `{8:Augusto}`: Emperor Frederick II
+- `{9:L'animo mio}`: The wounded soul (specifically its mind/will)
+- `[10:me]`: The wounded soul (as the agent of the suicide)
+- `[11:me]`: The wounded soul (as the victim of the suicide)
+
+## Scene 73-78: A Vow of Loyalty
+**Scene Analysis: A Vow of Loyalty**
+
+In this scene, the wounded soul (the former advisor to Emperor Frederick II) makes a solemn oath to Dante and Virgil. Using the "nine roots" of the tree—his current physical form in Hell—as the basis for his swear, he asserts that he never betrayed his lord. He emphasizes the honor and worthiness of Emperor Frederick II, maintaining that his loyalty remained intact despite the disgrace that led to his suicide.
+
+The soul then makes a request: if either of the two poets should return to the world of the living (a request clearly aimed at Dante, as Virgil is a shade), he asks that Dante comfort his memory. He explains that his reputation is still suffering from the "blow" dealt by envy (the courtly intrigues and the lies of the prostitute mentioned in the previous scene), which destroyed his standing and led to his downfall.
+
+**Tag Resolutions:**
+- `[1:+io]`: The wounded soul (the former advisor)
+- `[2:vi]`: Dante and Virgil
+- `[3:+io]`: The wounded soul (the former advisor)
+- `{4:mio segnor}`: Emperor Frederick II
+- `[5:voi]`: Dante and Virgil
+- `[6:+elli]`: Dante (the one who might return to the world)
+- `{7:'nvidia}`: Envy (personified)
+
+## Scene 79-84: The Poet's Encouragement
+In this scene, the conversation between the poets and the wounded soul of the former advisor pauses. After the soul finishes its plea for its reputation to be restored, Virgil waits for a moment and then encourages Dante to speak. Virgil tells Dante not to waste the opportunity and to ask the soul any questions he might have.
+
+However, Dante is emotionally overwhelmed. He is so moved by pity for the suffering soul that he finds himself unable to speak. Consequently, Dante asks Virgil to continue the questioning on his behalf, trusting that Virgil knows what information would satisfy Dante's curiosity and needs, as Dante's own heart is too heavy with sorrow to formulate a request.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Virgil
+- `[2:el]`: the wounded soul
+- `[3:si]`: the wounded soul
+- `{4:l poeta}`: Virgil
+- `[5:me]`: Dante
+- `[6:+tu]`: Dante
+- `[7:+tu]`: Dante
+- `[8:+tu]`: Dante
+- `[9:lui]`: the wounded soul
+- `[10:ti]`: Dante
+- `[11:ïo]`: Dante
+- `[12:lui]`: Virgil
+- `[13:tu]`: Virgil
+- `[14:+tu]`: Virgil
+- `[15:me]`: Dante
+- `[16:i']`: Dante
+- `[17:m']`: Dante
+
+## Scene 85-90: The Request for Knowledge
+In this scene, Virgil resumes the conversation with the wounded soul of the former imperial advisor. Since Dante is too overwhelmed by pity to speak, Virgil acts as the intermediary.
+
+Virgil tells the soul that if "the man" (Dante) grants the soul's request to restore its reputation in the living world, the soul should in turn explain the nature of their punishment. Specifically, Virgil asks the "imprisoned spirit" to describe how the souls are bound within the twisted knots of the trees and whether any of these limbs are ever released or unfolded.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Virgil
+- `{2:l'om}`: Dante (the "man" who can grant the favor of restoring the soul's reputation)
+- `[3:ti]`: the wounded soul
+- `{4:spirito incarcerato}`: the wounded soul
+- `[5:ti]`: the wounded soul
+- `{6:l'anima}`: a suicide's soul (specifically the wounded soul/souls in this wood)
+- `[7:si]`: the soul `{6}`
+- `[8:+tu]`: the wounded soul
+- `[9:tu]`: the wounded soul
+- `[10:si]`: a limb/member of the tree (`membra`)
+
+## Scene 91-108: The Fate of the Suicides
+In this scene, the wounded soul (the sloe tree) answers Virgil's question by explaining the divine justice and the mechanical process of the punishment for those who committed suicide.
+
+The soul explains that when a "fierce soul" (a suicide) departs from the body it discarded, Minos sends it to the seventh circle. There is no specific assigned spot for each soul; instead, Fortune (chance) determines where the soul lands. Wherever it falls, the soul sprouts like a seed and grows into a wild, thorny plant. The Harpies then feed on the leaves of these trees, which causes the souls intense pain and opens wounds in them.
+
+The soul further explains a terrifying aspect of their eternal state: on the Day of Judgment, they will be reunited with their physical bodies ("our spoils"), but they will not be allowed to inhabit them again. This is because it is deemed unjust for a person to regain a body that they willfully threw away. Instead, the souls will drag their own corpses through the gloomy woods and hang them from the branches of their respective trees.
+
+**Tag Resolutions:**
+
+- `{1:il tronco forte}`: The wounded soul (the sloe tree)
+- `[2:si]`: The wounded soul (the sloe tree)
+- `{3:quel vento}`: The sigh/breath of the wounded soul
+- `[4:voi]`: Dante and Virgil
+- `{5:l'anima feroce}`: A suicide's soul (general)
+- `[6:ella]`: A suicide's soul
+- `[7:s']`: A suicide's soul
+- `{8:Minòs}`: Minos (the judge of Hell)
+- `[9:la]`: A suicide's soul
+- `[10:+ella]`: A suicide's soul
+- `[11:l']`: A suicide's soul
+- `{12:fortuna}`: Fortune (personified)
+- `[13:la]`: A suicide's soul
+- `[14:+ella]`: A suicide's soul
+- `[15:+ella]`: A suicide's soul
+- `{16:l'Arpie}`: The Harpies
+- `[17:+elli]`: The Harpies
+- `{18:l'altre}`: The other suicides
+- `[19:+noi]`: The souls of the suicides
+- `[20:om]`: A man (general reference to one who commits suicide)
+- `[21:si]`: The man himself `{20}`
+- `[22:le]`: The corpses of the suicides (their former physical bodies)
+- `[23:+noi]`: The souls of the suicides
+
+## Scene 109-114: The Sound of the Hunt
+In this brief scene, Dante and Virgil are still standing by the wounded sloe tree, waiting in anticipation because they believe the soul has more to say. Their conversation is suddenly interrupted by a loud noise. Dante uses a simile to describe this experience: he compares himself and Virgil to a hunter waiting at his post (a blind or stand) who hears the approach of the boar and the hunting dogs, signaled by the sound of the animals and the rustling of the branches.
+
+**Tag Resolutions:**
+- `[1:Noi]`: Dante and Virgil
+- `[2:+ei]`: the wounded soul (the sloe tree)
+- `[3:noi]`: Dante and Virgil
+- `[4:colui]`: a hypothetical hunter (used in a simile)
+
+## Scene 115-123: The Fleeing Souls
+In this scene, the conversation between the poets and the sloe tree is interrupted by the sudden appearance of two souls fleeing in terror (presumably from the Harpies). These two spirits burst through the thickets from the left, naked and scratched.
+
+The first soul to appear, whom the other later identifies as Lano, urges his companion to hurry up, calling him "death." The second soul, feeling that Lano is actually the one slowing them down, shouts back, mocking Lano's speed and comparing it to his performance at the tournaments at Toppo. Shortly thereafter, the second soul's strength fails him, and he trips, becoming entangled with a bush.
+
+**Tag Resolutions:**
+- `{1:due}`: Two fleeing souls
+- `[2:Quel]`: The first fleeing soul (Lano)
+- `[3:+tu]`: The second fleeing soul
+- `[4:+tu]`: The second fleeing soul
+- `{5:morte}`: The second fleeing soul (addressed as "death" by Lano)
+- `[6:l'altro]`: The second fleeing soul
+- `[7:+egli]`: The second fleeing soul
+- `{8:Lano}`: The first fleeing soul
+- `{9:dal Toppo}`: The place/tournaments at Toppo (a location/event)
+- `[10:li]`: The second fleeing soul
+- `[11:sé]`: The second fleeing soul
+- `[12:+egli]`: The second fleeing soul
+
+## Scene 124-129: The Attack of the Hounds
+In this scene, the pursuit of the two fleeing souls reaches a violent conclusion. Behind the two spirits, the woods are filled with "black hounds"—a description of the Harpies—who are charging forward with an eagerness similar to greyhounds newly freed from their chains. 
+
+The second soul, who had tripped and become entangled in a bush in the previous scene, is unable to escape. The Harpies sink their teeth into this "wretched" soul and tear him apart limb by limb. Finally, the creatures carry away the suffering remains of the soul.
+
+**Tag Resolutions:**
+- `[1:loro]`: The two fleeing souls (Lano and his companion)
+- `{2:miser}`: The second fleeing soul (the one who tripped and was caught)
+- `[3:quel]`: The second fleeing soul (the one who tripped and was caught)
+
+## Scene 130-135: The Wounded Bush
+In this scene, the immediate aftermath of the Harpies' attack unfolds. Virgil takes Dante by the hand and leads him toward the suffering soul who was just torn apart—the "bush" that is now weeping in vain over its bloody wounds. 
+
+Virgil addresses the soul, revealing its name as Jacob. Speaking with a tone of reproach (and effectively adopting the perspective or voice of the survivor, Lano), Virgil asks Jacob what benefit he gained by mocking Lano or using him as a "shield" (a way to deflect his own fear or inadequacy) during their flight. He concludes by pointing out the injustice of Jacob's behavior, asking what fault Lano had for the "wicked life" that led Jacob to this punishment.
+
+**Tag Resolutions:**
+- `{1:la mia scorta}`: Virgil
+- `[2:+elli]`: Virgil
+- `{3:al cespuglio}`: Jacob (the soul of the suicide who tripped and was attacked)
+- `{4:Iacopo}`: Jacob
+- `[5:+elli]`: Virgil
+- `{6:Santo Andrea}`: Saint Andrew
+- `[7:t']`: Jacob
+- `[8:me]`: Lano (the other fleeing soul; Virgil is speaking from Lano's perspective)
+- `[9:io]`: Lano (Virgil continuing to speak from Lano's perspective)
+
+## Scene 136-151: The History of Florence
+In this scene, Virgil and Dante approach the wounded soul of Jacob, who has just been torn apart by the Harpies. Virgil asks the soul to identify himself and explain why he is speaking in such a painful, blood-soaked manner. 
+
+Jacob responds by addressing Dante and Virgil as "souls" and asks them to gather the branches that have been ripped from his body. He then reveals that he was a citizen of Florence. He provides a brief, bitter history of his city, mentioning the political upheaval where the first ruler was changed at the Baptistery—an event he suggests left a lasting legacy of sorrow and strife on the city. He notes that the city was rebuilt on the ashes left by Attila the Hun, and that if some remnants of the original city still existed (specifically near the bridge of the Arno), the efforts of the citizens who rebuilt it would not have been in vain. Finally, Jacob reveals the method of his suicide: he used his own houses to construct a gallows for himself.
+
+**Tag Resolutions:**
+- `{1:l maestro}`: Virgil
+- `[2:+ei]`: Virgil
+- `[3:Chi]`: Jacob (the wounded soul)
+- `[4:elli]`: Jacob (the wounded soul)
+- `[5:noi]`: Dante and Virgil
+- `{6:anime}`: Dante and Virgil
+- `[7:me]`: Jacob (the wounded soul)
+- `[8:+voi]`: Dante and Virgil
+- `[9:I']`: Jacob (the wounded soul)
+- `{10:Batista}`: The Baptistery of Florence (landmark)
+- `{11:l primo padrone}`: The first ruler/lord of Florence
+- `[12:ei]`: The first ruler/lord of Florence
+- `[13:+ei]`: The first ruler/lord of Florence
+- `[14:lui]`: The original city of Florence
+- `{15:que' cittadin}`: The citizens of Florence
+- `{16:Attila}`: Attila the Hun
+- `[17:+elli]`: The citizens of Florence
+- `[18:Io]`: Jacob (the wounded soul)
+- `[19:me]`: Jacob (the wounded soul)
+
+# recap
+- Dante and Virgil are in the Wood of Suicides (Seventh Circle, Second Girone).
+- They are currently speaking with Jacob, a Florentine soul who was recently mutilated by Harpies.

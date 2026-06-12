@@ -1,0 +1,276 @@
+# Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
+
+## Scene 1-12: The Poet’s Prologue
+In this scene, the poet (Dante) provides a prologue to the second part of his journey. He uses a nautical metaphor, imagining his creative ingenuity as a small ship ("navicella") that has left the "cruel sea" of the *Inferno* behind and is now setting sail for "better waters"—the realm of Purgatory.
+
+Dante speaks first to the reader to explain the purpose of this new "regime" (the realm of Purgatory), where souls are purified to become worthy of Heaven. He then shifts his address to the Muses, asking for their divine inspiration to help him compose this portion of the poem. Specifically, he calls upon Calliope (the Muse of epic poetry) to accompany his song with the same powerful sound that once overwhelmed the Pythian sirens.
+
+Here is the resolution of the numbered tags:
+
+*   `[1:+io]`: Dante (the narrator/poet).
+*   `{2:l'umano spirito}`: The human soul (specifically those residing in Purgatory).
+*   `[3:si]`: The human soul.
+*   `[4:+ei]`: The human soul.
+*   `{5:la morta poesì}`: Dead poetry (the personification of the classical poetic tradition).
+*   `{6:sante Muse}`: The Muses (the divine sources of inspiration).
+*   `[7:+io]`: Dante.
+*   `{8:Calïopè}`: Calliope (the Muse of epic poetry).
+*   `{9:le Piche misere}`: The Pythian sirens/prophetesses.
+
+## Scene 13-21: The Awakening Sky
+In this scene, Dante has just emerged from the depths of the *Inferno* and has arrived on the shores of Purgatory. He is describing the transition from the darkness and oppressive atmosphere of Hell to the light and hope of the new realm.
+
+He observes the "sweet color of eastern sapphire"—the deep blue of the dawn sky—which brings joy back to his eyes. He explicitly contrasts this beauty with the "dead air" (*aura morta*) of the *Inferno*, which had left him feeling sorrowful and oppressed. He then notices the planet Venus (the "beautiful planet that comforts with love"), which is rising in the east, casting a bright light across the horizon and gradually obscuring the constellation of Pisces.
+
+There is no dialogue in this scene; Dante is narrating his sensory experience to the reader.
+
+**Tag Resolutions:**
+*   `[1:io]`: Dante. He is the one who has just emerged from the "dead air" of the *Inferno*.
+*   `[2:m']`: Dante. The "dead air" of Hell had saddened his eyes and his heart.
+*   `[3:+egli]`: Venus (the "beautiful planet"). The planet is the subject that makes the eastern sky "laugh" (shine) and veils the constellation of the Fish.
+
+## Scene 22-27: The Four Stars
+**Scene Analysis: The Four Stars**
+
+**What happens in this scene:**
+After observing the eastern horizon and the planet Venus, Dante turns his attention to the right (the north). He observes four stars that are no longer visible to people of his time, noting that they were only seen by the earliest humans (the first people). He perceives a sense of joy in the heavens because of these stars. In a poetic apostrophe, he addresses the northern sky directly, calling it a "widowed site" because it has been deprived of the sight of those stars (a reference to the precession of the equinoxes).
+
+**Tag Resolutions:**
+*   `[1:I']`: Dante.
+*   `[2:mi]`: Dante.
+*   `[3:+io]`: Dante.
+*   `[4:+io]`: Dante.
+*   `{5:la prima gente}`: The first people (original humanity/Adam and Eve).
+*   `{6:l ciel}`: The sky (the celestial sphere).
+*   `{7:settentrïonal vedovo sito}`: The northern sky/region (personified as a "widowed site").
+*   `[8:+tu]`: The northern sky/region.
+
+## Scene 28-39: The Discovery of the Sage
+In this scene, Dante shifts his focus from the celestial bodies (the four stars of the north) to the immediate landscape. As he turns his gaze away from the stars and toward the other pole (where the constellation of the Big Dipper/the Wagon has already set), he discovers a solitary figure standing near him.
+
+This figure is an old man who commands an immense amount of respect; Dante describes him as appearing so venerable that he surpasses the reverence a son owes to his father. The poet provides a physical description of the man: he has a long beard mixed with white hair that falls in two strands down his chest. The light from the four "holy lights" (the stars mentioned in the previous scene) illuminates the old man's face so brilliantly that Dante perceives him as if he were looking directly at the sun.
+
+**Tag Resolutions:**
+*   `[1:io]`: Dante.
+*   `[2:me]`: Dante.
+*   `[3:+io]`: Dante.
+*   `[4:me]`: Dante.
+*   `{5:un veglio solo}`: The old man (the Guardian of Purgatory).
+*   `{6:padre}`: A father (used here as a generic figure for comparison to illustrate the level of respect the old man commands).
+*   `{7:alcun figliuolo}`: A son (used here as a generic figure for comparison).
+*   `[8:+lui]`: The old man.
+*   `[9:i']`: Dante.
+*   `[10:'l]`: The old man.
+
+## Scene 40-48: Virgil’s Inquiry
+In this scene, the old man (the Guardian of Purgatory) speaks for the first time. He is surprised and suspicious to see two figures emerging from the depths of the *Inferno*. He addresses them with a series of questions, wondering who they are and how they managed to escape the "eternal prison" of Hell. He asks who guided them or served as their "lamp" through the darkness. Finally, he questions whether the laws of the abyss have been broken or if there has been a change in the divine will in Heaven, as he mistakenly assumes they are "damned souls" who have somehow reached his shores.
+
+**Tag Resolutions:**
+
+*   `[1:Chi]`: Dante and Virgil (the old man is asking for their identity).
+*   `[2:voi]`: Dante and Virgil.
+*   `[3:el]`: The old man (the Guardian of Purgatory).
+*   `[4:Chi]`: The guide (referring to the person who led them; in reality, Virgil).
+*   `[5:v']`: Dante and Virgil.
+*   `[6:vi]`: Dante and Virgil.
+*   `{7:dannati}`: Dante and Virgil (the old man's misidentification of them as damned souls).
+*   `[8:+voi]`: Dante and Virgil.
+
+## Scene 49-51: The Guide’s Gesture
+**Scene Analysis: The Guide’s Gesture**
+
+**What happens in this scene:**
+Following the Old Man's suspicious questioning, Virgil (Dante's guide) takes control of the situation. He first gives Dante a signal (a "piglio") to remain quiet or prepare himself. Then, using a combination of words, hand gestures, and a physical display of deep respect—bowing his legs and lowering his eyes—Virgil presents Dante to the Old Man. This gesture is intended to signal humility and submission, reassuring the Guardian that they are not hostile intruders or escaped damned souls, but respectful pilgrims.
+
+**Tag Resolutions:**
+*   `{1:Lo duca mio}`: Virgil (Dante's guide).
+*   `[2:mi]`: Dante.
+*   `[3:+elli]`: The old man (the Guardian of Purgatory).
+*   `[4:mi]`: Dante (Virgil is presenting Dante to the Guardian).
+
+## Scene 52-66: The Explanation of the Mission
+**Scene Analysis: The Explanation of the Mission**
+
+**What happens in this scene:**
+Virgil takes the lead and answers the Old Man's (the Guardian's) suspicious questions. He clarifies that Dante did not arrive here because of Virgil's own will or initiative; rather, Beatrice (the "woman") descended from Heaven to request that Virgil assist Dante. 
+
+Virgil explains the nature of their "condition" to satisfy the Guardian's curiosity: Dante is not a damned soul, as he has not yet experienced his "last evening" (he is still alive), although his own folly brought him perilously close to death. Virgil further explains his divine mandate: he was sent to guide Dante through the *Inferno*, where he showed him the "evil people" (the damned), and now his mission is to guide Dante through Purgatory to observe the souls undergoing purification under the Guardian's authority.
+
+**Tag Resolutions:**
+
+*   `[1:lui]`: Virgil.
+*   `[2:me]`: Virgil.
+*   `[3:+io]`: Dante.
+*   `{4:donna}`: Beatrice.
+*   `[5:costui]`: Dante.
+*   `[6:+ella]`: Beatrice.
+*   `[7:te]`: The old man (the Guardian of Purgatory).
+*   `[8:Questi]`: Dante.
+*   `[9:+ei]`: Dante.
+*   `[10:io]`: Virgil.
+*   `[11:+io]`: Virgil.
+*   `[12:esso]`: Dante.
+*   `[13:lui]`: Dante.
+*   `[14:i']`: Virgil.
+*   `[15:mi]`: Virgil.
+*   `[16:+io]`: Virgil.
+*   `[17:lui]`: Dante.
+*   `{18:tutta la gente ria}`: The damned souls of Hell.
+*   `[19:+io]`: Virgil.
+*   `{20:quelli spirti}`: The purifying souls of Purgatory.
+*   `[21:sé]`: The purifying souls of Purgatory.
+
+## Scene 67-84: The Plea for Passage
+**Scene Analysis: The Plea for Passage**
+
+**What happens in this scene:**
+Virgil continues his address to the Old Man (the Guardian of Purgatory). He explains that he was aided by a divine power ("virtù") from Heaven to bring Dante to this place. Virgil makes a heartfelt appeal for the Guardian to welcome Dante, explaining that the poet is seeking "liberty"—a concept Virgil knows the Guardian values deeply. 
+
+To persuade him, Virgil references the Guardian's own history, specifically his death in Utica, where he chose to die rather than live under tyranny (confirming the Guardian's identity as Cato the Younger). Virgil reassures the Guardian that they are not violating the eternal laws of the afterlife: Dante is still alive (and thus not under the jurisdiction of Minos, the judge of Hell), and Virgil himself is not a prisoner. Finally, Virgil uses an emotional appeal, mentioning the Guardian's daughter, Marcia, whose "chaste eyes" are in the realm of Purgatory and who continues to pray for her father. Virgil asks the Guardian, out of love for his daughter, to allow Dante to pass through the seven realms of Purgatory, promising to carry the Guardian's gratitude back to Marcia.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Virgil (the speaker).
+*   `[2:l']`: Dante (the one Virgil has led/brought).
+*   `[3:+io]`: Virgil.
+*   `[4:m']`: Virgil.
+*   `[5:conducerlo]`: Dante (the "lo" suffix refers to the person being led).
+*   `[6:ti]`: The old man (the Guardian of Purgatory).
+*   `[7:chi]`: A person who refuses life for the sake of liberty (a general reference, though clearly pointing to the Guardian/Cato as the prime example).
+*   `[8:Tu]`: The old man (the Guardian).
+*   `[9:ti]`: The old man (the Guardian).
+*   `[10:+tu]`: The old man (the Guardian).
+*   `[11:noi]`: Virgil and Dante.
+*   `[12:questi]`: Dante (referring to the fact that he is still alive).
+*   `{13:Minòs}`: Minos (the judge of the *Inferno*).
+*   `[14:me]`: Virgil.
+*   `[15:+ei]`: The chaste eyes (of Marcia).
+*   `{16:Marzia}`: Marcia (the daughter of the Guardian).
+*   `[17:ti]`: The old man (the Guardian).
+*   `{18:santo petto}`: The old man (the Guardian).
+*   `[19:la]`: Marcia.
+*   `[20:noi]`: Virgil and Dante.
+*   `[21:ti]`: The old man (the Guardian).
+*   `[22:+tu]`: The old man (the Guardian).
+*   `[23:+io]`: Virgil.
+*   `[24:te]`: The old man (the Guardian).
+*   `[25:lei]`: Marcia.
+
+## Scene 85-99: The Guardian’s Mandate
+**Scene Analysis: The Guardian’s Mandate**
+
+**What happens in this scene:**
+The Guardian (Cato) responds to Virgil’s plea. He acknowledges the love he had for his daughter, Marcia, during his earthly life, noting that he granted her every wish. However, he explains that now that she is in the afterlife (beyond the "evil river"), the laws governing his existence as the Guardian of Purgatory prevent her from influencing his decisions.
+
+Despite this, Cato is swayed not by familial affection or Virgil's flattery, but by the divine authority of Beatrice ("the woman of heaven"). Because Beatrice has mandated this journey, Cato grants Dante passage. However, he insists on a ritual of purification: he commands Virgil to gird Dante with a pure reed and wash the "smut" (the grime of Hell) from his face. He explains that Dante cannot approach the "first minister" (the Angel who guards the first terrace of Purgatory) while his eyes are clouded by the residue of the abyss.
+
+**Tag Resolutions:**
+
+*   `{1:Marzïa}`: Marcia (Cato's daughter).
+*   `[2:i']`: The old man / Cato (referring to when he was alive).
+*   `[3:elli]`: The old man / Cato.
+*   `[4:+ella]`: Marcia.
+*   `[5:me]`: The old man / Cato.
+*   `[6:+io]`: The old man / Cato.
+*   `[7:+ella]`: Marcia.
+*   `[8:mi]`: The old man / Cato.
+*   `[9:+ella]`: Marcia.
+*   `[10:me]`: The old man / Cato.
+*   `{11:donna del ciel}`: Beatrice.
+*   `[12:ti]`: Virgil.
+*   `[13:tu]`: Virgil.
+*   `[14:lei]`: Beatrice.
+*   `[15:mi]`: The old man / Cato.
+*   `[16:+ella]`: Beatrice.
+*   `[17:+tu]`: Virgil.
+*   `[18:+tu]`: Virgil.
+*   `[19:tu]`: Virgil.
+*   `[20:costui]`: Dante.
+*   `[21:li]`: Dante.
+*   `[22:+tu]`: Virgil.
+*   `[23:+tu]`: Virgil.
+*   `[24:si]`: Dante (used impersonally: "it would not be fitting for him").
+*   `[25:+egli]`: Dante.
+*   `{26:al primo} {27:ministro}`: The first minister (the Angel of the first terrace).
+*   `[28:quei]`: The ministers/angels of Paradise.
+
+## Scene 100-108: The Isle of Reeds
+**Scene Analysis: The Isle of Reeds**
+
+**What happens in this scene:**
+Cato (the Guardian) continues his instructions to Virgil and Dante. He points out the geography of the small island surrounding him, noting that where the waves strike the soft mud, reeds ("giunchi") grow. He explains that no other plant can survive there because only the flexible reeds can withstand the constant battering of the sea. 
+
+Cato then gives a final command and a direction for their journey: he tells them that they are not to return to this spot. Instead, he instructs them to follow the guidance of the rising sun, which will indicate the easiest path to begin their ascent of the Mountain of Purgatory.
+
+**Tag Resolutions:**
+
+*   `[1:vi]`: Virgil and Dante. Cato is addressing both of them, telling them that the rising sun will show them the way to begin the climb.
+
+## Scene 109-114: The Departure
+**Scene Analysis: The Departure**
+
+**What happens in this scene:**
+Following Cato's instructions, the Guardian (Cato) disappears. Dante silently rises and turns his full attention toward Virgil, his guide, looking up at him for direction. Virgil then speaks, addressing Dante as "Son" and instructing him to follow closely in his footsteps. Virgil explains that they must turn around, as the plain they are standing on slopes downward from that point, and they need to head in the direction of the ascent.
+
+**Tag Resolutions:**
+*   `[1:+ei]`: Cato (the Guardian of Purgatory), who disappears after giving his mandates.
+*   `[2:io]`: Dante.
+*   `[3:mi]`: Dante.
+*   `[4:+io]`: Dante.
+*   `[5:mi]`: Dante.
+*   `{6:al duca mio}`: Virgil.
+*   `[7:lui]`: Virgil (the person Dante is looking at).
+*   `[8:+io]`: Dante (the person doing the looking).
+*   `[9:El]`: Virgil (the one who begins to speak).
+*   `{10:Figliuol}`: Dante (Virgil's affectionate term for him).
+*   `[11:+tu]`: Dante.
+*   `[12:+noi]`: Virgil and Dante.
+
+## Scene 115-120: The Morning Trek
+**Scene Analysis: The Morning Trek**
+
+**What happens in this scene:**
+As dawn fully breaks, the light increases, allowing Dante to see the shimmering of the sea in the distance. He and Virgil begin to walk across the "solitary plain" of the shore. Dante describes their movement using a simile: he compares their tentative progress to that of a person who has lost their way and is searching for the correct path, feeling as though their efforts are futile until the path is finally rediscovered. This reflects the uncertainty and the sense of "searching" that characterizes the beginning of the ascent.
+
+**Tag Resolutions:**
+*   `[1:+io]`: Dante. He is the narrator observing the light on the sea.
+*   `[2:Noi]`: Dante and Virgil. They are the two travelers walking together.
+*   `{3:om}`: A hypothetical man. This is a generic figure used in a simile to describe someone who has lost their way.
+*   `[4:li]`: The hypothetical man. The pronoun refers back to the "man" in the simile who feels he is walking in vain.
+
+## Scene 121-129: The Light of Revelation
+**Scene Analysis: The Light of Revelation**
+
+**What happens in this scene:**
+Dante and Virgil reach a point on the shore where the morning dew is still clinging to the grass as the sun rises. Following the instructions given by Cato (the Guardian), Virgil performs the ritual of purification. He gently uses his hands (likely holding the reed mentioned previously) to wipe the "smut" or grime of the *Inferno* from Dante's face. 
+
+Dante, recognizing the significance and the kindness of this gesture, turns his tearful cheeks toward his guide. Through this act, Virgil restores the natural color and light to Dante's face—a radiance that had been obscured by the oppressive darkness and spiritual weight of Hell. This is a symbolic moment of transition: Dante is physically and spiritually cleansed, preparing him to face the Angel (the first minister) and begin the arduous climb of Purgatory.
+
+**Tag Resolutions:**
+*   `[1:noi]`: Dante and Virgil.
+*   `{2:l mio maestro}`: Virgil.
+*   `[3:io]`: Dante.
+*   `[4:+io]`: Dante.
+*   `[5:lui]`: Virgil.
+*   `[6:+egli]`: Virgil.
+*   `[7:mi]`: Dante.
+*   `[8:mi]`: Dante.
+
+## Scene 130-136: Arrival at the Shore
+**Scene Analysis: Arrival at the Shore**
+
+**What happens in this scene:**
+Dante and Virgil arrive at a deserted shore, which Dante describes as a place so remote and untouched that no human who ever sailed those waters ever returned to tell of it. Here, Virgil carries out the specific ritual ordered by Cato: he girds Dante with a reed. Dante is struck with wonder as he observes a miracle: the "humble plant" (the reed) that Virgil plucked to use for the ritual immediately regrows in the exact spot from which it was taken. This supernatural occurrence underscores the divine nature of Purgatory, where the laws of the physical world are superseded by divine will and restoration.
+
+**Tag Resolutions:**
+*   `[1:+noi]`: Dante and Virgil.
+*   `{2:omo}`: Man (referring to any human/sailor in a general sense).
+*   `[3:+elli]`: Virgil (the one performing the action of girding Dante).
+*   `[4:mi]`: Dante (the one being girded).
+*   `[5:elli]`: Virgil (the one who chose the plant).
+*   `[6:+elli]`: Virgil (the one who plucked the plant).
+
+# recap
+- Dante and Virgil are traveling together on the shores of Purgatory.
+- Dante has been ritually purified and girded with a reed per Cato's instructions.
+- They are now prepared to begin their ascent of the mountain.

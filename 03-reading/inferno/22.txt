@@ -1,0 +1,442 @@
+# Canto 22 — The Chaos and Combat of the Malebranche
+
+## Scene 1-12: The Knightly Vision
+In this scene, Dante is observing the chaotic and noisy behavior of the Malebranche demons as they escort him and Virgil. The demons are signaling to one another with a frantic variety of shouts and gestures. To describe this commotion, Dante pauses the immediate narrative to draw a comparison to a historical memory of military mobilization.
+
+He recalls the atmosphere of war in the city of Arezzo (a city often at odds with Dante's native Florence). He describes the sight of knights breaking camp, the movement of couriers across the landscape, and the vigilance of guards. He remembers the cacophony of signals—trumpets, bells, and drums—used to coordinate the troops. He concludes that he has never seen such a diverse and frantic array of signals used by any army (whether cavalry or infantry) or even by ships navigating by land or star.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `{2:cavalier}`: The knights of Arezzo
+- `{3:corridor}`: The couriers/messengers of Arezzo
+- `[4:+io]`: Dante
+- `{5:Aretini}`: The people of Arezzo
+- `[6:+io]`: Dante
+- `{7:gualdane}`: The guards/sentinels of Arezzo
+- `{8:cavalier}`: The knights of Arezzo
+- `[9:+io]`: Dante
+- `{10:pedoni}`: The foot soldiers of Arezzo
+
+## Scene 13-18: Dante’s Observation
+**Scene Analysis**
+
+In this brief passage, the narrative returns from the historical digression about the army of Arezzo back to the immediate action in the Fifth Bolgia. Dante and Virgil are continuing their walk, escorted by the ten Malebranche demons. 
+
+Dante makes a sarcastic aside regarding his companions, calling them a "fierce company." He remarks that while he is with them now, he would much rather be in a church with the saints or even in a tavern with the gluttons (a nod to the Third Circle of Hell) than be in the company of these demons. Despite his distaste for the demons, Dante remains observant; he keeps his eyes fixed on the ledge ("la pegola") to study the layout of the bolgia and the suffering of the sinners immersed in the boiling pitch.
+
+**Tag Resolutions**
+
+- `[1:Noi]`: Dante and Virgil
+- `{2:li diece demoni}`: The ten Malebranche demons
+- `{3:fiera compagnia}`: The ten Malebranche demons
+- `{4:coi santi}`: The saints
+- `{5:coi ghiottoni}`: The gluttons (the sinners of the Third Circle)
+- `{6:la gente}`: The barrators (the sinners burning in the pitch of the Fifth Bolgia)
+
+## Scene 19-30: Sinners Hiding Like Frogs
+In this scene, Dante describes the behavior of the sinners (the barrators) immersed in the boiling pitch of the Fifth Bolgia. He uses two vivid similes from the natural world to illustrate their movements and their fear of the demons.
+
+First, he compares the sinners to dolphins: just as dolphins arch their backs to signal to sailors that it is time to steer the ship, some sinners occasionally raise their backs above the pitch to get a momentary reprieve from the heat. However, they disappear back into the depths almost instantly.
+
+Second, he compares them to frogs at the edge of a ditch, who keep only their noses above the water while hiding the rest of their bodies. The sinners are scattered throughout the bolgia in this same manner. However, the moment the demon Barbariccia approaches them, they dive back down into the boiling pitch to avoid his notice and potential torture.
+
+**Tag Resolutions:**
+
+- `{1:a' marinar}`: The sailors (part of the dolphin analogy)
+- `[2:s']`: The sailors
+- `{3:alcun de' peccatori}`: Some of the sinners (the barrators)
+- `[4:+ei]`: The sinners (the barrators)
+- `{5:i peccatori}`: The sinners (the barrators)
+- `[6:s']`: Barbariccia
+- `{7:Barbariccia}`: Barbariccia
+- `[8:+elli]`: The sinners (the barrators)
+- `[9:si]`: The sinners (the barrators)
+
+## Scene 31-36: Graffiacan’s Agitation
+**Scene Analysis**
+
+In this scene, Dante describes a specific, jarring interaction between the demon Graffiacan and the sinners immersed in the boiling pitch. 
+
+Dante observes one sinner waiting in the pitch, contrasting his stillness with the movement of others. He uses a simile involving frogs: just as one frog might remain still while another leaps away, the sinners' reactions to the demons vary.
+
+Graffiacan, who is positioned close to the sinners, suddenly attacks. He reaches down and grabs the pitch-soaked hair of the sinners, violently hauling them upward. Dante notes that the fluid, agile movement of the demon as he pulls the sinners out of the pitch reminds him of an otter.
+
+**Tag Resolutions**
+
+- `[1:I']`: Dante
+- `[2:me]`: Dante
+- `[3:uno]`: A sinner (barrator)
+- `[4:elli]`: The sinners (barrators)
+- `{5:una rana}`: A frog (part of the simile)
+- `[6:l'altra]`: Another frog (part of the simile)
+- `{7:Graffiacan}`: Graffiacan
+- `[8:li]`: The sinners (barrators)
+- `[9:+ei]`: Graffiacan
+- `[10:li]`: The sinners (barrators)
+- `[11:+ei]`: Graffiacan
+- `[12:mi]`: Dante
+
+## Scene 37-39: Dante’s Meta-Commentary
+**Scene Analysis**
+
+In this brief meta-commentary, Dante pauses the narrative to address a potential question from the reader: how does he know the specific names of the Malebranche demons (such as Barbariccia and Graffiacan) when he is a stranger to them?
+
+Dante explains that he was paying close attention during the preceding events. He notes that he observed the demons when they were "elected" or chosen by their leader, Malacoda, to form the escort party. He then listened carefully as they identified themselves or were called by name, thereby recording their identities for the purpose of his poem. This passage serves as a justification for the narrator's omniscient knowledge of the demons' names.
+
+**Tag Resolutions**
+
+- `[1:I']`: Dante
+- `[2:+io]`: Dante
+- `[3:li]`: The Malebranche demons
+- `[4:+elli]`: The Malebranche demons
+- `[5:e']`: The Malebranche demons
+- `[6:si]`: The Malebranche demons
+- `[7:+io]`: Dante
+
+## Scene 40-45: The Demand for Hooks
+In this scene, the sadistic nature of the sinners in the Fifth Bolgia is revealed. Instead of feeling sympathy for the soul that Graffiacan has just violently hauled out of the boiling pitch, the other barrators begin to shout in unison, urging another demon, Rubicante, to attack the victim. They want Rubicante to dig his claws into the sinner and skin him alive.
+
+Watching this cruel spectacle, Dante turns to his guide, Virgil. He asks Virgil to find out the identity of this "unfortunate" soul who has fallen into the hands of his tormentors (the demons).
+
+**Tag Resolutions:**
+
+- `{1:Rubicante}`: Rubicante (one of the Malebranche demons)
+- `[2:+tu]`: Rubicante
+- `[3:tu]`: Rubicante
+- `[4:li]`: The sinner (the one pulled out by Graffiacan)
+- `[5:tu]`: Rubicante
+- `[6:lo]`: The sinner (the one pulled out by Graffiacan)
+- `{7:i maladetti}`: The barrators (the damned sinners in the pitch)
+- `[8:io]`: Dante
+- `{9:Maestro mio}`: Virgil
+- `[10:+tu]`: Virgil
+- `[11:tu]`: Virgil
+- `[12:tu]`: Virgil
+- `[13:chi]`: The sinner (the one pulled out by Graffiacan)
+- `{14:lo sciagurato}`: The sinner (the one pulled out by Graffiacan)
+- `{15:li avversari suoi}`: The Malebranche demons
+
+## Scene 46-54: The Navarrese’s Origin
+In this scene, Virgil acts upon Dante's request from the previous passage. He approaches the sinner who has just been violently extracted from the boiling pitch by the demon Graffiacan to discover his identity.
+
+Virgil asks the soul where he is from, and the sinner responds by explaining his origins. He reveals that he was born in the Kingdom of Navarre. He describes a troubled upbringing: his mother had placed him in service to a certain lord because the sinner had been fathered by a "ribaldo" (a scoundrel or rascal) who had squandered his own wealth and ruined himself.
+
+The sinner continues his autobiography, noting that he eventually entered the service (the household) of King Theobald. It was while serving the King that he engaged in "baratteria" (the crime of barratry—using a political office for personal gain through corruption). He concludes by acknowledging that this specific sin is the reason he is now suffering and "rendering account" in the intense heat of the Fifth Bolgia.
+
+**Tag Resolutions:**
+
+- `{1:Lo duca mio}`: Virgil
+- `[2:li]`: The sinner (the Navarrese)
+- `[3:s']`: Virgil
+- `[4:+ei]`: Virgil
+- `[5:ei]`: The sinner
+- `[6:quei]`: The sinner
+- `[7:I']`: The sinner
+- `{8:Mia madre}`: The sinner's mother
+- `{9:servo}`: The sinner
+- `{10:un segnor}`: A lord (the sinner's first master)
+- `[11:mi]`: The sinner
+- `[12:m']`: The sinner
+- `{13:un ribaldo}`: The sinner's father
+- `{14:distruggitor}`: The sinner's father
+- `[15:sé]`: The sinner's father
+- `[16:+io]`: The sinner
+- `{17:famiglia}`: The sinner (as a member of the household)
+- `{18:del buon re Tebaldo}`: King Theobald of Navarre
+- `[19:+io]`: The sinner
+- `[20:mi]`: The sinner
+- `[21:io]`: The sinner
+
+## Scene 55-57: Cirïatto’s Snorting
+In this brief scene, the narrative shifts from the Navarrese sinner's autobiography back to the immediate, sadistic actions of the Malebranche demons. 
+
+Dante describes another demon, Cirïatto, who is depicted with porcine features—specifically, tusks protruding from his mouth like those of a pig. Cirïatto uses one of these tusks to scrape or slide against the Navarrese sinner, adding a new layer of physical torment to the soul's suffering.
+
+**Tag Resolutions:**
+
+- `{1:Cirïatto}`: Cirïatto (one of the Malebranche demons)
+- `[2:+ei]`: Cirïatto
+- `[3:li]`: The sinner (the Navarrese)
+
+## Scene 58-63: Barbariccia’s Command
+In this scene, the interaction between the Malebranche demons and the Navarrese sinner continues, while Barbariccia manages the group and communicates with Virgil.
+
+The demon Cirïatto (referred to here as "the weasel") attempts to join in the torment of the sinner. However, Barbariccia steps in and physically blocks him with his arms. Barbariccia orders the other demons to keep their distance, announcing that he will be the one to "hang" (torture) the sinner. 
+
+Barbariccia then turns to Virgil and tells him that if he wishes to learn anything else from the Navarrese sinner, he should ask now, because the sinner is about to be torn apart by the other demons.
+
+**Tag Resolutions:**
+
+- `{1:l sorco}`: Cirïatto (the demon described as weasel-like)
+- `{2:Barbariccia}`: Barbariccia
+- `[3:il]`: Cirïatto
+- `[4:+ei]`: Barbariccia
+- `[5:+voi]`: The Malebranche demons
+- `[6:io]`: Barbariccia
+- `[7:lo]`: The Navarrese sinner
+- `{8:al maestro mio}`: Virgil
+- `[9:+ei]`: Barbariccia
+- `[10:+tu]`: Virgil
+- `[11:+ei]`: Barbariccia
+- `[12:+tu]`: Virgil
+- `[13:lui]`: The Navarrese sinner
+- `[14:'l]`: The Navarrese sinner
+
+## Scene 64-69: Searching for Italians
+**Scene Analysis**
+
+In this scene, Virgil continues his interrogation of the Navarrese sinner. Seeking information about the residents of the Fifth Bolgia, Virgil asks the soul if he knows of any other sinners submerged in the pitch who are "Latino" (Italian).
+
+The Navarrese sinner responds that he had been positioned very close to an Italian sinner until shortly before he was hauled out. He expresses a longing to be back under the cover of the boiling pitch with this companion, noting that if he were still submerged and hidden, he would not have to fear the "claws and hooks" (the weapons of the Malebranche demons) that now threaten him.
+
+**Tag Resolutions**
+
+- `{1:Lo duca}`: Virgil
+- `[2:+tu]`: The Navarrese sinner
+- `[3:tu]`: The Navarrese sinner
+- `[4:quelli]`: The Navarrese sinner
+- `[5:I']`: The Navarrese sinner
+- `[6:mi]`: The Navarrese sinner
+- `[7:io]`: The Navarrese sinner
+- `[8:lui]`: An unnamed Italian sinner
+- `[9:i']`: The Navarrese sinner
+
+## Scene 70-75: The Chaos of the Hooks
+In this scene, the tension between the Malebranche demons' sadistic impulses and Barbariccia's orders finally snaps. 
+
+Libicocco, unable to contain his impatience any longer, declares that the demons ("we") have waited long enough for Virgil to finish his questioning. He immediately attacks the Navarrese sinner, using his hook to rip a piece of flesh from the sinner's arm. Seeing this, another demon, Draghignazzo, attempts to join in the carnage by grabbing the sinner by the legs. This chaotic breach of discipline prompts the leader of the squad, Barbariccia (the decurion), to turn around in anger to regain control of his subordinates.
+
+**Tag Resolutions:**
+
+- `{1:Libicocco}`: Libicocco (one of the Malebranche demons)
+- `[2:+noi]`: The Malebranche demons
+- `[3:+ei]`: Libicocco
+- `[4:+ei]`: Libicocco
+- `[5:+ei]`: Libicocco
+- `[6:ne]`: The Navarrese sinner (specifically his flesh)
+- `{7:Draghignazzo}`: Draghignazzo (one of the Malebranche demons)
+- `[8:i]`: The Navarrese sinner
+- `{9:'l decurio}`: Barbariccia (the leader of the squad)
+- `[10:+ei]`: Barbariccia
+- `[11:si]`: Barbariccia
+
+## Scene 76-80: Virgil’s Inquiry
+In this scene, the chaotic skirmish between the Malebranche demons has temporarily subsided. The Navarrese sinner is left staring in shock at the wound Libicocco just inflicted on his arm. Virgil takes advantage of this brief lull to continue his interrogation. He asks the sinner to identify the person with whom he had the "bad parting" (the betrayal or conflict) that ultimately led him to this "shore" (meaning his arrival in Hell).
+
+**Tag Resolutions:**
+
+- `[1:elli]`: The Malebranche demons
+- `[2:lui]`: The Navarrese sinner
+- `{3:l duca mio}`: Virgil
+- `[4:Chi]`: The person the Navarrese sinner had a bad parting with
+- `[5:colui]`: The person the Navarrese sinner had a bad parting with
+- `[6:+tu]`: The Navarrese sinner
+- `[7:+tu]`: The Navarrese sinner
+
+## Scene 81-90: The Denunciation of Gomita
+In this scene, the Navarrese sinner answers Virgil's question about who led him to his current state of damnation. He identifies the culprit as **Frate Gomita**, a monk from Gallura in Sardinia. 
+
+The Navarrese sinner describes Gomita as a "vessel of every fraud," detailing a specific act of corruption: Gomita had the enemies of his mistress (or lady) in his power, but instead of acting against them, he took bribes from them and quietly released them. He notes that Gomita was not merely a petty corrupt official, but a "sovereign" or supreme barrator in various other dealings. Finally, he mentions another associate of Gomita, **Michel Zanche** of Logudoro, noting that the two of them are well-known in Sardinia for their incessant scheming and talking.
+
+**Tag Resolutions:**
+
+- `[1:ei]`: The Navarrese sinner
+- `{2:frate Gomita}`: Frate Gomita
+- `[3:quel]`: Frate Gomita
+- `{4:vasel d'ogne froda}`: Frate Gomita
+- `{5:i nemici}`: The enemies of Gomita's lady
+- `{6:donno}`: The lady/mistress of Frate Gomita
+- `[7:+ei]`: Frate Gomita
+- `[8:lor]`: The enemies of Gomita's lady
+- `[9:se]`: The enemies of Gomita's lady
+- `[10:+ei]`: Frate Gomita
+- `[11:si]`: Frate Gomita
+- `[12:+ei]`: Frate Gomita
+- `[13:e']`: Frate Gomita
+- `{14:barattier}`: Frate Gomita
+- `[15:+ei]`: Frate Gomita
+- `{16:sovrano}`: Frate Gomita
+- `[17:esso]`: Frate Gomita
+- `{18:donno Michel Zanche}`: Michel Zanche
+- `[19:si]`: The tongues of Frate Gomita and Michel Zanche
+
+## Scene 91-93: The Threatening Gaze
+**Scene Analysis**
+
+In this brief and tense moment, the Navarrese sinner interrupts his testimony to warn his listeners about the immediate danger he faces. 
+
+He addresses Dante and Virgil, pointing out another of the Malebranche demons who is grimacing or gnashing his teeth ("digrigna"). The sinner expresses a desire to continue speaking—likely to provide more information about the corrupt officials in the bolgia—but he abruptly stops. He admits that he is afraid the demon is preparing to attack him, specifically threatening to "scratch" or tear at his scalp ("grattarmi la tigna"). This emphasizes the precarious position of the sinners, who are subject to the sudden, sadistic whims of their tormentors even while being interrogated.
+
+**Tag Resolutions**
+
+- `[1:+voi]`: Dante and Virgil
+- `{2:altro}`: One of the Malebranche demons (the one grimacing)
+- `[3:i']`: The Navarrese sinner
+- `[4:i']`: The Navarrese sinner
+- `[5:ello]`: One of the Malebranche demons (the one grimacing)
+- `[6:s']`: One of the Malebranche demons (the one grimacing)
+
+## Scene 94-96: Addressing Farfarello
+In this scene, the internal tension and lack of discipline among the Malebranche demons continue. 
+
+Barbariccia (the squad leader, referred to here by the title "the great proposed" or "chief officer") notices that another demon, Farfarello, is glaring with wide, rage-filled eyes, likely eager to get in on the torture of the Navarrese sinner. To maintain some semblance of order and prevent another chaotic skirmish like the one caused by Libicocco, Barbariccia turns to Farfarello and sharply commands him to step aside, insulting him by calling him an "evil bird."
+
+**Tag Resolutions:**
+
+- `{1:l gran proposto}`: Barbariccia
+- `{2:Farfarello}`: Farfarello
+- `[3:+egli]`: Barbariccia
+- `[4:+tu]`: Farfarello
+- `{5:malvagio uccello}`: Farfarello
+
+## Scene 97-105: The Prisoner’s Bargain
+In this scene, the Navarrese sinner—who is understandably terrified—attempts to strike a deal with Dante and Virgil. He offers to summon other Italian sinners (specifically Tuscans or Lombards) for them to interview, but he sets a condition: the Malebranche demons must keep their distance. He explains that the other sinners will only emerge from the boiling pitch if they are certain they won't be immediately targeted for revenge by the demons. He notes that he can use a specific signal (a soft whistle or sound), which is the customary way sinners communicate when one of them surfaces, to bring up to seven others to the ledge.
+
+**Tag Resolutions:**
+
+- `[1:voi]`: Dante and Virgil
+- `{2:lo spaürato}`: The Navarrese sinner (literally "the frightened one")
+- `[3:io]`: The Navarrese sinner
+- `[4:ne]`: Tuscan or Lombard sinners
+- `{5:i Malebranche}`: The Malebranche demons
+- `[6:ei]`: Tuscan or Lombard sinners
+- `[7:io]`: The Navarrese sinner
+- `[8:io]`: The Navarrese sinner
+- `[9:+io]`: The Navarrese sinner
+- `[10:ne]`: Tuscan or Lombard sinners
+- `[11:io]`: The Navarrese sinner
+- `[12:si]`: A sinner (one who emerges from the pitch)
+
+## Scene 106-111: Cagnazzo’s Rebuttal
+In this scene, the demon Cagnazzo reacts to the Navarrese sinner's proposal to summon other Italian souls. Cagnazzo is not fooled by the offer; he lifts his head and shakes it, alerting the other demons to the sinner's perceived trick. He claims that the sinner has only come up with this plan as a "malizia" (a cunning ruse) to create a distraction or a gap in the demons' perimeter, allowing him to dive back down into the safety of the boiling pitch.
+
+The Navarrese sinner, described as being full of "lacciuoli" (snares or tricks), does not deny his cunning. Instead, he replies that he is indeed very "malizioso" (cunning/malicious), but justifies this behavior as a necessary means of ensuring his own "trestizia" (safety or security) from the demons' hooks.
+
+**Tag Resolutions:**
+
+- `{1:Cagnazzo}`: Cagnazzo (one of the Malebranche demons)
+- `[2:+ei]`: Cagnazzo
+- `[3:+tu]`: The other Malebranche demons (specifically, Cagnazzo is addressing his companions/Barbariccia to warn them)
+- `[4:elli]`: The Navarrese sinner
+- `[5:ei]`: The Navarrese sinner
+- `[6:+ei]`: The Navarrese sinner
+- `[7:io]`: The Navarrese sinner
+- `[8:io]`: The Navarrese sinner
+
+## Scene 112-117: Alichin’s Challenge
+**Scene Analysis**
+
+In this scene, the tension between the Malebranche demons and the Navarrese sinner escalates as another demon, Alichin, enters the conversation. Following Cagnazzo's accusation that the sinner is merely trying to find a way to dive back into the boiling pitch, Alichin decides to taunt the sinner with a sadistic challenge.
+
+Alichin tells the Navarrese sinner that if he dares to dive back down, Alichin will not even bother to gallop after him; instead, he will simply hover over the pitch, beating his wings. He dares the sinner to leave his neck exposed and use the ledge as a shield, essentially challenging the sinner to see if he possesses more strength or courage than the demons. It is a cruel psychological game, mocking the sinner's desperation and his failed attempt to bargain for safety.
+
+**Tag Resolutions**
+
+- `{1:Alichin}`: Alichin (one of the Malebranche demons)
+- `[2:si]`: Alichin
+- `{3:li altri}`: The other Malebranche demons
+- `[4:+egli]`: Alichin
+- `[5:lui]`: The Navarrese sinner
+- `[6:tu]`: The Navarrese sinner
+- `[7:ti]`: The Navarrese sinner
+- `[8:io]`: Alichin
+- `[9:ti]`: The Navarrese sinner
+- `[10:+io]`: Alichin
+- `[11:+tu]`: The Navarrese sinner
+- `[12:tu]`: The Navarrese sinner
+- `[13:noi]`: The Malebranche demons
+
+## Scene 118-120: The Moment of Tension
+This scene marks a transition from the dialogue and threats to a sudden action. Dante the poet breaks the narrative flow to address the reader directly, framing the upcoming events as a "nuovo ludo" (a new game or diversion). 
+
+The tension peaks as the Malebranche demons, perhaps out of arrogance or as part of their sadistic psychological game, momentarily distract themselves by turning their eyes away from the Navarrese sinner. One demon in particular—the one most hardened or cruel among them—is the first to look away, creating the opening for the sinner to attempt his escape.
+
+**Tag Resolutions:**
+
+- `[1:tu]`: The reader
+- `[2:+tu]`: The reader
+- `[3:quel]`: One of the Malebranche demons (specifically the one described as the most "cruel")
+
+## Scene 121-126: The Sudden Leap
+In this scene, the tension described at the end of the previous passage culminates in a sudden action. The Navarrese sinner seizes the perfect moment when the Malebranche demons are distracted. He plants his feet firmly on the ledge and, in a single motion, leaps back into the boiling pitch, successfully freeing himself from the custody of the "proposto" (the squad leader, Barbariccia) and his companions.
+
+All the demons feel the sting of failure/guilt for letting him escape, but one demon in particular—the one who had looked away first—is the primary cause of the oversight. This demon reacts by moving forward and shouting at the fleeing Navarrese sinner, "You've done it!" (or "You've arrived!"), acknowledging the sinner's successful escape.
+
+**Tag Resolutions:**
+
+- `{1:Lo Navarrese}`: The Navarrese sinner
+- `[2:+elli]`: The Navarrese sinner
+- `[3:+elli]`: The Navarrese sinner
+- `[4:+elli]`: The Malebranche demons (specifically the escort squad and their leader, Barbariccia)
+- `[5:si]`: The Navarrese sinner
+- `[6:quei]`: The demon most responsible for the error (the one who looked away)
+- `[7:+elli]`: The demon most responsible for the error
+- `[8:si]`: The demon most responsible for the error
+- `[9:+elli]`: The demon most responsible for the error
+- `[10:Tu]`: The Navarrese sinner
+
+## Scene 127-132: The Struggle in the Pitch
+**Scene Analysis**
+
+In this brief, high-action scene, Dante describes the immediate aftermath of the Navarrese sinner's leap into the boiling pitch. 
+
+The demon who had first noticed the sinner's movement and shouted his success (from the previous scene) finds that his realization came too late; the shout did nothing to stop the escape. The Malebranche demons, despite their wings, were unable to react with enough speed to intercept the sinner before he submerged.
+
+Dante employs a vivid simile from nature to illustrate the interaction: he compares the Navarrese sinner to a duck (*anitra*) and the demon to a falcon (*falcon*). Just as a duck suddenly dives underwater the moment a falcon approaches, the sinner vanishes into the pitch. Consequently, the demon—like the frustrated falcon—is forced to fly back up to the surface, empty-handed and "broken" (cross/frustrated) by the failure of the hunt.
+
+**Tag Resolutions**
+
+- `[1:i]`: The demon who noticed the leap (the "most cruel" one who shouted in line 126)
+- `[2:+elli]`: The Malebranche demons
+- `[3:quelli]`: The Navarrese sinner
+- `[4:quei]`: The demon (the "falcon" of the simile) who attempted to catch the sinner
+
+## Scene 133-138: Calcabrina’s Entanglement
+In this scene, the focus shifts to the aftermath of the Navarrese sinner's successful escape. Calcabrina, one of the Malebranche demons, had been flying close behind the sinner. Interestingly, Calcabrina's motivation wasn't just to catch him, but he was almost "fond" of the idea of the sinner surviving the leap just so the fight and torture could continue.
+
+However, once the barrator (the Navarrese sinner) vanishes completely into the boiling pitch, Calcabrina's aggression has no target. In a fit of rage and frustration, he turns his claws upon his own comrade—the fellow demon who had been negligent and allowed the escape to happen. The scene ends with the two demons locked in a violent struggle, clutching each other above the ditch.
+
+**Tag Resolutions:**
+
+- `{1:Irato Calcabrina de la buffa}`: Calcabrina (one of the Malebranche demons)
+- `[2:li]`: The Navarrese sinner
+- `[3:quei]`: The Navarrese sinner
+- `{4:l barattier}`: The Navarrese sinner
+- `[5:+ei]`: Calcabrina
+- `{6:suo compagno}`: A fellow Malebranche demon (specifically the one who let the sinner escape)
+- `[7:+ei]`: Calcabrina
+- `[8:lui]`: The fellow Malebranche demon
+
+## Scene 139-144: Trapped in the Boiling Bog
+In this scene, the violent struggle between the two Malebranche demons reaches a climax. The demon who was attacked by Calcabrina (the one who had let the Navarrese sinner escape) does not take the assault passively; he retaliates by clawing Calcabrina. In their mutual rage and grappling, both demons lose their balance and plummet into the boiling pitch. Once submerged, the demon (described as a "hot fencer" because he is fighting while immersed in heat) finds himself trapped. He is unable to fly back out of the bolgia because the sticky, boiling pitch has coated and fouled his wings, rendering them useless.
+
+**Tag Resolutions:**
+
+- `{1:l'altro}`: The fellow Malebranche demon (the negligent one whom Calcabrina attacked)
+- `[2:lui]`: Calcabrina
+- `{3:Lo caldo sghermitor}`: The demon fighting in the boiling pitch (referring to one or both of the combatants now trapped)
+- `[4:+ei]`: The demon fighting in the boiling pitch
+- `[5:+elli]`: The boiling pitch (specifically the sticky elements/bubbles of the "boiling pond")
+
+## Scene 145-151: The Retreat of the Demons
+In this final scene of Canto 22, the chaotic conflict between the Malebranche demons concludes with a shift in their targets and the departure of the travelers.
+
+Barbariccia, feeling "dolente" (sorrowful or distressed) over the loss of his two comrades who are now trapped in the boiling pitch, takes command of the remaining squad. He directs four of the demons to fly to the opposite side of the bolgia. These four demons quickly descend and begin attacking the barrators (the "pitch-covered ones"), who have become "cooked" or stuck within the crust of the boiling pitch. 
+
+As the demons divert their rage toward the sinners, Dante and Virgil seize the opportunity to move away, leaving the two trapped demons—Calcabrina and his companion—stuck and hindered in the sticky bog.
+
+**Tag Resolutions:**
+
+- `{1:Barbariccia}`: Barbariccia
+- `[2:ne]`: The remaining Malebranche demons
+- `[3:+elli]`: The four Malebranche demons
+- `[4:+elli]`: The four Malebranche demons
+- `{5:li 'mpaniati}`: The sinners (the barrators)
+- `[6:noi]`: Dante and Virgil
+- `[7:lor]`: Calcabrina and the fellow demon trapped in the pitch
+
+# recap
+- Dante and Virgil are moving away from the commotion to continue their journey.
+- Calcabrina and a fellow demon remain trapped in the boiling pitch, their wings fouled and useless.
+- Barbariccia and the remaining Malebranche demons are distracted, attacking the barrators on the opposite side of the bolgia.

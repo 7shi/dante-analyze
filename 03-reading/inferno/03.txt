@@ -1,0 +1,294 @@
+# Canto 03 — The Gate of Hell and the Approach to the Acheron
+
+## Scene 1-9: The Inscription on the Gate
+In this scene, Dante and Virgil have reached the entrance to Hell. They encounter a great gate upon which a chilling inscription is carved. The "speaker" here is not a character in the traditional sense, but the **Gate of Hell** itself, personified. The Gate describes its own origin, the divine authority that created it, and issues a final, hopeless warning to all who pass through it.
+
+Here is the resolution of the numbered tags:
+
+*   **[1:me]**: The Gate of Hell
+*   **[2:si]**: Anyone entering Hell (impersonal "one")
+*   **[3:me]**: The Gate of Hell
+*   **[4:si]**: Anyone entering Hell (impersonal "one")
+*   **[5:me]**: The Gate of Hell
+*   **[6:si]**: Anyone entering Hell (impersonal "one")
+*   **{7:la perduta gente}**: The Damned (the souls lost to eternity in Hell)
+*   **{8:Giustizia}**: Divine Justice (the attribute of God that necessitates Hell)
+*   **{9:il mio alto fattore}**: God (The Creator/The Father)
+*   **{10:la divina podestate}**: God (specifically referring to the Father/Divine Power)
+*   **{11:la somma sapïenza}**: God (specifically referring to the Son/Divine Wisdom)
+*   **{12:l primo amore}**: God (specifically referring to the Holy Spirit/Divine Love)
+*   **[13:me]**: The Gate of Hell
+*   **[14:io]**: The Gate of Hell
+*   **[15:+voi]**: Those entering Hell (specifically Dante and Virgil at this moment, and generally all damned souls)
+*   **[16:voi]**: Those entering Hell (specifically Dante and Virgil at this moment, and generally all damned souls)
+
+## Scene 10-18: Virgil's Interpretation
+In this scene, Dante and Virgil are standing before the Gate of Hell. Dante has just finished reading the terrifying inscription on the gate, but he finds the language obscure and difficult to grasp. He turns to Virgil for guidance. Virgil, acting as the wise and prudent mentor, interprets the gate's warning for him: he explains that to enter Hell, one must cast aside all doubt and cowardice. Virgil then reminds Dante that they have arrived at the place he previously described—the realm of the souls who have lost the "good of the intellect" (their ability to reason and choose the divine).
+
+Here is the resolution of the numbered tags:
+
+*   **[1:ïo]**: Dante
+*   **[2:io]**: Dante
+*   **{3:Maestro}**: Virgil
+*   **[4:m']**: Dante
+*   **[5:elli]**: Virgil
+*   **[6:me]**: Dante
+*   **{7:persona accorta}**: Virgil
+*   **[8:Noi]**: Dante and Virgil
+*   **[9:i']**: Virgil
+*   **[10:t']**: Dante
+*   **[11:tu]**: Dante
+*   **{12:le genti dolorose}**: The Damned (the souls lost to eternity in Hell)
+
+## Scene 19-24: Entry into the Underworld
+In this scene, Virgil leads Dante across the threshold and into the depths of the Underworld. Virgil takes Dante by the hand; seeing the encouraging, joyful expression on Virgil's face, Dante finds the courage to proceed. Virgil then guides him into the "secret things" (the interior of Hell). As they enter, Dante is immediately struck by the auditory horror of the environment—the air is starless, and the silence is broken by the distant, echoing sounds of sighs, weeping, and screams. Overwhelmed by the misery of the place, Dante begins to cry.
+
+Here is the resolution of the numbered tags:
+
+*   **[1:+ella]**: Dante (specifically, his hand; the pronoun *ella* refers to *la mia mano*)
+*   **[2:io]**: Dante
+*   **[3:mi]**: Dante
+*   **[4:+ella]**: Virgil (the pronoun *ella* here functions as an archaic third-person singular pronoun referring to Virgil, the subject who takes Dante's hand)
+*   **[5:mi]**: Dante
+*   **[6:io]**: Dante
+
+## Scene 25-33: The Tumult of Wailing
+In this scene, Dante describes the overwhelming auditory experience of entering the Underworld. He hears a chaotic "tumult" consisting of various languages and sounds: cries of pain, shouts of anger, voices ranging from loud to faint, and the sounds of hands striking things or each other. This noise is constant, swirling through the timeless air like sand in a windstorm. Overwhelmed and confused (described as having his head "girdled with error"), Dante speaks to Virgil to ask for an explanation of these sounds and the identity of the miserable souls producing them.
+
+**Resolution of numbered tags:**
+
+*   **[1:io]**: Dante (the narrator/pilgrim)
+*   **[2:+io]**: Dante (the narrator/pilgrim)
+*   **{3:Maestro}**: Virgil
+*   **[4:i']**: Dante (the speaker)
+*   **{5:che gent'}**: The Damned (the souls suffering in Hell)
+
+## Scene 34-42: The Origin of the Uncommitted
+In this scene, Virgil responds to Dante's confusion regarding the screams and wailing they hear. He explains that these sounds are produced by the "Uncommitted" (or the Neutrals)—souls who lived lives of complete indifference, neither pursuing virtue (earning praise) nor committing significant sins (earning infamy). 
+
+Virgil further explains that these souls are grouped with the "neutral angels"—those who, during the great rebellion in Heaven, neither joined Lucifer nor remained loyal to God, but instead acted only in their own self-interest. Because of this lack of conviction, they are rejected by both Heaven (which casts them out to preserve its beauty/purity) and the deeper parts of Hell (which refuses them because the "true" sinners would feel a sense of pride or "glory" if they shared their space with people who were never formally condemned).
+
+Here is the resolution of the numbered tags:
+
+*   **[1:elli]**: Virgil
+*   **[2:me]**: Dante
+*   **{3:l'anime}**: The Uncommitted (those who lived without infamy or praise)
+*   **[4:coloro]**: The Uncommitted (those who lived without infamy or praise)
+*   **[5:+elli]**: The Uncommitted
+*   **{6:quel cattivo coro}**: The Neutral Angels
+*   **{7:li angeli}**: The Neutral Angels
+*   **[8:+elli]**: The Neutral Angels
+*   **{9:Dio}**: God
+*   **[10:sé]**: The Neutral Angels
+*   **[11:+elli]**: The Neutral Angels
+*   **[12:li]**: The Uncommitted and the Neutral Angels
+*   **{13:i rei}**: The Damned (the guilty/sinners in Hell)
+*   **[14:elli]**: The Uncommitted and the Neutral Angels
+
+## Scene 43-51: The Fate of the Neutral
+In this scene, Dante is struck by the intensity of the sounds he hears and asks Virgil why the suffering of these particular souls is so severe that it causes them to wail so loudly. Virgil provides a brief, cutting explanation: these souls are the "Uncommitted," and their punishment is a total lack of identity and hope. They cannot die, and their existence is so wretched that they are envious of any other fate. Virgil explains that they are ignored by the living (no fame) and rejected by both Divine Mercy (which saves) and Divine Justice (which punishes). Because they are so insignificant, Virgil tells Dante that they aren't even worth discussing; he instructs Dante to simply observe them and keep moving.
+
+**Resolution of numbered tags:**
+
+*   **[1:io]**: Dante
+*   **{2:Maestro}**: Virgil
+*   **[3:lor]**: The Uncommitted (the neutral souls)
+*   **[4:li]**: The Uncommitted (the neutral souls)
+*   **[5:+ei]**: Virgil
+*   **[6:+io]**: Virgil
+*   **[7:Questi]**: The Uncommitted (the neutral souls)
+*   **[8:+elli]**: The Uncommitted (the neutral souls)
+*   **[9:loro]**: The Uncommitted (the neutral souls)
+*   **{10:misericordia}**: Mercy (the divine attribute of God)
+*   **{11:giustizia}**: Justice (the divine attribute of God)
+*   **[12:li]**: The Uncommitted (the neutral souls)
+*   **[13:+noi]**: Dante and Virgil
+*   **[14:lor]**: The Uncommitted (the neutral souls)
+*   **[15:+tu]**: Dante
+*   **[16:+tu]**: Dante
+
+## Scene 52-57: The Great Procession
+In this scene, Dante takes a moment to look around his environment and is struck by a startling sight. He sees a banner (a standard or signal) moving so rapidly in a circular motion that it seems unable to stay still for a single moment. Following this banner is a massive, seemingly endless procession of souls. Dante is overwhelmed by the sheer volume of people, admitting that he never would have imagined that death had claimed so many human beings.
+
+**Resolution of numbered tags:**
+
+*   **[1:io]**: Dante (the narrator/pilgrim)
+*   **[2:mi]**: Dante (the narrator/pilgrim)
+*   **{3:gente}**: The Damned (specifically the Uncommitted souls moving in the procession)
+*   **[4:i']**: Dante (the narrator/pilgrim)
+*   **[5:n']**: The Damned (referring back to the *gente*—the souls destroyed by death)
+
+## Scene 58-63: The Shadow of the Great Refuser
+In this scene, Dante is scanning the vast, moving crowd of souls he discovered in the previous scene. Initially, he doesn't recognize anyone, but then he spots a particular soul whom he recognizes as the person who "made the great refusal" out of cowardice (historically identified as Pope Celestine V, who abdicated the papacy). Seeing this specific soul acts as a confirmation for Dante; he immediately realizes that this entire group is the "sect" of the Uncommitted/Neutrals. He concludes that these souls are in a uniquely miserable position: they are displeasing to God and also hated by their own enemies.
+
+**Resolution of numbered tags:**
+
+*   **[1:io]**: Dante
+*   **[2:v']**: The Uncommitted (The pronoun *vi* here is locative, meaning "there," referring to the midst of the crowd of souls)
+*   **[3:+io]**: Dante
+*   **[4:+io]**: Dante
+*   **{5:ombra}**: Pope Celestine V (the "Great Refuser")
+*   **[6:colui]**: Pope Celestine V (the "Great Refuser")
+*   **[7:+io]**: Dante
+*   **[8:+io]**: Dante
+*   **{9:i cattivi}**: The Uncommitted (the neutral souls)
+*   **{10:Dio}**: God
+*   **{11:nemici}**: The enemies of the Uncommitted
+
+## Scene 64-69: The Torment of the Souls
+In this scene, Dante describes the gruesome physical torment of the Uncommitted. He notes that these souls were "never truly alive" because they lacked the conviction and passion that define a meaningful human existence. He observes that they are completely naked and are being relentlessly stung by gadflies and wasps. These insects streak the souls' faces with blood, which then mixes with their tears and drips down to their feet, where it is consumed by annoying worms.
+
+**Resolution of numbered tags:**
+
+*   **{1:Questi sciaurati}**: The Uncommitted (the neutral souls)
+*   **[2:+elli]**: The Uncommitted (the neutral souls)
+*   **[3:lor]**: The Uncommitted (the neutral souls)
+
+## Scene 70-78: Approaching the River
+In this scene, Dante shifts his attention away from the tormented Uncommitted and looks further into the distance. He notices a large crowd of souls gathered on the bank of a massive river. Struck by how eager and desperate these souls seem to be to cross the water, Dante asks Virgil for an explanation of who they are and what is driving their behavior. Virgil responds by telling Dante that he will explain the situation once they have actually reached the riverbank, identifying the river as the Acheron.
+
+Here is the resolution of the numbered tags:
+
+*   **[1:+io]**: Dante (the narrator/pilgrim)
+*   **[2:mi]**: Dante (the narrator/pilgrim)
+*   **[3:+io]**: Dante (the narrator/pilgrim)
+*   **{4:genti}**: The souls/people on the riverbank (the Damned awaiting transport)
+*   **[5:io]**: Dante (the speaker)
+*   **{6:Maestro}**: Virgil
+*   **[7:+tu]**: Virgil
+*   **[8:mi]**: Dante
+*   **[9:i']**: Dante
+*   **[10:le]**: The souls/people on the riverbank ({4:genti})
+*   **[11:i']**: Dante
+*   **[12:elli]**: Virgil (archaic third-person singular *egli*)
+*   **[13:me]**: Dante
+*   **[14:+elli]**: The souls/people on the riverbank ({4:genti})
+*   **[15:ti]**: Dante
+*   **[16:noi]**: Dante and Virgil
+
+## Scene 79-81: Dante's Shame
+In this brief scene (lines 79-81), Dante describes his reaction to Virgil’s previous instruction to wait until they reached the riverbank before getting an explanation. 
+
+Feeling a sense of modesty or perhaps intimidation (evidenced by his "ashamed and low" eyes), Dante becomes hesitant. He worries that his persistent questioning might be seen as too bold, intrusive, or "grave" (heavy/improper). As a result, he suppresses the urge to speak and maintains a respectful silence until they actually arrive at the banks of the Acheron.
+
+**Resolution of numbered tags:**
+
+*   **[1:li]**: Dante's words/speech (specifically referring back to *il mio dir*, the act of Dante speaking)
+*   **[2:+io]**: Dante
+*   **[3:mi]**: Dante
+
+## Scene 82-89: The Arrival of Charon
+In this scene, as Dante and Virgil reach the banks of the Acheron, they are approached by a ferryman in a boat. This figure is Charon, the legendary guide of the dead. Charon arrives shouting warnings and threats to the mass of souls waiting to cross the river, informing them that they are condemned to eternal darkness and will never see heaven again. Charon then notices Dante and is startled to find a living person among the dead, commanding him to separate himself from the damned souls.
+
+**Resolution of numbered tags:**
+
+*   **[1:noi]**: Dante and Virgil
+*   **{2:un vecchio}**: Charon (the ferryman of the dead)
+*   **[3:voi]**: The Damned (the souls awaiting transport across the Acheron)
+*   **{4:anime prave}**: The Damned (the souls awaiting transport across the Acheron)
+*   **[5:+voi]**: The Damned (the souls awaiting transport across the Acheron)
+*   **[6:i']**: Charon
+*   **[7:tu]**: Dante
+*   **{8:anima viva}**: Dante
+*   **[9:+tu]**: Dante
+*   **[10:cotesti]**: The Damned (the souls awaiting transport across the Acheron)
+
+## Scene 90-99: Virgil Silences the Ferryman
+In this scene, the confrontation between the living Dante and the ferryman Charon reaches its resolution. Charon observes that Dante is not separating himself from the crowd of damned souls as previously commanded. He informs Dante that he cannot cross in his boat, as Dante—being a living soul—will need to find a different route and a "lighter boat" (one suited for the living, rather than the heavy burden of the dead).
+
+Virgil intervenes to silence the ferryman. He tells Charon not to be troubled or distressed, explaining that Dante's presence and journey are willed by the Divine Power ("where what is willed can be achieved"—referring to Heaven/God). Upon hearing that this is a divine mandate, Charon ceases his shouting and falls silent, his fiery eyes and weathered face becoming still.
+
+**Resolution of numbered tags:**
+
+*   **[1:+ei]**: Charon
+*   **[2:io]**: Dante
+*   **[3:mi]**: Dante
+*   **[4:+ei]**: Charon
+*   **[5:+tu]**: Dante
+*   **[6:ti]**: Dante
+*   **[7:+tu]**: Dante
+*   **{8:'l duca}**: Virgil
+*   **[9:lui]**: Virgil
+*   **{10:Caron}**: Charon
+*   **[11:ti]**: Charon
+*   **[12:+tu]**: Charon
+*   **[13:+tu]**: Charon
+*   **{14:al nocchier}**: Charon
+
+## Scene 100-105: The Wrath of the Damned
+In this scene, Dante describes the reaction of the mass of damned souls waiting on the banks of the Acheron. Upon hearing the "harsh words" (*parole crude*)—referring to Charon's threats and the confirmation of their eternal condemnation—the souls are seized by a mixture of terror and rage. 
+
+Physically, they are overwhelmed; they turn pale (change color) and chatter their teeth in fear or cold. This terror quickly evolves into a violent, indiscriminate hatred. The souls begin to blaspheme everything associated with their existence: they curse God, their own parents, the entire human race, the places and times of their birth, and the very act of their conception. This demonstrates the total despair and spiritual corruption of those who are about to enter the deeper circles of Hell.
+
+**Resolution of numbered tags:**
+
+*   **{1:quell' anime}**: The Damned (the souls waiting on the bank of the Acheron)
+*   **[2:+elli]**: The Damned
+*   **[3:+elli]**: The Damned
+*   **[4:+elli]**: The Damned
+*   **[5:+elli]**: The Damned
+*   **{6:Dio}**: God
+*   **{7:lor parenti}**: The parents of the Damned souls
+
+## Scene 106-108: Retreat to the Shore
+In this brief concluding scene of Canto 3, the emotional volatility of the damned souls shifts from rage to despair. After their outburst of blasphemy against God and their parents, the souls retreat as a collective group back toward the riverbank. They are now weeping loudly, a stark contrast to the screams of anger heard moments before. Dante concludes the scene with a moral observation: this "evil shore" is the inevitable destination for every person who lived a life without the fear of God.
+
+**Resolution of numbered tags:**
+
+*   **[1:+elli]**: The Damned (the souls waiting on the bank of the Acheron)
+*   **[2:si]**: The Damned (the souls waiting on the bank of the Acheron)
+*   **{3:ciascun uom}**: The Damned (specifically, any person who lived without fear of God)
+*   **{4:Dio}**: God
+
+## Scene 109-120: The Continuous Flow of Souls
+In this scene, Dante describes the efficient and brutal way Charon manages the transit of the souls across the river Acheron. Charon, described as a demon with eyes of fire, uses gestures and signals to herd the souls into his boat. He is impatient and violent, striking any soul who lingers or hesitates with his oar.
+
+Dante employs a poignant simile here, comparing the souls to autumn leaves falling from a branch until the tree is bare. Similarly, the "evil seed of Adam" (the sinful dead) cast themselves into the boat one by one, responding to Charon's signals like birds responding to a call. As one group of souls is ferried across the dark waters, a new crowd is already gathering on the shore, emphasizing the infinite and relentless nature of the flow of the damned into Hell.
+
+**Resolution of numbered tags:**
+
+*   **{1:Caron}**: Charon (the ferryman)
+*   **{2:dimonio}**: Charon (the ferryman)
+*   **[3:loro]**: The Damned (the souls waiting to cross)
+*   **[4:le]**: The Damned (the souls waiting to cross)
+*   **[5:+egli]**: Charon (the ferryman)
+*   **[6:s']**: The Damned (specifically, any soul who hesitates or idles)
+*   **{7:il mal seme d'Adamo}**: The Damned (sinful humanity)
+*   **[8:+elli]**: The Damned (the souls being ferried)
+*   **[9:+elli]**: The Damned (the souls being ferried)
+*   **{10:nuova schiera}**: The Damned (a new group of souls arriving at the shore)
+*   **[11:s']**: The Damned (the new group of souls)
+
+## Scene 121-129: Virgil's Final Lesson
+In this final scene of Canto 3, Virgil provides a concluding explanation to Dante regarding the nature of the souls gathered on the banks of the Acheron. He explains that everyone who died while under the wrath of God, regardless of their country of origin, is destined to gather here. He notes a psychological paradox: although these souls are terrified, Divine Justice drives them forward with such force that their fear is transformed into a desperate desire to cross the river and enter Hell. Virgil clarifies that no righteous soul ever passes this way. Finally, he tells Dante that he now understands the reason for Charon's earlier anger and complaints: it is because a living soul is an anomaly in this realm of the dead.
+
+**Resolution of numbered tags:**
+
+*   **{1:Figliuol mio}**: Dante (addressed by Virgil)
+*   **{2:l maestro cortese}**: Virgil
+*   **[3:quelli]**: The Damned (those who die in the wrath of God)
+*   **{4:Dio}**: God
+*   **[5:+elli]**: The Damned
+*   **[6:li]**: The Damned
+*   **{7:anima buona}**: A righteous soul / The saved
+*   **{8:Caron}**: Charon
+*   **[9:te]**: Dante
+*   **[10:+tu]**: Dante
+
+## Scene 130-136: The Earthquake and Fainting
+In this final scene of Canto 3, the narrative reaches a dramatic climax as the environment itself reacts to the events on the banks of the Acheron. Once the transit of souls and Virgil's explanation are complete, a violent earthquake strikes the "dark countryside" of Hell. The memory of this event is so visceral that the narrator, Dante, remarks that he is still sweating from the terror as he recounts it. 
+
+Following the quake, the "tearful earth" (the realm of the damned) produces a sudden gust of wind and a flash of red light. This light is so intense that it overwhelms Dante's senses, causing him to lose consciousness and collapse, which he compares to a man being suddenly seized by sleep.
+
+**Resolution of numbered tags:**
+
+*   **[1:+ella]**: The dark countryside/plain of Hell (*la buia campagna*)
+*   **[2:mi]**: Dante
+*   **{3:La terra lagrimosa}**: Hell/The Underworld (personified as the "tearful earth")
+*   **[4:mi]**: Dante
+*   **[5:+io]**: Dante
+*   **{6:l'uom}**: A generic man (used in a simile to describe the act of falling asleep/fainting)
+
+# recap
+- Dante and Virgil are on the banks of the river Acheron in the Underworld.
+- After witnessing the transit of the damned, a violent earthquake and a flash of red light have caused Dante to lose consciousness.

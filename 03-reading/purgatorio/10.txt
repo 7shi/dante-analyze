@@ -1,0 +1,310 @@
+# Canto 10 — The Marble Gallery and the Contorted Souls
+
+## Scene 1-6: Closing of the Gate
+**Scene Analysis: Closing of the Gate**
+
+In this brief opening sequence, Dante and Virgil have just crossed the threshold of the gate into Purgatory. As soon as they are inside, Dante hears the gate slam shut behind them. This closure is symbolic and definitive; the gate is closed to those who were led astray by "mal amor" (evil love/misdirected love), which deceives the soul by making a crooked path seem straight. Dante reflects on the danger of looking back: had he turned his eyes toward the gate as it closed, he would have committed a fault (a longing for the world he left behind or a lack of trust in the divine journey), and he realizes he would have no excuse for such a lapse in discipline.
+
+**Tag Resolutions:**
+
+*   `[1:+noi]` (we): **Dante and Virgil**
+*   `{2:l'anime}` (the souls): **the souls of Purgatory**
+*   `[3:+ei]` (it): **mal amor** (evil love / misdirected love)
+*   `[4:+io]` (I): **Dante**
+*   `[5:io]` (I): **Dante**
+
+## Scene 7-9: The Moving Stone
+**Scene Analysis: The Moving Stone**
+
+In this brief transition, Dante describes the physical act of ascending the mountain. He and Virgil are climbing over a "split stone" (pietra fessa) that possesses a strange, rhythmic quality. Dante compares the movement of the rock to the motion of the tide—receding and then returning—suggesting an unstable or undulating path as they begin their journey of purification.
+
+**Tag Resolutions:**
+
+*   `[1:Noi]` (we): **Dante and Virgil**
+*   `[2:+ella]` (it/she): **l'onda** (the wave)
+
+## Scene 10-12: Virgil's Strategy
+In this brief scene, Virgil speaks to Dante to provide tactical advice on how to navigate the physical terrain of the mountain. Having just encountered the "split stone" mentioned in the previous scene, Virgil explains that they cannot simply walk straight up; they must use a bit of "arte" (skill or technique). He instructs Dante to approach the dividing edge of the rock by shifting his position—moving "now here, now there" (zigzagging)—to maintain balance or find a secure footing.
+
+**Tag Resolution:**
+
+*   `{1:l duca mio}` (my guide): **Virgil**
+
+## Scene 13-21: Arrival on the Plain
+**Scene Analysis: Arrival on the Plain**
+
+In this scene, Dante describes the arduous nature of the climb. The "technical" maneuvering (the zigzagging) required to navigate the split stone mentioned in the previous scene slowed their progress significantly. Dante notes the passage of time by observing the moon; they do not emerge from the narrow, constricted passage (the *cruna*) until the waning moon has already set (returned to its "bed"). 
+
+Once they finally break free from the narrow cleft and reach a more open area where the mountain's slope gathers behind them, they find themselves on a vast, desolate plateau. Dante is physically exhausted, and both he and Virgil are momentarily disoriented, uncertain of the correct path forward. He describes this plain as being more solitary and lonely than a road through a desert, emphasizing a sense of isolation and vulnerability as they begin their ascent of the mountain.
+
+**Tag Resolutions:**
+
+*   `[1:noi]` (we): **Dante and Virgil**
+*   `[2:+noi]` (we): **Dante and Virgil**
+*   `[3:ïo]` (I): **Dante**
+*   `[4:+noi]` (we): **Dante and Virgil**
+
+## Scene 22-27: The Enclosed Ledge
+**Scene Analysis: The Enclosed Ledge**
+
+In this scene, Dante describes the physical dimensions of the ledge (the *cornice*) upon which he and Virgil now stand. He observes that the space between the edge of the abyss (the "vano") and the base of the rising cliff wall is very narrow—estimating that it would take only three human bodies laid end-to-end to span the width. As Dante scans the horizon to the left and right, he notes that the ledge remains consistently this narrow for as far as he can see, emphasizing the claustrophobic and precarious nature of their position on the mountainside.
+
+**Tag Resolutions:**
+
+*   `{1:un corpo umano}` (a human body): **a generic human** (used here as a unit of measurement)
+*   `[2:mi]` (me): **Dante**
+
+## Scene 28-33: The Exquisite Carvings
+In this scene, Dante and Virgil are standing still on the narrow ledge, having not yet begun to move further up the slope. As Dante observes the surrounding cliff wall, he realizes that it is composed of brilliant white marble. He is struck by the exquisite quality of the carvings adorning the stone; they are so masterful that they would put to shame not only the skill of Polyclitus (the legendary Greek sculptor) but even Nature herself.
+
+**Tag Resolutions:**
+
+*   `[1:io]` (I): **Dante**
+*   `{2:Policleto}` (Polyclitus): **Polyclitus** (the ancient Greek sculptor)
+*   `{3:la natura}` (nature): **Nature** (personified)
+
+## Scene 34-45: The Annunciation
+**Scene Analysis: The Annunciation**
+
+In this scene, Dante describes the first of the sculptural reliefs he observes on the white marble wall of the ledge. The carving depicts the Annunciation. Dante focuses first on the figure of the Angel Gabriel, who brought the news of the Incarnation—the "decree of peace" that ended the long period of human longing and opened the gates of Heaven. The carving is so masterful and lifelike that Gabriel does not seem like a silent statue; Dante remarks that one could almost swear the angel was actually speaking the word "Ave" (Hail).
+
+Dante then describes the figure of the Virgin Mary, depicted alongside the angel. He describes her as the one who "turned the key" to unlock divine love for humanity. Her posture and expression are so precisely captured that they convey her spoken response to Gabriel: "Ecce ancilla Deï" ("Behold the handmaid of the Lord"). Dante compares the precision of these carvings to the way a seal is pressed into wax, emphasizing the permanence and clarity of the divine message etched into the stone.
+
+**Tag Resolutions:**
+
+*   `{1:L'angel}`: **Gabriel** (the Archangel)
+*   `{2:il ciel}`: **Heaven**
+*   `[3:noi]` (us): **Dante and Virgil**
+*   `[4:+ei]` (he): **Gabriel**
+*   `[5:+ei]` (he): **Gabriel**
+*   `{6:imagine}` (image): **the statue/carving of Gabriel**
+*   `[7:si]` (one): **a generic observer / anyone**
+*   `[8:el]` (he): **Gabriel**
+*   `[9:quella]` (she/that one): **the Virgin Mary**
+*   `{10:l'alto amor}` (the high love): **Divine Love / God's love for humanity**
+*   `[11:+ella]` (she): **the Virgin Mary**
+*   `{12:ancilla}` (handmaid): **the Virgin Mary**
+*   `{13:Deï}` (of God): **God**
+
+## Scene 46-48: Virgil's Direction
+In this brief scene, Virgil intervenes to keep the journey moving. Dante has been so captivated by the lifelike carvings on the marble wall—specifically the scene of the Annunciation—that he has come to a complete standstill. Virgil, acting as the guide, tells him, "Do not keep your mind fixed on one place," urging him to stop staring and continue their ascent. The narrator also notes Virgil's physical position: the "sweet master" is speaking to him from his left side (the side of the heart).
+
+**Tag Resolutions:**
+
+*   `{1:l dolce maestro}` (the sweet master): **Virgil**
+*   `[2:m']` (me): **Dante**
+
+## Scene 49-54: Shifting Perspective
+In this scene, Dante responds to Virgil's instruction to stop lingering on the first carving. As Dante shifts his gaze, he notices another sculptural relief set into the marble rock, located further along the wall, behind the figure of Mary and in the direction where Virgil is standing (to his left). Intrigued by this new "story" in the stone, Dante physically moves past Virgil and steps closer to the wall to get a clear view of the artwork.
+
+**Tag Resolutions:**
+
+*   `[1:i']` (I): **Dante**
+*   `[2:mi]` (myself): **Dante**
+*   `[3:+io]` (I): **Dante**
+*   `{4:Maria}` (Mary): **the Virgin Mary** (as depicted in the carving)
+*   `[5:m']` (me/to me): **Dante**
+*   `[6:colui]` (he/the one): **Virgil** (who had just prompted Dante to move)
+*   `[7:mi]` (me): **Dante**
+*   `[8:io]` (I): **Dante**
+*   `{9:Virgilio}` (Virgil): **Virgil**
+*   `[10:+io]` (I): **Dante**
+*   `[11:mi]` (myself): **Dante**
+
+## Scene 55-66: The Procession of the Ark
+In this scene, Dante describes another masterful relief carving on the marble wall. This one depicts the transport of the Ark of the Covenant (the "blessed vessel"). The carving is so lifelike that it creates a sensory paradox for Dante: his eyes see the silent, still stone, but his imagination is so stimulated that he feels as if he can hear the music and smell the incense. Specifically, he sees a crowd divided into seven choirs; his sight tells him they are silent ("No"), but his inner sense tells him they are singing ("Yes"). He experiences a similar conflict regarding the depicted incense smoke—he sees it, but cannot smell it. Finally, he identifies the figure leading the procession as the "humble psalmist" (King David), who is depicted dancing with joy. Dante remarks on David's status, noting that in this moment of divine devotion, he is both more and less than a king (superior in spirit, but humble in posture).
+
+**Tag Resolutions:**
+
+*   `{1:gente}` (people): **the crowd depicted in the carving**
+*   `[2:tutta quanta]` (all of whom): **the crowd depicted in the carving**
+*   `{3:sette cori}` (seven choirs): **the seven choirs of singers (part of the carved crowd)**
+*   `[4:+ella]` (it/she): **the crowd/the scene of the singing**
+*   `[5:l'un]` (one): **one of Dante's senses (sight)**
+*   `[6:l'altro]` (the other): **the other of Dante's senses (hearing/imagination)**
+*   `[7:+elli]` (they): **the choirs/the people in the carving**
+*   `[8:+io]` (I): **Dante**
+*   `{9:l'umile salmista}` (the humble psalmist): **King David**
+*   `{10:re}` (king): **King David**
+*   `[11:+ei]` (he): **King David**
+
+## Scene 67-69: The Figure of Michal
+In this brief scene, Dante continues his description of the relief carvings on the marble wall. Having just described King David dancing with joy as the Ark of the Covenant is brought in, he now describes the contrasting figure of Michal (David's daughter-in-law). She is depicted as watching the scene from the window of a great palace. Her expression and posture convey her contempt and unhappiness; she views David's humble, ecstatic dancing not as a divine act, but as an undignified display.
+
+**Tag Resolutions:**
+
+*   `{1:Micòl}`: **Michal** (the daughter of Saul and wife of King David)
+*   `{2:donna dispettosa e trista}` (spiteful and sad woman): **Michal**
+
+## Scene 70-81: The Imperial Carving
+**Scene Analysis: The Imperial Carving**
+
+In this scene, Dante continues his exploration of the marble wall. Moving away from the image of King David and Michal, he notices another white relief carving further along the cliff. This third carving depicts the glory of the Roman Empire, specifically focusing on Emperor Trajan. 
+
+Dante explains the theological significance of this image: Trajan’s perceived virtue and "value" as a ruler were so great that they prompted Pope Gregory (the Great) to intercede on his behalf to allow him into Paradise. The visual details of the carving are vivid: Trajan is depicted on horseback, and at his bridle stands a weeping widow, her face etched with sorrow and tears (a reference to a legend where Trajan's justice is highlighted by his response to a widow's plea). Surrounding the Emperor is a dense crowd of knights. The carving is so lifelike that the golden tips of their spears seem to be shimmering or moving in the wind, maintaining the sensory paradox established in the previous scenes where still stone appears to be in motion.
+
+**Tag Resolutions:**
+
+*   `[1:I']`: **Dante**
+*   `[2:io]`: **Dante**
+*   `{3:Micòl}`: **Michal**
+*   `[4:mi]`: **Dante** (meaning "appeared to me")
+*   `{5:Gregorio}`: **Pope Gregory the Great**
+*   `[6:i']`: **Dante**
+*   `{7:Traiano imperadore}`: **Emperor Trajan**
+*   `{8:una vedovella}`: **a widow** (a figure in the carving pleading for justice)
+*   `[9:li]`: **Emperor Trajan**
+*   `[10:lui]`: **Emperor Trajan**
+*   `[11:+ei]`: **Emperor Trajan**
+*   `{12:cavalieri}`: **the knights** (depicted in the carving)
+*   `[13:essi]`: **the knights**
+*   `[14:si]`: **the spears** (referring to the *aguglie* / golden spears moving in the wind)
+
+## Scene 82-93: The Widow's Lament
+This scene describes the "silent" dialogue captured in the relief carving of Emperor Trajan. It is a poignant moment of justice and compassion.
+
+**Scene Analysis: The Widow's Lament**
+
+In this scene, Dante observes the details of the carving involving Emperor Trajan and the widow. The widow, surrounded by the Emperor's knights, pleads for vengeance (justice) for her dead son. Trajan responds with a balance of authority and kindness. He tells her to wait until he returns, and when she expresses fear that he might not return, he assures her that whoever is in his place will handle the matter. The widow challenges him, asking how he can help others if he neglects his own duty to her. Trajan concludes by telling her to take heart, explaining that he must fulfill his current official duties before he can move on, stating that while justice demands the action, pity (compassion) is what keeps him concerned for her.
+
+**Tag Resolutions:**
+
+*   `{1:La miserella}` (the poor little woman): **the widow**
+*   `[2:tutti costoro]` (all these people): **the knights** (surrounding the Emperor)
+*   `{3:Segnor}` (Lord): **Emperor Trajan**
+*   `[4:+tu]` (you): **Emperor Trajan**
+*   `{5:mio figliuol}` (my son): **the widow's son**
+*   `[6:io]` (I): **the widow**
+*   `[7:m']` (myself): **the widow**
+*   `[8:elli]` (he): **Emperor Trajan**
+*   `[9:lei]` (her): **the widow**
+*   `[10:+tu]` (you): **the widow**
+*   `[11:i']` (I): **Emperor Trajan**
+*   `[12:quella]` (she/that one): **the widow**
+*   `{13:Segnor}` (Lord): **Emperor Trajan**
+*   `{14:persona}` (person): **a generic person** (used here as a comparison to describe the widow's grief)
+*   `[15:tu]` (you): **Emperor Trajan**
+*   `[16:ei]` (he): **Emperor Trajan**
+*   `[17:Chi]` (Who): **the official/person in charge** (whoever occupies Trajan's position)
+*   `[18:io]` (I): **Emperor Trajan**
+*   `[19:+ei]` (he): **the official/person in charge**
+*   `[20:ti]` (you): **the widow**
+*   `[21:ella]` (she): **the widow**
+*   `[22:te]` (you): **Emperor Trajan**
+*   `[23:+tu]` (you): **Emperor Trajan**
+*   `[24:elli]` (he): **Emperor Trajan**
+*   `[25:+tu]` (you): **the widow**
+*   `[26:ti]` (yourself): **the widow**
+*   `[27:i']` (I): **Emperor Trajan**
+*   `[28:i']` (I): **Emperor Trajan**
+*   `{29:giustizia}` (justice): **Justice** (personified)
+*   `{30:pietà}` (pity/mercy): **Pity/Mercy** (personified)
+*   `[31:mi]` (me): **Emperor Trajan**
+
+## Scene 94-105: Wonder at the Artistry
+**Scene Analysis: Wonder at the Artistry**
+
+In this scene, Dante pauses to reflect on the divine origin of the marble reliefs. He attributes the creation of this "visible speech" (the carvings) to God—the one who, being eternal and unchanging, "never saw anything new," yet created these images to communicate truth to humanity. Dante admits he is captivated by the themes of humility depicted in the scenes (the Virgin Mary, King David, and Emperor Trajan) and admires the divine craftsmanship behind them.
+
+As Dante is lost in contemplation, Virgil intervenes. The poet points ahead, noting a large group of people moving slowly. Virgil explains that these figures (the souls of the proud) are the ones who will lead them further up the mountain to the higher levels. Dante, whose eyes were previously fixed on the beautiful carvings, quickly turns his attention toward Virgil to see what he is describing.
+
+**Tag Resolutions:**
+
+*   `[1:Colui]` (He): **God**
+*   `[2:noi]` (us): **Dante and Virgil**
+*   `[3:io]` (I): **Dante**
+*   `[4:mi]` (myself): **Dante**
+*   `{5:tante umilitadi}` (so many humilities): **the examples of humility depicted in the carvings** (specifically Mary, David, and Trajan)
+*   `{6:lo fabbro}` (the maker/craftsman): **God**
+*   `[7:loro]` (their/them): **the images of humility**
+*   `[8:+elli]` (they): **the souls of the proud** (whom Virgil is pointing out)
+*   `{9:il poeta}` (the poet): **Virgil**
+*   `{10:molte genti}` (many people): **the souls of the proud**
+*   `[11:questi]` (these): **the souls of the proud**
+*   `[12:lui]` (him): **Virgil**
+
+## Scene 106-111: A Warning to the Reader
+In this scene, the narrator-Dante steps out of the immediate action of the journey to address the person reading the poem. He offers a warning and a piece of spiritual advice: he does not want the reader to become discouraged or lose their "good purpose" (their desire for moral improvement) upon hearing how God requires the "debt" of sin to be paid through punishment. He urges the reader not to dwell on the gruesome or difficult nature of the "martyrdom" (the punishments the souls endure), but instead to focus on the "succession"—the eventual reward and salvation that follows. He reminds the reader that the punishment is governed by a divine decree, and it cannot go beyond what that "great sentence" has ordained; therefore, it is just and limited.
+
+**Tag Resolutions:**
+
+*   `[1:+io]` (I): **Dante** (the narrator/poet)
+*   `{2:lettor}` (reader): **the Reader**
+*   `[3:tu]` (you): **the Reader**
+*   `[4:ti]` (yourself): **the Reader**
+*   `{5:Dio}` (God): **God**
+*   `[6:+tu]` (you): **the Reader**
+*   `[7:+tu]` (you): **the Reader**
+*   `[8:+tu]` (you): **the Reader**
+*   `[9:+ella]` (it): **the great sentence** (the divine judgment/decree)
+
+## Scene 112-120: The Hidden Torment
+In this scene, Dante and Virgil are observing the group of souls that Virgil pointed out in the previous scene. Dante is confused and unsettled by what he sees; as the group approaches, he tells Virgil that the figures do not look like human beings, and he wonders if he is hallucinating or dreaming.
+
+Virgil corrects him, explaining that the figures look strange because the crushing weight of their torment forces them to crouch or huddle close to the ground. Virgil encourages Dante to look more intently and "unravel" with his eyes the nature of the figures moving beneath the rocks. He tells Dante that if he looks closely, he can now discern the specific way each soul is struggling or "beating" (referring to the contorted, labored posture of the proud).
+
+**Tag Resolutions:**
+
+*   `[1:Io]` (I): **Dante**
+*   `{2:Maestro}` (Master): **Virgil**
+*   `[3:quel]` (that which): **the souls of the proud**
+*   `[4:io]` (I): **Dante**
+*   `[5:noi]` (us): **Dante and Virgil**
+*   `[6:mi]` (me): **Dante**
+*   `[7:+io]` (I): **Dante**
+*   `[8:+io]` (I): **Dante**
+*   `[9:elli]` (he): **Virgil**
+*   `[10:me]` (me): **Dante**
+*   `[11:li]` (them): **the souls of the proud**
+*   `[12:+tu]` (you): **Dante**
+*   `[13:+tu]` (you): **Dante**
+*   `[14:quel]` (that which): **the souls of the proud**
+*   `[15:+tu]` (you): **Dante**
+*   `[16:si]` (himself/one): **each soul of the proud**
+
+## Scene 121-129: The Sermon to Christians
+**Scene Analysis: The Sermon to Christians**
+
+In this scene, Virgil takes on the role of a preacher, delivering a stern yet instructional sermon to the souls of the proud. He addresses them directly, calling them "proud Christians" and "wretched, weary ones." He criticizes their spiritual blindness, noting that they once placed their trust in "backward steps" (their prideful paths) rather than in God.
+
+Virgil employs a vivid biological metaphor to explain the purpose of their suffering: he tells them that human beings are like worms (caterpillars) born specifically to transform into "angelic butterflies" that can fly toward divine justice without hindrance. He asks the souls why their spirits still "float high" with pride, given that their current state is that of a "defective automaton" or a worm that has failed to complete its metamorphosis. The essence of the scene is Virgil reminding the proud that their current humiliation—being bent double under heavy weights—is the necessary "worm" stage of their purification, stripping away the false height of pride to allow for a true, spiritual ascent.
+
+**Tag Resolutions:**
+
+*   `{1:superbi cristian}` (proud Christians): **the souls of the proud**
+*   `{2:miseri lassi}` (wretched, weary ones): **the souls of the proud**
+*   `[3:v']` (you): **the souls of the proud**
+*   `[4:voi]` (you): **the souls of the proud**
+*   `[5:noi]` (we): **human beings / humanity** (Virgil uses an inclusive "we" to describe the general human condition of being "worms" destined for spiritual transformation)
+*   `[6:+voi]` (you): **the souls of the proud**
+
+## Scene 130-135: The Corbel Metaphor
+In this scene, Dante uses an architectural analogy to describe the agonizing physical posture of the souls of the proud. He compares them to the carved figures found on building corbels or brackets (the *mensola*) used to support a ceiling or roof. These sculptural figures are often depicted in contorted, crouched positions—with their knees drawn up to their chests—to fit the structural requirements of the bracket.
+
+Dante observes that looking at such a contorted stone figure can evoke a genuine feeling of distress or pity in the viewer, even though the statue is inanimate and feels no pain. He then applies this image to the souls he is observing: they are bent and twisted in the same manner. He concludes that once he paid close attention and looked carefully, he saw that the souls of the proud were shaped exactly like those strained, crouched figures.
+
+**Tag Resolutions:**
+
+*   `{1:una figura}`: **a carved figure on a corbel** (an architectural sculpture)
+*   `[2:+ei]`: **the carved figure on a corbel**
+*   `[3:si]`: **a generic observer / one**
+*   `[4:chi]`: **a generic observer / anyone who sees the figure**
+*   `[5:la]`: **the carved figure on a corbel**
+*   `[6:io]`: **Dante**
+*   `[7:color]`: **the souls of the proud**
+*   `[8:+io]`: **Dante**
+
+## Scene 136-139: The Weight of Pain
+In this brief scene, Dante provides a detailed observation of the physical manifestation of the souls' punishment. He notes that the degree to which the souls are "contracted" (bent or crouched) varies from person to person. This physical distortion is directly proportional to the weight of the burden they carry on their backs—the heavier the load (representing the greater the sin of pride), the more severely the soul is bent.
+
+Dante then describes the emotional and physical breaking point of these souls. He observes that those who lack the endurance or patience to bear their burden are seen weeping. Through their expressions and gestures, it appears as though they are crying out in total exhaustion, stating that they can no longer endure the weight.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]` (they): **the souls of the proud**
+*   `[2:+ei]` (he): **a soul of the proud** (specifically one who is weeping and exhausted)
+*   `[3:+io]` (I): **the soul of the proud** (the one speaking the words "I can't take any more")
+
+# recap
+- Dante and Virgil are on the first ledge of Purgatory.
+- They are amidst the souls of the proud, who are contorted and burdened by heavy weights.

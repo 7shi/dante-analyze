@@ -1,0 +1,266 @@
+# Canto 19 — The Vision of the Celestial Image and the Prophecy of Nations
+
+## Scene 1-12: The Visual Encounter
+In this scene, Dante describes a transcendent vision. He sees a "beautiful image" (the celestial eagle) appearing before him with its wings spread. This image brings joy to the gathered souls in the sphere of Jupiter, who are so radiant they look like rubies reflecting sunlight. Dante remarks that the experience he is about to describe is completely unprecedented—never spoken, written, or even imagined before—because he sees and hears the beak of the image actually speaking, using first-person singular and plural pronouns.
+
+**Tag Resolutions:**
+
+*   `[1:me]`: Dante
+*   `{2:la bella image}`: The celestial image (the Eagle)
+*   `{3:l'anime conserte}`: The gathered souls (the spirits of the sphere of Jupiter)
+*   `[4:mi]`: Dante
+*   `[5:io]`: Dante
+*   `[6:io]`: The celestial image (the Eagle)
+*   `[7:noi]`: The celestial image (the Eagle)
+
+## Scene 13-18: The Image's Self-Introduction
+In this scene, the celestial image (the Eagle) begins to speak to Dante. The image explains its presence in the sphere of Jupiter, stating that it attained this state of glory because it was just and pious during its earthly life. The image notes a hypocrisy regarding its legacy: although the people on earth praise its memory, they do not actually follow the example set by its life.
+
+**Tag Resolutions:**
+
+*   `[1:+egli]`: The celestial image (the Eagle)
+*   `[2:io]`: The celestial image (the Eagle)
+*   `[3:+io]`: The celestial image (the Eagle)
+*   `{4:le genti}`: The people (the nations/humanity on earth)
+*   `[5:+elli]`: The people (the nations/humanity on earth)
+
+## Scene 19-21: The Unity of the Vision
+In this brief scene, Dante describes the nature of the Eagle's voice using a metaphor of unity. He compares the way the celestial image speaks to how many embers produce a single heat, or how many loves might result in a single sound. He is observing that although there may be a plurality of spirits or divine wills involved, they manifest as one single voice emanating from the image.
+
+**Tag Resolutions:**
+
+*   `{1:quella image}`: The celestial image (the Eagle)
+
+## Scene 22-33: Dante's Plea for Understanding
+In this scene, Dante responds to the speaking celestial image (the Eagle). He addresses the entity with high praise, calling it the "perpetual flowers" of eternal joy. Using a metaphor of hunger, Dante explains that he has been "fasting" for a long time—meaning he has suffered from a lack of spiritual and intellectual nourishment (answers to his questions) while on Earth. 
+
+Dante acknowledges that Divine Justice manifests itself in the various spheres of heaven, and that the Eagle's presence is a clear, unveiled reflection of that justice. He expresses his eagerness to listen and asks the Eagle to resolve a specific, long-standing doubt that has plagued him.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `{2:perpetüi fiori}`: The celestial image (the Eagle)
+*   `[3:mi]`: Dante
+*   `[4:+voi]`: The celestial image (the Eagle)
+*   `[5:m']`: Dante
+*   `[6:io]`: Dante
+*   `{7:la divina giustizia}`: Divine Justice
+*   `[8:l']`: Divine Justice
+*   `[9:+voi]`: The celestial image (the Eagle)
+*   `[10:io]`: Dante
+*   `[11:m']`: Dante
+*   `[12:+voi]`: The celestial image (the Eagle)
+*   `[13:m']`: Dante
+
+## Scene 34-39: The Gesture of Praise
+In this scene, the celestial image (the Eagle) reacts to Dante’s plea with a burst of energy and enthusiasm. Dante uses a simile, comparing the Eagle to a falcon that has just been released from its hood, moving its head and flapping its wings. This gesture is a physical manifestation of the Eagle's eagerness and joy. Dante observes this "sign," interpreting it as an expression of praise for divine grace—a sentiment shared by the other joyful spirits in the sphere of Jupiter, whose songs accompany this vision.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]`: The celestial image (the Eagle)
+*   `[2:+elli]`: The celestial image (the Eagle)
+*   `[3:io]`: Dante
+*   `[4:+elli]`: The gathered souls (the spirits of the sphere of Jupiter) — *The "sign" of praise is woven from the praises offered by these souls.*
+*   `[5:si]`: The gathered souls (the spirits of the sphere of Jupiter) — *Used impersonally here ("as is known"), referring to the knowledge held by those in heaven.*
+*   `[6:chi]`: The gathered souls (the spirits of the sphere of Jupiter)
+
+## Scene 40-51: The Doctrine of the Fall
+In this scene, the celestial image (the Eagle) begins to answer Dante's plea by explaining a fundamental theological principle regarding the nature of God and the cause of the fall of Lucifer.
+
+The Eagle explains that God, who organized the spheres of the universe and distinguished between the hidden and the manifest, is so infinitely powerful and vast that His "Word" (His divine essence/will) cannot be fully contained within the physical universe. Because God's goodness is infinite, it always overflows any created vessel. 
+
+The Eagle uses this to explain the fall of Lucifer (the "first proud one"). Lucifer was the highest of all created beings, but because he did not wait for divine light (he sought to be the source of his own light/goodness), he fell. The Eagle concludes that any created nature, no matter how great, is too small a container for the infinite goodness of God, who is the only being who measures Himself by His own standard.
+
+**Tag Resolutions:**
+
+*   `[1:+ei]`: The celestial image (the Eagle)
+*   `[2:Colui]`: God
+*   `[3:+ei]`: God
+*   `[4:+ei]`: God
+*   `{5:l primo superbo}`: Lucifer
+*   `{6:la somma d'ogne creatura}`: Lucifer
+*   `[7:+ei]`: Lucifer
+*   `{8:ogne minor natura}`: every lesser nature (any created being/creature)
+*   `[9:+ella]`: every lesser nature (any created being/creature)
+*   `[10:+ei]`: God (the infinite Good)
+*   `[11:sé]`: God (the infinite Good)
+*   `[12:sé]`: God (the infinite Good)
+
+## Scene 52-63: The Limits of Human Intellect
+In this scene, the celestial image (the Eagle) explains to Dante the inherent limitations of the human intellect. The Eagle explains that human vision/intellect is essentially a derivative of the Divine Mind (the "rays of the mind" that fill all things). However, because the human intellect is a created, finite thing, it cannot possibly fathom its own infinite source.
+
+To make this abstract concept clearer, the Eagle uses a maritime metaphor: human understanding of Divine Justice is like an eye looking into the ocean. When the eye looks from the shore (representing simple or obvious instances of justice), it can see the bottom. But when the eye looks into the deep ocean (representing the profound and mysterious depths of God's will), the bottom is no longer visible. The "ocean" of justice is so deep that it hides its own depth from the observer.
+
+**Tag Resolutions:**
+
+*   `[1:+ella]`: The human vision/intellect (specifically Dante's/mankind's vision)
+*   `{2:la giustizia sempiterna}`: Eternal Justice
+*   `[3:+ella]`: {2:la giustizia sempiterna} (Eternal Justice)
+*   `[4:+ella]`: The human vision/intellect
+*   `[5:+ella]`: The human vision/intellect
+*   `[6:+elli]`: {2:la giustizia sempiterna} (Eternal Justice)
+
+## Scene 64-78: The Problem of the Unbaptized
+In this scene, the celestial image (the Eagle) continues its theological explanation, moving from the general nature of divine light to the specific question Dante has previously raised about the fate of the unbaptized.
+
+The Eagle begins by stating that true spiritual light can only come from the unchanging, serene heights of heaven; any other perceived "light" is actually darkness or a "poison" born of human fleshly limitations. The Eagle then tells Dante that the "cavern" (the mystery) that previously hid the nature of Divine Justice is now open to him. 
+
+The Eagle then recounts a specific dilemma Dante had struggled with: the case of a hypothetical man born on the banks of the Indus River (in India). In this distant land, there are no teachers of Christ, no one to read the scriptures, and no one to write them. Despite this, the man lives a life that, by all human standards of reason, is virtuous and without sin in word or action. The Eagle poses the heart of Dante's doubt: if such a man dies without faith and without baptism, where is the justice in his condemnation? What is his fault if he never had the opportunity to believe?
+
+**Tag Resolutions:**
+
+*   `[1:t']`: Dante
+*   `[2:t']`: Dante
+*   `{3:la giustizia viva}`: Divine Justice
+*   `[4:+io]`: The celestial image (the Eagle)
+*   `[5:tu]`: Dante
+*   `{6:Un uom}`: The hypothetical man (born in India)
+*   `[7:chi]`: A person (specifically, a preacher/teacher of Christ)
+*   `{8:Cristo}`: Christ
+*   `[9:chi]`: A person (a reader)
+*   `[10:chi]`: A person (a writer)
+*   `[11:+ei]`: The hypothetical man
+*   `{12:questa giustizia}`: Divine Justice
+*   `[13:'l]`: The hypothetical man
+*   `[14:ei]`: The hypothetical man
+
+## Scene 79-84: The Rebuke of Dante
+In this scene, the celestial image (the Eagle) delivers a sharp rebuke to Dante. Having just presented the dilemma of the virtuous man in India, the Eagle turns the focus on Dante's presumption in questioning Divine Justice.
+
+The Eagle mocks Dante's attempt to act as a judge ("sit on the judge's bench") despite his extremely limited human perspective. He uses a stark contrast between "a thousand miles" (the distance of the divine plan) and a "handspan" (the length of Dante's human vision). 
+
+The Eagle admits that for someone delving into these subtle points of theology alongside the Eagle, the doubt would be natural and "marvelous" (surprising or logical) if it weren't for the existence of the Holy Scriptures. Essentially, the Eagle is telling Dante that his doubt is not based on a failure of divine justice, but on his own intellectual limitation and a failure to submit to the authority of revealed Scripture.
+
+**Tag Resolutions:**
+
+*   `[1:tu]`: Dante
+*   `[2:chi]`: Dante
+*   `[3:colui]`: Dante
+*   `[4:meco]`: The celestial image (the Eagle)
+*   `[5:s']`: Dante
+*   `[6:voi]`: Dante
+
+## Scene 85-90: The Primacy of Divine Will
+In this scene, the celestial image (the Eagle) continues its theological lecture to Dante, shifting from a rebuke of Dante's presumption to a profound explanation of how the Divine Will operates.
+
+The Eagle begins with a lament, addressing "earthly animals" and "coarse minds." This is a generalization referring to humanity (including Dante) and their inability to grasp the depths of Divine Justice. The Eagle explains that the "First Will" (God's Will) is fundamentally good by its own nature and is the absolute standard of justice.
+
+The core of the Eagle's argument is that the Divine Will is the sole active agent in the universe. It does not "move" or change in response to external pressures; it is not "pulled" or influenced by any created thing. Instead, everything that exists as a "good" is a result of the Divine Will "radiating" and bringing those things into existence. In short, God is the cause of all things, and because God is the highest good, whatever God wills is, by definition, just.
+
+**Tag Resolutions:**
+
+*   `{1:terreni animali}`: Humanity / earthly beings (including Dante)
+*   `{2:menti grosse}`: Humanity / earthly beings (including Dante)
+*   `{3:La prima volontà}`: The Divine Will (God)
+*   `[4:sé]`: The Divine Will (God)
+*   `[5:sé]`: The Divine Will (God)
+*   `{6:sommo ben}`: The Divine Will (God)
+*   `[7:+ella]`: The Divine Will (God)
+*   `[8:si]`: The Divine Will (God)
+*   `[9:lei]`: The Divine Will (God)
+*   `[10:+esso]`: The Divine Will (God)
+*   `[11:la]`: The Divine Will (God)
+*   `[12:essa]`: The Divine Will (God)
+
+## Scene 91-96: The Image's Graceful Motion
+In this scene, Dante describes a physical movement made by the celestial image (the Eagle) using a natural simile. He compares the Eagle to a stork that circles above its nest after feeding its young, while the young look up at her. Similarly, the Eagle moves and raises its eyelids. Dante notes that the Eagle's wings are moved by "tanti consigli" (many counsels), reinforcing the idea (introduced in Scene 19-21) that this single image is the manifestation of many divine wills or spirits acting as one.
+
+**Tag Resolutions:**
+
+*   `[1:+ella]`: The celestial image (the Eagle)
+*   `[2:si]`: The celestial image (the Eagle)
+*   `[3:+ella]`: The celestial image (the Eagle)
+*   `{4:la benedetta imagine}`: The celestial image (the Eagle)
+
+## Scene 97-99: The Oracle of Judgment
+In this scene, the celestial image (the Eagle) continues its movement, circling as it sings and speaks to Dante. The Eagle draws a comparison between the celestial music it is producing and the nature of Divine Justice. It explains that just as Dante is unable to understand the "notes" (the meaning or essence) of its singing, mortal humans are unable to comprehend the logic and workings of Eternal Judgment.
+
+**Tag Resolutions:**
+
+*   `[1:+ei]`: The celestial image (the Eagle)
+*   `[2:+ei]`: The celestial image (the Eagle)
+*   `[3:te]`: Dante
+
+## Scene 100-102: The Stabilization of the Spirit
+In this scene, the dynamic movement and singing described in the previous scene come to a close. The "shining fires"—the radiant spirits of the just rulers in the sphere of Jupiter—settle and stabilize themselves. They reform into a specific shape: the sign of the Eagle. This symbol is linked to the Holy Spirit (representing divine wisdom and guidance) and is the same emblem that granted the Roman Empire its prestige and authority over the world.
+
+**Tag Resolutions:**
+
+*   `[1:si]`: The gathered souls (the spirits of the sphere of Jupiter)
+*   `{2:quei lucenti incendi}`: The gathered souls (the spirits of the sphere of Jupiter)
+*   `{3:lo Spirito Santo}`: The Holy Spirit
+
+## Scene 103-111: The Requirement of Faith
+In this scene, the celestial image (the Eagle) provides a direct and definitive answer to Dante's question about the fate of the unbaptized. The Eagle states a strict theological requirement: no one can enter the kingdom of heaven without faith in Christ and the rite of baptism ("locking oneself to the wood"). 
+
+However, the Eagle immediately qualifies this by contrasting nominal faith with actual virtue. He warns Dante that many who call themselves Christians and cry "Christ, Christ!" will find themselves far more distant from Christ at the Final Judgment than those who never knew His name but lived virtuous lives. Using the "Ethiopian" (a representative of the distant, unbaptized pagans, like the man in India) as an example, the Eagle explains that the virtuous pagan will "damn" (or put to shame/surpass) the hypocritical Christian. At the end, the two groups will be separated, with the virtuous (though unbaptized) being spiritually "rich" and the hypocritical Christians "destitute."
+
+**Tag Resolutions:**
+
+*   `[1:esso]`: The celestial image (the Eagle)
+*   `[2:chi]`: any person (whoever)
+*   `{3:Cristo}`: Christ
+*   `[4:el]`: any person (whoever)
+*   `[5:si]`: any person (whoever)
+*   `[6:+tu]`: Dante
+*   `{7:Cristo}`: Christ
+*   `{8:Cristo}`: Christ
+*   `[9:lui]`: Christ
+*   `[10:tal]`: a person who does not know Christ (the virtuous pagan/the man in India)
+*   `{11:Cristo}`: Christ
+*   `{12:tai Cristian}`: hypocritical Christians (those who profess faith but lack virtue)
+*   `{13:l'Etïòpe}`: the virtuous pagan (the unbaptized person of virtue)
+*   `[14:si]`: the two groups (the Christians and the pagans)
+*   `[15:l'uno]`: one group (the virtuous pagans)
+*   `[16:l'altro]`: the other group (the hypocritical Christians)
+
+## Scene 112-126: Prophecies of Western Europe
+In this scene, the celestial image (the Eagle) transitions from theological discourse to a series of specific, scathing prophecies regarding the moral failings of the rulers of Western Europe. The Eagle describes a future scene at the Final Judgment where a "volume" (a book of records) will be opened, exposing the sins of these monarchs to the world.
+
+The Eagle imagines the irony of the Persians (representing the East) witnessing the public shaming of the Western kings. He then lists several specific failures: first, a connection between the intellectual works of Albertus Magnus and the eventual desolation of the kingdom of Prague. Second, he mentions a ruler in France (associated with the river Seine) who debased the currency and met a violent end. Third, he describes the blinding pride that drove the rulers of Scotland and England to madness. Finally, he condemns the lust and indolence of the kings of Spain and Bohemia, noting their total lack of courage or virtue.
+
+**Tag Resolutions:**
+
+*   `{1:regi}`: The kings of Europe/the West (the monarchs of Dante's world)
+*   `[2:+elli]`: The Persians (li Perse)
+*   `{3:Alberto}`: Albertus Magnus
+*   `[4:quel]`: The ruler associated with the Seine (traditionally identified as Philip the Fair/Philippe le Bel)
+*   `{5:lo Scotto}`: The King of Scotland
+*   `{6:l'Inghilese}`: The King of England
+*   `[7:+ei]`: The prideful/mad ruler (referring to the rulers of Scotland and England)
+*   `[8:quel]`: The King of Spain
+*   `[9:quel]`: The King of Bohemia
+
+## Scene 127-138: Prophecies of the Mediterranean and Italy
+In this scene, the celestial image (the Eagle) continues its series of prophetic revelations to Dante, moving from Northern Europe to the Mediterranean and Italy. The Eagle describes what Dante will see at the Final Judgment—specifically, the public revelation of the records of sin.
+
+First, the Eagle points to Jerusalem, noting a reversal of goodness in its records (the "Cup" of Jerusalem). Then, the focus shifts to Sicily (the "island of fire" where Anchises lived), where the Eagle predicts that the rulers' records will be pitifully small and truncated, reflecting their avarice and lack of greatness. Finally, the Eagle condemns two specific ecclesiastical figures—the "bearded one" and the "brother"—whose corruption and foul deeds have disgraced the illustrious nation of Italy and undermined the prestige of the two great crowns (the Papacy and the Holy Roman Empire).
+
+**Tag Resolutions:**
+
+*   `[1:+tu]`: Dante
+*   `{2:al Ciotto di Ierusalemme}`: The "Cup" of Jerusalem (representing the city of Jerusalem and its spiritual state/records)
+*   `[3:+tu]`: Dante
+*   `[4:quei]`: The rulers of Sicily
+*   `{5:Anchise}`: Anchises (the father of Aeneas)
+*   `{6:del barba}`: The "bearded one" (a reference to a corrupt church leader, traditionally identified as Pope Boniface VIII)
+*   `{7:del fratel}`: The "brother" (a reference to a corrupt member of a religious order/cleric)
+*   `[8:+elli]`: The "bearded one" and the "brother" (the two corrupt church figures)
+
+## Scene 139-148: Prophecies of the North and East
+In this scene, the celestial image (the Eagle) continues its series of prophecies, moving through the remaining regions of Europe and the Mediterranean to identify those whose sins will be revealed at the Final Judgment.
+
+The Eagle mentions the kings of Portugal and Norway, stating that their true natures and deeds will be made known there (at the judgment). He then mentions the king of Rascia (Serbia), noting his negative experiences or conflict involving the coinage of Venice (suggesting economic disputes or the deceptive nature of Venetian currency).
+
+The Eagle then shifts from condemnation to a form of hopeful lament for certain nations. He calls Hungary "blessed" if it can stop being mistreated, and calls Navarre "blessed" if it can find defense in the mountains (the Pyrenees) that surround it. Finally, the Eagle mentions the Cypriot cities of Nicosia and Famagusta, stating that they are suffering and "cackling" (lamenting) because of the "beast" (the corrupt rulers) that governs them and refuses to leave the side of the other corrupt leaders.
+
+**Tag Resolutions:**
+
+*   `[1:quel]`: The king of Portugal
+*   `[2:si]`: The kings of Portugal and Norway (reflexive/passive construction: "they will be recognized")
+*   `[3:+elli]`: The kings of Portugal and Norway
+*   `[4:quel]`: The king of Rascia (Serbia)
+
+# recap
+- Dante and the celestial image (the Eagle) are in the sphere of Jupiter.
+- The Eagle has just finished delivering a series of scathing prophecies condemning the corruption and moral failings of the rulers and church leaders of Europe and the Mediterranean.

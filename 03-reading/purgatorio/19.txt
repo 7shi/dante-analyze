@@ -1,0 +1,512 @@
+# Canto 19 — The Siren's Song and the Vision of the Avaricious
+
+## Scene 1-6: The Astronomical Prologue
+**Scene Analysis: The Astronomical Prologue**
+
+**What is happening:**
+This passage is a highly technical, atmospheric introduction to the scene. There is no dialogue. Dante (the narrator) is describing the exact time of day and the cosmic conditions under which he has fallen asleep. He describes a moment in the pre-dawn hours when the heat of the previous day is gone and the "cold of the moon" prevails. 
+
+Dante explains his state of slumber through a mix of physical and astrological causes: he is "overcome by earth" (physical exhaustion/gravity) and influenced by the astrological position of Saturn. He evokes the perspective of geomancers (diviners/astrologers) to pinpoint the moment just before dawn when certain celestial signs (the "Greater Fortune") rise in the east, signaling a transition from darkness to light.
+
+**Who speaks to whom:**
+The narrator, Dante, is speaking to the reader.
+
+**Tag Resolutions:**
+- `{1:Saturno}`: Saturn (the planet/celestial body, acting as an astrological influence).
+- `{2:i geomanti}`: The geomancers (astrologers or practitioners of divination).
+- `{3:Maggior Fortuna}`: Greater Fortune (a technical astrological term referring to a specific favorable planetary configuration or the rising of a specific sign).
+- `[4:+elli]`: The geomancers (`{2}`).
+- `[5:le]`: Greater Fortune (`{3}`).
+
+## Scene 7-9: The Monstrous Vision
+In this brief scene, Dante describes the onset of a dream. While he is asleep, a monstrous female figure appears to him. He provides a vivid, grotesque physical description of her: she stutters, is blind in one eye, has twisted feet, maimed hands, and a sickly, pale complexion. This figure serves as a symbolic manifestation, likely representing the distorted nature of the greed and avarice that Dante is about to encounter in this terrace of Purgatory.
+
+**Who speaks to whom:**
+There is no dialogue here. The narrator (Dante) is describing the vision to the reader.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante (the narrator/pilgrim).
+- `{2:una femmina balba}`: The stuttering woman (the monstrous vision in Dante's dream).
+
+## Scene 10-15: The Siren's Transformation
+**Scene Analysis: The Siren's Transformation**
+
+**What is happening:**
+Dante describes the transformative effect of his own gaze on the monstrous woman. Using a simile, he compares his look to the morning sun warming limbs chilled by the night. As he watches her, the distorted features described in the previous scene begin to shift: her stuttering tongue is straightened, her twisted posture is corrected, and her pale, "lost" face is imbued with color and beauty. This is a symbolic metamorphosis where the grotesque manifestation of greed is transformed into a beautiful, seductive figure—the Siren—driven by the power of "Love" (the force that governs beauty and desire in Dante's universe).
+
+**Who speaks to whom:**
+There is no dialogue. The narrator (Dante) is describing his dream-vision to the reader.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the narrator/pilgrim).
+- `[2:la]`: The stuttering woman (the monstrous vision).
+- `[3:le]`: The stuttering woman.
+- `{4:amor}`: Love (personified as the divine/cosmic force that transforms and guides beauty).
+- `[5:le]`: The stuttering woman.
+
+## Scene 16-24: The Song of the Siren
+**Scene Analysis: The Song of the Siren**
+
+**What is happening:**
+Now that the monstrous woman has been transformed into a beautiful figure, she begins to sing. Dante (the narrator) notes that her song is so seductive and powerful that he would have found it nearly impossible to resist or turn his attention away from her. 
+
+The song itself is a self-introduction. The Siren describes herself as "dolce serena" (sweetly serene/clear) and boasts of her power to "unmake" or dissolve sailors in the middle of the sea through the sheer pleasure of her voice. She specifically cites her success in diverting Ulysses (Odysseus) from his voyage. She concludes by claiming that those who are drawn to her rarely leave because she satisfies them so completely. This song represents the seductive nature of avarice: it presents itself as beauty and satisfaction, but it leads the soul astray and ultimately destroys it.
+
+**Who speaks to whom:**
+- The narrator (Dante) speaks to the reader (lines 16-18).
+- The Siren sings/speaks to Dante (lines 19-24).
+
+**Tag Resolutions:**
+- `[1:ell']`: The Siren (the transformed woman).
+- `[2:+ella]`: The Siren.
+- `[3:lei]`: The Siren.
+- `[4:+io]`: Dante (the narrator).
+- `[5:Io]`: The Siren.
+- `[6:+ella]`: The Siren.
+- `[7:io]`: The Siren.
+- `{8:dolce serena}`: The Siren (using a self-given title).
+- `{9:' marinari}`: The sailors.
+- `[10:+io]`: The Siren.
+- `[11:+io]`: The Siren.
+- `[12:Io]`: The Siren.
+- `{13:Ulisse}`: Ulysses.
+- `[14:meco]`: The Siren.
+- `[15:s']`: A sailor (anyone who comes to her).
+- `[16:+ei]`: The Siren.
+- `[17:+io]`: The Siren.
+- `[18:l']`: A sailor (the person who comes to her).
+
+## Scene 25-27: The Holy Intervention
+**Scene Analysis: The Holy Intervention**
+
+**What is happening:**
+The Siren has not yet finished her song (or her mouth is still open from the final notes) when a holy woman suddenly appears. This figure arrives quickly and stands beside Dante. Her presence is an intervention designed to thwart the Siren's seductive power, leaving the Siren "confusa" (confused, disconcerted, or shamed). In the broader context of the *Divina Commedia*, this holy woman is Beatrice, whose divine grace and truth act as the antidote to the deceptive beauty of the Siren.
+
+**Who speaks to whom:**
+There is no dialogue in this scene. The narrator (Dante) is describing the event to the reader.
+
+**Tag Resolutions:**
+- `{1:una donna}`: Beatrice (the "holy woman" who intervenes).
+- `[2:me]`: Dante (the narrator/pilgrim).
+- `[3:colei]`: The Siren (the seductive figure who is now confused/silenced).
+
+## Scene 28-33: The Siren's Revelations
+**Scene Analysis: The Siren's Revelations**
+
+**What is happening:**
+This scene is the climax of Dante's dream. The Siren, feeling threatened or confused by the arrival of the "holy woman" (Beatrice), reacts with anger. She demands to know from Virgil who this woman is. Virgil, however, ignores the Siren entirely, keeping his gaze fixed on Beatrice. 
+
+In a final, grotesque act of revelation, the Siren ("the other woman") opens her clothing to expose her belly. This act strips away the beautiful facade she had assumed; the belly emits a foul stench (*puzzo*). It is this sudden, repulsive olfactory shock that breaks the spell of the dream and wakes Dante up. This sequence serves as a moral lesson: the seductive exterior of avarice is merely a mask for a rotting, repulsive interior.
+
+**Who speaks to whom:**
+The Siren speaks to Virgil (lines 28-29).
+
+**Tag Resolutions:**
+- `{1:Virgilio}`: Virgil.
+- `{2:Virgilio}`: Virgil.
+- `[3:chi]`: Beatrice (the person the Siren is asking about).
+- `[4:questa]`: Beatrice.
+- `[5:+ei]`: The Siren.
+- `[6:el]`: Virgil.
+- `{7:quella onesta}`: Beatrice (described as "that honest/virtuous one").
+- `{8:L'altra}`: The Siren (contrasted with Beatrice).
+- `[9:+ella]`: The Siren.
+- `[10:l']`: The Siren's clothing/dress (the object being opened).
+- `[11:+ella]`: The Siren.
+- `[12:mi]`: Dante (the narrator/pilgrim).
+
+## Scene 34-36: Virgil's Command
+**Scene Analysis: Virgil's Command**
+
+**What is happening:**
+Dante awakens from his dream-vision. As he opens his eyes, he finds Virgil standing over him. Virgil is slightly impatient, informing Dante that he has called out to him at least three times to wake him up. Virgil commands Dante to rise and follow him so that they can locate the open entrance to the terrace they are currently visiting (the terrace of the avaricious and prodigal). This scene marks the transition from the symbolic, internal world of the dream back to the physical reality of the journey through Purgatory.
+
+**Who speaks to whom:**
+- The narrator (Dante) describes his awakening to the reader (line 34).
+- Virgil speaks to Dante (lines 34-36).
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the narrator/pilgrim).
+- `{2:l buon maestro}`: Virgil.
+- `[3:+io]`: Virgil (the speaker).
+- `[4:t']`: Dante.
+- `[5:+elli]`: Virgil.
+- `[6:+tu]`: Dante.
+- `[7:+tu]`: Dante.
+- `[8:+noi]`: Virgil and Dante.
+- `[9:tu]`: Dante (the person entering the terrace).
+
+## Scene 37-39: The Ascent Begins
+**Scene Analysis: The Ascent Begins**
+
+**What is happening:**
+Dante obeys Virgil's command and stands up. He observes that the morning has fully arrived, and the terraces (the "giron") of the sacred mountain of Purgatory are now bathed in daylight. As he and Virgil resume their journey, Dante notes that they are walking with the new sun at their backs (on their loins/renis), indicating they are moving forward/upward as the day begins. This scene completes the transition from the nocturnal, subconscious world of the dream to the bright, physical reality of the Purgatorial ascent.
+
+**Who speaks to whom:**
+There is no dialogue. The narrator (Dante) is describing the action to the reader.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante (the narrator/pilgrim).
+- `[2:mi]`: Dante (the narrator/pilgrim).
+- `[3:+noi]`: Dante and Virgil.
+
+## Scene 40-45: The Sweet Voice
+**Scene Analysis: The Sweet Voice**
+
+**What is happening:**
+Dante is following Virgil, but he is deeply preoccupied, walking with his head bowed in a posture of heavy reflection (described by the simile of a "half-arch of a bridge"). As they walk, Dante suddenly hears a voice calling out to them. The voice invites them to come forward, announcing that this is the place where one "crosses" or enters. The narrator emphasizes the extraordinary quality of this voice, describing it as sweet and benign, unlike any voice heard among living mortals. This voice belongs to the souls of the avaricious and prodigal who are currently inhabiting the terrace, though the speaker is not yet specifically identified.
+
+**Who speaks to whom:**
+An unidentified voice (representing the souls on the terrace) speaks to Dante and Virgil (line 43).
+
+**Tag Resolutions:**
+- `[1:lui]`: Virgil (whom Dante is following).
+- `[2:+io]`: Dante (the narrator/pilgrim).
+- `[3:colui]`: A person (a hypothetical figure used in a simile to describe Dante's posture).
+- `[4:sé]`: A person (the same hypothetical figure as `[3]`).
+- `[5:io]`: Dante (the narrator/pilgrim).
+- `[6:+voi]`: Dante and Virgil (the targets of the voice's invitation).
+- `[7:si]`: An impersonal "one" (referring to anyone who passes through the entrance).
+
+## Scene 46-51: The Appearance of the Angels
+**Scene Analysis: The Appearance of the Angel**
+
+**What is happening:**
+Dante looks up to identify the source of the "sweet voice" he heard in the previous scene. He sees an angelic figure with open, swan-like wings, positioned between the high rock walls of the terrace. The angel fans the air with its wings and explains the spiritual condition of the souls on this terrace (the avaricious and the prodigal). The angel notes a paradox: while these souls are currently weeping (undergoing the pain of purgation), they are certain of their eventual state of bliss (*beati*). Furthermore, the angel reveals that these souls will eventually find consolation through women.
+
+**Who speaks to whom:**
+The Angel speaks to Dante and Virgil.
+
+**Tag Resolutions:**
+- `[1:colui]`: The Angel (the one who spoke).
+- `[2:+elli]`: The Angel.
+- `[3:+elli]`: The Angel.
+- `[4:+elli]`: The souls of the avaricious and prodigal.
+- `{5:beati}`: The souls of the avaricious and prodigal (referring to their future state/status).
+- `{6:l'anime}`: The souls of the avaricious and prodigal.
+- `{7:donne}`: Women (the figures who will provide consolation to the souls).
+
+## Scene 52-54: Virgil's Inquiry
+**Scene Analysis: Virgil's Inquiry**
+
+**What is happening:**
+Following the Angel's explanation about the souls on the terrace, Dante remains in a state of deep preoccupation or distraction, continuing to gaze downward at the ground (likely still affected by the remnants of his dream or the weight of the Angel's words). Virgil notices this and asks Dante why he is still staring at the earth. This brief interaction occurs while both Dante and Virgil are standing beneath the towering presence of the Angel.
+
+**Who speaks to whom:**
+Virgil speaks to Dante (line 52).
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante (the pilgrim, addressed by Virgil).
+- `[2:+tu]`: Dante (the pilgrim, addressed by Virgil).
+- `{3:la guida mia}`: Virgil (Dante's guide).
+- `[4:amendue]`: Dante and Virgil (the two of them standing together).
+- `{5:angel}`: The Angel (the celestial being who just spoke).
+
+## Scene 55-57: Dante's Disturbance
+**Scene Analysis: Dante's Disturbance**
+
+**What is happening:**
+Dante responds to Virgil's question about why he is still staring at the ground. He explains that he is mentally preoccupied and unsettled by the "novella visïon" (the new vision)—referring to the dream of the Siren and Beatrice he just experienced. The vision has created such a state of suspicion or uncertainty ("sospeccion") within him that it "bends" him (draws his focus inward), making it impossible for him to stop thinking about it. He is essentially admitting that he is still processing the symbolic warning about avarice and the intervention of divine grace.
+
+**Who speaks to whom:**
+Dante speaks to Virgil.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the pilgrim, speaking to Virgil).
+- `[2:mi]`: Dante (the person being "bent" or drawn by the vision).
+- `[3:io]`: Dante (the person unable to stop thinking).
+
+## Scene 58-63: The Vision of the Wheel
+**Scene Analysis: The Vision of the Wheel**
+
+**What is happening:**
+Virgil responds to Dante's admission that he is still shaken by the dream. He tells Dante to move past it, reminding him of the dream's lesson: he saw the "ancient witch" (the Siren) and witnessed how man (represented by Dante in the vision) is liberated from her seductive hold (through the intervention of Beatrice). Virgil commands Dante to "shake himself" and stop staring at the ground. He tells Dante to lift his gaze and look up at the rotating celestial spheres (the "worn" mechanism of the heavens) and the "eternal king" (God) who governs them with great wheels. This is a call for Dante to shift his focus from the deceptive, earthly delusions of greed (the Siren) to the divine and cosmic order of the universe.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante.
+- `[2:+ei]`: Virgil.
+- `{3:quell'antica strega}`: The Siren.
+- `[4:noi]`: Dante and Virgil.
+- `[5:si]`: The Siren.
+- `[6:+tu]`: Dante.
+- `{7:l'uom}`: Man (humanity, exemplified by Dante in the dream).
+- `[8:lei]`: The Siren.
+- `[9:si]`: Man (humanity).
+- `[10:+tu]`: Dante.
+- `[11:+tu]`: Dante.
+- `[12:+tu]`: Dante.
+- `{13:al logoro}`: The heavens/celestial spheres (the rotating cosmic mechanism).
+- `{14:lo rege etterno}`: God.
+
+## Scene 64-69: The Falcon's Flight
+**Scene Analysis: The Falcon's Flight**
+
+**What is happening:**
+Dante describes his reaction to Virgil's command to stop staring at the ground and look toward the divine order. He uses a vivid simile comparing himself to a falcon: just as a falcon first looks at the feet of its handler and then, hearing a call, flies toward the promised food, Dante shifts his attention from the earth to the path ahead. He describes his movement as he follows the rocky path upward, walking until he reaches the "cerchiar"—the point where the path bends or encircles the mountain. This scene represents Dante's mental and physical transition from a state of depression and preoccupation to one of active progress and obedience to his guide.
+
+**Who speaks to whom:**
+There is no dialogue in this scene. The narrator (Dante) is describing his actions to the reader.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante (the narrator/pilgrim, as the object of his own action).
+- `[2:io]`: Dante (the narrator/pilgrim, as the subject who makes himself move).
+- `[3:chi]`: Anyone ascending Purgatory (referring generally to the pilgrims or the souls climbing the mountain).
+- `[4:+io]`: Dante (the narrator/pilgrim).
+
+## Scene 70-72: The Wailing Souls
+**Scene Analysis: The Wailing Souls**
+
+**What is happening:**
+Dante has reached the entrance of the fifth terrace (the "quinto giro"), which is dedicated to those who were avaricious or prodigal in life. As he enters and looks around, he observes the specific punishment of the souls here: they are all lying face down on the ground, weeping. This posture of prostration symbolizes their former obsession with earthly possessions (looking down at the ground/wealth) and now serves as their penance.
+
+**Who speaks to whom:**
+There is no dialogue in this scene. The narrator (Dante) is describing the sight to the reader.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the narrator/pilgrim).
+- `[2:+io]`: Dante (the narrator/pilgrim).
+- `{3:gente}`: The souls of the avaricious and prodigal.
+
+## Scene 73-75: The Audible Grief
+**Scene Analysis: The Audible Grief**
+
+**What is happening:**
+Dante is observing the souls on the terrace of the avaricious and prodigal. He hears them chanting a specific line in Latin: *"Adhaesit pavimento anima mea"* ("My soul cleaveth to the pavement"), which is a quotation from Psalm 119. The souls are crying this out with such profound grief and heavy sighing that their words are barely intelligible. This scene emphasizes the depth of their penance and their total submission (represented by the phrase "cleaving to the pavement"), mirroring their physical prostration on the ground.
+
+**Who speaks to whom:**
+- The souls of the avaricious and prodigal are chanting/lamenting (not addressing anyone in particular, but expressing their collective sorrow).
+- Dante (the narrator) describes this experience to the reader.
+
+**Tag Resolutions:**
+- `{1:anima mea}`: The souls of the avaricious and prodigal (as they are the ones speaking the Latin quote, referring to their own souls).
+- `[2:+io]`: Dante (the narrator/pilgrim).
+- `[3:lor]`: The souls of the avaricious and prodigal.
+
+## Scene 76-78: The Prayer for Ascent
+**Scene Analysis: The Prayer for Ascent**
+
+**What is happening:**
+The souls of the avaricious and prodigal, who were previously chanting their grief in Latin, now address the visitors. They call upon Dante and Virgil, identifying them as "the elect of God"—those who are not currently bound to the pavement by their penance. The souls explain that for them, the combination of divine justice and the hope of eventual salvation makes their current suffering more bearable. They conclude with a plea, asking Dante and Virgil to help lift or guide them upward toward the higher levels ("the high climbs") of the mountain of Purgatory. This is a common motif in Purgatorio, where the penitent souls seek the prayers or assistance of the living to aid their ascent.
+
+**Who speaks to whom:**
+The souls of the avaricious and prodigal speak to Dante and Virgil.
+
+**Tag Resolutions:**
+- `{1:eletti di Dio}`: Dante and Virgil (the visitors, addressed as the "elect of God").
+- `[2:+voi]`: Dante and Virgil (the ones being asked to perform the action).
+- `[3:noi]`: The souls of the avaricious and prodigal (the speakers who wish to be lifted).
+
+## Scene 79-81: Virgil's Instruction
+**Scene Analysis: Virgil's Instruction**
+
+**What is happening:**
+Following the plea from the souls of the avaricious and prodigal for help in their ascent, Virgil provides Dante with a practical and moral instruction on how to proceed. Virgil explains that if Dante wishes to find the way forward more quickly and safely, he should keep his right hand extended ("di fori"). 
+
+This is a symbolic and pedagogical instruction: the sin of this terrace is avarice (the hoarding of goods and the closing of the hand). Therefore, the "cure" or the way to progress is through the opposite action—charity and openness. By extending his hand to help the suffering souls, Dante practices the virtue that these souls lacked, which in turn facilitates his own spiritual progress and movement through the terrace.
+
+**Who speaks to whom:**
+Virgil speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:voi]`: Dante (addressed by Virgil).
+- `[2:+voi]`: Dante (addressed by Virgil).
+
+## Scene 82-87: The Silent Agreement
+**Scene Analysis: The Silent Agreement**
+
+**What is happening:**
+This scene describes a moment of silent communication between Dante and Virgil. Following Virgil's verbal instruction to keep his hand extended, Virgil falls silent. Dante notices this silence and looks directly into Virgil's eyes. In response, Virgil gives a "glad nod" (*lieto cenno*), signaling his agreement or confirmation of whatever Dante was silently inquiring about through his gaze. This interaction reinforces the deep bond and intuitive understanding between the pilgrim and his guide, transitioning from spoken pedagogical instruction to a shared, silent understanding as they move further into the terrace.
+
+**Who speaks to whom:**
+There is no spoken dialogue in this scene. The narrator (Dante) describes a non-verbal exchange between himself and Virgil.
+
+**Tag Resolutions:**
+- `{1:'l poeta}`: Virgil (the poet).
+- `[2:noi]`: Dante and Virgil.
+- `[3:io]`: Dante (the narrator/pilgrim).
+- `[4:+io]`: Dante (the narrator/pilgrim).
+- `[5:+io]`: Dante (the narrator/pilgrim).
+- `{6:al segnor mio}`: Virgil (Dante's lord/guide).
+- `[7:elli]`: Virgil.
+- `[8:m']`: Dante (the narrator/pilgrim).
+
+## Scene 88-96: The Approach to the Bishop
+**Scene Analysis: The Approach to the Bishop**
+
+**What is happening:**
+Having regained his composure after the dream and the guidance of Virgil, Dante decides to act on his own initiative. He approaches the specific soul who had previously called out to him with the "sweet voice" (the soul mentioned in Scene 40-45). 
+
+Dante addresses the soul, acknowledging that the weeping and grief the soul is experiencing are the necessary pains of purgation—the only way for a soul to be purified and eventually return to God. He asks the soul to pause and provide some information: he wants to know who the soul was in life, why the souls on this terrace are forced to lie face down (their backs to the sky), and whether the soul wishes for Dante to intercede on their behalf through prayer or other requests in the world of the living.
+
+**Who speaks to whom:**
+Dante speaks to the soul (the "creature" who had previously called out).
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the narrator/pilgrim).
+- `[2:me]`: Dante.
+- `[3:+io]`: Dante.
+- `{4:quella creatura}`: The soul (the one who spoke the "sweet voice" in Scene 40-45).
+- `[5:mi]`: Dante.
+- `{6:Spirto}`: The soul.
+- `[7:quel]`: The act of weeping/penance (referring back to *pianger*).
+- `{8:Dio}`: God.
+- `[9:+io]`: Dante.
+- `[10:+tu]`: The soul.
+- `[11:me]`: Dante.
+- `[12:Chi]`: The soul.
+- `[13:+voi]`: The souls of the avaricious and prodigal (the collective group on the terrace).
+- `[14:mi]`: Dante.
+- `[15:+tu]`: The soul.
+- `[16:+tu]`: The soul.
+- `[17:io]`: Dante.
+- `[18:t']`: The soul.
+- `[19:io]`: Dante.
+
+## Scene 97-105: The Bishop's Identity
+**Scene Analysis: The Bishop's Identity**
+
+**What is happening:**
+The soul with the "sweet voice" begins to answer Dante's questions. He first promises to explain the nature of their punishment—why their "directions" (their gazes) are turned away from heaven—but insists on identifying himself first. He reveals that he was a "successor of Peter," meaning he held the office of a bishop. He provides a geographical riddle to specify his identity: he is associated with a beautiful river flowing between the towns of Sïestri and Chiaveri, whose name is the same as his own family name (this refers to the river Savona, identifying him as the Bishop of Savona). He then reflects on the brief time he held this high office (just over a month), describing the "great mantle" of the episcopacy as an incredibly heavy burden for anyone attempting to keep it pure ("guard it from the mud"), far heavier than any other responsibility.
+
+**Who speaks to whom:**
+The Soul (the Bishop) speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:elli]`: The Soul (the Bishop).
+- `[2:me]`: Dante.
+- `{3:il cielo}`: Heaven/The Divine (the entity that governs the direction of the souls' gaze).
+- `[4:sé]`: Heaven/The Divine.
+- `[5:+tu]`: Dante.
+- `[6:+tu]`: Dante.
+- `[7:ego]`: The Soul (the Bishop).
+- `{8:successor}`: The Soul (the Bishop).
+- `{9:Petri}`: St. Peter.
+- `[10:io]`: The Soul (the Bishop).
+- `[11:chi]`: The Soul (the Bishop), referring to himself in the context of the burden of his office.
+
+## Scene 106-114: The Sin of Avarice
+**Scene Analysis: The Sin of Avarice**
+
+**What is happening:**
+The Bishop of Savona continues his response to Dante, reflecting on his spiritual journey and the nature of his sin. He laments that his conversion came late in life. He explains that it was only after he became a "Roman shepherd" (a bishop) that he recognized the "lying" or deceptive nature of his worldly life. He realized that earthly pursuits and greed could not bring peace to his heart, nor could he progress spiritually while living that way. This realization sparked a love for the spiritual life. He confesses that until that moment of conversion, his soul was entirely consumed by avarice and separated from God. He concludes by pointing to his current state—lying face down on the terrace—as the just punishment for that greed.
+
+**Who speaks to whom:**
+The Soul (the Bishop of Savona) speaks to Dante.
+
+**Tag Resolutions:**
+- `{1:omè}`: The Soul (the Bishop of Savona, expressing self-lament).
+- `[2:+io]`: The Soul (the Bishop of Savona).
+- `{3:roman pastore}`: The Soul (the Bishop of Savona, using an epithet for his office as a bishop).
+- `[4:+io]`: The Soul (the Bishop of Savona).
+- `[5:+io]`: The Soul (the Bishop of Savona).
+- `[6:+io]`: The Soul (the Bishop of Savona).
+- `[7:me]`: The Soul (the Bishop of Savona).
+- `{8:Dio}`: God.
+- `{9:anima}`: The Soul (the Bishop of Savona).
+- `[10:+tu]`: Dante.
+- `[11:+io]`: The Soul (the Bishop of Savona).
+
+## Scene 115-126: The Nature of the Punishment
+**Scene Analysis: The Nature of the Punishment**
+
+**What is happening:**
+The Bishop of Savona explains the *contrapasso* (the symbolic relationship between the sin and its punishment) for the souls on this terrace. He explains that because these souls, in life, focused their gaze downward on earthly riches and ignored the heights of heaven, Divine Justice now forces them to remain face down on the ground. Furthermore, because their avarice extinguished their love for spiritual goodness and robbed them of the ability to perform virtuous deeds, they are now physically immobilized and bound. They must remain in this prostrate, immobile state until the "Just Lord" (God) decides they have been sufficiently purified.
+
+**Who speaks to whom:**
+The Bishop of Savona is speaking to Dante.
+
+**Tag Resolutions:**
+- `{1:avarizia}`: Avarice (the personified sin of greed).
+- `[2:+esso]`: Avarice (the sin/effect described in tag {1}).
+- `{3:l'anime}`: The souls of the avaricious and prodigal.
+- `{4:giustizia}`: Justice (Divine Justice/the will of God).
+- `{5:avarizia}`: Avarice (the personified sin of greed).
+- `[6:+io]`: The Bishop of Savona (speaking of his own loss of spiritual agency).
+- `{7:giustizia}`: Justice (Divine Justice/the will of God).
+- `{8:giusto Sire}`: God (The Just Lord).
+- `[9:+noi]`: The souls of the avaricious and prodigal (including the Bishop).
+
+## Scene 127-130: Dante's Conscience
+**Scene Analysis: Dante's Conscience**
+
+**What is happening:**
+Deeply affected by the Bishop of Savona's description of the punishment for avarice and his own late conversion, Dante reacts physically. He kneels before the soul—a gesture of humility, reverence, or perhaps a sudden internal reflection on his own shortcomings. Just as Dante begins to speak, the Bishop notices the movement and the sound of Dante bowing. The Bishop asks Dante what reason has caused him to bend down (kneel) in this way.
+
+**Who speaks to whom:**
+The Bishop of Savona speaks to Dante (line 130).
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the narrator/pilgrim).
+- `[2:m']`: Dante.
+- `[3:+io]`: Dante.
+- `[4:io]`: Dante.
+- `[5:el]`: The Bishop of Savona.
+- `[6:s']`: The Bishop of Savona.
+- `[7:+el]`: The Bishop of Savona.
+- `[8:ti]`: Dante.
+
+## Scene 131-132: The Scruple of Guilt
+**Scene Analysis: The Scruple of Guilt**
+
+**What is happening:**
+Dante responds to the Bishop of Savona's question about why he suddenly knelt. He explains that the "dignity" of the Bishop—referring to the spiritual and ecclesiastical rank the soul held in life as a bishop—triggered a sudden pang of conscience. Dante's act of bowing is a reflex of humility and reverence, as he feels a sense of unworthiness or guilt in the presence of one who held such a high, though burdened, office.
+
+**Who speaks to whom:**
+Dante speaks to the Bishop of Savona.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the narrator/pilgrim).
+- `[2:lui]`: The Bishop of Savona.
+- `[3:mi]`: Dante (the narrator/pilgrim).
+
+## Scene 133-138: The Dismissal
+In this scene, the Bishop of Savona reacts to Dante's act of kneeling. He firmly but kindly rejects the gesture of subservience, telling Dante to straighten his legs and stand up. He addresses Dante as "brother," emphasizing that they are both fellow servants under the same divine authority (God). To further justify why Dante should not treat him as a superior, the Bishop references the evangelical requirement of celibacy for clergy ("Neque nubent" — "neither shall they marry"). He suggests that since he is bound by this spiritual calling and is now a penitent soul, the earthly "dignity" of his former office is irrelevant, and there is no reason for Dante to maintain a posture of humility before him.
+
+**Who speaks to whom:**
+The Bishop of Savona speaks to Dante.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `[2:+tu]`: Dante
+- `{3:frate}`: Dante
+- `[4:+ei]`: The Bishop of Savona
+- `[5:+tu]`: Dante
+- `[6:+io]`: The Bishop of Savona
+- `[7:teco]`: Dante
+- `[8:+tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:io]`: The Bishop of Savona
+
+## Scene 139-145: The Final Postscript
+**Scene Analysis: The Final Postscript**
+
+**What is happening:**
+In this concluding scene of the conversation, the Bishop of Savona tells Dante to move on. He explains that Dante's continued presence is a distraction that interferes with his necessary penance—his weeping. By continuing to weep, the Bishop "matures" or fulfills the request for intercession that Dante mentioned earlier. 
+
+The Bishop then makes a specific request for the living world. He mentions his niece, Alagia, who is his only surviving relative on earth. He describes her as a good person in her own right, but he expresses a concern: he hopes that she does not lead the rest of the family into "wickedness" by example—likely referring to the mismanagement or greedy pursuit of the family's worldly goods, which is the very sin that landed the Bishop on this terrace. This final request emphasizes the theme of the canto: the danger of earthly attachments and the need for the living to be guided away from avarice.
+
+**Who speaks to whom:**
+The Bishop of Savona speaks to Dante (lines 139-145).
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante
+- `[2:+io]`: The Bishop of Savona
+- `[3:+tu]`: Dante
+- `[4:t']`: Dante
+- `[5:+io]`: The Bishop of Savona
+- `[6:tu]`: Dante
+- `{7:Nepote}`: Alagia (the Bishop's niece)
+- `[8:io]`: The Bishop of Savona
+- `{9:Alagia}`: Alagia
+- `[10:sé]`: Alagia
+- `[11:lei]`: Alagia
+- `[12:questa]`: Alagia
+- `[13:m']`: The Bishop of Savona
+
+# recap
+- Dante and Virgil are on the fifth terrace of Purgatory (the avaricious and prodigal).
+- Dante has just concluded a conversation with the Bishop of Savona, who has requested prayers for his niece, Alagia.
+- Dante and Virgil are preparing to continue their ascent.

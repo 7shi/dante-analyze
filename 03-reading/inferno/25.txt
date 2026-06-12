@@ -1,0 +1,340 @@
+# Canto 25 — The Metamorphosis of the Seventh Weight
+
+## Scene 1-9: The Thief's Struggle
+In this scene, Vanni Fucci concludes his vitriolic prophecy with a final act of defiance. He makes an obscene gesture (the "fig") with both hands directed toward God, shouting a challenge. This blasphemy triggers an immediate reaction from the serpents of the seventh bolgia. One serpent coils around his neck, effectively silencing him as if it were saying it doesn't want him to speak anymore. A second serpent coils around his arms and binds them so tightly against his body that he is rendered completely immobile. Dante observes this sudden transition from Fucci's arrogance to his physical helplessness.
+
+**Tag Resolutions:**
+- {1:il ladro}: Vanni Fucci
+- {2:Dio}: God
+- [3:te]: God
+- [4:+io]: Vanni Fucci
+- [5:mi]: Dante
+- [6:li]: Vanni Fucci
+- [7:+ella]: the snake (the first one, coiled around the neck)
+- [8:+io]: the snake (the first one, speaking personified)
+- [9:+ei]: Vanni Fucci
+- [10:+ella]: the snake (the second one, coiled around the arms)
+- [11:+ei]: Vanni Fucci
+
+## Scene 10-16: Dante's Lament and the Centaur
+In this scene, Dante reacts to Vanni Fucci's blasphemy and the subsequent punishment by the serpents. 
+
+First, Dante breaks into a passionate lament addressed to the city of Pistoia (Fucci's hometown). He wishes that the city would be reduced to ashes and cease to exist, because its "seed" (its inhabitants/descendants) continues to proliferate in wickedness. 
+
+Then, Dante reflects on the sheer scale of Fucci's arrogance. He declares that throughout his entire journey through the dark circles of Hell, he has never encountered a spirit so proud and defiant toward God—not even the legendary Capaneus (the figure mentioned as having fallen from the walls of Thebes). 
+
+Finally, Dante observes the result of the serpents' attack: Fucci is effectively "gone" or silenced, unable to utter another word.
+
+**Tag Resolutions:**
+- [1:+tu]: Pistoia (the personified city)
+- [2:+tu]: Pistoia (the personified city)
+- [3:+tu]: Pistoia (the personified city)
+- [4:+io]: Dante
+- {5:spirto}: Vanni Fucci
+- {6:Dio}: God
+- [7:quel]: Capaneus (the figure who fell from the walls of Thebes)
+- [8:El]: Vanni Fucci
+- [9:si]: Vanni Fucci
+- [10:+elli]: Vanni Fucci
+
+## Scene 17-24: The Dragon's Presence
+In this scene, the tension shifts from the individual struggle of Vanni Fucci to the arrival of the "law enforcement" of the Inferno. 
+
+Dante observes a centaur approaching in a state of rage. The centaur is shouting, demanding to know where the "bitter one" (the harsh/acerbic Vanni Fucci) is, likely responding to the commotion caused by Fucci's blasphemy.
+
+Dante is struck by the centaur's appearance, using a Tuscan exclamation ("Maremma") to express his astonishment. He notes that the centaur's back is covered in a staggering number of snakes—so many that Dante imagines them reaching all the way up to a human's lips. Furthermore, perched on the centaur's shoulders and behind its head is a dragon with its wings spread open. Dante warns that this dragon is lethal, breathing fire on (or scorching) anyone who happens to collide with it.
+
+**Tag Resolutions:**
+- [1:io]: Dante
+- {2:un centauro}: a centaur
+- {3:l'acerbo}: Vanni Fucci (the "bitter one")
+- [4:io]: Dante
+- [5:+elli]: the centaur
+- [6:elli]: the centaur
+- {7:un draco}: a dragon
+- [8:quello]: the dragon
+- [9:s']: anyone / whoever (a general reference to any soul or entity)
+
+## Scene 25-33: Virgil's Explanation of Cacus
+In this scene, Virgil explains the identity and history of the raging centaur who has just appeared.
+
+Virgil informs Dante that this specific centaur is Cacus. He explains that Cacus used to dwell under a rock on the Aventine Hill (in Rome), where he frequently spilled blood. Virgil notes that Cacus is separated from the other centaurs ("his brothers")—who typically guard the boundary of the seventh circle—because he committed a fraudulent theft of a great herd of cattle belonging to a neighbor. This crime of theft is why he is stationed here in the seventh bolgia. Virgil concludes by describing Cacus's death: he was beaten to death by Hercules with a club. Hercules struck him so many times (perhaps a hundred) that Cacus was so tough or numb that he didn't even feel the first ten blows.
+
+**Tag Resolutions:**
+- {1:Lo mio maestro}: Virgil
+- [2:Questi]: Cacus (the centaur)
+- {3:Caco}: Cacus
+- [4:+elli]: Cacus
+- {5:suoi fratei}: the other centaurs
+- [6:elli]: Cacus
+- {7:Ercule}: Hercules
+- [8:+elli]: Cacus
+
+## Scene 34-39: The Arrival of Three Spirits
+In this scene, the narrative transitions from Virgil's explanation of Cacus back to the immediate action in the seventh bolgia.
+
+As Virgil is speaking (explaining the history of Cacus), Cacus himself continues to move past Dante and Virgil. During this moment, three spirits approach them. Dante and Virgil are so preoccupied that they do not notice the spirits until the spirits shout a question, demanding to know who they are. This interruption brings the conversation between Dante and Virgil to a halt, and they turn their attention to listen to the three newcomers.
+
+**Tag Resolutions:**
+- [1:+ei]: Virgil (who was speaking in the previous scene)
+- [2:el]: Cacus (the centaur who passes by)
+- {3:tre spiriti}: three spirits (unnamed thieves)
+- [4:noi]: Dante and Virgil
+- [5:quai]: the three spirits
+- [6:io]: Dante
+- {7:l duca mio}: Virgil
+- [8:s']: Dante and Virgil (reflexive: "did not notice [themselves]")
+- [9:+elli]: the three spirits
+- [10:Chi]: Dante and Virgil (the subject of the question)
+- [11:voi]: Dante and Virgil
+- [12:+noi]: Dante and Virgil
+- [13:essi]: the three spirits
+
+## Scene 40-45: The Conversation of the Spirits
+In this scene, the interaction with the three newcomer spirits continues. Dante admits that he does not recognize these three souls. As they speak among themselves, a common occurrence happens: one of the spirits mentions another person by name, asking, "Where has Cianfa remained?" (or "Where did Cianfa go?"). 
+
+Dante, wanting to ensure that Virgil is paying close attention to this mention of Cianfa—likely because the name is significant or prompts a curiosity—makes a physical gesture. He places his finger on his face, moving it from his chin up to his nose, effectively signaling Virgil to stay alert and listen.
+
+**Tag Resolutions:**
+- [1:Io]: Dante
+- [2:li]: the three spirits
+- [3:ei]: the sequence of events (the situation/the fact that it happened)
+- {4:Cianfa}: Cianfa (another spirit/thief in the seventh bolgia)
+- [5:io]: Dante
+- {6:l duca}: Virgil
+- [7:mi]: Dante
+
+## Scene 46-60: The Initial Entwining
+In this scene, the narrative briefly pauses as Dante addresses the reader directly. He acknowledges that the events he is about to describe are so bizarre and horrific that it is understandable if the reader finds them hard to believe; indeed, Dante admits that he himself can barely believe what he witnessed.
+
+Returning to the action, Dante describes the sudden attack of a serpent upon one of the three spirits they have just encountered. This is no ordinary snake; it possesses six legs. Dante describes the attack with clinical, almost mechanical detail: the serpent launches itself at one of the spirits and entwines him completely. It uses its middle legs to bind the man's belly and its front legs to seize his arms. Simultaneously, it bites the man's cheeks. Its hind legs stretch across the man's thighs, and its tail is wound between his legs and pulled up tight against his lower back. Dante concludes by comparing the serpent's grip to ivy wrapping around a tree, noting that the serpent clings to the man's limbs even more tightly than ivy clings to wood.
+
+**Tag Resolutions:**
+- [1:tu]: the reader
+- {2:lettore}: the reader
+- [3:io]: Dante
+- [4:io]: Dante
+- [5:'l]: the event/the spirit being attacked (the sight Dante witnessed)
+- [6:+io]: Dante (referring to his own sense of self/belief)
+- [7:mi]: Dante (reflexive)
+- [8:io]: Dante
+- [9:lor]: the three spirits
+- [10:l'uno]: one of the three spirits
+- [11:lui]: one of the three spirits
+- [12:li]: one of the three spirits
+- [13:li]: one of the three spirits
+
+## Scene 61-66: The Melting of the Forms
+In this scene, Dante describes the horrific climax of the serpent's attack. The physical grip described in the previous scene evolves into a metaphysical and physical fusion. 
+
+The spirit and the serpent adhere to one another so intensely that they seem to melt, like hot wax, merging their two distinct bodies into a single mass. As they fuse, their colors blend together, erasing the visual boundaries between the human soul and the reptilian monster. Dante notes that it is no longer possible to tell which was the man and which was the snake; neither retains the appearance they originally had.
+
+To illustrate this grotesque transformation of color, Dante uses a simile involving papyrus. He compares the blending of the spirit and the serpent to the way papyrus changes color when exposed to fire: a brownish hue appears—not yet black, but a color that signals the death of the original white of the page.
+
+**Tag Resolutions:**
+- [1:s']: the spirit and the serpent (they adhered to each other)
+- [2:+elli]: the spirit and the serpent
+- [3:un]: one of the two (either the spirit or the serpent)
+- [4:altro]: the other of the two (either the serpent or the spirit)
+- [5:quel]: the original form/identity of each (the spirit and the serpent)
+
+## Scene 67-72: The Loss of Individuality
+In this scene, the focus shifts to the reaction of the companions of the spirit being attacked. The other two spirits from the group of three watch in horror as their companion is consumed and fused with the serpent. They cry out to him, addressing him by name as "Agnel," lamenting his terrifying transformation. They point out the metaphysical horror of the moment: he is no longer two distinct beings (man and snake), nor is he yet a single, stable entity; he is in a state of flux. 
+
+The scene concludes with the completion of the metamorphosis. The two separate heads of the man and the serpent merge into one. Dante describes the result as "two mixed figures" appearing within a "single face," signaling the total loss of individual identity for both Agnel and the serpent.
+
+**Tag Resolutions:**
+- {1:Li altri due}: the other two spirits
+- [2:'l]: Agnel (the spirit being attacked)
+- [3:+egli]: the other two spirits (each of them)
+- {4:Agnel}: Agnel
+- [5:ti]: Agnel
+- [6:+tu]: Agnel
+- [7:+tu]: Agnel
+- [8:+tu]: Agnel
+- {9:due figure miste}: Agnel and the serpent
+- {10:due perduti}: Agnel and the serpent
+
+## Scene 73-78: The Grotesque Fusion
+In this scene, Dante provides a gruesome, detailed description of the physical aftermath of the fusion between the spirit Agnel and the six-legged serpent. 
+
+The metamorphosis results in a biological nightmare: the two arms of the human and the limbs of the serpent blend into "four strips" or bands. The thighs, legs, belly, and buttocks merge into a mass of limbs that Dante claims have never been seen before. The original identity and appearance of both the man and the snake are completely obliterated. 
+
+Dante describes the resulting creature as a paradox: it is "two and none," meaning it is composed of two beings, yet neither survives as a distinct individual. This "perverse image" then slowly crawls or walks away from the scene.
+
+**Tag Resolutions:**
+- [1:+ei]: the fused entity (Agnel and the serpent)
+- {2:l'imagine perversa}: the fused entity (Agnel and the serpent)
+- [3:tal]: the fused entity (Agnel and the serpent)
+
+## Scene 79-87: The Attack of the Small Serpent
+In this scene, Dante describes a second, more rapid attack by a different kind of serpent.
+
+He begins with a simile, comparing the creature to a lizard (*ramarro*) during the "dog days" of summer—fast, shimmering, and appearing like a flash of lightning as it crosses one's path. This creature is a "glowing little serpent," described as being livid and black, as small as a peppercorn.
+
+The serpent strikes with precision, targeting the mouth (which Dante describes as the "part where our food is first taken") of one of the two remaining spirits. Upon being pierced by the serpent, the spirit collapses, falling stretched out on the ground before the creature.
+
+**Tag Resolutions:**
+- [1:li altri due]: the two spirits remaining after Agnel's metamorphosis
+- {2:un serpentello acceso}: a small, glowing/fiery serpent
+- [3:+ei]: the small serpent
+- [4:l'un]: one of the two remaining spirits (the victim)
+- [5:lor]: the two remaining spirits
+- [6:+ei]: the spirit who was pierced (the victim)
+- [7:lui]: the small serpent
+
+## Scene 88-93: The Reaction of the Wound
+In this scene, Dante describes the immediate physical and metaphysical reaction of the spirit who was just struck by the small, glowing serpent. 
+
+The pierced spirit is in a state of shock; he looks at the serpent but is unable or unwilling to speak. Instead, he begins to yawn or gasp—a reflexive, vacant gesture that Dante compares to the onset of a deep sleep or a sudden fever. The spirit gazes back at the serpent and at the specific spot where the creature pierced him. 
+
+Then, a surreal phenomenon occurs: smoke begins to billow out of both beings. One (the serpent) emits smoke through the wound it created, while the other (the spirit) emits smoke through his mouth. Because the serpent has entered the spirit's mouth, these two vents are essentially the same location, causing the two streams of smoke to clash and mingle as they rise.
+
+**Tag Resolutions:**
+- {1:Lo trafitto}: the spirit who was pierced by the small serpent
+- [2:'l]: the small serpent
+- [3:+elli]: the spirit who was pierced
+- [4:+elli]: the spirit who was pierced
+- [5:l']: the spirit who was pierced
+- [6:Elli]: the spirit who was pierced
+- {7:l serpente}: the small serpent
+- [8:quei]: the wound (the point of piercing)
+- [9:lui]: the small serpent
+- [10:l'un]: the small serpent
+- [11:l'altro]: the spirit who was pierced
+- [12:+elli]: the spirit who was pierced and the small serpent
+
+## Scene 94-102: A Literary Comparison
+In this scene, Dante takes a brief literary detour to compare the grotesque transformations he has just witnessed in the seventh bolgia to the works of the great classical poets of metamorphosis and horror.
+
+Dante invokes Lucan (the author of *Pharsalia*), telling him to be silent regarding his descriptions of the "miserable Sabellian" and Nasidienus (characters in Lucan's work associated with gruesome ends). Dante suggests that Lucan should instead wait and listen to the events currently unfolding in Hell, which far surpass his own descriptions of suffering.
+
+Then, Dante turns to Ovid, the master of metamorphosis. He tells Ovid to be silent about his tales of Cadmus (who was turned into a serpent) and Arethusa (who was turned into a fountain). Dante remarks that while he does not envy Ovid for his ability to transform these figures through poetry, Ovid’s transformations are mild compared to what Dante is seeing. The key difference is that Ovid typically transforms one nature into another; however, Dante has just witnessed a mutual, simultaneous fusion of two distinct natures (man and serpent) into a single, hybrid form—a level of "transmutation" that Ovid never achieved in his writing.
+
+**Tag Resolutions:**
+- {1:Lucano}: Lucan (the Roman poet)
+- {2:misero Sabello}: the miserable Sabellian (a character in Lucan's work)
+- {3:Nasidio}: Nasidienus (a character in Lucan's work)
+- [4:+ei]: Lucan
+- {5:Cadmo}: Cadmus (the mythological figure)
+- {6:Aretusa}: Arethusa (the mythological figure)
+- {7:Ovidio}: Ovid (the Roman poet)
+- [8:quello]: Cadmus
+- [9:quella]: Arethusa
+- [10:+ei]: Ovid
+- [11:io]: Dante
+- [12:lo]: Ovid
+- [13:+ei]: Ovid
+
+## Scene 103-111: The Structural Reorganization
+This scene describes the physical aftermath and the resulting metamorphosis between the small, glowing serpent and the spirit it has pierced. Following the emission of smoke in the previous scene, the two beings now begin to structurally merge and exchange physical properties.
+
+First, the small serpent's tail splits into two (forming a fork), while the wounded spirit's legs and feet draw together. The spirit's legs and thighs bind so tightly to one another that the joints (like the knees) completely disappear from view, leaving a smooth, featureless mass.
+
+As this happens, the serpent's split tail further erases the remaining human form of the spirit's lower body. Finally, a grotesque exchange of textures occurs: the serpent's skin becomes soft, and the spirit's skin becomes hard. This is a "reciprocal" transmutation where the two distinct natures are blending and swapping characteristics.
+
+**Tag Resolutions:**
+- [1:+elli]: the small serpent and the pierced spirit
+- [2:si]: the small serpent and the pierced spirit (reflexive/reciprocal)
+- {3: 'l serpente}: the small serpent
+- {4: 'l feruto}: the spirit who was pierced by the small serpent
+
+## Scene 112-117: The Alteration of Limbs
+In this scene, Dante provides a clinical and grotesque description of the final physical merging between the small, glowing serpent and the spirit it has pierced. 
+
+Dante observes the serpent's arms sliding into the spirit's armpits. He notes a reciprocal change in the length of their limbs: as the serpent's naturally short legs lengthen, the spirit's legs simultaneously shorten. 
+
+The transformation then moves to the lower body, where the hind legs twist together and morph into the genitals (the "limb that a man hides"). Dante concludes with a particularly perverse detail: the resulting fused organ possesses two openings ("ports"), one for each of the blended creatures, signifying that the fusion is complete and the original identities have been irrevocably corrupted into a single, hybrid entity.
+
+**Tag Resolutions:**
+- [1:Io]: Dante
+- {2:uom}: the human / the spirit (referring to the human form in general)
+- {3:misero}: the spirit who was pierced by the small serpent
+
+## Scene 118-123: The Changing Surface
+In this scene, Dante describes the final moments of the second metamorphosis—the fusion between the small, glowing serpent and the spirit it had pierced.
+
+The scene begins with the smoke (previously mentioned as billowing from the mouth of the spirit and the wound of the serpent) acting as a veil, masking the two beings as they take on a "new color." A reciprocal exchange of physical traits occurs: on one part of the merged entity, hair begins to grow (a human characteristic), while on another part, hair is removed or the skin becomes smooth (a reptilian characteristic).
+
+Then, there is a final physical shifting of the mass: one part of the hybrid creature rises while the other falls. Despite this movement, the eyes (described as "impious lamps") do not twist; instead, the transformation is concentrated "beneath" the eyes, where the two distinct faces (the human face and the serpent's snout) merge and change into a single, hybrid visage.
+
+**Tag Resolutions:**
+- [1:l'uno]: the small glowing serpent
+- [2:l'altro]: the spirit who was pierced by the small serpent
+- [3:+ei]: the small glowing serpent and the pierced spirit (jointly/reciprocally)
+- [4:+ei]: the small glowing serpent and the pierced spirit (jointly/reciprocally)
+- [5:l'un]: one of the two fusing entities (either the serpent or the spirit)
+- [6:si]: the one who raised itself (referring back to [5])
+- [7:l'altro]: the other of the two fusing entities
+
+## Scene 124-129: The Swelling of the Face
+In this scene, Dante continues his clinical, almost architectural description of the second metamorphosis—the fusion of the small, glowing serpent and the spirit it pierced. 
+
+There are no spoken lines here; Dante is observing the physical reorganization of the hybrid's facial features. He describes the "matter" (the combined flesh and substance of the man and the snake) being redistributed like clay to form a single, monstrous head. 
+
+Specifically, the vertical alignment (what was "straight") is pulled toward the temples. The excess of this shifting matter causes the ears to emerge from the distorted cheeks. Whatever material did not flow back but remained as a surplus is then shaped into a nose for the new face, and the lips are thickened/swollen to complete the transformation.
+
+**Tag Resolutions:**
+*(No numbered tags were provided in the text for this scene.)*
+
+## Scene 130-135: The Splitting of the Tongue
+In this scene, the second metamorphosis—the fusion between the small, glowing serpent and the spirit it pierced—reaches its final conclusion. Dante describes the hybrid creature's remaining physical shifts.
+
+The fused entity, which had been lying on the ground, thrusts its snout forward and pulls its ears back across its head, a movement Dante compares to the way a snail retracts its tentacles. The most significant change occurs with the tongue: the tongue, which was previously a single human tongue ("united") and capable of speech, now splits into a forked reptilian tongue. This forked tongue then retreats back into the mouth. The scene concludes with the lingering presence of the smoke that has shrouded the transformation.
+
+**Tag Resolutions:**
+- [1:Quel]: the fused entity (the small glowing serpent and the pierced spirit)
+- [2:+elli]: the fused entity (the small glowing serpent and the pierced spirit)
+
+## Scene 136-141: The Departure of the Spirits
+In this final scene of the Canto, the second metamorphosis is complete, and the newly formed hybrid creature departs.
+
+The fused entity (the spirit and the small glowing serpent) is now described as a "beast" (*fiera*). It hisses and slinks away through the valley. As it leaves, the third spirit—the only one of the original trio who has not yet been transformed—watches it go and spits on the ground in a gesture of contempt or disgust.
+
+The hybrid creature turns its "new shoulders" (emphasizing its altered physical form) back toward the remaining spirit. It speaks one last time, expressing a spiteful desire: it wants another thief, Buoso, to suffer the same fate it has just endured—to be transformed and forced to crawl on all fours (*carpon*) through the wretched path of the seventh bolgia.
+
+**Tag Resolutions:**
+- {1:L'anima}: the fused entity (the second spirit and the small glowing serpent)
+- [2:+ella]: the fused entity (the second spirit and the small glowing serpent)
+- [3:si]: the fused entity (reflexive)
+- {4:l'altro}: the remaining spirit (the third of the original trio)
+- [5:lui]: the fused entity (the second spirit and the small glowing serpent)
+- [6:+ei]: the fused entity (the second spirit and the small glowing serpent)
+- [7:li]: the remaining spirit (the third of the original trio)
+- [8:+ei]: the fused entity (the second spirit and the small glowing serpent)
+- {9:l'altro}: the remaining spirit (the third of the original trio)
+- [10:I']: the fused entity (the second spirit and the small glowing serpent)
+- {11:Buoso}: Buoso (another thief/spirit in the seventh bolgia)
+- [12:io]: the fused entity (the second spirit and the small glowing serpent)
+
+## Scene 142-144: Dante's Commentary
+In this concluding scene, Dante steps back from the visceral horror of the metamorphoses to offer a meta-commentary on his own narrative. 
+
+He acknowledges that he has witnessed the "seventh weight"—a poetic reference to the souls and their punishments in the seventh bolgia—undergo these bizarre changes and transmutations. Aware that the descriptions of fusing bodies and swapping skins are grotesque and highly unconventional, Dante addresses the reader or future critics. He asks for indulgence ("let me be excused") for the "novelty" (the strangeness) of these images, just in case a refined writer or a critical eye (represented by "the pen") finds such fantastical horrors repulsive or stylistically jarring.
+
+**Tag Resolutions:**
+- [1:io]: Dante
+- {2:la settima zavorra}: the souls/punishments of the seventh bolgia
+- [3:mi]: Dante
+- {4:la penna}: the poet/critic (the refined writer or reader)
+
+## Scene 145-151: The Identification of the Survivors
+In this scene, Dante reflects on his mental and physical state after witnessing the two horrific metamorphoses. He admits that his eyes were clouded and his spirit was shaken (or "faint") by the visceral nature of the transformations. However, despite this shock, he was still able to clearly identify the only remaining survivor of the trio of spirits.
+
+He identifies this survivor as Puccio Sciancato ("Puccio the Lame"). Puccio is the only one of the three companions who arrived together who has not yet undergone a mutation into a serpent-hybrid. Finally, Dante addresses a person named Gaville, noting that "the other" (the second spirit who was just transformed into a beast) is the very person for whom Gaville weeps.
+
+**Tag Resolutions:**
+- [1:i']: Dante
+- {2:Puccio Sciancato}: Puccio Sciancato
+- [3:quel]: Puccio Sciancato
+- {4:tre compagni}: the three spirits/thieves (Agnel, the second victim, and Puccio)
+- [5:+ei]: Puccio Sciancato
+- [6:l'altr']: the second spirit who was transformed (the one who fused with the small glowing serpent)
+- [7:quel]: the second spirit who was transformed
+- [8:tu]: Gaville
+- {9:Gaville}: Gaville
+
+# recap
+- Dante and Virgil remain together in the seventh bolgia.
+- They have just witnessed the grotesque metamorphosis of two thieves into serpent-hybrids.
+- Puccio Sciancato is the sole survivor of the trio of spirits they encountered.

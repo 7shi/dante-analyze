@@ -1,0 +1,266 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+
+## Scene 1-12: Pluto's Outburst and Virgil's Rebuke
+In this scene, Pluto (the guardian of the Fourth Circle) attempts to intimidate the travelers with a harsh, guttural outburst. Dante is frightened by the encounter, but Virgil steps in to provide comfort and then firmly silences Pluto. Virgil asserts that their descent is sanctioned by Divine Will, specifically referencing the authority of the Heavens and the victory of the Archangel Michael over the prideful rebellion of Lucifer.
+
+**Reference Resolutions:**
+
+- **[1] {Pape Satàn}**: Satan
+- **[2] {pape Satàn}**: Satan
+- **[3] {Pluto}**: Pluto
+- **[4] {quel savio gentil}**: Virgil
+- **[5] [+ei]**: Virgil
+- **[6] [ti]**: Dante
+- **[7] [elli]**: Pluto
+- **[8] [ci]**: Dante and Virgil
+- **[9] [+ei]**: Virgil
+- **[10] [si]**: Virgil
+- **[11] {quella 'nfiata labbia}**: Pluto (literally "that swollen lip")
+- **[12] [+ei]**: Virgil
+- **[13] [+tu]**: Pluto
+- **[14] {maladetto lupo}**: Pluto (literally "cursed wolf")
+- **[15] [+tu]**: Pluto
+- **[16] [te]**: Pluto
+- **[17] {Michele}**: Archangel Michael
+
+## Scene 13-18: Descent into the Fourth Circle
+In this brief scene (lines 13–18), the immediate aftermath of Virgil's rebuke of Pluto is described.
+
+First, Dante uses a simile: just as sails that are swollen with wind collapse once the mast breaks, the "cruel beast" (Pluto) collapses or shrinks back to the ground, completely defeated by the authority of Virgil's words.
+
+Following this, the two travelers proceed to descend into the Fourth Circle. They travel down the "sorrowful bank" (the slope), which Dante describes as the place that contains the collective evil of the entire universe.
+
+**Reference Resolution:**
+- **[1] {+noi}**: Dante and Virgil (the narrator and his guide).
+
+## Scene 19-24: The Chaos of the Swirling Souls
+**Narrative Analysis**
+
+In this scene, Dante pauses to reflect upon the sheer scale of the suffering he is witnessing as he enters the Fourth Circle. He begins with an exclamation regarding the justice of God, wondering why so many souls are crowded together to endure such intense hardships and pains. He contemplates the nature of human guilt and how it leads to this state of misery.
+
+To describe the movement of the souls, Dante employs a vivid simile: he compares the damned to the waves of the sea at the whirlpool of Charybdis. Just as the waves there clash and break against one another, the souls in this circle are driven into two opposing groups that perpetually collide and crash into each other in a chaotic, swirling motion.
+
+**Reference Resolutions**
+
+- **{1:Dio}**: God
+- **[2:chi]**: the souls in the Fourth Circle
+- **[3:io]**: Dante
+- **{4:Cariddi}**: Charybdis (the mythical whirlpool/monster)
+- **{5:la gente}**: the souls in the Fourth Circle
+
+## Scene 25-35: The Mechanics of the Punishment
+**Narrative Analysis**
+
+In this scene, Dante describes the specific physical and psychological torment of the souls in the Fourth Circle (the Avaricious and the Prodigal). 
+
+Dante observes that the crowd here is denser than anywhere else he has seen. These souls are divided into two opposing groups. Each group is tasked with pushing enormous weights (representing their earthly obsession with material wealth) in a semicircular path. Using the strength of their backs and shoulders, they drive these weights forward until the two groups collide head-on with great violence and loud screams.
+
+After the clash, the souls turn around and push their weights back the way they came. During this process, they shout insults and accusations at one another—asking why the other is holding back or why they are mocking them. Once they reach the end of their respective semicircles, they turn again to repeat the collision. It is a cycle of futile labor, aggression, and mutual hatred.
+
+**Reference Resolutions**
+
+- **[1:i']**: Dante
+- **{2:gente}**: the souls in the Fourth Circle
+- **[3:+elli]**: the souls in the Fourth Circle
+- **[4:si]**: each individual soul in the Fourth Circle
+- **[5:+tu]**: another soul in the Fourth Circle (the one being spoken to)
+- **[6:+tu]**: another soul in the Fourth Circle (the one being spoken to)
+- **[7:+elli]**: the souls in the Fourth Circle
+- **[8:loro]**: the souls in the Fourth Circle
+- **[9:si]**: each individual soul in the Fourth Circle
+- **[10:+ei]**: each individual soul in the Fourth Circle
+
+## Scene 36-48: Identification of the Avaricious
+**Narrative Analysis**
+
+In this scene, Dante is emotionally affected by the sight of the souls in the Fourth Circle, feeling a sense of pity or sorrow ("cor quasi compunto"). He turns to Virgil to seek clarification about the identity of the damned. Specifically, he asks who these people are and whether the group on the left consists entirely of "cherci" (the avaricious/greedy).
+
+Virgil responds by explaining the spiritual blindness of all the souls in this circle. He states that they were all "guerci" (blind) in their minds during their earthly lives because they failed to practice moderation in their spending (some spent too much, some too little). Virgil notes that their true nature is revealed by the shouts they exchange when the two opposing groups collide. Finally, he identifies the group on the left as the Avaricious, noting a specific detail: they lack the "piloso coperchio" (the hairy/furry head-coverings), meaning they are not popes or cardinals—though he implies that avarice often dominates those high-ranking ecclesiastical positions as well.
+
+**Reference Resolutions**
+
+- **[1:io]**: Dante
+- **[2:+io]**: Dante
+- **{3:Maestro}**: Virgil
+- **[4:+tu]**: Virgil
+- **[5:mi]**: Dante
+- **{6:gente}**: the souls in the Fourth Circle
+- **[7:questa]**: the souls in the Fourth Circle
+- **{8:cherci}**: the avaricious souls
+- **{9:chercuti}**: the avaricious souls (specifically those on the left)
+- **[10:elli]**: Virgil
+- **[11:me]**: Dante
+- **{12:guerci}**: the souls in the Fourth Circle
+- **[13:l']**: the identity/nature of the souls (specifically their sin/guilt)
+- **[14:+elli]**: the souls in the Fourth Circle
+- **[15:li]**: the souls in the Fourth Circle
+- **[16:Questi]**: the souls on the left (the Avaricious)
+- **{17:cherci}**: the avaricious souls
+- **{18:papi}**: Popes
+- **{19:cardinali}**: Cardinals
+
+## Scene 49-66: The Futility of Wealth
+**Narrative Analysis**
+
+In this scene, Dante expresses a hope that he might recognize some of the souls in the Fourth Circle, assuming that people he knew in life who were corrupted by greed or waste would be here.
+
+Virgil corrects him, explaining that the very nature of their sin—a "forgetful" or "oblivious" life spent obsessing over material wealth—has stripped them of their distinct identities. This spiritual blindness has made them "dark" or unrecognizable to the living. Virgil describes their eternal state: they are forever locked in their collision, with the Avaricious rising from their graves with clenched fists (symbolizing their refusal to let go of wealth) and the Prodigal with shorn hair (symbolizing their reckless waste).
+
+Virgil concludes that the "beautiful world" rejected them because they failed to practice the virtue of moderation ("bad giving and bad keeping"). He tells Dante that describing the brawl further is pointless, as it doesn't make the sight any more pleasant. Finally, Virgil uses this as a teaching moment to illustrate the "short joke" (the irony) of earthly wealth: human beings spend their lives in a frantic, frustrating struggle for riches, yet all the gold in the world would be useless in bringing even a single moment of peace to these exhausted souls.
+
+**Reference Resolutions**
+
+- **[1:io]**: Dante
+- **{2:Maestro}**: Virgil
+- **[3:questi]**: the souls in the Fourth Circle
+- **[4:io]**: Dante
+- **[5:elli]**: Virgil
+- **[6:me]**: Dante
+- **[7:+tu]**: Dante
+- **[8:i]**: the souls in the Fourth Circle
+- **[9:li]**: the souls in the Fourth Circle
+- **[10:+elli]**: the souls in the Fourth Circle
+- **[11:questi]**: the Avaricious souls (those with clenched fists)
+- **[12:questi]**: the Prodigal souls (those with shorn hair)
+- **[13:loro]**: the souls in the Fourth Circle
+- **[14:+io]**: Virgil
+- **[15:ci]**: Dante and Virgil
+- **[16:+tu]**: Dante
+- **{17:figliuol}**: Dante
+- **{18:la fortuna}**: Fortune (personified)
+- **{19:l'umana gente}**: humanity/people of Earth
+- **[20:si]**: humanity/people of Earth
+- **{21:quest' anime stanche}**: the souls in the Fourth Circle
+- **[22:una]**: a single soul among those in the Fourth Circle
+
+## Scene 67-84: The Doctrine of Fortune
+In this scene, Dante asks Virgil to explain the nature of Fortune. He is confused by how Fortune distributes the world's wealth and status so sporadically and unpredictably.
+
+Virgil responds by gently mocking Dante's ignorance, calling him a "silly creature." He explains that the universe is governed by God (the one whose knowledge transcends all). Virgil draws a parallel: just as God created the heavens and organized the stars so that light is distributed equally across all parts of the sky, He also appointed a "general minister and guide" to manage the "vain goods" (material wealth) of the earth.
+
+This minister is Fortune. Virgil explains that Fortune's role is to shift wealth and power from one person to another and from one family bloodline to another, often in ways that defy human reason or logic. This divine arrangement explains why some people hold power and others suffer. He concludes by noting that Fortune's judgment is "hidden," comparing her secretive movements to a snake concealed in the grass.
+
+**Reference Resolutions**
+
+- **{1:Maestro}**: Virgil
+- **[2:io]**: Dante
+- **[3:mi]**: Dante
+- **[4:+tu]**: Virgil
+- **{5:questa fortuna}**: Fortune
+- **[6:tu]**: Virgil
+- **[7:mi]**: Dante
+- **[8:quelli]**: Virgil
+- **[9:me]**: Dante
+- **{10:creature sciocche}**: Dante
+- **[11:v']**: Dante
+- **[12:+io]**: Virgil
+- **[13:tu]**: Dante
+- **[14:Colui]**: God
+- **[15:+lui]**: God
+- **[16:+lui]**: God
+- **[17:lor]**: the celestial bodies/spheres
+- **[18:chi]**: the celestial bodies/spheres (or the intelligences guiding them)
+- **[19:+lui]**: God
+- **{20:general ministra e duce}**: Fortune
+- **[21:costei]**: Fortune
+
+## Scene 85-96: The Unchanging Divine Order
+**Narrative Analysis**
+
+In this scene, Virgil continues his explanation of Fortune, emphasizing that her operations are beyond human comprehension. He begins by stating that human knowledge ("vostro saver") cannot compete with or grasp the logic of Fortune. He describes her as an autonomous administrative force: she provides, she judges, and she governs her realm with the same authority that the pagan gods once exerted over theirs.
+
+Virgil explains that Fortune's changes are ceaseless and driven by "necessity," which is why the distribution of wealth and power shifts so rapidly from one person to another. He then notes a great irony: although Fortune is merely an instrument of God's will, humans often "crucify" her with blame and insults when they suffer losses, whereas they should actually praise her for the order she maintains.
+
+Finally, Virgil describes Fortune's internal state. She is entirely indifferent to the complaints of humanity because she is "blessed" (beata). Existing in a state of celestial joy alongside other "first creatures" (the primary cosmic entities/angels), she spends her eternity turning her sphere and enjoying her divine existence, oblivious to the earthly turmoil her movements cause.
+
+**Reference Resolutions**
+
+- **[1:lei]**: Fortune
+- **[2:questa]**: Fortune
+- **[3:+ella]**: Fortune
+- **[4:+ella]**: Fortune
+- **{5:li altri dèi}**: the other gods (pagan deities)
+- **[6:la]**: Fortune
+- **[7:chi]**: the person who succeeds another in Fortune's cycle (humanity/the individual receiving wealth/power)
+- **[8:Quest']**: Fortune
+- **[9:colei]**: Fortune
+- **[10:color]**: the people (humanity)
+- **[11:le]**: Fortune
+- **[12:ella]**: Fortune
+- **[13:s']**: Fortune
+- **[14:+ella]**: Fortune
+- **{15:l'altre prime creature}**: the other first creatures (primary celestial beings/angels)
+- **[16:+ella]**: Fortune
+- **[17:si]**: Fortune
+- **[18:+ella]**: Fortune
+
+## Scene 97-105: Transition to the Styx
+**Narrative Analysis**
+
+In this brief transition scene, the focus shifts from the philosophical discussion of Fortune to the physical movement of the travelers. 
+
+Virgil speaks to Dante, informing him that it is time to descend further into Hell to witness "greater pity" (which, in the context of the *Inferno*, refers to greater depths of misery and suffering). Virgil points to the stars to illustrate the passage of time, noting that the constellations that were rising when they first set out have now begun to fall. He warns Dante that staying in one place for too long is forbidden, emphasizing the urgency of their divine mission and the strict schedule governed by the heavens.
+
+Following this prompt, Dante and Virgil cross the Fourth Circle to the opposite bank. There, they encounter a boiling spring that pours into a dark ditch. The water is described as being exceptionally dark. Accompanied by the "grey waves" of this foul stream, the two travelers descend further into the abyss via a new and different path, leaving the Avaricious and Prodigal behind as they enter the region of the Styx.
+
+**Reference Resolutions**
+
+- **[1:+noi]**: Dante and Virgil
+- **[2:io]**: Virgil (the speaker)
+- **[3:mi]**: Virgil (the speaker)
+- **[4:Noi]**: Dante and Virgil
+- **[5:noi]**: Dante and Virgil
+- **[6:+noi]**: Dante and Virgil
+
+## Scene 106-114: The Sight of the Wrathful and Sullen
+In this scene, Dante and Virgil arrive at the Marsh of the Styx. Dante explains that the dark stream they followed flows into this swamp after descending the grey slopes. As Dante looks around, he sees the souls trapped in the mire. These "muddy people" are naked and wear expressions of intense anger. They are engaged in a brutal, animalistic brawl, attacking one another not just with their hands, but with their heads, chests, and feet, even biting and tearing at each other's flesh.
+
+**Reference Resolutions:**
+
+- **[1:io]**: Dante
+- **[2:+io]**: Dante
+- **{3:genti fangose}**: the souls in the Marsh of the Styx (specifically the Wrathful)
+- **[4:Queste]**: the souls in the Marsh of the Styx (specifically the Wrathful)
+- **[5:si]**: the souls in the Marsh of the Styx (specifically the Wrathful)
+
+## Scene 115-126: The Lament of the Sullen
+In this scene, Virgil explains the nature of the souls trapped in the Marsh of the Styx. He points out to Dante that while the souls on the surface are those conquered by anger (the Wrathful), there is another group beneath the surface of the water: the Sullen. 
+
+Virgil explains that these souls are submerged in the mud and their presence is only known by the bubbles they create as they sigh. He provides a translation of their "hymn"—a gurgling lament—in which the Sullen admit that they were miserable and slothful/sullen during their earthly lives under the sun, and now they remain miserable in the dark mud. Because they are submerged, they cannot speak clearly, only gurgle their sorrow.
+
+**Reference Resolutions**
+
+- **{1:Lo buon maestro}**: Virgil
+- **{2:Figlio}**: Dante
+- **[3:+tu]**: Dante
+- **{4:l'anime}**: the souls in the Marsh of the Styx (specifically the Wrathful)
+- **[5:color]**: the souls in the Marsh of the Styx (the Wrathful)
+- **[6:+io]**: Virgil
+- **[7:tu]**: Dante
+- **{8:gente}**: the Sullen (the souls submerged in the mud)
+- **[9:+elli]**: the Sullen
+- **[10:ti]**: Dante
+- **[11:+elli]**: the Sullen
+- **[12:+noi]**: the Sullen
+- **[13:+noi]**: the Sullen
+- **[14:+noi]**: the Sullen
+- **[15:ci]**: the Sullen
+- **[16:+elli]**: the Sullen
+- **[17:si]**: the Sullen
+- **[18:+elli]**: the Sullen
+
+## Scene 127-130: Arrival at the Tower
+**Narrative Analysis**
+
+In this short transition scene, Dante describes the path he and Virgil take as they navigate the perimeter of the Marsh of the Styx. They walk in a wide arc, keeping a distance between the dry bank and the center of the foul pool. As they move, they keep their eyes fixed on the souls submerged in the mud (the Sullen), who are depicted as choking on or swallowing the filth. The scene concludes with the travelers arriving at the base of a truncated or broken tower.
+
+**Reference Resolutions**
+
+- **[1:+noi]**: Dante and Virgil
+- **[2:chi]**: the Sullen (the souls submerged in the mud of the Styx)
+- **[3:+noi]**: Dante and Virgil
+
+# recap
+- Dante and Virgil are traveling together.
+- They have just passed the Wrathful and Sullen in the Marsh of the Styx.
+- They have arrived at the base of a truncated tower.

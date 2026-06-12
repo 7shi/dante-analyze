@@ -1,0 +1,240 @@
+# Canto 23 — The Radiance of Beatrice and the Celestial Harmony
+
+## Scene 1-15: The Simile of the Bird
+In this scene, Dante uses a nature simile to describe Beatrice’s posture and anticipation as they ascend through the heavens.
+
+The first part of the scene (lines 1-9) describes a bird nestled in its foliage with its young. The bird waits through the night, which hides the world from sight, and waits with intense longing for the dawn to break so it can see its children and find food to feed them.
+
+The second part (lines 10-15) applies this image to the current moment. Beatrice stands upright and attentive, looking toward the east (where the sun rises most slowly/takes the most time to appear). Dante observes her, and the sight of her longing and suspension fills him with a feeling of satisfaction, comparing himself to someone who finds fulfillment simply through the act of hoping for something else.
+
+**Tag Resolutions:**
+
+- `[1:ci]`: refers to humans/mankind (the general "us" for whom the night hides things).
+- `{2:la donna}`: refers to Beatrice.
+- `[3:io]`: refers to Dante.
+- `[4:quei]`: refers to a generic person/hypothetical "one" (used in a comparison to describe a state of mind).
+- `[5:+elli]`: refers to the same generic person/hypothetical "one" (from `[4]`).
+- `[6:s']`: refers to the same generic person/hypothetical "one" (from `[4]`), functioning as the reflexive "himself."
+
+## Scene 16-24: Beatrice's Proclamation
+In this scene, not much time passes between Dante's expectant waiting (described in the previous simile) and the moment the sky begins to brighten. Beatrice speaks to Dante, pointing out the triumphant hosts of Christ and the ultimate outcome ("the fruit") of the movement of the celestial spheres. Dante observes Beatrice, noting that her face seems to glow with intense light and her eyes are filled with such profound joy that he feels he cannot possibly describe the sight in detail, so he chooses to move past the description quickly.
+
+**Tag Resolutions:**
+
+- `[1:uno]`: refers to the first event mentioned in line 17: Dante's act of waiting (the "attender").
+- `[2:altro]`: refers to the second event mentioned in line 17: the act of seeing the sky brighten.
+- `[3:+io]`: refers to Dante.
+- `{4:Bëatrice}`: refers to Beatrice.
+- `{5:Cristo}`: refers to Christ.
+- `[6:+ella]`: refers to Beatrice.
+
+## Scene 25-33: The Vision of the Sun
+In this scene, Dante describes a blindingly beautiful celestial vision. He begins with a simile, comparing the sight to a clear full-moon night where the goddess Trivia (Diana) smiles among her eternal nymphs, who adorn the sky. Transitioning from the simile to reality, Dante describes seeing a single, overarching "sun" that illuminates thousands of other lights (the souls of the blessed), similar to how the Earth's sun provides light for our vision. Through this "living light," the "shining substance" (the essence of God) is revealed with such clarity and intensity that Dante's eyes cannot bear the sight.
+
+**Tag Resolutions:**
+
+- `{1:Trivïa}`: The goddess Diana (the moon goddess).
+- `{2:le ninfe etterne}`: The eternal nymphs (Diana's attendants).
+- `[3:i']`: Dante.
+- `{4:la viva luce}`: The Divine Light (God's light).
+- `{5:la lucente sustanza}`: God (the Divine Essence/Substance).
+- `[6:la]`: God (the Divine Essence/Substance referred to in tag 5).
+
+## Scene 34-39: The Source of Virtue
+In this scene, Dante addresses Beatrice with affection, calling her his "sweet guide and dear." Beatrice then speaks to him to explain the blinding light he is experiencing. She tells him that the force overwhelming him is the divine "virtù" (power/energy) from which nothing can shield itself. She further explains that this is the source of the wisdom and power that created the paths between heaven and earth, accounting for the vast distance that exists between the celestial and the terrestrial realms.
+
+**Tag Resolutions:**
+- `{1:Bëatrice}`: Beatrice
+- `{2:dolce guida e cara}`: Beatrice
+- `[3:Ella]`: Beatrice
+- `[4:mi]`: Dante
+- `[5:ti]`: Dante
+
+## Scene 40-48: Expansion of the Mind
+In this scene, Dante describes the psychological and spiritual effect of the blinding Divine Light he has just witnessed. He uses a simile comparing his mind to a cloud bursting open with fire (like lightning), expanding so much that it cannot be contained and falls "outside its nature." Dante's mind, expanded by the divine revelations, essentially transcends its own boundaries; he is so overwhelmed by the experience that he enters a state of ecstasy where he momentarily loses awareness of everything else, including the presence of Beatrice.
+
+Beatrice then speaks to him, calling him back to awareness. She tells him to open his eyes and look at her. She explains that because he has witnessed such powerful divine truths, his capacity for vision and endurance has increased, meaning he is now strong enough to withstand the radiance of her smile/laughter (which, in Dante's theology, represents a mixture of divine joy and corrective grace).
+
+**Tag Resolutions:**
+- `[1:sé]`: Dante's mind (or Dante himself)
+- `[2:si]`: Dante's mind (or Dante himself)
+- `[3:+ella]`: Beatrice
+- `[4:+tu]`: Dante
+- `[5:+tu]`: Dante
+- `[6:io]`: Beatrice
+- `[7:tu]`: Dante
+- `[8:+tu]`: Dante
+- `[9:se']`: Dante
+
+## Scene 49-63: The Limit of Language
+In this scene, Dante reflects on the inadequacy of human language to describe the divine experience he is having. He begins with a simile, comparing his state of mind to that of someone who knows they have forgotten a vision and tries in vain to bring it back to mind. He then reflects on the "offer" Beatrice made to him (the invitation to look upon her radiance), noting that it is worthy of a gratitude that should be recorded eternally in the books of history.
+
+Dante then admits a fundamental limitation of his poetry: even if Polymnia (the Muse of sacred poetry) and all her sister Muses were to assist him in his songwriting, their combined efforts would not reach even a thousandth of the truth of Beatrice's "holy laughter" and the purity of her appearance. Because the experience transcends the capacity of words, Dante concludes that he must simply "leap over" the description in his poem, comparing this narrative omission to a traveler who must find a detour when their path is cut off.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `[2:quei]`: a generic person/hypothetical "one" (used in a simile)
+- `[3:si]`: the same generic person/hypothetical "one" (`[2]`)
+- `[4:s']`: the same generic person/hypothetical "one" (`[2]`)
+- `[5:io]`: Dante
+- `[6:si]`: the "grato" (gratitude/thankfulness) mentioned in line 52; it is not a person, but the feeling of gratitude that "never fades."
+- `{7:Polimnïa}`: Polymnia (the Muse of sacred poetry)
+- `{8:le suore}`: the other Muses (Polymnia's sisters)
+- `[9:si]`: a generic "one" (or the Muses), who would not arrive at the truth through singing.
+- `[10:chi]`: a generic person/hypothetical "one" (used in a simile)
+
+## Scene 64-69: The Weight of the Subject
+In this scene, Dante continues his reflection on the impossibility of accurately describing Beatrice's divine radiance and laughter. He argues that the subject matter is so "weighty" (overwhelming) that any mortal attempt to carry it is bound to result in instability. 
+
+He posits a hypothetical: if an observer were to consider how heavy this theme is and how a mortal shoulder (referring to himself) is tasked with bearing it, that observer would not blame the poet for trembling under the pressure. He concludes with a nautical simile, stating that a small boat is no match for a bold, cutting prow, nor is a cautious pilot (who "spares himself" or acts with extreme caution) a match for the scale of the journey he is attempting. In essence, he is admitting that his human capacity is too small for the magnitude of the divine truth he is trying to convey.
+
+**Tag Resolutions:**
+
+- `[1:chi]`: a hypothetical observer/reader
+- `[2:se]`: Dante (the mortal poet)
+- `[3:+ei]`: the hypothetical observer/reader (the same person as `[1]`)
+- `[4:+ei]`: Dante (the mortal poet)
+- `{5:nocchier}`: a pilot (representing Dante in the simile)
+- `[6:sé]`: the pilot (Dante)
+
+## Scene 70-75: The Call to the Rose
+In this scene, Beatrice speaks to Dante, gently correcting his focus. Dante has been so mesmerized by her beauty and radiance (as established in the previous scenes) that he is neglecting to look toward the ultimate destination of their journey. Beatrice asks him why he is so enamored with her face that he fails to turn his gaze toward the "beautiful garden" (the White Rose of the blessed). She explains that this garden is where the Divine Word became flesh, referring to the Incarnation of Christ, and mentions the "lilies" (symbols of purity and the Virgin Mary) whose scent initiated the path of salvation for mankind.
+
+**Tag Resolutions:**
+- `[1:t']`: refers to Dante (the "you" who is enamored by Beatrice's face).
+- `[2:tu]`: refers to Dante (the "you" who is not turning his gaze).
+- `[3:ti]`: refers to Dante (the reflexive "yourself" who is not turning).
+- `{4:Cristo}`: refers to Christ.
+- `{5:l verbo divino}`: refers to Christ (The Divine Word/Logos).
+- `[6:si]`: refers to Christ (The Divine Word who made *itself* flesh).
+
+## Scene 76-78: Focusing the Gaze
+In this short scene, Beatrice has just finished her exhortation for Dante to stop staring at her face and instead look toward the White Rose (the goal of their journey). Dante reflects on his reaction: although he is completely obedient and ready to follow her advice, he is still struggling with the "battle of the weak eyelashes." This is a poetic description of the blinking and trembling of his eyes as he struggles to maintain his gaze against the blinding, divine radiance of Beatrice and the heavens.
+
+**Tag Resolutions:**
+- `{1:Beatrice}`: Beatrice
+- `[2:io]`: Dante
+- `[3:mi]`: Dante
+
+## Scene 79-84: The Burst of Light
+In this scene, Dante describes the visual experience of seeing the Empyrean's light. He begins with a nature simile: he compares the experience to seeing a pure beam of sunlight pierce through a break in the clouds to illuminate a flowery meadow, while his eyes were still shaded. 
+
+Moving from the simile to the reality of the vision, Dante describes seeing vast "multitudes of splendors" (the souls of the blessed) being struck from above by burning rays of light. However, he notes a key limitation: while he sees the effect of the light (the flashing of the souls), he cannot see the actual source (the "principle") from which these bolts of light originate. This emphasizes that the Divine Light is still too intense for his human eyes to behold directly.
+
+**Tag Resolutions:**
+- `[1:+io]`: refers to Dante.
+- `[2:io]`: refers to Dante.
+
+## Scene 85-96: The Crown of Light
+In this scene, Dante addresses the Divine Power that enables the blessed souls to radiate light. He acknowledges that this "benign virtue" has lifted him up and granted him the capacity to see, as his own human eyes were not powerful enough to withstand the divine radiance. 
+
+Dante describes how the name of the "beautiful flower" (the White Rose of Paradise, which also symbolizes the Virgin Mary) focuses his attention on the "greater fire" (God). Under this divine influence, Dante's eyes are "painted" with a vision of "the living star" (the Virgin Mary), who is described as conquering both in heaven and on earth. Finally, Dante sees a celestial torch, shaped like a crown, descend through the heavens and encircle the Virgin Mary.
+
+**Tag Resolutions:**
+
+- `{1:benigna vertù}`: The Benign Virtue / Divine Power.
+- `[2:li]`: The blessed souls (the "multitudes of splendors" mentioned in the previous scene).
+- `[3:+tu]`: The Benign Virtue.
+- `[4:t']`: The Benign Virtue.
+- `[5:t']`: The Benign Virtue (referring to the eyes' inability to withstand *it*).
+- `{6:bel fior}`: The Beautiful Flower (The White Rose of Paradise/the Virgin Mary).
+- `[7:io]`: Dante.
+- `[8:mi]`: Dante.
+- `[9:mi]`: Dante.
+- `[10:+lui]`: The Divine Power / God (the agent who allows Dante to see the vision).
+- `{11:la viva stella}`: The living star (the Virgin Mary).
+- `[12:+ella]`: The living star (the Virgin Mary).
+- `{13:una facella}`: A torch (a ring of celestial light).
+- `[14:+ella]`: The torch.
+- `[15:+ella]`: The torch.
+- `[16:ella]`: The living star (the Virgin Mary).
+
+## Scene 97-102: The Celestial Lyre
+In this scene, Dante describes the incomparable beauty of the celestial music he is experiencing. He employs a stark contrast between earthly music and the divine music of the Empyrean. He asserts that any melody on Earth, regardless of how sweet it sounds or how strongly it attracts the human soul, would seem like a crashing, thundering storm cloud when compared to the sound of the celestial lyre. This lyre crowns the "beautiful sapphire" of the Empyrean sky, a sky so intensely blue that it defines the very concept of the color sapphire.
+
+**Tag Resolutions:**
+
+- `{1:l'anima}`: The human soul (in a general sense).
+- `[2:+ella]`: The human soul (the soul being drawn toward the melody).
+- `[3:+ella]`: The earthly melody (referring back to the "whatever melody" that sounds sweetest in line 97).
+- `{4:il ciel}`: The sky (specifically the Empyrean heaven).
+- `[5:s']`: The sky (the Empyrean sky, which "sapphire-izes" itself).
+
+## Scene 103-108: The Voice of Angelic Love
+In this scene, a new voice speaks: the personification of **Angelic Love**. This voice explains its nature and its role in the celestial hierarchy. It describes itself as the force that circles the "high joy" emanating from the womb that held the "our desire"—a poetic reference to the Virgin Mary's womb, which held Christ. 
+
+Angelic Love then addresses the Virgin Mary directly ("woman of heaven"), telling her that she will follow her son (Christ) and that her presence will increase the radiance of the highest sphere (the Empyrean) to prepare the way for Christ's entry into that ultimate destination.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Angelic Love (the speaker).
+- `{2:amore angelico}`: Angelic Love.
+- `[3:+io]`: Angelic Love.
+- `{4:donna del ciel}`: The Virgin Mary.
+- `[5:+tu]`: The Virgin Mary.
+- `{6:figlio}`: Christ.
+- `[7:+tu]`: The Virgin Mary.
+- `[8:+lui]`: Christ.
+
+## Scene 109-111: The Chorus of Mary
+In this scene, the singing of Angelic Love comes to a close. As the "circulating melody" concludes, the vast multitude of the blessed souls—represented as "lights"—join together in a collective response, chanting the name of the Virgin Mary.
+
+**Tag Resolutions:**
+- `{1:tutti li altri lumi}`: The blessed souls in the Empyrean.
+- `{2:Maria}`: The Virgin Mary.
+
+## Scene 112-120: The Distant Shore
+In this scene, Dante describes the overwhelming scale and distance of the divine glory he is witnessing. He uses the metaphor of a "royal mantle" (*real manto*) to describe the encompassing grace and glory of the Virgin Mary, which covers all the knowledge and experiences of the world (the "volumes of the world"). This mantle is animated and energized by the breath of God.
+
+Dante explains that this divine presence is so far "above" humanity (the "inner shore") that, from his current position, the full appearance of this glory is not yet visible to him. Consequently, his eyes lack the power to track the "crowned flame" (the ring of light/torch mentioned in previous scenes) as it ascends toward its "seed" (its divine source).
+
+**Tag Resolutions:**
+
+- `[1:+ella]`: refers to the "royal mantle" (the encompassing glory/grace of the Virgin Mary).
+- `{2:Dio}`: refers to God.
+- `[3:+ella]`: refers to the "royal mantle" (the glory/grace of the Virgin Mary).
+- `[4:noi]`: refers to humans/mankind.
+- `[5:io]`: refers to Dante.
+- `[6:+ella]`: refers to the "royal mantle" (the glory/grace of the Virgin Mary).
+- `{7:la coronata fiamma}`: refers to the crowned flame (the celestial torch/ring of light).
+- `[8:si]`: refers to the crowned flame (the celestial torch/ring of light).
+
+## Scene 121-129: The Simile of the Infants
+In this scene, Dante describes the reaction of the blessed souls to the presence of the Virgin Mary. He employs a tender simile, comparing the souls to infants who, after being fed, reach out their arms toward their mother, driven by an inner flame of love. Just as the children reach for their mother, the "whitenesses" (the radiant souls of the blessed) stretch themselves upward. This movement reveals to Dante the profound love and affection these souls hold for the Virgin Mary. The souls remain before Dante, singing the words "Queen of Heaven" with such sweetness that Dante is left in a state of enduring delight.
+
+**Tag Resolutions:**
+
+- `{1:fantolin}`: a little child (used in the simile)
+- `{2:la mamma}`: the mother (used in the simile, corresponding to the Virgin Mary)
+- `[3:+ei]`: the little child (`{1}`)
+- `{4:l'animo}`: the spirit/soul of the little child (`{1}`)
+- `[5:s']`: the little child (`{1}`)
+- `{6:quei candori}`: the blessed souls (described as "whitenesses" or bright lights)
+- `[7:si]`: each of the blessed souls (`{6}`)
+- `[8:elli]`: the blessed souls (`{6}`)
+- `{9:Maria}`: the Virgin Mary
+- `[10:mi]`: Dante
+- `[11:+elli]`: the blessed souls (`{6}`)
+- `{12:Regina celi}`: the Virgin Mary (addressed as "Queen of Heaven")
+- `[13:me]`: Dante
+
+## Scene 130-139: The Triumph of the Saints
+In this scene, Dante contemplates the immense spiritual abundance and grace residing within the "rich vessels" (*arche ricchissime*)—the saints and prophets who lived on Earth and "sowed" goodness. 
+
+He specifically references the Babylonian exile, noting that those who wept and relinquished their earthly gold in Babylon now live and enjoy their spiritual treasures in the Empyrean. He describes these souls triumphing under the authority of Christ (the Son of God and Mary). He mentions the unity of the "ancient and new council" (the prophets of the Old Testament and the apostles of the New Testament), and specifically identifies the figure who holds the "keys of glory," a clear reference to Saint Peter.
+
+**Tag Resolutions:**
+
+- `[1:si]`: refers to the blessed souls/saints (specifically those who suffered in Babylon, used here in an impersonal/reflexive construction "one lives").
+- `[2:+elli]`: refers to the blessed souls/saints (the "rich vessels" who enjoy the treasure).
+- `[3:+elli]`: refers to the blessed souls/saints.
+- `{4:l'alto Filio}`: Christ.
+- `{5:Dio}`: God.
+- `{6:Maria}`: the Virgin Mary.
+- `[7:colui]`: Saint Peter (the one who holds the keys to the kingdom of heaven).
+
+# recap
+- Dante and Beatrice are together in the Empyrean.
+- They are observing the radiant assembly of the blessed souls (the White Rose) and the glory of the Virgin Mary.
+- Dante has just witnessed the triumph of the saints and the figure of Saint Peter holding the keys of glory.

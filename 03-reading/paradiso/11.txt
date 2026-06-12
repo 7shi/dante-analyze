@@ -1,0 +1,366 @@
+# Canto 11 — Beatrice Explains the Divine Providence and the Life of St. Francis
+
+## Scene 1-9: The Vanity of Earthly Pursuits
+In this scene, Beatrice is speaking to Dante. She begins a passionate critique of the "senseless care" (the misplaced priorities and anxiety) of humanity. She argues that human beings are often led astray by faulty logic (defective syllogisms) that keeps their souls from ascending toward God, effectively making them "beat their wings low" instead of flying high. To illustrate this, she lists various earthly pursuits—law, medicine, the priesthood, political power, crime, commerce, lust, and sloth—as distractions that waste a human life.
+
+Here is the resolution of the numbered tags:
+
+*   `{1:mortali}`: The mortals (human beings in general).
+*   `[2:quei]`: The defective syllogisms (the faulty logical reasonings mentioned in line 2).
+*   `[3:ti]`: Dante.
+*   `[4:Chi]`: A mortal (specifically one who pursues the law).
+*   `[5:chi]`: A mortal (specifically one who pursues medical aphorisms/formulas).
+*   `[6:chi]`: A mortal (specifically one who pursues the priesthood).
+*   `[7:chi]`: A mortal (specifically one who seeks to rule by force or sophistry).
+*   `[8:chi]`: A mortal (specifically one who steals).
+*   `[9:chi]`: A mortal (specifically one who pursues civil business/commerce).
+*   `[10:chi]`: A mortal (specifically one absorbed in carnal pleasure).
+*   `[11:s']`: A mortal (referring back to the person described in tag [10]).
+*   `[12:chi]`: A mortal (specifically one who gives themselves to idleness).
+*   `[13:si]`: A mortal (referring back to the person described in tag [12]).
+
+## Scene 10-12: Memory of Celestial Glory
+In this brief passage, the narrative voice shifts from Beatrice’s lecture back to the narrator, Dante. After Beatrice has spent the previous lines listing the various ways humans waste their lives on earthly distractions, Dante reflects on his own liberation from those same distractions. He recalls the moment he ascended to heaven accompanied by Beatrice and the glorious welcome he received upon his arrival.
+
+**Who is speaking:** Dante (the narrator).
+
+**Who does what:** Dante is recalling his ascent into the celestial spheres with Beatrice and his subsequent reception in heaven.
+
+**Tag Resolution:**
+*   `{1:Bëatrice}`: Beatrice.
+*   `[2:+io]`: Dante.
+*   `[3:m']`: Dante.
+
+## Scene 13-27: Beatrice's Clarification
+**Analysis of the Scene**
+
+In this scene, the action transitions from Beatrice's lecture back to the interaction between Dante and the luminous souls of the Fourth Heaven. The rotating choir of the Wise has completed its movement, and each soul returns to its original place in the circle. Thomas Aquinas (the "light" who spoke in the previous canto) begins to speak to Dante again.
+
+Thomas explains how divine illumination works: because he reflects the light of God, and because he gazes into the eternal light (God), he is able to perceive the reasons and causes behind Dante's current thoughts. Thomas notices that Dante is experiencing doubt and desires a clearer explanation of some things Thomas said previously (specifically referring back to his speech in Canto 10). He mentions two specific phrases—one about those who "grow fat" (profit) from their professions and another about a figure for whom there was "no second" (no equal)—and indicates that he will now clarify these points.
+
+**Who is speaking:** Thomas Aquinas is speaking to Dante.
+
+**Tag Resolution:**
+
+*   `[1:s']`: each soul (referring to `ciascuno` in the choir).
+*   `[2:+elli]`: the souls of the choir.
+*   `[3:io]`: Dante.
+*   `{4:lumera}`: Thomas Aquinas.
+*   `[5:m']`: Dante.
+*   `[6:io]`: Thomas Aquinas.
+*   `[7:+io]`: Thomas Aquinas.
+*   `[8:Tu]`: Dante.
+*   `[9:+tu]`: Dante.
+*   `[10:+io]`: Thomas Aquinas.
+*   `[11:+io]`: Thomas Aquinas.
+*   `{12:il secondo}`: the second (referring to a second person who would be equal to the great soul Thomas was discussing).
+
+## Scene 28-36: The Divine Plan for the Virgin
+**Analysis of the Scene**
+
+In this passage, Thomas Aquinas continues his explanation to Dante. He shifts from the general operation of divine illumination to a specific example of Divine Providence in action. He describes how Providence—the governing will of God—meticulously arranges the destiny of all created things. Specifically, he explains that for the Virgin Mary (the "bride" of Christ), Providence ordained two "princes" (spiritual guides/angels) to assist and protect her on her path toward her beloved (God/Christ). This highlights the theme that no soul, especially one as holy as Mary's, is left without the necessary divine guidance to reach its ultimate destination.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is explaining the mechanism of Divine Providence, specifically how it provided the Virgin Mary with two celestial guides to ensure her journey toward God.
+
+**Tag Resolution:**
+
+*   `{1:La provedenza}`: Divine Providence (the will/wisdom of God).
+*   `[2:+ella]`: The Virgin Mary.
+*   `{3:lo suo diletto}`: God/Christ (Mary's beloved).
+*   `{4:la sposa}`: The Virgin Mary (the bride of Christ).
+*   `[5:colui]`: God/Christ.
+*   `[6:lei]`: The Virgin Mary.
+*   `[7:sé]`: The Virgin Mary.
+*   `[8:lui]`: God/Christ.
+*   `{9:due principi}`: Two princes (the spiritual guides/angels appointed to help Mary).
+*   `[10:+ella]`: Divine Providence.
+*   `[11:le]`: The Virgin Mary.
+*   `{12:guida}`: The guides (referring to the "two princes").
+
+## Scene 37-42: The Two Celestial Guides
+In this scene, Thomas Aquinas continues his explanation of Divine Providence by detailing the nature of the two celestial guides ("princes") assigned to the Virgin Mary. 
+
+He describes the first guide as "seraphic" (associated with the Seraphim, the highest order of angels, characterized by burning love/fire) and the second as "cherubic" (associated with the Cherubim, characterized by divine wisdom and light). Thomas informs Dante that he will focus his explanation on the first guide. He notes that while people might praise one guide over the other depending on which one they "take" (likely a subtle nod to Dante's own experience with his two guides, Virgil and Beatrice), both guides were working toward the same singular divine purpose.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is defining the characteristics of Mary's two guides (one of love, one of wisdom) and explaining that their differing natures do not matter because their goal was identical.
+
+**Tag Resolution:**
+
+*   `[1:un]`: The first prince/guide (the seraphic one).
+*   `[2:altro]`: The second prince/guide (the cherubic one).
+*   `[3:un]`: The first prince/guide (the seraphic one).
+*   `[4:+io]`: Thomas Aquinas.
+*   `[5:amendue]`: The two princes/guides.
+*   `[6:un]`: The guide (the one that is chosen or taken).
+*   `[7:om]`: A man/person (used generically here to refer to anyone who is guided, implying a parallel to Dante).
+
+## Scene 43-54: Geography of the Rising Sun
+**Analysis of the Scene**
+
+In this scene, Thomas Aquinas continues his explanation to Dante. Having mentioned a "seraphic" guide in the previous scene, he now describes the physical location where this guide was born. He provides a detailed geographical description of the Umbrian landscape: the area between the Tupino river and the waters flowing from the hill associated with Blessed Ubaldo, near the city of Perugia and the towns of Nocera and Gualdo.
+
+Thomas reveals that from this specific location ("where the slope breaks its straightness"), a "sun" was born into the world. This is a poetic metaphor for St. Francis of Assisi. Thomas compares the birth of St. Francis to the rising of the actual sun over the Ganges river. He concludes by suggesting that anyone speaking of this place should call it "Oriente" (the East/the Rising Sun) rather than "Ascesi," because the spiritual light that emerged from there makes it the true East of the world.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is describing the birthplace of St. Francis of Assisi, using a geographical description of Umbria to lead up to the revelation that St. Francis is the "seraphic" guide he previously mentioned.
+
+**Tag Resolution:**
+
+*   `{1:beato Ubaldo}`: Blessed Ubaldo (Ubaldo Baldassarre, the Bishop of Perugia).
+*   `{2:un sole}`: St. Francis of Assisi (metaphorically called a "sun").
+*   `[3:chi]`: anyone/whoever (a generic person who speaks of the place).
+*   `[4:+ei]`: anyone/whoever (referring back to tag [3]).
+*   `[5:+ei]`: anyone/whoever (referring back to tag [3]).
+*   `[6:+ei]`: anyone/whoever (referring back to tag [3]).
+
+## Scene 55-63: The Virgin's Early Life
+**Analysis of the Scene**
+
+In this scene, Thomas Aquinas continues his description of the "seraphic guide," St. Francis of Assisi. He describes Francis's spiritual trajectory, emphasizing that even as a youth, Francis's virtue began to bring comfort to the world. 
+
+Thomas explains the catalyst for this transformation: Francis's devotion to the Virgin Mary ("such a woman"). This love for Mary acted as a bridge, driving the "young man" (Francis) to pursue God the Father. In this pursuit, Francis renounced earthly pleasures—a process Thomas compares to death, in that the "gate of pleasure" is closed forever once one turns toward the divine. Ultimately, Thomas describes a mystical union: in the presence of God the Father, Francis became spiritually united with the Virgin Mary. This celestial bond grew stronger as time passed, illustrating how the guide's love for the "bride" (Mary) was inextricably linked to his love for the "beloved" (God).
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is describing the early spiritual life of St. Francis, explaining how his love for the Virgin Mary led him to God and resulted in a mystical union between him and Mary in the divine presence.
+
+**Tag Resolution:**
+
+*   `[1:+lui]`: St. Francis of Assisi.
+*   `[2:el]`: St. Francis of Assisi.
+*   `{3:la terra}`: The earth (the world/humanity).
+*   `{4:tal donna}`: The Virgin Mary.
+*   `{5:giovinetto}`: St. Francis of Assisi (referring to him as a youth).
+*   `[6:+lui]`: St. Francis of Assisi.
+*   `{7:del padre}`: God the Father.
+*   `{8:la morte}`: Death (used as a metaphor for the end of earthly pleasure).
+*   `{9:patre}`: God the Father.
+*   `[10:+lui]`: St. Francis of Assisi.
+*   `[11:le]`: The Virgin Mary.
+*   `[12:si]`: St. Francis of Assisi (referring to the act of uniting himself).
+*   `[13:+lui]`: St. Francis of Assisi.
+*   `[14:l']`: The Virgin Mary.
+
+## Scene 64-72: The Sorrow of the Virgin
+**Analysis of the Scene**
+
+In this scene, Thomas Aquinas continues his discourse on the spiritual relationship between the Virgin Mary and St. Francis. He describes a period of immense spiritual longing and sorrow experienced by Mary. He explains that for over 1,100 years (the time between the Ascension of Christ and the life of St. Francis), Mary was "deprived" of her "first husband" (Christ, in the mystical sense of the Bride and Groom), leaving her in a state of spiritual darkness or longing.
+
+Thomas emphasizes that this state was not altered by the powers of the world. He mentions a figure (Amiclate/the one who made the world fear) to represent the peak of earthly power and ferocity. He argues that neither the terrifying presence nor the strength of such worldly figures had any influence on her; her only focus remained her divine love and the grief of the crucifixion. He concludes with the image of Mary remaining "below" (at the foot of the cross) while weeping with Christ, illustrating the depths of her devotion and sorrow before the "seraphic" comfort of St. Francis eventually arrived.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is explaining the long interval of mourning and spiritual isolation Mary experienced, contrasting the uselessness of worldly power (represented by the "fearful" figure/Amiclate) with the eventually redeeming spiritual guidance provided by St. Francis.
+
+**Tag Resolution:**
+
+*   `[1:Questa]`: The Virgin Mary.
+*   `{2:del primo marito}`: Christ (the divine husband/spouse of Mary).
+*   `[3:costui]`: St. Francis of Assisi.
+*   `[4:+ella]`: The Virgin Mary.
+*   `[5:si]`: The Virgin Mary.
+*   `[6:+ei]`: The person who made the world fear (a figure representing worldly power/conquest).
+*   `[7:la]`: The Virgin Mary.
+*   `{8:Amiclate}`: Amiclate (a figure representing worldly power/strength).
+*   `[9:colui]`: The person who made the world fear.
+*   `[10:ch']`: The person who made the world fear.
+*   `{11:Maria}`: The Virgin Mary.
+*   `[12:ella]`: The Virgin Mary.
+*   `{13:Cristo}`: Christ.
+
+## Scene 73-78: The Introduction of Francis and Poverty
+**Analysis of the Scene**
+
+In this brief transition, Thomas Aquinas is mindful of his delivery. He wants to ensure that his explanation is not too obscure or "closed" (compressed), so he explicitly introduces two figures into his narrative: St. Francis and Poverty (represented here as a personified entity). He tells Dante to envision these two as "lovers," referring to the mystical, spiritual marriage between St. Francis and the virtue of Poverty. Thomas explains that the harmony, joy, and mutual love shared between Francis and Poverty serve as a catalyst for "holy thoughts" (spiritual inspiration) for those who contemplate their union.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is instructing Dante to incorporate the figures of St. Francis and Poverty into the narrative, explaining that their spiritual union is a source of divine inspiration.
+
+**Tag Resolution:**
+
+*   `[1:io]`: Thomas Aquinas.
+*   `{2:Francesco}`: St. Francis of Assisi.
+*   `{3:Povertà}`: Poverty (personified).
+*   `{4:questi amanti}`: St. Francis and Poverty (described as lovers in a mystical sense).
+*   `[5:+tu]`: Dante.
+*   `[6:+elli]`: St. Francis and Poverty.
+
+## Scene 79-84: The Joy of the Saints
+**Analysis of the Scene**
+
+In this scene, Thomas Aquinas continues his description of the spiritual influence of St. Francis and his mystical union with Poverty. He explains that the example set by Francis and Poverty was so powerful that it inspired other great saints to renounce their earthly possessions and pursue a life of apostolic poverty. 
+
+Thomas first mentions St. Bernard of Clairvaux, who is so moved by this "peace" (the harmony of the union) that he "barefooted himself" (a metaphor for renouncing wealth and status) and ran toward this ideal with such urgency that he felt he was moving too slowly. This "unknown richness" refers to the spiritual wealth found in material poverty. Following Bernard's lead, other saints like Egidio (St. Giles) and Silvestro (St. Sylvester) also renounce their possessions, following the "groom" (St. Francis), as the "bride" (Poverty) is seen as a desirable and pleasing goal.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is illustrating the "ripple effect" of St. Francis's life, describing how Bernard, Giles, and Sylvester were inspired to pursue the virtue of Poverty.
+
+**Tag Resolution:**
+
+*   `{1:l venerabile Bernardo}`: St. Bernard of Clairvaux.
+*   `[2:+ei]`: St. Bernard of Clairvaux.
+*   `[3:si]`: St. Bernard of Clairvaux (referring to the act of barefooting himself).
+*   `[4:+ei]`: St. Bernard of Clairvaux.
+*   `[5:+ei]`: St. Bernard of Clairvaux.
+*   `[6:li]`: St. Bernard of Clairvaux (meaning "to himself"; he felt he was being too slow).
+*   `{7:Egidio}`: St. Giles.
+*   `{8:Silvestro}`: St. Sylvester.
+*   `{9:lo sposo}`: St. Francis of Assisi (the "groom" in the marriage to Poverty).
+*   `{10:la sposa}`: Poverty (the "bride" in the marriage to Francis).
+
+## Scene 85-93: Francis's Early Mission and Recognition
+In this scene, Thomas Aquinas continues his narrative of the life of St. Francis, moving from Francis's inner mystical union with Poverty to the external establishment of his religious order.
+
+**Analysis of the Scene**
+
+Thomas describes Francis setting out as a spiritual leader ("father" and "teacher"). He is accompanied by his mystical bride, Poverty, and by the early community of friars—the "family" bound by the characteristic humble rope (the *capestro*). Thomas notes that Francis felt no shame or hesitation, despite the social stigma or the opposition of his biological father, Pietro Bernardone. With a sense of spiritual dignity ("regalmente"), Francis presented his vision to Pope Innocent III and obtained the official papal approval (the "first seal") for the Franciscan Order.
+
+**Who is speaking:** Thomas Aquinas is speaking to Dante.
+
+**Who does what:** Thomas is narrating how St. Francis, supported by Poverty and his followers, approached Pope Innocent III and successfully secured the official recognition of his religious order.
+
+**Tag Resolution:**
+
+*   `{1:quel padre}`: St. Francis of Assisi.
+*   `{2:quel maestro}`: St. Francis of Assisi.
+*   `{3:la sua donna}`: Poverty (personified).
+*   `{4:quella famiglia}`: The early Franciscan friars (the Order of Friars Minor).
+*   `[5:li]`: St. Francis of Assisi.
+*   `{6:fi'}`: St. Francis of Assisi (the son).
+*   `{7:Pietro Bernardone}`: Pietro Bernardone (St. Francis's father).
+*   `{8:Innocenzio}`: Pope Innocent III.
+*   `[9:lui]`: Pope Innocent III.
+*   `[10:+ei]`: St. Francis of Assisi.
+
+## Scene 94-99: The Growth of the Order
+**Analysis of the Scene**
+
+In this passage, Thomas Aquinas continues his narrative of the life of St. Francis. He describes the expansion of the Franciscan Order, noting that the community of "poor people" grew as they followed Francis. Thomas remarks that Francis's life was so extraordinary that its full praise is better sung in the glory of heaven than on earth. He then explains that the "holy will" (the mission and rule) of Francis—whom he calls the "archimandrite"—received a second official confirmation (a "second crown") through Pope Honorius III, a process directed by the Eternal Spirit (the Holy Spirit).
+
+**Who is speaking:** Thomas Aquinas is speaking to Dante.
+
+**Who does what:** Thomas is describing the growth of the Franciscan Order and the second papal approval granted to St. Francis's mission by Pope Honorius III, under the guidance of the Holy Spirit.
+
+**Tag Resolution:**
+
+*   `{1:la gente poverella}`: The Franciscan friars (the Order of Friars Minor).
+*   `[2:costui]`: St. Francis of Assisi.
+*   `{3:Onorio}`: Pope Honorius III.
+*   `{4:Etterno Spiro}`: The Eternal Spirit (the Holy Spirit).
+*   `{5:esto archimandrita}`: St. Francis of Assisi (referred to here by the title "archimandrite," meaning the head of a monastery or spiritual community).
+
+## Scene 100-108: The Martyrdom of Francis
+In this scene, Thomas Aquinas continues his biography of St. Francis of Assisi, focusing on his later years and his pursuit of martyrdom.
+
+**Analysis of the Scene**
+Thomas describes Francis's "thirst for martyrdom," which led him to travel to the East. There, in the presence of the Sultan, Francis preached the Gospel of Christ and the values of the Franciscan order to the Sultan and his court. However, he found that the people were "unripe" (resistant or unreceptive) to conversion. Not wishing to remain there in vain, Francis returned to Italy (the "fruit of the Italian herb"). He eventually retired to a rocky area between the Tiber and Arno rivers, where he received from Christ the "last seal"—the stigmata (the wounds of Christ). Thomas notes that Francis bore these physical marks on his body for two years until his death.
+
+**Who is speaking:** Thomas Aquinas is speaking to Dante.
+
+**Who does what:** Thomas is narrating the final spiritual arc of St. Francis: his mission to the Sultan, his return to Italy, and his reception of the stigmata.
+
+**Tag Resolution:**
+
+*   `{1:del Soldan}`: The Sultan (the ruler of Egypt/the East whom Francis visited).
+*   `{2:Cristo}`: Christ.
+*   `{3:li altri}`: The other friars/companions accompanying Francis.
+*   `[4:'l]`: St. Francis of Assisi (the one the others followed).
+*   `{5:la gente}`: The people (specifically the Sultan's court and the people Francis attempted to convert).
+*   `[6:+io]`: St. Francis of Assisi (the one who returned to Italy).
+*   `{7:Cristo}`: Christ.
+*   `[8:+io]`: St. Francis of Assisi (the one who received the "last seal").
+
+## Scene 109-117: Francis's Final Testament
+**Analysis of the Scene**
+
+In this final part of the biographical sketch, Thomas Aquinas describes the death of St. Francis of Assisi. He explains that when God decided it was time for Francis to ascend to heaven—a reward he earned through his humility and his choice to make himself "small" (poor)—Francis left a final testament to his followers. 
+
+Francis recommends "his most dear lady" (the personified virtue of Poverty) to his friars, commanding them to remain faithful to her. Thomas then describes the departure of this personified virtue: as Francis dies, the "illustrious soul" of Poverty leaves the embrace of his body to return to her own realm. However, in a final act of mystical union, Poverty remains as the only "bier" (coffin/resting place) for Francis's body, signifying that he died in complete and absolute poverty.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is narrating the death of St. Francis, his final command to his friars to love Poverty, and the mystical departure of the personified Poverty from his body.
+
+**Tag Resolution:**
+
+*   `[1:colui]`: St. Francis of Assisi.
+*   `[2:trarlo]`: St. Francis of Assisi.
+*   `[3:el]`: St. Francis of Assisi.
+*   `{4:a' frati suoi}`: The Franciscan friars.
+*   `{5:giuste rede}`: The Franciscan friars (as the "just heirs" of Francis's spiritual legacy).
+*   `[6:+elli]`: The Franciscan friars.
+*   `{7:la donna sua più cara}`: Poverty (personified).
+*   `[8:+elli]`: The Franciscan friars.
+*   `[9:+elli]`: The Franciscan friars.
+*   `[10:l']`: Poverty (personified).
+*   `{11:l'anima preclara}`: Poverty (personified as an "illustrious soul").
+*   `[12:+ella]`: Poverty.
+*   `[13:si]`: Poverty.
+*   `[14:+ella]`: Poverty.
+
+## Scene 118-123: The Pattern of the True Shepherd
+**Analysis of the Scene**
+
+In this short passage, Thomas Aquinas continues his discussion of the "Seraphic" guides of the Church. Having just detailed the life of St. Francis, Thomas now directs Dante's attention to another crucial figure: St. Bonaventure. 
+
+Thomas uses a nautical metaphor, describing the Church as a "boat" (the "boat of Peter") navigating the "high seas" of the world. He identifies this new figure as a "colleague" who was worthy of helping St. Peter maintain the correct course of the Church. He explicitly identifies this person as "our patriarch" (referring to St. Bonaventure, the Seraphic Doctor and a leader of the Franciscan Order). Thomas concludes by telling Dante that anyone who follows Bonaventure's teachings and commands will be able to perceive that they are loading their own spiritual "ship" with "good merchandise" (divine grace and virtue).
+
+**Who is speaking:** Thomas Aquinas is speaking to Dante.
+
+**Who does what:** Thomas is introducing St. Bonaventure, praising his role in guiding the Church and urging Dante to recognize the spiritual value of following Bonaventure's guidance.
+
+**Tag Resolution:**
+
+*   `[1:+tu]`: Dante.
+*   `[2:colui]`: St. Bonaventure.
+*   `{3:collega}`: St. Bonaventure (as a colleague/successor in the spiritual mission of St. Peter).
+*   `{4:Pietro}`: St. Peter.
+*   `[5:questo]`: St. Bonaventure.
+*   `{6:il nostro patrïarca}`: St. Bonaventure.
+*   `[7:lui]`: St. Bonaventure.
+*   `[8:el]`: St. Bonaventure.
+*   `[9:+tu]`: Dante.
+*   `[10:+elli]`: Those who follow him (the followers of St. Bonaventure).
+
+## Scene 124-132: The Wandering Sheep
+In this scene, Thomas Aquinas continues his discourse on the influence of St. Bonaventure. He uses an extended pastoral metaphor to describe the relationship between Bonaventure and his followers (the Franciscan friars and the faithful).
+
+Thomas explains that the "flock" (the followers) is eager for the "new food" (spiritual teachings) provided by Bonaventure. Because of this eagerness, some of the "sheep" wander far away or take erratic leaps, but they eventually return to the "fold" because the spiritual nourishment (the "milk") is so abundant. Thomas then observes a specific group of followers: those who are cautious and fear spiritual harm ("the damage"). These followers cling tightly to the shepherd. However, Thomas notes that these truly disciplined and cautious followers are very few—so few that there is hardly enough "cloth" to make the cloaks (the habits) for them.
+
+**Who is speaking:** Thomas Aquinas.
+
+**Who does what:** Thomas is describing the behavior of St. Bonaventure's followers, contrasting those who wander but return with the small minority who remain steadfastly close to their guide.
+
+**Tag Resolution:**
+*   `{1:al pastor}`: St. Bonaventure (the "shepherd" guiding his spiritual flock).
+
+## Scene 133-139: Beatrice's Final Exhortation
+In this final scene of Canto 11, Beatrice addresses Dante to conclude the teaching session provided by Thomas Aquinas. She tells Dante that if he has listened attentively and can recall the details Thomas just explained, he will find his curiosity satisfied. She explains that he now understands the "plant" (the spiritual root/origin) from which the Franciscan Order was derived and can appreciate the role of the "corrector" (St. Bonaventure), who guided the order back to its original purpose. She concludes by quoting a principle attributed to Bonaventure: that a soul is spiritually nourished (fattened) as long as it does not succumb to the delusions of vanity.
+
+**Who is speaking:** Beatrice.
+
+**Who does what:** Beatrice is exhorting Dante to reflect on Thomas Aquinas's words so that he may understand the origins of the Franciscan Order and the guiding wisdom of St. Bonaventure.
+
+**Tag Resolution:**
+
+*   `[1:+tu]`: Dante.
+*   `[2:+tu]`: Dante.
+*   `[3:+ella]`: The Franciscan Order (the "splinter" or branch that comes from the "plant" of St. Francis's original vision/poverty).
+*   `[4:+tu]`: Dante.
+*   `{5:il corrègger}`: St. Bonaventure (the "corrector" and shepherd of the Franciscan Order).
+*   `[6:U']`: A person/a soul (generic "one").
+*   `[7:s']`: A person/a soul (referring back to the generic "one" in tag [6]).
+*   `[8:+ella]`: Vanity (the feminine concept of *vanità*).
+*   `[9:si]`: A person/a soul (referring back to the generic "one" in tag [6]).
+
+# recap
+- Dante and Beatrice remain in the Fourth Heaven (Heaven of the Wise).
+- Thomas Aquinas has just concluded his detailed explanation of the lives of St. Francis and St. Bonaventure.
+- Beatrice concludes the lesson, exhorting Dante to remember these teachings as they prepare to move forward.

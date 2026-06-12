@@ -1,0 +1,237 @@
+# Canto 27 — The Eclipse of Beatrice and the Celestial Motion
+
+## Scene 1-9: The Celestial Hymn
+In this scene, the First Soul initiates a hymn of praise directed toward the Holy Trinity. As the First Soul begins the cry of "glory!", the entire host of Paradise joins in the song. Dante, the narrator, describes the effect of this divine music and the sight of the celestial host as a form of spiritual intoxication. The experience is multisensory, blending the hearing of the song and the sight of the universe's joy, leaving Dante in a state of absolute bliss and peace.
+
+**Tag Resolutions:**
+- {1:Padre}: God the Father
+- {2:Figlio}: God the Son
+- {3:lo Spirito Santo}: The Holy Spirit
+- {4:tutto 'l paradiso}: The collective host of the blessed souls in Paradise
+- [5:m']: Dante
+- [6:io]: Dante
+- [7:mi]: Dante
+
+## Scene 10-27: The Angelic Transformation
+This scene describes a visual and auditory transition in the Empyrean. Dante is observing four lights (flames). The first of these lights—which corresponds to the First Soul—begins to intensify and change in appearance. Dante uses a mythological simile, comparing this shift to how the gods Jove and Mars would look if they were birds changing their feathers.
+
+Divine Providence then imposes a silence upon the celestial choir. In this silence, the First Soul speaks to Dante. The Soul warns Dante not to be amazed by its change in color, explaining that others will also undergo this transformation. The tone then shifts to a grievance: the First Soul condemns someone on Earth who has usurped its "place" and desecrated its resting place (turning a cemetery into a "sewer" of blood and stench). The First Soul concludes by mentioning that the "perverse one" (the fallen Lucifer) is satisfied/appeased by this earthly corruption.
+
+**Tag Resolutions:**
+
+- `[1:quella]`: The first of the four flames (the First Soul)
+- `[2:+ella]`: The first of the four flames (the First Soul)
+- `[3:+ella]`: The first of the four flames (the First Soul)
+- `{4:Iove}`: Jove (Jupiter)
+- `[5:elli]`: Jove (Jupiter)
+- `{6:Marte}`: Mars
+- `[7:+elli]`: Jove and Mars
+- `[8:+elli]`: Jove and Mars
+- `{9:La provedenza}`: Divine Providence (God)
+- `{10:beato coro}`: The collective host of the blessed souls
+- `[11:+ella]`: Divine Providence (God)
+- `[12:ïo]`: Dante
+- `[13:io]`: The First Soul
+- `[14:mi]`: The First Soul
+- `[15:ti]`: Dante
+- `[16:io]`: The First Soul
+- `[17:+tu]`: Dante
+- `[18:costoro]`: The other blessed souls (the choir/apostles)
+- `[19:Quelli]`: The usurper on earth (the person who has stolen the First Soul's place)
+- `{20:del Figliuol di Dio}`: The Son of God (Jesus Christ)
+- `[21:+lui]`: The usurper on earth
+- `{22:l perverso}`: Lucifer (the fallen angel)
+- `[23:+lui]`: Lucifer (the fallen angel)
+- `[24:si]`: Lucifer (the fallen angel)
+
+## Scene 28-36: The Celestial Eclipse
+In this scene, Dante observes a sudden change in the celestial environment and Beatrice's reaction to the First Soul's grievances.
+
+First, Dante describes a visual shift: the entire sky is colored like the clouds at dawn or dusk (the "adverse sun"). Amidst this, Beatrice undergoes a change in her appearance. To describe this, Dante uses a simile: he compares Beatrice to an "honest woman" who is confident in her own virtue, but becomes timid or troubled when she hears of the faults or sins of another. In this context, Beatrice is reacting with sorrow or modesty to the corruption and the "usurper" mentioned by the First Soul in the previous scene. Dante concludes by reflecting that a similar "eclipse" (a darkening or shifting of celestial light) occurred in heaven at the moment of Christ's death.
+
+**Tag Resolutions:**
+- `[1:ïo]`: Dante
+- `{2:donna onesta}`: An honest woman (a generic figure used in a simile)
+- `[3:sé]`: An honest woman
+- `[4:+ella]`: An honest woman
+- `[5:si]`: An honest woman
+- `{6:Beatrice}`: Beatrice
+- `[7:+io]`: Dante
+- `[8:+lui]`: Jesus Christ (the Son of God)
+
+## Scene 37-54: The Critique of the Papacy
+In this scene, the First Soul (who is revealed through these references to be Saint Peter) continues his discourse. His voice has undergone a transformation, and he delivers a scathing critique of the corruption of the Catholic Church. 
+
+The First Soul argues that the Church (the "bride of Christ") was established through the martyrdom and blood of himself and other early popes (Linus, Cletus, and others), not to be used as a means for acquiring wealth. He laments that the office of the papacy—specifically the "keys" given to him—has been perverted into a political tool (a "banner") used to fight against the very people the Church was meant to lead. He expresses deep shame and a sense of failure that his role as the foundational "seal" of the Church has been used to validate the sale of false privileges (simony).
+
+**Tag Resolutions:**
+
+- `[1:sé]`: The First Soul (Saint Peter)
+- `{2:la sposa di {Cristo}}`: The Church
+- `{3:Lin}`: Linus (the second Pope)
+- `{4:Cleto}`: Cletus (the third Pope)
+- `{5:Sisto}`: Pope Sixtus
+- `{6:Pïo}`: Pope Pius
+- `{7:Calisto}`: Pope Callixtus
+- `{8:Urbano}`: Pope Urban
+- `{9:i nostri successor}`: The successors of the First Soul (the subsequent Popes)
+- `{10:popol cristiano}`: The Christian people/the faithful
+- `[11:mi]`: The First Soul (Saint Peter)
+- `{12:battezzati}`: The baptized (the Christian faithful)
+- `[13:io]`: The First Soul (Saint Peter)
+- `[14:io]`: The First Soul (Saint Peter)
+- `[15:+io]`: The First Soul (Saint Peter)
+
+## Scene 55-66: The Lament for the Church
+In this scene, the First Soul (Saint Peter) continues his searing critique of the state of the Catholic Church. He uses the metaphor of "wolves in sheep's clothing" to describe the corrupt popes and clergy who claim the title of shepherds but are actually predators. He laments how the blood of the early martyrs (the "good beginning") is now being exploited by greedy political and ecclesiastical factions. 
+
+Peter calls upon the "defense of God" (the Roman Empire) to awaken and restore order, and prays for Divine Providence to intervene, just as it once did through Scipio to save Rome. Finally, Peter turns directly to Dante, charging him with a mission: since Dante is the one who will return to the mortal world, he must speak the truth and reveal these divine grievances to humanity, refusing to hide what Peter has openly disclosed.
+
+**Tag Resolutions:**
+
+- `{1:pastor}`: The role of the shepherd (the ideal of the Papacy/clergy)
+- `{2:lupi rapaci}`: The corrupt popes and clergy
+- `[3:+elli]`: The corrupt popes and clergy (the wolves)
+- `[4:si]`: The corrupt popes and clergy
+- `{5:difesa di Dio}`: The Roman Empire (the temporal power intended to protect the Church)
+- `[6:+tu]`: The Roman Empire
+- `{7:Caorsini}`: The Caorsini (a powerful family/faction)
+- `{8:Guaschi}`: The Guaschi (a faction/family)
+- `[9:+elli]`: The Caorsini and Guaschi
+- `[10:s']`: The Caorsini and Guaschi
+- `[11:tu]`: The Church (the "good beginning" that has fallen)
+- `{12:l'alta provedenza}`: Divine Providence (God)
+- `{13:Scipio}`: Scipio Africanus
+- `[14:+ella]`: Divine Providence (God)
+- `[15:io]`: The First Soul (Saint Peter)
+- `[16:tu]`: Dante
+- `{17:figliuol}`: Dante
+- `[18:+tu]`: Dante
+- `[19:+tu]`: Dante
+- `[20:io]`: The First Soul (Saint Peter)
+
+## Scene 67-75: The Vapor Metaphor
+In this scene, Dante describes a visual phenomenon in the Empyrean using a meteorological simile. He compares the appearance of a divine "vapor" to the way frozen flakes of mist form in the earthly air during the winter solstice (when the sun enters Capricorn).
+
+Dante observes the ether becoming adorned with a shimmering, flaking vapor emanating from the "triumphant" blessed souls who dwell there. As Dante follows their forms with his eyes, the vapor becomes so dense that it eventually obstructs his vision, specifically blocking his view of the one who is furthest ahead (the First Soul/Saint Peter). This acts as a celestial "shrouding" or transition following the First Soul's intense critique of the Church.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante
+- `{2:trïunfanti}`: The blessed souls/saints in Paradise
+- `[3:noi]`: Dante and the blessed souls (the community in Paradise)
+- `{4:i suoi sembianti}`: The blessed souls/saints
+- `[5:li]`: Dante (the "middle" density of the vapor takes away *from him* the sight)
+- `{6:del più avanti}`: The First Soul (Saint Peter)
+
+## Scene 76-84: The Expanding Horizon
+In this scene, the focus shifts from the grievances of Saint Peter to a dramatic expansion of Dante's perspective. Because the "vapor" from the previous scene has obscured the First Soul, Dante is no longer staring upward. Beatrice notices this change and instructs him to look around and observe how his orientation has shifted. Following her advice, Dante realizes that his vision has expanded immensely. He describes a panoramic view of the Earth from his celestial vantage point, specifically seeing the Mediterranean basin. He marks the boundaries of this vision by referencing two mythological/historical points: the "foolish passage" of Ulysses beyond the Straits of Gibraltar (Gades) to the west, and the shores where the mythological Europa was carried off to the east.
+
+**Tag Resolutions:**
+
+- `{1:la donna}`: Beatrice
+- `[2:mi]`: Dante
+- `[3:+ella]`: Beatrice
+- `[4:mi]`: Dante
+- `[5:+tu]`: Dante
+- `[6:+tu]`: Dante
+- `[7:tu]`: Dante
+- `[8:ïo]`: Dante
+- `[9:i']`: Dante
+- `[10:me]`: Dante
+- `[11:io]`: Dante
+- `{12:Ulisse}`: Ulysses (Odysseus)
+- `{13:Europa}`: Europa
+
+## Scene 85-96: Devotion to Beatrice
+In this scene, Dante reflects on the tension between his curiosity about the mortal world and his devotion to Beatrice. He notes that he could have continued to observe the "little garden" (the Earth) in more detail, but the movement of the sun (the celestial motion) shifted his vantage point. However, Dante's "loving mind," which is eternally devoted to Beatrice, feels an intense longing to look away from the world and return his gaze to her. He muses that any beauty ever created by Nature or Art—whether in real human flesh or in painting—would be completely insignificant compared to the divine pleasure he feels when he turns back to look at Beatrice's smiling face.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `{2:la mia donna}`: Beatrice
+- `[3:essa]`: Beatrice
+- `[4:mi]`: Dante
+- `[5:+io]`: Dante
+- `[6:mi]`: Dante
+
+## Scene 97-102: Celestial Propulsion
+In this scene, Dante experiences a sudden, rapid spiritual ascent. He describes being pulled away from his contemplation of the Earth—which he metaphorically calls the "nest of Leda"—by the divine power (the "virtue") of Beatrice. He is propelled so swiftly through the uniform expanse of the Empyrean that he loses his sense of orientation and cannot pinpoint exactly where Beatrice is leading him.
+
+**Tag Resolutions:**
+
+- `[1:m']`: Dante
+- `[2:+ella]`: Beatrice (specifically the "virtue" or power emanating from her)
+- `{3:Leda}`: Leda
+- `[4:mi]`: Dante
+- `[5:+ella]`: Beatrice (specifically the "virtue" or power emanating from her)
+- `[6:m']`: Dante
+- `[7:i']`: Dante
+- `{8:Bëatrice}`: Beatrice
+- `[9:mi]`: Dante
+
+## Scene 103-114: The Order of the Cosmos
+In this scene, Beatrice notices Dante's state of longing and disorientation following his rapid ascent. She begins to speak to him with immense joy—a joy so profound that God's own happiness seems to be reflected in her expression. Beatrice then explains the fundamental structure of the cosmos: she describes the "nature of the world" as a system where the center is still, and everything else moves around it. She explains that the Empyrean (the highest heaven) exists solely within the "Divine Mind," and it is the love and virtue emanating from this Divine Mind that drives the motion of the universe and rains down upon it. Finally, she notes that while light and love encompass the created world in a great circle, only the one who encircles the world (God) truly understands the full scope of this divine architecture.
+
+**Tag Resolutions:**
+
+- `[1:ella]`: Beatrice
+- `{2:Dio}`: God
+- `{3:La natura del mondo}`: The nature of the world (the cosmos/universe)
+- `[4:+ella]`: The nature of the world (specifically "la natura")
+- `{5:la mente divina}`: The Divine Mind (God)
+- `[6:ei]`: The Divine Mind (God)
+- `[7:lui]`: The nature of the world (the cosmos/universe)
+- `[8:colui]`: God (the one who encircles the world)
+
+## Scene 115-120: The Mathematical Proportions
+In this scene, Beatrice continues her cosmic lecture to Dante, explaining the hierarchical relationship between the various movements of the universe. She explains that the primary motion—the movement of the Empyrean (driven by the Divine Mind)—is the absolute standard. Every other celestial motion is measured and derived from this primary one, rather than the primary motion being derived from them. 
+
+To make this abstract concept understandable, she uses two analogies: a mathematical one (comparing the primary motion to the number ten, which can be measured by its divisors, like five) and a botanical one (comparing the primary motion to the roots of a tree, from which all other movements sprout like branches). She concludes by stating that this structure of the universe should now be clear to Dante.
+
+**Tag Resolution:**
+- `[1:te]`: Dante
+
+## Scene 121-129: The Corrupting Power of Greed
+In this scene, Beatrice continues her discourse, shifting from the mathematical and physical structure of the universe to a moral reflection on the spiritual state of humanity. She delivers a poetic lament about the destructive power of greed (*cupidigia*). 
+
+Beatrice personifies greed as an ocean or a flood that sinks mortals so deep that they become blind to everything else, unable to look away from their own desires. She uses a vivid agricultural metaphor to explain how human will and potential are eroded: while a person's will may begin to blossom, the "constant rain" of greed turns the carefully plowed furrows of a virtuous life into eroded gullies. She concludes with a pessimistic observation on innocence, stating that faith and purity are only found in very young children and disappear the moment they reach puberty (signified by the growth of facial hair). This serves as a philosophical bridge, connecting the celestial order she just described with the earthly corruption lamented by Saint Peter earlier in the Canto.
+
+**Tag Resolutions:**
+- `{1:cupidigia}`: Greed/Avarice (personified as a destructive force)
+- `{2:i mortali}`: Mortal human beings
+- `[3:te]`: Greed/Avarice
+- `{4:li uomini}`: Human beings/Men
+- `{5:ne' parvoletti}`: Little children
+
+## Scene 130-138: The Perversion of Nature
+In this scene, Beatrice continues her discourse on the destructive nature of greed (*cupidigia*), focusing on the tragic transition from childhood innocence to adult corruption. She describes the growth of a child as a process of spiritual decay.
+
+She observes that a child, who begins life stammering and without appetite, grows into an adult who "devours" everything with a fluent tongue (metaphorically consuming resources and power). She provides a harrowing example of the perversion of love: the child who once loved and listened to the mother grows into an adult whose relationship with that mother becomes so corrupted that the mother eventually desires the child's death (or vice versa, depicting the total breakdown of the most sacred human bond due to greed). 
+
+Beatrice concludes with a celestial simile to illustrate this "darkening" of the soul. She compares the loss of innocence to the way the brightness of the day (the "beautiful daughter" of the Sun) fades from the white light of morning to the blackness of evening.
+
+**Tag Resolutions:**
+- `[1:Tale]`: A little child (referring back to the *parvoletti* from the previous scene)
+- `[2:tal]`: A little child
+- `{3:la madre sua}`: The mother of the child
+- `[4:vederla]`: The child (the mother desires to see the child buried)
+- `{5:la bella figlia}`: The Day (personified as the daughter of the Sun)
+
+## Scene 139-148: The Prophecy of Renewal
+In this scene, Beatrice continues her discourse, transitioning from a critique of human greed to a prophecy of political and spiritual renewal. She addresses Dante's potential amazement at her previous harsh descriptions of humanity by explaining the root cause of the current chaos: the lack of a rightful governor on Earth (the absence of a just Emperor).
+
+Beatrice prophesies that this state of disorder is temporary. She predicts that before the current cycle of time ends (referencing the "hundredth" century/year), the influence of the celestial spheres will shift. This cosmic alignment will act upon Fortune—the personified force that governs worldly events—causing her to turn the "ship" of human affairs around. This shift will steer humanity away from its current drift and toward a direct, purposeful path, leading to a period of genuine stability and "true fruit" (actual peace and justice) rather than mere superficiality.
+
+**Tag Resolutions:**
+- `[1:Tu]`: Dante
+- `[2:+io]`: Beatrice
+- `[3:ti]`: Dante
+- `[4:+tu]`: Dante
+- `[5:chi]`: A rightful governor (specifically the Emperor)
+- `{6:la fortuna}`: Fortune (the personified force of chance/worldly destiny)
+- `[7:+ella]`: Fortune
+
+# recap
+- Dante and Beatrice are traveling together through the Empyrean.
+- Beatrice has just finished explaining the mechanical structure of the universe and prophesying a future restoration of earthly order through a rightful governor.
+- They are continuing their rapid spiritual ascent, leaving behind the critique of the papacy and the contemplation of the mortal world.

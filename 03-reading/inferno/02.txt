@@ -1,0 +1,353 @@
+# Canto 02 — The Divine Intervention and Dante's Rebirth of Will
+
+## Scene 1-9: Prologue and Invocation
+In this opening scene of Canto 2, the setting shifts to the onset of evening. While the rest of the world is winding down and the living creatures of the earth are resting from their daily labors, Dante is doing the opposite: he is mentally and emotionally bracing himself for the "war" (the hardship) of the journey ahead—both the physical toll of the path and the emotional toll of the pity he will feel for the souls he encounters.
+
+Following this narrative setup, the poem shifts into a formal invocation. The narrator stops the action to call upon higher powers and his own creative faculties to ensure he can accurately and nobly recount the journey. He addresses the Muses and his own poetic genius, acknowledging that the task of describing the afterlife is beyond ordinary human strength.
+
+**Tag Resolutions:**
+
+*   **[1:io]**: Dante (the pilgrim)
+*   **[2:uno]**: Dante (the pilgrim)
+*   **[3:+io]**: Dante (the pilgrim)
+*   **[4:m']**: Dante (the pilgrim)
+*   **{5:la mente}**: Author-Dante (the poetic mind/intellect that will record the journey)
+*   **{6:muse}**: The Muses (classical deities of inspiration)
+*   **{7:alto ingegno}**: Author-Dante's high genius/divine inspiration
+*   **[8:+voi]**: The Muses and Author-Dante's high genius
+*   **[9:m']**: Author-Dante (the writer seeking help)
+*   **{10:mente}**: Author-Dante (the mind that wrote the poem)
+*   **[11:io]**: Dante (the pilgrim who witnessed the events)
+
+## Scene 10-27: Virgil's Illustrious Lineage
+**Scene Analysis: Virgil's Illustrious Lineage**
+
+In this scene, Dante (the pilgrim) is speaking to Virgil. Having been told that he will be guided through the afterlife, Dante is experiencing a crisis of confidence. He asks Virgil to assess whether his "virtue" (his moral and mental strength) is sufficient for such a daunting task.
+
+To process his fear, Dante begins to reason by analogy. He references the story of Aeneas (the protagonist of Virgil's *Aeneid*). Dante notes that Aeneas, while still a mortal man ("corruptible"), descended into the underworld. Dante argues that it is logically sound for any intelligent person to conclude that Aeneas was chosen by God ("the Father") to found Rome and its empire. He views the establishment of Rome as a divine necessity, as it created the political stability and location required for the eventual seat of the Papacy ("the successor of the greater Peter"). Dante concludes that Aeneas's journey into the afterlife provided him with the knowledge and insight necessary to ensure Rome's victory and the subsequent rise of the Church.
+
+Essentially, Dante is saying: "Aeneas did this while mortal, and it served a divine purpose. If it was possible for him, perhaps it is possible for me—but was he specially chosen in a way that I am not?"
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: Dante (the pilgrim)
+*   **{2:Poeta}**: Virgil
+*   **[3:mi]**: Dante (the pilgrim)
+*   **[4:+tu]**: Virgil
+*   **[5:tu]**: Virgil
+*   **[6:mi]**: Dante (the pilgrim)
+*   **[7:Tu]**: Virgil
+*   **{8:di Silvïo il parente}**: Aeneas (the ancestor of the Roman people)
+*   **[9:+ei]**: Aeneas
+*   **{10:l'avversario d'ogne male}**: Aeneas (as the founder of the Roman order that overcomes chaos/evil)
+*   **[11:i]**: Aeneas
+*   **[12:lui]**: Aeneas
+*   **[13:chi]**: The descendants/successors of Aeneas (the Roman lineage)
+*   **[14:quale]**: The Roman Empire
+*   **{15:omo d'intelletto}**: An intelligent man (a generic reference to any rational person, including Author-Dante)
+*   **[16:e']**: Aeneas
+*   **{17:padre}**: God (the Father)
+*   **{18:il successor del maggior Piero}**: The Pope (the successor of Saint Peter)
+*   **[19:li]**: The "cose" (things/knowledge) that Aeneas learned in the underworld (referenced in line 26)
+*   **[20:tu]**: Virgil (who boasts of these events in his poetry)
+*   **[21:+ei]**: Aeneas
+
+## Scene 28-36: Dante's Self-Doubt
+In this scene, Dante (the pilgrim) completes his argument by comparison, moving from a state of historical analysis to a state of personal crisis. 
+
+He first mentions the "Chosen Vessel," a reference to Saint Paul, who also experienced divine revelation. By pairing Saint Paul with Aeneas, Dante establishes a parallel: Aeneas was the founder of the Roman Empire (the secular authority), and Paul was the catalyst for the spread of Christianity (the spiritual authority). Both were chosen by God for a cosmic purpose.
+
+Having established these two towering figures of history and faith, Dante collapses under the weight of the comparison. He asks himself why he—an ordinary man—should be allowed to make such a journey. He explicitly states that he is neither Aeneas nor Paul and believes that neither he nor anyone else would consider him worthy of such a feat. He concludes that if he decides to abandon the quest, it wouldn't be a mistake, but rather the only sane choice; to proceed would be "folle" (madness). He ends the scene by appealing to Virgil's wisdom, admitting that he is currently so overwhelmed by fear that he is no longer reasoning rationally.
+
+**Tag Resolutions:**
+
+*   **{1:lo Vas d'elezïone}**: Saint Paul (the "Chosen Vessel" of God)
+*   **[2:io]**: Dante (the pilgrim)
+*   **[3:chi]**: The divine authority/God (whoever would grant the permission/concession)
+*   **[4:Io]**: Dante (the pilgrim)
+*   **{5:Enëa}**: Aeneas
+*   **[6:io]**: Dante (the pilgrim)
+*   **{7:Paulo}**: Saint Paul
+*   **[8:me]**: Dante (the pilgrim)
+*   **[9:io]**: Dante (the pilgrim)
+*   **[10:io]**: Dante (the pilgrim)
+*   **[11:m']**: Dante (the pilgrim)
+*   **[12:+io]**: Dante (the pilgrim)
+*   **[13:+tu]**: Virgil
+*   **[14:+tu]**: Virgil
+*   **[15:me']**: Dante (the pilgrim)
+*   **[16:i']**: Dante (the pilgrim)
+
+## Scene 37-42: The Paralysis of Will
+In this short scene, Dante (the pilgrim) describes a state of psychological paralysis. He uses a general analogy to explain his current mental collapse to Virgil.
+
+He begins by describing a hypothetical person—someone who initially wills something, but then, through "new thoughts" (second-guessing and doubt), changes their mind so completely that the original intention is totally erased. 
+
+Dante then applies this analogy to himself. He admits that this is exactly what happened to him on the "dark coast" (the threshold of the afterlife). He confesses that by overthinking the journey and dwelling on his own inadequacy, he "consumed" or wore away the courage and determination he had felt at the very beginning of the adventure. He is admitting to Virgil that his will has failed him.
+
+**Tag Resolutions:**
+
+*   **[1:quei]**: A hypothetical person (used as a mirror for Dante's own state of indecision)
+*   **[2:+ei]**: The hypothetical person
+*   **[3:mi]**: Dante (the pilgrim)
+*   **[4:ïo]**: Dante (the pilgrim)
+*   **[5:+io]**: Dante (the pilgrim)
+
+## Scene 43-51: Virgil's Diagnosis
+In this scene, Virgil responds to Dante’s admission of psychological collapse. Virgil acts as a mentor and a physician of the soul, providing a "diagnosis" of Dante's current state.
+
+He tells Dante that he has understood his words and identifies the problem: Dante is not lacking in "virtue" or "worth," but is instead suffering from *viltade* (cowardice or a failure of spirit). Virgil explains that this is a common human experience—fear often obstructs a person's will, causing them to shrink away from a noble undertaking, much like a frightened person might mistake a harmless shadow for a dangerous beast.
+
+To cure this paralysis, Virgil promises to reveal the "why" behind his mission. He tells Dante that he will explain the reason he was sent and the information he received regarding Dante's plight from the very beginning, suggesting that knowing the divine origin of the quest will provide the courage Dante currently lacks.
+
+**Tag Resolutions:**
+
+*   **[1:i']**: Virgil
+*   **{2:del magnanimo}**: Virgil (referring to his own nature/reputation)
+*   **{3:quell' ombra}**: Virgil
+*   **{4:l'anima}**: Dante (the pilgrim)
+*   **{5:l'omo}**: Mankind / A generic man
+*   **[6:+ella]**: Cowardice (*viltade*—the personified force acting upon the man)
+*   **[7:lo]**: The man (the generic man mentioned in tag [5])
+*   **[8:+tu]**: Dante (the pilgrim)
+*   **[9:tu]**: Dante (the pilgrim)
+*   **[10:ti]**: Dante (the pilgrim)
+*   **[11:+io]**: Virgil
+*   **[12:io]**: Virgil
+*   **[13:io]**: Virgil
+*   **[14:te]**: Dante (the pilgrim)
+*   **[15:mi]**: Virgil
+*   **[16:+essa]**: The situation/condition of Dante (the thing that caused Virgil pain/pity)
+
+## Scene 52-57: The Setting of the Encounter
+In this scene, Virgil is continuing his explanation to Dante by recounting a vision from his own past in the afterlife. He describes his state in Heaven (among the blessed souls) when he was approached by a lady. Virgil was so struck by her presence and radiance that he asked her for her commands. He describes her eyes as shining more brightly than a star and notes that she began to speak to him in a gentle, angelic voice.
+
+**Tag Resolutions:**
+
+*   **[1:Io]**: Virgil (who is recounting his experience)
+*   **[2:color]**: The blessed souls in Heaven
+*   **{3:donna}**: Beatrice
+*   **[4:mi]**: Virgil
+*   **[5:io]**: Virgil
+*   **[6:la]**: Beatrice
+*   **{7:la stella}**: The star (used as a celestial comparison for Beatrice's radiance)
+*   **[8:+ella]**: Beatrice
+
+## Scene 58-74: Beatrice's Message
+In this scene, Virgil is continuing his recount of the vision that motivated his journey. He is quoting the words spoken to him by Beatrice in Heaven. 
+
+Beatrice addresses Virgil with great respect, acknowledging his enduring fame. She explains the urgency of her mission: her friend (Dante) is currently stranded on the "deserted shore" and is so overcome by fear that he is turning back from his path. Beatrice expresses a fear that she may have acted too late in sending Virgil to assist him, based on the reports she has heard about Dante's plight in Heaven.
+
+She commands Virgil to set out and use his poetic eloquence to encourage Dante and provide him with the strength he needs to survive and proceed. By doing so, Virgil will bring consolation to Beatrice herself. She identifies herself clearly, stating she comes from the place where she belongs (Paradise) and that she is driven and prompted to speak by Love. Finally, she offers Virgil a divine reward: she promises that when she stands before God, she will frequently praise Virgil's actions to Him.
+
+**Tag Resolutions:**
+
+*   **{1:anima cortese mantoana}**: Virgil (the "courteous Mantuan soul")
+*   **{2:l'amico mio}**: Dante (the pilgrim)
+*   **[3:+io]**: Beatrice
+*   **[4:+ei]**: Dante (the pilgrim)
+*   **[5:io]**: Beatrice
+*   **[6:mi]**: Beatrice
+*   **[7:quel]**: The reports/news about Dante's situation
+*   **[8:i']**: Beatrice
+*   **[9:lui]**: Dante (the pilgrim)
+*   **[10:+tu]**: Virgil
+*   **[11:+ei]**: Dante (the pilgrim)
+*   **[12:+tu]**: Virgil
+*   **[13:l']**: Dante (the pilgrim)
+*   **[14:i']**: Beatrice
+*   **[15:I']**: Beatrice
+*   **{16:Beatrice}**: Beatrice
+*   **[17:ti]**: Virgil
+*   **[18:+io]**: Beatrice
+*   **[19:+io]**: Beatrice
+*   **{20:amor}**: Love (Divine Love/the force of Love)
+*   **[21:mi]**: Beatrice
+*   **[22:mi]**: Beatrice
+*   **[23:+io]**: Beatrice
+*   **{24:al segnor mio}**: God
+*   **[25:te]**: Virgil
+*   **[26:mi]**: Beatrice
+*   **[27:+io]**: Beatrice
+*   **[28:lui]**: God
+
+## Scene 75-84: Dante's Inquiry
+In this scene, the psychological tide turns. Virgil has finished recounting Beatrice's mission, and the revelation that he was sent by the woman Dante loves—and that she is concerned for his soul—acts as the catalyst Dante needed to overcome his paralysis.
+
+The scene begins with Virgil falling silent, allowing Dante to respond. Dante’s response is divided into two parts. First, he addresses Beatrice (conceptually, as she is the source of the command), expressing his profound reverence for her. He acknowledges her as the pinnacle of human virtue and expresses a desperate eagerness to obey her will, noting that he feels he is already "late" in doing so. This shows that his will has been reborn; the "viltade" (cowardice) Virgil diagnosed has been replaced by a desire to please Beatrice.
+
+Then, Dante shifts his direct address to Virgil. Now that he is mentally stable and motivated, his curiosity returns. He asks Virgil a pointed question: why is Virgil not afraid to descend into the "center" of the afterlife (Hell), a place Virgil has already experienced and is now daring to return to? Dante is essentially asking Virgil to explain the nature of his own courage or the divine protection that allows him to navigate the abyss.
+
+**Tag Resolutions:**
+
+*   **[1:+ei]**: Virgil (who has finished speaking)
+*   **[2:io]**: Dante (the pilgrim, who begins to speak)
+*   **{3:donna di virtù sola}**: Beatrice
+*   **[4:m']**: Dante (the pilgrim)
+*   **[5:m']**: Dante (the pilgrim)
+*   **[6:t']**: Beatrice
+*   **[7:aprirmi]**: Dante (the pilgrim)
+*   **[8:+tu]**: Virgil
+*   **[9:dimmi]**: Dante (the pilgrim)
+*   **[10:ti]**: Virgil
+*   **[11:tu]**: Virgil
+
+## Scene 85-99: Beatrice's Immunity
+In this scene, Virgil answers Dante's question about why he does not fear descending into the depths of Hell. Virgil first provides a philosophical point: one should only fear things that have the power to cause actual harm. He then explains that his lack of fear stems from the divine nature of his mission and the protection of the woman who sent him.
+
+Virgil shifts the narrative to describe Beatrice’s status in Heaven. He explains that Beatrice is a blessed soul, created by God’s mercy in such a way that the misery and the fires of Hell cannot touch or affect her. Because of her nobility and her compassion for Dante (who is currently blocked by fear/obstacle), she is able to "break" or soften the severity of the divine judgment to facilitate this rescue.
+
+Finally, Virgil reveals another layer of the divine chain of command: Beatrice did not act alone. She first approached Saint Lucia, informing her that Dante (Beatrice's "faithful one") was in desperate need of help, and Beatrice formally commended Dante's care to Lucia. This establishes the spiritual hierarchy that led to Virgil's current presence: Beatrice $\rightarrow$ Lucia $\rightarrow$ Virgil $\rightarrow$ Dante.
+
+**Tag Resolutions:**
+
+*   **[1:tu]**: Dante (the pilgrim)
+*   **[2:+io]**: Virgil
+*   **[3:+egli]**: Virgil
+*   **[4:mi]**: Dante (the pilgrim)
+*   **[5:i']**: Virgil
+*   **[6:si]**: A generic person ("one" / "anyone")
+*   **[7:I']**: Beatrice (Virgil is recounting her perspective/words)
+*   **{8:Dio}**: God
+*   **[9:mi]**: Beatrice
+*   **[10:m']**: Beatrice
+*   **{11:Donna}**: Beatrice
+*   **[12:si]**: Beatrice
+*   **[13:io]**: Beatrice
+*   **[14:ti]**: Virgil
+*   **[15:+ella]**: Beatrice
+*   **[16:Questa]**: Beatrice
+*   **{17:Lucia}**: Saint Lucia
+*   **[18:+ella]**: Beatrice
+*   **{19:il tuo fedele}**: Dante (the pilgrim)
+*   **[20:te]**: Saint Lucia
+*   **[21:io]**: Beatrice
+*   **[22:te]**: Saint Lucia
+*   **[23:lo]**: Dante (the pilgrim)
+
+## Scene 100-114: Lucia's Intervention
+In this scene, Virgil continues his explanation of the divine chain of command that led to his rescue of Dante. He describes how Saint Lucia, the "enemy of the cruel," approached him in the afterlife. Virgil recalls that he was sitting with the biblical figure Rachel when Lucia arrived. 
+
+Lucia then addresses Beatrice, questioning why she has not yet intervened to help Dante—the man who loved her so deeply that he distinguished himself from the common crowd of humanity. Lucia urges Beatrice to notice the pity of Dante's weeping and the "death" (his spiritual peril/crisis) that is currently battling him on the shore where the sea has no power. 
+
+Hearing these words, Virgil describes himself as being more prompt to act than any human has ever been in the world. Driven by the honesty and urgency of Lucia's speech, Virgil immediately descends from his blessed seat in the afterlife to find and guide Dante.
+
+**Tag Resolutions:**
+
+*   **{1:Lucia}**: Saint Lucia
+*   **{2:nimica di ciascun crudele}**: Saint Lucia
+*   **[3:+ella]**: Saint Lucia
+*   **[4:si]**: Saint Lucia
+*   **[5:+ella]**: Saint Lucia
+*   **[6:i']**: Virgil
+*   **[7:+io]**: Virgil
+*   **[8:mi]**: Virgil
+*   **{9:l'antica Rachele}**: Rachel
+*   **[10:+ella]**: Saint Lucia
+*   **{11:Beatrice}**: Beatrice
+*   **{12:loda di Dio vera}**: Beatrice
+*   **[13:+tu]**: Beatrice
+*   **[14:quei]**: Dante (the pilgrim)
+*   **[15:t']**: Beatrice
+*   **[16:te]**: Beatrice
+*   **{17:la volgare schiera}**: The common crowd / Ordinary humanity
+*   **[18:tu]**: Beatrice
+*   **[19:tu]**: Beatrice
+*   **{20:la morte}**: Death (personified as the spiritual peril/crisis fighting Dante)
+*   **[21:'l]**: Death (the spiritual peril fighting Dante)
+*   **{22:persone ratte}**: Generic people / Humans
+*   **[23:io]**: Virgil
+*   **[24:te]**: Saint Lucia
+*   **[25:quei]**: Virgil (and others who heard Lucia's words)
+
+## Scene 115-117: The Emotional Impact
+In this brief but emotionally pivotal scene, Virgil concludes his explanation of the divine chain of command (Beatrice $\rightarrow$ Lucia $\rightarrow$ Virgil) that brought him to Dante. 
+
+After finishing his narrative, Virgil is visibly moved; he turns his shining eyes toward Dante, weeping. The sight of Virgil's emotion—the guide's own empathy and the weight of Beatrice's love—serves as the final catalyst for Dante. This emotional display breaks the last remnants of Dante's hesitation and paralysis, prompting him to move forward more urgently and decisively into the journey.
+
+**Tag Resolutions:**
+
+*   **[1:m']**: Dante (the pilgrim)
+*   **[2:questo]**: Virgil (referring to the person who just finished speaking/reasoning)
+*   **[3:+ei]**: Virgil
+*   **[4:+ei]**: Virgil
+*   **[5:mi]**: Dante (the pilgrim)
+
+## Scene 118-126: Virgil's Final Challenge
+In this final scene of Canto 2, Virgil speaks directly to Dante, moving from the emotional tenderness of the previous scene to a stern, motivating challenge. 
+
+Virgil begins by summarizing the facts of his mission: he came to Dante exactly as Beatrice willed it. He reminds Dante of their first encounter in Canto 1, noting that he already rescued Dante from the "fiera" (the wild beasts) that had blocked his path up the "bel monte" (the mountain of salvation).
+
+Having established his role as a proven protector, Virgil then pivots to a sharp rebuke. He asks Dante why he is still hesitating and why he allows "viltà" (cowardice) to take root in his heart. He challenges Dante's lack of boldness, pointing out the absurdity of his fear given the circumstances: Dante is being watched over and cared for by three blessed women in the heavenly court (Beatrice, Lucia, and the Virgin Mary), and he has the guidance of Virgil himself, whose words offer a clear promise of success. This is the "final push" intended to shatter Dante's paralysis and propel him forward into the Inferno.
+
+**Tag Resolutions:**
+
+*   **[1:+io]**: Virgil (the speaker)
+*   **[2:te]**: Dante (the pilgrim)
+*   **[3:ella]**: Beatrice
+*   **[4:+io]**: Virgil (the speaker)
+*   **[5:ti]**: Dante (the pilgrim)
+*   **[6:ti]**: Dante (the pilgrim)
+*   **[7:+tu]**: Dante (the pilgrim)
+*   **[8:+tu]**: Dante (the pilgrim)
+*   **{9:tai tre donne benedette}**: The three blessed women (Beatrice, Saint Lucia, and the Virgin Mary)
+*   **[10:te]**: Dante (the pilgrim)
+*   **[11:ti]**: Dante (the pilgrim)
+
+## Scene 127-132: The Metaphor of the Flowers
+In this scene, Dante (the pilgrim) describes the internal transformation he undergoes following Virgil's stern rebuke and the revelation of the divine support behind his journey. He uses a beautiful simile to illustrate his transition from psychological paralysis to renewed determination.
+
+He compares himself to "little flowers" (*fioretti*) that have been bent and closed by the freezing night air. Just as these flowers straighten up and open their petals when the sun warms them, Dante's spirit—which had been "tired" and collapsed under the weight of fear—is revitalized by the "warmth" of Virgil's words and the knowledge of Beatrice's love. 
+
+Dante explains that a surge of "good boldness" (*buono ardire*) has rushed into his heart. He is no longer the trembling, doubting man of the previous scenes; he now feels like a "free person" (*persona franca*), meaning someone who is bold, resolute, and ready to face the hardships of the journey. This marks the definitive end of his crisis of will.
+
+**Tag Resolutions:**
+
+*   **[1:+elli]**: The little flowers (*fioretti*)
+*   **[2:mi]**: Dante (the pilgrim)
+*   **[3:io]**: Dante (the pilgrim)
+*   **[4:mi]**: Dante (the pilgrim)
+*   **[5:i']**: Dante (the pilgrim)
+*   **{6:persona franca}**: Dante (the pilgrim, now describing himself as a bold/free man)
+
+## Scene 133-140: Dante's Renewed Commitment
+In this final scene of Canto 2, Dante (the pilgrim) speaks with a newfound energy and clarity. Having been cured of his "viltade" (cowardice) by Virgil's stern encouragement and the knowledge of Beatrice's love, Dante now expresses his gratitude and formally commits himself to the journey.
+
+Dante begins with an exclamation of gratitude. He first addresses Beatrice, calling her "merciful" for having intervened to save him. He then addresses Virgil, calling him "courteous" for obeying Beatrice's command so promptly. Dante acknowledges that Virgil's words have rekindled his desire to proceed, effectively restoring his will to the "first purpose" (the original intention to begin the journey).
+
+The scene concludes with Dante yielding entirely to Virgil's leadership. He notes that they are now unified in a single will. In a powerful gesture of submission and respect, Dante addresses Virgil with three distinct titles: *duca* (leader/guide), *segnore* (lord), and *maestro* (teacher). This signifies that Dante is no longer the trembling, doubting man he was at the start of the canto, but a resolute disciple ready to enter the gates of Hell.
+
+**Tag Resolutions:**
+
+*   **[1:colei]**: Beatrice
+*   **[2:mi]**: Dante (the pilgrim)
+*   **[3:te]**: Virgil
+*   **[4:ti]**: Virgil
+*   **[5:Tu]**: Virgil
+*   **[6:m']**: Dante (the pilgrim)
+*   **[7:i']**: Dante (the pilgrim)
+*   **[8:+tu]**: Virgil
+*   **[9:ambedue]**: Dante (the pilgrim) and Virgil
+*   **[10:tu]**: Virgil
+*   **{11:duca}**: Virgil
+*   **[12:tu]**: Virgil
+*   **{13:segnore}**: Virgil
+*   **[14:tu]**: Virgil
+*   **{15:maestro}**: Virgil
+
+## Scene 141-142: The Resumed Journey
+In this brief closing scene of Canto 2, the dialogue ends and the physical journey resumes.
+
+Dante (the narrator) explains that after he spoke those words of commitment and submission to Virgil, Virgil began to move. Following Virgil's lead, they enter the "high and wooded path," officially leaving the dark wood behind to begin their descent into the afterlife. The psychological struggle of the Canto is over; the transition from paralysis to action is complete.
+
+**Tag Resolutions:**
+
+*   **[1:li]**: Virgil (the person to whom Dante is speaking)
+*   **[2:+io]**: Dante (the pilgrim)
+*   **[3:+elli]**: Virgil (the one who begins to move)
+*   **[4:+tu]**: Virgil (the guide who enters the path, leading the way)
+
+# recap
+- Dante and Virgil are traveling together.
+- Dante has overcome his fear and fully committed himself to the journey.
+- They have just entered the "high and wooded path," leaving the dark wood behind to begin their descent into the afterlife.

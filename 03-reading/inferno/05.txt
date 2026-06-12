@@ -1,0 +1,320 @@
+# Canto 05 — The Second Circle: The Storm of Lust
+
+## Scene 1-6: The Presence of Minos
+In this brief opening scene, the narrator describes the transition from the first circle of Hell to the second. Dante observes that the second circle is smaller in circumference than the first, but the intensity of the suffering is significantly greater. 
+
+Upon entering, they encounter Minos, the monstrous judge of the underworld. Minos acts as the "intake officer" for the damned; he stands at the entrance, listens to the souls confess their sins, judges them, and then assigns them to their specific level of punishment.
+
+**Tag Resolutions:**
+- `[1]` refers to Dante (the narrator/pilgrim).
+- `{2}` refers to Minos.
+- `[3]` refers to Minos.
+- `[4]` refers to Minos.
+- `[5]` refers to Minos.
+- `[6]` refers to Minos.
+
+## Scene 7-15: The Process of Judgment
+**Scene Analysis: The Process of Judgment**
+
+In this scene, Dante the narrator explains the bureaucratic and judicial process of Hell's intake. He describes the interaction between the arriving souls and the judge, Minos. When a "mal-born" (damned) soul arrives, it is forced to confess all its sins. Minos, acting as an expert in sin, determines which level of Hell is appropriate for the soul. He communicates the sentence through a physical gesture: he wraps his tail around himself a specific number of times, indicating the circle to which the soul is banished. Dante notes that there is a constant queue of souls waiting their turn to confess, receive their judgment, and be cast down into the depths.
+
+**Tag Resolutions:**
+- `[1]` refers to Dante.
+- `{2}` refers to a damned soul.
+- `[3]` refers to Minos (the soul comes *there/before him*).
+- `[4]` refers to a damned soul.
+- `[5]` refers to a damned soul.
+- `[6]` refers to a damned soul.
+- `{7}` refers to Minos.
+- `[8]` refers to Minos.
+- `[9]` refers to a damned soul.
+- `[10]` refers to Minos.
+- `[11]` refers to Minos.
+- `[12]` refers to a damned soul.
+- `[13]` refers to Minos.
+- `[14]` refers to the damned souls.
+- `[15]` refers to the damned souls.
+- `[16]` refers to the damned souls.
+- `[17]` refers to the damned souls.
+
+## Scene 16-24: Minos's Warning
+In this scene, Minos pauses his judicial duties to address the newcomers. He speaks directly to Dante, warning him to be cautious about where he is entering and, more importantly, whom he is trusting (referring to Virgil). Minos cautions Dante not to be deceived by the wide opening of the second circle.
+
+Virgil then intervenes, speaking to Minos. He questions why the judge is shouting and commands him not to obstruct Dante’s predestined path. Virgil explains that Dante's journey is willed by the divine authority "where it is possible to will what is willed" (Heaven/God), and tells Minos to stop questioning the matter.
+
+**Tag Resolutions:**
+- `[1]` refers to Dante.
+- `{2}` refers to Minos.
+- `[3]` refers to Dante.
+- `[4]` refers to Dante.
+- `[5]` refers to Minos.
+- `[6]` refers to Dante.
+- `[7]` refers to Dante.
+- `[8]` refers to Dante.
+- `[9]` refers to Dante.
+- `[10]` refers to Dante.
+- `{11}` refers to Virgil.
+- `[12]` refers to Minos.
+- `[13]` refers to Minos.
+- `[14]` refers to Minos.
+- `[15]` refers to Minos.
+
+## Scene 25-36: The Infernal Tempest
+In this scene, Dante describes the sensory experience of entering the Second Circle of Hell. As he and Virgil move forward, the silence is replaced by the sounds of weeping and a roaring noise. Dante enters a region of total darkness that he compares to a stormy sea being battered by opposing winds. 
+
+He explains the nature of the punishment here: an eternal, violent storm (the "infernal tempest") that relentlessly sweeps up the damned souls, tossing and striking them. When these souls are blown against the edge of the abyss (the "ruina"), their suffering peaks, and they respond with screams, laments, and blasphemies against God (the divine virtue).
+
+**Tag Resolutions:**
+- `[1]` refers to Dante.
+- `[2]` refers to Dante.
+- `[3]` refers to Dante.
+- `[4]` refers to the sea (*mar*).
+- `[5]` refers to the infernal tempest (*la bufera infernal*).
+- `{6}` refers to the spirits (*li spirti*), the damned souls of the lustful.
+- `[7]` refers to the infernal tempest (*la bufera infernal*).
+- `[8]` refers to the spirits (*li spirti*).
+- `[9]` refers to the spirits (*li spirti*).
+- `[10]` refers to the spirits (*li spirti*).
+
+## Scene 37-45: The Nature of the Sin
+In this scene, Dante the narrator explains the theological and moral logic behind the punishment in the Second Circle. He identifies the inhabitants as the "carnal sinners"—those who allowed their passions and desires (lust) to override their reason. 
+
+Dante describes the movement of these souls using a simile: just as starlings fly in vast, dense flocks during the cold season, the souls are driven by the infernal wind. The wind tosses them violently in every direction—left, right, up, and down. Finally, Dante notes the utter hopelessness of their situation; they have no hope of ever finding rest or receiving a lighter sentence.
+
+**Tag Resolutions:**
+- `[1]` refers to Dante.
+- `{2}` refers to the carnal sinners (the lustful).
+- `{3}` refers to the carnal sinners (referred to here as "evil spirits").
+- `[4]` refers to the carnal sinners.
+- `[5]` refers to the carnal sinners.
+
+## Scene 46-51: The Drifting Souls
+In this scene, Dante uses a simile to describe the movement of the damned. He compares the souls being swept along by the infernal storm to a flock of cranes flying in a long line and calling out to one another. As the souls approach, wailing in pain, Dante is struck by the sight and asks his guide, Virgil, for an explanation. He wants to know the identity of these people who are being so violently punished by the "black wind."
+
+**Tag Resolutions:**
+- `[1]` refers to Dante.
+- `{2}` refers to the carnal sinners (the shades/shadows of the lustful).
+- `[3]` refers to Dante.
+- `{4}` refers to Virgil (addressed as "Maestro").
+- `[5]` refers to the carnal sinners (the "who" Dante is questioning).
+- `{6}` refers to the carnal sinners (the "people" being punished).
+
+## Scene 52-69: The Catalogue of Lovers
+In this scene, Virgil responds to Dante’s request for information about the souls trapped in the second circle. Virgil begins a "catalogue" of the most famous inhabitants of this region, pointing them out to Dante as they are swept along by the infernal storm. 
+
+Virgil first identifies Semiramis, describing her as a powerful empress who legalized her own lusts to avoid social stigma. He then points out Dido (described as the woman who killed herself out of love and betrayed the memory of her husband, Sicheus), and then Cleopatra. Virgil continues by directing Dante's attention to the legendary figures of the Trojan War—Helen, Achilles, and Paris—as well as Tristan. Finally, Virgil indicates that there are thousands more such souls, all of whom were separated from their earthly lives by the overwhelming power of passion (Love).
+
+**Tag Resolutions:**
+
+- `[1]` refers to Semiramis (the first soul mentioned).
+- `[2]` refers to the carnal sinners (the lustful souls).
+- `[3]` refers to Dante.
+- `[4]` refers to Dante.
+- `[5]` refers to Virgil.
+- `[6]` refers to Semiramis.
+- `{7}` refers to Semiramis.
+- `[8]` refers to Semiramis.
+- `[9]` refers to Semiramis.
+- `[10]` refers to Semiramis.
+- `[11]` refers to Semiramis.
+- `{12}` refers to Semiramis.
+- `{13}` refers to Nino.
+- `{14}` refers to Semiramis.
+- `[15]` refers to Semiramis.
+- `{16}` refers to the Sultan.
+- `{17}` refers to Dido.
+- `[18]` refers to Dido.
+- `[19]` refers to Dido.
+- `[20]` refers to Dido.
+- `{21}` refers to Sicheus.
+- `[22]` refers to Cleopatra.
+- `{23}` refers to Cleopatra.
+- `{24}` refers to Helen.
+- `[25]` refers to Dante.
+- `[26]` refers to Dante.
+- `{27}` refers to Achilles.
+- `[28]` refers to Dante.
+- `{29}` refers to Paris.
+- `{30}` refers to Tristan.
+- `{31}` refers to the shades (the lustful souls).
+- `[32]` refers to Virgil (the one showing the shades to Dante).
+- `[33]` refers to Virgil (the one naming the shades).
+- `{34}` refers to Love (personified as the force/passion that led the sinners to their doom).
+
+## Scene 70-78: A Request for Dialogue
+In this scene, Dante is deeply moved by pity after listening to Virgil’s catalogue of the famous lustful souls. While observing the storm, he notices two specific souls who are drifting together, appearing almost weightless in the wind. Dante expresses his desire to speak with them. Virgil responds by telling Dante to wait until the two souls are closer and then to appeal to them, using the very love that drives them as a reason for them to stop and talk.
+
+**Tag Resolutions:**
+
+- `[1]` refers to Dante.
+- `{2}` refers to Virgil (referred to as "my doctor").
+- `{3}` refers to the lustful women (the "ancient women" mentioned in Virgil's catalogue).
+- `{4}` refers to the lustful men (the "knights" mentioned in Virgil's catalogue).
+- `[5]` refers to Dante.
+- `[6]` refers to Dante.
+- `[7]` refers to Dante.
+- `{8}` refers to Virgil (addressed as "Poet").
+- `[9]` refers to Dante.
+- `[10]` refers to the two lustful souls (Francesca and Paolo).
+- `[11]` refers to the two lustful souls (Francesca and Paolo).
+- `[12]` refers to Virgil.
+- `[13]` refers to Dante.
+- `[14]` refers to Dante.
+- `[15]` refers to the two lustful souls (Francesca and Paolo).
+- `[16]` refers to Dante and Virgil.
+- `[17]` refers to Dante.
+- `[18]` refers to the two lustful souls (Francesca and Paolo).
+- `[19]` refers to the two lustful souls (Francesca and Paolo).
+- `[20]` refers to the two lustful souls (Francesca and Paolo).
+
+## Scene 79-87: The Approach of the Souls
+In this scene, the wind of the Second Circle pushes the two souls Dante has been watching (Francesca and Paolo) closer to him and Virgil. Seizing the moment, Dante calls out to them, inviting them to leave the storm and come speak with them, provided that the laws of Hell do not forbid it. 
+
+Dante uses a simile to describe their approach: he compares the souls to doves being drawn back to their nest by desire. Moved by the emotion in Dante's voice, the two souls break away from the mass of other sinners (specifically mentioning the area where Dido is located) and fly through the "malignant air" toward Dante and Virgil.
+
+**Tag Resolutions:**
+- `[1]` refers to Dante and Virgil.
+- `[2]` refers to the two lustful souls (Francesca and Paolo).
+- `[3]` refers to Dante.
+- `{4}` refers to the two lustful souls (Francesca and Paolo).
+- `[5]` refers to the two lustful souls (Francesca and Paolo).
+- `[6]` refers to Dante and Virgil.
+- `[7]` refers to the two lustful souls (Francesca and Paolo).
+- `{8}` refers to Dido.
+- `[9]` refers to Dante and Virgil.
+
+## Scene 88-96: The Souls' Greeting
+**Scene Analysis: The Souls' Greeting**
+
+In this scene, the two souls (Francesca and Paolo) speak for the first time after breaking away from the storm to approach Dante and Virgil. Their tone is one of gratitude and humility. They address Dante as a "graceful and benign" being, acknowledging the pity he showed them.
+
+The souls explain that if the "King of the Universe" (God) were favorably disposed toward them, they would pray to Him to grant Dante peace, as a reciprocation for the compassion he has shown toward their "perverse" suffering. They express their willingness to converse with Dante and Virgil about whatever subjects please them, provided the infernal wind gives them a temporary lull (a "silence") to allow for speech.
+
+**Tag Resolutions:**
+
+- `{1:animal grazïoso e benigno}` refers to Dante (the living visitor).
+- `[2:noi]` refers to the two lustful souls (Francesca and Paolo).
+- `{3:il re de l'universo}` refers to God.
+- `[4:noi]` refers to the two lustful souls (Francesca and Paolo).
+- `[5:lui]` refers to God.
+- `[6:+tu]` refers to Dante.
+- `[7:c']` refers to the two lustful souls (Francesca and Paolo).
+- `[8:vi]` refers to Dante and Virgil.
+- `[9:noi]` refers to the two lustful souls (Francesca and Paolo).
+- `[10:voi]` refers to Dante and Virgil.
+- `[11:ci]` refers to the two lustful souls (Francesca and Paolo).
+
+## Scene 97-107: The Tale of Dido
+**Note on Scene Title:** Although the prompt refers to this scene as "The Tale of Dido," the text provided is actually the beginning of **Francesca's Tale**. Dido was mentioned earlier by Virgil in the catalogue, but the speaker here is Francesca da Rimini, talking about her life in Italy (near the Po river) and her relationship with Paolo.
+
+**Scene Analysis: The Tale of Francesca (Part 1)**
+
+In this scene, Francesca begins to tell Dante the story of her fall. She starts with her origins, describing her birthplace on the coast where the Po River flows into the sea. She then shifts to a philosophical and emotional explanation of her sin, attributing everything to the irresistible power of Love (`Amor`). 
+
+She explains that Love "took" Paolo because of her beauty, and in turn, Love "took" her because of her attraction to Paolo. She presents Love as a force that cannot be resisted by a "gentle heart" and notes that this passion is so strong that it continues to bind them together even in the afterlife. Finally, she reveals that this love led them both to death, and she mentions that the person who killed them (her husband/Paolo's brother, Gianciotto) is destined for "Caina," the region of the Ninth Circle reserved for those who betray their own kin.
+
+**Tag Resolutions:**
+
+- `[1:+io]` refers to Francesca.
+- `{2:l Po}` refers to the Po River.
+- `{3:seguaci}` refers to the tributaries/followers of the Po River.
+- `{4:Amor}` refers to Love (personified).
+- `{5:cor gentil}` refers to the "gentle heart" (the kind of person susceptible to Love; specifically Francesca and Paolo).
+- `[6:s']` refers to Love.
+- `[7:+ei]` refers to Love.
+- `[8:costui]` refers to Paolo.
+- `{9:la bella persona}` refers to Francesca (referring to herself as the object of Paolo's desire).
+- `[10:mi]` refers to Francesca.
+- `[11:m']` refers to Francesca.
+- `{12:Amor}` refers to Love (personified).
+- `{13:nullo amato}` refers to any beloved person (a general rule of Love).
+- `[14:+ei]` refers to Love.
+- `[15:mi]` refers to Francesca.
+- `[16:+tu]` refers to Dante.
+- `[17:m']` refers to Francesca.
+- `{18:Amor}` refers to Love (personified).
+- `[19:noi]` refers to Francesca and Paolo.
+- `{20:Caina}` refers to Caina (the zone of the Ninth Circle for kin-slayers).
+- `[21:chi]` refers to the murderer (Gianciotto).
+- `[22:ci]` refers to Francesca and Paolo.
+
+## Scene 108-114: Dante's Grief
+In this brief scene, Dante reacts emotionally to the story Francesca has just told. After she finishes her account of how Love led her and Paolo to their death, Dante is overcome with pity. He bows his head in sadness and remains silent until Virgil notices his distress and asks what he is thinking. Dante responds with a lament, reflecting on the tragedy of how sweet desires and thoughts can lead people to such a painful end (their death and eternal damnation).
+
+**Tag Resolutions:**
+- `[1:lor]` refers to Francesca and Paolo.
+- `[2:ci]` refers to Dante and Virgil.
+- `[3:io]` refers to Dante.
+- `{4:quell' anime offense}` refers to Francesca and Paolo.
+- `[5:+io]` refers to Dante.
+- `[6:+io]` refers to Dante.
+- `{7:l poeta}` refers to Virgil.
+- `[8:mi]` refers to Dante.
+- `[9:+tu]` refers to Dante.
+- `[10:+io]` refers to Dante.
+- `[11:+io]` refers to Dante.
+- `[12:costoro]` refers to Francesca and Paolo.
+
+## Scene 115-126: An Inquiry to Francesca
+In this scene, Dante recovers from his initial shock and grief to engage Francesca in a deeper conversation. He addresses her directly, expressing his pity and asking for the specific details of how her affair with Paolo began—essentially asking how "Love" managed to lead them toward their forbidden desires.
+
+Francesca responds with one of the most famous lines in the *Divina Commedia*, noting that there is no greater pain than remembering happy times while in misery, and she mentions that Virgil (Dante's "doctor") would understand this sentiment. She then agrees to reveal the "first root" of their love, acknowledging Dante's curiosity and his visible emotion.
+
+**Tag Resolutions:**
+- `[1:+io]` refers to Dante.
+- `[2:mi]` refers to Dante.
+- `[3:loro]` refers to Francesca and Paolo.
+- `[4:io]` refers to Dante.
+- `[5:+io]` refers to Dante.
+- `{6:Francesca}` refers to Francesca.
+- `[7:mi]` refers to Dante.
+- `[8:+tu]` refers to Francesca.
+- `{9:amore}` refers to Love (personified).
+- `[10:+voi]` refers to Francesca and Paolo.
+- `[11:quella]` refers to Francesca.
+- `[12:me]` refers to Dante.
+- `{13:l tuo dottore}` refers to Virgil.
+- `[14:tu]` refers to Dante.
+- `[15:+io]` refers to Francesca (the speaker).
+- `[16:colui]` refers to Dante.
+
+## Scene 127-138: The Lancelot Legend
+In this scene, Francesca describes the catalyst for her adultery with Paolo. She explains that they were reading a romance about Lancelot for pleasure, a story about how Love constrained the knight. While they were alone and unsuspecting, the reading caused them both to flush with emotion. However, one specific moment in the story—the description of Lancelot kissing the smile of his beloved—broke their resolve. At that precise moment, Paolo, who remains by her side even in Hell, kissed her with trembling lips. Francesca metaphorically calls the book and its author "Galehaut" (referring to the character in Arthurian legend who acted as the go-between for Lancelot and Guinevere), signifying that the book served as the intermediary that facilitated their sin. Consequently, they never read any further that day.
+
+**Tag Resolutions:**
+- `[1:Noi]` refers to Francesca and Paolo.
+- `{2:Lancialotto}` refers to Lancelot.
+- `{3:amor}` refers to Love (personified).
+- `[4:lo]` refers to Lancelot.
+- `[5:+noi]` refers to Francesca and Paolo.
+- `[6:ci]` refers to Francesca and Paolo.
+- `[7:+ella]` refers to the reading/the story (*quella lettura*).
+- `[8:ci]` refers to Francesca and Paolo.
+- `[9:+noi]` refers to Francesca and Paolo.
+- `{10:cotanto amante}` refers to Lancelot (the character in the book).
+- `[11:questi]` refers to Paolo.
+- `[12:me]` refers to Francesca.
+- `[13:mi]` refers to Francesca.
+- `{14:Galeotto}` refers to Galehaut (used here as a metaphor for the book/intermediary).
+- `[15:chi]` refers to the author of the book.
+- `[16:+noi]` refers to Francesca and Paolo.
+
+## Scene 139-142: Dante's Collapse
+**Scene Analysis: Dante's Collapse**
+
+In this brief and dramatic conclusion to the encounter, the emotional weight of Francesca's story reaches its peak. As Francesca finishes her account of the forbidden kiss and their subsequent fall, the narrative focuses on the two lovers: while Francesca has been the voice of their tragedy, Paolo has remained silent, his grief expressed only through tears.
+
+Dante, the pilgrim, is so profoundly moved by the pity he feels for the two souls—and perhaps by the terrifying realization of how easily "sweet" love can lead to eternal ruin—that he suffers a complete emotional and physical collapse. He describes his reaction as a feeling of dying, and the scene ends with him fainting and falling to the ground, completely lifeless like a corpse.
+
+**Tag Resolutions:**
+
+- `{1:l'uno spirto}` refers to Francesca (the spirit who was speaking).
+- `[2:l'altro]` refers to Paolo (the other spirit who was weeping).
+- `[3:io]` refers to Dante.
+- `[4:io]` refers to Dante.
+- `[5:+io]` refers to Dante.
+- `{6:corpo morto}` refers to Dante (used here in a simile to describe the way he falls).
+
+# recap
+- Dante and Virgil are in the Second Circle, having just spoken with the souls of Francesca and Paolo.
+- Overwhelmed by pity for the lovers, Dante has fainted and lies lifeless on the ground.

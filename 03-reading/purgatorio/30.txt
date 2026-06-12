@@ -1,0 +1,379 @@
+# Canto 30 — The Arrival of Beatrice and the Vision of the Blessed
+
+## Scene 1-9: The Settling of the First Heaven
+**Scene Analysis: The Settling of the First Heaven**
+
+**What happens:**
+The scene opens with a celestial movement coming to a halt. The "settentrïon" (the northern rotation/pole) of the first heaven (the sphere of the Moon) stops moving. Dante describes this rotation as something that keeps everyone attentive to their divine duties, comparing it to how a humble sailor remains vigilant and mindful of his task because he fears the perils of the sea while trying to reach port. Once this rotation ceases, a group of blessed spirits—the "truthful people"—who are positioned between the Griffin and the celestial axis, turn their gaze toward the chariot (where Beatrice is) as if it were the source of their peace.
+
+**Who speaks to whom:**
+There is no dialogue in this passage. It is purely narrative description provided by Dante the narrator.
+
+**Resolution of Numbered Tags:**
+
+*   **{1:'l più basso}**: The humble sailor (or mariner). This is part of a simile comparing the souls in heaven to sailors navigating a ship.
+*   **[2:+elli]**: The sailors/mariners. This refers back to the people involved in the navigation simile who fear the dangers of the sea (the "winds" or "currents" implied by the context of reaching port).
+*   **{3:la gente verace}**: The blessed souls (the "truthful people") in Paradise.
+*   **[4:sé]**: The blessed souls (referring back to `{3:la gente verace}`).
+
+## Scene 10-12: The Herald's Cry
+**Scene Analysis: The Herald's Cry**
+
+**What happens:**
+The silence following the halt of the celestial rotation is broken by one of the blessed souls. This individual acts as a herald, appearing as if sent from heaven to announce the arrival. He sings a specific phrase in Latin, *"Veni, sponsa, de Libano"* ("Come, bride, from Lebanon"), shouting it three times. Immediately following his lead, all the other blessed spirits join in the cry.
+
+**Who speaks to whom:**
+The herald (and subsequently the entire group of blessed souls) is singing/calling to Beatrice, addressing her as the "bride."
+
+**Resolution of Numbered Tags:**
+
+*   **[1:loro]**: The blessed souls (the "truthful people" / `{3:la gente verace}` from the previous scene).
+*   **[2:+tu]**: The herald (the "one of them" who begins the song). *Note: While the tag says "tu," it functions here as the subject of the action "cantando" (singing).*
+*   **{3:sponsa}**: Beatrice (addressed as the "bride").
+*   **[4:+ei]**: The herald (the same "one of them" who shouted).
+*   **{5:tutti li altri}**: The other blessed souls in the first heaven.
+
+## Scene 13-21: The Anthem of the Blessed
+**Scene Analysis: The Anthem of the Blessed**
+
+**What happens:**
+Dante employs a grand simile to describe the reaction of the blessed spirits to the arrival of the procession. He compares the way these souls rise to greet Beatrice to the way the blessed will rise from their graves ("caverns") at the Final Judgment (the "novissimo bando") to shout hallelujahs. 
+
+Returning to the present moment in Paradise, a group of these blessed souls—described as "a hundred"—rise up on the "divine floor." They act as ministers and messengers of eternal life. They greet Beatrice with a Latin chant, "Benedictus qui venis!" ("Blessed are you who come!"), while showering her with flowers and calling for hands full of lilies (a symbol of her purity and the purity of the Virgin Mary).
+
+**Who speaks to whom:**
+The group of blessed souls (the "hundred") are speaking and singing collectively to Beatrice.
+
+**Resolution of Numbered Tags:**
+
+*   **{1:i beati}**: The blessed souls in general (specifically those who will rise at the Last Judgment in the context of the simile).
+*   **[2:+elli]**: The blessed souls who will rise at the Last Judgment (referring back to `{1:i beati}`).
+*   **[3:cotali]**: The blessed souls currently present in the first heaven (those who are reacting to Beatrice's arrival).
+*   **[4:si]**: The blessed souls currently present (referring back to `[3:cotali]`).
+*   **{5:cento}**: The specific group of a hundred blessed souls who rise up.
+*   **{6:tanti senis}**: The blessed souls (referring to the number of those who raised their voices/the heralds).
+*   **{7:ministri}**: The blessed souls (acting as ministers/servants of God).
+*   **{8:messaggier}**: The blessed souls (acting as messengers of eternal life).
+*   **[9:qui]**: Beatrice (the "you" in the Latin phrase *Benedictus qui venis*).
+*   **[10:+voi]**: Beatrice (addressed as "you," associated with the lilies of purity).
+
+## Scene 22-33: The Appearance of the Lady
+**Scene Analysis: The Appearance of the Lady**
+
+**What happens:**
+Dante begins this passage with a vivid atmospheric simile. He describes the early morning sky—the eastern horizon turning rosy, the clear blue of the rest of the heavens, and the sun rising, but softened by vapors so that the human eye can gaze upon it for a long time without blinking. This sets the stage for the visual intensity of what follows: Beatrice's appearance.
+
+Beatrice emerges within a cloud of flowers that is being lifted by angelic hands and swirling around her. She is described with striking colors and symbols: she wears a white veil, a crown of olive leaves, a green mantle, and a dress the color of "living flame" (bright red). This imagery emphasizes her purity, her peace/victory (the olive), and her divine love/charity (the red).
+
+**Who speaks to whom:**
+There is no dialogue in this scene. It is a descriptive passage narrated by Dante.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:Io]**: Dante (the narrator/pilgrim).
+*   **[2:+ella]**: The cloud of flowers (`una nuvola di fiori`). The text describes the cloud rising from the hands of angels and falling back down around the lady.
+*   **{3:donna}**: Beatrice.
+*   **[4:m']**: Dante (the one to whom Beatrice appears).
+
+## Scene 34-39: Spiritual Recognition
+**Scene Analysis: Spiritual Recognition**
+
+**What happens:**
+In this brief but intense passage, Dante describes the internal state of his soul as he gazes upon Beatrice. He explains that for a long time, he has been completely overwhelmed by her presence—trembling and "crushed" by a state of stupor that effectively blinded him (meaning he was so awestruck he could no longer "see" or process the vision with his physical eyes). He attributes this reaction to a hidden, divine power emanating from Beatrice. Finally, his spirit breaks through this shock to feel the immense, enduring power of the "ancient love" that has bound them since their first meeting in the *Vita Nuova*.
+
+**Who speaks to whom:**
+There is no dialogue. This is a narrative reflection by Dante describing his internal psychological and spiritual reaction to Beatrice's appearance.
+
+**Resolution of Numbered Tags:**
+
+*   **{1:lo spirito mio}**: Dante (specifically, his soul/spirit).
+*   **[2:lei]**: Beatrice (the source of the "occult power" that causes Dante's awe).
+*   **[3:+ei]**: Dante (referring back to `{1:lo spirito mio}`, the spirit that feels the power of ancient love).
+
+## Scene 40-48: Dante's Trembling
+**Scene Analysis: Dante's Trembling**
+
+**What happens:**
+As soon as Dante is struck by the "high virtue" (the divine power/grace) emanating from Beatrice, he is overcome with emotion. He notes that this same spiritual force had "pierced" him long ago, before he had even finished childhood (a reference to their first meeting in the *Vita Nuova*). 
+
+Overwhelmed by the intensity of the moment, Dante turns to his left to speak to Virgil. He describes his own movement using a poignant simile: he turns with the same sudden, desperate haste that a small child uses when running to his mother out of fear or distress. He tells Virgil that he is trembling so violently that there is hardly any blood left in his veins that isn't shaking, for he recognizes the "signs of the ancient flame"—the enduring, passionate love he has always felt for Beatrice.
+
+**Who speaks to whom:**
+Dante speaks to Virgil.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:mi]**: Dante.
+*   **{2:l'alta virtù}**: Beatrice (specifically, the divine power or spiritual grace she emanates).
+*   **[3:m']**: Dante.
+*   **[4:io]**: Dante.
+*   **[5:+io]**: Dante.
+*   **{6:il fantolin}**: A generic little child (used in a simile).
+*   **{7:la mamma}**: A generic mother (used in a simile).
+*   **[8:+elli]**: The little child (`{6:il fantolin}`).
+*   **[9:elli]**: The little child (`{6:il fantolin}`).
+*   **{10:Virgilio}**: Virgil.
+*   **[11:m']**: Dante.
+*   **[12:+io]**: Dante.
+*   **[13:+io]**: Dante.
+
+## Scene 49-54: Lament for Virgil
+**Scene Analysis: Lament for Virgil**
+
+**What happens:**
+Dante has just turned to Virgil in a state of panic and awe, seeking comfort like a child running to a mother. However, when he looks at Virgil, he finds that Virgil is not in a position to provide that strength. Virgil is "scemi" (dazed, stunned, or overwhelmed). He is emotionally crushed by the weight of the moment—likely because the arrival of Beatrice signals the end of his role as Dante's guide and his inevitable departure.
+
+Dante expresses deep affection and gratitude for Virgil, calling him "sweetest father" and acknowledging that Virgil dedicated himself to Dante's salvation. The scene ends with a poignant image of Virgil weeping. The reference to the "ancient mother" (l'antica matre) serves as a poetic mirror to the previous simile of the child and the mother; while Dante sought the mother's comfort in Virgil, Virgil is now experiencing the pain of loss—the loss of the "maternal" bond of care and guidance he has shared with Dante.
+
+**Who speaks to whom:**
+There is no spoken dialogue here. This is Dante the narrator describing Virgil's emotional state and reflecting on their relationship.
+
+**Resolution of Numbered Tags:**
+
+*   **{1:Virgilio}**: Virgil.
+*   **[2:n']** (in *n'avea*): Virgil (reflexive; Virgil had let *himself* become dazed).
+*   **[3:sé]**: Virgil (dazed by his own emotion/the situation).
+*   **{4:Virgilio}**: Virgil.
+*   **{5:dolcissimo patre}**: Virgil (an affectionate epithet used by Dante).
+*   **{6:Virgilio}**: Virgil.
+*   **[7:+ei]**: Virgil (referring to the one who gave himself/his efforts to Dante's salvation).
+*   **[8:mi]**: Dante (the one who was guided/given care).
+*   **{9:l'antica matre}**: The "ancient mother" (a symbolic reference to the bond of guidance and care Virgil provided to Dante, mirroring the child/mother simile in the previous scene).
+
+## Scene 55-57: Virgil's Warning
+**Scene Analysis: Virgil's Warning**
+
+**What happens:**
+Virgil finally breaks his silence to speak to Dante. He acknowledges the reality of the situation: he is about to depart, as his role as guide ends now that Beatrice has arrived. Virgil tells Dante not to weep for him or his departure. He warns Dante that while he might feel the urge to cry now, he will have more pressing, more painful reasons to weep in the future—specifically referring to "another sword" (*altra spada*). This is a foreshadowing of the stern spiritual correction and the "sword" of truth/reproof that Beatrice is about to deliver to Dante to purge him of his remaining earthly faults.
+
+**Who speaks to whom:**
+Virgil is speaking to Dante.
+
+**Resolution of Numbered Tags:**
+
+*   **{1:Dante}**: Dante.
+*   **{2:Virgilio}**: Virgil.
+*   **[3:se]**: Virgil (reflexive; Virgil is the one departing).
+*   **[4:+tu]**: Dante (the one Virgil is telling not to cry).
+*   **[5:+tu]**: Dante (the one Virgil is telling not to cry).
+*   **[6:ti]**: Dante (the one for whom it will be necessary to cry).
+
+## Scene 58-66: Beatrice's Gaze
+**Scene Analysis: Beatrice's Gaze**
+
+**What happens:**
+Dante begins this passage with a simile to describe the way Beatrice looks at him. He compares her gaze to that of an admiral who moves from the stern to the bow of his ship to oversee the crews on the other vessels, encouraging them to perform their duties well.
+
+Returning to the narrative, Dante is on the riverbank. He hears his name called (though the actual calling is implied by the phrase "at the sound of my name"). Upon hearing this, he turns toward the left side of the celestial chariot. There, he sees Beatrice—the woman who had just appeared to him veiled within the cloud of flowers—raising her eyes to look directly at him from across the river. This moment marks the first direct, conscious visual contact between the two since her arrival.
+
+**Who speaks to whom:**
+There is no dialogue in the text provided, although the mention of the "sound of my name" indicates that Beatrice has addressed Dante, prompting him to look at her.
+
+**Resolution of Numbered Tags:**
+
+*   **{1:ammiraglio}**: An admiral (used in a simile).
+*   **{2:la gente}**: The crew/people on the other ships (used in a simile).
+*   **[3:+ei]**: The crew/people on the other ships (referring back to `{2:la gente}`).
+*   **[4:l']**: The crew/people on the other ships (referring back to `{2:la gente}`).
+*   **[5:+io]**: Dante.
+*   **[6:mi]**: Dante.
+*   **[7:+io]**: Dante.
+*   **{8:la donna}**: Beatrice.
+*   **[9:m']**: Dante.
+*   **[10:me]**: Dante.
+
+## Scene 67-75: The Greeting of Beatrice
+**Scene Analysis: The Greeting of Beatrice**
+
+**What happens:**
+Dante describes the physical presence of Beatrice as she prepares to speak. Although she wears a veil over her head, adorned with the olive leaves of Minerva (symbolizing wisdom and peace), her face remains clearly visible. Dante notes her expression as "regally proterva" (haughty or stern), suggesting a shift in tone from the ethereal beauty of her arrival to a position of authority and judgment. She is compared to someone who speaks but holds back the most intense part of their message for later.
+
+Then, Beatrice speaks directly to Dante. She commands him to look at her closely and confirms her identity, stating twice, "I am Beatrice." However, her greeting is not one of warmth, but of interrogation. She asks him how he dared or thought it appropriate to ascend the mountain (of Purgatory/Paradise) and asks if he was unaware that "the happy man" (the blessed) resides there. This marks the beginning of the spiritual correction Virgil foreshadowed.
+
+**Who speaks to whom:**
+Beatrice is speaking to Dante.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:le]**: Beatrice.
+*   **{2:Minerva}**: Minerva (the Roman goddess of wisdom).
+*   **[3:la]**: Beatrice.
+*   **[4:+ella]**: Beatrice.
+*   **[5:colui]**: A generic person (used in a simile to describe someone who reserves their most intense words).
+*   **[6:+ei]**: The same generic person (`[5:colui]`).
+*   **[7:+tu]**: Dante.
+*   **[8:+io]**: Beatrice.
+*   **[9:+io]**: Beatrice.
+*   **{10:Beatrice}**: Beatrice.
+*   **[11:+tu]**: Dante.
+*   **[12:tu]**: Dante.
+*   **{13:l'uom felice}**: The "happy man" (referring to the blessed souls in Paradise).
+
+## Scene 76-81: Dante's Shame
+**Scene Analysis: Dante's Shame**
+
+**What happens:**
+Overwhelmed by the sternness of Beatrice’s interrogation and his own feelings of unworthiness, Dante is unable to maintain eye contact with her. He drops his gaze, looking down into the clear water of the riverbank. However, upon seeing his own reflection in the water, he is struck by an even deeper sense of shame and quickly averts his eyes, looking instead at the grass.
+
+To explain the nature of Beatrice's current sternness, Dante employs a poignant simile. He compares their relationship to that of a mother and her son: a mother may appear haughty or severe to her child, but this apparent harshness is actually born from a "bitter" form of pity—a stern love intended for the child's own correction and ultimate well-being. Through this, Dante recognizes that Beatrice's current severity is not a sign of rejection, but a necessary part of his spiritual purification.
+
+**Who speaks to whom:**
+There is no dialogue in this scene. It is a narrative description of Dante's physical reaction and his internal reflection on Beatrice's behavior.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:mi]**: Dante.
+*   **[2:+io]**: Dante.
+*   **[3:mi]**: Dante.
+*   **{4:la madre}**: A generic mother (used in a simile).
+*   **{5:al figlio}**: A generic son (used in a simile).
+*   **[6:ella]**: Beatrice (who, in the context of the simile, is compared to the mother).
+*   **[7:me]**: Dante (who, in the context of the simile, is compared to the son).
+*   **[8:+ella]**: Beatrice (referring back to the mother figure in the simile).
+
+## Scene 82-84: Interrupted Song
+**Scene Analysis: Interrupted Song**
+
+**What happens:**
+Beatrice falls silent, ending her stern interrogation of Dante. In the ensuing silence, the angels accompanying the procession suddenly break in with a liturgical chant. They sing a line from a psalm: *"In te, Domine, speravi"* ("In Thee, O Lord, have I hoped"). However, they do not complete the full verse; they stop abruptly after the words *"pedes meos"* ("my feet"), leaving the song unfinished. This interruption mirrors the tension of the moment and the suspended state of Dante's spiritual transition.
+
+**Who speaks to whom:**
+The angels are singing a prayer/psalm addressed to God.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:Ella]**: Beatrice (who stops speaking).
+*   **[2:si]**: Beatrice (reflexive; she fell silent).
+*   **{3:li angeli}**: The angels.
+*   **[4:te]**: God / The Lord (addressed in the Latin chant).
+*   **{5:Domine}**: God / The Lord (addressed in the Latin chant).
+*   **[6:+io]**: The speaker of the psalm (sung by the angels; this "I" is the voice of the liturgical prayer).
+*   **[7:+elli]**: The angels (the ones singing who stopped after the phrase "pedes meos").
+
+## Scene 85-99: The Release of Tears
+**Scene Analysis: The Release of Tears**
+
+**What happens:**
+Dante describes his emotional state using a vivid atmospheric simile. He compares himself to the snow that falls across Italy: it is frozen and compressed by cold winds on the roofs and beams, but eventually, it liquefies and seeps into the earth, allowing the land to breathe again, appearing like fire melting a candle.
+
+Similarly, Dante explains that he had been "frozen"—emotionally paralyzed, unable to cry or even sigh—while the blessed spirits (those who follow the eternal celestial rotations) were singing. However, this state of stupor breaks when he perceives a sense of compassion in the sweet tones of these blessed souls. He describes it as if they were actually speaking to Beatrice, asking her why she is treating him so harshly. This perceived empathy acts as the catalyst that melts the "ice" around Dante's heart, causing him to finally break down in a release of anguish, with tears and sighs pouring from his eyes and mouth.
+
+**Who speaks to whom:**
+There is no actual dialogue in this scene. The words in line 96 ("Woman, why do you treat him so harshly?") are not spoken aloud; rather, they represent Dante's internal perception of the compassion emanating from the blessed souls. He is imagining the sentiment behind their songs as they look upon him and Beatrice.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:+io]**: Dante.
+*   **[2:quei]**: The blessed souls/angels (the inhabitants of the celestial spheres who "note" or follow the eternal rotations).
+*   **[3:+io]**: Dante.
+*   **[4:me]**: Dante.
+*   **[5:+elli]**: The blessed souls/angels (referring back to `[2:quei]`).
+*   **{6:Donna}**: Beatrice.
+*   **[7:+tu]**: Beatrice (addressed in Dante's imagined dialogue).
+*   **[8:m']**: Dante.
+
+## Scene 100-117: Theology of Grace
+This scene, which can be titled "Theology of Grace," captures a pivotal moment where Beatrice justifies her sternness to the witnesses of Heaven.
+
+**What happens:**
+Beatrice, still positioned on the chariot, addresses the blessed souls (the "pious substances"). She acknowledges their eternal vigilance—the fact that they watch the passing of time and the movements of the world without ever sleeping or experiencing night. 
+
+Because these souls are such attentive observers, Beatrice explains that she is being very careful with her words. She wants her "response" (her stern rebuke of Dante) to be clearly understood by Dante, who is weeping nearby. Her goal is to ensure that the "measure" of his pain matches the "measure" of his fault—essentially, a spiritual calibration where the correction is proportional to the sin.
+
+She then delves into the theology of Dante's soul. She explains that it wasn't just the influence of the stars or celestial rotations (astrological determinism) that shaped him. Rather, through an abundance of "divine graces"—powers so high and subtle they are nearly invisible even to the blessed—Dante possessed a profound innate potential during his "new life" (his youth/the period of the *Vita Nuova*). She asserts that, "virtually" (meaning potentially), he was so graced that every "right habit" (virtuous disposition) would have been wonderfully manifested in him, had he stayed on the right path.
+
+**Who speaks to whom:**
+Beatrice is speaking to the blessed souls (`{2:le sustanze pie}`), though she refers to Dante (`[7:colui]`) as the subject of her explanation.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:Ella]**: Beatrice.
+*   **{2:le sustanze pie}**: The blessed souls in the first heaven.
+*   **[3:+ella]**: Beatrice.
+*   **[4:Voi]**: The blessed souls.
+*   **[5:voi]**: The blessed souls.
+*   **[6:m']**: Beatrice.
+*   **[7:colui]**: Dante.
+*   **[8:questi]**: Dante.
+*   **[9:+elli]**: The "divine graces" (or the "vapors" of grace mentioned in line 113). These are the active forces that would have transformed Dante's potential into actual virtue.
+*   **[10:lui]**: Dante.
+
+## Scene 118-126: The Metaphor of the Uncultivated Soil
+**Scene Analysis: The Metaphor of the Uncultivated Soil**
+
+**What happens:**
+Beatrice continues her explanation to the blessed souls, using a powerful agricultural metaphor to explain why Dante fell into sin despite his immense spiritual potential. She argues that the more fertile a piece of land is (the "good terrestrial vigor"), the more "wild" and "malignant" it becomes if it is planted with bad seeds and left uncultivated. In this metaphor, the fertile soil is Dante's soul, and the "bad seeds" are the errors and sins he succumbed to.
+
+She then reflects on her own history with Dante. She recalls how, during their youth, her presence and her "young eyes" acted as a guide, keeping him on the "right path." However, she explains that as soon as she reached the "threshold of her second age" (a poetic euphemism for her death and transition to the afterlife), Dante abandoned the path she had set for him. He "took himself away" from her influence and "gave himself to another"—referring to his period of spiritual wandering and his pursuit of earthly distractions before the events of the *Divina Commedia*.
+
+**Who speaks to whom:**
+Beatrice is still speaking to the blessed souls (`{2:le sustanze pie}` from the previous scene), explaining the trajectory of Dante's soul.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:elli]**: The soil (`'l terren`). In the metaphor, this represents the human soul, specifically Dante's soul.
+*   **[2:+io]**: Beatrice (the speaker).
+*   **[3:il]**: Dante (the one Beatrice sustained with her presence).
+*   **[4:lui]**: Dante (the one to whom Beatrice showed her young eyes).
+*   **[5:meco]**: Beatrice (Dante was led "with" her).
+*   **[6:+io]**: Beatrice (the implicit subject of the action "menava" / led).
+*   **[7:il]**: Dante (the one being led in the right direction).
+*   **[8:+io]**: Beatrice (referring to her transition to the "second age"/death).
+*   **[9:+io]**: Beatrice (the one who "changed life" by passing from the earthly realm to the divine).
+*   **[10:questi]**: Dante (the one who strayed).
+*   **[11:si]**: Dante (reflexive; he took *himself* away).
+*   **[12:me]**: Beatrice (the one Dante distanced himself from).
+*   **[13:+elli]**: Dante (the one who gave himself to "another").
+
+## Scene 127-138: The Descent into Error
+**Scene Analysis: The Descent into Error**
+
+**What happens:**
+Beatrice continues her explanation to the blessed souls, describing the tragedy of Dante’s spiritual decline. She explains a cruel paradox: at the moment she transitioned from a physical being to a spiritual one ("from flesh to spirit"), her beauty and virtue increased. However, this was precisely when she became less "dear" and "welcome" to Dante. Instead of being drawn toward her higher spiritual light, Dante turned away and wandered down a "false path," chasing illusory versions of "the good" (earthly desires or false philosophies) that could never fulfill their promises.
+
+Beatrice reveals that she did not abandon him; she attempted to guide him back through divine inspirations and dreams. However, Dante was so indifferent to these calls that he continued to sink deeper into error. Eventually, he fell so far that no amount of rational argument or gentle guidance was sufficient for his salvation. The only remaining way to wake him from his spiritual stupor was the drastic measure of showing him the "lost people"—the damned souls of Hell—to force him to recognize the reality of sin and its consequences.
+
+**Who speaks to whom:**
+Beatrice is speaking to the blessed souls (`le sustanze pie`), explaining the history of Dante's fall and the necessity of his journey through the *Inferno*.
+
+**Resolution of Numbered Tags:**
+
+*   **[1:+ella]**: Beatrice (referring to herself as she transitioned from a mortal woman to a blessed spirit).
+*   **[2:m']**: Beatrice.
+*   **[3:io]**: Beatrice.
+*   **[4:lui]**: Dante.
+*   **[5:+elli]**: Dante.
+*   **[6:+elli]**: Dante.
+*   **[7:mi]**: Beatrice.
+*   **[8:+io]**: Beatrice.
+*   **[9:lo]**: Dante.
+*   **[10:lui]**: Dante.
+*   **[11:+elli]**: Dante.
+*   **[12:+io]**: Beatrice.
+*   **{13:le perdute genti}**: The lost people (the damned souls in Hell).
+
+## Scene 139-145: The Necessity of Repentance
+**Scene Analysis: The Necessity of Repentance**
+
+**What happens:**
+Beatrice continues her explanation to the blessed souls, revealing the lengths she went to in order to save Dante. She explains that because Dante had fallen so far into error, she had to personally visit the "door of the dead" (the entrance to the underworld/Hell) to intercede on his behalf. She describes how she brought her weeping prayers to the one who would eventually lead Dante upward.
+
+Beatrice then concludes with a theological point about divine justice. She asserts that the "high fate" or divine decree of God would be violated if a soul could cross the river Lethe (the river in Purgatory that wipes away the memory of sin) and taste the "food" of spiritual renewal without first paying the "price" (*scotto*) of repentance. In other words, Dante's suffering and tears in *Inferno* and *Purgatorio* were not accidental or cruel, but a mandatory spiritual payment required by God's law to cleanse his soul.
+
+**Who speaks to whom:**
+Beatrice is speaking to the blessed souls (`le sustanze pie`).
+
+**Resolution of Numbered Tags:**
+
+*   **[1:+io]**: Beatrice (the speaker, describing her visit to the underworld).
+*   **{2:i morti}**: The dead (the inhabitants of Hell/the underworld).
+*   **[3:colui]**: Virgil (the guide whom Beatrice prayed to in order to help Dante).
+*   **[4:l']**: Dante (the one whom Virgil brought "up here" through the realms of the afterlife).
+*   **{5:Dio}**: God.
+*   **[6:+egli]**: Dante (the one who must cross the river Lethe).
+*   **[7:si]**: Dante (reflexive; referring to Dante passing across the river).
+
+# recap
+- Dante, Virgil, and Beatrice are together in the first heaven.
+- Beatrice has just finished explaining to the blessed souls the reasons for Dante's spiritual fall and the divine necessity of his journey.
+- Dante remains humbled and penitent on the riverbank as Beatrice concludes her justification for her sternness.

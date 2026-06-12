@@ -1,0 +1,274 @@
+# Canto 18 — The Descent into the First Bolgia of Malebolge
+
+## Scene 1-18: The Topography of Malebolge
+In this opening scene of Canto 18, the action is stationary; it is a descriptive passage where the narrator pauses to explain the geography and architecture of the Eighth Circle, known as Malebolge ("Evil Pouches").
+
+Dante describes the area as a vast, iron-colored stone basin. In the very center of this "malignant field" is a wide, deep pit. The space between this central pit and the outer cliff wall is divided into ten concentric trenches (the *bolge*). To illustrate the layout, Dante uses a simile comparing the structure to a fortified castle surrounded by moats. He explains that just as castles have bridges leading from their thresholds to the outer walls, Malebolge has bridges that span the ridges and trenches, eventually leading to the central pit.
+
+**Tag Resolutions:**
+
+*   `[1:+io]` (line 6): This is the first-person narrator, **Dante**.
+*   `[2:quelli]` (line 13): This refers to the **builders of the castles/fortresses** (the architects or engineers) used in the narrator's analogy to describe the layout of the ditches.
+
+## Scene 19-24: Arrival in the First Bolgia
+In this brief scene, the action shifts from the general architectural description of Malebolge to the immediate physical experience of the two protagonists. Dante and Virgil have just arrived at the bottom of the cliff. Dante describes the physical sensation of shaking himself off the back of the monster Geryon. 
+
+Once on the ground, Virgil (the poet) takes the lead to guide Dante through this dangerous territory. Virgil intentionally keeps Dante to his left side, which is a protective gesture, as it ensures that Dante is positioned away from the edge of the ditches as they walk. As Dante follows behind, he looks to his right and catches his first glimpse of the First Bolgia. He sees a new level of suffering: the tormented souls and the demons (the "scourgers") who are tasked with punishing them.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: **Dante** (The narrator/pilgrim who is shaking himself off the monster).
+*   `{2:Gerïon}`: **Geryon** (The monster who transported them).
+*   `[3:+noi]`: **Dante and Virgil** (The two travelers).
+*   `{4:'l poeta}`: **Virgil** (Dante's guide).
+*   `[5:+ei]`: **Virgil** (The "he" who keeps Dante to his left).
+*   `[6:io]`: **Dante** (The one following behind).
+*   `[7:mi]`: **Dante** (The reflexive pronoun for "I moved myself").
+*   `[8:+io]`: **Dante** (The observer who sees the torment).
+*   `{9:novi frustatori}`: **The demons/scourgers of the first bolgia** (The agents of punishment who lash the sinners).
+
+## Scene 25-33: The Flow of Sinners
+In this scene, Dante describes the movement of the damned souls within the First Bolgia. He observes that the sinners are naked and are moving in a continuous, bidirectional flow. Those coming from one direction move toward Dante and Virgil, while those coming from the opposite direction move away from them, albeit with faster strides.
+
+To illustrate this organized, opposing flow of crowds, Dante employs a simile based on his own experience with the crowds in Rome. He compares the sinners to the massive influx of pilgrims during a Jubilee year. He recalls how the Roman authorities managed the traffic on a bridge to prevent the crowds from colliding: pilgrims going one way faced the castle and headed toward Saint Peter's, while those on the other side of the bridge headed toward the mountain.
+
+**Tag Resolutions:**
+
+*   `{1:i peccatori}`: **The sinners** (the panderers and seducers inhabiting the First Bolgia).
+*   `[2:+elli]`: **The sinners** (referring back to the souls in the ditch).
+*   `[3:ci]`: **Dante and Virgil** (the two observers).
+*   `[4:noi]`: **Dante and Virgil**.
+*   `{5:la gente}`: **The pilgrims** (the crowds of people visiting Rome during the Jubilee year).
+*   `{6:Santo Pietro}`: **Saint Peter** (referring here to the Basilica of St. Peter or the destination of the pilgrims).
+
+## Scene 34-39: The Brutal Tormentors
+In this scene, Dante describes the violent mechanism of punishment within the First Bolgia. He observes the "scourgers" (the demons) patrolling the gloomy stone area. These horned demons use heavy whips to lash the sinners from behind. Dante notes the visceral effect of these strikes: the blows are so powerful and sudden that the sinners' buttocks leap upward immediately upon the first hit, rendering any second or third strike unnecessary to keep the crowd moving.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: **Dante** (the narrator observing the scene).
+*   `{2:demon cornuti}`: **The demons/scourgers of the first bolgia** (the horned punishers).
+*   `[3:li]`: **The sinners** (the panderers and seducers who are being beaten).
+*   `[4:+elli]`: **The sinners** (the ones reacting to the blows).
+*   `[5:lor]`: **The sinners** (referring to their own buttocks, "le berze", which are forced upward by the strikes).
+
+## Scene 40-51: Recognition of Caccianemico
+In this scene, Dante is walking along the edge of the First Bolgia when he spots a specific face among the stream of punished souls. He recognizes the individual and stops abruptly to get a better look. Virgil stops alongside him and advises Dante to step back slightly, likely for safety, as the demons are actively whipping the souls.
+
+The sinner, realizing he has been spotted, tries to hide his identity by casting his eyes downward, but this attempt fails. Dante addresses the man directly, identifying him as Caccianemico, a Venetian, and asks what has brought him to this place of stinging torment.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: **Dante**
+*   `[2:uno]`: **Caccianemico** (initially just "one" of the sinners)
+*   `[3:io]`: **Dante**
+*   `[4:costui]`: **Caccianemico**
+*   `[5:+io]`: **Dante**
+*   `[6:ïo]`: **Dante**
+*   `[7:figurarlo]`: **Caccianemico**
+*   `{8:'l dolce duca}`: **Virgil**
+*   `[9:meco]`: **Dante**
+*   `[10:si]`: **Virgil**
+*   `[11:+ei]`: **Virgil**
+*   `[12:+io]`: **Dante**
+*   `{13:quel frustato}`: **Caccianemico**
+*   `[14:si]`: **Caccianemico**
+*   `[15:li]`: **Caccianemico**
+*   `[16:io]`: **Dante**
+*   `[17:tu]`: **Caccianemico**
+*   `[18:+tu]`: **Caccianemico**
+*   `{19:Venedico}`: **Caccianemico**
+*   `[20:tu]`: **Caccianemico**
+*   `{21:Caccianemico}`: **Caccianemico**
+*   `[22:ti]`: **Caccianemico**
+
+## Scene 52-63: The Sinner's Confession
+In this scene, Caccianemico responds to Dante's inquiry. He admits that he is reluctant to speak, but Dante's "clear speech" (likely referring to the purity of the Tuscan language or the directness of the question) reminds him of the world of the living and compels him to confess.
+
+Caccianemico reveals his sin: he was the pimp who procured Ghisolabella to satisfy the lust of the Marquess (of Montferrat). After confessing his specific crime, he makes a broader comment about his home city of Bologna. He notes that he is not the only Bolognese soul suffering in this ditch; in fact, he claims the First Bolgia is so crowded with people from Bologna that there are more souls there who can say the word *"sipa"* (a Bolognese dialect term for "shame") than there are people currently speaking it back home between the Savena and Reno rivers. He concludes by telling Dante to remember the legendary greed of the people of Bologna as evidence of this claim.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: **Caccianemico** (The sinner responding to Dante).
+*   `[2:me]`: **Dante** (The narrator/pilgrim).
+*   `[3:+io]`: **Caccianemico** (The speaker).
+*   `[4:mi]`: **Caccianemico**.
+*   `[5:I']`: **Caccianemico**.
+*   `[6:colui]`: **Caccianemico**.
+*   `[7:+io]`: **Caccianemico**.
+*   `{8:del marchese}`: **The Marquess of Montferrat** (The client for whom Caccianemico procured a woman).
+*   `[9:io]`: **Caccianemico**.
+*   `{10:bolognese}`: **The people of Bologna** (Specifically the sinners from Bologna inhabiting the First Bolgia).
+*   `[11:+tu]`: **Dante**.
+*   `[12:+tu]`: **Dante**.
+
+## Scene 64-66: The Demon's Interruption
+In this brief but violent scene, the conversation between Dante and Caccianemico is abruptly cut short. As Caccianemico is speaking, one of the horned demons (the scourgers of the First Bolgia) strikes him with a whip to force him to keep moving. The demon mocks the sinner, calling him a pimp and reminding him that there are no women in this pit for him to procure or "pair" with clients.
+
+**Tag Resolutions:**
+
+*   `[1:il]`: **Caccianemico** (The object of the blow; "the demon struck *him*").
+*   `{2:un demonio}`: **A demon/scourger** (The punisher tasked with keeping the sinners moving).
+*   `[3:+elli]`: **The demon/scourger** (The one speaking).
+*   `{4:ruffian}`: **Caccianemico** (The demon addresses him as "pimp" or "ruffian").
+*   `{5:femmine}`: **Women** (The general category of people Caccianemico used to procure in life).
+
+## Scene 67-72: Moving Along the Rim
+In this scene, the interaction with Caccianemico has ended abruptly due to the demon's intervention. Dante moves away from the edge of the ditch to rejoin Virgil. The two of them walk a short distance until they find a protruding rock or ledge on the bank of the First Bolgia. They climb up this rock and, turning to the right, move along the ledge to exit the outer circles of Malebolge and proceed further into the Eighth Circle.
+
+**Tag Resolutions:**
+
+*   `[1:I']`: **Dante** (The narrator/pilgrim)
+*   `[2:mi]`: **Dante**
+*   `{3:la scorta}`: **Virgil** (Dante's guide/escort)
+*   `[4:+noi]`: **Dante and Virgil**
+*   `[5:+noi]`: **Dante and Virgil**
+*   `[6:ci]`: **Dante and Virgil**
+
+## Scene 73-78: Virgil's Warning
+In this scene, Dante and Virgil have reached a point where the ledge they are walking on overhangs the ditch, creating a path above the flow of the damned. Virgil takes this opportunity to caution Dante. He tells him to be careful and to keep a safe distance, but also to observe the other sinners—the "evil-born"—who are passing below them. Virgil notes that Dante hasn't seen the faces of these particular souls yet, even though they have been moving along the same path, parallel to the poets, as they traversed the rim of the First Bolgia.
+
+**Tag Resolutions:**
+
+*   `[1:noi]`: **Dante and Virgil** (The two travelers reaching the overhanging part of the path).
+*   `{2:li sferzati}`: **The sinners** (The whipped panderers and seducers of the First Bolgia).
+*   `{3:lo duca}`: **Virgil** (Dante's guide).
+*   `[4:+tu]`: **Dante** (The person Virgil is warning to stay back/be careful).
+*   `[5:+tu]`: **Dante** (The person Virgil is instructing).
+*   `[6:te]`: **Dante** (The one who should be observing the sinners).
+*   `{7:altri mal nati}`: **The sinners** (The other "evil-born" souls in the First Bolgia).
+*   `[8:+tu]`: **Dante** (The one who has not yet seen the faces of these sinners).
+*   `[9:+elli]`: **The sinners** (Those who have been moving alongside the poets).
+*   `[10:noi]`: **Dante and Virgil**.
+
+## Scene 79-81: Watching the Bridge
+In this brief scene, Dante and Virgil pause to observe the flow of sinners from a different vantage point. From their position, they look back toward the "old bridge" and watch the stream of damned souls approaching them from the opposite side of the ditch. They note that the movement of this group is identical to the first: the sinners are being driven forward by the relentless lashes of the demons' whips.
+
+**Tag Resolutions:**
+
+*   `[1:+noi]` (line 79): **Dante and Virgil** (the two observers).
+*   `[2:noi]` (line 80): **Dante and Virgil** (the ones toward whom the sinners are moving).
+
+## Scene 82-99: The Tragedy of Jason
+In this scene, Virgil takes the initiative to point out a notable figure among the stream of sinners in the First Bolgia. He directs Dante's attention to a man who possesses a royal bearing and does not seem to weep despite his suffering. Virgil identifies this man as Jason.
+
+Virgil provides a brief history of Jason's transgressions to explain his presence in this ditch. He mentions Jason's cunning in stealing the Golden Fleece from the Colchians. He then describes Jason's stop at the island of Lemnos, where the women had ruthlessly killed their husbands. There, Jason seduced Hypsipyle—who had herself led the other women in their rebellion—only to abandon her while she was pregnant and alone. Virgil notes that Jason's current torment is the just penalty for this betrayal and also serves as a form of delayed revenge for his betrayal of Medea. Virgil concludes by explaining that anyone who deceives others in a similar manner ends up in this first valley of Malebolge.
+
+**Tag Resolutions:**
+
+*   `{1:l buon maestro}`: **Virgil**
+*   `[2:+ei]`: **Virgil**
+*   `[3:mi]`: **Dante**
+*   `[4:+tu]`: **Dante**
+*   `{5:quel grande}`: **Jason**
+*   `[6:+ei]`: **Jason**
+*   `[7:+ei]`: **Jason**
+*   `{8:aspetto reale}`: **Jason**
+*   `[9:Quelli]`: **Jason**
+*   `{10:Iasón}`: **Jason**
+*   `[11:Ello]`: **Jason**
+*   `{12:l'ardite femmine spietate}`: **The Lemnian women**
+*   `{13:tutti li maschi}`: **The husbands/men of Lemnos**
+*   `{14:Isifile}`: **Hypsipyle**
+*   `{15:la giovinetta}`: **Hypsipyle**
+*   `[16:+ei]`: **Jason**
+*   `[17:lui]`: **Jason**
+*   `{18:Medea}`: **Medea**
+*   `[19:+ei]`: **Medea**
+*   `[20:si]`: **Medea**
+*   `[21:lui]`: **Jason**
+*   `[22:chi]`: **Any sinner who deceives/seduces in this manner**
+*   `[23:color]`: **The sinners of the First Bolgia** (the panderers and seducers)
+*   `[24:sé]`: **The sinners of the First Bolgia**
+
+## Scene 100-108: The Foul Junction
+In this scene, Dante and Virgil have reached the junction where the path along the First Bolgia meets the embankment of the Second Bolgia. As they approach this crossing, they begin to perceive the horrors of the next pit before they actually see them.
+
+First, they hear the sounds of the inhabitants of the Second Bolgia: the sinners are described as cowering and striking themselves with their palms. Then, they encounter a physical assault on their senses. The banks of the ditch are coated in a foul, mold-like substance, caused by a noxious "breath" (a stench) rising from the depths of the bolgia. This stench is so thick and oppressive that it irritates Dante’s eyes and nose, serving as a visceral introduction to the sin of flattery (which Dante associates with "foul breath" and excretion).
+
+**Tag Resolutions:**
+
+*   `[1:+noi]` (line 100): **Dante and Virgil**
+*   `[2:+noi]` (line 103): **Dante and Virgil**
+*   `{3:gente}` (line 103): **The sinners of the Second Bolgia** (the flatterers)
+*   `[4:si]` (line 103): **The sinners of the Second Bolgia**
+*   `[5:sé]` (line 105): **The sinners of the Second Bolgia**
+*   `{6:l'alito}` (line 107): **The foul breath/stench of the Second Bolgia**
+*   `[7:s']` (line 107): **The foul breath/stench of the Second Bolgia**
+
+## Scene 109-114: The Sinner in the Filth
+In this scene, Dante and Virgil are attempting to get a clear view of the Second Bolgia. Because the bottom of the ditch is so dark and deep, they cannot see the inhabitants from their current position. To solve this, they climb up to the highest point of the rocky overhang. From this vantage point, Dante looks down into the ditch and sees the sinners of the Second Bolgia completely immersed in a foul, dung-like filth that resembles the contents of human latrines.
+
+**Tag Resolutions:**
+
+*   `[1:ci]` (line 109): **Dante and Virgil** (The two travelers who need a better vantage point to see the bottom of the ditch).
+*   `[2:+noi]` (line 112): **Dante and Virgil** (The two who arrive at the highest point of the rock).
+*   `[3:+io]` (line 113): **Dante** (The narrator/pilgrim who observes the scene below).
+*   `{4:gente attuffata}` (line 113): **The sinners of the Second Bolgia** (The flatterers who are immersed in filth).
+*   `{5:li uman privadi}` (line 114): **Human latrines/privies** (The source of the excrement/filth).
+
+## Scene 115-123: Recognition of Alessio Interminei
+In this scene, Dante is gazing down into the Second Bolgia, where the flatterers are immersed in excrement. He spots a particular soul whose head is so heavily soiled that it is impossible to tell if he is a layman or a monk. The sinner, noticing Dante's intense gaze, shouts at him, asking why he is so "greedy" to look at him specifically rather than the other filthy souls. Dante responds by explaining that he recognizes the man; he recalls having seen him before when his hair was still clean, and identifies him as Alessio Interminei from Lucca. Because of this prior acquaintance, Dante admits he is focusing his attention on him more than on the others.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: **Dante**
+*   `[2:+io]`: **Dante**
+*   `{3:un}`: **Alessio Interminei**
+*   `[4:+elli]`: **Alessio Interminei**
+*   `{5:laico}`: **Alessio Interminei** (referring to his possible status as a layman)
+*   `{6:cherco}`: **Alessio Interminei** (referring to his possible status as a monk)
+*   `[7:Quei]`: **Alessio Interminei**
+*   `[8:mi]`: **Dante**
+*   `[9:tu]`: **Dante**
+*   `[10:me]`: **Alessio Interminei**
+*   `{11:li altri brutti}`: **The other sinners of the Second Bolgia**
+*   `[12:io]`: **Dante**
+*   `[13:lui]`: **Alessio Interminei**
+*   `[14:+io]`: **Dante**
+*   `[15:+io]`: **Dante**
+*   `[16:t']`: **Alessio Interminei**
+*   `[17:+tu]`: **Alessio Interminei**
+*   `{18:Alessio Interminei da Lucca}`: **Alessio Interminei**
+*   `[19:+io]`: **Dante**
+*   `[20:t']`: **Alessio Interminei**
+*   `{21:li altri tutti}`: **The other sinners of the Second Bolgia**
+
+## Scene 124-126: The Flattery of the Sinner
+In this brief scene, Alessio Interminei responds to Dante's recognition. He strikes himself on the head in a gesture of distress or self-loathing while explaining the nature of his punishment. He tells Dante that he is now submerged in the very "flatteries" (*lusinghe*) that he used so incessantly during his life, noting that his tongue was never "stuck" (silent) when it came to flattering others. This is a clear instance of *contrapasso*: the sinner who produced "filthy" and slippery words of flattery is now physically immersed in filth.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: **Alessio Interminei** (The sinner who strikes his own head).
+*   `[2:m']`: **Alessio Interminei** (The speaker referring to himself being submerged).
+*   `[3:io]`: **Alessio Interminei** (The speaker referring to his own talkative nature in life).
+
+## Scene 127-136: The Observation of Taïde
+In this scene, Virgil directs Dante’s attention to another inhabitant of the Second Bolgia. He instructs Dante to lean further over the edge of the ditch to get a clearer view of a specific sinner. Dante observes a disheveled, filthy woman who is intermittently scratching herself with dirty nails, crouching down, and then standing up in the excrement.
+
+Virgil identifies her as Thaide, a prostitute. He explains that she is here because of her flattery toward her lover. He recounts a specific exchange: when her lover asked her if he possessed any grace or favor in her eyes, she responded with an exaggerated "On the contrary, marvelous!" (overstating her feelings to flatter him). Having identified her and the nature of her sin, Virgil tells Dante that they have seen enough and it is time to move on.
+
+**Tag Resolutions:**
+
+*   `{1:lo duca}`: **Virgil**
+*   `[2:+tu]`: **Dante**
+*   `[3:+tu]`: **Dante**
+*   `[4:mi]`: **Dante**
+*   `[5:+ei]`: **Virgil**
+*   `[6:+tu]`: **Dante**
+*   `{7:quella sozza e scapigliata fante}`: **Taïde**
+*   `[8:si]`: **Taïde**
+*   `[9:+ella]`: **Taïde**
+*   `[10:s']`: **Taïde**
+*   `[11:+ella]`: **Taïde**
+*   `{12:Taïde}`: **Taïde**
+*   `{13:la puttana}`: **Taïde**
+*   `{14:al drudo suo}`: **Taïde's lover/paramour**
+*   `[15:+ella]`: **Taïde's lover/paramour** (Note: The text *ell'* is a truncated *ello*, meaning "he," referring to the lover who asks the question).
+*   `[16:io]`: **Taïde's lover/paramour** (The speaker within the quoted question).
+*   `[17:te]`: **Taïde** (The person being addressed in the quoted question).
+
+# recap
+- Dante and Virgil are traveling together.
+- They are at the Second Bolgia of Malebolge, having just observed the flatterers (Alessio Interminei and Taïde).
+- Virgil has decided they have seen enough, and they are preparing to move further into the Eighth Circle.

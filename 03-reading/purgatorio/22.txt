@@ -1,0 +1,297 @@
+# Canto 22 — The Poets of Limbo and the Enchanted Tree
+
+## Scene 1-9: The Departure and Ascent
+In this opening scene of Canto 22, the action transitions from the gateway ritual to the actual ascent of the terrace. 
+
+The Angel who guards the entrance to the fifth terrace (the terrace of the Proud) has just performed the customary act of striking Dante on the cheek to "wake" him from his earthly delusions. The Angel has directed the group toward the sixth terrace and addressed the spirits residing there as "blessed" (*beati*). These spirits responded in unison with the single Latin word *"sitiunt"* ("they thirst"), a liturgical reference to the longing for God.
+
+As the Angel remains behind, Dante feels a strange sense of lightness and ease. He is ascending without the usual struggle or "labor," following the swift movement of the souls who have been purged of their pride.
+
+**Resolution of tags:**
+- {1:l'angel}: The Angel
+- [2:noi]: Dante, Virgil, and Statius
+- {3:l'angel}: The Angel
+- [4:quei]: The blessed spirits of the fifth terrace
+- [5:+ei]: The blessed spirits of the fifth terrace
+- [6:+elli]: The blessed spirits of the fifth terrace
+- [7:io]: Dante
+- [8:+io]: Dante
+- [9:m']: Dante
+- [10:+io]: Dante
+- {11:li spiriti veloci}: The blessed spirits of the fifth terrace
+
+## Scene 10-24: Virgil’s Inquiry
+In this scene, Virgil speaks to Statius as they ascend the terrace. Virgil begins with a philosophical reflection on Love: he explains that Love, when fueled by virtue, naturally ignites a similar flame in others. He reveals that he had felt a deep affection for Statius long before they actually met, because the poet Juvenal (who also resided in Limbo) had made Statius's admiration for Virgil known. This pre-existing bond makes the current ascent feel effortless ("short") to Virgil.
+
+However, the tone shifts from admiration to a pointed inquiry. Virgil asks Statius to speak candidly, as a friend, and asks for forgiveness in advance if his directness is too blunt. He then poses the central question of the scene: how could a man of Statius's immense wisdom and intellectual discipline have allowed the sin of Avarice to take root in his heart?
+
+**Tag Resolutions:**
+- {1:Virgilio}: Virgil
+- {2:Amore}: Love (personified)
+- [3:+ei]: Love (the subject "he/it" who ignites others)
+- [4:noi]: The residents of Limbo (specifically the poets, including Virgil)
+- {5:Giovenale}: Juvenal
+- [6:mi]: Virgil
+- [7:te]: Statius
+- {8:persona}: Statius (the "unseen person" Virgil felt affection for)
+- [9:mi]: Virgil
+- [10:+tu]: Statius
+- {11:amico}: Statius
+- [12:mi]: Virgil
+- [13:+tu]: Statius
+- [14:m']: Virgil
+- {15:amico}: Statius
+- [16:meco]: Virgil
+- [17:+tu]: Statius
+- {18:avarizia}: Avarice (the personified sin)
+- [19:+tu]: Statius
+
+## Scene 25-36: Statius’s Defense
+In this scene, Statius responds to Virgil’s blunt question about how a man of his intellect could have fallen into the sin of Avarice. 
+
+Statius begins his response with a gentle, slightly amused smile, showing he takes no offense at Virgil's directness. He tells Virgil that any expression of love is welcome and precious to him. He then reflects on the nature of appearances, noting that things often seem false or contradictory when the underlying reasons are hidden from view. 
+
+He acknowledges that Virgil is correct: Statius was indeed avaricious in his earthly life. He suggests that this might have seemed surprising given his placement in the "circle" of Limbo (where the virtuous pagans reside). However, Statius explains that his version of avarice was a matter of "excess" or "disproportion"—it was "divided too much" from him (implying a lack of balance or a misplaced longing), and this imbalance is what "thousands of moons" (the passage of centuries in the afterlife) have been punishing.
+
+**Tag Resolutions:**
+- {1:Stazio}: Statius
+- [2:+ei]: Statius
+- [3:+ei]: Statius
+- [4:m']: Statius
+- [5:m']: Statius
+- [6:i']: Statius
+- [7:io]: Statius
+- [8:+tu]: Virgil
+- [9:me]: Statius
+- {10:migliaia di lunari}: Thousands of moons (representing the long duration of time/centuries spent in punishment/purification)
+
+## Scene 37-54: The Sin of Lukewarmness
+In this scene, Statius continues his explanation to Virgil regarding his presence on the terrace of Avarice. He describes a moment of spiritual awakening—a "call" he heard—that warned against the "sacred hunger for gold" (the driving force of Avarice). He reflects that if he had ignored this warning, he would still be enduring the "bitter jousts" (the punishments) of that terrace.
+
+Statius clarifies that his specific failure was not hoarding wealth, but rather the opposite: he was too prodigal. He describes his hands "opening the wings too much to spend," meaning he spent excessively. He expresses a certain sadness for those who, through ignorance, fail to recognize this imbalance in their lives and therefore do not repent before death.
+
+Finally, he explains the logic of Purgatory to Virgil: sins that are "direct opposites" (like hoarding and wasting) are treated as two sides of the same coin because both are failures of moderation. Because he was guilty of the opposite of Avarice (prodigality), he is placed among the avaricious souls to be purged of his lack of restraint.
+
+**Tag Resolutions:**
+- [1:io]: Statius
+- [2:io]: Statius
+- [3:tu]: Virgil
+- [4:tu]: {5:sacra fame} (The hunger for gold)
+- {5:sacra fame}: The hunger for gold (personified Avarice)
+- {6:de' mortali}: Mortals / Human beings
+- [7:+io]: Statius
+- [8:+io]: Statius
+- [9:m']: Statius
+- [10:+io]: Statius
+- [11:mi]: Statius
+- [12:Quanti]: The ignorant souls who fail to repent
+- [13:+tu]: Virgil
+- [14:io]: Statius
+- {15:quella gente}: The spirits on the terrace of Avarice
+- [16:purgarmi]: Statius
+- [17:m']: Statius
+
+## Scene 55-63: Dante’s Doubt
+In this scene, Virgil continues his intellectual and spiritual interrogation of Statius. Having just heard Statius explain that his sin was one of prodigality (excessive spending) rather than hoarding, Virgil points out a contradiction between Statius's artistic output and his personal conduct.
+
+Virgil references Statius's poetry—specifically his work on the tragedies of Thebes and Jocasta (likely referring to the *Thebaid*). He notes that while Statius had the guidance of Clio (the Muse of History) and possessed great intellectual capacity, this didn't seem to translate into "faith" or a disciplined moral life. Virgil asks what "sun or candles" (a metaphor for misleading lights or intellectual delusions) blinded him so thoroughly that he ended up as a soul who had to be ferried across the Acheron by the "fisherman" (Charon) to face purgation, rather than remaining a virtuous pagan in Limbo.
+
+**Tag Resolutions:**
+- [1:tu]: Statius
+- {2:Giocasta}: Jocasta
+- {3:'l cantor de' buccolici carmi}: Virgil (referring to his *Eclogues*)
+- {4:Clïò}: Clio (the Muse of History)
+- [5:ti]: Statius
+- [6:ti]: Statius
+- [7:tu]: Statius
+- {8:al pescator}: Charon (the ferryman of the underworld)
+
+## Scene 64-81: Statius’s Tribute to Virgil
+In this scene, Statius responds to Virgil’s questioning with a profound and moving tribute. He explains that Virgil was the primary catalyst for his intellectual and spiritual journey. 
+
+Statius credits Virgil's poetry for first leading him toward the "heights of Parnassus" (the realm of high poetic art) and, more importantly, for illuminating his path toward God. He uses a striking simile: Virgil was like a man walking at night who carries a lamp behind him. While the lamp does not light the way for the bearer himself (since Virgil lived and died before the revelation of Christ), it provides light for those who follow behind him. 
+
+Specifically, Statius refers to Virgil’s *Fourth Eclogue*, which predicts the arrival of a new era and a "new offspring" from heaven. Statius explains that these prophetic words harmonized perfectly with the teachings of the "new preachers" (the Apostles). Consequently, Virgil's poetry acted as a bridge that led Statius to embrace Christianity and pursue the vocation of a poet. He concludes by telling Virgil that because Virgil can now see the "design" (the spiritual trajectory) of Statius's life, Statius will continue to "color" (write/refine) his work.
+
+**Tag Resolutions:**
+- [1:elli]: Statius (using the archaic singular *elli* for "he")
+- [2:lui]: Virgil
+- [3:Tu]: Virgil
+- [4:m']: Statius
+- {5:Dio}: God
+- [6:+tu]: Virgil
+- [7:m']: Statius
+- [8:+tu]: Virgil
+- [9:quei]: A person walking at night (used in a simile for Virgil)
+- [10:sé]: The person walking at night (Virgil)
+- [11:sé]: The person walking at night (Virgil)
+- [12:+tu]: Virgil
+- {13:progenïe}: The promised offspring/Christ (predicted in Virgil's *Fourth Eclogue*)
+- [14:te]: Virgil
+- {15:poeta}: Statius
+- [16:+io]: Statius
+- [17:te]: Virgil
+- {18:cristiano}: Statius
+- [19:+tu]: Virgil
+- [20:mei]: Statius
+- [21:io]: Statius
+- [22:+io]: Statius
+- {23:li messaggi}: The messengers/Apostles of the eternal kingdom
+- {24:nuovi predicanti}: The new preachers/Christians
+- [25:io]: Statius
+- [26:visitarli]: The new preachers/Christians
+
+## Scene 82-93: The Burden of Tepidity
+In this scene, Statius continues his explanation to Virgil, detailing the internal struggle and the spiritual "lukewarmness" that led to his current state of purgation.
+
+Statius describes how he began to perceive the early Christians as truly holy. He recalls the persecution of these Christians under Emperor Domitian; he felt such deep empathy for them that he wept for their suffering. Seeing their virtuous lives and steadfastness led him to despise all other religious sects of the time. 
+
+He reveals a key biographical detail: he was baptized into the Christian faith *before* he wrote his epic poem regarding the Theban wars (the *Thebaid*). However, he confesses that he was a "closet Christian," hiding his faith out of fear and continuing to present himself as a pagan to the public for a long time. He characterizes this spiritual cowardice and lack of conviction as *tepidezza* (lukewarmness). He concludes that this failure of will—this lukewarmness—is what ultimately brought him to the fourth terrace of Purgatory, outweighing any other factor.
+
+**Tag Resolutions:**
+- [1:+elli]: The Christians (the "new preachers" mentioned in the previous scene)
+- {2:santi}: The Christians/Saints
+- {3:Domizian}: Emperor Domitian
+- [4:li]: The Christians/Saints
+- [5:me]: Statius
+- [6:+ei]: The Christians/Saints (those being persecuted)
+- [7:si]: (Reflexive pronoun referring to the Christians standing "across" from Statius)
+- [8:io]: Statius
+- [9:li]: The Christians/Saints
+- [10:me]: Statius
+- [11:io]: Statius
+- {12:i Greci}: The Greeks (the figures in the Theban myths Statius wrote about)
+- [13:io]: Statius
+- [14:mi]: Statius
+- [15:mi]: Statius
+
+## Scene 94-99: Dante’s Inquiry into Classical Poets
+In this scene, the speaker is **Statius**, who is continuing his conversation with **Virgil**.
+
+Statius begins by acknowledging that Virgil’s probing and direct questioning in the previous scene served as a catalyst for his own eloquence. He tells Virgil that by "lifting the cover" (prompting him to explain himself), Virgil helped Statius realize how well he could express his spiritual journey and his gratitude.
+
+Taking advantage of the current ease of their ascent (noting that they have "plenty of time" or "ease" while climbing), Statius turns the conversation toward the fate of other classical Roman authors. He asks Virgil—who, as a resident of Limbo, would have known these figures—about the whereabouts of four specific writers: Terence, Cecilius, Plautus, and Varro. He specifically wants to know if these poets are damned and, if so, in which part of Hell they reside.
+
+**Tag Resolutions:**
+- [1:Tu]: Virgil
+- [2:m']: Statius
+- [3:io]: Statius
+- [4:+noi]: Dante, Virgil, and Statius
+- [5:+tu]: Virgil
+- {6:Terrenzio nostro antico}: Terence
+- {7:Cecilio}: Cecilius
+- {8:Plauto}: Plautus
+- {9:Varro}: Varro
+- [10:+tu]: Virgil
+- [11:+tu]: Virgil
+- [12:+elli]: The poets mentioned (Terence, Cecilius, Plautus, and Varro)
+
+## Scene 100-114: The Inhabitants of Limbo
+In this scene, Virgil answers Statius's question regarding the fate of the Roman poets Terence, Cecilius, Plautus, and Varro.
+
+Virgil informs Statius that these poets are not in the depths of Hell, but are instead in Limbo (the "first ring of the blind prison"). He explains that he himself, along with Persius and many others, resides there with "that Greek" (Homer), who was the most favored of all by the Muses. Virgil describes Limbo as a place where the poets often discuss the "mountain" (Parnassus) that the Muses always keep with them.
+
+Virgil then provides a list of other notable residents of Limbo, primarily Greek poets and figures from the very myths and tragedies that Statius wrote about in his own work (specifically the *Thebaid*). He mentions poets like Euripides, Antiphon, Simonides, and Agathon, and then pivots to the figures of the Theban cycle—such as Antigone and Ismene—confirming that these virtuous pagans are also gathered in Limbo.
+
+**Tag Resolutions:**
+- [1:Costoro]: Terence, Cecilius, Plautus, and Varro
+- {2:Persio}: Persius
+- [3:io]: Virgil
+- {4:il duca mio}: Virgil
+- [5:+noi]: Virgil and the poets of Limbo (including Persius, Terence, etc.)
+- {6:quel Greco}: Homer
+- {7:le Muse}: The Muses
+- [8:+noi]: Virgil and the poets of Limbo
+- {9:le nutrice nostre}: The Muses
+- {10:Euripide}: Euripides
+- {11:Antifonte}: Antiphon
+- {12:Simonide}: Simonides
+- {13:Agatone}: Agathon
+- {14:Antigone}: Antigone
+- {15:Deïfile}: Deiphile
+- {16:Argia}: Argia
+- {17:Ismene}: Ismene
+- [18:+ella]: Ismene
+- [19:quella]: A female figure from the myths (associated with Langia)
+- {20:la figlia di Tiresia}: Manto
+- {21:Teti}: Thetis
+- {22:le suore sue}: The sisters of Deidamia
+- {23:Deïdamia}: Deidamia
+
+## Scene 115-126: Realigning the Ascent
+In this scene, the conversation between the poets comes to a pause. Virgil and Statius stop talking and become attentive to their surroundings as they continue their effortless ascent, no longer feeling the strain of the climb or the confinement of the terrace walls.
+
+Dante uses a poetic metaphor to describe the passage of time: he refers to the hours of the day as "handmaidens." Four hours have already passed (the four handmaidens), and the fifth hour (the fifth handmaiden) is beginning, signaled by the sun (the "burning horn") rising or positioning itself in the sky.
+
+Breaking the silence, Virgil (Dante's guide) suggests a change in direction. He believes that they must now turn their right shoulders to continue circling the mountain, following the standard path of ascent used on the terraces of Purgatory. The group follows this lead, acting on the agreement and consent of Statius, whom Dante describes as a "worthy soul."
+
+**Tag Resolutions:**
+- {1:li poeti}: Virgil and Statius
+- {2:le quattro ancelle}: The first four hours of the day (personified)
+- {3:la quinta}: The fifth hour of the day (personified)
+- {4:il mio duca}: Virgil
+- [5:Io]: Virgil
+- [6:+noi]: Dante, Virgil, and Statius
+- [7:+noi]: Dante, Virgil, and Statius
+- {8:quell' anima degna}: Statius
+
+## Scene 127-129: Dante’s Observation
+In this brief scene, Dante describes his physical and intellectual position as the group continues their ascent. 
+
+Virgil and Statius are walking ahead of him, while Dante follows alone behind. As he walks, he listens intently to the "sermons" (the high-level intellectual and spiritual discourse) exchanged between the two master poets. Dante notes that listening to their conversation is not merely a passive act, but an educational one; the dialogue between Virgil and Statius provides him with intellectual stimulation and insight that enhances his own poetic capacity.
+
+**Tag Resolutions:**
+- [1:Elli]: Virgil and Statius
+- [2:io]: Dante
+- [3:+ei]: Dante
+- [4:mi]: Dante
+
+## Scene 130-138: The Discovery of the Tree
+In this scene, the intellectual and spiritual discourse between Virgil and Statius is interrupted by a physical discovery. As they continue their ascent, the group encounters a mysterious tree growing in the middle of their path.
+
+Dante describes the tree as having sweet-smelling, pleasant fruit. He notes its unusual shape: while a typical fir tree tapers toward the top, this tree tapers downward (meaning it is wider at the top and narrower at the base). Dante speculates that the tree is shaped this way specifically to prevent anyone from climbing it. He also observes a clear liquid dripping from the high rock wall where the path is blocked, which then sprays upward and spreads across the leaves of the tree.
+
+**Tag Resolutions:**
+- {1:un alber}: The mysterious tree (the "Enchanted Tree")
+- [2:+noi]: Dante, Virgil, and Statius
+- [3:quello]: The mysterious tree
+- [4:io]: Dante
+- {5:persona}: Any person (anyone who might attempt to climb the tree)
+
+## Scene 139-141: The Voice’s Invitation
+In this brief scene, the group's interaction with the mysterious tree begins. Virgil and Statius move closer to the tree to investigate it. As they approach, a mysterious voice speaks from within the branches of the tree, addressing the travelers and informing them that they will find the fruit of the tree to be "dear" or pleasant.
+
+**Tag Resolutions:**
+- {1:Li due poeti}: Virgil and Statius
+- [2:s']: Virgil and Statius
+- {3:una voce}: A mysterious voice (emanating from the tree)
+- [4:+voi]: Dante, Virgil, and Statius
+
+## Scene 142-154: The Theology of Fasting
+In this scene, the mysterious voice emanating from the tree continues to speak to the travelers. The voice delivers a theological lesson on the virtues of fasting and the spiritual rewards of abstaining from physical appetites.
+
+To illustrate this point, the voice provides a series of historical and biblical examples of figures who prioritized spiritual fulfillment over physical sustenance:
+1. **The Virgin Mary**, who focused on the holiness of her divine union rather than her own physical needs.
+2. **The ancient Roman women**, who were content with simple water for their drink.
+3. **The prophet Daniel**, who gave up food to acquire divine wisdom.
+4. **The Golden Age**, where the lack of luxury (hunger and thirst) actually made simple things like acorns and stream water taste like delicacies and nectar.
+5. **John the Baptist**, whose diet of locusts and wild honey in the desert contributed to the glory and greatness attributed to him in the Gospels.
+
+Essentially, the voice is arguing that physical deprivation can lead to spiritual elevation and intellectual clarity.
+
+**Tag Resolutions:**
+- [1:+ei]: The mysterious voice (from the tree)
+- {2:Maria}: The Virgin Mary
+- [3:voi]: Dante, Virgil, and Statius
+- {4:le Romane antiche}: The ancient Roman women
+- [5:+elle]: The ancient Roman women
+- {6:Danïello}: Daniel (the prophet)
+- [7:+ei]: Daniel
+- [8:+ei]: Daniel
+- {9:il Batista}: John the Baptist
+- [10:elli]: John the Baptist
+
+# recap
+- Dante, Virgil, and Statius are traveling together ascending the terrace of Avarice.
+- They have encountered a mysterious, inverted tree with sweet-smelling fruit.
+- A voice speaking from within the tree has just delivered a theological lesson on the spiritual virtues of fasting.

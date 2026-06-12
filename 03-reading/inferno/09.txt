@@ -1,0 +1,268 @@
+# Canto 09 — The Furies and the Arrival of Charon
+
+## Scene 1-6: The obscured vision
+In this scene, Dante is describing his physical and emotional state as he and Virgil attempt to find a way into the City of Dis. Dante is gripped by fear (which he describes as a "color" of cowardice painted on his face). When he sees Virgil turn around, Dante recoils or shrinks back into himself, overwhelmed by anxiety. Because the atmosphere is choked with black air and thick fog, Dante cannot see anything in front of him, so he stands perfectly still and listens intently, trying to make sense of his surroundings through sound since his vision is blocked.
+
+There is no dialogue in these lines; it is a narrative passage spoken by the narrator (Dante).
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante
+- `{2:il duca mio}`: Virgil
+- `[3:+io]`: Dante
+- `[4:+io]`: Dante
+- `[5:si]`: Dante
+- `{6:uom}`: Dante (the "man" is part of a simile describing Dante's behavior)
+
+## Scene 7-15: The interrupted dialogue
+In this scene, Virgil attempts to reassure Dante, but his hesitation and vague phrasing only serve to increase Dante's anxiety.
+
+**Analysis:**
+Virgil begins by saying that they must find a way to overcome the "sting" (the difficulty or the demons guarding the city). However, he starts a sentence and then abruptly changes his wording or covers it up. He expresses frustration that "someone else" (the divine messenger) is taking so long to arrive. 
+
+Dante, watching Virgil closely, notices this verbal slip. He realizes that the second part of Virgil's statement was meant to hide or replace the first part. Because the sentence was "truncated" (cut off), Dante's fearful mind fills in the blanks, imagining that Virgil was about to say something far more ominous or discouraging than he actually did.
+
+**Tag Resolutions:**
+- `[1:noi]`: Virgil and Dante
+- `[2:el]`: Virgil
+- `[3:ne]`: The assistance/help (referring to the "help" required to enter the city; this is a partitive pronoun referring to the situation/aid, not a specific person)
+- `[4:me]`: Virgil
+- `[5:I']`: Dante
+- `[6:ei]`: Virgil
+- `[7:l'altro]`: The other part of the speech (referring to the second set of words Virgil used to cover the first)
+- `[8:io]`: Dante
+- `[9:+ei]`: Virgil
+
+## Scene 16-33: Virgil’s reminiscence
+This scene is a moment of reassurance. Dante, feeling isolated in his terror, asks Virgil if anyone else from the "first grade" (the virtuous pagans of Limbo) ever descends into the deeper, more miserable parts of Hell. 
+
+Virgil responds by admitting that it is very rare, but he reveals that he has been here once before. He explains that he was summoned by a Fury (Eritón), who forced him through the walls of the City of Dis all the way down to the very bottom of the abyss—the circle of Judas—to retrieve a specific spirit. Because Virgil has already navigated the absolute lowest and darkest point of the universe, he tells Dante that he knows the path well and that Dante can trust his guidance. He ends by describing the foul-smelling marsh that surrounds the city, noting that they cannot enter the city now without the intervention of the divine messenger they are awaiting.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante (the one asking the question)
+- `[2:quei]`: Virgil
+- `[3:mi]`: Dante
+- `[4:+ei]`: Virgil
+- `[5:noi]`: The inhabitants of the first circle/Limbo (including Virgil)
+- `[6:io]`: Virgil
+- `[7:+io]`: Virgil
+- `{8:quella Eritón cruda}`: The Fury (an Erinys)
+- `{9:l'ombre}`: The souls of the dead
+- `[10:me]`: Virgil
+- `[11:ella]`: The Fury
+- `[12:mi]`: Virgil
+- `{13:un spirto}`: A soul/spirit from the lowest circle
+- `{14:Giuda}`: Judas Iscariot
+- `[15:+io]`: Virgil
+- `[16:ti]`: Dante
+- `[17:+noi]`: Virgil and Dante
+
+## Scene 34-48: The Furies revealed
+In this scene, the narrative shifts from Virgil's explanation of his past journey to a sudden, frightening visual encounter. Dante admits that Virgil continued speaking, but he cannot remember the details because his attention was completely captured by a sight atop a high, glowing tower. 
+
+Three Infernal Furies (the Erinyes) suddenly appear on the tower. Dante describes them as having female forms but being stained with blood, entwined with green hydras, and having snakes and horned vipers (cerastes) for hair. 
+
+Virgil, who is familiar with the subordinates of the Queen of the Underworld, points them out to Dante. He identifies them individually: Megera is on the left, Alecto (who is weeping) is on the right, and Tesifone is in the middle. After this identification, Virgil falls silent.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Virgil
+- `[2:+io]`: Dante
+- `[3:m']`: Dante
+- `[4:+elle]`: The three Furies
+- `{5:tre furïe infernal}`: The three Furies
+- `[6:+elle]`: The three Furies
+- `[7:+elle]`: The three Furies
+- `[8:quei]`: Virgil
+- `{9:le meschine}`: The three Furies (referred to as "the wretched ones")
+- `{10:la regina de l'etterno pianto}`: The Queen of the Underworld (Persephone/Hecate)
+- `[11:+tu]`: Dante
+- `[12:mi]`: Dante
+- `[13:+ei]`: Virgil
+- `{14:le feroci Erine}`: The three Furies
+- `[15:Quest']`: Megera
+- `{16:Megera}`: Megera
+- `[17:quella]`: Alecto
+- `{18:Aletto}`: Alecto
+- `{19:Tesifón}`: Tesifone
+- `[20:+ei]`: Virgil
+
+## Scene 49-54: The Furies' frenzy
+**Scene Analysis: The Furies' frenzy**
+
+In this brief but intense scene, the three Furies (Megera, Alecto, and Tesifone) erupt into a violent, ritualistic frenzy. Dante describes them clawing at their own chests with their nails and beating their palms together while screaming. The noise and aggression are so overwhelming that Dante, gripped by terror, physically clings to Virgil for protection.
+
+The Furies then speak, shouting down at Dante. They call for Medusa to join them, declaring that they will turn Dante to stone (referencing Medusa's legendary power). They justify their confidence by recalling a past victory, claiming they successfully avenged an assault on Theseus.
+
+**Tag Resolutions:**
+- `[1:si]`: The three Furies (reflexive: they clawed their own chests)
+- `[2:+elli]`: The three Furies
+- `[3:+elli]`: The three Furies
+- `[4:i']`: Dante
+- `[5:mi]`: Dante
+- `{6:al poeta}`: Virgil
+- `{7:Medusa}`: Medusa
+- `[8:+noi]`: The three Furies
+- `[9:+noi]`: The three Furies
+- `{10:Tesëo}`: Theseus
+
+## Scene 55-60: A warning to look away
+In this scene, Virgil acts quickly to protect Dante from the Furies' summons of Medusa. Knowing that a gaze upon the Gorgon would turn the living poet into stone—forever trapping him in Hell—Virgil commands Dante to turn around and close his eyes. To ensure Dante's safety, Virgil doesn't just give a verbal warning; he physically turns Dante away and holds Dante's own hands over his eyes until Dante manages to close them himself.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante (Virgil is speaking to him)
+- `[2:+tu]`: Dante (Virgil is speaking to him)
+- `{3:l Gorgón}`: Medusa
+- `[4:si]`: Medusa (reflexive: if she shows herself)
+- `[5:tu]`: Dante (Virgil is speaking to him)
+- `[6:'l]`: Medusa (referring to the Gorgon)
+- `{7:l maestro}`: Virgil
+- `[8:elli]`: Virgil
+- `[9:+elli]`: Virgil
+- `[10:mi]`: Dante
+- `[11:+elli]`: Virgil
+- `[12:si]`: Virgil (reflexive: he did not stop/hold back)
+- `[13:+io]`: Dante
+- `[14:mi]`: Dante (reflexive: closing his own eyes)
+
+## Scene 61-63: An authorial aside
+**Scene Analysis: An authorial aside**
+
+In this brief passage, the narrator (the poet Dante) momentarily breaks the flow of the story to address the reader directly. This is a meta-literary moment where the author warns his audience that the fantastical and terrifying images he describes—such as the Furies and Medusa—are not merely for entertainment or decoration. Instead, he explains that there is a deeper spiritual or moral "doctrine" (*dottrina*) hidden beneath the "veil" (*velame*) of his poetic language and "strange verses." He urges those with "sound intellects" to look past the surface imagery to find the true meaning of the journey.
+
+**Tag Resolutions:**
+- `[1:voi]`: The readers of the poem
+- `[2:+voi]`: The readers of the poem
+
+## Scene 64-72: A violent disturbance
+In this scene, a sudden and terrifying sound begins to approach across the turbid waters surrounding the City of Dis. The noise is so powerful that it causes both banks of the river to tremble. 
+
+Dante describes this sound using a simile, comparing it to a violent, impetuous wind blowing through a scorched forest. This metaphorical wind is so destructive that it snaps branches and tears them away without restraint, stirring up dust as it moves and forcing both wild animals and humans to flee in terror. This atmospheric buildup serves to signal the arrival of a powerful entity (who will be revealed as Charon in the following lines).
+
+There is no dialogue in this passage; it is a purely narrative description.
+
+**Tag Resolution:**
+- `{1:li pastori}`: The shepherds (mentioned as part of the simile to describe the types of people who would flee from a violent storm).
+
+## Scene 73-84: The approach of Charon
+In this scene, the tension from the previous encounter with the Furies begins to shift as a new figure appears on the horizon.
+
+Virgil, who had been holding Dante's eyes shut to protect him from Medusa, now releases him. Virgil tells Dante to look up and steady himself, directing his gaze across the ancient, foaming waters and the acrid smoke of the river.
+
+As Dante looks, he observes a sight that he compares to frogs scattering in terror before a predatory snake. A vast multitude of damned souls—more than a thousand—are fleeing in panic. They are running away from a single figure who is crossing the river Styx with "dry feet" (meaning he walks upon the water). This figure (Charon) is seen waving his left hand in front of his face to clear away the thick, oppressive air, and he appears weary, exhausted only by the sheer anguish and noise of the souls fleeing from him.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Virgil
+- `[2:mi]`: Dante
+- `[3:+ei]`: Virgil
+- `[4:+tu]`: Dante
+- `[5:io]`: Dante
+- `{6:mille anime distrutte}`: The thousand destroyed souls
+- `[7:+ei]`: Charon (the ferryman of the dead)
+- `[8:+ei]`: Charon (the ferryman of the dead)
+
+## Scene 85-87: Dante's pious reaction
+In this brief scene, Dante reacts to the appearance of Charon. He recognizes that Charon’s role as the ferryman is ordained by divine will ("sent from heaven"), and as a result, he feels a sense of religious or formal deference. Dante turns to Virgil for guidance on how to behave. Virgil signals to him that he should remain quiet and show respect by bowing to the ferryman.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `[2:m']`: Dante
+- `[3:elli]`: Charon
+- `[4:+io]`: Dante
+- `[5:volsimi]`: Dante (the "mi" is the reflexive part of the verb "to turn")
+- `{6:al maestro}`: Virgil
+- `[7:quei]`: Virgil
+- `[8:i']`: Dante
+- `[9:+io]`: Dante
+- `[10:esso]`: Charon
+
+## Scene 88-99: Charon’s reprimand
+In this scene, the focus shifts to Charon’s aggressive behavior and his verbal assault on the souls of the damned.
+
+**Scene Analysis: Charon’s reprimand**
+
+Dante observes Charon, noting that the ferryman appears completely filled with disdain. Charon approaches the gate and opens it forcefully using a small switch or wand, showing no restraint. 
+
+Once at the threshold, Charon begins to shout at the damned souls. He addresses them as "cast out of heaven" and "spiteful people," mocking their "presumption" (their attempt to resist or delay their passage). He asks them why they continue to struggle against the Divine Will—a will that is inevitable and has only increased their suffering over time. He further asks what possible benefit there is in trying to fight against the Fates. To drive home the futility of their resistance, he reminds them of Cerberus (the three-headed hound), noting that Cerberus still bears the marks (the "shaven chin and throat") from the violent encounters with the souls who tried to resist him.
+
+**Tag Resolutions:**
+
+- `[1:mi]`: Dante
+- `[2:+ei]`: Charon
+- `[3:+ei]`: Charon
+- `[4:+ei]`: Charon
+- `{5:cacciati del ciel}`: The damned souls
+- `{6:gente dispetta}`: The damned souls
+- `[7:elli]`: Charon
+- `[8:voi]`: The damned souls
+- `[9:+voi]`: The damned souls
+- `[10:v']`: The damned souls
+- `{11:le fata}`: The Fates
+- `{12:Cerbero}`: Cerberus
+- `[13:vi]`: The damned souls
+- `[14:ne]`: The conflict/fight with Cerberus (referring to the event that left Cerberus marked)
+- `[15:+ei]`: Cerberus
+
+## Scene 100-105: The poets advance
+In this scene, the interaction with Charon concludes without any direct dialogue between the ferryman and the poets. After Charon finishes berating the damned souls, he turns away and heads back down the "dirty road." He completely ignores Dante and Virgil, not uttering a single word to them. Dante describes Charon's demeanor using a simile: he looks like a man who is so preoccupied by other urgent concerns that he couldn't care less about the person standing right in front of him. Feeling secure because of the divine mandate (the "holy words") that Virgil has previously mentioned, Dante and Virgil begin to move forward.
+
+**Tag Resolutions:**
+- `[1:+elli]`: Charon
+- `[2:si]`: Charon (reflexive)
+- `[3:+elli]`: Charon
+- `[4:noi]`: Virgil and Dante
+- `[5:+elli]`: Charon
+- `{6:omo}`: Charon (the "man" in the simile)
+- `[7:colui]`: Dante (referring to the person standing in front of Charon; Virgil is also there, but the focus is on the pilgrim)
+- `[8:li]`: Charon
+- `[9:noi]`: Virgil and Dante
+
+## Scene 106-123: The field of tombs
+In this scene, Dante and Virgil successfully enter the City of Dis without any struggle or conflict. Once inside, Dante’s curiosity takes over, and he surveys his surroundings. He finds himself on a vast plain filled with torment and grief.
+
+Dante describes the landscape by comparing it to the famous necropolises (cities of the dead) in Arles (where the Rhône river is) and Pola (on the coast of Istria). In those places, tombs cover the land; however, the tombs in Dis are far more horrific. These tombs are interspersed with flames that keep them—and the souls within them—burning with an intensity that exceeds any heat used by a blacksmith to forge iron. The lids of these tombs are all suspended (open), and from them emerge harsh, agonizing cries. Dante observes that these sounds are clearly the laments of souls who are wretched and deeply wronged.
+
+**Tag Resolutions:**
+
+- `[1:+noi]`: Virgil and Dante
+- `[2:io]`: Dante
+- `[3:io]`: Dante
+- `[4:+io]`: Dante
+- `[5:+io]`: Dante
+- `[6:+elli]`: The tombs (referring back to *i sepulcri*)
+- `[7:+elli]`: The tombs/the souls within them (referring back to *li avelli*)
+- `[8:+elli]`: The laments (referring back to *lamenti*)
+- `{9:miseri}`: The wretched souls
+- `{10:offesi}`: The offended/wronged souls
+
+## Scene 124-131: The identity of the dead
+In this scene, Dante and Virgil have just entered the City of Dis and found themselves in a landscape of burning tombs. Dante is curious and unsettled by the sounds of suffering coming from within the tombs, so he asks Virgil for an explanation.
+
+Virgil reveals that this area is reserved for the heretics. Specifically, he identifies the inhabitants as the "heresiarchs" (the leaders and founders of heretical sects) and their followers. Virgil explains that the tombs are far more crowded than Dante might imagine and that the souls are organized by their beliefs: those who held similar heretical views are buried together. He also notes that the heat of the tombs varies, implying that the severity of the punishment differs depending on the nature of the heresy.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:Maestro}`: Virgil
+- `[3:quai]`: {4:quelle genti} (the souls in the tombs)
+- `{4:quelle genti}`: The souls in the tombs
+- `[5:+elli]`: The souls in the tombs
+- `[6:si]`: The souls in the tombs (reflexive)
+- `[7:quelli]`: Virgil
+- `[8:me]`: Dante
+- `{9:li eresïarche}`: The Heresiarchs (leaders of heretical sects)
+- `{10:lor seguaci}`: The followers of the heresiarchs
+- `[11:+tu]`: Dante
+- `{12:Simile}`: A heretic/heresiarch (referring to one person of a specific sect)
+- `{13:simile}`: A heretic/heresiarch (referring to another person of that same sect)
+
+## Scene 132-133: Passing through the ruins
+In this brief scene, the movement of the poets continues as they navigate the interior of the City of Dis. After Virgil finishes explaining the nature of the heretics' punishment, he turns to the right to lead the way. Together, Dante and Virgil walk through the desolate landscape, passing between the suffering souls in their tombs and the towering walls of the city.
+
+**Tag Resolutions:**
+- `[1:+elli]`: Virgil (the guide leading the way)
+- `[2:si]`: Virgil (reflexive: he turned himself)
+- `[3:+noi]`: Dante and Virgil
+- `{4:i martìri}`: The damned heretics (the souls in the tombs, referred to here as "martyrs" likely in an ironic sense or as those undergoing "martyrdom" in the form of eternal torment)
+
+# recap
+- Dante and Virgil are traveling together inside the City of Dis.
+- They are currently navigating a desolate plain of burning tombs inhabited by heretics.

@@ -1,0 +1,235 @@
+# Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
+
+## Scene 1-18: Beatrice's Warning
+In this scene, Dante is completely absorbed in the presence of Beatrice, his gaze and soul fixed solely upon her. Beatrice notices his intense focus and warns him. She tells him that if she were to smile (an act that would increase her radiance), he would be destroyed, just as Semele was consumed by ash when she demanded to see Zeus in his full glory. She explains that as they ascend the "eternal palace" (the celestial spheres), her beauty and light increase; if this light weren't tempered, his mortal capacity would be shattered like a leaf by a thunderbolt. She points out that they have arrived at the seventh splendor (the sphere of Jupiter), positioned under the constellation of Leo. Finally, she instructs Dante to prepare his mind and use the "mirrors" of what he has already seen to understand the vision that is about to appear to him.
+
+**Tag Resolutions:**
+- `{1:la mia donna}`: Beatrice
+- `[2:quella]`: Beatrice
+- `[3:io]`: Beatrice
+- `[4:+ella]`: Beatrice
+- `[5:mi]`: Dante
+- `[6:tu]`: Dante
+- `[7:ti]`: Dante
+- `{8:Semelè}`: Semele
+- `[9:+ella]`: Semele
+- `[10:+tu]`: Dante
+- `[11:Noi]`: Beatrice and Dante
+- `{12:Leone ardente}`: Leo (the constellation/astrological sign)
+- `[13:+tu]`: Dante
+- `[14:+tu]`: Dante
+- `[15:ti]`: Dante
+
+## Scene 19-24: Dante's Obedience
+In this scene, Dante describes his emotional and physical reaction to Beatrice's warning in the previous lines. He had been staring intensely at her radiant face (which he describes as "pastura," a visual feast or sustenance), but upon her instruction, he shifts his attention to the task at hand. Dante explains that anyone who could have seen the expression on his face at that moment would realize how genuinely glad he was to obey her. He is essentially weighing the pleasure of gazing at her against the necessity of following her guidance, and he finds the act of obedience rewarding.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante (the narrator/pilgrim)
+- `[2:mi]`: Dante
+- `[3:+ei]`: a hypothetical observer (the "whoever" from line 19 who would know)
+- `[4:m']`: Dante
+- `{5:la mia celeste scorta}`: Beatrice (his celestial guide)
+
+## Scene 25-33: Vision of the Golden Ladder
+In this scene, Dante describes a magnificent and overwhelming vision. He looks into the crystal shell of the sphere of Jupiter, which is sustained and moved by the "Word" (the Logos/Christ). Within this space, he sees a golden ladder reaching upward, so high that his vision cannot follow its ascent to the top. He then observes a multitude of brilliant lights descending the steps of the ladder, so numerous that he concludes that all the light seen in the heavens must originate from this single source.
+
+**Tag Resolutions:**
+- `{1:l vocabol}`: Christ/God (The Word/Logos)
+- `{2:caro duce}`: Christ/God (The Word/Logos)
+- `[3:io]`: Dante
+- `[4:+io]`: Dante
+- `[5:io]`: Dante
+
+## Scene 34-42: The Analogy of the Sun
+In this scene, Dante is describing the visual movement of the lights he sees on the golden ladder. To convey the complexity of this movement—where some lights ascend, some descend, and some hover—he uses a nature-based analogy.
+
+He compares the lights to a flock of birds (likely starlings or other small birds, *le pole*) at the break of dawn. He describes their "natural custom": how they stir to warm their feathers, with some flying away, some returning, and others circling in place. He then applies this image back to the vision, explaining that the shimmering mass of lights appeared to move in a similarly rhythmic, fluctuating way.
+
+**Tag Resolutions:**
+- `[1:me]`: Dante (the narrator/pilgrim), who is observing the vision.
+- `[2:+egli]`: the shimmering/flickering (`sfavillar`), which refers to the collective mass of the lights/just souls.
+
+## Scene 43-48: Dante's Hesitation
+In this scene, Dante is mesmerized by the spectacle of the golden ladder and the descending lights. The clarity and brilliance of the vision are so striking that they hold Dante and Beatrice’s attention. Dante experiences a moment of internal dialogue; he acknowledges the love Beatrice has for him (which he feels in her guidance), but he observes that she is remaining silent. Because he is relying on her for the signal of when it is appropriate to speak or remain silent, he suppresses his own eagerness and curiosity. Despite his intense desire to ask questions about what he is seeing, he chooses to obey her lead and remains silent.
+
+**Tag Resolutions:**
+- `[1:quel]`: the vision/spectacle (the golden ladder and the shimmering lights)
+- `[2:ci]`: Dante and Beatrice
+- `[3:si]`: the vision/spectacle (which "kept them" there)
+- `[4:+ei]`: the vision/spectacle
+- `[5:si]`: the vision/spectacle (it made itself clear)
+- `[6:io]`: Dante
+- `[7:Io]`: Dante
+- `[8:tu]`: Beatrice
+- `[9:m']`: Dante
+- `[10:quella]`: Beatrice
+- `[11:io]`: Dante
+- `[12:si]`: Beatrice (she remains silent)
+- `[13:io]`: Dante
+- `[14:+io]`: Dante
+- `[15:io]`: Dante
+
+## Scene 49-60: The Inquiry of Silence
+In this scene, Beatrice notices that Dante is remaining silent while gazing upon God (the "one who sees all"). Recognizing his restraint and eagerness, she gives him permission to speak, telling him to "resolve" his burning desire to ask questions. Dante responds with humility, stating that his own merits do not make him worthy of her answer. However, since Beatrice has granted him permission to ask, he proceeds. He addresses her as "blessed life" and asks her two things: why she has come so close to him and why the typical "sweet symphony" of Paradise is absent (silent) in this particular sphere of Jupiter.
+
+**Tag Resolutions:**
+- `[1:ella]`: Beatrice
+- `[2:colui]`: God
+- `[3:+ella]`: Beatrice
+- `[4:mi]`: Dante
+- `[5:+tu]`: Dante
+- `[6:io]`: Dante
+- `[7:mi]`: Dante
+- `[8:colei]`: Beatrice
+- `[9:mi]`: Dante
+- `{10:vita beata}`: Beatrice
+- `[11:ti]`: Beatrice
+- `[12:+tu]`: Beatrice
+- `[13:mi]`: Dante
+- `[14:t']`: Beatrice
+- `[15:+tu]`: Beatrice
+
+## Scene 61-72: Beatrice's Explanation
+In this scene, Beatrice answers the two questions Dante posed in the previous scene: why she has descended so close to him and why there is no music (the "sweet symphony") in the sphere of Jupiter.
+
+Beatrice explains that Dante's hearing is still mortal, just as his sight is. Because of this limitation, she cannot smile—for if she did, the resulting radiance (and the music associated with her joy) would be too powerful for his mortal nature to bear, potentially destroying him (referencing the warning about Semele). She tells him that she descended the golden ladder specifically to bring him joy through her words and her light. She notes that while her love for him drove her to descend, Love burns even more intensely in the higher spheres, which is evident in the flickering of the lights he is witnessing. Finally, she explains that "High Charity" (Divine Love/Will) is the force that organizes and distributes the just souls in the manner that Dante is currently observing.
+
+**Tag Resolutions:**
+- `[1:Tu]`: Dante
+- `[2:+ei]`: Beatrice
+- `[3:me]`: Dante
+- `{4:Bëatrice}`: Beatrice
+- `[5:+io]`: Beatrice
+- `[6:mi]`: Beatrice
+- `{7:amor}`: Love (personified as the driving force of the heavens)
+- `[8:mi]`: Beatrice
+- `{9:amor}`: Love (personified as the driving force of the heavens)
+- `[10:ti]`: Dante
+- `{11:l'alta carità}`: High Charity (Divine Love/Will)
+- `[12:ci]`: the blessed souls (including Beatrice and the other just souls)
+- `{13:serve}`: the blessed souls (the "servants" of God's will)
+- `[14:tu]`: Dante
+
+## Scene 73-78: The Question of Predestination
+In this scene, Dante responds to Beatrice's previous explanation. He confirms that he understands how the "free love" of the blessed souls in this sphere perfectly aligns with God's eternal providence. However, he raises a specific point of confusion: he asks Beatrice why she, out of all the other blessed souls, was uniquely predestined for the specific "office" or task of being his guide through the celestial spheres.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante
+- `[2:io]`: Dante
+- `{3:sacra lucerna}`: Beatrice
+- `[4:mi]`: Dante
+- `[5:+tu]`: Beatrice
+- `{6:le tue consorte}`: the other blessed souls (Beatrice's companions in Paradise)
+
+## Scene 79-87: The Light's Response
+In this scene, Dante describes the visual and spiritual mechanism by which Beatrice provides her answer. Before she speaks, her light spins rapidly like a millstone. Then, the "Love" dwelling within her takes over the speech. This "Love" (the divine will/love residing in the soul) explains how Divine Light descends upon it, passing through Beatrice's person. The combination of this Divine Light and Beatrice's own inherent virtue elevates her Love to a state where it can behold the "highest essence" (God). Essentially, Beatrice is explaining that her ability to guide Dante and her vision of God are results of God's grace acting through her virtue.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante
+- `{2:il lume}`: Beatrice (represented as a light)
+- `[3:sé]`: Beatrice
+- `{4:l'amor}`: Beatrice's Love (the divine love/will within her soul)
+- `{5:Luce divina}`: God / Divine Light
+- `[6:me]`: Beatrice's Love
+- `[7:s']`: God / Divine Light (reflexive pronoun for "appunta," meaning the light focuses *itself* upon the speaker)
+- `[8:questa]`: Beatrice (the soul/person through which the light penetrates)
+- `[9:io]`: Beatrice's Love
+- `[10:m']`: Beatrice's Love
+- `[11:mi]`: Beatrice's Love
+- `[12:me]`: Beatrice's Love
+- `[13:i']`: Beatrice's Love
+- `{14:la somma essenza}`: God
+
+## Scene 88-102: The Limitation of Inquiry
+In this scene, the speaker is still the personified "Love" dwelling within Beatrice (as established in the previous scene), acting as the voice of Beatrice's divine will. 
+
+The Love explains that its own radiance is a result of the joy it feels in seeing God. However, it then delivers a humbling lesson on the limits of created knowledge. The speaker explains that even the most enlightened soul in heaven—the highest seraph who is most fixed upon God—would be unable to answer Dante's questions about the "eternal statute" (God's mysterious plan of providence/predestination). This is because the divine decree is "cut off" (inaccessible) to any created sight, no matter how pure.
+
+The speaker then gives Dante a specific mission: when he returns to the mortal world, he must report this limit of knowledge so that humans do not presume to try and uncover these divine secrets. The scene ends with a contrast between the "light" mind of the blessed and the "smoky" mind of those on earth, urging Dante to reflect on the transformation the mind undergoes when it is taken up into the heavens.
+
+**Tag Resolutions:**
+- `[1:io]`: Beatrice's Love (the speaker)
+- `[2:+io]`: Beatrice's Love (the speaker)
+- `{3:quell' alma}`: the most enlightened soul in heaven
+- `[4:si]`: the most enlightened soul in heaven
+- `{5:quel serafin}`: the highest seraph
+- `[6:+ei]`: the highest seraph
+- `[7:+tu]`: Dante
+- `[8:tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:+tu]`: Dante
+- `[11:+ella]`: the human mind (*la mente*)
+- `[12:l']`: the human mind (*la mente*)
+
+## Scene 103-105: Dante's Pivot
+In this brief but pivotal scene, Dante reacts to the instruction he just received from the personified Love within Beatrice. He has been told that the "eternal statute" (God's plan of predestination) is beyond human comprehension and that he must not attempt to uncover it.
+
+Accepting this limitation, Dante pivots. He abandons his metaphysical question about *why* Beatrice was chosen as his guide (the "why" of predestination) and instead shifts his inquiry to a more humble and direct one: he wants to know *who* is actually speaking to him. He moves from asking about divine providence to asking about identity.
+
+**Tag Resolutions:**
+- `[1:mi]`: Dante (the recipient of the instruction)
+- `[2:io]`: Dante (the one who abandons the question)
+- `[3:+io]`: Dante (the subject who withdraws/shifts)
+- `[4:mi]`: Dante (reflexive; he withdraws himself)
+- `[5:chi]`: Beatrice (the person whose identity he now asks about)
+
+## Scene 106-111: The Prophecy of Catria
+In this scene, the personified Love dwelling within Beatrice (who is answering Dante's question "Who are you?") begins to respond. Instead of providing a name immediately, the speaker provides a geographical description to pinpoint a location in Italy.
+
+The speaker describes a place between the two shores of Italy, not far from Dante's homeland (Florence), where the thunder sounds lower (indicating the height of the mountains). The speaker mentions that certain rocks/mountains form a "hump" or peak known as Catria (Monte Catria). Below this peak is a hermitage dedicated to "sola latria" (exclusive worship of God). This is a riddle-like introduction; Beatrice is describing the location of a specific person who will soon be revealed as the one speaking through her.
+
+**Tag Resolutions:**
+- `[1:+elli]`: the rocks (*sassi*) that form the mountain peak of Catria.
+
+## Scene 112-120: The Monk's Recollection
+In this scene, the narrative transition confirms that the voice speaking through Beatrice is the soul of a specific individual. Dante (the narrator) notes that he is beginning the third part of this particular exchange. The speaker—the Monk of Catria—continues his description of his earthly life, recounting his years of ascetic devotion. He describes how God made him steadfast in His service, enabling him to endure the hardships of extreme temperatures and a meager diet of olive oil while finding contentment in contemplation. Finally, the Monk observes a sad contrast: his monastery, which once provided a "fertile" spiritual harvest for heaven, has now become a deserted waste, a decay that serves as a sign that a certain truth (the corruption of the church) must soon be revealed.
+
+**Tag Resolutions:**
+- `[1:+io]`: Dante (the narrator)
+- `[2:+elli]`: the Monk of Catria (speaking through Beatrice)
+- `{3:Dio}`: God
+- `[4:+elli]`: God
+- `[5:mi]`: the Monk of Catria
+- `[6:+elli]`: the Monk of Catria
+- `[7:+elli]`: the cloister (the monastery at Monte Catria)
+- `[8:+elli]`: the cloister (the monastery at Monte Catria)
+
+## Scene 121-126: The Revelation of Identity
+In this scene, the speaker (the soul who has been speaking through Beatrice) finally reveals his identity. He identifies himself as Peter Damian, a renowned 11th-century monk and reformer. He uses a humble self-reference, calling himself "Peter the Sinner," a common practice among saints. He describes his location at the time toward the end of his life—a place dedicated to the Virgin Mary on the Adriatic coast. He then recounts that as his mortal life was nearing its end, he was called and appointed to the "hat" (the cardinalate). He concludes with a sharp critique of the church hierarchy, stating that the office of the cardinal has deteriorated "from bad to worse."
+
+**Tag Resolutions:**
+- `[1:io]`: Peter Damian
+- `{2:Pietro Damiano}`: Peter Damian
+- `{3:Pietro Peccator}`: Peter Damian
+- `{4:Nostra Donna}`: The Virgin Mary
+- `[5:m']`: Peter Damian
+- `[6:+io]`: Peter Damian
+
+## Scene 127-135: Lament for the Church
+In this scene, Peter Damian continues his critique of the Church, contrasting the humility of the early apostolic age with the decadence of his current era. He recalls how the founders of the Church—specifically Saint Peter and Saint Paul—were lean and barefoot, relying on the charity of inns for food. In stark contrast, he mocks the "modern shepherds" (the corrupt popes and cardinals), depicting them as obese and pampered. He describes them as being so heavy that they require servants to push and pull them along. He ends with a biting visual image: these clergymen cover their horses with their expensive cloaks, creating a ridiculous sight where the man and the beast appear as a single, massive animal under one hide.
+
+**Tag Resolutions:**
+- `{1:Cefàs}`: Saint Peter (Cephas)
+- `{2:il gran vasello}`: Saint Paul (the "chosen vessel")
+- `{3:lo Spirito Santo}`: The Holy Spirit
+- `[4:chi]`: the servants/attendants of the modern clergy
+- `{5:li moderni pastori}`: the modern shepherds (the corrupt clergy/popes and cardinals)
+- `[6:chi]`: the servants/attendants of the modern clergy
+- `[7:li]`: the modern shepherds (the corrupt clergy)
+- `[8:+elli]`: the modern shepherds (the corrupt clergy)
+- `[9:chi]`: the servants/attendants of the modern clergy
+- `[10:li]`: the modern shepherds (the corrupt clergy)
+- `[11:+elli]`: the modern shepherds (the corrupt clergy)
+
+## Scene 136-142: The Celestial Shout
+In this scene, Dante describes the reaction of the other just souls to Peter Damian's condemnation of the corrupt Church. As soon as Damian finishes speaking, Dante sees more "little flames" (the souls of the just) descending the golden ladder step by step. As they whirl downward, they become increasingly beautiful. These souls gather around Beatrice (who is the medium through which Damian is speaking) and let out a shout of such immense volume and power that Dante describes it as impossible to replicate in human language. The sound is so thunderous that it completely overwhelms Dante, leaving him unable to understand the specific words of the shout. This collective outcry serves as a powerful, celestial endorsement of Peter Damian's critique.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:io]`: Dante
+- `[3:mi]`: Dante
+
+# recap
+- Dante and Beatrice are in the sphere of Jupiter.
+- Peter Damian has spoken through Beatrice to denounce the corruption of the modern Church.
+- A multitude of blessed souls has just issued a thunderous, collective shout of agreement with Damian's critique.

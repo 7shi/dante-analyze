@@ -1,0 +1,388 @@
+# Canto 10 — The Fourth Heaven and the Catalog of Luminous Souls
+
+## Scene 1-6: The Eternal Love
+In this opening scene of Canto 10, Dante describes the divine relationship at the heart of the universe. The scene is a theological meditation on the Trinity and the origin of cosmic order.
+
+God the Father (the implied subject of the first line) is gazing upon His Son with a Love that is not merely an emotion but a living, eternal essence (the Holy Spirit) that flows between them. This divine love is the source of all creation; the Father, as the first and ineffable Power, has organized the entire universe (across both the intellect/mind and physical space) with such perfect precision that anyone who observes this order is able to "taste" or experience the presence of God.
+
+**Tag Resolutions:**
+
+- `{1:Figlio}`: The Son (Jesus Christ)
+- `{2:l'Amore}`: Divine Love (The Holy Spirit)
+- `[3:l'uno]`: God the Father
+- `[4:l'altro]`: The Son (Jesus Christ)
+- `{5:lo primo e ineffabile Valore}`: God the Father
+- `[6:+egli]`: God the Father
+- `[7:lui]`: God the Father
+- `[8:chi]`: The observer (specifically Dante, but generally any soul who contemplates the order of creation)
+
+## Scene 7-12: Instruction to the Reader
+In this scene, the narrator (Dante the Poet) breaks the narrative flow to speak directly to his audience. He invites the reader to join him in a moment of spiritual contemplation. He asks the reader to look upward toward the "high wheels" (the rotating celestial spheres) to the point where their movements intersect. By doing so, the reader is invited to admire the "art" or the divine craftsmanship of the Creator. Dante describes God as a Master who loves His own creation (the divine order of the universe) so intensely that His gaze never leaves it.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: The reader
+- `{2:lettore}`: The reader
+- `[3:meco]`: Dante (the poet/narrator)
+- `[4:+tu]`: The reader
+- `{5:quel maestro}`: God the Father (the Architect/Creator of the universe)
+- `[6:sé]`: God the Father
+
+## Scene 13-21: The Mechanics of the Planets
+In this scene, Dante the Poet continues his direct address to the reader, moving from the theological nature of God's love to the astronomical and metaphysical architecture of the universe. 
+
+He asks the reader to observe the "oblique circle" (the ecliptic)—the tilted path along which the planets move. He explains the divine utility of this tilt: if the planets' paths were not "tortuous" (oblique), the celestial influence ("virtù") would not reach the earthly realm, leaving the powers on Earth "dead" or inactive. Furthermore, if the tilt were any different (too far or too near the straight axis), the harmony and order of both the celestial and terrestrial worlds would be diminished. Essentially, the specific geometry of the heavens is designed by God to ensure that the divine will and influence flow correctly from the heavens down to the human world.
+
+**Tag Resolution:**
+
+- `[1:+tu]`: The reader (the person Dante the Poet is addressing)
+
+## Scene 22-27: A Message to the Reader
+In this scene, Dante the Poet steps away from the narrative to address his audience directly. He tells the reader to pause and reflect on the complex cosmological and theological information he has just presented. He suggests that the reader should sit back on their "bench" and digest these ideas, finding intellectual satisfaction in the divine order before the effort of reading becomes exhausting. Dante explains that he has provided the information, and now the reader must absorb it. He concludes by stating that his own focus and effort are entirely devoted to the "materia" (the subject matter or divine material) that he is tasked with recording as a scribe.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: The reader
+- `[2:ti]`: The reader
+- `{3:lettor}`: The reader
+- `[4:+tu]`: The reader
+- `[5:+io]`: Dante (the poet/narrator)
+- `[6:t']`: The reader
+- `[7:te]`: The reader
+- `[8:+ella]`: The subject matter/material of the poem (referred to as "materia" in line 27)
+- `[9:ti]`: The reader
+- `[10:sé]`: The subject matter/material of the poem
+- `[11:io]`: Dante (the poet/narrator)
+- `{12:scriba}`: Dante (the poet/narrator)
+
+## Scene 28-33: The Great Minister
+In this scene, Dante the Poet returns to the astronomical description of the universe's mechanics, specifically describing the role and movement of the Sun. He refers to the Sun as the "greatest minister of nature" because it is the primary vehicle through which the divine influence (the "value" or "virtue") of the heavens is transmitted to the physical world. The Sun is the clock of the cosmos, measuring time for humanity via its light. Dante explains how the Sun moves through its celestial orbits (the "spires" or coils of the ecliptic), moving in a way that makes its presence felt most strongly and frequently.
+
+**Tag Resolutions:**
+
+- `{1:Lo ministro maggior de la natura}`: The Sun
+- `[2:+ei]`: The Sun
+- `[3:si]`: The Sun
+- `[4:+ei]`: The Sun
+- `[5:si]`: The Sun
+- `[6:s']`: The Sun
+
+## Scene 34-36: The Unexpected Ascent
+In this scene, Dante returns to the narrative action after his long astronomical digression. He describes the sensation of his ascent through the sphere of Venus. He notes that he was so absorbed—likely by the divine order he just described—that he didn't even notice he was moving upward. He compares this state of unawareness to how a person might not notice they are moving until the thought of their destination suddenly comes to mind.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante (the pilgrim)
+- `[2:lui]`: Beatrice (Dante's guide; note: although the provided text uses the masculine `lui`, in the original text this is `lei`, and contextually it refers to his constant companion, Beatrice)
+- `[3:m']`: Dante (the pilgrim)
+- `[4:io]`: Dante (the pilgrim)
+- `{5:uom}`: A generic man / any human being
+- `[6:s']`: A generic man / any human being
+
+## Scene 37-39: Beatrice's Vision
+In this brief scene, Dante the poet describes the nature of Beatrice's spiritual perception. He explains that Beatrice is capable of perceiving the progression from "good to better" (higher states of divine bliss and truth) so instantaneously that there is no perceptible gap or "warning" before the perception occurs. Her spiritual insight is immediate and fluid, moving from one level of divine understanding to the next without the lag or effort that a human like Dante might experience.
+
+**Tag Resolutions:**
+- `{1:Bëatrice}`: Beatrice
+- `[2:quella]`: Beatrice
+
+## Scene 40-42: The Radiance of the Sun
+In this brief passage, Dante describes his arrival in the sphere of the Sun and the nature of the light he encounters there. He is noting that the radiance of the blessed spirit(s) he sees is not a result of the physical, solar light of the star itself, but rather a result of the divine light descending from God. He distinguishes between the "color" (the natural luminosity of the Sun) and the "arriving light" (the spiritual grace) that makes the souls shine.
+
+**Tag Resolutions:**
+
+- `[1:sé]`: The blessed soul inhabiting the Sun (referring to the entity described in line 41).
+- `[2:quel]`: The blessed soul inhabiting the Sun.
+- `[3:io]`: Dante (the pilgrim).
+- `[4:color]`: The natural light/color of the Sun (this is a reference to the physical sun's luminosity rather than a person).
+
+## Scene 43-45: The Limits of Intellect
+In this scene, Dante the Poet reflects on the limitations of human language and imagination. He explains that even though he employs all his intellectual power, artistic skill, and knowledge of language, he cannot describe the divine radiance he is witnessing in a way that would allow the reader to truly imagine it. He admits that the experience transcends visual representation. However, he suggests that while the reader cannot *imagine* it, the reader can still *believe* in its existence and, as a result, feel a longing to see the vision for themselves.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante (the poet/pilgrim)
+- `[2:+io]`: Dante (the poet/pilgrim)
+- `[3:+tu]`: The reader
+- `[4:si]`: The divine radiance/vision (the light of the blessed souls described in lines 40-42)
+
+## Scene 46-48: The Unreachable Height
+In this brief scene, Dante the Poet continues his direct address to the reader. He explains why the divine radiance he described in the previous scene is impossible to imagine: human imagination is simply too limited ("basse") to reach such spiritual and physical heights. He justifies this failure of imagination by stating that, until his own journey, no human eye had ever ascended above the sphere of the Sun.
+
+**Tag Resolution:**
+
+- `{1:occhio}`: Any human eye (representing humanity/the human observer).
+
+## Scene 49-51: The Fourth Family
+In this scene, Dante describes the inhabitants of the Fourth Heaven (the sphere of the Sun). He refers to them as the "fourth family," a group of blessed souls (the Wise/Just) who are eternally satisfied by the grace of God the Father. He explains that the state of these souls reflects the internal nature of the Holy Trinity: specifically, the process of "spirating" (the procession of the Holy Spirit) and "begetting" (the origin of the Son). The light and joy of these souls serve as a manifestation of how God the Father breathes out the Spirit and begets the Son.
+
+**Tag Resolutions:**
+
+- `{1:la quarta famiglia}`: The blessed souls of the Fourth Heaven (the Wise/Just).
+- `{2:l'alto Padre}`: God the Father.
+- `[3:la]`: The blessed souls of the Fourth Heaven (the Fourth Family).
+- `[4:+elli]`: God the Father.
+- `[5:+elli]`: God the Father.
+
+## Scene 52-54: Beatrice's Command
+In this brief scene, Beatrice speaks to Dante as they settle into the Fourth Heaven. She commands him to give thanks to the "Sun of the angels" (the divine intelligence or power governing the sphere of the Sun). She explains that it is through the grace of this celestial power that Dante—who is "sensible" (meaning he is still a physical, mortal being with sensory perceptions)—has been lifted to this exalted spiritual height.
+
+**Tag Resolutions:**
+
+- `{1:Bëatrice}`: Beatrice
+- `[2:+tu]`: Dante (the pilgrim)
+- `[3:+tu]`: Dante (the pilgrim)
+- `{4:il Sol de li angeli}`: The Sun (specifically the angelic intelligence/divine power that governs the Fourth Heaven)
+- `[5:t']`: Dante (the pilgrim)
+
+## Scene 55-60: Dante's Devotion
+In this scene, Dante the pilgrim describes his emotional and spiritual reaction to Beatrice's instruction to thank the "Sun of the angels." He emphasizes his total and immediate surrender to the divine will. He claims that no human heart has ever been as eager for devotion and surrender to God as his was in that moment. This surge of love and piety is so intense and focused on the divine intelligence governing the sphere that Beatrice—who has been his sole focus and guide for so long—is momentarily forgotten, "eclipsed" by his overwhelming devotion to the divine power.
+
+**Tag Resolutions:**
+
+- `{1:mortal}`: A generic mortal / any human being.
+- `{2:Dio}`: God.
+- `[3:mi]`: Dante (the pilgrim).
+- `[4:io]`: Dante (the pilgrim).
+- `[5:lui]`: The Sun of the angels (the governing intelligence/divine power of the Fourth Heaven).
+- `{6:Bëatrice}`: Beatrice.
+
+## Scene 61-63: Beatrice's Laughter
+In this brief scene, Beatrice reacts to Dante's sudden, intense devotion to the "Sun of the angels," which had caused him to momentarily forget her. Rather than being offended or jealous of this shift in attention, Beatrice is amused. She laughs at the situation. The radiance of her laughing eyes is so powerful that it disrupts Dante's singular focus, "dividing" his mind—which had been entirely concentrated on the divine power of the heaven—between that power and the joy of Beatrice.
+
+**Tag Resolutions:**
+- `[1:le]`: Beatrice
+- `[2:+ella]`: Beatrice
+- `[3:se]`: Beatrice
+
+## Scene 64-66: The Ring of Lightning
+In this scene, Dante describes the arrival of the inhabitants of the Fourth Heaven. He observes a multitude of blessed souls—the Wise/Just—who appear as flashing, brilliant lights, more vivid and "conquering" (radiant) than anything he has seen before. These spirits organize themselves geometrically around the visitors: Dante and Beatrice become the central point, and the spirits form a circular "crown" around them. Dante notes that although their visual radiance is stunning, the sound of their voices is even sweeter.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante (the pilgrim)
+- `{2:più folgór vivi e vincenti}`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[3:noi]`: Dante and Beatrice
+- `[4:sé]`: The blessed souls of the Fourth Heaven (the Wise/Just)
+
+## Scene 67-69: The Solar Corona
+In this scene, Dante continues his description of the blessed spirits' arrangement. Having established that the spirits have formed a circular "crown" around him and Beatrice, he now provides a celestial simile to help the reader visualize this formation.
+
+He compares the ring of spirits to a solar phenomenon: the way the Moon (the daughter of Latona) can appear to encircle the Sun during an eclipse or when atmospheric conditions ("when the air is heavy") create a halo or corona. He describes the Moon as "retaining the thread" that forms this ring of light (the "zone").
+
+**Tag Resolutions:**
+
+- `{1:la figlia di {Latona}}`: The Moon (Diana, the daughter of Latona).
+- `[2:+noi]`: Humanity / the observers on Earth (including the reader and Dante).
+- `[3:+ella]`: The Moon.
+
+## Scene 70-75: The Heavenly Court
+In this scene, Dante describes the atmosphere of the Fourth Heaven, which he calls the "court of heaven." He observes that this realm is filled with profound, beautiful joys that are intrinsic to the kingdom and cannot be separated from it. He identifies the singing of the blessed souls (the "lights") as one of these supreme joys. Dante then reflects on the accessibility of this experience: he notes that unless a person develops "wings"—representing spiritual growth or divine grace—to ascend to this height, they must remain in their silent, earthly state and wait for news or reports of such wonders.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante (the pilgrim/poet)
+- `{2:quei lumi}`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[3:chi]`: A generic human being / any soul (who has not attained the ability to ascend)
+- `[4:s']`: A generic human being / any soul
+- `[5:+egli]`: A generic human being / any soul
+- `{6:dal muto}`: A generic human being / any soul (specifically the person in the state of being "mute" or unable to reach the divine height)
+- `[7:+egli]`: A generic human being / any soul
+
+## Scene 76-78: The Orbiting Suns
+In this brief scene, the blessed souls of the Fourth Heaven continue their rhythmic, musical greeting. While singing, these radiant spirits—described here as "burning suns"—revolve around Dante and Beatrice three times. Dante compares their circular movement to the way circumpolar stars rotate around the fixed celestial poles.
+
+**Tag Resolutions:**
+- `{1:quelli ardenti soli}`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[2:si]`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[3:noi]`: Dante and Beatrice
+
+## Scene 79-81: The Silent Listeners
+In this brief scene, Dante describes the appearance and demeanor of the blessed souls surrounding him and Beatrice. Although they are moving in circles, he notes that they do not seem to be dancing. Instead, he perceives them as graceful figures (which he describes as "women") who stand in silent, attentive listening. They remain still and focused until they have "gathered" or fully heard the "nine notes" (likely a reference to the nine celestial spheres or a specific divine harmony).
+
+**Tag Resolutions:**
+
+- `{1:donne}`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[2:mi]`: Dante (the pilgrim)
+- `[3:s']`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[4:+elli]`: The blessed souls of the Fourth Heaven (the Wise/Just)
+
+## Scene 82-90: Theology of Grace
+In this scene, one of the blessed souls among the Wise/Just begins to speak to Dante, explaining the nature of divine grace and the spiritual growth it produces.
+
+The spirit explains that when the "ray of grace" strikes a soul, it ignites a "true love" that continues to grow as the soul continues to love. When this grace is multiplied within a person (addressing Dante), it acts as a guide, leading them up the "ladder" of spiritual ascent—a path that is one-way, meaning those who ascend do not return to their lower state.
+
+The speaker then presents a hypothetical scenario: if someone who possessed the "wine" of grace in their "vial" refused to share it with someone who thirsted for it (Dante), that person would not be truly "free." The spirit compares such a person to water that refuses to flow down to the sea; they would be stagnant and contrary to the natural, divine flow of love and generosity.
+
+**Tag Resolutions:**
+
+- `{1:l'un}`: One of the blessed souls of the Fourth Heaven (the Wise/Just)
+- `[2:+io]`: Dante (the pilgrim)
+- `[3:te]`: Dante (the pilgrim)
+- `[4:ti]`: Dante (the pilgrim)
+- `[5:ti]`: Dante (the pilgrim)
+- `[6:+ei]`: The hypothetical person who denies the grace (the "qual" in line 88)
+
+## Scene 91-93: The Floral Garland
+In this brief scene, the blessed soul who has been speaking to Dante (from the previous scene) acknowledges Dante's curiosity. The spirit recognizes that Dante wants to know the identities of the souls who make up the "floral garland"—the ring of luminous spirits orbiting him and Beatrice. The speaker notes that this "garland" is admiring the beautiful woman who is guiding Dante through the heavens.
+
+**Tag Resolutions:**
+- `[1:Tu]`: Dante (the pilgrim)
+- `{2:la bella donna}`: Beatrice
+- `[3:t']`: Dante (the pilgrim)
+
+## Scene 94-96: The Lambs of the Flock
+In this scene, the blessed soul who has been speaking to Dante (introduced in the previous scene) reveals his identity by describing his earthly affiliation. He tells Dante that he was one of the "lambs" of the "holy flock" led by Saint Dominic. He is identifying himself as a member of the Dominican Order. He describes the spiritual path established by Saint Dominic as one where the followers grow spiritually ("fatten themselves") as long as they do not stray into delusion or heresy.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: The blessed soul currently speaking to Dante (a member of the Dominican Order).
+- `{2:li agni}`: The followers/disciples of Saint Dominic (The Dominican Order).
+- `{3:la santa greggia}`: The followers/disciples of Saint Dominic (The Dominican Order).
+- `{4:Domenico}`: Saint Dominic.
+- `[5:+elli]`: The followers/disciples of Saint Dominic (The Dominican Order).
+- `[6:s']`: The followers/disciples of Saint Dominic (The Dominican Order).
+- `[7:si]`: The followers/disciples of Saint Dominic (The Dominican Order).
+
+## Scene 97-99: The Presence of Albert the Great
+In this scene, the blessed soul who has been speaking to Dante reveals his identity and introduces the companion standing beside him. The speaker identifies himself as Thomas Aquinas. He points to the spirit closest to him on his right and introduces him as Albert the Great (Albert of Cologne). Thomas explains that Albert served as both his "brother" (a fellow member of the Dominican Order) and his "teacher."
+
+**Tag Resolutions:**
+
+- `[1:Questi]`: Albert the Great
+- `[2:m']`: Thomas Aquinas (the speaker)
+- `{3:frate e maestro}`: Albert the Great
+- `[4:esso]`: Albert the Great
+- `{5:Alberto}`: Albert the Great
+- `[6:io]`: Thomas Aquinas (the speaker)
+- `{7:Thomas d'Aquino}`: Thomas Aquinas (the speaker)
+
+## Scene 100-102: Scanning the Circle
+In this brief scene, Thomas Aquinas provides instructions to Dante on how they will proceed with the identification of the other spirits. Thomas tells Dante that if he wishes to be certain of the identities of all the others in the circle, he should keep his gaze moving around the "blessed garland" (the ring of luminous souls) while Thomas speaks.
+
+**Tag Resolutions:**
+
+- `{1:li altri}`: The other blessed souls of the Fourth Heaven (the Wise/Just)
+- `[2:+tu]`: Dante (the pilgrim)
+- `[3:+tu]`: Dante (the pilgrim)
+- `[4:+tu]`: Dante (the pilgrim)
+
+## Scene 103-105: The Light of Gratian
+In this scene, Thomas Aquinas continues his identification of the luminous spirits orbiting Dante and Beatrice. He points out another flaming light and identifies it as emanating from the laughter of Gratian. Thomas explains that Gratian's legacy—specifically his work in harmonizing conflicting laws (represented by the "one and the other foro" or openings)—is so beneficial that it is viewed with pleasure in Paradise.
+
+**Tag Resolution:**
+
+- `{1:Grazïan}`: Gratian (the 12th-century canon lawyer).
+
+## Scene 106-108: The Treasure of Peter
+In this scene, Thomas Aquinas continues his catalog of the luminous souls in the Fourth Heaven. He points out another spirit in the celestial choir, identifying him as Pietro (Peter Damian). Thomas explains that Peter Damian's "treasure"—his spiritual wisdom, labor, and asceticism—was offered to the Holy Church. Dante uses the epithet "la poverella" (the poor woman) to describe the Church, likely highlighting the humility and spiritual poverty that Damian embraced in his service to the institution.
+
+**Tag Resolutions:**
+
+- `{1:Pietro}`: Peter Damian (Saint Peter Damian).
+- `{2:la poverella}`: The Holy Church (Santa Chiesa).
+
+## Scene 109-114: The Fifth Light
+In this scene, Thomas Aquinas continues his identification of the luminous souls orbiting Dante and Beatrice. He points out the "fifth light," which he describes as the most beautiful among the group. He explains that this soul emanates such a powerful love that the entire world on Earth longs for news and knowledge of him. Thomas reveals that this light contains a "high mind" possessed of such profound knowledge that, if the claim is true, no other human being (no "second" person) ever attained such a level of understanding. This is a clear reference to Aristotle, the "Philosopher," whose intellectual authority was unparalleled in the Middle Ages.
+
+**Tag Resolutions:**
+
+- `{1:La quinta luce}`: Aristotle
+- `[2:noi]`: The blessed souls of the Fourth Heaven (the Wise/Just)
+- `[3:+ella]`: Aristotle (referring to the "luce" or light)
+- `[4:+lui]`: The world / humanity on Earth (referring to "tutto 'l mondo")
+- `{5:l'alta mente}`: Aristotle
+- `{6:il secondo}`: any second person / any other human being (compared to Aristotle)
+
+## Scene 115-117: The Angelic Vision
+In this scene, Thomas Aquinas continues his guided tour of the luminous souls in the Fourth Heaven. He directs Dante's attention to a specific light located near the light of Aristotle. Thomas describes this soul as someone who, while still living in human form on Earth ("in carne"), possessed a profound and intimate vision of the nature and ministry of the angels. This is a reference to Saint Francis of Assisi, known for his mystical experiences and his "Seraphic" nature.
+
+**Tag Resolutions:**
+- `[1:+tu]`: Dante (the pilgrim)
+- `{2:il lume di quel cero}`: Saint Francis of Assisi (described metaphorically as the "light of that candle")
+- `{3:l'angelica natura}`: The nature of the angels (the angelic essence/realm)
+
+## Scene 118-120: The Light of Augustine
+In this scene, Thomas Aquinas continues his identification of the luminous souls surrounding Dante and Beatrice. He points out another small light and identifies the spirit within it as Saint Augustine of Hippo. He describes Augustine as the "advocate of the Christian times," highlighting his role as a great defender and theologian of the faith. He also mentions Augustine's Latin, referring to the distinct and influential style of his writings.
+
+**Tag Resolutions:**
+
+- `{1:quello avvocato de' tempi cristiani}`: Saint Augustine of Hippo.
+- `{2:Augustin}`: Saint Augustine of Hippo.
+- `[3:si]`: Saint Augustine of Hippo (the reflexive pronoun indicating that Augustine provided himself with this specific Latin style).
+
+## Scene 121-123: The Reader's Journey
+In this brief scene, the narrator (Dante the Poet) breaks the flow of Thomas Aquinas's list to address the reader once more. He asks the reader to use their "eye of the mind" to mentally follow the sequence of lights he has been describing. He notes that by following his praises from one soul to another, the reader has now reached the eighth light in the sequence and is left "thirsty"—eagerly anticipating the identity of the next blessed spirit.
+
+**Tag Resolutions:**
+- `[1:tu]`: The reader
+- `[2:+tu]`: The reader
+
+## Scene 124-126: The Truth of the Soul
+In this scene, Thomas Aquinas continues his catalog of the luminous spirits orbiting Dante and Beatrice. He describes the eighth light in the sequence. This "holy soul" finds eternal joy in contemplating the fullness of divine goodness. The spirit's existence and merit are made known to those on Earth who are attentive and "hear well" of her, despite the deceptive nature of the "fallacious world."
+
+**Tag Resolutions:**
+
+- `{1:l'anima santa}`: The eighth blessed soul in the circle (the spirit being identified by Thomas Aquinas).
+- `[2:chi]`: Any person who listens carefully (humanity/the believer/the reader).
+- `[3:lei]`: The eighth blessed soul (referring back to `{1:l'anima santa}`).
+
+## Scene 127-129: The Earthly Body
+In this scene, Thomas Aquinas continues his description of the eighth light in the celestial circle. He explains that the soul's physical body was left behind on Earth (since the soul is now a spirit in Paradise) and currently rests in Cieldauro (a reference to Mount Sinai). He explains that this soul reached her current state of eternal peace only after enduring the hardships of martyrdom and exile. While her name is not mentioned in these specific lines, this is the description of Saint Catherine of Alexandria.
+
+**Tag Resolutions:**
+
+- `[1:ella]`: The eighth blessed soul in the circle (Saint Catherine of Alexandria).
+- `[2:essa]`: The eighth blessed soul in the circle (Saint Catherine of Alexandria).
+
+## Scene 130-132: The Scholars of the Spirit
+In this scene, Thomas Aquinas continues his catalog of the luminous souls orbiting Dante and Beatrice. He directs Dante's attention further along the ring of spirits, identifying three more scholars: Isidore of Seville, the Venerable Bede, and Richard (likely Richard of St. Victor). Thomas notes that these three were exceptionally devoted to contemplation, possessing an intellectual and spiritual depth that exceeded that of an ordinary man.
+
+**Tag Resolutions:**
+
+- `[1:+tu]`: Dante (the pilgrim)
+- `{2:Isidoro}`: Isidore of Seville
+- `{3:Beda}`: The Venerable Bede
+- `{4:Riccardo}`: Richard of St. Victor
+- `{5:viro}`: A generic man / an ordinary human being
+
+## Scene 133-138: The Light of Siger
+In this scene, Thomas Aquinas continues his identification of the souls in the Fourth Heaven. He points out a specific light that has caught Dante's attention. Thomas identifies this spirit as Siger of Brabant. He describes Siger as someone who was so deeply immersed in profound, serious thought that death seemed to arrive slowly for him. Thomas refers to Siger's time in Paris (specifically the "Vico de li Strami," the Rue des Fétiers), where Siger was known for his use of syllogisms to reason about "envious people" (or the nature of envy/the envious).
+
+**Tag Resolutions:**
+
+- `[1:Questi]`: Siger of Brabant (specifically, the light representing him).
+- `[2:me]`: Thomas Aquinas (the speaker).
+- `[3:+ei]`: Siger of Brabant.
+- `{4:l lume}`: Siger of Brabant (represented by his light).
+- `{5:uno spirto}`: Siger of Brabant.
+- `[6:li]`: Siger of Brabant.
+- `[7:essa]`: The eternal light of Siger of Brabant.
+- `{8:la luce etterna}`: The eternal light of Siger of Brabant.
+- `{9:Sigieri}`: Siger of Brabant.
+- `{10: invidïosi }`: Envious people (the subjects of Siger's syllogisms).
+
+## Scene 139-144: The Striking Clock
+In this scene, Dante uses a delicate simile to describe a specific sound occurring in the Fourth Heaven. He compares this sound to the chime of a clock that rings at the hour when the "bride of God" (the Church) rises to awaken her "bridegroom" (God/Christ) so that she may express her love for him. He describes the mechanical movement of the clock (the pulling and urging of its parts) and the resulting "tin tin" sound. This sweet, rhythmic note is so moving that it causes any "spirit well-disposed in love"—a soul attuned to divine grace—to stir or swell with emotion.
+
+**Tag Resolutions:**
+
+- `{1:la sposa di {Dio}}`: The Church (represented as the Bride of Christ).
+- `{2:lo sposo}`: God (specifically Jesus Christ, the Bridegroom).
+- `[3:+ella]`: The Church (the Bride).
+- `[4:l']`: God (the Bridegroom).
+- `{5:l ben disposto spirto d'amor}`: A soul attuned to divine love (a generic reference to any blessed soul, including Dante).
+
+## Scene 145-148: The Harmonious Motion
+**Scene Analysis: The Harmonious Motion**
+
+In this brief concluding scene of the passage, Dante the pilgrim describes the visual and auditory experience of the blessed souls orbiting him and Beatrice. He refers to the circular formation of the Wise/Just as a "glorious wheel" (*gloriosa rota*). He observes this wheel moving and producing a polyphonic harmony—described as "voice to voice"—characterized by a perfect tuning (*tempra*) and a sweetness that transcends human comprehension. Dante emphasizes that such a divine melody is impossible to perceive or describe on Earth; it can only be truly known and experienced in the realm of eternal joy (Paradise).
+
+**Tag Resolution:**
+
+- `[1:ïo]`: Dante (the pilgrim/poet)
+
+# recap
+- Dante and Beatrice are in the Fourth Heaven (the sphere of the Sun).
+- They are surrounded by a rotating choir of luminous souls, the Wise/Just, who are singing in divine harmony.
+- Thomas Aquinas has just finished identifying several key figures within this celestial ring.

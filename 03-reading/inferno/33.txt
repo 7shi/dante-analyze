@@ -1,0 +1,333 @@
+# Canto 33 — The Tale of Count Ugolino and the Frozen Souls
+
+## Scene 1-9: The Sinner’s Pause
+In this scene, the violent action of the previous canto is momentarily paused. The sinner who has been gnawing on the skull of another finally lifts his head to respond to Dante’s questioning. He expresses a deep reluctance to speak because recalling his history revives his "desperate pain," but he agrees to do so on one condition: that his story serves to further disgrace the man he is currently eating.
+
+**Reference Resolution:**
+
+*   **{1:quel peccator}** (that sinner): The "biter," the soul who is currently eating the other.
+*   **[2:elli]** (he): The biter (the same person as {1}), who had damaged the head of the other soul.
+*   **[3:+egli]** (he): The biter, who now begins to speak.
+*   **[4:Tu]** (You): Dante, who is the one questioning the sinner.
+*   **[5:io]** (I): The biter, the speaker.
+*   **[6:mi]** (my): The biter, the speaker.
+*   **[7:io]** (I): The biter, the speaker.
+*   **{8:al traditor}** (to the traitor): The "victim," the other frozen soul whose skull is being gnawed.
+*   **[9:i']** (I): The biter, the speaker.
+*   **[10:+tu]** (you): Dante, the observer.
+
+## Scene 10-15: The Introduction
+In this scene, the "biter" finally identifies himself and his victim, establishing the identities of the two souls Dante has encountered. The speaker is the soul who has been gnawing on the other's skull. He addresses Dante directly, noting that while he doesn't know Dante's identity or how he reached the bottom of Hell, he recognizes Dante's Florentine accent. He then explicitly names himself as Count Ugolino and the soul he is biting as Archbishop Ruggieri, promising to explain the history of their mutual hatred.
+
+**Reference Resolutions:**
+
+*   **[1:Io]**: Count Ugolino (the speaker).
+*   **[2:chi]**: Dante (the person Ugolino does not recognize).
+*   **[3:tu]**: Dante.
+*   **[4:+tu]**: Dante.
+*   **[5:mi]**: Count Ugolino (as in "you seem *to me*").
+*   **[6:+tu]**: Dante (the one who seems Florentine).
+*   **[7:io]**: Count Ugolino.
+*   **[8:t']**: Dante (the one being heard).
+*   **[9:Tu]**: Dante.
+*   **[10:i']**: Count Ugolino.
+*   **{11:conte Ugolino}**: Count Ugolino.
+*   **[12:questi]**: Archbishop Ruggieri (the "victim" being bitten).
+*   **{13:l'arcivescovo Ruggieri}**: Archbishop Ruggieri.
+*   **[14:ti]**: Dante.
+*   **[15:+io]**: Count Ugolino.
+*   **[16:i]**: Count Ugolino.
+
+## Scene 16-27: The Imprisonment
+In this scene, Count Ugolino begins the narrative of his downfall. He tells Dante that there is no need to explain the general fact that he was captured and killed because he trusted the wrong person (Ruggieri). Instead, he focuses on the *nature* of his death—the cruelty of it. He describes his imprisonment in the tower called "la Muda," which he notes is known as "the Hunger" because of the starvation he endured there. He explains that he had been imprisoned for several months when he had a prophetic nightmare that revealed the tragic future awaiting him.
+
+**Reference Resolutions:**
+
+*   **[1:lui]**: Archbishop Ruggieri (the one Ugolino trusted, who then betrayed him).
+*   **[2:io]**: Count Ugolino.
+*   **[3:+tu]**: Dante.
+*   **[4:+tu]**: Dante.
+*   **[5:+tu]**: Dante.
+*   **[6:e']**: The cruel death/the experience of his death (referring back to *la morte mia*).
+*   **[7:m']**: Count Ugolino.
+*   **{8:la Muda}**: The tower where Ugolino was imprisoned (the Tower of Hunger).
+*   **[9:me]**: Count Ugolino.
+*   **{10:la fame}**: The Tower of Hunger (the nickname Ugolino gave the tower).
+*   **[11:si]**: Others / future prisoners (referring to *altrui*).
+*   **[12:m']**: Count Ugolino.
+*   **[13:io]**: Count Ugolino.
+*   **[14:mi]**: Count Ugolino.
+
+## Scene 28-36: The Prison Landscape
+In this scene, Count Ugolino continues his narrative by describing the prophetic dream he had while imprisoned in the Tower of Hunger. The dream is an allegory for his betrayal. He envisions Archbishop Ruggieri as a hunter leading a pack of lean, aggressive hounds. These hounds are named after the families who collaborated with Ruggieri. The targets of the hunt are a wolf and its cubs, who are chased into a narrow pass where they are eventually torn apart by the dogs. This dream prefigures the starvation and death of Ugolino and his offspring.
+
+**Reference Resolutions:**
+
+*   **[1:Questi]**: Archbishop Ruggieri (the hunter in the dream).
+*   **[2:me]**: Count Ugolino (the dreamer).
+*   **{3:maestro}**: Archbishop Ruggieri.
+*   **{4:donno}**: Archbishop Ruggieri.
+*   **{5:i Pisan}**: The citizens/people of Pisa.
+*   **{6:Gualandi}**: One of the dogs in the dream (representing the Gualandi family).
+*   **{7:Sismondi}**: One of the dogs in the dream (representing the Sismondi family).
+*   **{8:Lanfranchi}**: One of the dogs in the dream (representing the Lanfranchi family).
+*   **[9:+elli]**: The dogs (the Gualandi, Sismondi, and Lanfranchi).
+*   **[10:s']**: Archbishop Ruggieri (the one who placed the dogs in front of him).
+*   **[11:mi]**: Count Ugolino (the dreamer).
+*   **{12:lo padre}**: The wolf (representing Count Ugolino).
+*   **{13:figli}**: The wolf-cubs (representing Ugolino's sons and grandsons).
+*   **[14:mi]**: Count Ugolino (the dreamer).
+*   **[15:lor]**: The wolf and the wolf-cubs (the father and sons).
+
+## Scene 37-54: The Morning of Hunger
+In this scene, Count Ugolino continues his heartbreaking account of the starvation in the Tower of Hunger. He describes the morning after his prophetic nightmare. Upon waking, he hears his children weeping and begging for bread. Ugolino momentarily pauses his narrative to address Dante directly, challenging him to feel pity and accusing him of cruelty if he does not weep at the thought of such suffering.
+
+Returning to the story, Ugolino describes the tension as the usual hour for the delivery of food approached. While the children were awake and anxious, Ugolino was haunted by the dream of the hounds and the wolf. When he hears the door of the tower opening, he looks at his children; though he is devastated internally, he suppresses his tears and remains silent. One of his children, Anselmuccio, notices his father's strange expression and asks him what is wrong. Ugolino remains silent and refuses to weep or answer for the remainder of the day and the following night.
+
+**Reference Resolutions:**
+
+*   **[1:io]**: Count Ugolino
+*   **[2:io]**: Count Ugolino
+*   **{3:i miei figliuoli}**: Ugolino's children (his sons and grandsons)
+*   **[4:meco]**: Count Ugolino
+*   **[5:tu]**: Dante
+*   **[6:tu]**: Dante
+*   **[7:ti]**: Dante
+*   **[8:s']**: Count Ugolino (referring to his heart/his inner self)
+*   **[9:tu]**: Dante
+*   **[10:tu]**: Dante
+*   **[11:elli]**: Ugolino's children
+*   **[12:s']**: the hour (l'ora)
+*   **[13:io]**: Count Ugolino
+*   **[14:io]**: Count Ugolino
+*   **{15:a' mie' figliuoi}**: Ugolino's children
+*   **[16:Io]**: Count Ugolino
+*   **[17:io]**: Count Ugolino
+*   **[18:elli]**: Ugolino's children
+*   **{19:Anselmuccio mio}**: Anselmuccio (one of Ugolino's children)
+*   **[20:ei]**: Anselmuccio
+*   **[21:Tu]**: Count Ugolino
+*   **{22:padre}**: Count Ugolino
+*   **[23:tu]**: Count Ugolino
+*   **[24:io]**: Count Ugolino
+*   **[25:io]**: Count Ugolino
+
+## Scene 55-66: The Terrible Choice
+In this scene, the starvation in the tower reaches a point of psychological and physical breaking. As the morning light enters the prison, Count Ugolino looks at the faces of his four children and, overwhelmed by grief and helplessness, begins to bite his own hands. One of the children (implied to be Anselmuccio, who spoke in the previous scene) misinterprets this action, believing his father is biting himself out of a desperate hunger for food. In a heartbreaking act of love and sacrifice, the child offers his own body to his father, arguing that since Ugolino provided the flesh that clothed them (as their father/grandfather), he has the right to strip it away to survive. Ugolino suppresses his emotion to avoid further distressing the children, and the group falls into a heavy, shared silence for two days. The scene ends with Ugolino’s desperate cry to the earth, wishing it had opened up to swallow them all and end their suffering.
+
+**Reference Resolutions:**
+
+*   **[1:io]**: Count Ugolino
+*   **{2:quattro visi}**: Ugolino's children (his sons and grandsons)
+*   **[3:+io]**: Count Ugolino
+*   **[4:mi]**: Count Ugolino
+*   **[5:ei]**: One of the children (specifically Anselmuccio)
+*   **[6:io]**: Count Ugolino
+*   **[7:'l]**: The action of biting his hands (referring to *fessi*, the act of biting)
+*   **[8:+ei]**: One of the children (Anselmuccio)
+*   **[9:+ei]**: One of the children (Anselmuccio)
+*   **{10:Padre}**: Count Ugolino
+*   **[11:ci]**: Ugolino's children
+*   **[12:tu]**: Count Ugolino
+*   **[13:noi]**: Ugolino's children
+*   **[14:tu]**: Count Ugolino
+*   **[15:ne]**: The children/their bodies
+*   **{16:queste misere carni}**: The bodies of Ugolino's children
+*   **[17:tu]**: Count Ugolino
+*   **[18:le]**: The children's bodies (*queste misere carni*)
+*   **[19:+io]**: Count Ugolino
+*   **[20:mi]**: Count Ugolino
+*   **[21:+noi]**: Count Ugolino and his children
+*   **{22:dura terra}**: The earth (personified as a grave)
+*   **[23:t']**: The earth (the ground)
+
+## Scene 67-75: The Death of the Children
+In this scene, Count Ugolino reaches the climax of his tragic narrative, describing the actual deaths of his children and himself. 
+
+By the fourth day of total starvation, one of the children, Gaddo, collapses at Ugolino's feet. In a final, heartbreaking plea, Gaddo asks his father/grandfather why he cannot help him, and then he dies. Ugolino then describes the subsequent collapse of the remaining three children between the fifth and sixth days. 
+
+The physical toll of the hunger is now absolute; Ugolino has gone blind. He describes the horror of groping around the bodies of his children, calling out to them for two days after they had already passed away. Finally, the physical agony of the famine overcomes the psychological agony of his grief, and Ugolino dies as well.
+
+**Reference Resolutions:**
+
+*   **[1:+noi]**: Count Ugolino and his children.
+*   **{2:Gaddo}**: Gaddo (one of Ugolino's grandsons).
+*   **[3:mi]**: Count Ugolino.
+*   **[4:si]**: Gaddo.
+*   **{5:Padre}**: Count Ugolino.
+*   **[6:+tu]**: Count Ugolino.
+*   **[7:m']**: Gaddo.
+*   **[8:+ei]**: Gaddo.
+*   **[9:tu]**: Dante.
+*   **[10:mi]**: Count Ugolino.
+*   **[11:io]**: Count Ugolino.
+*   **{12:li tre}**: The other three children/grandchildren.
+*   **[13:io]**: Count Ugolino.
+*   **[14:mi]**: Count Ugolino.
+*   **[15:+io]**: Count Ugolino.
+*   **[16:li]**: Ugolino's children.
+*   **[17:+elli]**: Ugolino's children.
+
+## Scene 76-78: Resumption of the Feast
+In this brief scene, the narrative shifts from the spoken story back to the horrific physical reality of Cocytus. Count Ugolino has finished recounting the tragedy of the Tower of Hunger. Immediately upon finishing his tale, he turns his gaze back toward his victim with a look of distorted hatred or madness. He resumes his eternal punishment, sinking his teeth back into the skull of Archbishop Ruggieri. Dante observes that Ugolino's teeth, worn down to the bone, are as strong as those of a dog—a chilling echo of the hounds in Ugolino's prophetic dream.
+
+**Reference Resolutions:**
+
+*   **[1:+elli]**: Count Ugolino (who has just finished speaking).
+*   **[2:+elli]**: Count Ugolino (who resumes biting the skull).
+
+## Scene 79-90: The Curse on Pisa
+This scene is a passionate emotional reaction from Dante. Having heard the horrific account of the starvation of Count Ugolino and his descendants, Dante shifts from being a silent observer to an active judge. He addresses the city of Pisa directly, cursing it for its cruelty and the betrayal committed there. 
+
+Dante expresses his outrage that the surrounding cities ("the neighbors") have been too slow to punish Pisa for its crimes. In a dramatic wish for divine or natural retribution, he calls for the islands of Capraia and Gorgona to shift and block the mouth of the Arno River, effectively flooding the city and drowning every inhabitant. He argues that even if Ugolino had been a traitor to the city (which the city claimed), it was an unpardonable sin to subject the innocent children to such a "cross" (torture/suffering). He concludes by naming the children, emphasizing their innocence due to their young age, and comparing Pisa to Thebes (referencing the Greek tragedy and the cycle of familial betrayal).
+
+**Reference Resolutions:**
+
+*   **{1:i vicini}** (the neighbors): The neighboring cities/states of Pisa.
+*   **[2:te]** (you): The city of Pisa.
+*   **[3:te]** (you): The city of Pisa.
+*   **{4:ogne persona}** (every person): Every inhabitant/person in the city of Pisa.
+*   **{5: 'l conte Ugolino }**: Count Ugolino.
+*   **[6:te]** (you): The city of Pisa.
+*   **[7:tu]** (you): The city of Pisa.
+*   **{8:i figliuoi}** (the children): Ugolino's children (his sons and grandsons).
+*   **{9:Uguiccione}**: Uguiccione (one of Ugolino's children).
+*   **{10: 'l Brigata }**: Brigata (one of Ugolino's children).
+*   **{11:li altri due}** (the other two): The remaining two of Ugolino's children (Anselmuccio and Gaddo, mentioned in previous scenes).
+
+## Scene 91-108: Entering Cocytus
+In this scene, Dante and Virgil continue their journey across the frozen lake of Cocytus. They move past the area where Ugolino was located and encounter another group of sinners. Unlike those they saw previously, these souls are not submerged head-first but are lying flat, encased in the ice. Dante describes a particularly cruel detail of their punishment: their tears freeze instantly, forming crystalline "visors" over their eyes. Because they cannot weep, their grief is trapped inside them, intensifying their psychological suffering.
+
+As they walk, Dante feels a slight breeze. Confused, as he believed the depths of Hell were devoid of any warmth or atmospheric movement (all "vapors" being extinguished), he asks Virgil what is causing this wind. Virgil responds by calling Dante "wretched" (a term of pitying affection) and tells him that his own eyes will soon provide the answer once he sees the source of this "breath."
+
+**Reference Resolutions:**
+
+*   **[1:Noi]**: Dante and Virgil.
+*   **{2:un'altra gente}**: Another group of frozen sinners.
+*   **[3:+io]**: Dante.
+*   **[4:mi]**: Dante.
+*   **[5:io]**: Dante.
+*   **{6:Maestro}**: Virgil.
+*   **[7:chi]**: The cause of the wind (which is revealed in the next scene to be Lucifer).
+*   **[8:elli]**: Virgil.
+*   **[9:me]**: Dante.
+*   **{10:Avaccio}**: Dante.
+*   **[11:+tu]**: Dante.
+*   **[12:ti]**: Dante.
+
+## Scene 109-117: The Cry for Unmasking
+In this scene, as Dante and Virgil continue their journey across the ice of Cocytus, they are approached by one of the frozen sinners. The sinner cries out to them, calling them "cruel souls" because they are not frozen and can move freely. He begs them to scrape the frozen masks of tears from his eyes so that he may release the grief filling his heart for a brief moment before the tears freeze again. Dante responds to the sinner, stating that if he wants help, he must first reveal his identity; otherwise, Dante will continue his descent to the bottom of the lake.
+
+**Reference Resolutions:**
+
+*   **{1:un de' tristi}** (one of the sad ones): A frozen sinner on the lake Cocytus.
+*   **[2:noi]** (us): Dante and Virgil.
+*   **{3:anime crudeli}** (cruel souls): Dante and Virgil (as perceived by the sinner).
+*   **[4:+voi]** (you): Dante and Virgil.
+*   **[5:ïo]** (I): The frozen sinner.
+*   **[6:m']** (my): The frozen sinner.
+*   **[7:si]** (itself): The tears (the *pianto* of the frozen sinner).
+*   **[8:io]** (I): Dante.
+*   **[9:lui]** (him): The frozen sinner.
+*   **[10:+tu]** (you): The frozen sinner.
+*   **[11:i']** (I): Dante.
+*   **[12:ti]** (you): The frozen sinner.
+*   **[13:+tu]** (you): The frozen sinner.
+*   **[14:chi]** (who): The frozen sinner (referring to his identity).
+*   **[15:+tu]** (you): The frozen sinner.
+*   **[16:io]** (I): Dante.
+*   **[17:ti]** (you): The frozen sinner.
+*   **[18:mi]** (me): Dante.
+
+## Scene 118-126: The Identity of Alberigo
+In this scene, the frozen sinner responds to Dante’s demand for identification. He reveals himself to be Brother Alberigo. He describes his situation using a metaphor about the "fruits of the bad garden," suggesting that he is now receiving the "dates" (the punishment) in exchange for the "figs" (the deceits) he sowed in life. Dante is surprised and asks if Alberigo is indeed dead. Alberigo explains a terrifying peculiarity of the zone called Tolomea: the soul often descends into Hell before the physical body has actually died, meaning he has no knowledge of the current state of his physical form in the world above.
+
+**Reference Resolutions:**
+
+*   **[1:+elli]** (He): Brother Alberigo.
+*   **[2:I']** (I): Brother Alberigo.
+*   **{3:frate Alberigo}**: Brother Alberigo.
+*   **[4:i']** (I): Brother Alberigo.
+*   **[5:quel]** (that one): Brother Alberigo.
+*   **[6:io]** (I): Dante.
+*   **[7:lui]** (him): Brother Alberigo.
+*   **[8:tu]** (you): Brother Alberigo.
+*   **[9:elli]** (he): Brother Alberigo.
+*   **[10:me]** (me): Dante.
+*   **[11:+io]** (I): Brother Alberigo.
+*   **{12:l'anima}** (the soul): The soul of a sinner (generic).
+*   **{13:Atropòs}**: Atropos (the Fate who cuts the thread of life).
+*   **[14:le]** (her): Atropos.
+
+## Scene 127-138: The Mechanics of the Tolomea
+In this scene, Brother Alberigo explains the unique and terrifying metaphysical law of the zone of Tolomea to Dante. He tells Dante that in this specific region of Hell, the punishment begins immediately upon the act of betrayal: the soul is cast down into the frozen lake while the physical body remains on earth. This leaves the body as a hollow shell, possessed and governed by a demon until the natural end of the person's lifespan.
+
+To illustrate this, Alberigo points to another frozen soul positioned behind him. He identifies this shade as ser Branca Doria, noting that while Branca Doria's soul has been imprisoned in the ice for many years, it is possible that his physical body is still walking the earth, unaware that its soul is already damned.
+
+**Reference Resolutions:**
+
+*   **[1:tu]**: Dante (the one who would scrape the ice from Alberigo's eyes).
+*   **[2:mi]**: Brother Alberigo (the one being scraped).
+*   **[3:+tu]**: Dante.
+*   **{4:l'anima}**: A sinner's soul (referring generically to those who commit betrayal in Tolomea).
+*   **[5:ïo]**: Brother Alberigo.
+*   **{6:un demonio}**: A demon (who takes over the physical body).
+*   **[7:Ella]**: The soul (referring back to `{4:l'anima}`).
+*   **{8:l'ombra}**: The shade of ser Branca Doria.
+*   **[9:che]**: The shade of ser Branca Doria.
+*   **[10:mi]**: Brother Alberigo.
+*   **[11:Tu]**: Dante.
+*   **[12:tu]**: Dante.
+*   **[13:elli]**: ser Branca Doria.
+*   **{14:ser Branca Doria}**: ser Branca Doria.
+*   **[15:el]**: ser Branca Doria.
+
+## Scene 139-150: The Dispute with Alberigo
+In this scene, Dante and Brother Alberigo engage in a brief dispute regarding the status of ser Branca Doria's physical body. Dante expresses his skepticism, claiming that Alberigo is deceiving him because, as far as Dante knows, Branca Doria is still alive—eating, drinking, sleeping, and dressing himself on earth.
+
+Alberigo responds by explaining the metaphysical replacement: he mentions the "pit" of the Malebranche (the demons of the fifth bolgia of the Eighth Circle), stating that before the demon Michel Zanche had even arrived there, he (Zanche) had left a demon in Branca Doria's place to inhabit his body, as well as another demon for another traitor who collaborated with Branca Doria.
+
+Having explained this, Alberigo again begs Dante to reach out and scrape the frozen tears from his eyes. However, Dante refuses to do so. He concludes the interaction by reflecting that, given Alberigo's nature as a traitor, treating him with rudeness ("being villano") was actually the only true form of "courtesy."
+
+**Reference Resolutions:**
+
+*   **[1:Io]**: Dante (the speaker).
+*   **[2:io]**: Dante (the narrator).
+*   **[3:lui]**: Brother Alberigo.
+*   **[4:tu]**: Brother Alberigo.
+*   **[5:m']**: Dante.
+*   **{6:Branca Doria}**: ser Branca Doria.
+*   **[7:+ei]**: ser Branca Doria.
+*   **[8:+ei]**: ser Branca Doria.
+*   **[9:+ei]**: ser Branca Doria.
+*   **[10:+ei]**: ser Branca Doria.
+*   **[11:el]**: Brother Alberigo.
+*   **{12:Malebranche}**: The Malebranche (the demons of the fifth bolgia).
+*   **{13:Michel Zanche}**: Michel Zanche (a specific demon of the Malebranche).
+*   **[14:questi]**: Michel Zanche.
+*   **{15:il diavolo}**: The demon (the one left to inhabit Branca Doria's body).
+*   **{16:un suo prossimano}**: A fellow demon (another Malebranche).
+*   **[17:lui]**: ser Branca Doria.
+*   **[18:+tu]**: Dante.
+*   **[19:+tu]**: Dante.
+*   **[20:io]**: Dante.
+*   **[21:gliel']**: Brother Alberigo.
+*   **[22:lui]**: Brother Alberigo.
+
+## Scene 151-157: The Curse on Genoa
+In this scene, Dante responds to the unsettling revelation provided by Brother Alberigo regarding the zone of Tolomea. Much like his previous reaction to the story of Count Ugolino, Dante shifts from a passive observer to an active judge, launching a fierce verbal attack on the city of Genoa. He addresses the Genoese people, characterizing them as unpredictable and morally flawed, and asks why they have not been wiped from the face of the earth. He uses Brother Alberigo as the ultimate example of their depravity, noting that among the Genoese, he found a man whose spirit is worse than the worst of Romagna—a man whose soul is already suffering in the ice of Cocytus while his physical body continues to walk the earth as if he were still alive.
+
+**Reference Resolutions:**
+
+*   **[1:voi]**: The people of Genoa.
+*   **{2:col peggiore spirto di Romagna}**: The worst spirit of Romagna (a reference to the legendary treachery of the Romagnol people).
+*   **[3:+io]**: Dante.
+*   **[4:voi]**: The people of Genoa.
+*   **[5:un tal]**: Brother Alberigo.
+*   **[6:si]**: Brother Alberigo.
+*   **[7:+elli]**: Brother Alberigo.
+
+# recap
+- Dante and Virgil are traveling together across the frozen lake of Cocytus.
+- They have just finished a hostile interaction with Brother Alberigo in the zone of Tolomea.
+- They are continuing their descent toward the center of Hell to find the source of the wind.

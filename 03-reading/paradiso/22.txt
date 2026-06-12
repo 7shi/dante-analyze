@@ -1,0 +1,298 @@
+# Canto 22 — The Vision of the Celestial Lights and the Descent to Earth
+
+## Scene 1-21: Beatrice's Rebuke
+**Narrative Summary**
+
+Dante is overwhelmed with amazement and fear following the thunderous shout of the blessed souls. In his distress, he turns to Beatrice for reassurance, comparing himself to a small child who runs to the person they trust most. Beatrice responds with maternal tenderness, gently rebuking him for his fear. She reminds him that he is in Heaven, where everything is holy and every action is motivated by divine love and zeal. She explains that the shout he heard was actually a collective prayer for justice. She informs him that the "sword" of divine vengeance does not act arbitrarily or instantly, but according to the will of God. Finally, she directs his attention away from his fear and toward the other illustrious spirits they are about to encounter.
+
+**Tag Resolutions**
+
+*   `{1:la mia guida}`: Beatrice
+*   `[2:+io]`: Dante
+*   `[3:mi]`: Dante
+*   `{4:parvol}`: Dante (used in a simile as a "little child")
+*   `[5:si]`: Dante (referring to the child in the simile who trusts)
+*   `[6:quella]`: Beatrice
+*   `{7:madre}`: Beatrice (used in a simile as a "mother")
+*   `{8:figlio}`: Dante (used in a simile as a "son")
+*   `[9:+ella]`: Beatrice
+*   `[10:mi]`: Dante
+*   `[11:tu]`: Dante
+*   `[12:tu]`: Dante
+*   `[13:tu]`: Dante
+*   `[14:ci]`: The blessed souls (locative "here," referring to the actions performed by the souls in the sphere of Jupiter)
+*   `[15:t']`: Dante
+*   `[16:io]`: Beatrice
+*   `[17:+tu]`: Dante
+*   `[18:t']`: Dante
+*   `[19:+tu]`: Dante
+*   `[20:ti]`: Dante
+*   `[21:tu]`: Dante
+*   `[22:tu]`: Dante
+*   `[23:colui]`: God
+*   `[24:+tu]`: Dante
+*   `{25:illustri spiriti}`: The blessed souls in the sphere of Jupiter
+*   `[26:+tu]`: Dante
+*   `[27:io]`: Beatrice
+*   `[28:+tu]`: Dante
+
+## Scene 22-30: The Vision of the White Lights
+**Narrative Summary**
+
+As Beatrice directs him, Dante turns his gaze and sees a hundred tiny, sparkling spheres (the souls of the blessed) that enhance each other's brightness with their intersecting rays. Dante describes his own emotional state using a simile: he feels like someone who suppresses a strong desire and is afraid to ask for what they want, fearing the consequences or the intensity of the longing. To satisfy this longing, Dante focuses his attention on the largest and most brilliant of these "daisies" (the lights), bringing it into focus to content his curiosity.
+
+**Tag Resolutions**
+
+*   `[1:lei]`: Beatrice
+*   `[2:+io]`: Dante
+*   `[3:+io]`: Dante
+*   `[4:Io]`: Dante
+*   `[5:quei]`: a person in a simile
+*   `[6:sé]`: a person in a simile
+*   `[7:+ei]`: a person in a simile
+*   `[8:s']`: a person in a simile
+*   `[9:+ei]`: a person in a simile
+*   `[10:si]`: a person in a simile
+*   `[11:+io]`: Dante
+*   `[12:sé]`: the largest and most brilliant sphere (the light)
+
+## Scene 31-36: Beatrice's Promise of Answer
+**Narrative Summary**
+
+Dante listens as Beatrice speaks to him. She explains that if he could see the divine love (charity) that burns among the blessed souls, his current confusion and questions would be immediately resolved. However, since he cannot yet see this, and because she does not want him to delay in his journey toward his ultimate goal, Beatrice promises to give him a direct answer to the specific thought that is currently troubling him.
+
+**Tag Resolutions**
+
+*   `[1:lei]`: Beatrice
+*   `[2:+io]`: Dante
+*   `[3:tu]`: Dante
+*   `[4:io]`: Beatrice
+*   `[5:noi]`: The blessed souls (including Beatrice)
+*   `[6:tu]`: Dante
+*   `[7:io]`: Beatrice
+*   `[8:ti]`: Dante
+*   `[9:ti]`: Dante
+
+## Scene 37-51: The History of the Monastery
+In this scene, the brilliant light that Dante focused on begins to speak. The speaker is **Saint Benedict**, the founder of the monastery of Monte Cassino. He describes the history of the mountain of Cassino, explaining that before his arrival, the summit was frequented by people who were deceived and misguided. Benedict explains that he was the one who first brought the name of Jesus Christ to that place, bringing the divine truth that elevates all the blessed souls. He notes that God's grace allowed him to lead the surrounding villagers away from the influence of the "learned impious" (the pagan traditions and philosophers who had misled the world). Finally, Benedict points out other lights around him, identifying them as holy men, specifically mentioning Macarius and Romoaldo, as well as his own fellow monks who remained steadfast in their faith within the monastery.
+
+**Tag Resolutions**
+
+*   `{1:la gente}`: The deceived people/pagans who once frequented the mountain of Cassino
+*   `[2:quel]`: Saint Benedict
+*   `[3:io]`: Saint Benedict
+*   `[4:colui]`: Jesus Christ
+*   `[5:ci]`: The blessed souls (including Saint Benedict)
+*   `[6:me]`: Saint Benedict
+*   `[7:io]`: Saint Benedict
+*   `{8:empio cólto}`: The learned impious man (a reference to the pagan philosophers/intellectuals who misled the world)
+*   `{9:uomini}`: The other blessed souls (the other lights in Jupiter)
+*   `{10:Maccario}`: Macarius
+*   `{11:Romoaldo}`: Romoaldo
+*   `{12:li frati miei}`: Saint Benedict's monks (the Benedictines)
+
+## Scene 52-60: Dante's Request
+In this scene, Dante speaks directly to Saint Benedict. He tells the Saint that the affection Benedict has shown him in their conversation, combined with the goodness Dante perceives in the intensity of the lights surrounding them, has greatly increased his trust and confidence. He uses a simile, comparing the expansion of his trust to a rose opening up under the influence of the sun. Because of this feeling of security and trust, Dante asks Benedict if it is possible for him to receive the grace of seeing Benedict's actual human form ("uncovered image") rather than just the brilliant sphere of light.
+
+**Tag Resolutions**
+
+*   `[1:io]`: Dante
+*   `[2:lui]`: Saint Benedict
+*   `[3:+tu]`: Saint Benedict
+*   `[4:meco]`: Dante
+*   `[5:io]`: Dante
+*   `[6:+io]`: Dante
+*   `[7:m']`: Dante
+*   `[8:+ella]`: the rose (used in a simile to represent Dante's growing trust/heart)
+*   `[9:+io]`: Dante
+*   `[10:ti]`: Saint Benedict
+*   `[11:tu]`: Saint Benedict
+*   `{12:padre}`: Saint Benedict
+*   `[13:m']`: Dante
+*   `[14:io]`: Dante
+*   `[15:io]`: Dante
+*   `[16:ti]`: Saint Benedict
+
+## Scene 61-69: Description of the Empyrean
+**Narrative Summary**
+
+Saint Benedict responds to Dante's request to see his human form. He explains that such a desire—the longing to see the full, uncovered image of the blessed—can only be fulfilled in the Empyrean, the highest and final sphere. He notes that this is where the desires of all the blessed souls, including his own, are perfectly and completely satisfied. Benedict describes the Empyrean as a place that transcends physical location and constraint; it is a state of spiritual perfection where every part of the soul's longing is realized. Because the journey's "ladder" (the progression through the celestial spheres) leads toward this ultimate destination, the image Benedict currently presents remains elusive and "flies away" from Dante's sight for now.
+
+**Tag Resolutions**
+
+*   `[1:elli]`: Saint Benedict
+*   `{2:Frate}`: Dante
+*   `[3:s']`: The blessed souls (referring to the fulfillment of their desires)
+*   `{4:tutti li altri}`: The other blessed souls
+*   `[5:ti]`: Dante
+
+## Scene 70-84: The Decay of Monastic Discipline
+**Narrative Summary**
+
+Saint Benedict continues his explanation to Dante, using a biblical allusion to describe the path to the Empyrean. He evokes the image of the Patriarch Jacob, who saw a ladder reaching toward heaven, filled with angels. Benedict uses this "ladder" as a metaphor for the spiritual ascent. However, he shifts to a sorrowful tone, lamenting that in his time, no one is climbing this ladder. He explains that his monastic rule has been neglected and exists now only as written words on damaged pages. He describes the physical and spiritual decay of his order: monasteries have become like caves, and the monks' cowls (symbols of their vows) are now merely bags used to hoard "bad flour" (representing greed and worldly gain). Benedict asserts that the corruption within the monastic life—specifically the pursuit of wealth and the practice of nepotism—is an offense to God's pleasure even more grave than the sin of usury. He concludes that the Church's resources and appointments are being sought not for the glory of God, but for the benefit of relatives and other unworthy causes.
+
+**Tag Resolutions**
+
+*   `{1:il patriarca}`: Jacob
+*   `{2:Iacobbe}`: Jacob
+*   `[3:+ella]`: The ladder (Jacob's Ladder)
+*   `[4:li]`: Jacob
+*   `{5:Dio}`: God
+*   `{6:monaci}`: The monks
+*   `{7:la Chiesa}`: The Church
+*   `{8:la gente}`: The corrupt clergy/people who exploit the Church
+*   `{9:Dio}`: God
+*   `{10:parenti}`: The relatives of the corrupt clergy (beneficiaries of nepotism)
+
+## Scene 85-96: The Inevitability of Change
+In this scene, Saint Benedict reflects on the inherent weakness of human nature to explain why the holy orders he and others established have fallen into decay. He argues that the "flesh of mortals" is too weak for a good beginning to guarantee a lasting result. To illustrate this, he cites three examples of monastic foundations rooted in poverty and piety: Peter Damian (who spoke earlier in the Canto), himself (Benedict), and Saint Francis of Assisi. He tells Dante that if he compares the humble origins of these orders to their current state, he will see a total reversal—a transition from "white" (purity) to "brown" (corruption). Benedict concludes by saying that it would be more likely for the Jordan River to flow backward or the sea to flee (biblical miracles) than for the current state of monastic corruption to be easily remedied.
+
+**Tag Resolutions**
+
+*   `{1:i mortali}`: Mortal human beings (in general)
+*   `{2:Pier}`: Peter Damian
+*   `[3:io]`: Saint Benedict
+*   `{4:Francesco}`: Saint Francis of Assisi
+*   `[5:+tu]`: Dante
+*   `[6:+tu]`: Dante
+*   `[7:tu]`: Dante
+*   `{8:Dio}`: God
+
+## Scene 97-99: The Ascent of the Spirits
+**Narrative Summary**
+
+Saint Benedict finishes speaking to Dante. After his discourse, he withdraws and returns to his group (his "collegio" or assembly of fellow blessed souls). The group of lights then closes back together, and like a whirlwind, the entire assembly sweeps upward.
+
+**Tag Resolutions**
+
+*   `[1:+ei]`: Saint Benedict
+*   `[2:mi]`: Dante
+*   `[3:+ei]`: Saint Benedict
+*   `[4:si]`: Saint Benedict
+*   `{5:collegio}`: The blessed souls in the sphere of Jupiter
+*   `{6:'l collegio}`: The blessed souls in the sphere of Jupiter
+*   `[7:si]`: The blessed souls in the sphere of Jupiter
+*   `[8:+ei]`: The blessed souls in the sphere of Jupiter (referring back to the collective noun *collegio*)
+*   `[9:s']`: The blessed souls in the sphere of Jupiter
+
+## Scene 100-105: Dante's Rapid Ascent
+In this scene, the focus shifts from the discourse of Saint Benedict to the movement of the characters. After the assembly of blessed souls has swept upward, Beatrice (the "sweet woman") uses her divine power to propel Dante upward as well. With a single gesture, she overcomes the limits of Dante's physical nature, accelerating him at a speed that is completely impossible in the earthly realm. Dante notes that nothing in the physical world—where things naturally rise and fall—moves with such rapidity. His ascent is so swift that it transcends any physical comparison, almost as if he had wings.
+
+**Tag Resolutions**
+
+*   `{1:La dolce donna}`: Beatrice
+*   `[2:lor]`: The blessed souls in the sphere of Jupiter (the *collegio* that just ascended)
+*   `[3:mi]`: Dante
+*   `[4:si]`: People/humanity (impersonal "one") in the earthly world
+*   `[5:+ella]`: Nature (referring back to the "natura" mentioned in line 102, the physical laws governing the earthly world)
+
+## Scene 106-120: The Sign of Taurus
+In this scene, Dante briefly breaks the narrative flow to address the reader and the celestial environment. He reflects on the incredible speed of his ascent, claiming that in the time it took him to pass from the sign of Taurus (into Gemini), a reader wouldn't even have had time to put a finger in a fire. He then turns his address to the glorious stars (the lights/blessed souls), acknowledging that his own intellect was born and hidden by the will of God ("the father of every mortal life") at the moment of his birth. He concludes by noting that through divine grace, he has now been allowed to enter the celestial rotation and reach their region.
+
+**Tag Resolutions**
+
+*   `[1:io]`: Dante
+*   `{2:lettore}`: The reader
+*   `[3:io]`: Dante
+*   `[4:+io]`: Dante
+*   `[5:mi]`: Dante
+*   `[6:tu]`: The reader
+*   `[7:io]`: Dante
+*   `[8:+io]`: Dante
+*   `[9:io]`: Dante
+*   `[10:si]`: Dante (specifically referring to his "ingegno" or intellect)
+*   `[11:voi]`: The glorious stars/lights (the blessed souls)
+*   `[12:s']`: Dante (specifically referring to his "ingegno" or intellect)
+*   `[13:quelli]`: God
+*   `{14:padre d'ogne mortal vita}`: God
+*   `[15:io]`: Dante
+*   `[16:mi]`: Dante
+*   `[17:mi]`: Dante
+
+## Scene 121-123: Prayer to the Stars
+In this brief closing scene, Dante expresses his spiritual longing. He describes his soul sighing devoutly toward the blessed souls he is ascending toward, hoping to acquire the virtue necessary to withstand the powerful momentum pulling him upward toward the divine.
+
+**Tag Resolutions**
+* `[1:voi]`: The blessed souls (the "glorious stars" he addressed in the previous scene)
+* `{2:l'anima mia}`: Dante
+* `[3:la]`: Dante (referring to his soul)
+
+## Scene 124-132: Beatrice's Command to Look Down
+In this scene, Beatrice speaks to Dante as they continue their rapid ascent. She reminds him that he is now very close to his ultimate goal—final salvation. She tells him that he must keep his vision clear and sharp. Before they proceed further into the next sphere, she instructs him to look back down to see the vast expanse of the universe he has already traversed. This act of looking back is intended to fill his heart with joy, preparing him for the "triumphant crowd" of blessed souls they are approaching in the celestial ether.
+
+**Tag Resolutions**
+* `[1:Tu]`: Dante
+* `{2:Bëatrice}`: Beatrice
+* `[3:tu]`: Dante
+* `[4:tu]`: Dante
+* `[5:t']`: Dante
+* `[6:+tu]`: Dante
+* `[7:+tu]`: Dante
+* `[8:+tu]`: Dante
+* `[9:ti]`: Dante
+* `{10:la turba trïunfante}`: The blessed souls (the triumphant spirits of Heaven)
+
+## Scene 133-138: The View of the Earth
+In this scene, Dante obeys Beatrice's command to look back toward the Earth. From his current height in the celestial spheres, he gazes down through the seven spheres and sees the Earth (the "globe"). Seeing it from this divine vantage point, he is struck by its insignificance and corruption, describing its appearance as "vile" and smiling at it. This visual experience leads to a moral reflection: Dante now approves of the wisdom that treats the material world as something of lesser importance. He concludes that those who set their sights on a higher, spiritual goal rather than worldly pursuits are the ones who can be truly called upright or virtuous.
+
+**Tag Resolutions**
+* `[1:+io]`: Dante
+* `[2:+io]`: Dante
+* `[3:io]`: Dante
+* `[4:+io]`: Dante
+* `[5:chi]`: A virtuous person (anyone who seeks a higher spiritual goal)
+* `[6:+egli]`: A virtuous person (the same person as [5])
+* `[7:si]`: A virtuous person (the same person as [5] and [6])
+
+## Scene 139-150: The Motion of the Planets
+**Narrative Summary**
+
+In this scene, Dante looks back down toward the center of the universe and observes the celestial bodies from his divine vantage point. He first sees the Moon ("the daughter of Latona") and realizes that the "shadow" (the Earth's shadow causing eclipses) which had previously led him to believe the Moon's substance was inconsistent ("rare and dense") was merely an optical illusion. He then gazes at the Sun (Hyperion) and observes its orbital motion relative to the inner planets, Mercury (Maia) and Venus (Dione). He then perceives the position of Jupiter, situated between its "father" (Saturn) and its "son" (Mars). Finally, he sees the entire system of the seven planets, which collectively reveal to him their true scale, their speed, and their vast distances from one another.
+
+**Tag Resolutions**
+
+*   `[1:+io]`: Dante
+*   `{2:la figlia di Latona}`: The Moon
+*   `{3:quell' ombra}`: The Earth's shadow (causing eclipses)
+*   `[4:mi]`: Dante
+*   `[5:la]`: The Moon
+*   `[6:+io]`: Dante
+*   `{7:tuo nato}`: The Sun (as the "offspring" of the celestial system)
+*   `{8:Iperïone}`: The Sun
+*   `[9:+io]`: Dante
+*   `[10:+io]`: Dante
+*   `[11:+elli]`: The Sun
+*   `[12:si]`: The Sun
+*   `[13:lui]`: The Sun
+*   `{14:Maia}`: Mercury
+*   `{15:Dïone}`: Venus
+*   `[16:m']`: Dante
+*   `{17:Giove}`: Jupiter
+*   `{18:'l padre}`: Saturn
+*   `{19:'l figlio}`: Mars
+*   `[20:mi]`: Dante
+*   `[21:lor]`: The planets (specifically Saturn, Jupiter, and Mars)
+*   `{22:tutti e sette}`: The seven planets (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn)
+*   `[23:mi]`: Dante
+*   `[24:si]`: The seven planets
+*   `[25:+elli]`: The seven planets
+*   `[26:+elli]`: The seven planets
+*   `[27:+elli]`: The seven planets
+
+## Scene 151-154: The Earth as a Small Garden
+In this scene, Dante continues his retrospective gaze at the Earth from his high celestial vantage point. He describes the Earth as a "little plot of ground" (*aiuola*), a diminutive term that emphasizes the planet's insignificance compared to the vastness of the heavens. He reflects on how this tiny place is the source of humanity's fierce conflicts and greed. As he looks, he is positioned near the constellation Gemini. He is able to see the entire world at once, from the mountains to the river mouths. After this sobering realization of Earth's smallness and the futility of human strife, he turns his gaze away from the world and back to Beatrice.
+
+**Tag Resolutions**
+
+*   `[1:ci]`: Mankind/humanity (including Dante)
+*   `[2:volgendom']`: Dante
+*   `[3:io]`: Dante
+*   `{4:li etterni Gemelli}`: The constellation Gemini
+*   `[5:m']`: Dante
+*   `[6:+io]`: Dante
+*   `{7:li occhi belli}`: Beatrice
+
+# recap
+- Dante and Beatrice are traveling together, ascending rapidly through the celestial spheres.
+- Having left the sphere of Jupiter, Dante has just finished contemplating the insignificance of Earth from a cosmic perspective.
+- The pair is continuing their journey upward toward the higher heavens.

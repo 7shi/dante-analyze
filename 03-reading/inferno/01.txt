@@ -1,0 +1,298 @@
+# Canto 01 — The Dark Wood and the Encounter with Virgil
+
+## Scene 1-12: Lost in the Dark Wood
+In this opening scene, the narrator discovers himself lost in a "dark wood" (*selva oscura*). He is reflecting on this moment of spiritual crisis, describing the terrifying nature of the forest and his own state of disorientation. He explains that he was so spiritually "asleep" or dazed that he doesn't even remember how he strayed from the "true way" (*verace via*). He establishes that he will tell the reader about the things he saw there, specifically focusing on a "good" thing he eventually found.
+
+The speaker throughout this entire passage is the narrator and protagonist, Dante.
+
+**Tag Resolutions:**
+* [1]: Dante
+* [2]: Dante
+* [3]: Dante
+* [4]: Dante
+* [5]: Dante
+* [6]: Dante
+* [7]: Dante
+* [8]: Dante
+* [9]: Dante
+
+## Scene 13-18: The Sight of the Sunlit Hill
+In this scene, the narrator, Dante, describes the transition from the depths of the "dark wood" to a place of potential hope. He has reached the foot of a hill at the edge of the valley that had terrified him. He looks upward and sees the summit of the hill illuminated by the rays of the sun. The sun is described here as the "planet" that guides people along their paths, representing divine light and the "true way" he has been seeking.
+
+There is no dialogue in this passage; it is a first-person narrative account provided by Dante.
+
+**Tag Resolutions:**
+* [1]: Dante
+* [2]: Dante
+* [3]: Dante
+* [4]: Dante
+* {5}: The Sun (il Sole)
+
+## Scene 19-21: Relief from Fear
+In this brief scene, the narrator, Dante, describes a moment of emotional relief. Having seen the sun illuminating the summit of the hill, the intense fear that had gripped him throughout the night begins to subside. He uses the metaphor of a "lake of the heart" to describe the depth and persistence of his distress.
+
+There is no dialogue; this is a continuation of Dante's first-person narrative.
+
+**Tag Resolutions:**
+* [1]: Dante (the narrator/protagonist)
+* [2]: Dante (the narrator/protagonist)
+
+## Scene 22-30: The Swimmer Simile
+In this scene, Dante uses a simile to describe the lingering fear and the subsequent recovery he experiences after seeing the sunlit hill. He compares himself to a shipwrecked swimmer who has just struggled breathlessly to reach the shore; such a person, once safe, inevitably turns back to gaze at the perilous waters they just escaped. 
+
+Dante explains that his own soul (his mind/spirit) did the same, looking back at the "passage" (the dark wood/the valley) that had never let any living soul escape. After resting his exhausted body, Dante begins to climb the deserted slope of the hill, carefully placing his feet to ensure stability.
+
+**Tag Resolutions:**
+* [1]: The survivors/swimmers (the imaginary people used in the simile)
+* [2]: The survivors/swimmers
+* [3]: Dante (specifically his "soul" or "mind," *l'animo mio*)
+* {4}: Any living person (a generic reference to any human)
+* [5]: Dante
+* [6]: Dante
+
+## Scene 31-36: The Appearance of the Leopard
+In this scene, as Dante begins his ascent of the sunlit hill, he is suddenly confronted by a "lonza" (a leopard). This animal is described as light, swift, and covered in spotted fur. The leopard does not move out of his way; instead, it actively obstructs his progress, hindering his path so significantly that Dante is nearly forced to turn back several times. This represents the first of three beasts that will block his way to salvation.
+
+There is no dialogue in this scene; it is a continuation of Dante's first-person narrative.
+
+**Tag Resolutions:**
+* [1]: The leopard (*la lonza*)
+* [2]: Dante
+* [3]: The leopard (*la lonza*)
+* [4]: Dante
+
+## Scene 37-43: The Morning Light
+In this scene, titled "The Morning Light," Dante the narrator provides a temporal and cosmic setting for his encounter with the leopard. He notes that it is early morning and describes the sun rising alongside the stars. He reflects on the origins of the universe, noting that these stars were present when "Divine Love" first set the celestial bodies in motion. Because the time of day (dawn) and the season (spring) are so auspicious and full of hope, Dante feels encouraged that he might be able to overcome the obstacle presented by the leopard's "gaudy skin."
+
+There is no dialogue in this passage; it is a continuation of Dante's first-person narrative.
+
+**Tag Resolutions:**
+* {1}: The Sun (*'l sol*)
+* [2]: The Sun (*'l sol*)
+* {3}: Divine Love (God)
+* [4]: Dante
+
+## Scene 44-48: The Appearance of the Lion
+In this scene, Dante’s brief moment of hope (inspired by the morning light) is interrupted by the appearance of a second obstacle. Just as he was dealing with the leopard, a lion (*leone*) appears. 
+
+The lion is depicted as a figure of pride and aggression; it approaches with its head held high and a "rabid hunger," creating such a powerful presence that it seems to make the very air tremble. Dante is struck with intense fear as this beast charges toward him, further obstructing his attempt to ascend the sunlit hill.
+
+There is no dialogue in this passage; it is a first-person narrative account.
+
+**Tag Resolutions:**
+* [1]: Dante
+* [2]: Dante
+* [3]: Dante
+
+## Scene 49-60: The Appearance of the She-Wolf
+In this scene, Dante is confronted by the third and most formidable of the three beasts: the she-wolf (*la lupa*). He describes her as being "laden" with every craving despite her lean appearance, suggesting an insatiable hunger (traditionally interpreted as a symbol of avarice or greed). The wolf's presence is so overwhelming and the fear she inspires so intense that Dante loses all hope of reaching the sunlit summit of the hill.
+
+To illustrate the depth of his despair, Dante uses a simile: he compares himself to a person who has spent their life greedily acquiring wealth, only to reach a time when they lose everything, leaving them in a state of constant weeping and sadness. The "beast without peace" (the she-wolf) acts upon Dante in this same way, physically and psychologically driving him back, step by step, away from the light and back toward the darkness of the valley.
+
+**Tag Resolutions:**
+* {1}: Many people (generic human beings affected by greed)
+* [2]: The she-wolf (*la lupa*)
+* [3]: Dante
+* [4]: Dante
+* [5]: The person who acquires (the hypothetical figure in the simile)
+* [6]: The person who acquires (the hypothetical figure in the simile)
+* [7]: The person who acquires (the hypothetical figure in the simile)
+* [8]: The person who acquires (the hypothetical figure in the simile)
+* [9]: Dante
+* [10]: Dante
+* [11]: The she-wolf (*la lupa*)
+
+## Scene 61-66: A Shadow in the Desert
+In this scene, Dante has been driven back down from the sunlit hill by the three beasts and is retreating into the darkness of the valley. As he is descending, a figure suddenly appears before him. This figure seems "faint" or "dim" (*fioco*), a result of his long silence. Overcome by desperation and fear, Dante cries out to this stranger, begging for mercy and questioning whether the figure is a ghost (*ombra*) or a living man (*omo*).
+
+**Tag Resolutions:**
+* [1]: Dante
+* [2]: Dante
+* [3]: The mysterious figure (who will be revealed as Virgil)
+* [4]: The mysterious figure (who will be revealed as Virgil)
+* [5]: Dante
+* [6]: The mysterious figure (who will be revealed as Virgil)
+* [7]: The mysterious figure (who will be revealed as Virgil)
+* [8]: Dante
+* [9]: Dante
+* [10]: The mysterious figure (who will be revealed as Virgil)
+* [11]: The mysterious figure (who will be revealed as Virgil)
+* {12}: The mysterious figure (who will be revealed as Virgil)
+* {13}: The mysterious figure (who will be revealed as Virgil)
+
+## Scene 67-75: Virgil's Introduction
+In this scene, the mysterious figure encountered by Dante responds to Dante's desperate plea for help. He begins by clarifying his current state of existence: he is no longer a living man, although he was one in the past. He then provides a biographical sketch to identify himself: he was from Mantua in Lombardy, born in the month of July, and lived in Rome during the reign of the Emperor Augustus, a time when the people still worshipped the "false and lying" pagan gods. Finally, he identifies his vocation as a poet, specifically noting that he wrote about Aeneas (the "just man" and "son of Anchises"), who fled Troy after its destruction. Through these clues, the figure reveals himself to be the Roman poet Virgil.
+
+**Tag Resolutions:**
+* [1]: The mysterious figure (Virgil)
+* {2}: a man (generic)
+* {3}: a man (generic)
+* [4]: The mysterious figure (Virgil)
+* {5}: Virgil's parents/ancestors
+* [6]: The mysterious figure (Virgil)
+* {7}: July (the month)
+* [8]: The mysterious figure (Virgil)
+* {9}: Augustus (the Roman Emperor)
+* {10}: The pagan gods
+* {11}: The mysterious figure (Virgil)
+* [12]: The mysterious figure (Virgil)
+* [13]: The mysterious figure (Virgil)
+* {14}: Aeneas
+* {15}: Aeneas
+
+## Scene 76-78: The Challenge to Ascend
+In this brief scene, the conversation continues between the poet Virgil and the protagonist, Dante. Virgil, having just introduced himself, expresses confusion and concern regarding Dante's current actions. He asks why Dante is retreating back into the "noia" (the distress, misery, or boredom) of the dark valley instead of ascending the "delightful mountain," which Virgil describes as the source of all joy. This serves as a pivotal moment of challenge, pushing Dante to reconsider his retreat and strive once more for the light.
+
+**Tag Resolutions:**
+* [1]: Dante
+* [2]: Dante
+
+## Scene 79-81: Dante's Recognition
+In this brief scene, Dante responds to the mysterious figure who has just introduced himself. Dante is struck by the figure's eloquence and asks for confirmation of his identity. He uses a poetic metaphor, referring to Virgil as a "source" (*fonte*) that pours out a "wide river" (*largo fiume*) of speech, acknowledging Virgil's legendary mastery of language and poetry. Dante's reaction is marked by humility and shame (*vergognosa fronte*), likely due to his own current state of spiritual disorientation compared to the stature of the great Roman poet.
+
+**Tag Resolutions:**
+* [1]: Virgil
+* {2}: Virgil
+* {3}: Virgil (described metaphorically as a "source" of eloquence)
+* [4]: Dante
+* [5]: Virgil
+
+## Scene 82-90: A Plea for Guidance
+In this scene, Dante continues his conversation with the spirit of Virgil. Overcome with admiration, Dante addresses Virgil with high praise, calling him the "honor and light" of all poets. He explains that his long study and deep love for Virgil's work have shaped him, declaring Virgil to be his master and his primary poetic influence (his "author"). He credits Virgil as the sole source of the elegant style that has brought Dante his own honor as a poet.
+
+Shifting from praise to a plea for help, Dante asks Virgil to look at the beast (the she-wolf) that has forced him to turn back. He begs the "famous sage" to rescue him from the creature, admitting that the terror it inspires makes his very veins and wrists tremble.
+
+**Tag Resolutions:**
+* {1}: Virgil
+* [2]: Virgil
+* [3]: Dante
+* [4]: Virgil
+* {5}: Virgil
+* {6}: Virgil
+* [7]: Virgil
+* [8]: Virgil
+* [9]: Dante
+* [10]: Dante
+* [11]: Virgil
+* [12]: Dante
+* [13]: Dante
+* [14]: Virgil
+* {15}: Virgil
+* [16]: Dante
+
+## Scene 91-99: The Nature of the She-Wolf
+In this scene, Virgil responds to Dante's desperate plea for rescue from the she-wolf. After seeing Dante weeping, Virgil informs him that he cannot simply push through the obstacle; if Dante wishes to escape the "wild place" (the dark wood), he must take a different route. Virgil explains the terrifying nature of the she-wolf, noting that she does not merely block the path of others, but hinders them so severely that she ultimately destroys them. He describes the wolf as having a malicious and cruel nature, characterized by an insatiable greed—she is never satisfied, and eating only increases her hunger.
+
+**Speaker and Dialogue:**
+*   **Virgil** speaks to **Dante** (lines 91, 93-99).
+*   **Dante** (as narrator) provides the framing for the speech (line 92).
+
+**Tag Resolutions:**
+*   [1]: Dante (addressed by Virgil)
+*   [2]: Virgil (the one responding)
+*   [3]: Dante (the narrator, who is weeping)
+*   [4]: Virgil (the one seeing Dante weep)
+*   [5]: Dante (addressed by Virgil)
+*   [6]: Dante (addressed by Virgil)
+*   [7]: Any person/soul (referring back to *altrui*—anyone who tries to pass)
+*   [8]: Any person/soul (referring back to *altrui*—the person the wolf kills)
+
+## Scene 100-105: The Prophecy of the Veltro
+In this scene, Virgil continues his explanation to Dante about the nature of the she-wolf. He observes that many "animals" (metaphorically, people or souls) have already been victimized by the wolf's greed, and many more will be in the future. However, Virgil introduces a prophecy: a figure known as the "Veltro" (the Greyhound) will eventually arrive to defeat the she-wolf, causing her to die in pain. Virgil describes this savior not as a creature of earthly greed (not feeding on "land or silver"), but as one driven by wisdom, love, and virtue. He concludes with a cryptic note about the Veltro's origin, stating that his "nation" or birth will be "between felt and felt."
+
+**Speaker and Dialogue:**
+* **Virgil** is speaking to **Dante** (lines 100-105).
+
+**Tag Resolutions:**
+* {1}: The Veltro (the Greyhound/the prophetic savior)
+* [2]: The Veltro (the Greyhound/the prophetic savior)
+
+## Scene 106-111: The Fate of Italy
+In this scene, Virgil continues his prophecy to Dante regarding the "Veltro" (the Greyhound). He declares that this savior will bring salvation to "humble Italy." To emphasize the cost of Italy's founding and its struggles, Virgil references figures from his own epic, the *Aeneid*—specifically Camilla, Euryalus, Turnus, and Nisus—who died violently in the wars of that land. Virgil then describes the Veltro's specific mission: he will hunt the she-wolf (the symbol of greed and avarice) through every village until he successfully drives her back down into Hell, the place from which she originally emerged, born of "envy."
+
+**Tag Resolutions:**
+* [1]: The Veltro (the prophetic savior)
+* {2}: Camilla (a warrior maiden from the *Aeneid*)
+* {3}: Euryalus (a Trojan warrior from the *Aeneid*)
+* {4}: Turnus (the king of the Rutulians from the *Aeneid*)
+* {5}: Nisus (a Trojan warrior from the *Aeneid*)
+* [6]: The Veltro (the prophetic savior)
+* [7]: The Veltro (the prophetic savior)
+* {8}: Envy (personified as the source of the wolf)
+
+## Scene 112-120: The Plan for the Journey
+In this scene, Virgil proposes a solution to Dante's predicament. Having explained that the she-wolf cannot be faced directly by Dante in his current state, Virgil decides that the only way for Dante to escape the dark wood and reach the sunlit hill is to take a detour through the afterlife.
+
+Virgil speaks directly to Dante, offering to be his guide. He outlines the itinerary of the journey: he will lead Dante through the "eternal place" (Hell), where Dante will encounter the screams of the damned and see the "ancient suffering spirits" who face the "second death." Virgil also mentions that Dante will see souls who, despite being in the fire, are "content" because they maintain the hope of eventually joining the "blessed people" in Paradise.
+
+**Tag Resolutions:**
+* [1]: Virgil (the speaker)
+* [2]: Dante (referred to by Virgil; *me'* here is an archaic usage referring to Dante's self/state)
+* [3]: Virgil (the speaker)
+* [4]: Dante (the addressee)
+* [5]: Virgil (the speaker)
+* [6]: Virgil (the speaker)
+* {7}: Virgil (the guide)
+* [8]: Virgil (the speaker)
+* [9]: Dante (the addressee)
+* [10]: Dante (the addressee)
+* {11}: The ancient suffering spirits (the damned in Hell)
+* [12]: Dante (the addressee)
+* [13]: The souls who are content in the fire (the virtuous pagans/residents of Limbo)
+* [14]: The souls who are content in the fire (the virtuous pagans/residents of Limbo)
+* {15}: The blessed people (the inhabitants of Paradise)
+
+## Scene 121-129: The Prohibition of the Ascent
+In this scene, Virgil continues his address to Dante, explaining the limitations of his role as a guide. He informs Dante that while he can lead him through Hell and Purgatory, he cannot accompany him to the final ascent into Paradise. Virgil explains that a different "soul" (whom the reader knows will be Beatrice) will be more worthy to lead Dante to the summit. 
+
+Virgil explains the reason for this restriction: he is a pagan who lived before the revelation of Christ's law ("ribellante a la sua legge"), and therefore, God—referred to as the "Emperor" who reigns above—does not allow him to enter the celestial city. The scene concludes with Virgil praising the universal sovereignty of God and the supreme happiness of those whom God chooses to dwell in His presence.
+
+**Tag Resolutions:**
+* [1]: Dante
+* {2}: a soul (specifically Beatrice, though not yet named)
+* [3]: Virgil
+* [4]: The soul/Beatrice (referring back to {2})
+* [5]: Virgil
+* [6]: Dante
+* {7}: God (the Emperor who reigns above)
+* [8]: Virgil
+* [9]: God (referring back to {7})
+* [10]: Virgil
+* [11]: Virgil
+* [12]: God (referring back to {7})
+* [13]: God (referring back to {7})
+* [14]: Anyone/The person (generic)
+* [15]: God (referring back to {7})
+
+## Scene 130-135: Dante's Acceptance
+In this brief scene, Dante formally accepts Virgil's offer to be his guide. He addresses Virgil as "Poet" and implores him—invoking the name of the God that Virgil (as a pagan) did not know—to lead him away from his current misery and toward the destination Virgil described. Dante expresses his desire to reach the gate of Saint Peter (the entrance to Paradise) and to witness the spirits of the afterlife who have caused Virgil such sorrow.
+
+**Tag Resolutions:**
+* [1]: Dante
+* [2]: Virgil
+* {3}: Virgil (addressed as "Poeta")
+* [4]: Dante
+* [5]: Virgil
+* {6}: God
+* [7]: Virgil
+* [8]: Dante
+* [9]: Virgil
+* [10]: Dante
+* [11]: Virgil
+* [12]: Dante
+* {13}: Saint Peter
+* [14]: The suffering spirits (the souls in Hell and Purgatory mentioned in the previous scene)
+* [15]: Virgil
+
+## Scene 136-136: The Journey Begins
+In this brief closing scene of Canto 1, the agreement between the two poets is put into action. Virgil begins to walk, leading the way out of the dark wood, and Dante follows immediately behind him. This single line marks the definitive transition from the state of being "lost" to the start of the guided journey through the afterlife.
+
+**Tag Resolutions:**
+* [1]: Virgil (the guide who sets off)
+* [2]: Virgil (the subject of the reflexive action *si mosse*)
+* [3]: Dante (the narrator and protagonist)
+* [4]: Virgil (the person Dante follows)
+
+# recap
+- Dante and Virgil are now traveling together.
+- They are departing the dark wood to begin their journey through the afterlife.

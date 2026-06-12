@@ -1,0 +1,388 @@
+# Canto 10 — The Encounter with Farinata and the Shadows of Dis
+
+## Scene 1-9: Dante’s Inquiry
+In this scene, Virgil and Dante are walking through the heretics' circle in the City of Dis. Virgil (the guide) leads the way along a narrow, secret path located between the perimeter wall and the burning tombs. Dante follows closely behind him.
+
+Dante breaks the silence to address Virgil, using a flattering epithet ("highest virtue"). He acknowledges that Virgil is leading him through this realm of the impious according to Virgil's own will or wisdom. Dante then asks Virgil to speak and satisfy his curiosity: specifically, he wants to know if it is possible to see the souls of the heretics lying in the tombs, noting that the lids of the tombs are open and there is no one guarding them.
+
+**Tag Resolutions:**
+
+*   `{1:lo mio maestro}`: Virgil
+*   `[2:io]`: Dante
+*   `{3:virtù somma}`: Virgil (addressed via an epithet)
+*   `{4:li empi}`: The Heretics
+*   `[5:mi]`: Dante
+*   `[6:+io]`: Dante
+*   `[7:te]`: Virgil
+*   `[8:+ella]`: The "highest virtue" (`{3}`) / Virgil
+*   `[9:+tu]`: Virgil
+*   `[10:+tu]`: Virgil
+*   `{11:La gente}`: The Heretics
+
+## Scene 10-18: The Epicurean’s Reply
+**Analysis of the Scene: The Epicurean’s Reply**
+
+In this scene, the silence of the heretics' circle is broken. As Dante and Virgil pass by, one of the souls inhabiting the burning tombs speaks up to answer the question Dante had just posed to Virgil.
+
+The speaker explains the current state of the tombs: they are open now, but they will be sealed shut ("serrati") at the time of the Last Judgment, when the souls return from the valley of Josaphat (a place of waiting) to be reunited with their physical bodies. The speaker identifies this specific area of the plain as the cemetery of Epicurus and his followers—those who held the heresy that the soul dies along with the body.
+
+The speaker then directly addresses Dante, noting that the answer to his inquiry will be provided shortly, even though Dante has not yet explicitly voiced the full extent of his desire or curiosity to the soul himself.
+
+**Tag Resolutions:**
+
+*   `[1:quelli]`: The Heretics (the souls in the tombs)
+*   `[2:me]`: Dante (the person the souls are addressing)
+*   `[3:+elli]`: The Heretics
+*   `[4:+elli]`: The Heretics
+*   `{5:Epicuro}`: Epicurus
+*   `{6:tutti suoi seguaci}`: The Epicureans (followers of Epicurus)
+*   `[7:+tu]`: Dante
+*   `[8:mi]`: The speaking soul (a Heretic/Epicurean)
+*   `[9:tu]`: Dante
+*   `[10:mi]`: The speaking soul (a Heretic/Epicurean)
+
+## Scene 19-27: Virgil’s Admonition
+**Analysis of the Scene: Virgil’s Admonition**
+
+In this scene, the interaction shifts from the general explanation provided by the Epicurean soul back to the relationship between Dante and Virgil, and then back to the soul.
+
+Dante addresses Virgil, calling him his "good leader" (`{2:Buon duca}`). He explains that he has a small matter remaining in his heart to discuss and notes that Virgil has just now given him the opportunity (or disposed him) to speak. Essentially, Dante is seeking Virgil's permission or acknowledging the opening to further his inquiry.
+
+However, the soul in the tomb interrupts or responds immediately to Dante's voice. The soul addresses Dante as a "Tuscan" (`{7:Tosco}`), noting that he is walking through the city of fire while still alive and speaking with courtesy/honesty. The soul invites Dante to linger in that spot, observing that Dante's dialect and manner of speaking make his noble origin (Tuscany/Florence) obvious. The soul then adds a poignant personal note, suggesting that he himself may have been "too troublesome" or a nuisance to that same native land during his earthly life.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `{2:Buon duca}`: Virgil
+*   `[3:+io]`: Dante
+*   `[4:te]`: Virgil
+*   `[5:tu]`: Virgil
+*   `[6:m']`: Dante
+*   `{7:Tosco}`: Dante
+*   `[8:+tu]`: Dante
+*   `[9:ti]`: Dante
+*   `[10:+io]`: The speaking soul (the Heretic/Epicurean)
+
+## Scene 28-33: The Voice from the Tomb
+**Analysis of the Scene: The Voice from the Tomb**
+
+In this brief but pivotal scene, the interaction moves from the general to the specific. A voice emanates from one of the burning tombs (continuing the dialogue from the previous scene). Startled and feeling fear, Dante instinctively moves closer to Virgil for protection and guidance.
+
+Virgil notices Dante's hesitation or movement and commands him to turn around. Virgil then directs Dante's attention to a specific figure emerging from a tomb: Farinata. Virgil explains that Farinata is standing upright in his tomb, and because of this posture, Dante will be able to see him from the waist up. This sets the stage for one of the most famous and politically charged confrontations in the *Inferno*.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante (the narrator)
+*   `[2:m']`: Dante
+*   `{3:al duca} mio`: Virgil
+*   `[4:el]`: Virgil
+*   `[5:mi]`: Dante
+*   `[6:+tu]`: Dante
+*   `[7:+tu]`: Dante
+*   `[8:+tu]`: Dante
+*   `{9:Farinata}`: Farinata (Farinata degli Uberti)
+*   `[10:s']`: Farinata
+*   `[11:+tu]`: Dante
+*   `[12:'l]`: Farinata
+
+## Scene 34-39: The Defiance of Farinata
+In this scene, Dante is fixing his gaze on Farinata, who has risen up in his tomb. Farinata’s posture—standing tall with his chest and forehead held high—conveys a sense of defiance and pride, as if he views Hell itself with contempt. Virgil, acting with promptness and courage, physically pushes Dante forward among the tombs toward Farinata, while instructing Farinata to keep his words brief and concise.
+
+**Tag Resolutions:**
+
+*   `[1:Io]`: Dante
+*   `[2:el]`: Farinata
+*   `[3:s']`: Farinata
+*   `[4:+el]`: Farinata
+*   `{5:del duca}`: Virgil
+*   `[6:mi]`: Dante
+*   `[7:lui]`: Farinata
+
+## Scene 40-48: Farinata’s Inquiry
+In this scene, the encounter between Dante and Farinata begins in earnest. Dante reaches the foot of Farinata's tomb, and the soul of the Ghibelline leader looks upon him with a sense of disdain or aristocratic superiority. Farinata initiates the conversation by asking Dante about his lineage—specifically, who his "greatest" ancestors were.
+
+Dante, feeling a desire to be obedient and respectful, answers the question fully and honestly. This information prompts a physical reaction from Farinata, who raises his eyebrows in a sign of recognition or interest. Farinata then explains that Dante's ancestors and their political faction were fierce enemies of Farinata himself, his own forefathers, and his political party. He concludes by boasting that he personally defeated and dispersed those enemies on two separate occasions.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `[2:+io]`: Farinata (Note: Though tagged `+io`, contextually and grammatically in "guardommi," this is the subject acting upon Dante; it refers to Farinata)
+*   `[3:+ei]`: Farinata
+*   `[4:mi]`: Dante
+*   `[5:Chi]`: Dante's ancestors
+*   `{6:li maggior}`: Dante's ancestors
+*   `[7:Io]`: Dante
+*   `[8:+io]`: Dante
+*   `[9:+io]`: Dante
+*   `[10:ei]`: Farinata
+*   `[11:+ei]`: Farinata
+*   `[12:+elli]`: Dante's ancestors
+*   `[13:me]`: Farinata
+*   `{14:primi}`: Farinata's ancestors
+*   `[15:+ei]`: Farinata
+*   `[16:li]`: Dante's ancestors (and their political party)
+
+## Scene 49-51: Dante’s Rebuttal
+**Analysis of the Scene: Dante’s Rebuttal**
+
+In this brief but sharp exchange, Dante responds to Farinata’s boast about having defeated and dispersed Dante's ancestors on two separate occasions. Rather than being intimidated by Farinata's pride or his military success, Dante delivers a political "counter-punch."
+
+Dante acknowledges that while his ancestors (the Guelphs) were indeed driven out, they possessed the resilience or the political skill to return from exile every time. He then mocks Farinata by stating that Farinata's own people (the Ghibellines) never mastered that particular "art"—meaning that once the Ghibellines were defeated and cast out of Florence, they remained out, effectively losing the long-term struggle for power.
+
+**Tag Resolutions:**
+
+*   `[1:ei]`: Dante's ancestors / political party (the Guelphs)
+*   `[2:ei]`: Dante's ancestors / political party (the Guelphs)
+*   `[3:io]`: Dante
+*   `[4:lui]`: Farinata
+*   `{5:i vostri}`: Farinata's ancestors / political party (the Ghibellines)
+
+## Scene 52-60: The Emergence of the Shadow
+**Analysis of the Scene: The Emergence of the Shadow**
+
+In this scene, the focus shifts from the political confrontation with Farinata to the appearance of a new figure. A shadow (`{1:un'ombra}`) rises from an open tomb, appearing to Dante from a kneeling position. This figure looks around Dante, seemingly trying to determine if he is accompanied by anyone else.
+
+Once the shadow's uncertainty is resolved, the figure begins to weep and addresses Dante directly. The shadow acknowledges that Dante is traversing this "blind prison" (the City of Dis/Hell) because of his intellectual capacity or "height of genius" (referring to Dante's status as a living poet capable of such a journey). The scene concludes with a poignant, personal question: the shadow asks about its son (`{11:figlio}`), wondering where he is and why he is not traveling with Dante.
+
+**Tag Resolutions:**
+
+*   `{1:un'ombra}`: The Shadow (the soul of Cavalcante della Scala's father)
+*   `[2:questa]`: The open tomb/view (non-person)
+*   `[3:+io]`: Dante
+*   `[4:s']`: The Shadow (`{1}`)
+*   `[5:mi]`: Dante
+*   `[6:+ella]`: The Shadow (`{1}`)
+*   `[7:+ella]`: The Shadow (`{1}`)
+*   `[8:meco]`: Dante
+*   `[9:+ella]`: The Shadow (`{1}`)
+*   `[10:+tu]`: Dante
+*   `{11:figlio}`: The son of the Shadow (Cavalcante della Scala)
+*   `[12:+ei]`: The son (`{11}`)
+*   `[13:teco]`: Dante
+
+## Scene 61-66: The Reference to Guido
+**Analysis of the Scene: The Reference to Guido**
+
+In this scene, Dante responds to the pleading question asked by the Shadow (the father of Cavalcante della Scala) regarding the whereabouts of his son. 
+
+Dante begins by clarifying that he is not traveling through Hell of his own volition or power. He explains that he is being led by a guide—Virgil—whom he identifies by referencing another soul in this circle: Guido da Montefeltro. By mentioning that this guide is someone "your Guido" (meaning a countryman or acquaintance of the Shadow) may have looked upon with disdain, Dante provides a point of reference the Shadow can understand.
+
+Following this dialogue, the narrator (Dante) provides a brief meta-commentary to the reader. He explains that based on the Shadow's words and the specific nature of the punishment being endured in that spot, he had already deduced the identity of the soul. This recognition is why Dante was able to provide such a comprehensive and immediate response to the Shadow's inquiry.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `[2:lui]`: The Shadow (the father of Cavalcante della Scala)
+*   `[3:me]`: Dante
+*   `[4:+io]`: Dante
+*   `[5:colui]`: Virgil
+*   `[6:mi]`: Dante
+*   `{7:Guido}`: Guido da Montefeltro
+*   `[8:m']`: Dante
+*   `[9:costui]`: The Shadow (the father of Cavalcante della Scala)
+
+## Scene 67-72: The Shadow’s Grief
+**Analysis of the Scene: The Shadow’s Grief**
+
+In this scene, the dialogue between Dante and the Shadow (the father of Cavalcante della Scala) reaches a tragic and abrupt conclusion. The Shadow reacts with sudden alarm to the phrasing Dante used in his previous answer. Specifically, Dante used a past-tense verb ("ebbe" / "had"), which the Shadow interprets as a sign that his son is dead. 
+
+The Shadow leaps up in distress, questioning if his son no longer lives or sees the "sweet light" of the sun. However, the Shadow quickly realizes that the "delay" he perceived in Dante's response was merely a pause in speech, not a confirmation of death. This sudden shift from hope to perceived grief, and then to a confusing realization, overwhelms the Shadow. He collapses backward ("supin") into his open tomb and disappears from Dante's sight.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]`: The Shadow (the father of Cavalcante della Scala)
+*   `[2:+tu]`: Dante
+*   `[3:elli]`: Cavalcante della Scala (the son of the Shadow)
+*   `[4:elli]`: Cavalcante della Scala (the son of the Shadow)
+*   `[5:+elli]`: The Shadow (the father of Cavalcante della Scala)
+*   `[6:s']`: The Shadow (the father of Cavalcante della Scala)
+*   `[7:io]`: Dante
+*   `[8:+elli]`: The Shadow (the father of Cavalcante della Scala)
+*   `[9:+elli]`: The Shadow (the father of Cavalcante della Scala)
+
+## Scene 73-84: Farinata’s Question on Impiety
+In this scene, the focus shifts back from the emotional collapse of the Shadow (Cavalcante’s father) to the stoic and proud Farinata. While the previous interaction was marked by grief and instability, Farinata remains completely unmoved—physically and emotionally. 
+
+Farinata continues the political argument from earlier in the canto. He expresses that the "art" of returning from exile (which Dante had boasted the Guelphs possessed) torments him more than the physical pain of his burning tomb. He then makes a chilling prophecy: within fifty lunar cycles (roughly fifty days), Dante will experience the "weight" of that art himself, implying that Dante is destined for exile. Finally, Farinata asks Dante—should he ever remain in or return to the "sweet world" (the land of the living)—to explain why the Guelph people are so relentlessly hostile and "impious" toward the Ghibellines in every law they enact.
+
+**Tag Resolutions:**
+
+*   `{1:quell' altro magnanimo}`: Farinata
+*   `[2:m']`: Dante
+*   `[3:+elli]`: Farinata
+*   `[4:+elli]`: Farinata
+*   `[5:+elli]`: Farinata
+*   `[6:sé]`: Farinata
+*   `[7:elli]`: Dante's ancestors / political party (the Guelphs)
+*   `[8:+elli]`: Farinata
+*   `[9:mi]`: Farinata
+*   `{10:la donna}`: The Moon
+*   `[11:tu]`: Dante
+*   `[12:tu]`: Dante
+*   `[13:+tu]`: Dante
+*   `[14:dimmi]`: Dante (as the recipient of the command to tell)
+
+## Scene 85-87: The Metaphor of the Arbia
+**Analysis of the Scene: The Metaphor of the Arbia**
+
+In this brief scene, Dante responds to Farinata's inquiry regarding why the Guelphs are so relentlessly hostile and "impious" toward the Ghibellines. 
+
+Dante explains the root of this hatred by evoking a specific, bloody historical memory: the Battle of Montaperti. He refers to the "slaughter and the great havoc" that turned the Arbia river red with blood. This battle was a crushing victory for the Ghibellines (led by Farinata), but the subsequent massacre of the Guelphs left a lasting scar. Dante argues that the memory of this atrocity is so pervasive that it is essentially "prayed" or spoken about in the Guelph temples, serving as a perpetual justification for their ongoing vengeance and hatred.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `[2:lui]`: Farinata
+
+## Scene 88-93: Farinata’s Lament for Florence
+**Analysis of the Scene: Farinata’s Lament for Florence**
+
+In this scene, Farinata responds to Dante’s mention of the Battle of Montaperti and the slaughter at the river Arbia. 
+
+The scene begins with a physical gesture: Farinata sighs and moves his head, signaling a shift from his previous stoic arrogance to a more reflective, though still proud, tone. He addresses Dante's point about the cruelty of the Ghibellines, admitting that he was not the only one involved in the carnage—acknowledging that others shared in the responsibility. He asserts that he would not have participated in such actions without a justifiable cause.
+
+However, Farinata quickly pivots back to his personal nobility and courage. He contrasts himself with the "others" by claiming that he was the only one who defended Florence "a viso aperto" (with an open face/openly). This is a boast of transparency and bravery, suggesting that while others may have used deceit or hidden their motives, he stood as a bold and visible defender of his city.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]`: Farinata (the one who sighs and moves his head)
+*   `[2:io]`: Farinata (speaking in the first person)
+*   `[3:+elli]`: Farinata (the speaker)
+*   `[4:+io]`: Farinata (continuing his speech in the first person)
+*   `[5:io]`: Farinata (continuing his speech in the first person)
+*   `[6:colui]`: Farinata (referring to himself as the one who defended Florence)
+
+## Scene 94-99: Dante’s Request for Prophecy
+In this scene, the political sparring between Dante and Farinata shifts into a request for prophetic insight. 
+
+Dante addresses Farinata, beginning with a polite (if formal) wish that Farinata's descendants may find peace or rest. He then asks Farinata to "untie the knot" that is confusing his mind. Dante has realized—based on Farinata's earlier specific prediction about Dante's own future exile—that Farinata possesses the supernatural ability to see the future (what time brings with it) and has a different, perhaps heightened, way of perceiving the present. Dante is essentially asking Farinata to act as an oracle.
+
+**Tag Resolutions:**
+
+*   `{1:vostra semenza}`: Farinata's descendants/lineage
+*   `[2:io]`: Dante
+*   `[3:lui]`: Farinata
+*   `[4:+voi]`: Farinata
+*   `[5:voi]`: Farinata
+*   `[6:+io]`: Dante
+*   `[7:+voi]`: Farinata
+
+## Scene 100-108: The Limitation of Hell’s Vision
+In this scene, Farinata explains the supernatural mechanics of vision and prophecy for the souls in Hell. He describes their foresight as a paradoxical "poor light" (like that of a visually impaired person): they can see events that are far off in the future, but as those events draw closer and become the present, they vanish from their sight. 
+
+Farinata explains that this limited ability is possible only because some light still emanates from God (the "Highest Leader"), even in the depths of the Inferno. Consequently, the damned are blind to the current state of the living world unless someone from the surface (like Dante) brings them news. Finally, he notes that this prophetic ability will cease entirely at the Last Judgment, when the "door" to the future is closed forever.
+
+**Tag Resolutions:**
+
+*   `[1:Noi]`: Farinata and the other souls in Hell
+*   `[2:quei]`: People with poor eyesight (used as a metaphor)
+*   `[3:+elli]`: Farinata
+*   `{4:il sommo duce}`: God
+*   `[5:+elli]`: The things/events (referring back to `le cose` in line 100)
+*   `[6:s']`: The things/events (referring back to `le cose` in line 100)
+*   `[7:+elli]`: The things/events (referring back to `le cose` in line 100)
+*   `[8:ci]`: Farinata and the other souls in Hell
+*   `[9:+noi]`: Farinata and the other souls in Hell
+*   `[10:+tu]`: Dante
+
+## Scene 109-114: Dante’s Apology
+**Analysis of the Scene: Dante’s Apology**
+
+In this scene, Dante is struck by a sense of guilt ("compunto") regarding the interaction he just had with the Shadow (the father of Cavalcante della Scala). He realizes that his imprecise use of language—specifically the past tense—caused the Shadow to believe his son was dead, leading to the soul's emotional collapse and disappearance back into the tomb.
+
+Dante addresses Farinata, asking him to act as a messenger to the fallen soul. He requests that Farinata inform the Shadow that his son is, in fact, still among the living. Furthermore, Dante asks Farinata to explain the reason for his previous hesitation: he wasn't being evasive or delivering bad news, but was simply confused by the "error" (the prophetic blind spot) that Farinata had just finished explaining to him. Essentially, Dante is using Farinata's recent explanation of how spirits in Hell perceive time to justify his own clumsy response to the grieving father.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `[2:+voi]`: Farinata
+*   `{3:quel caduto}`: The Shadow (the father of Cavalcante della Scala)
+*   `{4:l suo nato}`: Cavalcante della Scala (the son of the Shadow)
+*   `{5:vivi}`: The living (souls/people on Earth)
+*   `[6:i']`: Dante
+*   `[7:+voi]`: Farinata
+*   `[8:i]`: The Shadow (the father of Cavalcante della Scala)
+*   `[9:'l]`: The act of being silent/the hesitation (non-person)
+*   `[10:+io]`: Dante
+*   `[11:+io]`: Dante
+*   `[12:+voi]`: Farinata
+*   `[13:m']`: Dante
+
+## Scene 115-120: Virgil’s List of Souls
+In this scene, the conversation between Dante and Farinata comes to an end as Virgil signals that it is time to move on. Before departing, Dante asks Farinata—whom he describes as the "more arrogant spirit"—who else is residing in this section of the burning tombs. Farinata replies that he lies there among more than a thousand other souls. He specifically mentions two figures: "the second Frederick" (Frederick II) and "the Cardinal." Farinata then concludes by stating that he will remain silent regarding the identities of the others.
+
+**Tag Resolutions:**
+
+*   `{1:l maestro mio}`: Virgil
+*   `[2:mi]`: Dante
+*   `[3:i']`: Dante
+*   `{4:lo spirto più avaccio}`: Farinata
+*   `[5:mi]`: Dante
+*   `[6:+ei]`: Farinata
+*   `[7:chi]`: The other heretics (souls in the tombs)
+*   `[8:lu']`: Farinata
+*   `[9:+io]`: Farinata
+*   `[10:+io]`: Farinata (referring to himself and those similar to him)
+*   `{11:l secondo Federico}`: Frederick II
+*   `{12:l Cardinale}`: The Cardinal (a heretical cardinal)
+*   `[13:mi]`: Farinata
+*   `[14:+io]`: Farinata
+
+## Scene 121-126: Virgil’s Question to Dante
+In this scene, the interaction with Farinata comes to an end. Farinata disappears back into his tomb, and Dante turns back toward Virgil. As they walk, Dante is preoccupied, reflecting on the conversation he just had, which felt hostile or antagonistic to him (likely due to the political clash and Farinata's prophecy of Dante's exile). Virgil notices Dante's distracted or bewildered state of mind and asks him why he seems so unsettled. Dante then answers Virgil's question.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]`: Farinata
+*   `[2:s']`: Farinata
+*   `[3:io]`: Dante
+*   `{4:l'antico}`: Virgil
+*   `{5:poeta}`: Virgil
+*   `[6:+io]`: Dante
+*   `[7:mi]`: Dante
+*   `[8:Elli]`: Virgil
+*   `[9:si]`: Virgil
+*   `[10:+elli]`: Virgil
+*   `[11:mi]`: Dante
+*   `[12:tu]`: Dante
+*   `[13:io]`: Dante
+*   `[14:li]`: Virgil
+
+## Scene 127-132: The Command regarding Beatrice
+**Analysis of the Scene: The Command regarding Beatrice**
+
+In this concluding scene of Canto 10, Virgil addresses Dante's lingering anxiety regarding Farinata's prophecy of exile. Virgil acts as a stabilizing force, commanding Dante to keep in mind what he has heard (Farinata's words) but urging him to be patient and avoid premature distress.
+
+Virgil makes a prophetic gesture, pointing his finger to indicate a future event. He explains that Dante will eventually stand before the "sweet ray" of a specific woman—Beatrice—whose divine insight allows her to see all things. Virgil assures Dante that it is from her that he will ultimately learn the full trajectory and destiny of his life's journey. This serves to redirect Dante's focus from the bitterness of the heretics' circle toward the eventual goal of his pilgrimage and the guidance of his heavenly muse.
+
+**Tag Resolutions:**
+
+*   `[1:+tu]`: Dante
+*   `[2:+tu]`: Dante
+*   `[3:te]`: Dante
+*   `[4:mi]`: Dante
+*   `{5:quel saggio}`: Virgil
+*   `[6:+tu]`: Dante
+*   `[7:+ei]`: Virgil
+*   `[8:+tu]`: Dante
+*   `[9:quella]`: Beatrice
+*   `[10:lei]`: Beatrice
+*   `[11:+tu]`: Dante
+
+## Scene 133-136: Departure into the Valley
+**Analysis of the Scene: Departure into the Valley**
+
+In this concluding sequence of Canto 10, the interaction with Farinata is fully concluded, and the journey resumes. Virgil, having finished comforting Dante regarding his future, signals the time to move on. He begins to walk, moving his foot as he leads the way.
+
+Following Virgil's lead, Dante and his guide leave the safety of the perimeter wall—where they had been navigating the narrow path to avoid the burning tombs—and head toward the center of the plain. They follow a path that leads them toward a valley, a place characterized by an unpleasant or foul atmosphere ("spiacer suo lezzo"), marking their further descent into the depths of the City of Dis.
+
+**Tag Resolutions:**
+
+*   `[1:+elli]`: Virgil
+*   `[2:+noi]`: Dante and Virgil
+*   `[3:+noi]`: Dante and Virgil
+
+# recap
+- Dante and Virgil are traveling together.
+- They have left the circle of the heretics and the burning tombs.
+- They are heading toward a valley characterized by a foul smell.

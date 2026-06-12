@@ -1,0 +1,248 @@
+# Canto 20 — The Vision of the Distorted Souls and the Legend of Mantua
+
+## Scene 1-3: Metapoetic Prologue
+In this brief "Metapoetic Prologue," the action is not a physical interaction between characters, but rather a moment of authorial reflection. Dante (the poet) steps back from the immediate narrative to address the structure of his poem. He acknowledges that he must now compose verses to describe a "new punishment" (the twisted heads of the prognosticators in the Fourth Bolgia) to provide the necessary content for the twentieth canto of the first part of his work.
+
+**Tag Resolutions:**
+- `[1:mi]` refers to **Dante** (the pilgrim-author).
+- `{2:i sommersi}` refers to **the souls in Hell** (literally "the submerged ones," the damned who are sunk in the depths of the Inferno).
+
+## Scene 4-18: The Procession of the Distorted
+**Scene Analysis: The Procession of the Distorted**
+
+In this scene, Dante describes the physical environment and the horrifying appearance of the damned souls in the Fourth Bolgia. As Dante looks down into the valley, he sees a procession of souls moving with a slow, rhythmic pace, reminiscent of people reciting litanies in the living world. 
+
+The central horror is revealed as Dante observes them more closely: the souls' heads have been twisted around 180 degrees. Their faces are turned backward, meaning they are forced to walk backward to see where they are going, as their forward vision has been completely removed. Dante briefly wonders if any of the souls were twisted so violently that they were completely overturned or inverted, but he concludes that he did not see any such case and doubts it occurred.
+
+**Tag Resolutions:**
+
+- `[1:Io]` refers to **Dante**.
+- `[2:si]` refers to the **floor/bottom of the Fourth Bolgia** (which is "bathing itself" or soaked in tears).
+- `[3:+io]` refers to **Dante**.
+- `{4:gente}` refers to **the souls in the Fourth Bolgia** (the prognosticators).
+- `{5:le letane}` refers to **people reciting litanies on Earth** (used as a comparison for the pace of the souls).
+- `[6:mi]` refers to **Dante**.
+- `[7:lor]` refers to **the souls in the Fourth Bolgia**.
+- `[8:li]` refers to **the souls in the Fourth Bolgia**.
+- `[9:lor]` refers to **the souls in the Fourth Bolgia**.
+- `[10:si]` refers to **a soul in the Fourth Bolgia** (specifically, an imagined soul who might have been completely overturned).
+- `[11:io]` refers to **Dante**.
+- `[12:+io]` refers to **Dante**.
+
+## Scene 19-24: Dante's Grief
+In this scene, the narrator (Dante the poet) pauses the narrative to address the reader directly. This is a rhetorical move to invite the reader to empathize with the emotional weight of the experience. 
+
+Dante asks the reader to reflect on how he (the pilgrim) was able to maintain his composure and keep his face dry (i.e., not break down in tears) while witnessing such a grotesque sight. He describes the physical horror of the souls in the Fourth Bolgia: because their heads are twisted completely backward, the tears falling from their eyes do not run down their cheeks, but instead flow down their backs and soak their buttocks through the cleft. It is a moment of profound pity mixed with physical repulsion.
+
+**Speaker:** Dante (the narrator/poet)
+**Addressee:** The Reader
+
+**Tag Resolutions:**
+- `{1:Dio}` refers to **God**.
+- `[2:ti]` refers to **the reader**.
+- `{3:lettor}` refers to **the reader**.
+- `[4:+tu]` refers to **the reader**.
+- `[5:te]` refers to **the reader**.
+- `[6:io]` refers to **Dante**.
+- `{7:la nostra imagine}` refers to **the souls in the Fourth Bolgia** (literally "our image," referring to the human form as seen in these distorted souls).
+- `[8:+io]` refers to **Dante**.
+
+## Scene 25-36: Virgil's Rebuke
+**Scene Analysis: Virgil's Rebuke**
+
+In this scene, the emotional tension reaches a breaking point. Dante, overcome by the grotesque sight of the prognosticators and their backward-flowing tears, leans against a rocky crag and weeps. Virgil, ever the guide and mentor, intervenes with a stern rebuke. He questions Dante's emotional fragility, asking if he is still behaving like a "fool" by feeling pity in a place where divine justice is being executed. Virgil argues that it is actually a sin—or at least a profound error—to allow human passion to override the acceptance of God's judgment. 
+
+To snap Dante out of his grief and redirect his focus toward the educational purpose of the journey, Virgil tells him to look closer at the souls. He points out a specific figure, Amphiaraus, and evokes the legend of the Thebans. Virgil describes the moment the earth opened up to swallow Amphiaraus as he attempted to flee the war, noting that the souls plummeted all the way down to the judge Minos.
+
+**Tag Resolutions:**
+
+- `[1:io]` refers to **Dante**.
+- `{2:la mia scorta}` refers to **Virgil**.
+- `[3:mi]` refers to **Dante**.
+- `[4:tu]` refers to **Dante**.
+- `{5:li altri sciocchi}` refers to **the other fools** (those who feel misplaced pity for the damned).
+- `[6:chi]` refers to **any person** (specifically targeting **Dante**) who feels pity in Hell.
+- `[7:colui]` refers to **any person** (specifically targeting **Dante**) who feels pity in Hell.
+- `[8:+tu]` refers to **Dante**.
+- `[9:+tu]` refers to **Dante**.
+- `[10:+tu]` refers to **Dante**.
+- `[11:ei]` refers to **the Thebans**.
+- `[12:+tu]` refers to **Amphiaraus**.
+- `{13:Anfïarao}` refers to **Amphiaraus**.
+- `[14:+tu]` refers to **Amphiaraus**.
+- `{15:Minòs}` refers to **Minos**.
+
+## Scene 37-45: Examples of Transformation
+**Scene Analysis: Examples of Transformation**
+
+In this scene, Virgil continues his stern pedagogical lesson, using specific examples of the damned to illustrate the "contrapasso" (the poetic justice) of the Fourth Bolgia. He wants Dante to understand that these grotesque physical distortions are not random, but are direct reflections of the souls' sins.
+
+First, Virgil points back to Amphiaraus. He explains that because Amphiaraus tried to "see too far ahead" (predicting the future/fate to avoid the war), his punishment is to have his chest where his back should be, forcing him to look only backward and walk in reverse.
+
+Then, Virgil directs Dante's attention to Tiresias, the famous blind prophet. He recounts the myth of Tiresias's gender transformation: Tiresias became a woman after striking two mating snakes with a staff, and later regained his male form by striking them again. Virgil uses this transformation of "all his members" as another example of the distortion and instability of those who sought to uncover the secrets of the future.
+
+**Speaker:** Virgil
+**Addressee:** Dante
+
+**Tag Resolutions:**
+- `[1:+tu]` refers to **Dante**.
+- `[2:+ei]` refers to **Amphiaraus**.
+- `[3:+ei]` refers to **Amphiaraus**.
+- `[4:+ei]` refers to **Amphiaraus**.
+- `[5:+ei]` refers to **Amphiaraus**.
+- `[6:+tu]` refers to **Dante**.
+- `{7:Tiresia}` refers to **Tiresias**.
+- `[8:+ei]` refers to **Tiresias**.
+- `[9:+ei]` refers to **Tiresias**.
+
+## Scene 46-60: The Legend of Manto
+In this scene, Virgil continues his pedagogical tour of the Fourth Bolgia, pointing out specific souls to Dante to illustrate the nature of their sin and the resulting *contrapasso*.
+
+First, Virgil identifies a soul named Aronda. He describes Aronda as someone who lived in a cave in the mountains of Luni (the marble-rich region of Carrara), where he could have an unobstructed view of the sea and the stars—essential for his practice as an astrologer.
+
+Next, Virgil points out a female soul, Manto. He describes her distorted physical form: because her head is twisted backward, her breasts are covered from Dante's perspective, and her pubic hair is visible on the "other side" (the side facing the direction she is walking). Virgil explains that Manto wandered many lands before settling in the city where Virgil himself was born (Mantua). Because of this shared connection to his home city, Virgil expresses a desire to speak with her. He concludes by mentioning that after the death of her father (Tiresias), Manto served the city of Bacchus and wandered the world for a long time.
+
+**Tag Resolutions:**
+
+- `{1:Aronta}` refers to **Aronda**.
+- `[2:quel]` refers to **Aronda**.
+- `[3:li]` refers to **the other souls in the Fourth Bolgia**.
+- `[4:s']` refers to **Aronda**.
+- `{5:lo Carrarese}` refers to **a figure associated with Carrara** (likely a local lord or a soul inhabiting that region).
+- `[6:li]` refers to **Aronda**.
+- `[7:quella]` refers to **Manto**.
+- `[8:tu]` refers to **Dante**.
+- `[9:+ella]` refers to **Manto**.
+- `{10:Manto}` refers to **Manto**.
+- `[11:+ella]` refers to **Manto**.
+- `[12:si]` refers to **Manto**.
+- `[13:io]` refers to **Virgil**.
+- `[14:mi]` refers to **Virgil**.
+- `[15:+ella]` refers to **Manto**.
+- `[16:m']` refers to **Virgil**.
+- `{17:l padre suo}` refers to **Tiresias**.
+- `[18:+ella]` refers to **Manto**.
+- `[19:questa]` refers to **Manto**.
+
+## Scene 61-78: Geography of Lake Garda
+This scene is a geographical digression. Virgil, having mentioned the soul of Manto and her connection to his hometown of Mantua, pauses the tour of the Fourth Bolgia to provide a detailed description of the landscape of his homeland. He describes Lake Garda (Benaco), its surrounding regions, the fortress of Peschiera, and how the lake's waters overflow to form the river Mincio, which eventually flows into the Po. It is a moment of nostalgia and vivid earthly detail set against the bleakness of Hell.
+
+**Speaker:** Virgil
+**Addressee:** Dante
+
+**Tag Resolutions:**
+- `[1:+io]` refers to **Virgil**.
+- `{2: 'l trentino}` refers to **a shepherd from Trento**.
+- `{3:pastore}` refers to **the shepherd from Trento**.
+- `[4:quel]` refers to **a shepherd/person from Brescia**.
+- `{5: 'l veronese}` refers to **a shepherd/person from Verona**.
+- `[6:+elli]` refers to **the shepherds/people from Trento, Brescia, and Verona**.
+
+## Scene 79-87: Formation of the Marshland
+In this scene, Virgil continues his geographical and historical digression about his homeland. He describes the physical formation of the landscape around Mantua and the arrival of the prophetess Manto.
+
+First, Virgil describes the river Mincio. He explains that the river does not flow far before it reaches a flat area where it spreads out, creating a swampy marshland that occasionally dries up during the summer.
+
+Then, the focus shifts to Manto. Virgil describes how Manto traveled through this raw, untouched wilderness and discovered a patch of land in the middle of the swamp, completely devoid of cultivation or other human inhabitants. Seeking total isolation from human society, Manto settled there with her servants to practice her "arts" (her prophecies and astrology). She lived there for the remainder of her life and eventually died in that lonely place.
+
+**Tag Resolutions:**
+
+- `[1:+ei]` refers to **the river Mincio**.
+- `[2:el]` refers to **the river Mincio**.
+- `[3:+ei]` refers to **the river Mincio**.
+- `[4:si]` refers to **the river Mincio**.
+- `[5:+ei]` refers to **Manto**.
+- `[6:+ei]` refers to **Manto**.
+- `{7:abitanti}` refers to **inhabitants** (general people).
+- `[8:+ei]` refers to **Manto**.
+- `[9:+ei]` refers to **Manto**.
+- `{10:suoi servi}` refers to **Manto's servants**.
+- `[11:+ei]` refers to **Manto**.
+- `[12:+ei]` refers to **Manto**.
+- `[13:+ei]` refers to **Manto**.
+- `{14:suo corpo vano}` refers to **Manto's body**.
+
+## Scene 88-99: The Foundation of Mantua
+In this scene, Virgil concludes his geographical and historical digression regarding his hometown of Mantua. He explains that people who were scattered in the surrounding region eventually gathered at the site where Manto had lived, as the surrounding marshland provided a strong, natural defense. These settlers built the city over Manto's remains, and because she was the one who first chose the location, they named the city "Mantua" after her.
+
+Virgil then makes a brief historical reference to the city's population growing before a "simpleton" (la mattia) from Casalodi was deceived by a man named Pinamonte. Finally, Virgil asserts the authority of his account, advising Dante that if he ever hears a different version of how Mantua was founded, he should trust Virgil's word as the truth, which cannot be overturned by lies.
+
+**Tag Resolutions:**
+- `{1:Li uomini}` refers to **the people/settlers** in the region.
+- `[2:+elli]` refers to **the people/settlers**.
+- `[3:s']` refers to **the people/settlers**.
+- `[4:+elli]` refers to **the people/settlers**.
+- `[5:colei]` refers to **Manto**.
+- `[6:+elli]` refers to **the people/settlers**.
+- `{7:le genti}` refers to **the people of Mantua**.
+- `{8:la mattia}` refers to **a foolish person from Casalodi** (a historical reference to a specific individual or family).
+- `{9:Pinamonte}` refers to **Pinamonte** (a historical figure from Mantua).
+- `[10:+io]` refers to **Virgil**.
+- `[11:t']` refers to **Dante**.
+- `[12:tu]` refers to **Dante**.
+
+## Scene 100-105: Dante's Inquiry
+In this scene, Dante speaks to Virgil, bringing the conversation back from the geographical digression about Mantua to the immediate surroundings of the Fourth Bolgia. Dante tells Virgil that his explanations are so certain and convincing that any other accounts he might hear would seem like "extinguished coals" (worthless or lifeless) by comparison. Having accepted Virgil's authority on the matter, Dante now asks his guide to return to the task at hand: identifying if there is anyone among the procession of distorted souls who is "worthy of note" (famous or significant), as this is now the sole focus of his curiosity.
+
+**Tag Resolutions:**
+- `[1:io]` refers to **Dante**.
+- `{2:Maestro}` refers to **Virgil**.
+- `[3:mi]` refers to **Dante**.
+- `[4:mi]` refers to **Dante**.
+- `[5:+tu]` refers to **Virgil**.
+- `{6:la gente}` refers to **the souls in the Fourth Bolgia**.
+- `[7:tu]` refers to **Virgil**.
+- `[8:ne]` refers to **the souls in the Fourth Bolgia**.
+
+## Scene 106-123: Virgil's Catalog of Souls
+In this scene, Virgil responds to Dante's request for a list of "noteworthy" souls in the Fourth Bolgia. Virgil points out several figures to illustrate the variety of those who sinned by trying to predict the future. 
+
+First, he identifies a soul with a beard resting on his shoulders as Eurypylus, an augur from the time of the Trojan War who worked with the prophet Calchas at Aulis. Virgil notes that he wrote about Eurypylus in his own "high tragedy" (the *Aeneid*), reminding Dante that he knows the work well. 
+
+Next, Virgil points out Michele Scotto, a man described as physically thin who was skilled in the "game" of magical frauds. He then tells Dante to look at Guido Bonatti and Asdente; regarding Asdente, Virgil remarks that the soul now regrets not relying on traditional, humble methods of divination (listening to hides and strings), but it is too late for repentance. Finally, Virgil directs Dante's attention to a group of women who abandoned their domestic duties—symbolized by the needle, spindle, and distaff—to become soothsayers, using herbs and images (idols or talismans) to cast spells.
+
+**Tag Resolutions:**
+
+- `[1:mi]` refers to **Dante**.
+- `[2:+ei]` refers to **Virgil**.
+- `[3:Quel]` refers to **Eurypylus**.
+- `[4:+ei]` refers to **Eurypylus**.
+- `[5:+elli]` refers to **the Greek men** (those who remained in Greece during the war).
+- `{6:augure}` refers to **Eurypylus**.
+- `[7:+ei]` refers to **Eurypylus**.
+- `{8:Calcanta}` refers to **Calchas**.
+- `{9:Euripilo}` refers to **Eurypylus**.
+- `[10:'l]` refers to **Eurypylus**.
+- `[11:tu]` refers to **Dante**.
+- `[12:+tu]` refers to **Dante**.
+- `[13:Quell' altro]` refers to **Michele Scotto**.
+- `{14:Michele Scotto}` refers to **Michele Scotto**.
+- `[15:+ei]` refers to **Michele Scotto**.
+- `[16:+tu]` refers to **Dante**.
+- `{17:Guido Bonatti}` refers to **Guido Bonatti**.
+- `[18:+tu]` refers to **Dante**.
+- `{19:Asdente}` refers to **Asdente**.
+- `[20:+ei]` refers to **Asdente**.
+- `[21:si]` refers to **Asdente**.
+- `[22:+ei]` refers to **Asdente**.
+- `[23:+tu]` refers to **Dante**.
+- `{24:le triste}` refers to **the women diviners**.
+- `[25:+elle]` refers to **the women diviners**.
+- `[26:+elle]` refers to **the women diviners**.
+
+## Scene 124-130: Closing Exhortation
+In this closing scene, Virgil urges Dante to move on from the Fourth Bolgia. He points to the current state of the heavens, noting that the moon is full ("la luna tonda"). Virgil reminds Dante that he should remember how the light of the full moon helped him—or at least did not hinder him—when he first wandered through the "deep forest" at the very beginning of his journey in Canto 1. This serves as both a temporal marker for the narrative and a reminder of the divine providence guiding the pilgrim. The scene ends with the two of them continuing their descent.
+
+**Tag Resolutions:**
+
+- `{1:Caino}` refers to **Cain** (referenced here as a celestial or geographical marker used to describe the moon's position).
+- `[2:+tu]` refers to **Dante**.
+- `[3:ti]` refers to **Dante**.
+- `[4:+ei]` refers to **Virgil**.
+- `[5:mi]` refers to **Dante**.
+- `[6:+noi]` refers to **Dante and Virgil**.
+
+# recap
+- Dante and Virgil are traveling together.
+- They have finished observing the prognosticators in the Fourth Bolgia.
+- The two are continuing their descent deeper into the Inferno under a full moon.

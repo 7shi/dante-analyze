@@ -1,0 +1,291 @@
+# Canto 15 — The Ascent through the Light and the Visions of Paradise
+
+## Scene 1-6: The Setting of the Hour
+In this brief opening passage, Dante the narrator pauses the dialogue with Aglauro to establish the time of day. He is describing the movement of the sun and the celestial spheres to indicate how much daylight is left in Purgatory.
+
+He uses a comparison: the amount of time remaining until sunset is equivalent to the interval between the beginning of the day and the end of the third hour (roughly 9:00 AM). He notes a discrepancy between the time on Purgatory and the time on Earth—where it is evening in the terrestrial world, it is already midnight in the realm of Purgatory.
+
+**Tag Resolutions:**
+
+- `{1:la spera}`: The celestial sphere (the heavens/the starry sphere that carries the sun).
+- `{2:fanciullo}`: The celestial sphere (described metaphorically as a "child" because of its playful, constant motion).
+- `{3:al sol}`: The sun.
+
+## Scene 7-15: The Blinding Light
+In this scene, Dante and Virgil are continuing their ascent on the second terrace of Purgatory. As they move, the curvature of the mountain brings them into a position where they are walking directly toward the west (the sunset). Because of this alignment, the rays of the sun strike them directly in the face. Dante feels the intensity of the light increasing on his forehead, and the sheer brilliance of the sight fills him with wonder/astonishment. To cope with the blinding glare, Dante raises his hand above his eyes to create a small patch of shade, effectively "filing down" or reducing the overwhelming brightness of the sun.
+
+**Tag Resolutions:**
+
+- `[1:noi]`: Dante and Virgil
+- `[2:+noi]`: Dante and Virgil
+- `[3:io]`: Dante
+- `[4:me]`: Dante
+- `[5:m']`: Dante
+- `[6:io]`: Dante
+- `[7:+io]`: Dante
+
+## Scene 16-24: The Metaphor of Refraction
+In this scene, Dante the narrator describes the optical sensation of the blinding sunlight using a scientific analogy. 
+
+Lines 16–21 function as a technical explanation of the laws of reflection and refraction. Dante compares the way a ray of light "jumps" off a mirror or water at an angle equal to its descent, contrasting this diagonal path with the straight vertical path of a falling stone (referencing the "experience and art/science" of optics). 
+
+In lines 22–24, he applies this analogy to his current situation: the light seems to strike him as if it were refracted, and because the glare is so intense, he instinctively and quickly averts his eyes.
+
+**Tag Resolutions:**
+
+- `[1:mi]`: Dante
+- `[2:me]`: Dante
+
+## Scene 25-33: The Angel's Reassurance
+In this scene, Dante is struggling with the blinding light he described in the previous section. He turns to Virgil to ask what the source of the light is and observes that it seems to be moving toward them. Virgil responds by reassuring him, explaining that the light is an angel—a heavenly messenger—who is coming to invite them to ascend to the next terrace. Virgil tells Dante not to be surprised by the glare, promising that soon the sight of these celestial things will no longer be a burden but a source of delight, in accordance with the capacities of his human nature.
+
+**Tag Resolutions:**
+
+- `[1:quel]`: The angel (the source of the blinding light)
+- `{2:dolce padre}`: Virgil
+- `[3:+io]`: Dante
+- `[4:mi]`: Dante
+- `[5:io]`: Dante
+- `[6:noi]`: Dante and Virgil
+- `[7:ti]`: Dante
+- `[8:t']`: Dante
+- `{9:la famiglia del cielo}`: The angel
+- `[10:me]`: Dante
+- `[11:+ei]`: Virgil
+- `{12:messo}`: The angel
+- `[13:om]`: Man (referring generally to humans/the pilgrim)
+- `[14:ti]`: Dante
+- `{15:natura}`: Nature
+- `[16:ti]`: Dante
+
+## Scene 34-39: Arrival at the Stairway
+In this scene, Dante and Virgil reach the angel who had appeared as a blinding light. The angel greets them with a joyful voice and directs them to enter a specific stairway, noting that it is shorter (or less steep) than the other paths of ascent. As Dante and Virgil begin to climb and move away from the angel, they hear the souls of the second terrace singing behind them. The song consists of the Beatitude associated with this level—"Blessed are the merciful!"—followed by a personal encouragement to Dante: "Rejoice, for you conquer!"
+
+**Tag Resolutions:**
+
+- `[1:+noi]`: Dante and Virgil
+- `{2:angel benedetto}`: The angel
+- `[3:+ei]`: The angel
+- `[4:+voi]`: Dante and Virgil
+- `[5:Noi]`: Dante and Virgil
+- `[6:tu]`: Dante
+
+## Scene 40-45: Dante's Query on Political Terms
+In this scene, Dante and Virgil are continuing their ascent up the stairs together, now alone. As they walk, Dante reflects on the conversation they had previously with Aglauro. Seeking clarity on some of the specific language used, Dante turns to Virgil and asks him to explain what Aglauro meant by the terms "prohibition" (*divieto*) and "consort" (*consorte*).
+
+**Tag Resolutions:**
+- `{1:Lo mio maestro}`: Virgil
+- `[2:io]`: Dante
+- `[3:io]`: Dante
+- `[4:+io]`: Dante
+- `[5:mi]`: Dante
+- `[6:lui]`: Virgil
+- `{7:lo spirto di Romagna}`: Aglauro
+
+## Scene 46-57: The Paradox of Divine Distribution
+In this scene, Virgil is continuing his explanation to Dante regarding the words spoken by Aglauro. He is clarifying Aglauro's warning about the "ancient adversary" (Satan) and the danger of earthly attachments. 
+
+Virgil explains that the adversary knows full well the damage caused by his own great flaw (pride/rebellion), and therefore, it is not surprising that the adversary is rebuked to prevent others from suffering the same fate. Virgil (quoting Aglauro) asks why Dante's desires are fixed on earthly things, where the concept of "companionship" actually diminishes the individual's share and fuels the fire of Envy. 
+
+He contrasts this with the "Love of the highest sphere" (Divine Love). He explains a spiritual paradox: in Paradise, the more a soul claims something as "ours" (sharing in the collective joy and possession of God's goodness), the more individual good that soul actually possesses. In the heavenly "cloister," the capacity for charity and love increases the more it is shared, unlike earthly love which is often possessive and exclusionary.
+
+**Tag Resolutions:**
+
+- `[1:elli]`: Aglauro
+- `[2:me]`: Dante
+- `[3:+elli]`: The ancient adversary (Satan)
+- `[4:+elli]`: The ancient adversary (Satan)
+- `[5:s']`: The ancient adversary (Satan)
+- `[6:+elli]`: The ancient adversary (Satan)
+- `[7:si]`: One/People (impersonal)
+- `[8:si]`: One/People (impersonal)
+- `{9:invidia}`: Envy
+- `{10:l'amor}`: Divine Love (God's Love)
+- `[11:+voi]`: Dante
+- `[12:quanti]`: The blessed souls in Paradise
+- `[13:si]`: The blessed souls in Paradise
+- `[14:+elli]`: The blessed souls in Paradise
+
+## Scene 58-72: The Nature of Divine Love
+In this scene, Dante and Virgil continue their conversation as they ascend the stairs. Dante admits that he is confused by the paradox Virgil presented in the previous scene (the idea that sharing a divine good increases the individual's portion). Dante tells Virgil that he would have preferred to remain silent and ignorant than to have a mind filled with such doubt. He asks a direct question: how is it possible that a "good," when distributed among more possessors, makes them richer than if it were possessed by only a few?
+
+Virgil responds by gently rebuking Dante, pointing out that Dante is still thinking in earthly, material terms—where resources are finite and sharing means dividing a limited pie. Virgil explains that the "infinite and ineffable good" of Paradise (God/Divine Love) operates differently. He uses the analogy of light: just as a ray of light is reflected more brilliantly by a more polished surface, Divine Love gives more to those who have more "ardor" (spiritual passion or capacity for love). Therefore, in the realm of eternity, the more charity is extended and shared, the more the eternal value increases for everyone involved.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `[2:io]`: Dante
+- `[3:mi]`: Dante
+- `[4:+io]`: Dante
+- `{5:più posseditor}`: The blessed souls in Paradise
+- `[6:elli]`: Virgil
+- `[7:me]`: Dante
+- `[8:tu]`: Dante
+- `[9:+tu]`: Dante
+
+## Scene 73-78: The Promise of Beatrice
+In this scene, Virgil is concluding his explanation of the nature of Divine Love in Paradise. He explains that as one ascends to higher spheres where more souls possess understanding, the amount of "good" to be loved increases, and the souls love one another more intensely, reflecting that divine light to each other like mirrors.
+
+Virgil then shifts from the general theology of Paradise to a specific promise regarding Dante's journey. He tells Dante that, provided his reasoning is correct, Dante will eventually see Beatrice. Virgil asserts that the encounter with Beatrice will be so fulfilling that it will completely satisfy "this" specific longing (the curiosity and doubt Dante just expressed) as well as every other desire he possesses.
+
+**Tag Resolutions:**
+
+- `{1:quanta gente}`: The blessed souls in Paradise
+- `[2:s']`: The blessed souls in Paradise
+- `[3:s']`: The blessed souls in Paradise
+- `[4:l'uno]`: A blessed soul in Paradise
+- `[5:l'altro]`: Another blessed soul in Paradise
+- `[6:ti]`: Dante
+- `[7:+tu]`: Dante
+- `{8:Beatrice}`: Beatrice
+- `[9:ella]`: Beatrice
+- `[10:ti]`: Dante
+- `[11:questa]`: Dante's current desire/longing (specifically his desire for the answers and clarity he sought in the previous scene)
+
+## Scene 79-81: The Closing of the Wounds
+In this brief closing scene of Canto 15, Virgil is concluding his instructions to Dante as they continue their ascent. 
+
+Having just promised that seeing Beatrice will satisfy all of Dante's desires, Virgil now turns his attention to Dante's spiritual state. He uses the metaphor of "five wounds" (*cinque piaghe*) to represent the sins that Dante must purge to be cleansed. 
+
+Virgil tells Dante to strive to ensure that these wounds are soon "extinguished" (healed). He notes that two of them are already closed—referring to the first two terraces of Purgatory they have navigated: Pride and Envy. He encourages Dante to continue his progress so that the remaining wounds close as well, acknowledging that they remain "painful" (or "dolente," implying the sorrow and effort involved in repentance).
+
+**Tag Resolution:**
+
+- `[1:+tu]`: Dante
+
+## Scene 82-93: The Vision of the Mother
+In this scene, Dante and Virgil have reached the threshold of the third terrace of Purgatory. As Dante attempts to respond to Virgil's previous words of encouragement, he is suddenly overcome by the radiance of the new level, which strikes him silent. 
+
+He then experiences a sudden, ecstatic vision. He finds himself in a temple where he sees several people. Among them is a woman standing at the entrance who speaks to him with maternal sweetness. She addresses him as her son and asks why he has turned away from them, explaining that she and his father have been searching for him in sorrow. As soon as she finishes speaking, the vision vanishes.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante
+- `[2:Tu]`: Virgil
+- `[3:m']`: Dante
+- `[4:+io]`: Dante
+- `[5:mi]`: Dante
+- `[6:mi]`: Dante
+- `{7:persone}`: People in the vision
+- `{8:una donna}`: Dante's mother
+- `{9:madre}`: Dante's mother
+- `{10:Figliuol}`: Dante
+- `[11:tu]`: Dante
+- `[12:noi]`: Dante's mother and father
+- `{13:lo tuo padre}`: Dante's father
+- `[14:io]`: Dante's mother
+- `[15:+noi]`: Dante's mother and father
+- `[16:ti]`: Dante
+
+## Scene 94-101: The Vision of the Trojan Widow
+In this scene, Dante continues to experience fragmented, ecstatic visions as he transitions to the third terrace of Purgatory. Immediately following the vision of his mother, another figure appears to him.
+
+This second figure is a woman, identified by the context as a Trojan. She is weeping bitterly, with tears streaming down her cheeks, driven by a deep, ancient sorrow. She speaks directly to Dante, but she does not recognize him as the Florentine poet; instead, she addresses him as if he were a leader of Troy (specifically using the name Pisistratus). She describes Troy as the city over which the gods fought and from which all knowledge/glory sparkled. She implores Dante (as the "lord" and "Pisistratus") to seek vengeance for her daughter, who was taken by "bold arms" (a reference to the abduction/rape of a Trojan woman, likely referring to the actions of Paris).
+
+**Tag Resolutions:**
+
+- `[1:m']`: Dante
+- `{2:un'altra}`: A Trojan woman (likely a soul from Troy, such as Hecuba or Andromache)
+- `{3:'l dolor}`: Sorrow/Grief (personified)
+- `[4:tu]`: Dante
+- `{5:sire}`: Dante (addressed as the lord of Troy)
+- `{6:ne' dèi}`: The Olympian gods
+- `[7:+tu]`: Dante
+- `[8:te]`: Dante
+- `{9:nostra figlia}`: The daughter of the Trojan woman
+- `{10:Pisistràto}`: Dante (addressed as the Trojan leader Pisistratus)
+
+## Scene 102-105: The Lord's Gentle Response
+In this scene, the fragmented vision of Troy continues. Dante the narrator observes himself within the vision, appearing as the "lord" (the persona of Pisistratus/the Trojan leader) to whom the weeping Trojan woman had just appealed. In a gentle and mild manner, this persona responds to her plea for vengeance. He poses a rhetorical question, asking how they (the Trojans) can possibly take action against those who wish them harm when the very person who loves them is already condemned on their account.
+
+**Tag Resolutions:**
+
+- `{1:'l segnor}`: Dante (specifically, the persona of the Trojan lord/Pisistratus he inhabits in the vision)
+- `[2:mi]`: Dante (the narrator observing the vision)
+- `[3:lei]`: The Trojan woman
+- `[4:noi]`: The Trojans
+- `[5:chi]`: Those who wish the Trojans harm (their enemies/the Greeks)
+- `[6:quei]`: The person who loves the Trojans (a protector or loved one within the vision's context)
+- `[7:ci]`: The Trojans
+- `[8:noi]`: The Trojans
+
+## Scene 106-114: The Vision of the Martyr
+In this scene, Dante experiences another fragmented, ecstatic vision as he continues his transition to the third terrace. He sees a scene of violent martyrdom: an angry crowd is stoning a young man to death. As the crowd shouts "Martyr, martyr!" (likely in a mocking or accusatory tone), the young man begins to collapse under the weight of his injuries. Despite his suffering, he keeps his eyes fixed on the heavens and prays to God (the High Lord), asking Him to forgive the people who are killing him. He does this with an expression of such profound compassion and serenity that it evokes pity in the observer.
+
+**Tag Resolutions:**
+
+- `[1:+io]`: Dante
+- `{2:genti}`: An angry crowd
+- `{3:un giovinetto}`: A young man (the martyr)
+- `[4:sé]`: The young man
+- `[5:lui]`: The young man
+- `[6:chinarsi]`: The young man
+- `[7:l']`: The young man
+- `[8:+lui]`: The young man
+- `{9:l'alto Sire}`: God (the High Lord)
+- `[10:+lui]`: God (the High Lord)
+- `{11:a' suoi persecutori}`: The angry crowd
+
+## Scene 115-123: Return to Consciousness
+In this scene, Dante returns to his conscious state after the series of ecstatic visions (the mother, the Trojan woman, and the martyr). He describes the sensation of his soul returning to the "true" external reality of Purgatory. 
+
+Virgil, who has been observing Dante during this episode, notices that Dante's physical behavior resembled someone waking up from a deep sleep. Virgil speaks to Dante, questioning his state and pointing out that Dante has walked a significant distance (over half a league) while essentially blind and stumbling, appearing as if he were incapacitated by wine or sleep.
+
+**Tag Resolutions:**
+
+- `{1:l'anima mia}`: Dante (specifically, his soul)
+- `[2:lei]`: Dante (his soul)
+- `[3:io]`: Dante
+- `{4:Lo duca mio}`: Virgil
+- `[5:mi]`: Dante
+- `{6:om}`: a man (generic comparison)
+- `[7:si]`: a man (generic comparison)
+- `[8:+ei]`: Virgil
+- `[9:+tu]`: Dante
+- `[10:+tu]`: Dante
+- `[11:ti]`: Dante
+- `[12:+tu]`: Dante
+
+## Scene 124-126: Dante's Report
+In this brief scene, Dante begins to respond to Virgil's observations about his strange, trance-like behavior. Dante addresses Virgil with affection and asks if he is willing to listen, promising to recount the visions that appeared to him during the period when he was physically incapacitated and unable to walk consciously.
+
+**Tag Resolutions:**
+
+- `{1:dolce padre}`: Virgil
+- `[2:tu]`: Virgil
+- `[3:m']`: Dante
+- `[4:io]`: Dante
+- `[5:ti]`: Virgil
+- `[6:io]`: Dante
+- `[7:m']`: Dante
+- `[8:mi]`: Dante
+
+## Scene 127-138: Virgil's Explanation of the Trance
+In this scene, Virgil responds to Dante’s offer to explain the visions he just experienced. Virgil explains that he was not actually confused by Dante's trance-like state; rather, he could see exactly what was happening to Dante's soul. He tells Dante that these visions were possible because Dante opened his heart to the "waters of peace" flowing from the "eternal fountain" (God/Divine Grace). Virgil further clarifies that when he asked "What is the matter?" earlier, it wasn't because he didn't understand the situation, but because he wanted to provide a physical stimulus to help Dante "wake up" and continue walking. He compares this to the way one must nudge or prod lazy, slow-moving people to bring them back to full wakefulness.
+
+**Tag Resolutions:**
+
+- `[1:ei]`: Virgil
+- `[2:tu]`: Dante
+- `[3:mi]`: Virgil
+- `[4:+tu]`: Dante
+- `[5:+tu]`: Dante
+- `[6:+io]`: Virgil
+- `[7:+tu]`: Dante
+- `[8:chi]`: a person/soul in a trance (generic)
+- `[9:+io]`: Virgil
+- `{10:i pigri, lenti}`: lazy, slow people (generic)
+- `[11:+elli]`: lazy, slow people (generic)
+
+## Scene 139-145: The Encroaching Darkness
+In this scene, Dante and Virgil are continuing their journey as evening approaches. They are walking while gazing intently toward the horizon, trying to see as far as possible into the fading, brilliant rays of the sunset. Suddenly, a dark smoke begins to drift toward them, resembling the onset of night. This smoke is omnipresent and inescapable; it eventually envelops them, robbing them of their vision and the clarity of the air.
+
+**Tag Resolutions:**
+
+- `[1:Noi]`: Dante and Virgil
+- `[2:noi]`: Dante and Virgil
+- `[3:ne]`: Dante and Virgil (The smoke took the sight away *from them*)
+
+# recap
+- Dante and Virgil are traveling together toward the horizon as evening approaches.
+- They have been enveloped by a sudden, omnipresent dark smoke that has robbed them of their vision.

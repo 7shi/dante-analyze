@@ -1,0 +1,297 @@
+# Canto 04 — The Ascent of the Mountain and the Encounter with Belacqua
+
+## Scene 1-12: Philosophical Prologue
+In this philosophical prologue to Canto 4, the narrator (Dante) pauses the narrative action to meditate on the nature of human consciousness and attention. There is no dialogue here; Dante is speaking directly to the reader, providing a theoretical framework to explain why some people (like the soul he is about to encounter, Belacqua) might be completely oblivious to their surroundings or the passage of time.
+
+He argues against the "error" (a common misconception of the time) that humans possess multiple souls. Instead, he posits that we have one single soul with different "powers" or faculties. When the soul is intensely focused on something—whether through pleasure or pain—it "gathers itself" into one faculty, leaving the other faculties (such as the one that perceives the passage of time) "bound" or inactive.
+
+**Tag Resolutions:**
+
+*   `{1:l'anima}`: The human soul (generic/universal).
+*   `[2:si]`: The human soul.
+*   `[3:+ella]`: The human soul.
+*   `{4:un'anima}`: A human soul (specifically referring to the theoretical "first" soul in the mistaken belief that we have more than one).
+*   `[5:altra]`: Another human soul (specifically referring to the theoretical "second" soul in that same mistaken belief).
+*   `[6:noi]`: Human beings (including Dante).
+*   `[7:s']`: A human soul.
+*   `{8:l'anima}`: The human soul (generic/universal).
+*   `{9:l'uom}`: A human being (generic/universal).
+*   `[10:se]`: A human being.
+*   `[11:l']`: The thing heard or seen (referring back to the "cosa o vede" in line 7).
+*   `{12:l'anima}`: The human soul (generic/universal).
+
+## Scene 13-18: The Voice in the Dark
+In this scene, Dante transitions from the abstract philosophical discussion about the soul to a concrete example from his own experience. He explains that he personally witnessed the phenomenon he just described: he was so absorbed in listening to and wondering at a particular spirit that he completely lost track of time, failing to notice that the sun had risen fifty degrees in the sky. This moment of distraction ends when he and Virgil arrive at a specific location where a group of souls calls out to them, announcing that they have reached their destination.
+
+**Tag Resolutions:**
+
+*   `[1:io]`: Dante
+*   `{2:quello spirto}`: Belacqua (the spirit whose state of distraction prompted Dante's philosophical meditation)
+*   `[3:io]`: Dante
+*   `[4:m']`: Dante
+*   `[5:+noi]`: Dante and Virgil
+*   `{6:quell' anime}`: The souls at the base of Purgatory
+*   `[7:noi]`: Dante and Virgil
+
+## Scene 19-24: The Simile of the Vineyard
+In this brief scene, Dante uses a simile to describe the environment or the arrangement of the souls, comparing it to a vineyard worker tending to grapes with a small fork. He then brings the narrative back to the present moment, noting that he and Virgil have moved onto a path that separates them from the large crowd of souls they were previously with.
+
+**Tag Resolutions:**
+
+*   `{1:l'uom de la villa}`: The vineyard worker (a hypothetical person used in the simile).
+*   `{2:lo duca mio}`: Virgil.
+*   `[3:io]`: Dante.
+*   `[4:noi]`: Dante and Virgil.
+*   `[5:si]`: The crowd of souls (`la schiera`).
+
+## Scene 25-30: The Flight of Desire
+In this scene, Dante reflects on the difference between his earthly travels and his current spiritual journey. He lists several real-world locations he has visited in Italy—San Leo, Noli, Bismantova, and Cacume—noting that in those places, he traveled using his physical feet. He contrasts this with the ascent of Mount Purgatory, where physical walking is insufficient. Instead, he explains that here, one must "fly," not with physical wings, but with the "wings and feathers of great desire." He is propelled by his intense longing for salvation and the guidance of Virgil, who provides him with hope and light.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `[2:+io]`: Dante
+*   `[3:+io]`: Dante
+*   `{4:om}`: A person/one (referring generally to anyone in this state, specifically Dante)
+*   `[5:+io]`: Dante
+*   `{6:quel condotto}`: Virgil (the guide)
+*   `[7:mi]`: Dante
+
+## Scene 31-35: The Difficult Climb
+In this brief scene, Dante and Virgil engage in a physically demanding ascent. They are scrambling through "broken rock" (scree or a rocky ravine), where the space is so narrow that the cliffs press in on them from both sides. The terrain is so steep and treacherous that it requires them to use both their hands and feet to climb. Eventually, they successfully reach the top edge of this high cliff, emerging onto a more open, clear slope.
+
+**Tag Resolutions:**
+
+*   `[1:Noi]`: Dante and Virgil
+*   `[2:noi]`: Dante and Virgil
+
+## Scene 36-39: Virgil's Command
+In this brief scene, Dante and Virgil have just emerged from the difficult climb through the rocky ravine. Dante, uncertain of the correct path forward on the open slope, asks his guide for direction. Virgil responds by instructing Dante to stop worrying about his footing and simply follow closely behind him until they encounter a "wise escort" (another guide or a group of souls who can provide further direction).
+
+**Tag Resolutions:**
+
+*   `{1:Maestro}`: Virgil
+*   `[2:io]`: Dante
+*   `[3:+noi]`: Dante and Virgil
+*   `[4:elli]`: Virgil
+*   `[5:me]`: Dante
+*   `[6:me]`: Virgil
+*   `[7:+tu]`: Dante
+*   `{8:alcuna scorta saggia}`: A wise escort (a guide or group of souls)
+
+## Scene 40-48: The Exhausted Climber
+In this scene, Dante and Virgil are facing a daunting ascent. The mountain's peak is hidden from view, and the slope is incredibly steep (estimated at over 45 degrees). Dante, feeling physically exhausted by the climb, calls out to Virgil. He asks his guide to look back and see that he is struggling and feels isolated, fearing he has fallen behind. Virgil responds affectionately, calling Dante "my son," and encourages him to keep going. He points toward a ledge slightly further up the slope where the path curves around the hillside, indicating the next goal for Dante to reach.
+
+**Tag Resolutions:**
+
+*   `[1:Io]`: Dante
+*   `[2:+io]`: Dante
+*   `{3:dolce padre}`: Virgil
+*   `[4:+tu]`: Virgil
+*   `[5:+tu]`: Virgil
+*   `[6:io]`: Dante
+*   `[7:+io]`: Dante
+*   `{8:Figliuol}`: Dante
+*   `[9:+ei]`: Virgil
+*   `[10:ti]`: Dante
+
+## Scene 49-54: The Rest on the Summit
+In this scene, Dante responds to Virgil's encouragement from the previous scene. Spurred by Virgil's words, Dante pushes himself physically to catch up to his guide. He successfully reaches the ledge (the *cinghio*) that Virgil had pointed out. Once they are reunited on the ledge, both Dante and Virgil sit down to rest. They face east, looking back down the path they have just climbed, a vista that Dante notes is typically comforting or helpful to those who look back upon it.
+
+**Tag Resolutions:**
+
+*   `[1:mi]`: Dante
+*   `[2:i']`: Dante
+*   `[3:mi]`: Dante
+*   `[4:lui]`: Virgil
+*   `[5:mi]`: Dante
+*   `[6:+noi]`: Dante and Virgil
+*   `[7:ci]`: Dante and Virgil
+*   `[8:ambedui]`: Dante and Virgil
+*   `[9:+noi]`: Dante and Virgil
+
+## Scene 55-60: Observing the Sun
+In this scene, Dante and Virgil are pausing to catch their breath on the ledge. Dante describes his gaze: he first looks down at the low shores below the mountain and then looks up at the sun. He is struck by the fact that the sunlight is hitting them from the left. Virgil (referred to here as "the poet") observes that Dante is completely mesmerized or "stunned" by the sight of the sun (the "chariot of light"). The scene concludes with a spatial observation: the sun is positioned between the two men and the North Wind (Aquilone).
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `[2:+io]`: Dante
+*   `[3:+ei]`: Dante
+*   `[4:+noi]`: Dante and Virgil
+*   `[5:s']`: Virgil (The pronoun *si* here functions as the subject of *avvide*, referring to the person who perceived the situation)
+*   `{6:il poeta}`: Virgil
+*   `[7:ïo]`: Dante
+*   `[8:noi]`: Dante and Virgil
+*   `{9:Aquilone}`: Aquilone (the personified North Wind)
+*   `[10:+ei]`: The sun (the "chariot of light")
+
+## Scene 61-75: The Astronomical Lecture
+In this scene, Virgil provides Dante with a technical astronomical lesson to explain the position of the sun as they sit on the ledge of Mount Purgatory. 
+
+Virgil explains that if Castor and Pollux (the twins of Gemini) were in the company of the celestial sphere that moves the sun, Dante would see the Zodiac rotating more closely to the Little Bear (Ursa Minor), provided it didn't deviate from its established path. To help Dante visualize this complex spatial arrangement, Virgil asks him to perform a mental exercise: imagine Mount Zion (in Jerusalem) and Mount Purgatory standing on Earth such that they share the same horizon but occupy different hemispheres. 
+
+By using this conceptual map, Virgil explains the sun's trajectory. He references Phaethon—the mythological figure who famously lost control of the sun's chariot—to contrast a chaotic path with the orderly path the sun actually follows. He concludes by telling Dante that if he pays close attention with his intellect, he will understand why the sun must move from one side to the other relative to these two mountains.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: Virgil (using the plural "they" as a formal/poetic singular)
+*   `[2:me]`: Dante
+*   `{3:Castore}`: Castor
+*   `{4:Poluce}`: Pollux
+*   `[5:tu]`: Dante
+*   `[6:+tu]`: Dante
+*   `[7:+tu]`: Dante
+*   `{8:Fetòn}`: Phaethon
+*   `[9:+tu]`: Dante
+
+## Scene 76-84: Dante's Astronomical Observation
+In this scene, Dante responds to the technical astronomical lecture Virgil has just delivered. He admits to his guide that he now understands the position of the celestial equator far more clearly than he ever did in his previous studies, where his intellect had felt lacking. 
+
+To demonstrate his understanding, Dante summarizes the spatial logic Virgil explained: the celestial equator (the "middle circle" of the heavens) deviates toward the north from their current position on Mount Purgatory by the same degree that it deviates toward the south (the "warm part") as seen by the Hebrews in Jerusalem. This confirmation signals that Dante has successfully visualized the relationship between the two hemispheres and the two mountains.
+
+**Tag Resolutions:**
+
+*   `{1:maestro}`: Virgil
+*   `[2:io]`: Dante
+*   `[3:io]`: Dante
+*   `[4:io]`: Dante
+*   `{5:li Ebrei}`: The Hebrews
+*   `[6:+elli]`: The Hebrews
+
+## Scene 85-87: A Request for Guidance
+In this brief scene, Dante turns his attention from the astronomical lesson back to the immediate physical journey. He asks Virgil, if he is willing to share, how much further they have to climb. Dante explains his curiosity by noting that the mountain's slope is so steep that it rises beyond the limit of his vision; he simply cannot see the top from where they are currently resting.
+
+**Tag Resolutions:**
+* `[1:te]`: Virgil
+* `[2:+io]`: Dante
+* `[3:+noi]`: Dante and Virgil
+
+## Scene 88-96: The Nature of the Mountain
+In this scene, Virgil answers Dante's question about how much further they have to climb. Rather than giving a physical distance or a specific time, Virgil explains the paradoxical nature of Mount Purgatory: the ascent is most difficult at the beginning, and it becomes progressively easier the higher one climbs. He tells Dante that when the climb finally feels "light" and effortless—comparing the sensation to sailing downstream with the wind—he will know that he has reached the end of the path and that the rest he seeks is finally within reach.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: Virgil
+*   `[2:me]`: Dante
+*   `{3:om}`: A person/one (referring generally to any pilgrim, specifically Dante)
+*   `[4:+ella]`: The mountain (Mount Purgatory)
+*   `[5:ti]`: Dante
+*   `[6:ti]`: Dante
+*   `[7:+tu]`: Dante
+*   `[8:+io]`: Virgil
+*   `[9:+io]`: Virgil
+
+## Scene 97-102: A Voice from the Shadows
+In this scene, Virgil has just finished explaining to Dante that the climb becomes easier as one ascends. As soon as he stops speaking, a voice sounds from nearby, commenting somewhat ironically that Dante has perhaps had enough of sitting. Startled by the voice, both Dante and Virgil turn toward it and notice a large boulder to their left—a feature of the landscape that neither of them had noticed until that moment.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: Virgil (who has just finished his explanation in the previous scene).
+*   `{2:una voce}`: A voice (the spirit Belacqua).
+*   `[3:+tu]`: Dante (the voice is addressing him).
+*   `[4:lei]`: The voice (Belacqua).
+*   `[5:noi]`: Dante and Virgil.
+*   `[6:si]`: Dante and Virgil (reflexive).
+*   `[7:+noi]`: Dante and Virgil.
+*   `[8:io]`: Dante.
+*   `[9:ei]`: Virgil.
+*   `[10:s']`: Dante and Virgil (reflexive).
+
+## Scene 103-108: The Slumbering Figure
+In this scene, Dante and Virgil move toward the source of the voice they heard in the previous scene. Upon arriving behind the large boulder, they discover a group of souls resting in the shade. Dante observes that they are lounging in a manner reminiscent of someone acting out of sheer laziness or indolence. Among this group, Dante notices one particular soul who appears especially weary or listless. This figure is sitting in a huddled position, clutching his knees and keeping his face tucked down between them, effectively withdrawing from the world around him.
+
+**Tag Resolutions:**
+
+*   `[1:+noi]`: Dante and Virgil
+*   `[2:ci]`: Dante and Virgil
+*   `{3:persone}`: The souls resting in the shade
+*   `[4:si]`: The souls resting in the shade
+*   `{5:l'uom}`: A man (a generic/hypothetical person used in a simile for laziness)
+*   `[6:si]`: A man (the hypothetical person from the simile)
+*   `[7:lor]`: The souls resting in the shade
+*   `[8:mi]`: Dante
+*   `[9:+ei]`: One of the souls (Belacqua)
+*   `[10:+ei]`: One of the souls (Belacqua)
+
+## Scene 109-114: The Recognition of Belacqua
+In this scene, Dante draws Virgil's attention to the particularly listless soul he noticed in the previous scene. Dante asks his guide to look at this man, who appears more negligent than if laziness were his actual profession. Upon being noticed, the soul (Belacqua) reluctantly looks up from his huddled position to acknowledge Dante and Virgil. He responds with a dismissive, sarcastic comment, telling Dante to keep climbing since he is so "valente" (capable or spirited), essentially urging the living poet to leave him to his indolence.
+
+**Tag Resolutions:**
+
+*   `{1:dolce segnor mio}`: Virgil
+*   `[2:io]`: Dante
+*   `[3:+tu]`: Virgil
+*   `[4:colui]`: Belacqua
+*   `[5:sé]`: Belacqua
+*   `[6:+ei]`: Belacqua
+*   `[7:si]`: Belacqua
+*   `[8:noi]`: Dante and Virgil
+*   `[9:+ei]`: Belacqua
+*   `[10:+ei]`: Belacqua
+*   `[11:tu]`: Dante
+*   `[12:+tu]`: Dante
+
+## Scene 115-122: The Encounter with Belacqua
+In this scene, Dante recognizes the lethargic soul as Belacqua. Despite feeling a lingering sense of anxiety or distress that has weakened his physical strength, Dante is not deterred and approaches the spirit. As Dante reaches him, Belacqua barely raises his head to look at him. Belacqua speaks with a dismissive, ironic tone, asking Dante if he noticed the sun's position (referring back to the astronomical observation Dante made earlier). Dante is amused by the contrast between the gravity of their spiritual environment and Belacqua's profound indolence and curt manner, which causes Dante to smile.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `[2:chi]`: Belacqua
+*   `[3:m']`: Dante
+*   `[4:m']`: Dante
+*   `[5:lui]`: Belacqua
+*   `[6:lui]`: Belacqua
+*   `[7:+io]`: Dante
+*   `[8:+lui]`: Belacqua
+*   `[9:+tu]`: Dante
+
+## Scene 123-126: Questioning the Sloth
+In this scene, Dante begins a conversation with Belacqua. He tells the spirit that he no longer feels pity for him, perhaps responding to Belacqua's dismissive and sarcastic attitude in the previous scene. Dante then questions Belacqua's strange, huddled posture, asking if he is waiting for some escort to arrive or if he has simply reverted to his habitual state of indolence and laziness.
+
+**Tag Resolutions:**
+
+*   `[1:+io]`: Dante
+*   `{2:Belacqua}`: Belacqua
+*   `[3:me]`: Dante
+*   `[4:te]`: Belacqua
+*   `[5:+tu]`: Belacqua
+*   `[6:+tu]`: Belacqua
+*   `[7:tu]`: Belacqua
+*   `[8:t']`: Belacqua
+
+## Scene 127-135: Belacqua's Excuse
+In this scene, Belacqua responds to Dante's questions about his slothful posture and reluctance to climb. He speaks with his characteristic irony and cynicism. Belacqua asks Dante rhetorically why he should bother going up, explaining that he is forbidden from entering the path of penance (the "martyrdoms") by the Angel who guards the gate. 
+
+He reveals that his punishment is a direct reflection of his earthly life: he must wait for the celestial spheres to rotate for a duration equal to the time he wasted through procrastination and indolence while he was alive. He concludes by reflecting on the nature of prayer, noting that while prayers from those living in a state of grace are helpful, he is stuck in his current state of waiting.
+
+**Tag Resolutions:**
+
+*   `[1:elli]`: Belacqua (the speaker).
+*   `{2:frate}`: Dante (addressed as "brother").
+*   `[3:+elli]`: The Angel of God.
+*   `[4:mi]`: Belacqua.
+*   `{5:l'angel di Dio}`: The Angel of God.
+*   `[6:m']`: Belacqua.
+*   `[7:+io]`: Belacqua.
+*   `[8:io]`: Belacqua.
+*   `[9:m']`: Belacqua.
+
+## Scene 136-139: Resuming the Journey
+In this scene, the interaction with Belacqua has come to an end. Virgil, who has already begun to move forward, calls out to Dante to hurry along. He points out that it is now nearly midday, citing the position of the sun. To emphasize the time and the global scale of the world, Virgil notes that while it is noon for them, night has already fallen over Morocco. This serves as a prompt for Dante to stop lingering and resume their ascent of the mountain.
+
+**Tag Resolutions:**
+
+*   `{1:il poeta}`: Virgil
+*   `[2:mi]`: Dante
+*   `[3:+ei]`: Virgil
+*   `[4:+tu]`: Dante
+*   `[5:+tu]`: Dante
+*   `{6:la notte}`: Night (personified)
+*   `{7:Morrocco}`: Morocco (geographic location)
+
+# recap
+- Dante and Virgil are traveling together.
+- They have left the slothful spirit Belacqua behind.
+- They are resuming their ascent of Mount Purgatory as midday approaches.

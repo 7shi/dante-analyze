@@ -1,0 +1,302 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+
+## Scene 1-6: Observation of the Flames
+In this opening scene of Canto 8, the narrator is recounting the moments just before they reached the base of the high tower. As they approach, Dante and Virgil look up toward the summit. They spot two small flames appearing there, and a third flame in the distance that seems to be signaling to them, though it is so far off that it is barely visible to the eye.
+
+**Tag Resolutions:**
+- `[1:Io]`: Dante (the narrator/protagonist)
+- `[2:noi]`: Dante and Virgil
+- `[3:+noi]`: Dante and Virgil
+
+## Scene 7-12: Inquiry of the Flames
+In this scene, Dante is perplexed by the signals he sees atop the tower and in the distance. He turns to Virgil—whom he calls his "sea of all wisdom" (*mar di tutto 'l senno*)—to ask for an explanation. Dante wants to know what the flames are communicating and who is responsible for creating them. Virgil responds by telling Dante to look ahead across the waters (the Styx), suggesting that he can already see what is approaching, provided the smoke from the marsh doesn't obscure his vision.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante
+- `[2:mi]`: Dante
+- `[3:+io]`: Dante
+- `[4:Questo]`: the flame on the summit of the tower
+- `{5:quell' altro foco}`: the distant flame signaling back
+- `[6:chi]`: the souls/beings who produced the flames
+- `[7:quei]`: the souls/beings who produced the flames
+- `[8:elli]`: Virgil
+- `[9:me]`: Dante
+- `[10:+tu]`: Dante
+- `[11:ti]`: Dante
+
+## Scene 13-18: The Approach of the Boat
+In this brief scene, Dante describes the rapid arrival of a small boat across the waters of the Styx. He uses a simile, comparing the boat's speed to a bolt of lightning streaking through the air. The boat is steered by a single oarsman (who we know from the broader context of the *Inferno* is Phlegyas). As the boat approaches, the oarsman shouts a greeting/announcement to someone on the shore, announcing his arrival.
+
+**Tag Resolutions:**
+
+- `[1:io]`: Dante (the narrator/protagonist observing the boat)
+- `[2:noi]`: Dante and Virgil (the group the boat is approaching)
+- `{3:un sol galeoto}`: the boatman (Phlegyas)
+- `[4:se']`: the wicked soul (the soul on the shore/tower who signaled with the flames)
+- `{5:anima fella}`: the wicked soul (the soul on the shore/tower who signaled with the flames)
+
+## Scene 19-24: The Quarrel with Flegias
+In this scene, Virgil speaks to the boatman, Phlegyas, who has just arrived. Virgil tells Phlegyas that his shouting is in vain and that he (Phlegyas) has no power over them; he is merely a ferryman whose only role is to transport them across the mud of the Styx. Upon hearing this dismissal, Phlegyas becomes enraged. The narrator describes this reaction by comparing Phlegyas to a man who realizes he has been deceived and is consumed by the resulting anger.
+
+**Tag Resolutions:**
+
+- `{1:Flegïàs}`: Phlegyas
+- `{2:Flegïàs}`: Phlegyas
+- `[3:tu]`: Phlegyas
+- `{4:lo mio segnore}`: Virgil
+- `[5:ci]`: Dante and Virgil
+- `[6:+tu]`: Phlegyas
+- `[7:colui]`: a generic person (used in a simile to describe Phlegyas's state of mind)
+- `[8:li]`: the generic person
+- `[9:se]`: the generic person
+- `{10:Flegïàs}`: Phlegyas
+
+## Scene 25-30: Boarding the Vessel
+In this scene, Virgil and Dante board the boat steered by Phlegyas to cross the Styx. Virgil enters the vessel first and then directs Dante to follow him. Dante notes a curious detail: the boat only seems to be "loaded" (showing a visible weight or displacement) once he himself steps inside. As soon as they are both on board, the boat sets off, cutting through the water more deeply or swiftly than it usually does when transporting other souls.
+
+**Tag Resolutions:**
+- `{1:Lo duca mio}`: Virgil
+- `[2:+elli]`: Virgil
+- `[3:mi]`: Dante
+- `[4:lui]`: Virgil
+- `[5:io]`: Dante
+- `[6:+ella]`: the boat (la barca)
+- `{7:l duca}`: Virgil
+- `[8:io]`: Dante
+- `[9:+ella]`: the boat (la barca/l'antica prora)
+
+## Scene 31-39: The Encounter with the Muddy Spirit
+In this scene, Dante and Virgil are continuing their transit across the marsh of the Styx in the boat steered by Phlegyas. As they move, a figure completely covered in mud rises up in front of Dante. The muddy spirit asks who is approaching. Dante replies that he is merely passing through and asks who this hideous figure is. The spirit answers that he is "one who weeps." Dante then recognizes the spirit (who is Filippo Argenti, though not yet named in these lines) and tells him to remain in his weeping and misery, noting that he is still entirely filthy.
+
+**Tag Resolutions:**
+
+- `[1:noi]`: Dante and Virgil
+- `[2:mi]`: Dante
+- `[3:si]`: the muddy spirit (reflexive: the spirit "made himself" appear)
+- `{4:un pien di fango}`: the muddy spirit
+- `[5:+egli]`: the muddy spirit
+- `[6:Chi]`: Dante
+- `[7:tu]`: Dante
+- `[8:io]`: Dante
+- `[9:lui]`: the muddy spirit
+- `[10:i']`: Dante
+- `[11:+io]`: Dante
+- `[12:tu]`: the muddy spirit
+- `[13:chi]`: the muddy spirit
+- `[14:+egli]`: the muddy spirit
+- `[15:+tu]`: Dante
+- `[16:+io]`: the muddy spirit
+- `[17:io]`: Dante
+- `[18:lui]`: the muddy spirit
+- `{19:spirito maladetto}`: the muddy spirit
+- `[20:+tu]`: the muddy spirit
+- `[21:ti]`: the muddy spirit
+- `[22:i']`: Dante
+- `[23:ti]`: the muddy spirit
+- `[24:+tu]`: the muddy spirit
+
+## Scene 40-51: The Spirit's Monologue on Pride
+In this scene, the muddy spirit (Filippo Argenti) attempts to seize the boat. Virgil, acting quickly, pushes the spirit away with disdain, calling him a "dog." However, Argenti manages to reach Dante, grabbing him by the neck and kissing his face—a gesture intended to be mocking and filthy.
+
+The spirit then launches into a spiteful monologue. He addresses Dante as a "haughty soul" and insults Dante's mother, claiming that she was an arrogant woman in life and that her soul is now a "furious shade" in Hell. He concludes by reflecting on the vanity of earthly power, noting that many people who currently rule great kingdoms on Earth will eventually end up in the same miserable state, suffering in the mud and leaving behind a legacy of contempt.
+
+**Tag Resolutions:**
+- `[1:+egli]`: the muddy spirit (Filippo Argenti)
+- `{2:l maestro accorto}`: Virgil
+- `[3:lo]`: the muddy spirit (Filippo Argenti)
+- `[4:+egli]`: the muddy spirit (Filippo Argenti)
+- `[5:mi]`: Dante
+- `[6:+egli]`: the muddy spirit (Filippo Argenti)
+- `[7:+egli]`: the muddy spirit (Filippo Argenti)
+- `{8:Alma sdegnosa}`: Dante
+- `[9:colei]`: Dante's mother
+- `[10:te]`: Dante
+- `[11:s']`: Dante's mother
+- `[12:Quei]`: Dante's mother
+- `{13:persona orgogliosa}`: Dante's mother
+- `[14:s']`: Dante's mother
+- `{15:ombra sua}`: Dante's mother
+- `[16:si]`: the proud rulers (those who hold great realms)
+- `{17:gran regi}`: the great realms/kingdoms
+- `[18:sé]`: the proud rulers (those who hold great realms)
+
+## Scene 52-57: Dante's Desire for Retribution
+In this scene, Dante expresses a visceral desire for retribution against Filippo Argenti. After Argenti's hateful monologue and filthy assault, Dante tells Virgil that he would be very pleased to see Argenti sink completely beneath the muddy surface of the Styx before they leave the lake. Virgil responds by reassuring Dante that he will be satisfied before they even reach the shore, telling him that it is right and fitting for him to take pleasure in the punishment of such a soul.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `{2:Maestro}`: Virgil
+- `[3:vederlo]`: Filippo Argenti
+- `[4:noi]`: Dante and Virgil
+- `[5:elli]`: Virgil
+- `[6:me]`: Dante
+- `[7:ti]`: Dante
+- `[8:tu]`: Dante
+- `[9:tu]`: Dante
+
+## Scene 58-64: The Torment of Filippo Argenti
+In this final scene of the encounter, Dante witnesses the fulfillment of his wish for Filippo Argenti to suffer. Shortly after their interaction, the other souls residing in the muddy marsh (the "muddy folk") turn on Argenti, attacking him and dragging him down. They shout his name in a collective frenzy, effectively participating in his torment.
+
+Argenti, described as a "wild Florentine spirit," is shown in a state of intense agony and rage, curling into himself and gnashing his teeth. Dante expresses deep satisfaction at this sight, stating that he still praises and thanks God for this specific instance of divine justice. The scene concludes with Dante and Virgil leaving Argenti to his fate, with the narrator deciding that there is nothing more worth recounting regarding this encounter.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:costui]`: Filippo Argenti
+- `{3:le fangose genti}`: the muddy souls/spirits in the Styx
+- `{4:Dio}`: God
+- `[5:+io]`: Dante
+- `[6:+io]`: Dante
+- `{7:Filippo Argenti}`: Filippo Argenti
+- `{8:l fiorentino spirito bizzarro}`: Filippo Argenti
+- `[9:sé]`: Filippo Argenti
+- `[10:si]`: Filippo Argenti
+- `[11:+noi]`: Dante and Virgil
+- `[12:il]`: Filippo Argenti
+- `[13:+io]`: Dante
+
+## Scene 65-78: Arrival at the Walls of Dis
+In this scene, Dante and Virgil arrive at the outskirts of the City of Dis, which marks the entrance to Lower Hell. 
+
+As they approach, Dante is struck by the sound of wailing and grief coming from the city. Virgil explains that they are nearing Dis and describes the grim, vast multitude of souls residing there. Dante observes a reddish glow emanating from the valley within the city walls, which Virgil explains is the result of the eternal fire that consumes the inhabitants. The scene concludes with the pair reaching the high moats surrounding the city, where Dante observes that the walls appear to be made of iron.
+
+**Tag Resolutions:**
+
+- `[1:mi]`: Dante
+- `[2:io]`: Dante
+- `{3:Lo buon maestro}`: Virgil
+- `{4:figliuolo}`: Dante
+- `{5:gravi cittadin}`: the citizens of Dis (the damned souls)
+- `{6:grande stuolo}`: the citizens of Dis (the damned souls)
+- `[7:io]`: Dante
+- `{8:Maestro}`: Virgil
+- `[9:+io]`: Dante
+- `[10:ei]`: Virgil
+- `[11:mi]`: Dante
+- `[12:tu]`: Dante
+- `[13:Noi]`: Dante and Virgil
+- `[14:mi]`: Dante
+
+## Scene 79-93: Challenge at the Gates
+In this scene, Dante and Virgil have reached the entrance to the City of Dis. The boatman, Phlegyas, tells them to disembark. As they arrive, they are confronted by a vast number of demons (fallen angels) guarding the gates. These demons are enraged to see a living soul among them and demand to know who Dante is. Virgil attempts to negotiate with them privately. The demons agree to speak with Virgil, but only if he comes alone, demanding that Dante be sent back the way he came. They mock Virgil's ability to lead a living man into the city, claiming that Dante will be trapped there because Virgil has led him into such a bleak and dangerous region.
+
+**Tag Resolutions:**
+
+- `[1:+noi]`: Dante and Virgil
+- `{2:il nocchier forte}`: Phlegyas
+- `[3:+voi]`: Dante and Virgil
+- `[4:+ei]`: Phlegyas
+- `[5:Io]`: Dante
+- `[6:+elli]`: the demons (fallen angels)
+- `[7:Chi]`: Dante
+- `[8:costui]`: Dante
+- `{9:'l savio mio maestro}`: Virgil
+- `[10:lor]`: the demons (fallen angels)
+- `[11:+elli]`: the demons (fallen angels)
+- `[12:+elli]`: the demons (fallen angels)
+- `[13:tu]`: Virgil
+- `[14:quei]`: Dante
+- `[15:+ei]`: Dante
+- `[16:si]`: Dante
+- `[17:+tu]`: Virgil
+- `[18:+ei]`: Virgil
+- `[19:sa]`: Virgil (This is the verb "knows," referring to Virgil's knowledge/ability)
+- `[20:tu]`: Dante
+- `[21:+tu]`: Virgil
+- `[22:li]`: Dante
+
+## Scene 94-102: Dante's Terror
+In this scene, Dante experiences a moment of intense fear and vulnerability. After the demons at the gates of Dis demand that Virgil leave him behind, Dante is terrified. He breaks the narrative flow to address the reader directly, asking them to consider how discouraged he felt upon hearing the demons' hateful words, as he feared he would never escape this place.
+
+Dante then turns to Virgil in a desperate plea. He reminds Virgil that he has already saved him from great danger on more than seven occasions and begs him not to abandon him now while he is so emotionally shattered. He suggests that if they are truly forbidden from entering the City of Dis, they should at least retrace their steps and retreat together, rather than being separated.
+
+**Tag Resolutions:**
+- `[1:+tu]`: the reader
+- `{2:lettor}`: the reader
+- `[3:io]`: Dante
+- `[4:mi]`: Dante
+- `[5:+io]`: Dante
+- `{6:caro duca mio}`: Virgil
+- `[7:+tu]`: Virgil
+- `[8:m']`: Dante
+- `[9:mi]`: Dante
+- `[10:mi]`: Dante
+- `[11:+tu]`: Virgil
+- `[12:io]`: Dante
+- `[13:ci]`: Dante and Virgil
+- `[14:+noi]`: Dante and Virgil
+
+## Scene 103-108: Virgil's Reassurance
+In this scene, Virgil responds to Dante's desperate plea for help and his fear of being abandoned at the gates of the City of Dis. Virgil reassures Dante, telling him that he should not be afraid because their progress is divinely ordained and cannot be stopped by any power in Hell. Virgil instructs Dante to wait for him briefly and urges him to find inner strength and hope. He concludes with a firm promise that he will not leave Dante alone in the "lower world" (Hell).
+
+**Tag Resolutions:**
+
+- `{1:quel segnor}`: Virgil
+- `[2:m']`: Dante
+- `[3:+egli]`: Virgil
+- `[4:mi]`: Dante
+- `[5:+tu]`: Dante
+- `[6:ci]`: Dante and Virgil
+- `[7:+tu]`: Dante
+- `[8:m']`: Virgil
+- `{9:lo spirito lasso}`: Dante
+- `[10:+tu]`: Dante
+- `[11:+tu]`: Dante
+- `[12:i']`: Virgil
+- `[13:ti]`: Dante
+
+## Scene 109-114: Separation at the Gate
+In this scene, Virgil follows through on his promise to handle the situation at the gates of the City of Dis. He leaves Dante behind to negotiate with the demons. While Virgil is away, Dante is left in a state of agonizing uncertainty, his mind torn between hope and fear ("yes and no"). Dante is unable to hear the words Virgil exchanges with the demons; however, he observes that Virgil does not remain with them for long, as the demons eventually all retreat back inside the city walls to consult or investigate.
+
+**Tag Resolutions:**
+- `[1:+ei]`: Virgil
+- `[2:+ei]`: Virgil
+- `[3:m']`: Dante
+- `{4:lo dolce padre}`: Virgil
+- `[5:io]`: Dante
+- `[6:mi]`: Dante
+- `[7:+io]`: Dante
+- `[8:lor]`: the demons (fallen angels)
+- `[9:+ei]`: Virgil
+- `[10:ei]`: Virgil
+- `[11:essi]`: the demons (fallen angels)
+- `[12:si]`: the demons (fallen angels)
+
+## Scene 115-120: Virgil's Despair
+In this scene, the tension and fear established in the previous moments culminate in a moment of apparent failure. The demons guarding the city have made their decision.
+
+The "adversaries" (the fallen angels/demons) slam the gates of the City of Dis shut, leaving Virgil outside. Virgil returns to Dante, but his demeanor has completely changed from the confident guide who had just reassured him. He walks with slow, hesitant steps, his eyes cast down to the earth, stripped of all his usual confidence and authority. He speaks in sighs, lamenting the fact that he has been denied entry into the "sorrowful houses" (the City of Dis).
+
+**Tag Resolutions:**
+- `{1:que' nostri avversari}`: the demons (fallen angels)
+- `{2:al mio segnor}`: Virgil
+- `[3:+elli]`: Virgil
+- `[4:me]`: Dante
+- `[5:+elli]`: Virgil
+- `[6:+elli]`: Virgil
+- `[7:Chi]`: the power/authority that blocked entry (referring to the divine will or the demons' refusal)
+- `[8:m']`: Virgil
+
+## Scene 121-130: The Secret Path Revealed
+In this scene, Virgil recovers from his apparent despair and speaks to Dante to reassure him. Virgil tells Dante not to be dismayed by his previous sighing or apparent failure, asserting that he will eventually overcome the obstacle, regardless of who is defending the city from within. 
+
+Virgil reveals that the demons' arrogance is nothing new and that there is a "secret gate" (*segreta porta*) that they have used before, which remains unlocked. He explains that this gate is marked by an old inscription and leads to a slope that descends through the circles of Hell without the need for a formal escort, providing them with a way to enter the city.
+
+**Tag Resolutions:**
+
+- `[1:me]`: Dante
+- `[2:+egli]`: Virgil
+- `[3:Tu]`: Dante
+- `[4:io]`: Virgil
+- `[5:m']`: Virgil
+- `[6:+tu]`: Dante
+- `[7:io]`: Virgil
+- `[8:s']`: the demons/whoever defends the city
+- `[9:+elli]`: the demons/adversaries
+- `[10:si]`: the secret gate (*la porta*)
+- `{11:scorta}`: a guide/escort
+
+# recap
+- Dante and Virgil are together at the walls of the City of Dis.
+- After being denied entry by the demons at the main gates, Virgil has revealed the existence of a secret gate.
+- They are preparing to use this hidden path to enter the city.

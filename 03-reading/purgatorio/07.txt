@@ -1,0 +1,305 @@
+# Canto 07 — The Encounter with Sordello and the Vision of the Limbo Valley
+
+## Scene 1-9: Virgil's Identification
+In this scene, the warm, emotional greetings between Sordello and Virgil have wound down after a few repetitions. Sordello, wanting to formally identify the man he is speaking with, turns to Virgil and asks him who he is. 
+
+Virgil responds by providing a historical and spiritual autobiography. He notes that he died and was buried by Octavian (Augustus) long before the souls currently in Purgatory were directed toward the mountain. He explicitly names himself as Virgil and explains the reason for his current state: he was "lost" to heaven (placed in Limbo) not because of any specific evil act, but simply because he lacked faith (being a virtuous pagan). Dante closes the scene by identifying the speaker as his guide.
+
+**Tag Resolutions:**
+
+*   `{1:Sordel}`: Sordello
+*   `[2:si]`: Sordello
+*   `[3:+ei]`: Virgil
+*   `[4:Voi]`: Virgil
+*   `[5:chi]`: Virgil
+*   `{6:l'anime}`: the souls (of the penitent)
+*   `{7:Dio}`: God
+*   `{8:Ottavian}`: Octavian (Augustus)
+*   `[9:Io]`: Virgil
+*   `{10:Virgilio}`: Virgil
+*   `[11:+io]`: Virgil
+*   `{12:il duca}`: Virgil
+
+## Scene 10-21: Sordello's Inquiry
+In this scene, Sordello is reacting to the sight of Virgil. He is overwhelmed with emotion and disbelief, experiencing a moment of cognitive dissonance where he cannot quite believe his eyes. He humbles himself before Virgil, embraces him warmly, and addresses him with profound reverence, acknowledging Virgil's literary genius and their shared hometown of Mantua. Sordello then asks Virgil why he has appeared to him and whether he has come from Hell.
+
+**Tag Resolutions:**
+
+*   `[1:colui]`: Virgil (The person Sordello is looking at and questioning)
+*   `[2:sé]`: Sordello (Before himself/Sordello's own sight)
+*   `[3:+ei]`: Sordello (The one who sees)
+*   `[4:e']`: Sordello (The one who is)
+*   `[5:si]`: Sordello (The one marveling)
+*   `[6:+ella]`: Virgil (The "vision" or "sight" of Virgil that Sordello is doubting: "It is [him]... it is not [him]")
+*   `[7:quelli]`: Sordello (The one who seemed amazed)
+*   `[8:+ei]`: Sordello (The one who bowed his head)
+*   `[9:+ei]`: Sordello (The one who turned back)
+*   `[10:lui]`: Virgil (The person Sordello turned toward)
+*   `[11:+ei]`: Sordello (The one who embraced)
+*   `{12:l minor}`: Virgil (Referring to Virgil's waist/side, the "lesser" part of the body)
+*   `[13:s']`: Virgil (The waist/side of Virgil)
+*   `{14:gloria di Latin}`: Virgil (The glory of Latium/Latin literature)
+*   `[15:+io]`: Sordello (The speaker)
+*   `[16:+ei]`: Virgil (The one who showed the power of the Latin language)
+*   `{17:pregio etterno del loco}`: Virgil (The eternal pride of Mantua)
+*   `[18:io]`: Sordello (The speaker, who was also from Mantua)
+*   `[19:mi]`: Sordello (To me)
+*   `[20:ti]`: Virgil (You)
+*   `[21:io]`: Sordello (The speaker)
+*   `[22:+tu]`: Virgil (You)
+*   `[23:+tu]`: Virgil (You)
+
+## Scene 22-39: Virgil's Description of Limbo
+In this scene, Virgil is responding to Sordello's inquiry about his origins and his presence in Purgatory. Virgil confirms that he has come from the "sorrowful kingdom" (Hell), specifically from Limbo. He explains that he did not arrive here by his own power, but was moved by a divine force ("virtù del ciel") to accompany Dante. 
+
+Virgil reflects on his own spiritual condition, noting that he is barred from seeing God ("the High Sun") not because of any evil deeds he committed, but because of what he failed to do: he lacked the faith (the "non fare") required for salvation. He describes Limbo as a place of darkness and sighs rather than active torture, where he resides with two groups: infants who died before they could be baptized and virtuous pagans who lived without vice but without the three theological virtues (Faith, Hope, and Charity). Finally, Virgil turns the conversation back to Sordello, asking if Sordello can provide any information or clues to help them reach the official beginning of Purgatory more quickly.
+
+**Tag Resolutions:**
+
+*   `[1:lui]`: Virgil (The one responding to Sordello)
+*   `[2:io]`: Virgil (The speaker)
+*   `[3:mi]`: Virgil (The one moved by heavenly virtue)
+*   `[4:lei]`: Heavenly Virtue (`virtù del ciel`)
+*   `[5:+io]`: Virgil (The speaker)
+*   `[6:+io]`: Virgil (The one who "lost" the vision of God)
+*   `{7:l'alto Sol}`: God
+*   `[8:tu]`: Sordello (The one desiring God)
+*   `[9:me]`: Virgil (The one who recognized God too late)
+*   `[10:io]`: Virgil (The speaker)
+*   `{11:coi pargoli innocenti}`: The unbaptized infants
+*   `{12:la morte}`: Death
+*   `[13:io]`: Virgil (The speaker)
+*   `[14:quei]`: The virtuous pagans
+*   `[15:si]`: The virtuous pagans (Those who did not "clothe" themselves in the three virtues)
+*   `[16:tu]`: Sordello (The person being addressed)
+*   `[17:+tu]`: Sordello
+*   `[18:+tu]`: Sordello
+*   `[19:noi]`: Virgil and Dante
+*   `[20:+noi]`: Virgil and Dante
+
+## Scene 40-48: The Difficulty of the Ascent
+In this scene, Sordello responds to Virgil's request for guidance. He explains that there is no specific designated "spot" or boundary he must stay within; he is free to move up and around the slopes of Ante-Purgatory. He offers to accompany Virgil (and Dante) as a guide as far as he is permitted to go. 
+
+Sordello then points out that the day is fading ("the day declines"), and since it is impossible to ascend the mountain at night, they need to find a place to stay for the evening. He notes that there are other penitent souls further to the right and offers to lead Virgil and Dante to them, suggesting that meeting these souls will be a pleasant way to spend their time.
+
+**Tag Resolutions:**
+
+*   `[1:+ei]`: Sordello (The one responding to Virgil)
+*   `[2:m']`: Sordello (It is permitted for him to roam)
+*   `[3:+io]`: Sordello (As far as he can go)
+*   `[4:+io]`: Sordello (Acting as a guide)
+*   `[5:mi]`: Sordello (He brings himself/accompanies)
+*   `[6:t']`: Virgil (The person Sordello is accompanying; by extension, the party)
+*   `[7:+tu]`: Virgil (The person Sordello is addressing)
+*   `[8:si]`: Impersonal pronoun (referring to "one" or "anyone" in general)
+*   `{9:Anime}`: The souls (The other penitent souls in Ante-Purgatory)
+*   `[10:+tu]`: Virgil (The person whose consent Sordello seeks)
+*   `[11:mi]`: Sordello (The person Virgil would be consenting to)
+*   `[12:io]`: Sordello (The one who will lead the way)
+*   `[13:ti]`: Virgil (The person being led)
+*   `[14:esse]`: The souls (The group Sordello is leading them toward)
+*   `[15:+elli]`: The souls (Those who will make themselves known)
+*   `[16:ti]`: Virgil (The person the souls will introduce themselves to)
+
+## Scene 49-60: Sordello's Warning on Night Travel
+In this scene, Dante asks for clarification regarding Sordello's previous statement that the mountain cannot be ascended at night. Dante asks whether a person attempting to climb in the dark would be stopped by someone else (an external guard or force) or if they simply would be unable to do so.
+
+Sordello responds with a physical gesture, rubbing his finger in the dirt to draw a line. He tells Virgil (and by extension, the group) that they would be unable to cross even that small line once the sun has set. He explains that the obstacle is not a physical barrier or a guard, but the "nocturnal darkness" itself, which thwarts the will to ascend by rendering the action impossible. However, he notes that while one cannot go up, it is perfectly possible to travel downward or wander along the slopes of the mountain during the night.
+
+**Tag Resolutions:**
+
+*   `[1:Chi]`: A hypothetical person (whoever wants to climb)
+*   `[2:elli]`: The hypothetical person (whoever wants to climb)
+*   `[3:+elli]`: The hypothetical person (whoever wants to climb)
+*   `[4:+elli]`: The hypothetical person (whoever wants to climb)
+*   `{5:l buon Sordello}`: Sordello
+*   `[6:+tu]`: Virgil
+*   `[7:+tu]`: Virgil
+*   `[8:si]`: An impersonal pronoun (meaning "one" or "anyone")
+
+## Scene 61-63: Agreement to Proceed
+In this brief scene, Virgil responds to Sordello’s explanation about the impossibility of ascending the mountain at night and Sordello's offer to lead them to other penitent souls. Virgil, appearing somewhat surprised or impressed by the nature of these restrictions and the geography of Ante-Purgatory, agrees to the plan. He asks Sordello to lead them to the place where Sordello suggested they could find pleasure and company while they wait for the morning.
+
+**Tag Resolutions:**
+
+*   `{1:il mio segnor}`: Virgil (Dante's habitual way of referring to his guide)
+*   `[2:+tu]`: Sordello (The person Virgil is asking to lead the way)
+*   `[3:+ei]`: Virgil (The person speaking)
+*   `[4:+tu]`: Sordello (The person who "says" where the pleasure is to be found)
+*   `[5:si]`: Impersonal pronoun (meaning "one" or "anyone" who stays there)
+
+## Scene 64-78: The Splendor of the Valley
+**Scene Summary**
+
+The party (Dante, Virgil, and Sordello) begins to walk away from the shores of Ante-Purgatory. As they move, Dante notices that the mountain's slope is indented, forming a valley or a "lap" (*grembo*). Sordello notices this as well and suggests that they head toward this sheltered area to spend the night and wait for the sunrise.
+
+They follow a crooked path that leads them into the side of this valley. Once there, Dante is struck by the extraordinary vibrancy of the flora. He describes the grass and flowers in such vivid terms that he claims even the most precious and brightly colored materials known to man—fine gold, silver, indigo, and emeralds—would look pale and "overcome" by comparison to the natural brilliance of the vegetation in that spot.
+
+**Tag Resolutions**
+
+*   `[1:+noi]`: Dante, Virgil, and Sordello (The traveling party)
+*   `[2:c']`: Dante, Virgil, and Sordello (The traveling party)
+*   `[3:io]`: Dante (The narrator observing the landscape)
+*   `[4:m']`: Dante (The narrator observing the landscape)
+*   `{5:quell' ombra}`: Sordello (The "shade" who is guiding them)
+*   `[6:+noi]`: Dante, Virgil, and Sordello (The group Sordello is leading)
+*   `[7:+noi]`: Dante, Virgil, and Sordello (The group waiting for morning)
+
+## Scene 79-84: The Singing Souls
+In this scene, Dante describes the sensory experience of the valley. He notes that the beauty of the place isn't just visual; instead, Nature has created an atmosphere of "indistinct" sweetness through a multitude of fragrances. As they move further in, Dante discovers a group of souls sitting among the grass and flowers. These souls are singing the "Salve Regina" (a hymn to the Virgin Mary), and they are positioned in such a way that they cannot be seen from outside the valley.
+
+**Tag Resolutions:**
+
+*   `{1:natura}`: Nature (personified)
+*   `[2:+ella]`: Nature
+*   `{3:Regina}`: The Virgin Mary
+*   `{4:anime}`: The penitent souls
+*   `[5:+io]`: Dante
+
+## Scene 85-96: The Lament of Emperor Rudolf
+In this scene, Sordello (the "Mantoan") speaks to Dante and Virgil as the sun begins to set. He offers to guide them through the group of souls they have encountered in the valley. He explains that by following him, Dante and Virgil will be able to better recognize the identities and the expressions of all the souls gathered there. 
+
+Sordello specifically draws their attention to one figure: a man sitting higher than the others who remains silent while the rest sing. Sordello identifies this man as Emperor Rudolf. He delivers a sharp political critique of the Emperor, stating that Rudolf had the power to heal the "wounds" (the political strife and decay) that had devastated Italy, but he neglected his duty. Consequently, Rudolf now finds his "recreation" or solace only belatedly through others.
+
+**Tag Resolutions:**
+
+*   `{1:Mantoan}`: Sordello
+*   `[2:ci]`: Dante and Virgil
+*   `[3:color]`: The souls in the valley
+*   `[4:+voi]`: Dante and Virgil
+*   `[5:io]`: Sordello
+*   `[6:vi]`: Dante and Virgil
+*   `[7:voi]`: Dante and Virgil
+*   `[8:essi]`: The souls in the valley
+*   `[9:Colui]`: Emperor Rudolf
+*   `{10:Rodolfo imperador}`: Emperor Rudolf
+
+## Scene 97-102: The Story of Ottacchero
+In this scene, Sordello continues to act as a guide and commentator for Dante and Virgil, introducing them to the souls resting in the valley. After discussing Emperor Rudolf, Sordello points out another figure whose presence provides comfort to Rudolf. 
+
+Sordello identifies this man as Ottokar (Ottacchero), the former ruler of Bohemia (described geographically as the land where the river Moldau flows into the Elbe). Sordello offers a brief dynastic critique, stating that Ottokar was a far superior ruler to his son, Wenceslaus (Vincislao). Sordello characterizes Wenceslaus as "the bearded one" and dismisses him as a man driven by lust and laziness.
+
+**Tag Resolutions:**
+
+*   `{1:L'altro}`: Ottokar
+*   `[2:lui]`: Emperor Rudolf (The person comforted by the sight of Ottokar)
+*   `[3:+elli]`: Ottokar
+*   `{4:Ottacchero}`: Ottokar
+*   `[5:+elli]`: Ottokar
+*   `{6:Vincislao}`: Wenceslaus
+*   `{7:suo figlio}`: Wenceslaus
+*   `{8:barbuto}`: Wenceslaus
+
+## Scene 103-106: The Death of the Young Man
+In this brief scene, Sordello continues his critique of Wenceslaus (Vincislao), the son of Ottokar. He begins by mocking Wenceslaus's appearance, specifically his "little nose" (`{1:quel nasetto}`), noting that while he physically resembles his father Ottokar (`[2:colui]`), who possesses a benign aspect, he lacks his father's virtue. Sordello recalls that Wenceslaus died prematurely and in flight ("plucking the lily" refers to dying in youth/virginity), suggesting a cowardly or wasted end. Finally, Sordello directs the attention of Dante and Virgil (`[4:+voi]`) toward the soul of Wenceslaus (`[5:+ei]`), pointing out that he is currently beating his own chest (`[6:si]`) in a gesture of penitence and remorse.
+
+**Tag Resolutions:**
+
+*   `{1:quel nasetto}`: Wenceslaus
+*   `[2:colui]`: Ottokar
+*   `[3:+ei]`: Wenceslaus
+*   `[4:+voi]`: Dante and Virgil
+*   `[5:+ei]`: Wenceslaus
+*   `[6:si]`: Wenceslaus
+
+## Scene 107-111: The French Ancestors
+In this scene, Sordello continues to act as a commentator and guide for Dante and Virgil, pointing out the souls in the valley. He directs their attention to another soul who is in a state of deep melancholy, resting his cheek on his palm and sighing. 
+
+Sordello explains the cause of this soul's distress by referencing his lineage. He notes that this man's father and father-in-law are the sources of the "evil of France" (referring to the political and moral corruption of the French monarchy). These ancestors are aware that the man's own life was vicious and "dirty" (sinful), and it is this realization—or the shame associated with his lineage and conduct—that causes the piercing grief the man is currently experiencing.
+
+**Tag Resolutions:**
+
+*   `{1:L'altro}`: The "other" soul (a member of the French royalty/nobility)
+*   `[2:+voi]`: Dante and Virgil
+*   `{3:Padre}`: The father of the "other" soul
+*   `{4:suocero}`: The father-in-law of the "other" soul
+*   `[5:+elli]`: The father and father-in-law of the "other" soul
+*   `[6:li]`: The "other" soul
+
+## Scene 112-120: The Virtuous Kings
+In this scene, Sordello continues his role as the commentator and guide, pointing out another soul in the valley to Dante and Virgil. He identifies a man who appears physically well-proportioned and imposing (*membruto*). 
+
+Sordello notes that this man is singing together with the one with the "masculine nose" (which refers back to Ottokar, contrasting with the "little nose" of his son Wenceslaus). Sordello praises the well-proportioned man, stating that he was a paragon of every kind of virtue (*valor*). 
+
+Sordello then reflects on the tragedy of lost lineage: he observes a youth sitting behind this virtuous man and remarks that if this youth had succeeded the virtuous man as king, virtue would have passed successfully from one generation to the next ("from vessel to vessel"). He contrasts this hypothetical ideal with the actual state of royal successions. He concludes by mentioning James (*Iacomo*) and Frederick (*Federigo*), the current rulers of certain realms, implying that their inheritance or the current state of their rule does not match the standard of virtue exhibited by the soul he is currently describing.
+
+**Tag Resolutions:**
+
+*   `[1:Quel]`: The well-proportioned man (the virtuous soul Sordello is pointing out)
+*   `[2:s']`: The well-proportioned man
+*   `[3:colui]`: Ottokar (identified by his "masculine nose")
+*   `[4:+ei]`: The well-proportioned man
+*   `{5:re}`: The role of king (referring to the potential succession of the youth)
+*   `[6:lui]`: The well-proportioned man
+*   `{7:lo giovanetto}`: The youth sitting behind the well-proportioned man
+*   `[8:lui]`: The well-proportioned man
+*   `{9:Iacomo}`: James (a contemporary king/ruler)
+*   `{10:Federigo}`: Frederick (a contemporary king/ruler)
+
+## Scene 121-123: A Reflection on Virtue
+In this brief scene, Sordello continues his reflection on the nature of virtue and royal succession, expanding on the "vessel to vessel" metaphor from the previous scene. He laments that true human probity (virtue/integrity) is a rare occurrence, comparing it to something that only seldom "rises through the branches" (like a rare bloom or fruit). 
+
+He explains the desire of a truly virtuous leader: the one who possesses and "gives" this virtue (through example, education, or legacy) does so with the hope that their successor—specifically the youth mentioned in the previous scene—will be recognized as virtuous because of the influence and example set by the predecessor. It is a commentary on the ideal of a virtuous dynasty, which Sordello views as a rarity in the actual history of the rulers he is observing.
+
+**Tag Resolutions:**
+
+*   `[1:quei]`: The virtuous man (the well-proportioned soul Sordello has been praising)
+*   `[2:lui]`: The virtuous man (the source of the virtue)
+*   `[3:+egli]`: The youth (the soul sitting behind the virtuous man, the intended successor)
+
+## Scene 124-126: The Mention of Pier
+In this scene, Sordello continues his role as a commentator and guide for Dante and Virgil, pointing out the souls in the valley and reflecting on their identities. 
+
+Sordello indicates that his words (his observations and critiques) are directed not only at the virtuous man he was previously discussing but also toward "the big-nosed one" (Ottokar). He explains that these words apply to Ottokar no less than they do to "the other" person—Pier della Vigna—who is singing alongside Ottokar. Sordello concludes by noting that Pier is a figure for whom Puglia and Provence are in mourning.
+
+**Tag Resolutions:**
+
+*   `{1:al nasuto}`: Ottokar (The "big-nosed one," previously referred to as having a "masculine nose")
+*   `[2:+elli]`: Ottokar (The same "big-nosed one")
+*   `{3:l'altro}`: Pier della Vigna
+*   `{4:Pier}`: Pier della Vigna
+*   `[5:lui]`: Ottokar (The person Pier is singing with)
+
+## Scene 127-129: The Legacy of Constance
+In this scene, Sordello continues his meditation on the rarity of virtue and the tragedy of failed royal successions. Having praised the "virtuous man" (historically identified as Emperor Frederick II), he now reflects on the descendants of that line.
+
+Sordello laments that the "plant" (the offspring) grown from the "lesser seed" (the descendants who did not inherit the father's greatness) is diminished. He illustrates this by mentioning the daughters of Frederick II, Beatrice and Margherita, and notes that Constance (Frederick's mother) still boasts of her husband (Henry VI), implying that the pride in the lineage's origin outweighs the actual virtue found in the subsequent generations. It is a poignant commentary on the decay of the Hohenstaufen dynasty.
+
+**Tag Resolutions:**
+
+*   `{1:la pianta}`: The descendants/offspring of the virtuous man (Frederick II)
+*   `{2:Beatrice}`: Beatrice (daughter of Frederick II)
+*   `{3:Margherita}`: Margherita (daughter of Frederick II)
+*   `{4:Costanza}`: Constance (mother of Frederick II)
+*   `{5:marito}`: Henry VI (husband of Constance)
+*   `[6:si]`: Constance (the one boasting)
+
+## Scene 130-132: Henry of England
+**Scene Analysis**
+
+In this brief scene, Sordello continues his role as the commentator and guide for Dante and Virgil, identifying another soul resting in the valley of Ante-Purgatory. He directs their attention to a man sitting alone, whom he identifies as Henry III of England. Sordello describes him using the epithet "the king of the simple life," referring to Henry's reputation for piety and asceticism. Furthermore, Sordello makes a comparative observation: unlike the decayed lineage of the Hohenstaufen dynasty (discussed in the previous scene), Henry's descendants ("branches") produced a better outcome, implying that his line maintained a higher standard of virtue or spiritual success.
+
+**Tag Resolutions**
+
+*   `[1:+voi]`: Dante and Virgil (The people Sordello is addressing)
+*   `{2:il re de la semplice vita}`: Henry III of England
+*   `{3:Arrigo d'Inghilterra}`: Henry III of England
+*   `[4:questi]`: Henry III of England
+
+## Scene 133-136: The Sorrow of Guillaume
+**Scene Analysis**
+
+In this brief scene, Sordello continues his role as the commentator and guide, identifying another soul among the group in the valley. He points out a man who is positioned lower than the others (`più basso`), sitting or humbling himself among the group while looking upward. Sordello identifies this man as William, the Marquis of Monferrato (`Guiglielmo marchese`). Sordello then provides a historical context for the man's sorrow or the grief associated with him, mentioning that William's involvement in the wars in Alexandria caused great mourning in his home territories of Monferrato and Canavese.
+
+**Tag Resolutions**
+
+*   `[1:Quel]`: William, Marquis of Monferrato
+*   `[2:costor]`: The souls in the valley
+*   `[3:s']`: William, Marquis of Monferrato
+*   `[4:+lui]`: William, Marquis of Monferrato
+*   `{5:Guiglielmo marchese}`: William, Marquis of Monferrato
+
+# recap
+- Dante, Virgil, and Sordello are together in a vibrant, fragrant valley in Ante-Purgatory.
+- Sordello has just finished identifying several notable souls resting there, including Emperor Rudolf, Frederick II, and Henry III of England.
+- The group is settling in to spend the night, as the mountain cannot be ascended after sunset.

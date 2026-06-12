@@ -1,0 +1,249 @@
+# Canto 07 — Beatrice's Theological Discourse on the Incarnation and Redemption
+
+## Scene 1-3: The Celestial Hymn
+In this scene, a celestial hymn is sung. Given the context that Romeo has just begun to speak, he is breaking into a song of praise, likely joined by the other souls in the sphere of Mercury. He addresses God directly, praising God's overwhelming clarity and light which illuminates the "happy fires" (the souls) of the current celestial realm.
+
+**Tag Resolution:**
+- `{1:sanctus Deus sabaòth}`: This is a direct address to God.
+
+## Scene 4-9: Movement of the Lights
+In this scene, Dante describes the visual and kinetic experience of the souls in the sphere of Mercury. Following the hymn, the spiritual essence of the souls blends into a singular, singing "substance." This entity is joined by a "double light" (likely the combination of divine light and the specific light of Mercury), and then the souls begin a rhythmic dance. Their movements are so rapid—comparable to sparks—that they suddenly vanish from Dante's sight, moving beyond his immediate perception.
+
+**Tag Resolutions:**
+
+- `[1:me]`: **Dante** (the narrator/pilgrim).
+- `{2:essa sustanza}`: **The collective essence/light of the souls** (specifically the spiritual substance of the spirits of Mercury, including Romeo).
+- `{3:doppio lume}`: **The double light** (the combined divine light and celestial light).
+- `[4:s']`: **The double light** (the subject that "adds" or joins itself to the substance).
+- `[5:essa]`: **The collective essence of the souls** (referring back to *essa sustanza*).
+- `[6:altre]`: **The other souls** in the sphere of Mercury.
+- `{7:velocissime faville}`: **The souls** (described metaphorically as "very fast sparks").
+- `[8:+elli]`: **The souls** (those who are moving).
+- `[9:mi]`: **Dante** (the one who is "veiled" or hidden from the souls' sight, or rather, for whom the souls become hidden).
+- `[10:si]`: **The souls** (reflexive: they veiled themselves/disappeared).
+
+## Scene 10-15: Dante's Awe
+In this scene, Dante is experiencing a state of inner agitation and profound humility. After the souls of Mercury have merged into a single substance and vanished from his sight like sparks, Dante is left in a state of doubt. He is speaking to himself (or perhaps urging the spiritual entities that just departed) to convey a message to Beatrice. However, his desire to speak or have something said is eclipsed by an overwhelming feeling of reverence toward Beatrice. This feeling is so intense that it causes him to bow or shrink back, comparing his state to that of a man in a dream-like or drowsy state.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: **Dante**
+- `[2:+io]`: **Dante**
+- `[3:+tu]`: **The souls of Mercury/the collective substance** (the entities he is urging to speak to Beatrice).
+- `[4:+tu]`: **The souls of Mercury/the collective substance**.
+- `[5:me]`: **Dante** (referring to his inner self).
+- `[6:+tu]`: **The souls of Mercury/the collective substance**.
+- `[7:+io]`: **Dante**.
+- `{8:la mia donna}`: **Beatrice**.
+- `[9:mi]`: **Dante**.
+- `[10:me]`: **Dante**.
+- `{11:Be}`: **Beatrice** (the first syllable of her name).
+- `{12:ice}`: **Beatrice** (the second syllable of her name).
+- `[13:mi]`: **Dante**.
+- `{14:l'uom}`: **The dreaming man** (a generic figure used in a simile to describe Dante's state).
+
+## Scene 16-24: Beatrice's Promise
+In this scene, Beatrice notices Dante's state of agitation and humility (described in the previous scene). She cannot bear to see him this way and responds with a smile of such radiance and compassion that it would make even a soul in the fires of Hell feel happy. Beatrice then speaks to Dante, acknowledging that he is preoccupied with the concepts of just vengeance and its punishment (referring back to the discussions with Justinian). She promises to clear up his confusion and urges him to listen carefully, as she is about to share profound truths with him.
+
+**Tag Resolutions:**
+
+- `[1:me]`: **Dante**
+- `{2:cotal Beatrice}`: **Beatrice**
+- `[3:+ella]`: **Beatrice**
+- `{4:l'uom}`: **the man** (a generic figure used in a hyperbole to emphasize the power of Beatrice's smile)
+- `[5:t']`: **Dante**
+- `[6:io]`: **Beatrice**
+- `[7:ti]`: **Dante**
+- `[8:tu]`: **Dante**
+- `[9:ti]`: **Dante**
+
+## Scene 25-39: The Fall of Man
+In this scene, Beatrice begins her theological explanation of the fall and redemption of humanity. She explains that Adam (the "man who was not born"), driven by pride and an inability to accept the limits placed upon him by God, sinned and thereby brought damnation upon himself and all of his descendants. As a result, the human race spent centuries in spiritual error. Beatrice then explains the Incarnation: the Word of God descended to Earth to unite human nature—which had distanced itself from its Creator—back to Himself in one Person, motivated by eternal love. Beatrice then instructs Dante to look at her as she continues, explaining that while human nature was created sincere and good, it was banished from Paradise because it chose to turn away from the path of truth and life.
+
+**Tag Resolutions:**
+
+- `{1:quell' uom}`: **Adam** (described as "who was not born" because he was created directly by God).
+- `[2:sé]`: **Adam**.
+- `[3:+ei]`: **Adam**.
+- `{4:al Verbo di Dio}`: **The Word of God** (the Second Person of the Trinity/Christ).
+- `{5:suo fattore}`: **God** (the Maker/Creator).
+- `[6:+ei]`: **The Word of God**.
+- `[7:sé]`: **The Word of God**.
+- `{8:persona}`: **The Person of Christ** (referring to the hypostatic union of divine and human natures).
+- `[9:+tu]`: **Dante**.
+- `[10:si]`: **Beatrice** (the one who is currently "reasoning" or speaking).
+- `{11:suo fattore}`: **God** (the Maker/Creator).
+- `[12:+ella]`: **Human nature**.
+- `[13:+ella]`: **Human nature**.
+
+## Scene 40-48: The Justice of the Cross
+In this scene, Beatrice continues her theological discourse, explaining the paradoxical nature of the Crucifixion. She explains that the punishment of the cross was simultaneously just and unjust depending on the perspective: measured against the "assumed nature" (humanity, which had sinned), the punishment was perfectly just; however, measured against the "Person" who actually suffered (the divine Person of Christ, who is innocent), it was an act of extreme injustice. She concludes that this single event—the death of Christ—had different meanings and effects: it served God's plan and satisfied the Jews, while simultaneously triggering cosmic events (the earth trembling and the heavens opening).
+
+**Tag Resolutions:**
+
+- `[1:+ella]`: **the punishment** (referring back to *la pena* in line 40; although not a person, it is the grammatical subject being measured).
+- `{2:la persona}`: **The Person of Christ** (the Word of God who assumed human nature and suffered the crucifixion).
+- `{3:Dio}`: **God**.
+
+## Scene 49-54: Dante's Lingering Doubt
+In this scene, Beatrice continues her theological discourse, moving from the explanation of the Crucifixion to an observation of Dante's internal state. She tells Dante that the explanation she has just provided should now make the concept of "just vengeance" (a topic previously discussed with Emperor Justinian) seem more convincing or "stronger" to him. However, she observes that Dante's mind is still "constricted," entangled in a "knot" of complex thoughts. She recognizes that he is struggling to synthesize the information and is longing for the resolution of his confusion.
+
+**Tag Resolutions:**
+- `[1:ti]`: **Dante** (Beatrice is addressing him, telling him that the logic should now seem clearer to him).
+- `[2:io]`: **Beatrice** (the speaker who observes the state of Dante's mind).
+
+## Scene 55-63: The Hidden Decree
+In this scene, Beatrice continues her theological discourse by addressing the gap between *knowing* a divine fact and *understanding* the reason behind it. She puts words into Dante's mouth (or reports his internal thought), acknowledging that while he understands the mechanics of the Incarnation and the Crucifixion, he does not understand why God chose this specific method for the redemption of humanity.
+
+Beatrice explains that this "decree" (the divine plan) is hidden from anyone whose intellect has not been matured through the "flame of love." She notes that while many people observe the "sign" (the Cross), few actually perceive its deeper meaning. She then promises to reveal to Dante why this particular method of redemption was the most "worthy" or appropriate.
+
+**Tag Resolutions:**
+- `[1:Tu]`: **Dante** (Beatrice is addressing him).
+- `[2:+io]`: **Dante** (speaking in the reported speech Beatrice attributes to him).
+- `[3:i']`: **Dante** (speaking in the reported speech Beatrice attributes to him).
+- `{4:Dio}`: **God**.
+- `[5:m']`: **Dante** (speaking in the reported speech Beatrice attributes to him).
+- `{6:frate}`: **Dante** (Beatrice addresses him as "brother").
+- `[7:+io]`: **Beatrice** (the speaker promising to provide the explanation).
+
+## Scene 64-75: The Radiance of Divine Goodness
+In this scene, Beatrice continues her theological explanation, shifting from the events of the Crucifixion to a metaphysical description of God's essence to explain *why* the Incarnation was the chosen path for redemption. She describes "Divine Goodness" as an active, burning force that radiates outward. This divine light/influence is direct, eternal, and unchanging. She explains a fundamental law of divine interaction: the more a created thing resembles the Divine Goodness, the more intensely it is illuminated and pleased by that divine light. This sets the stage for her argument that Christ, as the perfect union of human and divine, was the most "worthy" and effective means of bridging the gap between God and fallen humanity.
+
+**Tag Resolutions:**
+
+- `{1:La divina bontà}`: **God's Divine Goodness** (the source of all creation and grace).
+- `[2:sé]`: **God's Divine Goodness**.
+- `[3:sé]`: **God's Divine Goodness**.
+- `[4:+ella]`: **God's Divine Goodness**.
+- `[5:+ella]`: **God's Divine Goodness**.
+- `[6:lei]`: **God's Divine Goodness**.
+- `[7:ella]`: **God's Divine Goodness**.
+- `[8:essa]`: **God's Divine Goodness**.
+- `[9:l']`: **the creature/the thing being illuminated** (the object receiving the divine radiance).
+- `[10:le]`: **the creature/the thing being illuminated**.
+
+## Scene 76-84: The Impact of Sin
+In this scene, Beatrice continues her theological explanation, moving from the nature of Divine Goodness to the impact of sin on humanity. She explains that human beings are uniquely positioned to benefit from the divine gifts she previously described. However, she posits that sin is the only thing capable of detaching a human from the "highest good" (God). This detachment creates a spiritual dissonance, meaning the human soul no longer reflects or is "whitened" by the divine light. Consequently, the human creature cannot return to its original state of dignity and grace unless the void created by sin is filled through just punishments, which counteract the pleasure once derived from "evil delight." Essentially, she is explaining the necessity of divine justice and penance as the only path to restoring the soul's nobility.
+
+**Tag Resolutions:**
+- `[1:s']`: **The human creature** (reflexive: the human creature advantages itself).
+- `{2:l'umana creatura}`: **The human creature / Humanity**.
+- `[3:+ella]`: **The human creature**.
+- `[4:la]`: **The human creature**.
+- `[5:+ella]`: **The human creature**.
+- `[6:s']`: **The human creature** (reflexive: the human creature whitens itself).
+- `[7:+ella]`: **The human creature**.
+- `[8:+ella]`: **The human creature**.
+
+## Scene 85-93: The Necessity of a Way Back
+In this scene, Beatrice continues her theological explanation to Dante, focusing on the necessity of the Incarnation as the only viable bridge for redemption. She explains that because human nature sinned entirely in its "seed" (Original Sin), humanity was stripped of its divine dignities and distanced from God. She tells Dante that, if he thinks about it carefully, human nature could not have recovered those lost dignities by any means unless one of two things had happened: either God had simply forgiven the sin out of His own courtesy, or humanity had somehow found a way to make satisfaction for its own folly. 
+
+By presenting these two hypotheticals, she is setting up the argument that since God's justice requires satisfaction and human nature is incapable of providing it, a mediator (the God-Man) was necessary.
+
+**Tag Resolutions:**
+
+- `[1:+ella]`: **Human nature** (referring back to *Vostra natura*).
+- `[2:+ella]`: **Human nature** (referring back to *Vostra natura*).
+- `[3:tu]`: **Dante** (Beatrice is addressing him, urging him to consider the logic carefully).
+- `{4:Dio}`: **God**.
+- `{5:l'uom}`: **Man / Humanity**.
+- `[6:sé]`: **Man / Humanity** (referring back to *l'uom*).
+- `[7:isso]`: **Man / Humanity** (referring back to *l'uom*).
+
+## Scene 94-102: The Limits of Human Effort
+In this scene, Beatrice continues her theological lesson, guiding Dante through the logic of why humanity was incapable of self-redemption. She begins by urging Dante to focus intently—to "fix his eye"—on the "eternal counsel" (God's divine plan) while she speaks. 
+
+She then presents a symmetry of movement: she explains that humanity cannot satisfy the debt of sin because of a fundamental imbalance. Man tried to "go up" (reach for divine status/pride) through disobedience. To make satisfaction for this, man would have to "go down" (humble himself) through obedience. However, Beatrice argues that human nature is incapable of this descent into humility on its own. Consequently, humanity was "closed off" or locked out of the ability to satisfy the requirements of divine justice through its own efforts.
+
+**Tag Resolutions:**
+- `[1:+tu]`: **Dante** (Beatrice is telling him to focus).
+- `[2:+tu]`: **Dante** (Beatrice is urging him to focus as much as possible).
+- `{3:l'uomo}`: **Man / Humanity** (referring to the generic state of human nature).
+- `[4:+ei]`: **Man / Humanity** (referring back to the one who intended to "go up" via disobedience).
+- `{5:l'uom}`: **Man / Humanity**.
+- `[6:sé]`: **Man / Humanity** (reflexive: man could not satisfy the debt by himself).
+
+## Scene 103-114: The Beauty of God's Plan
+In this scene, Beatrice continues her theological explanation of the Incarnation. She explains that since humanity was incapable of self-redemption, it was necessary for God to intervene using His own "ways" to restore human life. Beatrice notes that a work is more pleasing to its creator when it most fully reflects the goodness of the creator's heart. Therefore, God—the Divine Goodness—was pleased to use all His available means (both justice and mercy, or both divine and human natures) to lift humanity back up. She concludes by stating that in the entire history of time, there has never been, nor will there ever be, a more magnificent process of restoration than this.
+
+**Tag Resolutions:**
+- `{1:Dio}`: **God**.
+- `{2:l'omo}`: **Man / Humanity** (generic human nature).
+- `[3:+io]`: **Beatrice** (the speaker).
+- `{4:l'operante}`: **God** (the "operator" or "worker" who performs the act of redemption).
+- `{5:la divina bontà}`: **God / Divine Goodness** (the essence of God).
+
+## Scene 115-120: The Majesty of the Incarnation
+In this scene, Beatrice is completing her theological argument regarding the necessity and generosity of the Incarnation. She explains that God's act of giving Himself (becoming human) was a far more generous and effective solution for humanity's restoration than if humanity had attempted to redeem itself through its own humility. She argues that no other possible method could have satisfied the requirements of divine justice; the only way for the gap created by sin to be bridged was for the Son of God to humble Himself by taking on human flesh.
+
+**Tag Resolutions:**
+
+- `{1:Dio}`: **God** (the Father/the Divine Essence).
+- `[2:sé]`: **God** (referring back to God giving Himself).
+- `{3:l'uom}`: **Man / Humanity** (the human race needing redemption).
+- `[4:elli]`: **Man / Humanity** (referring to the hypothetical scenario where man tried to humble himself to recover).
+- `[5:sé]`: **Man / Humanity** (reflexive: man diminishing himself).
+- `{6:l Figliuol di Dio}`: **The Son of God** (Christ/The Word).
+- `[7:+elli]`: **The Son of God** (Christ, the one who was humbled by the Incarnation).
+
+## Scene 121-123: Redirecting the Vision
+In this brief scene, Beatrice concludes the theoretical part of her theological discourse on the Incarnation. Having explained the "why" and "how" of the redemption of humanity, she now wants to ensure that Dante's understanding is complete and his desires for knowledge are fully satisfied. To do this, she tells him that she will return (redirect his vision) to a specific place or visual manifestation, so that Dante can see the divine plan as clearly as she does.
+
+**Tag Resolutions:**
+- `[1:+io]`: **Beatrice** (the speaker).
+- `[2:tu]`: **Dante** (the person being addressed).
+- `[3:io]`: **Beatrice** (the speaker).
+
+## Scene 124-129: Dante's Observation of Decay
+In this scene, Beatrice is anticipating and articulating a question that Dante is pondering. She is essentially putting words into Dante's mouth to address a perceived contradiction in the theology she has been explaining.
+
+Dante (through Beatrice's voice) observes the physical world—the four elements (water, fire, air, and earth) and everything made from them. He notes that these things are subject to "corruption" (decay and death) and are fleeting. His doubt is this: if these elements are indeed creatures made by God's Divine Goodness (as Beatrice previously described), then, logically, they should be immune to decay. He is questioning why the physical universe is ephemeral if its source is eternal and perfect.
+
+**Tag Resolutions:**
+
+- `[1:Tu]`: **Dante** (Beatrice is addressing him, framing the question he is thinking).
+- `[2:Io]`: **Dante** (Speaking in the reported speech Beatrice attributes to him).
+- `[3:io]`: **Dante** (Speaking in the reported speech Beatrice attributes to him).
+- `[4:+elli]`: **The created elements/things** (Specifically the water, fire, air, earth, and their mixtures mentioned in lines 124-125).
+
+## Scene 130-138: The Hierarchy of Creation
+In this scene, Beatrice provides the metaphysical answer to Dante's question about why the physical world is subject to decay. She distinguishes between two levels of creation. First, she points to the angels and the "sincere country" (the celestial realms) where Dante currently resides; these are created in their "entire being," meaning they are immutable and eternal. In contrast, the material elements Dante mentioned (water, fire, air, and earth) and the things made from them are not created directly in their entirety by God. Instead, they are "informed" (shaped and given form) by a "created virtue" (an intermediary power). This power resides in the stars that orbit the earth. Because the force that shapes the material world is itself a created entity rather than the Uncreated Creator, the material world is subject to change, corruption, and decay.
+
+**Tag Resolutions:**
+
+- `{1:Li angeli}`: **The angels**
+- `{2:frate}`: **Dante** (Beatrice addresses him as "brother")
+- `[3:tu]`: **Dante**
+- `[4:+elli]`: **The angels and the "sincere country"** (the celestial realms)
+- `[5:tu]`: **Dante**
+- `[6:+elli]`: **The elements and the things made from them** (the material world)
+- `[7:lor]`: **The elements/the material world** (the things that the stars orbit around)
+
+## Scene 139-144: The Animation of the Soul
+In this scene, Beatrice explains the metaphysical distinction between the souls of non-human creatures and the human soul. She describes a hierarchy of vital energy: the souls of animals ("brutes") and plants are limited and indirect; they must draw their vitality, movement, and light from the "holy lights" (the celestial spheres/stars mentioned in the previous scene). 
+
+In contrast, she explains that human life is breathed into existence directly by God ("the highest goodness") without any intermediary. Because of this direct creation, the human soul is inherently "in love" with its Creator. This creates a permanent, eternal orientation of the human spirit, which forever desires to return to and be united with God.
+
+**Tag Resolutions:**
+
+- `[1:+ella]`: **The soul of every brute and of the plants** (the subject that "draws" the ray and motion).
+- `{2:vostra vita}`: **Human life / The human soul** (referring to Dante's and humanity's spiritual essence).
+- `{3:la somma beninanza}`: **God / Divine Goodness** (the source who breathes life into humans).
+- `[4:+ella]`: **God / Divine Goodness** (the subject who "makes [the human soul] fall in love").
+- `[5:la]`: **Human life / The human soul** (the one being made to fall in love).
+- `[6:sé]`: **God / Divine Goodness** (the object of the soul's love).
+- `[7:+ella]`: **Human life / The human soul** (the one who desires).
+- `[8:la]`: **God / Divine Goodness** (the one being desired).
+
+## Scene 145-148: The Argument for Resurrection
+In this scene, Beatrice continues her theological lesson, moving from the creation of the human soul to the topic of the resurrection of the body. She tells Dante that he can now use the logic she has already provided to reason through the possibility and necessity of the resurrection. She suggests that if he considers how human flesh was originally created in the first place, the return of the body at the end of time becomes logically consistent.
+
+**Tag Resolutions:**
+- `[1:+tu]`: **Dante** (Beatrice is addressing him, telling him he can now draw a further conclusion).
+- `[2:tu]`: **Dante** (Beatrice is telling him to reflect on the origin of human flesh).
+- `{3:li primi parenti}`: **Adam and Eve** (the "first parents" of humanity).
+
+# recap
+- Dante and Beatrice are together in the sphere of Mercury.
+- Beatrice has concluded her theological discourse on the Incarnation, the nature of the human soul, and the logic of the resurrection.
+- Dante has been guided from a state of confusion to a deeper understanding of divine justice and redemption.

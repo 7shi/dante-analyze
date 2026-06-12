@@ -1,0 +1,333 @@
+# Canto 19 — The Encounter with the Simoniac Boniface
+
+## Scene 1-6: Invocation to the Simoniacs
+In this opening scene of Canto 19, Dante and Virgil have arrived at the Third Bolgia of the Eighth Circle. Dante begins the canto not with a description, but with a direct, scathing address (an invocation) to the sinners housed here: the Simoniacs (those who sold or bought church offices).
+
+Dante is the speaker. He is shouting to the souls below, condemning them for their greed. He specifically calls out Simon Magus—the biblical figure from whom "simony" takes its name—and all those who followed his example by treating the spiritual gifts of God as commodities to be bought and sold for gold and silver. He notes that because they lived by these worldly transactions, it is now fitting that they hear the "trumpet" (a reference to the Last Judgment) and suffer their eternal placement in the third bolgia.
+
+**Tag Resolutions:**
+
+- `{1:Simon mago}`: Simon Magus
+- `{2:miseri seguaci}`: The wretched followers of Simon Magus (the Simoniacs)
+- `{3:Dio}`: God
+- `[4:voi]`: The Simoniacs (Simon Magus and his followers)
+- `[5:+voi]`: The Simoniacs (Simon Magus and his followers)
+- `[6:voi]`: The Simoniacs (Simon Magus and his followers)
+- `[7:+voi]`: The Simoniacs (Simon Magus and his followers)
+
+## Scene 7-12: Reflection on Divine Wisdom
+**Scene Analysis:**
+
+In this brief passage, the action shifts from Dante’s shouting condemnation of the Simoniacs back to a narrative description of the physical space, followed by a moment of spiritual reflection.
+
+Dante and Virgil have moved along the rocky ledge (the *scoglio*) to a position that hangs directly over the center of the ditch (*fosso*), allowing them to look down upon the next tomb. Having observed the layout and the punishments of the Simoniacs, Dante is struck by the perfect order of the universe. He pauses to address God, praising the "highest wisdom" that governs the three realms: Heaven, Earth, and Hell ("the evil world"). He marvels at the divine justice (the *contrapasso*)—specifically how God's virtue/power distributes punishments and rewards with absolute fairness.
+
+**Tag Resolutions:**
+
+- `[1:+noi]`: Dante and Virgil (the two travelers)
+- `{2:somma sapïenza}`: God (specifically God as the embodiment of Divine Wisdom)
+- `[3:+tu]`: God
+
+## Scene 13-30: The Landscape of the Third Bolgia
+In this scene, Dante describes the physical layout and the specific torture of the Third Bolgia. He observes that the rocky ground and walls are riddled with wide, round holes. He compares these holes to the baptismal fonts in the Baptistery of San Giovanni in Florence, recalling a specific incident from his own life where he broke one of the holes to save a drowning child. He uses this memory to warn against the dangers of greed/deception.
+
+He then describes the "contrapasso" (the symbolic punishment) of the Simoniacs: the sinners are stuck head-first into these holes, with only their legs and feet protruding. Their feet are engulfed in flames, causing their legs to twitch and jerk so violently that the joints appear broken and twisted. He compares the movement of the fire on their feet to the way grease flickers and climbs upward on a surface.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `[2:mi]`: Dante
+- `[3:+elli]`: The holes (*fóri*)
+- `[4:io]`: Dante
+- `{5:omo}`: Any person / mankind
+- `{6:peccator}`: A sinner (specifically a Simoniac)
+- `[7:+elli]`: The joints (*le giunte*) of the sinners' legs
+
+## Scene 31-39: Dante's Inquiry
+In this scene, Dante notices one particular sinner who is suffering more intensely than the others—his legs are twitching more violently and the flames licking his feet are a deeper red. Intrigued and disturbed, Dante asks Virgil who this person is.
+
+Virgil responds by telling Dante that if he wishes to find out, he must follow Virgil further down the slope; once they arrive, the soul himself will explain who he is and what sins led him to this place. Dante immediately agrees, reaffirming his trust and total submission to Virgil's guidance, acknowledging Virgil as his "lord" or master and noting that Virgil already knows Dante will not deviate from his will.
+
+**Tag Resolutions:**
+
+- `[1:Chi]`: The soul who is twitching most (later revealed to be Pope Nicholas III)
+- `[2:colui]`: The soul who is twitching most
+- `{3:maestro}`: Virgil
+- `[4:si]`: The soul who is twitching most
+- `{5:li altri suoi consorti}`: The other Simoniacs
+- `[6:io]`: Dante
+- `[7:elli]`: Virgil
+- `[8:me]`: Dante
+- `[9:tu]`: Dante
+- `[10:i']`: Virgil
+- `[11:ti]`: Dante
+- `[12:lui]`: The soul who is twitching most
+- `[13:+tu]`: Dante
+- `[14:sé]`: The soul who is twitching most
+- `[15:io]`: Dante
+- `[16:m']`: Dante
+- `[17:te]`: Virgil
+- `[18:tu]`: Virgil
+- `{19:segnore}`: Virgil
+- `[20:+tu]`: Virgil
+- `[21:i']`: Dante
+- `[22:mi]`: Dante
+- `[23:+tu]`: Virgil
+
+## Scene 40-45: The Physical Descent
+**Scene Analysis:**
+
+In this short transitional scene, Dante and Virgil move from the observation point on the ledge down into the pit of the Third Bolgia to encounter the specific sinner Dante noticed. 
+
+They arrive at the fourth ledge, turn, and make a physically taxing descent ("with tired hands") down to the narrow, hole-ridden floor of the ditch. Virgil, acting as the protective guide, keeps Dante close to his side (literally "by his hip") to ensure his safety and steady his path. He does not let go of Dante until they have reached the rim of the hole containing the soul who is lamenting and twitching his legs—the soul who will soon reveal himself as Pope Nicholas III.
+
+**Tag Resolutions:**
+
+- `[1:+noi]`: Dante and Virgil
+- `[2:+noi]`: Dante and Virgil
+- `[3:+noi]`: Dante and Virgil
+- `{4:Lo buon maestro}`: Virgil
+- `[5:mi]`: Dante
+- `[6:+ei]`: Virgil
+- `[7:mi]`: Dante
+- `[8:quel]`: The soul who is twitching most (Pope Nicholas III)
+- `[9:si]`: The soul who is twitching most (Pope Nicholas III)
+
+## Scene 46-48: Dante’s Salutation
+In this scene, Dante initiates a conversation with the sinner he has just approached. Having descended to the floor of the Third Bolgia, Dante speaks directly to the soul who is stuck head-first in the hole, noting the inverted position of the body (the "top" is "below") and comparing the soul's stillness or plight to a driven pile. Dante asks the soul if he is capable of speaking.
+
+**Tag Resolutions:**
+- `[1:+tu]`: The soul in the hole (Pope Nicholas III)
+- `{2:anima trista}`: The soul in the hole (Pope Nicholas III)
+- `[3:io]`: Dante
+- `[4:+tu]`: The soul in the hole (Pope Nicholas III)
+- `[5:+tu]`: The soul in the hole (Pope Nicholas III)
+
+## Scene 49-51: The Confessor Simile
+In this brief scene, Dante describes his own physical and emotional state as he waits for the soul in the hole to respond to his greeting. He employs a grim simile to illustrate the tension and the nature of the interaction.
+
+Dante compares himself to a friar who has heard the confession of a treacherous murderer. In the scenario he imagines, the murderer is being executed by impalement (a common punishment for certain crimes at the time). As the murderer is driven onto the stake, he cries out to the friar—the only person there who knows his soul's secrets—pleading for the pain to end or for death to come more quickly. Dante is the "friar" in this analogy: he is the observer standing over a suffering soul who is "fixed" (stuck) in the earth.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `{2:l frate}`: The friar (a figure in Dante's simile)
+- `{3:lo perfido assessin}`: The treacherous murderer (a figure in Dante's simile)
+- `[4:lui]`: The friar (the person the murderer calls out to)
+
+## Scene 52-57: The Sinner’s Accusation
+In this scene, the soul stuck head-first in the hole finally responds to Dante’s greeting. However, because the soul cannot see who is speaking to him, he makes a mistake. He assumes that the person standing above him is Pope Boniface VIII.
+
+The soul shouts a series of accusations at Dante (whom he believes is Boniface), mentioning a prophecy ("the writing") that predicted Boniface would eventually end up in the same pit of the Simoniacs. He accuses "Boniface" of being driven by greed and of deceitfully seizing and then ruining the "beautiful lady," which is a metaphorical reference to the Holy Roman Church.
+
+**Tag Resolutions:**
+
+- `[1:el]`: The soul in the hole (Pope Nicholas III)
+- `[2:tu]`: Dante (mistaken for Pope Boniface VIII)
+- `[3:tu]`: Dante (mistaken for Pope Boniface VIII)
+- `{4:Bonifazio}`: Pope Boniface VIII
+- `[5:mi]`: The soul in the hole (Pope Nicholas III)
+- `[6:tu]`: Dante (mistaken for Pope Boniface VIII)
+- `[7:+tu]`: Dante (mistaken for Pope Boniface VIII)
+- `{8:la bella donna}`: The Roman Church (personified as a beautiful woman)
+
+## Scene 58-60: Dante’s Bewilderment
+In this brief scene, Dante describes his immediate reaction to the soul's outburst. The soul (Pope Nicholas III) has just screamed accusations at him, mistakenly believing Dante to be Pope Boniface VIII. Dante is so stunned and bewildered by this case of mistaken identity and the intensity of the attack that he remains completely silent. 
+
+He compares his own state of shock to that of people who are so overwhelmed, confused, or "scorned" (disoriented) by a situation that they are unable to understand what is happening or find the words to respond. He stands there, mute and paralyzed by the absurdity and aggression of the soul's claim.
+
+**Tag Resolutions:**
+
+- `[1:mi]`: Dante
+- `[2:io]`: Dante
+- `[3:quai]`: Those people (referring to the hypothetical group in `[4]`)
+- `[4:color]`: A hypothetical group of confused or overwhelmed people
+- `[5:lor]`: A hypothetical group of confused or overwhelmed people
+- `[6:+elli]`: A hypothetical group of confused or overwhelmed people
+
+## Scene 61-63: Virgil’s Instruction
+In this brief scene, Virgil intervenes to break Dante's state of shock. Dante has been standing mute after being yelled at by the soul in the hole, who mistakenly believes Dante is Pope Boniface VIII. Virgil instructs Dante to immediately correct this misconception. He provides Dante with the specific words to use: "I am not the one, I am not the one whom you believe [me to be]." Dante obeys his guide and replies exactly as instructed.
+
+**Tag Resolutions:**
+
+- `{1:Virgilio}`: Virgil
+- `[2:+tu]`: Dante
+- `[3:+io]`: Dante (as the speaker of the quoted words)
+- `[4:colui]`: Pope Boniface VIII
+- `[5:+io]`: Dante (as the speaker of the quoted words)
+- `[6:colui]`: Pope Boniface VIII
+- `[7:+tu]`: The soul in the hole (Pope Nicholas III)
+- `[8:io]`: Dante
+- `[9:me]`: Dante
+
+## Scene 64-78: The Sinner’s Revelation
+In this scene, the soul stuck in the hole (who is later identified as Pope Nicholas III) reacts to Dante's correction. Having realized that Dante is not Pope Boniface VIII, the spirit twists his feet in a gesture of agitation or adjustment, sighs, and begins to speak in a weeping voice.
+
+The soul asks Dante why he is so interested in knowing his identity that he would travel all the way down the rocky slope to reach him. He then reveals his former status: he was "clothed in the great mantle," meaning he was the Pope. He describes himself as a "son of the she-bear," a reference to his Roman origin (as Rome is often associated with the bear or the wolf in various heraldic/symbolic contexts). He admits that his greed—specifically his desire to outdo other "bear-cubs" (other Roman clerics or popes)—led him to commit simony, which effectively put him "in the purse" (a metaphor for both the greed that drove him and the hole he is now trapped in).
+
+He further explains the geography of the Third Bolgia: beneath his head are the other simoniacs who committed their crimes before he did, layered deeper into the stone. Finally, he predicts his own further descent; he believes that when the man he previously mistook Dante for (Pope Boniface VIII) eventually arrives in Hell, he (Nicholas) will sink even deeper into the pit.
+
+**Tag Resolutions:**
+
+- `{1:lo spirto}`: The soul in the hole (Pope Nicholas III)
+- `[2:+ei]`: The soul in the hole (Pope Nicholas III)
+- `[3:mi]`: Dante
+- `[4:me]`: The soul in the hole (Pope Nicholas III)
+- `[5:+tu]`: Dante
+- `[6:i']`: The soul in the hole (Pope Nicholas III)
+- `[7:ti]`: Dante
+- `[8:tu]`: Dante
+- `[9:+tu]`: Dante
+- `[10:i']`: The soul in the hole (Pope Nicholas III)
+- `[11:+io]`: The soul in the hole (Pope Nicholas III)
+- `{12:figliuol de l'orsa}`: The soul in the hole (Pope Nicholas III)
+- `[13:+io]`: The soul in the hole (Pope Nicholas III)
+- `[14:me]`: The soul in the hole (Pope Nicholas III)
+- `{15:li altri tratti}`: The other Simoniacs (those who committed the sin before Nicholas III)
+- `[16:che]`: The other Simoniacs
+- `[17:me]`: The soul in the hole (Pope Nicholas III)
+- `[18:io]`: The soul in the hole (Pope Nicholas III)
+- `[19:colui]`: Pope Boniface VIII
+- `[20:i']`: The soul in the hole (Pope Nicholas III)
+- `[21:tu]`: Dante
+- `[22:i']`: The soul in the hole (Pope Nicholas III)
+
+## Scene 79-87: The Prophecy of the Shepherd
+In this scene, Pope Nicholas III continues his conversation with Dante, shifting from his own history to a prophecy about the future of the papacy and the Third Bolgia.
+
+Nicholas III explains that he has been in his upside-down position for a long time. He predicts that Pope Boniface VIII (whom he previously mistook Dante for) will eventually arrive here. However, he notes that Boniface will not be the last; an even more "wretched work" will follow him. This figure is "a lawless shepherd" coming from the "true west" (France). This is a prophecy referring to Pope Clement V, the first Avignon Pope. Nicholas predicts that Clement V will eventually be placed in the hole on top of both Boniface and himself, effectively "covering" them.
+
+To describe the nature of this future pope, Nicholas compares him to a "New Jason," referencing Jason from the Books of the Maccabees, who betrayed his own people. Just as the biblical Jason was subservient (or "soft") to his king, Nicholas predicts that Pope Clement V will be a puppet to the King of France.
+
+**Tag Resolutions:**
+
+- `[1:mi]`: Pope Nicholas III
+- `[2:i']`: Pope Nicholas III
+- `[3:el]`: Pope Boniface VIII
+- `[4:lui]`: Pope Boniface VIII
+- `{5:un pastor sanza legge}`: Pope Clement V
+- `[6:lui]`: Pope Boniface VIII
+- `[7:me]`: Pope Nicholas III
+- `{8:Nuovo Iasón}`: Pope Clement V
+- `[9:+ei]`: Pope Clement V
+- `[10:quel]`: Jason (from the Books of the Maccabees)
+- `{11:suo re}`: The king of Jason (in the biblical story)
+- `[12:lui]`: Pope Clement V
+- `[13:chi]`: The King of France (Philip IV/Philip the Fair)
+
+## Scene 88-105: Dante’s First Rebuttal
+In this scene, Dante moves from his previous state of shock to a state of righteous indignation. He reflects briefly on whether he was too foolish to respond to Pope Nicholas III, and then he delivers a scathing rebuke.
+
+Dante challenges Nicholas by contrasting the current corruption of the papacy with the humility of the early Church. He asks how much money God required Saint Peter to pay in exchange for the "keys" to the kingdom, noting that God simply told Peter to "follow me." He further points out that when Saint Matthias was chosen to replace Judas Iscariot (the "evil soul"), no gold or silver was exchanged.
+
+Dante asserts that Nicholas’s punishment is entirely just. He tells the Pope to reflect on the "ill-gotten money" that gave him the arrogance to oppose Charles (referring to Charles of Anjou). Dante admits that he is only restraining himself from using even harsher language out of a lingering respect for the "supreme keys" (the office of the papacy) that Nicholas once held. He concludes by stating that the greed of the papacy brings sorrow to the world by trampling the virtuous and elevating the corrupt.
+
+**Tag Resolutions:**
+
+- `[1:Io]`: Dante
+- `[2:i']`: Dante
+- `[3:mi]`: Dante
+- `[4:i']`: Dante
+- `[5:lui]`: Pope Nicholas III
+- `[6:+tu]`: Pope Nicholas III
+- `[7:mi]`: Dante
+- `{8:Nostro Segnore}`: God
+- `{9:san Pietro}`: Saint Peter
+- `[10:ei]`: Saint Peter
+- `[11:+ei]`: God
+- `[12:+tu]`: Saint Peter
+- `{13:Pier}`: Saint Peter
+- `{14:li altri}`: The other Apostles
+- `{15:Matia}`: Saint Matthias
+- `[16:+ei]`: Saint Matthias
+- `{17:l'anima ria}`: Judas Iscariot
+- `[18:ti]`: Pope Nicholas III
+- `[19:tu]`: Pope Nicholas III
+- `[20:+tu]`: Pope Nicholas III
+- `[21:ti]`: Pope Nicholas III
+- `{22:Carlo}`: Charles (likely Charles of Anjou/Charles II)
+- `[23:mi]`: Dante
+- `[24:tu]`: Pope Nicholas III
+- `[25:io]`: Dante
+- `{26:i buoni}`: The virtuous/good people
+- `{27:i pravi}`: The wicked/corrupt people
+
+## Scene 106-117: Dante’s Second Rebuttal
+In this scene, Dante continues his blistering attack on Pope Nicholas III and the Simoniacs. He shifts from historical and biblical precedents of the early Church (Saint Peter and Saint Matthias) to the apocalyptic imagery of the Book of Revelation and a critique of the papacy's historical turn toward worldly power.
+
+Dante tells the Simoniacs that Saint John the Evangelist saw their true nature when he envisioned the Whore of Babylon—a figure representing the corrupt, worldly Church—consorting with the kings of the earth. He describes this figure as the seven-headed, ten-horned beast from the Apocalypse, who remained in that state until her "husband" (a reference to the spiritual union with Christ/the Lamb) was pleased by virtue.
+
+He then accuses the Simoniacs of the ultimate heresy: creating a "god" out of gold and silver. He argues that there is no difference between a Simoniac and a pagan idolater; the only difference is that the idolater worships one false god, while the Simoniacs worship hundreds of them (their various coins and bribes).
+
+Finally, Dante addresses Emperor Constantine. He laments that Constantine was the "mother" of this corruption. He clarifies that the problem was not Constantine's conversion to Christianity, but rather the "dowry" (the wealth and temporal power) that Constantine bestowed upon the Church, which the "first wealthy father" (the first Pope to embrace this worldly power) accepted, thus poisoning the papacy.
+
+**Tag Resolutions:**
+
+- `[1:voi]`: The corrupt popes/simoniacs (including Nicholas III)
+- `{2:pastor}`: The corrupt popes/simoniacs
+- `{3:il Vangelista}`: Saint John the Evangelist
+- `[4:colei]`: The Whore of Babylon (representing the corrupt Church)
+- `{5:coi regi}`: The worldly kings/rulers
+- `[6:lui]`: Saint John the Evangelist
+- `[7:quella]`: The Whore of Babylon
+- `[8:+ella]`: The Whore of Babylon
+- `{9:marito}`: The Lamb/Christ (the spiritual "husband" of the Church)
+- `[10:+voi]`: The corrupt popes/simoniacs
+- `[11:v']`: The corrupt popes/simoniacs
+- `{12:dio}`: A false god made of gold and silver (an idol of greed)
+- `[13:voi]`: The corrupt popes/simoniacs
+- `{14:l'idolatre}`: The idolaters (those who worship false gods)
+- `[15:elli]`: The idolaters
+- `[16:voi]`: The corrupt popes/simoniacs
+- `[17:ne]`: The gods/idols of gold and silver
+- `{18:Costantin}`: Emperor Constantine
+- `{19:matre}`: Emperor Constantine (metaphorically, as the source of the corruption)
+- `[20:te]`: Emperor Constantine
+- `{21:il primo ricco patre}`: The first wealthy Pope (the first to accept temporal riches)
+
+## Scene 118-123: Virgil’s Silent Approval
+In this scene, Dante observes the reactions of both the sinner and his guide following his blistering critique of the Simoniacs. As Dante delivers his "notes" (his scathing words), Pope Nicholas III reacts physically; whether driven by anger or a stinging conscience, the Pope pushes violently with the soles of his feet against the sides of the hole. 
+
+Dante then notices Virgil's reaction. While Virgil remains silent, Dante perceives that his guide is pleased. Virgil's contented expression indicates his approval of Dante's moral clarity and the "true words" he has used to expose the corruption of the papacy.
+
+**Tag Resolutions:**
+- `[1:io]`: Dante
+- `[2:li]`: Pope Nicholas III
+- `[3:'l]`: Pope Nicholas III
+- `[4:+ei]`: Pope Nicholas III
+- `[5:I']`: Dante
+- `{6:duca}`: Virgil
+- `[7:+ei]`: Virgil
+
+## Scene 124-129: The Ascent
+In this final scene of Canto 19, the interaction with Pope Nicholas III has concluded. Virgil, seeing that Dante has finished his rebuke and it is time to move on, takes a protective and guiding role to ensure Dante's safe exit from the floor of the Third Bolgia.
+
+Virgil physically takes hold of Dante with both arms and pulls him close to his chest. He then climbs back up the same path they used to descend into the pit. Virgil maintains a firm grip on Dante, keeping him close to his side (or "distretto") as he carries/leads him back up to the top of the arch that bridges the fourth and fifth rocky ledges.
+
+**Tag Resolutions:**
+
+- `[1:+ei]`: Virgil
+- `[2:mi]`: Dante
+- `[3:+ei]`: Virgil
+- `[4:mi]`: Dante
+- `[5:s']`: Virgil
+- `[6:+ei]`: Virgil
+- `[7:+ei]`: Virgil
+- `[8:+ei]`: Virgil
+- `[9:si]`: Virgil
+- `[10:sé]`: Virgil
+- `[11:+ei]`: Virgil
+
+## Scene 130-133: Arrival at a New Valley
+In this brief transitional scene, the physical movement of the two travelers concludes as they leave the Third Bolgia.
+
+Virgil, who had been holding and guiding Dante up the steep, jagged slope, gently sets him down ("spuose il carco") on the ledge. Dante emphasizes the difficulty of the terrain, noting that the rocky path was so rough and steep that even mountain goats would have struggled to navigate it. Once they are safely back on the ledge, Dante looks ahead and sees the next valley (the Fourth Bolgia) opening up before him.
+
+**Tag Resolutions:**
+- `[1:+egli]`: Virgil (who is setting Dante down)
+- `[2:mi]`: Dante (to whom the next valley is revealed)
+
+# recap
+- Dante and Virgil have left the Third Bolgia after Dante's rebuke of Pope Nicholas III.
+- The two travelers have ascended the rocky slope and are now standing on the ledge.
+- Dante is looking ahead at the beginning of the Fourth Bolgia.

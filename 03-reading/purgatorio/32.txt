@@ -1,0 +1,320 @@
+# Canto 32 — The Celestial Vision and the Succession of Beasts
+
+## Scene 1-12: The Sensory Blindness
+In this scene, Dante describes a state of sensory overload and subsequent blindness. He is so consumed by the sight of Beatrice—trying to quench a "ten-year thirst" for her presence—that he becomes oblivious to everything else. He is essentially in a trance, captivated by Beatrice's "holy smile," which he compares to a net that captures him.
+
+Because he is staring so fixedly, the four nymph-stars intervene. They find his gaze "too fixed" and physically force his head to turn to the left. Because his eyes were so intensely adjusted to the brilliant light (the "sun") of Beatrice, this sudden movement causes him to lose his vision momentarily, leaving him temporarily blind.
+
+**Tag Resolutions:**
+- [1:m'] refers to Dante.
+- [2:mi] refers to Dante.
+- {3:quelle dee} refers to the nymph-stars.
+- [4:io] refers to Dante.
+- [5:loro] refers to the nymph-stars.
+- [6:mi] refers to Dante.
+
+## Scene 13-24: The Movement of the Heavenly Host
+In this scene, Dante describes the moment he recovers his vision after the nymph-stars forced his gaze away from Beatrice. He notes that the time it took for his sight to return ("al poco") was brief compared to the intense, forceful sensation ("al molto sensibile") that had caused his temporary blindness. 
+
+Once his vision returns, Dante looks to his right and witnesses the movement of the "glorious army"—the vast host of angels. He describes them turning in synchronization with the sun and the seven planets (the "seven flames"). To illustrate the scale and coordination of this movement, Dante uses a military simile: he compares the angels to a phalanx of soldiers turning under their shields to protect themselves or change direction. The movement is so swift and fluid that the entire celestial militia completes its turn and passes by before the "chariot" (the Griffin or the celestial vehicle they are on) has even begun to pivot.
+
+**Tag Resolutions:**
+- [1:+io] refers to Dante.
+- [2:+io] refers to Dante.
+- [3:mi] refers to Dante.
+- [4:+io] refers to Dante.
+- [5:+io] refers to Dante.
+- {6:lo glorïoso essercito} refers to the heavenly host (the army of angels).
+- {7:schiera} refers to the heavenly host (the army of angels).
+- [8:sé] refers to the heavenly host (the army of angels).
+- [9:+ella] refers to the heavenly host (the army of angels).
+- [10:+ella] refers to the heavenly host (the army of angels).
+- [11:sé] refers to the heavenly host (the army of angels).
+- {12:quella milizia} refers to the heavenly host (the army of angels).
+- [13:+ella] refers to the heavenly host (the army of angels).
+
+## Scene 25-33: The Descent of the Griffin
+In this scene, the period of stillness and sensory recovery ends, and the celestial journey resumes. 
+
+The nymph-stars, having finished their intervention with Dante, return to their positions (the "wheels" or orbits). The Griffin then begins to move, carrying the passengers—referred to as the "blessed load"—with such smoothness that not a single feather on the creature shakes. Dante, Beatrice, and Statius follow the path of the Griffin as it moves in a tighter, inner arc. 
+
+As they travel through the "high, empty forest" (a metaphorical description of the ranks of angels they are passing through), Dante makes a brief theological reflection: this "emptiness" or void is the result of the original sin committed by Eve (the woman who listened to the serpent). This movement is accompanied by the soothing sounds of angelic music.
+
+**Tag Resolutions:**
+- [1:si] refers to {2:le donne}.
+- {2:le donne} refers to the nymph-stars.
+- {3:l grifon} refers to the Griffin.
+- {4:il benedetto carco} refers to the passengers on the Griffin (Dante, Beatrice, Statius, and the nymph-stars).
+- {5:La bella donna} refers to Beatrice.
+- [6:mi] refers to Dante.
+- {7:Stazio} refers to Statius.
+- [8:io] refers to Dante.
+- [9:quella] refers to Eve.
+- {10:serpente} refers to the serpent.
+
+## Scene 34-36: Beatrice's Descent
+In this brief scene, Dante describes the rapid movement of Beatrice. As the Griffin continues its flight, Beatrice—who has been positioned higher up—descends to be closer to Dante and Statius. Dante uses a metaphor of speed, comparing her descent to a "bolt of lightning" to emphasize how quickly and effortlessly she moves through the celestial space to join them.
+
+**Tag Resolutions:**
+- `{1:disfrenata saetta}` (unbridled lightning/arrow) refers to Beatrice.
+- `[2:+noi]` (we) refers to the passengers on the Griffin, specifically Dante and Statius.
+- `{3:Bëatrice}` refers to Beatrice.
+
+## Scene 37-42: The Bare Tree
+In this scene, Dante describes a collective moment of recognition and observation. He hears the entire company—the group traveling on the Griffin—murmur the name "Adam." Following this, the group focuses their attention on a specific sight: a tree that is completely stripped of its leaves and foliage on every branch. 
+
+Dante describes the sheer scale of this tree, noting that its crown expands the higher it reaches. He remarks that its immense height would be a wonder even among the famous forests of India. In the symbolic language of the *Paradiso*, this bare tree serves as a celestial representation of Adam, the patriarch of humanity, reflecting his role as the root of the human race.
+
+**Tag Resolutions:**
+- `[1:Io]` refers to Dante.
+- `{2:Adamo}` refers to Adam.
+- `[3:+elli]` refers to the company (the group of passengers on the Griffin, including Beatrice, the nymphs, and the souls).
+- `[4:+ella]` refers to the plant/tree (which symbolically represents Adam).
+
+## Scene 43-48: The Voice of the Griffin
+In this scene, the passengers on the Griffin are observing the bare tree (the symbol of Adam). They collectively address the Griffin, noting that he is fortunate not to eat the wood of this tree; although the wood might taste sweet, they suggest it would cause him great digestive distress ("twist the belly"). The Griffin then responds to them, explaining the theological significance of the tree: it remains untouched so that the "seed" (the ancestral root/lineage) of every righteous person is preserved.
+
+**Tag Resolutions:**
+- [1:+tu] refers to {2:grifon}.
+- {2:grifon} refers to the Griffin.
+- {3:li altri} refers to the company (the passengers on the Griffin).
+- {4:l'animal binato} refers to the Griffin (literally "the two-fold animal," referring to its eagle/lion nature).
+- {5:giusto} refers to the just/righteous souls.
+
+## Scene 49-51: The Tied Branch
+In this scene, the Griffin continues his interaction with the symbolic tree of Adam. The Griffin turns to a cord (or strap) that he had previously pulled; he brings this cord to the base of the "widowed branch" (a part of the bare tree representing Adam) and ties it there. This action is a symbolic gesture involving the "root" of humanity and the constraints or connections that bind the human lineage.
+
+**Tag Resolutions:**
+- `[1:elli]` refers to the Griffin.
+- `[2:+elli]` refers to the Griffin.
+- `{3:la vedova frasca}` refers to the widowed branch (the symbolic representation of the tree/Adam).
+- `[4:lei]` refers to the widowed branch.
+- `[5:lei]` refers to the widowed branch.
+- `[6:+elli]` refers to the Griffin.
+
+## Scene 52-60: The Transformation of the Tree
+In this scene, Dante describes a miraculous transformation of the bare tree. He begins with a simile, comparing the tree's change to the way earthly plants recover their vigor and color during the night, between the setting of the sun and the next dawn.
+
+The tree, which was previously described as completely stripped of its foliage (representing Adam in his fallen state), suddenly blooms. Dante specifies the color of this new growth: it is a shade between the red of a rose and the purple of a violet. This transformation signifies a transition from the state of sterility/death (the bare branches) to a state of renewal and life.
+
+**Tag Resolutions:**
+- `[1:s']` refers to {2:la pianta}.
+- `{2:la pianta}` refers to the plant/tree (which symbolically represents Adam).
+
+## Scene 61-69: The Limits of Description
+In this scene, Dante reflects on the aftermath of the miraculous transformation of the tree of Adam. He explains that as the tree bloomed, the company of blessed souls sang a hymn. However, the music was so divine and overwhelming that Dante could not fully comprehend its meaning or endure the intensity of its notes.
+
+The music acted as a celestial sedative, lulling Dante into a deep, spiritual sleep. He compares this experience to the myth of Syrinx (the nymph whose reeds were used by Pan to create music that could put listeners to sleep). Dante describes his own eyes as "pitiless" or "relentless," likely referring to the intense, hungry gaze he had maintained throughout the journey, which finally succumbed to exhaustion and the power of the music. He expresses a wish that he could "paint" or sketch the exact moment he fell asleep—as if he were a professional artist working from a model—but he ultimately admits that the experience of this divine slumber is beyond his power to describe.
+
+**Tag Resolutions:**
+- `[1:Io]` refers to Dante.
+- `{2:quella gente}` refers to the blessed souls (the company traveling on the Griffin).
+- `[3:+io]` refers to Dante.
+- `[4:io]` refers to Dante.
+- `[5:+elli]` refers to the blessed souls (the company).
+- `{6:li occhi spietati}` refers to Dante's eyes.
+- `{7:Siringa}` refers to Syrinx (the mythological nymph/reed-pipe).
+- `{8:li occhi}` refers to Dante's eyes.
+- `{9:pintor}` refers to a painter (used here as a general simile).
+- `[10:+io]` refers to Dante.
+- `[11:io]` refers to Dante.
+- `[12:m']` refers to Dante.
+
+## Scene 70-78: The Awakening of the Apostles
+In this scene, Dante describes his transition from the divine sleep induced by the celestial music back to consciousness. He explains that he is awakened by a sudden burst of brilliance (a "splendor") that tears through the "veil" of his slumber, accompanied by a voice commanding him to rise and asking what he is doing.
+
+As he awakens, Dante witnesses a vision of the three Apostles—Peter, John, and James. He uses a simile, comparing the sight of these three to the sight of apple blossoms (which are longed for by the angels and represent a state of eternal celestial union). These three figures, having been guided and bound by divine will, return to the "Word" (the *Logos* or Christ). Dante notes that the "sleep" they were awakened from was far greater (more profound/permanent) than the temporary spiritual nap he had just experienced.
+
+**Tag Resolutions:**
+- [1:+io] refers to Dante.
+- [2:mi] refers to Dante.
+- [3:+io] refers to Dante.
+- [4:+io] refers to Dante.
+- [5:mi] refers to Dante.
+- [6:+tu] refers to Dante.
+- [7:+tu] refers to Dante.
+- {8:li angeli} refers to the angels.
+- [9:+elli] refers to the angels.
+- {10:Pietro} refers to Saint Peter.
+- {11:Giovanni} refers to Saint John.
+- {12:Iacopo} refers to Saint James.
+- [13:+elli] refers to the three Apostles (Peter, John, and James).
+
+## Scene 79-81: The Diminished School
+In this brief scene, the focus remains on the three Apostles (Peter, John, and James) as they return toward the "Word" (Christ). As they move, they observe a change in the composition and appearance of their "school"—the assembly of spiritual teachers and prophets. They note that the group is "diminished" because Moses and Elijah are no longer present in the same capacity, and they observe that the "master" (Virgil) has had his "stole" (his ceremonial garment or symbol of office) changed, signifying a transformation in his status or role within this celestial hierarchy.
+
+**Tag Resolutions:**
+- `[1:+elli]` refers to the three Apostles (Peter, John, and James).
+- `{2:Moïsè}` refers to Moses.
+- `{3:Elia}` refers to Elijah.
+- `{4:al maestro}` refers to Virgil (Dante's guide and master).
+
+## Scene 82-90: The Reencounter with Beatrice
+In this scene, Dante fully returns to his conscious state after the divine slumber. Upon waking, he sees the nymph-star who had guided him through the purifying river in the previous canto. Feeling disoriented and doubtful, Dante asks the nymph where Beatrice is. The nymph responds by pointing out Beatrice, who is sitting upon the root of the newly bloomed tree (the symbolic tree of Adam), surrounded by a company of blessed souls. Meanwhile, the rest of the heavenly host continues to ascend, following the Griffin while singing a sweet and deep song.
+
+**Tag Resolutions:**
+- `[1:io]` refers to Dante.
+- `[2:+io]` refers to Dante.
+- `{3:quella pia}` refers to the nymph-star (the one who guided him through the river).
+- `[4:me]` refers to Dante.
+- `{5:conducitrice}` refers to the nymph-star.
+- `[6:+io]` refers to Dante.
+- `{7:Beatrice}` refers to Beatrice.
+- `[8:ella]` refers to the nymph-star.
+- `[9:+tu]` refers to Dante.
+- `[10:lei]` refers to Beatrice.
+- `[11:+tu]` refers to Dante.
+- `{12:la compagnia}` refers to the company (the blessed souls).
+- `[13:la]` refers to Beatrice.
+
+## Scene 91-93: The Closed Senses
+In this brief scene, Dante reflects on his own sensory state as he reunites with Beatrice. He acknowledges that Beatrice may have spoken more extensively ("lo suo parlar diffuso") than he recalls, but he admits he cannot be certain. This is because his eyes were once again completely captivated by her presence. The sight of Beatrice acts as a celestial "blindfold" or "seal," closing him off to all other sensory inputs—including the full details of her speech—because he is so intensely focused on her image. This echoes the "sensory blindness" described at the beginning of the canto.
+
+**Tag Resolutions:**
+- `[1:+io]` refers to Dante.
+- `[2:m']` refers to Dante.
+- `[3:m']` refers to Dante.
+
+## Scene 94-99: The Guard of the Nymphs
+In this scene, Dante describes the physical arrangement of the figures around the "true earth" (the base of the Tree of Adam) as he observes them upon waking.
+
+Beatrice sits alone on the ground. Dante employs a simile to describe her position, comparing her to a guard left behind by a chariot (the "plaustro")—referring back to the cord/harness he saw tied to the Griffin (the "biforme fera"). Surrounding Beatrice, the seven nymphs have arranged themselves in a circle, creating a living enclosure or "cloister" around her. They are holding lights in their hands, which Dante notes are steady and secure, unaffected by the North wind (Aquilone) or the South wind (Austro).
+
+**Tag Resolutions:**
+- `{1:guardia}` refers to Beatrice.
+- `[2:+io]` refers to Dante.
+- `[3:le]` refers to the seven nymphs.
+- `[4:sé]` refers to the seven nymphs.
+- `{5:le sette ninfe}` refers to the seven nymphs.
+- `{6:Aquilone}` refers to the North Wind.
+- `{7:Austro}` refers to the South Wind.
+
+## Scene 100-105: Beatrice's Command
+In this scene, Beatrice speaks directly to Dante, providing him with a profound reminder of his spiritual trajectory and a divine command regarding his mission as a poet.
+
+Beatrice first addresses Dante's transformation. She notes that he will only be a "silvano" (a dweller of the woods—referring to the lost state he was in at the beginning of the *Inferno*) for a short time longer. She promises him that he will instead become a "cive" (citizen) of the celestial Rome (the City of God/the New Jerusalem), where Christ is the ultimate citizen, and where Dante will spend eternity in her company.
+
+Having established his destiny, Beatrice gives Dante a specific instruction for the benefit of the suffering world: he is to keep his eyes fixed on the "carro" (the Griffin and the celestial procession) and carefully observe everything he sees. She commands him that, upon his return to the mortal world, he must write down these visions. This is a pivotal moment of divine authorization for the writing of the *Divine Comedy* itself.
+
+**Tag Resolutions:**
+- [1:tu] refers to Dante.
+- {2:silvano} refers to Dante.
+- [3:+tu] refers to Dante.
+- [4:meco] refers to Beatrice.
+- {5:cive} refers to Dante.
+- {6:Cristo} refers to Christ.
+- [7:+tu] refers to Dante.
+- [8:+tu] refers to Dante.
+- [9:+tu] refers to Dante.
+- [10:tu] refers to Dante.
+
+## Scene 106-108: Dante's Devotion
+In this brief scene, Dante describes his immediate response to Beatrice's command. Beatrice has just instructed him to watch the celestial procession and record his visions for the benefit of humanity. Dante explains that he is entirely devoted and submissive to her will, comparing his obedience to being "at the feet" of her commands. Consequently, he surrenders both his intellectual focus ("the mind") and his visual attention ("the eyes") to wherever Beatrice directs them.
+
+**Tag Resolutions:**
+- `{1:Beatrice}` refers to Beatrice.
+- `[2:io]` refers to Dante.
+- `[3:ella]` refers to Beatrice.
+
+## Scene 109-117: The Eagle's Strike
+In this scene, Dante describes a sudden and violent event. He begins with a simile, comparing the speed of what he is about to describe to a bolt of lightning descending from a distant storm cloud. 
+
+Dante observes the "bird of Jove"—a great eagle—diving rapidly downward. The eagle plunges through the branches of the symbolic tree (the Tree of Adam), tearing not only through the new leaves and flowers but breaking through the bark itself. The eagle then strikes the "carro" (the Griffin/celestial chariot) with immense force. The impact is so powerful that the Griffin sways and bends, which Dante compares to a ship tossed by the waves of a stormy sea, shifting precariously from side to side.
+
+**Tag Resolutions:**
+- `[1:io]` refers to Dante.
+- `{2:Giove}` refers to Jove (Jupiter), whose symbolic bird is the eagle.
+
+## Scene 118-123: The Attack of the Fox
+In this scene, Dante observes a new threat attempting to approach the celestial procession.
+
+Immediately following the eagle's strike, Dante sees a fox venture toward the "cradle" (the seating area or the hold) of the triumphal vehicle (the Griffin). Dante describes the fox as appearing "fasting" or starved of any "good meal," which symbolically suggests the fox's nature as one driven by greed, malice, or spiritual hunger.
+
+However, Beatrice intervenes. She reproaches the fox for its blameworthy faults and delivers a beating so severe that it is described as pushing the fox to the absolute limit of what its "fleshless bones" could endure. This represents the divine rejection and punishment of the fraud or heresy that the fox symbolizes.
+
+**Tag Resolutions:**
+- `[1:+io]` refers to Dante.
+- `{2:la donna mia}` refers to Beatrice.
+
+## Scene 124-129: The Descent of the Needle
+In this scene, Dante observes the arrival of a third symbolic beast following the eagle and the fox. He sees "l'aguglia" (the needle, likely referring to a small, sharp-beaked bird or a symbolic representation of a specific spiritual parasite) descend from the same direction as the previous attacks. The needle plunges into the "arca" (the hold or cradle) of the Griffin’s chariot and leaves behind its feathers.
+
+Following this intrusion, a voice descends from heaven. Dante describes the quality of this voice by comparing it to the sound made by someone who is filled with regret or lamentation. The voice addresses the celestial vessel, calling it "my little ship" (navicella mia) and lamenting how "badly" it is loaded. This suggests that the Griffin, which carries the righteous, is being burdened or corrupted by these predatory symbols (the eagle, the fox, and the needle), and the voice from heaven—representing God—expresses sorrow over this contamination of the human lineage/spiritual procession.
+
+**Tag Resolutions:**
+- `[1:+io]` refers to Dante.
+- `[2:si]` refers to the voice from heaven (God).
+- `{3:tal voce}` refers to the voice from heaven (God).
+- `[4:cotal]` refers to the voice from heaven (God).
+
+## Scene 130-135: The Dragon's Emergence
+In this scene, Dante witnesses a frightening development as the celestial procession continues. He sees the ground open up between the "wheels" (the celestial orbits), and from this breach, a dragon emerges. The dragon attacks the Griffin's chariot by thrusting its tail upward and fixing it into the vehicle. Then, in a movement compared to a wasp withdrawing its stinger, the dragon pulls its malicious tail back down toward itself. Finally, the dragon remains there, staring intently or wanderingly (depending on the translation of "vago vago") at the chariot from below.
+
+**Tag Resolutions:**
+- [1:me] refers to Dante.
+- [2:+io] refers to Dante.
+- [3:+lui] refers to the dragon.
+- [4:+lui] refers to the dragon.
+
+## Scene 136-141: The Covering of the Earth
+In this scene, Dante describes the aftermath of the attacks on the Griffin's chariot, specifically focusing on the residue left by the "needle" (the bird-like creature from Scene 124-129).
+
+Dante notes that something remained—the feather left behind by the needle. He suggests that this feather might have been "offered" (placed there) with a seemingly "healthy and benign intention," though it was part of an attack. Using a simile comparing the process to the way lively weeds (gramigna) cover the earth, Dante describes how this remnant quickly covers itself and is, in turn, covered up. 
+
+The scene emphasizes the incredible speed of this restoration; the feather, along with the wheels and the shaft (temo) of the chariot, are obscured or restored in the briefest of moments—the time it takes for a sigh to leave the mouth. This signifies the celestial vehicle's ability to purge or absorb the remnants of these symbolic attacks, returning to its divine purity.
+
+**Tag Resolutions:**
+- `[1:Quel]` refers to the feather (left by the "needle"/bird).
+- `[2:si]` refers to the feather (left by the "needle"/bird).
+
+## Scene 142-147: The Appearance of the Monster
+In this scene, the focus is on the sudden and surreal transformation of the celestial vehicle.
+
+**Plain English Summary:**
+The "holy structure" (the Griffin's chariot/vehicle) undergoes a metamorphosis. It sprouts several heads from its various parts: three heads appear upon the shaft (the *temo*), and one head appears in each of the four corners. Dante describes the nature of these heads: the first three are horned like oxen, while the four corner heads each possess a single horn (like unicorns). Dante concludes by noting that such a strange and marvelous "monster" had never been seen before.
+
+**Tag Resolutions:**
+There were no numbered tags provided in the text for this scene. However, for the sake of narrative continuity:
+- **'l dificio santo** (the holy building/structure) refers to the Griffin's chariot/vehicle.
+- **mostro** (monster) refers to the transformed appearance of the chariot with its multiple horned heads.
+
+## Scene 148-153: The Proximity of the Giant
+In this scene, Dante witnesses another surreal and disturbing vision as he continues to observe the celestial vehicle. He sees a woman described as a "loose prostitute" (`{1:una puttana sciolta}`) perched high up and secure, like a fortress on a mountain. She appears to him with a watchful or alert expression. Beside her stands a giant (`{8:un gigante}`), and Dante observes that the giant seems to be guarding her, as if to ensure she is not taken away from him. The scene concludes with the two of them—the prostitute and the giant—kissing one another.
+
+**Tag Resolutions:**
+- `{1:una puttana sciolta}` refers to the prostitute.
+- `[2:+ella]` refers to the prostitute.
+- `[3:m']` refers to Dante.
+- `[4:+ella]` refers to the prostitute.
+- `[5:li]` refers to the giant.
+- `[6:+io]` refers to Dante.
+- `[7:lei]` refers to the prostitute.
+- `{8:un gigante}` refers to the giant.
+- `[9:+elli]` refers to the prostitute and the giant.
+
+## Scene 154-160: The Final Violence
+**Scene Analysis: The Final Violence**
+
+In this scene, the tension between the observer (Dante) and the surreal figures he is witnessing reaches a violent climax. Dante’s "greedy and wandering eye"—his intense curiosity as he observes these celestial anomalies—attracts the attention of the giant. 
+
+The giant, described as a "fierce drudo" (a sorcerer or menacing figure), reacts with sudden rage and suspicion. He turns his anger toward the prostitute, brutally whipping her from head to toe. Following this outburst, the giant releases the "monster" (the multi-headed, horned vehicle described in the previous scene) and vanishes into the celestial forest. As he departs, he moves in such a way that the prostitute and the monster act as a physical screen or shield between himself and Dante.
+
+**Tag Resolutions:**
+
+- `[1:me]` refers to **Dante**.
+- `{2:quel feroce drudo}` refers to **the giant**.
+- `[3:+ei]` refers to **the giant**.
+- `[4:la]` refers to **the prostitute**.
+- `[5:+ei]` refers to **the giant**.
+- `{6:il mostro}` refers to **the monster** (the multi-headed, horned vehicle).
+- `[7:+ei]` refers to **the giant**.
+- `[8:lei]` refers to **the prostitute**.
+- `[9:+ei]` refers to **the giant**.
+- `[10:mi]` refers to **Dante**.
+- `{11:la puttana}` refers to **the prostitute**.
+- `{12:la nova belva}` refers to **the new beast** (the monster/horned vehicle).
+
+# recap
+- Dante, Beatrice, the seven nymphs, and the blessed souls are traveling on the Griffin by the bloomed Tree of Adam.
+- Dante has just witnessed a series of disturbing symbolic attacks and surreal visions involving a multi-headed monster, a prostitute, and a giant.
+- Beatrice has commanded Dante to carefully observe the celestial procession and record these visions upon his return to the mortal world.
