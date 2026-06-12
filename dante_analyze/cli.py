@@ -1,12 +1,12 @@
-"""Read-only query CLI over the committed analysis outputs (scenes / reading / bullets / tags)."""
+"""Read-only query CLI over the committed analysis outputs (scenes / reading / tags)."""
 import argparse
 import json
 import sys
 
-from ._paths import SCENE_DIR, READING_DIR, BULLETS_DIR, TAGS_DIR
+from ._paths import SCENE_DIR, READING_DIR, TAGS_DIR
 from .checkpoint import out_path
 
-_DIRS = {"reading": READING_DIR, "bullets": BULLETS_DIR, "tags": TAGS_DIR}
+_DIRS = {"reading": READING_DIR, "tags": TAGS_DIR}
 
 
 def _show(layer, canticle, canto):

@@ -1,52 +1,54 @@
 """
-Per-tag resolution for Dante's Divine Comedy (analysis step, pre-processing).
+Identity-first per-tag resolution for Dante's Divine Comedy (analysis step, pre-processing).
 
-Names every numbered person-reference of a scene: one `n. Name` line per tag, in SOURCE
-(Italian) spelling. This is the AUTHORITATIVE channel the downstream passes consume.
+Names every numbered person-reference of a scene: one `n. Name` line per tag, where Name is
+the MOST SPECIFIC identification the committed reading establishes, in SOURCE (Italian)
+spelling. This is the AUTHORITATIVE channel the downstream passes consume (see PLAN.md in
+this directory for the full design and the 05-tags history it replaces).
 
-Why this is its own pass (split from bullets.py). Naming a tag is a different, harder job
-than the English "who did what" bullets: it needs judgment-heavy coreference (which person
-is this pronoun?) plus source spelling, where the bullets need fluency. On this project a
-fast MoE writes good bullets but drifts WHO on hard passages, while the strongest reader
-resolves them — so bullets.py runs the fluent model for bullets, and tags.py runs the reader
-model for this (ARCHITECTURE §11/§13).
+Identity-first (the change from the old 05-tags). The old epithet rule committed `anima`
+where the reading said "specifically Beatrice" and `Poeta` where it said Virgil — data
+strictly poorer than the reading it was built from. Here a figure the reading identifies by
+proper name gets that name (`Beatrice`, `Virgilio`) even when this scene's text has not
+uttered it; only a figure the reading itself tracks by epithet alone (a beast, a simile
+figure, a generic) keeps the source-text epithet. The tag's SURFACE form is not the model's
+job at all — `number_scene`'s meta carries it, so code can pair surface with identity
+mechanically (ARCHITECTURE §12).
 
-It binds DIRECTLY to the committed reading — the bullets are NOT shown here. WHO drift
-used to leak bullets -> resolution (a bullet re-attached a tag, the table followed); resolving
-straight from the proofread reading removes that path, so the faster bullet model's drift can't
-poison the authoritative tags.
+It binds DIRECTLY to the committed reading. WHO drift used to leak from a re-expression
+layer into the resolution; resolving straight from the reading removes that path, and the
+turn is narrowed so the model cannot re-decide WHO — it only enumerates and spells.
 
 Pipeline position:
     markup.py  -> every person-reference marked, numbered by scenelib
     reading.py -> a free prose reading per scene             [committed, no check]
-    bullets.py -> tag-citing English bullets                 [coverage-checked, fast model]
-    tags.py    -> `n. Name` source-spelling resolution (this)[checked, reader model]
+    tags.py    -> `n. Name` identity resolution (this)       [structure-checked, reader model]
+    (downstream) registry + relations + KG assembly          [not yet built]
 
 One generation pass (`-m`, the larger Gemma reader) per scene, two turns over one conversation:
       Turn 1  the committed reading, replayed as the assistant's reasoning turn.
       Turn 2  the resolution table, one numbered `n. Name` line per tag — line n is tag [n]
               (a plain numbered list, NOT bracketed, so it doesn't reuse the tags' own
-              `[..]`/`{..}` delimiters), in SOURCE spelling.
+              `[..]`/`{..}` delimiters).
 Chain-of-thought is ON by default (`--no-think` disables it): naming a tag is judgment-heavy
 coreference, so the extra deliberation helps; the runaway guard (scenelib.call_llm) covers the
 added risk, and Ollama routes the thinking to its own channel so resp.text stays clean
 (ARCHITECTURE §1). Turn 2 is checked (every tag named once, none extra/empty, no pronoun echoed)
 and retried on failure; the reply is normalized with scenelib.unbrace first.
 
-WHO each tag is is NOT re-decided here. The reading already fixed it and is in the conversation
-verbatim — replayed as the assistant's reasoning turn — so the turn is narrowed to SOURCE
-SPELLING ONLY: keep the reading's identification, spell it in the form the source text uses.
-Letting this pass re-derive the referent regressed it (an epithet of a named figure left
-un-named, a resolved tag downgraded to `(unknown)`), so that freedom is removed (ARCHITECTURE
-§11). The interpretation the check cannot verify (is [1] really God?) is hand-proofread.
+Orthography is code's job, not the model's: every parsed label runs through
+scenelib.fix_elision BEFORE the check and BEFORE the rendered table re-enters the
+conversation history (ARCHITECTURE §12) — the old 05-tags prompt clause that asked the model
+to correct elisions over-corrected (`l'altra` -> `la altra`) and is gone.
 
-The output is PLAIN TEXT, not JSON (memory gemma-cot-plaintext). The resolution keeps the
-source spelling (`Virgilio`), since it is the data the downstream passes consume.
+The output is PLAIN TEXT, not JSON (memory gemma-cot-plaintext). The interpretation the check
+cannot verify (is [4] really Beatrice?) is inherited from the reading and ships as generated
+(no hand-proofreading; root PLAN.md "Decisions to keep").
 
-Input:  02-markup/<canticle>/NN-4.txt            (markup.py final output; run it first)
-        03-reading/<canticle>/NN.txt             (reading.py prose; run it first)
-        scene ranges + names                  (from the dante_corpus API)
-Output: 05-tags/<canticle>/NN.txt                (committed, hand-editable). Per scene a
+Input:  02-markup/<canticle>/NN.txt             (markup.py final output; run it first)
+        03-reading/<canticle>/NN.txt            (reading.py prose; run it first)
+        scene ranges + names                 (from the dante_corpus API)
+Output: 04-tags/<canticle>/NN.txt               (committed, hand-editable). Per scene a
         `## Scene s-e: name` block of `n. Name` lines. The file is the checkpoint: a scene
         already present is skipped, so an interrupted run resumes. Delete to regenerate.
 """
@@ -56,8 +58,9 @@ import sys
 
 from dante_analyze import (
     TAGS_DIR, READING_DIR, MAX_LENGTH, available_cantos, load_scenes, read_markup,
-    load_readings, number_scene, unbrace, call_llm, step_sep, build_reason_prompt,
-    out_path, done_scene_ends, restore_blocks, render_scene_block, append_canto,
+    load_readings, number_scene, unbrace, fix_elision, call_llm, step_sep,
+    build_reason_prompt, out_path, done_scene_ends, restore_blocks, render_scene_block,
+    append_canto,
 )
 
 OUT_DIR = TAGS_DIR
@@ -72,12 +75,15 @@ RESOLVE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
 def parse_resolution(text):
     """{tag_no: name} from the numbered 'n. Name' lines of a reply (last wins on dup).
     Line number n is tag [n]; a plain numbered list is used (not bracketed `[n] =`) so the
-    resolution doesn't reuse the `[..]`/`{..}` delimiters that mark the tags themselves."""
+    resolution doesn't reuse the `[..]`/`{..}` delimiters that mark the tags themselves.
+    Every label passes through fix_elision here — a mechanical repair code owns
+    (ARCHITECTURE §12), applied before the check and before the rendered table re-enters
+    the conversation history, so the model never sees its own un-elided quirk."""
     out = {}
     for raw in text.splitlines():
         m = RESOLVE_RE.match(raw)
         if m:
-            out[int(m.group(1))] = m.group(2)
+            out[int(m.group(1))] = fix_elision(m.group(2))
     return out
 
 
@@ -92,7 +98,7 @@ def check_tags(resolution, k, tagmeta):
     """Check the resolution of a scene with tags 1..k. Returns a list of problems (empty = OK):
     every tag named exactly once, nothing extra or empty, and a pronoun tag resolved to a NAME
     rather than echoed verbatim. Proves STRUCTURE only — whether the name is the RIGHT person is
-    interpretation, left to proofreading."""
+    interpretation, inherited from the reading and shipped as generated."""
     problems = []
     expected = set(range(1, k + 1))
     for n in sorted(resolution):
@@ -112,13 +118,10 @@ def check_tags(resolution, k, tagmeta):
 def build_resolution_prompt(k):
     """The reading is already in the conversation verbatim (replayed as the assistant's
     reasoning turn) and it ALREADY established who each tag refers to, so this turn does NOT
-    re-decide the referent — re-deriving it regressed identifications (an epithet of a named
-    figure left un-named, resolved tags downgraded to `(unknown)`). The task is narrowed to
-    SOURCE SPELLING: keep the reading's WHO, in Italian. The one correction allowed is purely
-    orthographic — a malformed elision where an elided article appears before a consonant-initial
-    word may be normalized to the full article form or bare lemma; required elisions before
-    vowel-initial words must be preserved. Word/epithet choice stays fixed. It does NOT enforce
-    cross-scene spelling consistency (tags is per-scene); that stays with the reading authority."""
+    re-decide the referent — it enumerates the reading's identifications, identity-first: the
+    most specific identification the reading gives, in source spelling. No orthography
+    correction is requested (fix_elision runs in code); no surface-form preservation is
+    requested (number_scene's meta carries the surface)."""
     return f"""Give the resolution table for the scene above: for EVERY tag from [1] to [{k}], one
 numbered line
 
@@ -127,30 +130,25 @@ numbered line
 where line number n names the PERSON or being that tag `[n]` refers to (line 1 is tag [1],
 line 2 is tag [2], …). Use a PLAIN NUMBERED LIST (`1.`, `2.`, …) — do NOT bracket the number,
 since `[..]`/`{{..}}` are the tags' own markup and the resolution should not reuse them.
-This is a SPELLING-NORMALIZATION step, NOT a re-interpretation: your reading above already
+
+This is an ENUMERATION of your reading above, NOT a re-interpretation: the reading already
 established who each tag is, and that identification is FIXED. KEEP it exactly — do NOT change
-who a tag refers to, do NOT swap a person for an abstraction, and do NOT downgrade any of them to
-`(unknown)`. Your ONLY task here is to rewrite each label in SOURCE (Italian) spelling: convert
-an anglicized name back to the form the source text uses, and keep a source-text epithet in its
-original words.
+who a tag refers to, do NOT swap a person for an abstraction, and do NOT downgrade any of them
+to `(unknown)`.
+
+For each tag, write the MOST SPECIFIC identification the reading gives, in SOURCE (Italian)
+spelling:
+- If the reading identifies the figure by a PROPER NAME — even one this scene's text has not
+  uttered yet — use that proper name, in the spelling the work itself uses, never the English
+  exonym.
+- If the reading tracks the figure only by an EPITHET or periphrasis (a personification, a
+  beast, a simile figure, a generic "anyone"), use that source-text epithet — the exact words
+  the text uses — and use the SAME label for every tag referring to it in this scene.
+- If one tag covers SEVERAL figures at once, name them all on its one line, separated by
+  commas.
 
 NEVER echo the pronoun itself — `1. io`, `2. mi`, `3. i'` are all wrong; a tag must resolve to a
 referent (the first-person narrator is `Dante`).
-
-How to spell the label:
-- A figure with a proper name: use the SOURCE spelling, not the English exonym (the
-  form the work itself uses, not its English translation).
-- A figure named only by an EPITHET or periphrasis, with no proper name in the text
-  (a personification, or a figure the text has not yet named): label it with that
-  source-text epithet — the exact words the text uses — and use the SAME label for
-  every tag referring to it.
-- Spell the word as the source writes it. Where the source contains an ELIDED article
-  (`l'`, `dell'`, `nell'`, `sull'`, `un'`, etc.), KEEP the elision — Italian requires
-  elision before a vowel-initial word, so `l'altra`, `dell'ombra`, `un'altra` are
-  correct and must not be expanded. Correct ONLY a genuinely malformed contraction
-  where an elided article `'l` or `l'` appears before a consonant-initial word (an
-  error the model synthesized) — in that case give the correct full article form or
-  bare lemma. Word and epithet choice stays fixed; this is purely orthographic.
 
 Reserve `(unknown)` only for a tag the reading itself left unidentified.
 
@@ -164,10 +162,10 @@ def build_retry_prompt(problems, k):
 
 Produce it again, fixing these problems. Output one numbered line `n. Name` for every tag from
 1 to {k} (line n = tag [n]; a plain numbered list, not bracketed), and nothing else. Every tag
-1-{k} must be named exactly once; do not name any tag outside 1-{k}. A resolution must name a
-PERSON in SOURCE spelling, never echo the pronoun (`1. io` is wrong; the first-person narrator
-is `Dante`). If a flagged pronoun's referent genuinely cannot be identified, write
-`n. (unknown)` rather than repeating the pronoun word."""
+1-{k} must be named exactly once; do not name any tag outside 1-{k}. A resolution names the
+most specific identification the reading gives, in SOURCE spelling, never the pronoun itself
+(`1. io` is wrong; the first-person narrator is `Dante`). If a flagged pronoun's referent
+genuinely cannot be identified, write `n. (unknown)` rather than repeating the pronoun word."""
 
 
 # ---------- per-scene driver ----------
@@ -176,8 +174,8 @@ def tags_scene(canto, canto_title, s, e, scene_name, tagged, k, tagmeta, reading
                model, include_thoughts, max_attempts):
     """Produce one scene's resolution table with `model`, gated by the check. Two turns over
     one conversation: the committed reading is replayed as the assistant's reasoning turn (built
-    on the same reason prompt, no cross-canto context), then the table — narrowed to
-    source-spelling of the WHO the reading already fixed (still in context), not a re-derivation.
+    on the same reason prompt, no cross-canto context), then the table — an identity-first
+    enumeration of the WHO the reading already fixed (still in context), not a re-derivation.
     `include_thoughts` toggles chain-of-thought (on by default; see module docstring). Returns
     resolution_text, keeping the last draft even if unresolved (flagged by caller)."""
     if k == 0:
@@ -268,12 +266,12 @@ def tags_canto(canticle, canto, gen_model, include_thoughts, max_attempts=3):
 def cmd_run(canticle, gen_model, only_canto, include_thoughts):
     cantos = available_cantos(canticle)
     if not cantos:
-        print(f"Error: no NN-4 markup for {canticle} (run markup.py first)", file=sys.stderr)
+        print(f"Error: no markup for {canticle} (run markup.py first)", file=sys.stderr)
         sys.exit(1)
     if only_canto is not None:
         if only_canto not in cantos:
             print(f"Error: Canto {only_canto} not found for {canticle} "
-                  f"(no 02-markup/{canticle}/{only_canto:02d}-4.txt)", file=sys.stderr)
+                  f"(no markup output for canto {only_canto:02d})", file=sys.stderr)
             sys.exit(1)
         targets = [only_canto]
     else:
@@ -291,8 +289,8 @@ def cmd_run(canticle, gen_model, only_canto, include_thoughts):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Per-tag source-spelling resolution for Dante's Divina Commedia: per-scene "
-                    "`n. Name` table, bound to the committed reading (see PLAN.md).")
+        description="Identity-first per-tag resolution for Dante's Divina Commedia: per-scene "
+                    "`n. Name` table, bound to the committed reading (see 04-tags/PLAN.md).")
     parser.add_argument("canticles", nargs="+", help="Canticle name(s), e.g. inferno")
     parser.add_argument("-m", "--model", default=DEFAULT_MODEL,
                         help=f"LLM for generation (default: {DEFAULT_MODEL})")

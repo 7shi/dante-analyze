@@ -9,8 +9,7 @@ shared corpus from `dante-corpus`, owns the scene segmentation, and runs the LLM
 - `01-scenes/` — scene segmentation JSON (committed)
 - `02-markup/` — person-reference markup (intermediate)
 - `03-reading/` — free prose reading per scene (committed)
-- `04-bullets/` — "who did what" bullets (committed)
-- `05-tags/` — `n. Name` resolution per tag (committed)
+- `04-tags/` — `n. Name` identity-first resolution per tag (committed)
 - `ref/` — reference material
 
 ## Usage
@@ -44,9 +43,8 @@ your-workspace/
 ## Generation
 
 ```bash
-make markup-all   # markup steps 1-4
+make markup
 make reading
-make bullets
 make tags
 ```
 
@@ -57,7 +55,6 @@ See [`dante_analyze/README.md`](dante_analyze/README.md) for the full CLI and AP
 ```bash
 uv run dante-analyze scenes  show inferno 1
 uv run dante-analyze reading show inferno 1
-uv run dante-analyze bullets show inferno 1
 uv run dante-analyze tags    show inferno 1
 ```
 

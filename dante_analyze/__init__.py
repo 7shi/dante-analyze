@@ -1,4 +1,4 @@
-from ._paths import SCENE_DIR, MARKUP_DIR, READING_DIR, BULLETS_DIR, TAGS_DIR
+from ._paths import SCENE_DIR, MARKUP_DIR, READING_DIR, TAGS_DIR
 from .llm import MAX_LENGTH, LLM_RETRIES, call_llm, step_sep
 from .corpus import read_markup, available_cantos, load_scenes
 from .marks import number_scene, parse_bullets, unbrace, fix_elision, ELIDE_RE
@@ -12,7 +12,7 @@ from .prompts import build_reason_prompt
 
 __all__ = [
     # output dirs (project root)
-    "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "BULLETS_DIR", "TAGS_DIR",
+    "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "TAGS_DIR",
     # LLM boundary
     "MAX_LENGTH", "LLM_RETRIES", "call_llm", "step_sep",
     # inputs / corpus

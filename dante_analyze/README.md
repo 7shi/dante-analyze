@@ -16,7 +16,7 @@ Prints the committed checkpoint file for the given layer, canticle, and canto to
 
 | Parameter   | Description                                         |
 |-------------|-----------------------------------------------------|
-| `layer`     | `scenes` / `reading` / `bullets` / `tags`           |
+| `layer`     | `scenes` / `reading` / `tags`                       |
 | `canticle`  | e.g. `inferno`, `purgatorio`, `paradiso`            |
 | `canto`     | integer canto number                                |
 
@@ -25,7 +25,6 @@ Prints the committed checkpoint file for the given layer, canticle, and canto to
 ```bash
 dante-analyze scenes  show inferno 1
 dante-analyze reading show inferno 1
-dante-analyze bullets show purgatorio 10
 dante-analyze tags    show paradiso 33
 ```
 
@@ -37,14 +36,13 @@ Exits with status 1 and an error message to stderr if the file does not exist.
 
 ```
 01-scenes/   <canticle>/NN.json    scene JSON (committed)
-02-markup/   <canticle>/NN-4.txt   markup lines (gitignored; input to passes)
+02-markup/   <canticle>/NN.txt     markup lines
 03-reading/  <canticle>/NN.txt     reading pass output
-04-bullets/  <canticle>/NN.txt     bullets pass output
-05-tags/     <canticle>/NN.txt     tags pass output
+04-tags/     <canticle>/NN.txt     tags pass output
 ```
 
 Path constants are exported from `dante_analyze`:
-`SCENE_DIR`, `MARKUP_DIR`, `READING_DIR`, `BULLETS_DIR`, `TAGS_DIR`.
+`SCENE_DIR`, `MARKUP_DIR`, `READING_DIR`, `TAGS_DIR`.
 
 ---
 
@@ -143,7 +141,7 @@ Exits with an error if the file is absent.
 ```python
 load_tags(canticle, canto) -> dict[tuple[int, int], dict[int, str]]
 ```
-Loads `{(start, end): {tag_no: name}}` from `05-tags/<canticle>/NN.txt`.
+Loads `{(start, end): {tag_no: name}}` from `04-tags/<canticle>/NN.txt`.
 Each `n. Name` line becomes `{n: name}`. Exits with an error if the file is absent.
 
 ```python
@@ -216,6 +214,6 @@ Prints `\n--- title ---` as a progress separator.
 build_reason_prompt(canto, canto_title, s, e, scene_name, tagged, prior, recap) -> str
 ```
 Constructs the Turn-1 user message for the free-interpretation reasoning step shared
-by `reading.py`, `bullets.py`, and `tags.py`. Includes optional carry-forward context
+by `reading.py` and `tags.py`. Includes optional carry-forward context
 (`recap` from the previous canto, `prior` reading of earlier scenes in this canto).
 `tagged` is the numbered scene text produced by `number_scene`.

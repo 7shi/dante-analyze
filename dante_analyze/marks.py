@@ -15,8 +15,10 @@ def number_scene(lines, s, e):
     "name" for a `{..]` person name, surface is the marked word(s) (the leading
     `+` of a supplied subject dropped). The n-th mark in appearance order becomes
     `[n:…]` / `{n:…}` (number after the opening delimiter, original delimiter kept);
-    04-bullets/resolution then refer to a mark as the bare `[n]`. `meta` lets the
-    coverage check catch a pronoun tag whose resolution merely echoes the pronoun."""
+    the tags resolution then refers to a mark as the bare `[n]`. `meta` lets the
+    check catch a pronoun tag whose resolution merely echoes the pronoun, and carries
+    each tag's SURFACE form so downstream code can pair surface with identity without
+    asking the LLM for it (ARCHITECTURE §12)."""
     counter = 0
     meta = {}
     out = []
@@ -53,11 +55,14 @@ def unbrace(text):
     return text.replace("{", "[").replace("}", "]").replace("`", "")
 
 
-# Elision auto-fix. tags.py's de-elision rule over-corrects: it un-elides even where Italian
-# REQUIRES elision before a vowel, leaving `l'altra` as `la altra` (verify_tags.py / PLAN.md
-# "Known residual"). These determiners all elide the same way — drop the final vowel and join
-# the next word with an apostrophe (`lo`->`l'`, `una`->`un'`, `nello`->`nell'`, `quella`->
-# `quell'`) — so the repair is mechanical. The apostrophe written is U+0027 (ASCII `'`).
+# Elision auto-fix. The model sometimes writes a label with an elidable determiner left
+# un-elided where Italian REQUIRES elision before a vowel (`l'altra` as `la altra`). This is a
+# mechanical quirk with one canonical form, so tags.py applies the repair IN CODE at generation
+# time (ARCHITECTURE §12) — no prompt clause asks the model to fix orthography (the old 05-tags
+# clause over-corrected; see PLAN.md history). These determiners all elide the same way — drop
+# the final vowel and join the next word with an apostrophe (`lo`->`l'`, `una`->`un'`,
+# `nello`->`nell'`, `quella`->`quell'`). The apostrophe written is U+0027 (ASCII `'`).
+# verify_tags.py keeps the check as a regression guard and `--fix` repairs older files.
 ELIDE_WORDS = (
     "lo", "la", "una",
     "dello", "della", "nello", "nella", "allo", "alla",

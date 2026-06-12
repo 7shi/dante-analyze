@@ -97,8 +97,8 @@ def append_canto(path, canto, canto_title, blocks, recap=None):
 
 def load_readings(canticle, canto):
     """{(start, end): prose} for a canto from 03-reading/<canticle>/NN.txt, or exit if the
-    file is absent. The prose is the scene block minus its `## Scene` header. Both digest.py
-    and tags.py replay this committed reading as the assistant's reasoning turn."""
+    file is absent. The prose is the scene block minus its `## Scene` header. tags.py
+    replays this committed reading as the assistant's reasoning turn."""
     path = out_path(READING_DIR, canticle, canto)
     if not path.exists():
         print(f"Error: reading not found: {path} (run 03-reading/reading.py first)", file=sys.stderr)
@@ -107,14 +107,13 @@ def load_readings(canticle, canto):
 
 
 def load_tags(canticle, canto):
-    """{(start, end): {tag_no: name}} for a canto from 05-tags/<canticle>/NN.txt, or exit if the
+    """{(start, end): {tag_no: name}} for a canto from 04-tags/<canticle>/NN.txt, or exit if the
     file is absent — the authoritative per-scene referent table the downstream consumes. Each
-    `n. Name` line becomes {n: name}, the labels exactly as committed. (Elision is NOT touched
-    here; `fix_elision` exists as a separate utility, applied explicitly by `verify_tags.py
-    --fix`.)"""
+    `n. Name` line becomes {n: name}, the labels exactly as committed (tags.py already applied
+    `fix_elision` at generation time; `verify_tags.py --fix` repairs older files)."""
     path = out_path(TAGS_DIR, canticle, canto)
     if not path.exists():
-        print(f"Error: tags not found: {path} (run 05-tags/tags.py first)", file=sys.stderr)
+        print(f"Error: tags not found: {path} (run 04-tags/tags.py first)", file=sys.stderr)
         sys.exit(1)
     out = {}
     for (s, e), body in scene_bodies(path).items():
