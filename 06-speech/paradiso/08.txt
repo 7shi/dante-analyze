@@ -1,0 +1,15 @@
+# Canto 08 — The Descent of the Celestial Light and the Mystery of Providence
+- 8:29 lines 29-29 | speaker: (unattributed) | signal: none | flags: -
+- 8:32 lines 32-39 | speaker: (unattributed) | signal: none | flags: plural
+- 8:37 lines 37-37 | speaker: (unattributed) | signal: none | flags: -
+- 8:44 lines 44-44 | speaker: (unattributed) | signal: none | flags: -
+- 8:49 lines 49-84 | speaker: Sibilla | signal: strong | flags: cross-scene
+- 8:75 lines 75-75 | speaker: (unattributed) | signal: none | flags: -
+- 8:85 lines 85-93 | speaker: Dante | signal: strong | flags: -
+- 8:94 lines 94-112 | speaker: Sibilla Cumana | signal: strong | flags: -
+- 8:113 lines 113-114 | speaker: Dante | signal: strong | flags: -
+- 8:115 lines 115-116 | speaker: (unattributed) | signal: none | flags: -
+- 8:117A lines 117-117 | speaker: (unattributed) | signal: none | flags: -
+- 8:117B lines 117-117 | speaker: Dante | signal: strong | flags: -
+- 8:118 lines 118-120 | speaker: (unattributed) | signal: none | flags: -
+- 8:122 lines 122-148 | speaker: Sibilla Cumana | signal: strong | flags: cross-scene

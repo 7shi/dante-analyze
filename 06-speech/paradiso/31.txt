@@ -1,0 +1,9 @@
+# Canto 31 — The Vision of the Celestial Rose and the Guidance of Saint Bernard
+- 31:64 lines 64-64 | speaker: (unattributed) | signal: none | flags: -
+- 31:65 lines 65-69 | speaker: Bernardo | signal: weak | flags: -
+- 31:79 lines 79-90 | speaker: Dante | signal: strong | flags: -
+- 31:94 lines 94-95 | speaker: (unattributed) | signal: none | flags: -
+- 31:95 lines 95-102 | speaker: Bernardo | signal: strong | flags: -
+- 31:107 lines 107-108 | speaker: (unattributed) | signal: none | flags: -
+- 31:112 lines 112-112 | speaker: (unattributed) | signal: none | flags: -
+- 31:113 lines 113-117 | speaker: (unattributed) | signal: none | flags: -

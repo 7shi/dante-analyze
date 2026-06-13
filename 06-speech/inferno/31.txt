@@ -1,0 +1,13 @@
+# Canto 31 — The Encounter with the Giants and the Descent with Antaeus
+- 31:21 lines 21-21 | speaker: (unattributed) | signal: none | flags: -
+- 31:22 lines 22-27 | speaker: (unattributed) | signal: none | flags: -
+- 31:29 lines 29-33 | speaker: (unattributed) | signal: none | flags: plural
+- 31:67 lines 67-67 | speaker: (unattributed) | signal: none | flags: -
+- 31:70 lines 70-75 | speaker: (unattributed) | signal: none | flags: -
+- 31:76 lines 76-81 | speaker: (unattributed) | signal: none | flags: plural
+- 31:91 lines 91-92 | speaker: (unattributed) | signal: none | flags: -
+- 31:93 lines 93-96 | speaker: (unattributed) | signal: none | flags: -
+- 31:97 lines 97-99 | speaker: Dante | signal: strong | flags: -
+- 31:100 lines 100-105 | speaker: (unattributed) | signal: none | flags: plural
+- 31:115 lines 115-129 | speaker: (unattributed) | signal: none | flags: -
+- 31:134 lines 134-134 | speaker: Virgilio | signal: strong | flags: -

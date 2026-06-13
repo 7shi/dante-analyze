@@ -1,0 +1,8 @@
+# Canto 07 — Beatrice's Theological Discourse on the Incarnation and Redemption
+- 7:1 lines 1-3 | speaker: (unattributed) | signal: none | flags: -
+- 7:10 lines 10-10 | speaker: (unattributed) | signal: none | flags: -
+- 7:11A lines 11-11 | speaker: (unattributed) | signal: none | flags: -
+- 7:11B lines 11-12 | speaker: Dante | signal: weak | flags: -
+- 7:19 lines 19-148 | speaker: Beatrice | signal: strong | flags: cross-scene
+- 7:55 lines 55-57 | speaker: Dante | signal: strong | flags: -
+- 7:124 lines 124-129 | speaker: Dante | signal: strong | flags: -

@@ -1,0 +1,17 @@
+# Canto 33 — The Tale of Count Ugolino and the Frozen Souls
+- 33:4 lines 4-75 | speaker: (unattributed) | signal: none | flags: multi(Ugolino;conte Ugolino;quel peccator), cross-scene
+- 33:51 lines 51-51 | speaker: (unattributed) | signal: none | flags: -
+- 33:61 lines 61-63 | speaker: (unattributed) | signal: none | flags: plural
+- 33:69 lines 69-69 | speaker: Gaddo | signal: weak | flags: -
+- 33:104 lines 104-105 | speaker: (unattributed) | signal: none | flags: -
+- 33:106 lines 106-108 | speaker: (unattributed) | signal: none | flags: -
+- 33:110 lines 110-114 | speaker: un de' tristi | signal: strong | flags: -
+- 33:115 lines 115-117 | speaker: Dante | signal: strong | flags: -
+- 33:118 lines 118-120 | speaker: frate Alberigo | signal: strong | flags: -
+- 33:121A lines 121-121 | speaker: (unattributed) | signal: none | flags: -
+- 33:121B lines 121-121 | speaker: (unattributed) | signal: none | flags: -
+- 33:122 lines 122-138 | speaker: (unattributed) | signal: none | flags: multi(Fra Alberigo;frate Alberigo), cross-scene
+- 33:139A lines 139-139 | speaker: Dante | signal: strong | flags: -
+- 33:139B lines 139-141 | speaker: Dante | signal: weak | flags: -
+- 33:142A lines 142-142 | speaker: (unattributed) | signal: none | flags: -
+- 33:142B lines 142-149 | speaker: (unattributed) | signal: none | flags: -

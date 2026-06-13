@@ -1,0 +1,12 @@
+# Canto 19 — The Vision of the Celestial Image and the Prophecy of Nations
+- 19:11A lines 11-11 | speaker: la bella image | signal: strong | flags: -
+- 19:11B lines 11-11 | speaker: (unattributed) | signal: none | flags: -
+- 19:12A lines 12-12 | speaker: (unattributed) | signal: none | flags: plural
+- 19:12B lines 12-12 | speaker: (unattributed) | signal: none | flags: -
+- 19:13 lines 13-18 | speaker: l'aquila | signal: strong | flags: -
+- 19:22 lines 22-33 | speaker: Dante | signal: strong | flags: -
+- 19:40 lines 40-90 | speaker: l'immagine celeste | signal: strong | flags: cross-scene
+- 19:70 lines 70-78 | speaker: (unattributed) | signal: none | flags: -
+- 19:97 lines 97-99 | speaker: (unattributed) | signal: none | flags: -
+- 19:103 lines 103-148 | speaker: (unattributed) | signal: none | flags: cross-scene
+- 19:106 lines 106-106 | speaker: (unattributed) | signal: none | flags: -

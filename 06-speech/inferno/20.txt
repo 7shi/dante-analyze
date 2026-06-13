@@ -1,0 +1,5 @@
+# Canto 20 — The Vision of the Distorted Souls and the Legend of Mantua
+- 20:27 lines 27-99 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 20:33 lines 33-34 | speaker: (unattributed) | signal: none | flags: -
+- 20:100 lines 100-105 | speaker: Dante | signal: weak | flags: -
+- 20:106 lines 106-129 | speaker: (unattributed) | signal: none | flags: cross-scene

@@ -1,0 +1,15 @@
+# Canto 14 — The Third Circle: The Wrathful and the Rain of Fire
+- 14:43 lines 43-48 | speaker: (unattributed) | signal: none | flags: -
+- 14:51 lines 51-60 | speaker: Capaneo | signal: strong | flags: -
+- 14:57 lines 57-57 | speaker: (unattributed) | signal: none | flags: -
+- 14:63 lines 63-66 | speaker: (unattributed) | signal: none | flags: -
+- 14:68 lines 68-75 | speaker: Virgilio | signal: strong | flags: -
+- 14:85 lines 85-90 | speaker: Virgilio | signal: strong | flags: -
+- 14:94 lines 94-94 | speaker: (unattributed) | signal: none | flags: -
+- 14:95 lines 95-120 | speaker: (unattributed) | signal: none | flags: cross-scene
+- 14:121 lines 121-123 | speaker: (unattributed) | signal: none | flags: plural
+- 14:124 lines 124-129 | speaker: (unattributed) | signal: none | flags: -
+- 14:130 lines 130-132 | speaker: (unattributed) | signal: none | flags: -
+- 14:133 lines 133-133 | speaker: Virgilio | signal: weak | flags: -
+- 14:134 lines 134-138 | speaker: (unattributed) | signal: none | flags: -
+- 14:139 lines 139-142 | speaker: Virgilio | signal: weak | flags: -

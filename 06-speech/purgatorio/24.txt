@@ -1,0 +1,26 @@
+# Canto 24 — Recognition of Souls and the Warning of the Tree
+- 24:8 lines 8-12 | speaker: Dante | signal: strong | flags: -
+- 24:13 lines 13-15 | speaker: Forese | signal: strong | flags: -
+- 24:16 lines 16-19 | speaker: (unattributed) | signal: none | flags: -
+- 24:19 lines 19-24 | speaker: (unattributed) | signal: none | flags: -
+- 24:37 lines 37-37 | speaker: (unattributed) | signal: none | flags: -
+- 24:40A lines 40-40 | speaker: (unattributed) | signal: none | flags: -
+- 24:40B lines 40-42 | speaker: Dante | signal: strong | flags: -
+- 24:43 lines 43-43 | speaker: (unattributed) | signal: none | flags: -
+- 24:44 lines 44-51 | speaker: Bonagiunta da Lucca | signal: strong | flags: -
+- 24:51 lines 51-51 | speaker: (unattributed) | signal: none | flags: -
+- 24:52 lines 52-54 | speaker: Dante | signal: strong | flags: -
+- 24:55A lines 55-55 | speaker: Bonagiunta da Lucca | signal: strong | flags: -
+- 24:55B lines 55-62 | speaker: Bonagiunta da Lucca | signal: strong | flags: -
+- 24:75 lines 75-75 | speaker: Forese | signal: strong | flags: -
+- 24:76A lines 76-76 | speaker: Dante | signal: strong | flags: -
+- 24:76B lines 76-81 | speaker: Dante | signal: strong | flags: -
+- 24:82A lines 82-82 | speaker: (unattributed) | signal: none | flags: -
+- 24:82B lines 82-88 | speaker: Forese | signal: strong | flags: -
+- 24:89 lines 89-93 | speaker: Forese | signal: strong | flags: -
+- 24:115 lines 115-117 | speaker: (unattributed) | signal: none | flags: -
+- 24:121A lines 121-121 | speaker: (unattributed) | signal: none | flags: -
+- 24:121B lines 121-126 | speaker: (unattributed) | signal: none | flags: -
+- 24:133 lines 133-133 | speaker: (unattributed) | signal: none | flags: -
+- 24:139 lines 139-141 | speaker: (unattributed) | signal: none | flags: -
+- 24:151 lines 151-154 | speaker: (unattributed) | signal: none | flags: -

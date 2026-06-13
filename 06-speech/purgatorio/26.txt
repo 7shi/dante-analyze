@@ -1,0 +1,17 @@
+# Canto 26 — Encounters with the Souls of the Lustful
+- 26:3 lines 3-3 | speaker: Virgilio | signal: strong | flags: -
+- 26:12 lines 12-12 | speaker: (unattributed) | signal: none | flags: -
+- 26:16 lines 16-24 | speaker: lussurioso | signal: weak | flags: -
+- 26:40 lines 40-40 | speaker: (unattributed) | signal: none | flags: -
+- 26:41 lines 41-42 | speaker: (unattributed) | signal: none | flags: -
+- 26:53 lines 53-66 | speaker: Dante | signal: strong | flags: -
+- 26:73 lines 73-73 | speaker: (unattributed) | signal: none | flags: -
+- 26:75 lines 75-93 | speaker: Guido Guinizzelli | signal: strong | flags: cross-scene
+- 26:78 lines 78-78 | speaker: (unattributed) | signal: none | flags: -
+- 26:79 lines 79-79 | speaker: (unattributed) | signal: none | flags: -
+- 26:106 lines 106-111 | speaker: Guido Guinizzelli | signal: strong | flags: -
+- 26:112 lines 112-114 | speaker: (unattributed) | signal: none | flags: -
+- 26:115A lines 115-115 | speaker: (unattributed) | signal: none | flags: -
+- 26:115B lines 115-116 | speaker: Guido Guinizzelli | signal: strong | flags: -
+- 26:117 lines 117-132 | speaker: Guido Guinizzelli | signal: weak | flags: cross-scene
+- 26:140 lines 140-147 | speaker: Arnaut | signal: strong | flags: cross-scene

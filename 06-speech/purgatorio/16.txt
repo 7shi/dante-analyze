@@ -1,0 +1,20 @@
+# Canto 16 — The Encounter with Marco Lombardo
+- 16:15 lines 15-15 | speaker: Virgilio | signal: weak | flags: -
+- 16:19 lines 19-19 | speaker: (unattributed) | signal: none | flags: -
+- 16:22 lines 22-22 | speaker: Dante | signal: strong | flags: -
+- 16:23 lines 23-24 | speaker: (unattributed) | signal: none | flags: -
+- 16:25 lines 25-27 | speaker: (unattributed) | signal: none | flags: plural
+- 16:29 lines 29-30 | speaker: (unattributed) | signal: none | flags: -
+- 16:31 lines 31-33 | speaker: Dante | signal: weak | flags: -
+- 16:34 lines 34-34 | speaker: Marco Lombardo | signal: strong | flags: -
+- 16:35 lines 35-36 | speaker: (unattributed) | signal: none | flags: plural
+- 16:37 lines 37-45 | speaker: Dante | signal: strong | flags: -
+- 16:46 lines 46-49 | speaker: Marco Lombardo | signal: strong | flags: -
+- 16:50 lines 50-51 | speaker: Marco Lombardo | signal: strong | flags: -
+- 16:52 lines 52-63 | speaker: Dante | signal: strong | flags: -
+- 16:64 lines 64-64 | speaker: (unattributed) | signal: none | flags: -
+- 16:65 lines 65-129 | speaker: Marco Lombardo | signal: strong | flags: cross-scene
+- 16:130A lines 130-130 | speaker: (unattributed) | signal: none | flags: -
+- 16:130B lines 130-135 | speaker: Dante | signal: strong | flags: -
+- 16:136 lines 136-136 | speaker: Marco Lombardo | signal: weak | flags: -
+- 16:137 lines 137-144 | speaker: Marco Lombardo | signal: strong | flags: cross-scene

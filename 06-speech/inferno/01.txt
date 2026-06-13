@@ -1,0 +1,9 @@
+# Canto 01 — The Dark Wood and the Encounter with Virgil
+- 1:65 lines 65-65 | speaker: Dante | signal: weak | flags: -
+- 1:66 lines 66-66 | speaker: (unattributed) | signal: none | flags: -
+- 1:67 lines 67-78 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 1:79 lines 79-80 | speaker: (unattributed) | signal: none | flags: -
+- 1:82 lines 82-90 | speaker: Dante | signal: strong | flags: -
+- 1:91 lines 91-91 | speaker: (unattributed) | signal: none | flags: -
+- 1:93 lines 93-129 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 1:130 lines 130-135 | speaker: Dante | signal: strong | flags: -

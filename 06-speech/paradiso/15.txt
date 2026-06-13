@@ -1,0 +1,8 @@
+# Canto 15 — The Vision of Cacciaguida and the Ancestral Legacy
+- 15:28 lines 28-30 | speaker: (unattributed) | signal: none | flags: -
+- 15:47A lines 47-47 | speaker: (unattributed) | signal: none | flags: -
+- 15:47B lines 47-48 | speaker: (unattributed) | signal: none | flags: -
+- 15:49 lines 49-69 | speaker: Cacciaguida | signal: strong | flags: cross-scene
+- 15:73 lines 73-87 | speaker: Dante | signal: strong | flags: cross-scene
+- 15:88 lines 88-89 | speaker: Cacciaguida | signal: strong | flags: -
+- 15:91 lines 91-148 | speaker: Cacciaguida | signal: strong | flags: cross-scene

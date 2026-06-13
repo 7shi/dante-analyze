@@ -1,0 +1,24 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+- 21:23 lines 23-23 | speaker: (unattributed) | signal: none | flags: -
+- 21:37 lines 37-42 | speaker: demonio | signal: strong | flags: -
+- 21:48 lines 48-51 | speaker: (unattributed) | signal: none | flags: -
+- 21:53 lines 53-54 | speaker: (unattributed) | signal: none | flags: -
+- 21:58 lines 58-59 | speaker: (unattributed) | signal: none | flags: -
+- 21:59 lines 59-63 | speaker: Virgilio | signal: strong | flags: -
+- 21:72 lines 72-75 | speaker: Virgilio | signal: weak | flags: -
+- 21:76 lines 76-76 | speaker: (unattributed) | signal: none | flags: -
+- 21:78 lines 78-78 | speaker: (unattributed) | signal: none | flags: -
+- 21:79 lines 79-80 | speaker: (unattributed) | signal: none | flags: -
+- 21:81 lines 81-84 | speaker: Virgilio | signal: strong | flags: -
+- 21:87 lines 87-87 | speaker: (unattributed) | signal: none | flags: -
+- 21:88 lines 88-90 | speaker: Virgilio | signal: weak | flags: -
+- 21:100 lines 100-100 | speaker: Malebranche | signal: strong | flags: -
+- 21:101 lines 101-101 | speaker: (unattributed) | signal: none | flags: -
+- 21:102 lines 102-102 | speaker: (unattributed) | signal: none | flags: -
+- 21:105 lines 105-105 | speaker: (unattributed) | signal: none | flags: -
+- 21:106 lines 106-117 | speaker: Malacoda | signal: strong | flags: -
+- 21:118 lines 118-118 | speaker: (unattributed) | signal: none | flags: -
+- 21:119 lines 119-126 | speaker: (unattributed) | signal: none | flags: -
+- 21:127 lines 127-127 | speaker: Dante | signal: strong | flags: -
+- 21:128 lines 128-132 | speaker: Dante | signal: strong | flags: -
+- 21:133 lines 133-135 | speaker: (unattributed) | signal: none | flags: -

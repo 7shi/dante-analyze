@@ -1,0 +1,13 @@
+# Canto 27 — The Entrance into the Fire and the Ascent to the Earthly Paradise
+- 27:8 lines 8-8 | speaker: (unattributed) | signal: none | flags: -
+- 27:10 lines 10-12 | speaker: (unattributed) | signal: none | flags: -
+- 27:20 lines 20-32 | speaker: Virgilio | signal: strong | flags: -
+- 27:35 lines 35-36 | speaker: (unattributed) | signal: none | flags: -
+- 27:43 lines 43-44 | speaker: Virgilio | signal: strong | flags: -
+- 27:54 lines 54-54 | speaker: (unattributed) | signal: none | flags: -
+- 27:58 lines 58-58 | speaker: (unattributed) | signal: none | flags: -
+- 27:61A lines 61-61 | speaker: (unattributed) | signal: none | flags: -
+- 27:61B lines 61-63 | speaker: (unattributed) | signal: none | flags: -
+- 27:100 lines 100-108 | speaker: Lia | signal: strong | flags: -
+- 27:115 lines 115-117 | speaker: (unattributed) | signal: none | flags: -
+- 27:127 lines 127-142 | speaker: Virgilio | signal: strong | flags: cross-scene

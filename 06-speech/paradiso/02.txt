@@ -1,0 +1,8 @@
+# Canto 02 — The Vision of Beatrice and the Celestial Mechanics
+- 2:29 lines 29-29 | speaker: (unattributed) | signal: none | flags: -
+- 2:30 lines 30-30 | speaker: (unattributed) | signal: none | flags: -
+- 2:46 lines 46-51 | speaker: Dante | signal: strong | flags: -
+- 2:52 lines 52-53 | speaker: (unattributed) | signal: none | flags: -
+- 2:53 lines 53-58 | speaker: (unattributed) | signal: none | flags: -
+- 2:59 lines 59-60 | speaker: Dante | signal: strong | flags: -
+- 2:61 lines 61-148 | speaker: (unattributed) | signal: none | flags: multi(Beatrice;Dante), cross-scene

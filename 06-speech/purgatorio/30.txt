@@ -1,0 +1,11 @@
+# Canto 30 — The Arrival of Beatrice and the Vision of the Blessed
+- 30:11 lines 11-11 | speaker: (unattributed) | signal: none | flags: -
+- 30:19 lines 19-19 | speaker: (unattributed) | signal: none | flags: -
+- 30:21 lines 21-21 | speaker: (unattributed) | signal: none | flags: -
+- 30:46 lines 46-48 | speaker: Dante | signal: strong | flags: -
+- 30:55 lines 55-57 | speaker: (unattributed) | signal: none | flags: -
+- 30:73 lines 73-75 | speaker: Beatrice | signal: strong | flags: -
+- 30:83 lines 83-83 | speaker: li angeli | signal: strong | flags: -
+- 30:84 lines 84-84 | speaker: (unattributed) | signal: none | flags: -
+- 30:96 lines 96-96 | speaker: (unattributed) | signal: none | flags: -
+- 30:103 lines 103-145 | speaker: Beatrice | signal: strong | flags: cross-scene

@@ -1,0 +1,13 @@
+# Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
+- 21:4 lines 4-4 | speaker: Beatrice | signal: strong | flags: -
+- 21:5 lines 5-18 | speaker: (unattributed) | signal: none | flags: plural
+- 21:45 lines 45-48 | speaker: Dante | signal: strong | flags: -
+- 21:51 lines 51-51 | speaker: (unattributed) | signal: none | flags: -
+- 21:52 lines 52-60 | speaker: Dante | signal: weak | flags: -
+- 21:61 lines 61-61 | speaker: (unattributed) | signal: none | flags: -
+- 21:62 lines 62-72 | speaker: Beatrice | signal: strong | flags: -
+- 21:73A lines 73-73 | speaker: Dante | signal: strong | flags: -
+- 21:73B lines 73-78 | speaker: Dante | signal: weak | flags: -
+- 21:83 lines 83-102 | speaker: amor | signal: strong | flags: cross-scene
+- 21:106 lines 106-111 | speaker: (unattributed) | signal: none | flags: -
+- 21:113 lines 113-135 | speaker: Pietro Damiano | signal: strong | flags: cross-scene

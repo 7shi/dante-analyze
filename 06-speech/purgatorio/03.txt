@@ -1,0 +1,16 @@
+# Canto 03 — The Encounter with Manfred and the Limits of Reason
+- 3:22 lines 22-22 | speaker: (unattributed) | signal: none | flags: -
+- 3:24 lines 24-44 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 3:52 lines 52-52 | speaker: (unattributed) | signal: none | flags: -
+- 3:54 lines 54-54 | speaker: (unattributed) | signal: none | flags: -
+- 3:61A lines 61-61 | speaker: (unattributed) | signal: none | flags: -
+- 3:61B lines 61-63 | speaker: (unattributed) | signal: none | flags: -
+- 3:65 lines 65-66 | speaker: (unattributed) | signal: none | flags: plural
+- 3:73 lines 73-73 | speaker: (unattributed) | signal: none | flags: -
+- 3:74 lines 74-78 | speaker: Virgilio | signal: strong | flags: -
+- 3:94 lines 94-99 | speaker: Dante | signal: strong | flags: -
+- 3:101A lines 101-101 | speaker: (unattributed) | signal: none | flags: -
+- 3:101B lines 101-101 | speaker: (unattributed) | signal: none | flags: -
+- 3:103 lines 103-105 | speaker: Manfredi | signal: weak | flags: -
+- 3:110 lines 110-110 | speaker: (unattributed) | signal: none | flags: -
+- 3:112 lines 112-145 | speaker: Manfredi | signal: strong | flags: cross-scene

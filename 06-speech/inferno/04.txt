@@ -1,0 +1,13 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+- 4:13 lines 13-13 | speaker: (unattributed) | signal: none | flags: plural
+- 4:15 lines 15-15 | speaker: Virgilio | signal: strong | flags: -
+- 4:17 lines 17-18 | speaker: Dante | signal: strong | flags: -
+- 4:19 lines 19-22 | speaker: Virgilio | signal: weak | flags: -
+- 4:31 lines 31-42 | speaker: Virgilio | signal: strong | flags: -
+- 4:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 4:49 lines 49-50 | speaker: (unattributed) | signal: none | flags: -
+- 4:52 lines 52-63 | speaker: Virgilio | signal: strong | flags: -
+- 4:73 lines 73-75 | speaker: (unattributed) | signal: none | flags: -
+- 4:76 lines 76-78 | speaker: (unattributed) | signal: none | flags: -
+- 4:80 lines 80-81 | speaker: (unattributed) | signal: none | flags: -
+- 4:86 lines 86-93 | speaker: Virgilio | signal: weak | flags: -

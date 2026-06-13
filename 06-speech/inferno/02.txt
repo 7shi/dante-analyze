@@ -1,0 +1,9 @@
+# Canto 02 — The Divine Intervention and Dante's Rebirth of Will
+- 2:10 lines 10-36 | speaker: Dante | signal: strong | flags: cross-scene
+- 2:43 lines 43-43 | speaker: Virgilio | signal: strong | flags: -
+- 2:45 lines 45-126 | speaker: (unattributed) | signal: none | flags: multi(Dante;Virgilio), cross-scene
+- 2:58 lines 58-74 | speaker: Beatrice | signal: strong | flags: -
+- 2:76 lines 76-84 | speaker: Dante | signal: weak | flags: -
+- 2:85 lines 85-86 | speaker: Virgilio | signal: strong | flags: -
+- 2:87 lines 87-114 | speaker: (unattributed) | signal: none | flags: multi(Beatrice;Virgilio), cross-scene
+- 2:133 lines 133-140 | speaker: Dante | signal: strong | flags: -

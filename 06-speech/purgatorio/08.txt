@@ -1,0 +1,20 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+- 8:12 lines 12-12 | speaker: (unattributed) | signal: none | flags: -
+- 8:13 lines 13-13 | speaker: (unattributed) | signal: none | flags: -
+- 8:37 lines 37-37 | speaker: (unattributed) | signal: none | flags: -
+- 8:38 lines 38-39 | speaker: (unattributed) | signal: none | flags: -
+- 8:43 lines 43-45 | speaker: (unattributed) | signal: none | flags: plural
+- 8:56 lines 56-57 | speaker: (unattributed) | signal: none | flags: -
+- 8:58A lines 58-58 | speaker: (unattributed) | signal: none | flags: -
+- 8:58B lines 58-60 | speaker: Dante | signal: strong | flags: -
+- 8:65 lines 65-66 | speaker: (unattributed) | signal: none | flags: -
+- 8:67 lines 67-81 | speaker: Nin | signal: strong | flags: -
+- 8:88 lines 88-88 | speaker: (unattributed) | signal: none | flags: -
+- 8:89 lines 89-90 | speaker: (unattributed) | signal: none | flags: -
+- 8:91 lines 91-93 | speaker: (unattributed) | signal: none | flags: -
+- 8:95 lines 95-95 | speaker: (unattributed) | signal: none | flags: -
+- 8:112 lines 112-114 | speaker: (unattributed) | signal: none | flags: -
+- 8:115 lines 115-120 | speaker: Currado Malaspina | signal: strong | flags: -
+- 8:121A lines 121-121 | speaker: (unattributed) | signal: none | flags: -
+- 8:121B lines 121-132 | speaker: Dante | signal: strong | flags: -
+- 8:133 lines 133-139 | speaker: (unattributed) | signal: none | flags: -

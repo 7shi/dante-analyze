@@ -1,0 +1,14 @@
+# Canto 22 — The Poets of Limbo and the Enchanted Tree
+- 22:6 lines 6-6 | speaker: (unattributed) | signal: none | flags: -
+- 22:10 lines 10-24 | speaker: Virgilio | signal: weak | flags: -
+- 22:27 lines 27-54 | speaker: Stazio | signal: strong | flags: cross-scene
+- 22:40 lines 40-41 | speaker: (unattributed) | signal: none | flags: -
+- 22:55 lines 55-56 | speaker: (unattributed) | signal: none | flags: -
+- 22:58 lines 58-63 | speaker: (unattributed) | signal: none | flags: -
+- 22:64 lines 64-99 | speaker: Stazio | signal: strong | flags: cross-scene
+- 22:70 lines 70-72 | speaker: (unattributed) | signal: none | flags: -
+- 22:100 lines 100-100 | speaker: Virgilio | signal: strong | flags: -
+- 22:101 lines 101-114 | speaker: (unattributed) | signal: none | flags: plural
+- 22:121 lines 121-123 | speaker: Virgilio | signal: strong | flags: -
+- 22:141 lines 141-141 | speaker: (unattributed) | signal: none | flags: -
+- 22:142 lines 142-154 | speaker: (unattributed) | signal: none | flags: -

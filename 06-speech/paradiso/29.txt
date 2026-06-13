@@ -1,0 +1,4 @@
+# Canto 29 — Beatrice's Discourse on the Trinity, the Angels, and the Corruption of Preaching
+- 29:10 lines 10-145 | speaker: Beatrice | signal: strong | flags: cross-scene
+- 29:15 lines 15-15 | speaker: Dio | signal: strong | flags: -
+- 29:110 lines 110-110 | speaker: (unattributed) | signal: none | flags: -

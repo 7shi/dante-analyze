@@ -1,0 +1,7 @@
+# Canto 28 — The Vision of the Celestial Hierarchies and the Angelic Orders
+- 28:41 lines 41-45 | speaker: (unattributed) | signal: none | flags: -
+- 28:46 lines 46-57 | speaker: Dante | signal: strong | flags: -
+- 28:58 lines 58-60 | speaker: (unattributed) | signal: none | flags: -
+- 28:61 lines 61-78 | speaker: Beatrice | signal: strong | flags: -
+- 28:98 lines 98-139 | speaker: (unattributed) | signal: none | flags: multi(Beatrice;Dante), cross-scene
+- 28:118 lines 118-118 | speaker: (unattributed) | signal: none | flags: -

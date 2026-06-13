@@ -1,0 +1,13 @@
+# Canto 19 — The Encounter with the Simoniac Boniface
+- 19:31 lines 31-32 | speaker: (unattributed) | signal: none | flags: -
+- 19:33 lines 33-33 | speaker: (unattributed) | signal: none | flags: -
+- 19:34 lines 34-36 | speaker: Virgilio | signal: strong | flags: -
+- 19:37 lines 37-39 | speaker: Dante | signal: strong | flags: -
+- 19:46 lines 46-47 | speaker: (unattributed) | signal: none | flags: -
+- 19:48 lines 48-48 | speaker: (unattributed) | signal: none | flags: -
+- 19:52 lines 52-57 | speaker: Nicola III | signal: weak | flags: -
+- 19:61 lines 61-62 | speaker: (unattributed) | signal: none | flags: -
+- 19:62 lines 62-62 | speaker: Dante | signal: strong | flags: -
+- 19:66 lines 66-87 | speaker: Niccolò III | signal: strong | flags: cross-scene
+- 19:90 lines 90-117 | speaker: Dante | signal: strong | flags: cross-scene
+- 19:93 lines 93-93 | speaker: (unattributed) | signal: none | flags: -

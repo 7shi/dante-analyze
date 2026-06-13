@@ -1,0 +1,20 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+- 13:16 lines 16-17 | speaker: (unattributed) | signal: none | flags: -
+- 13:18 lines 18-21 | speaker: (unattributed) | signal: none | flags: -
+- 13:28 lines 28-30 | speaker: (unattributed) | signal: none | flags: -
+- 13:33 lines 33-33 | speaker: un gran pruno | signal: weak | flags: -
+- 13:35 lines 35-39 | speaker: un gran pruno | signal: weak | flags: -
+- 13:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 13:47 lines 47-54 | speaker: Virgilio | signal: weak | flags: -
+- 13:55 lines 55-78 | speaker: (unattributed) | signal: none | flags: multi(Pier della Vigna;l tronco), cross-scene
+- 13:79 lines 79-79 | speaker: (unattributed) | signal: none | flags: -
+- 13:80 lines 80-81 | speaker: (unattributed) | signal: none | flags: -
+- 13:82 lines 82-84 | speaker: Dante | signal: strong | flags: -
+- 13:85 lines 85-90 | speaker: (unattributed) | signal: none | flags: -
+- 13:93 lines 93-108 | speaker: (unattributed) | signal: none | flags: plural
+- 13:118 lines 118-118 | speaker: (unattributed) | signal: none | flags: -
+- 13:120 lines 120-121 | speaker: (unattributed) | signal: none | flags: -
+- 13:133A lines 133-133 | speaker: (unattributed) | signal: none | flags: -
+- 13:133B lines 133-135 | speaker: Lano | signal: strong | flags: -
+- 13:137 lines 137-138 | speaker: (unattributed) | signal: none | flags: -
+- 13:139 lines 139-151 | speaker: Pier della Vigna | signal: strong | flags: -

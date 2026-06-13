@@ -1,0 +1,7 @@
+# Canto 22 — The Vision of the Celestial Lights and the Descent to Earth
+- 22:7 lines 7-21 | speaker: Beatrice | signal: strong | flags: -
+- 22:31 lines 31-51 | speaker: (unattributed) | signal: none | flags: multi(Beatrice;San Benedetto), cross-scene
+- 22:52 lines 52-60 | speaker: Dante | signal: strong | flags: -
+- 22:61 lines 61-96 | speaker: Benedetto | signal: strong | flags: cross-scene
+- 22:124 lines 124-124 | speaker: (unattributed) | signal: none | flags: -
+- 22:125 lines 125-132 | speaker: (unattributed) | signal: none | flags: -

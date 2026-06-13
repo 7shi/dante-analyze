@@ -1,0 +1,15 @@
+# Canto 03 — The Gate of Hell and the Approach to the Acheron
+- 3:1 lines 1-9 | speaker: la porta dell'Inferno | signal: strong | flags: -
+- 3:12 lines 12-12 | speaker: Dante | signal: weak | flags: -
+- 3:14 lines 14-18 | speaker: Virgilio | signal: strong | flags: -
+- 3:32 lines 32-33 | speaker: Dante | signal: strong | flags: -
+- 3:34 lines 34-42 | speaker: (unattributed) | signal: none | flags: -
+- 3:43 lines 43-44 | speaker: (unattributed) | signal: none | flags: -
+- 3:45 lines 45-51 | speaker: Virgilio | signal: strong | flags: -
+- 3:72 lines 72-75 | speaker: Dante | signal: strong | flags: -
+- 3:76 lines 76-78 | speaker: (unattributed) | signal: none | flags: plural
+- 3:84 lines 84-89 | speaker: Caronte | signal: strong | flags: -
+- 3:91 lines 91-93 | speaker: (unattributed) | signal: none | flags: -
+- 3:94 lines 94-96 | speaker: (unattributed) | signal: none | flags: -
+- 3:121 lines 121-121 | speaker: (unattributed) | signal: none | flags: -
+- 3:122 lines 122-129 | speaker: (unattributed) | signal: none | flags: -

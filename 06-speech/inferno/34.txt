@@ -1,0 +1,14 @@
+# Canto 34 — The Center of the Earth and the Encounter with Lucifer
+- 34:1 lines 1-2 | speaker: (unattributed) | signal: none | flags: plural
+- 34:3 lines 3-3 | speaker: (unattributed) | signal: none | flags: -
+- 34:20A lines 20-20 | speaker: (unattributed) | signal: none | flags: -
+- 34:20B lines 20-21 | speaker: (unattributed) | signal: none | flags: -
+- 34:61 lines 61-61 | speaker: (unattributed) | signal: none | flags: -
+- 34:62 lines 62-69 | speaker: (unattributed) | signal: none | flags: plural, cross-scene
+- 34:82 lines 82-82 | speaker: (unattributed) | signal: none | flags: -
+- 34:84 lines 84-84 | speaker: (unattributed) | signal: none | flags: -
+- 34:94A lines 94-94 | speaker: (unattributed) | signal: none | flags: -
+- 34:94B lines 94-96 | speaker: (unattributed) | signal: none | flags: -
+- 34:100 lines 100-101 | speaker: Dante | signal: strong | flags: -
+- 34:102 lines 102-105 | speaker: Dante | signal: weak | flags: -
+- 34:106 lines 106-126 | speaker: Virgilio | signal: strong | flags: cross-scene

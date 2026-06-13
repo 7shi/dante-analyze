@@ -1,0 +1,26 @@
+# Canto 15 — The Ascent through the Light and the Visions of Paradise
+- 15:25 lines 25-26 | speaker: Dante | signal: strong | flags: -
+- 15:27 lines 27-27 | speaker: (unattributed) | signal: none | flags: plural
+- 15:28 lines 28-29 | speaker: (unattributed) | signal: none | flags: -
+- 15:30 lines 30-33 | speaker: (unattributed) | signal: none | flags: -
+- 15:35 lines 35-36 | speaker: (unattributed) | signal: none | flags: -
+- 15:38 lines 38-38 | speaker: (unattributed) | signal: none | flags: -
+- 15:39 lines 39-39 | speaker: (unattributed) | signal: none | flags: -
+- 15:44 lines 44-45 | speaker: (unattributed) | signal: none | flags: -
+- 15:45A lines 45-45 | speaker: (unattributed) | signal: none | flags: -
+- 15:45B lines 45-45 | speaker: (unattributed) | signal: none | flags: -
+- 15:46 lines 46-57 | speaker: (unattributed) | signal: none | flags: -
+- 15:55 lines 55-55 | speaker: (unattributed) | signal: none | flags: -
+- 15:58 lines 58-58 | speaker: Dante | signal: strong | flags: -
+- 15:59 lines 59-63 | speaker: Dante | signal: strong | flags: -
+- 15:64 lines 64-81 | speaker: (unattributed) | signal: none | flags: cross-scene
+- 15:82 lines 82-82 | speaker: Dante | signal: weak | flags: -
+- 15:89 lines 89-92 | speaker: la madre | signal: strong | flags: -
+- 15:97 lines 97-101 | speaker: (unattributed) | signal: none | flags: -
+- 15:104 lines 104-105 | speaker: (unattributed) | signal: none | flags: plural
+- 15:108 lines 108-108 | speaker: (unattributed) | signal: none | flags: -
+- 15:120 lines 120-123 | speaker: (unattributed) | signal: none | flags: -
+- 15:124 lines 124-125 | speaker: Dante | signal: strong | flags: -
+- 15:125 lines 125-126 | speaker: Dante | signal: weak | flags: -
+- 15:127 lines 127-138 | speaker: Virgilio | signal: strong | flags: -
+- 15:133 lines 133-133 | speaker: (unattributed) | signal: none | flags: -

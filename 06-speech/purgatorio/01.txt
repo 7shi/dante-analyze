@@ -1,0 +1,7 @@
+# Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
+- 1:40 lines 40-41 | speaker: (unattributed) | signal: none | flags: -
+- 1:43 lines 43-48 | speaker: (unattributed) | signal: none | flags: -
+- 1:52 lines 52-84 | speaker: (unattributed) | signal: none | flags: multi(Dante;Virgilio), cross-scene
+- 1:85 lines 85-86 | speaker: Catone | signal: strong | flags: -
+- 1:87 lines 87-108 | speaker: Catone | signal: strong | flags: cross-scene
+- 1:112 lines 112-114 | speaker: (unattributed) | signal: none | flags: plural

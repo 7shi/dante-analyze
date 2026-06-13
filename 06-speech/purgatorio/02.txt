@@ -1,0 +1,12 @@
+# Canto 02 — The Arrival of the Celestial Messenger and the Encounter with Casella
+- 2:28 lines 28-36 | speaker: (unattributed) | signal: none | flags: -
+- 2:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 2:59 lines 59-60 | speaker: (unattributed) | signal: none | flags: -
+- 2:61 lines 61-66 | speaker: (unattributed) | signal: none | flags: plural
+- 2:88 lines 88-90 | speaker: Casella | signal: strong | flags: -
+- 2:91 lines 91-92 | speaker: Dante | signal: strong | flags: -
+- 2:93 lines 93-93 | speaker: (unattributed) | signal: none | flags: -
+- 2:94 lines 94-105 | speaker: Casella | signal: strong | flags: -
+- 2:106 lines 106-111 | speaker: Dante | signal: weak | flags: -
+- 2:112 lines 112-112 | speaker: Casella | signal: weak | flags: -
+- 2:120 lines 120-123 | speaker: (unattributed) | signal: none | flags: -

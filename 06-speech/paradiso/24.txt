@@ -1,0 +1,26 @@
+# Canto 24 — The Final Interrogation and the Proclamation of Faith
+- 24:1 lines 1-9 | speaker: (unattributed) | signal: none | flags: -
+- 24:28 lines 28-30 | speaker: Dante | signal: weak | flags: -
+- 24:34 lines 34-45 | speaker: (unattributed) | signal: none | flags: -
+- 24:52 lines 52-53 | speaker: (unattributed) | signal: none | flags: -
+- 24:58 lines 58-58 | speaker: Dante | signal: strong | flags: -
+- 24:59 lines 59-60 | speaker: (unattributed) | signal: none | flags: -
+- 24:61 lines 61-66 | speaker: Dante | signal: weak | flags: -
+- 24:67 lines 67-69 | speaker: (unattributed) | signal: none | flags: -
+- 24:70 lines 70-78 | speaker: Dante | signal: weak | flags: -
+- 24:79 lines 79-81 | speaker: (unattributed) | signal: none | flags: -
+- 24:83 lines 83-85 | speaker: (unattributed) | signal: none | flags: -
+- 24:86 lines 86-87 | speaker: Dante | signal: strong | flags: -
+- 24:89 lines 89-91 | speaker: (unattributed) | signal: none | flags: -
+- 24:91 lines 91-96 | speaker: Dante | signal: weak | flags: -
+- 24:97 lines 97-99 | speaker: (unattributed) | signal: none | flags: -
+- 24:100 lines 100-102 | speaker: Dante | signal: weak | flags: -
+- 24:103 lines 103-105 | speaker: (unattributed) | signal: none | flags: -
+- 24:106 lines 106-106 | speaker: (unattributed) | signal: none | flags: -
+- 24:107 lines 107-111 | speaker: (unattributed) | signal: none | flags: -
+- 24:113 lines 113-113 | speaker: (unattributed) | signal: none | flags: plural
+- 24:118 lines 118-123 | speaker: San Pietro | signal: strong | flags: -
+- 24:124 lines 124-126 | speaker: (unattributed) | signal: none | flags: -
+- 24:127 lines 127-147 | speaker: Dante | signal: strong | flags: cross-scene
+- 24:141A lines 141-141 | speaker: (unattributed) | signal: none | flags: -
+- 24:141B lines 141-141 | speaker: (unattributed) | signal: none | flags: -

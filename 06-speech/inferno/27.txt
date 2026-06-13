@@ -1,0 +1,11 @@
+# Canto 27 — The Confession of the Second Flame
+- 27:19 lines 19-30 | speaker: l'anima | signal: strong | flags: -
+- 27:21 lines 21-21 | speaker: Dante | signal: strong | flags: -
+- 27:33 lines 33-33 | speaker: (unattributed) | signal: none | flags: -
+- 27:36 lines 36-57 | speaker: Dante | signal: strong | flags: cross-scene
+- 27:61 lines 61-129 | speaker: (unattributed) | signal: none | flags: multi(Guido da Montefeltro;l'anima;l'anima della seconda fiamma;questa fiamma;the soul in the second flame), cross-scene
+- 27:100 lines 100-105 | speaker: Bonifacio VIII | signal: strong | flags: -
+- 27:108 lines 108-111 | speaker: Guido da Montefeltro | signal: strong | flags: -
+- 27:114 lines 114-120 | speaker: un d'i neri cherubini | signal: weak | flags: -
+- 27:122 lines 122-123 | speaker: un d'i neri cherubini | signal: strong | flags: -
+- 27:127 lines 127-127 | speaker: (unattributed) | signal: none | flags: -

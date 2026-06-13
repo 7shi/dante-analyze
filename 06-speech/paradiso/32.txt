@@ -1,0 +1,6 @@
+# Canto 32 — St. Bernard's Vision of the Celestial Rose and the Identification of the Blessed
+- 32:4 lines 4-87 | speaker: Bernardo | signal: strong | flags: cross-scene
+- 32:12 lines 12-12 | speaker: (unattributed) | signal: none | flags: -
+- 32:95 lines 95-95 | speaker: (unattributed) | signal: none | flags: -
+- 32:100 lines 100-105 | speaker: Dante | signal: weak | flags: -
+- 32:109 lines 109-150 | speaker: Bernardo | signal: strong | flags: cross-scene

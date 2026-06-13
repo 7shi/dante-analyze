@@ -1,0 +1,5 @@
+# Canto 04 — Beatrice Resolves Dante's Theological Doubts
+- 4:16 lines 16-114 | speaker: Beatrice | signal: strong | flags: cross-scene
+- 4:19 lines 19-21 | speaker: Dante | signal: weak | flags: -
+- 4:118 lines 118-118 | speaker: (unattributed) | signal: none | flags: -
+- 4:119 lines 119-138 | speaker: Dante | signal: strong | flags: cross-scene

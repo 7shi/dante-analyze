@@ -1,0 +1,16 @@
+# Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
+- 16:8 lines 8-9 | speaker: (unattributed) | signal: none | flags: -
+- 16:14 lines 14-14 | speaker: (unattributed) | signal: none | flags: -
+- 16:15 lines 15-18 | speaker: Virgilio | signal: strong | flags: -
+- 16:28 lines 28-29 | speaker: (unattributed) | signal: none | flags: plural
+- 16:30 lines 30-45 | speaker: Iacopo Rusticucci | signal: strong | flags: -
+- 16:52 lines 52-63 | speaker: Dante | signal: strong | flags: -
+- 16:64 lines 64-65 | speaker: (unattributed) | signal: none | flags: -
+- 16:66 lines 66-72 | speaker: (unattributed) | signal: none | flags: plural
+- 16:73 lines 73-75 | speaker: (unattributed) | signal: none | flags: -
+- 16:79 lines 79-79 | speaker: (unattributed) | signal: none | flags: -
+- 16:80 lines 80-85 | speaker: (unattributed) | signal: none | flags: plural
+- 16:84 lines 84-84 | speaker: Dante | signal: strong | flags: -
+- 16:115 lines 115-115 | speaker: (unattributed) | signal: none | flags: -
+- 16:116 lines 116-117 | speaker: (unattributed) | signal: none | flags: -
+- 16:121 lines 121-123 | speaker: Virgilio | signal: strong | flags: -

@@ -1,0 +1,11 @@
+# Canto 20 — The Prophecy of Ugo Ciappetta and the Catalog of Avarice
+- 20:19 lines 19-19 | speaker: (unattributed) | signal: none | flags: -
+- 20:22 lines 22-24 | speaker: (unattributed) | signal: none | flags: -
+- 20:25 lines 25-27 | speaker: (unattributed) | signal: none | flags: -
+- 20:34 lines 34-35 | speaker: (unattributed) | signal: none | flags: -
+- 20:35 lines 35-39 | speaker: Dante | signal: strong | flags: -
+- 20:40 lines 40-123 | speaker: (unattributed) | signal: none | flags: multi(Dante;Ugo Ciappetta), cross-scene
+- 20:116 lines 116-117 | speaker: (unattributed) | signal: none | flags: -
+- 20:135 lines 135-135 | speaker: Virgilio | signal: strong | flags: -
+- 20:136A lines 136-136 | speaker: (unattributed) | signal: none | flags: -
+- 20:136B lines 136-136 | speaker: (unattributed) | signal: none | flags: -

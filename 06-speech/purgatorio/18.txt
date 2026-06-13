@@ -1,0 +1,15 @@
+# Canto 18 — The Nature of Love and the Passing of the Great Crowd
+- 18:5 lines 5-6 | speaker: Dante | signal: strong | flags: -
+- 18:10 lines 10-15 | speaker: Dante | signal: strong | flags: -
+- 18:16A lines 16-16 | speaker: (unattributed) | signal: none | flags: -
+- 18:16B lines 16-39 | speaker: Virgilio | signal: weak | flags: cross-scene
+- 18:40 lines 40-40 | speaker: (unattributed) | signal: none | flags: -
+- 18:41 lines 41-45 | speaker: Dante | signal: weak | flags: -
+- 18:46 lines 46-75 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 18:100 lines 100-102 | speaker: (unattributed) | signal: none | flags: -
+- 18:103 lines 103-104 | speaker: (unattributed) | signal: none | flags: -
+- 18:105 lines 105-105 | speaker: (unattributed) | signal: none | flags: -
+- 18:106 lines 106-111 | speaker: Virgilio | signal: strong | flags: -
+- 18:113 lines 113-126 | speaker: abate in San Zeno a Verona | signal: strong | flags: -
+- 18:131 lines 131-132 | speaker: (unattributed) | signal: none | flags: -
+- 18:133 lines 133-138 | speaker: (unattributed) | signal: none | flags: -

@@ -1,0 +1,15 @@
+# Canto 11 — The Hierarchy of Sin and the Classification of Fraud and Violence
+- 11:8 lines 8-9 | speaker: (unattributed) | signal: none | flags: -
+- 11:10 lines 10-12 | speaker: (unattributed) | signal: none | flags: -
+- 11:13 lines 13-13 | speaker: (unattributed) | signal: none | flags: -
+- 11:14 lines 14-15 | speaker: (unattributed) | signal: none | flags: -
+- 11:15 lines 15-15 | speaker: Virgilio | signal: strong | flags: -
+- 11:16 lines 16-16 | speaker: (unattributed) | signal: none | flags: -
+- 11:17 lines 17-66 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 11:67 lines 67-75 | speaker: (unattributed) | signal: none | flags: -
+- 11:76 lines 76-76 | speaker: (unattributed) | signal: none | flags: -
+- 11:77 lines 77-90 | speaker: (unattributed) | signal: none | flags: -
+- 11:91 lines 91-94 | speaker: Dante | signal: weak | flags: -
+- 11:95 lines 95-96 | speaker: (unattributed) | signal: none | flags: -
+- 11:97A lines 97-97 | speaker: (unattributed) | signal: none | flags: -
+- 11:97B lines 97-115 | speaker: Virgilio | signal: weak | flags: cross-scene

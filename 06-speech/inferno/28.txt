@@ -1,0 +1,13 @@
+# Canto 28 — The Parade of Mutilated Schismatics
+- 28:30 lines 30-45 | speaker: Mäometto | signal: strong | flags: cross-scene
+- 28:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 28:47 lines 47-51 | speaker: Virgilio | signal: strong | flags: -
+- 28:55 lines 55-60 | speaker: (unattributed) | signal: none | flags: -
+- 28:70 lines 70-90 | speaker: (unattributed) | signal: none | flags: multi(Dante;L'altro), cross-scene
+- 28:91 lines 91-93 | speaker: Dante | signal: strong | flags: -
+- 28:96 lines 96-99 | speaker: (unattributed) | signal: none | flags: -
+- 28:106 lines 106-108 | speaker: (unattributed) | signal: none | flags: -
+- 28:107 lines 107-107 | speaker: (unattributed) | signal: none | flags: -
+- 28:109 lines 109-109 | speaker: (unattributed) | signal: none | flags: -
+- 28:123 lines 123-123 | speaker: l capo tronco | signal: weak | flags: -
+- 28:130 lines 130-142 | speaker: Bertram dal Bornio | signal: strong | flags: -

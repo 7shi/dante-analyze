@@ -1,0 +1,8 @@
+# Canto 17 — The Prophecy of Exile and the Vision of the Great Lombard
+- 17:7 lines 7-8 | speaker: (unattributed) | signal: none | flags: -
+- 17:8 lines 8-12 | speaker: (unattributed) | signal: none | flags: -
+- 17:13 lines 13-27 | speaker: Dante | signal: strong | flags: -
+- 17:37 lines 37-92 | speaker: Cacciaguida | signal: weak | flags: cross-scene
+- 17:94 lines 94-99 | speaker: (unattributed) | signal: none | flags: -
+- 17:106 lines 106-120 | speaker: Dante | signal: strong | flags: -
+- 17:124 lines 124-142 | speaker: (unattributed) | signal: none | flags: cross-scene

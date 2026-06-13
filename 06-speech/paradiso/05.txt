@@ -1,0 +1,8 @@
+# Canto 05 — The Integrity of Vows and the Ascent to the Second Heaven
+- 5:1 lines 1-15 | speaker: Beatrice | signal: strong | flags: cross-scene
+- 5:19 lines 19-84 | speaker: (unattributed) | signal: none | flags: multi(Beatrice;Dio), cross-scene
+- 5:67 lines 67-67 | speaker: Ieptè | signal: strong | flags: -
+- 5:105 lines 105-105 | speaker: (unattributed) | signal: none | flags: -
+- 5:115 lines 115-120 | speaker: luce | signal: strong | flags: -
+- 5:122 lines 122-123 | speaker: (unattributed) | signal: none | flags: -
+- 5:124 lines 124-129 | speaker: Dante | signal: strong | flags: -

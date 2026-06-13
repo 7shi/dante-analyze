@@ -1,0 +1,12 @@
+# Canto 26 — The Eighth Bolgia and the Tale of Ulysses
+- 26:47 lines 47-48 | speaker: (unattributed) | signal: none | flags: -
+- 26:49A lines 49-49 | speaker: (unattributed) | signal: none | flags: -
+- 26:49B lines 49-54 | speaker: Dante | signal: strong | flags: -
+- 26:55 lines 55-63 | speaker: (unattributed) | signal: none | flags: -
+- 26:64 lines 64-65 | speaker: (unattributed) | signal: none | flags: -
+- 26:65 lines 65-69 | speaker: Dante | signal: strong | flags: -
+- 26:70 lines 70-75 | speaker: Virgilio | signal: strong | flags: -
+- 26:79 lines 79-84 | speaker: Virgilio | signal: strong | flags: -
+- 26:90 lines 90-142 | speaker: Ulisse | signal: strong | flags: cross-scene
+- 26:112A lines 112-112 | speaker: (unattributed) | signal: none | flags: -
+- 26:112B lines 112-120 | speaker: (unattributed) | signal: none | flags: -

@@ -1,0 +1,16 @@
+# Canto 09 — The Furies and the Arrival of Charon
+- 9:7 lines 7-7 | speaker: (unattributed) | signal: none | flags: plural
+- 9:8 lines 8-9 | speaker: Virgilio | signal: weak | flags: -
+- 9:16 lines 16-18 | speaker: (unattributed) | signal: none | flags: -
+- 9:19 lines 19-20 | speaker: (unattributed) | signal: none | flags: -
+- 9:20 lines 20-33 | speaker: Virgilio | signal: strong | flags: -
+- 9:45A lines 45-45 | speaker: (unattributed) | signal: none | flags: -
+- 9:45B lines 45-48 | speaker: (unattributed) | signal: none | flags: -
+- 9:52 lines 52-52 | speaker: (unattributed) | signal: none | flags: plural
+- 9:54 lines 54-54 | speaker: (unattributed) | signal: none | flags: plural
+- 9:55 lines 55-57 | speaker: (unattributed) | signal: none | flags: -
+- 9:73 lines 73-75 | speaker: (unattributed) | signal: none | flags: -
+- 9:91 lines 91-91 | speaker: (unattributed) | signal: none | flags: -
+- 9:93 lines 93-99 | speaker: (unattributed) | signal: none | flags: plural
+- 9:124 lines 124-126 | speaker: (unattributed) | signal: none | flags: -
+- 9:127 lines 127-131 | speaker: (unattributed) | signal: none | flags: -

@@ -1,0 +1,18 @@
+# Canto 09 — The Vision of the Needle and the Arrival at the Gate of Purgatory
+- 9:25 lines 25-27 | speaker: (unattributed) | signal: none | flags: -
+- 9:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 9:47 lines 47-63 | speaker: Virgilio | signal: strong | flags: -
+- 9:55 lines 55-57 | speaker: Lucia | signal: strong | flags: -
+- 9:85 lines 85-85 | speaker: (unattributed) | signal: none | flags: -
+- 9:86 lines 86-87 | speaker: (unattributed) | signal: none | flags: -
+- 9:88 lines 88-88 | speaker: (unattributed) | signal: none | flags: -
+- 9:89 lines 89-90 | speaker: (unattributed) | signal: none | flags: -
+- 9:90 lines 90-90 | speaker: (unattributed) | signal: none | flags: -
+- 9:91 lines 91-91 | speaker: (unattributed) | signal: none | flags: -
+- 9:93 lines 93-93 | speaker: (unattributed) | signal: none | flags: -
+- 9:107 lines 107-108 | speaker: (unattributed) | signal: none | flags: -
+- 9:113 lines 113-114 | speaker: (unattributed) | signal: none | flags: -
+- 9:121 lines 121-122 | speaker: (unattributed) | signal: none | flags: -
+- 9:123 lines 123-129 | speaker: L'Angelo di Dio | signal: strong | flags: -
+- 9:131 lines 131-132 | speaker: l'angelo | signal: strong | flags: -
+- 9:140 lines 140-140 | speaker: (unattributed) | signal: none | flags: plural

@@ -1,0 +1,20 @@
+# Canto 04 — The Ascent of the Mountain and the Encounter with Belacqua
+- 4:18 lines 18-18 | speaker: (unattributed) | signal: none | flags: -
+- 4:36A lines 36-36 | speaker: (unattributed) | signal: none | flags: -
+- 4:36B lines 36-36 | speaker: (unattributed) | signal: none | flags: plural
+- 4:37 lines 37-39 | speaker: Virgilio | signal: weak | flags: -
+- 4:44 lines 44-45 | speaker: Dante | signal: strong | flags: -
+- 4:46A lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 4:46B lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 4:61 lines 61-75 | speaker: (unattributed) | signal: none | flags: -
+- 4:76A lines 76-76 | speaker: (unattributed) | signal: none | flags: -
+- 4:76B lines 76-87 | speaker: Dante | signal: strong | flags: cross-scene
+- 4:88 lines 88-96 | speaker: Virgilio | signal: strong | flags: -
+- 4:98 lines 98-99 | speaker: (unattributed) | signal: none | flags: -
+- 4:109A lines 109-109 | speaker: (unattributed) | signal: none | flags: -
+- 4:109B lines 109-111 | speaker: (unattributed) | signal: none | flags: -
+- 4:114 lines 114-114 | speaker: (unattributed) | signal: none | flags: -
+- 4:119 lines 119-120 | speaker: (unattributed) | signal: none | flags: -
+- 4:123 lines 123-126 | speaker: Dante | signal: weak | flags: -
+- 4:127 lines 127-135 | speaker: Belacqua | signal: strong | flags: -
+- 4:137 lines 137-139 | speaker: (unattributed) | signal: none | flags: -

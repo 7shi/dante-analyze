@@ -1,0 +1,12 @@
+# Canto 26 — The Voice of the Spirit and the Vision of Beatrice
+- 26:4 lines 4-12 | speaker: spiro | signal: weak | flags: -
+- 26:13 lines 13-18 | speaker: Dante | signal: strong | flags: -
+- 26:22 lines 22-24 | speaker: (unattributed) | signal: none | flags: -
+- 26:25 lines 25-45 | speaker: Dante | signal: weak | flags: -
+- 26:42 lines 42-42 | speaker: Dio | signal: strong | flags: -
+- 26:46 lines 46-51 | speaker: (unattributed) | signal: none | flags: -
+- 26:55 lines 55-66 | speaker: Dante | signal: strong | flags: -
+- 26:69 lines 69-69 | speaker: (unattributed) | signal: none | flags: -
+- 26:82 lines 82-84 | speaker: (unattributed) | signal: none | flags: -
+- 26:91 lines 91-96 | speaker: Dante | signal: strong | flags: -
+- 26:103 lines 103-142 | speaker: (unattributed) | signal: none | flags: multi(Dante;First Soul;il sommo bene;la prima anima), cross-scene

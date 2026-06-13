@@ -1,0 +1,15 @@
+# Canto 15 — The Encounter with Brunetto Latino
+- 15:24 lines 24-24 | speaker: (unattributed) | signal: none | flags: -
+- 15:30 lines 30-30 | speaker: (unattributed) | signal: none | flags: -
+- 15:31 lines 31-33 | speaker: (unattributed) | signal: none | flags: -
+- 15:34 lines 34-36 | speaker: Dante | signal: strong | flags: -
+- 15:37A lines 37-37 | speaker: (unattributed) | signal: none | flags: -
+- 15:37B lines 37-42 | speaker: Brunetto Latino | signal: strong | flags: -
+- 15:46 lines 46-48 | speaker: (unattributed) | signal: none | flags: -
+- 15:49 lines 49-49 | speaker: (unattributed) | signal: none | flags: -
+- 15:50 lines 50-54 | speaker: Dante | signal: strong | flags: -
+- 15:55 lines 55-78 | speaker: Brunetto Latino | signal: strong | flags: cross-scene
+- 15:79 lines 79-79 | speaker: (unattributed) | signal: none | flags: -
+- 15:80 lines 80-96 | speaker: Dante | signal: strong | flags: cross-scene
+- 15:99 lines 99-99 | speaker: (unattributed) | signal: none | flags: -
+- 15:103 lines 103-120 | speaker: Dante | signal: strong | flags: cross-scene

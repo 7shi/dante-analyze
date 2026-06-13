@@ -1,0 +1,9 @@
+# Canto 25 — The Metamorphosis of the Seventh Weight
+- 25:3 lines 3-3 | speaker: Vanni Fucci | signal: strong | flags: -
+- 25:6 lines 6-6 | speaker: serpe | signal: strong | flags: -
+- 25:18 lines 18-18 | speaker: (unattributed) | signal: none | flags: -
+- 25:25 lines 25-33 | speaker: (unattributed) | signal: none | flags: -
+- 25:37 lines 37-37 | speaker: (unattributed) | signal: none | flags: -
+- 25:43 lines 43-43 | speaker: (unattributed) | signal: none | flags: -
+- 25:68 lines 68-69 | speaker: (unattributed) | signal: none | flags: -
+- 25:140 lines 140-141 | speaker: l'anima | signal: strong | flags: -

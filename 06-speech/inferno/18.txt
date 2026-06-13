@@ -1,0 +1,15 @@
+# Canto 18 — The Descent into the First Bolgia of Malebolge
+- 18:42 lines 42-42 | speaker: Dante | signal: strong | flags: -
+- 18:48 lines 48-51 | speaker: (unattributed) | signal: none | flags: -
+- 18:52 lines 52-63 | speaker: Caccianemico | signal: strong | flags: -
+- 18:61 lines 61-61 | speaker: (unattributed) | signal: none | flags: -
+- 18:65 lines 65-66 | speaker: (unattributed) | signal: none | flags: -
+- 18:75 lines 75-78 | speaker: (unattributed) | signal: none | flags: plural
+- 18:83 lines 83-99 | speaker: (unattributed) | signal: none | flags: -
+- 18:118 lines 118-119 | speaker: Alessio Interminei | signal: weak | flags: -
+- 18:120 lines 120-123 | speaker: Dante | signal: strong | flags: -
+- 18:125 lines 125-126 | speaker: Alessio Interminei | signal: strong | flags: -
+- 18:127 lines 127-127 | speaker: (unattributed) | signal: none | flags: -
+- 18:128 lines 128-136 | speaker: (unattributed) | signal: none | flags: -
+- 18:134 lines 134-135 | speaker: drudo suo | signal: strong | flags: -
+- 18:135 lines 135-135 | speaker: (unattributed) | signal: none | flags: -

@@ -1,0 +1,8 @@
+# Canto 28 — The Encounter with the Enchanted Lady in the Forest
+- 28:43 lines 43-46 | speaker: Dante | signal: strong | flags: -
+- 28:47 lines 47-51 | speaker: Dante | signal: strong | flags: cross-scene
+- 28:76 lines 76-76 | speaker: Matelda | signal: strong | flags: -
+- 28:77 lines 77-84 | speaker: Matelda | signal: strong | flags: -
+- 28:85A lines 85-85 | speaker: (unattributed) | signal: none | flags: -
+- 28:85B lines 85-87 | speaker: Dante | signal: strong | flags: -
+- 28:88 lines 88-144 | speaker: Matelda | signal: strong | flags: cross-scene

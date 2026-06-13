@@ -1,0 +1,7 @@
+# Canto 27 — The Eclipse of Beatrice and the Celestial Motion
+- 27:1 lines 1-1 | speaker: (unattributed) | signal: none | flags: -
+- 27:2 lines 2-2 | speaker: (unattributed) | signal: none | flags: -
+- 27:19 lines 19-27 | speaker: la prima face | signal: strong | flags: -
+- 27:40 lines 40-66 | speaker: San Pietro | signal: strong | flags: cross-scene
+- 27:77 lines 77-78 | speaker: (unattributed) | signal: none | flags: -
+- 27:106 lines 106-148 | speaker: Beatrice | signal: strong | flags: cross-scene

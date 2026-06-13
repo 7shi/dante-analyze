@@ -1,0 +1,12 @@
+# Canto 25 — The Encounter with Statius and the Metaphysics of the Soul
+- 25:17 lines 17-18 | speaker: (unattributed) | signal: none | flags: -
+- 25:20 lines 20-21 | speaker: (unattributed) | signal: none | flags: -
+- 25:22 lines 22-24 | speaker: Virgilio | signal: strong | flags: -
+- 25:24 lines 24-30 | speaker: Virgilio | signal: strong | flags: -
+- 25:31 lines 31-31 | speaker: (unattributed) | signal: none | flags: -
+- 25:32 lines 32-33 | speaker: Stazio | signal: strong | flags: -
+- 25:34 lines 34-108 | speaker: (unattributed) | signal: none | flags: plural, cross-scene
+- 25:118 lines 118-120 | speaker: (unattributed) | signal: none | flags: -
+- 25:121 lines 121-121 | speaker: (unattributed) | signal: none | flags: -
+- 25:128 lines 128-128 | speaker: anime | signal: strong | flags: -
+- 25:130 lines 130-132 | speaker: (unattributed) | signal: none | flags: -

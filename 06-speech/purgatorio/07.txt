@@ -1,0 +1,19 @@
+# Canto 07 — The Encounter with Sordello and the Vision of the Limbo Valley
+- 7:3 lines 3-3 | speaker: (unattributed) | signal: none | flags: -
+- 7:4 lines 4-8 | speaker: Virgilio | signal: strong | flags: -
+- 7:12 lines 12-12 | speaker: (unattributed) | signal: none | flags: -
+- 7:16A lines 16-16 | speaker: (unattributed) | signal: none | flags: -
+- 7:16B lines 16-21 | speaker: Sordello | signal: strong | flags: -
+- 7:22 lines 22-22 | speaker: (unattributed) | signal: none | flags: -
+- 7:23 lines 23-39 | speaker: Virgilio | signal: strong | flags: -
+- 7:40 lines 40-48 | speaker: Sordello | signal: strong | flags: -
+- 7:49A lines 49-49 | speaker: (unattributed) | signal: none | flags: -
+- 7:49B lines 49-51 | speaker: (unattributed) | signal: none | flags: -
+- 7:53 lines 53-60 | speaker: (unattributed) | signal: none | flags: -
+- 7:62A lines 62-62 | speaker: (unattributed) | signal: none | flags: -
+- 7:62B lines 62-63 | speaker: (unattributed) | signal: none | flags: -
+- 7:67A lines 67-67 | speaker: (unattributed) | signal: none | flags: -
+- 7:67B lines 67-69 | speaker: (unattributed) | signal: none | flags: plural
+- 7:82 lines 82-82 | speaker: (unattributed) | signal: none | flags: -
+- 7:85 lines 85-85 | speaker: (unattributed) | signal: none | flags: -
+- 7:87 lines 87-136 | speaker: Sordello | signal: strong | flags: cross-scene

@@ -1,0 +1,5 @@
+# Canto 20 — The Celestial Lights and the Mystery of Divine Will
+- 20:31 lines 31-32 | speaker: Dante | signal: weak | flags: -
+- 20:33 lines 33-72 | speaker: (unattributed) | signal: none | flags: multi(Dante;l'aquila), cross-scene
+- 20:82 lines 82-82 | speaker: (unattributed) | signal: none | flags: -
+- 20:88 lines 88-138 | speaker: lo benedetto segno | signal: strong | flags: cross-scene

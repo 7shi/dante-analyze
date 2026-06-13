@@ -1,0 +1,27 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+- 8:8 lines 8-9 | speaker: (unattributed) | signal: none | flags: -
+- 8:10 lines 10-12 | speaker: (unattributed) | signal: none | flags: -
+- 8:18 lines 18-18 | speaker: (unattributed) | signal: none | flags: -
+- 8:19 lines 19-19 | speaker: (unattributed) | signal: none | flags: -
+- 8:20 lines 20-21 | speaker: (unattributed) | signal: none | flags: plural
+- 8:33 lines 33-33 | speaker: (unattributed) | signal: none | flags: -
+- 8:34 lines 34-35 | speaker: Dante | signal: strong | flags: -
+- 8:36 lines 36-36 | speaker: Filippo Argenti | signal: strong | flags: -
+- 8:37 lines 37-39 | speaker: Dante | signal: strong | flags: -
+- 8:42 lines 42-42 | speaker: (unattributed) | signal: none | flags: -
+- 8:44 lines 44-51 | speaker: (unattributed) | signal: none | flags: -
+- 8:52 lines 52-54 | speaker: (unattributed) | signal: none | flags: plural
+- 8:55 lines 55-57 | speaker: (unattributed) | signal: none | flags: -
+- 8:61 lines 61-61 | speaker: (unattributed) | signal: none | flags: -
+- 8:67 lines 67-69 | speaker: (unattributed) | signal: none | flags: -
+- 8:70 lines 70-73 | speaker: Dante | signal: strong | flags: -
+- 8:73 lines 73-75 | speaker: (unattributed) | signal: none | flags: -
+- 8:81A lines 81-81 | speaker: (unattributed) | signal: none | flags: -
+- 8:81B lines 81-81 | speaker: (unattributed) | signal: none | flags: -
+- 8:84 lines 84-85 | speaker: (unattributed) | signal: none | flags: -
+- 8:89 lines 89-93 | speaker: (unattributed) | signal: none | flags: -
+- 8:97 lines 97-100 | speaker: Dante | signal: weak | flags: -
+- 8:100 lines 100-102 | speaker: (unattributed) | signal: none | flags: plural
+- 8:104 lines 104-108 | speaker: Virgilio | signal: strong | flags: -
+- 8:120 lines 120-120 | speaker: Virgilio | signal: weak | flags: -
+- 8:121 lines 121-130 | speaker: Virgilio | signal: strong | flags: -

@@ -1,0 +1,19 @@
+# Canto 33 — Beatrice's Prophecy and the River of Lethe
+- 33:1 lines 1-1 | speaker: (unattributed) | signal: none | flags: -
+- 33:10 lines 10-12 | speaker: Beatrice | signal: weak | flags: -
+- 33:19 lines 19-19 | speaker: (unattributed) | signal: none | flags: -
+- 33:20 lines 20-21 | speaker: Beatrice | signal: strong | flags: -
+- 33:23 lines 23-24 | speaker: (unattributed) | signal: none | flags: -
+- 33:29 lines 29-30 | speaker: (unattributed) | signal: none | flags: -
+- 33:31 lines 31-78 | speaker: Beatrice | signal: strong | flags: cross-scene
+- 33:79 lines 79-84 | speaker: Dante | signal: strong | flags: -
+- 33:85A lines 85-85 | speaker: (unattributed) | signal: none | flags: -
+- 33:85B lines 85-90 | speaker: (unattributed) | signal: none | flags: -
+- 33:91 lines 91-93 | speaker: Dante | signal: strong | flags: -
+- 33:94 lines 94-94 | speaker: (unattributed) | signal: none | flags: -
+- 33:95 lines 95-102 | speaker: Beatrice | signal: strong | flags: cross-scene
+- 33:115 lines 115-117 | speaker: (unattributed) | signal: none | flags: -
+- 33:118 lines 118-119 | speaker: (unattributed) | signal: none | flags: -
+- 33:121 lines 121-123 | speaker: Matelda | signal: strong | flags: -
+- 33:124 lines 124-129 | speaker: (unattributed) | signal: none | flags: -
+- 33:135 lines 135-135 | speaker: (unattributed) | signal: none | flags: -

@@ -1,0 +1,15 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+- 7:1 lines 1-1 | speaker: (unattributed) | signal: none | flags: -
+- 7:4 lines 4-6 | speaker: (unattributed) | signal: none | flags: plural
+- 7:8 lines 8-12 | speaker: (unattributed) | signal: none | flags: -
+- 7:30A lines 30-30 | speaker: (unattributed) | signal: none | flags: -
+- 7:30B lines 30-30 | speaker: (unattributed) | signal: none | flags: -
+- 7:37 lines 37-39 | speaker: Dante | signal: weak | flags: -
+- 7:40 lines 40-48 | speaker: (unattributed) | signal: none | flags: -
+- 7:49 lines 49-51 | speaker: Dante | signal: strong | flags: -
+- 7:52 lines 52-66 | speaker: Virgilio | signal: strong | flags: -
+- 7:67A lines 67-67 | speaker: (unattributed) | signal: none | flags: -
+- 7:67B lines 67-69 | speaker: Dante | signal: weak | flags: -
+- 7:70 lines 70-99 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 7:115 lines 115-126 | speaker: Virgilio | signal: strong | flags: -
+- 7:121 lines 121-124 | speaker: (unattributed) | signal: none | flags: plural

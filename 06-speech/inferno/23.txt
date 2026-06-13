@@ -1,0 +1,19 @@
+# Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
+- 23:7A lines 7-7 | speaker: (unattributed) | signal: none | flags: -
+- 23:7B lines 7-7 | speaker: (unattributed) | signal: none | flags: -
+- 23:13 lines 13-18 | speaker: Dante | signal: strong | flags: -
+- 23:21 lines 21-24 | speaker: Dante | signal: strong | flags: -
+- 23:25 lines 25-33 | speaker: Virgilio | signal: strong | flags: -
+- 23:73 lines 73-75 | speaker: (unattributed) | signal: none | flags: -
+- 23:77 lines 77-79 | speaker: un che 'ntese la parola tosca | signal: weak | flags: -
+- 23:80 lines 80-81 | speaker: (unattributed) | signal: none | flags: -
+- 23:88 lines 88-90 | speaker: (unattributed) | signal: none | flags: -
+- 23:91 lines 91-93 | speaker: (unattributed) | signal: none | flags: -
+- 23:94 lines 94-99 | speaker: Dante | signal: strong | flags: -
+- 23:100 lines 100-108 | speaker: Catalano | signal: strong | flags: -
+- 23:109 lines 109-109 | speaker: (unattributed) | signal: none | flags: -
+- 23:115 lines 115-123 | speaker: (unattributed) | signal: none | flags: -
+- 23:128 lines 128-132 | speaker: (unattributed) | signal: none | flags: plural
+- 23:133 lines 133-138 | speaker: (unattributed) | signal: none | flags: -
+- 23:140 lines 140-141 | speaker: (unattributed) | signal: none | flags: -
+- 23:142 lines 142-144 | speaker: Catalano | signal: strong | flags: -

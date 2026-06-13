@@ -1,0 +1,12 @@
+# Canto 06 — The Third Circle: The Gluttons and the Prophecy of Florence
+- 6:40 lines 40-40 | speaker: (unattributed) | signal: none | flags: -
+- 6:41 lines 41-42 | speaker: Ciacco | signal: strong | flags: -
+- 6:43 lines 43-48 | speaker: Dante | signal: strong | flags: -
+- 6:49 lines 49-57 | speaker: Ciacco | signal: strong | flags: -
+- 6:58 lines 58-63 | speaker: Dante | signal: weak | flags: -
+- 6:64 lines 64-75 | speaker: (unattributed) | signal: none | flags: -
+- 6:77 lines 77-84 | speaker: Dante | signal: strong | flags: -
+- 6:85 lines 85-90 | speaker: Ciacco | signal: strong | flags: -
+- 6:94 lines 94-99 | speaker: (unattributed) | signal: none | flags: -
+- 6:103 lines 103-105 | speaker: (unattributed) | signal: none | flags: -
+- 6:106 lines 106-111 | speaker: (unattributed) | signal: none | flags: -

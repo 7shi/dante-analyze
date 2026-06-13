@@ -1,0 +1,11 @@
+# Canto 24 — The Descent into the Second Bolgia and the Prophecy of Vanni Fucci
+- 24:29 lines 29-30 | speaker: (unattributed) | signal: none | flags: -
+- 24:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 24:47 lines 47-57 | speaker: Virgilio | signal: weak | flags: -
+- 24:60 lines 60-60 | speaker: Dante | signal: strong | flags: -
+- 24:72 lines 72-75 | speaker: Dante | signal: strong | flags: -
+- 24:76A lines 76-76 | speaker: (unattributed) | signal: none | flags: -
+- 24:76B lines 76-78 | speaker: Virgilio | signal: strong | flags: -
+- 24:122 lines 122-126 | speaker: Vanni Fucci | signal: strong | flags: -
+- 24:127 lines 127-129 | speaker: Dante | signal: strong | flags: -
+- 24:133 lines 133-151 | speaker: Vanni Fucci | signal: strong | flags: cross-scene

@@ -4,7 +4,7 @@ format used by every analysis pass, plus higher-level loaders `load_readings` an
 import re
 import sys
 
-from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR
+from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR
 
 # A tags `n. Name` line (the authoritative resolution; line n = tag [n]).
 TAGS_LINE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
@@ -170,4 +170,39 @@ def load_registry(canticle):
                     node["surfaces"].append((m.group(1), int(m.group(2))))
         elif key == "grouped":
             node["grouped"] = val.lower() != "no"
+    return out
+
+
+# A speech span line: "- <quote_id> lines <s>-<e> | speaker: <name> | signal: <sig> | flags: <flags>"
+SPEECH_LINE_RE = re.compile(
+    r"^-\s+(?P<qid>\S+)\s+lines\s+(?P<s>\d+)-(?P<e>\d+)\s*\|\s*"
+    r"speaker:\s*(?P<speaker>.*\S)\s*\|\s*signal:\s*(?P<signal>\w+)\s*\|\s*"
+    r"flags:\s*(?P<flags>.*\S)\s*$"
+)
+
+
+def load_speech(canticle, canto):
+    """[span, …] in file order for a canto from 06-speech/<canticle>/NN.txt, or exit if absent.
+
+    Each span is a dict {quote_id, start, end, speaker, signal, flags}; `flags` is a list (empty
+    when the file's flags field is `-`). Built by 06-speech/speech.py — the speaker is a registry
+    canonical label (or `(unattributed)`)."""
+    path = out_path(SPEECH_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: speech not found: {path} (run 06-speech/speech.py first)", file=sys.stderr)
+        sys.exit(1)
+    out = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        m = SPEECH_LINE_RE.match(raw)
+        if not m:
+            continue
+        flags = m.group("flags").strip()
+        out.append({
+            "quote_id": m.group("qid"),
+            "start": int(m.group("s")),
+            "end": int(m.group("e")),
+            "speaker": m.group("speaker").strip(),
+            "signal": m.group("signal"),
+            "flags": [] if flags == "-" else [f.strip() for f in flags.split(",") if f.strip()],
+        })
     return out

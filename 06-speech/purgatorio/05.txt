@@ -1,0 +1,22 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+- 5:4 lines 4-6 | speaker: (unattributed) | signal: none | flags: -
+- 5:10 lines 10-10 | speaker: (unattributed) | signal: none | flags: -
+- 5:11 lines 11-18 | speaker: Virgilio | signal: weak | flags: -
+- 5:19 lines 19-19 | speaker: Dante | signal: strong | flags: -
+- 5:24 lines 24-24 | speaker: (unattributed) | signal: none | flags: -
+- 5:27 lines 27-27 | speaker: (unattributed) | signal: none | flags: -
+- 5:30 lines 30-30 | speaker: (unattributed) | signal: none | flags: -
+- 5:31 lines 31-36 | speaker: Virgilio | signal: strong | flags: -
+- 5:43 lines 43-44 | speaker: (unattributed) | signal: none | flags: plural
+- 5:45 lines 45-45 | speaker: (unattributed) | signal: none | flags: -
+- 5:46 lines 46-47 | speaker: (unattributed) | signal: none | flags: -
+- 5:48 lines 48-57 | speaker: (unattributed) | signal: none | flags: plural
+- 5:58 lines 58-63 | speaker: Dante | signal: strong | flags: -
+- 5:64 lines 64-84 | speaker: (unattributed) | signal: none | flags: multi(Pier della Vigna;uno), cross-scene
+- 5:85 lines 85-90 | speaker: Bonconte | signal: strong | flags: -
+- 5:91 lines 91-93 | speaker: (unattributed) | signal: none | flags: -
+- 5:94A lines 94-94 | speaker: (unattributed) | signal: none | flags: -
+- 5:94B lines 94-129 | speaker: Bonconte di Montefeltro | signal: strong | flags: cross-scene
+- 5:105 lines 105-108 | speaker: demonio | signal: strong | flags: -
+- 5:130 lines 130-131 | speaker: (unattributed) | signal: none | flags: -
+- 5:133 lines 133-136 | speaker: la Pia | signal: weak | flags: -

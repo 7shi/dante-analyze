@@ -79,6 +79,27 @@ def tag_positions(lines, s, e):
     return pos
 
 
+def strip_to_source(line):
+    """Reconstruct the un-marked source text of one markup line: unwrap every [..]/{..}
+    mark to its surface (leading `+` of a supplied subject dropped, and a supplied subject
+    `[+..]` contributes nothing — it is absent from the source), collapsing whitespace the
+    way the markup round-trip's `norm` does. The result is char-aligned with
+    `canto.line(n).text`, so the speech pass can assert the column math round-trips. Shares
+    `_append_collapsed` with `tag_positions` so the markup->source collapse is single-sourced."""
+    src = []
+    i = 0
+    for m in MARK_RE.finditer(line):
+        _append_collapsed(src, line[i:m.start()])
+        tok = m.group(0)
+        surface = tok[1:-1].lstrip("+")
+        inserted = tok[0] == "[" and tok[1:2] == "+"
+        if not inserted:  # a supplied subject is absent from the source
+            _append_collapsed(src, surface)
+        i = m.end()
+    _append_collapsed(src, line[i:])
+    return "".join(src)
+
+
 BULLET_RE = re.compile(r"^\s*[-*]\s+(.*\S)\s*$")
 
 

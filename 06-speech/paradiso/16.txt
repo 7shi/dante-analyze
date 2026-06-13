@@ -1,0 +1,5 @@
+# Canto 16 — Cacciaguida's Prophecy and the Lament for Florence
+- 16:10 lines 10-10 | speaker: (unattributed) | signal: none | flags: -
+- 16:16 lines 16-27 | speaker: Dante | signal: strong | flags: -
+- 16:34A lines 34-154 | speaker: Cacciaguida | signal: strong | flags: cross-scene
+- 16:34B lines 34-34 | speaker: (unattributed) | signal: none | flags: -

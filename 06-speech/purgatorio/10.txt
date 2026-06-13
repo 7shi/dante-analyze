@@ -1,0 +1,20 @@
+# Canto 10 — The Marble Gallery and the Contorted Souls
+- 10:10 lines 10-10 | speaker: (unattributed) | signal: none | flags: -
+- 10:11 lines 11-12 | speaker: (unattributed) | signal: none | flags: -
+- 10:40 lines 40-40 | speaker: (unattributed) | signal: none | flags: -
+- 10:44 lines 44-44 | speaker: (unattributed) | signal: none | flags: -
+- 10:46 lines 46-46 | speaker: (unattributed) | signal: none | flags: -
+- 10:60A lines 60-60 | speaker: (unattributed) | signal: none | flags: -
+- 10:60B lines 60-60 | speaker: (unattributed) | signal: none | flags: -
+- 10:83 lines 83-84 | speaker: la miserella | signal: strong | flags: -
+- 10:85 lines 85-86 | speaker: Traiano | signal: strong | flags: -
+- 10:86 lines 86-86 | speaker: (unattributed) | signal: none | flags: -
+- 10:88A lines 88-88 | speaker: (unattributed) | signal: none | flags: -
+- 10:88B lines 88-89 | speaker: Traiano | signal: strong | flags: -
+- 10:89 lines 89-90 | speaker: (unattributed) | signal: none | flags: -
+- 10:91 lines 91-93 | speaker: Traiano | signal: strong | flags: -
+- 10:100 lines 100-100 | speaker: (unattributed) | signal: none | flags: -
+- 10:101 lines 101-102 | speaker: (unattributed) | signal: none | flags: -
+- 10:112 lines 112-114 | speaker: Dante | signal: strong | flags: -
+- 10:115 lines 115-120 | speaker: (unattributed) | signal: none | flags: -
+- 10:139 lines 139-139 | speaker: un superbo | signal: strong | flags: -

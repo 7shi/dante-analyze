@@ -1,0 +1,10 @@
+# Canto 06 — The Encounter with Sordello and the Lament for Italy
+- 6:28 lines 28-33 | speaker: Dante | signal: weak | flags: -
+- 6:34 lines 34-48 | speaker: Virgilio | signal: strong | flags: -
+- 6:49 lines 49-51 | speaker: Dante | signal: strong | flags: -
+- 6:52 lines 52-52 | speaker: (unattributed) | signal: none | flags: plural
+- 6:53 lines 53-60 | speaker: (unattributed) | signal: none | flags: plural
+- 6:72 lines 72-72 | speaker: (unattributed) | signal: none | flags: -
+- 6:74 lines 74-75 | speaker: Sordello | signal: strong | flags: -
+- 6:114 lines 114-114 | speaker: la tua Roma | signal: weak | flags: -
+- 6:135 lines 135-135 | speaker: popol tuo | signal: strong | flags: -

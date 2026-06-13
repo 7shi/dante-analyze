@@ -1,0 +1,15 @@
+# Canto 12 — The Descent into the Valley of Violence and the Encounter with the Centaurs
+- 12:16 lines 16-21 | speaker: (unattributed) | signal: none | flags: -
+- 12:26 lines 26-27 | speaker: (unattributed) | signal: none | flags: -
+- 12:31 lines 31-48 | speaker: Virgilio | signal: strong | flags: cross-scene
+- 12:61 lines 61-63 | speaker: un centauro | signal: strong | flags: -
+- 12:64 lines 64-66 | speaker: (unattributed) | signal: none | flags: plural
+- 12:67 lines 67-75 | speaker: (unattributed) | signal: none | flags: cross-scene
+- 12:80 lines 80-82 | speaker: (unattributed) | signal: none | flags: -
+- 12:85 lines 85-96 | speaker: Virgilio | signal: strong | flags: -
+- 12:98 lines 98-99 | speaker: (unattributed) | signal: none | flags: -
+- 12:104 lines 104-112 | speaker: (unattributed) | signal: none | flags: -
+- 12:114 lines 114-114 | speaker: Dante | signal: strong | flags: -
+- 12:119 lines 119-120 | speaker: (unattributed) | signal: none | flags: -
+- 12:127 lines 127-128 | speaker: (unattributed) | signal: none | flags: -
+- 12:129 lines 129-138 | speaker: Nesso | signal: strong | flags: cross-scene

@@ -1,0 +1,23 @@
+# Canto 19 — The Siren's Song and the Vision of the Avaricious
+- 19:19A lines 19-19 | speaker: Sirena | signal: strong | flags: -
+- 19:19B lines 19-24 | speaker: Sirena | signal: strong | flags: -
+- 19:28 lines 28-28 | speaker: (unattributed) | signal: none | flags: -
+- 19:34 lines 34-35 | speaker: Virgilio | signal: strong | flags: -
+- 19:35 lines 35-36 | speaker: (unattributed) | signal: none | flags: plural
+- 19:43 lines 43-43 | speaker: (unattributed) | signal: none | flags: -
+- 19:50 lines 50-50 | speaker: (unattributed) | signal: none | flags: -
+- 19:52 lines 52-52 | speaker: (unattributed) | signal: none | flags: -
+- 19:55 lines 55-57 | speaker: Dante | signal: strong | flags: -
+- 19:58A lines 58-58 | speaker: (unattributed) | signal: none | flags: -
+- 19:58B lines 58-63 | speaker: (unattributed) | signal: none | flags: plural
+- 19:73 lines 73-73 | speaker: (unattributed) | signal: none | flags: -
+- 19:76 lines 76-78 | speaker: (unattributed) | signal: none | flags: plural
+- 19:79 lines 79-81 | speaker: (unattributed) | signal: none | flags: -
+- 19:91 lines 91-96 | speaker: Dante | signal: strong | flags: -
+- 19:97 lines 97-126 | speaker: Vescovo di Savona | signal: strong | flags: cross-scene
+- 19:130A lines 130-130 | speaker: (unattributed) | signal: none | flags: -
+- 19:130B lines 130-130 | speaker: (unattributed) | signal: none | flags: -
+- 19:131 lines 131-132 | speaker: Dante | signal: weak | flags: -
+- 19:133 lines 133-133 | speaker: (unattributed) | signal: none | flags: -
+- 19:134 lines 134-145 | speaker: Vescovo di Savona | signal: strong | flags: cross-scene
+- 19:137 lines 137-137 | speaker: (unattributed) | signal: none | flags: -
