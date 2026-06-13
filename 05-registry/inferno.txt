@@ -1,0 +1,5797 @@
+# Registry — inferno
+
+## Dante
+- type: individual
+- labels: Dante
+- surfaces: io (485), tu (348), mi (197), me (83), i' (59), m' (58), ti (56), Io (39), te (16), I' (14), t' (13), Tu (12), ïo (11), ei (8), chi (6), lui (4), si (4), 'l (3), colui (3), el (3), elli (3), figliuol (3), meco (3), teco (3), Chi (2), Tosco (2), costui (2), dimmi (2), l' (2), l'uom (2), li (2), me' (2), quei (2), questi (2), èi (2), Alma sdegnosa (1), Anima sciocca (1), Avaccio (1), Costui (1), Figlio (1), Figliuol (1), Figliuol mio (1), anima (1), anima confusa (1), anima viva (1), animal grazïoso e benigno (1), aprirmi (1), c' (1), ci (1), compagno (1), corpo morto (1), creature sciocche (1), ditemi (1), ella (1), figlio (1), figliuolo (1), gliel' (1), il tuo fedele (1), l'altro (1), l'amico mio (1), l'anima (1), l'om (1), la persona (1), ladron (1), lo (1), lo 'mpiastro (1), lo spirito lasso (1), mee (1), mei (1), menarlo (1), mostrarmi (1), persona (1), persona franca (1), quel (1), questo vivo (1), restarmi (1), sentirsi (1), servo (1), spirto (1), sé (1), tormentarlo (1), trarmi (1), uno (1), uom (1), v' (1), voi (1), volsimi (1)
+
+## Virgilio
+- type: individual
+- labels: Virgilio
+- surfaces: tu (96), ei (86), io (68), elli (50), Maestro (22), mi (20), lui (18), si (18), i' (17), l maestro (10), me (10), egli (8), li (8), Lo buon maestro (7), l duca mio (7), quei (7), ti (7), Lo duca (6), te (6), 'l maestro (5), el (5), l duca (5), lo duca (5), m' (5), maestro (5), Poeta (4), Virgilio (4), chi (4), ella (4), esso (4), quelli (4), s' (4), 'l duca (3), Io (3), Lo duca mio (3), Lo mio maestro (3), Tu (3), al poeta (3), duca (3), il duca mio (3), l' (3), la mia scorta (3), segnore (3), sé (3), 'l (2), 'l duca mio (2), al duca (2), al duca mio (2), al maestro (2), colui (2), costui (2), il mio duca (2), l buon maestro (2), l maestro mio (2), l mio duca (2), l mio maestro (2), l poeta (2), lo mio maestro (2), questi (2), seco (2),  'l duca mio  (1),  'l maestro mio (1), 'l dolce duca (1), 'l mio autore (1), 'l mio maestro (1), 'l poeta (1), 'l savio mio (1), 'l savio mio maestro (1), Buon duca (1), El (1), Elli (1), I' (1), Lo savio mio (1), Maestro mio (1), al maestro mio (1), al mio duca (1), al mio segnor (1), anima (1), anima cortese mantoana (1), buon segnor (1), caro duca mio (1), col duca mio (1), de li altri poeti onore e lume (1), del duca (1), del duca mio (1), del magnanimo (1), el primo (1), famoso saggio (1), i (1), il duca (1), il mio dottor (1), il poeta (1), il savio duca (1), l dottor (1), l maestro accorto (1), l maestro cortese (1), l mio buon duca (1), l mio dottore (1), l tuo dottore (1), l'altissimo poeta (1), l'antico (1), l'ombra (1), l'un (1), la buona compagnia (1), la scorta (1), lo (1), lo dolce padre (1), lo duca mio (1), lo mastro (1), lo mio duca (1), lo mio segnore (1), lo verace duca (1), maestro mio (1), meco (1), men (1), mio maestro (1), ombra (1), omo (1), persona accorta (1), poeta (1), quel Virgilio (1), quel saggio (1), quel savio gentil (1), quel segnor (1), quell' ombra (1), quella fonte (1), quello accorto (1), questo (1), questo mio segnor (1), sa (1), sol (1), t' (1), ten (1), tua guida (1), un (1), uom lasso (1), virtù somma (1)
+
+## Dante, Virgilio
+- type: set
+- members: Dante | Virgilio
+
+## Malebranche
+- type: class
+- labels: Malebranche | i Malebranche
+- surfaces: elli (17), li (5), ei (4), tu (4), voi (4), e' (3), lor (3), si (3), Malebranche (2), i Malebranche (2), li altri (2), noi (2), quel (2), Ei (1), Questi (1), altro (1), de li angeli neri (1), ello (1), i cuoci (1), i demon (1), i diavoli (1), io (1), l'altro (1), l'un (1), lasciali (1), ministri de la fossa quinta (1), ne (1), partirs' (1), quei (1), questi (1), s' (1), scorta (1)
+
+## gente
+- type: generic
+- labels: gente | la gente | una gente | Gente
+- surfaces: gente (9), elli (7), la gente (7), si (5), noi (3), li (2), lor (2), tu (2), Gente (1), chi (1), ci (1), costoro (1), ei (1), ella (1), guerci (1), l'altra (1), li spirti (1), loro (1), n' (1), ne (1), quella (1), questa (1), sé (1), una gente (1)
+- grouped: no
+
+## l'anima
+- type: generic
+- labels: l'anima | anima | L'anima
+- surfaces: io (8), ei (6), me (6), el (4), l'anima (3), si (3), 'l (2), anima (2), li (2), lui (2), mi (2), Ella (1), I' (1), L'anima (1), L'animo mio (1), ella (1), l'un (1), l'una (1), l'uno (1), meco (1), questi (1), se (1), tu (1), un (1)
+- grouped: no
+
+## Ugolino
+- type: individual
+- labels: Ugolino
+- surfaces: io (17), mi (9), tu (7), elli (4), Padre (2), m' (2), me (2), Io (1), Tu (1), colui (1), lo padre (1), meco (1), padre (1), s' (1), ti (1)
+
+## il Navarrese
+- type: individual
+- labels: il Navarrese | Navarrese | il navarrese | Lo Navarrese
+- surfaces: tu (7), io (6), ei (4), elli (3), i' (3), lui (3), mi (3), I' (2), li (2), quelli (2), ti (2), 'l (1), Lo Navarrese (1), Tu (1), famiglia (1), i (1), lo (1), m' (1), ne (1), quei (1), servo (1), si (1)
+- grouped: no
+
+## Beatrice
+- type: individual
+- labels: Beatrice
+- surfaces: io (8), mi (5), ella (4), lei (3), tu (3), Beatrice (2), I' (2), donna (2), i' (2), si (2), t' (2), Donna (1), Questa (1), Tal (1), anima (1), colei (1), donna di virtù sola (1), la (1), loda di Dio vera (1), m' (1), quella (1), te (1)
+
+## Farinata
+- type: individual
+- labels: Farinata
+- surfaces: elli (8), io (7), voi (6), ei (5), lui (4), s' (3), Farinata (2), el (2), mi (2), 'l (1), colui (1), lo spirto più avaccio (1), lu' (1), me (1), quell' altro magnanimo (1), sé (1)
+
+## Ciacco
+- type: individual
+- labels: Ciacco
+- surfaces: tu (11), elli (7), io (6), mi (4), Ciacco (2), ei (2), lui (2), quelli (2), si (2), ti (2), anima trista (1), chi (1), ella (1), li (1), una (1)
+
+## Vanni Fucci
+- type: individual
+- labels: Vanni Fucci
+- surfaces: elli (6), io (6), mi (4), ei (3), 'l (2), Io (2), si (2), 'l peccator (1), El (1), Vanni Fucci (1), chi (1), ello (1), i' (1), il (1), il ladro (1), l'acerbo (1), ladro (1), li (1), m' (1), s' (1), spirto (1), uomo di sangue e di crucci (1)
+
+## Dio
+- type: individual
+- labels: Dio
+- surfaces: Dio (23), lui (3),  'l maestro (1), 'l (1), 'l suo fattore (1), Colui (1), chi (1), colui (1), divino 'ntelletto (1), l'alto Sire (1), la deïtade (1), lo maestro (1), quei (1), quella (1), te (1)
+
+## Lucifero
+- type: individual
+- labels: Lucifero
+- surfaces: elli (10), ei (3), lui (3), Lucifero (2), questi (2), Lo 'mperador del doloroso regno (1), chi (1), colui (1), del diavol (1), el (1), ello (1), l' (1), la creatura (1), padre di menzogna (1), quel tutto (1), regis (1), si (1), tanto uccello (1), vermo reo (1)
+
+## Maestro Adamo
+- type: individual
+- labels: Maestro Adamo | maestro Adamo
+- surfaces: io (9), tu (6), i' (3), mi (3), Io (1), elli (1), il monetier (1), m' (1), maestro Adamo (1), quel (1), t' (1), te (1), ti (1)
+
+## Francesca, Paolo
+- type: set
+- members: Francesca | Paolo
+
+## Brunetto Latino
+- type: individual
+- labels: Brunetto Latino
+- surfaces: voi (6), ei (4), io (4), lui (4), Brunetto Latino (1), El (1), elli (1), i' (1), l' (1), la cara e buona imagine paterna (1), m' (1), quelli (1), si (1), vi (1)
+
+## Filippo Argenti
+- type: individual
+- labels: Filippo Argenti
+- surfaces: egli (6), tu (3), lui (2), si (2), ti (2), Filippo Argenti (1), chi (1), costui (1), il (1), io (1), l fiorentino spirito bizzarro (1), lo (1), spirito maladetto (1), sé (1), un pien di fango (1), vederlo (1)
+
+## Anteo
+- type: individual
+- labels: Anteo
+- surfaces: tu (6), elli (5), ne (3), Anteo (2), ti (2), 'l (1), del gigante (1), el (1), l'altro (1), lui (1), quelli (1), si (1)
+
+## Fortuna
+- type: non-person
+- labels: Fortuna | la Fortuna | la fortuna | fortuna
+- surfaces: ella (7), fortuna (2), la fortuna (2), le (2), Fortuna (1), Quest' (1), colei (1), costei (1), general ministra e duce (1), la (1), la Fortuna (1), lei (1), questa (1), questa fortuna (1), s' (1), si (1)
+
+## l'omo
+- type: generic
+- labels: l'omo | omo
+- surfaces: elli (5), omo (5), l'omo (3), si (3), ei (2), sé (2), chi (1), il (1), lo (1), lui (1), quel (1)
+- grouped: no
+
+## Caronte
+- type: individual
+- labels: Caronte
+- surfaces: ei (7), elli (5), tu (2), Caron (1), al nocchier (1), esso (1), i' (1), li (1), omo (1), si (1), ti (1), un vecchio (1)
+
+## Ulisse
+- type: individual
+- labels: Ulisse
+- surfaces: io (10), me (3), ei (2), mi (2), Io (1), Ulisse (1), del dolce poeta (1), i' (1), lui (1), m' (1)
+
+## Caccianemico
+- type: individual
+- labels: Caccianemico
+- surfaces: io (3), tu (3), Caccianemico (1), I' (1), Venedico (1), colui (1), costui (1), elli (1), figurarlo (1), il (1), li (1), mi (1), quel frustato (1), ruffian (1), si (1), ti (1), uno (1)
+
+## il peccatore
+- type: generic
+- labels: il peccatore | un peccatore
+- surfaces: mi (4), io (3), quel (2), ti (2), un peccatore (2), El (1), costui (1), ei (1), elli (1), glien' (1), lo (1), lui (1), tu (1)
+- grouped: no
+
+## Geryone
+- type: individual
+- labels: Geryone
+- surfaces: ella (7), ei (3), si (3), la fiera pessima (1), la navicella (1), lei (1), questa (1), sé (1), uom giusto (1)
+
+## Guido da Montefeltro
+- type: individual
+- labels: Guido da Montefeltro
+- surfaces: mi (6), io (5), tu (2), Guido (1), chi (1), m' (1), me (1), miser lasso (1), ti (1)
+- grouped: no
+
+## Minòs
+- type: individual
+- labels: Minòs
+- surfaces: Minòs (6), ei (4), elli (3), egli (2), tu (2), lui (1), quelli (1)
+
+## Malacoda
+- type: individual
+- labels: Malacoda
+- surfaces: ei (4), elli (3), si (3), Malacoda (2), Io (1), e' (1), egli (1), li (1), quel demonio (1), tu (1)
+
+## Capaneo
+- type: individual
+- labels: Capaneo
+- surfaces: ei (3), io (3), lui (2), Capaneo (1), Quei (1), elli (1), l'un d'i sette regi (1), me (1), quel (1), quel medesmo (1), si (1), tu (1)
+
+## Nesso
+- type: individual
+- labels: Nesso
+- surfaces: Nesso (3), tu (3), 'l gran centauro (1), Quelli (1), Questi (1), egli (1), elli (1), il centauro (1), io (1), l centauro (1), la scorta fida (1), s' (1), sé (1)
+
+## l'ombre
+- type: class
+- labels: l'ombre | ombre
+- surfaces: l'ombre (4), ombre (2), quella (2), Altre (1), Elle (1), altra (1), altre (1), chi (1), color (1), elli (1), genti (1), noi (1)
+- grouped: no
+
+## Bonifacio VIII
+- type: individual
+- labels: Bonifacio VIII
+- surfaces: colui (3), io (2), lui (2), Lo principe d'i novi Farisei (1), Padre (1), ei (1), el (1), m' (1), questi (1), sé (1), ti (1), tu (1)
+
+## Manto
+- type: individual
+- labels: Manto
+- surfaces: ei (7), ella (4), Manto (1), colei (1), quella (1), questa (1), si (1)
+
+## Niccolò III
+- type: individual
+- labels: Niccolò III
+- surfaces: i' (5), me (4), io (3), ei (1), figliuol de l'orsa (1), lo spirto (1), mi (1)
+
+## l'anima della seconda fiamma
+- type: individual
+- labels: l'anima della seconda fiamma
+- surfaces: io (7), mi (4), Io (1), Questi (1), cordigliero (1), m' (1), uom d'arme (1)
+- grouped: no
+
+## lo villanello
+- type: hypothetical-simile
+- labels: lo villanello
+- surfaces: ei (10), si (4),  'l tapin  (1),  lo villanello  (1)
+- grouped: no
+
+## Barbariccia
+- type: individual
+- labels: Barbariccia
+- surfaces: Barbariccia (4), ei (4), 'l decurio (1), egli (1), io (1), l gran proposto (1), lor duca (1), s' (1), si (1)
+
+## Mäometto
+- type: individual
+- labels: Mäometto
+- surfaces: ei (5), Mäometto (2), si (2), io (1), lui (1), me (1), mi (1), s' (1), un (1)
+
+## anime
+- type: class
+- labels: anime | l'anime | le anime
+- surfaces: l'anime (3), elli (2), lor (2), si (2), anime (1), color (1), li altri due (1), ne (1), qualunque (1), tutte queste (1)
+- grouped: no
+
+## Alessio Interminei
+- type: individual
+- labels: Alessio Interminei
+- surfaces: elli (2), t' (2), Alessio Interminei da Lucca (1), Quei (1), cherco (1), io (1), laico (1), lui (1), m' (1), me (1), tu (1), un (1)
+
+## Francesca
+- type: individual
+- labels: Francesca | la francesca
+- surfaces: mi (3), io (2), m' (2), Francesca (1), l'uno spirto (1), la bella persona (1), la francesca (1), me (1), quella (1), tu (1)
+
+## l'un
+- type: generic
+- labels: l'un
+- surfaces: mi (4), io (3), i' (2), I' (1), Io (1), l' (1), l'un (1), me (1)
+- grouped: no
+
+## L'altro
+- type: individual
+- labels: L'altro | l'altro | Un altro | un altro
+- surfaces: l'altro (4), ei (2), Un altro (1), chi (1), io (1), li (1), m' (1), quel (1), un altro (1)
+
+## Niccolò
+- type: individual
+- labels: Niccolò
+- surfaces: tu (3), 'l (1), Chi (1), Niccolò (1), anima trista (1), colui (1), ei (1), li (1), lui (1), si (1), sé (1)
+
+## ipocriti
+- type: class
+- labels: ipocriti | Ipocriti
+- surfaces: elli (4), voi (2), chi (1), costoro (1), due (1), loro (1), seco (1), si (1), sé (1)
+- grouped: no
+
+## l'anima feroce
+- type: generic
+- labels: l'anima feroce
+- surfaces: ella (4), la (2), noi (2), l' (1), l'anima feroce (1), om (1), s' (1), si (1)
+- grouped: no
+
+## l'uom
+- type: generic
+- labels: l'uom | uom | un uom
+- surfaces: l'uom (6), uom (2), el (1), li (1), s' (1), si (1), un uom (1)
+- grouped: no
+
+## lettor
+- type: generic
+- labels: lettor
+- surfaces: tu (5), lettor (4), te (2), ti (2)
+- grouped: no
+
+## Frate Gomita
+- type: individual
+- labels: Frate Gomita
+- surfaces: ei (4), barattier (1), e' (1), esso (1), frate Gomita (1), quel (1), si (1), sovrano (1), vasel d'ogne froda (1)
+
+## Geri del Bello
+- type: individual
+- labels: Geri del Bello
+- surfaces: ei (2), el (2), lui (2), Geri del Bello (1), ello (1), li (1), sen (1), si (1), sé (1)
+- grouped: no
+
+## Nicola III
+- type: individual
+- labels: Nicola III
+- surfaces: tu (5), ti (2), el (1), lui (1), mi (1), quel (1), si (1)
+
+## Bertram dal Bornio
+- type: individual
+- labels: Bertram dal Bornio
+- surfaces: egli (2), io (2), me (2), Bertram dal Bornio (1), Io (1), colui (1), i' (1), quelli (1)
+- grouped: no
+
+## Bocca
+- type: individual
+- labels: Bocca
+- surfaces: tu (3), ti (2), Bocca (1), ei (1), ello (1), io (1), malvagio traditor (1), te (1)
+
+## Capocchio
+- type: individual
+- labels: Capocchio
+- surfaces: io (3), chi (1), l' (1), l'altro lebbroso (1), l'ombra di Capocchio (1), li (1), m' (1), me (1), mene (1)
+
+## Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci
+- type: set
+- members: Guido Guerra | Tegghiaio Aldobrandi | Iacopo Rusticucci
+
+## Iasón
+- type: individual
+- labels: Iasón
+- surfaces: ei (3), lui (2), Ello (1), Iasón (1), Quelli (1), aspetto reale (1), quel (1), quel grande (1)
+
+## Minotauro
+- type: individual
+- labels: Minotauro
+- surfaces: ella (2), tu (2), bestia (1), e' (1), l'infamïa di Creti (1), lo Minotauro (1), lui (1), sé stesso (1), ti (1)
+
+## Pier da Medicina
+- type: individual
+- labels: Pier da Medicina
+- surfaces: tu (3), egli (2), Pier da Medicina (1), ei (1), lui (1), meco (1), tale (1), te (1)
+- grouped: no
+
+## Pier della Vigna
+- type: individual
+- labels: Pier della Vigna
+- surfaces: io (2), me (2), Chi (1), I' (1), Io (1), el (1), elli (1), lui (1), si (1)
+- grouped: no
+
+## Virgilio, Dante
+- type: set
+- members: Virgilio | Dante
+
+## morte
+- type: non-person
+- labels: morte | la morte
+- surfaces: egli (2), la morte (2), tu (2), 'l (1), l'altro (1), li (1), morte (1), sé (1)
+- grouped: no
+
+## natura
+- type: non-person
+- labels: natura | Natura
+- surfaces: natura (5), ella (3), Natura (1), la (1), si (1)
+- grouped: no
+
+## Enea
+- type: individual
+- labels: Enea
+- surfaces: ei (2), Enea (1), di Silvïo il parente (1), e' (1), figliuol d'{Anchise (1), i (1), l'avversario d'ogne male (1), lui (1), quel giusto (1)
+
+## Giove
+- type: individual
+- labels: Giove
+- surfaces: ei (4), Giove (2), elli (2), el (1), suo figliuolo (1)
+
+## I falsari
+- type: class
+- labels: I falsari | falsari
+- surfaces: sé (2), voi (2), chi (1), due (1), lor (1), palesarvi (1), si (1), vi (1)
+- grouped: no
+
+## Lucia
+- type: individual
+- labels: Lucia
+- surfaces: ella (3), te (3), Lucia (2), nimica di ciascun crudele (1), si (1)
+
+## Mastro Adamo
+- type: individual
+- labels: Mastro Adamo | mastro Adamo
+- surfaces: mi (3), io (2), l'idropico (1), li (1), lui (1), m' (1), mastro Adamo (1)
+
+## Semiramìs
+- type: individual
+- labels: Semiramìs
+- surfaces: ella (5), Ell' (1), La prima (1), Semiramìs (1), imperadrice (1), sposa (1)
+
+## Sinon
+- type: individual
+- labels: Sinon
+- surfaces: io (2), tu (2), 'l falso Sinon greco di Troia (1), Sinon (1), altr' (1), li (1), lui (1), ti (1)
+
+## Sinone
+- type: individual
+- labels: Sinone
+- surfaces: tu (4), Tu (1), ei (1), l Greco (1), reo (1), spergiuro (1), testimonio (1)
+
+## l tronco
+- type: non-person
+- labels: l tronco
+- surfaces: i' (2), io (2), m' (2), Io (1), colui (1), l tronco (1), ïo (1)
+- grouped: no
+
+## spiriti
+- type: class
+- labels: spiriti
+- surfaces: elli (3), questi (2), spiriti (2), e' (1), ei (1), li (1)
+- grouped: no
+
+## un de' tristi
+- type: generic
+- labels: un de' tristi
+- surfaces: tu (3), ti (2), chi (1), lui (1), m' (1), un de' tristi (1), ïo (1)
+- grouped: no
+
+## Albero
+- type: non-person
+- labels: Albero
+- surfaces: lui (4), Albero (1), Dedalo (1), li (1), quei (1), tal (1)
+
+## Camiscion de' Pazzi
+- type: individual
+- labels: Camiscion de' Pazzi
+- surfaces: i' (2), mi (2), ei (1), il Camiscion de' Pazzi (1), io (1), m' (1), un (1)
+- grouped: no
+
+## Fiorenza
+- type: non-person
+- labels: Fiorenza
+- surfaces: tu (6), Fiorenza (1), t' (1), te (1)
+
+## Iacopo Rusticucci
+- type: individual
+- labels: Iacopo Rusticucci
+- surfaces: Iacopo Rusticucci (2), io (2), mi (2), l'uno (1), me (1), quelli (1)
+
+## Latino
+- type: individual
+- labels: Latino | latino
+- surfaces: tu (3), l'un (2), ti (2),  'l re Latino (1), lui (1)
+
+## Pluto
+- type: individual
+- labels: Pluto
+- surfaces: Pluto (2), tu (2), elli (1), il gran nemico (1), maladetto lupo (1), quella 'nfiata labbia (1), te (1)
+
+## Ulisse, Diomede
+- type: set
+- members: Ulisse | Diomede
+
+## amor
+- type: non-person
+- labels: amor | Amor
+- surfaces: Amor (3), amor (3), ei (2), s' (1)
+- grouped: no
+
+## demoni
+- type: class
+- labels: demoni | i demoni
+- surfaces: elli (4), lor (2), essi (1), s' (1), si (1)
+- grouped: no
+
+## frate Alberigo
+- type: individual
+- labels: frate Alberigo
+- surfaces: elli (2), I' (1), frate Alberigo (1), i' (1), io (1), lui (1), quel (1), tu (1)
+- grouped: no
+
+## i peccatori
+- type: class
+- labels: i peccatori
+- surfaces: i peccatori (3), elli (2), alcun de' peccatori (1), chi (1), ei (1), si (1)
+- grouped: no
+
+## l capo tronco
+- type: non-person
+- labels: l capo tronco
+- surfaces: ei (2), sé (2), egli (1), l capo tronco (1), me (1), pesol (1), quel (1)
+- grouped: no
+
+## l'ombra che morde
+- type: individual
+- labels: l'ombra che morde
+- surfaces: tu (4), ti (2), quella (1), si (1), te (1)
+- grouped: no
+
+## Alberigo
+- type: individual
+- labels: Alberigo
+- surfaces: lui (2), el (1), elli (1), gliel' (1), si (1), tu (1), un tal (1)
+
+## Catalano
+- type: individual
+- labels: Catalano
+- surfaces: io (2), Catalano (1), Io (1), al frate (1), ei (1), l frate (1), l'un (1)
+
+## Chirón
+- type: individual
+- labels: Chirón
+- surfaces: Chirón (2), elli (2), il gran Chirón (1), quel (1), s' (1), si (1)
+
+## Curio
+- type: individual
+- labels: Curio
+- surfaces: Questi (2), egli (2), chi (1), colui (1), li (1), un suo compagno (1)
+
+## Fïalte
+- type: individual
+- labels: Fïalte
+- surfaces: elli (3), Fïalte (2), Questo superbo (1), el (1), scuotersi (1)
+
+## Gerione
+- type: individual
+- labels: Gerione
+- surfaces: ella (3), colei (1), la fiera (1), quella sozza imagine di froda (1), si (1), una figura (1)
+
+## Gianni Schicchi
+- type: individual
+- labels: Gianni Schicchi
+- surfaces: ella (2), Gianni Schicchi (1), Quel folletto (1), ei (1), l'altro (1), sé (1), una (1)
+
+## Mosca
+- type: individual
+- labels: Mosca
+- surfaces: elli (3), Mosca (1), l Mosca (1), li (1), persona trista e matta (1), un (1)
+
+## Taïde
+- type: individual
+- labels: Taïde
+- surfaces: ella (2), Taïde (1), la puttana (1), quella sozza e scapigliata fante (1), s' (1), si (1), te (1)
+
+## cherci
+- type: class
+- labels: cherci
+- surfaces: cherci (3), Questi (1), chercuti (1), lerci (1), litterati grandi e di gran fama (1), quella turba grama (1)
+- grouped: no
+
+## conte Ugolino
+- type: individual
+- labels: conte Ugolino
+- surfaces: io (2),  'l conte Ugolino  (1), Io (1), conte Ugolino (1), i (1), i' (1), mi (1)
+- grouped: no
+
+## due becchi
+- type: non-person
+- labels: due becchi
+- surfaces: chi (1), due (1), due becchi (1), ei (1), essi (1), li (1), quei (1), voi (1)
+- grouped: no
+
+## i Giganti
+- type: class
+- labels: i Giganti | giganti | i giganti | Giganti
+- surfaces: elli (2), i giganti (2), fratelli (1), giganti (1), i figli de la terra (1), tali essecutori (1)
+- grouped: no
+
+## il mal seme d'Adamo
+- type: class
+- labels: il mal seme d'Adamo
+- surfaces: elli (2), s' (2), il mal seme d'Adamo (1), le (1), loro (1), nuova schiera (1)
+- grouped: no
+
+## la madre
+- type: individual
+- labels: la madre
+- surfaces: ella (2), la madre (2), sé (2), Mia madre (1), s' (1)
+- grouped: no
+
+## le genti
+- type: class
+- labels: le genti | genti | Genti
+- surfaces: elli (2), genti (2), le genti (2), Genti (1), le (1)
+- grouped: no
+
+## li altri
+- type: generic
+- labels: li altri
+- surfaces: li altri (6), dal concilio (1), elli (1)
+- grouped: no
+
+## un'ombra
+- type: generic
+- labels: un'ombra
+- surfaces: ella (3), un'ombra (2), Colui (1), s' (1), si (1)
+- grouped: no
+
+## Atamante
+- type: individual
+- labels: Atamante
+- surfaces: ei (4), Atamante (1), io (1), noi (1)
+
+## Caifasse
+- type: individual
+- labels: Caifasse
+- surfaces: ei (3), Quel confitto (1), el (1), il socero (1), si (1)
+
+## Catalano, Loderingo
+- type: set
+- members: Catalano | Loderingo
+
+## Cerbero
+- type: individual
+- labels: Cerbero
+- surfaces: ei (5), Cerbero (1), lo demonio Cerbero (1)
+
+## Omero
+- type: individual
+- labels: Omero
+- surfaces: Omero (1), colui (1), egli (1), poeta sovrano (1), quel segnor (1), quelli (1), sire (1)
+
+## Omero, Orazio, Ovidio, Lucano, Virgilio
+- type: set
+- members: Omero | Orazio | Ovidio | Lucano | Virgilio
+
+## compagni
+- type: class
+- labels: compagni | i compagni
+- surfaces: voi (4), ' compagni (1), frati (1), i compagni (1)
+- grouped: no
+
+## i fiorentini
+- type: class
+- labels: i fiorentini | fiorentini
+- surfaces: ei (2), costor (1), elli (1), li (1), lor (1), si (1)
+- grouped: no
+
+## ignavi
+- type: class
+- labels: ignavi
+- surfaces: li (2), lor (2), Questi (1), elli (1), loro (1)
+- grouped: no
+
+## l'ombra
+- type: generic
+- labels: l'ombra | ombra
+- surfaces: elli (4), l'ombra (1), ombra (1), s' (1)
+- grouped: no
+
+## la terra
+- type: non-person
+- labels: la terra | terra
+- surfaces: ella (5), la terra (1), si (1)
+- grouped: no
+
+## mastino sciolto
+- type: non-person
+- labels: mastino sciolto
+- surfaces: ei (3), Quel (1), mastino sciolto (1), s' (1), si (1)
+- grouped: no
+
+## quei de la palude pingue
+- type: class
+- labels: quei de la palude pingue
+- surfaces: elli (2), li (2), ei (1), quei (1), s' (1)
+- grouped: no
+
+## quel peccator
+- type: generic
+- labels: quel peccator
+- surfaces: io (2), egli (1), elli (1), i' (1), mi (1), quel peccator (1)
+- grouped: no
+
+## quest' anime stanche
+- type: class
+- labels: quest' anime stanche
+- surfaces: elli (1), i (1), li (1), loro (1), quest' anime stanche (1), questi (1), una (1)
+- grouped: no
+
+## ser Brunetto
+- type: individual
+- labels: ser Brunetto
+- surfaces: ei (2), 'l viso abbrusciato (1), lo cotto aspetto (1), ser Brunetto (1), un (1), voi (1)
+- grouped: no
+
+## the soul in the second flame
+- type: individual
+- labels: the soul in the second flame
+- surfaces: tu (3), io (1), maestro (1), mi (1), t' (1)
+- grouped: no
+
+## Agnel
+- type: individual
+- labels: Agnel
+- surfaces: tu (3), 'l (1), Agnel (1), ti (1)
+
+## Branca Doria
+- type: individual
+- labels: Branca Doria
+- surfaces: ei (4), Branca Doria (1), lui (1)
+
+## Bruto
+- type: individual
+- labels: Bruto
+- surfaces: ei (2), Bruto (1), quel (1), quel Bruto (1), si (1)
+
+## Caco
+- type: individual
+- labels: Caco
+- surfaces: elli (3), Caco (1), Questi (1), el (1)
+
+## Chirone
+- type: individual
+- labels: Chirone
+- surfaces: ei (2), Chirón (1), li (1), si (1), tu (1)
+
+## Dante, Virgilio, Omero, Orazio, Ovidio, Lucano
+- type: set
+- members: Dante | Virgilio | Omero | Orazio | Ovidio | Lucano
+
+## Ecuba
+- type: individual
+- labels: Ecuba
+- surfaces: ella (2), Ecuba trista, misera e cattiva (1), la dolorosa (1), le (1), si (1)
+
+## Euripilo
+- type: individual
+- labels: Euripilo
+- surfaces: ei (2), 'l (1), Euripilo (1), Quel (1), augure (1)
+
+## Li uomini
+- type: class
+- labels: Li uomini | li uomini
+- surfaces: elli (3), Li uomini (1), li uomini (1), s' (1)
+- grouped: no
+
+## Lo trafitto
+- type: individual
+- labels: Lo trafitto
+- surfaces: elli (2), Elli (1), Lo trafitto (1), l' (1), l'altro (1)
+- grouped: no
+
+## Maestro Adam
+- type: individual
+- labels: Maestro Adam
+- surfaces: io (5), ei (1)
+
+## Minosse
+- type: individual
+- labels: Minosse
+- surfaces: ei (3), li (1), lui (1), quel conoscitor de le peccata (1)
+
+## Nembrotto
+- type: individual
+- labels: Nembrotto
+- surfaces: Elli (1), Lasciànlo (1), Nembrotto (1), lui (1), questi (1), s' (1)
+
+## Ovidio
+- type: individual
+- labels: Ovidio
+- surfaces: Ovidio (2), ei (2), 'l terzo (1), lo (1)
+
+## San Pietro
+- type: individual
+- labels: San Pietro | san Pietro
+- surfaces: san Pietro (2), Pier (1), San Pietro (1), ei (1), tu (1)
+
+## Sassol Mascheroni
+- type: individual
+- labels: Sassol Mascheroni
+- surfaces: Sassol Mascheroni (1), chi (1), ei (1), questi (1), se' (1), tosco (1)
+
+## Viniziani
+- type: class
+- labels: Viniziani
+- surfaces: chi (5), elli (1)
+
+## anima lesa
+- type: generic
+- labels: anima lesa
+- surfaces: tu (3), anima lesa (1), chi (1), te (1)
+- grouped: no
+
+## anima mal nata
+- type: generic
+- labels: anima mal nata
+- surfaces: ella (3), anima mal nata (1), essa (1), si (1)
+- grouped: no
+
+## cacciati del ciel
+- type: class
+- labels: cacciati del ciel
+- surfaces: voi (2), cacciati del ciel (1), gente dispetta (1), v' (1), vi (1)
+- grouped: no
+
+## centauri
+- type: class
+- labels: centauri | Centauri | i Centauri
+- surfaces: elli (2), centauri (1), quelle fiere isnelle (1), si (1), suoi fratei (1)
+- grouped: no
+
+## l'imperador
+- type: individual
+- labels: l'imperador
+- surfaces: elli (4), quello imperador (1), sé (1)
+- grouped: no
+
+## la parte selvaggia
+- type: non-person
+- labels: la parte selvaggia
+- surfaces: ella (3), l'altra (1), la parte selvaggia (1), questa (1)
+- grouped: no
+
+## li spirti
+- type: class
+- labels: li spirti
+- surfaces: elli (2), li spirti (2), li (1), si (1)
+- grouped: no
+
+## lo spaürato
+- type: individual
+- labels: lo spaürato
+- surfaces: io (5), lo spaürato (1)
+- grouped: no
+
+## orrevol gente
+- type: class
+- labels: orrevol gente
+- surfaces: li (2), chi (1), lor (1), orrevol gente (1), questi (1)
+- grouped: no
+
+## persona orgogliosa
+- type: generic
+- labels: persona orgogliosa
+- surfaces: s' (2), Quei (1), colei (1), ombra sua (1), persona orgogliosa (1)
+- grouped: no
+
+## quel cane
+- type: individual
+- labels: quel cane
+- surfaces: egli (4), quel cane (1), si (1)
+- grouped: no
+
+## quel grande
+- type: individual
+- labels: quel grande
+- surfaces: ei (3), 'l (1), chi (1), quel grande (1)
+- grouped: no
+
+## simoniaci
+- type: class
+- labels: simoniaci
+- surfaces: voi (4), pastor (1), v' (1)
+- grouped: no
+
+## tre furïe infernal
+- type: class
+- labels: tre furïe infernal
+- surfaces: elle (3), le feroci Erine (1), le meschine (1), tre furïe infernal (1)
+- grouped: no
+
+## un gran pruno
+- type: non-person
+- labels: un gran pruno
+- surfaces: ei (2), mi (2), 'l tronco suo (1), un gran pruno (1)
+- grouped: no
+
+## un tiranno fello
+- type: generic
+- labels: un tiranno fello
+- surfaces: ei (3), Quel traditor (1), seco (1), un tiranno fello (1)
+- grouped: no
+
+## Agnel, il serpente
+- type: set
+- members: Agnel | il serpente
+
+## Alichin
+- type: individual
+- labels: Alichin
+- surfaces: io (2), Alichin (1), egli (1), si (1)
+
+## Anselmuccio
+- type: individual
+- labels: Anselmuccio
+- surfaces: ei (4), Anselmuccio mio (1)
+
+## Calcabrina
+- type: individual
+- labels: Calcabrina
+- surfaces: ei (2), Calcabrina (1), Irato Calcabrina de la buffa (1), lui (1)
+
+## Cavalcante della Scala
+- type: individual
+- labels: Cavalcante della Scala
+- surfaces: elli (2), ei (1), figlio (1), l suo nato (1)
+- grouped: no
+
+## Cristo
+- type: individual
+- labels: Cristo
+- surfaces: ei (3), marito (1), un possente (1)
+
+## Eliseo
+- type: individual
+- labels: Eliseo
+- surfaces: elli (2), colui (1), el (1), si (1)
+
+## Flegïàs
+- type: individual
+- labels: Flegïàs
+- surfaces: Flegïàs (3), tu (2)
+
+## Gerïon
+- type: individual
+- labels: Gerïon
+- surfaces: tu (3), Gerïon (2)
+
+## Guido Guerra
+- type: individual
+- labels: Guido Guerra
+- surfaces: ei (3), Guido Guerra (1), Questi (1)
+
+## Libicocco
+- type: individual
+- labels: Libicocco
+- surfaces: ei (3), Libicocco (2)
+
+## Megera, Alecto, Tesifone
+- type: set
+- members: Megera | Alecto | Tesifone
+
+## Mirra
+- type: individual
+- labels: Mirra
+- surfaces: Mirra scellerata (1), Quell' (1), Questa (1), anima antica (1), sé (1)
+
+## Omero, Orazio, Ovidio, Lucano
+- type: set
+- members: Omero | Orazio | Ovidio | Lucano
+
+## Ruggieri
+- type: individual
+- labels: Ruggieri
+- surfaces: Questi (1), donno (1), lui (1), maestro (1), s' (1)
+
+## Ser Brunetto Latino
+- type: individual
+- labels: Ser Brunetto Latino
+- surfaces: elli (1), il mio Tesoro (1), men (1), ser Brunetto (1), tu (1)
+
+## demonio
+- type: generic
+- labels: demonio | un demonio
+- surfaces: un demonio (2), ei (1), elli (1), i' (1)
+- grouped: no
+
+## fra Dolcin
+- type: individual
+- labels: fra Dolcin
+- surfaces: ei (1), ello (1), fra Dolcin (1), s' (1), tu (1)
+- grouped: no
+
+## l'alchimista di Arezzo
+- type: individual
+- labels: l'alchimista di Arezzo
+- surfaces: ti (2), lui (1), si (1), tu (1)
+- grouped: no
+
+## l'anima, il serpente
+- type: set
+- members: l'anima | il serpente
+
+## la porta dell'Inferno
+- type: non-person
+- labels: la porta dell'Inferno
+- surfaces: me (4), io (1)
+- grouped: no
+
+## li ammalati
+- type: class
+- labels: li ammalati
+- surfaces: l'altro (1), l'un (1), le lor persone (1), li ammalati (1), si (1)
+- grouped: no
+
+## quel cattivo coro de li angeli
+- type: class
+- labels: quel cattivo coro de li angeli
+- surfaces: elli (2), li angeli (1), quel cattivo coro (1), sé (1)
+- grouped: no
+
+## quell' anime
+- type: class
+- labels: quell' anime
+- surfaces: elli (4), quell' anime (1)
+- grouped: no
+
+## ser Branca Doria
+- type: individual
+- labels: ser Branca Doria
+- surfaces: che (1), el (1), elli (1), l'ombra (1), ser Branca Doria (1)
+- grouped: no
+
+## spirito incarcerato
+- type: generic
+- labels: spirito incarcerato
+- surfaces: ti (2), tu (2), spirito incarcerato (1)
+- grouped: no
+
+## un centauro
+- type: generic
+- labels: un centauro | Centauro | un Centauro
+- surfaces: elli (2), io (1), un (1), un centauro (1)
+- grouped: no
+
+## un d'i neri cherubini
+- type: generic
+- labels: un d'i neri cherubini
+- surfaces: ei (2), io (1), mi (1), un d'i neri cherubini (1)
+- grouped: no
+
+## un gran veglio
+- type: generic
+- labels: un gran veglio
+- surfaces: elli (4), un gran veglio (1)
+- grouped: no
+
+## un, fatto a guisa di lëuto
+- type: hypothetical-simile
+- labels: un, fatto a guisa di lëuto
+- surfaces: elli (1), l'altro (1), l'uomo (1), lui (1), un (1)
+- grouped: no
+
+## uomini
+- type: class
+- labels: uomini | Uomini
+- surfaces: noi (2), Uomini (1), chi (1), color (1)
+- grouped: no
+
+## Achille
+- type: individual
+- labels: Achille
+- surfaces: Achille (3), l grande Achille (1)
+
+## Alessandro
+- type: individual
+- labels: Alessandro
+- surfaces: Alessandro (3), ei (1)
+
+## Anfiarao
+- type: individual
+- labels: Anfiarao
+- surfaces: ei (4)
+
+## Aronta
+- type: individual
+- labels: Aronta
+- surfaces: Aronta (1), li (1), quel (1), s' (1)
+
+## Asdente
+- type: individual
+- labels: Asdente
+- surfaces: ei (2), Asdente (1), si (1)
+
+## Briareo
+- type: individual
+- labels: Briareo
+- surfaces: ei (3), Quel (1)
+
+## Cagnazzo
+- type: individual
+- labels: Cagnazzo
+- surfaces: Cagnazzo (2), ei (1), tu (1)
+
+## Caron
+- type: individual
+- labels: Caron
+- surfaces: Caron (2), dimonio (1), egli (1)
+
+## Cirïatto
+- type: individual
+- labels: Cirïatto
+- surfaces: Cirïatto (1), ei (1), il (1), l sorco (1)
+
+## Clemente V
+- type: individual
+- labels: Clemente V
+- surfaces: Nuovo Iasón (1), ei (1), lui (1), un pastor sanza legge (1)
+
+## Didone
+- type: individual
+- labels: Didone
+- surfaces: L'altra (1), colei (1), ella (1), s' (1)
+
+## Eretici
+- type: class
+- labels: Eretici | gli eretici
+- surfaces: elli (2), chi (1), quelli (1)
+
+## Farfarello
+- type: individual
+- labels: Farfarello
+- surfaces: Farfarello (2), malvagio uccello (1), tu (1)
+
+## Farinata, Tegghiaio, Iacopo Rusticucci, Arrigo, Mosca, li altri
+- type: set
+- members: Farinata | Tegghiaio | Iacopo Rusticucci | Arrigo | Mosca | li altri
+
+## Federico II
+- type: individual
+- labels: Federico II
+- surfaces: Augusto (1), Cesare (1), l secondo Federico (1), mio segnor (1)
+
+## Francesco
+- type: individual
+- labels: Francesco
+- surfaces: tu (2), Francesco (1), li (1)
+
+## Gaddo
+- type: individual
+- labels: Gaddo
+- surfaces: Gaddo (1), ei (1), m' (1), si (1)
+
+## Guiglielmo Borsiere
+- type: individual
+- labels: Guiglielmo Borsiere
+- surfaces: elli (2), Guiglielmo Borsiere (1), si (1)
+
+## Icaro
+- type: hypothetical-simile
+- labels: Icaro
+- surfaces: Icaro (1), elli (1), lui (1), tu (1)
+
+## Lano
+- type: individual
+- labels: Lano
+- surfaces: Lano (1), Quel (1), io (1), me (1)
+
+## Latino, Latino
+- type: set
+- members: Latino | Latino
+
+## Libia
+- type: non-person
+- labels: Libia
+- surfaces: ella (2), Libia (1), si (1)
+
+## Lucano
+- type: individual
+- labels: Lucano
+- surfaces: Lucano (2), ei (1), l'ultimo (1)
+
+## Marte
+- type: non-person
+- labels: Marte
+- surfaces: Marte (2), ei (2)
+
+## Medusa
+- type: individual
+- labels: Medusa
+- surfaces: 'l (1), Medusa (1), l Gorgón (1), si (1)
+
+## Mincio
+- type: non-person
+- labels: Mincio
+- surfaces: ei (2), el (1), si (1)
+
+## Pisa
+- type: non-person
+- labels: Pisa
+- surfaces: te (3), tu (1)
+
+## Rubicante
+- type: individual
+- labels: Rubicante
+- surfaces: tu (3), Rubicante (1)
+
+## Simon mago, miseri seguaci
+- type: set
+- members: Simon mago | miseri seguaci
+
+## Tiresia
+- type: individual
+- labels: Tiresia
+- surfaces: ei (2), Tiresia (1), l padre suo (1)
+
+## Ulisse, i suoi compagni
+- type: individual
+- labels: Ulisse, i suoi compagni
+- surfaces: noi (2), Noi (1), ci (1)
+- grouped: no
+
+## Vulcano
+- type: individual
+- labels: Vulcano
+- surfaces: tu (2), Buon Vulcano (1), l suo fabbro (1)
+
+## alcun
+- type: generic
+- labels: alcun
+- surfaces: si (3), se (1)
+- grouped: no
+
+## anime mal nate
+- type: class
+- labels: anime mal nate
+- surfaces: elle (4)
+- grouped: no
+
+## anime prave
+- type: class
+- labels: anime prave
+- surfaces: voi (2), anime prave (1), cotesti (1)
+- grouped: no
+
+## cittadini
+- type: class
+- labels: cittadini
+- surfaces: Voi (1), cittadini (1), elli (1), seco (1)
+- grouped: no
+
+## colui che suo dannaggio sogna
+- type: hypothetical-simile
+- labels: colui che suo dannaggio sogna
+- surfaces: egli (2), colui (1), quel (1)
+- grouped: no
+
+## cotesti due
+- type: individual
+- labels: cotesti due
+- surfaces: chi (1), cotesti due (1), elli (1), lor (1)
+- grouped: no
+
+## crucifisso
+- type: non-person
+- labels: crucifisso
+- surfaces: egli (2), si (1), un (1)
+- grouped: no
+
+## figlio
+- type: individual
+- labels: figlio | il figlio | 'l figlio
+- surfaces: 'l figlio (1), figlio (1), il figlio (1), lui (1)
+- grouped: no
+
+## i figliuoli di Ugolino
+- type: class
+- labels: i figliuoli di Ugolino
+- surfaces: elli (2), a' mie' figliuoi (1), i miei figliuoli (1)
+- grouped: no
+
+## i peccator carnali
+- type: class
+- labels: i peccator carnali
+- surfaces: li (2), i peccator carnali (1), li spiriti mali (1)
+- grouped: no
+
+## il peccatore padovano
+- type: individual
+- labels: il peccatore padovano
+- surfaces: lui (4)
+- grouped: no
+
+## il serpente
+- type: non-person
+- labels: il serpente | 'l serpente
+- surfaces:  'l serpente  (1), l'un (1), l'uno (1), si (1)
+- grouped: no
+
+## incontinenti
+- type: class
+- labels: incontinenti
+- surfaces: chi (1), elli (1), li (1), quelli (1)
+- grouped: no
+
+## l serpente
+- type: non-person
+- labels: l serpente
+- surfaces: 'l (1), l serpente (1), l'un (1), lui (1)
+- grouped: no
+
+## l'altra parte
+- type: non-person
+- labels: l'altra parte
+- surfaces: l'altra (2), ella (1), tal (1)
+- grouped: no
+
+## l'usuriere
+- type: class
+- labels: l'usuriere
+- surfaces: ei (2), l'usuriere (1), sé (1)
+- grouped: no
+
+## la Carisenda
+- type: hypothetical-simile
+- labels: la Carisenda
+- surfaces: ella (1), essa (1), l chinato (1), la Carisenda (1)
+- grouped: no
+
+## la falsa, Sinon
+- type: set
+- members: la falsa | Sinon
+
+## le cose
+- type: non-person
+- labels: le cose
+- surfaces: elli (2), li (1), s' (1)
+- grouped: no
+
+## li maggior
+- type: class
+- labels: li maggior
+- surfaces: Chi (1), elli (1), li (1), li maggior (1)
+- grouped: no
+
+## lo sciagurato
+- type: individual
+- labels: lo sciagurato
+- surfaces: chi (1), li (1), lo (1), lo sciagurato (1)
+- grouped: no
+
+## nemici
+- type: class
+- labels: nemici | i nemici
+- surfaces: i nemici (1), lor (1), nemici (1), se (1)
+- grouped: no
+
+## quei che volontieri acquista
+- type: class
+- labels: quei che volontieri acquista
+- surfaces: ei (1), lo (1), quei (1), s' (1)
+- grouped: no
+
+## quei più che cagion fu del difetto
+- type: individual
+- labels: quei più che cagion fu del difetto
+- surfaces: elli (2), quei (1), si (1)
+- grouped: no
+
+## quelle genti
+- type: class
+- labels: quelle genti
+- surfaces: elli (1), quai (1), quelle genti (1), si (1)
+- grouped: no
+
+## questa fiamma
+- type: non-person
+- labels: questa fiamma
+- surfaces: i' (2), io (1), questa fiamma (1)
+- grouped: no
+
+## scornati
+- type: class
+- labels: scornati
+- surfaces: color (1), elli (1), lor (1), quai (1)
+- grouped: no
+
+## seminator di scandalo e di scisma
+- type: class
+- labels: seminator di scandalo e di scisma
+- surfaces: elli (2), n' (1), seminator di scandalo e di scisma (1)
+- grouped: no
+
+## tre spiriti
+- type: individual
+- labels: tre spiriti
+- surfaces: elli (1), essi (1), quai (1), tre spiriti (1)
+- grouped: no
+
+## un peccator
+- type: generic
+- labels: un peccator | i peccator | peccator
+- surfaces: i peccator (1), peccator (1), quei (1), un peccator (1)
+- grouped: no
+
+## vïolenti
+- type: class
+- labels: vïolenti
+- surfaces: elli (1), si (1), sé (1), vïolenti (1)
+- grouped: no
+
+## 'l villan
+- type: generic
+- labels: 'l villan
+- surfaces: 'l villan (1), egli (1), si (1)
+- grouped: no
+
+## Abèl
+- type: individual
+- labels: Abèl
+- surfaces: Abèl (1), l'ombra del primo parente (1), suo figlio (1)
+
+## Alichino
+- type: individual
+- labels: Alichino
+- surfaces: Alichino (1), ti (1), tu (1)
+
+## Anfïarao
+- type: individual
+- labels: Anfïarao
+- surfaces: tu (2), Anfïarao (1)
+
+## Aristotele
+- type: individual
+- labels: Aristotele
+- surfaces: 'l maestro (1), li (1), lo (1)
+
+## Attila
+- type: individual
+- labels: Attila
+- surfaces: Attila (2), flagello (1)
+
+## Azzolino
+- type: individual
+- labels: Azzolino
+- surfaces: Azzolino (1), ei (1), quella fronte (1)
+
+## Celestino V
+- type: individual
+- labels: Celestino V
+- surfaces: colui (1), l mio antecessor (1), ombra (1)
+
+## Costantino
+- type: individual
+- labels: Costantino
+- surfaces: Costantin (1), matre (1), te (1)
+
+## Dante, Virgilio, Nesso
+- type: set
+- members: Dante | Virgilio | Nesso
+
+## Dite
+- type: non-person
+- labels: Dite
+- surfaces: Dite (3)
+
+## Dïascoride
+- type: individual
+- labels: Dïascoride
+- surfaces: Dïascoride (1), il buono accoglitor (1), quale (1)
+
+## Ercule
+- type: individual
+- labels: Ercule
+- surfaces: Ercule (3)
+
+## Farinata, Tegghiaio, Iacopo Rusticucci, Arrigo, Mosca
+- type: set
+- members: Farinata | Tegghiaio | Iacopo Rusticucci | Arrigo | Mosca
+
+## Farinata, le anime dell'Inferno
+- type: class
+- labels: Farinata, le anime dell'Inferno
+- surfaces: Noi (1), ci (1), noi (1)
+- grouped: no
+
+## Filosofia
+- type: non-person
+- labels: Filosofia
+- surfaces: Filosofia (1), ella (1), la (1)
+
+## Flegeo
+- type: individual
+- labels: Flegeo
+- surfaces: ei (1), il nocchier forte (1), un sol galeoto (1)
+
+## Fra Alberigo
+- type: individual
+- labels: Fra Alberigo
+- surfaces: mi (2), ïo (1)
+
+## Gerïone
+- type: individual
+- labels: Gerïone
+- surfaces: Gerïone (1), elli (1), si (1)
+
+## Gianni Schicchi, Mirra
+- type: set
+- members: Gianni Schicchi | Mirra
+
+## Giuda
+- type: individual
+- labels: Giuda
+- surfaces: Giuda (2), l'anima ria (1)
+
+## Graffiacan
+- type: individual
+- labels: Graffiacan
+- surfaces: ei (2), Graffiacan (1)
+
+## Guelfi
+- type: class
+- labels: Guelfi
+- surfaces: ei (2), elli (1)
+
+## Iacopo
+- type: individual
+- labels: Iacopo
+- surfaces: Iacopo (1), al cespuglio (1), t' (1)
+
+## La meretrice
+- type: generic
+- labels: La meretrice
+- surfaces: La meretrice (1), de le corti vizio (1), morte comune (1)
+- grouped: no
+
+## Lancialotto
+- type: individual
+- labels: Lancialotto
+- surfaces: Lancialotto (1), cotanto amante (1), lo (1)
+
+## Lo maggior corno
+- type: non-person
+- labels: Lo maggior corno
+- surfaces: Lo maggior corno (1), crollarsi (1), ei (1)
+- grouped: no
+
+## Medea
+- type: individual
+- labels: Medea
+- surfaces: Medea (1), ei (1), si (1)
+
+## Michel Zanche
+- type: individual
+- labels: Michel Zanche
+- surfaces: Michel Zanche (1), donno Michel Zanche (1), questi (1)
+
+## Michele Scotto
+- type: individual
+- labels: Michele Scotto
+- surfaces: Michele Scotto (1), Quell' altro (1), ei (1)
+
+## Opizzo da Esti
+- type: individual
+- labels: Opizzo da Esti
+- surfaces: Opizzo da Esti (1), ei (1), quell' altro (1)
+- grouped: no
+
+## Orazio
+- type: individual
+- labels: Orazio
+- surfaces: Orazio (1), l'altro (1), satiro (1)
+
+## Paolo
+- type: individual
+- labels: Paolo
+- surfaces: costui (1), l'altro (1), questi (1)
+
+## Pistoia
+- type: non-person
+- labels: Pistoia
+- surfaces: tu (3)
+
+## Puccio Sciancato
+- type: individual
+- labels: Puccio Sciancato
+- surfaces: Puccio Sciancato (1), ei (1), quel (1)
+
+## Questi sciaurati
+- type: class
+- labels: Questi sciaurati
+- surfaces: Questi sciaurati (1), elli (1), lor (1)
+- grouped: no
+
+## Scarmiglione
+- type: individual
+- labels: Scarmiglione
+- surfaces: tu (2), Scarmiglione (1)
+
+## Tegghiaio Aldobrandi
+- type: individual
+- labels: Tegghiaio Aldobrandi
+- surfaces: L'altro (1), Tegghiaio Aldobrandi (1), ei (1)
+
+## Tidëo
+- type: individual
+- labels: Tidëo
+- surfaces: Tidëo (1), quei (1), si (1)
+
+## Toschi o Lombardi
+- type: class
+- labels: Toschi o Lombardi
+- surfaces: ne (2), ei (1)
+- grouped: no
+
+## Ulisse, Dïomede
+- type: set
+- members: Ulisse | Dïomede
+
+## Virgilio, spiriti
+- type: set
+- members: Virgilio | spiriti
+
+## alcuna gente
+- type: generic
+- labels: alcuna gente
+- surfaces: alcuna gente (1), ella (1), quella (1)
+- grouped: no
+
+## altrui
+- type: generic
+- labels: altrui
+- surfaces: l' (1), lo (1), si (1)
+- grouped: no
+
+## barrattori
+- type: class
+- labels: barrattori
+- surfaces: li (2), elli (1)
+- grouped: no
+
+## chiunque entri nell'Inferno
+- type: generic
+- labels: chiunque entri nell'Inferno
+- surfaces: si (3)
+- grouped: no
+
+## color che 'n sé assanna
+- type: class
+- labels: color che 'n sé assanna
+- surfaces: chi (1), color (1), sé (1)
+- grouped: no
+
+## colui che va giuso
+- type: individual
+- labels: colui che va giuso
+- surfaces: si (2), colui (1)
+- grouped: no
+
+## drudo suo
+- type: individual
+- labels: drudo suo
+- surfaces: al drudo suo (1), ella (1), io (1)
+- grouped: no
+
+## genti fangose
+- type: class
+- labels: genti fangose
+- surfaces: Queste (1), genti fangose (1), si (1)
+- grouped: no
+
+## i campion
+- type: class
+- labels: i campion
+- surfaces: elli (1), i campion (1), lor (1)
+- grouped: no
+
+## i figli di Ugolino
+- type: class
+- labels: i figli di Ugolino
+- surfaces: elli (1), li (1), li tre (1)
+- grouped: no
+
+## i miseri profani
+- type: class
+- labels: i miseri profani
+- surfaces: elli (1), i miseri profani (1), li (1)
+- grouped: no
+
+## il Padre
+- type: individual
+- labels: il Padre | il padre | padre
+- surfaces: al padre (1), il padre (1), padre (1)
+- grouped: no
+
+## il padoano
+- type: individual
+- labels: il padoano
+- surfaces: ei (1), io (1), mi (1)
+- grouped: no
+
+## ipocrita
+- type: class
+- labels: ipocrita
+- surfaces: tu (2), elli (1)
+- grouped: no
+
+## ipocriti tristi
+- type: class
+- labels: ipocriti tristi
+- surfaces: elli (1), ipocriti tristi (1), l (1)
+- grouped: no
+
+## l barattier
+- type: class
+- labels: l barattier
+- surfaces: l barattier (1), li (1), quei (1)
+- grouped: no
+
+## l frate Catalan
+- type: individual
+- labels: l frate Catalan
+- surfaces: ei (1), l frate Catalan (1), s' (1)
+- grouped: no
+
+## l primo padrone
+- type: individual
+- labels: l primo padrone
+- surfaces: ei (2), l primo padrone (1)
+- grouped: no
+
+## l'anime triste di coloro che visser sanza 'nfamia e sanza lodo
+- type: class
+- labels: l'anime triste di coloro che visser sanza 'nfamia e sanza lodo
+- surfaces: coloro (1), elli (1), l'anime (1)
+- grouped: no
+
+## l'un di lor
+- type: generic
+- labels: l'un di lor
+- surfaces: ei (1), l'un (1), si (1)
+- grouped: no
+
+## la brina
+- type: non-person
+- labels: la brina
+- surfaces: ella (2),  la brina  (1)
+- grouped: no
+
+## la fiamma
+- type: non-person
+- labels: la fiamma
+- surfaces: elli (1), la fiamma (1), si (1)
+- grouped: no
+
+## la meretrice di Babilonia
+- type: individual
+- labels: la meretrice di Babilonia
+- surfaces: colei (1), ella (1), quella (1)
+- grouped: no
+
+## la moglie
+- type: generic
+- labels: la moglie
+- surfaces: la moglie (1), quella (1), s' (1)
+- grouped: no
+
+## le brutte Arpie
+- type: class
+- labels: le brutte Arpie
+- surfaces: elli (2), le brutte Arpie (1)
+- grouped: no
+
+## le genti antiche
+- type: class
+- labels: le genti antiche
+- surfaces: il popol (1), le genti antiche (1), si (1)
+- grouped: no
+
+## le triste
+- type: class
+- labels: le triste
+- surfaces: elle (2), le triste (1)
+- grouped: no
+
+## lettore
+- type: generic
+- labels: lettore | il lettore
+- surfaces: tu (2), lettore (1)
+- grouped: no
+
+## li frodolenti
+- type: class
+- labels: li frodolenti
+- surfaces: elli (1), li (1), li frodolenti (1)
+- grouped: no
+
+## li sferzati
+- type: class
+- labels: li sferzati
+- surfaces: altri mal nati (1), elli (1), li sferzati (1)
+- grouped: no
+
+## messer Guido, Angiolello
+- type: set
+- members: messer Guido | Angiolello
+
+## persona
+- type: generic
+- labels: persona
+- surfaces: persona (3)
+- grouped: no
+
+## quattro visi
+- type: non-person
+- labels: quattro visi
+- surfaces: ci (1), noi (1), quattro visi (1)
+- grouped: no
+
+## quei ch'adopera ed estima
+- type: class
+- labels: quei ch'adopera ed estima
+- surfaces: egli (1), quei (1), si (1)
+- grouped: no
+
+## quella gente stanca
+- type: class
+- labels: quella gente stanca
+- surfaces: ella (1), loro (1), quella gente stanca (1)
+- grouped: no
+
+## quelli che muoion ne l'ira di Dio
+- type: class
+- labels: quelli che muoion ne l'ira di Dio
+- surfaces: elli (1), li (1), quelli (1)
+- grouped: no
+
+## queste misere carni
+- type: non-person
+- labels: queste misere carni
+- surfaces: le (1), ne (1), queste misere carni (1)
+- grouped: no
+
+## ruffiani e seduttori
+- type: class
+- labels: ruffiani e seduttori
+- surfaces: elli (1), li (1), lor (1)
+- grouped: no
+
+## serpe
+- type: non-person
+- labels: serpe
+- surfaces: ella (2), io (1)
+- grouped: no
+
+## serpenti
+- type: non-person
+- labels: serpenti
+- surfaces: elle (2), quelle (1)
+- grouped: no
+
+## tre fiorentini
+- type: class
+- labels: tre fiorentini
+- surfaces: elli (2), sé (1)
+- grouped: no
+
+## tre ombre
+- type: class
+- labels: tre ombre
+- surfaces: elli (1), si (1), tre ombre (1)
+- grouped: no
+
+## un diavol nero
+- type: generic
+- labels: un diavol nero
+- surfaces: elli (2), un diavol nero (1)
+- grouped: no
+
+## un gigante
+- type: generic
+- labels: un gigante | il Gigante
+- surfaces: 'l (1), lui (1), un gigante (1)
+- grouped: no
+
+## un ribaldo
+- type: generic
+- labels: un ribaldo
+- surfaces: distruggitor (1), sé (1), un ribaldo (1)
+- grouped: no
+
+## un serpentello acceso
+- type: non-person
+- labels: un serpentello acceso
+- surfaces: ei (1), lui (1), un serpentello acceso (1)
+- grouped: no
+
+## una persona ipotetica
+- type: hypothetical-simile
+- labels: una persona ipotetica
+- surfaces: egli (1), el (1), s' (1)
+- grouped: no
+
+## veltro
+- type: non-person
+- labels: veltro
+- surfaces: ei (2), Questi (1)
+- grouped: no
+
+## 'l discente
+- type: generic
+- labels: 'l discente
+- surfaces:  'l discente (1), la sua seguace (1)
+- grouped: no
+
+## 'l serpente, 'l feruto
+- type: set
+- members: 'l serpente | 'l feruto
+
+## 'l sol
+- type: non-person
+- labels: 'l sol
+- surfaces: 'l sol (1), lui (1)
+- grouped: no
+
+## 'l trentino
+- type: individual
+- labels: 'l trentino
+- surfaces:  'l trentino (1), pastore (1)
+- grouped: no
+
+## Adriano V
+- type: individual
+- labels: Adriano V
+- surfaces: colui (1), dal servo de' servi (1)
+
+## Aletto
+- type: individual
+- labels: Aletto
+- surfaces: Aletto (1), quella (1)
+
+## Aretin
+- type: individual
+- labels: Aretin
+- surfaces: Aretin (1), ei (1)
+
+## Aretusa
+- type: individual
+- labels: Aretusa
+- surfaces: Aretusa (1), quella (1)
+
+## Atropòs
+- type: individual
+- labels: Atropòs
+- surfaces: Atropòs (1), le (1)
+
+## Beccheria
+- type: individual
+- labels: Beccheria
+- surfaces: Beccheria (1), quel (1)
+
+## Bisenzo
+- type: individual
+- labels: Bisenzo
+- surfaces: Bisenzo (1), si (1)
+
+## Bruto, Cassio
+- type: set
+- members: Bruto | Cassio
+
+## Cadmo
+- type: individual
+- labels: Cadmo
+- surfaces: Cadmo (1), quello (1)
+
+## Cammilla
+- type: individual
+- labels: Cammilla
+- surfaces: Cammilla (1), la vergine Cammilla (1)
+
+## Cassio
+- type: individual
+- labels: Cassio
+- surfaces: Cassio (1), l'altro (1)
+
+## Cesare
+- type: individual
+- labels: Cesare
+- surfaces: Cesare (1), Cesare armato (1)
+
+## Circe
+- type: individual
+- labels: Circe
+- surfaces: Circe (1), la (1)
+
+## Cleopatràs
+- type: individual
+- labels: Cleopatràs
+- surfaces: Cleopatràs lussurïosa (1), ella (1)
+
+## Davìd
+- type: individual
+- labels: Davìd
+- surfaces: Davìd (1), Davìd re (1)
+
+## Deïdamìa
+- type: individual
+- labels: Deïdamìa
+- surfaces: Deïdamìa (1), si (1)
+
+## Dio Padre
+- type: individual
+- labels: Dio Padre
+- surfaces: il mio alto fattore (1), la divina podestate (1)
+
+## Dio, sé, prossimo
+- type: generic
+- labels: Dio, sé, prossimo
+- surfaces: loro (1), tre persone (1)
+- grouped: no
+
+## Draghignazzo
+- type: individual
+- labels: Draghignazzo
+- surfaces: Draghignazzo (2)
+
+## Enëa
+- type: individual
+- labels: Enëa
+- surfaces: Enëa (2)
+
+## Eretico
+- type: class
+- labels: Eretico
+- surfaces: mi (2)
+
+## Eritón
+- type: individual
+- labels: Eritón
+- surfaces: ella (1), quella Eritón cruda (1)
+
+## Federigo
+- type: individual
+- labels: Federigo
+- surfaces: Federigo (2)
+
+## Fiamminghi
+- type: class
+- labels: Fiamminghi
+- surfaces: elli (1), lor (1)
+
+## Firenze
+- type: non-person
+- labels: Firenze
+- surfaces: ella (2)
+
+## Folo
+- type: individual
+- labels: Folo
+- surfaces: Folo (1), quell' (1)
+
+## Franceschi
+- type: class
+- labels: Franceschi
+- surfaces: Franceschi (2)
+
+## Gaville
+- type: individual
+- labels: Gaville
+- surfaces: Gaville (1), tu (1)
+
+## Genovesi
+- type: class
+- labels: Genovesi
+- surfaces: voi (2)
+
+## Gianni de' Soldanier
+- type: individual
+- labels: Gianni de' Soldanier
+- surfaces: Gianni de' Soldanier (1), ei (1)
+- grouped: no
+
+## Giovanni Vangelista
+- type: individual
+- labels: Giovanni Vangelista
+- surfaces: il Vangelista (1), lui (1)
+
+## Giuda Scarïotto
+- type: individual
+- labels: Giuda Scarïotto
+- surfaces: Giuda Scarïotto (1), Quell' anima (1)
+
+## Guido, Alessandro, il fratello
+- type: individual
+- labels: Guido, Alessandro, il fratello
+- surfaces: elli (1), lor (1)
+- grouped: no
+
+## Isifile
+- type: individual
+- labels: Isifile
+- surfaces: Isifile (1), la giovinetta (1)
+
+## Isopo
+- type: individual
+- labels: Isopo
+- surfaces: Isopo (1), el (1)
+
+## Iunone
+- type: individual
+- labels: Iunone
+- surfaces: Iunone (1), ella (1)
+
+## Lavina
+- type: individual
+- labels: Lavina
+- surfaces: Lavina (1), figlia (1)
+
+## Learco
+- type: individual
+- labels: Learco
+- surfaces: Learco (1), l'un (1)
+
+## Li altri due
+- type: individual
+- labels: Li altri due
+- surfaces: Li altri due (1), egli (1)
+- grouped: no
+
+## Li miei compagni
+- type: class
+- labels: Li miei compagni
+- surfaces: Li miei compagni (1), li (1)
+- grouped: no
+
+## Lo caldo sghermitor
+- type: individual
+- labels: Lo caldo sghermitor
+- surfaces: Lo caldo sghermitor (1), ei (1)
+- grouped: no
+
+## Malatesta Vecchio, Malatesta Giovane
+- type: set
+- members: Malatesta Vecchio | Malatesta Giovane
+
+## Matia
+- type: individual
+- labels: Matia
+- surfaces: Matia (1), ei (1)
+
+## Megera
+- type: individual
+- labels: Megera
+- surfaces: Megera (1), Quest' (1)
+
+## Nesso, Folo
+- type: set
+- members: Nesso | Folo
+
+## Nimrod
+- type: individual
+- labels: Nimrod
+- surfaces: l'altro (1), la fiera bocca (1)
+
+## Nostro Segnore
+- type: individual
+- labels: Nostro Segnore
+- surfaces: Nostro Segnore (1), ei (1)
+
+## Noè
+- type: individual
+- labels: Noè
+- surfaces: Noè (1), quella (1)
+
+## Ogne lingua
+- type: generic
+- labels: Ogne lingua
+- surfaces: Chi (1), Ogne lingua (1)
+- grouped: no
+
+## Paulo
+- type: individual
+- labels: Paulo
+- surfaces: Paulo (1), lo Vas d'elezïone (1)
+
+## Quanti
+- type: class
+- labels: Quanti
+- surfaces: si (1), sé (1)
+
+## Rachele
+- type: individual
+- labels: Rachele
+- surfaces: Rachele (1), l'antica Rachele (1)
+
+## Rëa
+- type: individual
+- labels: Rëa
+- surfaces: Rëa (1), ella (1)
+
+## Satàn
+- type: individual
+- labels: Satàn
+- surfaces: Pape Satàn (1), pape Satàn (1)
+
+## Vitalïano
+- type: individual
+- labels: Vitalïano
+- surfaces: 'l cavalier sovrano (1), 'l mio vicin Vitalïano (1)
+
+## a' marinar
+- type: class
+- labels: a' marinar
+- surfaces: a' marinar (1), s' (1)
+- grouped: no
+
+## anima fella
+- type: generic
+- labels: anima fella
+- surfaces: anima fella (1), se' (1)
+- grouped: no
+
+## arcivescovo Ruggieri
+- type: individual
+- labels: arcivescovo Ruggieri
+- surfaces: l'arcivescovo Ruggieri (1), questi (1)
+- grouped: no
+
+## cani
+- type: non-person
+- labels: cani
+- surfaces: ei (1), s' (1)
+- grouped: no
+
+## cavalier
+- type: hypothetical-simile
+- labels: cavalier
+- surfaces: cavalier (2)
+- grouped: no
+
+## chi guarda sottilmente
+- type: generic
+- labels: chi guarda sottilmente
+- surfaces: chi (1), egli (1)
+- grouped: no
+
+## chi non si pente
+- type: class
+- labels: chi non si pente
+- surfaces: chi (1), si (1)
+- grouped: no
+
+## ciascun
+- type: generic
+- labels: ciascun
+- surfaces: ei (2)
+- grouped: no
+
+## color che non veggion pur l'ovra
+- type: class
+- labels: color che non veggion pur l'ovra
+- surfaces: color (1), elli (1)
+- grouped: no
+
+## color che son contenti nel foco
+- type: class
+- labels: color che son contenti nel foco
+- surfaces: color (1), elli (1)
+- grouped: no
+
+## coloro che corrono a Verona
+- type: class
+- labels: coloro che corrono a Verona
+- surfaces: coloro (1), costoro (1)
+- grouped: no
+
+## colpa
+- type: non-person
+- labels: colpa
+- surfaces: ella (1), l' (1)
+- grouped: no
+
+## colui che 'l mondo schiara
+- type: individual
+- labels: colui che 'l mondo schiara
+- surfaces: colui (1), egli (1)
+- grouped: no
+
+## colui che sì presso ha 'l riprezzo de la quartana
+- type: individual
+- labels: colui che sì presso ha 'l riprezzo de la quartana
+- surfaces: colui (1), ei (1)
+- grouped: no
+
+## d'anime una schiera
+- type: class
+- labels: d'anime una schiera
+- surfaces: d'anime una schiera (1), elli (1)
+- grouped: no
+
+## dio d'oro e d'argento
+- type: non-person
+- labels: dio d'oro e d'argento
+- surfaces: dio (1), ne (1)
+- grouped: no
+
+## due ghiacciati
+- type: class
+- labels: due ghiacciati
+- surfaces: due ghiacciati (1), l'altro (1)
+- grouped: no
+
+## dura terra
+- type: non-person
+- labels: dura terra
+- surfaces: dura terra (1), t' (1)
+- grouped: no
+
+## falconiere
+- type: hypothetical-simile
+- labels: falconiere
+- surfaces: al falconiere (1), dal suo maestro (1)
+- grouped: no
+
+## femmine
+- type: class
+- labels: femmine
+- surfaces: femmine (2)
+- grouped: no
+
+## filosofica famiglia
+- type: class
+- labels: filosofica famiglia
+- surfaces: color (1), filosofica famiglia (1)
+- grouped: no
+
+## giustizia
+- type: non-person
+- labels: giustizia | Giustizia
+- surfaces: Giustizia (1), giustizia (1)
+- grouped: no
+
+## gravi cittadin
+- type: class
+- labels: gravi cittadin
+- surfaces: grande stuolo (1), gravi cittadin (1)
+- grouped: no
+
+## i Troiani
+- type: class
+- labels: i Troiani
+- surfaces: elli (1), i Troiani (1)
+- grouped: no
+
+## i cattivi
+- type: class
+- labels: i cattivi
+- surfaces: i cattivi (1), v' (1)
+- grouped: no
+
+## i falsador
+- type: class
+- labels: i falsador
+- surfaces: i falsador (1), li spirti (1)
+- grouped: no
+
+## i morti
+- type: class
+- labels: i morti
+- surfaces: i morti (2)
+- grouped: no
+
+## il Batista
+- type: individual
+- labels: il Batista | Batista
+- surfaces: Batista (1), del Batista (1)
+- grouped: no
+
+## il Sole
+- type: non-person
+- labels: il Sole | 'l sole
+- surfaces:  'l sole  (1), del pianeta (1)
+- grouped: no
+
+## il diavolo
+- type: individual
+- labels: il diavolo | Un diavolo
+- surfaces: Un diavolo (1), il diavolo (1)
+- grouped: no
+
+## il messaggero
+- type: individual
+- labels: il messaggero
+- surfaces: ei (1), tu (1)
+- grouped: no
+
+## il padre di Cavalcante della Scala
+- type: individual
+- labels: il padre di Cavalcante della Scala
+- surfaces: costui (1), lui (1)
+- grouped: no
+
+## il padre, 'l figlio
+- type: set
+- members: il padre | 'l figlio
+
+## il più crudele
+- type: individual
+- labels: il più crudele
+- surfaces: i (1), quei (1)
+- grouped: no
+
+## il re de l'universo
+- type: individual
+- labels: il re de l'universo
+- surfaces: il re de l'universo (1), lui (1)
+- grouped: no
+
+## il segnor mio
+- type: individual
+- labels: il segnor mio
+- surfaces: al segnor mio (1), lui (1)
+- grouped: no
+
+## il serpente, lo spirito
+- type: set
+- members: il serpente | lo spirito
+
+## il tronco forte
+- type: non-person
+- labels: il tronco forte
+- surfaces: il tronco forte (1), si (1)
+- grouped: no
+
+## l frate
+- type: individual
+- labels: l frate
+- surfaces: l frate (1), lui (1)
+- grouped: no
+
+## l pasto
+- type: non-person
+- labels: l pasto
+- surfaces: divorarlo (1), l pasto (1)
+- grouped: no
+
+## l veltro
+- type: non-person
+- labels: l veltro
+- surfaces: Questi (1), l veltro (1)
+- grouped: no
+
+## l'Arpie
+- type: class
+- labels: l'Arpie
+- surfaces: elli (1), l'Arpie (1)
+- grouped: no
+
+## l'aguta punta
+- type: non-person
+- labels: l'aguta punta
+- surfaces: ella (1), l'aguta punta (1)
+- grouped: no
+
+## l'alito
+- type: non-person
+- labels: l'alito
+- surfaces: l'alito (1), s' (1)
+- grouped: no
+
+## l'alta provedenza
+- type: non-person
+- labels: l'alta provedenza
+- surfaces: ella (1), l'alta provedenza (1)
+- grouped: no
+
+## l'anime triste di coloro che visser sanza 'nfamia e sanza lodo, quel cattivo coro de li angeli
+- type: set
+- members: l'anime triste di coloro che visser sanza 'nfamia e sanza lodo | quel cattivo coro de li angeli
+
+## l'animo
+- type: non-person
+- labels: l'animo
+- surfaces: esso (1), s' (1)
+- grouped: no
+
+## l'idolatre
+- type: generic
+- labels: l'idolatre
+- surfaces: elli (1), l'idolatre (1)
+- grouped: no
+
+## l'ombra morsa
+- type: individual
+- labels: l'ombra morsa
+- surfaces: colui (1), lui (1)
+- grouped: no
+
+## l'ombre dolenti
+- type: class
+- labels: l'ombre dolenti
+- surfaces: l'ombre dolenti (1), lor (1)
+- grouped: no
+
+## la barca
+- type: non-person
+- labels: la barca
+- surfaces: ella (2)
+- grouped: no
+
+## la bolgia
+- type: non-person
+- labels: la bolgia
+- surfaces: ella (2)
+- grouped: no
+
+## la brigata
+- type: class
+- labels: la brigata | Brigata
+- surfaces:  'l Brigata  (1), la brigata (1)
+- grouped: no
+
+## la bufera infernal
+- type: non-person
+- labels: la bufera infernal
+- surfaces: ella (2)
+- grouped: no
+
+## la divina giustizia
+- type: non-person
+- labels: la divina giustizia
+- surfaces: ella (2)
+- grouped: no
+
+## la donna
+- type: generic
+- labels: la donna
+- surfaces: la donna (2)
+- grouped: no
+
+## la falsa
+- type: individual
+- labels: la falsa
+- surfaces: la falsa (1), una (1)
+- grouped: no
+
+## la fiamma cornuta
+- type: non-person
+- labels: la fiamma cornuta
+- surfaces: la fiamma cornuta (1), lei (1)
+- grouped: no
+
+## la gente mesta
+- type: class
+- labels: la gente mesta
+- surfaces: elli (1), la gente mesta (1)
+- grouped: no
+
+## la lupa
+- type: non-person
+- labels: la lupa
+- surfaces: ella (2)
+- grouped: no
+
+## la mente
+- type: non-person
+- labels: la mente | mente
+- surfaces: la mente (1), mente (1)
+- grouped: no
+
+## la ministra
+- type: individual
+- labels: la ministra
+- surfaces: ella (1), la ministra (1)
+- grouped: no
+
+## la pece
+- type: non-person
+- labels: la pece
+- surfaces: essa (1), lei (1)
+- grouped: no
+
+## la persona con cui il Navarrese fece mala partita
+- type: individual
+- labels: la persona con cui il Navarrese fece mala partita
+- surfaces: Chi (1), colui (1)
+- grouped: no
+
+## la voce
+- type: non-person
+- labels: la voce | una voce
+- surfaces: chi (1), ei (1)
+- grouped: no
+
+## le due ombre
+- type: class
+- labels: le due ombre
+- surfaces: chi (1), voi (1)
+- grouped: no
+
+## le peccatrici
+- type: class
+- labels: le peccatrici
+- surfaces: le peccatrici (1), lor (1)
+- grouped: no
+
+## li altri brutti
+- type: class
+- labels: li altri brutti
+- surfaces: li altri brutti (1), li altri tutti (1)
+- grouped: no
+
+## li altri tratti
+- type: class
+- labels: li altri tratti
+- surfaces: che (1), li altri tratti (1)
+- grouped: no
+
+## li animi tutti
+- type: class
+- labels: li animi tutti
+- surfaces: li 'nfiammati (1), li animi tutti (1)
+- grouped: no
+
+## li diece demoni
+- type: class
+- labels: li diece demoni
+- surfaces: fiera compagnia (1), li diece demoni (1)
+- grouped: no
+
+## li due tapini
+- type: individual
+- labels: li due tapini
+- surfaces: Chi (1), li due tapini (1)
+- grouped: no
+
+## li empi
+- type: class
+- labels: li empi
+- surfaces: La gente (1), li empi (1)
+- grouped: no
+
+## li fanti
+- type: class
+- labels: li fanti
+- surfaces: li fanti (1), sé (1)
+- grouped: no
+
+## li suoi compagni
+- type: class
+- labels: li suoi compagni
+- surfaces: chi (1), li suoi compagni (1)
+- grouped: no
+
+## lingua
+- type: non-person
+- labels: lingua | la lingua
+- surfaces: la lingua (1), lingua (1)
+- grouped: no
+
+## lo furo
+- type: generic
+- labels: lo furo
+- surfaces: 'l (1), lo furo (1)
+- grouped: no
+
+## lonza
+- type: non-person
+- labels: lonza
+- surfaces: ella (2)
+- grouped: no
+
+## miser
+- type: generic
+- labels: miser
+- surfaces: miser (1), quel (1)
+- grouped: no
+
+## molta gente
+- type: class
+- labels: molta gente | La molta gente
+- surfaces: La molta gente (1), ombre (1)
+- grouped: no
+
+## muse
+- type: class
+- labels: muse | Muse
+- surfaces: muse (1), quelle donne (1)
+- grouped: no
+
+## nvidia
+- type: non-person
+- labels: nvidia
+- surfaces: 'nvidia (1), nvidia (1)
+- grouped: no
+
+## plebe
+- type: class
+- labels: plebe
+- surfaces: plebe (1), voi (1)
+- grouped: no
+
+## prossimo
+- type: generic
+- labels: prossimo
+- surfaces: prossimo (2)
+- grouped: no
+
+## que' cittadin
+- type: class
+- labels: que' cittadin
+- surfaces: elli (1), que' cittadin (1)
+- grouped: no
+
+## que' nostri avversari
+- type: class
+- labels: que' nostri avversari
+- surfaces: Chi (1), que' nostri avversari (1)
+- grouped: no
+
+## quei che 'l fenno
+- type: class
+- labels: quei che 'l fenno
+- surfaces: chi (1), quei (1)
+- grouped: no
+
+## quei che con lena affannata, uscito fuor del pelago a la riva
+- type: class
+- labels: quei che con lena affannata, uscito fuor del pelago a la riva
+- surfaces: quei (1), si (1)
+- grouped: no
+
+## quei che disvuol ciò che volle
+- type: class
+- labels: quei che disvuol ciò che volle
+- surfaces: ei (1), quei (1)
+- grouped: no
+
+## quei che scommettendo acquistan carco
+- type: class
+- labels: quei che scommettendo acquistan carco
+- surfaces: quei (1), si (1)
+- grouped: no
+
+## quel caduto
+- type: individual
+- labels: quel caduto
+- surfaces: i (1), quel caduto (1)
+- grouped: no
+
+## questa gente maladetta
+- type: class
+- labels: questa gente maladetta
+- surfaces: ella (1), questa gente maladetta (1)
+- grouped: no
+
+## ruscelletto
+- type: non-person
+- labels: ruscelletto
+- surfaces: elli (2)
+- grouped: no
+
+## serpente, spirito
+- type: set
+- members: serpente | spirito
+
+## simile
+- type: non-person
+- labels: simile | Simile
+- surfaces: Simile (1), simile (1)
+- grouped: no
+
+## somma sapïenza
+- type: non-person
+- labels: somma sapïenza
+- surfaces: somma sapïenza (1), tu (1)
+- grouped: no
+
+## spirito
+- type: generic
+- labels: spirito | lo spirito
+- surfaces: l'altro (2)
+- grouped: no
+
+## spirti maladetti
+- type: class
+- labels: spirti maladetti
+- surfaces: elli (1), spirti maladetti (1)
+- grouped: no
+
+## suo compagno
+- type: individual
+- labels: suo compagno
+- surfaces: lui (1), suo compagno (1)
+- grouped: no
+
+## the event involving Florence and Prato
+- type: non-person
+- labels: the event involving Florence and Prato
+- surfaces: ei (2)
+- grouped: no
+
+## the second spirit who was transformed
+- type: individual
+- labels: the second spirit who was transformed
+- surfaces: l'altr' (1), quel (1)
+- grouped: no
+
+## tiranni
+- type: class
+- labels: tiranni
+- surfaces: E' (1), de' suoi tiranni (1)
+- grouped: no
+
+## tormenti
+- type: non-person
+- labels: tormenti
+- surfaces: elli (2)
+- grouped: no
+
+## tre Frison
+- type: class
+- labels: tre Frison
+- surfaces: s' (1), tre Frison (1)
+- grouped: no
+
+## tu che leggi
+- type: generic
+- labels: tu che leggi
+- surfaces: tu (2)
+- grouped: no
+
+## tuoi cittadini
+- type: class
+- labels: tuoi cittadini
+- surfaces: ne (1), tuoi cittadini (1)
+- grouped: no
+
+## turbo
+- type: non-person
+- labels: turbo
+- surfaces: esso (2)
+- grouped: no
+
+## umana gente
+- type: class
+- labels: umana gente | l'umana gente
+- surfaces: l'umana gente (1), si (1)
+- grouped: no
+
+## un busto sanza capo
+- type: generic
+- labels: un busto sanza capo
+- surfaces: 'l (1), un busto sanza capo (1)
+- grouped: no
+
+## un che 'ntese la parola tosca
+- type: generic
+- labels: un che 'ntese la parola tosca
+- surfaces: lui (1), me (1)
+- grouped: no
+
+## un draco
+- type: non-person
+- labels: un draco
+- surfaces: quello (1), un draco (1)
+- grouped: no
+
+## una gente dipinta
+- type: class
+- labels: una gente dipinta
+- surfaces: Elli (1), una gente dipinta (1)
+- grouped: no
+
+## una rana
+- type: non-person
+- labels: una rana | rana
+- surfaces: l'altra (1), una rana (1)
+- grouped: no
+
+## vendetta di Dio
+- type: non-person
+- labels: vendetta di Dio
+- surfaces: tu (1), vendetta di Dio (1)
+- grouped: no
+
+## viltade
+- type: non-person
+- labels: viltade
+- surfaces: ella (1), essa (1)
+- grouped: no
+
+## voi ch'avete li 'ntelletti sani
+- type: class
+- labels: voi ch'avete li 'ntelletti sani
+- surfaces: voi (2)
+- grouped: no
+
+## ' leoncini
+- type: non-person
+- labels: ' leoncini
+- surfaces: ' leoncini (1)
+- grouped: no
+
+## 'l cui rege
+- type: individual
+- labels: 'l cui rege
+- surfaces:  'l cui rege  (1)
+- grouped: no
+
+## 'l feruto
+- type: individual
+- labels: 'l feruto
+- surfaces:  'l feruto  (1)
+- grouped: no
+
+## 'l sangue tebano
+- type: class
+- labels: 'l sangue tebano
+- surfaces: 'l sangue tebano (1)
+- grouped: no
+
+## 'l sovran
+- type: individual
+- labels: 'l sovran
+- surfaces: 'l sovran (1)
+- grouped: no
+
+## 'l trentino, quel di Brescia, 'l veronese
+- type: set
+- members: 'l trentino | quel di Brescia | 'l veronese
+
+## 'l veronese
+- type: individual
+- labels: 'l veronese
+- surfaces:  'l veronese (1)
+- grouped: no
+
+## Abraàm
+- type: individual
+- labels: Abraàm
+- surfaces: Abraàm patrïarca (1)
+
+## Absalone
+- type: individual
+- labels: Absalone
+- surfaces: Absalone (1)
+
+## Achitofèl
+- type: individual
+- labels: Achitofèl
+- surfaces: Achitofèl (1)
+
+## Adamo
+- type: individual
+- labels: Adamo
+- surfaces: l'uom che nacque e visse sanza pecca (1)
+
+## Agnel, the second spirit who was transformed, Puccio Sciancato
+- type: set
+- members: Agnel | the second spirit who was transformed | Puccio Sciancato
+
+## Alberto
+- type: individual
+- labels: Alberto
+- surfaces: padre loro Alberto (1)
+
+## Alichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Cirïatto sannuto, Graffiacane, Farfarello, Rubicante pazzo
+- type: set
+- members: Alichino | Calcabrina | Cagnazzo | Barbariccia | Libicocco | Draghignazzo | Cirïatto sannuto | Graffiacane | Farfarello | Rubicante pazzo
+
+## Alì
+- type: individual
+- labels: Alì
+- surfaces: Alì (1)
+
+## Anassagora
+- type: individual
+- labels: Anassagora
+- surfaces: Anassagora (1)
+
+## Anastasio papa
+- type: individual
+- labels: Anastasio papa
+- surfaces: Anastasio papa (1)
+- grouped: no
+
+## Anfïone
+- type: individual
+- labels: Anfïone
+- surfaces: Anfïone (1)
+
+## Angiolello
+- type: individual
+- labels: Angiolello
+- surfaces: Angiolello (1)
+
+## Anibàl
+- type: individual
+- labels: Anibàl
+- surfaces: Anibàl (1)
+
+## Anselmuccio, Gaddo
+- type: set
+- members: Anselmuccio | Gaddo
+
+## Antëo
+- type: individual
+- labels: Antëo
+- surfaces: Antëo (1)
+
+## Aragne
+- type: hypothetical-simile
+- labels: Aragne
+- surfaces: Aragne (1)
+
+## Aretini
+- type: class
+- labels: Aretini
+- surfaces: Aretini (1)
+
+## Arrigo
+- type: individual
+- labels: Arrigo
+- surfaces: Arrigo (1)
+
+## Artù
+- type: individual
+- labels: Artù
+- surfaces: Artù (1)
+
+## Augusto
+- type: individual
+- labels: Augusto
+- surfaces: l buono Augusto (1)
+
+## Averoìs
+- type: individual
+- labels: Averoìs
+- surfaces: Averoìs (1)
+
+## Avicenna
+- type: individual
+- labels: Avicenna
+- surfaces: Avicenna (1)
+
+## Beatrice, Lucia, Maria
+- type: set
+- members: Beatrice | Lucia | Maria
+
+## Belzebù
+- type: individual
+- labels: Belzebù
+- surfaces: Belzebù (1)
+
+## Bonifazio
+- type: individual
+- labels: Bonifazio
+- surfaces: Bonifazio (1)
+
+## Bonturo
+- type: individual
+- labels: Bonturo
+- surfaces: Bonturo (1)
+
+## Brïareo
+- type: individual
+- labels: Brïareo
+- surfaces: lo smisurato Brïareo (1)
+
+## Buoso
+- type: individual
+- labels: Buoso
+- surfaces: Buoso (1)
+
+## Buoso Donati
+- type: individual
+- labels: Buoso Donati
+- surfaces: Buoso Donati (1)
+
+## Caccia d'Ascian
+- type: hypothetical-simile
+- labels: Caccia d'Ascian
+- surfaces: Caccia d'Ascian (1)
+- grouped: no
+
+## Caifa
+- type: individual
+- labels: Caifa
+- surfaces: colui (1)
+
+## Caina
+- type: non-person
+- labels: Caina
+- surfaces: Caina (1)
+
+## Caino
+- type: individual
+- labels: Caino
+- surfaces: Caino (1)
+
+## Calcabrina, Malebranche
+- type: set
+- members: Calcabrina | Malebranche
+
+## Calcanta
+- type: individual
+- labels: Calcanta
+- surfaces: Calcanta (1)
+
+## Capo
+- type: non-person
+- labels: Capo
+- surfaces: Capo (1)
+
+## Cariddi
+- type: non-person
+- labels: Cariddi
+- surfaces: Cariddi (1)
+
+## Carlin
+- type: individual
+- labels: Carlin
+- surfaces: Carlin (1)
+
+## Carlo
+- type: individual
+- labels: Carlo
+- surfaces: Carlo (1)
+
+## Carlo Magno
+- type: individual
+- labels: Carlo Magno
+- surfaces: Carlo Magno (1)
+
+## Catone
+- type: individual
+- labels: Catone
+- surfaces: Caton (1)
+
+## Cervia
+- type: non-person
+- labels: Cervia
+- surfaces: ella (1)
+
+## Cianfa
+- type: individual
+- labels: Cianfa
+- surfaces: Cianfa (1)
+
+## Cicilia
+- type: individual
+- labels: Cicilia
+- surfaces: Cicilia (1)
+
+## Ciclopi
+- type: class
+- labels: Ciclopi
+- surfaces: li altri (1)
+
+## Cinyras
+- type: individual
+- labels: Cinyras
+- surfaces: esso (1)
+
+## Cirïatto sannuto
+- type: individual
+- labels: Cirïatto sannuto
+- surfaces: Cirïatto sannuto (1)
+- grouped: no
+
+## Cocito
+- type: non-person
+- labels: Cocito
+- surfaces: Cocito (1)
+
+## Corniglia
+- type: individual
+- labels: Corniglia
+- surfaces: Corniglia (1)
+
+## Costantin
+- type: individual
+- labels: Costantin
+- surfaces: Costantin (1)
+
+## Curïo
+- type: individual
+- labels: Curïo
+- surfaces: Curïo (1)
+
+## Dante, Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci
+- type: set
+- members: Dante | Guido Guerra | Tegghiaio Aldobrandi | Iacopo Rusticucci
+
+## Dante, noble souls of Limbo
+- type: class
+- labels: Dante, noble souls of Limbo
+- surfaces: voi (1)
+- grouped: no
+
+## Dedalo
+- type: hypothetical-simile
+- labels: Dedalo
+- surfaces: il padre (1)
+
+## Deianira
+- type: individual
+- labels: Deianira
+- surfaces: la bella Deianira (1)
+
+## Democrito
+- type: individual
+- labels: Democrito
+- surfaces: Democrito (1)
+
+## Dido
+- type: individual
+- labels: Dido
+- surfaces: Dido (1)
+
+## Dio Figlio
+- type: individual
+- labels: Dio Figlio
+- surfaces: la somma sapïenza (1)
+
+## Dio Spirito Santo
+- type: individual
+- labels: Dio Spirito Santo
+- surfaces: l primo amore (1)
+
+## Dïogenès
+- type: individual
+- labels: Dïogenès
+- surfaces: Dïogenès (1)
+
+## Dïomede
+- type: individual
+- labels: Dïomede
+- surfaces: Dïomede (1)
+
+## Dïonisio
+- type: individual
+- labels: Dïonisio
+- surfaces: Dïonisio fero (1)
+
+## Elena
+- type: individual
+- labels: Elena
+- surfaces: Elena (1)
+
+## Eletra
+- type: individual
+- labels: Eletra
+- surfaces: Eletra (1)
+
+## Elia
+- type: individual
+- labels: Elia
+- surfaces: Elia (1)
+
+## Empedoclès
+- type: individual
+- labels: Empedoclès
+- surfaces: Empedoclès (1)
+
+## Epicuro
+- type: individual
+- labels: Epicuro
+- surfaces: Epicuro (1)
+
+## Eraclito
+- type: individual
+- labels: Eraclito
+- surfaces: Eraclito (1)
+
+## Eteòcle
+- type: individual
+- labels: Eteòcle
+- surfaces: Eteòcle (1)
+
+## Ettòr
+- type: individual
+- labels: Ettòr
+- surfaces: Ettòr (1)
+
+## Euclide
+- type: individual
+- labels: Euclide
+- surfaces: Euclide geomètra (1)
+
+## Eurialo
+- type: individual
+- labels: Eurialo
+- surfaces: Eurialo (1)
+
+## Faenza
+- type: non-person
+- labels: Faenza
+- surfaces: si (1)
+
+## Fetonte
+- type: hypothetical-simile
+- labels: Fetonte
+- surfaces: Fetonte (1)
+
+## Fialte
+- type: individual
+- labels: Fialte
+- surfaces: questo (1)
+
+## Filippo IV
+- type: individual
+- labels: Filippo IV
+- surfaces: chi (1)
+
+## Fiorentin
+- type: individual
+- labels: Fiorentin
+- surfaces: elli (1)
+
+## Focaccia
+- type: non-person
+- labels: Focaccia
+- surfaces: Focaccia (1)
+
+## Fotin
+- type: individual
+- labels: Fotin
+- surfaces: Fotin (1)
+
+## Francesco d'Accorso
+- type: individual
+- labels: Francesco d'Accorso
+- surfaces: Francesco d'Accorso (1)
+- grouped: no
+
+## Frate Gomita, Michel Zanche
+- type: set
+- members: Frate Gomita | Michel Zanche
+
+## Galeotto
+- type: individual
+- labels: Galeotto
+- surfaces: Galeotto (1)
+
+## Galïeno
+- type: individual
+- labels: Galïeno
+- surfaces: Galïeno (1)
+
+## Ganellone
+- type: individual
+- labels: Ganellone
+- surfaces: Ganellone (1)
+
+## Genti, Dante, Virgilio, Omero, Orazio, Ovidio, Lucano
+- type: set
+- members: Genti | Dante | Virgilio | Omero | Orazio | Ovidio | Lucano
+
+## Geri
+- type: individual
+- labels: Geri
+- surfaces: un spirto del mio sangue (1)
+
+## Ghibellini
+- type: class
+- labels: Ghibellini
+- surfaces: i vostri (1)
+
+## Gianciotto
+- type: individual
+- labels: Gianciotto
+- surfaces: chi (1)
+
+## Gioseppo
+- type: individual
+- labels: Gioseppo
+- surfaces: Gioseppo (1)
+
+## Giusti
+- type: class
+- labels: Giusti
+- surfaces: elli (1)
+
+## Graffiacane
+- type: individual
+- labels: Graffiacane
+- surfaces: Graffiacane (1)
+
+## Gualandi
+- type: individual
+- labels: Gualandi
+- surfaces: Gualandi (1)
+
+## Gualandi, Sismondi, Lanfranchi
+- type: set
+- members: Gualandi | Sismondi | Lanfranchi
+
+## Gualdrada
+- type: individual
+- labels: Gualdrada
+- surfaces: la buona Gualdrada (1)
+
+## Guido
+- type: individual
+- labels: Guido
+- surfaces: Guido (1)
+
+## Guido Bonatti
+- type: individual
+- labels: Guido Bonatti
+- surfaces: Guido Bonatti (1)
+
+## Guido Guerra, Tegghiaio Aldobrandi
+- type: set
+- members: Guido Guerra | Tegghiaio Aldobrandi
+
+## Guido, Alessandro, lor frate
+- type: set
+- members: Guido | Alessandro | lor frate
+
+## Guido, Alessandro, their brother
+- type: individual
+- labels: Guido, Alessandro, their brother
+- surfaces: lui (1)
+- grouped: no
+
+## Inferno
+- type: non-person
+- labels: Inferno
+- surfaces: inferni (1)
+
+## Ipocràte
+- type: individual
+- labels: Ipocràte
+- surfaces: Ipocràte (1)
+
+## Isacco
+- type: individual
+- labels: Isacco
+- surfaces: lo padre (1)
+
+## Israèl
+- type: individual
+- labels: Israèl
+- surfaces: Israèl (1)
+
+## Istra
+- type: non-person
+- labels: Istra
+- surfaces: Istra (1)
+
+## Iulia
+- type: individual
+- labels: Iulia
+- surfaces: Iulia (1)
+
+## Iulio
+- type: individual
+- labels: Iulio
+- surfaces: Iulio (1)
+
+## Jacopo
+- type: individual
+- labels: Jacopo
+- surfaces: colui (1)
+
+## La gente nuova
+- type: class
+- labels: La gente nuova
+- surfaces: La gente nuova (1)
+- grouped: no
+
+## La rigida giustizia
+- type: non-person
+- labels: La rigida giustizia
+- surfaces: La rigida giustizia (1)
+- grouped: no
+
+## La terra lagrimosa
+- type: non-person
+- labels: La terra lagrimosa
+- surfaces: La terra lagrimosa (1)
+- grouped: no
+
+## Lanfranchi
+- type: individual
+- labels: Lanfranchi
+- surfaces: Lanfranchi (1)
+
+## Lano, miser
+- type: set
+- members: Lano | miser
+
+## Lano, morte
+- type: set
+- members: Lano | morte
+
+## Lino
+- type: individual
+- labels: Lino
+- surfaces: Lino (1)
+
+## Livïo
+- type: individual
+- labels: Livïo
+- surfaces: Livïo (1)
+
+## Lo trafitto, l serpente
+- type: set
+- members: Lo trafitto | l serpente
+
+## Loderingo
+- type: individual
+- labels: Loderingo
+- surfaces: Loderingo (1)
+
+## Lucrezia
+- type: individual
+- labels: Lucrezia
+- surfaces: Lucrezia (1)
+
+## Malatesta Giovane
+- type: individual
+- labels: Malatesta Giovane
+- surfaces: 'l nuovo da Verrucchio (1)
+
+## Malatesta Vecchio
+- type: individual
+- labels: Malatesta Vecchio
+- surfaces: 'l mastin vecchio (1)
+
+## Maometto
+- type: individual
+- labels: Maometto
+- surfaces: ti (1)
+
+## Maometto, tutti li altri
+- type: set
+- members: Maometto | tutti li altri
+
+## Marzïa
+- type: individual
+- labels: Marzïa
+- surfaces: Marzïa (1)
+
+## Mastro Adamo, Sinon
+- type: set
+- members: Mastro Adamo | Sinon
+
+## Menalippo
+- type: individual
+- labels: Menalippo
+- surfaces: Menalippo (1)
+
+## Michele
+- type: individual
+- labels: Michele
+- surfaces: Michele (1)
+
+## Moïsè
+- type: individual
+- labels: Moïsè
+- surfaces: Moïsè legista e ubidente (1)
+
+## Narcisso
+- type: individual
+- labels: Narcisso
+- surfaces: Narcisso (1)
+
+## Nasidio
+- type: individual
+- labels: Nasidio
+- surfaces: Nasidio (1)
+
+## Neri
+- type: individual
+- labels: Neri | i Neri
+- surfaces: i Neri (1)
+
+## Nettuno
+- type: individual
+- labels: Nettuno
+- surfaces: Nettuno (1)
+
+## Nino
+- type: individual
+- labels: Nino
+- surfaces: Nino (1)
+
+## Niso
+- type: individual
+- labels: Niso
+- surfaces: Niso (1)
+
+## Noarese
+- type: individual
+- labels: Noarese
+- surfaces: Noarese (1)
+
+## Orazio, Ovidio, Lucano
+- type: set
+- members: Orazio | Ovidio | Lucano
+
+## Orazio, Ovidio, Lucano, Virgilio
+- type: set
+- members: Orazio | Ovidio | Lucano | Virgilio
+
+## Orfeo
+- type: individual
+- labels: Orfeo
+- surfaces: Orfeo (1)
+
+## Orlando
+- type: individual
+- labels: Orlando
+- surfaces: Orlando (1)
+
+## Palladio
+- type: non-person
+- labels: Palladio
+- surfaces: Palladio (1)
+
+## Pantasilea
+- type: individual
+- labels: Pantasilea
+- surfaces: la Pantasilea (1)
+
+## Parìs
+- type: individual
+- labels: Parìs
+- surfaces: Parìs (1)
+
+## Peleo
+- type: individual
+- labels: Peleo
+- surfaces: suo padre (1)
+
+## Penelopè
+- type: individual
+- labels: Penelopè
+- surfaces: Penelopè (1)
+
+## Penestrino
+- type: individual
+- labels: Penestrino
+- surfaces: Penestrino (1)
+
+## Pier delle Vigne
+- type: individual
+- labels: Pier delle Vigne
+- surfaces: ei (1)
+- grouped: no
+
+## Pinamonte
+- type: individual
+- labels: Pinamonte
+- surfaces: Pinamonte (1)
+
+## Pirro
+- type: individual
+- labels: Pirro
+- surfaces: Pirro (1)
+
+## Più fuor di cento
+- type: class
+- labels: Più fuor di cento
+- surfaces: s' (1)
+- grouped: no
+
+## Platone
+- type: individual
+- labels: Platone
+- surfaces: Platone (1)
+
+## Po
+- type: non-person
+- labels: Po
+- surfaces: l Po (1)
+
+## Polenta
+- type: non-person
+- labels: Polenta
+- surfaces: da Polenta (1)
+
+## Polidoro
+- type: individual
+- labels: Polidoro
+- surfaces: Polidoro (1)
+
+## Polinice
+- type: individual
+- labels: Polinice
+- surfaces: fratel (1)
+
+## Polissena
+- type: individual
+- labels: Polissena
+- surfaces: Polissena (1)
+
+## Priamo
+- type: individual
+- labels: Priamo
+- surfaces: il re (1)
+
+## Priscian
+- type: individual
+- labels: Priscian
+- surfaces: Priscian (1)
+
+## Raphèl
+- type: individual
+- labels: Raphèl
+- surfaces: Raphèl (1)
+
+## Rinier Pazzo
+- type: individual
+- labels: Rinier Pazzo
+- surfaces: Rinier Pazzo (1)
+
+## Rinier da Corneto
+- type: individual
+- labels: Rinier da Corneto
+- surfaces: Rinier da Corneto (1)
+- grouped: no
+
+## Ruberto Guiscardo
+- type: individual
+- labels: Ruberto Guiscardo
+- surfaces: Ruberto Guiscardo (1)
+
+## Rubicante pazzo
+- type: individual
+- labels: Rubicante pazzo
+- surfaces: Rubicante pazzo (1)
+- grouped: no
+
+## Saladino
+- type: individual
+- labels: Saladino
+- surfaces:  'l Saladino (1)
+
+## Santo Andrea
+- type: individual
+- labels: Santo Andrea
+- surfaces: Santo Andrea (1)
+
+## Santo Pietro
+- type: individual
+- labels: Santo Pietro
+- surfaces: Santo Pietro (1)
+
+## Scipïon
+- type: individual
+- labels: Scipïon
+- surfaces: Scipïon (1)
+
+## Semelè
+- type: individual
+- labels: Semelè
+- surfaces: Semelè (1)
+
+## Seneca
+- type: individual
+- labels: Seneca
+- surfaces: Seneca morale (1)
+
+## Sesto
+- type: individual
+- labels: Sesto
+- surfaces: Sesto (1)
+
+## Setta
+- type: class
+- labels: Setta
+- surfaces: Setta (1)
+
+## Sibilia
+- type: individual
+- labels: Sibilia
+- surfaces: Sibilia (1)
+
+## Sicheo
+- type: individual
+- labels: Sicheo
+- surfaces: Sicheo (1)
+
+## Silvestro
+- type: individual
+- labels: Silvestro
+- surfaces: Silvestro (1)
+
+## Simon mago
+- type: individual
+- labels: Simon mago
+- surfaces: Simon mago (1)
+- grouped: no
+
+## Siratti
+- type: individual
+- labels: Siratti
+- surfaces: Siratti (1)
+
+## Sismondi
+- type: individual
+- labels: Sismondi
+- surfaces: Sismondi (1)
+
+## Socrate
+- type: individual
+- labels: Socrate
+- surfaces: Socrate (1)
+
+## Socrate, Platone
+- type: set
+- members: Socrate | Platone
+
+## Spirto
+- type: generic
+- labels: Spirto | un spirto
+- surfaces: un spirto (1)
+
+## Stricca
+- type: individual
+- labels: Stricca
+- surfaces: Stricca (1)
+
+## Tale
+- type: individual
+- labels: Tale
+- surfaces: Tale (1)
+
+## Tarquino
+- type: individual
+- labels: Tarquino
+- surfaces: Tarquino (1)
+
+## Tartari, Turchi
+- type: set
+- members: Tartari | Turchi
+
+## Tebaldello
+- type: individual
+- labels: Tebaldello
+- surfaces: Tebaldello (1)
+
+## Tegghiaio
+- type: individual
+- labels: Tegghiaio
+- surfaces: l Tegghiaio (1)
+
+## Teseo
+- type: individual
+- labels: Teseo
+- surfaces: 'l duca d'Atene (1)
+
+## Tesifón
+- type: individual
+- labels: Tesifón
+- surfaces: Tesifón (1)
+
+## Tesëo
+- type: individual
+- labels: Tesëo
+- surfaces: Tesëo (1)
+
+## The action of biting his hands
+- type: non-person
+- labels: The action of biting his hands
+- surfaces: 'l (1)
+- grouped: no
+
+## Tifo
+- type: non-person
+- labels: Tifo
+- surfaces: Tifo (1)
+
+## Tizio
+- type: generic
+- labels: Tizio
+- surfaces: Tizio (1)
+
+## Tolomeo
+- type: individual
+- labels: Tolomeo
+- surfaces: Tolomeo (1)
+
+## Toppo
+- type: individual
+- labels: Toppo
+- surfaces: dal Toppo (1)
+
+## Tristano
+- type: individual
+- labels: Tristano
+- surfaces: Tristano (1)
+
+## Tulïo
+- type: individual
+- labels: Tulïo
+- surfaces: Tulïo (1)
+
+## Turno
+- type: individual
+- labels: Turno
+- surfaces: Turno (1)
+
+## Ugolino, figli
+- type: set
+- members: Ugolino | figli
+
+## Ugolino, i figli di Ugolino
+- type: set
+- members: Ugolino | i figli di Ugolino
+
+## Ugolino, quattro visi
+- type: set
+- members: Ugolino | quattro visi
+
+## Uguiccione
+- type: individual
+- labels: Uguiccione
+- surfaces: Uguiccione (1)
+
+## Ulisse, compagni
+- type: set
+- members: Ulisse | compagni
+
+## Ulisse, li miei compagni
+- type: set
+- members: Ulisse | li miei compagni
+
+## Vecchia fama
+- type: non-person
+- labels: Vecchia fama
+- surfaces: Vecchia fama (1)
+- grouped: no
+
+## Virgilio, altri
+- type: set
+- members: Virgilio | altri
+
+## Virgilio, le ombre di Limbo
+- type: individual
+- labels: Virgilio, le ombre di Limbo
+- surfaces: ci (1)
+- grouped: no
+
+## Zenone
+- type: individual
+- labels: Zenone
+- surfaces: Zenone (1)
+
+## abitanti
+- type: class
+- labels: abitanti
+- surfaces: abitanti (1)
+- grouped: no
+
+## al re giovane
+- type: individual
+- labels: al re giovane
+- surfaces: al re giovane (1)
+- grouped: no
+
+## al traditor
+- type: generic
+- labels: al traditor
+- surfaces: al traditor (1)
+- grouped: no
+
+## alchimista
+- type: class
+- labels: alchimista
+- surfaces: elli (1)
+- grouped: no
+
+## alcun Latino
+- type: generic
+- labels: alcun Latino
+- surfaces: alcun Latino (1)
+- grouped: no
+
+## alcun altro demonio
+- type: generic
+- labels: alcun altro demonio
+- surfaces: alcun altro demonio (1)
+- grouped: no
+
+## alcun caso
+- type: non-person
+- labels: alcun caso
+- surfaces: ei (1)
+- grouped: no
+
+## alcuna
+- type: generic
+- labels: alcuna
+- surfaces: si (1)
+- grouped: no
+
+## allegrezza
+- type: non-person
+- labels: allegrezza
+- surfaces: ella (1)
+- grouped: no
+
+## alto ingegno
+- type: non-person
+- labels: alto ingegno
+- surfaces: alto ingegno (1)
+- grouped: no
+
+## altra schiera
+- type: class
+- labels: altra schiera
+- surfaces: altra schiera (1)
+- grouped: no
+
+## altri
+- type: generic
+- labels: altri
+- surfaces: altri (1)
+- grouped: no
+
+## amore
+- type: non-person
+- labels: amore
+- surfaces: amore (1)
+- grouped: no
+
+## anima buona
+- type: generic
+- labels: anima buona
+- surfaces: anima buona (1)
+- grouped: no
+
+## anime di serpi
+- type: class
+- labels: anime di serpi
+- surfaces: anime di serpi (1)
+- grouped: no
+
+## anime nude
+- type: class
+- labels: anime nude
+- surfaces: anime nude (1)
+- grouped: no
+
+## another of the three Florentine souls
+- type: individual
+- labels: another of the three Florentine souls
+- surfaces: l'altro (1)
+- grouped: no
+
+## avelli
+- type: non-person
+- labels: avelli
+- surfaces: elli (1)
+- grouped: no
+
+## babbo
+- type: generic
+- labels: babbo
+- surfaces: babbo (1)
+- grouped: no
+
+## baratti
+- type: class
+- labels: baratti
+- surfaces: baratti (1)
+- grouped: no
+
+## barattieri
+- type: class
+- labels: barattieri
+- surfaces: lor vassalli (1)
+- grouped: no
+
+## barrattore
+- type: generic
+- labels: barrattore
+- surfaces: uno (1)
+- grouped: no
+
+## bestie fiesolane
+- type: non-person
+- labels: bestie fiesolane
+- surfaces: elli (1)
+- grouped: no
+
+## bogliente stagno
+- type: non-person
+- labels: bogliente stagno
+- surfaces: elli (1)
+- grouped: no
+
+## bolognese
+- type: generic
+- labels: bolognese
+- surfaces: bolognese (1)
+- grouped: no
+
+## cavalieri
+- type: class
+- labels: cavalieri
+- surfaces: cavalieri (1)
+- grouped: no
+
+## che gent'
+- type: generic
+- labels: che gent'
+- surfaces: che gent' (1)
+- grouped: no
+
+## chi affattura
+- type: generic
+- labels: chi affattura
+- surfaces: chi (1)
+- grouped: no
+
+## chi conduce
+- type: individual
+- labels: chi conduce
+- surfaces: chi (1)
+- grouped: no
+
+## chi creda
+- type: generic
+- labels: chi creda
+- surfaces: chi (1)
+- grouped: no
+
+## chi l'avea temperato con sua lima
+- type: hypothetical-simile
+- labels: chi l'avea temperato con sua lima
+- surfaces: colui (1)
+- grouped: no
+
+## chi la 'ntende
+- type: generic
+- labels: chi la 'ntende
+- surfaces: chi (1)
+- grouped: no
+
+## chi lo scrisse
+- type: generic
+- labels: chi lo scrisse
+- surfaces: chi (1)
+- grouped: no
+
+## chi sù fosse
+- type: hypothetical-simile
+- labels: chi sù fosse
+- surfaces: chi (1)
+- grouped: no
+
+## ciascun Pugliese
+- type: generic
+- labels: ciascun Pugliese
+- surfaces: ciascun Pugliese (1)
+- grouped: no
+
+## ciascun uom
+- type: generic
+- labels: ciascun uom
+- surfaces: ciascun uom (1)
+- grouped: no
+
+## cieca cupidigia, ira folle
+- type: non-person
+- labels: cieca cupidigia, ira folle
+- surfaces: tu (1)
+- grouped: no
+
+## ciò
+- type: non-person
+- labels: ciò
+- surfaces: c' (1)
+- grouped: no
+
+## color che son sospesi
+- type: class
+- labels: color che son sospesi
+- surfaces: color (1)
+- grouped: no
+
+## colui che 'n lui fida
+- type: generic
+- labels: colui che 'n lui fida
+- surfaces: colui (1)
+- grouped: no
+
+## colui che mal volontier vegghia
+- type: generic
+- labels: colui che mal volontier vegghia
+- surfaces: colui (1)
+- grouped: no
+
+## colui che perde
+- type: generic
+- labels: colui che perde
+- surfaces: colui (1)
+- grouped: no
+
+## colui che venire sente 'l porco e la caccia a la sua posta
+- type: hypothetical-simile
+- labels: colui che venire sente 'l porco e la caccia a la sua posta
+- surfaces: colui (1)
+- grouped: no
+
+## cor gentil
+- type: non-person
+- labels: cor gentil
+- surfaces: cor gentil (1)
+- grouped: no
+
+## corridor
+- type: hypothetical-simile
+- labels: corridor
+- surfaces: corridor (1)
+- grouped: no
+
+## cotal famiglia
+- type: class
+- labels: cotal famiglia
+- surfaces: cotal famiglia (1)
+- grouped: no
+
+## dannati
+- type: class
+- labels: dannati
+- surfaces: lor (1)
+- grouped: no
+
+## dar di cozzo
+- type: non-person
+- labels: dar di cozzo
+- surfaces: ne (1)
+- grouped: no
+
+## del primo grado
+- type: class
+- labels: del primo grado
+- surfaces: noi (1)
+- grouped: no
+
+## demon
+- type: generic
+- labels: demon
+- surfaces: demon (1)
+- grouped: no
+
+## demon duri
+- type: class
+- labels: demon duri
+- surfaces: demon duri (1)
+- grouped: no
+
+## demoni cornuti
+- type: class
+- labels: demoni cornuti
+- surfaces: demon cornuti (1)
+- grouped: no
+
+## diavol
+- type: class
+- labels: diavol
+- surfaces: diavol (1)
+- grouped: no
+
+## donno
+- type: individual
+- labels: donno
+- surfaces: donno (1)
+- grouped: no
+
+## due figli
+- type: generic
+- labels: due figli
+- surfaces: due figli (1)
+- grouped: no
+
+## due ombre smorte e nude
+- type: generic
+- labels: due ombre smorte e nude
+- surfaces: due ombre smorte e nude (1)
+- grouped: no
+
+## errore
+- type: non-person
+- labels: errore
+- surfaces: errore (1)
+- grouped: no
+
+## falcon
+- type: non-person
+- labels: falcon
+- surfaces: tu (1)
+- grouped: no
+
+## figliastro
+- type: generic
+- labels: figliastro
+- surfaces: dal figliastro (1)
+- grouped: no
+
+## fioretti
+- type: class
+- labels: fioretti
+- surfaces: elli (1)
+- grouped: no
+
+## foco
+- type: non-person
+- labels: foco
+- surfaces: Questo (1)
+- grouped: no
+
+## fratei miseri lassi
+- type: class
+- labels: fratei miseri lassi
+- surfaces: de' fratei miseri lassi (1)
+- grouped: no
+
+## frati minor
+- type: class
+- labels: frati minor
+- surfaces: frati minor (1)
+- grouped: no
+
+## fuochi
+- type: non-person
+- labels: fuochi
+- surfaces: elli (1)
+- grouped: no
+
+## furie
+- type: class
+- labels: furie
+- surfaces: furie (1)
+- grouped: no
+
+## furie, troiane
+- type: set
+- members: furie | troiane
+
+## fóri
+- type: class
+- labels: fóri
+- surfaces: elli (1)
+- grouped: no
+
+## gente argolica
+- type: class
+- labels: gente argolica
+- surfaces: gente argolica (1)
+- grouped: no
+
+## gente attuffata
+- type: class
+- labels: gente attuffata
+- surfaces: gente attuffata (1)
+- grouped: no
+
+## gente di molto valore
+- type: class
+- labels: gente di molto valore
+- surfaces: gente di molto valore (1)
+- grouped: no
+
+## genti nude e spaventate
+- type: class
+- labels: genti nude e spaventate
+- surfaces: genti nude e spaventate (1)
+- grouped: no
+
+## ghiottoni
+- type: class
+- labels: ghiottoni
+- surfaces: coi ghiottoni (1)
+- grouped: no
+
+## giunte
+- type: class
+- labels: giunte
+- surfaces: elli (1)
+- grouped: no
+
+## gli accidiosi
+- type: class
+- labels: gli accidiosi
+- surfaces: chi (1)
+- grouped: no
+
+## gran regi
+- type: class
+- labels: gran regi
+- surfaces:  gran regi  (1)
+- grouped: no
+
+## gualdane
+- type: class
+- labels: gualdane
+- surfaces: gualdane (1)
+- grouped: no
+
+## guastatori
+- type: class
+- labels: guastatori
+- surfaces: guastatori (1)
+- grouped: no
+
+## i Farisei
+- type: class
+- labels: i Farisei
+- surfaces: i Farisei (1)
+- grouped: no
+
+## i Greci
+- type: class
+- labels: i Greci | greci
+- surfaces: greci (1)
+- grouped: no
+
+## i Pisan
+- type: class
+- labels: i Pisan
+- surfaces: i Pisan (1)
+- grouped: no
+
+## i Sanesi
+- type: class
+- labels: i Sanesi
+- surfaces: i Sanesi (1)
+- grouped: no
+
+## i Teban
+- type: class
+- labels: i Teban
+- surfaces: ei (1)
+- grouped: no
+
+## i bolliti
+- type: class
+- labels: i bolliti
+- surfaces: i bolliti (1)
+- grouped: no
+
+## i buoni
+- type: class
+- labels: i buoni
+- surfaces: i buoni (1)
+- grouped: no
+
+## i cardinali
+- type: class
+- labels: i cardinali | cardinali
+- surfaces: cardinali (1)
+- grouped: no
+
+## i costruttori dei castelli
+- type: class
+- labels: i costruttori dei castelli
+- surfaces: quelli (1)
+- grouped: no
+
+## i dèi
+- type: class
+- labels: i dèi | dèi
+- surfaces: dèi (1)
+- grouped: no
+
+## i figli
+- type: class
+- labels: i figli | figli
+- surfaces: figli (1)
+- grouped: no
+
+## i figli di Israèl
+- type: class
+- labels: i figli di Israèl
+- surfaces: suoi nati (1)
+- grouped: no
+
+## i figliuoi
+- type: class
+- labels: i figliuoi
+- surfaces: i figliuoi (1)
+- grouped: no
+
+## i maladetti
+- type: class
+- labels: i maladetti
+- surfaces: i maladetti (1)
+- grouped: no
+
+## i martìri
+- type: class
+- labels: i martìri
+- surfaces: i martìri (1)
+- grouped: no
+
+## i miei meschini
+- type: class
+- labels: i miei meschini
+- surfaces: ' miei meschini (1)
+- grouped: no
+
+## i patriarchi
+- type: class
+- labels: i patriarchi
+- surfaces: essi (1)
+- grouped: no
+
+## i poeti
+- type: class
+- labels: i poeti
+- surfaces: i poeti (1)
+- grouped: no
+
+## i pravi
+- type: class
+- labels: i pravi
+- surfaces: i pravi (1)
+- grouped: no
+
+## i rei del foco
+- type: class
+- labels: i rei del foco
+- surfaces: i rei (1)
+- grouped: no
+
+## i sommersi
+- type: class
+- labels: i sommersi
+- surfaces: i sommersi (1)
+- grouped: no
+
+## i suoi conversi
+- type: class
+- labels: i suoi conversi
+- surfaces: i suoi conversi (1)
+- grouped: no
+
+## il Cardinale
+- type: individual
+- labels: il Cardinale
+- surfaces: l Cardinale (1)
+- grouped: no
+
+## il Savio
+- type: individual
+- labels: il Savio
+- surfaces: il Savio (1)
+- grouped: no
+
+## il cane
+- type: non-person
+- labels: il cane
+- surfaces: elli (1)
+- grouped: no
+
+## il ciel
+- type: non-person
+- labels: il ciel | 'l ciel
+- surfaces: 'l ciel (1)
+- grouped: no
+
+## il cielo
+- type: non-person
+- labels: il cielo
+- surfaces: il cielo (1)
+- grouped: no
+
+## il dir di Dante
+- type: non-person
+- labels: il dir di Dante
+- surfaces: li (1)
+- grouped: no
+
+## il gentil seme
+- type: class
+- labels: il gentil seme
+- surfaces: il gentil seme (1)
+- grouped: no
+
+## il gran prete
+- type: individual
+- labels: il gran prete
+- surfaces: il gran prete (1)
+- grouped: no
+
+## il lïoncel
+- type: individual
+- labels: il lïoncel
+- surfaces: il lïoncel (1)
+- grouped: no
+
+## il primo cerchio
+- type: non-person
+- labels: il primo cerchio
+- surfaces: elli (1)
+- grouped: no
+
+## il primo ricco patre
+- type: individual
+- labels: il primo ricco patre
+- surfaces: il primo ricco patre (1)
+- grouped: no
+
+## il sommo duce
+- type: individual
+- labels: il sommo duce
+- surfaces: il sommo duce (1)
+- grouped: no
+
+## il successor del maggior Piero
+- type: individual
+- labels: il successor del maggior Piero
+- surfaces: il successor del maggior Piero (1)
+- grouped: no
+
+## il vecchio Alardo
+- type: individual
+- labels: il vecchio Alardo
+- surfaces: il vecchio Alardo (1)
+- grouped: no
+
+## infanti
+- type: class
+- labels: infanti
+- surfaces: infanti (1)
+- grouped: no
+
+## intensifier
+- type: non-person
+- labels: intensifier
+- surfaces: ten (1)
+- grouped: no
+
+## ire
+- type: non-person
+- labels: ire
+- surfaces: sé (1)
+- grouped: no
+
+## l Soldan
+- type: individual
+- labels: l Soldan
+- surfaces: l Soldan (1)
+- grouped: no
+
+## l peccator
+- type: generic
+- labels: l peccator
+- surfaces: l peccator (1)
+- grouped: no
+
+## l vecchio sartor
+- type: generic
+- labels: l vecchio sartor
+- surfaces: l vecchio sartor (1)
+- grouped: no
+
+## l villan
+- type: generic
+- labels: l villan
+- surfaces: l villan (1)
+- grouped: no
+
+## l'Abbagliato
+- type: individual
+- labels: l'Abbagliato
+- surfaces: l'Abbagliato (1)
+- grouped: no
+
+## l'afflitto
+- type: generic
+- labels: l'afflitto
+- surfaces: de l'afflitto (1)
+- grouped: no
+
+## l'altra
+- type: generic
+- labels: l'altra | altra
+- surfaces: Quella (1)
+- grouped: no
+
+## l'altre
+- type: class
+- labels: l'altre
+- surfaces: l'altre (1)
+- grouped: no
+
+## l'altre prime creature
+- type: class
+- labels: l'altre prime creature
+- surfaces: l'altre prime creature (1)
+- grouped: no
+
+## l'altro carco
+- type: non-person
+- labels: l'altro carco
+- surfaces: l'altro carco (1)
+- grouped: no
+
+## l'amor divino
+- type: non-person
+- labels: l'amor divino
+- surfaces: l'amor divino (1)
+- grouped: no
+
+## l'anima epicurea
+- type: generic
+- labels: l'anima epicurea
+- surfaces: io (1)
+- grouped: no
+
+## l'anime lasse
+- type: class
+- labels: l'anime lasse
+- surfaces: l'anime lasse (1)
+- grouped: no
+
+## l'ardite femmine spietate
+- type: class
+- labels: l'ardite femmine spietate
+- surfaces: l'ardite femmine spietate (1)
+- grouped: no
+
+## l'etico
+- type: individual
+- labels: l'etico
+- surfaces: l'etico (1)
+- grouped: no
+
+## l'impero
+- type: non-person
+- labels: l'impero
+- surfaces: quale (1)
+- grouped: no
+
+## l'ora
+- type: non-person
+- labels: l'ora
+- surfaces: s' (1)
+- grouped: no
+
+## la Muda
+- type: non-person
+- labels: la Muda
+- surfaces: la Muda (1)
+- grouped: no
+
+## la bella donna
+- type: individual
+- labels: la bella donna
+- surfaces: la bella donna (1)
+- grouped: no
+
+## la buia campagna
+- type: non-person
+- labels: la buia campagna
+- surfaces: ella (1)
+- grouped: no
+
+## la città
+- type: non-person
+- labels: la città
+- surfaces: lui (1)
+- grouped: no
+
+## la coda di Minòs
+- type: non-person
+- labels: la coda di Minòs
+- surfaces: si (1)
+- grouped: no
+
+## la falsa vacca
+- type: individual
+- labels: la falsa vacca
+- surfaces: la falsa vacca (1)
+- grouped: no
+
+## la fama
+- type: non-person
+- labels: la fama | fama
+- surfaces: li (1)
+- grouped: no
+
+## la fame
+- type: non-person
+- labels: la fame
+- surfaces: la fame (1)
+- grouped: no
+
+## la fiera moglie
+- type: individual
+- labels: la fiera moglie
+- surfaces: la fiera moglie (1)
+- grouped: no
+
+## la gente grossa
+- type: class
+- labels: la gente grossa
+- surfaces: la gente grossa (1)
+- grouped: no
+
+## la leonessa
+- type: non-person
+- labels: la leonessa
+- surfaces: la leonessa (1)
+- grouped: no
+
+## la mamma
+- type: generic
+- labels: la mamma | mamma
+- surfaces: mamma (1)
+- grouped: no
+
+## la mattia
+- type: generic
+- labels: la mattia
+- surfaces: la mattia (1)
+- grouped: no
+
+## la moglie di Potifare, Sinone
+- type: individual
+- labels: la moglie di Potifare, Sinone
+- surfaces: lor (1)
+- grouped: no
+
+## la morte mia
+- type: non-person
+- labels: la morte mia
+- surfaces: e' (1)
+- grouped: no
+
+## la nimica podesta
+- type: individual
+- labels: la nimica podesta
+- surfaces: la nimica podesta (1)
+- grouped: no
+
+## la nostra imagine
+- type: non-person
+- labels: la nostra imagine
+- surfaces: la nostra imagine (1)
+- grouped: no
+
+## la perduta gente
+- type: class
+- labels: la perduta gente
+- surfaces: la perduta gente (1)
+- grouped: no
+
+## la piaga
+- type: non-person
+- labels: la piaga
+- surfaces: quei (1)
+- grouped: no
+
+## la porta
+- type: non-person
+- labels: la porta
+- surfaces: si (1)
+- grouped: no
+
+## la quartana
+- type: non-person
+- labels: la quartana
+- surfaces: la quartana (1)
+- grouped: no
+
+## la regina de l'etterno pianto
+- type: individual
+- labels: la regina de l'etterno pianto
+- surfaces: la regina de l'etterno pianto (1)
+- grouped: no
+
+## la ripa
+- type: non-person
+- labels: la ripa
+- surfaces: la ripa (1)
+- grouped: no
+
+## la roccia
+- type: non-person
+- labels: la roccia
+- surfaces: ella (1)
+- grouped: no
+
+## la settima zavorra
+- type: non-person
+- labels: la settima zavorra
+- surfaces: la settima zavorra (1)
+- grouped: no
+
+## la stella
+- type: non-person
+- labels: la stella
+- surfaces: la stella (1)
+- grouped: no
+
+## la tirannia
+- type: non-person
+- labels: la tirannia
+- surfaces: la tirannia (1)
+- grouped: no
+
+## la trista greggia
+- type: class
+- labels: la trista greggia
+- surfaces: la trista greggia (1)
+- grouped: no
+
+## la tua ragione
+- type: non-person
+- labels: la tua ragione
+- surfaces: ella (1)
+- grouped: no
+
+## la tua sorella
+- type: individual
+- labels: la tua sorella
+- surfaces: la tua sorella (1)
+- grouped: no
+
+## la villana
+- type: generic
+- labels: la villana
+- surfaces: la villana (1)
+- grouped: no
+
+## la volgare schiera
+- type: class
+- labels: la volgare schiera
+- surfaces: la volgare schiera (1)
+- grouped: no
+
+## lamenti
+- type: non-person
+- labels: lamenti
+- surfaces: elli (1)
+- grouped: no
+
+## le anime della quarta bolgia
+- type: class
+- labels: le anime della quarta bolgia
+- surfaces: li (1)
+- grouped: no
+
+## le beate genti
+- type: class
+- labels: le beate genti
+- surfaces: le beate genti (1)
+- grouped: no
+
+## le donne antiche
+- type: class
+- labels: le donne antiche
+- surfaces: le donne antiche (1)
+- grouped: no
+
+## le fangose genti
+- type: class
+- labels: le fangose genti
+- surfaces: le fangose genti (1)
+- grouped: no
+
+## le fata
+- type: hypothetical-simile
+- labels: le fata
+- surfaces: le fata (1)
+- grouped: no
+
+## le genti dolorose
+- type: class
+- labels: le genti dolorose
+- surfaces: le genti dolorose (1)
+- grouped: no
+
+## le letane
+- type: non-person
+- labels: le letane
+- surfaces: le letane (1)
+- grouped: no
+
+## le parole dell'anima
+- type: non-person
+- labels: le parole dell'anima
+- surfaces: elli (1)
+- grouped: no
+
+## le turbe
+- type: class
+- labels: le turbe
+- surfaces: le turbe (1)
+- grouped: no
+
+## legno
+- type: non-person
+- labels: legno
+- surfaces: quel (1)
+- grouped: no
+
+## li 'mpaniati
+- type: class
+- labels: li 'mpaniati
+- surfaces: li 'mpaniati (1)
+- grouped: no
+
+## li Giudei
+- type: class
+- labels: li Giudei
+- surfaces: li Giudei (1)
+- grouped: no
+
+## li Tedeschi lurchi
+- type: class
+- labels: li Tedeschi lurchi
+- surfaces: li Tedeschi lurchi (1)
+- grouped: no
+
+## li altri ciechi
+- type: class
+- labels: li altri ciechi
+- surfaces: li altri ciechi (1)
+- grouped: no
+
+## li altri dèi
+- type: class
+- labels: li altri dèi
+- surfaces: li altri dèi (1)
+- grouped: no
+
+## li altri mal nati
+- type: class
+- labels: li altri mal nati
+- surfaces: li altri mal nati (1)
+- grouped: no
+
+## li altri sciocchi
+- type: class
+- labels: li altri sciocchi
+- surfaces: li altri sciocchi (1)
+- grouped: no
+
+## li altri suoi consorti
+- type: class
+- labels: li altri suoi consorti
+- surfaces: li altri suoi consorti (1)
+- grouped: no
+
+## li antichi spiriti dolenti
+- type: class
+- labels: li antichi spiriti dolenti
+- surfaces: li antichi spiriti dolenti (1)
+- grouped: no
+
+## li argini
+- type: non-person
+- labels: li argini
+- surfaces: elli (1)
+- grouped: no
+
+## li avversari suoi
+- type: class
+- labels: li avversari suoi
+- surfaces: li avversari suoi (1)
+- grouped: no
+
+## li cieli
+- type: non-person
+- labels: li cieli
+- surfaces: lor (1)
+- grouped: no
+
+## li cittadin
+- type: class
+- labels: li cittadin
+- surfaces: li cittadin (1)
+- grouped: no
+
+## li discendenti di Enea
+- type: class
+- labels: li discendenti di Enea
+- surfaces: chi (1)
+- grouped: no
+
+## li dèi
+- type: class
+- labels: li dèi
+- surfaces: li dèi (1)
+- grouped: no
+
+## li eresïarche
+- type: class
+- labels: li eresïarche
+- surfaces: li eresïarche (1)
+- grouped: no
+
+## li gran savi
+- type: class
+- labels: li gran savi
+- surfaces: li gran savi (1)
+- grouped: no
+
+## li ladron
+- type: class
+- labels: li ladron
+- surfaces: li ladron (1)
+- grouped: no
+
+## li lessi dolenti
+- type: class
+- labels: li lessi dolenti
+- surfaces: li lessi dolenti (1)
+- grouped: no
+
+## li monaci
+- type: class
+- labels: li monaci
+- surfaces: li monaci (1)
+- grouped: no
+
+## li orribili giganti
+- type: class
+- labels: li orribili giganti
+- surfaces: li orribili giganti (1)
+- grouped: no
+
+## li parenti miei
+- type: class
+- labels: li parenti miei
+- surfaces: li parenti miei (1)
+- grouped: no
+
+## li pastori
+- type: hypothetical-simile
+- labels: li pastori
+- surfaces: li pastori (1)
+- grouped: no
+
+## li scheggion
+- type: class
+- labels: li scheggion
+- surfaces: li scheggion (1)
+- grouped: no
+
+## li spiriti magni
+- type: class
+- labels: li spiriti magni
+- surfaces: li spiriti magni (1)
+- grouped: no
+
+## li uman privadi
+- type: class
+- labels: li uman privadi
+- surfaces: li uman privadi (1)
+- grouped: no
+
+## lo 'ngegno
+- type: non-person
+- labels: lo 'ngegno
+- surfaces: esso (1)
+- grouped: no
+
+## lo Carrarese
+- type: individual
+- labels: lo Carrarese
+- surfaces: lo Carrarese (1)
+- grouped: no
+
+## lo corpo
+- type: non-person
+- labels: lo corpo | un corpo
+- surfaces: un corpo (1)
+- grouped: no
+
+## lo perfido assessin
+- type: individual
+- labels: lo perfido assessin
+- surfaces: lo perfido assessin (1)
+- grouped: no
+
+## lo popolo
+- type: class
+- labels: lo popolo
+- surfaces: lo popolo (1)
+- grouped: no
+
+## lo scoperto fondo
+- type: non-person
+- labels: lo scoperto fondo
+- surfaces: si (1)
+- grouped: no
+
+## lo stuolo
+- type: class
+- labels: lo stuolo
+- surfaces: lo stuolo (1)
+- grouped: no
+
+## loco vòto
+- type: non-person
+- labels: loco vòto
+- surfaces: quella (1)
+- grouped: no
+
+## lor frate
+- type: individual
+- labels: lor frate
+- surfaces: lor frate (1)
+- grouped: no
+
+## lor parenti
+- type: class
+- labels: lor parenti
+- surfaces: lor parenti (1)
+- grouped: no
+
+## lor seguaci
+- type: class
+- labels: lor seguaci
+- surfaces: lor seguaci (1)
+- grouped: no
+
+## mar
+- type: non-person
+- labels: mar
+- surfaces: lui (1)
+- grouped: no
+
+## marchese
+- type: generic
+- labels: marchese
+- surfaces: del marchese (1)
+- grouped: no
+
+## maschi
+- type: class
+- labels: maschi
+- surfaces: elli (1)
+- grouped: no
+
+## membra
+- type: non-person
+- labels: membra
+- surfaces: si (1)
+- grouped: no
+
+## messer Guido
+- type: individual
+- labels: messer Guido
+- surfaces: messer Guido (1)
+- grouped: no
+
+## mille anime distrutte
+- type: class
+- labels: mille anime distrutte
+- surfaces: mille anime distrutte (1)
+- grouped: no
+
+## mio annunzio
+- type: non-person
+- labels: mio annunzio
+- surfaces: ei (1)
+- grouped: no
+
+## miseri
+- type: class
+- labels: miseri
+- surfaces: miseri (1)
+- grouped: no
+
+## miseri seguaci
+- type: class
+- labels: miseri seguaci
+- surfaces: miseri seguaci (1)
+- grouped: no
+
+## misericordia
+- type: non-person
+- labels: misericordia
+- surfaces: misericordia (1)
+- grouped: no
+
+## misero
+- type: generic
+- labels: misero
+- surfaces: misero (1)
+- grouped: no
+
+## misero Sabello
+- type: individual
+- labels: misero Sabello
+- surfaces: misero Sabello (1)
+- grouped: no
+
+## molte genti
+- type: class
+- labels: molte genti
+- surfaces: molte genti (1)
+- grouped: no
+
+## montagna
+- type: non-person
+- labels: montagna
+- surfaces: ella (1)
+- grouped: no
+
+## muse, alto ingegno
+- type: set
+- members: muse | alto ingegno
+
+## nemici cotanti
+- type: class
+- labels: nemici cotanti
+- surfaces: nemici cotanti (1)
+- grouped: no
+
+## nostre spoglie
+- type: non-person
+- labels: nostre spoglie
+- surfaces: le (1)
+- grouped: no
+
+## nostro ponte
+- type: non-person
+- labels: nostro ponte
+- surfaces: nostro ponte (1)
+- grouped: no
+
+## novi frustatori
+- type: class
+- labels: novi frustatori
+- surfaces: novi frustatori (1)
+- grouped: no
+
+## novi tormentati
+- type: class
+- labels: novi tormentati
+- surfaces: novi tormentati (1)
+- grouped: no
+
+## nullo amato
+- type: generic
+- labels: nullo amato
+- surfaces: nullo amato (1)
+- grouped: no
+
+## observers/onlookers
+- type: class
+- labels: observers/onlookers
+- surfaces: elli (1)
+- grouped: no
+
+## offesi
+- type: class
+- labels: offesi
+- surfaces: offesi (1)
+- grouped: no
+
+## ogne Bianco
+- type: generic
+- labels: ogne Bianco
+- surfaces: ogne Bianco (1)
+- grouped: no
+
+## ogne persona
+- type: generic
+- labels: ogne persona
+- surfaces: ogne persona (1)
+- grouped: no
+
+## ogne reo
+- type: generic
+- labels: ogne reo
+- surfaces: ogne reo (1)
+- grouped: no
+
+## om
+- type: generic
+- labels: om
+- surfaces: om (1)
+- grouped: no
+
+## omicide
+- type: class
+- labels: omicide
+- surfaces: omicide (1)
+- grouped: no
+
+## omo d'intelletto
+- type: generic
+- labels: omo d'intelletto
+- surfaces: omo d'intelletto (1)
+- grouped: no
+
+## one of the three Florentine souls
+- type: individual
+- labels: one of the three Florentine souls
+- surfaces: l'un (1)
+- grouped: no
+
+## papi
+- type: class
+- labels: papi
+- surfaces: papi (1)
+- grouped: no
+
+## paura
+- type: non-person
+- labels: paura
+- surfaces: paura (1)
+- grouped: no
+
+## pedoni
+- type: class
+- labels: pedoni
+- surfaces: pedoni (1)
+- grouped: no
+
+## peggiore spirto di Romagna
+- type: individual
+- labels: peggiore spirto di Romagna
+- surfaces: col peggiore spirto di Romagna (1)
+- grouped: no
+
+## penna
+- type: non-person
+- labels: penna | la penna
+- surfaces: la penna (1)
+- grouped: no
+
+## persona viva
+- type: generic
+- labels: persona viva
+- surfaces: persona viva (1)
+- grouped: no
+
+## persone ratte
+- type: class
+- labels: persone ratte
+- surfaces: persone ratte (1)
+- grouped: no
+
+## pianto
+- type: non-person
+- labels: pianto
+- surfaces: si (1)
+- grouped: no
+
+## pirate
+- type: class
+- labels: pirate
+- surfaces: pirate (1)
+- grouped: no
+
+## poverello
+- type: generic
+- labels: poverello
+- surfaces: poverello (1)
+- grouped: no
+
+## predon
+- type: generic
+- labels: predon
+- surfaces: predon (1)
+- grouped: no
+
+## primi
+- type: class
+- labels: primi
+- surfaces: primi (1)
+- grouped: no
+
+## qual di questa greggia
+- type: generic
+- labels: qual di questa greggia
+- surfaces: il (1)
+- grouped: no
+
+## qualunque
+- type: generic
+- labels: qualunque
+- surfaces: s' (1)
+- grouped: no
+
+## qualunque trade
+- type: generic
+- labels: qualunque trade
+- surfaces: qualunque trade (1)
+- grouped: no
+
+## quei c'ha mala luce
+- type: individual
+- labels: quei c'ha mala luce
+- surfaces: quei (1)
+- grouped: no
+
+## quei cui l'ira dentro fiacca
+- type: generic
+- labels: quei cui l'ira dentro fiacca
+- surfaces: quei (1)
+- grouped: no
+
+## quel ch'i' ho di lui nel cielo udito
+- type: individual
+- labels: quel ch'i' ho di lui nel cielo udito
+- surfaces: quel (1)
+- grouped: no
+
+## quel che fidanza non imborsa
+- type: generic
+- labels: quel che fidanza non imborsa
+- surfaces: quel (1)
+- grouped: no
+
+## quel di Brescia
+- type: individual
+- labels: quel di Brescia
+- surfaces: quel (1)
+- grouped: no
+
+## quel vento
+- type: non-person
+- labels: quel vento
+- surfaces: quel vento (1)
+- grouped: no
+
+## quell' altro foco
+- type: non-person
+- labels: quell' altro foco
+- surfaces: quell' altro foco (1)
+- grouped: no
+
+## quella compagna
+- type: individual
+- labels: quella compagna
+- surfaces: quella compagna (1)
+- grouped: no
+
+## quella lettura
+- type: non-person
+- labels: quella lettura
+- surfaces: ella (1)
+- grouped: no
+
+## quelli a cui fu rotto il petto
+- type: class
+- labels: quelli a cui fu rotto il petto
+- surfaces: quelli (1)
+- grouped: no
+
+## quelli che vince
+- type: class
+- labels: quelli che vince
+- surfaces: quelli (1)
+- grouped: no
+
+## questa cruda e tristissima copia
+- type: class
+- labels: questa cruda e tristissima copia
+- surfaces: questa cruda e tristissima copia (1)
+- grouped: no
+
+## questa gente sconcia
+- type: class
+- labels: questa gente sconcia
+- surfaces: questa gente sconcia (1)
+- grouped: no
+
+## questa risma
+- type: class
+- labels: questa risma
+- surfaces: questa risma (1)
+- grouped: no
+
+## questi coi crin mozzi
+- type: individual
+- labels: questi coi crin mozzi
+- surfaces: questi (1)
+- grouped: no
+
+## questi col pugno chiuso
+- type: individual
+- labels: questi col pugno chiuso
+- surfaces: questi (1)
+- grouped: no
+
+## questi felli
+- type: class
+- labels: questi felli
+- surfaces: questi felli (1)
+- grouped: no
+
+## quinc' entro
+- type: class
+- labels: quinc' entro
+- surfaces: costoro (1)
+- grouped: no
+
+## ragazzo
+- type: generic
+- labels: ragazzo
+- surfaces: ragazzo (1)
+- grouped: no
+
+## re Tebaldo
+- type: individual
+- labels: re Tebaldo
+- surfaces: del buon re Tebaldo (1)
+- grouped: no
+
+## regi
+- type: class
+- labels: regi | i regi
+- surfaces: coi regi (1)
+- grouped: no
+
+## rei
+- type: class
+- labels: rei | i rei
+- surfaces: i rei (1)
+- grouped: no
+
+## ruffian
+- type: generic
+- labels: ruffian
+- surfaces: ruffian (1)
+- grouped: no
+
+## santi
+- type: class
+- labels: santi
+- surfaces: coi santi (1)
+- grouped: no
+
+## schiera
+- type: class
+- labels: schiera | la schiera
+- surfaces: la schiera (1)
+- grouped: no
+
+## scorta
+- type: individual
+- labels: scorta
+- surfaces: scorta (1)
+- grouped: no
+
+## segnorso
+- type: generic
+- labels: segnorso
+- surfaces: dal segnorso (1)
+- grouped: no
+
+## seguaci
+- type: class
+- labels: seguaci
+- surfaces: seguaci (1)
+- grouped: no
+
+## sepulcri
+- type: non-person
+- labels: sepulcri
+- surfaces: elli (1)
+- grouped: no
+
+## spiriti umani
+- type: class
+- labels: spiriti umani
+- surfaces: spiriti umani (1)
+- grouped: no
+
+## sua sorella bianca
+- type: non-person
+- labels: sua sorella bianca
+- surfaces: sua sorella bianca (1)
+- grouped: no
+
+## suo corpo vano
+- type: non-person
+- labels: suo corpo vano
+- surfaces: suo corpo vano (1)
+- grouped: no
+
+## suo re
+- type: individual
+- labels: suo re
+- surfaces: suo re (1)
+- grouped: no
+
+## suoi servi
+- type: class
+- labels: suoi servi
+- surfaces: suoi servi (1)
+- grouped: no
+
+## sì fatta famiglia
+- type: class
+- labels: sì fatta famiglia
+- surfaces: sì fatta famiglia (1)
+- grouped: no
+
+## the act of being silent
+- type: non-person
+- labels: the act of being silent
+- surfaces: 'l (1)
+- grouped: no
+
+## the act of granting a request
+- type: non-person
+- labels: the act of granting a request
+- surfaces: danne (1)
+- grouped: no
+
+## the journey/the act of descent
+- type: non-person
+- labels: the journey/the act of descent
+- surfaces: 'l (1)
+- grouped: no
+
+## the suffering spirits
+- type: class
+- labels: the suffering spirits
+- surfaces: color (1)
+- grouped: no
+
+## tre anime fiorentine
+- type: class
+- labels: tre anime fiorentine
+- surfaces: noi (1)
+- grouped: no
+
+## troiane
+- type: class
+- labels: troiane
+- surfaces: troiane (1)
+- grouped: no
+
+## tutti li altri
+- type: class
+- labels: tutti li altri
+- surfaces: tutti li altri (1)
+- grouped: no
+
+## tutti li maschi
+- type: class
+- labels: tutti li maschi
+- surfaces: tutti li maschi (1)
+- grouped: no
+
+## tutti suoi seguaci
+- type: class
+- labels: tutti suoi seguaci
+- surfaces: tutti suoi seguaci (1)
+- grouped: no
+
+## umanità
+- type: non-person
+- labels: umanità
+- surfaces: noi (1)
+- grouped: no
+
+## un busto sanza capo, l capo tronco
+- type: set
+- members: un busto sanza capo | l capo tronco
+
+## un segnor
+- type: generic
+- labels: un segnor
+- surfaces: un segnor (1)
+- grouped: no
+
+## un suo prossimano
+- type: generic
+- labels: un suo prossimano
+- surfaces: un suo prossimano (1)
+- grouped: no
+
+## un uom solingo
+- type: generic
+- labels: un uom solingo
+- surfaces: un uom solingo (1)
+- grouped: no
+
+## un'altra gente
+- type: class
+- labels: un'altra gente
+- surfaces: un'altra gente (1)
+- grouped: no
+
+## una medesma lingua
+- type: non-person
+- labels: una medesma lingua
+- surfaces: ella (1)
+- grouped: no
+
+## una torma
+- type: class
+- labels: una torma
+- surfaces: una torma (1)
+- grouped: no
+
+## uno altro
+- type: generic
+- labels: uno altro
+- surfaces: uno altro (1)
+- grouped: no
+
+## vecchio padre
+- type: generic
+- labels: vecchio padre
+- surfaces: vecchio padre (1)
+- grouped: no
+
+## vicini
+- type: class
+- labels: vicini | i vicini
+- surfaces: i vicini (1)
+- grouped: no
+
+## viri
+- type: class
+- labels: viri
+- surfaces: viri (1)
+- grouped: no
+
+## virtù
+- type: non-person
+- labels: virtù
+- surfaces:  virtù  (1)
+- grouped: no
+
+## vista scoperchiata
+- type: non-person
+- labels: vista scoperchiata
+- surfaces: questa (1)
+- grouped: no
+
+## vivi
+- type: class
+- labels: vivi
+- surfaces: vivi (1)
+- grouped: no
+
+## volontà
+- type: non-person
+- labels: volontà
+- surfaces: ella (1)
+- grouped: no
+
+## vostra semenza
+- type: class
+- labels: vostra semenza
+- surfaces: vostra semenza (1)
+- grouped: no
