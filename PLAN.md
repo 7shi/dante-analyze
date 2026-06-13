@@ -3,8 +3,20 @@
 > **▶ STATUS: the ladder scenes → markup → reading → tags is ✓ complete & committed; the registry
 > library + measurement are ✓ done; NOW building the knowledge graph (registry → speech → relations
 > → assembly). Current step = **Step 1, the registry build** (`05-registry/`): `measure.py` ✓ done,
-> `registry.py` NOT built, **blocked on an epithet-grouping decision** — full spec + the decision are
-> in `05-registry/PLAN.md`. Read `ARCHITECTURE.md` before building or changing any pass.**
+> `registry.py` ✓ built (epithet-grouping decision resolved as **option A**, v1-skip with
+> `grouped: no`). The only LLM work left is the node-typing **generation run**.
+>
+> **Where to pick up (check this first):**
+> - **If `05-registry/{inferno,purgatorio,paradiso}.txt` exist** → Step 1 is DONE (the typing run
+>   finished and wrote + structure-checked them). Commit them if not already, then start
+>   **Step 2, `06-speech/`** — the next task, fully spec'd below.
+> - **If they do not exist yet** → finish the typing run with **`make -C 05-registry`** (already-typed
+>   nodes are skipped via the `05-registry/types.txt` cache; rerun is idempotent and safe). It writes
+>   the three `<canticle>.txt` and runs the structural check when typing completes, then commit them
+>   **together with `05-registry/types.txt`** (the typing record is kept, not transient).
+>
+> Full Step-1 design is in `05-registry/README.md`. Read `ARCHITECTURE.md` before building or
+> changing any pass.**
 
 `dante-analyze` turns the source cantos into referent-resolved structured data — the precursor to a
 knowledge graph. It consumes the shared corpus (source lines, tokens, scene ranges, the quote-span
@@ -53,23 +65,26 @@ Run `uv run 05-registry/measure.py` to regenerate. Headline numbers over the ful
 
 ## KG build steps
 
-### Step 1 — registry build (`05-registry/registry.py`)  [IN PROGRESS — ⚠ open decision]
+### Step 1 — registry build (`05-registry/registry.py`)  [BUILT — typing generation run pending]
 
-`measure.py` ✓ done; `registry.py` **not built yet**. It aggregates the **2,712** `fold_key`-merged
-nodes into one canonical, source-spelled node per figure across the work, with **node typing** (closed
-vocabulary), **set** support (`split_set`), and code-extracted **alias surfaces** (`load_tags` ×
-`number_scene` meta). The code-merge + typing are tractable; the **open decision is epithet grouping**
-— (A) v1-skip with flagged singletons (recommended) vs (B) batched calls — because the residual
-(~300/canticle) exceeds one LLM call.
+`measure.py` ✓ done; `registry.py` ✓ built. It aggregates the `fold_key`-merged nodes (2,922
+spellings → **2,711** nodes, `(unknown)` dropped) into one canonical, source-spelled node per figure
+across the work, with **node typing** (closed vocabulary), **set** support (`split_set`), and
+code-extracted **alias surfaces** (`load_tags` × `number_scene` meta). The epithet-grouping decision
+is resolved as **option A** (v1-skip; every non-name node flagged `grouped: no` — a flagged singleton
+is safer than an unverifiable merge). The only remaining work is the LLM node-typing generation run
+(~128 batched calls, resumable via `05-registry/types.txt`).
 
-**→ Full build spec, output format, structural check, and the open decision live in
-`05-registry/PLAN.md`** (renamed to `README.md` once built). Adds `load_registry(canticle)` to
-`checkpoint.py` when the format is frozen.
+**→ Full build spec, output format, structural check, and the option-A rationale live in
+`05-registry/README.md`.** `load_registry(canticle)` is added to `checkpoint.py` (format frozen).
 
-### Step 2 — `06-speech/speech.py` (pure code, no LLM)
+### Step 2 — `06-speech/speech.py` (pure code, no LLM)  [NEXT — once Step 1's `<canticle>.txt` are committed]
 
 Consumes the committed registry (speaker = canonical node label); `--raw` flag emits raw labels for
-early testing. Add `load_speech(canticle, canto)` to `checkpoint.py`. Per canto:
+early testing. Build the **raw→canonical map** once from `load_registry`: for each node, `fold_key`
+each spelling in its `labels:` list → the node's canonical heading (the same fold the registry built
+on, so the join is total); canonicalize every tag's 04-tags label through it *before* the uniqueness
+test in steps 3–4. Add `load_speech(canticle, canto)` to `checkpoint.py`. Per canto:
 
 1. `walk_spans(canto.quotes())`; per span its own region (`own_region`, column-aware).
 2. Per scene: `tag_positions` + `load_tags` → positioned referents; a tag is in a span by (line,
@@ -113,7 +128,7 @@ machine artifact here.
 ### Wiring (with Steps 1–2)
 
 - Makefiles + `cli.py` entries (`registry show <canticle>`, `speech show <canticle> <canto>`).
-  Registry-specific wiring is in `05-registry/PLAN.md`; `06-speech/Makefile` is pure code (no `model.mk`).
+  Registry-specific wiring is in `05-registry/README.md`; `06-speech/Makefile` is pure code (no `model.mk`).
 - **Convention**: a pass under construction has a `PLAN.md` in its subdir (scope-narrowed build spec);
   once built, rename it to `README.md` (cf. `04-tags/README.md`). Make the new subdir `PLAN.md` in
   that style.
@@ -124,9 +139,11 @@ machine artifact here.
 cd /home/7shi/repos/dante-analyze
 uv run python -c "import dante_analyze; print('ok')"
 uv run 05-registry/measure.py                  # regression: re-confirm the gate numbers
-make -C 05-registry && make -C 06-speech        # generation + built-in structural checks
+make -C 05-registry                            # Step 1: resume/finish typing + structural check
 uv run dante-analyze registry show inferno
-uv run dante-analyze speech show inferno 1
+# --- Step 2 (06-speech) is NOT built yet; the following apply once it is: ---
+# make -C 06-speech
+# uv run dante-analyze speech show inferno 1
 # spot-check: every speech speaker is a registry node; every 04-tags label is in the registry
 ```
 
@@ -207,13 +224,14 @@ uv run dante-analyze speech show inferno 1
 | `dante_analyze/quotespans.py` | ✓ | Quote-span geometry over dante_corpus `QuoteSpan`: `walk_spans`, `contains`, `own_region` (speech) |
 | `dante_analyze/llm.py` | ✓ | Runaway-guarded LLM gateway (`call_llm`), `step_sep`, `MAX_LENGTH`, `LLM_RETRIES` |
 | `dante_analyze/prompts.py` | ✓ | Turn-1 prompt builder (`build_reason_prompt`) |
-| `dante_analyze/cli.py` | ✓ | Read-only query CLI (`dante-analyze {scenes,reading,tags} show`) |
+| `dante_analyze/cli.py` | ✓ | Read-only query CLI (`dante-analyze {scenes,reading,tags,registry} show`) |
 | `02-markup/markup.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Per-scene reference markup (single pass, `gemma4:31b-it-qat` + CoT on) + output |
 | `03-reading/reading.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Free prose reading per scene (CoT on; no check, not proofread) + output |
 | `04-tags/README.md`, `tags.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Identity-first `n. Name` resolution (binds to reading; structure-checked) + design doc + output |
 | `05-registry/measure.py` | ✓ | Pure-code measurement report over 04-tags + Step-3 decision gates (no LLM, writes nothing) |
-| `05-registry/PLAN.md` | ✓ | Step 1 build spec + the open epithet-grouping decision (→ `README.md` once built) |
-| `05-registry/registry.py`, `<canticle>.txt`, `Makefile` | — | Registry build (Step 1) — to come |
+| `05-registry/README.md` | ✓ | Step 1 design doc: `measure.py`/`registry.py` purpose, make targets, output format, option A |
+| `05-registry/registry.py`, `Makefile` | ✓ | Registry build (Step 1, option A); typing cached in `types.txt`, resumable |
+| `05-registry/<canticle>.txt` | — | Canonical node table — produced by the typing generation run |
 | `06-speech/speech.py`, `<canticle>/NN.txt`, `PLAN.md`, `Makefile` | — | Speech edges (Step 2) — to come |
 
 The normalized source `.txt`, tokens, and quote-span XML live in **dante-corpus** and are read

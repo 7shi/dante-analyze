@@ -4,7 +4,7 @@ format used by every analysis pass, plus higher-level loaders `load_readings` an
 import re
 import sys
 
-from ._paths import READING_DIR, TAGS_DIR
+from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR
 
 # A tags `n. Name` line (the authoritative resolution; line n = tag [n]).
 TAGS_LINE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
@@ -123,4 +123,51 @@ def load_tags(canticle, canto):
             if m:
                 res[int(m.group(1))] = m.group(2)
         out[(s, e)] = res
+    return out
+
+
+# A registry `## <canonical>` node heading and a `- key: value` field line.
+REGISTRY_HEAD_RE = re.compile(r"^##\s+(.*\S)\s*$")
+REGISTRY_FIELD_RE = re.compile(r"^-\s+(\w+):\s*(.*)$")
+
+
+def load_registry(canticle):
+    """{canonical: node} for a canticle from 05-registry/<canticle>.txt, or exit if absent.
+
+    `node` is a dict with the parsed fields: `type` (str), and either `members` (list, for a
+    `set` node) or `labels` (list of raw spellings) + `surfaces` (list of (form, count)); the
+    `grouped: no` flag becomes `grouped=False`. Built by 05-registry/registry.py; the canonical
+    heading is the node's global label, surfaces/labels are this canticle's (registry.py)."""
+    path = REGISTRY_DIR / f"{canticle}.txt"
+    if not path.exists():
+        print(f"Error: registry not found: {path} (run 05-registry/registry.py first)",
+              file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    node = None
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        h = REGISTRY_HEAD_RE.match(raw)
+        if h:
+            node = {"type": None, "labels": [], "surfaces": [], "members": [], "grouped": True}
+            out[h.group(1)] = node
+            continue
+        if node is None:
+            continue
+        f = REGISTRY_FIELD_RE.match(raw)
+        if not f:
+            continue
+        key, val = f.group(1), f.group(2).strip()
+        if key == "type":
+            node["type"] = val
+        elif key == "members":
+            node["members"] = [m.strip() for m in val.split("|") if m.strip()]
+        elif key == "labels":
+            node["labels"] = [m.strip() for m in val.split("|") if m.strip()]
+        elif key == "surfaces":
+            for item in (s.strip() for s in val.split(",") if s.strip()):
+                m = re.match(r"^(.*\S)\s+\((\d+)\)$", item)
+                if m:
+                    node["surfaces"].append((m.group(1), int(m.group(2))))
+        elif key == "grouped":
+            node["grouped"] = val.lower() != "no"
     return out

@@ -48,10 +48,11 @@ def fold_key(label):
 _CAP_NAME_RE = re.compile(r"^[^\W\d_][\w']*(?:\s+[^\W\d_][\w']*)*$", re.UNICODE)
 
 
-def _is_capitalized_name(piece):
+def is_capitalized_name(piece):
     """A piece that looks like a proper-name sequence: every word starts with an
     uppercase letter (so `Cammilla`, `Eurialo`, `Turno` qualify; `li parenti miei`,
-    a comma-bearing epithet's clause, does not)."""
+    a comma-bearing epithet's clause, does not). The registry uses this to tell a
+    proper-name node from an epithet node (option A's `grouped: no` flag)."""
     words = piece.split()
     return bool(words) and all(w[:1].isupper() and _CAP_NAME_RE.match(w) for w in words)
 
@@ -73,7 +74,7 @@ def split_set(label, known_labels):
     if len(pieces) < 2:
         return None
     for piece in pieces:
-        if fold_key(piece) in known_folds or _is_capitalized_name(piece):
+        if fold_key(piece) in known_folds or is_capitalized_name(piece):
             continue
         return None
     return pieces

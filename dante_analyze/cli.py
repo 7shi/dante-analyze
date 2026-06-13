@@ -3,7 +3,7 @@ import argparse
 import json
 import sys
 
-from ._paths import SCENE_DIR, READING_DIR, TAGS_DIR
+from ._paths import SCENE_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR
 from .checkpoint import out_path
 
 _DIRS = {"reading": READING_DIR, "tags": TAGS_DIR}
@@ -11,6 +11,13 @@ _DIRS = {"reading": READING_DIR, "tags": TAGS_DIR}
 
 def _show(layer, canticle, canto):
     path = out_path(_DIRS[layer], canticle, canto)
+    if not path.exists():
+        raise FileNotFoundError(path)
+    print(path.read_text(encoding="utf-8"), end="")
+
+
+def _show_registry(canticle):
+    path = REGISTRY_DIR / f"{canticle}.txt"
     if not path.exists():
         raise FileNotFoundError(path)
     print(path.read_text(encoding="utf-8"), end="")
@@ -38,6 +45,11 @@ def build_parser():
     scenes_show.add_argument("canticle")
     scenes_show.add_argument("canto", type=int)
 
+    registry_parser = roots.add_parser("registry")
+    registry_sub = registry_parser.add_subparsers(dest="action", required=True)
+    registry_show = registry_sub.add_parser("show")
+    registry_show.add_argument("canticle")
+
     for layer in _DIRS:
         layer_parser = roots.add_parser(layer)
         sub = layer_parser.add_subparsers(dest="action", required=True)
@@ -54,6 +66,8 @@ def main():
         if args.action == "show":
             if args.layer == "scenes":
                 _show_scenes(args.canticle, args.canto)
+            elif args.layer == "registry":
+                _show_registry(args.canticle)
             else:
                 _show(args.layer, args.canticle, args.canto)
             return 0

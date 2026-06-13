@@ -1,0 +1,207 @@
+# 05-registry — canonical node table (KG Step 1)
+
+## Pipeline position
+
+```
+04-tags/      n. Name identity per tag, per scene                     [committed]
+05-registry/  one canonical NODE per figure across the whole work     [THIS PASS]
+06-speech/    speaker per quote span (joins on registry nodes)         [next]
+(downstream)  relations + KG assembly                                  [later]
+```
+
+`04-tags` resolves WHO *per scene*, so the same figure can carry different spellings in
+different scenes (`Virgilio`, `quel Virgilio`, `'l mio maestro`, …) and the same epithet can
+recur unlinked across scenes. The registry is the first pass that sees **every unit at once**
+(ARCHITECTURE §11): it folds those per-scene labels into **one node per figure across all three
+canticles**, picks a canonical spelling, assigns a node **type**, and attaches the figure's
+**surface aliases** with counts. This node set is what `06-speech` and the relations pass join
+onto by `fold_key`.
+
+There are two scripts here. `measure.py` is a **read-only probe** that sized the problem and
+froze the design *before* any prompt existed; `registry.py` is the **builder** that follows the
+design `measure.py` validated.
+
+---
+
+## `measure.py` — size the problem first (no LLM, writes nothing)
+
+**Purpose.** A pure-code stdout report over the committed `04-tags`: how many distinct labels,
+how head-concentrated, how many collapse by `fold_key`, how many comma-labels are real sets vs.
+epithets, how much `(unknown)`/typo noise, and how well quote spans resolve to a first-person
+speaker. It ends with **decision gates** that say whether the LLM residual is tractable.
+
+**Background (why measure first).** The original plan was a single per-canticle LLM call to
+*group* epithet variants. Measuring the full output showed that call cannot hold the residual:
+
+```
+$ make -C 05-registry measure        # or: uv run 05-registry/measure.py
+...
+# GLOBAL totals (all canticles)
+  tag lines: 16030
+  distinct labels: 2923
+  fold_key code-merge: 2923 labels -> 2712 nodes (... merge ...)
+  epithet nodes occurring >=2x (per-canticle gate input): ... global
+
+## Decision gates (PLAN.md — registry sizing)
+  [PASS] base figures with longer forms < 50:   ... (fuzzy gate)
+  [FAIL] epithet nodes/canticle < 150:           inferno=285, purgatorio=312, paradiso=330
+  => LLM residual: REVISIT — gate failed; epithet grouping likely needs
+     batching/sub-passing rather than one call per canticle (see report body)
+```
+
+The lesson — measure the consolidation residual on the *full* output, split the deterministic
+code-merge from the LLM residual, and prefer flagged singletons over an unverifiable merge — is
+ARCHITECTURE §14. It is what produced **option A** below. `measure.py` is kept as a re-runnable
+regression: rerun it after any `04-tags` change to confirm the gate numbers still hold.
+
+---
+
+## `registry.py` — build the node table (the one LLM stage is typing)
+
+**Purpose.** Aggregate `04-tags` into `05-registry/<canticle>.txt`: canonical nodes with type,
+labels, and surface aliases. Pipeline:
+
+```
+gather (code) -> fold-merge (code) -> set-resolve (code) -> type (LLM, cached)
+              -> render per-canticle (code) -> structural check (code)
+```
+
+**1. Gather + fold-merge (pure code).** Read every scene's labels (`load_tags`) and surfaces
+(`number_scene` `meta`), normalize (`norm_label`), group by `fold_key`. The canonical label is the
+**most frequent original spelling** in the group. This deterministically collapses 2,922 spellings
+→ **2,711 nodes** (the `(unknown)` fold is dropped). Canonical labels are decided **globally** over
+all three canticles, so a cross-canticle figure (Dante, Virgilio, Beatrice, biblical/classical
+names) is **one node, typed once** — not re-derived per canticle. Even when you build only one
+canticle, all three are gathered first so the labels stay consistent.
+
+**2. Set resolution (pure code).** A comma-label whose every piece is a known node or a
+capitalized name (`split_set`) is a **set** node — a structural kind orthogonal to the five types —
+listing its members instead of surfaces.
+
+**3. Node typing (LLM, cached).** The *only* LLM stage. Each non-set node is classified once with a
+closed vocabulary — `individual | generic | class | hypothetical-simile | non-person` — in batches
+of 20, reply `n. <label> = <type>`. Checked (every label typed once, type in vocabulary, label
+echoed verbatim) with pinpointed in-conversation retry, exactly like `tags.py`. `gemma4:31b-it-qat`,
+CoT on. ~2,550 nodes ÷ 20 ≈ **~128 calls** total — far fewer than typing per scene or per canto,
+which would re-type recurring figures hundreds of times.
+
+A concrete batch the model sees and answers:
+
+```
+1. Dante = individual
+2. la Fortuna = non-person
+3. angeli = class
+4. Beatrice = individual
+```
+
+**4. Render + check (pure code).** Write `05-registry/<canticle>.txt`. Surfaces and labels are
+**per-canticle** (each file is self-contained); the canonical label and type are global, re-emitted
+in each canticle file the node appears in. The structural check (fail-loud, non-zero exit) confirms:
+every distinct `04-tags` label in the canticle is assigned to exactly one node, every set member
+resolves, every type is in vocabulary, every heading is one of its group's raw labels.
+
+### Output example (`inferno.txt`)
+
+```
+# Registry — inferno
+
+## Virgilio
+- type: individual
+- labels: Virgilio
+- surfaces: tu (96), ei (86), io (68), elli (50), Maestro (22), ..., quel Virgilio (1)
+
+## Dante, Virgilio
+- type: set
+- members: Dante | Virgilio
+
+## gente
+- type: individual
+- labels: gente
+- surfaces: ...
+- grouped: no
+```
+
+**Option A — `grouped: no`.** Epithet grouping is **skipped in v1** (the gate it failed). Every
+non-name, non-set node keeps its own node, flagged `- grouped: no` to mark the un-consolidated
+epithet layer. A flagged singleton is safer than a merge the structural check cannot verify
+(ARCHITECTURE §11/§14); consolidation is a later pass. The rejected alternative (B) was to split
+each canticle's ~300-candidate list into several grouping calls — more design and tokens, with
+cross-batch splits a single call would have caught, and still no check that can verify a merge.
+
+### `types.txt` — the resume cache
+
+Typing is the slow part (~128 local-LLM calls), so each passed batch is appended to
+`05-registry/types.txt` as `<canonical> = <type>`. On rerun, already-typed nodes are skipped and
+only the remainder is sent. Interrupting the build loses at most the one in-flight batch.
+
+`types.txt` is **committed** alongside the three `<canticle>.txt` (it is the exact record of the
+LLM's typing decisions): keeping it makes the registry reproducible without re-running the model and
+leaves the only interpretive step auditable. To re-derive types from scratch, delete it first.
+
+- **Resume:** rerun `make -C 05-registry` (or the `uv run` command below). It reads `types.txt`,
+  skips what's done, and finishes the rest, then renders + checks.
+- **Rebuild from scratch:** `rm 05-registry/types.txt` first, then run.
+- **Progress:** `wc -l 05-registry/types.txt` (one line = one typed node).
+
+**Run it as ONE process — do not parallelize per canticle.** Typing operates on the *global*
+deduplicated node set (the canticle args only choose which `<canticle>.txt` get *rendered*, not what
+gets typed). Running `registry.py inferno`, `registry.py purgatorio`, `registry.py paradiso`
+concurrently would each re-type the *same* ~2,550 nodes (3× the LLM cost) and **append to
+`types.txt` at the same time, corrupting the cache** (it is a plain append-on-pass file, no locking).
+The intended invocation is the single `registry.py inferno purgatorio paradiso` that `make` runs;
+the three output files are a cheap rendering split at the end of that one run.
+
+---
+
+## Why typing lives here, not in 04-tags
+
+A natural question: `04-tags` already read each scene and resolved each figure with full context —
+why not assign the type there at the same time, instead of a separate node-level pass here? Because
+the two passes answer **orthogonal questions** — `04-tags` answers *who* a tag is (`n. Name`); typing
+answers *what kind of referent* a figure is (`individual / generic / class / hypothetical-simile /
+non-person`) — and the type is structurally a **node** property, not a **tag** property:
+
+1. **Unit mismatch (redundancy + inconsistency).** `04-tags` is per-scene; a figure like Virgilio
+   appears in dozens of scenes. Typing there would re-classify the same figure dozens of times
+   (up to 16,030 tag lines) and risk a different type per scene. Here it is typed **once per node**
+   (~2,550) — the same dedup win that makes the build cheap.
+2. **Type needs the global view.** Whether `le anime` is a `generic` group or resolves to specific
+   individuals is a property of the figure across the whole work, not of one scene. The type belongs
+   *after* the `fold_key` merge that produces the canonical node — you type the node, not each raw
+   spelling.
+3. **One kind of work per pass (ARCHITECTURE §1).** `04-tags`' check is "every tag named once, no
+   pronoun echo"; typing's check is "type in vocabulary". Folding an ontological classification into
+   the per-tag identity turn would complicate both checks and both prompts. The project keeps reading
+   / tags / registry as separate narrow passes on purpose (root PLAN.md "Decisions to keep").
+
+**The real tradeoff.** Typing here sees only the bare label (no answer leakage — see ARCHITECTURE
+§8), so it has *less* context than `04-tags` had when it understood the figure in its scene. That is
+a deliberate trade: we give up context to gain dedup, global consistency, and a cheap, checkable
+pass. If typing accuracy proves insufficient, the fix is **not** to move it back into `04-tags` (that
+breaks the dedup) but to feed the node-level pass more signal while still typing once per node — e.g.
+attach the node's surface aliases (already computed) or a few representative scene contexts to the
+prompt. Per the project's method-not-handwork policy (ARCHITECTURE §11), accuracy is improved by
+changing the method, never by per-item patching.
+
+---
+
+## make targets
+
+| Target | Command it runs | Effect |
+|---|---|---|
+| `make -C 05-registry` (`all`) | `uv run registry.py inferno purgatorio paradiso -m $(MODEL)` | Build/resume the registry; writes the three `<canticle>.txt` + `types.txt` |
+| `make -C 05-registry measure` | `uv run measure.py` | Re-print the sizing report + decision gates (read-only) |
+
+`$(MODEL)` comes from `../model.mk` (default `ollama:gemma4:31b-it-qat`).
+
+## Usage
+
+```bash
+make -C 05-registry measure                 # size the problem (read-only)
+make -C 05-registry                          # build/resume; fail-loud structural check
+uv run 05-registry/registry.py inferno       # one canticle (still gathers all three globally)
+uv run dante-analyze registry show inferno   # read a committed registry file
+```
+
+Downstream reads it with `load_registry(canticle)` → `{canonical: {type, labels, surfaces,
+members, grouped}}` (`dante_analyze/checkpoint.py`).
