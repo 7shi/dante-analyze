@@ -109,15 +109,41 @@ Output `06-speech/<canticle>/NN.txt`, committed; one line per span, depth-first:
 Structural check: file's spans == `canto.quotes()` exactly once each by id; every attributed speaker
 exists in the registry.
 
-### Step 3 — Relations pass  [design after Steps 1–2 are built & measured]
+### Step 3 — Relations pass  [NEXT — design task; nothing built]
 
 The event-edge input the KG still lacks: one LLM pass per scene, bound directly to the reading like
 `tags.py`, emitting line-oriented relations with **role-explicit tag citations** (subject before
 predicate, object after), a **closed predicate vocabulary**, a **frame marker** (literal / simile /
 prophecy / reported), and the covered line range — all four structurally checkable. Example line
 format: `- [3] guides [4] | frame: literal | lines 112-114` or
-`- [1] says-that [2] defeats [11] | frame: prophecy | lines 100-105`. The closed predicate
-vocabulary is to be derived by measuring the readings.
+`- [1] says-that [2] defeats [11] | frame: prophecy | lines 100-105`.
+
+**Read first as the template:** `04-tags/tags.py` + `04-tags/README.md` (the per-scene, reading-bound
+formalization pattern this pass copies) and `ARCHITECTURE.md` §1 (CoT/check policy), §8 (no answer
+leakage), §11/§14 (why tag-anchoring is verifiable). This pass is **interpretation-bound like
+`tags.py`, so CoT is ON** under §1's two conditions (add it to "Decisions to keep" when built).
+
+**How `[n]` citations join downstream (the key invariant).** The cited `[n]` are the SAME numbered
+tags as 04-tags: `number_scene(lines, s, e)` is deterministic, so re-running it here yields the
+identical numbering 04-tags resolved against. The relations pass therefore prompts on the
+`number_scene`-tagged scene text (exactly as `tags.py` does) and cites those `[n]`; Step 4 then joins
+each `[n]` through `04-tags/<canticle>/NN.txt` → the registry's canonical node. **Do not renumber** —
+reusing `number_scene` verbatim is what makes the join total. Structural check (derived from "all
+four checkable"): every cited `[n]` exists in the scene's tag set (`load_tags`), every predicate is
+in the closed vocabulary, every frame in {literal, simile, prophecy, reported}, every line range
+within the scene.
+
+**Open design (do these before coding, measure-first per ARCH §14):**
+- **Derive the closed predicate vocabulary by measuring the readings** — write a pure-code probe
+  (cf. `05-registry/measure.py`) over `03-reading/` to size the candidate predicate set BEFORE
+  freezing the prompt; the readings are free English prose, so decide what is measured (verbs/
+  predicate phrases) and whether the vocabulary is tractable as one closed list or needs grouping.
+- **Relation-line grammar** — settle how a nested/reported clause (`[1] says-that [2] defeats [11]`,
+  two predicates in one line) is emitted and checked vs. the simple `subj pred obj` line.
+- **Output**: add `RELATIONS_DIR = ROOT_DIR / "07-relations"` to `_paths.py` (re-export from
+  `__init__.py`), write `07-relations/<canticle>/NN.txt`, add `load_relations` to `checkpoint.py`,
+  `relations show` to `cli.py`, and a `07-relations/Makefile` (`include ../model.mk`, like `04-tags`).
+  Per the subdir convention below, start with `07-relations/PLAN.md`, rename to `README.md` once built.
 
 ### Step 4 — KG assembly  [last; pure code]
 
@@ -224,11 +250,11 @@ uv run dante-analyze speech show inferno 1
 | `dante_analyze/quotespans.py` | ✓ | Quote-span geometry over dante_corpus `QuoteSpan`: `walk_spans`, `contains`, `own_region` (speech) |
 | `dante_analyze/llm.py` | ✓ | Runaway-guarded LLM gateway (`call_llm`), `step_sep`, `MAX_LENGTH`, `LLM_RETRIES` |
 | `dante_analyze/prompts.py` | ✓ | Turn-1 prompt builder (`build_reason_prompt`) |
-| `dante_analyze/cli.py` | ✓ | Read-only query CLI (`dante-analyze {scenes,reading,tags,registry} show`) |
+| `dante_analyze/cli.py` | ✓ | Read-only query CLI (`dante-analyze {scenes,reading,tags,registry,speech} show`) |
 | `02-markup/markup.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Per-scene reference markup (single pass, `gemma4:31b-it-qat` + CoT on) + output |
 | `03-reading/reading.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Free prose reading per scene (CoT on; no check, not proofread) + output |
 | `04-tags/README.md`, `tags.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Identity-first `n. Name` resolution (binds to reading; structure-checked) + design doc + output |
-| `05-registry/measure.py` | ✓ | Pure-code measurement report over 04-tags + Step-3 decision gates (no LLM, writes nothing) |
+| `05-registry/measure.py` | ✓ | Pure-code measurement report over 04-tags + Step-1 registry-sizing decision gates (no LLM, writes nothing) |
 | `05-registry/README.md` | ✓ | Step 1 design doc: `measure.py`/`registry.py` purpose, make targets, output format, option A |
 | `05-registry/registry.py`, `Makefile` | ✓ | Registry build (Step 1, option A); typing cached in `types.txt`, resumable |
 | `05-registry/<canticle>.txt`, `types.txt` | ✓ | Canonical node table + typing cache (typing generation run done) |

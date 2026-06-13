@@ -5,8 +5,8 @@
 ```
 04-tags/      n. Name identity per tag, per scene                     [committed]
 05-registry/  one canonical NODE per figure across the whole work     [committed]
-06-speech/    speaker per quote span (joins on registry nodes)         [THIS PASS]
-(downstream)  relations + KG assembly                                  [later]
+06-speech/    speaker per quote span (joins on registry nodes)        [THIS PASS]
+(downstream)  relations + KG assembly                                 [later]
 ```
 
 `04-tags` resolved WHO each tag is, per scene; `05-registry` folded those per-scene labels into one
