@@ -1,4 +1,4 @@
-# 04-tags — identity-first per-tag resolution (design)
+# 04-tags — identity-first per-tag resolution
 
 ## Pipeline position
 

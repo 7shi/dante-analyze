@@ -425,6 +425,16 @@ from `04-tags/` to the complete graph is in `PLAN.md`'s Active work. Two general
   tag numbers that support it, and *reify* embedded assertions ("X said that Y did Z") rather than
   flattening them — the same tag-anchoring that makes §11 checkable makes the eventual graph
   auditable, and keeps a narrator's claim distinct from a diegetic fact.
+- **Size the consolidation step from the FULL committed output, not a partial-run prototype, and
+  split code-merge from the LLM residual before you measure.** The downstream roster pass (§11) has
+  a deterministic part (normalize + group by a fold key, canonical = most frequent spelling) and an
+  LLM residual (typing each node; grouping the epithet variants code can't merge). Measure each
+  separately on the *whole* output: a prototype on a partial run here undercounted the distinct-label
+  and epithet-residual counts by ~2×, and on the full output the recurring-epithet residual
+  (~300 per canticle) exceeded what a single batched LLM grouping call per unit could hold. When it
+  does, prefer **flagged singletons (defer grouping)** over forcing the merge — the structure check
+  on a grouping pass guards structure, not correctness (§11), so an unverifiable merge is worse than
+  an honest "not yet grouped". Typing stays tractable regardless (fixed-size batches over the node set).
 
 ---
 

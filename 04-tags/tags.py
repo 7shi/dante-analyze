@@ -290,7 +290,7 @@ def cmd_run(canticle, gen_model, only_canto, include_thoughts):
 def main():
     parser = argparse.ArgumentParser(
         description="Identity-first per-tag resolution for Dante's Divina Commedia: per-scene "
-                    "`n. Name` table, bound to the committed reading (see 04-tags/PLAN.md).")
+                    "`n. Name` table, bound to the committed reading (see 04-tags/README.md).")
     parser.add_argument("canticles", nargs="+", help="Canticle name(s), e.g. inferno")
     parser.add_argument("-m", "--model", default=DEFAULT_MODEL,
                         help=f"LLM for generation (default: {DEFAULT_MODEL})")

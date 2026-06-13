@@ -8,3 +8,5 @@ SCENE_DIR = ROOT_DIR / "01-scenes"    # scene JSON: 01-scenes/<canticle>/NN.json
 MARKUP_DIR = ROOT_DIR / "02-markup"   # markup.py writes 02-markup/<canticle>/NN.txt (committed)
 READING_DIR = ROOT_DIR / "03-reading" # reading.py writes 03-reading/<canticle>/NN.txt
 TAGS_DIR = ROOT_DIR / "04-tags"       # tags.py writes 04-tags/<canticle>/NN.txt
+REGISTRY_DIR = ROOT_DIR / "05-registry"  # registry.py writes 05-registry/<canticle>.txt (per-canticle)
+SPEECH_DIR = ROOT_DIR / "06-speech"      # speech.py writes 06-speech/<canticle>/NN.txt

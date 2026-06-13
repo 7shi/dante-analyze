@@ -1,7 +1,12 @@
-from ._paths import SCENE_DIR, MARKUP_DIR, READING_DIR, TAGS_DIR
+from ._paths import SCENE_DIR, MARKUP_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR
 from .llm import MAX_LENGTH, LLM_RETRIES, call_llm, step_sep
 from .corpus import read_markup, available_cantos, load_scenes
-from .marks import number_scene, parse_bullets, unbrace, fix_elision, ELIDE_RE
+from .marks import number_scene, tag_positions, parse_bullets, unbrace, fix_elision, ELIDE_RE
+from .labels import (
+    norm_label, fold_key, split_set,
+    FIRST_PERSON_STRONG, FIRST_PERSON_WEAK, FIRST_PERSON_PLURAL,
+)
+from .quotespans import walk_spans, contains, own_region
 from .checkpoint import (
     TAGS_LINE_RE,
     out_path, done_scene_ends, read_recap, iter_scene_blocks, scene_bodies,
@@ -12,7 +17,7 @@ from .prompts import build_reason_prompt
 
 __all__ = [
     # output dirs (project root)
-    "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "TAGS_DIR",
+    "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "TAGS_DIR", "REGISTRY_DIR", "SPEECH_DIR",
     # LLM boundary
     "MAX_LENGTH", "LLM_RETRIES", "call_llm", "step_sep",
     # inputs / corpus
@@ -21,7 +26,12 @@ __all__ = [
     "load_readings", "load_tags", "scene_bodies", "iter_scene_blocks",
     "done_scene_ends", "complete_scene_ends", "read_recap", "restore_blocks",
     # tag numbering / parsing
-    "number_scene", "parse_bullets", "unbrace",
+    "number_scene", "tag_positions", "parse_bullets", "unbrace",
+    # label normalization / classification (registry)
+    "norm_label", "fold_key", "split_set",
+    "FIRST_PERSON_STRONG", "FIRST_PERSON_WEAK", "FIRST_PERSON_PLURAL",
+    # quote-span geometry (speech)
+    "walk_spans", "contains", "own_region",
     # elision repair
     "fix_elision", "ELIDE_RE", "TAGS_LINE_RE",
     # prompts / checkpoint writing

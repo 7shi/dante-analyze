@@ -36,6 +36,49 @@ def number_scene(lines, s, e):
     return "\n".join(out), counter, meta
 
 
+def _append_collapsed(src, text):
+    """Append `text` to the char list `src`, collapsing whitespace the way the markup
+    round-trip's `norm` does (no leading space, runs of whitespace -> one space), so the
+    reconstructed string stays char-aligned with the un-marked source line."""
+    for ch in text:
+        if ch.isspace():
+            if src and src[-1] != " ":
+                src.append(" ")
+        else:
+            src.append(ch)
+
+
+def tag_positions(lines, s, e):
+    """{tag_no: (line_no, col)} for every mark in lines s..e — the source-line position
+    of each numbered tag, sharing `number_scene`'s appearance-order numbering (tag n here
+    is tag [n] there). `col` is the 0-based column of the surface's first character IN THE
+    SOURCE line (the un-marked text), computed by reconstructing the source as the scan
+    proceeds and reading off its length at each mark; whitespace is collapsed exactly as
+    the markup round-trip's `norm` (ARCHITECTURE §1), so the reconstruction is char-aligned
+    with `canto.line(n).text`. A supplied subject (`[+io]`, not in the source) contributes
+    no source characters, so it takes the column of the word it precedes — which is what
+    its containment test against a quote span needs. Separate from `number_scene` so its
+    `meta` shape (indexed by tags.py's check) is never disturbed."""
+    counter = 0
+    pos = {}
+    for ln in range(s, e + 1):
+        line = lines[ln - 1]
+        src = []
+        i = 0
+        for m in MARK_RE.finditer(line):
+            _append_collapsed(src, line[i:m.start()])
+            counter += 1
+            pos[counter] = (ln, len(src))
+            tok = m.group(0)
+            surface = tok[1:-1].lstrip("+")
+            inserted = tok[0] == "[" and tok[1:2] == "+"
+            if not inserted:  # a supplied subject is absent from the source
+                _append_collapsed(src, surface)
+            i = m.end()
+        _append_collapsed(src, line[i:])
+    return pos
+
+
 BULLET_RE = re.compile(r"^\s*[-*]\s+(.*\S)\s*$")
 
 
