@@ -44,8 +44,9 @@ designed to guard against.
 ## Production (sketch — to be reconciled with this repo's resolved data)
 
 1. Most lock fields should be **derivable from the resolved data** this repo already produces:
-   `speaker`/`addressee`/`cast` from `tags/` + the quote-span × tag join (Active work 1 in
-   [`../PLAN.md`](../PLAN.md)); `refer` from the reading's Tag Resolutions.
+   `speaker`/`addressee`/`cast` from `04-tags` + the quote-span × tag join — now implemented as the
+   `08-kg` assembly (speech edges + `[n]`→node resolution), so the join this sketch deferred already
+   exists and the lock can read it through `load_kg`; `refer` from the reading's Tag Resolutions.
 2. For fields the join can't fill, a focused extraction prompt asks only for the lock fields
    ("identify the speaker, addressee, location, cast, referents, and similes for these lines") — a
    narrow task far more reliable than doing it implicitly while translating.
