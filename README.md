@@ -10,6 +10,10 @@ shared corpus from `dante-corpus`, owns the scene segmentation, and runs the LLM
 - `02-markup/` — person-reference markup (intermediate)
 - `03-reading/` — free prose reading per scene (committed)
 - `04-tags/` — `n. Name` identity-first resolution per tag (committed)
+- `05-registry/` — canonical KG nodes per figure, with node typing (committed)
+- `06-speech/` — speaker per quote span (committed)
+- `07-relations/` — event edges per scene (committed)
+- `08-kg/` — the assembled per-canticle graph as JSONL (regenerable: `make -C 08-kg`)
 - `ref/` — reference material
 
 ## Usage
@@ -57,6 +61,36 @@ uv run dante-analyze scenes  show inferno 1
 uv run dante-analyze reading show inferno 1
 uv run dante-analyze tags    show inferno 1
 ```
+
+## Knowledge graph
+
+The `02-markup → 03-reading → 04-tags` ladder produces the referent-resolved material; four further
+passes turn it into a knowledge graph of the poem (entities + who-does-what + relations) by code
+joining on the `04-tags` `[n]` tag numbers. All four are **complete and committed for all three
+canticles (100 cantos)**; per-pass design and measured results are in each subdir's `README.md`.
+
+1. **Registry** (`05-registry/`, LLM) — one canonical, source-spelled node per figure across the
+   work, with closed-vocabulary node typing (cached in `types.txt`), set support, and code-extracted
+   alias surfaces. → `05-registry/README.md`
+2. **Speech** (`06-speech/`, pure code) — speaker per quote span: the unique canonical first-person
+   referent in the span's own region, joined onto the registry; else `(unattributed)`. →
+   `06-speech/README.md`
+3. **Relations** (`07-relations/`, LLM) — event edges per scene (`- [subj] predicate [obj] | frame:
+   … | lines a-b`) over a closed 31-predicate vocabulary, citing the `04-tags` `[n]`. →
+   `07-relations/README.md`
+4. **Assembly** (`08-kg/`, pure code) — joins the relation edges + speaker data into the graph,
+   resolving each cited `[n]` through `load_tags` → `load_registry` to a node. Output is per-canticle
+   JSONL (`08-kg/<canticle>-{nodes,edges,speech}.jsonl`). → `08-kg/README.md`
+
+```bash
+make -C 08-kg                                   # (re)assemble the graph + geometry check
+uv run dante-analyze registry  show inferno
+uv run dante-analyze speech    show inferno 1
+uv run dante-analyze relations show inferno 1
+uv run dante-analyze kg        show inferno edges   # part: nodes | edges | speech
+```
+
+The speaker/edge data is intended to feed the translation context lock (`dante-dravidian`, below).
 
 ## Downstream Projects
 

@@ -16,28 +16,22 @@ Chain-of-thought on a local model is **slow** (minutes per call, ~100 min/canto 
 one early experiment here) and **prone to runaway**, for a marginal quality gain.
 Disable thinking (`include_thoughts=False`, or the model's `--no-think`).
 
-**The runaway danger is CoT colliding with *structured/checkable* output** — the
-model loops or truncates the very form your check reads. So the rule is firmest where
-output is checkable. On a layer whose output is **uncheckable free prose with no
-structured form** (e.g. `reading.py`, §11), CoT has nothing to corrupt: the thinking
-stays internal and the saved text is plain prose. There, when the layer is also
-*precision-critical and not machine-gated* — and especially when it is not proofread either, so
-generation is its only quality lever (§11) — it is worth turning CoT **on** (and using a larger
-model), trading speed for interpretation quality.
+**The danger is CoT colliding with *checkable* output** — the model loops or truncates
+the very form your check reads — so the rule is firmest where output is checkable. Two
+cases relax it:
 
-The collision is what's dangerous, not the deliberation — so two conditions defuse it
-even on a *checked* pass, and where they hold, CoT can be on there too. (1) **The
-backend routes thinking to a separate channel** (Ollama `think=True`; see the caveat
-below for backends that don't), so the deliberation never physically intermixes with
-the checkable text — `resp.text` stays clean for the check to read. (2) **A runaway
-guard caps generation** (`call_llm`'s length limit), so a looping CoT is cut
-off rather than eating the output. With both in place, CoT-on pays off on a pass whose
-work is judgment-bound even though its *form* is checked — which is why `tags.py`
-(the resolution, structure-checked) runs CoT on: naming WHO a tag refers to is hard
-coreference, and the guard + separate channel cover the risk. The firm "CoT off" rule
-is for the case those conditions *don't* hold — a backend that lands thinking in the
-answer channel, or a pass with no runaway guard. Default off; turn it on deliberately,
-and only when both conditions hold.
+- **Uncheckable free prose** (e.g. `reading.py`, §11) has nothing for CoT to corrupt:
+  the thinking stays internal, the saved text is plain prose. When such a layer is also
+  precision-critical and unproofread — generation being its only quality lever (§11) —
+  turn CoT **on** (with a larger model), trading speed for interpretation quality.
+- **A checked pass where two conditions defuse the collision**: (1) the backend routes
+  thinking to a separate channel (Ollama `think=True`; caveat below), so deliberation
+  never intermixes with the checkable text (`resp.text` stays clean); and (2) a runaway
+  guard caps generation (`call_llm`'s length limit), so a looping CoT is cut off rather
+  than eating the output. With both, CoT-on pays off even though the form is checked —
+  which is why `tags.py` (judgment-bound resolution, structure-checked) runs CoT on.
+
+Default off; turn it on deliberately, and only in those two cases.
 
 **Backend caveat: not every backend can actually turn CoT off.** Ollama honours
 `think=False` (`include_thoughts=False`). A *hosted* Gemma (Google backend, e.g.
@@ -128,56 +122,34 @@ a fresh session with a small surrounding-context window for anything still faili
 Whatever never validates is left unmarked and **flagged** in the output (e.g. a
 leading `*`), not silently wrong.
 
-## 6. Independent review runs in a fresh session, and can only refine faithfulness.
+## 6. Prefer a stronger generation pass to a review pass.
 
-A self-review must **not inherit the generation conversation** (that biases it
-toward defending its own draft). Start a new session showing *source + draft* cold.
-Re-validate every correction with the **same logic check** as the original pass, so
-review can only improve: a "correction" that fails the check is discarded and the
-draft kept. (And keep its examples schematic — see §8.)
+The reflex for catching a generator's errors is a second-model review pass; on this
+project that proved the wrong default. **Spend on generation first (model size, CoT,
+§1/§13), and add a review pass only for what a strong single pass still misses.**
+`markup.py` was originally an under-powered (CoT-off) draft + a second-model round-trip
+review; the review was mostly compensating for the weak generator. The refactor dropped
+it — `markup.py` now runs the **31B reader with CoT on** as a single pass, the round-trip
+check polices every line, and `normalize_token_brackets` canonicalizes bracket edges
+before the check (§12). No pass here carries a second-model review.
 
-**The logic check guards faithfulness, not marking quality.** A round-trip check
-only proves that marks were added/removed correctly — it cannot tell whether the
-*right* things were marked. The review can still wrongly remove valid marks and
-wrongly add invalid ones; the net should be positive, but errors in both directions
-are possible. Monitor the review's changes (diff the mark and review checkpoints)
-when tuning.
+If you do add one, the constraints are:
 
-**Use a different model for review.** Generation and critique are different skills;
-the model that is best at marking from scratch is often not best at catching its own
-errors. A two-model pipeline — one model for the mark phase, another for review —
-is more complementary than using the same model twice.
-
-**But ask first whether a stronger single generation pass would obviate the review.**
-`markup.py` was originally built as a CoT-**off** Gemma draft + Qwen round-trip review
-(§1's default-off rule, before the CoT-on practice on the interpretation layers was
-established). The review may have been compensating for a deliberately under-powered
-generator rather than catching errors intrinsic to the task. This was addressed in the
-refactor: `markup.py` now runs the **31B reader with CoT on** as a single pass (both
-pronoun and name layers in one call), with no second-model review — the round-trip check
-polices every line, and a post-LLM token-boundary normalization step (`normalize_token_brackets`)
-canonicalizes bracket edges before the check runs (§12). The lesson is ordering — **spend
-on generation first (model size, CoT, §1/§13), and add a review pass only for what a strong
-single pass still misses**, not as a reflex.
-
-**But the reviewer must be at least as strong a *reader* as the generator.** The win
-above is for a *checkable* task (round-trip marking): there the reviewer only has to
-spot mechanical add/remove errors, and on this project Qwen 3.6 (`-rm`) complements
-Gemma 4 (`-m`) well. It does **not** transfer to an *interpretation* task. The two
-local models are not equal readers: Gemma 4 is the stronger at reading
-comprehension / coreference (and within Gemma the larger 31B is the stronger reader — §13),
-while **Qwen 3.6, though tidy at structured, rule-shaped
-critique, is markedly weaker at reading comprehension** — so pointing it at an
-interpretation layer's review (the tag resolution) made it confidently rewrite
-*correct* readings into wrong ones (§11). Match the review model to the skill the review actually needs: mechanical
-critique can go to a complementary smaller/faster model, but interpretation critique
-needs a reader at least as capable as the generator (the same model, a larger one, or
-a human) — a weaker reader as reviewer is worse than no review.
-
-**Enumerate known error classes in the review prompt.** A generic "find mistakes"
-instruction yields vague critique. A `Watch especially for:` list that names the
-specific error types observed in earlier runs focuses the model's attention and
-significantly improves recall. Add to the list as new error classes are discovered.
+- **Run it cold, in a fresh session** — a self-review that inherits the generation
+  conversation defends its own draft. Show *source + draft* only; keep examples
+  schematic (§8).
+- **Re-validate every correction with the same logic check**, so review can only
+  improve: a correction that fails the check is discarded. But the check guards
+  *faithfulness, not quality* — a round-trip proves marks were added/removed correctly,
+  not that the *right* things were marked, so review can still wrongly add/remove valid
+  marks. Monitor its net effect (diff the checkpoints).
+- **The reviewer must be at least as strong a *reader* as the generator.** A
+  complementary smaller/faster model can catch mechanical errors on a checkable task,
+  but on an *interpretation* task a weaker reader confidently rewrites correct readings
+  into wrong ones (§11) — worse than no review. Interpretation critique needs a reader at
+  least as capable as the generator (the same model, a larger one, or a human).
+- **Enumerate known error classes** in the prompt (a `Watch especially for:` list) — a
+  generic "find mistakes" yields vague critique.
 
 ## 7. Guard runaway at the call boundary (a `call_llm` wrapper).
 
@@ -231,40 +203,30 @@ A canticle run is long; the log is how you supervise it. Conventions used here:
 Some passes can't round-trip: resolving each marked reference of a scene to the person
 it stands for is an *interpretation*, which no logic check can verify (is `io` here
 Dante or the enclosing speaker?). This work is **split across scripts at the checkable
-seam**. `reading.py` does the pure interpretation as free prose — uncheckable, so it
-carries NO machine check and is a committed artifact that ships **as generated** (this
-project does not proofread it — see the note below; its only quality lever is
-generation, CoT-on + the strong reader). `tags.py` then re-grounds that reading to the
-marks. Do not give up on a check on the checkable half; **anchor the formalized output
-to the marks**. Number every mark in the unit (`[1:io]`, `{4:Virgilio}`,
+seam**. `reading.py` does the pure interpretation as free prose — uncheckable, so no
+machine check (it ships as generated; see below). `tags.py` then re-grounds that reading
+to the marks. Do not give up on a check on the checkable half; **anchor the formalized
+output to the marks**. Number every mark in the unit (`[1:io]`, `{4:Virgilio}`,
 deterministically) and emit one numbered `n. Name` line per tag. Then a check stands
 even though the prose is free: every tag named exactly once, none extra or empty
 (nothing dropped, nothing invented). A cheap lexical guard also catches a
 *non*-resolution — a pronoun tag whose `n. Name` line merely echoes the pronoun
 surface (`1. io`) rather than naming a person. This is the round-trip principle (§1)
 carried to a layer that can't round-trip — the check guards *coverage and structure*;
-the interpretation it cannot verify (is `io` Dante or the speaker?) is **left
-unverified** and shipped, an accepted residual (this project does not proofread; see below).
+the interpretation it cannot verify is **left unverified** and shipped, an accepted residual.
 
 A §6 review on a free-text layer is hard to make pay, so **neither interpretation pass
-carries one**: `tags.py` (resolution, structure-checked) ships its single generation
-pass, as does the unchecked `reading.py`. The reason a second-model review does not
-help here is structural. A full re-emission has no round-trip constraint, so the
-reviewer's rewrite just **regresses** — it downgrades a resolved epithet to
-`(unknown)`, re-attaches a referent — and "review" becomes a worse re-generation. A
-**minimal-diff** review (emit only an `n. Name` override, splice it in verbatim,
-re-run the check, discard a splice that breaks it) holds *mechanically* but not on
-substance: the structure check guards only **structure**, not the **interpretation**
-— so a spliced edit can still mis-name a tag and pass the check. With a reviewer
-weaker as a *reader* than the 31B generator (the only local option here — §6), such
-confident-but-wrong edits **outnumber** the genuine catches, at the cost of a full
-second-model pass per scene: net-negative. The lesson: a free generative layer's
-structure check **cannot stand in for** the interpretation review a round-trippable
-layer (§6) gets; on such a layer, prefer one clean generation pass over a local-model
-review whose edits the check cannot police — unless a reviewer at least as strong a
-reader as the generator is available. Human proofreading is the other way to close
-the gap, but it is a *choice*; this project declines it at scale (next note), and a
-flawed auto-review is worse than shipping the clean pass unreviewed.
+carries one**. A full re-emission has no round-trip constraint, so the reviewer's rewrite
+just **regresses** (downgrades a resolved epithet to `(unknown)`, re-attaches a referent)
+— "review" becomes a worse re-generation. A **minimal-diff** review (splice in only an
+`n. Name` override, re-run the check, discard a splice that breaks it) holds *mechanically*
+but not on substance: the structure check guards structure, not interpretation, so a
+spliced edit can still mis-name a tag and pass. With a reviewer weaker as a reader than the
+31B generator (§6), such confident-but-wrong edits **outnumber** the genuine catches at the
+cost of a second-model pass per scene: net-negative. The lesson: a
+free generative layer's structure check **cannot stand in for** the interpretation review a
+round-trippable layer (§6) gets; prefer one clean generation pass unless a reviewer at least
+as strong a reader as the generator (or a human) is available.
 
 **Narrow the resolution turn to enumeration, identity-first — it must not re-decide
 WHO.** Given a second, open-ended chance to name each tag, the resolution re-decides
@@ -289,14 +251,12 @@ and surface), so code pairs surface with identity mechanically (§12); the LLM's
 job is the identity.
 
 **This project ships the uncheckable layer unproofread.** Promoting the interpretation to a
-committed artifact (§2) makes it *amenable* to proofreading, but proofreading is a choice, and
-at canticle scale (100 cantos) it is endless — so here `reading.py` (and the `tags.py` output)
-ship as generated. The realized quality gates are then exactly two: the
-generation itself (CoT-on + the strong reader, §13) and the downstream *structural* checks.
-Neither verifies WHO-correctness, so an interpretation error in the
-reading propagates to the committed resolution unchecked — the accepted cost of not proofreading.
-When you forgo the human pass on an uncheckable layer, say so plainly and make generation
-quality carry the weight; do not let docs keep implying a proofreading safety net that no one runs.
+committed artifact (§2) makes it *amenable* to proofreading, but at canticle scale (100 cantos)
+it is endless — so `reading.py` and the `tags.py` output ship as generated. The realized quality
+gates are then exactly two: generation (CoT-on + the strong reader, §13) and the downstream
+*structural* checks. Neither verifies WHO-correctness, so an interpretation error propagates to
+the committed resolution unchecked — the accepted cost. When you forgo the human pass, say so
+plainly and make generation quality carry the weight; do not let docs imply a safety net no one runs.
 
 **A per-unit resolution pass cannot enforce cross-unit consistency — defer that to a registry
 pass that sees every unit.** Resolving each scene in isolation keeps the pass simple and its
@@ -305,7 +265,7 @@ proper name gets the same name in every scene — but where the *reading itself*
 only by epithet, different scenes can still expose different epithets for one figure. Don't
 fight this with per-unit prompt patches — the model can't see the other units, so it can't know
 which surface is the canonical one. The clean fix is a *downstream pass with a roster* spanning
-all units — a registry/reconciliation pass (to be built downstream) that normalizes every
+all units — a registry/reconciliation pass (built as `05-registry/`) that normalizes every
 reference of one figure to a single canonical label. Keep the per-unit pass honest and local;
 let the registry own the global invariant.
 
@@ -350,43 +310,21 @@ the assistant turn with the normalized form stops it at the source, so later tur
 ever see the canonical shape. Rewrite only the model's *own* replies this way; leave the
 source material in the prompt intact.
 
-## 13. Gemma 4 by size/variant (which model for which pass).
+## 13. Use the strongest reader; don't assume a task is fluency-bound.
 
-The passes here run several Gemma 4 sizes, chosen per job. The tendencies observed on
-this project (Italian verse, coreference-heavy) — a reference, not a benchmark:
+Every pass here runs **Gemma 4 31B** (`31b-it-qat`) — the largest and strongest *reader*
+(comprehension, coreference), if the slowest. It is the right model for every
+coreference-bound pass: the reference markup (`markup.py`, round-trip-checked); the
+interpretation-critical, unproofread reading (`reading.py`), CoT **on**, precision over
+speed — generation is its only quality lever (§1/§11); and the tag resolution
+(`tags.py`), where naming a tag is hard coreference.
 
-| Size / variant | Character | Best for |
-| --- | --- | --- |
-| **31B** (`31b-it-qat`) | Largest; strongest *reader* (comprehension, coreference). Slowest. | Every coreference-bound pass here: the reference markup (`markup.py`, round-trip-checked); the interpretation-critical, unproofread reading (`reading.py`), CoT **on**, precision over speed — generation is its only quality lever (§1/§11); and the tag resolution (`tags.py`), where naming a tag is hard coreference. |
-| **26B MoE** (`26b`, faster `26b-a4b-it-qat` ≈4B active) | Fluent prose and **~2× the 12B's speed** (few active params), but weaker *judgment* on hard coreference (drifts WHO — re-attaches a referent, swaps a person for an abstraction) and more surface noise (typos, the odd hallucination, formatting defects like missing spaces between adjacent marks). | A pass whose check *catches* judgment slips. Tried for speed on re-expression work, but even "just re-express an already-resolved reading" drifted WHO — so every coreference-bound pass here runs the 31B reader instead. |
-| **12B dense** (`12b-it-qat`) | Cleaner, more consistent, tighter WHO fidelity in limited sampling (possibly luck), but weaker *prose* (garbles English on hard passages). Slower per token than the 26B MoE despite fewer total params. | A fallback when the 26B MoE's drift/noise outweighs its fluency — but don't read one good sample as decisive. |
-
-**MoE vs. dense, the rule of thumb.** Per *parameter / memory*, MoE is unfavorable (a 12B
-*dense* ≈ the 26B *MoE* in quality — roughly the geometric mean of active×total params);
-per *FLOP / compute*, MoE is favorable (the 26B MoE runs ~2× the 12B dense). Pick by which
-is binding for the pass: quality-per-memory, or speed.
-
-**Reader strength is not size-monotone across the lineup, and the reviewer caveat (§6)
-applies within Gemma too.** Match the model to the skill the pass needs: a *reader* (31B)
-for interpretation, a *fast fluent writer* (26B MoE) for fluency-bound work, the *dense*
-one when consistency matters more than fluency. A bigger MoE is not a strictly better reader
-than a smaller dense model. And beware the obvious read of this table: on this project a
-recast layer that *looked* fluency-bound ("just re-express the reading in plain English")
-turned out to be judgment-bound — re-expressing still re-decides WHO and reaches for/avoids
-pronouns wrong — so the cheap model lost the job. "Recast" is not automatically a
-fluency-bound job; **measure before assigning the cheap model to it**.
-
-**Off-lineup: Qwen 3.6 (35B-A3B) as a generator — tried, not adopted.** Tested on an
-interpretation-layer formalization, its WHO *judgment* was on par with the 26B MoE (it even
-held a hard referent the 26B drifted on), but it failed the source-spelling job — now
-`tags.py`'s: it largely ignored the source-spelling instruction (left labels in English, and
-spelled the same figure inconsistently across scenes), emitted one scene's output in
-untranslated source language, and slipped hedging meta-notes into the resolution table. That
-resolution is the committed *data*, so an instruction-follower that won't hold source spelling
-is worse there than a weaker reader that does — consistent with §6 (Qwen is tidy at
-rule-shaped structure but a weaker reader/instruction-follower on this interpretive work).
-Generation stays on Gemma; Qwen's role here remains the round-trip review (§6), not free-text
-generation.
+Faster/smaller variants were tried for speed and dropped: even a layer that *looks*
+fluency-bound ("just re-express an already-resolved reading") turned out judgment-bound —
+re-expression still re-decides WHO and drifts — so the cheap model lost the job. The
+lesson generalizes: **reader strength is not size-monotone, and "recast" is not
+automatically a fluency-bound job — measure before assigning a weaker model to it.** Match
+the model to the skill the pass actually needs (the §6 reviewer caveat is the same point).
 
 ## 14. To build a structured representation from interpretation-heavy text, formalize first.
 
@@ -408,14 +346,15 @@ from one call to the whole pipeline.
 
 This is why the passes here climb a **ladder** rather than extracting in one shot —
 `markup` (mark every mention) → `reading` (resolve them, in prose) → `tags` (each mention's
-per-scene referent, machine-readable) → then downstream, to be built: a **registry pass**
-(one canonical node per figure across the work, with node types and aliases — the alias
-surfaces come from the markup itself, code-extracted) and a **relations pass** (schema-shaped
-edges whose subject/object roles cite tag numbers, with a frame marker for simile / prophecy /
-reported speech). Each rung strips more literary surface and adds more structure; the resolved
-referents plus the canonical roster are then the material a graph is built from — by **code
-joining on tag numbers against a fixed schema**, not by another free LLM pass. The staged path
-from `04-tags/` to the complete graph is in `PLAN.md`'s Active work. Two general corollaries:
+per-scene referent, machine-readable) → then downstream: a **registry pass** (`05-registry/`:
+one canonical node per figure across the work, with node types and aliases — the alias
+surfaces come from the markup itself, code-extracted), a **speech pass** (`06-speech/`: speaker
+per quote span), and a **relations pass** (`07-relations/`: schema-shaped edges whose
+subject/object roles cite tag numbers, with a frame marker for simile / prophecy / reported
+speech), assembled into the graph by `08-kg/`. Each rung strips more literary surface and adds
+more structure; the resolved referents plus the canonical roster are then the material a graph
+is built from — by **code joining on tag numbers against a fixed schema**, not by another free
+LLM pass. The completed ladder-to-graph is summarized in `README.md`. Two general corollaries:
 
 - **Prefer a schema (a closed relation vocabulary) to open extraction** when the work is bounded
   and well-studied: the schema encodes domain knowledge and cuts noise, and it pairs naturally
@@ -424,16 +363,14 @@ from `04-tags/` to the complete graph is in `PLAN.md`'s Active work. Two general
   tag numbers that support it, and *reify* embedded assertions ("X said that Y did Z") rather than
   flattening them — the same tag-anchoring that makes §11 checkable makes the eventual graph
   auditable, and keeps a narrator's claim distinct from a diegetic fact.
-- **Size the consolidation step from the FULL committed output, not a partial-run prototype, and
-  split code-merge from the LLM residual before you measure.** The downstream roster pass (§11) has
-  a deterministic part (normalize + group by a fold key, canonical = most frequent spelling) and an
-  LLM residual (typing each node; grouping the epithet variants code can't merge). Measure each
-  separately on the *whole* output: a prototype on a partial run here undercounted the distinct-label
-  and epithet-residual counts by ~2×, and on the full output the recurring-epithet residual
-  (~300 per canticle) exceeded what a single batched LLM grouping call per unit could hold. When it
-  does, prefer **flagged singletons (defer grouping)** over forcing the merge — the structure check
-  on a grouping pass guards structure, not correctness (§11), so an unverifiable merge is worse than
-  an honest "not yet grouped". Typing stays tractable regardless (fixed-size batches over the node set).
+- **Size the consolidation step from the FULL committed output, and split code-merge from the LLM
+  residual before you measure.** The roster pass (§11) has a deterministic part (normalize + group by
+  a fold key, canonical = most frequent spelling) and an LLM residual (typing each node; grouping the
+  epithet variants code can't merge). A partial-run prototype here undercounted both by ~2×, and on
+  the full output the recurring-epithet residual (~300/canticle) exceeded one batched LLM grouping
+  call. When it does, prefer **flagged singletons (defer grouping)** over forcing the merge — the
+  structure check guards structure, not correctness (§11), so an unverifiable merge is worse than an
+  honest "not yet grouped". Typing stays tractable regardless (fixed-size batches over the node set).
 
 ## 15. Parallelizing a run: safety is a function of shared writable state; speedup, of the backend.
 

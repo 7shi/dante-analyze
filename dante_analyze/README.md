@@ -1,6 +1,6 @@
 # dante_analyze
 
-Internal shared library for this repo's analysis passes (`01-scenes/` … `07-relations/`): the
+Internal shared library for this repo's analysis passes (`01-scenes/` … `08-kg/`): the
 project-root path anchors, the `call_llm` LLM gateway, tag/quote-span/label utilities, the
 `## Scene` checkpoint I/O, and the output loaders the passes import. Per-pass design lives in each
 numbered subdirectory's `README.md`; the conventions every pass shares are in `ARCHITECTURE.md`.
@@ -15,22 +15,25 @@ the passes use and is **not** part of the public surface (see the subdir `README
 ## CLI
 
 ```
-dante-analyze <layer> show <canticle> [<canto>]
+dante-analyze <layer> show <canticle> [<canto> | <part>]
 ```
 
-Prints a committed output file to stdout; exits 1 with a message to stderr if it is absent.
+Prints the committed output for the unit to stdout, exiting 1 with a message to stderr if it is
+absent. `scenes` is rendered to a readable digest (canto title + per-scene headings/summaries); the
+rest print the committed file verbatim.
 
 | `<layer>`   | arguments            | prints |
 |-------------|----------------------|--------|
-| `scenes`    | `<canticle> <canto>` | scene breakdown for the canto (`01-scenes/<canticle>/NN.json`) |
+| `scenes`    | `<canticle> <canto>` | rendered scene digest for the canto (from `01-scenes/<canticle>/NN.json`) |
 | `reading`   | `<canticle> <canto>` | free prose reading (`03-reading/<canticle>/NN.txt`) |
 | `tags`      | `<canticle> <canto>` | identity-first `n. Name` table (`04-tags/<canticle>/NN.txt`) |
 | `registry`  | `<canticle>`         | canonical node table (`05-registry/<canticle>.txt`) |
 | `speech`    | `<canticle> <canto>` | speaker per quote span (`06-speech/<canticle>/NN.txt`) |
 | `relations` | `<canticle> <canto>` | subject–predicate–object edges (`07-relations/<canticle>/NN.txt`) |
+| `kg`        | `<canticle> [<part>]`| assembled graph JSONL; `<part>` = `nodes` / `edges` / `speech` (default `edges`) (`08-kg/<canticle>-<part>.jsonl`) |
 
-`<canticle>` is `inferno` / `purgatorio` / `paradiso`; `<canto>` is an integer (`registry` is
-work-wide, so it takes no canto).
+`<canticle>` is `inferno` / `purgatorio` / `paradiso`; `<canto>` is an integer. `registry` and `kg`
+are work-wide, so they take no canto (`kg` instead takes an optional `<part>`, default `edges`).
 
 **Examples**
 
@@ -39,6 +42,7 @@ dante-analyze scenes    show inferno 1
 dante-analyze tags      show paradiso 33
 dante-analyze registry  show inferno
 dante-analyze relations show inferno 1
+dante-analyze kg        show inferno edges
 ```
 
 ## Public API
