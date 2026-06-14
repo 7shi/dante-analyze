@@ -4,7 +4,7 @@ format used by every analysis pass, plus higher-level loaders `load_readings` an
 import re
 import sys
 
-from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR
+from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR
 
 # A tags `n. Name` line (the authoritative resolution; line n = tag [n]).
 TAGS_LINE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
@@ -204,5 +204,41 @@ def load_speech(canticle, canto):
             "speaker": m.group("speaker").strip(),
             "signal": m.group("signal"),
             "flags": [] if flags == "-" else [f.strip() for f in flags.split(",") if f.strip()],
+        })
+    return out
+
+
+# A relations edge line: "- [<subj>] <predicate> [<obj>] | frame: <frame> | lines <s>-<e>".
+RELATIONS_LINE_RE = re.compile(
+    r"^-\s*\[(?P<subj>\d+)\]\s+(?P<pred>\S+)\s+\[(?P<obj>\d+)\]\s*\|\s*"
+    r"frame:\s*(?P<frame>\w+)\s*\|\s*lines\s+(?P<s>\d+)-(?P<e>\d+)\s*$"
+)
+
+
+def load_relations(canticle, canto):
+    """[edge, …] in file order for a canto from 07-relations/<canticle>/NN.txt, or exit if absent.
+
+    Each edge is a dict {subj, predicate, obj, frame, start, end} (subj/obj/start/end ints); the
+    cited [subj]/[obj] are the SAME per-scene `number_scene` tag numbers 04-tags resolved against,
+    so Step 4 joins each through load_tags. The list is flat (no scene key): the edge's line range
+    falls inside exactly one scene because scenes partition the canto, so the scene is recoverable.
+    Built by 07-relations/relations.py."""
+    path = out_path(RELATIONS_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: relations not found: {path} (run 07-relations/relations.py first)",
+              file=sys.stderr)
+        sys.exit(1)
+    out = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        m = RELATIONS_LINE_RE.match(raw)
+        if not m:
+            continue
+        out.append({
+            "subj": int(m.group("subj")),
+            "predicate": m.group("pred"),
+            "obj": int(m.group("obj")),
+            "frame": m.group("frame"),
+            "start": int(m.group("s")),
+            "end": int(m.group("e")),
         })
     return out

@@ -10,3 +10,4 @@ READING_DIR = ROOT_DIR / "03-reading" # reading.py writes 03-reading/<canticle>/
 TAGS_DIR = ROOT_DIR / "04-tags"       # tags.py writes 04-tags/<canticle>/NN.txt
 REGISTRY_DIR = ROOT_DIR / "05-registry"  # registry.py writes 05-registry/<canticle>.txt (per-canticle)
 SPEECH_DIR = ROOT_DIR / "06-speech"      # speech.py writes 06-speech/<canticle>/NN.txt
+RELATIONS_DIR = ROOT_DIR / "07-relations"  # relations.py writes 07-relations/<canticle>/NN.txt
