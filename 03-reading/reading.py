@@ -1,29 +1,29 @@
 """
 Scene reading for Dante's Divine Comedy (analysis step, pre-processing).
 
-This is the FREE-INTERPRETATION pass, split out of bullets.py's old Turn 1. For each
-scene it produces a plain-English reading: who does what, who speaks to whom, and —
-for each numbered tag in the markup — which person it refers to. The reading is
-prose, non-deterministic, and NOT machine-checkable (there is no round-trip and no
-coverage anchor on free prose), so it carries NO logic check; it is committed and
-HAND-PROOFREAD instead, and bullets.py then re-grounds it to the numbered tags under
-a coverage check (ARCHITECTURE §11). Proofreading a reading is the lever that
-improves the downstream bullets.
+This is the FREE-INTERPRETATION pass and the single source of truth for WHO
+(ARCHITECTURE §11). For each scene it produces a plain-English reading: who does what,
+who speaks to whom, and — for each numbered tag in the markup — which person it refers
+to. The reading is prose, non-deterministic, and NOT machine-checkable (there is no
+round-trip and no coverage anchor on free prose), so it carries NO logic check and is
+committed AS GENERATED — residual errors are accepted data, not hand-patched (the
+pipeline measures the local model's true accuracy; root PLAN.md "Decisions to keep").
+tags.py then re-grounds it to the numbered tags under a structural check (ARCHITECTURE §11).
 
-It sits BETWEEN markup.py (NN-4) and bullets.py:
-    markup.py  -> every person-reference marked, numbered by scenelib
-    reading.py -> a free prose reading per scene (this script)        [committed]
-    bullets.py -> tag-citing bullets + [n] = Name resolution          [coverage-checked]
+It sits BETWEEN markup.py and tags.py:
+    markup.py  -> every person-reference marked, numbered by number_scene
+    reading.py -> a free prose reading per scene (this script)        [committed, no check]
+    tags.py    -> identity-first `n. Name` resolution per tag          [structure-checked]
 
 One generation pass (`-m`, the larger Gemma — the stronger reader) per scene, with
-chain-of-thought ON by default (`--no-think` disables it, as in bullets.py / tags.py):
+chain-of-thought ON by default (`--no-think` disables it, as in tags.py):
 this is the uncheckable, precision-critical layer, so the model is allowed to think
 (slower) and there is no structured output for CoT to corrupt — the thinking stays
 internal, the saved text is clean prose. The reading of earlier scenes this canto
 plus a short recap carried from the previous canto are given as context, so prior
 scenes are nameable; a `# recap` block is written at the canto's end for the next.
 
-Input:  02-markup/<canticle>/NN-4.txt           (markup.py final output; run it first)
+Input:  02-markup/<canticle>/NN.txt             (markup.py final output; run it first)
         scene ranges + names                 (from the dante_corpus API)
 Output: 03-reading/<canticle>/NN.txt            (committed, hand-editable). Per scene a
         `## Scene s-e: name` prose block; a `# recap` block per canto carried to the
@@ -72,8 +72,8 @@ def read_scene(canto, canto_title, s, e, scene_name, tagged, prior, recap, model
     (`include_thoughts`, ON by default): this is the uncheckable, precision-critical
     interpretation layer, so the model gets to think (slower) and there is no
     structured output for CoT to corrupt — the thinking stays internal, the saved
-    text is clean prose. NO check: free prose is not tag-anchored (it is
-    hand-proofread); digest.py applies the coverage check."""
+    text is clean prose. NO check: free prose is not tag-anchored, so it ships as
+    generated; tags.py re-grounds it to the numbered tags under a structural check."""
     step_sep("reading")
     prompt = build_reason_prompt(canto, canto_title, s, e, scene_name, tagged, prior, recap)
     resp = call_llm([{"role": "user", "content": prompt}], model, include_thoughts=include_thoughts)
@@ -81,7 +81,7 @@ def read_scene(canto, canto_title, s, e, scene_name, tagged, prior, recap, model
     if not prose:
         # call_llm already regenerated on an empty reply; if the body is STILL empty the
         # model spent the whole budget thinking (CoT runaway cut off before any prose).
-        # Do NOT commit a blank scene (it would block digest/tags and silently count as
+        # Do NOT commit a blank scene (it would block tags and silently count as
         # done on resume) and do NOT pass off the CoT thoughts as the reading — they are
         # not the prose. Fail hard so the run stops; rerun to retry just this scene.
         print(f"Error: reading generation produced no prose for scene {s}-{e} "
@@ -134,12 +134,12 @@ def read_canto(canticle, canto, model, include_thoughts):
 def cmd_run(canticle, model, only_canto, include_thoughts):
     cantos = available_cantos(canticle)
     if not cantos:
-        print(f"Error: no NN-4 markup for {canticle} (run markup.py first)", file=sys.stderr)
+        print(f"Error: no markup for {canticle} (run markup.py first)", file=sys.stderr)
         sys.exit(1)
     if only_canto is not None:
         if only_canto not in cantos:
             print(f"Error: Canto {only_canto} not found for {canticle} "
-                  f"(no 02-markup/{canticle}/{only_canto:02d}-4.txt)", file=sys.stderr)
+                  f"(no 02-markup/{canticle}/{only_canto:02d}.txt)", file=sys.stderr)
             sys.exit(1)
         targets = [only_canto]
     else:

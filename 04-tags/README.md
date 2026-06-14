@@ -1,14 +1,5 @@
 # 04-tags — identity-first per-tag resolution
 
-## Pipeline position
-
-```
-02-markup/   every person-reference marked; scenelib numbers them 1..k per scene
-03-reading/  free prose reading per scene — decides WHO each tag is   [committed, no check]
-04-tags/     n. Name identity per tag (THIS PASS)                     [structure-checked]
-(downstream) registry (canonical nodes) + relations + KG assembly     [not yet built]
-```
-
 The reading is the single source of truth for WHO (ARCHITECTURE §11). This pass does not
 re-decide referents; it enumerates the reading's identifications into one checkable
 `n. Name` line per tag. It binds directly to the committed reading (replayed as the

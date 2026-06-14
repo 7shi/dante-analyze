@@ -1,14 +1,5 @@
 # 06-speech — speaker per quote span (KG Step 2)
 
-## Pipeline position
-
-```
-04-tags/      n. Name identity per tag, per scene                     [committed]
-05-registry/  one canonical NODE per figure across the whole work     [committed]
-06-speech/    speaker per quote span (joins on registry nodes)        [THIS PASS]
-(downstream)  relations + KG assembly                                 [later]
-```
-
 `04-tags` resolved WHO each tag is, per scene; `05-registry` folded those per-scene labels into one
 canonical node per figure. This pass is the first KG *edge* layer: for every quote span in the poem
 it decides **who is speaking**, by reading the first-person referents that fall inside the quote's
@@ -48,6 +39,14 @@ is expected, not a bug (root PLAN.md "Decisions to keep"). The signal counts rec
 `05-registry/measure.py`'s quote-coverage buckets — canonicalization can only *merge* distinct raw
 referents into one speaker, so `signal: strong` can rise above the raw `strong-unique` count, never
 fall.
+
+Over the full committed corpus, `05-registry/measure.py` measures **1,222 quote spans**, resolved by
+**code alone** (column-aware, before any registry join) as: strong-unique 395 / multi-strong 28 /
+weak-only 90 / plural-only 68 / none 641 — so ~32% pin a unique strong first-person speaker without
+the registry. After the registry canonicalization this pass adds, the committed signal counts
+reconcile to: **strong 398** (≥ the raw 395 — canonicalization only merges), **weak 90**, **none
+734** (= 641 none + 68 plural-only + 25 residual multi-strong). Columns matter: single-line quotes
+resolve exactly because tag positions carry source columns, not just line numbers.
 
 ### Output (`<canticle>/NN.txt`, committed)
 

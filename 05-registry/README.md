@@ -1,14 +1,5 @@
 # 05-registry — canonical node table (KG Step 1)
 
-## Pipeline position
-
-```
-04-tags/      n. Name identity per tag, per scene                     [committed]
-05-registry/  one canonical NODE per figure across the whole work     [THIS PASS]
-06-speech/    speaker per quote span (joins on registry nodes)         [next]
-(downstream)  relations + KG assembly                                  [later]
-```
-
 `04-tags` resolves WHO *per scene*, so the same figure can carry different spellings in
 different scenes (`Virgilio`, `quel Virgilio`, `'l mio maestro`, …) and the same epithet can
 recur unlinked across scenes. The registry is the first pass that sees **every unit at once**

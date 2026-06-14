@@ -2,19 +2,24 @@
 
 > **▶ STATUS: the ladder scenes → markup → reading → tags is ✓ complete & committed; the registry
 > (`05-registry/`, KG Step 1) is ✓ built, generation-run & committed; the speech pass (`06-speech/`,
-> KG Step 2) is ✓ built & committed (pure code). Current step = **Step 3, the relations pass** —
-> design after re-reading the readings; nothing built yet.
+> KG Step 2) is ✓ built & committed (pure code). The relations pass (`07-relations/`, KG Step 3) is
+> **✓ BUILT — full generation run pending**: `relations.py` + the wiring are implemented and verified
+> end-to-end on **Inferno canto 1** (`07-relations/inferno/01.txt`, a smoke test); the design now
+> lives in `07-relations/README.md`. Current step = **the full generation run + commit** (then
+> Step 4, KG assembly).
 >
 > **Where to pick up (check this first):**
-> - **If `06-speech/{inferno,purgatorio,paradiso}/NN.txt` exist** → Steps 1–2 are DONE. Start
->   **Step 3, the relations pass** (design task, spec'd in outline below — derive the closed predicate
->   vocabulary by measuring the readings first).
-> - **If they do not exist yet** → build them with **`make -C 06-speech`** (pure code, idempotent;
->   fail-loud structural check). The ~11 `WARN … round-trip mismatch` lines are the documented
->   nested-brace anomaly, not failures. Then commit `06-speech/`. Design is in `06-speech/README.md`.
+> - **If `07-relations/{inferno,purgatorio,paradiso}/NN.txt` are complete & committed** → Step 3 is
+>   DONE; move to **Step 4, KG assembly**.
+> - **If only `07-relations/inferno/01.txt` exists (the current state)** → the code is built and
+>   verified; run the full generation with **`make -C 07-relations`** (resumable; the finished
+>   canto-1 scenes are skipped), then commit `07-relations/`. To regenerate canto 1 under the
+>   final prompt, delete `07-relations/inferno/01.txt` first.
+> - **If `07-relations/relations.py` is somehow missing** → rebuild it from `07-relations/README.md`
+>   (copy `04-tags/tags.py`'s two-turn shape) and the wiring listed there.
 >
-> Full designs are in each subdir's `README.md`. Read `ARCHITECTURE.md` before building or
-> changing any pass.**
+> Full designs are in each subdir's `README.md` (or `PLAN.md` while a pass is under construction).
+> Read `ARCHITECTURE.md` before building or changing any pass.**
 
 `dante-analyze` turns the source cantos into referent-resolved structured data — the precursor to a
 knowledge graph. It consumes the shared corpus (source lines, tokens, scene ranges, the quote-span
@@ -40,110 +45,42 @@ is intended to feed the translation context lock (`dante-dravidian`).
   - `_paths.py` `REGISTRY_DIR`/`SPEECH_DIR`; all re-exported from `__init__.py`.
 - **`05-registry/measure.py`** — pure-code measurement report over the full 04-tags (writes nothing).
 - **dante-corpus column extension** — `QuoteSpan.start_col`/`end_col` shipped and editable-installed.
-- **Deferred to their steps** (format concrete then): `load_registry` (Step 1) and `load_speech`
-  (Step 2) loaders in `checkpoint.py`.
-
-## Measured baselines (what the KG steps build on)
-
-Run `uv run 05-registry/measure.py` to regenerate. Headline numbers over the full committed 04-tags:
-
-- **Registry sizing**: 16,030 tag lines → 2,923 distinct labels → **2,712 nodes** after the
-  deterministic `fold_key` code-merge; 157 confirmed sets; 65 `(unknown)`. Identity is well pinned
-  for proper-name figures, but the **epithet residual is large**: ~285/312/330 recurring (≥2×)
-  non-name epithet nodes per canticle.
-- **Decision gates: both FAILED.** Node **typing** is tractable (2,712 nodes, ~20/batch ⇒ ~136
-  calls), but the planned single per-canticle **epithet-grouping** call cannot hold ~300 candidates.
-  General lesson — measure the consolidation residual on the *full* output, split code-merge from
-  LLM residual, prefer flagged singletons over an unverifiable merge — is **ARCH §14**.
-- **Speech coverage** (column-aware, via `tag_positions` + `quotespans.own_region`): of **1,222
-  quote spans** — strong-unique 395 / multi-strong 28 / weak-only 90 / plural-only 68 / none 641.
-  So ~32% resolve to a unique strong first-person speaker by code alone; the rest need the registry's
-  canonical speaker labels or accept `(unattributed)`. Columns matter: single-line quotes resolve
-  exactly because tag positions carry source columns, not just line numbers.
 
 ## KG build steps
 
-### Step 1 — registry build (`05-registry/registry.py`)  [BUILT — typing generation run pending]
+### Step 1 — registry build (`05-registry/registry.py`)  [DONE & committed]
 
-`measure.py` ✓ done; `registry.py` ✓ built. It aggregates the `fold_key`-merged nodes (2,922
-spellings → **2,711** nodes, `(unknown)` dropped) into one canonical, source-spelled node per figure
-across the work, with **node typing** (closed vocabulary), **set** support (`split_set`), and
-code-extracted **alias surfaces** (`load_tags` × `number_scene` meta). The epithet-grouping decision
-is resolved as **option A** (v1-skip; every non-name node flagged `grouped: no` — a flagged singleton
-is safer than an unverifiable merge). The only remaining work is the LLM node-typing generation run
-(~128 batched calls, resumable via `05-registry/types.txt`).
+One canonical, source-spelled node per figure across the work, with **node typing** (closed
+vocabulary, LLM, cached in `types.txt`), **set** support, and code-extracted **alias surfaces**;
+epithet grouping is skipped in v1 (**option A** — every non-name node flagged `grouped: no`).
+`measure.py`, `registry.py`, the three `<canticle>.txt`, and `types.txt` are all built & committed.
 
-**→ Full build spec, output format, structural check, and the option-A rationale live in
-`05-registry/README.md`.** `load_registry(canticle)` is added to `checkpoint.py` (format frozen).
+**→ Design, sizing numbers, output format, the structural check, and the option-A rationale are in
+`05-registry/README.md`.** `load_registry(canticle)` is in `checkpoint.py`.
 
-### Step 2 — `06-speech/speech.py` (pure code, no LLM)  [BUILT & committed]
+### Step 2 — speaker per quote span (`06-speech/speech.py`, pure code)  [DONE & committed]
 
-Consumes the committed registry (speaker = canonical node label); `--raw` flag emits raw labels for
-early testing. Builds the **raw→canonical map** once from `load_registry`: for each node, `fold_key`
-each spelling in its `labels:` list → the node's canonical heading (the same fold the registry built
-on, so the join is total); canonicalizes every tag's 04-tags label through it *before* the uniqueness
-test in steps 3–4. `load_speech(canticle, canto)` added to `checkpoint.py`. **→ Full design,
-output format, and the structural/round-trip checks are in `06-speech/README.md`.** The signal counts
-reconcile exactly with `05-registry/measure.py`'s quote buckets (strong 398 ≥ raw strong-unique 395 —
-canonicalization only merges; weak 90; none 734 = 641+68 plural+25 residual multi). Per canto:
+For every quote span, speaker = the unique canonical first-person referent in the span's own region,
+joined onto the registry nodes; else `(unattributed)`. No LLM — the work is geometry plus a join.
+Built & committed for all three canticles.
 
-1. `walk_spans(canto.quotes())`; per span its own region (`own_region`, column-aware).
-2. Per scene: `tag_positions` + `load_tags` → positioned referents; a tag is in a span by (line,
-   col), so single-line quotes resolve exactly. Sanity-assert per line: markup stripped ==
-   `canto.line(n).text` (round-trip guard for the column math; the 10 nested-brace lines surface here).
-3. Speaker = unique canonical referent of strong first-person tags in the own region; else unique
-   weak referent (`signal: weak`); else `(unattributed)`.
-4. Flags: `multi(<a>;<b>)` distinct strong referents after canonicalization; `plural` only plural
-   1st-person found; `cross-scene` span crosses a scene boundary (canonicalize before the uniqueness
-   test). Measured coverage means most spans are `(unattributed)` in v1 — expected, not a bug.
+**→ Design, the per-canto algorithm, output format, the measured coverage, and the structural/
+round-trip checks are in `06-speech/README.md`.** `load_speech(canticle, canto)` is in `checkpoint.py`.
 
-Output `06-speech/<canticle>/NN.txt`, committed; one line per span, depth-first:
+### Step 3 — Relations pass (`07-relations/relations.py`)  [BUILT — full generation run pending]
 
-```
-# Canto 01 — <title>
-- 1:65 lines 65-65 | speaker: Virgilio | signal: strong | flags: -
-- 1:67 lines 67-78 | speaker: Virgilio | signal: strong | flags: -
-- 1:79 lines 79-87 | speaker: (unattributed) | signal: none | flags: -
-```
+The KG's event edges (who-does-what-to-whom): one LLM pass per scene, bound to the reading like
+`tags.py`, emitting `- [subj] predicate [obj] | frame: … | lines a-b` edges that cite the 04-tags
+`[n]` (closed **31-predicate** vocabulary, four-point structural check, CoT on). `relations.py` + the
+wiring (`RELATIONS_DIR`, `load_relations`, `cli.py` `relations show`, `Makefile`) are built and
+verified end-to-end on Inferno canto 1.
 
-Structural check: file's spans == `canto.quotes()` exactly once each by id; every attributed speaker
-exists in the registry.
+**→ The full design — measure-first rationale, the line grammar, the four-point check, the `[n]`
+join invariant, and the Step-4 assembly contract — is in `07-relations/README.md`.**
 
-### Step 3 — Relations pass  [NEXT — design task; nothing built]
-
-The event-edge input the KG still lacks: one LLM pass per scene, bound directly to the reading like
-`tags.py`, emitting line-oriented relations with **role-explicit tag citations** (subject before
-predicate, object after), a **closed predicate vocabulary**, a **frame marker** (literal / simile /
-prophecy / reported), and the covered line range — all four structurally checkable. Example line
-format: `- [3] guides [4] | frame: literal | lines 112-114` or
-`- [1] says-that [2] defeats [11] | frame: prophecy | lines 100-105`.
-
-**Read first as the template:** `04-tags/tags.py` + `04-tags/README.md` (the per-scene, reading-bound
-formalization pattern this pass copies) and `ARCHITECTURE.md` §1 (CoT/check policy), §8 (no answer
-leakage), §11/§14 (why tag-anchoring is verifiable). This pass is **interpretation-bound like
-`tags.py`, so CoT is ON** under §1's two conditions (add it to "Decisions to keep" when built).
-
-**How `[n]` citations join downstream (the key invariant).** The cited `[n]` are the SAME numbered
-tags as 04-tags: `number_scene(lines, s, e)` is deterministic, so re-running it here yields the
-identical numbering 04-tags resolved against. The relations pass therefore prompts on the
-`number_scene`-tagged scene text (exactly as `tags.py` does) and cites those `[n]`; Step 4 then joins
-each `[n]` through `04-tags/<canticle>/NN.txt` → the registry's canonical node. **Do not renumber** —
-reusing `number_scene` verbatim is what makes the join total. Structural check (derived from "all
-four checkable"): every cited `[n]` exists in the scene's tag set (`load_tags`), every predicate is
-in the closed vocabulary, every frame in {literal, simile, prophecy, reported}, every line range
-within the scene.
-
-**Open design (do these before coding, measure-first per ARCH §14):**
-- **Derive the closed predicate vocabulary by measuring the readings** — write a pure-code probe
-  (cf. `05-registry/measure.py`) over `03-reading/` to size the candidate predicate set BEFORE
-  freezing the prompt; the readings are free English prose, so decide what is measured (verbs/
-  predicate phrases) and whether the vocabulary is tractable as one closed list or needs grouping.
-- **Relation-line grammar** — settle how a nested/reported clause (`[1] says-that [2] defeats [11]`,
-  two predicates in one line) is emitted and checked vs. the simple `subj pred obj` line.
-- **Output**: add `RELATIONS_DIR = ROOT_DIR / "07-relations"` to `_paths.py` (re-export from
-  `__init__.py`), write `07-relations/<canticle>/NN.txt`, add `load_relations` to `checkpoint.py`,
-  `relations show` to `cli.py`, and a `07-relations/Makefile` (`include ../model.mk`, like `04-tags`).
-  Per the subdir convention below, start with `07-relations/PLAN.md`, rename to `README.md` once built.
+**Remaining (the generation run + commit):** `make -C 07-relations` for all three canticles →
+`07-relations/<canticle>/NN.txt`, then commit. Inferno canto 1 is already generated (a verified
+smoke test); delete `07-relations/inferno/01.txt` to regenerate it under the final prompt.
 
 ### Step 4 — KG assembly  [last; pure code]
 
@@ -156,9 +93,13 @@ machine artifact here.
 
 - Makefiles + `cli.py` entries (`registry show <canticle>`, `speech show <canticle> <canto>`).
   Registry-specific wiring is in `05-registry/README.md`; `06-speech/Makefile` is pure code (no `model.mk`).
-- **Convention**: a pass under construction has a `PLAN.md` in its subdir (scope-narrowed build spec);
-  once built, rename it to `README.md` (cf. `04-tags/README.md`). Make the new subdir `PLAN.md` in
-  that style.
+- **Convention**: a pass under construction has a `PLAN.md` in its subdir (scope-narrowed build
+  spec). Once built, the `PLAN.md` is **not renamed but rewritten into a `README.md`** — a different
+  document: it drops the build-time scaffolding (remaining-work lists, "build X from this", step
+  ordering) and becomes a purpose-and-design doc that **explains what the pass is for and quotes the
+  pass's own committed output** to show the result (cf. `04-tags/README.md`, `06-speech/README.md`,
+  `07-relations/README.md`). Make the new subdir `PLAN.md` in the build-spec style; rewrite it on
+  completion.
 
 ### Verification
 
@@ -171,6 +112,9 @@ uv run dante-analyze registry show inferno
 make -C 06-speech                              # Step 2: build speech + fail-loud structural check
 uv run dante-analyze speech show inferno 1
 # spot-check: every speech speaker is a registry node (the structural check enforces it)
+uv run 07-relations/measure.py                 # Step 3: regression — re-confirm the 31-predicate gate
+make -C 07-relations                           # Step 3: full generation run + per-scene structural check
+uv run dante-analyze relations show inferno 1
 ```
 
 ## Pipeline (data flow)
@@ -185,10 +129,11 @@ uv run dante-analyze speech show inferno 1
      05-registry/measure.py → stdout report (registry sizing + gates, pure code)     [done]
 
   KG build (next — this plan):
-     05-registry/registry.py → 05-registry/<c>.txt      canonical nodes + types      [Step 1 ✓]
-     06-speech/speech.py     → 06-speech/<c>/NN.txt      speaker per quote span       [Step 2 ✓]
-     (relations)             → TBD                       schema edges per scene       [Step 3]
-     (assembly)              → TBD                       the joined graph             [Step 4]
+     05-registry/registry.py  → 05-registry/<c>.txt      canonical nodes + types      [Step 1 ✓]
+     06-speech/speech.py      → 06-speech/<c>/NN.txt      speaker per quote span       [Step 2 ✓]
+     07-relations/measure.py  → stdout report (CLOSED_VOCAB probe, pure code)          [Step 3 ✓]
+     07-relations/relations.py → 07-relations/<c>/NN.txt  schema edges per scene       [Step 3 ✓ built; run pending]
+     (assembly)               → TBD                       the joined graph             [Step 4]
 ```
 
 ## Decisions to keep
@@ -199,15 +144,17 @@ uv run dante-analyze speech show inferno 1
 - **No answer leakage**: prompts carry source + general knowledge, never per-item answers nor
   text-derived worked examples — `ARCHITECTURE.md` §8.
 - **CoT policy**: plain text + per-scene + logic-checked retry on the **checkable** passes; CoT is
-  **ON** for the 31B interpretation-bound passes — `reading.py` (uncheckable free prose) and
-  `tags.py` (judgment-bound coreference, under §1's two safety conditions). The general rule is ARCH §1.
+  **ON** for the 31B interpretation-bound passes — `reading.py` (uncheckable free prose), `tags.py`
+  (judgment-bound coreference) and `relations.py` (judgment-bound edge extraction), the last two
+  structure-checked under §1's two safety conditions. The general rule is ARCH §1.
 - **Over-marking is acceptable** for the name layer: the downstream consumer tolerates false
   positives; missing a reference is more harmful.
 - **Orthography is code's job** (ARCH §12): mechanical quirks (`fix_elision`,
   `normalize_token_brackets`, `unbrace`) are normalized in code and rewritten into the conversation
   history — never requested of the model in the prompt.
 - **All LLM calls go through one shared gateway** (`call_llm` in `dante_analyze/llm.py`); `llm7shi`
-  is therefore a normal runtime dependency of this package (markup keeps its own structured-output path).
+  is therefore a normal runtime dependency of this package (01-scenes is the one exception — it uses
+  llm7shi's `generate_with_schema` structured-output path, not the plaintext `call_llm` gateway).
 - **The ultimate aim is a knowledge graph** of the poem (entities + who-does-what + relations).
   03-reading/04-tags produce the referent-resolved material; the registry, speech edges, and
   relations pass turn that into nodes and edges by code joining on tag numbers (ARCH §14).
@@ -230,38 +177,6 @@ uv run dante-analyze speech show inferno 1
 - **Remaining pronoun-layer logic checks** — misplaced-supply detection (`[+..]` not immediately
   before a verb); nominative-only supplied-pronoun check. Both need a pronoun lexicon.
 - **Diff-only storage** — store only additions vs. the source token list.
-
-## File structure
-
-| Path | Committed | Description |
-|---|---|---|
-| `01-scenes/<canticle>/NN.json` | ✓ | Scene ranges + names (committed LLM artifact; built by `01-scenes/scenes.py`) |
-| `01-scenes/<canticle>.md` | ✓ | Human-readable scene breakdowns (committed LLM artifact) |
-| `01-scenes/scenes.py` | ✓ | LLM-based scene segmentation builder (dev-only; `uv sync --group dev`) |
-| `01-scenes/Makefile` | ✓ | Build target for scene segmentation |
-| `pyproject.toml` | ✓ | Package metadata; deps `dante-corpus` + `llm7shi` (both runtime) |
-| `ARCHITECTURE.md` | ✓ | Local-LLM scripting patterns shared by every pass here |
-| `dante_analyze/__init__.py` | ✓ | Re-exports the shared library public surface |
-| `dante_analyze/_paths.py` | ✓ | Anchors the project-root output dirs (01-scenes/ … 04-tags/ 05-registry/ 06-speech/) |
-| `dante_analyze/corpus.py` | ✓ | Corpus input readers (`read_markup`, `load_scenes`, `available_cantos`) |
-| `dante_analyze/checkpoint.py` | ✓ | Per-canto `## Scene` + `# recap` checkpoint I/O; `load_readings`, `load_tags`, `load_registry`, `load_speech` |
-| `dante_analyze/marks.py` | ✓ | Tag numbering (`number_scene`), column-aware tag positions (`tag_positions`), source reconstruction (`strip_to_source`), reply normalizer (`unbrace`), elision repair (`fix_elision`) |
-| `dante_analyze/labels.py` | ✓ | Label normalization/classification: `norm_label`, `fold_key`, `split_set`, first-person surface sets (registry) |
-| `dante_analyze/quotespans.py` | ✓ | Quote-span geometry over dante_corpus `QuoteSpan`: `walk_spans`, `contains`, `own_region` (speech) |
-| `dante_analyze/llm.py` | ✓ | Runaway-guarded LLM gateway (`call_llm`), `step_sep`, `MAX_LENGTH`, `LLM_RETRIES` |
-| `dante_analyze/prompts.py` | ✓ | Turn-1 prompt builder (`build_reason_prompt`) |
-| `dante_analyze/cli.py` | ✓ | Read-only query CLI (`dante-analyze {scenes,reading,tags,registry,speech} show`) |
-| `02-markup/markup.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Per-scene reference markup (single pass, `gemma4:31b-it-qat` + CoT on) + output |
-| `03-reading/reading.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Free prose reading per scene (CoT on; no check, not proofread) + output |
-| `04-tags/README.md`, `tags.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Identity-first `n. Name` resolution (binds to reading; structure-checked) + design doc + output |
-| `05-registry/measure.py` | ✓ | Pure-code measurement report over 04-tags + Step-1 registry-sizing decision gates (no LLM, writes nothing) |
-| `05-registry/README.md` | ✓ | Step 1 design doc: `measure.py`/`registry.py` purpose, make targets, output format, option A |
-| `05-registry/registry.py`, `Makefile` | ✓ | Registry build (Step 1, option A); typing cached in `types.txt`, resumable |
-| `05-registry/<canticle>.txt`, `types.txt` | ✓ | Canonical node table + typing cache (typing generation run done) |
-| `06-speech/README.md`, `speech.py`, `Makefile`, `<canticle>/NN.txt` | ✓ | Speaker per quote span (Step 2, pure code; registry join + structural check) + design doc + output |
-
-The normalized source `.txt`, tokens, and quote-span XML live in **dante-corpus** and are read
-through its API. Scene JSON (`01-scenes/<canticle>/NN.json`) lives in this repo.
 
 ## Digest edition (future)
 
