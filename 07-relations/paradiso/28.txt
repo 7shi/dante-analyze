@@ -1,0 +1,71 @@
+# Canto 28 — The Vision of the Celestial Hierarchies and the Angelic Orders
+
+## Scene 1-12: The Mirror of Memory
+- [2] shows [11] | frame: literal | lines 2-3
+- [2] guides [11] | frame: literal | lines 3-3
+- [11] sees [2] | frame: literal | lines 11-11
+- [12] touches [11] | frame: literal | lines 12-12
+
+## Scene 13-30: The Radiant Point and Concentric Spheres
+
+## Scene 31-39: The Expansion of the Seventh Sphere
+
+## Scene 40-45: Beatrice's First Intervention
+- [1] sees [2] | frame: literal | lines 40-40
+- [3] commands [4] | frame: reported | lines 43-43
+- [3] tells [5] | frame: reported | lines 44-44
+
+## Scene 46-57: Dante's Theological Doubt
+- [1] speaks-to [2] | frame: literal | lines 46-46
+- [6] asks [2] | frame: literal | lines 55-57
+
+## Scene 58-60: Beatrice's Reassurance
+
+## Scene 61-78: The Principle of Divine Proportion
+- [2] speaks-to [3] | frame: literal | lines 61-61
+- [2] commands [3] | frame: reported | lines 61-61
+- [4] tells [5] | frame: reported | lines 62-62
+- [4] commands [7] | frame: reported | lines 63-63
+
+## Scene 79-87: Clarity of Understanding
+- [5] answers [4] | frame: literal | lines 85-86
+- [1] relates-to [2] | frame: simile | lines 81-83
+
+## Scene 88-96: The Multiplication of Sparks
+- [1] sees [2] | frame: literal | lines 90-93
+- [1] hears [2] | frame: literal | lines 94-94
+- [1] sees [3] | frame: literal | lines 90-93
+- [1] hears [3] | frame: literal | lines 94-94
+
+## Scene 97-102: The Highest Angels: Seraphim and Cherubim
+- [1] sees [3] | frame: literal | lines 97-98
+- [2] speaks-to [3] | frame: literal | lines 98-98
+- [4] shows [3] | frame: reported | lines 99-99
+- [5] shows [3] | frame: reported | lines 99-99
+
+## Scene 103-108: The Thrones and the Nature of Knowledge
+- [1] relates-to [2] | frame: reported | lines 103-103
+
+## Scene 109-114: The Essence of Beatitude
+
+
+## Scene 115-120: The Hymn of the Third Order
+
+
+## Scene 121-126: The Hierarchy of the Remaining Angels
+
+
+## Scene 127-129: The Universal Influence of the Spheres
+- [1] relates-to [2] | frame: literal | lines 127-127
+- [4] brings [5] | frame: literal | lines 129-129
+
+## Scene 130-135: Dionysius and Gregory
+- [1] sees [2] | frame: literal | lines 130-131
+- [1] names [2] | frame: literal | lines 132-132
+- [4] names [2] | frame: literal | lines 132-132
+- [4] compares [1] | frame: literal | lines 132-132
+- [5] relates-to [6] | frame: literal | lines 133-133
+- [10] relates-to [9] | frame: literal | lines 135-135
+
+## Scene 136-139: The Final Revelation
+- [5] shows [1] | frame: reported | lines 138-138

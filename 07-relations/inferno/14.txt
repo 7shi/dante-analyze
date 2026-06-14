@@ -1,0 +1,76 @@
+# Canto 14 — The Third Circle: The Wrathful and the Rain of Fire
+
+## Scene 1-6: Transition to the Third Circle
+- [3] gives [4] | frame: literal | lines 3-3
+
+## Scene 7-15: The Desolate Landscape
+
+
+## Scene 16-21: The Multitude of Souls
+- [4] addresses [1] | frame: literal | lines 16-16
+- [4] sees [3] | frame: literal | lines 19-19
+
+## Scene 22-27: The Patterns of Suffering
+
+
+## Scene 28-39: The Rain of Fire
+
+
+## Scene 40-48: Dante's Inquiry
+- [2] addresses [3] | frame: literal | lines 43-43
+- [6] meets [5] | frame: reported | lines 44-45
+- [2] sees [8] | frame: literal | lines 46-46
+- [2] asks [3] | frame: literal | lines 46-48
+
+## Scene 49-60: Capaneus's Defiance
+- [3] asks [4] | frame: literal | lines 50-50
+- [1] hears [3] | frame: literal | lines 49-50
+- [6] speaks-to [3] | frame: literal | lines 51-51
+- [11] strikes [12] | frame: reported | lines 53-54
+- [13] calls [15] | frame: reported | lines 57-57
+- [19] strikes [20] | frame: reported | lines 59-59
+- [21] punishes [20] | frame: reported | lines 60-60
+
+## Scene 61-75: Virgil's Rebuke and Warning
+- [2] hears [3] | frame: literal | lines 61-62
+- [1] rebukes [4] | frame: literal | lines 63-66
+- [6] addresses [8] | frame: literal | lines 67-67
+- [11] opposes [13] | frame: reported | lines 69-70
+- [14] opposes [15] | frame: reported | lines 70-70
+- [16] tells [17] | frame: reported | lines 71-72
+- [18] commands [20] | frame: literal | lines 73-73
+- [18] warns [21] | frame: literal | lines 73-74
+
+## Scene 76-84: The Red Stream
+
+
+## Scene 85-93: Virgil's Question to Dante
+- [1] shows [2] | frame: reported | lines 85-85
+- [4] speaks-to [5] | frame: literal | lines 85-91
+- [5] pleads-with [6] | frame: literal | lines 92-92
+- [7] gives [8] | frame: reported | lines 92-92
+
+## Scene 94-102: The Legend of Mount Ida
+- [3] protects [4] | frame: reported | lines 100-101
+- [6] protects [5] | frame: reported | lines 102-102
+
+## Scene 103-111: The Colossus of Metals
+
+
+## Scene 112-120: The Formation of the Rivers
+
+
+## Scene 121-129: The Geometry of Hell
+- [1] asks [2] | frame: literal | lines 121-123
+- [4] answers [5] | frame: literal | lines 124-129
+
+## Scene 130-138: The Nature of the Rivers
+- [1] asks [2] | frame: literal | lines 130-132
+- [7] praises [6] | frame: literal | lines 133-133
+- [7] answers [1] | frame: literal | lines 133-134
+- [7] tells [8] | frame: literal | lines 134-135
+- [7] tells [9] | frame: literal | lines 136-138
+
+## Scene 139-142: Leaving the Woods
+- [1] speaks-to [2] | frame: literal | lines 139-139
+- [4] follows [3] | frame: reported | lines 140-140

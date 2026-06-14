@@ -1,0 +1,89 @@
+# Canto 03 — The Encounter with Piccarda Donati and the Harmony of Divine Will
+
+## Scene 1-9: The Vision's Impact
+- [1] relates-to [2] | frame: literal | lines 1-1
+- [3] shows [4] | frame: literal | lines 2-2
+- [5] sees [1] | frame: literal | lines 3-3
+- [8] touches [10] | frame: literal | lines 8-8
+- [10] sees [8] | frame: literal | lines 8-8
+
+## Scene 10-16: The Visual Metaphor
+- [3] sees [1] | frame: simile | lines 13-15
+- [3] sees [2] | frame: simile | lines 14-15
+- [4] sees [5] | frame: literal | lines 16-16
+
+## Scene 17-24: Encounter with the Guide
+- [2] relates-to [3] | frame: literal | lines 18-18
+- [4] sees [5] | frame: literal | lines 19-19
+- [8] sees [7] | frame: literal | lines 20-20
+- [8] recognizes [5] | frame: literal | lines 21-21
+- [10] sees [11] | frame: literal | lines 22-23
+
+## Scene 25-33: Beatrice's Reassurance
+- [3] speaks-to [4] | frame: literal | lines 26-26
+- [7] sees [6] | frame: reported | lines 29-29
+- [8] speaks-to [9] | frame: reported | lines 31-31
+- [10] hears [9] | frame: reported | lines 31-31
+- [12] relates-to [13] | frame: reported | lines 32-32
+- [15] relates-to [16] | frame: reported | lines 33-33
+
+## Scene 34-41: Dante's Greeting
+- [1] addresses [2] | frame: literal | lines 34-35
+- [4] compares [5] | frame: simile | lines 36-36
+- [4] addresses [6] | frame: literal | lines 37-37
+- [4] praises [6] | frame: literal | lines 37-39
+- [8] asks [9] | frame: literal | lines 40-41
+
+## Scene 42-49: Piccarda's Identity
+- [1] answers [6] | frame: literal | lines 42-42
+- [6] sees [5] | frame: reported | lines 48-48
+- [7] recognizes [8] | frame: reported | lines 49-49
+
+## Scene 50-57: Piccarda's Status
+- [3] gives [2] | frame: reported | lines 55-57
+- [3] gives [1] | frame: reported | lines 55-57
+
+## Scene 58-66: Dante's Inquiry
+- [1] speaks-to [2] | frame: literal | lines 58-58
+- [3] sees [4] | frame: literal | lines 59-60
+- [5] recognizes [2] | frame: literal | lines 61-61
+- [7] tells [8] | frame: literal | lines 62-62
+- [1] asks [10] | frame: literal | lines 64-66
+
+## Scene 67-78: The Constraint of Charity
+- [2] relates-to [1] | frame: literal | lines 67-67
+- [4] answers [3] | frame: literal | lines 68-68
+- [4] addresses [6] | frame: literal | lines 70-70
+- [8] opposes [9] | frame: reported | lines 73-75
+- [9] relates-to [8] | frame: reported | lines 75-75
+- [4] tells [10] | frame: literal | lines 76-78
+
+## Scene 79-87: The Harmony of Wills
+- [1] follows [3] | frame: reported | lines 79-80
+- [2] relates-to [3] | frame: reported | lines 81-81
+- [3] guides [2] | frame: reported | lines 83-84
+- [2] follows [3] | frame: reported | lines 86-86
+
+## Scene 88-96: Dante's Epiphany
+- [3] asks [4] | frame: literal | lines 94-95
+
+## Scene 97-108: The Tale of the Nun
+- [3] speaks-to [2] | frame: literal | lines 98-98
+- [1] relates-to [10] | frame: reported | lines 101-101
+- [13] follows [11] | frame: reported | lines 103-103
+- [18] touches [20] | frame: reported | lines 107-107
+- [21] recognizes [20] | frame: reported | lines 108-108
+
+## Scene 109-120: The Tale of the Sister
+- [2] shows [1] | frame: literal | lines 109-109
+- [4] tells [1] | frame: literal | lines 112-112
+- [7] recognizes [4] | frame: reported | lines 112-112
+- [4] names [14] | frame: literal | lines 118-118
+
+## Scene 121-123: The Fading Vision
+- [2] calls [3] | frame: literal | lines 121-122
+
+## Scene 124-130: The Blinding Glory
+- [5] follows [1] | frame: literal | lines 124-124
+- [5] sees [3] | frame: literal | lines 126-127
+- [4] strikes [5] | frame: literal | lines 128-128

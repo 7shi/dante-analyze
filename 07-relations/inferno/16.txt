@@ -1,0 +1,81 @@
+# Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
+
+## Scene 1-12: The Appearance of the Wounded Souls
+- [5] meets [6] | frame: literal | lines 7-7
+- [5] commands [7] | frame: reported | lines 8-8
+- [5] recognizes [8] | frame: reported | lines 8-9
+- [9] sees [2] | frame: literal | lines 10-10
+
+## Scene 13-18: Virgil's Instruction
+- [2] hears [7] | frame: literal | lines 13-13
+- [3] addresses [4] | frame: literal | lines 14-14
+- [3] commands [5] | frame: literal | lines 14-14
+- [6] speaks-to [5] | frame: literal | lines 15-15
+- [8] compares [9] | frame: reported | lines 18-18
+- [8] compares [10] | frame: reported | lines 18-18
+
+## Scene 19-27: The Rotation of the Three
+- [4] meets [3] | frame: literal | lines 20-20
+- [9] strikes [8] | frame: simile | lines 24-24
+- [5] sees [10] | frame: literal | lines 25-26
+
+## Scene 28-45: The Identification of the Souls
+- [2] addresses [4] | frame: literal | lines 28-29
+- [2] asks [4] | frame: literal | lines 31-33
+- [8] sees [6] | frame: literal | lines 34-34
+- [11] relates-to [12] | frame: reported | lines 37-37
+- [15] follows [16] | frame: reported | lines 40-40
+- [19] relates-to [20] | frame: reported | lines 43-43
+- [23] punishes [24] | frame: reported | lines 44-45
+
+## Scene 46-51: Dante's Hesitation
+- [11] touches [10] | frame: reported | lines 51-51
+
+## Scene 52-63: Dante's Response
+- [1] speaks-to [7] | frame: literal | lines 52-52
+- [3] tells [4] | frame: reported | lines 55-55
+- [11] hears [9] | frame: reported | lines 59-60
+- [15] tells [14] | frame: reported | lines 62-62
+
+## Scene 64-72: The Souls' Inquiry
+- [2] answers [3] | frame: literal | lines 64-65
+- [1] guides [3] | frame: reported | lines 64-64
+- [9] follows [10] | frame: reported | lines 71-71
+- [11] tells [8] | frame: reported | lines 72-72
+
+## Scene 73-75: Dante's Political Rebuke
+- [1] relates-to [2] | frame: reported | lines 73-75
+
+## Scene 76-85: The Request for Remembrance
+- [3] sees [4] | frame: literal | lines 78-78
+- [3] sees [5] | frame: literal | lines 78-78
+- [2] answers [1] | frame: literal | lines 79-81
+- [2] commands [13] | frame: literal | lines 82-85
+- [16] speaks-to [15] | frame: reported | lines 85-85
+- [16] tells [14] | frame: reported | lines 85-85
+
+## Scene 86-90: The Departure of the Souls
+
+
+## Scene 91-105: The Sound of the Water
+- [1] follows [2] | frame: literal | lines 91-91
+
+## Scene 106-114: The Use of the Rope
+- [5] commands [6] | frame: literal | lines 110-110
+- [3] gives [7] | frame: literal | lines 111-111
+
+## Scene 115-120: Dante's Reflection on Prudence
+- [1] speaks-to [2] | frame: literal | lines 116-116
+- [3] shows [1] | frame: literal | lines 116-117
+- [4] relates-to [5] | frame: reported | lines 118-119
+- [6] sees [4] | frame: reported | lines 119-120
+
+## Scene 121-126: Virgil's Warning
+- [1] speaks-to [2] | frame: literal | lines 121-121
+- [1] warns [2] | frame: literal | lines 121-126
+
+## Scene 127-136: The Approaching Figure
+- [4] addresses [2] | frame: literal | lines 128-128
+- [4] addresses [3] | frame: literal | lines 128-128
+- [5] sees [6] | frame: literal | lines 130-131
+- [6] compares [7] | frame: simile | lines 132-133

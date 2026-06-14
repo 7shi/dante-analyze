@@ -1,0 +1,87 @@
+# Canto 16 — Cacciaguida's Prophecy and the Lament for Florence
+
+## Scene 1-12: Reflections on Lineage and Time
+
+## Scene 13-15: Beatrice's Laughter
+- [2] compares [3] | frame: simile | lines 14-15
+
+## Scene 16-27: Dante's Inquiry
+- [1] speaks-to [2] | frame: literal | lines 16-16
+- [2] relates-to [3] | frame: reported | lines 16-16
+- [4] gives [5] | frame: literal | lines 17-17
+- [6] brings [7] | frame: literal | lines 18-18
+- [8] compares [9] | frame: literal | lines 18-18
+- [1] asks [10] | frame: literal | lines 22-22
+- [1] addresses [11] | frame: literal | lines 22-22
+- [10] relates-to [12] | frame: reported | lines 23-23
+- [1] asks [13] | frame: literal | lines 25-25
+- [15] relates-to [16] | frame: reported | lines 26-26
+
+## Scene 28-39: Cacciaguida's Origins
+- [1] sees [2] | frame: literal | lines 29-30
+- [1] pleads-with [2] | frame: literal | lines 30-30
+- [1] sees [3] | frame: literal | lines 31-31
+- [5] answers [1] | frame: literal | lines 34-34
+- [7] relates-to [8] | frame: reported | lines 35-36
+- [9] relates-to [8] | frame: reported | lines 36-36
+
+## Scene 40-48: The Ancestral Boundaries
+- [1] relates-to [2] | frame: reported | lines 40-40
+- [4] relates-to [2] | frame: reported | lines 43-43
+- [12] compares [13] | frame: reported | lines 48-48
+
+## Scene 49-57: The Dilution of Citizenship
+- [3] rebukes [2] | frame: reported | lines 52-54
+- [3] rebukes [4] | frame: reported | lines 55-56
+- [3] rebukes [5] | frame: reported | lines 56-57
+
+## Scene 58-66: The Loss of Florentine Virtue
+- [1] relates-to [2] | frame: simile | lines 58-59
+- [4] relates-to [5] | frame: simile | lines 60-60
+- [2] relates-to [5] | frame: reported | lines 60-60
+
+## Scene 67-78: The Instability of Cities
+- [3] defeats [4] | frame: reported | lines 76-76
+
+## Scene 79-87: The Unpredictability of Fortune
+- [3] tells [1] | frame: literal | lines 79-81
+- [3] prophesies [4] | frame: literal | lines 86-87
+
+## Scene 88-93: The Catalog of Illustrious Families
+- [1] sees [2] | frame: reported | lines 88-88
+- [3] sees [4] | frame: reported | lines 88-88
+- [3] sees [5] | frame: reported | lines 88-89
+- [3] sees [6] | frame: reported | lines 88-89
+- [3] sees [7] | frame: reported | lines 88-89
+- [3] sees [8] | frame: reported | lines 88-89
+- [1] sees [9] | frame: reported | lines 88-90
+- [10] sees [11] | frame: reported | lines 91-92
+- [10] sees [13] | frame: reported | lines 91-92
+- [10] sees [15] | frame: reported | lines 91-93
+- [10] sees [16] | frame: reported | lines 91-93
+- [10] sees [17] | frame: reported | lines 91-93
+- [11] relates-to [12] | frame: reported | lines 92-92
+- [13] relates-to [14] | frame: reported | lines 92-92
+
+## Scene 94-108: The Rise of Corrupt Families
+- [1] relates-to [2] | frame: reported | lines 97-99
+
+## Scene 109-118: The Pride of the New Class
+- [1] sees [2] | frame: reported | lines 109-109
+- [3] compares [4] | frame: reported | lines 112-114
+- [7] follows [8] | frame: reported | lines 115-116
+- [7] shows [9] | frame: reported | lines 116-116
+
+## Scene 119-126: The Shifts in the Marketplace
+- [2] relates-to [3] | frame: reported | lines 120-120
+
+## Scene 127-135: The Loss of Privileges
+- [3] gives [4] | frame: reported | lines 127-130
+
+## Scene 136-144: The Tragedy of Buondelmonte
+- [5] gives [6] | frame: reported | lines 143-143
+- [5] gives [7] | frame: reported | lines 143-143
+
+## Scene 145-154: The Vision of a Lost Peace
+- [5] sees [6] | frame: reported | lines 148-149
+- [10] sees [11] | frame: reported | lines 151-152

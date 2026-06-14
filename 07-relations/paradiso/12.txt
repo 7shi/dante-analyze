@@ -1,0 +1,77 @@
+# Canto 12 — The Praise of Saint Dominic and the Gathering of the Saints
+
+## Scene 1-9: The Rotation of the Celestial Gear
+
+
+## Scene 10-21: The Intertwining Garlands
+- [1] commands [2] | frame: simile | lines 12-12
+- [5] relates-to [6] | frame: simile | lines 17-17
+
+## Scene 22-30: The Voice Emerges
+- [1] calls [2] | frame: literal | lines 29-30
+
+## Scene 31-36: The Theology of the Two Guides
+- [1] speaks-to [7] | frame: literal | lines 31-31
+- [3] praises [4] | frame: reported | lines 32-32
+- [6] praises [2] | frame: reported | lines 33-33
+- [6] speaks-to [5] | frame: reported | lines 33-33
+
+## Scene 37-45: The Allegory of the Church's Defense
+- [2] protects [4] | frame: reported | lines 40-42
+- [3] protects [4] | frame: reported | lines 43-43
+- [3] sends [5] | frame: reported | lines 43-44
+
+## Scene 46-60: The Birth of Saint Dominic
+- [1] brings [2] | frame: reported | lines 46-48
+- [5] opposes [6] | frame: reported | lines 55-57
+- [5] relates-to [7] | frame: reported | lines 58-60
+
+## Scene 61-78: The Vision and Signs of Sanctity
+- [1] relates-to [2] | frame: literal | lines 61-62
+- [3] gives [4] | frame: literal | lines 63-63
+- [5] gives [6] | frame: literal | lines 64-64
+- [8] relates-to [9] | frame: literal | lines 66-66
+- [11] names [12] | frame: literal | lines 68-69
+- [13] compares [14] | frame: literal | lines 70-72
+- [15] relates-to [14] | frame: simile | lines 71-72
+- [16] relates-to [19] | frame: literal | lines 73-73
+- [17] relates-to [19] | frame: literal | lines 73-73
+- [18] relates-to [19] | frame: literal | lines 73-73
+- [21] gives [20] | frame: literal | lines 74-75
+- [23] meets [22] | frame: literal | lines 76-77
+
+## Scene 79-87: The Rapid Growth of the Doctor
+- [7] praises [1] | frame: literal | lines 79-79
+- [7] praises [2] | frame: literal | lines 80-80
+- [3] follows [5] | frame: reported | lines 82-83
+- [3] follows [6] | frame: reported | lines 82-83
+
+## Scene 88-105: The Missionary Zeal of Dominic
+- [2] gives [1] | frame: reported | lines 88-91
+- [5] asks [2] | frame: reported | lines 91-94
+- [5] protects [6] | frame: reported | lines 94-96
+- [7] compares [9] | frame: simile | lines 98-99
+- [11] strikes [10] | frame: reported | lines 100-102
+- [12] relates-to [14] | frame: reported | lines 103-103
+- [14] relates-to [15] | frame: reported | lines 103-104
+- [14] protects [16] | frame: reported | lines 103-105
+
+## Scene 106-114: The Vacancy in the Second Circle
+- [1] protects [2] | frame: reported | lines 107-107
+
+## Scene 115-126: The Vastness of the Second Ring
+- [3] relates-to [4] | frame: literal | lines 117-117
+- [16] compares [17] | frame: literal | lines 124-126
+
+## Scene 127-141: The Assembly of the Saints
+- [1] relates-to [2] | frame: reported | lines 127-127
+- [4] relates-to [6] | frame: reported | lines 130-131
+- [5] relates-to [6] | frame: reported | lines 130-131
+- [8] relates-to [7] | frame: reported | lines 131-132
+- [9] relates-to [10] | frame: reported | lines 133-133
+
+## Scene 142-145: The Unified Praise
+- [2] praises [1] | frame: reported | lines 142-143
+- [3] relates-to [2] | frame: reported | lines 143-144
+- [4] relates-to [2] | frame: reported | lines 143-144
+- [6] meets [5] | frame: reported | lines 145-145

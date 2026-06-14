@@ -1,0 +1,119 @@
+# Canto 24 — Recognition of Souls and the Warning of the Tree
+
+## Scene 1-6: The Watching Souls
+- [2] speaks-to [1] | frame: literal | lines 1-2
+- [3] compares [4] | frame: literal | lines 4-4
+- [5] sees [6] | frame: literal | lines 5-6
+
+## Scene 7-12: Inquiry about Piccarda
+- [2] asks [5] | frame: literal | lines 10-10
+- [6] recognizes [7] | frame: reported | lines 10-10
+- [2] asks [8] | frame: literal | lines 11-11
+
+## Scene 13-24: News of Piccarda and Bonagiunta
+- [6] shows [5] | frame: literal | lines 19-19
+- [6] names [7] | frame: literal | lines 19-19
+- [6] names [8] | frame: literal | lines 19-19
+- [11] touches [9] | frame: reported | lines 20-22
+- [12] relates-to [13] | frame: reported | lines 23-23
+
+## Scene 25-33: The List of Notable Souls
+- [1] tells [2] | frame: literal | lines 25-25
+- [1] names [3] | frame: literal | lines 25-26
+- [4] sees [3] | frame: literal | lines 27-27
+- [5] sees [6] | frame: literal | lines 28-29
+- [5] sees [7] | frame: literal | lines 28-29
+- [8] sees [9] | frame: literal | lines 31-31
+
+## Scene 34-42: The Muttering Soul
+- [3] sees [4] | frame: literal | lines 34-35
+- [6] names [8] | frame: literal | lines 37-37
+- [9] hears [10] | frame: literal | lines 37-38
+- [11] punishes [12] | frame: literal | lines 38-39
+- [14] addresses [13] | frame: literal | lines 40-40
+- [14] asks [16] | frame: literal | lines 41-41
+- [17] hears [18] | frame: reported | lines 41-41
+- [21] relates-to [19] | frame: reported | lines 42-42
+- [21] relates-to [20] | frame: reported | lines 42-42
+
+## Scene 43-51: The Poet's Identity and Inquiry
+- [3] speaks-to [4] | frame: literal | lines 43-44
+- [3] prophesies [4] | frame: prophecy | lines 43-45
+- [8] hears [3] | frame: literal | lines 47-47
+- [11] asks [10] | frame: literal | lines 49-49
+- [11] sees [12] | frame: reported | lines 49-49
+- [12] addresses [13] | frame: reported | lines 50-51
+
+## Scene 52-63: The Knot of Poets
+- [1] speaks-to [2] | frame: literal | lines 52-52
+- [5] gives [6] | frame: reported | lines 53-53
+- [11] addresses [9] | frame: literal | lines 55-55
+- [16] sees [1] | frame: reported | lines 58-58
+- [1] follows [17] | frame: reported | lines 58-59
+
+## Scene 64-69: The Simile of the Geese
+
+
+## Scene 70-75: Forese Departs
+- [2] relates-to [3] | frame: simile | lines 71-71
+- [6] relates-to [5] | frame: literal | lines 73-73
+- [8] follows [7] | frame: literal | lines 74-74
+- [9] sees [10] | frame: reported | lines 75-75
+
+## Scene 76-81: Dialogue with Forese
+- [2] answers [3] | frame: literal | lines 76-76
+
+## Scene 82-93: Forese's Ominous Warning
+- [2] commands [1] | frame: literal | lines 82-82
+- [4] sees [3] | frame: reported | lines 82-83
+- [7] strikes [8] | frame: prophecy | lines 86-86
+- [9] defeats [8] | frame: prophecy | lines 87-87
+- [10] tells [11] | frame: literal | lines 89-89
+- [2] commands [12] | frame: literal | lines 91-91
+- [14] follows [15] | frame: literal | lines 93-93
+
+## Scene 94-97: The Knight's Departure
+- [4] compares [1] | frame: simile | lines 94-97
+- [4] relates-to [5] | frame: literal | lines 97-97
+
+## Scene 98-111: Vision of the Hungry Souls
+- [7] follows [8] | frame: literal | lines 101-101
+- [9] sees [10] | frame: literal | lines 106-106
+- [10] pleads-with [11] | frame: literal | lines 106-107
+- [13] pleads-with [14] | frame: simile | lines 108-109
+- [14] answers [13] | frame: simile | lines 109-109
+
+## Scene 112-120: Warning Near the Tree
+- [7] warns [4] | frame: literal | lines 115-115
+- [7] tells [4] | frame: literal | lines 116-117
+
+## Scene 121-126: Mythological Allusions
+- [2] tells [1] | frame: literal | lines 121-121
+- [4] relates-to [3] | frame: reported | lines 121-123
+- [7] opposes [6] | frame: reported | lines 124-125
+- [7] opposes [8] | frame: reported | lines 124-125
+
+## Scene 127-132: Passing the Thickets
+- [2] brings [3] | frame: literal | lines 131-131
+
+## Scene 133-136: A Sudden Interruption
+- [2] asks [1] | frame: literal | lines 133-134
+- [5] sees [6] | frame: literal | lines 136-136
+
+## Scene 137-141: The Brilliant Figure's Warning
+- [1] sees [2] | frame: literal | lines 139-139
+- [2] commands [3] | frame: reported | lines 140-140
+- [2] guides [4] | frame: reported | lines 141-141
+
+## Scene 142-144: Dante's Reaction
+- [2] follows [4] | frame: literal | lines 143-143
+- [5] follows [6] | frame: simile | lines 144-144
+
+## Scene 145-150: The May Breeze
+- [5] compares [1] | frame: simile | lines 145-148
+- [5] compares [2] | frame: simile | lines 145-148
+- [4] sees [5] | frame: literal | lines 148-148
+- [6] sees [5] | frame: literal | lines 149-150
+
+## Scene 151-154: The Benediction
+

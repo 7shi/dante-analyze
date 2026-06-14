@@ -1,0 +1,111 @@
+# Canto 31 — The Sphinx's Instruction and the Celestial Dance
+
+## Scene 1-6: The Sphinx's Accusation
+- [4] addresses [1] | frame: literal | lines 1-1
+- [4] addresses [2] | frame: literal | lines 2-2
+- [4] commands [5] | frame: literal | lines 5-5
+- [4] commands [6] | frame: literal | lines 5-5
+
+## Scene 7-15: Dante's Hesitant Response
+- [6] asks [7] | frame: literal | lines 10-10
+- [6] commands [8] | frame: literal | lines 11-11
+- [6] tells [10] | frame: literal | lines 11-12
+- [11] relates-to [12] | frame: literal | lines 13-14
+- [12] answers [9] | frame: literal | lines 14-15
+
+## Scene 16-21: The Burst of Sorrow
+
+
+## Scene 22-30: The Sphinx's Inquiry
+- [1] asks [2] | frame: literal | lines 22-30
+- [9] follows [10] | frame: reported | lines 30-30
+
+## Scene 31-36: The Confession of Sin
+
+
+## Scene 37-48: The Command to Listen
+- [1] speaks-to [2] | frame: literal | lines 37-48
+- [4] tells [1] | frame: reported | lines 38-38
+- [5] punishes [6] | frame: reported | lines 39-39
+- [1] commands [9] | frame: literal | lines 46-46
+- [1] commands [10] | frame: literal | lines 46-46
+- [11] hears [1] | frame: reported | lines 47-47
+
+## Scene 49-63: The Vanity of Earthly Beauty
+- [2] rebukes [1] | frame: literal | lines 49-63
+- [2] asks [4] | frame: literal | lines 52-54
+- [6] follows [8] | frame: reported | lines 55-57
+
+## Scene 64-69: A Call to Courage
+- [4] compares [1] | frame: simile | lines 64-67
+- [1] recognizes [2] | frame: simile | lines 66-66
+- [5] speaks-to [4] | frame: literal | lines 67-67
+- [5] commands [7] | frame: reported | lines 68-68
+- [7] hears [6] | frame: reported | lines 68-68
+- [8] sees [5] | frame: prophecy | lines 69-69
+
+## Scene 70-75: The Simile of the Stripped Tree
+- [4] commands [3] | frame: literal | lines 73-73
+- [4] asks [3] | frame: literal | lines 74-74
+
+## Scene 76-84: The Vision of Beatrice
+- [2] sees [1] | frame: literal | lines 77-78
+- [2] sees [3] | frame: literal | lines 80-80
+- [3] sees [4] | frame: literal | lines 80-80
+- [4] relates-to [5] | frame: literal | lines 81-81
+- [6] compares [7] | frame: literal | lines 83-83
+
+## Scene 85-90: The Sting of Repentance
+- [7] brings [2] | frame: literal | lines 86-86
+- [7] opposes [3] | frame: literal | lines 87-87
+- [7] sees [8] | frame: literal | lines 90-90
+- [7] gives [8] | frame: literal | lines 90-90
+
+## Scene 91-96: Crossing the River
+- [2] meets [1] | frame: literal | lines 92-92
+- [4] sees [1] | frame: literal | lines 93-93
+- [5] commands [6] | frame: reported | lines 93-93
+- [5] commands [7] | frame: reported | lines 93-93
+- [8] brings [9] | frame: literal | lines 94-94
+- [11] brings [10] | frame: literal | lines 95-95
+
+## Scene 97-105: Arrival at the Blessed Shore
+- [6] speaks-to [2] | frame: literal | lines 98-98
+- [3] hears [6] | frame: literal | lines 98-98
+- [7] touches [9] | frame: literal | lines 101-101
+- [8] touches [9] | frame: literal | lines 101-101
+- [11] touches [12] | frame: literal | lines 103-103
+- [13] gives [14] | frame: literal | lines 103-104
+- [15] touches [16] | frame: literal | lines 105-105
+
+## Scene 106-111: The Nymphs' Identity
+- [6] relates-to [7] | frame: reported | lines 107-108
+- [6] relates-to [7] | frame: reported | lines 109-109
+
+## Scene 112-117: The Procession to the Griffin
+- [4] sees [5] | frame: literal | lines 114-114
+- [6] commands [7] | frame: reported | lines 115-115
+- [9] guides [10] | frame: reported | lines 116-116
+- [11] strikes [12] | frame: reported | lines 117-117
+
+## Scene 118-123: The Splendor of the Griffin
+
+
+## Scene 124-126: Dante's Wonder
+- [3] commands [1] | frame: literal | lines 124-124
+- [3] commands [2] | frame: literal | lines 124-124
+- [5] sees [6] | frame: literal | lines 125-125
+
+## Scene 127-132: The Celestial Dance
+
+
+## Scene 133-138: The Song of the Nymphs
+- [6] pleads-with [2] | frame: literal | lines 133-138
+- [2] sees [4] | frame: reported | lines 133-134
+- [4] sees [2] | frame: reported | lines 135-135
+- [5] gives [6] | frame: reported | lines 136-136
+- [7] shows [8] | frame: reported | lines 136-137
+- [9] sees [10] | frame: reported | lines 137-138
+
+## Scene 139-145: Hymn to Eternal Light
+- [5] praises [6] | frame: reported | lines 142-143

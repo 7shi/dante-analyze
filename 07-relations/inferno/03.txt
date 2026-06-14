@@ -1,0 +1,101 @@
+# Canto 03 — The Gate of Hell and the Approach to the Acheron
+
+## Scene 1-9: The Inscription on the Gate
+- [8] relates-to [9] | frame: reported | lines 4-4
+- [10] relates-to [5] | frame: reported | lines 5-5
+- [11] relates-to [5] | frame: reported | lines 6-6
+- [12] relates-to [5] | frame: reported | lines 6-6
+- [1] warns [15] | frame: literal | lines 9-9
+
+## Scene 10-18: Virgil's Interpretation
+- [2] asks [3] | frame: literal | lines 12-12
+- [5] answers [6] | frame: literal | lines 13-13
+- [9] tells [10] | frame: reported | lines 16-16
+- [11] sees [12] | frame: prophecy | lines 17-18
+
+## Scene 19-24: Entry into the Underworld
+- [4] touches [1] | frame: literal | lines 19-19
+- [4] guides [5] | frame: literal | lines 21-21
+
+## Scene 25-33: The Tumult of Wailing
+- [2] asks [3] | frame: literal | lines 32-32
+- [4] hears [5] | frame: reported | lines 32-32
+- [4] sees [5] | frame: reported | lines 33-33
+
+## Scene 34-42: The Origin of the Uncommitted
+- [1] speaks-to [2] | frame: literal | lines 34-34
+- [5] relates-to [6] | frame: reported | lines 37-37
+- [7] relates-to [9] | frame: reported | lines 38-39
+- [8] relates-to [9] | frame: reported | lines 39-39
+- [13] relates-to [14] | frame: reported | lines 42-42
+
+## Scene 43-51: The Fate of the Neutral
+- [1] asks [2] | frame: literal | lines 43-44
+- [5] answers [1] | frame: literal | lines 45-45
+- [6] tells [1] | frame: literal | lines 45-45
+- [10] rebukes [12] | frame: reported | lines 50-50
+- [11] rebukes [12] | frame: reported | lines 50-50
+- [6] commands [15] | frame: literal | lines 51-51
+- [6] commands [16] | frame: literal | lines 51-51
+- [15] sees [14] | frame: reported | lines 51-51
+
+## Scene 52-57: The Great Procession
+- [1] sees [3] | frame: literal | lines 52-56
+
+## Scene 58-63: The Shadow of the Great Refuser
+- [3] sees [5] | frame: literal | lines 59-59
+- [4] recognizes [5] | frame: literal | lines 59-59
+- [7] recognizes [9] | frame: literal | lines 61-62
+- [8] recognizes [9] | frame: literal | lines 61-62
+- [9] relates-to [10] | frame: literal | lines 63-63
+- [9] relates-to [11] | frame: literal | lines 63-63
+
+## Scene 64-69: The Torment of the Souls
+
+
+## Scene 70-78: Approaching the River
+- [3] sees [4] | frame: literal | lines 71-71
+- [5] addresses [6] | frame: literal | lines 72-72
+- [5] asks [7] | frame: literal | lines 72-75
+- [7] gives [8] | frame: reported | lines 72-72
+- [12] speaks-to [13] | frame: literal | lines 76-76
+- [14] tells [15] | frame: prophecy | lines 76-76
+
+## Scene 79-81: Dante's Shame
+- [2] brings [3] | frame: literal | lines 81-81
+
+## Scene 82-89: The Arrival of Charon
+- [2] meets [1] | frame: literal | lines 82-83
+- [2] warns [3] | frame: literal | lines 84-84
+- [2] names [4] | frame: literal | lines 84-84
+- [2] warns [5] | frame: literal | lines 85-85
+- [2] addresses [7] | frame: literal | lines 88-88
+- [2] names [8] | frame: literal | lines 88-88
+- [2] commands [9] | frame: literal | lines 89-89
+- [9] relates-to [10] | frame: reported | lines 89-89
+
+## Scene 90-99: Virgil Silences the Ferryman
+- [1] sees [2] | frame: literal | lines 90-90
+- [4] tells [5] | frame: reported | lines 91-93
+- [8] addresses [10] | frame: literal | lines 94-94
+- [8] commands [10] | frame: reported | lines 94-94
+- [8] commands [13] | frame: reported | lines 95-96
+
+## Scene 100-105: The Wrath of the Damned
+- [5] rebukes [6] | frame: literal | lines 103-103
+- [5] rebukes [7] | frame: literal | lines 103-103
+
+## Scene 106-108: Retreat to the Shore
+- [3] relates-to [4] | frame: literal | lines 108-108
+
+## Scene 109-120: The Continuous Flow of Souls
+- [1] commands [3] | frame: literal | lines 109-110
+- [1] brings [4] | frame: literal | lines 109-110
+- [5] strikes [6] | frame: literal | lines 111-111
+
+## Scene 121-129: Virgil's Final Lesson
+- [2] addresses [1] | frame: literal | lines 121-121
+- [8] rebukes [9] | frame: reported | lines 128-128
+
+## Scene 130-136: The Earthquake and Fainting
+- [5] compares [6] | frame: simile | lines 136-136

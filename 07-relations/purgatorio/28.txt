@@ -1,0 +1,94 @@
+# Canto 28 — The Encounter with the Enchanted Lady in the Forest
+
+## Scene 1-6: Departure into the Forest
+
+
+## Scene 7-12: The Gentle Breeze
+
+
+## Scene 13-21: The Singing Birds
+
+
+## Scene 22-27: Entering the Deep Woods
+
+
+## Scene 28-33: The Dark Stream
+
+
+## Scene 34-39: The Sight of the Lady
+
+
+## Scene 40-48: Dante's Invitation
+- [7] addresses [3] | frame: reported | lines 43-43
+- [7] asks [6] | frame: reported | lines 46-46
+- [7] speaks-to [8] | frame: literal | lines 47-47
+- [9] hears [10] | frame: reported | lines 48-48
+
+## Scene 49-51: A Mythological Comparison
+- [1] relates-to [2] | frame: literal | lines 49-49
+- [2] relates-to [3] | frame: literal | lines 49-50
+- [1] compares [3] | frame: simile | lines 49-50
+- [4] relates-to [5] | frame: reported | lines 50-51
+- [4] relates-to [6] | frame: reported | lines 51-51
+
+## Scene 52-60: The Lady's Modest Approach
+- [6] sees [8] | frame: literal | lines 56-56
+- [6] compares [9] | frame: simile | lines 56-57
+- [11] meets [12] | frame: literal | lines 59-60
+- [12] hears [11] | frame: literal | lines 59-60
+
+## Scene 61-66: The Radiance of her Eyes
+- [2] sees [3] | frame: literal | lines 63-63
+- [6] strikes [5] | frame: simile | lines 65-66
+
+## Scene 67-75: Her Joyful Presence
+- [6] compares [5] | frame: simile | lines 73-75
+
+## Scene 76-84: The Lady's Greeting
+- [3] addresses [1] | frame: literal | lines 76-77
+- [3] tells [1] | frame: reported | lines 76-76
+- [5] pleads-with [6] | frame: reported | lines 82-82
+- [3] commands [7] | frame: literal | lines 83-83
+- [9] answers [8] | frame: reported | lines 83-84
+
+## Scene 85-87: Dante's Confusion
+
+
+## Scene 88-96: The Divine Purpose of the Place
+- [1] speaks-to [3] | frame: literal | lines 88-90
+- [7] relates-to [8] | frame: reported | lines 91-91
+- [9] relates-to [10] | frame: reported | lines 92-92
+- [11] gives [12] | frame: reported | lines 93-93
+
+## Scene 97-102: The Mountain's Ascent
+
+
+## Scene 103-114: The Mechanics of the Wind and Trees
+
+
+## Scene 115-117: Seedless Growth
+
+
+## Scene 118-120: The Bounty of the Land
+
+
+## Scene 121-126: The Two Springs
+
+
+## Scene 127-129: Forgetfulness and Memory
+
+
+## Scene 130-133: Lethe and Eunoe
+
+
+## Scene 134-138: A Final Promise
+- [1] shows [2] | frame: reported | lines 134-135
+- [4] relates-to [5] | frame: reported | lines 137-137
+
+## Scene 139-144: The Golden Age
+
+
+## Scene 145-148: Dante's Reflection
+- [4] sees [3] | frame: literal | lines 146-146
+- [5] hears [6] | frame: literal | lines 147-147
+- [7] sees [6] | frame: literal | lines 148-148

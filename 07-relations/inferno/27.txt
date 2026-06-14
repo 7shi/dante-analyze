@@ -1,0 +1,72 @@
+# Canto 27 — The Confession of the Second Flame
+
+## Scene 1-15: The Sound of the Flame
+
+
+## Scene 16-30: The Inquiry of the Soul
+- [2] hears [4] | frame: literal | lines 19-19
+- [4] addresses [3] | frame: literal | lines 19-19
+- [4] tells [5] | frame: literal | lines 20-20
+- [8] commands [9] | frame: reported | lines 21-21
+- [8] addresses [9] | frame: reported | lines 21-21
+- [4] asks [11] | frame: literal | lines 23-23
+- [11] speaks-to [12] | frame: reported | lines 23-23
+- [13] sees [14] | frame: reported | lines 24-24
+- [4] asks [16] | frame: literal | lines 25-26
+- [4] asks [19] | frame: literal | lines 28-28
+
+## Scene 31-48: Dante's Political Report
+- [2] touches [3] | frame: literal | lines 32-32
+- [2] commands [4] | frame: literal | lines 33-33
+- [7] answers [8] | frame: literal | lines 35-48
+- [7] addresses [8] | frame: literal | lines 36-36
+- [10] opposes [9] | frame: reported | lines 39-39
+
+## Scene 49-57: The Geography of the Region
+- [4] asks [3] | frame: literal | lines 55-55
+- [4] pleads-with [5] | frame: literal | lines 55-55
+- [4] commands [6] | frame: literal | lines 55-55
+- [4] commands [7] | frame: literal | lines 56-56
+
+## Scene 58-66: The Flame's Vow of Truth
+- [3] answers [4] | frame: reported | lines 61-62
+- [7] answers [8] | frame: literal | lines 66-66
+
+## Scene 67-78: The Nature of the Deceiver
+- [5] brings [6] | frame: reported | lines 70-71
+- [7] speaks-to [8] | frame: literal | lines 72-72
+- [11] gives [12] | frame: reported | lines 73-74
+
+## Scene 79-93: The History of Deceit
+- [9] relates-to [11] | frame: reported | lines 92-93
+
+## Scene 94-105: The Pope's Counselor
+- [1] asks [2] | frame: simile | lines 94-94
+- [5] asks [4] | frame: literal | lines 96-97
+- [5] asks [7] | frame: literal | lines 98-98
+- [9] gives [10] | frame: reported | lines 101-101
+- [11] guides [12] | frame: reported | lines 101-102
+- [16] recognizes [15] | frame: reported | lines 103-104
+
+## Scene 106-111: The Dangerous Advice
+- [3] addresses [4] | frame: literal | lines 108-108
+- [5] relates-to [6] | frame: reported | lines 108-108
+
+## Scene 112-123: The Cherub's Intervention
+- [1] protects [3] | frame: literal | lines 112-112
+- [4] speaks-to [6] | frame: literal | lines 113-114
+- [4] commands [6] | frame: literal | lines 114-114
+- [7] brings [10] | frame: reported | lines 114-114
+- [9] relates-to [8] | frame: reported | lines 114-114
+- [20] touches [21] | frame: literal | lines 122-122
+- [20] speaks-to [21] | frame: literal | lines 122-122
+- [22] recognizes [23] | frame: reported | lines 123-123
+
+## Scene 124-129: The Judgment of Minos
+- [1] brings [2] | frame: reported | lines 124-124
+- [7] names [8] | frame: reported | lines 127-127
+- [8] relates-to [9] | frame: reported | lines 127-127
+- [11] sees [10] | frame: literal | lines 128-128
+
+## Scene 130-136: The Departure of the Flame
+- [6] guides [5] | frame: literal | lines 133-133

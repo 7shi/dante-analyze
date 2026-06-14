@@ -1,0 +1,103 @@
+# Canto 23 — The Encounter with Forese and the Shadows of Limbo
+
+## Scene 1-6: The Father's Command
+- [1] compares [2] | frame: simile | lines 2-3
+- [3] speaks-to [4] | frame: literal | lines 4-4
+- [3] addresses [5] | frame: literal | lines 4-4
+- [3] commands [6] | frame: reported | lines 5-5
+
+## Scene 7-9: Following the Sages
+- [1] follows [2] | frame: literal | lines 7-8
+
+## Scene 10-15: The Sound of Sorrow
+- [6] addresses [1] | frame: literal | lines 10-11
+- [4] asks [2] | frame: literal | lines 13-13
+- [3] hears [6] | frame: literal | lines 13-13
+- [5] answers [4] | frame: literal | lines 14-14
+
+## Scene 16-24: The Emaciated Crowd
+- [1] meets [2] | frame: simile | lines 16-17
+- [3] sees [4] | frame: simile | lines 18-18
+- [8] meets [6] | frame: literal | lines 19-20
+- [8] sees [7] | frame: literal | lines 20-20
+
+## Scene 25-30: Reflections on Hunger
+- [4] speaks-to [5] | frame: literal | lines 28-28
+- [6] touches [7] | frame: reported | lines 30-30
+
+## Scene 31-39: The Scent of Temptation
+- [1] sees [2] | frame: literal | lines 32-32
+- [5] sees [6] | frame: literal | lines 37-37
+
+## Scene 40-48: An Unexpected Encounter
+- [2] sees [1] | frame: literal | lines 40-41
+- [3] sees [1] | frame: literal | lines 41-41
+- [4] asks [1] | frame: literal | lines 42-42
+- [6] recognizes [7] | frame: literal | lines 43-43
+- [8] hears [9] | frame: literal | lines 44-44
+- [11] recognizes [12] | frame: literal | lines 48-48
+
+## Scene 49-54: Forese's Inquiry
+- [3] pleads-with [1] | frame: literal | lines 49-50
+- [3] asks [5] | frame: literal | lines 52-52
+- [3] asks [7] | frame: literal | lines 52-52
+- [10] guides [11] | frame: reported | lines 53-53
+- [3] pleads-with [12] | frame: literal | lines 54-54
+- [13] speaks-to [14] | frame: reported | lines 54-54
+
+## Scene 55-60: Dante's Grief
+- [4] gives [2] | frame: reported | lines 55-56
+- [3] answers [4] | frame: literal | lines 57-57
+- [3] sees [4] | frame: reported | lines 57-57
+- [5] asks [6] | frame: literal | lines 58-58
+- [5] calls [7] | frame: literal | lines 58-58
+- [9] commands [10] | frame: literal | lines 59-59
+
+## Scene 61-75: The Cause of Torment
+- [1] answers [2] | frame: literal | lines 61-61
+- [11] calls [12] | frame: reported | lines 74-74
+
+## Scene 76-84: A Question of Time
+- [1] addresses [2] | frame: literal | lines 76-76
+- [1] asks [6] | frame: literal | lines 82-82
+- [7] meets [8] | frame: reported | lines 83-83
+
+## Scene 85-96: The Power of Prayer
+- [1] answers [2] | frame: literal | lines 85-85
+- [3] brings [4] | frame: reported | lines 85-87
+- [6] brings [7] | frame: reported | lines 88-89
+- [8] protects [9] | frame: reported | lines 90-90
+- [10] relates-to [11] | frame: reported | lines 91-91
+- [12] relates-to [11] | frame: reported | lines 92-92
+- [15] relates-to [16] | frame: reported | lines 96-96
+
+## Scene 97-114: A Prophecy of Florence
+- [3] addresses [1] | frame: literal | lines 97-97
+- [3] asks [2] | frame: literal | lines 97-97
+- [4] prophesies [5] | frame: prophecy | lines 98-102
+- [8] relates-to [9] | frame: prophecy | lines 106-108
+- [11] prophesies [12] | frame: prophecy | lines 109-111
+- [18] commands [16] | frame: literal | lines 112-112
+- [17] relates-to [18] | frame: literal | lines 112-112
+- [20] sees [21] | frame: literal | lines 113-114
+- [20] sees [22] | frame: literal | lines 113-114
+- [21] sees [24] | frame: literal | lines 113-114
+- [22] sees [24] | frame: literal | lines 113-114
+
+## Scene 115-123: Explaining the Companions
+- [1] speaks-to [2] | frame: literal | lines 115-115
+- [4] relates-to [5] | frame: reported | lines 116-116
+- [6] relates-to [7] | frame: reported | lines 116-116
+- [9] guides [8] | frame: reported | lines 118-118
+- [9] guides [10] | frame: reported | lines 119-119
+- [15] guides [16] | frame: reported | lines 122-122
+- [18] follows [19] | frame: reported | lines 123-123
+
+## Scene 124-129: Dante's Destination
+- [3] guides [1] | frame: literal | lines 124-124
+- [4] follows [3] | frame: reported | lines 127-127
+
+## Scene 130-133: Identifying the Guides
+- [2] speaks-to [3] | frame: reported | lines 130-130
+- [4] shows [5] | frame: literal | lines 131-131
+- [4] names [6] | frame: reported | lines 131-131

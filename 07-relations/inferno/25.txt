@@ -1,0 +1,110 @@
+# Canto 25 — The Metamorphosis of the Seventh Weight
+
+## Scene 1-9: The Thief's Struggle
+- [4] commands [2] | frame: reported | lines 3-3
+- [4] opposes [2] | frame: reported | lines 3-3
+- [7] touches [6] | frame: literal | lines 5-5
+- [8] commands [9] | frame: simile | lines 6-6
+- [10] touches [6] | frame: literal | lines 7-7
+- [7] chases [11] | frame: literal | lines 7-9
+- [10] chases [11] | frame: literal | lines 7-9
+
+## Scene 10-16: Dante's Lament and the Centaur
+- [4] rebukes [1] | frame: literal | lines 10-12
+- [4] sees [5] | frame: literal | lines 13-14
+- [5] opposes [6] | frame: literal | lines 14-14
+- [4] compares [5] | frame: literal | lines 14-15
+- [4] compares [7] | frame: literal | lines 14-15
+
+## Scene 17-24: The Dragon's Presence
+- [1] sees [2] | frame: literal | lines 17-17
+- [2] calls [3] | frame: literal | lines 18-18
+- [7] relates-to [6] | frame: literal | lines 22-23
+- [8] punishes [9] | frame: literal | lines 24-24
+
+## Scene 25-33: Virgil's Explanation of Cacus
+- [4] relates-to [5] | frame: reported | lines 28-28
+- [7] strikes [8] | frame: reported | lines 32-33
+
+## Scene 34-39: The Arrival of Three Spirits
+- [3] meets [4] | frame: literal | lines 35-35
+- [6] sees [5] | frame: literal | lines 36-36
+- [7] sees [5] | frame: literal | lines 36-36
+- [9] asks [11] | frame: literal | lines 37-37
+- [12] hears [13] | frame: literal | lines 39-39
+
+## Scene 40-45: The Conversation of the Spirits
+- [1] recognizes [2] | frame: literal | lines 40-40
+- [2] names [4] | frame: literal | lines 42-43
+
+## Scene 46-60: The Initial Entwining
+- [3] addresses [1] | frame: literal | lines 46-46
+- [3] addresses [2] | frame: literal | lines 46-46
+- [3] tells [1] | frame: literal | lines 46-47
+- [3] tells [2] | frame: literal | lines 46-47
+- [8] sees [9] | frame: literal | lines 49-49
+
+## Scene 61-66: The Melting of the Forms
+- [3] touches [4] | frame: literal | lines 61-61
+- [4] touches [3] | frame: literal | lines 61-61
+- [3] relates-to [4] | frame: literal | lines 62-62
+- [4] relates-to [3] | frame: literal | lines 62-62
+
+## Scene 67-72: The Loss of Individuality
+- [1] sees [2] | frame: literal | lines 67-67
+- [3] calls [4] | frame: literal | lines 68-68
+- [7] sees [8] | frame: reported | lines 69-69
+
+## Scene 73-78: The Grotesque Fusion
+
+
+## Scene 79-87: The Attack of the Small Serpent
+- [2] meets [1] | frame: literal | lines 82-83
+- [3] strikes [4] | frame: literal | lines 85-86
+- [6] relates-to [7] | frame: literal | lines 87-87
+
+## Scene 88-93: The Reaction of the Wound
+- [1] sees [2] | frame: literal | lines 88-88
+- [6] sees [7] | frame: literal | lines 91-91
+- [6] sees [8] | frame: literal | lines 91-91
+- [6] sees [9] | frame: literal | lines 91-91
+
+## Scene 94-102: A Literary Comparison
+- [11] commands [1] | frame: literal | lines 94-94
+- [1] tells [2] | frame: reported | lines 94-95
+- [1] tells [3] | frame: reported | lines 94-95
+- [11] commands [4] | frame: literal | lines 96-96
+- [11] commands [7] | frame: literal | lines 97-97
+- [10] tells [8] | frame: reported | lines 97-99
+- [10] tells [9] | frame: reported | lines 97-99
+- [11] relates-to [12] | frame: literal | lines 99-99
+- [11] compares [13] | frame: literal | lines 100-102
+
+## Scene 103-111: The Structural Reorganization
+- [3] defeats [4] | frame: literal | lines 109-109
+
+## Scene 112-117: The Alteration of Limbs
+- [1] sees [3] | frame: literal | lines 112-117
+
+## Scene 118-123: The Changing Surface
+
+
+## Scene 124-129: The Swelling of the Face
+
+
+## Scene 130-135: The Splitting of the Tongue
+
+
+## Scene 136-141: The Departure of the Spirits
+- [4] follows [5] | frame: literal | lines 138-138
+- [4] speaks-to [5] | frame: literal | lines 138-138
+- [8] speaks-to [9] | frame: literal | lines 140-140
+- [10] punishes [11] | frame: reported | lines 140-141
+
+## Scene 142-144: Dante's Commentary
+- [1] sees [2] | frame: literal | lines 142-142
+
+## Scene 145-151: The Identification of the Survivors
+- [1] sees [2] | frame: literal | lines 147-148
+- [1] addresses [8] | frame: literal | lines 151-151
+- [8] relates-to [7] | frame: literal | lines 151-151

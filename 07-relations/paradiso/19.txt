@@ -1,0 +1,74 @@
+# Canto 19 — The Vision of the Celestial Image and the Prophecy of Nations
+
+## Scene 1-12: The Visual Encounter
+- [2] meets [1] | frame: literal | lines 1-1
+- [2] relates-to [3] | frame: literal | lines 2-3
+- [5] sees [2] | frame: literal | lines 10-10
+- [5] hears [2] | frame: literal | lines 10-10
+- [2] speaks-to [5] | frame: literal | lines 10-12
+
+## Scene 13-18: The Image's Self-Introduction
+- [4] praises [3] | frame: reported | lines 17-17
+- [5] follows [3] | frame: reported | lines 18-18
+
+## Scene 19-21: The Unity of the Vision
+
+## Scene 22-33: Dante's Plea for Understanding
+- [1] addresses [2] | frame: literal | lines 22-22
+- [2] shows [3] | frame: reported | lines 23-24
+- [1] pleads-with [4] | frame: literal | lines 25-25
+- [4] relates-to [5] | frame: reported | lines 25-26
+- [9] recognizes [10] | frame: reported | lines 31-31
+- [12] recognizes [13] | frame: reported | lines 32-33
+
+## Scene 34-39: The Gesture of Praise
+- [3] sees [1] | frame: literal | lines 37-37
+
+## Scene 40-51: The Doctrine of the Fall
+- [2] relates-to [5] | frame: reported | lines 46-48
+- [8] relates-to [10] | frame: reported | lines 49-51
+
+## Scene 52-63: The Limits of Human Intellect
+
+## Scene 64-78: The Problem of the Unbaptized
+- [4] asks [5] | frame: reported | lines 69-69
+- [5] tells [4] | frame: reported | lines 70-70
+- [12] rebukes [13] | frame: reported | lines 77-77
+
+## Scene 79-84: The Rebuke of Dante
+- [4] rebukes [1] | frame: literal | lines 79-81
+- [4] rebukes [2] | frame: literal | lines 79-81
+- [5] relates-to [4] | frame: reported | lines 82-82
+- [4] rebukes [3] | frame: literal | lines 82-84
+- [4] rebukes [6] | frame: literal | lines 83-84
+
+## Scene 85-90: The Primacy of Divine Will
+
+
+## Scene 91-96: The Image's Graceful Motion
+
+
+## Scene 97-99: The Oracle of Judgment
+- [2] speaks-to [3] | frame: literal | lines 97-98
+
+## Scene 100-102: The Stabilization of the Spirit
+
+
+## Scene 103-111: The Requirement of Faith
+- [1] speaks-to [6] | frame: literal | lines 103-103
+- [2] relates-to [3] | frame: reported | lines 104-104
+- [6] sees [12] | frame: literal | lines 106-106
+- [12] calls [7] | frame: reported | lines 106-106
+- [12] relates-to [9] | frame: reported | lines 107-108
+- [10] recognizes [11] | frame: reported | lines 108-108
+- [13] defeats [12] | frame: prophecy | lines 109-109
+
+## Scene 112-126: Prophecies of Western Europe
+- [2] speaks-to [1] | frame: prophecy | lines 112-114
+
+## Scene 127-138: Prophecies of the Mediterranean and Italy
+- [1] sees [2] | frame: prophecy | lines 127-127
+- [3] sees [4] | frame: prophecy | lines 130-130
+
+## Scene 139-148: Prophecies of the North and East
+

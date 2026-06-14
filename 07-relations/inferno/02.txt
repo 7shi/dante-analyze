@@ -1,0 +1,109 @@
+# Canto 02 — The Divine Intervention and Dante's Rebirth of Will
+
+## Scene 1-9: Prologue and Invocation
+- [9] calls [6] | frame: literal | lines 7-7
+- [9] calls [7] | frame: literal | lines 7-7
+- [9] asks [8] | frame: literal | lines 7-7
+
+## Scene 10-27: Virgil's Illustrious Lineage
+- [1] speaks-to [2] | frame: literal | lines 10-10
+- [2] guides [3] | frame: literal | lines 10-10
+- [5] relates-to [6] | frame: literal | lines 12-12
+- [17] relates-to [16] | frame: reported | lines 20-21
+
+## Scene 28-36: Dante's Self-Doubt
+- [4] compares [5] | frame: reported | lines 32-32
+- [6] compares [7] | frame: reported | lines 32-32
+- [9] relates-to [8] | frame: reported | lines 33-33
+- [16] addresses [13] | frame: literal | lines 36-36
+- [16] addresses [14] | frame: literal | lines 36-36
+- [14] recognizes [15] | frame: reported | lines 36-36
+
+## Scene 37-42: The Paralysis of Will
+- [4] compares [1] | frame: simile | lines 37-40
+- [4] relates-to [3] | frame: literal | lines 40-40
+
+## Scene 43-51: Virgil's Diagnosis
+- [1] hears [8] | frame: literal | lines 43-43
+- [3] answers [8] | frame: literal | lines 44-44
+- [6] punishes [4] | frame: reported | lines 45-45
+- [6] chases [5] | frame: reported | lines 46-46
+- [6] chases [7] | frame: reported | lines 47-47
+- [11] tells [8] | frame: literal | lines 50-50
+
+## Scene 52-57: The Setting of the Encounter
+- [3] praises [4] | frame: reported | lines 53-53
+- [5] asks [6] | frame: reported | lines 54-54
+- [8] compares [7] | frame: simile | lines 55-55
+
+## Scene 58-74: Beatrice's Message
+- [3] addresses [1] | frame: literal | lines 58-58
+- [3] relates-to [2] | frame: reported | lines 61-61
+- [8] hears [9] | frame: reported | lines 66-66
+- [3] commands [10] | frame: literal | lines 67-67
+- [12] protects [13] | frame: reported | lines 69-69
+- [15] sends [17] | frame: literal | lines 70-70
+- [20] relates-to [21] | frame: reported | lines 72-72
+- [27] praises [25] | frame: prophecy | lines 73-74
+- [27] speaks-to [28] | frame: prophecy | lines 73-74
+
+## Scene 75-84: Dante's Inquiry
+- [2] addresses [3] | frame: literal | lines 76-81
+- [3] commands [4] | frame: reported | lines 79-79
+- [2] asks [8] | frame: literal | lines 82-84
+
+## Scene 85-99: Beatrice's Immunity
+- [3] answers [4] | frame: literal | lines 86-86
+- [8] relates-to [7] | frame: reported | lines 91-91
+- [13] sends [14] | frame: reported | lines 94-95
+- [16] asks [17] | frame: reported | lines 97-97
+- [18] tells [20] | frame: reported | lines 98-98
+- [19] relates-to [20] | frame: reported | lines 98-98
+- [21] relates-to [22] | frame: reported | lines 99-99
+- [21] relates-to [23] | frame: reported | lines 99-99
+
+## Scene 100-114: Lucia's Intervention
+- [3] meets [6] | frame: literal | lines 101-101
+- [7] relates-to [9] | frame: literal | lines 102-102
+- [10] addresses [11] | frame: literal | lines 103-103
+- [10] asks [13] | frame: literal | lines 104-104
+- [13] protects [14] | frame: reported | lines 104-104
+- [14] relates-to [15] | frame: reported | lines 104-105
+- [14] relates-to [17] | frame: reported | lines 105-105
+- [10] asks [18] | frame: literal | lines 106-106
+- [10] asks [19] | frame: literal | lines 107-107
+- [20] strikes [14] | frame: reported | lines 107-107
+- [23] compares [22] | frame: literal | lines 109-111
+- [1] praises [24] | frame: literal | lines 114-114
+- [1] praises [25] | frame: literal | lines 114-114
+
+## Scene 115-117: The Emotional Impact
+- [2] speaks-to [1] | frame: literal | lines 115-115
+- [4] guides [5] | frame: literal | lines 117-117
+
+## Scene 118-126: Virgil's Final Challenge
+- [3] sends [1] | frame: reported | lines 118-118
+- [1] meets [2] | frame: reported | lines 118-118
+- [4] protects [5] | frame: reported | lines 119-119
+- [1] rebukes [7] | frame: literal | lines 121-123
+- [1] rebukes [8] | frame: literal | lines 121-123
+- [9] protects [10] | frame: reported | lines 124-125
+- [1] tells [11] | frame: literal | lines 126-126
+
+## Scene 127-132: The Metaphor of the Flowers
+- [3] compares [1] | frame: simile | lines 127-130
+- [5] compares [6] | frame: simile | lines 132-132
+
+## Scene 133-140: Dante's Renewed Commitment
+- [7] addresses [1] | frame: literal | lines 133-133
+- [1] protects [2] | frame: reported | lines 133-133
+- [7] addresses [3] | frame: literal | lines 134-134
+- [1] tells [4] | frame: reported | lines 135-135
+- [5] guides [6] | frame: reported | lines 136-137
+- [7] commands [8] | frame: literal | lines 139-139
+- [7] names [10] | frame: literal | lines 140-140
+- [7] names [12] | frame: literal | lines 140-140
+- [7] names [14] | frame: literal | lines 140-140
+
+## Scene 141-142: The Resumed Journey
+- [2] speaks-to [1] | frame: literal | lines 141-141

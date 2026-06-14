@@ -1,0 +1,97 @@
+# Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
+
+## Scene 1-12: Virgil's Reprimand
+- [3] sees [1] | frame: literal | lines 1-2
+- [2] speaks-to [3] | frame: literal | lines 4-4
+- [2] asks [4] | frame: literal | lines 4-4
+- [2] asks [4] | frame: literal | lines 5-6
+- [4] sees [5] | frame: reported | lines 5-6
+- [2] rebukes [6] | frame: literal | lines 7-7
+- [2] commands [7] | frame: literal | lines 8-8
+- [2] tells [9] | frame: literal | lines 12-12
+
+## Scene 13-21: The Memory of Geri
+- [2] answers [1] | frame: literal | lines 13-13
+- [4] relates-to [5] | frame: reported | lines 14-15
+- [8] follows [9] | frame: literal | lines 16-16
+- [10] answers [2] | frame: literal | lines 17-17
+- [12] relates-to [13] | frame: reported | lines 20-20
+
+## Scene 22-36: Reflection on Violent Death
+- [1] speaks-to [3] | frame: literal | lines 22-22
+- [3] relates-to [2] | frame: reported | lines 22-23
+- [6] sees [7] | frame: reported | lines 24-25
+- [7] shows [3] | frame: reported | lines 25-26
+- [7] opposes [3] | frame: reported | lines 25-26
+- [8] hears [9] | frame: reported | lines 27-27
+- [10] relates-to [11] | frame: reported | lines 28-29
+- [16] speaks-to [14] | frame: literal | lines 31-32
+- [22] relates-to [21] | frame: reported | lines 36-36
+
+## Scene 37-51: Arrival at the Tenth Ditch
+- [2] sees [3] | frame: literal | lines 40-42
+- [3] strikes [4] | frame: literal | lines 43-43
+
+## Scene 52-66: The Toxic Atmosphere
+- [2] relates-to [3] | frame: literal | lines 55-56
+- [4] punishes [5] | frame: literal | lines 57-57
+- [6] sees [4] | frame: literal | lines 54-57
+- [6] sees [5] | frame: literal | lines 54-57
+- [11] compares [7] | frame: simile | lines 58-66
+- [6] sees [11] | frame: literal | lines 65-66
+
+## Scene 67-72: The Condition of the Damned
+- [4] sees [5] | frame: literal | lines 71-71
+- [4] hears [5] | frame: literal | lines 71-71
+- [5] relates-to [6] | frame: literal | lines 72-72
+
+## Scene 73-84: The Agony of the Itch
+- [1] sees [2] | frame: literal | lines 73-73
+- [2] touches [3] | frame: literal | lines 73-73
+- [6] strikes [5] | frame: simile | lines 76-77
+- [2] strikes [8] | frame: literal | lines 79-80
+
+## Scene 85-96: The Greeting to the Souls
+- [3] addresses [4] | frame: literal | lines 85-86
+- [3] asks [4] | frame: literal | lines 87-90
+- [14] answers [12] | frame: literal | lines 91-92
+- [12] sees [11] | frame: reported | lines 91-91
+- [14] asks [15] | frame: literal | lines 93-93
+- [19] answers [14] | frame: literal | lines 94-96
+- [20] guides [22] | frame: reported | lines 94-95
+- [24] shows [23] | frame: reported | lines 96-96
+
+## Scene 97-108: The Inquiry of the Living
+- [2] sees [1] | frame: literal | lines 98-98
+- [3] meets [4] | frame: literal | lines 100-100
+- [5] commands [6] | frame: literal | lines 101-101
+- [6] speaks-to [7] | frame: reported | lines 101-101
+- [9] asks [11] | frame: literal | lines 106-106
+- [15] shows [16] | frame: reported | lines 107-108
+
+## Scene 109-120: The Tale of the Alchemist
+- [5] punishes [4] | frame: reported | lines 110-110
+- [8] tells [9] | frame: reported | lines 112-112
+- [13] commands [14] | frame: reported | lines 114-115
+- [14] shows [15] | frame: reported | lines 115-115
+- [18] punishes [19] | frame: reported | lines 116-117
+- [20] relates-to [21] | frame: reported | lines 117-117
+- [24] punishes [22] | frame: reported | lines 119-120
+
+## Scene 121-123: Dante's Sienese Jibe
+- [1] asks [2] | frame: literal | lines 121-122
+- [1] rebukes [3] | frame: reported | lines 123-123
+
+## Scene 124-139: The Testimony of Capocchio
+- [1] hears [3] | frame: literal | lines 124-124
+- [1] answers [3] | frame: literal | lines 125-125
+- [4] relates-to [5] | frame: reported | lines 125-126
+- [4] relates-to [6] | frame: reported | lines 127-129
+- [4] relates-to [8] | frame: reported | lines 130-130
+- [4] relates-to [9] | frame: reported | lines 130-131
+- [4] relates-to [10] | frame: reported | lines 130-132
+- [12] relates-to [13] | frame: reported | lines 133-133
+- [12] opposes [14] | frame: reported | lines 133-134
+- [15] sees [16] | frame: reported | lines 134-134
+- [18] sees [19] | frame: reported | lines 136-136
+- [21] recognizes [24] | frame: reported | lines 138-139

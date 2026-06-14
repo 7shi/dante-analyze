@@ -1,0 +1,69 @@
+# Canto 01 — The Vision of the Celestial Order and Beatrice's Instruction
+
+## Scene 1-12: The Prologue
+
+
+## Scene 13-27: The Invocation
+- [16] addresses [1] | frame: literal | lines 13-13
+- [2] relates-to [16] | frame: reported | lines 14-14
+- [3] relates-to [16] | frame: reported | lines 15-15
+- [6] relates-to [16] | frame: reported | lines 19-19
+- [7] relates-to [16] | frame: reported | lines 19-19
+- [9] punishes [8] | frame: simile | lines 20-21
+- [16] addresses [10] | frame: literal | lines 22-22
+- [11] gives [16] | frame: reported | lines 22-22
+- [15] relates-to [16] | frame: reported | lines 27-27
+
+## Scene 28-36: The Poet's Struggle
+- [8] addresses [1] | frame: literal | lines 28-28
+- [9] follows [8] | frame: prophecy | lines 35-36
+- [9] pleads-with [10] | frame: prophecy | lines 36-36
+- [10] answers [9] | frame: prophecy | lines 36-36
+
+## Scene 37-42: The Cosmic Engine
+
+
+## Scene 43-54: The Vision of Beatrice
+- [2] sees [1] | frame: literal | lines 46-47
+- [1] relates-to [5] | frame: literal | lines 52-53
+
+## Scene 55-63: The Blinding Light
+- [2] compares [4] | frame: simile | lines 61-63
+
+## Scene 64-69: The Meeting
+- [2] sees [3] | frame: literal | lines 65-66
+- [8] relates-to [9] | frame: simile | lines 68-69
+
+## Scene 70-75: The Linguistic Struggle
+- [2] addresses [5] | frame: literal | lines 73-75
+- [8] relates-to [9] | frame: reported | lines 75-75
+
+## Scene 76-84: The Celestial Harmony
+- [2] addresses [1] | frame: literal | lines 76-84
+
+## Scene 85-93: Beatrice's Rebuke
+- [1] sees [2] | frame: literal | lines 85-85
+- [3] sees [1] | frame: literal | lines 85-85
+- [4] asks [5] | frame: literal | lines 87-87
+- [6] speaks-to [7] | frame: literal | lines 88-88
+- [6] rebukes [7] | frame: literal | lines 88-93
+
+## Scene 94-99: Dante's Wonder
+- [6] relates-to [7] | frame: reported | lines 99-99
+
+## Scene 100-108: The Doctrine of Order
+- [2] sees [3] | frame: literal | lines 101-101
+- [4] sees [5] | frame: simile | lines 102-102
+- [6] speaks-to [3] | frame: literal | lines 103-108
+
+## Scene 109-120: The Mechanics of the Spheres
+
+
+## Scene 121-126: The Guidance of Providence
+- [1] brings [4] | frame: reported | lines 124-125
+
+## Scene 127-135: The Deviation of Desire
+
+
+## Scene 136-142: Final Instruction
+- [2] praises [1] | frame: reported | lines 136-136

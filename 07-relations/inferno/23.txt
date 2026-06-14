@@ -1,0 +1,109 @@
+# Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
+
+## Scene 1-12: The Fable of the Frog and the Mouse
+- [3] follows [2] | frame: literal | lines 2-2
+- [1] compares [4] | frame: simile | lines 2-3
+
+## Scene 13-24: Dante's Dread of the Demons
+- [3] rebukes [2] | frame: reported | lines 13-15
+- [7] chases [3] | frame: reported | lines 16-18
+- [12] speaks-to [13] | frame: literal | lines 21-21
+- [14] protects [16] | frame: reported | lines 21-22
+- [20] follows [19] | frame: reported | lines 23-23
+- [21] sees [22] | frame: reported | lines 24-24
+- [23] hears [24] | frame: reported | lines 24-24
+
+## Scene 25-33: Virgil's Strategic Plan
+
+
+## Scene 34-51: The Rapid Descent
+- [1] sees [2] | frame: literal | lines 35-36
+- [3] touches [4] | frame: literal | lines 37-37
+- [5] touches [8] | frame: simile | lines 38-40
+- [11] protects [10] | frame: simile | lines 41-41
+- [15] brings [16] | frame: literal | lines 49-50
+
+## Scene 52-57: Reaching the Fifth Bolgia
+- [3] relates-to [4] | frame: literal | lines 55-56
+
+## Scene 58-66: The Appearance of the Hypocrites
+- [1] meets [2] | frame: literal | lines 58-58
+
+## Scene 67-72: The Burden of the Cloaks
+- [1] follows [3] | frame: literal | lines 68-69
+- [6] meets [5] | frame: literal | lines 71-72
+
+## Scene 73-75: Dante's Request to Virgil
+- [4] meets [5] | frame: reported | lines 73-74
+
+## Scene 76-79: The Voice from Behind
+- [2] calls [3] | frame: literal | lines 77-77
+- [2] commands [3] | frame: reported | lines 77-78
+- [6] gives [5] | frame: reported | lines 79-79
+
+## Scene 80-81: Virgil's Command
+- [1] speaks-to [3] | frame: literal | lines 80-80
+- [1] commands [4] | frame: reported | lines 80-80
+- [1] commands [5] | frame: reported | lines 81-81
+
+## Scene 82-84: The Approaching Figures
+- [2] sees [3] | frame: literal | lines 82-82
+- [3] meets [4] | frame: literal | lines 82-83
+
+## Scene 85-90: The Recognition of the Living
+- [2] sees [3] | frame: literal | lines 86-86
+- [7] speaks-to [8] | frame: literal | lines 87-87
+
+## Scene 91-93: The Welcome to the Hypocrites
+- [1] speaks-to [2] | frame: literal | lines 91-91
+- [1] addresses [3] | frame: reported | lines 91-91
+- [7] tells [1] | frame: reported | lines 93-93
+- [10] relates-to [1] | frame: reported | lines 93-93
+
+## Scene 94-99: Dante's Inquiry
+- [1] addresses [2] | frame: literal | lines 94-94
+- [1] tells [2] | frame: literal | lines 94-96
+- [1] asks [6] | frame: literal | lines 97-97
+- [1] asks [9] | frame: literal | lines 99-99
+
+## Scene 100-108: The Identity of the Hypocrites
+- [1] answers [2] | frame: literal | lines 100-100
+- [4] compares [8] | frame: simile | lines 106-106
+
+## Scene 109-113: The Sight of the Crucifix
+- [1] addresses [2] | frame: literal | lines 109-109
+- [4] sees [5] | frame: literal | lines 110-111
+- [6] sees [7] | frame: literal | lines 112-112
+
+## Scene 114-123: The Monk's Explanation
+- [4] speaks-to [3] | frame: literal | lines 115-115
+- [6] sees [5] | frame: literal | lines 115-115
+- [7] tells [8] | frame: reported | lines 116-116
+- [8] punishes [9] | frame: reported | lines 116-117
+- [12] sees [13] | frame: literal | lines 119-119
+- [14] touches [15] | frame: reported | lines 119-120
+- [19] punishes [20] | frame: reported | lines 122-123
+
+## Scene 124-126: Virgil's Reaction
+- [1] sees [2] | frame: literal | lines 124-124
+- [2] sees [3] | frame: literal | lines 124-125
+
+## Scene 127-132: Virgil's Plea for an Exit
+- [3] tells [5] | frame: reported | lines 128-130
+- [7] chases [8] | frame: reported | lines 131-132
+
+## Scene 133-138: The Obstacle of the Stone
+- [1] answers [2] | frame: literal | lines 133-133
+- [1] tells [3] | frame: literal | lines 137-138
+
+## Scene 139-141: The Error of the Demon
+- [2] rebukes [3] | frame: literal | lines 140-141
+- [3] punishes [4] | frame: reported | lines 141-141
+
+## Scene 142-144: The Lie of the Devil
+- [2] hears [3] | frame: literal | lines 142-143
+- [4] hears [5] | frame: literal | lines 143-144
+
+## Scene 145-148: The Departure
+- [1] guides [3] | frame: literal | lines 145-145
+- [3] follows [1] | frame: literal | lines 145-148

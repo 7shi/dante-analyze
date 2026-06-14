@@ -1,0 +1,130 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+
+## Scene 1-6: Arrival at the new, dark ditch
+- [1] speaks-to [5] | frame: literal | lines 1-2
+
+## Scene 7-18: The Venetian shipyard simile
+
+
+## Scene 19-21: Observing the boiling pitch
+
+
+## Scene 22-24: Virgil pulls Dante away
+- [2] commands [3] | frame: literal | lines 23-23
+- [2] commands [4] | frame: literal | lines 23-23
+- [5] brings [6] | frame: literal | lines 24-24
+
+## Scene 25-33: The appearance of the demon
+- [1] compares [3] | frame: simile | lines 25-28
+- [5] sees [7] | frame: literal | lines 29-29
+- [7] meets [6] | frame: literal | lines 29-30
+
+## Scene 34-36: The demon's physical ferocity
+- [1] touches [2] | frame: literal | lines 35-35
+- [1] touches [3] | frame: literal | lines 36-36
+
+## Scene 37-42: The demon's declaration
+- [2] addresses [3] | frame: literal | lines 37-37
+- [2] names [4] | frame: reported | lines 38-38
+- [6] commands [5] | frame: literal | lines 39-39
+- [5] punishes [4] | frame: reported | lines 39-39
+- [6] tells [5] | frame: literal | lines 41-42
+
+## Scene 43-46: The demon's departure
+- [1] punishes [2] | frame: literal | lines 43-43
+- [5] chases [6] | frame: simile | lines 44-45
+
+## Scene 47-54: Warnings from the bridge demons
+- [2] tells [3] | frame: reported | lines 48-48
+- [2] warns [4] | frame: reported | lines 50-50
+- [2] commands [5] | frame: reported | lines 51-51
+- [6] strikes [7] | frame: literal | lines 52-52
+- [8] commands [9] | frame: reported | lines 53-53
+- [8] commands [11] | frame: reported | lines 54-54
+
+## Scene 55-57: The cooking simile
+- [1] punishes [2] | frame: simile | lines 55-57
+
+## Scene 58-63: Virgil's advice to Dante
+- [1] speaks-to [3] | frame: literal | lines 58-59
+- [1] commands [4] | frame: literal | lines 59-59
+- [1] commands [5] | frame: literal | lines 59-59
+- [1] commands [6] | frame: literal | lines 60-60
+- [1] commands [8] | frame: literal | lines 62-62
+
+## Scene 64-66: Virgil crosses the bridge
+
+
+## Scene 67-75: The demon attack and Virgil's challenge
+- [1] asks [2] | frame: simile | lines 69-69
+- [5] strikes [6] | frame: literal | lines 70-71
+- [7] commands [8] | frame: literal | lines 72-72
+- [8] touches [9] | frame: reported | lines 73-73
+- [10] hears [11] | frame: reported | lines 74-74
+
+## Scene 76-78: The selection of Malacoda
+- [3] meets [4] | frame: literal | lines 78-78
+- [3] asks [5] | frame: literal | lines 78-78
+
+## Scene 79-84: Virgil's rebuttal
+- [3] asks [2] | frame: literal | lines 79-80
+- [3] commands [4] | frame: literal | lines 83-83
+- [5] commands [6] | frame: reported | lines 83-84
+
+## Scene 85-87: The demons' submission
+- [4] commands [5] | frame: literal | lines 87-87
+
+## Scene 88-90: Virgil's second command to Dante
+- [1] addresses [2] | frame: literal | lines 88-88
+- [5] commands [6] | frame: reported | lines 90-90
+
+## Scene 91-96: The travelers' encirclement
+- [1] meets [4] | frame: literal | lines 91-91
+- [9] sees [10] | frame: simile | lines 94-94
+- [11] sees [12] | frame: simile | lines 96-96
+
+## Scene 97-102: The demons' taunts
+- [1] meets [4] | frame: literal | lines 97-98
+- [5] sees [6] | frame: literal | lines 98-99
+- [10] asks [11] | frame: literal | lines 100-101
+- [8] touches [9] | frame: reported | lines 100-100
+- [12] answers [10] | frame: literal | lines 102-102
+- [14] strikes [15] | frame: reported | lines 102-102
+
+## Scene 103-105: Malacoda's interruption
+- [1] speaks-to [2] | frame: literal | lines 103-104
+- [5] commands [8] | frame: literal | lines 105-105
+
+## Scene 106-117: Malacoda's news
+- [1] speaks-to [2] | frame: literal | lines 106-106
+- [5] sends [6] | frame: reported | lines 115-115
+- [6] sees [7] | frame: reported | lines 116-116
+- [8] follows [9] | frame: reported | lines 117-117
+
+## Scene 118-126: The deployment of the demons
+- [5] commands [3] | frame: literal | lines 118-118
+- [5] commands [4] | frame: literal | lines 118-118
+- [5] commands [7] | frame: literal | lines 119-119
+- [5] commands [8] | frame: literal | lines 120-120
+- [8] guides [15] | frame: reported | lines 120-120
+- [5] calls [9] | frame: literal | lines 121-121
+- [5] calls [10] | frame: literal | lines 121-121
+- [5] calls [11] | frame: literal | lines 122-122
+- [5] calls [12] | frame: literal | lines 122-122
+- [5] calls [13] | frame: literal | lines 123-123
+- [5] calls [14] | frame: literal | lines 123-123
+- [5] commands [15] | frame: literal | lines 124-124
+- [15] protects [16] | frame: reported | lines 125-126
+
+## Scene 127-132: Dante's growing anxiety
+- [4] addresses [1] | frame: literal | lines 127-127
+- [3] sees [2] | frame: reported | lines 127-127
+- [4] pleads-with [1] | frame: literal | lines 128-129
+- [12] sees [13] | frame: reported | lines 131-131
+- [14] relates-to [6] | frame: reported | lines 132-132
+
+## Scene 133-139: Malacoda's reassurance and the demons' exit
+- [3] tells [4] | frame: reported | lines 133-133
+- [5] commands [6] | frame: reported | lines 134-134
+- [7] punishes [8] | frame: reported | lines 135-135
+- [11] speaks-to [10] | frame: literal | lines 138-139

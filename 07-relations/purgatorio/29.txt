@@ -1,0 +1,78 @@
+# Canto 29 — The Celestial Procession of the Empyrean
+
+## Scene 1-15: The Path Along the River
+- [2] praises [3] | frame: reported | lines 3-3
+- [7] compares [5] | frame: simile | lines 4-7
+- [9] follows [10] | frame: literal | lines 8-9
+- [13] relates-to [14] | frame: literal | lines 14-14
+- [13] addresses [16] | frame: literal | lines 15-15
+- [13] commands [17] | frame: literal | lines 15-15
+- [13] commands [18] | frame: literal | lines 15-15
+
+## Scene 16-30: The Sudden Light and Melody
+- [3] compares [4] | frame: literal | lines 23-24
+- [7] compares [6] | frame: literal | lines 28-30
+
+## Scene 31-42: The Poet's Invocation
+- [9] pleads-with [10] | frame: literal | lines 37-39
+- [11] gives [12] | frame: literal | lines 40-40
+- [13] guides [14] | frame: literal | lines 41-42
+
+## Scene 43-54: The Golden Candelabra
+
+
+## Scene 55-63: Beatrice's Rebuke
+- [1] sees [3] | frame: literal | lines 55-56
+- [4] answers [5] | frame: literal | lines 56-56
+- [9] rebukes [10] | frame: literal | lines 61-61
+
+## Scene 64-69: The White-Clad People
+- [2] sees [1] | frame: literal | lines 64-64
+- [1] follows [3] | frame: literal | lines 64-65
+
+## Scene 70-81: The Rainbow Trails
+- [4] sees [5] | frame: literal | lines 73-73
+
+## Scene 82-87: The Twenty-Four Elders
+- [1] sees [2] | frame: literal | lines 82-84
+- [1] hears [2] | frame: literal | lines 85-85
+
+## Scene 88-96: The Six-Winged Creatures
+
+
+## Scene 97-105: The Vision of Ezekiel
+- [1] addresses [2] | frame: literal | lines 97-98
+- [6] shows [7] | frame: reported | lines 100-100
+- [9] sees [8] | frame: reported | lines 101-101
+- [11] sees [10] | frame: literal | lines 103-103
+- [12] compares [10] | frame: literal | lines 103-104
+- [13] relates-to [14] | frame: literal | lines 105-105
+- [16] compares [15] | frame: literal | lines 105-105
+
+## Scene 106-114: The Triumph of the Griffin
+
+
+## Scene 115-120: Comparison to Imperial Glory
+- [6] pleads-with [7] | frame: literal | lines 119-120
+
+## Scene 121-129: The Three Dancing Women
+- [7] guides [6] | frame: literal | lines 127-127
+- [8] guides [6] | frame: literal | lines 128-128
+- [9] guides [10] | frame: literal | lines 128-129
+
+## Scene 130-132: The Purple Group
+- [1] compares [2] | frame: literal | lines 131-132
+
+## Scene 133-141: The Two Old Men
+- [1] sees [2] | frame: literal | lines 134-134
+- [4] follows [5] | frame: literal | lines 136-137
+
+## Scene 142-144: The Humble Figures
+- [1] sees [2] | frame: literal | lines 142-144
+
+## Scene 145-150: The Floral Crowns
+- [1] relates-to [2] | frame: literal | lines 145-146
+- [5] sees [1] | frame: literal | lines 149-150
+
+## Scene 151-154: The Sudden Halt
+

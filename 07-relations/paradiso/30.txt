@@ -1,0 +1,75 @@
+# Canto 30 — The Vision of the Empyrean and the Celestial Rose
+
+## Scene 1-15: The Fading of the Earthly Light
+- [8] sees [6] | frame: literal | lines 14-14
+- [7] relates-to [8] | frame: literal | lines 15-15
+
+## Scene 16-27: Praise for Beatrice
+- [2] praises [1] | frame: literal | lines 16-18
+- [2] sees [1] | frame: literal | lines 19-19
+- [5] relates-to [6] | frame: reported | lines 20-21
+
+## Scene 28-33: The Limits of Poetry
+- [2] compares [3] | frame: simile | lines 33-33
+
+## Scene 34-45: The Angelic Trumpet
+- [3] guides [1] | frame: literal | lines 37-37
+- [5] relates-to [6] | frame: reported | lines 40-41
+
+## Scene 46-54: The Blinding Light
+- [3] meets [1] | frame: reported | lines 52-53
+
+## Scene 55-60: The Overwhelming Vision
+
+## Scene 61-69: The Luminous River
+- [1] sees [2] | frame: literal | lines 61-64
+- [3] relates-to [4] | frame: literal | lines 65-65
+- [5] relates-to [6] | frame: literal | lines 68-68
+
+## Scene 70-75: The Voice of the Light
+- [7] speaks-to [6] | frame: literal | lines 75-75
+
+## Scene 76-81: Instruction on Perception
+- [3] sees [2] | frame: reported | lines 81-81
+
+## Scene 82-90: Dante's Immersive Drinking
+- [4] compares [1] | frame: simile | lines 84-85
+
+## Scene 91-96: The Revelation of the Two Courts
+
+## Scene 97-102: The Prayer to God
+- [2] calls [1] | frame: literal | lines 97-97
+- [4] pleads-with [3] | frame: literal | lines 99-99
+- [3] gives [4] | frame: reported | lines 99-99
+- [5] shows [6] | frame: literal | lines 100-101
+- [7] sees [6] | frame: literal | lines 100-101
+- [7] sees [8] | frame: literal | lines 102-102
+
+## Scene 103-108: The Geometry of the Light
+
+## Scene 109-114: The Mirroring of the Saints
+- [1] sees [2] | frame: literal | lines 113-114
+
+## Scene 115-123: The Magnitude of the Rose
+
+## Scene 124-127: The Scent of Praise
+
+## Scene 128-132: Beatrice Points to the Assembly
+- [2] brings [1] | frame: literal | lines 128-128
+- [4] sees [5] | frame: reported | lines 128-129
+- [6] sees [5] | frame: reported | lines 130-130
+- [7] sees [5] | frame: reported | lines 131-131
+
+## Scene 133-138: The Prophecy of Henry VII
+
+
+## Scene 139-141: The Warning Against Greed
+- [1] relates-to [2] | frame: reported | lines 139-139
+- [3] relates-to [4] | frame: reported | lines 140-140
+- [6] chases [7] | frame: simile | lines 141-141
+
+## Scene 142-148: The Fate of the Simoniac
+- [3] opposes [4] | frame: prophecy | lines 143-144
+- [6] punishes [5] | frame: prophecy | lines 145-145
+- [6] sends [7] | frame: prophecy | lines 146-147
+- [9] brings [10] | frame: prophecy | lines 148-148

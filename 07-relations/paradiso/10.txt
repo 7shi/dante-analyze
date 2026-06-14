@@ -1,0 +1,134 @@
+# Canto 10 — The Fourth Heaven and the Catalog of Luminous Souls
+
+## Scene 1-6: The Eternal Love
+- [5] sees [1] | frame: literal | lines 1-5
+- [2] relates-to [3] | frame: literal | lines 2-2
+- [2] relates-to [4] | frame: literal | lines 2-2
+- [8] recognizes [7] | frame: literal | lines 6-6
+
+## Scene 7-12: Instruction to the Reader
+- [3] commands [1] | frame: literal | lines 7-10
+- [3] commands [2] | frame: literal | lines 7-10
+- [3] commands [4] | frame: literal | lines 7-10
+
+## Scene 13-21: The Mechanics of the Planets
+
+## Scene 22-27: A Message to the Reader
+- [5] addresses [3] | frame: literal | lines 22-22
+- [5] commands [1] | frame: literal | lines 22-22
+- [5] tells [6] | frame: literal | lines 25-25
+
+## Scene 28-33: The Great Minister
+
+## Scene 34-36: The Unexpected Ascent
+- [1] follows [2] | frame: literal | lines 34-34
+- [4] compares [5] | frame: simile | lines 35-35
+
+## Scene 37-39: Beatrice's Vision
+
+## Scene 40-42: The Radiance of the Sun
+- [3] meets [2] | frame: literal | lines 41-41
+
+## Scene 43-45: The Limits of Intellect
+- [2] tells [3] | frame: literal | lines 43-45
+
+## Scene 46-48: The Unreachable Height
+
+## Scene 49-51: The Fourth Family
+- [1] relates-to [2] | frame: literal | lines 49-50
+- [2] gives [3] | frame: literal | lines 50-50
+- [1] shows [4] | frame: literal | lines 51-51
+- [1] shows [5] | frame: literal | lines 51-51
+
+## Scene 52-54: Beatrice's Command
+- [2] praises [4] | frame: reported | lines 52-53
+- [4] brings [5] | frame: reported | lines 53-54
+
+## Scene 55-60: Dante's Devotion
+- [4] compares [1] | frame: literal | lines 55-58
+- [4] relates-to [2] | frame: literal | lines 56-58
+- [4] relates-to [5] | frame: literal | lines 59-59
+- [4] relates-to [6] | frame: literal | lines 60-60
+
+## Scene 61-63: Beatrice's Laughter
+
+## Scene 64-66: The Ring of Lightning
+- [1] sees [2] | frame: literal | lines 64-64
+- [4] relates-to [3] | frame: literal | lines 65-65
+
+## Scene 67-69: The Solar Corona
+- [2] sees [1] | frame: simile | lines 67-68
+
+## Scene 70-75: The Heavenly Court
+
+## Scene 76-78: The Orbiting Suns
+- [2] relates-to [3] | frame: literal | lines 77-77
+
+## Scene 79-81: The Silent Listeners
+- [2] sees [1] | frame: literal | lines 79-79
+
+## Scene 82-90: Theology of Grace
+- [2] hears [1] | frame: literal | lines 82-82
+- [6] relates-to [5] | frame: reported | lines 88-88
+
+## Scene 91-93: The Floral Garland
+- [2] guides [3] | frame: reported | lines 93-93
+
+## Scene 94-96: The Lambs of the Flock
+- [1] relates-to [2] | frame: reported | lines 94-94
+- [1] relates-to [3] | frame: reported | lines 94-94
+- [2] relates-to [3] | frame: reported | lines 94-94
+- [4] guides [2] | frame: reported | lines 94-95
+- [4] guides [3] | frame: reported | lines 94-95
+
+## Scene 97-99: The Presence of Albert the Great
+- [1] relates-to [2] | frame: reported | lines 97-97
+- [3] relates-to [2] | frame: reported | lines 98-98
+- [6] names [5] | frame: literal | lines 98-98
+- [6] names [7] | frame: literal | lines 99-99
+
+## Scene 100-102: Scanning the Circle
+- [2] recognizes [1] | frame: reported | lines 100-100
+
+## Scene 103-105: The Light of Gratian
+
+## Scene 106-108: The Treasure of Peter
+- [1] gives [2] | frame: reported | lines 107-108
+
+## Scene 109-114: The Fifth Light
+- [6] compares [5] | frame: reported | lines 113-114
+
+## Scene 115-117: The Angelic Vision
+- [1] sees [2] | frame: reported | lines 115-115
+- [2] sees [3] | frame: reported | lines 116-117
+
+## Scene 118-120: The Light of Augustine
+
+## Scene 121-123: The Reader's Journey
+
+
+## Scene 124-126: The Truth of the Soul
+- [1] shows [2] | frame: reported | lines 125-126
+- [2] hears [3] | frame: reported | lines 126-126
+
+## Scene 127-129: The Earthly Body
+
+
+## Scene 130-132: The Scholars of the Spirit
+- [1] sees [2] | frame: reported | lines 130-131
+- [1] sees [3] | frame: reported | lines 130-131
+- [1] sees [4] | frame: reported | lines 130-131
+- [2] compares [5] | frame: reported | lines 131-132
+- [3] compares [5] | frame: reported | lines 131-132
+- [4] compares [5] | frame: reported | lines 131-132
+
+## Scene 133-138: The Light of Siger
+- [2] names [9] | frame: literal | lines 136-136
+- [9] relates-to [10] | frame: reported | lines 137-138
+
+## Scene 139-144: The Striking Clock
+- [1] calls [2] | frame: simile | lines 139-141
+- [3] relates-to [4] | frame: simile | lines 141-141
+
+## Scene 145-148: The Harmonious Motion
+

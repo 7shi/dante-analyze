@@ -1,0 +1,115 @@
+# Canto 27 — The Entrance into the Fire and the Ascent to the Earthly Paradise
+
+## Scene 1-6: The Solar Metaphor
+
+
+## Scene 7-13: The Angel's Command
+- [8] addresses [4] | frame: literal | lines 11-11
+- [8] commands [5] | frame: literal | lines 11-11
+- [8] commands [6] | frame: literal | lines 12-12
+- [8] tells [7] | frame: literal | lines 13-13
+- [9] meets [10] | frame: literal | lines 13-13
+
+## Scene 14-18: Dante's Terror
+- [1] compares [4] | frame: simile | lines 14-15
+- [5] sees [7] | frame: literal | lines 17-18
+
+## Scene 19-32: Virgil's Reassurance
+- [2] sees [1] | frame: literal | lines 19-19
+- [3] speaks-to [4] | frame: literal | lines 20-20
+- [3] addresses [5] | frame: literal | lines 20-20
+- [3] commands [6] | frame: literal | lines 22-22
+- [3] commands [7] | frame: literal | lines 22-22
+- [8] relates-to [9] | frame: reported | lines 23-23
+- [10] guides [11] | frame: reported | lines 23-23
+- [12] relates-to [13] | frame: reported | lines 24-24
+- [3] commands [14] | frame: literal | lines 25-25
+- [18] relates-to [19] | frame: reported | lines 28-28
+- [3] commands [20] | frame: literal | lines 29-29
+- [3] commands [21] | frame: literal | lines 29-29
+- [3] commands [22] | frame: literal | lines 31-31
+- [3] commands [23] | frame: literal | lines 31-31
+- [3] commands [24] | frame: literal | lines 32-32
+- [3] commands [25] | frame: literal | lines 32-32
+- [3] commands [26] | frame: literal | lines 32-32
+
+## Scene 33-36: The Wall of Separation
+- [2] sees [3] | frame: literal | lines 34-34
+- [4] tells [5] | frame: literal | lines 35-36
+- [4] names [6] | frame: literal | lines 35-35
+
+## Scene 37-42: Dante's Conversion
+- [3] sees [1] | frame: simile | lines 37-38
+- [4] sees [6] | frame: literal | lines 41-41
+
+## Scene 43-48: Entering the Fire
+- [2] speaks-to [7] | frame: literal | lines 43-44
+- [3] asks [7] | frame: reported | lines 44-44
+- [6] guides [7] | frame: literal | lines 46-46
+- [6] pleads-with [9] | frame: literal | lines 47-47
+
+## Scene 49-54: The Intensity of the Flame
+- [6] speaks-to [1] | frame: literal | lines 52-53
+- [6] relates-to [5] | frame: literal | lines 53-53
+- [6] sees [5] | frame: reported | lines 54-54
+
+## Scene 55-63: The Heavenly Voice
+- [1] guides [2] | frame: literal | lines 55-55
+- [2] hears [3] | frame: literal | lines 56-56
+- [8] addresses [5] | frame: literal | lines 58-58
+- [8] commands [5] | frame: literal | lines 58-58
+- [7] relates-to [6] | frame: reported | lines 58-58
+- [11] defeats [10] | frame: literal | lines 60-60
+- [13] speaks-to [14] | frame: literal | lines 61-61
+- [13] commands [14] | frame: literal | lines 62-62
+- [13] warns [14] | frame: literal | lines 62-63
+
+## Scene 64-69: The Upward Climb
+- [6] guides [5] | frame: literal | lines 69-69
+
+## Scene 70-75: The Evening Rest
+
+
+## Scene 76-87: The Simile of the Shepherds
+- [1] protects [8] | frame: simile | lines 80-80
+- [3] protects [8] | frame: simile | lines 81-81
+- [4] protects [6] | frame: simile | lines 84-84
+- [9] protects [8] | frame: literal | lines 86-86
+- [10] protects [8] | frame: literal | lines 86-86
+- [8] compares [9] | frame: literal | lines 86-86
+- [8] compares [10] | frame: literal | lines 86-86
+
+## Scene 88-93: The Arrival of Sleep
+- [3] brings [2] | frame: literal | lines 92-92
+
+## Scene 94-108: The Dream of Lia
+- [2] sees [3] | frame: literal | lines 97-98
+- [4] speaks-to [2] | frame: literal | lines 99-99
+- [7] relates-to [11] | frame: reported | lines 104-104
+- [15] compares [14] | frame: reported | lines 106-107
+- [16] sees [17] | frame: reported | lines 108-108
+
+## Scene 109-114: The Dawn of Awakening
+- [3] sees [5] | frame: literal | lines 114-114
+
+## Scene 115-120: Virgil's Comforting Words
+- [2] speaks-to [3] | frame: literal | lines 118-119
+
+## Scene 121-123: The Impulse to Ascend
+
+
+## Scene 124-132: The Limit of Virgil's Guidance
+- [4] sees [3] | frame: literal | lines 126-126
+- [11] brings [12] | frame: reported | lines 130-130
+- [14] guides [13] | frame: reported | lines 131-131
+
+## Scene 133-138: The Beauty of the Paradise
+- [4] brings [6] | frame: reported | lines 136-137
+- [6] meets [5] | frame: reported | lines 136-137
+- [4] meets [5] | frame: prophecy | lines 136-137
+
+## Scene 139-142: The Granting of Free Will
+- [3] commands [1] | frame: literal | lines 139-139
+- [3] warns [2] | frame: literal | lines 141-141
+- [3] gives [4] | frame: literal | lines 142-142
+- [4] relates-to [5] | frame: literal | lines 142-142

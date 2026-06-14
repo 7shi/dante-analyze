@@ -1,0 +1,81 @@
+# Canto 26 — The Voice of the Spirit and the Vision of Beatrice
+
+## Scene 1-12: The Voice’s Command
+- [7] speaks-to [4] | frame: literal | lines 4-12
+- [7] tells [4] | frame: literal | lines 4-6
+- [7] commands [9] | frame: literal | lines 7-7
+- [7] commands [10] | frame: literal | lines 7-7
+- [7] commands [12] | frame: literal | lines 8-8
+- [14] guides [15] | frame: reported | lines 10-11
+- [14] compares [16] | frame: reported | lines 11-12
+
+## Scene 13-18: Dante’s Response
+- [6] shows [5] | frame: reported | lines 18-18
+
+## Scene 19-24: The Voice’s Inquiry
+- [6] guides [5] | frame: reported | lines 24-24
+
+## Scene 25-45: Dante’s Philosophical Defense
+- [4] shows [5] | frame: literal | lines 37-39
+- [6] speaks-to [7] | frame: reported | lines 40-41
+- [9] shows [10] | frame: reported | lines 42-42
+- [12] shows [11] | frame: literal | lines 43-45
+
+## Scene 46-51: The Voice’s Second Question
+- [4] sees [5] | frame: reported | lines 48-48
+
+## Scene 52-66: Dante’s Declaration of Intent
+- [8] protects [9] | frame: reported | lines 59-59
+- [10] compares [11] | frame: reported | lines 60-60
+- [12] brings [13] | frame: reported | lines 62-62
+- [14] brings [15] | frame: reported | lines 63-63
+
+## Scene 67-79: Beatrice’s Radiant Appearance
+- [1] hears [3] | frame: literal | lines 67-69
+- [3] relates-to [4] | frame: literal | lines 69-69
+- [9] sees [8] | frame: literal | lines 77-79
+
+## Scene 80-84: The Vision of the Fourth Light
+- [1] asks [4] | frame: literal | lines 80-81
+- [2] sees [6] | frame: literal | lines 81-81
+- [4] answers [1] | frame: literal | lines 82-82
+- [6] sees [5] | frame: reported | lines 83-83
+- [7] relates-to [6] | frame: reported | lines 84-84
+
+## Scene 85-90: Dante’s Physical Reaction
+- [2] speaks-to [1] | frame: literal | lines 88-88
+
+## Scene 91-96: Dante’s Prayerful Plea
+- [1] addresses [2] | frame: literal | lines 91-92
+- [3] relates-to [2] | frame: reported | lines 93-93
+- [4] relates-to [2] | frame: reported | lines 93-93
+- [5] relates-to [2] | frame: reported | lines 93-93
+- [6] relates-to [7] | frame: literal | lines 94-94
+- [8] pleads-with [7] | frame: literal | lines 94-94
+- [9] speaks-to [10] | frame: reported | lines 95-95
+
+## Scene 97-102: The Analogy of Hidden Desire
+- [1] shows [2] | frame: literal | lines 100-101
+- [3] relates-to [4] | frame: literal | lines 102-102
+
+## Scene 103-114: The Spirit’s Promise
+- [1] speaks-to [3] | frame: literal | lines 103-114
+- [4] sees [3] | frame: reported | lines 104-104
+- [8] hears [1] | frame: reported | lines 109-109
+- [9] brings [10] | frame: reported | lines 109-109
+- [11] guides [12] | frame: reported | lines 110-111
+
+## Scene 115-117: The Cause of the Journey
+
+
+## Scene 118-123: The History of Virgil
+- [1] sends [2] | frame: reported | lines 118-118
+- [4] sees [5] | frame: reported | lines 121-121
+
+## Scene 124-132: Reflections on Human Speech
+- [4] relates-to [5] | frame: reported | lines 131-132
+- [6] relates-to [7] | frame: reported | lines 132-132
+
+## Scene 133-142: The Revelation of the Name
+- [6] names [1] | frame: reported | lines 134-134
+- [6] names [5] | frame: reported | lines 136-136

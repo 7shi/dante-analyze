@@ -1,0 +1,84 @@
+# Canto 33 — The Vision of the Eternal Light and the Beatific Vision
+
+## Scene 1-18: Exaltation of the Virgin
+- [2] relates-to [3] | frame: reported | lines 1-1
+- [1] compares [4] | frame: reported | lines 2-2
+- [1] brings [9] | frame: reported | lines 7-9
+- [12] relates-to [11] | frame: reported | lines 10-10
+- [15] relates-to [13] | frame: reported | lines 11-12
+- [20] pleads-with [19] | frame: reported | lines 14-14
+- [1] protects [21] | frame: reported | lines 16-18
+
+## Scene 19-39: The Prayer of Petition
+- [7] praises [1] | frame: literal | lines 19-21
+- [7] praises [2] | frame: literal | lines 19-21
+- [7] praises [3] | frame: literal | lines 19-21
+- [7] praises [4] | frame: literal | lines 19-21
+- [5] pleads-with [6] | frame: reported | lines 22-27
+- [6] gives [5] | frame: reported | lines 25-27
+- [7] pleads-with [9] | frame: literal | lines 29-30
+- [10] pleads-with [9] | frame: literal | lines 30-30
+- [11] gives [12] | frame: reported | lines 31-33
+- [14] pleads-with [13] | frame: literal | lines 34-34
+- [16] protects [12] | frame: reported | lines 35-36
+- [17] sees [18] | frame: reported | lines 38-38
+- [17] sees [19] | frame: reported | lines 38-38
+- [18] pleads-with [20] | frame: reported | lines 38-39
+- [19] pleads-with [20] | frame: reported | lines 38-39
+
+## Scene 40-45: Divine Response
+- [1] praises [3] | frame: literal | lines 40-40
+- [3] sees [2] | frame: literal | lines 41-41
+- [3] shows [2] | frame: literal | lines 41-42
+- [5] sees [4] | frame: literal | lines 43-43
+- [7] sees [4] | frame: reported | lines 44-45
+
+## Scene 46-54: Entry into the Light
+- [5] guides [6] | frame: literal | lines 49-50
+- [11] guides [9] | frame: literal | lines 50-51
+- [9] sees [12] | frame: literal | lines 52-54
+
+## Scene 55-66: The Loss of Memory
+- [2] compares [1] | frame: simile | lines 58-61
+
+## Scene 67-75: The Poet's Vow
+- [6] recognizes [1] | frame: reported | lines 73-75
+
+## Scene 76-84: The Intensity of the Radiance
+- [4] protects [1] | frame: reported | lines 78-78
+
+## Scene 85-93: The Universal Knot
+
+## Scene 94-105: The Perfection of the Light
+- [1] compares [2] | frame: literal | lines 94-96
+- [2] sees [3] | frame: simile | lines 95-96
+- [1] sees [4] | frame: literal | lines 97-99
+- [5] sees [4] | frame: literal | lines 100-102
+
+## Scene 106-114: The Changing Observer
+- [5] sees [4] | frame: reported | lines 109-110
+- [8] sees [12] | frame: reported | lines 112-113
+- [12] relates-to [11] | frame: reported | lines 113-114
+
+## Scene 115-120: The Three Concentric Circles
+
+
+## Scene 121-123: The Limits of Language
+
+
+## Scene 124-126: The Self-Intelligible Light
+- [3] recognizes [4] | frame: reported | lines 125-125
+- [5] recognizes [1] | frame: reported | lines 125-125
+- [7] relates-to [6] | frame: reported | lines 126-126
+
+## Scene 127-132: The Human Reflection
+- [2] sees [1] | frame: reported | lines 128-129
+- [2] sees [3] | frame: reported | lines 128-129
+- [2] sees [3] | frame: reported | lines 131-131
+- [2] sees [3] | frame: reported | lines 132-132
+
+## Scene 133-139: The Failed Measurement
+- [3] compares [1] | frame: simile | lines 133-136
+
+## Scene 140-145: Divine Impulse
+

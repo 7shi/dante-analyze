@@ -1,0 +1,94 @@
+# Canto 01 — The Dark Wood and the Encounter with Virgil
+
+## Scene 1-12: Lost in the Dark Wood
+- [1] meets [2] | frame: literal | lines 2-2
+
+## Scene 13-18: The Sight of the Sunlit Hill
+
+
+## Scene 19-21: Relief from Fear
+
+
+## Scene 22-30: The Swimmer Simile
+- [3] compares [1] | frame: simile | lines 22-26
+
+## Scene 31-36: The Appearance of the Leopard
+- [1] chases [2] | frame: literal | lines 34-34
+- [3] chases [4] | frame: literal | lines 35-36
+
+## Scene 37-43: The Morning Light
+- [3] relates-to [1] | frame: literal | lines 39-40
+
+## Scene 44-48: The Appearance of the Lion
+
+
+## Scene 49-60: The Appearance of the She-Wolf
+- [2] punishes [1] | frame: literal | lines 51-51
+- [2] punishes [3] | frame: literal | lines 52-52
+- [11] meets [10] | frame: literal | lines 59-59
+- [11] chases [10] | frame: literal | lines 60-60
+
+## Scene 61-66: A Shadow in the Desert
+- [2] sees [3] | frame: literal | lines 62-62
+- [5] sees [6] | frame: literal | lines 64-64
+- [7] protects [8] | frame: reported | lines 65-65
+- [9] asks [11] | frame: literal | lines 66-66
+- [9] asks [12] | frame: literal | lines 66-66
+- [9] asks [13] | frame: literal | lines 66-66
+
+## Scene 67-75: Virgil's Introduction
+- [4] relates-to [5] | frame: reported | lines 68-68
+- [8] relates-to [9] | frame: reported | lines 71-71
+- [8] relates-to [10] | frame: reported | lines 72-72
+- [13] tells [14] | frame: reported | lines 73-73
+
+## Scene 76-78: The Challenge to Ascend
+
+
+## Scene 79-81: Dante's Recognition
+- [4] asks [1] | frame: literal | lines 79-80
+- [4] answers [5] | frame: literal | lines 81-81
+
+## Scene 82-90: A Plea for Guidance
+- [3] addresses [1] | frame: literal | lines 82-82
+- [3] pleads-with [2] | frame: literal | lines 83-83
+- [4] guides [3] | frame: reported | lines 85-85
+- [7] guides [9] | frame: reported | lines 86-86
+- [3] pleads-with [14] | frame: literal | lines 89-89
+
+## Scene 91-99: The Nature of the She-Wolf
+- [2] tells [1] | frame: reported | lines 91-91
+- [2] answers [1] | frame: literal | lines 92-92
+- [4] sees [3] | frame: literal | lines 92-92
+- [2] tells [5] | frame: reported | lines 93-93
+
+## Scene 100-105: The Prophecy of the Veltro
+
+
+## Scene 106-111: The Fate of Italy
+
+
+## Scene 112-120: The Plan for the Journey
+- [1] relates-to [2] | frame: literal | lines 112-112
+- [4] follows [5] | frame: reported | lines 113-113
+- [6] guides [4] | frame: prophecy | lines 113-113
+- [8] brings [4] | frame: prophecy | lines 114-114
+- [10] sees [11] | frame: prophecy | lines 116-116
+- [12] sees [13] | frame: prophecy | lines 118-118
+- [14] relates-to [15] | frame: reported | lines 119-120
+
+## Scene 121-129: The Prohibition of the Ascent
+- [5] relates-to [6] | frame: prophecy | lines 123-123
+- [8] opposes [7] | frame: reported | lines 125-125
+- [9] opposes [11] | frame: reported | lines 126-126
+- [15] relates-to [14] | frame: reported | lines 129-129
+
+## Scene 130-135: Dante's Acceptance
+- [1] speaks-to [2] | frame: literal | lines 130-130
+- [4] pleads-with [5] | frame: reported | lines 130-130
+- [7] recognizes [6] | frame: reported | lines 131-131
+- [9] guides [10] | frame: reported | lines 133-133
+- [15] relates-to [14] | frame: reported | lines 135-135
+
+## Scene 136-136: The Journey Begins
+- [3] follows [4] | frame: literal | lines 136-136

@@ -1,0 +1,114 @@
+# Canto 21 — The Encounter with Statius and the Nature of Purgatory
+
+## Scene 1-6: Dante's Thirst
+- [3] punishes [4] | frame: literal | lines 4-4
+- [6] follows [5] | frame: literal | lines 5-5
+
+## Scene 7-13: The Appearance of the Shade
+- [2] meets [3] | frame: simile | lines 8-8
+- [5] meets [4] | frame: literal | lines 10-10
+- [7] follows [6] | frame: literal | lines 10-10
+- [5] sees [8] | frame: literal | lines 11-11
+- [9] sees [11] | frame: literal | lines 12-12
+- [12] addresses [13] | frame: literal | lines 13-13
+- [14] gives [15] | frame: reported | lines 13-13
+
+## Scene 14-21: The Initial Confrontation
+- [3] addresses [4] | frame: literal | lines 14-15
+- [5] speaks-to [6] | frame: literal | lines 16-18
+- [7] gives [6] | frame: reported | lines 17-17
+- [7] punishes [8] | frame: reported | lines 18-18
+- [9] speaks-to [10] | frame: literal | lines 19-19
+- [9] asks [11] | frame: literal | lines 20-20
+- [13] relates-to [11] | frame: reported | lines 20-20
+- [9] asks [14] | frame: literal | lines 21-21
+- [14] guides [15] | frame: reported | lines 21-21
+
+## Scene 22-33: Virgil's Explanation of the Shade's Arrival
+- [15] addresses [1] | frame: literal | lines 22-22
+- [4] shows [3] | frame: reported | lines 23-23
+- [5] sees [7] | frame: reported | lines 24-24
+- [7] relates-to [6] | frame: reported | lines 24-24
+- [10] relates-to [9] | frame: reported | lines 25-27
+- [12] relates-to [1] | frame: reported | lines 28-28
+- [12] relates-to [15] | frame: reported | lines 28-28
+- [15] shows [16] | frame: reported | lines 31-32
+- [17] shows [18] | frame: reported | lines 32-32
+- [20] guides [19] | frame: reported | lines 33-33
+
+## Scene 34-36: The Inquiry Regarding the Earthquake
+
+
+## Scene 37-39: Dante's Anticipation
+- [1] answers [2] | frame: literal | lines 37-37
+
+## Scene 40-54: The Immutable Nature of Purgatory
+
+
+## Scene 55-66: The Cause of the Tremor
+- [9] punishes [11] | frame: reported | lines 65-66
+
+## Scene 67-72: The Shade's Long Exile
+- [4] praises [6] | frame: reported | lines 70-72
+- [5] praises [6] | frame: reported | lines 70-72
+- [6] sends [7] | frame: reported | lines 72-72
+
+## Scene 73-75: Dante's Impression
+- [1] speaks-to [4] | frame: literal | lines 73-73
+- [5] relates-to [6] | frame: literal | lines 75-75
+
+## Scene 76-81: Virgil Demands Identity
+- [1] speaks-to [7] | frame: literal | lines 76-81
+- [1] asks [7] | frame: literal | lines 79-79
+- [9] asks [8] | frame: literal | lines 79-79
+- [1] asks [10] | frame: literal | lines 80-81
+- [12] tells [11] | frame: reported | lines 81-81
+
+## Scene 82-87: The Shade's Historical Context
+- [2] relates-to [1] | frame: reported | lines 82-83
+- [1] relates-to [3] | frame: reported | lines 83-84
+
+## Scene 88-102: The Praise of the Poet
+- [5] brings [4] | frame: reported | lines 88-89
+- [8] names [9] | frame: reported | lines 91-91
+- [10] relates-to [11] | frame: reported | lines 92-92
+- [15] guides [14] | frame: reported | lines 97-98
+- [22] relates-to [21] | frame: reported | lines 100-101
+
+## Scene 103-108: Virgil's Gesture of Silence
+- [1] speaks-to [2] | frame: literal | lines 103-103
+- [1] commands [3] | frame: reported | lines 104-104
+
+## Scene 109-114: The Shade's Confusion
+- [1] compares [2] | frame: simile | lines 109-109
+- [5] sees [1] | frame: literal | lines 110-111
+- [7] asks [6] | frame: literal | lines 112-114
+
+## Scene 115-120: Dante's Internal Conflict
+- [6] hears [5] | frame: literal | lines 117-118
+- [9] speaks-to [8] | frame: literal | lines 118-119
+- [9] commands [7] | frame: literal | lines 118-118
+- [9] commands [10] | frame: literal | lines 119-119
+- [9] commands [11] | frame: literal | lines 119-119
+- [11] tells [12] | frame: reported | lines 119-120
+- [12] asks [11] | frame: reported | lines 120-120
+
+## Scene 121-129: The Revelation of Virgil
+- [1] speaks-to [2] | frame: literal | lines 121-121
+- [1] addresses [4] | frame: literal | lines 122-122
+- [8] guides [1] | frame: reported | lines 124-124
+- [10] relates-to [9] | frame: reported | lines 125-126
+- [1] commands [14] | frame: literal | lines 128-128
+- [17] praises [16] | frame: reported | lines 129-129
+
+## Scene 130-132: The Interrupted Embrace
+- [1] touches [3] | frame: literal | lines 130-131
+- [4] speaks-to [5] | frame: literal | lines 131-131
+- [4] addresses [6] | frame: literal | lines 131-131
+- [4] commands [7] | frame: reported | lines 132-132
+- [11] sees [10] | frame: reported | lines 132-132
+
+## Scene 133-136: The Weight of Love
+- [1] speaks-to [2] | frame: literal | lines 133-136
+- [4] relates-to [3] | frame: reported | lines 134-134
+- [5] touches [6] | frame: reported | lines 136-136

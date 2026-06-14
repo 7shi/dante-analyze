@@ -1,0 +1,59 @@
+# Canto 29 — Beatrice's Discourse on the Trinity, the Angels, and the Corruption of Preaching
+
+## Scene 1-9: The Celestial Prologue
+
+## Scene 10-18: The Emergence of Eternal Love
+- [1] speaks-to [4] | frame: literal | lines 10-10
+- [2] tells [4] | frame: literal | lines 10-11
+- [8] relates-to [9] | frame: reported | lines 17-18
+
+## Scene 19-30: The Trinity and the Radiance of Being
+- [4] relates-to [3] | frame: reported | lines 28-28
+
+## Scene 31-36: The Structure of Substance
+
+## Scene 37-45: Scriptural and Rational Proof
+- [1] relates-to [2] | frame: reported | lines 37-38
+- [4] guides [3] | frame: reported | lines 41-41
+- [8] relates-to [9] | frame: reported | lines 44-45
+
+## Scene 46-51: The Introduction of the Angelic Orders
+- [2] relates-to [3] | frame: reported | lines 49-50
+
+## Scene 52-66: The Fallen and the Meritorious
+- [6] sees [5] | frame: reported | lines 56-56
+- [8] sees [7] | frame: literal | lines 58-58
+- [7] recognizes [9] | frame: reported | lines 58-59
+
+## Scene 67-84: The Clarity of Angelic Vision
+- [2] tells [3] | frame: reported | lines 70-72
+- [4] tells [5] | frame: literal | lines 73-73
+- [7] relates-to [8] | frame: reported | lines 76-77
+- [7] sees [9] | frame: reported | lines 77-78
+- [11] sees [9] | frame: reported | lines 79-80
+
+## Scene 85-96: The Invention of False Doctrines
+- [3] relates-to [1] | frame: reported | lines 88-90
+- [3] relates-to [6] | frame: reported | lines 92-93
+
+## Scene 97-108: The Deception of False Miracles
+
+## Scene 109-114: The Foundation of Christ
+- [1] speaks-to [2] | frame: reported | lines 109-110
+- [1] speaks-to [3] | frame: reported | lines 109-110
+- [4] gives [5] | frame: reported | lines 111-111
+
+## Scene 115-126: The Corruption of Modern Preachers
+- [1] speaks-to [2] | frame: reported | lines 115-116
+- [3] compares [5] | frame: simile | lines 117-118
+- [9] sees [8] | frame: reported | lines 119-119
+
+## Scene 127-135: The Numerical Mystery of Angels
+- [4] shows [5] | frame: reported | lines 133-134
+
+## Scene 136-145: The Dispersion of Divine Light
+- [1] sees [6] | frame: reported | lines 136-138
+- [3] relates-to [6] | frame: reported | lines 139-141
+- [4] relates-to [6] | frame: reported | lines 139-141
+- [5] sees [6] | frame: literal | lines 142-142
+- [7] relates-to [1] | frame: reported | lines 143-144

@@ -1,0 +1,106 @@
+# Canto 05 — The Second Circle: The Storm of Lust
+
+## Scene 1-6: The Presence of Minos
+
+
+## Scene 7-15: The Process of Judgment
+- [4] meets [3] | frame: reported | lines 8-8
+- [6] tells [3] | frame: reported | lines 8-8
+- [8] sees [9] | frame: reported | lines 10-10
+- [11] sends [12] | frame: reported | lines 12-12
+- [14] meets [13] | frame: reported | lines 14-14
+- [15] speaks-to [13] | frame: reported | lines 15-15
+- [16] hears [13] | frame: reported | lines 15-15
+- [13] sends [17] | frame: reported | lines 15-15
+
+## Scene 16-24: Minos's Warning
+- [2] addresses [1] | frame: literal | lines 16-16
+- [2] speaks-to [3] | frame: literal | lines 17-17
+- [5] sees [4] | frame: literal | lines 17-17
+- [2] warns [6] | frame: literal | lines 19-20
+- [11] speaks-to [12] | frame: literal | lines 21-21
+- [11] asks [13] | frame: reported | lines 21-21
+- [11] commands [14] | frame: literal | lines 22-22
+- [11] commands [15] | frame: literal | lines 24-24
+
+## Scene 25-36: The Infernal Tempest
+- [5] chases [6] | frame: literal | lines 32-32
+- [7] strikes [8] | frame: literal | lines 33-33
+- [7] punishes [8] | frame: literal | lines 33-33
+
+## Scene 37-45: The Nature of the Sin
+
+
+## Scene 46-51: The Drifting Souls
+- [1] sees [2] | frame: literal | lines 48-49
+- [3] asks [4] | frame: literal | lines 50-51
+
+## Scene 52-69: The Catalogue of Lovers
+- [5] speaks-to [4] | frame: literal | lines 52-53
+- [3] asks [1] | frame: reported | lines 52-53
+- [11] relates-to [13] | frame: reported | lines 58-59
+- [15] relates-to [16] | frame: reported | lines 60-60
+- [20] relates-to [21] | frame: reported | lines 62-62
+- [25] sees [24] | frame: literal | lines 64-64
+- [26] sees [27] | frame: literal | lines 65-65
+- [28] sees [29] | frame: literal | lines 67-67
+- [28] sees [30] | frame: literal | lines 67-67
+- [32] shows [31] | frame: literal | lines 68-68
+- [32] shows [4] | frame: literal | lines 68-68
+- [33] names [31] | frame: literal | lines 68-68
+- [34] defeats [31] | frame: reported | lines 69-69
+
+## Scene 70-78: A Request for Dialogue
+- [1] hears [2] | frame: literal | lines 70-70
+- [2] names [3] | frame: literal | lines 70-71
+- [2] names [4] | frame: literal | lines 70-71
+- [7] addresses [8] | frame: literal | lines 73-73
+- [9] speaks-to [10] | frame: reported | lines 74-74
+- [12] answers [13] | frame: literal | lines 76-76
+- [14] sees [15] | frame: prophecy | lines 76-76
+- [15] meets [16] | frame: prophecy | lines 76-77
+- [12] commands [17] | frame: literal | lines 77-77
+- [17] pleads-with [18] | frame: reported | lines 77-77
+- [20] meets [16] | frame: prophecy | lines 78-78
+
+## Scene 79-87: The Approach of the Souls
+- [3] calls [4] | frame: literal | lines 80-80
+- [5] speaks-to [6] | frame: reported | lines 81-81
+- [7] meets [9] | frame: literal | lines 85-86
+
+## Scene 88-96: The Souls' Greeting
+- [2] addresses [1] | frame: literal | lines 88-88
+- [4] pleads-with [5] | frame: reported | lines 91-92
+- [6] relates-to [7] | frame: reported | lines 93-93
+- [9] hears [10] | frame: reported | lines 94-95
+- [9] speaks-to [10] | frame: reported | lines 94-95
+
+## Scene 97-107: The Tale of Dido
+- [4] brings [5] | frame: reported | lines 100-100
+- [7] brings [8] | frame: reported | lines 101-101
+- [14] brings [15] | frame: reported | lines 104-104
+- [16] sees [17] | frame: literal | lines 105-105
+- [18] brings [19] | frame: reported | lines 106-106
+- [20] relates-to [21] | frame: reported | lines 107-107
+- [21] defeats [22] | frame: reported | lines 107-107
+
+## Scene 108-114: Dante's Grief
+- [1] speaks-to [2] | frame: literal | lines 108-108
+- [3] hears [4] | frame: literal | lines 109-109
+- [7] asks [8] | frame: literal | lines 111-111
+- [10] answers [7] | frame: literal | lines 112-112
+
+## Scene 115-126: An Inquiry to Francesca
+- [4] speaks-to [3] | frame: literal | lines 115-115
+- [5] addresses [6] | frame: literal | lines 116-116
+- [5] asks [8] | frame: literal | lines 118-118
+- [9] gives [10] | frame: reported | lines 119-120
+- [11] answers [12] | frame: literal | lines 121-121
+- [15] tells [16] | frame: literal | lines 126-126
+
+## Scene 127-138: The Lancelot Legend
+- [3] touches [4] | frame: reported | lines 128-128
+- [11] touches [13] | frame: reported | lines 135-136
+
+## Scene 139-142: Dante's Collapse
+- [5] compares [6] | frame: simile | lines 142-142

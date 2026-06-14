@@ -1,0 +1,86 @@
+# Canto 25 — The Encounter with Statius and the Metaphysics of the Soul
+
+## Scene 1-9: The Ascent of the Path
+- [8] compares [3] | frame: simile | lines 4-7
+- [10] follows [9] | frame: literal | lines 8-8
+
+## Scene 10-15: Dante's Hesitation
+- [3] compares [1] | frame: simile | lines 10-13
+- [3] compares [4] | frame: simile | lines 13-15
+
+## Scene 16-18: Virgil's Encouragement
+- [2] commands [3] | frame: literal | lines 17-18
+
+## Scene 19-21: The Central Question
+- [2] asks [3] | frame: literal | lines 20-21
+
+## Scene 22-30: The Introduction of Statius
+- [5] answers [6] | frame: literal | lines 22-24
+- [12] calls [13] | frame: literal | lines 29-29
+- [12] pleads-with [13] | frame: literal | lines 29-29
+
+## Scene 31-33: Statius's Consent
+- [2] addresses [3] | frame: literal | lines 32-32
+- [6] pleads-with [3] | frame: reported | lines 33-33
+- [6] tells [5] | frame: reported | lines 33-33
+
+## Scene 34-42: The Power of Blood
+- [1] speaks-to [2] | frame: literal | lines 34-34
+- [1] addresses [2] | frame: literal | lines 35-35
+- [1] answers [4] | frame: literal | lines 36-36
+- [4] asks [1] | frame: reported | lines 36-36
+
+## Scene 43-51: Digestion and Coagulation
+- [4] meets [5] | frame: reported | lines 46-46
+- [11] meets [10] | frame: reported | lines 49-49
+
+## Scene 52-66: The Evolution of Life
+- [7] relates-to [8] | frame: reported | lines 63-63
+- [10] relates-to [11] | frame: reported | lines 64-65
+- [7] sees [12] | frame: reported | lines 66-66
+
+## Scene 67-75: The Development of the Spirit
+- [4] relates-to [5] | frame: reported | lines 70-70
+- [7] gives [8] | frame: reported | lines 71-72
+- [9] brings [3] | frame: reported | lines 73-73
+- [11] relates-to [12] | frame: reported | lines 75-75
+
+## Scene 76-84: The Thread of Fate
+
+
+## Scene 85-90: The Expansion of Virtue
+
+
+## Scene 91-102: The Metaphor of Light and Shadow
+- [1] compares [2] | frame: simile | lines 91-94
+- [2] relates-to [3] | frame: reported | lines 94-96
+- [4] follows [6] | frame: reported | lines 97-99
+- [8] relates-to [9] | frame: reported | lines 100-101
+
+## Scene 103-108: The Cause of the Souls' Cries
+- [4] hears [3] | frame: reported | lines 104-105
+- [8] sees [6] | frame: reported | lines 107-108
+
+## Scene 109-117: Navigating the Abyss
+- [1] guides [3] | frame: literal | lines 110-110
+
+## Scene 118-120: Virgil's Warning
+- [1] warns [2] | frame: literal | lines 118-120
+
+## Scene 121-126: The Hymn of Mercy
+- [5] praises [1] | frame: literal | lines 121-122
+- [2] hears [5] | frame: literal | lines 122-122
+- [4] sees [5] | frame: literal | lines 124-124
+- [6] sees [7] | frame: literal | lines 125-125
+
+## Scene 127-132: The Choral Interruptions
+- [3] recognizes [2] | frame: reported | lines 128-128
+- [7] protects [6] | frame: reported | lines 131-131
+- [8] chases [9] | frame: reported | lines 131-131
+- [10] strikes [9] | frame: reported | lines 132-132
+
+## Scene 133-135: Cries of the Chastity
+
+
+## Scene 136-139: The Purpose of the Ritual
+

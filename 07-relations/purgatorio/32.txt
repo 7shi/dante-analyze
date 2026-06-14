@@ -1,0 +1,108 @@
+# Canto 32 — The Celestial Vision and the Succession of Beasts
+
+## Scene 1-12: The Sensory Blindness
+- [3] touches [2] | frame: literal | lines 7-8
+- [4] hears [5] | frame: literal | lines 9-9
+- [5] rebukes [4] | frame: reported | lines 9-9
+
+## Scene 13-24: The Movement of the Heavenly Host
+- [5] sees [6] | frame: literal | lines 16-17
+- [12] compares [7] | frame: simile | lines 19-23
+
+## Scene 25-33: The Descent of the Griffin
+- [3] brings [4] | frame: literal | lines 26-26
+
+## Scene 34-36: Beatrice's Descent
+
+
+## Scene 37-42: The Bare Tree
+- [1] hears [3] | frame: literal | lines 37-37
+- [3] names [2] | frame: literal | lines 37-37
+- [3] sees [4] | frame: literal | lines 38-38
+
+## Scene 43-48: The Voice of the Griffin
+- [3] praises [2] | frame: literal | lines 43-47
+- [4] answers [3] | frame: literal | lines 47-48
+
+## Scene 49-51: The Tied Branch
+- [2] brings [3] | frame: literal | lines 50-50
+- [6] touches [5] | frame: literal | lines 51-51
+
+## Scene 52-60: The Transformation of the Tree
+
+
+## Scene 61-69: The Limits of Description
+- [5] relates-to [6] | frame: reported | lines 64-64
+- [6] hears [7] | frame: reported | lines 65-65
+
+## Scene 70-78: The Awakening of the Apostles
+
+
+## Scene 79-81: The Diminished School
+- [1] sees [2] | frame: literal | lines 79-80
+- [1] sees [3] | frame: literal | lines 79-80
+- [1] sees [4] | frame: literal | lines 79-81
+
+## Scene 82-90: The Reencounter with Beatrice
+- [2] sees [3] | frame: literal | lines 82-82
+- [5] guides [4] | frame: literal | lines 83-84
+- [6] asks [8] | frame: literal | lines 85-85
+- [8] answers [6] | frame: literal | lines 86-86
+- [9] sees [10] | frame: reported | lines 86-86
+- [11] sees [12] | frame: reported | lines 88-88
+- [12] relates-to [13] | frame: reported | lines 88-88
+
+## Scene 91-93: The Closed Senses
+
+
+## Scene 94-99: The Guard of the Nymphs
+- [2] sees [1] | frame: simile | lines 95-96
+- [3] protects [1] | frame: literal | lines 97-98
+- [5] opposes [6] | frame: literal | lines 98-99
+- [5] opposes [7] | frame: literal | lines 98-99
+
+## Scene 100-105: Beatrice's Command
+- [4] speaks-to [1] | frame: literal | lines 100-105
+- [4] prophesies [1] | frame: literal | lines 100-100
+- [3] follows [4] | frame: prophecy | lines 101-101
+- [4] commands [7] | frame: literal | lines 104-104
+- [4] commands [10] | frame: literal | lines 105-105
+
+## Scene 106-108: Dante's Devotion
+- [1] commands [2] | frame: literal | lines 107-107
+- [2] follows [3] | frame: literal | lines 108-108
+
+## Scene 109-117: The Eagle's Strike
+
+
+## Scene 118-123: The Attack of the Fox
+
+
+## Scene 124-129: The Descent of the Needle
+- [3] compares [2] | frame: simile | lines 127-128
+
+## Scene 130-135: The Dragon's Emergence
+
+
+## Scene 136-141: The Covering of the Earth
+
+
+## Scene 142-147: The Appearance of the Monster
+
+
+## Scene 148-153: The Proximity of the Giant
+- [3] sees [2] | frame: literal | lines 150-150
+- [5] protects [4] | frame: literal | lines 151-152
+- [6] sees [7] | frame: literal | lines 152-152
+- [6] sees [8] | frame: literal | lines 152-152
+- [1] touches [8] | frame: literal | lines 153-153
+- [8] touches [1] | frame: literal | lines 153-153
+
+## Scene 154-160: The Final Violence
+- [2] sees [1] | frame: literal | lines 154-155
+- [3] strikes [4] | frame: literal | lines 155-156
+- [5] relates-to [6] | frame: literal | lines 158-158
+- [9] chases [10] | frame: literal | lines 159-160
+- [9] relates-to [8] | frame: literal | lines 159-160
+- [9] relates-to [11] | frame: literal | lines 159-160
+- [9] relates-to [12] | frame: literal | lines 159-160

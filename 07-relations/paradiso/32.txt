@@ -1,0 +1,106 @@
+# Canto 32 — St. Bernard's Vision of the Celestial Rose and the Identification of the Blessed
+
+## Scene 1-9: The Arrangement of the Matriarchs
+- [2] speaks-to [11] | frame: literal | lines 3-3
+- [8] relates-to [7] | frame: reported | lines 7-8
+- [8] relates-to [9] | frame: reported | lines 8-8
+- [8] relates-to [10] | frame: reported | lines 9-9
+- [11] sees [8] | frame: reported | lines 9-9
+- [11] sees [9] | frame: reported | lines 9-9
+- [11] sees [10] | frame: reported | lines 9-9
+
+## Scene 10-15: The Lineage of the Hebrew Mothers
+- [9] names [1] | frame: literal | lines 10-10
+- [9] names [2] | frame: literal | lines 10-10
+- [9] names [3] | frame: literal | lines 10-10
+- [9] names [4] | frame: literal | lines 10-11
+- [4] relates-to [6] | frame: reported | lines 11-11
+- [8] sees [1] | frame: reported | lines 10-13
+- [8] sees [2] | frame: reported | lines 10-13
+- [8] sees [3] | frame: reported | lines 10-13
+- [8] sees [4] | frame: reported | lines 10-13
+- [9] compares [8] | frame: literal | lines 13-15
+
+## Scene 16-27: The Structure of the Two Hemispheres
+- [2] relates-to [1] | frame: reported | lines 19-20
+- [3] relates-to [4] | frame: reported | lines 23-24
+- [6] sees [7] | frame: reported | lines 25-27
+
+## Scene 28-36: The Hierarchy of the Great Doctors
+- [1] relates-to [2] | frame: reported | lines 28-31
+- [3] relates-to [4] | frame: reported | lines 34-35
+- [3] relates-to [5] | frame: reported | lines 34-35
+- [3] relates-to [6] | frame: reported | lines 34-35
+
+## Scene 37-45: The Principle of Divine Providence
+
+## Scene 46-51: A Promise of Clarification
+- [3] sees [4] | frame: reported | lines 48-48
+- [5] hears [6] | frame: reported | lines 48-48
+
+## Scene 52-66: The Nature of Eternal Joy and Grace
+- [6] gives [2] | frame: reported | lines 64-65
+
+## Scene 67-75: The Distinction of Divine Gifts
+- [3] relates-to [2] | frame: reported | lines 68-69
+- [4] gives [5] | frame: reported | lines 71-72
+- [4] gives [6] | frame: reported | lines 73-74
+
+## Scene 76-84: The Evolution of the Covenant
+
+## Scene 85-87: The Command to Focus on Christ
+- [3] sees [4] | frame: reported | lines 87-87
+
+## Scene 88-96: The Celestial Anthem
+- [8] addresses [9] | frame: literal | lines 95-95
+- [11] praises [10] | frame: literal | lines 96-96
+
+## Scene 97-99: The Responding Court
+
+## Scene 100-105: A Question of Love
+- [2] asks [1] | frame: literal | lines 100-105
+- [1] guides [2] | frame: reported | lines 100-101
+- [4] sees [5] | frame: reported | lines 103-104
+
+## Scene 106-114: Identification of the Angel
+- [1] asks [2] | frame: literal | lines 106-107
+- [5] speaks-to [6] | frame: literal | lines 109-109
+- [11] brings [13] | frame: reported | lines 112-113
+- [12] brings [13] | frame: reported | lines 112-113
+
+## Scene 115-120: The Roots of the Rose
+- [1] follows [3] | frame: reported | lines 115-116
+- [4] sees [5] | frame: reported | lines 116-116
+- [6] relates-to [7] | frame: reported | lines 118-119
+
+## Scene 121-126: The Patriarchs of the Church
+- [1] relates-to [2] | frame: reported | lines 121-121
+- [5] sees [6] | frame: literal | lines 124-124
+- [6] relates-to [7] | frame: reported | lines 124-125
+- [8] gives [6] | frame: reported | lines 125-126
+- [6] relates-to [9] | frame: reported | lines 125-126
+
+## Scene 127-132: The Great Biblical Figures
+- [4] relates-to [5] | frame: reported | lines 130-130
+- [4] relates-to [6] | frame: reported | lines 130-130
+- [7] guides [8] | frame: reported | lines 131-132
+
+## Scene 133-138: The Matriarchal Counterparts
+- [2] sees [3] | frame: literal | lines 133-133
+- [3] relates-to [1] | frame: literal | lines 133-133
+- [3] sees [4] | frame: literal | lines 134-134
+- [4] relates-to [3] | frame: literal | lines 134-134
+- [2] sees [7] | frame: literal | lines 136-137
+- [7] relates-to [6] | frame: literal | lines 136-137
+- [7] relates-to [8] | frame: reported | lines 137-137
+- [8] relates-to [2] | frame: literal | lines 137-137
+
+## Scene 139-144: The Final Instruction
+- [2] compares [3] | frame: simile | lines 140-141
+- [5] sees [6] | frame: reported | lines 142-142
+- [8] sees [7] | frame: reported | lines 143-144
+
+## Scene 145-151: The Call for Grace
+- [5] warns [1] | frame: literal | lines 145-146
+- [5] commands [4] | frame: literal | lines 149-150
+- [4] follows [5] | frame: reported | lines 149-149

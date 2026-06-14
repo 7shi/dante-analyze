@@ -1,0 +1,109 @@
+# Canto 19 — The Encounter with the Simoniac Boniface
+
+## Scene 1-6: Invocation to the Simoniacs
+- [2] follows [1] | frame: literal | lines 1-1
+
+## Scene 7-12: Reflection on Divine Wisdom
+- [1] addresses [2] | frame: literal | lines 10-10
+- [1] praises [2] | frame: literal | lines 10-12
+
+## Scene 13-30: The Landscape of the Third Bolgia
+- [4] warns [5] | frame: literal | lines 21-21
+
+## Scene 31-39: Dante's Inquiry
+- [6] asks [3] | frame: literal | lines 31-33
+- [6] asks [1] | frame: literal | lines 31-33
+- [4] compares [5] | frame: literal | lines 32-32
+- [7] answers [8] | frame: literal | lines 34-34
+- [10] brings [11] | frame: reported | lines 34-36
+- [12] tells [13] | frame: reported | lines 36-36
+- [15] answers [17] | frame: literal | lines 37-37
+- [18] relates-to [21] | frame: literal | lines 38-38
+- [20] recognizes [21] | frame: literal | lines 38-38
+
+## Scene 40-45: The Physical Descent
+- [4] protects [5] | frame: literal | lines 43-44
+- [6] brings [7] | frame: literal | lines 44-44
+- [6] meets [8] | frame: literal | lines 44-45
+- [7] meets [8] | frame: literal | lines 44-45
+
+## Scene 46-48: Dante’s Salutation
+- [3] addresses [1] | frame: literal | lines 46-46
+- [3] addresses [2] | frame: literal | lines 47-47
+- [3] asks [4] | frame: literal | lines 48-48
+- [3] commands [5] | frame: literal | lines 48-48
+
+## Scene 49-51: The Confessor Simile
+- [1] compares [2] | frame: simile | lines 49-49
+- [2] hears [3] | frame: simile | lines 49-50
+- [3] calls [4] | frame: simile | lines 50-51
+
+## Scene 52-57: The Sinner’s Accusation
+- [1] asks [2] | frame: literal | lines 52-52
+- [1] asks [3] | frame: literal | lines 53-53
+- [1] names [4] | frame: literal | lines 53-53
+- [1] asks [6] | frame: literal | lines 55-55
+- [1] rebukes [7] | frame: literal | lines 56-57
+- [7] relates-to [8] | frame: reported | lines 56-56
+- [7] defeats [8] | frame: reported | lines 57-57
+
+## Scene 58-60: Dante’s Bewilderment
+- [2] compares [4] | frame: simile | lines 58-58
+
+## Scene 61-63: Virgil’s Instruction
+- [1] commands [2] | frame: literal | lines 61-61
+- [3] relates-to [4] | frame: reported | lines 62-62
+- [5] relates-to [6] | frame: reported | lines 62-62
+- [7] recognizes [3] | frame: reported | lines 62-62
+- [8] answers [7] | frame: literal | lines 63-63
+
+## Scene 64-78: The Sinner’s Revelation
+- [2] speaks-to [3] | frame: literal | lines 66-66
+- [5] asks [4] | frame: reported | lines 66-66
+- [8] meets [4] | frame: reported | lines 68-68
+- [10] tells [9] | frame: reported | lines 69-69
+- [16] relates-to [17] | frame: reported | lines 74-74
+- [20] recognizes [21] | frame: reported | lines 77-77
+
+## Scene 79-87: The Prophecy of the Shepherd
+- [5] follows [4] | frame: prophecy | lines 82-83
+- [5] relates-to [6] | frame: prophecy | lines 84-84
+- [5] relates-to [7] | frame: prophecy | lines 84-84
+- [11] relates-to [10] | frame: simile | lines 86-86
+- [13] relates-to [12] | frame: prophecy | lines 87-87
+
+## Scene 88-105: Dante’s First Rebuttal
+- [4] answers [5] | frame: literal | lines 88-89
+- [7] asks [6] | frame: literal | lines 90-90
+- [8] asks [9] | frame: reported | lines 90-92
+- [10] gives [8] | frame: reported | lines 90-92
+- [11] commands [12] | frame: reported | lines 93-93
+- [13] relates-to [15] | frame: reported | lines 94-95
+- [14] relates-to [15] | frame: reported | lines 94-95
+- [16] relates-to [17] | frame: reported | lines 95-96
+- [25] rebukes [19] | frame: literal | lines 97-97
+- [20] opposes [22] | frame: reported | lines 98-99
+- [24] strikes [26] | frame: reported | lines 104-105
+- [24] praises [27] | frame: reported | lines 104-105
+
+## Scene 106-117: Dante’s Second Rebuttal
+- [3] sees [1] | frame: reported | lines 106-106
+- [3] sees [4] | frame: reported | lines 107-108
+- [4] relates-to [5] | frame: reported | lines 108-108
+- [7] relates-to [9] | frame: reported | lines 109-111
+- [10] relates-to [12] | frame: reported | lines 112-112
+- [15] relates-to [17] | frame: reported | lines 114-114
+- [16] relates-to [17] | frame: reported | lines 114-114
+- [20] gives [21] | frame: reported | lines 116-117
+
+## Scene 118-123: Virgil’s Silent Approval
+- [1] rebukes [2] | frame: literal | lines 118-118
+- [5] sees [6] | frame: literal | lines 121-121
+- [7] hears [1] | frame: literal | lines 122-123
+
+## Scene 124-129: The Ascent
+- [1] touches [2] | frame: literal | lines 124-124
+- [3] brings [4] | frame: literal | lines 125-125
+
+## Scene 130-133: Arrival at a New Valley
+- [1] brings [2] | frame: literal | lines 130-130

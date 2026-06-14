@@ -1,0 +1,85 @@
+# Canto 34 — The Center of the Earth and the Encounter with Lucifer
+
+## Scene 1-9: Approaching the Mist
+- [5] speaks-to [4] | frame: literal | lines 2-3
+- [5] commands [4] | frame: literal | lines 2-3
+- [8] touches [10] | frame: literal | lines 8-9
+
+## Scene 10-15: The Shadows in the Dark
+
+
+## Scene 16-21: The Arrival at Dite
+- [2] shows [3] | frame: literal | lines 17-18
+- [2] shows [4] | frame: literal | lines 17-18
+- [2] warns [11] | frame: literal | lines 20-21
+
+## Scene 22-27: Dante’s Internal Horror
+- [4] addresses [3] | frame: literal | lines 23-23
+- [4] commands [2] | frame: literal | lines 23-23
+- [4] commands [7] | frame: literal | lines 26-26
+- [7] relates-to [10] | frame: literal | lines 26-27
+
+## Scene 28-36: The Emergence of Lucifer
+- [7] sees [8] | frame: literal | lines 32-32
+- [14] opposes [13] | frame: reported | lines 35-35
+
+## Scene 37-52: The Anatomy of the Beast
+- [2] sees [3] | frame: literal | lines 38-38
+- [4] sees [3] | frame: literal | lines 48-48
+
+## Scene 53-60: The Devouring of Sinners
+- [3] punishes [4] | frame: literal | lines 55-56
+- [5] punishes [6] | frame: literal | lines 58-60
+
+## Scene 61-67: Identifying the Traitors
+- [2] speaks-to [8] | frame: literal | lines 62-62
+- [2] names [1] | frame: literal | lines 61-62
+- [2] names [6] | frame: literal | lines 65-65
+- [2] names [12] | frame: literal | lines 67-67
+- [8] sees [10] | frame: literal | lines 66-66
+
+## Scene 68-75: The Descent via the Beast
+- [3] touches [4] | frame: literal | lines 70-70
+- [5] brings [6] | frame: literal | lines 71-71
+
+## Scene 76-81: Reaching the Center
+- [2] sees [3] | frame: literal | lines 78-79
+- [4] touches [3] | frame: literal | lines 80-80
+- [4] compares [5] | frame: simile | lines 80-80
+
+## Scene 82-87: Finding a Ledge
+- [2] warns [1] | frame: literal | lines 82-84
+- [2] compares [3] | frame: simile | lines 83-83
+- [5] brings [6] | frame: literal | lines 86-86
+- [7] guides [8] | frame: literal | lines 87-87
+
+## Scene 88-93: The Sight of the Upside-Down Legs
+- [2] sees [3] | frame: literal | lines 88-89
+- [4] relates-to [5] | frame: literal | lines 89-89
+- [6] sees [3] | frame: literal | lines 90-90
+- [7] addresses [8] | frame: literal | lines 92-92
+
+## Scene 94-99: The Difficult Path
+- [2] commands [1] | frame: literal | lines 94-94
+- [2] tells [1] | frame: literal | lines 95-96
+
+## Scene 100-105: Dante’s Confusion
+- [2] brings [3] | frame: reported | lines 100-100
+- [5] addresses [4] | frame: literal | lines 101-101
+- [5] asks [8] | frame: literal | lines 102-102
+- [8] speaks-to [9] | frame: reported | lines 102-102
+- [5] sees [10] | frame: literal | lines 103-103
+
+## Scene 106-117: The Center of Gravity
+- [1] speaks-to [2] | frame: literal | lines 106-106
+- [4] touches [6] | frame: reported | lines 107-108
+
+## Scene 118-126: The Shifting Hemisphere
+- [8] relates-to [7] | frame: reported | lines 123-123
+- [11] relates-to [10] | frame: reported | lines 125-125
+
+## Scene 127-132: The Sound of the Stream
+
+
+## Scene 133-139: The Return to the Stars
+- [4] follows [3] | frame: literal | lines 136-136

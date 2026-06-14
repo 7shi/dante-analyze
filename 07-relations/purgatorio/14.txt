@@ -1,0 +1,106 @@
+# Canto 14 — The Encounter with the Spirits of the Arno Valley
+
+## Scene 1-6: The Spirits' Observation
+- [11] asks [2] | frame: literal | lines 1-1
+- [3] gives [4] | frame: reported | lines 2-2
+- [7] recognizes [8] | frame: reported | lines 4-4
+- [9] sees [10] | frame: reported | lines 4-4
+- [7] commands [11] | frame: literal | lines 5-5
+- [11] asks [12] | frame: reported | lines 5-5
+- [11] meets [12] | frame: reported | lines 5-5
+- [7] commands [14] | frame: literal | lines 6-6
+- [14] speaks-to [16] | frame: reported | lines 6-6
+- [7] commands [15] | frame: literal | lines 6-6
+- [15] meets [16] | frame: reported | lines 6-6
+
+## Scene 7-15: The First Spirit's Greeting
+- [4] relates-to [5] | frame: literal | lines 8-8
+- [6] addresses [7] | frame: literal | lines 9-9
+- [8] speaks-to [9] | frame: literal | lines 10-10
+- [11] relates-to [12] | frame: reported | lines 12-12
+- [13] tells [14] | frame: reported | lines 12-12
+- [17] relates-to [18] | frame: reported | lines 13-13
+
+## Scene 16-24: The Riddle of the Arno
+- [1] answers [7] | frame: literal | lines 16-21
+- [7] answers [6] | frame: literal | lines 23-24
+- [8] tells [9] | frame: literal | lines 24-24
+
+## Scene 25-27: The Second Spirit's Query
+- [1] asks [3] | frame: literal | lines 25-27
+
+## Scene 28-51: The Corruption of the Valley
+- [5] opposes [6] | frame: reported | lines 37-39
+- [9] relates-to [10] | frame: reported | lines 42-42
+- [12] meets [13] | frame: reported | lines 46-46
+- [14] opposes [13] | frame: reported | lines 48-48
+
+## Scene 52-54: The Cunning Foxes
+- [1] meets [2] | frame: reported | lines 53-53
+
+## Scene 55-66: The Prophecy of the Hunter
+- [6] shows [7] | frame: literal | lines 57-57
+- [8] sees [9] | frame: literal | lines 58-58
+- [10] chases [11] | frame: prophecy | lines 59-60
+- [12] defeats [13] | frame: prophecy | lines 61-62
+- [15] defeats [14] | frame: prophecy | lines 63-63
+- [8] commands [17] | frame: literal | lines 65-65
+
+## Scene 67-72: The Second Spirit's Grief
+- [3] sees [4] | frame: literal | lines 70-70
+- [4] compares [1] | frame: simile | lines 67-72
+
+## Scene 73-84: Guido's Introduction
+- [3] hears [1] | frame: literal | lines 73-74
+- [3] sees [2] | frame: literal | lines 73-74
+- [4] asks [6] | frame: literal | lines 75-76
+- [7] speaks-to [8] | frame: literal | lines 77-77
+- [13] gives [14] | frame: reported | lines 79-80
+- [15] gives [16] | frame: reported | lines 80-80
+- [18] tells [17] | frame: reported | lines 81-81
+- [23] sees [21] | frame: reported | lines 83-83
+- [22] sees [23] | frame: reported | lines 84-84
+
+## Scene 85-96: The Blight of Lineage
+- [1] addresses [2] | frame: literal | lines 86-86
+- [1] asks [3] | frame: literal | lines 86-87
+- [3] relates-to [4] | frame: reported | lines 86-87
+- [1] names [5] | frame: literal | lines 88-88
+- [1] praises [7] | frame: literal | lines 88-88
+- [9] compares [8] | frame: reported | lines 89-90
+- [1] rebukes [10] | frame: reported | lines 91-91
+- [1] rebukes [11] | frame: reported | lines 94-95
+- [1] rebukes [12] | frame: reported | lines 95-96
+
+## Scene 97-102: Lament for Romagna
+
+
+## Scene 103-111: Mourning the Lost Greatness
+- [2] addresses [1] | frame: literal | lines 103-103
+- [2] addresses [3] | frame: literal | lines 103-103
+- [4] recognizes [5] | frame: reported | lines 104-104
+- [4] recognizes [6] | frame: reported | lines 105-105
+- [4] recognizes [7] | frame: reported | lines 106-106
+- [4] recognizes [8] | frame: reported | lines 107-107
+- [4] recognizes [9] | frame: reported | lines 107-107
+
+## Scene 112-123: The Decay of Towns
+- [9] relates-to [10] | frame: prophecy | lines 118-119
+
+## Scene 124-126: Guido's Exhaustion
+- [3] commands [1] | frame: literal | lines 124-124
+- [3] addresses [2] | frame: literal | lines 124-124
+
+## Scene 127-135: The Thunderous Voice
+- [4] hears [3] | frame: literal | lines 127-128
+- [8] speaks-to [7] | frame: literal | lines 132-133
+
+## Scene 136-139: The Appearance of Aglauro
+
+
+## Scene 140-141: Dante's Reaction
+- [2] touches [1] | frame: literal | lines 140-141
+
+## Scene 142-151: Aglauro's Warning
+- [5] brings [7] | frame: reported | lines 145-146
+- [11] strikes [10] | frame: reported | lines 151-151

@@ -1,0 +1,70 @@
+# Canto 04 — Beatrice Resolves Dante's Theological Doubts
+
+## Scene 1-12: Dante's Internal Tension
+- [6] rebukes [7] | frame: literal | lines 7-7
+
+## Scene 13-24: The First Doubt: Plato's Theory
+- [1] compares [2] | frame: simile | lines 13-13
+- [3] punishes [4] | frame: simile | lines 14-15
+- [5] speaks-to [7] | frame: literal | lines 16-16
+- [6] sees [7] | frame: reported | lines 16-16
+
+## Scene 25-39: The Hierarchy of the First Heaven
+- [1] tells [12] | frame: literal | lines 25-39
+- [8] names [2] | frame: literal | lines 28-28
+- [8] names [5] | frame: literal | lines 29-29
+- [8] names [6] | frame: literal | lines 29-29
+- [8] names [7] | frame: literal | lines 29-29
+- [8] names [9] | frame: literal | lines 30-30
+- [11] shows [12] | frame: literal | lines 32-32
+- [15] shows [16] | frame: literal | lines 37-37
+
+## Scene 40-48: The Use of Anthropomorphism in Scripture
+- [4] shows [5] | frame: reported | lines 46-47
+- [4] shows [6] | frame: reported | lines 46-47
+- [8] protects [9] | frame: reported | lines 48-48
+
+## Scene 49-63: Correcting the Error of Astrology
+- [1] tells [2] | frame: reported | lines 49-49
+- [3] tells [4] | frame: reported | lines 51-51
+- [5] tells [6] | frame: reported | lines 52-52
+- [8] gives [9] | frame: reported | lines 54-54
+
+## Scene 64-72: Transition to the Second Doubt
+- [2] relates-to [1] | frame: reported | lines 64-64
+- [3] brings [4] | frame: reported | lines 65-66
+- [8] relates-to [9] | frame: reported | lines 72-72
+
+## Scene 73-87: The Distinction Between Will and Force
+- [1] opposes [2] | frame: reported | lines 73-74
+
+## Scene 88-99: The Paradox of Piccarda and Costanza
+- [8] tells [9] | frame: literal | lines 94-94
+- [12] hears [13] | frame: reported | lines 97-97
+- [13] relates-to [14] | frame: reported | lines 98-98
+- [15] opposes [16] | frame: reported | lines 99-99
+
+## Scene 100-114: The Intersection of Force and Will
+- [10] addresses [1] | frame: literal | lines 100-100
+- [7] pleads-with [6] | frame: reported | lines 103-104
+- [6] defeats [8] | frame: reported | lines 103-104
+- [10] commands [11] | frame: literal | lines 106-106
+
+## Scene 115-117: The Resolution of Conflict
+
+
+## Scene 118-129: Dante's Meditation on Truth
+- [4] addresses [1] | frame: literal | lines 118-119
+- [4] addresses [3] | frame: literal | lines 118-119
+- [1] relates-to [2] | frame: literal | lines 118-118
+- [4] gives [7] | frame: reported | lines 121-122
+- [8] gives [7] | frame: reported | lines 123-123
+
+## Scene 130-138: The New Inquiry
+- [1] relates-to [2] | frame: literal | lines 132-132
+- [7] asks [5] | frame: literal | lines 134-138
+- [8] relates-to [5] | frame: reported | lines 136-138
+
+## Scene 139-142: Beatrice's Divine Gaze
+- [1] sees [2] | frame: literal | lines 139-139
+- [1] defeats [2] | frame: literal | lines 141-141

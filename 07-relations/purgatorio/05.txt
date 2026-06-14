@@ -1,0 +1,99 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+
+## Scene 1-6: The Sudden Cry
+- [3] follows [4] | frame: literal | lines 2-2
+- [6] shows [5] | frame: literal | lines 3-3
+- [6] calls [7] | frame: literal | lines 4-4
+- [7] sees [8] | frame: reported | lines 4-6
+
+## Scene 7-9: Dante's Distraction
+
+
+## Scene 10-18: Virgil's Admonishment
+- [1] asks [2] | frame: literal | lines 10-11
+- [3] follows [4] | frame: reported | lines 13-13
+
+## Scene 19-21: Dante's Compliance
+- [1] answers [3] | frame: literal | lines 20-20
+
+## Scene 22-27: The Approaching Procession
+- [1] meets [2] | frame: literal | lines 23-23
+- [3] sees [5] | frame: literal | lines 25-25
+
+## Scene 28-30: The Messengers Arrive
+- [3] meets [4] | frame: literal | lines 29-29
+- [3] asks [4] | frame: literal | lines 29-29
+- [5] tells [3] | frame: reported | lines 30-30
+
+## Scene 31-36: Virgil's Verification
+- [1] speaks-to [2] | frame: literal | lines 31-31
+- [2] tells [3] | frame: reported | lines 32-32
+- [3] sends [4] | frame: reported | lines 32-32
+- [7] sees [6] | frame: reported | lines 34-34
+- [10] praises [5] | frame: reported | lines 36-36
+
+## Scene 37-42: The Swarming Souls
+- [2] sees [1] | frame: simile | lines 37-37
+- [5] meets [4] | frame: literal | lines 41-41
+- [5] compares [6] | frame: simile | lines 41-42
+
+## Scene 43-45: The Poet's Warning
+- [1] chases [2] | frame: reported | lines 43-43
+- [3] meets [5] | frame: reported | lines 44-44
+- [3] pleads-with [5] | frame: reported | lines 44-44
+- [4] commands [5] | frame: literal | lines 45-45
+- [6] hears [1] | frame: reported | lines 45-45
+
+## Scene 46-57: The Collective Plea
+- [3] calls [1] | frame: literal | lines 46-48
+- [3] commands [4] | frame: reported | lines 48-48
+- [7] sees [6] | frame: reported | lines 49-49
+- [3] asks [10] | frame: reported | lines 51-51
+- [3] asks [11] | frame: reported | lines 51-51
+- [16] gives [17] | frame: reported | lines 54-54
+- [18] relates-to [19] | frame: reported | lines 55-56
+- [20] punishes [21] | frame: reported | lines 57-57
+
+## Scene 58-63: Dante's Vow
+- [2] recognizes [3] | frame: reported | lines 58-59
+- [1] speaks-to [3] | frame: literal | lines 58-63
+- [1] addresses [5] | frame: literal | lines 60-60
+- [6] tells [7] | frame: reported | lines 60-61
+- [9] follows [8] | frame: reported | lines 62-63
+
+## Scene 64-72: The First Soul's Request
+- [1] relates-to [4] | frame: reported | lines 64-65
+- [3] pleads-with [4] | frame: literal | lines 67-68
+- [7] relates-to [8] | frame: reported | lines 70-70
+
+## Scene 73-84: The Death in the Marsh
+- [4] protects [3] | frame: reported | lines 75-76
+- [6] strikes [8] | frame: reported | lines 77-77
+- [6] opposes [8] | frame: reported | lines 77-78
+
+## Scene 85-90: The Second Soul's Appearance
+- [1] speaks-to [2] | frame: literal | lines 85-85
+- [1] pleads-with [3] | frame: literal | lines 87-87
+- [7] relates-to [8] | frame: reported | lines 89-89
+
+## Scene 91-93: Dante's Inquiry
+- [1] asks [2] | frame: literal | lines 91-93
+
+## Scene 94-108: The Battle of Angels
+- [7] tells [8] | frame: literal | lines 103-103
+- [8] tells [9] | frame: reported | lines 103-103
+- [10] brings [11] | frame: reported | lines 104-104
+- [13] addresses [14] | frame: reported | lines 104-105
+- [15] opposes [16] | frame: reported | lines 105-105
+- [17] brings [19] | frame: reported | lines 106-106
+
+## Scene 109-114: The Formation of Mist
+
+
+## Scene 115-129: The River's Embrace
+- [1] relates-to [2] | frame: reported | lines 127-127
+
+## Scene 130-136: The Plea of La Pia
+- [2] follows [3] | frame: literal | lines 132-132
+- [4] recognizes [5] | frame: reported | lines 133-133
+- [8] relates-to [9] | frame: reported | lines 135-136

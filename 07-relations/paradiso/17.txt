@@ -1,0 +1,82 @@
+# Canto 17 — The Prophecy of Exile and the Vision of the Great Lombard
+
+## Scene 1-6: The Mythological Parallel
+- [3] meets [1] | frame: simile | lines 1-1
+- [6] compares [3] | frame: simile | lines 1-4
+- [8] sees [7] | frame: literal | lines 4-5
+- [9] sees [7] | frame: literal | lines 4-5
+- [9] relates-to [10] | frame: literal | lines 6-6
+
+## Scene 7-12: Beatrice's Instruction
+- [2] commands [3] | frame: reported | lines 7-8
+- [6] answers [7] | frame: reported | lines 12-12
+
+## Scene 13-27: Dante's Plea for Knowledge
+- [5] speaks-to [1] | frame: literal | lines 13-27
+- [5] addresses [1] | frame: literal | lines 13-13
+- [5] tells [4] | frame: literal | lines 16-16
+- [5] relates-to [6] | frame: reported | lines 19-19
+- [6] warns [8] | frame: reported | lines 22-22
+- [5] asks [1] | frame: literal | lines 25-26
+
+## Scene 28-36: The Divine Response
+- [1] speaks-to [2] | frame: literal | lines 28-28
+- [2] speaks-to [3] | frame: literal | lines 29-29
+- [4] commands [1] | frame: literal | lines 30-30
+- [8] answers [1] | frame: literal | lines 34-35
+
+## Scene 37-45: The Theology of Contingency
+- [1] sees [2] | frame: reported | lines 44-45
+
+## Scene 46-54: The Prediction of Exile
+- [3] opposes [2] | frame: simile | lines 46-47
+- [5] opposes [4] | frame: prophecy | lines 48-50
+- [8] rebukes [4] | frame: prophecy | lines 52-52
+
+## Scene 55-69: The Hardships of Exile
+- [6] opposes [7] | frame: prophecy | lines 64-65
+
+## Scene 70-75: The First Refuge
+- [1] protects [2] | frame: prophecy | lines 70-71
+- [3] relates-to [2] | frame: prophecy | lines 73-73
+- [3] gives [2] | frame: prophecy | lines 74-75
+
+## Scene 76-84: The Rise of the Virtuous Leader
+- [2] sees [3] | frame: prophecy | lines 76-76
+- [5] recognizes [4] | frame: reported | lines 79-79
+- [7] opposes [8] | frame: prophecy | lines 82-82
+
+## Scene 85-93: The Global Impact of the Leader
+- [1] recognizes [2] | frame: prophecy | lines 85-87
+- [3] meets [4] | frame: prophecy | lines 88-88
+- [5] relates-to [6] | frame: prophecy | lines 89-89
+- [5] relates-to [7] | frame: prophecy | lines 89-90
+- [8] recognizes [10] | frame: prophecy | lines 91-91
+- [12] speaks-to [11] | frame: literal | lines 92-92
+- [12] tells [13] | frame: literal | lines 92-93
+
+## Scene 94-99: A Warning Against Envy
+- [1] addresses [2] | frame: literal | lines 94-94
+- [1] tells [3] | frame: reported | lines 95-95
+- [4] warns [6] | frame: literal | lines 97-97
+
+## Scene 100-105: Dante's Request for Counsel
+- [3] gives [4] | frame: literal | lines 102-102
+- [5] asks [7] | frame: literal | lines 103-105
+- [5] compares [6] | frame: simile | lines 103-103
+- [6] asks [7] | frame: simile | lines 103-105
+
+## Scene 106-120: Dante's Existential Fear
+- [1] addresses [2] | frame: literal | lines 106-106
+- [3] strikes [4] | frame: reported | lines 106-107
+- [12] guides [13] | frame: reported | lines 114-114
+- [18] relates-to [19] | frame: reported | lines 119-120
+
+## Scene 121-135: The Necessity of Bitter Truth
+- [2] meets [1] | frame: literal | lines 121-122
+- [3] answers [5] | frame: literal | lines 124-124
+- [3] commands [5] | frame: literal | lines 129-129
+
+## Scene 136-142: The Purpose of the Vision
+- [1] sees [2] | frame: reported | lines 136-138
+- [3] hears [1] | frame: reported | lines 139-139

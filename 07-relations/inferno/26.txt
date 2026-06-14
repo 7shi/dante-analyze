@@ -1,0 +1,94 @@
+# Canto 26 — The Eighth Bolgia and the Tale of Ulysses
+
+## Scene 1-12: The Prologue to Florence
+- [6] addresses [2] | frame: literal | lines 1-12
+- [6] meets [5] | frame: literal | lines 4-4
+- [6] meets [7] | frame: literal | lines 4-4
+- [6] rebukes [2] | frame: literal | lines 1-6
+- [6] warns [11] | frame: literal | lines 7-9
+
+## Scene 13-24: The Ascent and Reflection
+- [4] brings [5] | frame: literal | lines 15-15
+- [12] chases [14] | frame: literal | lines 21-21
+- [15] guides [14] | frame: literal | lines 22-22
+
+## Scene 25-33: The Sight of the Eighth Bolgia
+- [5] shows [4] | frame: simile | lines 26-27
+
+## Scene 34-42: The Motion of the Flames
+- [3] sees [4] | frame: simile | lines 35-35
+- [5] follows [4] | frame: simile | lines 37-37
+
+## Scene 43-48: Virgil's Explanation
+- [4] sees [5] | frame: literal | lines 46-46
+- [9] punishes [8] | frame: reported | lines 48-48
+
+## Scene 49-63: The Inquiry of the Trojan Heroes
+- [2] addresses [1] | frame: literal | lines 49-49
+- [2] speaks-to [1] | frame: literal | lines 49-49
+- [2] asks [1] | frame: literal | lines 52-54
+- [2] sees [6] | frame: literal | lines 52-53
+- [7] relates-to [8] | frame: reported | lines 54-54
+- [9] answers [10] | frame: literal | lines 55-55
+- [9] names [12] | frame: literal | lines 56-56
+- [9] names [13] | frame: literal | lines 56-56
+- [14] relates-to [15] | frame: reported | lines 59-60
+- [16] relates-to [18] | frame: reported | lines 62-62
+- [12] relates-to [19] | frame: reported | lines 63-63
+- [13] relates-to [19] | frame: reported | lines 63-63
+
+## Scene 64-75: Dante's Request and Virgil's Warning
+- [2] asks [3] | frame: literal | lines 64-65
+- [4] pleads-with [7] | frame: literal | lines 65-66
+- [6] pleads-with [7] | frame: literal | lines 66-67
+- [10] sees [12] | frame: literal | lines 69-69
+- [12] meets [11] | frame: literal | lines 69-69
+- [14] answers [15] | frame: literal | lines 70-70
+- [16] praises [15] | frame: literal | lines 70-71
+- [16] gives [15] | frame: literal | lines 71-71
+- [16] commands [17] | frame: literal | lines 72-72
+- [16] commands [18] | frame: literal | lines 73-73
+- [20] recognizes [21] | frame: literal | lines 73-74
+- [22] opposes [21] | frame: reported | lines 74-75
+
+## Scene 76-84: The Voice from the Flame
+- [3] hears [2] | frame: literal | lines 78-78
+- [2] addresses [4] | frame: literal | lines 79-79
+- [5] relates-to [6] | frame: reported | lines 80-80
+- [8] relates-to [9] | frame: reported | lines 81-81
+- [2] commands [11] | frame: literal | lines 83-83
+- [2] commands [13] | frame: literal | lines 83-83
+- [14] relates-to [15] | frame: reported | lines 84-84
+
+## Scene 85-99: Ulysses's Wandering Impulse
+- [1] compares [4] | frame: simile | lines 89-89
+- [8] relates-to [9] | frame: reported | lines 91-91
+- [9] relates-to [10] | frame: reported | lines 91-92
+- [11] names [12] | frame: reported | lines 93-93
+- [17] relates-to [13] | frame: reported | lines 94-94
+- [17] relates-to [14] | frame: reported | lines 95-95
+- [17] relates-to [15] | frame: reported | lines 96-96
+
+## Scene 100-105: The Voyage Through the Mediterranean
+- [1] follows [3] | frame: reported | lines 101-101
+- [3] follows [4] | frame: reported | lines 102-102
+
+## Scene 106-120: The Pillars of Hercules and the Great Exhortation
+- [4] warns [5] | frame: literal | lines 108-109
+- [7] relates-to [9] | frame: literal | lines 110-110
+- [11] relates-to [10] | frame: literal | lines 111-111
+- [13] addresses [12] | frame: literal | lines 112-112
+- [13] tells [14] | frame: reported | lines 113-113
+- [13] commands [15] | frame: reported | lines 116-116
+- [13] commands [16] | frame: reported | lines 118-118
+- [13] tells [17] | frame: reported | lines 119-120
+
+## Scene 121-126: The Flight of the Crew
+- [2] commands [1] | frame: reported | lines 121-122
+- [3] chases [4] | frame: reported | lines 123-123
+
+## Scene 127-132: Descent into the Southern Seas
+
+
+## Scene 133-142: The Final Storm and Shipwreck
+- [2] sees [1] | frame: reported | lines 133-135

@@ -1,0 +1,76 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+
+## Scene 1-12: Pluto's Outburst and Virgil's Rebuke
+- [3] calls [1] | frame: literal | lines 1-1
+- [3] calls [2] | frame: literal | lines 1-1
+- [5] speaks-to [6] | frame: literal | lines 3-4
+- [7] opposes [8] | frame: reported | lines 5-6
+- [9] addresses [11] | frame: literal | lines 7-8
+- [12] commands [13] | frame: literal | lines 8-8
+- [12] commands [14] | frame: literal | lines 8-8
+- [15] defeats [16] | frame: reported | lines 9-9
+
+## Scene 13-18: Descent into the Fourth Circle
+
+
+## Scene 19-24: The Chaos of the Swirling Souls
+- [1] punishes [2] | frame: reported | lines 19-19
+- [3] sees [2] | frame: literal | lines 20-20
+- [5] compares [4] | frame: simile | lines 22-24
+
+## Scene 25-35: The Mechanics of the Punishment
+- [1] sees [2] | frame: literal | lines 25-25
+- [4] asks [5] | frame: reported | lines 30-30
+- [4] asks [6] | frame: reported | lines 30-30
+- [7] rebukes [8] | frame: literal | lines 33-33
+
+## Scene 36-48: Identification of the Avaricious
+- [2] addresses [3] | frame: literal | lines 37-37
+- [2] asks [3] | frame: literal | lines 37-39
+- [10] answers [11] | frame: literal | lines 40-40
+- [10] tells [11] | frame: literal | lines 40-48
+- [14] opposes [15] | frame: reported | lines 44-45
+- [16] relates-to [17] | frame: reported | lines 46-46
+- [16] relates-to [18] | frame: reported | lines 46-47
+- [16] relates-to [19] | frame: reported | lines 46-47
+
+## Scene 49-66: The Futility of Wealth
+- [1] speaks-to [2] | frame: literal | lines 49-49
+- [4] recognizes [3] | frame: reported | lines 50-50
+- [5] answers [6] | frame: literal | lines 52-52
+- [11] strikes [12] | frame: reported | lines 55-57
+- [5] speaks-to [16] | frame: literal | lines 61-61
+
+## Scene 67-84: The Doctrine of Fortune
+- [2] speaks-to [1] | frame: literal | lines 67-67
+- [2] asks [4] | frame: literal | lines 67-69
+- [8] speaks-to [9] | frame: literal | lines 70-70
+- [8] names [10] | frame: literal | lines 70-70
+- [8] rebukes [11] | frame: literal | lines 71-71
+- [12] commands [13] | frame: literal | lines 72-72
+- [16] gives [18] | frame: reported | lines 74-74
+- [18] guides [17] | frame: reported | lines 74-74
+- [19] commands [20] | frame: reported | lines 78-78
+
+## Scene 85-96: The Unchanging Divine Order
+- [4] compares [5] | frame: simile | lines 86-87
+- [10] strikes [8] | frame: reported | lines 91-92
+- [10] praises [11] | frame: reported | lines 92-92
+- [10] rebukes [11] | frame: reported | lines 93-93
+- [16] relates-to [15] | frame: reported | lines 95-95
+
+## Scene 97-105: Transition to the Styx
+
+
+## Scene 106-114: The Sight of the Wrathful and Sullen
+- [2] sees [3] | frame: literal | lines 109-110
+- [4] strikes [5] | frame: literal | lines 112-114
+
+## Scene 115-126: The Lament of the Sullen
+- [1] speaks-to [2] | frame: literal | lines 115-115
+- [1] addresses [2] | frame: literal | lines 115-115
+- [3] sees [4] | frame: reported | lines 115-116
+- [6] tells [7] | frame: literal | lines 117-117
+
+## Scene 127-130: Arrival at the Tower
+- [1] sees [2] | frame: literal | lines 129-129

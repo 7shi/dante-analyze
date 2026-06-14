@@ -1,0 +1,94 @@
+# Canto 09 — The Vision of the Needle and the Arrival at the Gate of Purgatory
+
+## Scene 1-12: The Celestial Setting
+- [1] relates-to [2] | frame: literal | lines 1-1
+- [1] relates-to [4] | frame: literal | lines 3-3
+- [9] follows [11] | frame: literal | lines 10-10
+
+## Scene 13-24: The Dream Vision
+- [1] sees [3] | frame: literal | lines 19-20
+- [2] sees [3] | frame: literal | lines 22-22
+
+## Scene 25-33: The Descent of the Needle
+
+
+## Scene 34-42: The Awakening of Achilles
+- [5] brings [7] | frame: simile | lines 37-38
+- [6] touches [7] | frame: simile | lines 38-38
+- [8] brings [9] | frame: simile | lines 39-39
+- [13] compares [14] | frame: simile | lines 41-42
+
+## Scene 43-45: Return to Reality
+
+
+## Scene 46-63: Virgil's Revelation
+- [2] speaks-to [1] | frame: literal | lines 46-46
+- [13] asks [15] | frame: reported | lines 56-56
+- [13] brings [16] | frame: reported | lines 56-56
+- [17] guides [18] | frame: reported | lines 57-57
+- [21] brings [22] | frame: reported | lines 59-59
+- [24] follows [23] | frame: reported | lines 60-60
+- [25] brings [26] | frame: reported | lines 61-61
+- [28] shows [27] | frame: reported | lines 61-62
+
+## Scene 64-69: Dante's Reaction
+- [5] compares [1] | frame: simile | lines 64-67
+- [7] sees [6] | frame: literal | lines 68-68
+- [10] follows [8] | frame: literal | lines 68-69
+
+## Scene 70-72: The Poet's Meta-commentary
+- [3] addresses [1] | frame: literal | lines 70-70
+- [2] sees [3] | frame: literal | lines 70-70
+- [6] commands [4] | frame: literal | lines 72-72
+
+## Scene 73-78: The Three Steps
+- [5] sees [6] | frame: literal | lines 76-78
+
+## Scene 79-84: The Flash of the Sword
+- [4] relates-to [5] | frame: literal | lines 81-81
+
+## Scene 85-93: The Porter's Inquiry
+- [4] asks [1] | frame: literal | lines 85-85
+- [4] asks [2] | frame: literal | lines 85-85
+- [4] asks [3] | frame: literal | lines 85-85
+- [4] asks [5] | frame: literal | lines 86-86
+- [4] warns [6] | frame: literal | lines 87-87
+- [4] warns [7] | frame: literal | lines 87-87
+- [9] answers [10] | frame: literal | lines 88-89
+- [11] commands [12] | frame: reported | lines 90-90
+- [14] commands [15] | frame: literal | lines 92-93
+
+## Scene 94-102: The Three Colored Steps
+- [2] sees [3] | frame: literal | lines 96-96
+
+## Scene 103-108: The Angel on the Threshold
+- [4] brings [3] | frame: literal | lines 106-107
+- [4] commands [5] | frame: literal | lines 107-107
+- [5] asks [6] | frame: reported | lines 107-108
+
+## Scene 109-114: The Marking of the Forehead
+- [3] pleads-with [4] | frame: literal | lines 110-110
+- [6] strikes [7] | frame: literal | lines 111-111
+- [8] strikes [9] | frame: literal | lines 112-112
+- [13] commands [10] | frame: literal | lines 113-114
+
+## Scene 115-120: The Golden and Silver Keys
+
+
+## Scene 121-129: The Porter's Warning
+- [1] speaks-to [2] | frame: literal | lines 123-123
+- [4] gives [5] | frame: reported | lines 127-127
+- [4] rebukes [6] | frame: reported | lines 127-128
+- [7] meets [8] | frame: reported | lines 129-129
+
+## Scene 130-132: The Command to Enter
+- [1] commands [2] | frame: literal | lines 131-131
+- [3] warns [2] | frame: literal | lines 131-131
+
+## Scene 133-138: The Sound of the Hinges
+
+
+## Scene 139-145: The Celestial Hymn
+- [5] praises [3] | frame: reported | lines 140-140
+- [5] praises [4] | frame: reported | lines 140-140
+- [6] hears [5] | frame: literal | lines 140-141

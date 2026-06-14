@@ -1,0 +1,123 @@
+# Canto 13 — The Terrace of the Envious and the Sienese Soul
+
+## Scene 1-9: The Second Terrace
+
+
+## Scene 10-21: Virgil's Prayer to the Sun
+- [11] calls [10] | frame: literal | lines 16-16
+- [12] guides [11] | frame: reported | lines 16-17
+- [12] guides [14] | frame: reported | lines 18-18
+
+## Scene 22-27: The Flight of the Spirits
+- [2] hears [3] | frame: literal | lines 25-25
+- [3] speaks-to [2] | frame: literal | lines 26-27
+
+## Scene 28-33: The First Two Voices
+- [3] calls [4] | frame: literal | lines 29-29
+- [5] follows [4] | frame: literal | lines 30-30
+- [4] hears [6] | frame: literal | lines 31-31
+- [11] calls [4] | frame: literal | lines 32-33
+
+## Scene 34-36: The Third Voice
+- [1] asks [2] | frame: literal | lines 34-34
+- [3] asks [2] | frame: literal | lines 35-35
+- [4] commands [5] | frame: literal | lines 36-36
+
+## Scene 37-45: Virgil's Interpretation
+- [1] speaks-to [3] | frame: literal | lines 37-45
+- [2] tells [3] | frame: literal | lines 41-41
+- [1] commands [5] | frame: literal | lines 43-43
+- [6] sees [7] | frame: reported | lines 44-44
+
+## Scene 46-48: Discovery of the Shadows
+- [4] sees [5] | frame: literal | lines 47-47
+
+## Scene 49-51: The Litany of Saints
+- [2] hears [4] | frame: literal | lines 50-50
+- [4] pleads-with [3] | frame: reported | lines 50-50
+- [4] calls [5] | frame: reported | lines 51-51
+- [4] calls [6] | frame: reported | lines 51-51
+- [4] calls [7] | frame: reported | lines 51-51
+
+## Scene 52-66: The Sight of the Envious
+- [4] sees [3] | frame: literal | lines 54-54
+- [5] meets [6] | frame: literal | lines 55-55
+- [7] sees [6] | frame: literal | lines 55-56
+- [9] sees [10] | frame: literal | lines 58-58
+- [11] touches [12] | frame: literal | lines 59-59
+- [15] asks [16] | frame: simile | lines 61-62
+- [17] touches [18] | frame: simile | lines 63-63
+
+## Scene 67-72: The Dim Light of the Terrace
+- [3] gives [1] | frame: literal | lines 68-69
+- [3] gives [4] | frame: literal | lines 69-69
+
+## Scene 73-78: Dante's Anxiety
+- [6] recognizes [7] | frame: literal | lines 76-76
+- [6] recognizes [8] | frame: literal | lines 76-76
+- [10] speaks-to [11] | frame: literal | lines 78-78
+- [10] commands [12] | frame: literal | lines 78-78
+
+## Scene 79-84: Virgil's Movement
+- [1] meets [2] | frame: literal | lines 79-79
+
+## Scene 85-93: Dante's Greeting
+- [1] addresses [3] | frame: literal | lines 85-85
+- [5] protects [2] | frame: reported | lines 86-87
+- [4] asks [6] | frame: literal | lines 91-92
+- [10] relates-to [11] | frame: reported | lines 93-93
+- [11] meets [12] | frame: reported | lines 93-93
+
+## Scene 94-99: The Reply
+
+
+## Scene 100-105: The Interrogation
+- [1] sees [2] | frame: literal | lines 100-100
+- [3] compares [4] | frame: simile | lines 102-102
+- [6] addresses [5] | frame: literal | lines 103-103
+- [9] answers [10] | frame: reported | lines 104-104
+- [6] asks [11] | frame: literal | lines 105-105
+
+## Scene 106-114: The Sienese Confession
+- [2] answers [11] | frame: literal | lines 106-106
+- [4] pleads-with [5] | frame: reported | lines 108-108
+- [15] commands [14] | frame: literal | lines 113-113
+- [16] tells [17] | frame: literal | lines 113-113
+
+## Scene 115-123: The Tale of the Battle
+- [1] opposes [2] | frame: reported | lines 115-116
+- [3] pleads-with [4] | frame: reported | lines 117-117
+- [1] defeats [5] | frame: reported | lines 118-118
+- [6] sees [5] | frame: reported | lines 119-119
+- [7] calls [8] | frame: reported | lines 121-122
+- [9] opposes [10] | frame: reported | lines 122-122
+
+## Scene 124-132: A Prayer for Penance
+- [1] relates-to [2] | frame: reported | lines 124-124
+- [4] relates-to [3] | frame: reported | lines 127-128
+- [4] relates-to [5] | frame: reported | lines 129-129
+- [1] asks [6] | frame: literal | lines 130-130
+- [8] asks [1] | frame: literal | lines 131-131
+- [1] sees [9] | frame: literal | lines 131-131
+
+## Scene 133-138: Dante's Explanation
+
+
+## Scene 139-144: The Living Traveler
+- [1] speaks-to [2] | frame: literal | lines 139-139
+- [1] asks [2] | frame: literal | lines 139-140
+- [3] guides [4] | frame: reported | lines 139-139
+- [7] answers [1] | frame: literal | lines 141-141
+- [12] asks [11] | frame: literal | lines 142-142
+- [7] addresses [13] | frame: literal | lines 143-143
+
+## Scene 145-154: The Prophecy of Tuscany
+- [1] answers [3] | frame: literal | lines 145-146
+- [2] relates-to [3] | frame: reported | lines 146-146
+- [3] relates-to [4] | frame: reported | lines 147-147
+- [1] asks [5] | frame: literal | lines 148-150
+- [8] praises [9] | frame: reported | lines 150-150
+- [8] speaks-to [7] | frame: reported | lines 150-150
+- [10] sees [11] | frame: prophecy | lines 151-151
+- [11] relates-to [12] | frame: prophecy | lines 151-151
+- [13] relates-to [14] | frame: prophecy | lines 152-153

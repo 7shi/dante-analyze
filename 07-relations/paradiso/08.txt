@@ -1,0 +1,90 @@
+# Canto 08 — The Descent of the Celestial Light and the Mystery of Providence
+
+## Scene 1-12: The Cosmological Prologue
+- [1] relates-to [2] | frame: reported | lines 2-3
+- [4] praises [3] | frame: reported | lines 4-6
+- [6] praises [5] | frame: reported | lines 7-7
+- [6] praises [7] | frame: reported | lines 7-7
+- [8] relates-to [9] | frame: reported | lines 8-8
+- [11] touches [12] | frame: reported | lines 9-9
+- [15] names [16] | frame: reported | lines 11-11
+- [17] sees [16] | frame: literal | lines 12-12
+
+## Scene 13-21: The Vision of Divine Light
+- [5] sees [4] | frame: literal | lines 15-15
+
+## Scene 22-30: The Descent of the Spirits
+- [1] sees [2] | frame: simile | lines 25-26
+- [2] meets [3] | frame: simile | lines 25-26
+- [6] hears [5] | frame: literal | lines 28-30
+
+## Scene 31-39: The Approach of the Spirit
+- [2] meets [3] | frame: literal | lines 31-31
+- [4] speaks-to [6] | frame: literal | lines 32-32
+- [6] relates-to [5] | frame: reported | lines 33-33
+- [8] relates-to [10] | frame: reported | lines 34-35
+- [11] speaks-to [10] | frame: reported | lines 36-36
+- [13] relates-to [6] | frame: reported | lines 38-39
+
+## Scene 40-48: The Encounter with Beatrice
+- [9] sees [1] | frame: literal | lines 40-41
+- [9] sees [5] | frame: literal | lines 43-43
+- [9] asks [5] | frame: literal | lines 44-44
+- [9] sees [10] | frame: literal | lines 46-46
+
+## Scene 49-57: The Spirit's Earthly Connection
+- [1] answers [2] | frame: literal | lines 49-49
+- [9] relates-to [10] | frame: reported | lines 55-55
+- [13] shows [14] | frame: reported | lines 56-57
+
+## Scene 58-66: Prophecy of the Northern and Central Lands
+- [1] relates-to [2] | frame: reported | lines 58-60
+
+## Scene 67-75: The Prophecy of Sicily
+- [5] relates-to [4] | frame: reported | lines 71-72
+- [6] relates-to [4] | frame: reported | lines 72-72
+- [7] relates-to [4] | frame: reported | lines 72-72
+
+## Scene 76-84: The Warning for Catalonia
+- [1] relates-to [3] | frame: prophecy | lines 76-78
+- [3] punishes [2] | frame: prophecy | lines 78-78
+
+## Scene 85-93: Dante's Theological Doubt
+- [1] speaks-to [3] | frame: literal | lines 85-93
+- [1] addresses [3] | frame: literal | lines 86-86
+- [8] sees [9] | frame: literal | lines 90-90
+- [12] tells [13] | frame: reported | lines 91-91
+- [14] speaks-to [15] | frame: reported | lines 92-92
+
+## Scene 94-112: The Lesson on Divine Providence
+- [1] speaks-to [2] | frame: literal | lines 94-94
+- [3] answers [4] | frame: literal | lines 94-94
+- [5] shows [6] | frame: reported | lines 95-95
+- [7] asks [5] | frame: reported | lines 95-95
+- [15] relates-to [16] | frame: reported | lines 111-111
+- [3] asks [17] | frame: literal | lines 112-112
+
+## Scene 113-120: The Socratic Interlude on Nature
+- [1] answers [4] | frame: literal | lines 113-113
+- [2] sees [3] | frame: reported | lines 113-114
+- [4] asks [5] | frame: literal | lines 115-116
+- [7] answers [4] | frame: literal | lines 117-117
+- [11] tells [12] | frame: reported | lines 120-120
+
+## Scene 121-129: The Diversity of Human Destinies
+- [6] relates-to [7] | frame: reported | lines 125-126
+
+## Scene 130-135: Providence Overriding Nature
+- [2] opposes [3] | frame: reported | lines 130-131
+- [4] relates-to [5] | frame: reported | lines 131-132
+- [6] relates-to [7] | frame: reported | lines 132-132
+- [8] relates-to [9] | frame: reported | lines 133-134
+- [10] defeats [8] | frame: reported | lines 135-135
+
+## Scene 136-148: The Final Warning
+- [6] tells [7] | frame: literal | lines 137-138
+- [8] opposes [9] | frame: reported | lines 139-141
+- [11] follows [12] | frame: reported | lines 142-144
+- [14] relates-to [15] | frame: reported | lines 145-146
+- [16] relates-to [18] | frame: reported | lines 147-147
+- [16] relates-to [17] | frame: reported | lines 147-147

@@ -1,0 +1,123 @@
+# Canto 20 — The Prophecy of Ugo Ciappetta and the Catalog of Avarice
+
+## Scene 1-9: Navigating the Narrow Ledge
+- [3] guides [2] | frame: literal | lines 4-4
+- [7] meets [2] | frame: literal | lines 9-9
+- [7] meets [3] | frame: literal | lines 9-9
+
+## Scene 10-12: The Curse of the She-Wolf
+
+
+## Scene 13-15: Dante’s Cosmic Prayer
+
+
+## Scene 16-24: The Women’s Lament
+- [2] hears [4] | frame: literal | lines 17-18
+- [6] hears [3] | frame: literal | lines 19-19
+- [3] calls [7] | frame: literal | lines 19-20
+- [3] addresses [10] | frame: literal | lines 22-22
+- [11] gives [12] | frame: reported | lines 24-24
+
+## Scene 25-33: Praising the Virtuous
+- [1] hears [7] | frame: literal | lines 25-25
+- [7] addresses [2] | frame: literal | lines 25-25
+- [7] praises [3] | frame: reported | lines 26-27
+- [5] meets [7] | frame: literal | lines 29-30
+- [8] speaks-to [2] | frame: literal | lines 31-33
+- [9] gives [10] | frame: reported | lines 31-32
+- [9] brings [10] | frame: reported | lines 32-33
+
+## Scene 34-39: Dante’s Inquiry
+- [4] addresses [1] | frame: literal | lines 34-34
+- [4] asks [2] | frame: literal | lines 35-35
+- [4] asks [5] | frame: literal | lines 35-36
+- [6] tells [1] | frame: literal | lines 37-39
+
+## Scene 40-48: The Root of Corruption
+- [2] tells [3] | frame: reported | lines 40-40
+- [2] sees [5] | frame: reported | lines 41-42
+- [2] rebukes [8] | frame: reported | lines 46-47
+- [2] rebukes [9] | frame: reported | lines 46-47
+- [2] rebukes [10] | frame: reported | lines 46-47
+- [2] rebukes [11] | frame: reported | lines 46-47
+- [12] asks [13] | frame: literal | lines 48-48
+
+## Scene 49-60: The Rise of Ugo Ciappetta
+- [3] relates-to [4] | frame: reported | lines 50-51
+- [3] relates-to [5] | frame: reported | lines 50-51
+- [7] relates-to [8] | frame: reported | lines 52-52
+- [10] relates-to [12] | frame: reported | lines 58-59
+- [12] relates-to [13] | frame: reported | lines 59-60
+- [12] relates-to [14] | frame: reported | lines 59-60
+
+## Scene 61-66: Conquest through Deceit
+
+
+## Scene 67-72: The Fate of Leaders
+- [2] defeats [3] | frame: reported | lines 67-68
+- [4] sends [5] | frame: reported | lines 69-69
+- [6] prophesies [7] | frame: literal | lines 70-71
+
+## Scene 73-78: The Prophecy of the New King
+- [1] compares [2] | frame: prophecy | lines 73-74
+
+## Scene 79-84: The Price of Avarice
+- [2] sees [1] | frame: prophecy | lines 80-80
+- [2] sees [3] | frame: prophecy | lines 80-80
+- [1] relates-to [3] | frame: prophecy | lines 80-80
+- [1] relates-to [4] | frame: prophecy | lines 80-80
+- [5] relates-to [6] | frame: simile | lines 81-81
+- [2] addresses [7] | frame: literal | lines 82-82
+- [8] relates-to [3] | frame: reported | lines 82-82
+- [9] brings [10] | frame: reported | lines 83-83
+- [12] relates-to [14] | frame: reported | lines 84-84
+
+## Scene 85-93: Visions of Future Corruption
+- [1] sees [2] | frame: literal | lines 86-86
+- [3] relates-to [2] | frame: prophecy | lines 87-87
+- [4] sees [2] | frame: literal | lines 88-88
+- [6] defeats [2] | frame: prophecy | lines 90-90
+- [7] sees [8] | frame: literal | lines 91-91
+- [8] relates-to [2] | frame: prophecy | lines 92-92
+
+## Scene 94-102: The Timing of Vengeance
+- [2] asks [1] | frame: literal | lines 94-96
+- [3] tells [4] | frame: literal | lines 97-97
+- [4] relates-to [5] | frame: literal | lines 97-98
+- [4] brings [6] | frame: reported | lines 97-99
+- [6] meets [7] | frame: reported | lines 97-99
+- [1] answers [8] | frame: reported | lines 100-101
+
+## Scene 103-117: A Catalog of Greedy Souls
+- [1] relates-to [2] | frame: literal | lines 103-103
+- [1] relates-to [3] | frame: literal | lines 103-106
+- [5] recognizes [4] | frame: literal | lines 109-109
+- [7] punishes [8] | frame: reported | lines 110-111
+- [9] rebukes [10] | frame: literal | lines 112-112
+- [11] rebukes [12] | frame: literal | lines 113-113
+- [14] defeats [15] | frame: reported | lines 115-115
+- [16] calls [17] | frame: literal | lines 116-116
+- [16] asks [18] | frame: literal | lines 116-117
+
+## Scene 118-123: Dante’s Solitary Presence
+- [1] speaks-to [2] | frame: reported | lines 118-118
+- [2] speaks-to [1] | frame: reported | lines 118-118
+
+## Scene 124-132: The Trembling Mountain
+- [1] relates-to [2] | frame: literal | lines 124-124
+- [5] compares [6] | frame: simile | lines 128-129
+- [7] relates-to [8] | frame: simile | lines 131-132
+
+## Scene 133-138: The Celestial Shout
+- [1] speaks-to [2] | frame: literal | lines 134-135
+- [5] commands [4] | frame: reported | lines 135-135
+- [5] guides [6] | frame: reported | lines 135-135
+- [9] praises [7] | frame: literal | lines 136-136
+- [8] hears [9] | frame: literal | lines 137-137
+
+## Scene 139-144: Resuming the Path
+- [1] compares [2] | frame: simile | lines 139-140
+- [3] sees [4] | frame: literal | lines 143-143
+
+## Scene 145-151: Dante’s Bewilderment
+

@@ -1,0 +1,98 @@
+# Canto 22 — The Poets of Limbo and the Enchanted Tree
+
+## Scene 1-9: The Departure and Ascent
+- [3] praises [4] | frame: literal | lines 4-5
+- [6] answers [3] | frame: literal | lines 5-6
+- [10] follows [11] | frame: literal | lines 8-9
+
+## Scene 10-24: Virgil’s Inquiry
+- [1] speaks-to [10] | frame: literal | lines 10-18
+- [2] relates-to [3] | frame: reported | lines 11-11
+- [5] meets [4] | frame: reported | lines 13-14
+- [5] tells [6] | frame: reported | lines 14-15
+- [7] relates-to [6] | frame: reported | lines 14-15
+- [1] relates-to [7] | frame: reported | lines 16-17
+- [1] asks [10] | frame: literal | lines 19-19
+- [1] pleads-with [13] | frame: literal | lines 19-19
+- [1] asks [17] | frame: literal | lines 21-21
+- [1] asks [19] | frame: literal | lines 22-24
+- [18] relates-to [19] | frame: reported | lines 22-23
+
+## Scene 25-36: Statius’s Defense
+- [3] answers [8] | frame: literal | lines 26-26
+- [8] tells [4] | frame: reported | lines 27-27
+- [8] asks [5] | frame: reported | lines 31-31
+- [3] tells [8] | frame: literal | lines 34-34
+- [10] punishes [9] | frame: reported | lines 35-36
+
+## Scene 37-54: The Sin of Lukewarmness
+- [2] hears [3] | frame: reported | lines 38-38
+- [3] rebukes [5] | frame: reported | lines 39-41
+- [14] tells [13] | frame: literal | lines 49-49
+
+## Scene 55-63: Dante’s Doubt
+- [3] speaks-to [1] | frame: literal | lines 55-63
+- [1] relates-to [2] | frame: reported | lines 55-56
+- [4] touches [1] | frame: reported | lines 58-58
+- [3] asks [1] | frame: literal | lines 61-63
+- [7] follows [8] | frame: reported | lines 62-63
+
+## Scene 64-81: Statius’s Tribute to Virgil
+- [1] speaks-to [2] | frame: literal | lines 64-64
+- [3] guides [4] | frame: reported | lines 64-65
+- [6] guides [7] | frame: reported | lines 66-66
+- [8] compares [9] | frame: simile | lines 67-69
+- [12] prophesies [13] | frame: reported | lines 70-72
+- [14] guides [16] | frame: reported | lines 73-73
+- [17] guides [18] | frame: reported | lines 73-73
+- [19] sees [20] | frame: reported | lines 74-74
+- [12] relates-to [24] | frame: reported | lines 79-80
+- [25] meets [26] | frame: reported | lines 81-81
+
+## Scene 82-93: The Burden of Tepidity
+- [5] sees [1] | frame: reported | lines 82-82
+- [3] punishes [4] | frame: reported | lines 83-83
+- [8] recognizes [9] | frame: reported | lines 86-86
+- [11] guides [12] | frame: reported | lines 88-88
+
+## Scene 94-99: Dante’s Inquiry into Classical Poets
+- [1] shows [2] | frame: reported | lines 94-95
+- [3] asks [5] | frame: literal | lines 97-99
+- [10] recognizes [12] | frame: reported | lines 98-98
+
+## Scene 100-114: The Inhabitants of Limbo
+- [4] names [1] | frame: literal | lines 100-100
+- [4] names [2] | frame: literal | lines 100-100
+- [5] relates-to [6] | frame: reported | lines 101-101
+- [7] relates-to [6] | frame: reported | lines 102-102
+- [4] names [10] | frame: literal | lines 106-106
+- [4] names [11] | frame: literal | lines 106-106
+- [4] names [12] | frame: literal | lines 107-107
+- [4] names [13] | frame: literal | lines 107-107
+- [4] names [14] | frame: literal | lines 110-110
+- [4] names [15] | frame: literal | lines 110-110
+- [4] names [16] | frame: literal | lines 110-110
+- [4] names [17] | frame: literal | lines 111-111
+- [4] names [19] | frame: literal | lines 112-112
+- [4] names [20] | frame: literal | lines 113-113
+- [4] names [21] | frame: literal | lines 113-113
+- [4] names [22] | frame: literal | lines 114-114
+- [4] names [23] | frame: literal | lines 114-114
+- [22] relates-to [23] | frame: reported | lines 114-114
+
+## Scene 115-126: Realigning the Ascent
+- [7] follows [8] | frame: literal | lines 125-126
+
+## Scene 127-129: Dante’s Observation
+- [2] follows [1] | frame: literal | lines 127-128
+- [3] hears [1] | frame: literal | lines 128-128
+
+## Scene 130-138: The Discovery of the Tree
+- [2] meets [1] | frame: literal | lines 131-131
+- [3] chases [5] | frame: reported | lines 135-135
+
+## Scene 139-141: The Voice’s Invitation
+- [3] addresses [4] | frame: literal | lines 140-141
+
+## Scene 142-154: The Theology of Fasting
+- [2] answers [3] | frame: reported | lines 142-144

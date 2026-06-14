@@ -1,0 +1,83 @@
+# Canto 30 — The Arrival of Beatrice and the Vision of the Blessed
+
+## Scene 1-9: The Settling of the First Heaven
+- [1] compares [2] | frame: simile | lines 5-6
+
+## Scene 10-12: The Herald's Cry
+- [2] commands [3] | frame: reported | lines 11-11
+- [4] commands [3] | frame: reported | lines 12-12
+- [5] follows [4] | frame: literal | lines 12-12
+
+## Scene 13-21: The Anthem of the Blessed
+- [5] praises [9] | frame: reported | lines 19-19
+- [5] commands [10] | frame: reported | lines 21-21
+
+## Scene 22-33: The Appearance of the Lady
+- [4] sees [3] | frame: literal | lines 32-32
+
+## Scene 34-39: Spiritual Recognition
+
+
+## Scene 40-48: Dante's Trembling
+- [2] strikes [1] | frame: literal | lines 40-40
+- [2] strikes [3] | frame: literal | lines 41-41
+- [6] meets [7] | frame: simile | lines 44-44
+- [5] speaks-to [10] | frame: literal | lines 46-46
+
+## Scene 49-54: Lament for Virgil
+- [8] praises [4] | frame: literal | lines 50-50
+- [7] protects [8] | frame: literal | lines 51-51
+- [6] relates-to [9] | frame: simile | lines 52-52
+
+## Scene 55-57: Virgil's Warning
+- [2] addresses [1] | frame: literal | lines 55-55
+- [2] commands [4] | frame: literal | lines 56-56
+- [2] commands [5] | frame: literal | lines 56-56
+- [2] warns [6] | frame: literal | lines 57-57
+
+## Scene 58-66: Beatrice's Gaze
+- [1] sees [2] | frame: simile | lines 59-59
+- [1] commands [3] | frame: simile | lines 60-60
+- [7] sees [8] | frame: literal | lines 64-64
+- [8] sees [10] | frame: literal | lines 66-66
+
+## Scene 67-75: The Greeting of Beatrice
+- [4] compares [5] | frame: simile | lines 71-72
+- [10] commands [7] | frame: literal | lines 73-73
+- [10] tells [7] | frame: literal | lines 73-73
+- [10] asks [11] | frame: literal | lines 74-74
+- [10] asks [12] | frame: literal | lines 75-75
+- [12] recognizes [13] | frame: reported | lines 75-75
+
+## Scene 76-81: Dante's Shame
+- [4] relates-to [5] | frame: simile | lines 79-79
+- [6] relates-to [7] | frame: literal | lines 80-80
+
+## Scene 82-84: Interrupted Song
+- [3] addresses [4] | frame: literal | lines 82-83
+- [3] addresses [5] | frame: literal | lines 82-83
+- [6] relates-to [4] | frame: reported | lines 83-83
+- [6] relates-to [5] | frame: reported | lines 83-83
+
+## Scene 85-99: The Release of Tears
+- [5] asks [6] | frame: reported | lines 96-96
+
+## Scene 100-117: Theology of Grace
+- [3] addresses [2] | frame: literal | lines 102-103
+- [7] relates-to [6] | frame: reported | lines 107-107
+- [9] gives [10] | frame: reported | lines 116-117
+
+## Scene 118-126: The Metaphor of the Uncultivated Soil
+- [2] protects [3] | frame: reported | lines 121-121
+- [2] shows [4] | frame: reported | lines 122-122
+- [6] guides [7] | frame: reported | lines 123-123
+- [10] relates-to [12] | frame: reported | lines 126-126
+
+## Scene 127-138: The Descent into Error
+- [3] relates-to [4] | frame: reported | lines 129-129
+- [8] calls [9] | frame: reported | lines 135-135
+- [12] shows [13] | frame: reported | lines 138-138
+
+## Scene 139-145: The Necessity of Repentance
+- [3] guides [4] | frame: reported | lines 140-140
+- [1] pleads-with [3] | frame: reported | lines 140-141

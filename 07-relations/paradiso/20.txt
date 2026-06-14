@@ -1,0 +1,92 @@
+# Canto 20 — The Celestial Lights and the Mystery of Divine Will
+
+## Scene 1-12: The Vision of the Heavens
+- [1] compares [4] | frame: simile | lines 7-9
+- [4] relates-to [5] | frame: literal | lines 8-8
+- [4] relates-to [6] | frame: literal | lines 8-9
+- [5] relates-to [6] | frame: literal | lines 8-9
+
+## Scene 13-18: Reflection on the Angelic Lights
+- [6] addresses [1] | frame: literal | lines 13-13
+- [3] relates-to [4] | frame: literal | lines 14-14
+- [6] sees [7] | frame: literal | lines 16-17
+
+## Scene 19-27: The Sound of the Stream
+
+## Scene 28-30: The Emergence of the Voice
+
+## Scene 31-36: The First Light: The Holy Spirit's Cantor
+
+## Scene 37-42: The Glory of the Cantor
+
+## Scene 43-48: The Second Light: The Widow's Comfort
+- [1] meets [2] | frame: literal | lines 43-43
+- [3] meets [4] | frame: literal | lines 44-44
+- [7] speaks-to [6] | frame: reported | lines 45-45
+- [6] relates-to [8] | frame: reported | lines 45-45
+- [9] follows [10] | frame: reported | lines 46-47
+
+## Scene 49-54: The Third Light: The Penitent
+- [2] relates-to [1] | frame: literal | lines 49-50
+
+## Scene 55-60: The Fourth Light: The Good Intention
+- [1] follows [2] | frame: literal | lines 55-55
+- [4] relates-to [3] | frame: reported | lines 57-57
+
+## Scene 61-66: The Fifth Light: The Just King
+- [2] sees [1] | frame: literal | lines 61-61
+- [4] relates-to [3] | frame: reported | lines 62-62
+- [4] relates-to [5] | frame: reported | lines 63-63
+- [4] relates-to [6] | frame: reported | lines 63-63
+- [9] relates-to [10] | frame: reported | lines 64-65
+
+## Scene 67-72: The Fifth Light Revealed: Rifeyo
+- [1] recognizes [2] | frame: reported | lines 67-69
+
+## Scene 73-78: Analogy of the Satisfied Bird
+
+## Scene 79-84: Dante's Inquiry
+- [3] asks [4] | frame: literal | lines 82-82
+- [6] sees [4] | frame: literal | lines 84-84
+
+## Scene 85-93: The Mystery of Essence
+- [1] answers [2] | frame: literal | lines 86-86
+- [3] sees [4] | frame: reported | lines 88-88
+- [5] tells [6] | frame: reported | lines 89-89
+- [1] commands [7] | frame: literal | lines 91-91
+- [7] compares [8] | frame: reported | lines 91-91
+
+## Scene 94-99: The Paradox of Divine Will
+- [1] defeats [2] | frame: simile | lines 97-97
+
+## Scene 100-105: The Nature of the First and Fifth Lights
+- [1] relates-to [3] | frame: reported | lines 100-101
+- [2] relates-to [3] | frame: reported | lines 100-101
+- [5] sees [4] | frame: reported | lines 101-102
+- [5] sees [6] | frame: reported | lines 101-102
+- [4] shows [6] | frame: reported | lines 101-102
+- [7] relates-to [8] | frame: reported | lines 103-104
+
+## Scene 106-117: The Story of the First Light's Rebirth
+- [4] protects [1] | frame: reported | lines 110-110
+- [8] protects [7] | frame: reported | lines 114-114
+
+## Scene 118-126: The Story of the Second Light's Conversion
+- [2] shows [3] | frame: reported | lines 122-123
+- [6] rebukes [7] | frame: reported | lines 126-126
+
+## Scene 127-129: The Identity of the Three Women
+- [3] sees [1] | frame: reported | lines 128-128
+
+## Scene 130-132: A Lament on Predestination
+
+
+## Scene 133-138: The Limits of Mortal Judgment
+- [3] sees [4] | frame: reported | lines 134-134
+- [5] recognizes [6] | frame: reported | lines 135-135
+
+## Scene 139-141: The Healing Word
+- [1] gives [2] | frame: literal | lines 139-141
+
+## Scene 142-148: The Harmony of Light and Word
+- [2] follows [1] | frame: simile | lines 142-143

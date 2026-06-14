@@ -1,0 +1,88 @@
+# Canto 07 — Beatrice's Theological Discourse on the Incarnation and Redemption
+
+## Scene 1-3: The Celestial Hymn
+
+
+## Scene 4-9: Movement of the Lights
+- [1] sees [2] | frame: literal | lines 5-5
+- [3] relates-to [2] | frame: literal | lines 6-6
+- [8] compares [7] | frame: simile | lines 8-9
+- [8] relates-to [9] | frame: literal | lines 9-9
+
+## Scene 10-15: Dante's Awe
+- [3] tells [8] | frame: reported | lines 10-10
+- [4] tells [8] | frame: reported | lines 10-10
+- [6] tells [8] | frame: reported | lines 11-11
+- [8] relates-to [9] | frame: reported | lines 12-12
+- [10] relates-to [11] | frame: literal | lines 14-14
+- [10] relates-to [12] | frame: literal | lines 14-14
+- [13] compares [14] | frame: simile | lines 15-15
+
+## Scene 16-24: Beatrice's Promise
+- [3] speaks-to [1] | frame: literal | lines 17-17
+- [6] tells [7] | frame: reported | lines 22-22
+- [6] commands [8] | frame: literal | lines 23-23
+
+## Scene 25-39: The Fall of Man
+- [1] punishes [2] | frame: reported | lines 27-27
+- [6] relates-to [12] | frame: reported | lines 32-32
+- [6] relates-to [7] | frame: reported | lines 32-32
+- [6] relates-to [8] | frame: reported | lines 32-32
+- [10] commands [9] | frame: literal | lines 34-34
+- [12] relates-to [11] | frame: reported | lines 35-35
+- [12] relates-to [5] | frame: reported | lines 31-31
+- [13] opposes [11] | frame: reported | lines 38-39
+
+## Scene 40-48: The Justice of the Cross
+
+
+## Scene 49-54: Dante's Lingering Doubt
+- [2] speaks-to [1] | frame: literal | lines 49-54
+- [2] sees [1] | frame: literal | lines 52-52
+
+## Scene 55-63: The Hidden Decree
+- [1] speaks-to [7] | frame: reported | lines 55-55
+- [3] hears [7] | frame: reported | lines 55-55
+- [7] addresses [6] | frame: literal | lines 58-58
+- [7] tells [1] | frame: literal | lines 63-63
+
+## Scene 64-75: The Radiance of Divine Goodness
+- [9] compares [10] | frame: reported | lines 73-73
+- [9] relates-to [10] | frame: reported | lines 73-73
+
+## Scene 76-84: The Impact of Sin
+- [2] relates-to [1] | frame: reported | lines 76-77
+- [5] relates-to [6] | frame: reported | lines 81-81
+
+## Scene 85-93: The Necessity of a Way Back
+
+
+## Scene 94-102: The Limits of Human Effort
+
+
+## Scene 103-114: The Beauty of God's Plan
+- [1] protects [2] | frame: reported | lines 103-104
+- [5] protects [2] | frame: reported | lines 110-111
+
+## Scene 115-120: The Majesty of the Incarnation
+- [1] gives [2] | frame: reported | lines 115-115
+- [1] protects [3] | frame: reported | lines 115-116
+
+## Scene 121-123: Redirecting the Vision
+- [1] tells [2] | frame: literal | lines 121-123
+
+## Scene 124-129: Dante's Observation of Decay
+- [2] sees [4] | frame: reported | lines 124-124
+- [3] sees [4] | frame: reported | lines 124-124
+
+## Scene 130-138: The Hierarchy of Creation
+- [5] names [6] | frame: reported | lines 133-133
+
+## Scene 139-144: The Animation of the Soul
+- [3] gives [2] | frame: reported | lines 142-142
+- [4] relates-to [5] | frame: reported | lines 143-143
+- [5] relates-to [6] | frame: reported | lines 143-144
+- [7] relates-to [8] | frame: reported | lines 144-144
+
+## Scene 145-148: The Argument for Resurrection
+

@@ -1,0 +1,102 @@
+# Canto 33 — The Tale of Count Ugolino and the Frozen Souls
+
+## Scene 1-9: The Sinner’s Pause
+- [2] punishes [8] | frame: literal | lines 2-3
+- [3] answers [4] | frame: literal | lines 4-4
+- [4] asks [5] | frame: reported | lines 4-4
+- [9] punishes [8] | frame: reported | lines 8-8
+
+## Scene 10-15: The Introduction
+- [1] recognizes [3] | frame: literal | lines 10-10
+- [1] asks [4] | frame: literal | lines 10-11
+- [7] hears [8] | frame: literal | lines 12-12
+- [10] tells [9] | frame: literal | lines 13-13
+- [15] tells [14] | frame: literal | lines 15-15
+
+## Scene 16-27: The Imprisonment
+- [1] punishes [2] | frame: reported | lines 16-18
+- [2] tells [3] | frame: literal | lines 19-19
+- [2] tells [4] | frame: literal | lines 21-21
+- [2] tells [5] | frame: literal | lines 21-21
+
+## Scene 28-36: The Prison Landscape
+- [2] sees [1] | frame: reported | lines 28-28
+- [1] chases [12] | frame: reported | lines 29-29
+- [1] chases [13] | frame: reported | lines 29-29
+- [10] guides [9] | frame: reported | lines 31-33
+- [11] sees [12] | frame: reported | lines 34-34
+- [11] sees [13] | frame: reported | lines 34-34
+- [14] sees [15] | frame: reported | lines 35-36
+- [9] strikes [15] | frame: reported | lines 35-36
+
+## Scene 37-54: The Morning of Hunger
+- [2] hears [3] | frame: reported | lines 38-38
+- [3] pleads-with [4] | frame: reported | lines 39-39
+- [1] rebukes [5] | frame: literal | lines 40-42
+- [14] sees [15] | frame: reported | lines 47-48
+- [20] asks [21] | frame: reported | lines 50-51
+
+## Scene 55-66: The Terrible Choice
+- [1] sees [2] | frame: literal | lines 56-57
+- [9] addresses [10] | frame: literal | lines 60-61
+- [12] defeats [13] | frame: reported | lines 61-62
+- [14] relates-to [16] | frame: reported | lines 62-63
+- [17] defeats [18] | frame: reported | lines 62-63
+- [19] calls [22] | frame: literal | lines 66-66
+
+## Scene 67-75: The Death of the Children
+- [2] relates-to [3] | frame: reported | lines 68-68
+- [7] asks [6] | frame: reported | lines 69-69
+- [9] sees [10] | frame: literal | lines 70-70
+- [11] sees [12] | frame: reported | lines 71-71
+- [13] touches [12] | frame: reported | lines 73-73
+- [15] calls [16] | frame: reported | lines 74-74
+
+## Scene 76-78: Resumption of the Feast
+
+
+## Scene 79-90: The Curse on Pisa
+- [1] punishes [2] | frame: reported | lines 81-81
+- [5] opposes [6] | frame: reported | lines 85-86
+- [7] punishes [8] | frame: reported | lines 87-87
+
+## Scene 91-108: Entering Cocytus
+- [1] meets [2] | frame: literal | lines 91-92
+- [5] asks [6] | frame: literal | lines 104-105
+- [8] answers [9] | frame: literal | lines 106-106
+- [8] names [11] | frame: literal | lines 106-106
+- [8] tells [12] | frame: literal | lines 106-108
+
+## Scene 109-117: The Cry for Unmasking
+- [1] calls [2] | frame: literal | lines 109-110
+- [1] addresses [3] | frame: literal | lines 110-110
+- [8] answers [9] | frame: literal | lines 115-115
+- [11] protects [12] | frame: reported | lines 115-115
+- [16] protects [17] | frame: reported | lines 116-117
+
+## Scene 118-126: The Identity of Alberigo
+- [1] answers [6] | frame: literal | lines 118-118
+- [6] speaks-to [7] | frame: literal | lines 121-121
+- [6] asks [8] | frame: literal | lines 121-121
+- [9] answers [10] | frame: literal | lines 122-122
+
+## Scene 127-138: The Mechanics of the Tolomea
+- [1] touches [2] | frame: literal | lines 127-128
+- [6] punishes [4] | frame: reported | lines 130-132
+
+## Scene 139-150: The Dispute with Alberigo
+- [2] speaks-to [3] | frame: literal | lines 139-139
+- [4] relates-to [5] | frame: reported | lines 139-139
+- [11] speaks-to [2] | frame: literal | lines 142-142
+- [14] relates-to [15] | frame: reported | lines 145-145
+- [16] relates-to [17] | frame: reported | lines 146-147
+- [11] commands [18] | frame: literal | lines 148-148
+- [11] commands [19] | frame: literal | lines 149-149
+- [20] rebukes [22] | frame: literal | lines 150-150
+
+## Scene 151-157: The Curse on Genoa
+- [3] addresses [1] | frame: literal | lines 151-153
+- [3] rebukes [1] | frame: literal | lines 151-153
+- [3] asks [1] | frame: literal | lines 153-153
+- [3] meets [5] | frame: reported | lines 154-155
+- [5] compares [2] | frame: reported | lines 154-155

@@ -3,22 +3,13 @@
 > **▶ STATUS: the ladder scenes → markup → reading → tags is ✓ complete & committed; the registry
 > (`05-registry/`, KG Step 1) is ✓ built, generation-run & committed; the speech pass (`06-speech/`,
 > KG Step 2) is ✓ built & committed (pure code). The relations pass (`07-relations/`, KG Step 3) is
-> **✓ BUILT — full generation run pending**: `relations.py` + the wiring are implemented and verified
-> end-to-end on **Inferno canto 1** (`07-relations/inferno/01.txt`, a smoke test); the design now
-> lives in `07-relations/README.md`. Current step = **the full generation run + commit** (then
-> Step 4, KG assembly).
+> **✓ DONE & committed**: `relations.py` + all 100 canto outputs (`07-relations/{inferno,purgatorio,paradiso}/NN.txt`)
+> are committed. Current step = **Step 4, KG assembly**.
 >
 > **Where to pick up (check this first):**
-> - **If `07-relations/{inferno,purgatorio,paradiso}/NN.txt` are complete & committed** → Step 3 is
->   DONE (the STATUS prose above may lag — trust this check); start **Step 4, KG assembly** (read the
+> - **Step 3 is DONE** — all 100 canto outputs committed. Start **Step 4, KG assembly** (read the
 >   Step 4 section below + `07-relations/README.md`'s "Step-4 assembly contract", and the `load_*`
 >   API in `dante_analyze/README.md`).
-> - **If only `07-relations/inferno/01.txt` exists (the current state)** → the code is built and
->   verified; run the full generation with **`make -C 07-relations`** (resumable; the finished
->   canto-1 scenes are skipped), then commit `07-relations/`. To regenerate canto 1 under the
->   final prompt, delete `07-relations/inferno/01.txt` first.
-> - **If `07-relations/relations.py` is somehow missing** → rebuild it from `07-relations/README.md`
->   (copy `04-tags/tags.py`'s two-turn shape) and the wiring listed there.
 >
 > Full designs are in each subdir's `README.md` (or `PLAN.md` while a pass is under construction).
 > Read `ARCHITECTURE.md` before building or changing any pass.**
@@ -69,7 +60,7 @@ Built & committed for all three canticles.
 **→ Design, the per-canto algorithm, output format, the measured coverage, and the structural/
 round-trip checks are in `06-speech/README.md`.** `load_speech(canticle, canto)` is in `checkpoint.py`.
 
-### Step 3 — Relations pass (`07-relations/relations.py`)  [BUILT — full generation run pending]
+### Step 3 — Relations pass (`07-relations/relations.py`)  [DONE & committed]
 
 The KG's event edges (who-does-what-to-whom): one LLM pass per scene, bound to the reading like
 `tags.py`, emitting `- [subj] predicate [obj] | frame: … | lines a-b` edges that cite the 04-tags
@@ -80,14 +71,8 @@ verified end-to-end on Inferno canto 1.
 **→ The full design — measure-first rationale, the line grammar, the four-point check, the `[n]`
 join invariant, and the Step-4 assembly contract — is in `07-relations/README.md`.**
 
-**Remaining (the generation run + commit):** `make -C 07-relations` for all three canticles →
-`07-relations/<canticle>/NN.txt`, then commit. Inferno canto 1 is already generated (a verified
-smoke test); delete `07-relations/inferno/01.txt` to regenerate it under the final prompt. (The run
-parallelizes per canticle — see `07-relations/README.md`; the general rule is ARCH §15.)
-
-**On that commit, flip the STATUS header + this heading to `[DONE & committed]` and make Step 4 the
-current step** — otherwise the next session reads a stale status (the "Where to pick up" bullets are
-the self-correcting fallback if you forget).
+All 100 canto outputs are built and committed. The design, the four-point structural check, and the
+Step-4 assembly contract are in `07-relations/README.md`.
 
 ### Step 4 — KG assembly  [NEXT once the Step-3 run is committed; pure code, no LLM]
 

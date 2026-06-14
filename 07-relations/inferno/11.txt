@@ -1,0 +1,75 @@
+# Canto 11 — The Hierarchy of Sin and the Classification of Fraud and Violence
+
+## Scene 1-9: The Inscription at the Abyss
+- [5] brings [6] | frame: reported | lines 8-9
+
+## Scene 10-15: Preparing for the Descent
+- [2] tells [3] | frame: literal | lines 10-13
+- [4] speaks-to [5] | frame: literal | lines 14-14
+- [4] commands [6] | frame: reported | lines 14-14
+- [7] answers [8] | frame: literal | lines 15-15
+
+## Scene 16-27: Overview of the Circles
+- [2] addresses [1] | frame: literal | lines 16-16
+- [2] speaks-to [1] | frame: literal | lines 16-17
+- [2] commands [6] | frame: literal | lines 20-21
+- [9] punishes [7] | frame: reported | lines 21-22
+- [9] punishes [10] | frame: reported | lines 26-26
+- [9] punishes [11] | frame: reported | lines 26-27
+- [9] punishes [12] | frame: reported | lines 26-27
+
+## Scene 28-39: The Circle of Violence
+- [1] strikes [4] | frame: reported | lines 31-32
+- [1] strikes [5] | frame: reported | lines 31-32
+- [1] strikes [6] | frame: reported | lines 31-32
+- [11] strikes [10] | frame: reported | lines 34-35
+
+## Scene 40-51: Violence Against Self and God
+- [1] strikes [2] | frame: reported | lines 40-40
+- [8] opposes [9] | frame: reported | lines 46-46
+- [8] opposes [10] | frame: reported | lines 47-47
+- [8] opposes [11] | frame: reported | lines 48-48
+- [12] opposes [13] | frame: reported | lines 51-51
+
+## Scene 52-66: The Circle of Fraud
+- [1] relates-to [2] | frame: reported | lines 52-53
+- [2] relates-to [3] | frame: reported | lines 53-53
+- [1] relates-to [4] | frame: reported | lines 52-54
+
+## Scene 67-75: Dante's Inquiry
+- [1] addresses [2] | frame: literal | lines 67-67
+- [1] asks [4] | frame: literal | lines 70-70
+- [8] punishes [7] | frame: reported | lines 74-74
+- [8] punishes [9] | frame: reported | lines 74-74
+- [8] punishes [10] | frame: reported | lines 75-75
+- [8] punishes [11] | frame: reported | lines 75-75
+- [8] punishes [12] | frame: reported | lines 75-75
+
+## Scene 76-90: The Aristotelian Defense
+- [1] speaks-to [2] | frame: literal | lines 76-76
+- [1] asks [3] | frame: literal | lines 79-79
+- [8] recognizes [9] | frame: reported | lines 86-86
+- [8] recognizes [10] | frame: reported | lines 86-86
+- [11] sees [13] | frame: reported | lines 88-88
+- [13] relates-to [12] | frame: reported | lines 88-88
+- [6] punishes [14] | frame: reported | lines 90-90
+
+## Scene 91-96: Dante's Request for Reversal
+- [8] addresses [1] | frame: literal | lines 91-91
+- [2] relates-to [3] | frame: reported | lines 92-92
+- [8] asks [6] | frame: literal | lines 94-94
+- [8] speaks-to [9] | frame: literal | lines 94-94
+- [9] tells [8] | frame: reported | lines 95-95
+- [8] asks [10] | frame: literal | lines 96-96
+
+## Scene 97-111: The Theology of Usury
+- [3] speaks-to [2] | frame: literal | lines 97-97
+- [6] tells [4] | frame: reported | lines 97-98
+- [7] follows [8] | frame: reported | lines 99-100
+- [12] follows [11] | frame: simile | lines 104-104
+- [19] follows [18] | frame: reported | lines 110-110
+- [20] rebukes [18] | frame: reported | lines 110-111
+- [20] rebukes [19] | frame: reported | lines 110-111
+
+## Scene 112-115: Celestial Navigation
+- [1] follows [2] | frame: reported | lines 112-112

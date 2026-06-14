@@ -1,0 +1,128 @@
+# Canto 12 — The Descent into the Valley of Violence and the Encounter with the Centaurs
+
+## Scene 1-15: The Ruin and the Minotaur
+- [6] sees [7] | frame: literal | lines 14-14
+- [9] strikes [8] | frame: literal | lines 14-14
+
+## Scene 16-21: Virgil's Rebuke
+- [1] speaks-to [2] | frame: literal | lines 16-16
+- [5] defeats [6] | frame: reported | lines 18-18
+- [1] commands [7] | frame: literal | lines 19-19
+- [1] names [8] | frame: literal | lines 19-19
+- [10] relates-to [8] | frame: reported | lines 20-20
+- [11] sees [8] | frame: reported | lines 21-21
+
+## Scene 22-27: The Frenzy of the Bull
+- [1] sees [2] | frame: literal | lines 25-25
+- [3] commands [4] | frame: literal | lines 26-26
+- [3] commands [6] | frame: literal | lines 27-27
+- [3] commands [7] | frame: literal | lines 27-27
+
+## Scene 28-30: The Descent
+
+## Scene 31-45: The Earthquake and the Fall
+- [2] speaks-to [3] | frame: literal | lines 31-31
+- [5] tells [6] | frame: literal | lines 34-34
+
+## Scene 46-48: The River of Blood
+
+## Scene 49-51: Dante's Moral Reflection
+- [2] chases [1] | frame: reported | lines 50-50
+- [2] punishes [3] | frame: reported | lines 51-51
+
+## Scene 52-57: The Centaurs' Patrol
+- [1] sees [3] | frame: literal | lines 55-56
+- [2] tells [1] | frame: literal | lines 54-54
+
+## Scene 58-63: The Centaurs' Challenge
+- [1] sees [3] | frame: literal | lines 58-58
+- [5] asks [3] | frame: literal | lines 61-62
+- [5] commands [4] | frame: literal | lines 63-63
+- [4] tells [2] | frame: reported | lines 63-63
+- [5] strikes [4] | frame: reported | lines 63-63
+
+## Scene 64-66: Virgil's Strategy
+- [2] answers [3] | frame: reported | lines 64-65
+- [1] rebukes [3] | frame: literal | lines 66-66
+
+## Scene 67-72: Identification of the Centaurs
+- [1] addresses [2] | frame: literal | lines 67-67
+- [3] names [4] | frame: reported | lines 67-67
+- [6] defeats [5] | frame: reported | lines 68-68
+- [7] punishes [8] | frame: reported | lines 69-69
+- [2] sees [9] | frame: literal | lines 70-70
+- [3] names [9] | frame: reported | lines 70-71
+- [11] guides [12] | frame: reported | lines 71-71
+- [3] names [13] | frame: reported | lines 72-72
+
+## Scene 73-75: The Rain of Arrows
+- [1] strikes [2] | frame: reported | lines 74-74
+
+## Scene 76-79: The Inspection
+- [1] meets [3] | frame: literal | lines 76-76
+
+## Scene 80-82: Chiron's Suspicion
+- [1] speaks-to [2] | frame: literal | lines 80-80
+- [3] sees [4] | frame: reported | lines 80-81
+- [4] compares [6] | frame: reported | lines 82-82
+
+## Scene 83-96: Virgil's Plea for Passage
+- [1] relates-to [2] | frame: literal | lines 83-83
+- [3] answers [2] | frame: literal | lines 85-85
+- [6] shows [5] | frame: reported | lines 86-86
+- [7] relates-to [8] | frame: literal | lines 87-87
+- [10] commands [11] | frame: reported | lines 88-89
+- [16] asks [17] | frame: literal | lines 93-93
+- [17] gives [19] | frame: reported | lines 93-93
+- [17] relates-to [20] | frame: literal | lines 93-93
+- [19] shows [20] | frame: reported | lines 94-94
+- [19] brings [21] | frame: reported | lines 95-95
+
+## Scene 97-99: The Order to Guide
+- [6] guides [7] | frame: reported | lines 98-98
+- [8] commands [9] | frame: reported | lines 99-99
+- [9] meets [6] | frame: reported | lines 99-99
+
+## Scene 100-102: The Boiling Blood
+- [1] follows [3] | frame: literal | lines 100-100
+
+## Scene 103-112: The Tyrants in the Blood
+- [1] sees [3] | frame: literal | lines 103-103
+- [2] speaks-to [1] | frame: literal | lines 104-104
+- [2] names [3] | frame: literal | lines 104-105
+- [2] names [4] | frame: literal | lines 107-107
+- [2] names [5] | frame: literal | lines 107-107
+- [5] punishes [6] | frame: reported | lines 108-108
+- [2] names [9] | frame: literal | lines 109-110
+- [2] names [12] | frame: literal | lines 110-111
+- [13] defeats [12] | frame: reported | lines 111-112
+
+## Scene 113-114: Dante's Turn
+- [5] guides [6] | frame: reported | lines 114-114
+- [7] follows [6] | frame: reported | lines 114-114
+
+## Scene 115-120: The Shadow of the Thames
+- [2] meets [3] | frame: literal | lines 115-116
+- [5] shows [6] | frame: literal | lines 118-118
+- [7] strikes [8] | frame: reported | lines 119-119
+
+## Scene 121-123: The Severed Heads
+- [1] sees [2] | frame: literal | lines 121-121
+- [4] recognizes [3] | frame: literal | lines 123-123
+
+## Scene 124-126: The Rising Tide
+
+
+## Scene 127-132: The Depths of Tyranny
+- [2] speaks-to [1] | frame: literal | lines 127-129
+- [3] tells [4] | frame: literal | lines 129-132
+
+## Scene 133-138: The Scourge of Attila
+- [5] punishes [1] | frame: reported | lines 133-134
+- [5] punishes [3] | frame: reported | lines 133-135
+- [5] punishes [4] | frame: reported | lines 133-135
+- [5] punishes [7] | frame: reported | lines 135-137
+- [5] punishes [8] | frame: reported | lines 135-137
+
+## Scene 139-139: Departure
+

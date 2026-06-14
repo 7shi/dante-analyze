@@ -1,0 +1,98 @@
+# Canto 07 — The Encounter with Sordello and the Vision of the Limbo Valley
+
+## Scene 1-9: Virgil's Identification
+- [1] asks [3] | frame: literal | lines 3-3
+- [6] relates-to [7] | frame: reported | lines 5-5
+- [8] relates-to [9] | frame: reported | lines 6-6
+- [12] answers [1] | frame: literal | lines 9-9
+
+## Scene 10-21: Sordello's Inquiry
+- [3] sees [1] | frame: literal | lines 10-11
+- [9] meets [10] | frame: literal | lines 14-14
+- [11] touches [12] | frame: literal | lines 15-15
+- [15] addresses [14] | frame: literal | lines 16-16
+- [15] praises [16] | frame: literal | lines 16-17
+- [15] addresses [17] | frame: literal | lines 18-18
+- [19] asks [20] | frame: literal | lines 19-19
+- [21] asks [22] | frame: literal | lines 20-21
+
+## Scene 22-39: Virgil's Description of Limbo
+- [1] answers [8] | frame: literal | lines 22-23
+- [4] brings [3] | frame: reported | lines 24-24
+- [5] follows [4] | frame: reported | lines 24-24
+- [8] relates-to [7] | frame: reported | lines 26-26
+- [9] recognizes [7] | frame: reported | lines 26-27
+- [10] relates-to [11] | frame: reported | lines 31-31
+- [12] strikes [11] | frame: reported | lines 32-32
+- [13] relates-to [14] | frame: reported | lines 34-34
+- [1] asks [18] | frame: literal | lines 37-39
+- [18] gives [19] | frame: reported | lines 38-38
+
+## Scene 40-48: The Difficulty of the Ascent
+- [1] answers [7] | frame: literal | lines 40-40
+- [4] guides [6] | frame: reported | lines 42-42
+- [12] brings [13] | frame: reported | lines 47-47
+- [15] tells [16] | frame: reported | lines 48-48
+
+## Scene 49-60: Sordello's Warning on Night Travel
+- [5] warns [6] | frame: literal | lines 52-60
+- [5] warns [7] | frame: literal | lines 52-60
+
+## Scene 61-63: Agreement to Proceed
+- [2] guides [3] | frame: reported | lines 62-62
+- [4] tells [3] | frame: reported | lines 62-63
+
+## Scene 64-78: The Splendor of the Valley
+- [5] speaks-to [6] | frame: literal | lines 67-67
+
+## Scene 79-84: The Singing Souls
+- [4] addresses [3] | frame: literal | lines 82-82
+- [5] sees [4] | frame: literal | lines 83-83
+
+## Scene 85-96: The Lament of Emperor Rudolf
+- [1] addresses [2] | frame: literal | lines 86-86
+- [5] guides [6] | frame: reported | lines 87-87
+- [7] recognizes [8] | frame: reported | lines 88-90
+- [1] names [10] | frame: reported | lines 91-94
+
+## Scene 97-102: The Story of Ottacchero
+- [1] relates-to [2] | frame: reported | lines 97-97
+- [2] sees [1] | frame: reported | lines 97-97
+- [5] compares [6] | frame: reported | lines 101-101
+- [5] compares [7] | frame: reported | lines 101-101
+- [5] relates-to [6] | frame: reported | lines 101-101
+- [5] relates-to [7] | frame: reported | lines 101-101
+
+## Scene 103-106: The Death of the Young Man
+- [1] compares [2] | frame: reported | lines 103-104
+- [4] sees [5] | frame: reported | lines 106-106
+- [5] strikes [6] | frame: reported | lines 106-106
+
+## Scene 107-111: The French Ancestors
+- [2] sees [1] | frame: literal | lines 107-107
+- [3] relates-to [1] | frame: reported | lines 109-109
+- [4] relates-to [1] | frame: reported | lines 109-109
+- [5] recognizes [1] | frame: reported | lines 110-110
+
+## Scene 112-120: The Virtuous Kings
+- [1] relates-to [3] | frame: literal | lines 112-113
+- [7] follows [6] | frame: reported | lines 115-116
+- [7] follows [8] | frame: literal | lines 116-116
+
+## Scene 121-123: A Reflection on Virtue
+- [1] gives [3] | frame: reported | lines 123-123
+
+## Scene 124-126: The Mention of Pier
+- [4] relates-to [5] | frame: reported | lines 125-125
+
+## Scene 127-129: The Legacy of Constance
+- [4] praises [5] | frame: reported | lines 129-129
+- [4] praises [2] | frame: reported | lines 128-129
+- [4] praises [3] | frame: reported | lines 128-129
+
+## Scene 130-132: Henry of England
+- [1] sees [2] | frame: reported | lines 130-130
+- [1] sees [3] | frame: reported | lines 130-131
+
+## Scene 133-136: The Sorrow of Guillaume
+

@@ -1,0 +1,82 @@
+# Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
+
+## Scene 1-18: Beatrice's Warning
+- [4] speaks-to [5] | frame: literal | lines 4-5
+- [4] warns [5] | frame: literal | lines 4-12
+- [6] compares [8] | frame: simile | lines 4-6
+- [4] defeats [10] | frame: reported | lines 10-12
+- [4] commands [13] | frame: literal | lines 16-16
+- [4] commands [14] | frame: literal | lines 17-17
+
+## Scene 19-24: Dante's Obedience
+- [4] follows [5] | frame: literal | lines 23-23
+
+## Scene 25-33: Vision of the Golden Ladder
+
+
+## Scene 34-42: The Analogy of the Sun
+- [1] sees [2] | frame: literal | lines 40-42
+
+## Scene 43-48: Dante's Hesitation
+- [8] relates-to [9] | frame: reported | lines 45-45
+- [11] follows [10] | frame: reported | lines 46-46
+
+## Scene 49-60: The Inquiry of Silence
+- [1] sees [4] | frame: literal | lines 49-49
+- [6] sees [2] | frame: literal | lines 50-50
+- [3] commands [5] | frame: reported | lines 51-51
+- [8] gives [9] | frame: reported | lines 54-54
+- [6] addresses [10] | frame: literal | lines 55-55
+- [6] asks [12] | frame: reported | lines 56-56
+- [14] relates-to [13] | frame: reported | lines 57-57
+- [6] asks [15] | frame: reported | lines 58-58
+
+## Scene 61-72: Beatrice's Explanation
+- [2] answers [3] | frame: literal | lines 62-62
+- [5] relates-to [1] | frame: reported | lines 65-66
+- [7] relates-to [8] | frame: reported | lines 67-67
+- [10] sees [9] | frame: reported | lines 69-69
+- [11] relates-to [12] | frame: reported | lines 70-70
+- [14] sees [11] | frame: reported | lines 72-72
+
+## Scene 73-78: The Question of Predestination
+- [2] addresses [3] | frame: literal | lines 73-73
+- [1] sees [3] | frame: reported | lines 73-73
+- [2] asks [5] | frame: literal | lines 76-78
+
+## Scene 79-87: The Light's Response
+- [4] answers [1] | frame: literal | lines 82-82
+- [5] relates-to [6] | frame: reported | lines 83-83
+- [5] relates-to [8] | frame: reported | lines 84-84
+- [9] relates-to [8] | frame: reported | lines 84-84
+- [13] sees [14] | frame: reported | lines 86-87
+
+## Scene 88-102: The Limitation of Inquiry
+- [1] speaks-to [8] | frame: literal | lines 88-102
+- [6] answers [7] | frame: reported | lines 91-93
+- [7] asks [1] | frame: reported | lines 95-95
+- [1] commands [9] | frame: literal | lines 98-98
+- [1] commands [10] | frame: literal | lines 101-101
+- [10] sees [11] | frame: literal | lines 101-102
+
+## Scene 103-105: Dante's Pivot
+- [5] commands [1] | frame: literal | lines 103-103
+- [3] asks [5] | frame: literal | lines 104-105
+
+## Scene 106-111: The Prophecy of Catria
+
+
+## Scene 112-120: The Monk's Recollection
+- [4] relates-to [5] | frame: reported | lines 114-114
+
+## Scene 121-126: The Revelation of Identity
+
+
+## Scene 127-135: Lament for the Church
+- [3] relates-to [2] | frame: reported | lines 127-128
+- [4] brings [5] | frame: reported | lines 130-131
+- [6] guides [7] | frame: reported | lines 131-131
+- [9] brings [10] | frame: reported | lines 132-132
+
+## Scene 136-142: The Celestial Shout
+

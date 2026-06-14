@@ -1,0 +1,86 @@
+# Canto 09 — The Prophecies of the Two Celestial Lights
+
+## Scene 1-6: Memory of Carlo
+- [9] addresses [2] | frame: literal | lines 1-1
+- [1] tells [3] | frame: literal | lines 1-2
+- [4] tells [5] | frame: literal | lines 2-2
+- [6] commands [7] | frame: reported | lines 4-4
+- [6] commands [8] | frame: reported | lines 4-4
+- [9] prophesies [2] | frame: literal | lines 5-6
+
+## Scene 7-12: Condemnation of Vanity
+- [1] relates-to [2] | frame: literal | lines 7-8
+- [2] relates-to [1] | frame: literal | lines 8-8
+- [4] opposes [5] | frame: literal | lines 11-11
+
+## Scene 13-18: Arrival of the First Light
+- [2] meets [3] | frame: literal | lines 14-14
+- [2] relates-to [3] | frame: literal | lines 14-15
+- [5] sees [6] | frame: literal | lines 16-17
+- [5] relates-to [6] | frame: literal | lines 17-18
+
+## Scene 19-24: Dante's Request
+- [3] speaks-to [1] | frame: literal | lines 19-20
+- [3] pleads-with [1] | frame: reported | lines 19-19
+- [3] addresses [2] | frame: literal | lines 20-20
+- [3] speaks-to [4] | frame: literal | lines 20-21
+- [3] asks [4] | frame: reported | lines 20-20
+- [5] relates-to [6] | frame: reported | lines 21-21
+- [11] meets [9] | frame: literal | lines 22-24
+
+## Scene 25-42: The Tale of Cunizza
+- [2] relates-to [4] | frame: reported | lines 31-31
+- [3] relates-to [4] | frame: reported | lines 31-31
+- [12] sees [10] | frame: reported | lines 36-36
+- [15] sees [16] | frame: literal | lines 41-41
+
+## Scene 43-51: Prophecy of Shifting Waters
+
+
+## Scene 52-63: Warning of Clerical Corruption
+- [5] prophesies [1] | frame: literal | lines 52-56
+- [5] prophesies [3] | frame: literal | lines 58-60
+- [5] speaks-to [4] | frame: literal | lines 61-63
+- [6] shows [5] | frame: literal | lines 62-62
+
+## Scene 64-66: The Spirit's Reversion
+
+
+## Scene 67-72: Appearance of the Second Light
+- [2] recognizes [1] | frame: literal | lines 67-67
+- [4] shows [5] | frame: literal | lines 68-68
+
+## Scene 73-81: Dante's Dialogue
+- [2] addresses [3] | frame: literal | lines 74-74
+- [2] asks [3] | frame: literal | lines 76-79
+- [7] sees [8] | frame: reported | lines 81-81
+- [9] sees [10] | frame: reported | lines 81-81
+
+## Scene 82-93: The Geography of the Great Valley
+
+
+## Scene 94-108: Identity and Divine Purpose
+- [1] tells [2] | frame: literal | lines 94-94
+- [3] recognizes [4] | frame: reported | lines 94-95
+- [5] relates-to [4] | frame: reported | lines 96-96
+- [7] relates-to [8] | frame: reported | lines 96-96
+- [12] compares [9] | frame: literal | lines 97-99
+- [9] relates-to [10] | frame: reported | lines 98-98
+- [9] relates-to [11] | frame: reported | lines 98-98
+- [16] relates-to [15] | frame: reported | lines 100-101
+- [17] relates-to [18] | frame: reported | lines 101-102
+
+## Scene 109-126: The Legacy of Raab
+- [5] tells [1] | frame: literal | lines 109-111
+- [3] asks [4] | frame: reported | lines 112-112
+- [5] tells [6] | frame: literal | lines 115-117
+- [5] names [8] | frame: literal | lines 115-116
+- [8] relates-to [5] | frame: reported | lines 116-116
+- [8] relates-to [14] | frame: reported | lines 119-120
+- [8] relates-to [15] | frame: reported | lines 119-120
+- [17] relates-to [18] | frame: reported | lines 124-125
+- [8] relates-to [19] | frame: reported | lines 126-126
+
+## Scene 127-142: Prophecy of Roman Liberation
+- [1] opposes [2] | frame: reported | lines 128-128
+- [9] follows [8] | frame: reported | lines 141-141

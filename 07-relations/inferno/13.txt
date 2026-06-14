@@ -1,0 +1,105 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+
+## Scene 1-15: The Gloomy Woods
+- [4] chases [5] | frame: literal | lines 10-12
+- [4] prophesies [6] | frame: literal | lines 10-12
+
+## Scene 16-21: Virgil's Warning
+- [6] speaks-to [5] | frame: literal | lines 18-18
+- [1] warns [3] | frame: literal | lines 16-17
+- [1] commands [9] | frame: literal | lines 20-20
+
+## Scene 22-30: The Mysterious Voices
+- [2] sees [3] | frame: literal | lines 23-23
+- [11] relates-to [10] | frame: reported | lines 27-27
+- [12] speaks-to [13] | frame: literal | lines 28-28
+
+## Scene 31-39: The Broken Branch
+- [2] strikes [3] | frame: literal | lines 32-32
+- [4] asks [6] | frame: literal | lines 33-33
+- [6] strikes [5] | frame: reported | lines 33-33
+- [8] asks [10] | frame: literal | lines 35-35
+- [10] strikes [9] | frame: reported | lines 35-35
+- [8] asks [11] | frame: literal | lines 36-36
+- [14] compares [15] | frame: reported | lines 38-39
+
+## Scene 40-45: The Splintering Tree
+- [2] compares [3] | frame: simile | lines 45-45
+
+## Scene 46-54: Virgil's Inquiry
+- [2] answers [3] | frame: literal | lines 47-47
+- [5] touches [6] | frame: reported | lines 48-49
+- [2] commands [9] | frame: literal | lines 52-52
+
+## Scene 55-63: The Keeper of Secrets
+- [1] answers [2] | frame: literal | lines 55-55
+- [2] relates-to [3] | frame: literal | lines 55-55
+- [4] commands [5] | frame: literal | lines 56-56
+- [7] speaks-to [8] | frame: literal | lines 57-57
+- [10] relates-to [11] | frame: reported | lines 58-59
+- [12] protects [11] | frame: reported | lines 61-61
+
+## Scene 64-72: The Sin of Betrayal
+- [1] sees [2] | frame: reported | lines 64-65
+- [3] relates-to [6] | frame: reported | lines 66-67
+- [4] relates-to [6] | frame: reported | lines 66-67
+- [6] opposes [5] | frame: reported | lines 66-67
+- [7] relates-to [8] | frame: reported | lines 68-68
+- [9] relates-to [10] | frame: reported | lines 70-72
+- [10] defeats [11] | frame: reported | lines 70-72
+
+## Scene 73-78: A Vow of Loyalty
+- [3] relates-to [4] | frame: reported | lines 74-75
+- [6] praises [1] | frame: reported | lines 77-77
+- [7] strikes [1] | frame: reported | lines 78-78
+
+## Scene 79-84: The Poet's Encouragement
+- [4] speaks-to [5] | frame: literal | lines 80-80
+- [4] commands [6] | frame: literal | lines 80-80
+- [4] commands [7] | frame: literal | lines 81-81
+- [4] commands [8] | frame: literal | lines 81-81
+- [8] asks [9] | frame: reported | lines 81-81
+- [11] speaks-to [12] | frame: literal | lines 82-82
+- [11] commands [13] | frame: literal | lines 82-82
+- [13] asks [9] | frame: reported | lines 82-82
+
+## Scene 85-90: The Request for Knowledge
+- [1] speaks-to [3] | frame: literal | lines 85-85
+- [2] gives [3] | frame: reported | lines 85-86
+- [3] pleads-with [2] | frame: reported | lines 85-86
+- [1] asks [4] | frame: literal | lines 87-87
+- [1] asks [5] | frame: literal | lines 87-87
+- [6] relates-to [7] | frame: reported | lines 88-88
+- [1] asks [8] | frame: literal | lines 89-89
+- [1] asks [9] | frame: literal | lines 89-89
+
+## Scene 91-108: The Fate of the Suicides
+- [3] answers [4] | frame: literal | lines 92-93
+- [8] sends [9] | frame: reported | lines 94-96
+- [12] relates-to [13] | frame: reported | lines 97-98
+- [17] punishes [15] | frame: reported | lines 101-102
+- [18] meets [22] | frame: prophecy | lines 103-106
+- [19] meets [22] | frame: prophecy | lines 103-106
+- [20] relates-to [21] | frame: reported | lines 105-105
+- [23] brings [22] | frame: prophecy | lines 106-108
+
+## Scene 109-114: The Sound of the Hunt
+- [3] compares [4] | frame: simile | lines 111-112
+
+## Scene 115-123: The Fleeing Souls
+- [2] commands [3] | frame: literal | lines 118-118
+- [7] rebukes [8] | frame: literal | lines 120-121
+
+## Scene 124-129: The Attack of the Hounds
+
+
+## Scene 130-135: The Wounded Bush
+- [5] addresses [4] | frame: literal | lines 133-133
+- [7] relates-to [8] | frame: reported | lines 134-134
+- [9] asks [4] | frame: reported | lines 135-135
+
+## Scene 136-151: The History of Florence
+- [2] asks [3] | frame: literal | lines 137-138
+- [4] answers [5] | frame: literal | lines 139-139
+- [4] addresses [6] | frame: literal | lines 139-139
+- [4] commands [8] | frame: literal | lines 142-142

@@ -1,0 +1,86 @@
+# Canto 09 — The Furies and the Arrival of Charon
+
+## Scene 1-6: The obscured vision
+- [1] sees [2] | frame: literal | lines 2-2
+- [4] compares [6] | frame: simile | lines 4-4
+
+## Scene 7-15: The interrupted dialogue
+- [2] speaks-to [5] | frame: literal | lines 7-8
+- [5] sees [6] | frame: literal | lines 10-10
+
+## Scene 16-33: Virgil’s reminiscence
+- [1] asks [2] | frame: literal | lines 16-19
+- [4] answers [3] | frame: literal | lines 19-21
+- [8] commands [7] | frame: reported | lines 22-23
+- [8] calls [9] | frame: reported | lines 23-24
+- [11] guides [12] | frame: reported | lines 25-26
+- [7] brings [13] | frame: reported | lines 26-27
+- [15] tells [16] | frame: literal | lines 30-30
+
+## Scene 34-48: The Furies revealed
+- [1] speaks-to [2] | frame: literal | lines 34-34
+- [3] sees [4] | frame: literal | lines 35-37
+- [8] recognizes [9] | frame: literal | lines 43-43
+- [9] relates-to [10] | frame: literal | lines 44-44
+- [13] speaks-to [12] | frame: literal | lines 45-45
+- [13] commands [11] | frame: literal | lines 45-45
+- [11] sees [14] | frame: reported | lines 45-45
+- [13] tells [12] | frame: literal | lines 46-48
+- [13] names [15] | frame: literal | lines 46-46
+- [13] names [17] | frame: literal | lines 47-47
+- [13] names [19] | frame: literal | lines 48-48
+
+## Scene 49-54: The Furies' frenzy
+- [4] touches [6] | frame: literal | lines 51-51
+- [8] calls [7] | frame: reported | lines 52-52
+- [9] punishes [10] | frame: reported | lines 54-54
+
+## Scene 55-60: A warning to look away
+- [7] commands [1] | frame: literal | lines 55-55
+- [7] warns [1] | frame: literal | lines 55-57
+- [5] sees [6] | frame: reported | lines 56-56
+- [9] touches [10] | frame: literal | lines 59-59
+
+## Scene 61-63: An authorial aside
+
+
+## Scene 64-72: A violent disturbance
+
+
+## Scene 73-84: The approach of Charon
+- [1] touches [2] | frame: literal | lines 73-73
+- [3] commands [4] | frame: reported | lines 73-75
+- [5] sees [6] | frame: literal | lines 79-79
+- [7] chases [6] | frame: literal | lines 80-81
+
+## Scene 85-87: Dante's pious reaction
+- [1] recognizes [3] | frame: literal | lines 85-85
+- [4] sees [6] | frame: literal | lines 86-86
+- [9] praises [10] | frame: reported | lines 86-87
+
+## Scene 88-99: Charon’s reprimand
+- [1] sees [2] | frame: literal | lines 88-88
+- [7] addresses [5] | frame: literal | lines 91-92
+- [7] addresses [6] | frame: literal | lines 91-92
+- [7] asks [8] | frame: literal | lines 93-93
+- [7] asks [9] | frame: literal | lines 94-94
+- [8] opposes [11] | frame: reported | lines 97-97
+- [13] recognizes [12] | frame: reported | lines 98-98
+- [13] strikes [15] | frame: reported | lines 99-99
+
+## Scene 100-105: The poets advance
+- [5] compares [6] | frame: simile | lines 101-102
+- [7] meets [8] | frame: simile | lines 103-103
+
+## Scene 106-123: The field of tombs
+
+
+## Scene 124-131: The identity of the dead
+- [1] asks [2] | frame: literal | lines 124-124
+- [1] hears [5] | frame: literal | lines 126-126
+- [7] answers [8] | frame: literal | lines 127-127
+- [10] follows [9] | frame: reported | lines 127-128
+- [12] compares [13] | frame: reported | lines 130-130
+
+## Scene 132-133: Passing through the ruins
+- [3] meets [4] | frame: literal | lines 133-133

@@ -1,0 +1,98 @@
+# Canto 03 — The Encounter with Manfred and the Limits of Reason
+
+## Scene 1-9: Dante's Internal Turmoil
+- [3] touches [5] | frame: literal | lines 4-4
+- [7] guides [6] | frame: reported | lines 5-5
+- [8] brings [9] | frame: reported | lines 6-6
+- [11] sees [10] | frame: literal | lines 7-7
+- [3] addresses [13] | frame: literal | lines 8-8
+
+## Scene 10-15: The Widening View
+
+
+## Scene 16-30: The Obscured Sun
+- [8] asks [9] | frame: literal | lines 22-22
+- [9] relates-to [8] | frame: reported | lines 22-22
+- [10] speaks-to [11] | frame: literal | lines 23-23
+- [12] relates-to [13] | frame: reported | lines 24-24
+- [15] guides [16] | frame: reported | lines 24-24
+
+## Scene 31-45: The Limits of Reason
+- [1] shows [3] | frame: reported | lines 32-33
+- [6] relates-to [7] | frame: reported | lines 34-36
+- [14] addresses [9] | frame: literal | lines 37-37
+- [10] sees [7] | frame: reported | lines 38-38
+- [12] sees [13] | frame: reported | lines 40-40
+- [14] names [15] | frame: literal | lines 43-43
+- [14] names [16] | frame: literal | lines 43-43
+
+## Scene 46-54: The Steep Ascent
+- [4] speaks-to [1] | frame: literal | lines 52-54
+- [4] asks [3] | frame: reported | lines 52-52
+- [4] asks [5] | frame: reported | lines 54-54
+
+## Scene 55-66: The Approaching Souls
+- [4] sees [5] | frame: literal | lines 58-58
+- [6] meets [7] | frame: literal | lines 59-59
+- [11] speaks-to [12] | frame: literal | lines 61-61
+- [13] gives [10] | frame: reported | lines 62-62
+- [17] answers [11] | frame: literal | lines 65-65
+- [18] meets [19] | frame: reported | lines 65-65
+
+## Scene 67-72: The Gathering Crowd
+- [6] compares [7] | frame: simile | lines 71-72
+
+## Scene 73-78: Virgil’s Appeal
+- [3] addresses [1] | frame: literal | lines 73-73
+- [3] addresses [2] | frame: literal | lines 73-73
+- [3] asks [6] | frame: literal | lines 76-76
+- [6] tells [3] | frame: reported | lines 76-76
+
+## Scene 79-87: The Sheep Simile
+- [2] sees [1] | frame: literal | lines 85-86
+
+## Scene 88-93: The Souls' Hesitation
+- [7] follows [1] | frame: literal | lines 92-92
+
+## Scene 94-99: The Reason for Darkness
+- [5] sees [4] | frame: reported | lines 95-95
+
+## Scene 100-108: The Encounter
+- [4] commands [3] | frame: literal | lines 101-101
+- [4] commands [5] | frame: literal | lines 101-101
+- [6] speaks-to [7] | frame: literal | lines 103-103
+- [6] commands [9] | frame: literal | lines 104-104
+- [6] asks [10] | frame: literal | lines 105-105
+- [12] sees [11] | frame: reported | lines 105-105
+- [16] sees [15] | frame: literal | lines 106-106
+- [16] sees [17] | frame: literal | lines 107-108
+
+## Scene 109-111: The Wound Revealed
+- [1] sees [3] | frame: reported | lines 109-110
+- [4] sees [3] | frame: reported | lines 110-110
+- [5] shows [2] | frame: literal | lines 111-111
+
+## Scene 112-123: Manfred's Identity
+- [1] speaks-to [7] | frame: literal | lines 112-112
+- [2] names [3] | frame: reported | lines 112-112
+- [4] relates-to [5] | frame: reported | lines 113-113
+- [6] pleads-with [7] | frame: reported | lines 114-114
+- [6] relates-to [10] | frame: reported | lines 115-115
+- [11] relates-to [12] | frame: reported | lines 115-116
+- [11] relates-to [13] | frame: reported | lines 115-116
+- [14] tells [15] | frame: reported | lines 117-117
+- [18] relates-to [19] | frame: reported | lines 119-120
+
+## Scene 124-135: Manfred's History
+- [1] chases [2] | frame: reported | lines 124-125
+- [3] sends [1] | frame: reported | lines 124-125
+- [1] sees [2] | frame: reported | lines 126-126
+- [5] brings [2] | frame: reported | lines 132-132
+- [7] protects [6] | frame: reported | lines 133-134
+
+## Scene 136-141: The Doctrine of Schism
+
+
+## Scene 142-145: The Final Request
+- [2] tells [4] | frame: reported | lines 142-143
+- [5] sees [6] | frame: reported | lines 144-144

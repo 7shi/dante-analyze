@@ -1,0 +1,71 @@
+# Canto 13 — The Angelic Discourse on Divine Light and Wisdom
+
+## Scene 1-6: The Vision of the Fifteen Stars
+- [3] sees [2] | frame: literal | lines 2-2
+- [5] commands [4] | frame: literal | lines 2-3
+
+## Scene 7-24: The Movement of the Zodiacal Belt
+- [5] commands [1] | frame: literal | lines 7-7
+- [5] commands [2] | frame: literal | lines 10-10
+- [5] tells [1] | frame: literal | lines 19-21
+
+## Scene 25-30: The Song of the Trinity
+- [8] praises [3] | frame: literal | lines 25-26
+- [8] praises [4] | frame: literal | lines 26-27
+- [8] sees [7] | frame: literal | lines 29-29
+
+## Scene 31-36: The Metaphor of the Wheat
+- [1] speaks-to [2] | frame: literal | lines 31-31
+- [5] speaks-to [2] | frame: literal | lines 34-34
+- [6] commands [7] | frame: reported | lines 36-36
+
+## Scene 37-48: The Metaphor of the Pierced Rib
+- [5] asks [1] | frame: literal | lines 37-45
+- [5] commands [4] | frame: literal | lines 46-48
+
+## Scene 49-60: The Hierarchy of Divine Light
+- [3] commands [1] | frame: literal | lines 49-49
+- [3] answers [4] | frame: literal | lines 49-49
+- [6] relates-to [7] | frame: reported | lines 54-55
+- [7] relates-to [8] | frame: reported | lines 55-56
+- [9] relates-to [10] | frame: reported | lines 56-57
+
+## Scene 61-78: The Descent of Light through the Spheres
+- [3] tells [8] | frame: literal | lines 61-78
+- [4] relates-to [5] | frame: reported | lines 65-66
+- [6] guides [5] | frame: reported | lines 67-67
+- [3] addresses [8] | frame: literal | lines 72-72
+
+## Scene 79-87: The Models of Perfect Reception
+- [3] compares [5] | frame: reported | lines 86-87
+- [4] compares [5] | frame: reported | lines 86-87
+
+## Scene 88-93: Dante’s Unspoken Question
+- [3] asks [2] | frame: reported | lines 89-90
+- [1] commands [3] | frame: literal | lines 92-92
+- [3] relates-to [4] | frame: literal | lines 92-92
+
+## Scene 94-108: The Purpose of Solomon’s Wisdom
+- [1] tells [2] | frame: literal | lines 94-94
+- [2] sees [3] | frame: reported | lines 94-95
+- [8] tells [9] | frame: literal | lines 103-103
+- [11] sees [12] | frame: reported | lines 106-107
+- [11] sees [13] | frame: reported | lines 107-108
+
+## Scene 109-120: The Danger of Unskilled Interpretation
+- [2] relates-to [3] | frame: reported | lines 110-111
+- [2] relates-to [4] | frame: reported | lines 110-111
+- [5] compares [6] | frame: simile | lines 112-113
+- [8] relates-to [9] | frame: reported | lines 115-115
+
+## Scene 121-129: The Failures of Past Thinkers
+
+## Scene 130-142: The Warning Against Premature Judgment
+- [3] warns [1] | frame: literal | lines 130-130
+- [1] compares [2] | frame: simile | lines 130-132
+- [3] warns [5] | frame: literal | lines 139-139
+- [3] warns [6] | frame: literal | lines 139-139
+- [5] sees [7] | frame: reported | lines 139-141
+- [5] sees [8] | frame: reported | lines 139-141
+- [6] sees [7] | frame: reported | lines 139-141
+- [6] sees [8] | frame: reported | lines 139-141

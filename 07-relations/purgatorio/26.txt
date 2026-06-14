@@ -1,0 +1,105 @@
+# Canto 26 — Encounters with the Souls of the Lustful
+
+## Scene 1-9: Sunset in the Inferno
+- [4] speaks-to [5] | frame: literal | lines 2-3
+- [6] guides [7] | frame: reported | lines 3-3
+- [9] sees [10] | frame: literal | lines 9-9
+- [10] sees [9] | frame: literal | lines 9-9
+
+## Scene 10-15: The Shadows Observe Dante
+- [3] tells [4] | frame: reported | lines 11-12
+- [6] meets [5] | frame: literal | lines 13-13
+
+## Scene 16-24: An Inquiry from the Flames
+- [3] addresses [1] | frame: literal | lines 16-16
+- [2] answers [3] | frame: reported | lines 18-18
+- [2] answers [4] | frame: reported | lines 19-19
+- [2] answers [5] | frame: reported | lines 20-20
+- [6] tells [3] | frame: reported | lines 22-22
+
+## Scene 25-30: Arrival of the New Group
+- [2] speaks-to [1] | frame: literal | lines 25-25
+- [7] meets [8] | frame: literal | lines 29-29
+- [9] sees [7] | frame: literal | lines 30-30
+
+## Scene 31-36: The Swarming Shadows
+- [1] sees [2] | frame: literal | lines 31-32
+- [3] touches [4] | frame: literal | lines 32-32
+- [5] sees [1] | frame: simile | lines 34-36
+
+## Scene 37-42: The Divided Proclamations
+
+
+## Scene 43-48: The Parting of the Souls
+
+
+## Scene 49-51: The Return of the First Group
+- [1] meets [2] | frame: literal | lines 49-49
+- [3] pleads-with [4] | frame: literal | lines 50-50
+
+## Scene 52-66: Dante's Explanation
+- [1] sees [2] | frame: literal | lines 52-52
+- [3] addresses [4] | frame: literal | lines 53-53
+- [7] gives [8] | frame: reported | lines 59-59
+- [13] asks [11] | frame: literal | lines 64-65
+- [18] follows [15] | frame: reported | lines 65-66
+
+## Scene 67-72: The Shadows' Confusion
+- [4] chases [6] | frame: literal | lines 69-70
+
+## Scene 73-87: Guido's Identification
+- [2] praises [1] | frame: literal | lines 73-73
+- [2] speaks-to [3] | frame: literal | lines 74-74
+- [2] commands [4] | frame: literal | lines 75-75
+- [5] relates-to [6] | frame: reported | lines 76-76
+- [7] names [8] | frame: reported | lines 77-78
+- [11] rebukes [13] | frame: reported | lines 80-80
+- [14] hears [11] | frame: literal | lines 80-80
+- [22] relates-to [20] | frame: reported | lines 86-87
+
+## Scene 88-93: The Pride of the Poet
+- [10] speaks-to [1] | frame: literal | lines 88-93
+- [1] recognizes [2] | frame: reported | lines 88-88
+- [3] asks [5] | frame: reported | lines 89-89
+
+## Scene 94-102: Dante's Emotional Response
+- [3] sees [4] | frame: simile | lines 94-95
+- [8] hears [10] | frame: literal | lines 97-97
+- [12] sees [13] | frame: literal | lines 101-101
+
+## Scene 103-105: Dante's Readiness to Serve
+- [2] gives [3] | frame: literal | lines 104-104
+
+## Scene 106-111: Guido's Request
+- [1] speaks-to [2] | frame: literal | lines 106-106
+- [3] relates-to [5] | frame: reported | lines 106-107
+- [1] asks [7] | frame: literal | lines 110-111
+- [8] shows [5] | frame: reported | lines 110-111
+
+## Scene 112-114: Dante's Compliment
+- [1] speaks-to [2] | frame: literal | lines 112-112
+- [1] praises [2] | frame: literal | lines 112-114
+
+## Scene 115-126: Praise for Arnaut Daniel
+- [2] addresses [1] | frame: literal | lines 115-115
+- [6] shows [7] | frame: literal | lines 115-116
+- [4] shows [3] | frame: reported | lines 115-115
+- [2] praises [8] | frame: literal | lines 117-117
+- [14] praises [15] | frame: reported | lines 120-120
+- [19] praises [20] | frame: reported | lines 124-125
+- [22] defeats [21] | frame: reported | lines 126-126
+
+## Scene 127-132: A Prayer for the Departed
+- [6] pleads-with [5] | frame: literal | lines 127-132
+
+## Scene 133-135: The Disappearance of Guido
+- [2] relates-to [1] | frame: literal | lines 133-134
+
+## Scene 136-141: The Arrival of Arnaut Daniel
+- [1] meets [3] | frame: literal | lines 136-136
+- [4] praises [3] | frame: reported | lines 137-138
+- [5] answers [4] | frame: literal | lines 139-139
+- [7] relates-to [10] | frame: reported | lines 141-141
+
+## Scene 142-148: Arnaut's Lament and Departure
+- [6] pleads-with [5] | frame: literal | lines 145-145

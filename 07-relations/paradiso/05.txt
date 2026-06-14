@@ -1,0 +1,85 @@
+# Canto 05 — The Integrity of Vows and the Ascent to the Second Heaven
+
+## Scene 1-6: The Source of Beatrice's Radiance
+- [3] defeats [2] | frame: reported | lines 3-3
+- [1] commands [4] | frame: literal | lines 4-4
+
+## Scene 7-15: The Question of Vows
+- [1] sees [2] | frame: literal | lines 7-8
+- [1] tells [4] | frame: literal | lines 7-12
+- [4] asks [1] | frame: reported | lines 13-15
+
+## Scene 16-18: Beatrice Begins Her Discourse
+- [1] compares [2] | frame: simile | lines 17-17
+
+## Scene 19-33: The Gift of Free Will
+- [13] speaks-to [4] | frame: literal | lines 19-33
+- [1] gives [3] | frame: reported | lines 19-24
+- [9] relates-to [10] | frame: reported | lines 28-28
+
+## Scene 34-39: The Difficulty of Truth
+- [3] speaks-to [1] | frame: literal | lines 34-39
+- [3] shows [4] | frame: reported | lines 36-36
+
+## Scene 40-54: The Nature of Sacrifice
+- [3] commands [1] | frame: literal | lines 40-41
+- [3] shows [4] | frame: literal | lines 40-40
+
+## Scene 55-63: The Necessity of Authority
+
+## Scene 64-72: Historical Warnings of Broken Vows
+- [2] compares [3] | frame: simile | lines 65-66
+- [5] compares [6] | frame: simile | lines 68-69
+- [6] relates-to [7] | frame: reported | lines 69-70
+- [8] relates-to [10] | frame: reported | lines 71-71
+- [8] relates-to [11] | frame: reported | lines 71-71
+
+## Scene 73-84: Exhortation to Christians
+- [7] guides [8] | frame: reported | lines 77-77
+- [10] speaks-to [11] | frame: reported | lines 79-79
+- [14] rebukes [15] | frame: reported | lines 81-81
+- [14] relates-to [16] | frame: reported | lines 81-81
+- [17] compares [18] | frame: simile | lines 82-84
+
+## Scene 85-93: Movement to the Second Heaven
+- [1] speaks-to [2] | frame: literal | lines 85-85
+
+## Scene 94-99: Beatrice's Increasing Brilliance
+- [2] sees [1] | frame: literal | lines 94-94
+
+## Scene 100-108: The Arrival of the Spirits
+- [2] sees [3] | frame: literal | lines 103-103
+- [3] meets [4] | frame: literal | lines 103-104
+- [2] hears [3] | frame: literal | lines 104-104
+- [5] relates-to [3] | frame: reported | lines 105-105
+- [7] meets [6] | frame: literal | lines 106-106
+- [2] sees [7] | frame: literal | lines 107-107
+
+## Scene 109-114: Dante's Desire for Knowledge
+- [7] addresses [2] | frame: literal | lines 109-112
+- [10] sees [9] | frame: literal | lines 114-114
+
+## Scene 115-120: The Greeting of the Spirit
+- [3] addresses [1] | frame: literal | lines 115-115
+- [3] tells [5] | frame: reported | lines 119-120
+
+## Scene 121-123: Beatrice's Command
+- [1] tells [2] | frame: literal | lines 121-122
+- [3] commands [4] | frame: literal | lines 122-122
+- [3] commands [6] | frame: literal | lines 123-123
+- [4] compares [7] | frame: simile | lines 123-123
+
+## Scene 124-129: Dante's Inquiry
+- [1] speaks-to [2] | frame: literal | lines 124-129
+- [1] sees [2] | frame: reported | lines 124-124
+- [7] asks [9] | frame: reported | lines 127-127
+- [7] asks [10] | frame: reported | lines 127-127
+- [1] addresses [11] | frame: literal | lines 128-128
+
+## Scene 130-132: Beatrice's Radiant Reaction
+- [1] speaks-to [2] | frame: literal | lines 130-130
+- [2] speaks-to [3] | frame: literal | lines 131-131
+
+## Scene 133-139: The Elusive Response
+- [1] relates-to [2] | frame: literal | lines 136-136
+- [5] answers [6] | frame: literal | lines 138-138

@@ -1,0 +1,84 @@
+# Canto 27 — The Eclipse of Beatrice and the Celestial Motion
+
+## Scene 1-9: The Celestial Hymn
+- [4] praises [1] | frame: literal | lines 1-2
+- [4] praises [2] | frame: literal | lines 1-2
+- [4] praises [3] | frame: literal | lines 1-2
+- [5] hears [4] | frame: literal | lines 2-3
+- [6] sees [4] | frame: literal | lines 4-4
+
+## Scene 10-27: The Angelic Transformation
+- [12] sees [1] | frame: literal | lines 10-11
+- [1] compares [4] | frame: simile | lines 13-15
+- [1] compares [6] | frame: simile | lines 13-15
+- [9] commands [10] | frame: literal | lines 16-18
+- [12] hears [13] | frame: literal | lines 19-19
+- [13] warns [15] | frame: literal | lines 19-20
+- [13] tells [17] | frame: literal | lines 20-21
+- [13] prophesies [18] | frame: literal | lines 20-21
+- [13] rebukes [19] | frame: reported | lines 22-25
+- [19] opposes [13] | frame: reported | lines 22-22
+- [13] relates-to [20] | frame: reported | lines 23-24
+- [22] relates-to [21] | frame: reported | lines 26-27
+
+## Scene 28-36: The Celestial Eclipse
+- [6] compares [2] | frame: simile | lines 31-34
+
+## Scene 37-54: The Critique of the Papacy
+- [1] relates-to [2] | frame: reported | lines 40-42
+- [3] relates-to [2] | frame: reported | lines 40-42
+- [4] relates-to [2] | frame: reported | lines 40-42
+- [1] relates-to [9] | frame: reported | lines 47-47
+- [1] rebukes [9] | frame: literal | lines 46-54
+- [9] opposes [10] | frame: reported | lines 46-48
+- [9] opposes [12] | frame: reported | lines 49-51
+
+## Scene 55-66: The Lament for the Church
+- [2] compares [1] | frame: simile | lines 55-56
+- [15] calls [5] | frame: literal | lines 57-57
+- [15] calls [11] | frame: literal | lines 59-60
+- [12] guides [13] | frame: reported | lines 61-62
+- [20] commands [16] | frame: literal | lines 64-66
+
+## Scene 67-75: The Vapor Metaphor
+- [1] sees [2] | frame: literal | lines 70-71
+- [1] follows [4] | frame: literal | lines 73-73
+- [6] chases [5] | frame: literal | lines 74-75
+
+## Scene 76-84: The Expanding Horizon
+- [1] sees [2] | frame: literal | lines 76-76
+- [6] sees [7] | frame: reported | lines 78-78
+- [9] sees [10] | frame: literal | lines 80-80
+
+## Scene 85-96: Devotion to Beatrice
+- [1] relates-to [2] | frame: literal | lines 88-89
+- [1] sees [3] | frame: literal | lines 89-90
+
+## Scene 97-102: Celestial Propulsion
+- [2] brings [4] | frame: literal | lines 98-98
+- [5] brings [6] | frame: literal | lines 99-99
+- [8] guides [9] | frame: literal | lines 102-102
+
+## Scene 103-114: The Order of the Cosmos
+- [3] relates-to [7] | frame: reported | lines 106-107
+- [5] relates-to [7] | frame: reported | lines 110-111
+- [5] gives [7] | frame: reported | lines 111-111
+- [5] relates-to [7] | frame: reported | lines 112-112
+- [8] recognizes [7] | frame: reported | lines 113-114
+
+## Scene 115-120: The Mathematical Proportions
+
+
+## Scene 121-129: The Corrupting Power of Greed
+- [1] defeats [2] | frame: reported | lines 121-122
+
+## Scene 130-138: The Perversion of Nature
+- [2] relates-to [3] | frame: reported | lines 133-134
+- [2] hears [3] | frame: reported | lines 133-134
+- [3] sees [4] | frame: reported | lines 134-135
+- [2] compares [5] | frame: simile | lines 136-137
+
+## Scene 139-148: The Prophecy of Renewal
+- [2] speaks-to [1] | frame: literal | lines 139-139
+- [2] tells [4] | frame: literal | lines 140-140
+- [2] prophesies [6] | frame: literal | lines 144-147

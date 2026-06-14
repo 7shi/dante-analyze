@@ -1,0 +1,92 @@
+# Canto 15 — The Encounter with Brunetto Latino
+
+## Scene 1-12: The Simile of the Flooding Banks
+
+
+## Scene 13-21: The Approaching Procession
+- [5] meets [6] | frame: literal | lines 16-16
+- [6] sees [7] | frame: literal | lines 18-18
+- [10] sees [9] | frame: literal | lines 20-20
+
+## Scene 22-30: The Recognition of Dante
+- [1] sees [2] | frame: literal | lines 22-22
+- [3] recognizes [2] | frame: literal | lines 23-23
+- [3] touches [4] | frame: literal | lines 23-23
+- [5] calls [2] | frame: literal | lines 24-24
+- [8] touches [7] | frame: literal | lines 25-25
+- [9] sees [10] | frame: literal | lines 26-26
+- [12] touches [14] | frame: literal | lines 29-29
+- [12] asks [13] | frame: reported | lines 30-30
+
+## Scene 31-42: Brunetto's Instructions
+- [1] addresses [2] | frame: literal | lines 31-31
+- [1] asks [3] | frame: literal | lines 31-31
+- [4] follows [5] | frame: reported | lines 32-33
+- [6] answers [7] | frame: literal | lines 34-34
+- [12] follows [11] | frame: reported | lines 35-35
+- [12] follows [13] | frame: reported | lines 35-35
+- [16] follows [17] | frame: reported | lines 36-36
+- [19] addresses [18] | frame: literal | lines 37-37
+- [22] commands [21] | frame: literal | lines 40-40
+- [22] follows [23] | frame: reported | lines 40-40
+
+## Scene 43-54: Dante's Explanation of his Descent
+- [3] compares [4] | frame: simile | lines 45-45
+- [5] asks [6] | frame: literal | lines 46-47
+- [5] asks [6] | frame: literal | lines 48-48
+- [8] guides [6] | frame: reported | lines 48-48
+- [9] answers [10] | frame: literal | lines 49-50
+- [17] guides [16] | frame: reported | lines 54-54
+
+## Scene 55-60: The Promise of Destiny
+- [1] speaks-to [2] | frame: literal | lines 55-55
+- [1] prophesies [4] | frame: prophecy | lines 55-56
+- [8] relates-to [9] | frame: reported | lines 59-59
+- [10] gives [11] | frame: reported | lines 60-60
+
+## Scene 61-69: The Warning Against Fiesole
+- [2] opposes [3] | frame: prophecy | lines 64-64
+- [5] names [6] | frame: reported | lines 67-67
+
+## Scene 70-78: The Prophecy of the Holy Seed
+
+
+## Scene 79-87: Dante's Tribute to his Teacher
+- [1] answers [2] | frame: literal | lines 80-80
+- [8] guides [9] | frame: reported | lines 84-85
+- [12] praises [13] | frame: reported | lines 86-87
+
+## Scene 88-96: Acceptance of Fortune
+- [1] tells [2] | frame: reported | lines 88-88
+- [6] meets [5] | frame: reported | lines 90-90
+- [7] tells [8] | frame: literal | lines 91-91
+- [12] relates-to [10] | frame: reported | lines 93-93
+
+## Scene 97-99: Virgil's Instruction
+- [5] commands [6] | frame: reported | lines 99-99
+- [6] hears [7] | frame: reported | lines 99-99
+
+## Scene 100-105: Dante's Inquiry
+- [2] relates-to [1] | frame: literal | lines 100-100
+- [2] speaks-to [3] | frame: literal | lines 100-101
+- [4] asks [3] | frame: literal | lines 101-102
+- [4] relates-to [6] | frame: literal | lines 101-102
+- [7] answers [8] | frame: literal | lines 103-103
+- [7] relates-to [6] | frame: reported | lines 104-104
+
+## Scene 106-114: The Catalog of Scholars
+- [5] follows [6] | frame: reported | lines 109-109
+- [7] follows [6] | frame: reported | lines 110-110
+- [8] sees [9] | frame: reported | lines 111-112
+
+## Scene 115-120: The Interrupted Farewell
+- [4] relates-to [3] | frame: literal | lines 118-118
+- [8] addresses [5] | frame: literal | lines 119-119
+- [8] praises [6] | frame: literal | lines 119-119
+- [7] relates-to [6] | frame: literal | lines 120-120
+
+## Scene 121-124: The Final Simile
+- [3] compares [4] | frame: simile | lines 121-121
+- [5] compares [6] | frame: simile | lines 123-123
+- [5] compares [7] | frame: simile | lines 123-124
+- [5] compares [8] | frame: simile | lines 123-124

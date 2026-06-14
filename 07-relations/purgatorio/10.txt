@@ -1,0 +1,97 @@
+# Canto 10 — The Marble Gallery and the Contorted Souls
+
+## Scene 1-6: Closing of the Gate
+- [3] relates-to [2] | frame: literal | lines 2-2
+
+## Scene 7-9: The Moving Stone
+
+
+## Scene 10-12: Virgil's Strategy
+
+
+## Scene 13-21: Arrival on the Plain
+
+
+## Scene 22-27: The Enclosed Ledge
+
+
+## Scene 28-33: The Exquisite Carvings
+
+
+## Scene 34-45: The Annunciation
+- [3] sees [4] | frame: literal | lines 37-37
+- [8] addresses [9] | frame: reported | lines 40-40
+- [11] speaks-to [13] | frame: reported | lines 43-44
+
+## Scene 46-48: Virgil's Direction
+- [1] commands [2] | frame: literal | lines 46-47
+
+## Scene 49-54: Shifting Perspective
+- [6] relates-to [5] | frame: literal | lines 51-51
+- [6] guides [7] | frame: literal | lines 51-51
+- [8] relates-to [9] | frame: literal | lines 53-53
+
+## Scene 55-66: The Procession of the Ark
+- [8] sees [1] | frame: literal | lines 58-58
+- [8] sees [4] | frame: literal | lines 60-60
+- [8] hears [7] | frame: literal | lines 60-60
+- [8] sees [9] | frame: literal | lines 64-65
+
+## Scene 67-69: The Figure of Michal
+
+
+## Scene 70-81: The Imperial Carving
+- [1] sees [3] | frame: literal | lines 72-72
+- [5] protects [7] | frame: reported | lines 74-75
+- [8] pleads-with [9] | frame: literal | lines 77-78
+- [12] follows [10] | frame: literal | lines 79-79
+
+## Scene 82-93: The Widow's Lament
+- [1] pleads-with [3] | frame: literal | lines 83-84
+- [8] answers [9] | frame: literal | lines 85-86
+- [8] commands [10] | frame: reported | lines 85-86
+- [12] addresses [13] | frame: literal | lines 86-86
+- [12] asks [15] | frame: literal | lines 87-88
+- [16] answers [12] | frame: literal | lines 88-89
+- [19] relates-to [20] | frame: reported | lines 88-89
+- [21] asks [22] | frame: literal | lines 89-90
+- [24] answers [21] | frame: literal | lines 91-91
+- [24] commands [25] | frame: reported | lines 91-91
+- [29] commands [27] | frame: reported | lines 92-93
+- [30] relates-to [31] | frame: reported | lines 93-93
+
+## Scene 94-105: Wonder at the Artistry
+- [9] speaks-to [3] | frame: literal | lines 100-102
+- [9] shows [8] | frame: literal | lines 100-100
+- [11] guides [2] | frame: prophecy | lines 102-102
+- [3] sees [12] | frame: literal | lines 103-105
+
+## Scene 106-111: A Warning to the Reader
+- [1] addresses [2] | frame: literal | lines 106-106
+- [1] warns [3] | frame: literal | lines 106-108
+- [1] commands [6] | frame: literal | lines 109-109
+- [1] commands [7] | frame: literal | lines 110-110
+- [1] commands [8] | frame: literal | lines 110-110
+
+## Scene 112-120: The Hidden Torment
+- [1] speaks-to [2] | frame: literal | lines 112-112
+- [4] sees [3] | frame: reported | lines 112-112
+- [3] meets [5] | frame: reported | lines 113-113
+- [9] speaks-to [10] | frame: literal | lines 115-115
+- [9] sees [11] | frame: reported | lines 117-117
+- [9] commands [12] | frame: literal | lines 118-118
+- [9] commands [13] | frame: literal | lines 118-118
+- [13] sees [14] | frame: reported | lines 118-119
+- [15] sees [16] | frame: reported | lines 120-120
+
+## Scene 121-129: The Sermon to Christians
+- [4] recognizes [5] | frame: reported | lines 124-124
+
+## Scene 130-135: The Corbel Metaphor
+- [3] sees [2] | frame: simile | lines 132-132
+- [4] sees [5] | frame: simile | lines 134-134
+- [6] sees [7] | frame: literal | lines 135-135
+- [7] compares [1] | frame: literal | lines 134-135
+
+## Scene 136-139: The Weight of Pain
+

@@ -1,0 +1,86 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+
+## Scene 1-18: The Evening Hymn
+- [2] speaks-to [3] | frame: literal | lines 3-3
+- [6] sees [7] | frame: literal | lines 8-8
+- [7] asks [6] | frame: literal | lines 8-9
+- [10] addresses [11] | frame: simile | lines 12-12
+- [13] praises [12] | frame: literal | lines 13-14
+- [16] follows [17] | frame: literal | lines 16-17
+
+## Scene 19-30: The Descent of the Angels
+- [3] sees [4] | frame: literal | lines 22-22
+- [5] sees [6] | frame: literal | lines 25-26
+
+## Scene 31-36: The Crowd's Reaction
+- [7] sees [8] | frame: literal | lines 34-34
+
+## Scene 37-45: Sordello's Warning
+- [1] relates-to [2] | frame: reported | lines 37-37
+- [1] opposes [4] | frame: reported | lines 38-39
+- [13] speaks-to [14] | frame: reported | lines 44-44
+- [15] sees [11] | frame: reported | lines 45-45
+
+## Scene 46-55: Meeting the Gentle Judge
+- [4] sees [5] | frame: literal | lines 47-47
+- [5] sees [6] | frame: literal | lines 47-47
+- [7] recognizes [8] | frame: literal | lines 48-48
+- [10] meets [9] | frame: literal | lines 52-52
+- [12] meets [13] | frame: literal | lines 52-52
+- [18] addresses [17] | frame: literal | lines 53-54
+- [18] sees [17] | frame: reported | lines 54-54
+- [17] relates-to [19] | frame: reported | lines 54-54
+
+## Scene 56-63: The Inquiry of Origins
+- [1] asks [2] | frame: literal | lines 56-57
+- [3] answers [4] | frame: literal | lines 58-58
+- [7] hears [3] | frame: literal | lines 61-61
+- [8] hears [3] | frame: literal | lines 61-61
+- [7] compares [10] | frame: simile | lines 62-63
+- [8] compares [10] | frame: simile | lines 62-63
+
+## Scene 64-81: The Message for Giovanna
+- [1] addresses [2] | frame: literal | lines 64-64
+- [3] calls [6] | frame: literal | lines 64-66
+- [3] addresses [9] | frame: literal | lines 67-67
+- [10] relates-to [11] | frame: reported | lines 68-68
+- [13] tells [14] | frame: prophecy | lines 70-71
+- [16] calls [15] | frame: prophecy | lines 71-71
+- [20] relates-to [21] | frame: reported | lines 73-73
+- [29] relates-to [28] | frame: prophecy | lines 79-80
+- [30] relates-to [28] | frame: reported | lines 80-81
+
+## Scene 82-93: Celestial Observations
+- [2] asks [3] | frame: literal | lines 88-88
+- [4] answers [5] | frame: literal | lines 89-89
+- [6] tells [7] | frame: literal | lines 91-93
+
+## Scene 94-108: The Serpent's Intrusion
+- [2] brings [4] | frame: literal | lines 94-94
+- [5] sees [6] | frame: reported | lines 95-95
+- [7] shows [8] | frame: literal | lines 96-96
+- [6] gives [9] | frame: simile | lines 99-99
+- [13] sees [14] | frame: literal | lines 105-105
+- [13] sees [15] | frame: literal | lines 105-105
+- [16] chases [6] | frame: literal | lines 106-107
+
+## Scene 109-120: The Identification of Currado
+- [4] calls [1] | frame: literal | lines 110-110
+- [6] sees [5] | frame: literal | lines 111-111
+- [7] guides [8] | frame: reported | lines 112-112
+- [10] asks [11] | frame: literal | lines 115-117
+- [11] tells [12] | frame: reported | lines 117-117
+- [18] relates-to [17] | frame: reported | lines 119-119
+
+## Scene 121-132: Praise for the Malaspina
+- [1] speaks-to [2] | frame: literal | lines 121-121
+- [7] praises [6] | frame: reported | lines 124-125
+- [8] praises [6] | frame: reported | lines 124-125
+- [10] speaks-to [11] | frame: literal | lines 127-127
+- [15] praises [17] | frame: reported | lines 130-130
+- [16] praises [17] | frame: reported | lines 130-130
+
+## Scene 133-139: The Judge's Dismissal
+- [1] speaks-to [2] | frame: literal | lines 133-133
+- [1] commands [2] | frame: reported | lines 133-133
+- [1] warns [2] | frame: reported | lines 133-139

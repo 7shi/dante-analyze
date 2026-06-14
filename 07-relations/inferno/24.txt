@@ -1,0 +1,74 @@
+# Canto 24 — The Descent into the Second Bolgia and the Prophecy of Vanni Fucci
+
+## Scene 1-15: The Peasant’s Morning
+- [2] compares [3] | frame: simile | lines 4-5
+
+## Scene 16-24: Virgil’s Physical Aid
+- [2] relates-to [1] | frame: literal | lines 16-16
+- [3] sees [4] | frame: literal | lines 17-17
+- [7] addresses [8] | frame: literal | lines 20-20
+
+## Scene 25-30: Virgil’s Climbing Method
+- [5] compares [1] | frame: simile | lines 25-28
+- [5] brings [4] | frame: literal | lines 27-27
+- [5] commands [6] | frame: literal | lines 29-29
+- [5] warns [8] | frame: literal | lines 30-30
+
+## Scene 31-45: The Difficult Descent
+- [2] guides [3] | frame: literal | lines 32-32
+
+## Scene 46-60: Virgil’s Exhortation
+- [3] commands [1] | frame: reported | lines 46-46
+- [3] commands [8] | frame: reported | lines 52-52
+- [3] commands [9] | frame: reported | lines 52-52
+- [12] relates-to [13] | frame: reported | lines 55-56
+- [14] recognizes [15] | frame: reported | lines 57-57
+- [3] commands [16] | frame: reported | lines 57-57
+- [3] touches [19] | frame: literal | lines 58-58
+- [22] commands [23] | frame: literal | lines 60-60
+
+## Scene 61-78: The Angry Voice
+- [3] hears [4] | frame: literal | lines 67-67
+- [8] commands [10] | frame: literal | lines 72-72
+- [14] hears [4] | frame: literal | lines 74-74
+- [17] answers [19] | frame: literal | lines 76-76
+- [18] gives [19] | frame: reported | lines 76-76
+
+## Scene 79-81: Entering the Bolgia
+
+
+## Scene 82-96: The Pit of Serpents
+- [1] sees [7] | frame: literal | lines 82-82
+- [1] sees [8] | frame: literal | lines 82-92
+- [9] punishes [8] | frame: literal | lines 94-94
+- [10] punishes [8] | frame: literal | lines 95-95
+- [11] punishes [8] | frame: literal | lines 96-96
+
+## Scene 97-111: The Phoenix Metaphor
+
+
+## Scene 112-118: The Sinner’s Anguish
+- [2] brings [3] | frame: simile | lines 113-113
+- [1] compares [10] | frame: simile | lines 112-118
+
+## Scene 119-126: Vanni Fucci’s Identity
+- [1] punishes [3] | frame: literal | lines 119-120
+- [2] asks [3] | frame: literal | lines 121-121
+- [6] answers [2] | frame: literal | lines 122-122
+
+## Scene 127-139: The Confession of Theft
+- [1] speaks-to [2] | frame: literal | lines 127-127
+- [3] tells [4] | frame: reported | lines 127-127
+- [5] asks [6] | frame: reported | lines 128-128
+- [7] sees [8] | frame: reported | lines 129-129
+- [10] hears [3] | frame: literal | lines 130-130
+- [13] sees [14] | frame: literal | lines 131-131
+- [17] speaks-to [19] | frame: literal | lines 133-133
+- [19] sees [20] | frame: reported | lines 133-134
+- [25] asks [24] | frame: reported | lines 136-136
+
+## Scene 140-151: The Prophecy of War
+- [10] tells [1] | frame: literal | lines 140-141
+- [10] commands [4] | frame: literal | lines 142-142
+- [8] strikes [9] | frame: prophecy | lines 149-150
+- [10] tells [12] | frame: literal | lines 151-151

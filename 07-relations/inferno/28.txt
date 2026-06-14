@@ -1,0 +1,96 @@
+# Canto 28 — The Parade of Mutilated Schismatics
+
+## Scene 1-6: The Inadequacy of Language
+
+
+## Scene 7-21: Historical Precedents of Violence
+- [4] opposes [5] | frame: reported | lines 13-14
+- [8] defeats [6] | frame: reported | lines 15-18
+- [1] brings [4] | frame: simile | lines 7-14
+- [1] brings [6] | frame: simile | lines 7-18
+
+## Scene 22-33: The Vision of Muhammad
+- [2] sees [3] | frame: literal | lines 23-23
+- [9] sees [8] | frame: literal | lines 28-28
+- [14] sees [15] | frame: reported | lines 30-30
+- [17] sees [18] | frame: reported | lines 31-31
+- [19] follows [20] | frame: literal | lines 32-32
+
+## Scene 34-45: The Proclamation of Schism
+- [2] sees [1] | frame: reported | lines 34-34
+- [6] strikes [7] | frame: reported | lines 37-38
+- [6] strikes [8] | frame: reported | lines 38-39
+
+## Scene 46-51: Virgil's Explanation
+- [3] answers [9] | frame: literal | lines 47-47
+- [6] guides [7] | frame: reported | lines 48-49
+- [8] speaks-to [9] | frame: literal | lines 51-51
+
+## Scene 52-63: The Prophecy to the Dolciniani
+- [2] hears [1] | frame: literal | lines 52-52
+- [2] sees [11] | frame: literal | lines 53-53
+- [10] commands [3] | frame: literal | lines 55-55
+- [3] tells [4] | frame: reported | lines 55-55
+- [10] warns [4] | frame: reported | lines 55-60
+- [10] prophesies [7] | frame: prophecy | lines 56-56
+- [8] follows [10] | frame: reported | lines 57-57
+- [9] defeats [8] | frame: prophecy | lines 58-60
+- [10] speaks-to [11] | frame: literal | lines 62-62
+
+## Scene 64-75: The Second Mutilated Soul
+- [1] sees [6] | frame: literal | lines 67-67
+- [5] addresses [6] | frame: literal | lines 70-70
+- [7] sees [6] | frame: reported | lines 71-71
+- [7] recognizes [6] | frame: reported | lines 71-72
+- [9] relates-to [10] | frame: reported | lines 73-73
+
+## Scene 76-90: The Maritime Prophecy
+- [1] warns [2] | frame: reported | lines 76-76
+- [1] warns [3] | frame: reported | lines 77-77
+- [1] warns [4] | frame: reported | lines 77-77
+- [6] strikes [5] | frame: prophecy | lines 79-81
+- [7] sees [8] | frame: reported | lines 83-84
+- [7] sees [9] | frame: reported | lines 83-84
+- [12] compares [13] | frame: reported | lines 86-86
+- [12] opposes [14] | frame: reported | lines 86-87
+- [15] calls [16] | frame: prophecy | lines 88-88
+- [16] meets [17] | frame: prophecy | lines 88-88
+- [18] strikes [16] | frame: prophecy | lines 89-90
+
+## Scene 91-99: The Identification of Curio
+- [1] asks [2] | frame: literal | lines 91-93
+- [1] sees [8] | frame: literal | lines 93-93
+- [10] touches [11] | frame: literal | lines 94-94
+- [12] touches [13] | frame: literal | lines 95-95
+- [12] tells [1] | frame: literal | lines 96-99
+- [12] names [14] | frame: literal | lines 96-96
+- [16] follows [17] | frame: reported | lines 97-98
+
+## Scene 100-111: The Encounter with the Severed Hands
+- [1] sees [2] | frame: literal | lines 100-102
+- [4] calls [5] | frame: literal | lines 106-106
+- [9] answers [10] | frame: literal | lines 109-109
+- [9] rebukes [10] | frame: literal | lines 109-109
+
+## Scene 112-126: The Human Lantern
+- [1] sees [2] | frame: literal | lines 112-112
+- [6] relates-to [7] | frame: literal | lines 116-116
+- [9] sees [11] | frame: literal | lines 118-118
+- [12] compares [14] | frame: simile | lines 119-120
+- [12] touches [16] | frame: literal | lines 121-122
+- [18] sees [19] | frame: literal | lines 123-123
+- [20] calls [21] | frame: literal | lines 123-123
+- [26] guides [27] | frame: literal | lines 126-126
+
+## Scene 127-142: The Confession of Bertram
+- [2] addresses [3] | frame: literal | lines 130-130
+- [4] sees [5] | frame: reported | lines 131-131
+- [2] asks [7] | frame: literal | lines 133-133
+- [7] brings [8] | frame: reported | lines 133-133
+- [12] gives [13] | frame: reported | lines 135-135
+- [15] opposes [17] | frame: reported | lines 136-136
+- [16] opposes [17] | frame: reported | lines 136-136
+- [14] compares [18] | frame: reported | lines 137-137
+- [18] relates-to [19] | frame: reported | lines 137-137
+- [18] relates-to [20] | frame: reported | lines 137-138
+- [21] relates-to [22] | frame: reported | lines 139-139

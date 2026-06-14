@@ -1,0 +1,80 @@
+# Canto 31 — The Vision of the Celestial Rose and the Guidance of Saint Bernard
+
+## Scene 1-12: The Celestial Rose and the Angelic Bees
+- [2] shows [1] | frame: literal | lines 1-2
+- [3] relates-to [2] | frame: literal | lines 3-3
+- [4] sees [5] | frame: literal | lines 4-5
+- [4] praises [5] | frame: literal | lines 4-5
+- [5] relates-to [6] | frame: literal | lines 5-5
+- [8] meets [2] | frame: literal | lines 10-10
+- [9] meets [10] | frame: literal | lines 11-12
+
+## Scene 13-24: The Splendor of Divine Light
+
+## Scene 25-27: The Nature of the Eternal Kingdom
+
+## Scene 28-42: Dante's Prayer to the Trinity
+- [6] pleads-with [3] | frame: literal | lines 28-30
+- [1] relates-to [2] | frame: literal | lines 28-29
+- [6] compares [4] | frame: simile | lines 31-40
+- [8] sees [7] | frame: simile | lines 39-40
+
+## Scene 43-54: The Wandering Gaze
+- [6] sees [7] | frame: literal | lines 49-49
+- [6] sees [8] | frame: literal | lines 49-51
+
+## Scene 55-63: The Appearance of Saint Bernard
+- [4] answers [5] | frame: literal | lines 58-58
+- [6] sees [7] | frame: literal | lines 59-59
+- [10] compares [11] | frame: simile | lines 61-63
+
+## Scene 64-69: The Location of Beatrice
+- [2] asks [3] | frame: literal | lines 64-64
+- [3] answers [2] | frame: literal | lines 65-65
+- [4] brings [5] | frame: reported | lines 66-66
+- [3] guides [6] | frame: literal | lines 67-67
+- [7] sees [8] | frame: prophecy | lines 68-68
+
+## Scene 70-78: A Distant Glimpse of Beatrice
+- [2] sees [3] | frame: literal | lines 71-71
+- [6] relates-to [8] | frame: literal | lines 74-76
+- [8] relates-to [9] | frame: literal | lines 77-77
+- [8] relates-to [10] | frame: literal | lines 78-78
+
+## Scene 79-90: Dante's Address to Beatrice
+- [2] addresses [1] | frame: literal | lines 79-79
+- [1] protects [2] | frame: reported | lines 80-81
+- [3] recognizes [1] | frame: reported | lines 82-84
+- [4] guides [5] | frame: reported | lines 85-87
+- [7] protects [6] | frame: reported | lines 88-88
+- [7] protects [8] | frame: reported | lines 89-89
+- [10] relates-to [9] | frame: reported | lines 90-90
+
+## Scene 91-93: Beatrice's Silent Response
+
+
+## Scene 94-102: Bernard's Instruction
+- [1] speaks-to [2] | frame: literal | lines 94-95
+- [1] commands [5] | frame: reported | lines 97-97
+- [7] gives [2] | frame: prophecy | lines 100-101
+- [9] relates-to [7] | frame: reported | lines 102-102
+
+## Scene 103-111: Dante's Internal Wonder
+- [1] sees [2] | frame: simile | lines 103-104
+- [1] asks [6] | frame: simile | lines 106-108
+- [9] sees [10] | frame: literal | lines 109-110
+
+## Scene 112-117: The Command to Look Higher
+- [2] addresses [1] | frame: literal | lines 112-113
+- [2] commands [4] | frame: reported | lines 115-115
+- [5] sees [6] | frame: reported | lines 116-116
+
+## Scene 118-129: The Shifting Light of the Heavens
+
+
+## Scene 130-138: The Vision of the Queen's Joy
+- [1] sees [2] | frame: literal | lines 130-132
+- [3] sees [4] | frame: literal | lines 133-134
+
+## Scene 139-142: Bernard's Shared Devotion
+- [3] sees [4] | frame: literal | lines 141-141

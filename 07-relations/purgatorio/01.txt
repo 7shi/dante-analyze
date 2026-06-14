@@ -1,0 +1,94 @@
+# Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
+
+## Scene 1-12: The Poet’s Prologue
+- [1] calls [5] | frame: literal | lines 7-7
+- [1] calls [6] | frame: literal | lines 7-8
+- [7] relates-to [6] | frame: literal | lines 8-8
+- [1] calls [8] | frame: literal | lines 9-9
+- [8] follows [1] | frame: literal | lines 10-10
+- [8] strikes [9] | frame: literal | lines 11-12
+
+## Scene 13-21: The Awakening Sky
+
+
+## Scene 22-27: The Four Stars
+- [1] addresses [7] | frame: literal | lines 26-27
+
+## Scene 28-39: The Discovery of the Sage
+- [3] sees [5] | frame: literal | lines 31-31
+- [7] relates-to [6] | frame: simile | lines 32-33
+- [9] sees [10] | frame: literal | lines 39-39
+
+## Scene 40-48: Virgil’s Inquiry
+- [3] asks [1] | frame: literal | lines 40-41
+- [3] asks [2] | frame: literal | lines 40-41
+- [3] asks [5] | frame: literal | lines 43-43
+- [3] asks [6] | frame: literal | lines 43-43
+- [3] asks [7] | frame: literal | lines 48-48
+- [3] asks [8] | frame: literal | lines 48-48
+- [4] guides [5] | frame: reported | lines 43-43
+
+## Scene 49-51: The Guide’s Gesture
+- [1] touches [2] | frame: literal | lines 49-49
+- [1] addresses [3] | frame: literal | lines 50-51
+- [1] shows [4] | frame: literal | lines 51-51
+
+## Scene 52-66: The Explanation of the Mission
+- [1] answers [7] | frame: literal | lines 52-52
+- [6] protects [5] | frame: reported | lines 53-54
+- [11] guides [12] | frame: reported | lines 61-62
+- [11] guides [13] | frame: reported | lines 61-62
+- [16] shows [17] | frame: reported | lines 64-64
+- [16] shows [18] | frame: reported | lines 64-64
+- [19] shows [20] | frame: reported | lines 65-65
+- [7] relates-to [21] | frame: reported | lines 66-66
+
+## Scene 67-84: The Plea for Passage
+- [1] brings [2] | frame: reported | lines 67-67
+- [4] brings [5] | frame: reported | lines 68-69
+- [5] sees [6] | frame: reported | lines 69-69
+- [5] hears [6] | frame: reported | lines 69-69
+- [1] pleads-with [6] | frame: literal | lines 70-70
+- [8] recognizes [12] | frame: reported | lines 73-73
+- [13] relates-to [14] | frame: reported | lines 77-77
+- [16] pleads-with [17] | frame: reported | lines 79-79
+- [18] protects [19] | frame: reported | lines 80-80
+- [1] pleads-with [21] | frame: literal | lines 81-81
+- [21] relates-to [20] | frame: reported | lines 81-81
+- [1] pleads-with [22] | frame: literal | lines 82-82
+- [22] relates-to [12] | frame: reported | lines 82-82
+- [23] tells [25] | frame: prophecy | lines 83-83
+- [24] praises [25] | frame: reported | lines 83-83
+
+## Scene 85-99: The Guardian’s Mandate
+- [3] speaks-to [12] | frame: literal | lines 86-86
+- [2] sees [1] | frame: reported | lines 85-85
+- [4] asks [5] | frame: reported | lines 87-87
+- [6] gives [4] | frame: reported | lines 87-87
+- [9] relates-to [8] | frame: reported | lines 88-89
+- [11] guides [12] | frame: reported | lines 91-91
+- [16] commands [15] | frame: reported | lines 93-93
+- [3] commands [17] | frame: literal | lines 94-96
+- [19] touches [20] | frame: reported | lines 94-94
+- [22] touches [21] | frame: reported | lines 95-95
+- [23] touches [21] | frame: reported | lines 96-96
+- [25] meets [26] | frame: reported | lines 97-98
+- [27] relates-to [28] | frame: reported | lines 99-99
+
+## Scene 100-108: The Isle of Reeds
+
+
+## Scene 109-114: The Departure
+- [8] sees [7] | frame: literal | lines 111-111
+- [11] follows [9] | frame: reported | lines 112-112
+
+## Scene 115-120: The Morning Trek
+- [2] compares [3] | frame: simile | lines 118-119
+
+## Scene 121-129: The Light of Revelation
+- [3] recognizes [2] | frame: literal | lines 126-126
+- [4] meets [5] | frame: literal | lines 127-127
+- [6] shows [7] | frame: literal | lines 128-128
+
+## Scene 130-136: Arrival at the Shore
+- [3] touches [4] | frame: literal | lines 133-133

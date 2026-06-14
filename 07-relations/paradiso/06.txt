@@ -1,0 +1,88 @@
+# Canto 06 — Farinata's Imperial Monologue and Historical Survey
+
+## Scene 1-9: The Movement of the Imperial Eagle
+- [1] guides [2] | frame: reported | lines 1-2
+- [3] follows [4] | frame: reported | lines 2-3
+- [5] relates-to [4] | frame: reported | lines 3-3
+
+## Scene 10-27: The Imperial Persona and Spiritual Journey
+- [9] relates-to [8] | frame: reported | lines 14-15
+- [11] guides [13] | frame: reported | lines 16-18
+- [15] relates-to [16] | frame: reported | lines 19-19
+- [17] speaks-to [18] | frame: literal | lines 20-20
+- [23] gives [21] | frame: reported | lines 24-24
+- [25] gives [24] | frame: reported | lines 25-25
+- [26] relates-to [24] | frame: reported | lines 26-26
+
+## Scene 28-33: The Significance of the Political Sign
+- [1] answers [2] | frame: literal | lines 28-29
+- [3] relates-to [4] | frame: reported | lines 33-33
+- [5] opposes [6] | frame: reported | lines 33-33
+
+## Scene 34-48: The Glory of the Roman Lineage
+- [4] gives [5] | frame: reported | lines 36-36
+- [8] opposes [9] | frame: reported | lines 39-39
+- [12] defeats [16] | frame: reported | lines 42-42
+- [20] brings [18] | frame: reported | lines 43-44
+- [20] opposes [21] | frame: reported | lines 44-44
+- [20] opposes [22] | frame: reported | lines 44-44
+- [20] opposes [23] | frame: reported | lines 45-45
+- [20] opposes [24] | frame: reported | lines 45-45
+
+## Scene 49-54: The Expansion of Imperial Power
+- [1] defeats [2] | frame: reported | lines 49-50
+- [6] relates-to [5] | frame: reported | lines 52-52
+- [7] relates-to [5] | frame: reported | lines 52-53
+- [8] relates-to [5] | frame: reported | lines 52-53
+
+## Scene 55-63: The Era of Julius Caesar
+- [10] follows [2] | frame: reported | lines 63-63
+- [11] follows [2] | frame: reported | lines 63-63
+
+## Scene 64-72: The Global Reach of the Empire
+- [8] opposes [7] | frame: reported | lines 69-69
+
+## Scene 73-81: The Tragedies of War and the Era of Peace
+- [1] guides [2] | frame: reported | lines 73-73
+- [3] chases [5] | frame: reported | lines 76-77
+- [4] chases [5] | frame: reported | lines 76-77
+- [7] follows [6] | frame: reported | lines 79-79
+- [9] follows [8] | frame: reported | lines 80-80
+
+## Scene 82-90: The Third Caesar and Divine Justice
+- [3] relates-to [4] | frame: reported | lines 88-88
+- [5] gives [6] | frame: reported | lines 89-89
+- [8] names [7] | frame: literal | lines 89-89
+
+## Scene 91-96: Charlemagne and the Defense of the Church
+- [2] answers [3] | frame: literal | lines 91-91
+- [5] relates-to [4] | frame: reported | lines 92-92
+- [5] relates-to [7] | frame: reported | lines 95-95
+- [7] protects [8] | frame: reported | lines 95-96
+
+## Scene 97-111: The Corruption of the Factions
+- [3] tells [1] | frame: literal | lines 97-97
+- [1] relates-to [2] | frame: reported | lines 97-97
+- [3] rebukes [2] | frame: reported | lines 98-98
+- [2] relates-to [1] | frame: reported | lines 99-99
+- [4] opposes [10] | frame: reported | lines 100-100
+- [5] relates-to [10] | frame: reported | lines 101-101
+- [6] sees [7] | frame: reported | lines 102-102
+- [10] follows [11] | frame: reported | lines 104-105
+- [11] opposes [12] | frame: reported | lines 105-105
+- [13] strikes [10] | frame: reported | lines 106-106
+- [13] relates-to [14] | frame: reported | lines 106-107
+- [3] warns [13] | frame: reported | lines 107-107
+- [15] relates-to [16] | frame: reported | lines 107-108
+- [18] relates-to [17] | frame: reported | lines 109-110
+- [19] relates-to [10] | frame: reported | lines 111-111
+
+## Scene 112-123: The Cosmic Balance of Merit
+
+
+## Scene 124-135: The Harmony of the Troubadours
+- [5] relates-to [4] | frame: reported | lines 133-133
+- [9] relates-to [7] | frame: reported | lines 134-134
+
+## Scene 136-142: A Tribute to the Humble Wanderer
+- [1] gives [2] | frame: reported | lines 138-138

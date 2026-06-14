@@ -1,0 +1,107 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+
+## Scene 1-6: Observation of the Flames
+
+
+## Scene 7-12: Inquiry of the Flames
+- [3] asks [8] | frame: literal | lines 8-9
+- [5] answers [4] | frame: reported | lines 9-9
+- [8] answers [9] | frame: literal | lines 10-10
+- [8] tells [10] | frame: literal | lines 11-11
+
+## Scene 13-18: The Approach of the Boat
+- [1] sees [3] | frame: literal | lines 15-17
+- [3] meets [2] | frame: literal | lines 16-17
+- [3] addresses [5] | frame: literal | lines 18-18
+
+## Scene 19-24: The Quarrel with Flegias
+- [4] addresses [1] | frame: literal | lines 19-20
+- [4] addresses [2] | frame: literal | lines 19-20
+- [4] addresses [3] | frame: literal | lines 19-20
+- [4] rebukes [6] | frame: literal | lines 19-21
+- [6] brings [5] | frame: reported | lines 21-21
+
+## Scene 25-30: Boarding the Vessel
+- [2] guides [3] | frame: literal | lines 26-26
+- [3] follows [4] | frame: literal | lines 26-26
+
+## Scene 31-39: The Encounter with the Muddy Spirit
+- [4] meets [2] | frame: literal | lines 32-32
+- [5] asks [7] | frame: literal | lines 33-33
+- [8] answers [9] | frame: literal | lines 34-34
+- [8] asks [12] | frame: literal | lines 34-35
+- [14] answers [15] | frame: literal | lines 36-36
+- [15] sees [16] | frame: reported | lines 36-36
+- [17] rebukes [18] | frame: literal | lines 37-38
+- [17] commands [20] | frame: literal | lines 38-38
+- [22] recognizes [23] | frame: literal | lines 39-39
+
+## Scene 40-51: The Spirit's Monologue on Pride
+- [2] strikes [3] | frame: literal | lines 41-41
+- [2] rebukes [3] | frame: literal | lines 42-42
+- [4] touches [5] | frame: literal | lines 43-43
+- [6] touches [5] | frame: literal | lines 44-44
+- [7] addresses [8] | frame: literal | lines 44-44
+- [7] praises [9] | frame: reported | lines 45-45
+- [9] relates-to [10] | frame: reported | lines 45-45
+
+## Scene 52-57: Dante's Desire for Retribution
+- [1] speaks-to [2] | frame: literal | lines 52-54
+- [1] sees [3] | frame: reported | lines 53-53
+- [5] answers [6] | frame: literal | lines 55-57
+
+## Scene 58-64: The Torment of Filippo Argenti
+- [1] sees [2] | frame: literal | lines 58-59
+- [3] punishes [2] | frame: literal | lines 58-59
+- [5] praises [4] | frame: literal | lines 60-60
+- [6] praises [4] | frame: literal | lines 60-60
+- [3] calls [7] | frame: literal | lines 61-61
+- [11] relates-to [12] | frame: literal | lines 64-64
+
+## Scene 65-78: Arrival at the Walls of Dis
+- [3] tells [4] | frame: literal | lines 67-69
+- [7] speaks-to [8] | frame: literal | lines 70-72
+- [7] sees [5] | frame: literal | lines 70-72
+- [7] sees [6] | frame: literal | lines 70-72
+- [10] answers [11] | frame: literal | lines 73-75
+
+## Scene 79-93: Challenge at the Gates
+- [2] commands [3] | frame: literal | lines 81-81
+- [6] asks [8] | frame: literal | lines 84-85
+- [9] speaks-to [10] | frame: literal | lines 86-87
+- [11] commands [13] | frame: literal | lines 88-89
+- [12] commands [14] | frame: literal | lines 89-90
+- [21] guides [22] | frame: reported | lines 93-93
+
+## Scene 94-102: Dante's Terror
+- [3] addresses [1] | frame: literal | lines 94-94
+- [3] addresses [2] | frame: literal | lines 94-94
+- [12] addresses [6] | frame: literal | lines 97-97
+- [7] protects [8] | frame: reported | lines 98-98
+- [7] protects [9] | frame: reported | lines 98-99
+- [12] pleads-with [11] | frame: literal | lines 100-100
+
+## Scene 103-108: Virgil's Reassurance
+- [1] guides [2] | frame: literal | lines 103-103
+- [3] speaks-to [4] | frame: literal | lines 104-104
+- [7] relates-to [8] | frame: reported | lines 106-106
+- [10] relates-to [9] | frame: reported | lines 106-107
+- [11] relates-to [9] | frame: reported | lines 106-107
+- [12] relates-to [13] | frame: reported | lines 108-108
+
+## Scene 109-114: Separation at the Gate
+- [2] relates-to [3] | frame: literal | lines 109-109
+- [7] hears [9] | frame: literal | lines 112-112
+- [9] speaks-to [8] | frame: literal | lines 112-112
+
+## Scene 115-120: Virgil's Despair
+- [1] chases [2] | frame: literal | lines 115-116
+- [3] meets [4] | frame: literal | lines 117-117
+- [6] speaks-to [4] | frame: literal | lines 119-119
+- [7] chases [8] | frame: reported | lines 120-120
+
+## Scene 121-130: The Secret Path Revealed
+- [2] speaks-to [1] | frame: literal | lines 121-121
+- [4] asks [3] | frame: reported | lines 121-121
+- [7] commands [6] | frame: reported | lines 122-122
+- [7] defeats [8] | frame: reported | lines 122-123

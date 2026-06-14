@@ -1,0 +1,134 @@
+# Canto 19 — The Siren's Song and the Vision of the Avaricious
+
+## Scene 1-6: The Astronomical Prologue
+- [2] sees [3] | frame: literal | lines 4-5
+
+## Scene 7-9: The Monstrous Vision
+- [2] meets [1] | frame: literal | lines 7-7
+
+## Scene 10-15: The Siren's Transformation
+- [1] sees [2] | frame: literal | lines 10-10
+- [1] guides [3] | frame: literal | lines 12-12
+- [4] relates-to [5] | frame: literal | lines 15-15
+- [1] relates-to [5] | frame: literal | lines 15-15
+
+## Scene 16-24: The Song of the Siren
+- [4] hears [3] | frame: literal | lines 17-18
+- [6] speaks-to [4] | frame: literal | lines 19-19
+- [10] defeats [9] | frame: reported | lines 20-20
+- [12] brings [13] | frame: reported | lines 22-23
+- [15] meets [14] | frame: reported | lines 23-23
+- [17] relates-to [18] | frame: reported | lines 24-24
+
+## Scene 25-27: The Holy Intervention
+- [1] meets [2] | frame: literal | lines 26-27
+- [1] defeats [3] | frame: literal | lines 27-27
+
+## Scene 28-33: The Siren's Revelations
+- [5] asks [1] | frame: literal | lines 28-29
+- [5] asks [2] | frame: literal | lines 28-29
+- [6] sees [7] | frame: literal | lines 29-30
+- [11] shows [12] | frame: literal | lines 31-32
+
+## Scene 34-36: Virgil's Command
+- [2] speaks-to [1] | frame: literal | lines 34-34
+- [3] calls [4] | frame: reported | lines 35-35
+- [5] speaks-to [1] | frame: literal | lines 35-35
+- [5] commands [6] | frame: reported | lines 35-35
+- [5] commands [7] | frame: reported | lines 35-35
+
+## Scene 37-39: The Ascent Begins
+
+
+## Scene 40-45: The Sweet Voice
+- [2] follows [1] | frame: literal | lines 40-40
+- [2] compares [3] | frame: simile | lines 40-42
+
+## Scene 46-51: The Appearance of the Angels
+- [7] relates-to [6] | frame: prophecy | lines 51-51
+
+## Scene 52-54: Virgil's Inquiry
+- [3] asks [1] | frame: literal | lines 52-53
+- [3] asks [2] | frame: literal | lines 52-53
+- [5] relates-to [4] | frame: literal | lines 54-54
+
+## Scene 55-57: Dante's Disturbance
+
+
+## Scene 58-63: The Vision of the Wheel
+- [1] sees [3] | frame: reported | lines 58-58
+- [6] sees [7] | frame: reported | lines 60-60
+- [7] opposes [8] | frame: reported | lines 60-60
+- [12] sees [13] | frame: reported | lines 62-62
+- [14] guides [13] | frame: reported | lines 62-63
+
+## Scene 64-69: The Falcon's Flight
+
+
+## Scene 70-72: The Wailing Souls
+- [2] sees [3] | frame: literal | lines 71-71
+
+## Scene 73-75: The Audible Grief
+- [2] hears [3] | frame: literal | lines 74-74
+
+## Scene 76-78: The Prayer for Ascent
+- [3] addresses [1] | frame: literal | lines 76-76
+- [2] guides [3] | frame: reported | lines 78-78
+
+## Scene 79-81: Virgil's Instruction
+
+
+## Scene 82-87: The Silent Agreement
+- [5] sees [6] | frame: literal | lines 85-85
+- [7] answers [8] | frame: literal | lines 86-86
+
+## Scene 88-96: The Approach to the Bishop
+- [3] meets [4] | frame: literal | lines 89-89
+- [3] addresses [6] | frame: literal | lines 91-91
+- [3] commands [10] | frame: literal | lines 93-93
+- [3] asks [12] | frame: literal | lines 94-94
+- [3] asks [13] | frame: literal | lines 94-94
+- [3] commands [15] | frame: literal | lines 95-95
+- [3] asks [16] | frame: literal | lines 95-96
+- [17] pleads-with [18] | frame: reported | lines 95-96
+
+## Scene 97-105: The Bishop's Identity
+- [1] speaks-to [2] | frame: literal | lines 97-97
+- [1] tells [5] | frame: literal | lines 98-98
+- [1] tells [6] | frame: literal | lines 99-99
+- [7] relates-to [9] | frame: reported | lines 99-99
+
+## Scene 106-114: The Sin of Avarice
+- [11] speaks-to [10] | frame: literal | lines 106-114
+- [9] relates-to [8] | frame: reported | lines 112-113
+- [10] sees [11] | frame: literal | lines 114-114
+
+## Scene 115-126: The Nature of the Punishment
+- [4] punishes [9] | frame: reported | lines 120-120
+- [5] defeats [6] | frame: simile | lines 121-122
+- [7] punishes [9] | frame: reported | lines 123-124
+- [8] punishes [9] | frame: reported | lines 125-126
+
+## Scene 127-130: Dante's Conscience
+- [5] sees [4] | frame: literal | lines 128-128
+- [5] hears [4] | frame: literal | lines 129-129
+- [7] asks [8] | frame: literal | lines 130-130
+
+## Scene 131-132: The Scruple of Guilt
+- [1] answers [2] | frame: literal | lines 131-131
+
+## Scene 133-138: The Dismissal
+- [4] commands [1] | frame: literal | lines 133-133
+- [4] commands [2] | frame: literal | lines 133-133
+- [4] addresses [3] | frame: literal | lines 133-133
+- [4] answers [5] | frame: literal | lines 134-134
+- [4] warns [5] | frame: literal | lines 134-134
+- [6] relates-to [7] | frame: reported | lines 134-135
+- [4] asks [8] | frame: literal | lines 136-137
+- [4] tells [9] | frame: literal | lines 138-138
+
+## Scene 139-145: The Final Postscript
+- [2] commands [1] | frame: literal | lines 139-139
+- [6] tells [5] | frame: reported | lines 141-141
+- [8] relates-to [7] | frame: reported | lines 142-142
+- [12] relates-to [13] | frame: reported | lines 145-145

@@ -1,0 +1,144 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+
+## Scene 1-6: The Awakening
+- [1] compares [3] | frame: simile | lines 2-3
+
+## Scene 7-12: The Valley of Sorrow
+
+
+## Scene 13-18: The Command to Descend
+- [2] speaks-to [4] | frame: literal | lines 13-14
+- [3] guides [4] | frame: reported | lines 15-15
+- [4] follows [3] | frame: reported | lines 15-15
+- [5] sees [2] | frame: literal | lines 16-16
+- [7] speaks-to [9] | frame: literal | lines 17-17
+- [7] asks [9] | frame: literal | lines 17-18
+- [10] relates-to [8] | frame: reported | lines 18-18
+
+## Scene 19-24: Entering the First Circle
+- [3] relates-to [4] | frame: reported | lines 19-20
+- [1] commands [5] | frame: literal | lines 22-22
+- [9] guides [10] | frame: literal | lines 23-24
+
+## Scene 25-30: The Sighing Spirits
+
+
+## Scene 31-42: The Nature of Limbo
+- [1] speaks-to [2] | frame: literal | lines 31-31
+- [6] sees [5] | frame: literal | lines 32-32
+- [7] tells [8] | frame: literal | lines 33-33
+- [15] praises [16] | frame: reported | lines 38-38
+- [18] relates-to [17] | frame: reported | lines 39-39
+
+## Scene 43-50: Dante's Inquiry
+- [4] recognizes [3] | frame: literal | lines 44-45
+- [9] asks [5] | frame: literal | lines 46-50
+- [9] asks [6] | frame: literal | lines 46-50
+- [9] asks [7] | frame: literal | lines 46-50
+- [9] asks [8] | frame: literal | lines 46-50
+
+## Scene 51-63: The Descent of the Patriarchs
+- [1] answers [22] | frame: literal | lines 51-52
+- [3] sees [5] | frame: reported | lines 53-53
+- [6] brings [7] | frame: reported | lines 55-55
+- [6] brings [10] | frame: reported | lines 55-56
+- [6] brings [12] | frame: reported | lines 55-57
+- [6] brings [13] | frame: reported | lines 55-58
+- [6] brings [14] | frame: reported | lines 55-58
+- [6] brings [15] | frame: reported | lines 55-59
+- [6] brings [16] | frame: reported | lines 55-59
+- [6] brings [17] | frame: reported | lines 55-59
+- [6] brings [18] | frame: reported | lines 55-60
+- [19] protects [18] | frame: reported | lines 60-60
+- [20] protects [23] | frame: reported | lines 61-61
+- [21] tells [22] | frame: literal | lines 62-62
+
+## Scene 64-66: Through the Dense Forest
+- [3] meets [5] | frame: literal | lines 65-66
+
+## Scene 67-78: The Discovery of the Light
+- [3] sees [4] | frame: literal | lines 71-72
+- [3] addresses [5] | frame: literal | lines 73-73
+- [3] asks [5] | frame: literal | lines 73-75
+- [9] answers [10] | frame: literal | lines 76-76
+
+## Scene 79-81: The Divine Voice
+- [2] praises [3] | frame: reported | lines 80-80
+
+## Scene 82-93: The Meeting of the Great Poets
+- [1] sees [2] | frame: literal | lines 83-83
+- [2] meets [3] | frame: literal | lines 83-83
+- [5] addresses [6] | frame: literal | lines 85-85
+- [5] commands [6] | frame: literal | lines 86-86
+- [8] follows [7] | frame: literal | lines 87-87
+- [5] names [11] | frame: reported | lines 88-88
+- [5] names [14] | frame: reported | lines 89-89
+- [5] names [16] | frame: reported | lines 90-90
+- [5] names [19] | frame: reported | lines 90-90
+- [21] meets [20] | frame: reported | lines 91-91
+- [22] praises [20] | frame: reported | lines 93-93
+
+## Scene 94-102: The Assembly of Wisdom
+- [1] sees [2] | frame: literal | lines 94-94
+- [6] addresses [7] | frame: literal | lines 98-98
+- [9] praises [10] | frame: literal | lines 100-100
+- [11] relates-to [12] | frame: literal | lines 101-101
+
+## Scene 103-111: The Noble Castle
+- [4] follows [5] | frame: literal | lines 110-110
+
+## Scene 112-117: The Meadow of Spirits
+
+
+## Scene 118-129: The Hall of Heroes
+- [6] sees [7] | frame: literal | lines 121-121
+- [8] recognizes [9] | frame: literal | lines 122-122
+- [8] recognizes [10] | frame: literal | lines 122-122
+- [6] sees [11] | frame: literal | lines 121-123
+- [12] sees [13] | frame: literal | lines 124-124
+- [12] sees [14] | frame: literal | lines 124-124
+- [15] sees [16] | frame: literal | lines 125-125
+- [16] relates-to [17] | frame: literal | lines 126-126
+- [18] relates-to [16] | frame: literal | lines 126-126
+- [19] sees [20] | frame: literal | lines 127-127
+- [20] chases [21] | frame: reported | lines 127-127
+- [19] sees [22] | frame: literal | lines 127-128
+- [19] sees [23] | frame: literal | lines 127-128
+- [19] sees [24] | frame: literal | lines 127-128
+- [19] sees [25] | frame: literal | lines 127-128
+- [26] sees [27] | frame: literal | lines 129-129
+
+## Scene 130-144: The School of Philosophers
+- [2] sees [3] | frame: literal | lines 131-131
+- [3] relates-to [4] | frame: literal | lines 131-131
+- [4] sees [6] | frame: literal | lines 133-133
+- [4] praises [7] | frame: literal | lines 133-133
+- [8] sees [9] | frame: literal | lines 134-134
+- [8] sees [10] | frame: literal | lines 134-134
+- [9] relates-to [11] | frame: literal | lines 135-135
+- [10] relates-to [11] | frame: literal | lines 135-135
+- [8] sees [12] | frame: literal | lines 136-136
+- [8] sees [13] | frame: literal | lines 137-137
+- [8] sees [14] | frame: literal | lines 137-137
+- [8] sees [15] | frame: literal | lines 137-137
+- [8] sees [16] | frame: literal | lines 138-138
+- [8] sees [17] | frame: literal | lines 138-138
+- [8] sees [18] | frame: literal | lines 138-138
+- [19] sees [20] | frame: literal | lines 139-139
+- [23] names [22] | frame: literal | lines 140-140
+- [24] sees [25] | frame: literal | lines 140-140
+- [24] sees [26] | frame: literal | lines 141-141
+- [24] sees [27] | frame: literal | lines 141-141
+- [24] sees [28] | frame: literal | lines 141-141
+- [24] sees [29] | frame: literal | lines 142-142
+- [24] sees [30] | frame: literal | lines 142-142
+- [24] sees [31] | frame: literal | lines 143-143
+- [24] sees [32] | frame: literal | lines 143-143
+- [24] sees [33] | frame: literal | lines 143-143
+- [24] sees [34] | frame: literal | lines 144-144
+
+## Scene 145-147: The Poet's Limitation
+
+
+## Scene 148-151: Moving Toward the Light
+- [2] guides [1] | frame: literal | lines 149-149
