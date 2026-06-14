@@ -436,6 +436,31 @@ from `04-tags/` to the complete graph is in `PLAN.md`'s Active work. Two general
   on a grouping pass guards structure, not correctness (§11), so an unverifiable merge is worse than
   an honest "not yet grouped". Typing stays tractable regardless (fixed-size batches over the node set).
 
+## 15. Parallelizing a run: safety is a function of shared writable state; speedup, of the backend.
+
+A canticle run is long, so the question of fanning it out (per canticle, per canto) across processes
+comes up. Two independent questions:
+
+**May you? — decided by shared writable state.**
+- **No shared writable state → safe.** A pass whose outputs are per-unit files (`<canticle>/NN.txt`)
+  and whose inputs are read-only committed files has nothing to race on; run the units concurrently.
+  Most passes here are this kind.
+- **A lock-free shared cache → must run as one process.** A pass that appends to a single unlocked
+  file over *global* state corrupts it under concurrency and re-does the global work in each process
+  — e.g. `05-registry`'s `types.txt` resume cache, written over the whole deduplicated node set. Run
+  it as the one process its Makefile invokes.
+
+Decide this per pass and state the verdict in **that pass's README** (the per-unit detail belongs
+there, not in `PLAN.md`).
+
+**Will it help? — decided by the backend (`-m`, the `model.mk` choice), not by correctness.** A
+single local GPU serves one model, and a local backend (Ollama) serializes same-model requests by
+default, so fanning out local clients only queues them — no speedup, and forcing concurrency
+contends for VRAM. A *hosted* backend handles concurrency server-side, so the same fan-out gives a
+real speedup there. Hence a parallel-safe pass is "parallel = pointless" on the local default yet
+"parallel = N× faster" on the commented cloud backends — run the cloud and local models side by side
+when it pays.
+
 ---
 
 **One-line summary:** local LLM = unreliable narrator. Keep each call small and

@@ -146,6 +146,27 @@ Ollama's separate thinking channel cover the risk (ARCHITECTURE §1).
 uv run 07-relations/measure.py                 # the frozen predicate evidence (no LLM)
 make -C 07-relations measure                   # same, via make
 uv run 07-relations/relations.py inferno [-c 1] [-m MODEL] [--no-think]
-make -C 07-relations                           # all three canticles
+make -C 07-relations                           # all three canticles (one process, sequential)
 uv run dante-analyze relations show inferno 1  # read a committed file
 ```
+
+### Running the canticles in parallel
+
+(General rule: ARCHITECTURE.md §15.) Per-canticle runs are **safe to parallelize** — unlike
+`05-registry` (which serializes on a global node set and a lock-free shared `types.txt`), this pass
+has **no shared writable state**: each
+canticle writes only its own `07-relations/<canticle>/NN.txt`, the per-canto checkpoints are
+independent and resumable, and every input (`load_readings`/`load_tags`/`number_scene`/
+`CLOSED_VOCAB`) is read-only. So three concurrent processes are correct:
+
+```bash
+for c in inferno purgatorio paradiso; do uv run 07-relations/relations.py $c & done; wait
+```
+
+Whether it is *faster* depends on the backend (`-m`, default from `../model.mk`):
+- **Cloud backend** (`google:gemma-4-31b-it`, `openrouter:…` — the commented `model.mk` options):
+  the server handles concurrency, so running the three canticles at once roughly triples throughput.
+  This is the intended way to use the cloud models alongside the local one.
+- **Local `ollama`**: same-model requests serialize by default (`OLLAMA_NUM_PARALLEL=1`), so parallel
+  clients just queue — no speedup; forcing concurrency contends for VRAM and can be slower or OOM on
+  a single 31B GPU. Use the sequential `make -C 07-relations` locally.

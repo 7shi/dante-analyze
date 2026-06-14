@@ -82,10 +82,12 @@ join invariant, and the Step-4 assembly contract — is in `07-relations/README.
 
 **Remaining (the generation run + commit):** `make -C 07-relations` for all three canticles →
 `07-relations/<canticle>/NN.txt`, then commit. Inferno canto 1 is already generated (a verified
-smoke test); delete `07-relations/inferno/01.txt` to regenerate it under the final prompt. **On that
-commit, flip the STATUS header + this heading to `[DONE & committed]` and make Step 4 the current
-step** — otherwise the next session reads a stale status (the "Where to pick up" bullets are the
-self-correcting fallback if you forget).
+smoke test); delete `07-relations/inferno/01.txt` to regenerate it under the final prompt. (The run
+parallelizes per canticle — see `07-relations/README.md`; the general rule is ARCH §15.)
+
+**On that commit, flip the STATUS header + this heading to `[DONE & committed]` and make Step 4 the
+current step** — otherwise the next session reads a stale status (the "Where to pick up" bullets are
+the self-correcting fallback if you forget).
 
 ### Step 4 — KG assembly  [NEXT once the Step-3 run is committed; pure code, no LLM]
 
