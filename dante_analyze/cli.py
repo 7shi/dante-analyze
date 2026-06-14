@@ -1,11 +1,11 @@
 """Read-only query CLI over the committed analysis outputs
-(scenes / reading / tags / registry / speech / relations)."""
+(scenes / reading / tags / registry / speech / relations / kg)."""
 import argparse
 import json
 import sys
 
-from ._paths import SCENE_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR
-from .checkpoint import out_path
+from ._paths import SCENE_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR
+from .checkpoint import out_path, load_kg
 
 _DIRS = {"reading": READING_DIR, "tags": TAGS_DIR, "speech": SPEECH_DIR, "relations": RELATIONS_DIR}
 
@@ -22,6 +22,13 @@ def _show_registry(canticle):
     if not path.exists():
         raise FileNotFoundError(path)
     print(path.read_text(encoding="utf-8"), end="")
+
+
+def _show_kg(canticle, canto):
+    path = KG_DIR / canticle / f"{canto:02d}.json"
+    if not path.exists():
+        raise FileNotFoundError(path)
+    print(json.dumps(load_kg(canticle, canto), ensure_ascii=False, indent=2))
 
 
 def _show_scenes(canticle, canto):
@@ -51,6 +58,12 @@ def build_parser():
     registry_show = registry_sub.add_parser("show")
     registry_show.add_argument("canticle")
 
+    kg_parser = roots.add_parser("kg")
+    kg_sub = kg_parser.add_subparsers(dest="action", required=True)
+    kg_show = kg_sub.add_parser("show")
+    kg_show.add_argument("canticle")
+    kg_show.add_argument("canto", type=int)
+
     for layer in _DIRS:
         layer_parser = roots.add_parser(layer)
         sub = layer_parser.add_subparsers(dest="action", required=True)
@@ -69,6 +82,8 @@ def main():
                 _show_scenes(args.canticle, args.canto)
             elif args.layer == "registry":
                 _show_registry(args.canticle)
+            elif args.layer == "kg":
+                _show_kg(args.canticle, args.canto)
             else:
                 _show(args.layer, args.canticle, args.canto)
             return 0

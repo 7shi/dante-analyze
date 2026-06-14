@@ -461,6 +461,22 @@ real speedup there. Hence a parallel-safe pass is "parallel = pointless" on the 
 "parallel = N× faster" on the commented cloud backends — run the cloud and local models side by side
 when it pays.
 
+## 16. Reused code lives in the shared library `dante_analyze/`, not in another pass's script.
+
+The pass scripts (`NN-name/*.py`) are entry points: each owns a run loop and writes its own output.
+Logic that more than one pass needs belongs in the **package**, not in whichever script happened to
+write it first. When a new pass needs a helper that already exists in another pass's script,
+**promote it into `dante_analyze/`** and have both passes import it — never import one pass's
+internals from another (the `NN-name/` dirs are not importable modules), and never copy-paste.
+
+The package is already the single source of truth for the cross-pass primitives: the `load_*`
+loaders, tag numbering (`number_scene`/`tag_positions`), label normalization (`norm_label`/
+`fold_key`/`split_set`), and quote-span geometry. The name→registry-node join is the worked example:
+`raw_to_canonical` started in `06-speech/speech.py`, and when `08-kg` (Step 4) needed the same join
+it moved to `checkpoint.py` next to `load_registry`, with both passes importing it. One copy means
+one place to fix when the registry format shifts. Re-export the promoted name from `__init__.py` so
+passes import it from the top-level package.
+
 ---
 
 **One-line summary:** local LLM = unreliable narrator. Keep each call small and

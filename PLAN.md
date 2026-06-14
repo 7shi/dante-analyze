@@ -1,15 +1,16 @@
 # dante-analyze — KG layer: plan & status (2026-06)
 
 > **▶ STATUS: the ladder scenes → markup → reading → tags is ✓ complete & committed; the registry
-> (`05-registry/`, KG Step 1) is ✓ built, generation-run & committed; the speech pass (`06-speech/`,
-> KG Step 2) is ✓ built & committed (pure code). The relations pass (`07-relations/`, KG Step 3) is
-> **✓ DONE & committed**: `relations.py` + all 100 canto outputs (`07-relations/{inferno,purgatorio,paradiso}/NN.txt`)
-> are committed. Current step = **Step 4, KG assembly**.
+> (`05-registry/`, KG Step 1), the speech pass (`06-speech/`, KG Step 2), the relations pass
+> (`07-relations/`, KG Step 3), and the KG assembly (`08-kg/`, KG Step 4) are all ✓ DONE & committed.
+> **The KG ladder is complete** — `08-kg/{inferno,purgatorio,paradiso}/NN.json` (edges + speech
+> edges per canto) + `08-kg/<canticle>.nodes.json` (node table) are committed; design in
+> `08-kg/README.md`. Next = the deferred work (Digest edition; the pronoun-layer quality items) or a
+> consumer of the graph (`dante-dravidian`).
 >
 > **Where to pick up (check this first):**
-> - **Step 3 is DONE** — all 100 canto outputs committed. Start **Step 4, KG assembly** (read the
->   Step 4 section below + `07-relations/README.md`'s "Step-4 assembly contract", and the `load_*`
->   API in `dante_analyze/README.md`).
+> - **All four KG steps are DONE** — the assembled graph is committed under `08-kg/`. There is no
+>   open build step in this plan; see "Deferred" and "Digest edition" below for the remaining work.
 >
 > Full designs are in each subdir's `README.md` (or `PLAN.md` while a pass is under construction).
 > Read `ARCHITECTURE.md` before building or changing any pass.**
@@ -74,11 +75,17 @@ join invariant, and the Step-4 assembly contract — is in `07-relations/README.
 All 100 canto outputs are built and committed. The design, the four-point structural check, and the
 Step-4 assembly contract are in `07-relations/README.md`.
 
-### Step 4 — KG assembly  [NEXT once the Step-3 run is committed; pure code, no LLM]
+### Step 4 — KG assembly (`08-kg/assembly.py`)  [DONE & committed]
 
 Join the committed edges and speaker data into the graph. **Pure code** — every input is a committed
 file read through the **`load_*` public API** (signatures in `dante_analyze/README.md`); no model is
 involved. The upstream structural checks are what make this join total.
+
+`08-kg/assembly.py` + the wiring (`KG_DIR`, `load_kg`, `load_kg_nodes`, `cli.py` `kg show`,
+`Makefile`) are built, generation-run & committed for all three canticles: geometry checked with 0
+failures across all 100 cantos (every edge in exactly one scene, every cited tag present), 18
+unresolved edge ends total (all `(unknown)` labels). **→ The full design and the measured result are
+in `08-kg/README.md`.** What follows is the original build spec.
 
 Per canticle, per canto, over `load_relations(canticle, canto)`:
 - **Resolve each end to a node.** An edge's `start..end` lies in exactly one scene (scenes partition
@@ -121,6 +128,8 @@ uv run dante-analyze speech show inferno 1
 uv run 07-relations/measure.py                 # Step 3: regression — re-confirm the 31-predicate gate
 make -C 07-relations                           # Step 3: full generation run + per-scene structural check
 uv run dante-analyze relations show inferno 1
+make -C 08-kg                                  # Step 4: assemble the graph + geometry check (0 failures)
+uv run dante-analyze kg show inferno 1
 ```
 
 ## Pipeline (data flow)
@@ -134,12 +143,12 @@ uv run dante-analyze relations show inferno 1
         (markup round-trip-checked; reading free prose, no check; tags identity-first, structure-checked)
      05-registry/measure.py → stdout report (registry sizing + gates, pure code)     [done]
 
-  KG build (next — this plan):
+  KG build (complete — this plan):
      05-registry/registry.py  → 05-registry/<c>.txt      canonical nodes + types      [Step 1 ✓]
      06-speech/speech.py      → 06-speech/<c>/NN.txt      speaker per quote span       [Step 2 ✓]
      07-relations/measure.py  → stdout report (CLOSED_VOCAB probe, pure code)          [Step 3 ✓]
-     07-relations/relations.py → 07-relations/<c>/NN.txt  schema edges per scene       [Step 3 ✓ built; run pending]
-     (assembly)               → TBD                       the joined graph             [Step 4]
+     07-relations/relations.py → 07-relations/<c>/NN.txt  schema edges per scene       [Step 3 ✓]
+     08-kg/assembly.py        → 08-kg/<c>/NN.json + <c>.nodes.json  the joined graph   [Step 4 ✓]
 ```
 
 ## Decisions to keep

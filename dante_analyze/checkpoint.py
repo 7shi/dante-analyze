@@ -1,10 +1,12 @@
 """Per-canto checkpoint file I/O: read, navigate, and write the `## Scene s-e` block
 format used by every analysis pass, plus higher-level loaders `load_readings` and
 `load_tags`."""
+import json
 import re
 import sys
 
-from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR
+from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR
+from .labels import fold_key
 
 # A tags `n. Name` line (the authoritative resolution; line n = tag [n]).
 TAGS_LINE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
@@ -173,6 +175,19 @@ def load_registry(canticle):
     return out
 
 
+def raw_to_canonical(canticle):
+    """{fold_key(spelling): canonical} from the committed registry — the total join a pass
+    canonicalizes 04-tags labels through (06-speech and 08-kg both go this way; ARCHITECTURE §16).
+    The registry built its `labels` from norm_label'd spellings keyed by fold_key, so
+    fold_key(norm_label(raw)) for every non-(unknown) label hits this map. A set node carries no
+    `labels:`; its heading itself is the surface that occurred."""
+    m = {}
+    for canonical, node in load_registry(canticle).items():
+        for sp in (node["labels"] or [canonical]):
+            m[fold_key(sp)] = canonical
+    return m
+
+
 # A speech span line: "- <quote_id> lines <s>-<e> | speaker: <name> | signal: <sig> | flags: <flags>"
 SPEECH_LINE_RE = re.compile(
     r"^-\s+(?P<qid>\S+)\s+lines\s+(?P<s>\d+)-(?P<e>\d+)\s*\|\s*"
@@ -242,3 +257,28 @@ def load_relations(canticle, canto):
             "end": int(m.group("e")),
         })
     return out
+
+
+def load_kg(canticle, canto):
+    """The assembled KG for a canto from 08-kg/<canticle>/NN.json, or exit if absent.
+
+    A dict {canticle, canto, edges, speech_edges}; each edge carries its scene, resolved
+    subj/obj (tag/name/node), predicate, frame, lines, and asserter. Built by 08-kg/assembly.py;
+    see 08-kg/README.md."""
+    path = KG_DIR / canticle / f"{canto:02d}.json"
+    if not path.exists():
+        print(f"Error: kg not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
+        sys.exit(1)
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_kg_nodes(canticle):
+    """The KG node table for a canticle from 08-kg/<canticle>.nodes.json, or exit if absent.
+
+    A dict {canticle, nodes}; each node is {id, type, members} (members is None unless a set
+    node). The registry distilled to graph nodes by 08-kg/assembly.py."""
+    path = KG_DIR / f"{canticle}.nodes.json"
+    if not path.exists():
+        print(f"Error: kg nodes not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
+        sys.exit(1)
+    return json.loads(path.read_text(encoding="utf-8"))

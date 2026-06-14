@@ -35,7 +35,7 @@ from dante_corpus import api
 
 from dante_analyze import (
     SPEECH_DIR, TAGS_DIR,
-    read_markup, load_tags, load_scenes, load_registry,
+    read_markup, load_tags, load_scenes, load_registry, raw_to_canonical,
     number_scene, tag_positions, strip_to_source,
     norm_label, fold_key,
     walk_spans, own_region,
@@ -54,18 +54,6 @@ def committed_cantos(canticle):
     if not d.is_dir():
         return []
     return sorted(int(p.stem) for p in d.glob("[0-9][0-9].txt"))
-
-
-def raw_to_canonical(canticle):
-    """{fold_key(spelling): canonical} from the committed registry — the total join the speech
-    pass canonicalizes 04-tags labels through. The registry built its `labels` from norm_label'd
-    spellings keyed by fold_key, so fold_key(norm_label(raw)) for every non-(unknown) label hits
-    this map. A set node carries no `labels:`; its heading itself is the surface that occurred."""
-    m = {}
-    for canonical, node in load_registry(canticle).items():
-        for sp in (node["labels"] or [canonical]):
-            m[fold_key(sp)] = canonical
-    return m
 
 
 def collapse_ws(text):
