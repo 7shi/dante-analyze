@@ -1,4 +1,4 @@
-"""Label normalization and classification for the registry pass (ARCHITECTURE §11, §14).
+"""Label normalization and classification for the registry pass.
 
 These are the pure-code primitives the registry (`05-registry/`) builds on: an
 identity-preserving grouping key (`norm_label`), a lossy collision-detection key

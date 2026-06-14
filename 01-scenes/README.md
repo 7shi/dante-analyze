@@ -66,7 +66,7 @@ and the scenes together cover line 1 to the source's last line. Only **Turn 2** 
 failure (the specific problems fed back), max 3 attempts; after that the run **aborts** (`sys.exit`)
 rather than commit a malformed split — segmentation is the spine every later pass depends on, so a
 bad canto must not be written. The `scene_name`/`summary` text itself is interpretation and ships as
-generated (root PLAN.md "Decisions to keep").
+generated.
 
 ## Usage
 

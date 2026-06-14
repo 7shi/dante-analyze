@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 """
-Registry build — Step 1 of the knowledge graph (root PLAN.md; full spec in this dir's PLAN.md).
+Registry build — Step 1 of the knowledge graph.
 
 Aggregates the per-scene 04-tags labels into one canonical, source-spelled NODE per figure across
 the whole work, with node typing (closed vocabulary), set support, and a per-canticle alias-surface
-inventory. This is the node layer the speech/relations passes join onto (ARCHITECTURE §11/§14).
+inventory. This is the node layer the speech/relations passes join onto.
 
 Pipeline: gather (code) -> fold-merge (code) -> set-resolve (code) -> type (LLM, cached) ->
 render per-canticle (code) -> structural check (code).
@@ -14,7 +14,7 @@ original spelling, decided GLOBALLY so a cross-canticle figure shares one label)
 already proved this is total and sizes it (2,923 distinct -> 2,712 nodes). The only LLM stage is
 node typing (~136 batched calls), checked and retried like `tags.py`.
 
-Option A (05-registry/PLAN.md decision): epithet grouping is SKIPPED in v1 — every epithet node
+Decision: epithet grouping is SKIPPED in v1 — every epithet node
 stays its own node, flagged `grouped: no`. A flagged singleton is safer than an unverifiable merge;
 consolidation is a later pass.
 
@@ -48,7 +48,7 @@ TYPES_CACHE = REGISTRY_DIR / "types.txt"
 
 
 def committed_cantos(canticle):
-    """Cantos with a committed 04-tags file, in order (the checkpoint, ARCHITECTURE §9)."""
+    """Cantos with a committed 04-tags file, in order; the file is the checkpoint."""
     d = TAGS_DIR / canticle
     if not d.is_dir():
         return []
@@ -135,7 +135,7 @@ def append_types_cache(typed):
 
 def build_typing_prompt(batch):
     """Type each label with the closed vocabulary. Only the labels are sent — no glosses, no
-    per-item answers (ARCHITECTURE §8). The vocabulary definitions are general knowledge."""
+    per-item answers. The vocabulary definitions are general knowledge."""
     listing = "\n".join(f"{i}. {label}" for i, label in enumerate(batch, 1))
     return f"""Each line below is a label naming a figure referred to in Dante's Divine Comedy, in
 source (Italian) spelling. Classify EACH with exactly one type from this closed vocabulary:
@@ -282,8 +282,8 @@ def render_canticle(nodes, canticle, types):
 # ---------- 5. structural check (write time) ----------
 
 def check_registry(nodes, canticle, types):
-    """Problems with a rendered canticle (empty = OK), per 05-registry/PLAN.md:
-    every distinct 04-tags label in the canticle assigned to exactly one node's labels
+    """Problems with a rendered canticle (empty = OK): every distinct 04-tags label in the
+    canticle assigned to exactly one node's labels
     (`(unknown)` already excluded); every set member resolves to a node; every type in
     vocabulary; canonical heading is one of its group's raw labels."""
     problems = []

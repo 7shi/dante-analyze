@@ -1,6 +1,6 @@
 # 04-tags — identity-first per-tag resolution
 
-The reading is the single source of truth for WHO (ARCHITECTURE §11). This pass does not
+The reading is the single source of truth for WHO. This pass does not
 re-decide referents; it enumerates the reading's identifications into one checkable
 `n. Name` line per tag. It binds directly to the committed reading (replayed as the
 assistant's reasoning turn), sees nothing else, and is gated by a structural check with
@@ -18,7 +18,7 @@ in-conversation retry.
 2. **The orthography clause moved out of the prompt.** The earlier prompt asked the model to correct malformed
    elisions; the model over-applied it, un-eliding required elisions (`l'altra` → `la altra`),
    creating a standing residual class that required post-hoc repair. A mechanical
-   quirk with one canonical form belongs in code, not in the prompt (ARCHITECTURE §12).
+   quirk with one canonical form belongs in code, not in the prompt.
    `fix_elision` now handles the repair mechanically.
 3. **Surface forms are no longer the model's job.** Which words the text uses for a tag
    is already in the markup: `number_scene`'s `meta` carries each tag's `(kind, surface)`.
@@ -42,11 +42,11 @@ identification the reading establishes**, in SOURCE (Italian) spelling:
 Never the pronoun surface (`1. io` is wrong; the narrator is `Dante`). No orthography
 correction is requested: spelling instructions reduce to "source spelling, the text's own
 forms". `fix_elision` runs in code on every parsed label, before the check and before the
-reply re-enters the conversation history (§12 — the model never sees its own un-elided
+reply re-enters the conversation history (the model never sees its own un-elided
 quirk in a prior turn).
 
 Consequence for the registry: per-scene labels are still not guaranteed cross-scene
-canonical (a per-unit pass cannot see other units — ARCHITECTURE §11), but the gap is now
+canonical (a per-unit pass cannot see other units), but the gap is now
 only where the *reading itself* doesn't know the identity, instead of every scene where the
 text happens not to name the figure.
 
@@ -77,12 +77,12 @@ Per scene, at generation (retry in-conversation, max 3 attempts, last draft kept
 
 The check proves STRUCTURE only. Whether `Beatrice` is the *right* person is interpretation,
 inherited from the reading — unverified and shipped as generated, per the project's
-no-hand-proofreading policy (root PLAN.md "Decisions to keep").
+no-hand-proofreading policy.
 
 ## What downstream consumes
 
-- `load_tags()` → `{(s, e): {n: name}}` — identity per tag.
-- `number_scene()` `meta` → `{n: (kind, surface)}` — surface per tag, no LLM.
+- `load_tags` → `{(s, e): {n: name}}` — identity per tag.
+- `number_scene` `meta` → `{n: (kind, surface)}` — surface per tag, no LLM.
 - Joining the two gives `(surface, identity)` pairs per scene: the registry's alias input
   (`Poeta`/`ombra` surfaces grouped under the `Virgilio` identity) without a second
   resolution step.
@@ -91,7 +91,7 @@ no-hand-proofreading policy (root PLAN.md "Decisions to keep").
 
 `ollama:gemma4:31b-it-qat` (the strongest local reader), CoT on by default (`--no-think`
 disables): naming a tag is judgment-heavy coreference; the runaway guard (`call_llm`) and
-Ollama's separate thinking channel cover the risk (ARCHITECTURE §1).
+Ollama's separate thinking channel cover the risk.
 
 ## Usage
 

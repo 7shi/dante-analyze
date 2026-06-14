@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
-Measurement-first probe of the committed 04-tags outputs (ARCHITECTURE §11/§14; PLAN.md "Measured
-baselines" + the registry build, Step 1).
+Measurement-first probe of the committed 04-tags outputs for the registry build.
 
 Pure code, no LLM, writes nothing — a stdout report that sizes the registry problem BEFORE any
 registry prompt is frozen. It answers: how many distinct labels, how head-concentrated, how many
@@ -44,7 +43,7 @@ def tokens_of(text):
 
 
 def committed_cantos(canticle):
-    """Cantos with a committed 04-tags file, in order (the checkpoint, ARCHITECTURE §9)."""
+    """Cantos with a committed 04-tags file, in order; the file is the checkpoint."""
     d = TAGS_DIR / canticle
     if not d.is_dir():
         return []
@@ -272,7 +271,7 @@ def content_tokens(label):
 
 def build_nodes(label_count):
     """The deterministic code-merge the registry performs: fold_key -> (canonical, total).
-    Canonical is the most frequent original spelling in the group (ARCHITECTURE §11). This
+    Canonical is the most frequent original spelling in the group. This
     is what 2923 distinct labels collapse to BEFORE any LLM touches them."""
     groups = defaultdict(list)
     for nl, n in label_count.items():
@@ -304,7 +303,7 @@ def near_dupe_pairs(nodes):
 def epithet_nodes(label_count):
     """Registry NODES (post-fold_key) that are descriptive epithets, not proper names, and
     occur ≥2× — the candidate list the per-canticle epithet-grouping LLM call must hold
-    (PLAN.md Step 1, registry build). Computed on nodes, so `il Sole`/`la Fortuna` (already folded onto their
+    (the registry build). Computed on nodes, so `il Sole`/`la Fortuna` (already folded onto their
     bare form) do NOT inflate it. Sizes the binding decision gate."""
     nodes = build_nodes(label_count)
     out = []
@@ -338,7 +337,7 @@ def main():
         print("No committed 04-tags found.", file=sys.stderr)
         sys.exit(1)
 
-    # ---- global totals + decision gates (registry is decided globally, ARCHITECTURE §11) ----
+    # ---- global totals + decision gates (registry is decided globally) ----
     global_count = Counter()
     global_unknowns = global_noise = global_spans = 0
     global_buckets = Counter()
@@ -378,7 +377,7 @@ def main():
     # so the gate is per-canticle, not global.
     per_canticle_epithets = {d.canticle: len(epithet_nodes(d.label_count)) for d in datasets}
 
-    print(f"\n## Decision gates (PLAN.md — registry sizing)")
+    print(f"\n## Decision gates")
     print(f"  fold_key handles variant merging in CODE; the LLM residual is (a) typing every")
     print(f"  node, (b) grouping epithet nodes per canticle. The gates size (b) and the leftover")
     print(f"  near-dupes (a) code can't merge.")

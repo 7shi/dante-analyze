@@ -2,13 +2,13 @@
 Scene reading for Dante's Divine Comedy (analysis step, pre-processing).
 
 This is the FREE-INTERPRETATION pass and the single source of truth for WHO
-(ARCHITECTURE §11). For each scene it produces a plain-English reading: who does what,
+. For each scene it produces a plain-English reading: who does what,
 who speaks to whom, and — for each numbered tag in the markup — which person it refers
 to. The reading is prose, non-deterministic, and NOT machine-checkable (there is no
 round-trip and no coverage anchor on free prose), so it carries NO logic check and is
 committed AS GENERATED — residual errors are accepted data, not hand-patched (the
-pipeline measures the local model's true accuracy; root PLAN.md "Decisions to keep").
-tags.py then re-grounds it to the numbered tags under a structural check (ARCHITECTURE §11).
+pipeline measures the local model's true accuracy).
+tags.py then re-grounds it to the numbered tags under a structural check.
 
 It sits BETWEEN markup.py and tags.py:
     markup.py  -> every person-reference marked, numbered by number_scene
@@ -161,7 +161,7 @@ def cmd_run(canticle, model, only_canto, include_thoughts):
 def main():
     parser = argparse.ArgumentParser(
         description="Free prose reading per scene for Dante's Divina Commedia: who "
-                    "does what / who speaks, with each numbered tag resolved (see PLAN.md).")
+                    "does what / who speaks, with each numbered tag resolved.")
     parser.add_argument("canticles", nargs="+", help="Canticle name(s), e.g. inferno")
     parser.add_argument("-m", "--model", default=DEFAULT_MODEL,
                         help=f"LLM for generation (default: {DEFAULT_MODEL})")

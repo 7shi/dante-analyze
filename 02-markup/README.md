@@ -16,9 +16,9 @@ One unified LLM pass per scene (CoT on, `gemma4:31b-it-qat`, via the shared `cal
   `mi ritrovai…` → `[+io] [mi] ritrovai…`.
 - **Layer 2 — names.** Wrap every person-referring noun phrase (proper names and the common-noun
   epithets/periphrases that stand for a person) in `{..}` — `{il Veltro}`, `'{l Poeta}`. Over-marking
-  is acceptable here (a missed reference is worse than a spurious one — root PLAN.md).
+  is acceptable here (a missed reference is worse than a spurious one).
 
-**Orthography is code's job** (ARCHITECTURE §12): `normalize_token_brackets` expands a `[..]` bracket
+**Orthography is code's job**: `normalize_token_brackets` expands a `[..]` bracket
 to the tokenizer's token boundary in code, so the model is never asked to fix mechanical bracket
 quirks.
 
@@ -49,13 +49,13 @@ still-failing line with surrounding context. A line that never validates is left
 
 The round-trip proves the marks are *faithful to the source*; it does **not** prove they are the
 *right* references — pronoun-layer accuracy (spurious/misplaced `[+..]`, wrong category) is a known
-residual deferred to a stronger model / a pronoun lexicon (root PLAN.md "Deferred"). The ~10
+residual deferred to a stronger model / a pronoun lexicon. The ~10
 corpus-wide nested-brace lines (`{figliuol d'{Anchise}}`) are an accepted ≤1-column anomaly.
 
 ## Model
 
 `ollama:gemma4:31b-it-qat` (the strongest local reader), CoT on (`include_thoughts=True`); Ollama
-routes the thinking to its own channel so the saved reply stays clean (ARCHITECTURE §1).
+routes the thinking to its own channel so the saved reply stays clean.
 
 ## Usage
 

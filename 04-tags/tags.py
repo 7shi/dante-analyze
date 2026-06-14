@@ -3,8 +3,7 @@ Identity-first per-tag resolution for Dante's Divine Comedy (analysis step, pre-
 
 Names every numbered person-reference of a scene: one `n. Name` line per tag, where Name is
 the MOST SPECIFIC identification the committed reading establishes, in SOURCE (Italian)
-spelling. This is the AUTHORITATIVE channel the downstream passes consume (see PLAN.md in
-this directory for the full design and the 05-tags history it replaces).
+spelling. This is the authoritative channel the downstream passes consume.
 
 Identity-first (the change from the old 05-tags). The old epithet rule committed `anima`
 where the reading said "specifically Beatrice" and `Poeta` where it said Virgil — data
@@ -13,7 +12,7 @@ proper name gets that name (`Beatrice`, `Virgilio`) even when this scene's text 
 uttered it; only a figure the reading itself tracks by epithet alone (a beast, a simile
 figure, a generic) keeps the source-text epithet. The tag's SURFACE form is not the model's
 job at all — `number_scene`'s meta carries it, so code can pair surface with identity
-mechanically (ARCHITECTURE §12).
+mechanically.
 
 It binds DIRECTLY to the committed reading. WHO drift used to leak from a re-expression
 layer into the resolution; resolving straight from the reading removes that path, and the
@@ -33,17 +32,17 @@ One generation pass (`-m`, the larger Gemma reader) per scene, two turns over on
 Chain-of-thought is ON by default (`--no-think` disables it): naming a tag is judgment-heavy
 coreference, so the extra deliberation helps; the runaway guard (scenelib.call_llm) covers the
 added risk, and Ollama routes the thinking to its own channel so resp.text stays clean
-(ARCHITECTURE §1). Turn 2 is checked (every tag named once, none extra/empty, no pronoun echoed)
+. Turn 2 is checked (every tag named once, none extra/empty, no pronoun echoed)
 and retried on failure; the reply is normalized with scenelib.unbrace first.
 
 Orthography is code's job, not the model's: every parsed label runs through
 scenelib.fix_elision BEFORE the check and BEFORE the rendered table re-enters the
-conversation history (ARCHITECTURE §12) — the old 05-tags prompt clause that asked the model
+conversation history — the old 05-tags prompt clause that asked the model
 to correct elisions over-corrected (`l'altra` -> `la altra`) and is gone.
 
 The output is PLAIN TEXT, not JSON (memory gemma-cot-plaintext). The interpretation the check
 cannot verify (is [4] really Beatrice?) is inherited from the reading and ships as generated
-(no hand-proofreading; root PLAN.md "Decisions to keep").
+(no hand-proofreading).
 
 Input:  02-markup/<canticle>/NN.txt             (markup.py final output; run it first)
         03-reading/<canticle>/NN.txt            (reading.py prose; run it first)
@@ -77,7 +76,7 @@ def parse_resolution(text):
     Line number n is tag [n]; a plain numbered list is used (not bracketed `[n] =`) so the
     resolution doesn't reuse the `[..]`/`{..}` delimiters that mark the tags themselves.
     Every label passes through fix_elision here — a mechanical repair code owns
-    (ARCHITECTURE §12), applied before the check and before the rendered table re-enters
+, applied before the check and before the rendered table re-enters
     the conversation history, so the model never sees its own un-elided quirk."""
     out = {}
     for raw in text.splitlines():

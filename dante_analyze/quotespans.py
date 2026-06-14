@@ -1,4 +1,4 @@
-"""Quote-span geometry over `dante_corpus` `QuoteSpan`s (ARCHITECTURE §14): a
+"""Quote-span geometry over `dante_corpus` `QuoteSpan`s: a
 depth-first walk and column-aware containment, used by the speech pass (`06-speech/`)
 to decide which referents fall inside a given quote's own region.
 

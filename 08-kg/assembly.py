@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-KG assembly — Step 4 of the knowledge graph (root PLAN.md; full spec in this dir's README.md).
+KG assembly — Step 4 of the knowledge graph.
 
 Pure code, no LLM. Joins the committed upstream outputs into the assembled graph by reading them
 through the dante_analyze load_* public API only:
@@ -43,7 +43,7 @@ ASSERTING_FRAMES = {"reported", "prophecy", "simile"}
 
 
 def committed_cantos(canticle):
-    """Cantos with a committed 07-relations file, in order (the checkpoint, ARCHITECTURE §9)."""
+    """Cantos with a committed 07-relations file, in order; the file is the checkpoint."""
     d = RELATIONS_DIR / canticle
     if not d.is_dir():
         return []

@@ -1,7 +1,6 @@
 """
 Relations pass for Dante's Divine Comedy (KG Step 3): subject–predicate–object event edges per
-scene. Produces the KG's EVENT edges — who does what to whom — that the ladder still lacks. See
-07-relations/PLAN.md for the frozen build spec; this module implements it.
+scene. Produces the KG's EVENT edges — who does what to whom — that the ladder still lacks.
 
 Interpretation-bound like 04-tags/tags.py, so it copies that pass's shape exactly: one generation
 pass per scene, two turns over one conversation —
@@ -11,7 +10,7 @@ The cited `[n]` are therefore the identical per-scene tag numbers 04-tags resolv
 (number_scene is deterministic), so Step 4 joins each `[n]` through 04-tags -> the registry node.
 NEVER renumber.
 
-Output line grammar (frozen, PLAN.md):
+Output line grammar:
       - [<subj>] <predicate> [<obj>] | frame: <literal|simile|prophecy|reported> | lines <a>-<b>
 One uniform binary edge per line; both ends are cited tags. `predicate` is one of the 31 canonical
 labels in measure.CLOSED_VOCAB (the single source of truth — imported, not forked) plus the residual
@@ -28,7 +27,7 @@ Chain-of-thought is ON by default (`--no-think` disables); same justification as
 routes thinking to its own channel, call_llm caps runaway). The per-scene structural check guards
 STRUCTURE only (the four "all checkable": tags exist, predicate/frame in vocabulary, line range in
 scene); whether an edge is the RIGHT relation is interpretation, shipped as generated (no
-hand-proofreading — root PLAN.md "Decisions to keep").
+hand-proofreading).
 
 Input:  02-markup/<canticle>/NN.txt, 03-reading/<canticle>/NN.txt, scene ranges (dante_corpus API).
 Output: 07-relations/<canticle>/NN.txt — per scene a `## Scene s-e: name` block of edge lines (the
@@ -93,7 +92,7 @@ def parse_relations(text):
 
 def check_relations(edges, malformed, k, s, e):
     """Check a scene's edges (tags 1..k, line range s..e). Returns a list of problems (empty = OK,
-    including the empty-edge-list case). The four structural invariants of PLAN.md: every cited tag
+    including the empty-edge-list case). The structural invariants: every cited tag
     exists, every predicate/frame is in the closed vocabulary, every line range is within the scene.
     Structure only — whether the edge is the right relation is interpretation, shipped as generated."""
     problems = []
@@ -133,7 +132,7 @@ def build_relations_prompt(k, s, e):
     (replayed as the assistant turn) established what happens; this turn formalizes the binary
     relations between tagged figures as citable edges. Frame is decided STRUCTURALLY in the
     generation rule below (not a post-hoc verification step). Examples are schematic only — never an
-    edge drawn from the scene under test (ARCHITECTURE §8, no answer leakage)."""
+    edge drawn from the scene under test (no answer leakage)."""
     return f"""Now list the RELATIONS in the scene above as edges between numbered tags.
 
 Each edge is ONE line, in exactly this form:
@@ -313,8 +312,7 @@ def cmd_run(canticle, gen_model, only_canto, include_thoughts):
 def main():
     parser = argparse.ArgumentParser(
         description="Relations pass for Dante's Divina Commedia: per-scene subject-predicate-object "
-                    "edges over the 04-tags numbering, bound to the committed reading "
-                    "(see 07-relations/PLAN.md).")
+                    "edges over the 04-tags numbering, bound to the committed reading.")
     parser.add_argument("canticles", nargs="+", help="Canticle name(s), e.g. inferno")
     parser.add_argument("-m", "--model", default=DEFAULT_MODEL,
                         help=f"LLM for generation (default: {DEFAULT_MODEL})")

@@ -1,12 +1,12 @@
 # 03-reading — free prose reading per scene
 
-This is the **free-interpretation** pass and the single source of truth for WHO (ARCHITECTURE §11).
+This is the **free-interpretation** pass and the single source of truth for WHO.
 For each scene it writes a plain-English reading — who does what, who speaks to whom, and, for every
 numbered `[n]` tag in the markup, which person it refers to. The companion pass `04-tags` does **not**
 re-decide referents; it replays this reading as its reasoning turn and merely enumerates the
 identifications into one checkable `n. Name` line per tag. Deciding WHO once here, then formalizing it
 under a structural check there, is the deliberate split between *interpretation* and *tag-anchored
-formalization* (root PLAN.md "Decisions to keep").
+formalization*.
 
 ## What it does
 
@@ -24,8 +24,8 @@ than commit a blank scene. From `inferno/01.txt`:
 
 ```
 ## Scene 1-12: Lost in the Dark Wood
-In this opening scene, the narrator discovers himself lost in a "dark wood" (*selva oscura*). ...
-He establishes that he will tell the reader about the things he saw there ...
+In this opening scene, the narrator discovers himself lost in a "dark wood" (*selva oscura*)....
+He establishes that he will tell the reader about the things he saw there...
 
 The speaker throughout this entire passage is the narrator and protagonist, Dante.
 
@@ -45,15 +45,15 @@ Free prose is not tag-anchored — there is no round-trip and no coverage anchor
 **no logic check**; it is committed as generated. Whether the reading is *correct* is unverified, and
 residual errors are **accepted data**, not patched by hand: the pipeline is an experiment in how far a
 local LLM can analyze the work, so hand-proofreading would mask the model's true accuracy. Accuracy is
-improved by changing the *method*, never by per-item edits (root PLAN.md "Decisions to keep";
-ARCHITECTURE §11). `04-tags`'s structural check is what re-grounds this prose to the numbered tags.
+improved by changing the *method*, never by per-item edits. `04-tags`'s structural check is what
+re-grounds this prose to the numbered tags.
 
 ## Model
 
 `ollama:gemma4:31b-it-qat` (the stronger reader — precision over speed), CoT on by default
 (`--no-think` disables): this is the uncheckable, precision-critical layer, so the model is allowed to
 think, and there is no structured output for CoT to corrupt — the thinking stays internal, the saved
-text is clean prose (ARCHITECTURE §1).
+text is clean prose.
 
 ## Usage
 

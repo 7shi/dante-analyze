@@ -1,99 +1,114 @@
-# dante-analyze — remaining work: plan & status (2026-06)
+# dante-analyze plan
 
-> **▶ STATUS: the ladder (`02-markup → 03-reading → 04-tags`) and the full KG (Steps 1–4,
-> `05-registry → 08-kg`) are ✓ complete & committed for all three canticles (100 cantos).**
-> The KG overview now lives in `README.md`; per-pass design and measured results are in each
-> subdir's `README.md`. Regenerate the graph with `make -C 08-kg`.
->
-> **There is no open build step in this plan.** The remaining work is a choice of direction
-> (no default — decide before starting):
->   1. **Digest edition** (`## Digest edition` below) — the next analyze-side deliverable; its
->      precondition ("after the KG") is now met. A new prose-generation pass over `03-reading/`.
->   2. **Deferred quality work** (`## Deferred` below) — pronoun-layer marking quality + its logic
->      checks (both gated on a stronger model / a reliable pronoun lexicon), and diff-only storage.
->   3. **Graph consumer** — feed the speaker/edge data to the translation context lock
->      (`dante-dravidian`), the KG's original purpose. Out of this repo, but the natural next use.
->
-> **Read `ARCHITECTURE.md` before building or changing any pass.**
+Status: the analysis pipeline is complete through the knowledge graph. The remaining work is not a
+build queue; it is a short list of possible next directions. Choose one before starting new work.
 
-`dante-analyze` turns the source cantos into referent-resolved structured data and a knowledge graph
-of the poem. It consumes the shared corpus (source lines, tokens, scene ranges, the quote-span tree)
-from **`dante-corpus`** via its Python API, and runs local-LLM analysis passes on top. The patterns
-every pass shares are written up once in **`ARCHITECTURE.md`**; all LLM calls go through the single
-shared gateway `call_llm` (`dante_analyze/llm.py`). The completed work — the ladder and the KG — is
-summarized in `README.md`; this document tracks only what remains.
+For current usage, layout, and completed-pass summaries, see `README.md`. For local-LLM engineering
+rules, read `ARCHITECTURE.md` before changing an existing pass or creating a new one.
 
-## Conventions for new work
+## Current state
 
-- **Convention**: a pass under construction has a `PLAN.md` in its subdir (scope-narrowed build
-  spec). Once built, the `PLAN.md` is **not renamed but rewritten into a `README.md`** — a different
-  document: it drops the build-time scaffolding (remaining-work lists, "build X from this", step
-  ordering) and becomes a purpose-and-design doc that **explains what the pass is for and quotes the
-  pass's own committed output** to show the result (cf. `04-tags/README.md`, `06-speech/README.md`,
-  `07-relations/README.md`). Make the new subdir `PLAN.md` in the build-spec style; rewrite it on
-  completion.
+The committed pipeline covers all three canticles, 100 cantos:
 
-## Decisions to keep
+1. `01-scenes` segments the poem into scenes.
+2. `02-markup -> 03-reading -> 04-tags` resolves references at scene level.
+3. `05-registry -> 06-speech -> 07-relations -> 08-kg` turns the resolved material into a
+   per-canticle knowledge graph.
 
-- **Source-spelling names** everywhere (`Virgilio`, not "Virgil"), **identity-first**: the committed
-  label is the most specific identification the reading establishes, never a scene-local epithet for
-  a figure the reading already names (ARCH §11).
-- **No answer leakage**: prompts carry source + general knowledge, never per-item answers nor
-  text-derived worked examples — `ARCHITECTURE.md` §8.
-- **CoT policy**: plain text + per-scene + logic-checked retry on the **checkable** passes; CoT is
-  **ON** for the 31B interpretation-bound passes — `reading.py` (uncheckable free prose), `tags.py`
-  (judgment-bound coreference) and `relations.py` (judgment-bound edge extraction), the last two
-  structure-checked under §1's two safety conditions. The general rule is ARCH §1.
-- **Over-marking is acceptable** for the name layer: the downstream consumer tolerates false
-  positives; missing a reference is more harmful.
-- **Orthography is code's job** (ARCH §12): mechanical quirks (`fix_elision`,
-  `normalize_token_brackets`, `unbrace`) are normalized in code and rewritten into the conversation
-  history — never requested of the model in the prompt.
-- **All LLM calls go through one shared gateway** (`call_llm` in `dante_analyze/llm.py`); `llm7shi`
-  is therefore a normal runtime dependency of this package (01-scenes is the one exception — it uses
-  llm7shi's `generate_with_schema` structured-output path, not the plaintext `call_llm` gateway).
-- **Reused code → shared library**: promote a helper reused across passes into `dante_analyze/`;
-  don't import across passes or copy, and document it in `ARCHITECTURE.md`.
-- **The ultimate aim is a knowledge graph** of the poem (entities + who-does-what + relations) —
-  now built (`05-registry → 08-kg`, see `README.md`); its speaker/edge data is intended to feed the
-  translation context lock (`dante-dravidian`).
-- **The pipeline is an experiment: how far can a LOCAL LLM analyze the work.** The deliverables
-  double as a measurement of capability, so the success criterion is **confirming the current
-  accuracy of the automated pipeline, not perfecting the output**. Hence **no hand-proofreading**
-  (it would mask the model's true accuracy); 03-reading/04-tags ship as generated and residual errors
-  are accepted data. Improving accuracy = changing the *method*, never patching by hand. (Mechanism
-  — why the structural checks don't catch WHO-errors — is ARCH §11.)
-- **Reading vs. tags = free interpretation vs. tag-anchored formalization** — two passes, two kinds
-  of work; don't fold them back together. The reading decides WHO once; tags enumerates it under a
-  structural check. Numbered-tag anchoring keeps the formalized half verifiable (ARCH §11).
+There is no unfinished mandatory step in this repo.
 
-## Deferred
+## Next directions
 
-- **Pronoun-layer marking quality** — local models still make errors on Inferno 1: spurious/misplaced
-  `[+pron]` supply (needs clause parsing), non-pronoun bracketed, wrong pronoun category/form. The
-  hard classes need a stronger model; the partly-checkable classes are deferred pending a reliable
-  pronoun lexicon.
-- **Remaining pronoun-layer logic checks** — misplaced-supply detection (`[+..]` not immediately
-  before a verb); nominative-only supplied-pronoun check. Both need a pronoun lexicon.
-- **Diff-only storage** — store only additions vs. the source token list.
+### 1. Digest edition
 
-## Digest edition (future)
+Build an analyze-side prose digest from the resolved readings. This is the most natural next
+deliverable inside this repo.
 
-Goal: a retelling of each canticle that is **more detailed than a bare plot summary but lighter than
-a full line-by-line translation**, at a granularity where the plot can be read as a story. It is an
-**analyze-side deliverable** — derived from `03-reading/` (which already resolves WHO per scene) —
-not a translation product.
+Goal: retell each canticle at story-reading density: more detailed than a plot summary, lighter than
+a line-by-line translation.
 
-- **Density**: **one to two sentences per scene** — enough to convey who acts and what happens, while
-  skipping the dense doctrinal and prosodic detail of the full text.
-- **Unit**: scenes are **grouped into paragraphs**, several scenes per paragraph, roughly **3–5
-  paragraphs per canto**. A scene is *not* its own paragraph; the per-scene sentences flow together
-  into continuous narrative prose.
-- **Source of truth**: `03-reading/` carries the referent-resolved prose; the source text and corpus
-  scene split (`dante-corpus`) anchor it to the canonical text.
-- **Form**: prose paragraphs under `## Canto N` headings. It deliberately breaks line fidelity, so it
-  is its own prose-generation pass with its own check — **narrative coherence + factual accuracy** —
-  not a coverage/word-table check. Keep it cleanly separate from the translation pipeline.
-- **Inputs**: `03-reading/<canticle>/NN.txt` (primary), `01-scenes/<canticle>/NN.json` (paragraph
-  grouping), `01-scenes/<canticle>.md` (incidental, not authoritative). A vetted translation, if one
-  later exists, could enrich it but is not a dependency.
+Shape:
+
+- one to two sentences per scene;
+- scenes grouped into continuous paragraphs, roughly 3-5 paragraphs per canto;
+- prose under `## Canto N` headings;
+- separate from translation work, because it deliberately breaks line fidelity.
+
+Primary inputs:
+
+- `03-reading/<canticle>/NN.txt` for referent-resolved scene prose;
+- `01-scenes/<canticle>/NN.json` for scene ranges and grouping;
+- source text through `dante-corpus` for anchoring.
+
+Implementation notes:
+
+- Make a new numbered pass only if it is going to be committed as a durable output.
+- Its quality check should be narrative coherence and factual accuracy against the scene readings,
+  not line coverage.
+- Do not use a future translation as a dependency; a vetted translation could enrich the pass later.
+
+### 2. Translation context lock
+
+Turn the graph's speaker and relation data into the identity lock needed by `dante-dravidian`.
+
+This is downstream-facing, but the ownership belongs here because it is referent resolution rather
+than translation. The parked detailed spec is in `ref/PLAN.md`, with `ref/inferno-01.toml` as the
+hand-written reference sample.
+
+Likely starting point:
+
+- derive `speaker`, `addressee`, and `cast` from `04-tags`, `06-speech`, and `08-kg`;
+- derive identity-bearing relations from `07-relations` / `08-kg`;
+- keep the lock identity-only: no paraphrase, no translation decisions;
+- use source-spelling names unless a single explicit normalization point is added.
+
+Open design work:
+
+- decide whether the lock is generated directly from graph JSONL or through a new pass-specific
+  intermediate;
+- define the TOML writer and checker;
+- compare a generated Inferno 1 lock against `ref/inferno-01.toml`.
+
+### 3. Deferred quality work
+
+These items are intentionally parked. They improve polish or storage, but they are not prerequisites
+for the completed KG.
+
+- Pronoun-layer marking quality: current local models still make clause-level and category errors on
+  supplied pronouns.
+- Remaining pronoun logic checks: misplaced supplied-pronoun detection and nominative-only supplied
+  pronoun validation both need a reliable pronoun lexicon.
+- Diff-only storage: store only additions relative to the source token list instead of full marked-up
+  text.
+
+## Rules to keep
+
+- Use source-spelling names in analysis outputs: `Virgilio`, not `Virgil`.
+- Keep identity-first labels: commit the most specific identification the reading establishes, not a
+  scene-local epithet for a figure already identified.
+- Do not leak answers into prompts. Prompts may include source text and general knowledge, never
+  per-item answers or worked examples from the item being processed.
+- Put all ordinary LLM calls through `dante_analyze.llm.call_llm`. `01-scenes` is the exception
+  because it uses `llm7shi` structured output directly.
+- Normalize mechanical orthography in code, not in prompts.
+- Move shared helpers into `dante_analyze/`; do not import across numbered passes or copy helpers.
+- Preserve the reading/tags split: `03-reading` is free interpretation, `04-tags` is tag-anchored
+  formalization.
+- Treat the pipeline as an experiment in local-LLM capability. Do not hand-proofread generated
+  outputs to make the committed data look better; improve the method and re-measure instead.
+
+## Pass documentation convention
+
+While a pass is being designed, keep a `PLAN.md` inside that pass directory. When the pass is
+complete, rewrite that file into `README.md` rather than renaming it mechanically.
+
+The completed `README.md` should explain:
+
+- what the pass is for;
+- what it reads and writes;
+- what checks it performs;
+- how to run it;
+- measured results from the committed output where relevant.
+
+Drop build-time scaffolding such as remaining-work lists and step-by-step construction notes once the
+pass is complete.

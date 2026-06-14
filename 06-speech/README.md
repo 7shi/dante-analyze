@@ -35,7 +35,7 @@ parent-before-children):
 
 **Coverage is measured data, not a target.** Most spans are `(unattributed)` in v1 (the registry
 gives a canonical speaker only when a first-person pronoun actually pins one inside the quote); that
-is expected, not a bug (root PLAN.md "Decisions to keep"). The signal counts reconcile exactly with
+is expected, not a bug. The signal counts reconcile exactly with
 `05-registry/measure.py`'s quote-coverage buckets — canonicalization can only *merge* distinct raw
 referents into one speaker, so `signal: strong` can rise above the raw `strong-unique` count, never
 fall.
@@ -67,9 +67,9 @@ flags}, …]` (`dante_analyze/checkpoint.py`).
 - **Round-trip guard (warn).** Per line, `marks.strip_to_source(markup_line)` (whitespace-collapsed)
   must equal the source `canto.line(n).text`, confirming the column math the attribution rests on.
   The ~10 corpus-wide nested-brace lines (e.g. `{figliuol d'{Anchise}}`) surface here as an accepted
-  ≤1-column anomaly — printed as `WARN`, not aborted (ARCHITECTURE §1; root PLAN.md).
+  ≤1-column anomaly — printed as `WARN`, not aborted.
 - **Structural check (fail-loud, non-zero exit).** Every quote span is emitted exactly once by id
-  (`walk_spans(canto.quotes())` vs the file's ids), and every attributed speaker (≠
+  (`walk_spans(canto.quotes)` vs the file's ids), and every attributed speaker (≠
   `(unattributed)`) is a node in `load_registry(canticle)`. Skipped under `--raw`.
 
 ## Usage

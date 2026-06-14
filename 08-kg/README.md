@@ -6,7 +6,7 @@ no text is re-interpreted here. The graph is the precursor the translation conte
 (`dante-dravidian`) consumes.
 
 This pass exists because the earlier passes deliberately kept *understanding* and *extraction*
-apart (ARCHITECTURE §14): `03-reading`/`04-tags` resolved WHO, `05-registry` made the nodes,
+apart: `03-reading`/`04-tags` resolved WHO, `05-registry` made the nodes,
 `06-speech` found the speakers, `07-relations` emitted the who-does-what edges citing `[n]` tags.
 None of those is the graph; they are referent-resolved material with the join deferred. Step 4 is
 that deferred join, and it is total by construction — the upstream structural checks (tag numbers
@@ -111,11 +111,11 @@ make -C 08-kg clean                        # remove the generated .jsonl
 uv run dante-analyze kg show inferno edges # inspect (part: nodes | edges | speech, default edges)
 ```
 
-**Parallel-safe** (ARCHITECTURE §15): per-canticle JSONL outputs, read-only committed inputs, no
+**Parallel-safe**: per-canticle JSONL outputs, read-only committed inputs, no
 shared writable state — safe to fan out per canticle; on the local default it is fast enough to not
 bother.
 
 ## Notes
 
 - `raw_to_canonical` (name → canonical via `fold_key`) lives in `dante_analyze/checkpoint.py`, shared
-  with `06-speech` — reused code belongs in the package, not in a pass script (ARCHITECTURE §16).
+  with `06-speech` — reused code belongs in the package, not in a pass script.

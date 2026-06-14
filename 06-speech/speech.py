@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Speech build — Step 2 of the knowledge graph (root PLAN.md; full spec in this dir's README.md).
+Speech build — Step 2 of the knowledge graph.
 
 Pure code, no LLM. Attributes a SPEAKER to every quote span by joining the column-aware first-person
 referents inside each quote's OWN region (quotespans.own_region) onto the registry's canonical nodes
@@ -11,7 +11,7 @@ and a fail-loud structural check.
 Pipeline: gather referents (code) -> canonicalize via registry (code) -> per-span first-person
 attribution (code) -> render per-canto (code) -> structural check (code).
 
-Speaker rule (ARCHITECTURE §14; root PLAN.md Step 2):
+Speaker rule (the KG plan):
 - a UNIQUE canonical referent of a STRONG first-person tag (io/i'/ïo) in the own region -> speaker
   (signal: strong); more than one distinct strong referent -> (unattributed), flag multi(...);
 - else a UNIQUE WEAK first-person referent (mi/me/...) -> speaker (signal: weak);
@@ -49,7 +49,7 @@ _WS_RE = re.compile(r"\s+")
 
 
 def committed_cantos(canticle):
-    """Cantos with a committed 04-tags file, in order (the checkpoint, ARCHITECTURE §9)."""
+    """Cantos with a committed 04-tags file, in order; the file is the checkpoint."""
     d = TAGS_DIR / canticle
     if not d.is_dir():
         return []

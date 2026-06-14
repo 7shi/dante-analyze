@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
-Measurement-first probe of the committed 03-reading prose (ARCHITECTURE §14; PLAN.md Step 3 —
-the relations pass, "derive the closed predicate vocabulary by measuring the readings").
+Measurement-first probe of the committed 03-reading prose for the relations pass:
+"derive the closed predicate vocabulary by measuring the readings".
 
 Pure code, no LLM, writes nothing — a stdout report that sizes the predicate problem BEFORE the
 relations prompt is frozen. It ranks the candidate predicate verbs the readings actually use and
@@ -16,7 +16,7 @@ SUBTRACTING the two big non-predicate classes that also end in `-s`:
   1. plural nouns          (`souls`, `spirits`, `eyes`, `words`, `demons`)  — NOUN_STOP
   2. meta-discourse verbs  (`describes`, `explains`, `notes`, `continues`)  — DISCOURSE
 
-Class 2 is the important one and the reason ARCH §14 insists on formalize-first: the reading is
+Class 2 is the important one and the reason formalize-first matters: the reading is
 COMMENTARY prose, so its most frequent verbs describe the *narration* ("the canto describes…"),
 not the diegetic events between figures that the KG wants. The relations vocabulary is curated
 from the DIEGETIC remainder (`asks`, `tells`, `addresses`, `guides`, `leads`, `follows`,
@@ -120,7 +120,7 @@ CLOSED_VOCAB = {
 
 
 def committed_cantos(canticle):
-    """Cantos with a committed 03-reading file, in order (the checkpoint, ARCHITECTURE §9)."""
+    """Cantos with a committed 03-reading file, in order; the file is the checkpoint."""
     d = READING_DIR / canticle
     if not d.is_dir():
         return []
@@ -226,7 +226,7 @@ def main():
     # denominator is polluted by noun homographs (`bodies`, `tears`) the -s rule can't strip, and
     # by high-frequency INTRANSITIVE/state verbs (`appears`, `becomes`, `feels`, `remains`) that
     # are out of scope for binary person↔being edges by design. So the gate is (a) vocabulary
-    # SIZE — the real ARCH §14 tractability question — and (b) top-band coverage as evidence the
+    # SIZE — the real tractability question — and (b) top-band coverage as evidence the
     # transitive relational head is captured.
     surface_to_canon = {s: c for c, ss in CLOSED_VOCAB.items() for s in ss}
     top = diegetic.most_common(60)
@@ -235,7 +235,7 @@ def main():
     uncovered = [w for w, _n in top if w not in surface_to_canon]
     top_pct = 100 * top_cov / top_tot if top_tot else 0
 
-    print(f"\n## Decision gate (PLAN.md — closed predicate vocabulary)")
+    print(f"\n## Decision gate (closed predicate vocabulary)")
     print(f"  Curated closed vocabulary (v1): {len(CLOSED_VOCAB)} canonical predicates "
           f"(+ residual `relates-to`).")
     print(f"  top-60-band coverage: {top_cov}/{top_tot} ({top_pct:.0f}%) of the most-frequent")

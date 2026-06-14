@@ -81,8 +81,7 @@ raw_to_canonical(canticle)      -> {fold_key(spelling): canonical}   # name -> r
 ```
 
 The total name→node join `06-speech` and `08-kg` both canonicalize `04-tags` labels through:
-`raw_to_canonical(canticle)[fold_key(norm_label(name))]` → the registry canonical heading (shared in
-the package per ARCHITECTURE §16).
+`raw_to_canonical(canticle)[fold_key(norm_label(name))]` → the registry canonical heading.
 
 ### Path constants
 

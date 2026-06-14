@@ -19,7 +19,7 @@ def call_llm(messages, model, retries=LLM_RETRIES, max_length=MAX_LENGTH,
     Response, or the last one after `retries`.
 
     Chain-of-thought is OFF by default — for the checkable passes (digest) deliberation
-    gets its own plain-text turn instead (ARCHITECTURE §2). `include_thoughts=True`
+    gets its own plain-text turn instead. `include_thoughts=True`
     turns it on for the UNCHECKABLE reading pass, where precision matters more than
     speed and there is no structured output for CoT to corrupt (the thinking stays
     internal; `resp.text` is still the clean prose). Maps to ollama `think=`, which

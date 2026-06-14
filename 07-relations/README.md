@@ -13,7 +13,7 @@ follows the design `measure.py` validated.
 
 ## Why a closed predicate vocabulary, and why 31 (measure-first)
 
-ARCHITECTURE §14 requires sizing a closed vocabulary from the full committed output *before*
+ARCHITECTURE requires sizing a closed vocabulary from the full committed output *before*
 freezing the prompt. `measure.py` is that probe (pure code, writes nothing): it harvests the
 readings' `-s` verbs — every English 3sg-present verb ends in `-s` and the readings are written in
 that tense ("Virgil **explains**…", "Dante **asks**…") — then subtracts the two non-predicate
@@ -31,7 +31,7 @@ $ uv run 07-relations/measure.py
 
 The diegetic remainder collapses to **31 canonical predicates** (`CLOSED_VOCAB` in `measure.py`),
 which clears the ≤40 tractability gate: **one closed list, no grouping pass** (contrast the
-registry's epithet gate, which *failed* — root PLAN.md). The 58% is top-band *transitive* coverage;
+registry's epithet gate, which *failed*). The 58% is top-band *transitive* coverage;
 the uncovered head is out of scope **by design** — proper names, noun homographs, and
 intransitive/state verbs (`appears`, `becomes`, `feels`, `remains`) that are not binary relations.
 
@@ -66,7 +66,7 @@ One edge per line, inside the per-scene block:
 - **v1 scope: binary person↔being edges only.** An action with no tagged object — movement to a
   *place*, an intransitive/state verb, an attribute — is out of scope; this is also what keeps the
   check total (every end is a tag in the scene's set).
-- **`frame` is decided structurally, not post-hoc** (ARCHITECTURE §8): `literal` = a directly
+- **`frame` is decided structurally, not post-hoc**: `literal` = a directly
   narrated event; `reported` = the *content* of something a character says/reports; `prophecy` = a
   foretold future event; `simile` = the figurative side of a comparison.
 - **No `says-that` meta-edge.** A reported/prophecy/simile proposition is emitted as its **content
@@ -119,8 +119,8 @@ Per scene, at generation (retry in-conversation, max 3 attempts, last draft kept
    silently.
 
 The check proves **structure only**. Whether an edge is the *right* relation is interpretation,
-inherited from the reading and shipped as generated, per the no-hand-proofreading policy (root
-PLAN.md "Decisions to keep"). Two consequences are visible in `inferno/01.txt` and are *accepted
+inherited from the reading and shipped as generated.
+Two consequences are visible in `inferno/01.txt` and are *accepted
 data*, not bugs: Scene 1-12 emits `[1] meets [2]` where both tags are Dante (a self-relation across
 distinct tag *numbers* — a "same registry node" filter belongs in Step 4, where node identity is
 resolved), and Scene 100-105 (the Veltro) produces no `prophecy` edge though the prose foretells one
@@ -138,7 +138,7 @@ asserter.
 
 `ollama:gemma4:31b-it-qat` (the strongest local reader), CoT on by default (`--no-think` disables) —
 same justification as `tags.py`: relations are judgment-heavy, and the runaway guard (`call_llm`) +
-Ollama's separate thinking channel cover the risk (ARCHITECTURE §1).
+Ollama's separate thinking channel cover the risk.
 
 ## Usage
 
@@ -152,7 +152,7 @@ uv run dante-analyze relations show inferno 1  # read a committed file
 
 ### Running the canticles in parallel
 
-(General rule: ARCHITECTURE.md §15.) Per-canticle runs are **safe to parallelize** — unlike
+Per-canticle runs are **safe to parallelize** — unlike
 `05-registry` (which serializes on a global node set and a lock-free shared `types.txt`), this pass
 has **no shared writable state**: each
 canticle writes only its own `07-relations/<canticle>/NN.txt`, the per-canto checkpoints are

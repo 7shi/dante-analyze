@@ -2,8 +2,8 @@
 
 `04-tags` resolves WHO *per scene*, so the same figure can carry different spellings in
 different scenes (`Virgilio`, `quel Virgilio`, `'l mio maestro`, …) and the same epithet can
-recur unlinked across scenes. The registry is the first pass that sees **every unit at once**
-(ARCHITECTURE §11): it folds those per-scene labels into **one node per figure across all three
+recur unlinked across scenes. The registry is the first pass that sees **every unit at once**:
+it folds those per-scene labels into **one node per figure across all three
 canticles**, picks a canonical spelling, assigns a node **type**, and attaches the figure's
 **surface aliases** with counts. This node set is what `06-speech` and the relations pass join
 onto by `fold_key`.
@@ -33,16 +33,16 @@ $ make -C 05-registry measure        # or: uv run 05-registry/measure.py
   fold_key code-merge: 2923 labels -> 2712 nodes (... merge ...)
   epithet nodes occurring >=2x (per-canticle gate input): ... global
 
-## Decision gates (PLAN.md — registry sizing)
+## Decision gates
   [PASS] base figures with longer forms < 50:   ... (fuzzy gate)
   [FAIL] epithet nodes/canticle < 150:           inferno=285, purgatorio=312, paradiso=330
   => LLM residual: REVISIT — gate failed; epithet grouping likely needs
      batching/sub-passing rather than one call per canticle (see report body)
 ```
 
-The lesson — measure the consolidation residual on the *full* output, split the deterministic
-code-merge from the LLM residual, and prefer flagged singletons over an unverifiable merge — is
-ARCHITECTURE §14. It is what produced **option A** below. `measure.py` is kept as a re-runnable
+The lessons are measure the consolidation residual on the *full* output, split the deterministic
+code-merge from the LLM residual, and prefer flagged singletons over an unverifiable merge.
+It is what produced **option A** below. `measure.py` is kept as a re-runnable
 regression: rerun it after any `04-tags` change to confirm the gate numbers still hold.
 
 ---
@@ -114,8 +114,8 @@ resolves, every type is in vocabulary, every heading is one of its group's raw l
 
 **Option A — `grouped: no`.** Epithet grouping is **skipped in v1** (the gate it failed). Every
 non-name, non-set node keeps its own node, flagged `- grouped: no` to mark the un-consolidated
-epithet layer. A flagged singleton is safer than a merge the structural check cannot verify
-(ARCHITECTURE §11/§14); consolidation is a later pass. The rejected alternative (B) was to split
+epithet layer. A flagged singleton is safer than a merge the structural check cannot verify;
+consolidation is a later pass. The rejected alternative (B) was to split
 each canticle's ~300-candidate list into several grouping calls — more design and tokens, with
 cross-batch splits a single call would have caught, and still no check that can verify a merge.
 
@@ -160,18 +160,18 @@ non-person`) — and the type is structurally a **node** property, not a **tag**
    individuals is a property of the figure across the whole work, not of one scene. The type belongs
    *after* the `fold_key` merge that produces the canonical node — you type the node, not each raw
    spelling.
-3. **One kind of work per pass (ARCHITECTURE §1).** `04-tags`' check is "every tag named once, no
+3. **One kind of work per pass.** `04-tags`' check is "every tag named once, no
    pronoun echo"; typing's check is "type in vocabulary". Folding an ontological classification into
    the per-tag identity turn would complicate both checks and both prompts. The project keeps reading
-   / tags / registry as separate narrow passes on purpose (root PLAN.md "Decisions to keep").
+   / tags / registry as separate narrow passes on purpose.
 
-**The real tradeoff.** Typing here sees only the bare label (no answer leakage — see ARCHITECTURE
-§8), so it has *less* context than `04-tags` had when it understood the figure in its scene. That is
+**The real tradeoff.** Typing here sees only the bare label, so it has *less* context than
+`04-tags` had when it understood the figure in its scene. That is
 a deliberate trade: we give up context to gain dedup, global consistency, and a cheap, checkable
 pass. If typing accuracy proves insufficient, the fix is **not** to move it back into `04-tags` (that
 breaks the dedup) but to feed the node-level pass more signal while still typing once per node — e.g.
 attach the node's surface aliases (already computed) or a few representative scene contexts to the
-prompt. Per the project's method-not-handwork policy (ARCHITECTURE §11), accuracy is improved by
+prompt. Per the project's method-not-handwork policy, accuracy is improved by
 changing the method, never by per-item patching.
 
 ---

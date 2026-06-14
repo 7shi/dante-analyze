@@ -70,7 +70,7 @@ def complete_scene_ends(path):
     """End-line of every scene with a NON-EMPTY body — the scenes actually finished.
     Unlike done_scene_ends (header-only), a scene written with a blank body is NOT
     counted, so a resumed run regenerates it instead of silently skipping a hole that
-    would later starve digest/tags (the file is the checkpoint, ARCHITECTURE §9)."""
+    would later starve digest/tags (the file is the checkpoint)."""
     return {e for (_s, e), body in scene_bodies(path).items() if body}
 
 
@@ -177,7 +177,7 @@ def load_registry(canticle):
 
 def raw_to_canonical(canticle):
     """{fold_key(spelling): canonical} from the committed registry — the total join a pass
-    canonicalizes 04-tags labels through (06-speech and 08-kg both go this way; ARCHITECTURE §16).
+    canonicalizes 04-tags labels through (06-speech and 08-kg both go this way).
     The registry built its `labels` from norm_label'd spellings keyed by fold_key, so
     fold_key(norm_label(raw)) for every non-(unknown) label hits this map. A set node carries no
     `labels:`; its heading itself is the surface that occurred."""
