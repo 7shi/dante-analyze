@@ -6,19 +6,21 @@ re-decide referents; it enumerates the reading's identifications into one checka
 assistant's reasoning turn), sees nothing else, and is gated by a structural check with
 in-conversation retry.
 
-## What was wrong with 05-tags
+## How this improves the earlier tag design
 
-1. **Identity loss at the seam.** The old rule labeled a figure "the text has not yet named"
+1. **Identity loss at the seam was removed.** The earlier rule labeled a figure "the text has not yet named"
    with its in-text epithet. So Scene 121-129 committed `anima` where the reading said
    "a soul (specifically Beatrice)", and Scene 67-75 committed `Poeta` where the reading said
    Virgil — the committed data was strictly *poorer* than the reading it was built from, and
    the downstream registry had to go back to the prose to recover what the pipeline had
-   already resolved once.
-2. **The orthography clause backfired.** The prompt asked the model to correct malformed
+   already resolved once. This pass instead commits the reading's most specific
+   identification directly.
+2. **The orthography clause moved out of the prompt.** The earlier prompt asked the model to correct malformed
    elisions; the model over-applied it, un-eliding required elisions (`l'altra` → `la altra`),
    creating a standing residual class that required post-hoc repair. A mechanical
    quirk with one canonical form belongs in code, not in the prompt (ARCHITECTURE §12).
-3. **Surface forms were the model's job for no reason.** Which words the text uses for a tag
+   `fix_elision` now handles the repair mechanically.
+3. **Surface forms are no longer the model's job.** Which words the text uses for a tag
    is already in the markup: `number_scene`'s `meta` carries each tag's `(kind, surface)`.
    Asking the LLM to preserve surface spelling duplicates what code can extract exactly.
 
