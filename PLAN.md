@@ -10,7 +10,9 @@
 >
 > **Where to pick up (check this first):**
 > - **If `07-relations/{inferno,purgatorio,paradiso}/NN.txt` are complete & committed** → Step 3 is
->   DONE; move to **Step 4, KG assembly**.
+>   DONE (the STATUS prose above may lag — trust this check); start **Step 4, KG assembly** (read the
+>   Step 4 section below + `07-relations/README.md`'s "Step-4 assembly contract", and the `load_*`
+>   API in `dante_analyze/README.md`).
 > - **If only `07-relations/inferno/01.txt` exists (the current state)** → the code is built and
 >   verified; run the full generation with **`make -C 07-relations`** (resumable; the finished
 >   canto-1 scenes are skipped), then commit `07-relations/`. To regenerate canto 1 under the
@@ -80,14 +82,31 @@ join invariant, and the Step-4 assembly contract — is in `07-relations/README.
 
 **Remaining (the generation run + commit):** `make -C 07-relations` for all three canticles →
 `07-relations/<canticle>/NN.txt`, then commit. Inferno canto 1 is already generated (a verified
-smoke test); delete `07-relations/inferno/01.txt` to regenerate it under the final prompt.
+smoke test); delete `07-relations/inferno/01.txt` to regenerate it under the final prompt. **On that
+commit, flip the STATUS header + this heading to `[DONE & committed]` and make Step 4 the current
+step** — otherwise the next session reads a stale status (the "Where to pick up" bullets are the
+self-correcting fallback if you forget).
 
-### Step 4 — KG assembly  [last; pure code]
+### Step 4 — KG assembly  [NEXT once the Step-3 run is committed; pure code, no LLM]
 
-Join relations' tag citations through `04-tags/` to the registry's canonical nodes; attach
-provenance (canticle/canto/scene/lines + tag numbers) and frame to every edge; merge the speech
-edges. The checks of the upstream passes are what make this join total. JSON is acceptable as a
-machine artifact here.
+Join the committed edges and speaker data into the graph. **Pure code** — every input is a committed
+file read through the **`load_*` public API** (signatures in `dante_analyze/README.md`); no model is
+involved. The upstream structural checks are what make this join total.
+
+Per canticle, per canto, over `load_relations(canticle, canto)`:
+- **Resolve each end to a node.** An edge's `start..end` lies in exactly one scene (scenes partition
+  the canto), so find that `(s, e)`, then map `subj`/`obj` through `load_tags(canticle, canto)[(s, e)]`
+  → a name, and through `load_registry(canticle)` (`fold_key(name)` → canonical heading) → the
+  registry **node**. Attach provenance (canticle / canto / scene / lines + the tag numbers) and the
+  edge's `frame`.
+- **Recover the asserter.** For `reported` / `prophecy` / `simile` edges, join the edge's line range
+  to the speaker of the containing `06-speech` quote span (`load_speech`); `literal` edges are
+  narrated and have no asserter. (Full contract: `07-relations/README.md` "Step-4 assembly contract".)
+- **Merge the speech edges** (speaker → quote span) alongside the relation edges.
+
+JSON is acceptable as the machine artifact here. Per the subdir convention, start a new numbered dir
+(e.g. `08-kg/`) with a `PLAN.md` build spec, rewritten into `README.md` once built; add an
+`assembly`/`kg` reader to `cli.py` and a loader to `checkpoint.py` if the artifact warrants one.
 
 ### Wiring (with Steps 1–2)
 
