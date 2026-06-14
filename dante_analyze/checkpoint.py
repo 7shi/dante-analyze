@@ -259,26 +259,29 @@ def load_relations(canticle, canto):
     return out
 
 
-def load_kg(canticle, canto):
-    """The assembled KG for a canto from 08-kg/<canticle>/NN.json, or exit if absent.
+def _load_kg_jsonl(canticle, part):
+    """[record, …] from a per-canticle 08-kg/<canticle>-<part>.jsonl, or exit if absent.
 
-    A dict {canticle, canto, edges, speech_edges}; each edge carries its scene, resolved
-    subj/obj (tag/name/node), predicate, frame, lines, and asserter. Built by 08-kg/assembly.py;
-    see 08-kg/README.md."""
-    path = KG_DIR / canticle / f"{canto:02d}.json"
+    The assembled graph is JSONL — one record per line, all cantos aggregated. Built by
+    08-kg/assembly.py (`make -C 08-kg`); see 08-kg/README.md."""
+    path = KG_DIR / f"{canticle}-{part}.jsonl"
     if not path.exists():
-        print(f"Error: kg not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
+        print(f"Error: kg {part} not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
         sys.exit(1)
-    return json.loads(path.read_text(encoding="utf-8"))
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
 
 
-def load_kg_nodes(canticle):
-    """The KG node table for a canticle from 08-kg/<canticle>.nodes.json, or exit if absent.
+def load_kg(canticle):
+    """The assembled KG for a canticle: {nodes, edges, speech}, each a list read from the
+    per-canticle 08-kg/<canticle>-{nodes,edges,speech}.jsonl (exit if any is absent). One call for
+    the whole graph; built by 08-kg/assembly.py (`make -C 08-kg`), see 08-kg/README.md.
 
-    A dict {canticle, nodes}; each node is {id, type, members} (members is None unless a set
-    node). The registry distilled to graph nodes by 08-kg/assembly.py."""
-    path = KG_DIR / f"{canticle}.nodes.json"
-    if not path.exists():
-        print(f"Error: kg nodes not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
-        sys.exit(1)
-    return json.loads(path.read_text(encoding="utf-8"))
+    - nodes:  {id, type, members}  (members None unless a set node) — registry distilled to nodes.
+    - edges:  {canto, scene, subj, predicate, obj, frame, lines, asserter}; subj/obj are
+              {tag, name, node} (node None if the label didn't resolve to a registry node).
+    - speech: {canto, quote_id, lines, speaker, signal, flags} — 06-speech spans (speaker -> span)."""
+    return {
+        "nodes": _load_kg_jsonl(canticle, "nodes"),
+        "edges": _load_kg_jsonl(canticle, "edges"),
+        "speech": _load_kg_jsonl(canticle, "speech"),
+    }

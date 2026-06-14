@@ -56,16 +56,19 @@ load_tags(canticle, canto)      -> {(start, end): {tag_no: name}}
 load_registry(canticle)         -> {canonical: {type, labels, surfaces, members, grouped}}
 load_speech(canticle, canto)    -> [{quote_id, start, end, speaker, signal, flags}, …]   # file order
 load_relations(canticle, canto) -> [{subj, predicate, obj, frame, start, end}, …]        # file order
-load_kg(canticle, canto)        -> {canticle, canto, edges, speech_edges}                # 08-kg join
-load_kg_nodes(canticle)         -> {canticle, nodes: [{id, type, members}, …]}           # node table
+load_kg(canticle)               -> {nodes: […], edges: […], speech: […]}                  # 08-kg graph
 ```
 
 `canticle` is `inferno` / `purgatorio` / `paradiso`; `canto` is an integer (`load_registry` and
-`load_kg_nodes` are work-wide per canticle). The cited `[n]` in a `load_relations` edge are the same
+`load_kg` are work-wide per canticle). The cited `[n]` in a `load_relations` edge are the same
 per-scene tag numbers `load_tags` keys on, so `subj`/`obj` join through `load_tags` to a name (and
-onward to a registry node); the edge's `start..end` falls inside exactly one scene. `load_kg` is
-that join already performed: each edge carries `scene`, resolved `subj`/`obj` (`{tag, name, node}`),
-`predicate`, `frame`, `lines`, and `asserter` (08-kg, Step 4).
+onward to a registry node); the edge's `start..end` falls inside exactly one scene. `load_kg` returns
+that join already performed (08-kg, Step 4) — one call for the whole graph:
+
+- `nodes`:  `{id, type, members}` (members `None` unless a set node) — the registry distilled.
+- `edges`:  `{canto, scene, subj, predicate, obj, frame, lines, asserter}`; `subj`/`obj` are
+  `{tag, name, node}` (`node` `None` if the label didn't resolve).
+- `speech`: `{canto, quote_id, lines, speaker, signal, flags}` — the `06-speech` spans.
 
 ### Helpers
 
@@ -84,5 +87,5 @@ SCENE_DIR  MARKUP_DIR  READING_DIR  TAGS_DIR  REGISTRY_DIR  SPEECH_DIR  RELATION
 ```
 
 Project-root output directories, for locating the committed files directly. Per-canto files are
-`<DIR>/<canticle>/NN.txt` (registry is per-canticle: `REGISTRY_DIR/<canticle>.txt`; KG edges are
-`KG_DIR/<canticle>/NN.json` with the node table at `KG_DIR/<canticle>.nodes.json`).
+`<DIR>/<canticle>/NN.txt` (registry is per-canticle: `REGISTRY_DIR/<canticle>.txt`; the KG is
+per-canticle JSONL: `KG_DIR/<canticle>-{nodes,edges,speech}.jsonl`).

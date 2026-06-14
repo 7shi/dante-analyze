@@ -3,6 +3,6 @@ all:
 
 # Remove the generated graph (regenerable by `make`); keeps assembly.py/README/Makefile.
 clean:
-	rm -rf inferno purgatorio paradiso *.nodes.json
+	rm -f *.jsonl
 
 .PHONY: all clean

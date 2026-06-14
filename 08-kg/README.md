@@ -35,57 +35,51 @@ Then a structural check runs; output is written only when it passes.
 Input:  07-relations/<canticle>/NN.txt  (edges)      06-speech/<canticle>/NN.txt (speaker per span)
         04-tags/<canticle>/NN.txt       (per-scene [n] -> name)
         05-registry/<canticle>.txt      (canonical node table)
-Output: 08-kg/<canticle>/NN.json        (edges + speech_edges, per canto)
-        08-kg/<canticle>.nodes.json     (registry distilled to graph nodes, per canticle)
+Output: 08-kg/<canticle>-nodes.jsonl    one node per line
+        08-kg/<canticle>-edges.jsonl    one relation edge per line   (all cantos)
+        08-kg/<canticle>-speech.jsonl   one speech edge per line     (all cantos)
 ```
 
-Granularity is split on purpose: edges/speech are **per canto** (matching `07-relations`/`06-speech`
-so a downstream per-canto translation pass integrates cleanly), the node table is **per canticle**
-(matching `05-registry`). Read them with `load_kg(canticle, canto)` and `load_kg_nodes(canticle)`,
-or `dante-analyze kg show <canticle> <canto>`.
+Output is **per canticle, JSONL** — one record per line, every canto aggregated into the canticle's
+file (so each edge/speech record carries its `canto`). Read the whole graph with one call,
+`load_kg(canticle)` → `{nodes, edges, speech}`, or inspect a part on the CLI with
+`dante-analyze kg show <canticle> [part]` (`part` ∈ `nodes` / `edges` / `speech`, default `edges`).
 
-### `<canticle>.nodes.json` — the node table
+### `<canticle>-nodes.jsonl` — the node table
 
 `id` is the registry canonical heading; `type` is the node type; `members` is the member list for a
 set node, else `null` (surfaces/labels are dropped — the graph references nodes by `id`).
 
-```json
-{ "canticle": "inferno",
-  "nodes": [
-    { "id": "Dante",    "type": "individual", "members": null },
-    { "id": "Virgilio", "type": "individual", "members": null } ] }
+```jsonl
+{"id": "Dante", "type": "individual", "members": null}
+{"id": "Virgilio", "type": "individual", "members": null}
+{"id": "Dante, Virgilio", "type": "set", "members": ["Dante", "Virgilio"]}
 ```
 
-### `<canticle>/NN.json` — resolved edges + speech edges
+### `<canticle>-edges.jsonl` — resolved relation edges
 
-```json
-{ "canticle": "inferno", "canto": 1,
-  "edges": [
-    { "scene": [49, 60],
-      "subj": {"tag": 2, "name": "la lupa", "node": "la lupa"},
-      "predicate": "punishes",
-      "obj":  {"tag": 3, "name": "Dante", "node": "Dante"},
-      "frame": "literal", "lines": [52, 52],
-      "asserter": null },
-    { "scene": [67, 75],
-      "subj": {"tag": 8, "name": "Virgilio", "node": "Virgilio"},
-      "predicate": "relates-to",
-      "obj":  {"tag": 9, "name": "Augusto", "node": "Augusto"},
-      "frame": "reported", "lines": [71, 71],
-      "asserter": "Virgilio" } ],
-  "speech_edges": [
-    { "quote_id": "1:67", "lines": [67, 78], "speaker": "Virgilio",
-      "signal": "strong", "flags": ["cross-scene"] } ] }
+```jsonl
+{"canto": 1, "scene": [49, 60], "subj": {"tag": 2, "name": "la lupa", "node": "la lupa"}, "predicate": "punishes", "obj": {"tag": 3, "name": "Dante", "node": "Dante"}, "frame": "literal", "lines": [52, 52], "asserter": null}
+{"canto": 1, "scene": [67, 75], "subj": {"tag": 8, "name": "Virgilio", "node": "Virgilio"}, "predicate": "relates-to", "obj": {"tag": 9, "name": "Augusto", "node": "Augusto"}, "frame": "reported", "lines": [71, 71], "asserter": "Virgilio"}
 ```
 
 - `subj`/`obj`: `tag` is the cited `[n]`; `name` is the `04-tags` label; `node` is the resolved
   registry canonical, or `null` when the label doesn't resolve (see below).
 - `asserter`: the recovered speaker for asserting frames, else `null`.
-- `speech_edges`: the `06-speech` spans verbatim (speaker → quote span).
+- Provenance travels on every edge: `canto` / `scene` / `lines` + each end's `tag`, so a record
+  points back to the exact 04-tags scene and tag numbers it was joined from.
+
+### `<canticle>-speech.jsonl` — speech edges (speaker → quote span)
+
+The `06-speech` spans carried into the graph verbatim.
+
+```jsonl
+{"canto": 1, "quote_id": "1:67", "lines": [67, 78], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+```
 
 ## The structural check
 
-Mirrors `06-speech`'s fail-loud gate; output is written only on a clean canto.
+Mirrors `06-speech`'s fail-loud gate; a canticle's files are written only when all its cantos pass.
 
 - **Geometry (fatal, aborts the run):** every edge's line range lies in **exactly one** scene, and
   every cited `[n]` exists in that scene's tag set. These are the invariants the upstream checks
@@ -93,17 +87,17 @@ Mirrors `06-speech`'s fail-loud gate; output is written only on a clean canto.
 - **Name→node resolution (tallied, not fatal):** an edge end whose label doesn't canonicalize to a
   node is written with `node: null` and counted to stderr. Per the project ethos (confirm the
   pipeline's accuracy, don't patch by hand) the residual count is itself measurement, not a defect
-  to fix. In the committed run every such end is a `(unknown)` label — the referent the model never
+  to fix. In every run so far each such end is a `(unknown)` label — the referent the model never
   identified, which the registry rightly dropped — so no un-registered surface leaks through.
 - **Asserter join:** 0-or-1 by construction (innermost containing span); never fatal.
 
-## Measured result (committed run)
+## Measured result
 
-| canticle   | nodes | edges |
-|------------|------:|------:|
-| inferno    | 1045  | 2142  |
-| purgatorio |  936  | 2010  |
-| paradiso   | 1050  | 1604  |
+| canticle   | nodes | edges | speech |
+|------------|------:|------:|-------:|
+| inferno    | 1045  | 2142  |   500  |
+| purgatorio |  936  | 2010  |   495  |
+| paradiso   | 1050  | 1604  |   227  |
 
 Geometry: **0 failures** across all 100 cantos — every edge resolved to exactly one scene, every
 cited tag present. Name→node: **18 unresolved edge ends total** (inferno 2, purgatorio 10, paradiso
@@ -112,12 +106,14 @@ cited tag present. Name→node: **18 unresolved edge ends total** (inferno 2, pu
 ## Run
 
 ```bash
-make -C 08-kg                              # build all three canticles
-uv run dante-analyze kg show inferno 1     # inspect a canto
+make -C 08-kg                              # build all three canticles (writes the .jsonl)
+make -C 08-kg clean                        # remove the generated .jsonl
+uv run dante-analyze kg show inferno edges # inspect (part: nodes | edges | speech, default edges)
 ```
 
-**Parallel-safe** (ARCHITECTURE §15): per-canto JSON outputs, read-only committed inputs, no shared
-writable state — safe to fan out per canticle; on the local default it is fast enough to not bother.
+**Parallel-safe** (ARCHITECTURE §15): per-canticle JSONL outputs, read-only committed inputs, no
+shared writable state — safe to fan out per canticle; on the local default it is fast enough to not
+bother.
 
 ## Notes
 

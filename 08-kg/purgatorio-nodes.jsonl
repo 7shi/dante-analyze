@@ -1,0 +1,936 @@
+{"id": "Dante", "type": "individual", "members": null}
+{"id": "Virgilio", "type": "individual", "members": null}
+{"id": "Dante, Virgilio", "type": "set", "members": ["Dante", "Virgilio"]}
+{"id": "Beatrice", "type": "individual", "members": null}
+{"id": "Stazio", "type": "individual", "members": null}
+{"id": "Dio", "type": "individual", "members": null}
+{"id": "anime", "type": "class", "members": null}
+{"id": "Forese", "type": "individual", "members": null}
+{"id": "Sordello", "type": "individual", "members": null}
+{"id": "gente", "type": "generic", "members": null}
+{"id": "Marco Lombardo", "type": "individual", "members": null}
+{"id": "Matelda", "type": "individual", "members": null}
+{"id": "Dante, Virgilio, Stazio", "type": "set", "members": ["Dante", "Virgilio", "Stazio"]}
+{"id": "Oderisi", "type": "individual", "members": null}
+{"id": "l'uom", "type": "generic", "members": null}
+{"id": "Ugo Ciappetta", "type": "individual", "members": null}
+{"id": "Belacqua", "type": "individual", "members": null}
+{"id": "Sapia", "type": "non-person", "members": null}
+{"id": "Vescovo di Savona", "type": "individual", "members": null}
+{"id": "l'angelo", "type": "individual", "members": null}
+{"id": "Bonagiunta da Lucca", "type": "individual", "members": null}
+{"id": "Casella", "type": "individual", "members": null}
+{"id": "Provenzan Salvani", "type": "individual", "members": null}
+{"id": "Sirena", "type": "class", "members": null}
+{"id": "l'anima", "type": "generic", "members": null}
+{"id": "l'ombra", "type": "generic", "members": null}
+{"id": "lussuriosi", "type": "class", "members": null}
+{"id": "Cristo", "type": "individual", "members": null}
+{"id": "l'angel di Dio", "type": "individual", "members": null}
+{"id": "lettor", "type": "generic", "members": null}
+{"id": "Catone", "type": "individual", "members": null}
+{"id": "Virgilio, Stazio", "type": "set", "members": ["Virgilio", "Stazio"]}
+{"id": "Guido Guinizzelli", "type": "individual", "members": null}
+{"id": "Dante, Virgilio, Statio", "type": "set", "members": ["Dante", "Virgilio", "Statio"]}
+{"id": "Bonconte di Montefeltro", "type": "individual", "members": null}
+{"id": "Maria", "type": "individual", "members": null}
+{"id": "i superbi", "type": "class", "members": null}
+{"id": "la voce", "type": "non-person", "members": null}
+{"id": "Nin", "type": "individual", "members": null}
+{"id": "Pier della Vigna", "type": "individual", "members": null}
+{"id": "Spirto", "type": "generic", "members": null}
+{"id": "Virgilio, Dante", "type": "set", "members": ["Virgilio", "Dante"]}
+{"id": "Adamo", "type": "individual", "members": null}
+{"id": "Alberto I d'Asburgo", "type": "individual", "members": null}
+{"id": "Arnaut Daniel", "type": "individual", "members": null}
+{"id": "Manfredi", "type": "class", "members": null}
+{"id": "Traiano", "type": "individual", "members": null}
+{"id": "i beati", "type": "class", "members": null}
+{"id": "Currado Malaspina", "type": "individual", "members": null}
+{"id": "Lucia", "type": "individual", "members": null}
+{"id": "amor", "type": "non-person", "members": null}
+{"id": "l'ombre", "type": "class", "members": null}
+{"id": "om", "type": "generic", "members": null}
+{"id": "colui che perde", "type": "generic", "members": null}
+{"id": "Guido", "type": "individual", "members": null}
+{"id": "Omberto", "type": "individual", "members": null}
+{"id": "Lia", "type": "individual", "members": null}
+{"id": "l'anima semplicetta", "type": "generic", "members": null}
+{"id": "la miserella", "type": "individual", "members": null}
+{"id": "un angel", "type": "generic", "members": null}
+{"id": "Firenze", "type": "non-person", "members": null}
+{"id": "due spirti", "type": "generic", "members": null}
+{"id": "le anime dei superbi", "type": "class", "members": null}
+{"id": "le genti", "type": "class", "members": null}
+{"id": "li angeli", "type": "class", "members": null}
+{"id": "virtù", "type": "non-person", "members": null}
+{"id": "Arnaut", "type": "individual", "members": null}
+{"id": "Cristiani", "type": "class", "members": null}
+{"id": "Fiorenza", "type": "non-person", "members": null}
+{"id": "Italia", "type": "non-person", "members": null}
+{"id": "L'altro", "type": "individual", "members": null}
+{"id": "avarizia", "type": "non-person", "members": null}
+{"id": "digesto", "type": "non-person", "members": null}
+{"id": "i peccatori", "type": "class", "members": null}
+{"id": "lo glorïoso essercito", "type": "class", "members": null}
+{"id": "ninfe", "type": "class", "members": null}
+{"id": "Achille", "type": "individual", "members": null}
+{"id": "Dante, Virgilio, Statius", "type": "set", "members": ["Dante", "Virgilio", "Statius"]}
+{"id": "Nella", "type": "individual", "members": null}
+{"id": "Vincislao", "type": "individual", "members": null}
+{"id": "amore", "type": "non-person", "members": null}
+{"id": "gli invidiosi", "type": "class", "members": null}
+{"id": "il Sole", "type": "non-person", "members": null}
+{"id": "l'animo", "type": "non-person", "members": null}
+{"id": "la sua madre", "type": "individual", "members": null}
+{"id": "le donne", "type": "class", "members": null}
+{"id": "natura", "type": "non-person", "members": null}
+{"id": "quella gente", "type": "class", "members": null}
+{"id": "un superbo", "type": "generic", "members": null}
+{"id": "un'ombra", "type": "generic", "members": null}
+{"id": "uno", "type": "generic", "members": null}
+{"id": "uomini", "type": "class", "members": null}
+{"id": "Aglauro", "type": "individual", "members": null}
+{"id": "Amata", "type": "individual", "members": null}
+{"id": "Arno", "type": "non-person", "members": null}
+{"id": "Bonconte", "type": "individual", "members": null}
+{"id": "Costanza", "type": "individual", "members": null}
+{"id": "Eva", "type": "individual", "members": null}
+{"id": "Lavina", "type": "individual", "members": null}
+{"id": "Malaspina", "type": "individual", "members": null}
+{"id": "ciascun", "type": "generic", "members": null}
+{"id": "ghiotto", "type": "generic", "members": null}
+{"id": "il Grifone", "type": "non-person", "members": null}
+{"id": "l'alma", "type": "generic", "members": null}
+{"id": "l'altro Carlo", "type": "individual", "members": null}
+{"id": "la prima voce", "type": "non-person", "members": null}
+{"id": "le sfacciate donne fiorentine", "type": "class", "members": null}
+{"id": "persone", "type": "class", "members": null}
+{"id": "quell' ombre", "type": "class", "members": null}
+{"id": "quelli spirti", "type": "class", "members": null}
+{"id": "rege", "type": "individual", "members": null}
+{"id": "serafini", "type": "class", "members": null}
+{"id": "spirito", "type": "generic", "members": null}
+{"id": "tutta la gente", "type": "class", "members": null}
+{"id": "un giovinetto", "type": "generic", "members": null}
+{"id": "una de l'alme", "type": "generic", "members": null}
+{"id": "Alagia", "type": "individual", "members": null}
+{"id": "Carlo", "type": "individual", "members": null}
+{"id": "Dante, Virgilio, Sordello", "type": "set", "members": ["Dante", "Virgilio", "Sordello"]}
+{"id": "Eneïda", "type": "non-person", "members": null}
+{"id": "Gabriele", "type": "individual", "members": null}
+{"id": "Guido del Duca", "type": "individual", "members": null}
+{"id": "L'Angelo di Dio", "type": "individual", "members": null}
+{"id": "Oreste", "type": "individual", "members": null}
+{"id": "Quel che par sì membruto", "type": "individual", "members": null}
+{"id": "Rachel", "type": "individual", "members": null}
+{"id": "cacciator", "type": "hypothetical-simile", "members": null}
+{"id": "chi volesse salir di notte", "type": "hypothetical-simile", "members": null}
+{"id": "demonio", "type": "generic", "members": null}
+{"id": "gente umana", "type": "class", "members": null}
+{"id": "grifon", "type": "non-person", "members": null}
+{"id": "l'aguglia", "type": "non-person", "members": null}
+{"id": "l'omo", "type": "generic", "members": null}
+{"id": "la Pia", "type": "individual", "members": null}
+{"id": "la creatura bella", "type": "individual", "members": null}
+{"id": "la madre", "type": "individual", "members": null}
+{"id": "la notte", "type": "non-person", "members": null}
+{"id": "le anime avare e prodigali", "type": "class", "members": null}
+{"id": "li stolti", "type": "class", "members": null}
+{"id": "messer Marchese", "type": "individual", "members": null}
+{"id": "quanta gente", "type": "generic", "members": null}
+{"id": "quel feroce drudo", "type": "individual", "members": null}
+{"id": "spirti", "type": "class", "members": null}
+{"id": "superbi cristian", "type": "class", "members": null}
+{"id": "the first group of souls", "type": "class", "members": null}
+{"id": "umana gente", "type": "class", "members": null}
+{"id": "Aragne", "type": "hypothetical-simile", "members": null}
+{"id": "Cesare", "type": "individual", "members": null}
+{"id": "Color che ragionando andaro al fondo", "type": "class", "members": null}
+{"id": "Currado", "type": "individual", "members": null}
+{"id": "Eünoè", "type": "non-person", "members": null}
+{"id": "Gherardo", "type": "individual", "members": null}
+{"id": "Giove", "type": "individual", "members": null}
+{"id": "Guiglielmo marchese", "type": "individual", "members": null}
+{"id": "La turba", "type": "class", "members": null}
+{"id": "Marzia", "type": "individual", "members": null}
+{"id": "Marzïa", "type": "individual", "members": null}
+{"id": "Ottacchero", "type": "individual", "members": null}
+{"id": "Piccarda", "type": "individual", "members": null}
+{"id": "Rinier", "type": "individual", "members": null}
+{"id": "Rodolfo", "type": "individual", "members": null}
+{"id": "Statio", "type": "individual", "members": null}
+{"id": "Tarpëa", "type": "individual", "members": null}
+{"id": "Traiano imperadore", "type": "individual", "members": null}
+{"id": "abate di San Zeno", "type": "individual", "members": null}
+{"id": "abate in San Zeno a Verona", "type": "individual", "members": null}
+{"id": "alcuno esser", "type": "generic", "members": null}
+{"id": "cento spirti", "type": "class", "members": null}
+{"id": "dolce lume", "type": "non-person", "members": null}
+{"id": "figliuoli d'Eva", "type": "class", "members": null}
+{"id": "gente sicura", "type": "generic", "members": null}
+{"id": "giustizia", "type": "non-person", "members": null}
+{"id": "il Papa", "type": "individual", "members": null}
+{"id": "l sole", "type": "non-person", "members": null}
+{"id": "l'Imperatore", "type": "individual", "members": null}
+{"id": "l'altre vergini", "type": "class", "members": null}
+{"id": "l'antico avversario", "type": "individual", "members": null}
+{"id": "l'uccel divino", "type": "non-person", "members": null}
+{"id": "la bontà infinita", "type": "non-person", "members": null}
+{"id": "la rossa", "type": "individual", "members": null}
+{"id": "la tua Roma", "type": "non-person", "members": null}
+{"id": "le anime, Statius", "type": "set", "members": ["le anime", "Statius"]}
+{"id": "le grandi ombre", "type": "class", "members": null}
+{"id": "li abitator", "type": "class", "members": null}
+{"id": "li altri", "type": "generic", "members": null}
+{"id": "li ciechi", "type": "class", "members": null}
+{"id": "li spiriti veloci", "type": "class", "members": null}
+{"id": "li vivi tuoi", "type": "class", "members": null}
+{"id": "morte", "type": "non-person", "members": null}
+{"id": "pastor", "type": "generic", "members": null}
+{"id": "popol tuo", "type": "class", "members": null}
+{"id": "quale in contumacia more di Santa Chiesa", "type": "hypothetical-simile", "members": null}
+{"id": "quei che più n'ha colpa", "type": "generic", "members": null}
+{"id": "quel popol", "type": "class", "members": null}
+{"id": "quella gente degna", "type": "class", "members": null}
+{"id": "questa gente", "type": "class", "members": null}
+{"id": "sire", "type": "individual", "members": null}
+{"id": "spiriti eletti", "type": "class", "members": null}
+{"id": "un altro pomo", "type": "non-person", "members": null}
+{"id": "un lume", "type": "non-person", "members": null}
+{"id": "una puttana sciolta", "type": "generic", "members": null}
+{"id": "' marinari", "type": "class", "members": null}
+{"id": "Acàn", "type": "individual", "members": null}
+{"id": "Alberto", "type": "individual", "members": null}
+{"id": "Arrigo d'Inghilterra", "type": "individual", "members": null}
+{"id": "Bëatrice", "type": "individual", "members": null}
+{"id": "Cesar", "type": "individual", "members": null}
+{"id": "Ciro", "type": "individual", "members": null}
+{"id": "Currado da Palazzo, 'l buon Gherardo, Guido da Castel", "type": "set", "members": ["Currado da Palazzo", "'l buon Gherardo", "Guido da Castel"]}
+{"id": "Danïello", "type": "individual", "members": null}
+{"id": "Davide", "type": "individual", "members": null}
+{"id": "Diana", "type": "non-person", "members": null}
+{"id": "Didone", "type": "individual", "members": null}
+{"id": "Femmina", "type": "generic", "members": null}
+{"id": "Giovanna", "type": "individual", "members": null}
+{"id": "Giovanni", "type": "individual", "members": null}
+{"id": "Guido Guinizzelli, anime", "type": "set", "members": ["Guido Guinizzelli", "anime"]}
+{"id": "Guido del Duca, Rinier", "type": "set", "members": ["Guido del Duca", "Rinier"]}
+{"id": "Guiglielmo Aldobrandesco", "type": "individual", "members": null}
+{"id": "Letè", "type": "non-person", "members": null}
+{"id": "Micòl", "type": "individual", "members": null}
+{"id": "Ottokar", "type": "individual", "members": null}
+{"id": "Pietro", "type": "individual", "members": null}
+{"id": "Piramo", "type": "individual", "members": null}
+{"id": "Proserpina", "type": "individual", "members": null}
+{"id": "Sennacherìb", "type": "individual", "members": null}
+{"id": "Tamiri", "type": "individual", "members": null}
+{"id": "Tutta esta gente", "type": "class", "members": null}
+{"id": "Venere", "type": "individual", "members": null}
+{"id": "alcuna anima monda", "type": "generic", "members": null}
+{"id": "anima gentil", "type": "class", "members": null}
+{"id": "avari e prodighi", "type": "class", "members": null}
+{"id": "ciascun' ombra", "type": "generic", "members": null}
+{"id": "ciechi", "type": "class", "members": null}
+{"id": "conducitrice", "type": "individual", "members": null}
+{"id": "conte Orso", "type": "individual", "members": null}
+{"id": "dal Torso", "type": "individual", "members": null}
+{"id": "fantolin", "type": "generic", "members": null}
+{"id": "forma sustanzïal", "type": "non-person", "members": null}
+{"id": "gente non nota", "type": "generic", "members": null}
+{"id": "i Pagan", "type": "class", "members": null}
+{"id": "i Troiani", "type": "class", "members": null}
+{"id": "i figli", "type": "class", "members": null}
+{"id": "il ciel", "type": "non-person", "members": null}
+{"id": "il peccatore", "type": "generic", "members": null}
+{"id": "il portinaio", "type": "individual", "members": null}
+{"id": "il serpente", "type": "non-person", "members": null}
+{"id": "imaginativa", "type": "non-person", "members": null}
+{"id": "l'aere", "type": "non-person", "members": null}
+{"id": "l'uccel", "type": "non-person", "members": null}
+{"id": "l'umano spirito", "type": "generic", "members": null}
+{"id": "la Chiesa di Roma", "type": "non-person", "members": null}
+{"id": "la gente verace", "type": "class", "members": null}
+{"id": "la pietra", "type": "non-person", "members": null}
+{"id": "la puttana", "type": "individual", "members": null}
+{"id": "la vedova frasca", "type": "individual", "members": null}
+{"id": "le anime beate", "type": "class", "members": null}
+{"id": "le divote ombre", "type": "class", "members": null}
+{"id": "le sette ninfe", "type": "individual", "members": null}
+{"id": "le sustanze pie", "type": "class", "members": null}
+{"id": "lettore", "type": "generic", "members": null}
+{"id": "li Ebrei", "type": "class", "members": null}
+{"id": "li pii spiriti", "type": "class", "members": null}
+{"id": "lo corpo", "type": "non-person", "members": null}
+{"id": "lo motor primo", "type": "individual", "members": null}
+{"id": "lupi", "type": "non-person", "members": null}
+{"id": "mandrïan", "type": "hypothetical-simile", "members": null}
+{"id": "messo", "type": "generic", "members": null}
+{"id": "molte genti", "type": "class", "members": null}
+{"id": "mortali", "type": "class", "members": null}
+{"id": "persona", "type": "generic", "members": null}
+{"id": "quattro", "type": "generic", "members": null}
+{"id": "quei che va di notte", "type": "hypothetical-simile", "members": null}
+{"id": "quell'antica strega", "type": "individual", "members": null}
+{"id": "quella turba", "type": "class", "members": null}
+{"id": "quest'imagine", "type": "non-person", "members": null}
+{"id": "sacrosante Vergini", "type": "class", "members": null}
+{"id": "schiera", "type": "class", "members": null}
+{"id": "serva Italia", "type": "non-person", "members": null}
+{"id": "sette luci", "type": "non-person", "members": null}
+{"id": "spiriti ben nati", "type": "class", "members": null}
+{"id": "sua figlia", "type": "individual", "members": null}
+{"id": "suo figlio", "type": "individual", "members": null}
+{"id": "superbia", "type": "non-person", "members": null}
+{"id": "tutta quella turba magna", "type": "class", "members": null}
+{"id": "tutti li altri", "type": "class", "members": null}
+{"id": "un osservatore generico", "type": "generic", "members": null}
+{"id": "un veglio solo", "type": "generic", "members": null}
+{"id": "un'alma sola", "type": "generic", "members": null}
+{"id": "un'anima", "type": "generic", "members": null}
+{"id": "una figura", "type": "generic", "members": null}
+{"id": "vicin", "type": "generic", "members": null}
+{"id": "voi che vivete", "type": "class", "members": null}
+{"id": "'l pastor di Cosenza", "type": "individual", "members": null}
+{"id": "'l più basso", "type": "individual", "members": null}
+{"id": "Albero", "type": "non-person", "members": null}
+{"id": "Aquilone", "type": "non-person", "members": null}
+{"id": "Aristotele", "type": "individual", "members": null}
+{"id": "Bernardin di Fosco", "type": "individual", "members": null}
+{"id": "Bretinoro", "type": "non-person", "members": null}
+{"id": "Castrocaro, Conio", "type": "set", "members": ["Castrocaro", "Conio"]}
+{"id": "Cimabue", "type": "individual", "members": null}
+{"id": "Cloto", "type": "individual", "members": null}
+{"id": "Crasso", "type": "individual", "members": null}
+{"id": "Dante, Virgilio, Marco Lombardo", "type": "set", "members": ["Dante", "Virgilio", "Marco Lombardo"]}
+{"id": "Dante, Virgilio, Sordello, Nin, Currado", "type": "set", "members": ["Dante", "Virgilio", "Sordello", "Nin", "Currado"]}
+{"id": "Domine", "type": "individual", "members": null}
+{"id": "Elice", "type": "non-person", "members": null}
+{"id": "Erisittone", "type": "individual", "members": null}
+{"id": "Ezechïel", "type": "individual", "members": null}
+{"id": "Fabrizio", "type": "individual", "members": null}
+{"id": "Federigo", "type": "individual", "members": null}
+{"id": "Filippi e Luigini", "type": "individual", "members": null}
+{"id": "Ganimede", "type": "individual", "members": null}
+{"id": "Gedeon", "type": "individual", "members": null}
+{"id": "Giuda", "type": "individual", "members": null}
+{"id": "Guido Cavalcanti, the poets who preceded Guido", "type": "set", "members": ["Guido Cavalcanti", "the poets who preceded Guido"]}
+{"id": "Guido da Castel", "type": "individual", "members": null}
+{"id": "Guittone d'Arezzo", "type": "individual", "members": null}
+{"id": "Ipocràte", "type": "individual", "members": null}
+{"id": "Ismene", "type": "individual", "members": null}
+{"id": "Iustinïano", "type": "individual", "members": null}
+{"id": "La concubina", "type": "generic", "members": null}
+{"id": "Li uomini", "type": "class", "members": null}
+{"id": "Lucifero", "type": "individual", "members": null}
+{"id": "Maggior Fortuna", "type": "non-person", "members": null}
+{"id": "Manfred", "type": "individual", "members": null}
+{"id": "Marte", "type": "non-person", "members": null}
+{"id": "Meleagro", "type": "individual", "members": null}
+{"id": "Metello", "type": "individual", "members": null}
+{"id": "Nembròt", "type": "individual", "members": null}
+{"id": "Nïobè", "type": "individual", "members": null}
+{"id": "Ottocar", "type": "individual", "members": null}
+{"id": "Polinestòr", "type": "individual", "members": null}
+{"id": "Quelli ch'anticamente poetaro", "type": "class", "members": null}
+{"id": "Roboàm", "type": "individual", "members": null}
+{"id": "Roma", "type": "non-person", "members": null}
+{"id": "Saùl", "type": "individual", "members": null}
+{"id": "Sordello, Dante, Virgilio", "type": "set", "members": ["Sordello", "Dante", "Virgilio"]}
+{"id": "Sordello, le grandi ombre", "type": "set", "members": ["Sordello", "le grandi ombre"]}
+{"id": "Teti", "type": "individual", "members": null}
+{"id": "Titone", "type": "individual", "members": null}
+{"id": "Tre donne", "type": "generic", "members": null}
+{"id": "Virgilio, Persio, Terenzio, Cecilio, Plauto, Varrone, other poets of Limbo", "type": "class", "members": null}
+{"id": "Virgilio, Statio", "type": "set", "members": ["Virgilio", "Statio"]}
+{"id": "a' pïi", "type": "class", "members": null}
+{"id": "al feto", "type": "hypothetical-simile", "members": null}
+{"id": "alcun de' famigliari", "type": "generic", "members": null}
+{"id": "angel benedetto", "type": "individual", "members": null}
+{"id": "angeli", "type": "class", "members": null}
+{"id": "anima in Purgatorio", "type": "generic", "members": null}
+{"id": "antica lupa", "type": "non-person", "members": null}
+{"id": "carro del Sol", "type": "non-person", "members": null}
+{"id": "cavalieri", "type": "class", "members": null}
+{"id": "chi da colpa si dislega", "type": "hypothetical-simile", "members": null}
+{"id": "chi n'ha colpa", "type": "generic", "members": null}
+{"id": "chi più di gir s'affanna", "type": "generic", "members": null}
+{"id": "chi va dinanzi a gente per iscorta", "type": "generic", "members": null}
+{"id": "colui ch'a dicer s'argomenta", "type": "generic", "members": null}
+{"id": "colui ch'ascolta", "type": "generic", "members": null}
+{"id": "colui che l'ha di pensier carca", "type": "individual", "members": null}
+{"id": "colui che mo si consola con nanna", "type": "individual", "members": null}
+{"id": "compagni", "type": "class", "members": null}
+{"id": "creatura", "type": "generic", "members": null}
+{"id": "d'anime turba tacita e devota", "type": "class", "members": null}
+{"id": "dal primo", "type": "individual", "members": null}
+{"id": "due angeli", "type": "class", "members": null}
+{"id": "due figli", "type": "generic", "members": null}
+{"id": "due mie' sensi", "type": "non-person", "members": null}
+{"id": "fanciulli", "type": "class", "members": null}
+{"id": "fioretti", "type": "class", "members": null}
+{"id": "gli avarizi e i prodighi", "type": "class", "members": null}
+{"id": "gran signore", "type": "individual", "members": null}
+{"id": "i Filippi, i Luigi", "type": "set", "members": ["i Filippi", "i Luigi"]}
+{"id": "i Greci", "type": "class", "members": null}
+{"id": "i buoni", "type": "class", "members": null}
+{"id": "i geomanti", "type": "class", "members": null}
+{"id": "i miei maggior", "type": "class", "members": null}
+{"id": "i peregrin pensosi", "type": "class", "members": null}
+{"id": "i pigri, lenti", "type": "class", "members": null}
+{"id": "i portatori del carro", "type": "class", "members": null}
+{"id": "i sepolti", "type": "class", "members": null}
+{"id": "il Batista", "type": "individual", "members": null}
+{"id": "il Padre", "type": "individual", "members": null}
+{"id": "il cicognin", "type": "non-person", "members": null}
+{"id": "il cielo", "type": "non-person", "members": null}
+{"id": "il mostro", "type": "individual", "members": null}
+{"id": "il sonno", "type": "non-person", "members": null}
+{"id": "il vecchio", "type": "individual", "members": null}
+{"id": "l'aere vicin", "type": "non-person", "members": null}
+{"id": "l'alto Sire", "type": "individual", "members": null}
+{"id": "l'altr' anima", "type": "individual", "members": null}
+{"id": "l'altre tre", "type": "individual", "members": null}
+{"id": "l'amico suo", "type": "individual", "members": null}
+{"id": "l'antico avversaro", "type": "individual", "members": null}
+{"id": "l'aura di maggio", "type": "non-person", "members": null}
+{"id": "l'un", "type": "generic", "members": null}
+{"id": "l'uno e l'altro", "type": "generic", "members": null}
+{"id": "la bestia", "type": "non-person", "members": null}
+{"id": "la bianca", "type": "individual", "members": null}
+{"id": "la donna", "type": "generic", "members": null}
+{"id": "la gran dota provenzale", "type": "non-person", "members": null}
+{"id": "la lussuria", "type": "non-person", "members": null}
+{"id": "la piuma", "type": "non-person", "members": null}
+{"id": "la samaritana", "type": "individual", "members": null}
+{"id": "la spera", "type": "non-person", "members": null}
+{"id": "la suora di [colui]", "type": "individual", "members": null}
+{"id": "le Romane antiche", "type": "class", "members": null}
+{"id": "le anime degli invidiosi", "type": "class", "members": null}
+{"id": "le volpi", "type": "non-person", "members": null}
+{"id": "li Assiri", "type": "class", "members": null}
+{"id": "li colombi", "type": "class", "members": null}
+{"id": "lo cavalier di schiera", "type": "hypothetical-simile", "members": null}
+{"id": "lo giovanetto", "type": "individual", "members": null}
+{"id": "loro avversari", "type": "class", "members": null}
+{"id": "luce del ciel", "type": "non-person", "members": null}
+{"id": "lussurioso", "type": "generic", "members": null}
+{"id": "madre, lo tuo padre", "type": "set", "members": ["madre", "lo tuo padre"]}
+{"id": "messaggi", "type": "non-person", "members": null}
+{"id": "miei propinqui", "type": "class", "members": null}
+{"id": "muse", "type": "class", "members": null}
+{"id": "navicanti", "type": "class", "members": null}
+{"id": "ombre vane", "type": "class", "members": null}
+{"id": "pauperes", "type": "class", "members": null}
+{"id": "persona generica", "type": "generic", "members": null}
+{"id": "poeta", "type": "individual", "members": null}
+{"id": "possibile intelletto", "type": "non-person", "members": null}
+{"id": "primo ministro", "type": "individual", "members": null}
+{"id": "quei che diceva pria", "type": "individual", "members": null}
+{"id": "quei che le tre sante virtù non si vestiro", "type": "class", "members": null}
+{"id": "quei che notan sempre dietro a le note de li etterni giri", "type": "class", "members": null}
+{"id": "quel da Esti", "type": "individual", "members": null}
+{"id": "quel mal voler", "type": "non-person", "members": null}
+{"id": "quell'inferma", "type": "individual", "members": null}
+{"id": "quella gente vana", "type": "class", "members": null}
+{"id": "quelle dee", "type": "individual", "members": null}
+{"id": "quelle genti elette", "type": "class", "members": null}
+{"id": "sacra fame", "type": "non-person", "members": null}
+{"id": "sangue", "type": "non-person", "members": null}
+{"id": "sette cori", "type": "class", "members": null}
+{"id": "settentrïonal vedovo sito", "type": "non-person", "members": null}
+{"id": "spirito novo", "type": "generic", "members": null}
+{"id": "sùbita voce", "type": "non-person", "members": null}
+{"id": "tante umilitadi", "type": "non-person", "members": null}
+{"id": "the poets who preceded Guido", "type": "class", "members": null}
+{"id": "triforme amor", "type": "non-person", "members": null}
+{"id": "un Fabbro", "type": "generic", "members": null}
+{"id": "un alber", "type": "non-person", "members": null}
+{"id": "un cinquecento diece e cinque", "type": "generic", "members": null}
+{"id": "un di loro", "type": "generic", "members": null}
+{"id": "un drago", "type": "non-person", "members": null}
+{"id": "un gigante", "type": "generic", "members": null}
+{"id": "un uomo", "type": "generic", "members": null}
+{"id": "una", "type": "generic", "members": null}
+{"id": "uno ingegno sottile", "type": "generic", "members": null}
+{"id": "venenosi sterpi", "type": "non-person", "members": null}
+{"id": "ventiquattro seniori", "type": "class", "members": null}
+{"id": "vivi", "type": "class", "members": null}
+{"id": "' morti", "type": "class", "members": null}
+{"id": "' vivi", "type": "class", "members": null}
+{"id": "'l Notaro", "type": "individual", "members": null}
+{"id": "'l buon Gherardo", "type": "individual", "members": null}
+{"id": "'l ciel veloce", "type": "non-person", "members": null}
+{"id": "'l dolor", "type": "non-person", "members": null}
+{"id": "'l nome", "type": "non-person", "members": null}
+{"id": "'l sol", "type": "non-person", "members": null}
+{"id": "'l terren", "type": "class", "members": null}
+{"id": "'l tuo successor", "type": "generic", "members": null}
+{"id": "'l vicario di Pietro", "type": "individual", "members": null}
+{"id": "Affricano", "type": "non-person", "members": null}
+{"id": "Agatone", "type": "individual", "members": null}
+{"id": "Almeon", "type": "individual", "members": null}
+{"id": "Anania", "type": "individual", "members": null}
+{"id": "Antifonte", "type": "individual", "members": null}
+{"id": "Antigone", "type": "individual", "members": null}
+{"id": "Apollo, Diana", "type": "set", "members": ["Apollo", "Diana"]}
+{"id": "Apostoli", "type": "class", "members": null}
+{"id": "Aragona", "type": "non-person", "members": null}
+{"id": "Aretin", "type": "individual", "members": null}
+{"id": "Argia", "type": "individual", "members": null}
+{"id": "Argo", "type": "hypothetical-simile", "members": null}
+{"id": "Aristotile", "type": "individual", "members": null}
+{"id": "Aristotile, Plato", "type": "set", "members": ["Aristotile", "Plato"]}
+{"id": "Arrigo Mainardi", "type": "individual", "members": null}
+{"id": "Asopo", "type": "individual", "members": null}
+{"id": "Assüero", "type": "individual", "members": null}
+{"id": "Atene, Lacedemona", "type": "set", "members": ["Atene", "Lacedemona"]}
+{"id": "Augusto", "type": "individual", "members": null}
+{"id": "Austro", "type": "non-person", "members": null}
+{"id": "Bacco", "type": "individual", "members": null}
+{"id": "Bagnacaval", "type": "non-person", "members": null}
+{"id": "Barbarossa", "type": "individual", "members": null}
+{"id": "Beatrice, le ninfe, le anime", "type": "set", "members": ["Beatrice", "le ninfe", "le anime"]}
+{"id": "Bonifazio", "type": "individual", "members": null}
+{"id": "Botoli", "type": "individual", "members": null}
+{"id": "Bruggia", "type": "individual", "members": null}
+{"id": "Brïareo", "type": "individual", "members": null}
+{"id": "Calïopè", "type": "individual", "members": null}
+{"id": "Cappelletti", "type": "class", "members": null}
+{"id": "Caronte", "type": "individual", "members": null}
+{"id": "Castore", "type": "individual", "members": null}
+{"id": "Castrocaro", "type": "non-person", "members": null}
+{"id": "Cecilio", "type": "individual", "members": null}
+{"id": "Cerere", "type": "individual", "members": null}
+{"id": "Chirón", "type": "individual", "members": null}
+{"id": "Cicilia", "type": "individual", "members": null}
+{"id": "Circe", "type": "individual", "members": null}
+{"id": "Clemente", "type": "individual", "members": null}
+{"id": "Clïò", "type": "non-person", "members": null}
+{"id": "Confusione e paura", "type": "non-person", "members": null}
+{"id": "Conio", "type": "individual", "members": null}
+{"id": "Costanza imperadrice", "type": "individual", "members": null}
+{"id": "Cupidino", "type": "individual", "members": null}
+{"id": "Curradino", "type": "individual", "members": null}
+{"id": "Currado Malaspina, Malaspina", "type": "set", "members": ["Currado Malaspina", "Malaspina"]}
+{"id": "Currado da Palazzo", "type": "individual", "members": null}
+{"id": "Dante, Beatrice, Stazio, le donne", "type": "set", "members": ["Dante", "Beatrice", "Stazio", "le donne"]}
+{"id": "Dante, Matelda", "type": "set", "members": ["Dante", "Matelda"]}
+{"id": "Dante, Nin", "type": "set", "members": ["Dante", "Nin"]}
+{"id": "Dante, Statio", "type": "set", "members": ["Dante", "Statio"]}
+{"id": "Dante, Stazio", "type": "set", "members": ["Dante", "Stazio"]}
+{"id": "Dante, Virgilio, quella gente", "type": "set", "members": ["Dante", "Virgilio", "quella gente"]}
+{"id": "Delia", "type": "individual", "members": null}
+{"id": "Deus", "type": "individual", "members": null}
+{"id": "Deïdamia", "type": "individual", "members": null}
+{"id": "Deïfile", "type": "individual", "members": null}
+{"id": "Doagio", "type": "individual", "members": null}
+{"id": "Domiziano", "type": "individual", "members": null}
+{"id": "Elia", "type": "individual", "members": null}
+{"id": "Elicona", "type": "non-person", "members": null}
+{"id": "Elïodoro", "type": "individual", "members": null}
+{"id": "Enea", "type": "individual", "members": null}
+{"id": "Enrico VI", "type": "individual", "members": null}
+{"id": "Esti", "type": "non-person", "members": null}
+{"id": "Estèr", "type": "individual", "members": null}
+{"id": "Eunoe", "type": "non-person", "members": null}
+{"id": "Euripide", "type": "individual", "members": null}
+{"id": "Federigo Novello", "type": "individual", "members": null}
+{"id": "Federigo Tignoso", "type": "individual", "members": null}
+{"id": "Fetòn", "type": "individual", "members": null}
+{"id": "Filippeschi", "type": "class", "members": null}
+{"id": "Forese, Tutta esta gente", "type": "set", "members": ["Forese", "Tutta esta gente"]}
+{"id": "Forese, anime penitenti", "type": "class", "members": null}
+{"id": "Franco Bolognese", "type": "individual", "members": null}
+{"id": "Gaia", "type": "individual", "members": null}
+{"id": "Gentucca", "type": "individual", "members": null}
+{"id": "Gerïon", "type": "individual", "members": null}
+{"id": "Gesù", "type": "individual", "members": null}
+{"id": "Ghin di Tacco", "type": "individual", "members": null}
+{"id": "Giocasta", "type": "individual", "members": null}
+{"id": "Giotto", "type": "individual", "members": null}
+{"id": "Giovenale", "type": "individual", "members": null}
+{"id": "Gregorio", "type": "individual", "members": null}
+{"id": "Guanto", "type": "individual", "members": null}
+{"id": "Guido Cavalcanti", "type": "individual", "members": null}
+{"id": "Guido da Montefeltro", "type": "individual", "members": null}
+{"id": "Guido da Prata", "type": "individual", "members": null}
+{"id": "Guido di Carpigna", "type": "individual", "members": null}
+{"id": "Guido, lo spirto", "type": "set", "members": ["Guido", "lo spirto"]}
+{"id": "Guittone", "type": "individual", "members": null}
+{"id": "Iacomo", "type": "individual", "members": null}
+{"id": "Iacopo", "type": "individual", "members": null}
+{"id": "Iarba", "type": "individual", "members": null}
+{"id": "Impersonal/General", "type": "non-person", "members": null}
+{"id": "Iosüè", "type": "individual", "members": null}
+{"id": "Iride", "type": "individual", "members": null}
+{"id": "Ismeno", "type": "individual", "members": null}
+{"id": "Ismeno, Asopo", "type": "set", "members": ["Ismeno", "Asopo"]}
+{"id": "Israeliti", "type": "class", "members": null}
+{"id": "Latona", "type": "individual", "members": null}
+{"id": "Leandro", "type": "individual", "members": null}
+{"id": "Lete", "type": "non-person", "members": null}
+{"id": "Ligurgo", "type": "individual", "members": null}
+{"id": "Lilla", "type": "individual", "members": null}
+{"id": "Lizio", "type": "individual", "members": null}
+{"id": "Luca", "type": "individual", "members": null}
+{"id": "Lucia, l sonno", "type": "set", "members": ["Lucia", "l sonno"]}
+{"id": "Làchesis", "type": "individual", "members": null}
+{"id": "Manto", "type": "individual", "members": null}
+{"id": "Marcel", "type": "individual", "members": null}
+{"id": "Mardoceo", "type": "individual", "members": null}
+{"id": "Margherita", "type": "individual", "members": null}
+{"id": "Matto", "type": "generic", "members": null}
+{"id": "Michele", "type": "individual", "members": null}
+{"id": "Mida", "type": "individual", "members": null}
+{"id": "Minerva", "type": "individual", "members": null}
+{"id": "Minosse", "type": "individual", "members": null}
+{"id": "Minòs", "type": "individual", "members": null}
+{"id": "Molti", "type": "generic", "members": null}
+{"id": "Monaldi", "type": "individual", "members": null}
+{"id": "Monaldi, Filippeschi", "type": "set", "members": ["Monaldi", "Filippeschi"]}
+{"id": "Montecchi", "type": "class", "members": null}
+{"id": "Montecchi, Cappelletti", "type": "set", "members": ["Montecchi", "Cappelletti"]}
+{"id": "Morrocco", "type": "individual", "members": null}
+{"id": "Moïsè", "type": "individual", "members": null}
+{"id": "Niccolò", "type": "individual", "members": null}
+{"id": "Nin, Currado", "type": "set", "members": ["Nin", "Currado"]}
+{"id": "Ninno, Currado Malaspina", "type": "set", "members": ["Ninno", "Currado Malaspina"]}
+{"id": "Oloferne", "type": "individual", "members": null}
+{"id": "Omero", "type": "individual", "members": null}
+{"id": "Orïaco", "type": "individual", "members": null}
+{"id": "Ottavian", "type": "individual", "members": null}
+{"id": "Padre, suocero", "type": "set", "members": ["Padre", "suocero"]}
+{"id": "Pallade", "type": "individual", "members": null}
+{"id": "Pasife", "type": "individual", "members": null}
+{"id": "Patris", "type": "individual", "members": null}
+{"id": "Persio", "type": "individual", "members": null}
+{"id": "Pier Pettinaio", "type": "individual", "members": null}
+{"id": "Pier Traversaro", "type": "individual", "members": null}
+{"id": "Pier da la Broccia", "type": "individual", "members": null}
+{"id": "Pietro, Giovanni, Giacomo", "type": "set", "members": ["Pietro", "Giovanni", "Giacomo"]}
+{"id": "Pietro, Giovanni, Iacopo", "type": "set", "members": ["Pietro", "Giovanni", "Iacopo"]}
+{"id": "Pigmalïon", "type": "individual", "members": null}
+{"id": "Pisistrato", "type": "individual", "members": null}
+{"id": "Plato", "type": "individual", "members": null}
+{"id": "Plauto", "type": "individual", "members": null}
+{"id": "Policleto", "type": "individual", "members": null}
+{"id": "Polidoro", "type": "individual", "members": null}
+{"id": "Poluce", "type": "individual", "members": null}
+{"id": "Regina", "type": "individual", "members": null}
+{"id": "San Pietro", "type": "individual", "members": null}
+{"id": "Sapia, le anime degli invidiosi", "type": "set", "members": ["Sapia", "le anime degli invidiosi"]}
+{"id": "Saturno", "type": "non-person", "members": null}
+{"id": "Serse", "type": "individual", "members": null}
+{"id": "Sfinge", "type": "individual", "members": null}
+{"id": "Simonide", "type": "individual", "members": null}
+{"id": "Siringa", "type": "individual", "members": null}
+{"id": "Temi", "type": "individual", "members": null}
+{"id": "Terenzio, Cecilio, Plauto, Varrone", "type": "set", "members": ["Terenzio", "Cecilio", "Plauto", "Varrone"]}
+{"id": "Terrenzio", "type": "individual", "members": null}
+{"id": "Terrenzio, Cecilio, Plauto, Varro", "type": "set", "members": ["Terrenzio", "Cecilio", "Plauto", "Varro"]}
+{"id": "Tesëo", "type": "individual", "members": null}
+{"id": "Tigri", "type": "non-person", "members": null}
+{"id": "Timbreo", "type": "individual", "members": null}
+{"id": "Tisbe", "type": "individual", "members": null}
+{"id": "Tito", "type": "individual", "members": null}
+{"id": "Tommaso", "type": "individual", "members": null}
+{"id": "Torso", "type": "individual", "members": null}
+{"id": "Tutti santi", "type": "class", "members": null}
+{"id": "Ubaldin da la Pila", "type": "individual", "members": null}
+{"id": "Ugo Capeto", "type": "individual", "members": null}
+{"id": "Ugolin d'Azzo", "type": "individual", "members": null}
+{"id": "Ugolin de' Fantolin", "type": "individual", "members": null}
+{"id": "Ulisse", "type": "individual", "members": null}
+{"id": "Uranìe", "type": "individual", "members": null}
+{"id": "Uso", "type": "non-person", "members": null}
+{"id": "Vapori accesi", "type": "non-person", "members": null}
+{"id": "Vapori accesi, nuvole d'agosto", "type": "non-person", "members": null}
+{"id": "Varro", "type": "individual", "members": null}
+{"id": "Virgilio, l'altre genti", "type": "class", "members": null}
+{"id": "Virum", "type": "class", "members": null}
+{"id": "a future poet / successor", "type": "generic", "members": null}
+{"id": "a' perdoni", "type": "class", "members": null}
+{"id": "a' vivi", "type": "class", "members": null}
+{"id": "acqua", "type": "non-person", "members": null}
+{"id": "aguglie", "type": "non-person", "members": null}
+{"id": "al dittator", "type": "individual", "members": null}
+{"id": "al figlio", "type": "individual", "members": null}
+{"id": "al logoro", "type": "individual", "members": null}
+{"id": "al sol", "type": "non-person", "members": null}
+{"id": "alcun", "type": "generic", "members": null}
+{"id": "alcun figliuolo", "type": "generic", "members": null}
+{"id": "alcuna scorta saggia", "type": "generic", "members": null}
+{"id": "alimento", "type": "non-person", "members": null}
+{"id": "altra creatura", "type": "generic", "members": null}
+{"id": "altra persona", "type": "generic", "members": null}
+{"id": "ammiraglio", "type": "generic", "members": null}
+{"id": "anima lucente e rossa", "type": "generic", "members": null}
+{"id": "anime degli avidi e dei prodighi", "type": "class", "members": null}
+{"id": "anime dell'Ante-Purgatorio", "type": "class", "members": null}
+{"id": "anime purganti", "type": "class", "members": null}
+{"id": "anyone", "type": "generic", "members": null}
+{"id": "apprensiva", "type": "non-person", "members": null}
+{"id": "avari e prodighi, Ugo Ciappetta", "type": "set", "members": ["avari e prodighi", "Ugo Ciappetta"]}
+{"id": "avidi, prodighi", "type": "class", "members": null}
+{"id": "brama", "type": "non-person", "members": null}
+{"id": "carro del Grifo", "type": "non-person", "members": null}
+{"id": "casa da Calboli", "type": "non-person", "members": null}
+{"id": "ch'annegò correndo in caccia", "type": "individual", "members": null}
+{"id": "chi dietro a li uccellin sua vita perde", "type": "hypothetical-simile", "members": null}
+{"id": "chi guarda pur con l'occhio che non vede", "type": "generic", "members": null}
+{"id": "chi più sa", "type": "generic", "members": null}
+{"id": "chi va suso", "type": "generic", "members": null}
+{"id": "chi vuole andar per pace", "type": "generic", "members": null}
+{"id": "coi buon", "type": "class", "members": null}
+{"id": "color che dietro a noi restaro", "type": "class", "members": null}
+{"id": "colui ch'a morte vada", "type": "generic", "members": null}
+{"id": "colui che ne la fossa è messo", "type": "generic", "members": null}
+{"id": "colui che nove cose assaggia", "type": "individual", "members": null}
+{"id": "consorte", "type": "generic", "members": null}
+{"id": "cosa", "type": "non-person", "members": null}
+{"id": "costoro", "type": "class", "members": null}
+{"id": "creator", "type": "individual", "members": null}
+{"id": "da Pisa", "type": "individual", "members": null}
+{"id": "di smeraldo", "type": "individual", "members": null}
+{"id": "discepoli", "type": "class", "members": null}
+{"id": "dolci amici", "type": "class", "members": null}
+{"id": "dottori", "type": "class", "members": null}
+{"id": "duci", "type": "class", "members": null}
+{"id": "due vecchi", "type": "generic", "members": null}
+{"id": "fanciulla", "type": "generic", "members": null}
+{"id": "fiammelle", "type": "class", "members": null}
+{"id": "figliuoli di Nïobè", "type": "class", "members": null}
+{"id": "fiume", "type": "non-person", "members": null}
+{"id": "foco", "type": "non-person", "members": null}
+{"id": "generante", "type": "individual", "members": null}
+{"id": "giustizia e pietà", "type": "non-person", "members": null}
+{"id": "giusto", "type": "generic", "members": null}
+{"id": "giusto Sire", "type": "individual", "members": null}
+{"id": "gli abitanti del limbo", "type": "class", "members": null}
+{"id": "gli iracondi", "type": "class", "members": null}
+{"id": "grazie divine", "type": "non-person", "members": null}
+{"id": "i Filippi", "type": "class", "members": null}
+{"id": "i Giganti", "type": "class", "members": null}
+{"id": "i Luigi", "type": "class", "members": null}
+{"id": "i P", "type": "class", "members": null}
+{"id": "i Teban", "type": "class", "members": null}
+{"id": "i corsar", "type": "class", "members": null}
+{"id": "i diletti", "type": "class", "members": null}
+{"id": "i drappi", "type": "non-person", "members": null}
+{"id": "i dèi", "type": "class", "members": null}
+{"id": "i maladetti", "type": "class", "members": null}
+{"id": "i morti", "type": "class", "members": null}
+{"id": "i penitenti", "type": "class", "members": null}
+{"id": "i piè di Dante", "type": "non-person", "members": null}
+{"id": "i segnori", "type": "class", "members": null}
+{"id": "i tuoi gentili", "type": "class", "members": null}
+{"id": "i veri morti", "type": "class", "members": null}
+{"id": "il ben", "type": "non-person", "members": null}
+{"id": "il capo reo", "type": "generic", "members": null}
+{"id": "il comando dell'angelo", "type": "non-person", "members": null}
+{"id": "il gallo di Gallura", "type": "individual", "members": null}
+{"id": "il guardiano", "type": "individual", "members": null}
+{"id": "il mio sangue", "type": "non-person", "members": null}
+{"id": "il novo Pilato", "type": "individual", "members": null}
+{"id": "il ver", "type": "non-person", "members": null}
+{"id": "il vincitore", "type": "individual", "members": null}
+{"id": "impersonale", "type": "non-person", "members": null}
+{"id": "invidia", "type": "non-person", "members": null}
+{"id": "l ciel", "type": "non-person", "members": null}
+{"id": "l fattore", "type": "individual", "members": null}
+{"id": "l grifon", "type": "non-person", "members": null}
+{"id": "l nostro avversaro", "type": "individual", "members": null}
+{"id": "l savio", "type": "individual", "members": null}
+{"id": "l sonno", "type": "non-person", "members": null}
+{"id": "l'Imperatore, il Papa", "type": "set", "members": ["l'Imperatore", "il Papa"]}
+{"id": "l'accidïa", "type": "non-person", "members": null}
+{"id": "l'alto Sol", "type": "non-person", "members": null}
+{"id": "l'alto amor", "type": "non-person", "members": null}
+{"id": "l'alto lume", "type": "non-person", "members": null}
+{"id": "l'altre", "type": "class", "members": null}
+{"id": "l'altre schiave", "type": "class", "members": null}
+{"id": "l'amor de la spera supprema", "type": "non-person", "members": null}
+{"id": "l'ancella sesta", "type": "individual", "members": null}
+{"id": "l'antica matre", "type": "non-person", "members": null}
+{"id": "l'arte ch'alluminar chiamata è in Parisi", "type": "non-person", "members": null}
+{"id": "l'ascesa", "type": "non-person", "members": null}
+{"id": "l'erbette, i fiori e li arbuscelli", "type": "non-person", "members": null}
+{"id": "l'etterno", "type": "individual", "members": null}
+{"id": "l'infernali", "type": "class", "members": null}
+{"id": "l'ombra di Dante", "type": "individual", "members": null}
+{"id": "l'onda", "type": "non-person", "members": null}
+{"id": "l'uom ch'ammicca", "type": "generic", "members": null}
+{"id": "l'uom de la villa", "type": "generic", "members": null}
+{"id": "l'uom felice", "type": "generic", "members": null}
+{"id": "la Chiesa", "type": "non-person", "members": null}
+{"id": "la Luna", "type": "non-person", "members": null}
+{"id": "la Santa Chiesa", "type": "non-person", "members": null}
+{"id": "la Terra devota", "type": "non-person", "members": null}
+{"id": "la bella Aurora", "type": "non-person", "members": null}
+{"id": "la bianca, di smeraldo", "type": "set", "members": ["la bianca", "di smeraldo"]}
+{"id": "la campagna santa", "type": "non-person", "members": null}
+{"id": "la casa Traversara", "type": "class", "members": null}
+{"id": "la compagnia", "type": "class", "members": null}
+{"id": "la comune madre", "type": "non-person", "members": null}
+{"id": "la contrada", "type": "non-person", "members": null}
+{"id": "la corona vedova", "type": "individual", "members": null}
+{"id": "la cosa amata", "type": "non-person", "members": null}
+{"id": "la divina giustizia", "type": "non-person", "members": null}
+{"id": "la donna di Brabante", "type": "individual", "members": null}
+{"id": "la donna troiana", "type": "individual", "members": null}
+{"id": "la fama", "type": "non-person", "members": null}
+{"id": "la gran sentenza", "type": "non-person", "members": null}
+{"id": "la mamma", "type": "generic", "members": null}
+{"id": "la morta poesì", "type": "non-person", "members": null}
+{"id": "la nova gente", "type": "class", "members": null}
+{"id": "la pianta", "type": "non-person", "members": null}
+{"id": "la prima gente", "type": "class", "members": null}
+{"id": "la quinta", "type": "individual", "members": null}
+{"id": "la rabbia fiorentina", "type": "non-person", "members": null}
+{"id": "la santa greggia", "type": "class", "members": null}
+{"id": "la sete natural", "type": "non-person", "members": null}
+{"id": "la terza", "type": "non-person", "members": null}
+{"id": "la tua grazia", "type": "non-person", "members": null}
+{"id": "la vedovella", "type": "individual", "members": null}
+{"id": "la verace corte", "type": "non-person", "members": null}
+{"id": "la vipera", "type": "non-person", "members": null}
+{"id": "la virtù che consiglia", "type": "non-person", "members": null}
+{"id": "le Bilance", "type": "non-person", "members": null}
+{"id": "le Naiade", "type": "class", "members": null}
+{"id": "le Piche misere", "type": "class", "members": null}
+{"id": "le anime beate, Dante", "type": "set", "members": ["le anime beate", "Dante"]}
+{"id": "le anime degli avari e dei prodighi", "type": "class", "members": null}
+{"id": "le donne e ' cavalier", "type": "class", "members": null}
+{"id": "le femmine sue", "type": "class", "members": null}
+{"id": "le figlie d'Adamo", "type": "class", "members": null}
+{"id": "le pecorelle", "type": "non-person", "members": null}
+{"id": "le perdute genti", "type": "class", "members": null}
+{"id": "le pulcelle", "type": "class", "members": null}
+{"id": "le quattro ancelle", "type": "class", "members": null}
+{"id": "le quattro anime beate", "type": "individual", "members": null}
+{"id": "le quattro belle", "type": "individual", "members": null}
+{"id": "le sette donne", "type": "class", "members": null}
+{"id": "le suore di Deïdamia", "type": "class", "members": null}
+{"id": "le tre", "type": "individual", "members": null}
+{"id": "lento amore", "type": "non-person", "members": null}
+{"id": "li 'nnocenti", "type": "class", "members": null}
+{"id": "li Anastagi", "type": "class", "members": null}
+{"id": "li Antenori", "type": "class", "members": null}
+{"id": "li Greci", "type": "class", "members": null}
+{"id": "li altri miei miglior", "type": "class", "members": null}
+{"id": "li ammiragli", "type": "class", "members": null}
+{"id": "li angeli tuoi", "type": "class", "members": null}
+{"id": "li cittadin miei", "type": "class", "members": null}
+{"id": "li compagni", "type": "class", "members": null}
+{"id": "li figli di Levì", "type": "class", "members": null}
+{"id": "li morti", "type": "class", "members": null}
+{"id": "li rami", "type": "non-person", "members": null}
+{"id": "li regi antichi", "type": "class", "members": null}
+{"id": "li splendori antelucani", "type": "non-person", "members": null}
+{"id": "li uomini de' suoi", "type": "class", "members": null}
+{"id": "lieto fattore", "type": "generic", "members": null}
+{"id": "lo Spirito Santo", "type": "individual", "members": null}
+{"id": "lo buon Marzucco", "type": "individual", "members": null}
+{"id": "lo fiordaliso", "type": "non-person", "members": null}
+{"id": "lo rege etterno", "type": "individual", "members": null}
+{"id": "lo suo sangue", "type": "non-person", "members": null}
+{"id": "lo tuo padre", "type": "individual", "members": null}
+{"id": "lo tuo piacere", "type": "non-person", "members": null}
+{"id": "lume del ciel", "type": "non-person", "members": null}
+{"id": "maestro", "type": "individual", "members": null}
+{"id": "mal amor", "type": "non-person", "members": null}
+{"id": "mariti", "type": "class", "members": null}
+{"id": "marito della Pia", "type": "individual", "members": null}
+{"id": "men di resistenza", "type": "class", "members": null}
+{"id": "messagger", "type": "individual", "members": null}
+{"id": "migliaia di lunari", "type": "class", "members": null}
+{"id": "mio figliuol", "type": "individual", "members": null}
+{"id": "mio vocale spirto", "type": "individual", "members": null}
+{"id": "molt' ombre", "type": "class", "members": null}
+{"id": "molti antichi di Guittone", "type": "class", "members": null}
+{"id": "molto radi", "type": "generic", "members": null}
+{"id": "monastero", "type": "non-person", "members": null}
+{"id": "montagna", "type": "non-person", "members": null}
+{"id": "ne' dèi", "type": "class", "members": null}
+{"id": "nocchiere", "type": "generic", "members": null}
+{"id": "nostra figlia", "type": "individual", "members": null}
+{"id": "novelle spose", "type": "class", "members": null}
+{"id": "ogn' uomo", "type": "generic", "members": null}
+{"id": "ogne fante", "type": "generic", "members": null}
+{"id": "ogne villan", "type": "generic", "members": null}
+{"id": "omor", "type": "generic", "members": null}
+{"id": "orbo", "type": "non-person", "members": null}
+{"id": "osservatore", "type": "generic", "members": null}
+{"id": "pacifici", "type": "class", "members": null}
+{"id": "pargoli innocenti", "type": "class", "members": null}
+{"id": "perfetto loco", "type": "non-person", "members": null}
+{"id": "pianger", "type": "non-person", "members": null}
+{"id": "pietà", "type": "non-person", "members": null}
+{"id": "pintor", "type": "generic", "members": null}
+{"id": "più persone", "type": "class", "members": null}
+{"id": "più posseditor", "type": "generic", "members": null}
+{"id": "più veraci", "type": "class", "members": null}
+{"id": "primaio stuolo", "type": "class", "members": null}
+{"id": "prossimo", "type": "generic", "members": null}
+{"id": "quei c'hanno al voler buona radice", "type": "class", "members": null}
+{"id": "quei ch'un muro e una fossa serra", "type": "class", "members": null}
+{"id": "quei che ci ama", "type": "individual", "members": null}
+{"id": "quei di paradiso", "type": "class", "members": null}
+{"id": "quel Segnor", "type": "individual", "members": null}
+{"id": "quel gigante", "type": "individual", "members": null}
+{"id": "quell' anime", "type": "class", "members": null}
+{"id": "quell'essercito gentile", "type": "class", "members": null}
+{"id": "quella che mostrò Langia", "type": "individual", "members": null}
+{"id": "quella masnada fresca", "type": "class", "members": null}
+{"id": "quelle genti degne", "type": "class", "members": null}
+{"id": "quelle prime creature", "type": "class", "members": null}
+{"id": "questa vera carne", "type": "non-person", "members": null}
+{"id": "ragion", "type": "non-person", "members": null}
+{"id": "rei", "type": "class", "members": null}
+{"id": "reverenti", "type": "class", "members": null}
+{"id": "sante Muse", "type": "class", "members": null}
+{"id": "sommo rege", "type": "individual", "members": null}
+{"id": "specifica vertute", "type": "non-person", "members": null}
+{"id": "spiriti", "type": "class", "members": null}
+{"id": "storpio", "type": "generic", "members": null}
+{"id": "subietto", "type": "generic", "members": null}
+{"id": "suo maggior", "type": "individual", "members": null}
+{"id": "suocero", "type": "individual", "members": null}
+{"id": "testimonio", "type": "generic", "members": null}
+{"id": "the rumors/reports of Manfred's damnation", "type": "non-person", "members": null}
+{"id": "the souls who succumbed to the three-fold love", "type": "class", "members": null}
+{"id": "tiranni", "type": "class", "members": null}
+{"id": "tre persone", "type": "class", "members": null}
+{"id": "tuo parlar", "type": "non-person", "members": null}
+{"id": "tuoi vicini", "type": "class", "members": null}
+{"id": "turba spessa", "type": "class", "members": null}
+{"id": "tutta la gente ria", "type": "class", "members": null}
+{"id": "tutte e sette", "type": "class", "members": null}
+{"id": "tutti miei consorti", "type": "class", "members": null}
+{"id": "umani corpi", "type": "non-person", "members": null}
+{"id": "umanità", "type": "non-person", "members": null}
+{"id": "un beccaio", "type": "generic", "members": null}
+{"id": "un buon gittator", "type": "hypothetical-simile", "members": null}
+{"id": "un corpo umano", "type": "generic", "members": null}
+{"id": "un fante", "type": "generic", "members": null}
+{"id": "un portier", "type": "generic", "members": null}
+{"id": "un vecchio solo", "type": "generic", "members": null}
+{"id": "un vento", "type": "non-person", "members": null}
+{"id": "un'altra", "type": "generic", "members": null}
+{"id": "una femmina balba", "type": "generic", "members": null}
+{"id": "una nuvola di fiori", "type": "non-person", "members": null}
+{"id": "una puttana sciolta, un gigante", "type": "set", "members": ["una puttana sciolta", "un gigante"]}
+{"id": "uno impersonale", "type": "generic", "members": null}
+{"id": "vergine", "type": "class", "members": null}
+{"id": "vermi", "type": "non-person", "members": null}
+{"id": "vero spirto", "type": "individual", "members": null}
+{"id": "vestimento", "type": "non-person", "members": null}
+{"id": "viaggiatore", "type": "generic", "members": null}
+{"id": "vicario suo Cristo", "type": "individual", "members": null}
+{"id": "virtute", "type": "non-person", "members": null}
+{"id": "virtù del ciel", "type": "non-person", "members": null}
+{"id": "vivi ladroni", "type": "class", "members": null}
+{"id": "Ëolo", "type": "individual", "members": null}
+{"id": "Ëufratès", "type": "non-person", "members": null}
+{"id": "Ëufratès, Tigri", "type": "set", "members": ["Ëufratès", "Tigri"]}

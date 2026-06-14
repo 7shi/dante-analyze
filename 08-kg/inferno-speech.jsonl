@@ -1,0 +1,500 @@
+{"canto": 1, "quote_id": "1:65", "lines": [65, 65], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 1, "quote_id": "1:66", "lines": [66, 66], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 1, "quote_id": "1:67", "lines": [67, 78], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 1, "quote_id": "1:79", "lines": [79, 80], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 1, "quote_id": "1:82", "lines": [82, 90], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 1, "quote_id": "1:91", "lines": [91, 91], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 1, "quote_id": "1:93", "lines": [93, 129], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 1, "quote_id": "1:130", "lines": [130, 135], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 2, "quote_id": "2:10", "lines": [10, 36], "speaker": "Dante", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 2, "quote_id": "2:43", "lines": [43, 43], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 2, "quote_id": "2:45", "lines": [45, 126], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Dante;Virgilio)", "cross-scene"]}
+{"canto": 2, "quote_id": "2:58", "lines": [58, 74], "speaker": "Beatrice", "signal": "strong", "flags": []}
+{"canto": 2, "quote_id": "2:76", "lines": [76, 84], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 2, "quote_id": "2:85", "lines": [85, 86], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 2, "quote_id": "2:87", "lines": [87, 114], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Beatrice;Virgilio)", "cross-scene"]}
+{"canto": 2, "quote_id": "2:133", "lines": [133, 140], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:1", "lines": [1, 9], "speaker": "la porta dell'Inferno", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:12", "lines": [12, 12], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 3, "quote_id": "3:14", "lines": [14, 18], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:32", "lines": [32, 33], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:34", "lines": [34, 42], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 3, "quote_id": "3:43", "lines": [43, 44], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 3, "quote_id": "3:45", "lines": [45, 51], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:72", "lines": [72, 75], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:76", "lines": [76, 78], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 3, "quote_id": "3:84", "lines": [84, 89], "speaker": "Caronte", "signal": "strong", "flags": []}
+{"canto": 3, "quote_id": "3:91", "lines": [91, 93], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 3, "quote_id": "3:94", "lines": [94, 96], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 3, "quote_id": "3:121", "lines": [121, 121], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 3, "quote_id": "3:122", "lines": [122, 129], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 4, "quote_id": "4:13", "lines": [13, 13], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 4, "quote_id": "4:15", "lines": [15, 15], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 4, "quote_id": "4:17", "lines": [17, 18], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 4, "quote_id": "4:19", "lines": [19, 22], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 4, "quote_id": "4:31", "lines": [31, 42], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 4, "quote_id": "4:46", "lines": [46, 46], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 4, "quote_id": "4:49", "lines": [49, 50], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 4, "quote_id": "4:52", "lines": [52, 63], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 4, "quote_id": "4:73", "lines": [73, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 4, "quote_id": "4:76", "lines": [76, 78], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 4, "quote_id": "4:80", "lines": [80, 81], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 4, "quote_id": "4:86", "lines": [86, 93], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 5, "quote_id": "5:16", "lines": [16, 16], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:19", "lines": [19, 20], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:21", "lines": [21, 24], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:50", "lines": [50, 51], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:52", "lines": [52, 53], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:54", "lines": [54, 67], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:73", "lines": [73, 75], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 5, "quote_id": "5:76", "lines": [76, 78], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 5, "quote_id": "5:80", "lines": [80, 81], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 5, "quote_id": "5:88", "lines": [88, 107], "speaker": "Francesca", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 5, "quote_id": "5:111", "lines": [111, 111], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:112", "lines": [112, 114], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 5, "quote_id": "5:116", "lines": [116, 120], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 5, "quote_id": "5:121", "lines": [121, 138], "speaker": "Francesca", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 6, "quote_id": "6:40", "lines": [40, 40], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 6, "quote_id": "6:41", "lines": [41, 42], "speaker": "Ciacco", "signal": "strong", "flags": []}
+{"canto": 6, "quote_id": "6:43", "lines": [43, 48], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 6, "quote_id": "6:49", "lines": [49, 57], "speaker": "Ciacco", "signal": "strong", "flags": []}
+{"canto": 6, "quote_id": "6:58", "lines": [58, 63], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 6, "quote_id": "6:64", "lines": [64, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 6, "quote_id": "6:77", "lines": [77, 84], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 6, "quote_id": "6:85", "lines": [85, 90], "speaker": "Ciacco", "signal": "strong", "flags": []}
+{"canto": 6, "quote_id": "6:94", "lines": [94, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 6, "quote_id": "6:103", "lines": [103, 105], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 6, "quote_id": "6:106", "lines": [106, 111], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:1", "lines": [1, 1], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:4", "lines": [4, 6], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 7, "quote_id": "7:8", "lines": [8, 12], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:30A", "lines": [30, 30], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:30B", "lines": [30, 30], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:37", "lines": [37, 39], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 7, "quote_id": "7:40", "lines": [40, 48], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:49", "lines": [49, 51], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 7, "quote_id": "7:52", "lines": [52, 66], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 7, "quote_id": "7:67A", "lines": [67, 67], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 7, "quote_id": "7:67B", "lines": [67, 69], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 7, "quote_id": "7:70", "lines": [70, 99], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 7, "quote_id": "7:115", "lines": [115, 126], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 7, "quote_id": "7:121", "lines": [121, 124], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 8, "quote_id": "8:8", "lines": [8, 9], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:10", "lines": [10, 12], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:18", "lines": [18, 18], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:19", "lines": [19, 19], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:20", "lines": [20, 21], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 8, "quote_id": "8:33", "lines": [33, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:34", "lines": [34, 35], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 8, "quote_id": "8:36", "lines": [36, 36], "speaker": "Filippo Argenti", "signal": "strong", "flags": []}
+{"canto": 8, "quote_id": "8:37", "lines": [37, 39], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 8, "quote_id": "8:42", "lines": [42, 42], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:44", "lines": [44, 51], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:52", "lines": [52, 54], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 8, "quote_id": "8:55", "lines": [55, 57], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:61", "lines": [61, 61], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:67", "lines": [67, 69], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:70", "lines": [70, 73], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 8, "quote_id": "8:73", "lines": [73, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:81A", "lines": [81, 81], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:81B", "lines": [81, 81], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:84", "lines": [84, 85], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:89", "lines": [89, 93], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 8, "quote_id": "8:97", "lines": [97, 100], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 8, "quote_id": "8:100", "lines": [100, 102], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 8, "quote_id": "8:104", "lines": [104, 108], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 8, "quote_id": "8:120", "lines": [120, 120], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 8, "quote_id": "8:121", "lines": [121, 130], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 9, "quote_id": "9:7", "lines": [7, 7], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 9, "quote_id": "9:8", "lines": [8, 9], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 9, "quote_id": "9:16", "lines": [16, 18], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:19", "lines": [19, 20], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:20", "lines": [20, 33], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 9, "quote_id": "9:45A", "lines": [45, 45], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:45B", "lines": [45, 48], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:52", "lines": [52, 52], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 9, "quote_id": "9:54", "lines": [54, 54], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 9, "quote_id": "9:55", "lines": [55, 57], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:73", "lines": [73, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:91", "lines": [91, 91], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:93", "lines": [93, 99], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 9, "quote_id": "9:124", "lines": [124, 126], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 9, "quote_id": "9:127", "lines": [127, 131], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:4", "lines": [4, 5], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 10, "quote_id": "10:5", "lines": [5, 9], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:10", "lines": [10, 18], "speaker": "Eretico", "signal": "weak", "flags": []}
+{"canto": 10, "quote_id": "10:19", "lines": [19, 21], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:22", "lines": [22, 27], "speaker": "l'anima epicurea", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:31", "lines": [31, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:39", "lines": [39, 39], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:42", "lines": [42, 42], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:46", "lines": [46, 48], "speaker": "Farinata", "signal": "weak", "flags": []}
+{"canto": 10, "quote_id": "10:49", "lines": [49, 49], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:50", "lines": [50, 51], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:58", "lines": [58, 60], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:61", "lines": [61, 63], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:67", "lines": [67, 69], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:68", "lines": [68, 68], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:77A", "lines": [77, 77], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:77B", "lines": [77, 84], "speaker": "Farinata", "signal": "weak", "flags": []}
+{"canto": 10, "quote_id": "10:85", "lines": [85, 87], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:89A", "lines": [89, 89], "speaker": "Farinata", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:89B", "lines": [89, 93], "speaker": "Farinata", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:94", "lines": [94, 94], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:95", "lines": [95, 99], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:100", "lines": [100, 101], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 10, "quote_id": "10:101", "lines": [101, 108], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 10, "quote_id": "10:110", "lines": [110, 114], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:118", "lines": [118, 120], "speaker": "Farinata", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:125", "lines": [125, 125], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:127", "lines": [127, 128], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:129", "lines": [129, 129], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 10, "quote_id": "10:130", "lines": [130, 132], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:8", "lines": [8, 9], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:10", "lines": [10, 12], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:13", "lines": [13, 13], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:14", "lines": [14, 15], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:15", "lines": [15, 15], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 11, "quote_id": "11:16", "lines": [16, 16], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:17", "lines": [17, 66], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 11, "quote_id": "11:67", "lines": [67, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:76", "lines": [76, 76], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:77", "lines": [77, 90], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:91", "lines": [91, 94], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 11, "quote_id": "11:95", "lines": [95, 96], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:97A", "lines": [97, 97], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 11, "quote_id": "11:97B", "lines": [97, 115], "speaker": "Virgilio", "signal": "weak", "flags": ["cross-scene"]}
+{"canto": 12, "quote_id": "12:16", "lines": [16, 21], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:26", "lines": [26, 27], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:31", "lines": [31, 48], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 12, "quote_id": "12:61", "lines": [61, 63], "speaker": "un centauro", "signal": "strong", "flags": []}
+{"canto": 12, "quote_id": "12:64", "lines": [64, 66], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 12, "quote_id": "12:67", "lines": [67, 75], "speaker": "(unattributed)", "signal": "none", "flags": ["cross-scene"]}
+{"canto": 12, "quote_id": "12:80", "lines": [80, 82], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:85", "lines": [85, 96], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 12, "quote_id": "12:98", "lines": [98, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:104", "lines": [104, 112], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:114", "lines": [114, 114], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 12, "quote_id": "12:119", "lines": [119, 120], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:127", "lines": [127, 128], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 12, "quote_id": "12:129", "lines": [129, 138], "speaker": "Nesso", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 13, "quote_id": "13:16", "lines": [16, 17], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:18", "lines": [18, 21], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:28", "lines": [28, 30], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:33", "lines": [33, 33], "speaker": "un gran pruno", "signal": "weak", "flags": []}
+{"canto": 13, "quote_id": "13:35", "lines": [35, 39], "speaker": "un gran pruno", "signal": "weak", "flags": []}
+{"canto": 13, "quote_id": "13:46", "lines": [46, 46], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:47", "lines": [47, 54], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 13, "quote_id": "13:55", "lines": [55, 78], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Pier della Vigna;l tronco)", "cross-scene"]}
+{"canto": 13, "quote_id": "13:79", "lines": [79, 79], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:80", "lines": [80, 81], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:82", "lines": [82, 84], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 13, "quote_id": "13:85", "lines": [85, 90], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:93", "lines": [93, 108], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 13, "quote_id": "13:118", "lines": [118, 118], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:120", "lines": [120, 121], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:133A", "lines": [133, 133], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:133B", "lines": [133, 135], "speaker": "Lano", "signal": "strong", "flags": []}
+{"canto": 13, "quote_id": "13:137", "lines": [137, 138], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 13, "quote_id": "13:139", "lines": [139, 151], "speaker": "Pier della Vigna", "signal": "strong", "flags": []}
+{"canto": 14, "quote_id": "14:43", "lines": [43, 48], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:51", "lines": [51, 60], "speaker": "Capaneo", "signal": "strong", "flags": []}
+{"canto": 14, "quote_id": "14:57", "lines": [57, 57], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:63", "lines": [63, 66], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:68", "lines": [68, 75], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 14, "quote_id": "14:85", "lines": [85, 90], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 14, "quote_id": "14:94", "lines": [94, 94], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:95", "lines": [95, 120], "speaker": "(unattributed)", "signal": "none", "flags": ["cross-scene"]}
+{"canto": 14, "quote_id": "14:121", "lines": [121, 123], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 14, "quote_id": "14:124", "lines": [124, 129], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:130", "lines": [130, 132], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:133", "lines": [133, 133], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 14, "quote_id": "14:134", "lines": [134, 138], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 14, "quote_id": "14:139", "lines": [139, 142], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 15, "quote_id": "15:24", "lines": [24, 24], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:30", "lines": [30, 30], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:31", "lines": [31, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:34", "lines": [34, 36], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 15, "quote_id": "15:37A", "lines": [37, 37], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:37B", "lines": [37, 42], "speaker": "Brunetto Latino", "signal": "strong", "flags": []}
+{"canto": 15, "quote_id": "15:46", "lines": [46, 48], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:49", "lines": [49, 49], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:50", "lines": [50, 54], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 15, "quote_id": "15:55", "lines": [55, 78], "speaker": "Brunetto Latino", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 15, "quote_id": "15:79", "lines": [79, 79], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:80", "lines": [80, 96], "speaker": "Dante", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 15, "quote_id": "15:99", "lines": [99, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 15, "quote_id": "15:103", "lines": [103, 120], "speaker": "Dante", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 16, "quote_id": "16:8", "lines": [8, 9], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:14", "lines": [14, 14], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:15", "lines": [15, 18], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 16, "quote_id": "16:28", "lines": [28, 29], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 16, "quote_id": "16:30", "lines": [30, 45], "speaker": "Iacopo Rusticucci", "signal": "strong", "flags": []}
+{"canto": 16, "quote_id": "16:52", "lines": [52, 63], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 16, "quote_id": "16:64", "lines": [64, 65], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:66", "lines": [66, 72], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 16, "quote_id": "16:73", "lines": [73, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:79", "lines": [79, 79], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:80", "lines": [80, 85], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 16, "quote_id": "16:84", "lines": [84, 84], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 16, "quote_id": "16:115", "lines": [115, 115], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:116", "lines": [116, 117], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 16, "quote_id": "16:121", "lines": [121, 123], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 17, "quote_id": "17:1", "lines": [1, 3], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 17, "quote_id": "17:28", "lines": [28, 30], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 17, "quote_id": "17:37", "lines": [37, 38], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 17, "quote_id": "17:39", "lines": [39, 42], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 17, "quote_id": "17:66", "lines": [66, 73], "speaker": "il padoano", "signal": "strong", "flags": []}
+{"canto": 17, "quote_id": "17:72", "lines": [72, 73], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 17, "quote_id": "17:81", "lines": [81, 84], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 17, "quote_id": "17:93", "lines": [93, 93], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 17, "quote_id": "17:97", "lines": [97, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 17, "quote_id": "17:111", "lines": [111, 111], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 17, "quote_id": "17:129", "lines": [129, 129], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:42", "lines": [42, 42], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 18, "quote_id": "18:48", "lines": [48, 51], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:52", "lines": [52, 63], "speaker": "Caccianemico", "signal": "strong", "flags": []}
+{"canto": 18, "quote_id": "18:61", "lines": [61, 61], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:65", "lines": [65, 66], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:75", "lines": [75, 78], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 18, "quote_id": "18:83", "lines": [83, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:118", "lines": [118, 119], "speaker": "Alessio Interminei", "signal": "weak", "flags": []}
+{"canto": 18, "quote_id": "18:120", "lines": [120, 123], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 18, "quote_id": "18:125", "lines": [125, 126], "speaker": "Alessio Interminei", "signal": "strong", "flags": []}
+{"canto": 18, "quote_id": "18:127", "lines": [127, 127], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:128", "lines": [128, 136], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 18, "quote_id": "18:134", "lines": [134, 135], "speaker": "drudo suo", "signal": "strong", "flags": []}
+{"canto": 18, "quote_id": "18:135", "lines": [135, 135], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 19, "quote_id": "19:31", "lines": [31, 32], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 19, "quote_id": "19:33", "lines": [33, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 19, "quote_id": "19:34", "lines": [34, 36], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 19, "quote_id": "19:37", "lines": [37, 39], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 19, "quote_id": "19:46", "lines": [46, 47], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 19, "quote_id": "19:48", "lines": [48, 48], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 19, "quote_id": "19:52", "lines": [52, 57], "speaker": "Nicola III", "signal": "weak", "flags": []}
+{"canto": 19, "quote_id": "19:61", "lines": [61, 62], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 19, "quote_id": "19:62", "lines": [62, 62], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 19, "quote_id": "19:66", "lines": [66, 87], "speaker": "Niccolò III", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 19, "quote_id": "19:90", "lines": [90, 117], "speaker": "Dante", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 19, "quote_id": "19:93", "lines": [93, 93], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 20, "quote_id": "20:27", "lines": [27, 99], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 20, "quote_id": "20:33", "lines": [33, 34], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 20, "quote_id": "20:100", "lines": [100, 105], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 20, "quote_id": "20:106", "lines": [106, 129], "speaker": "(unattributed)", "signal": "none", "flags": ["cross-scene"]}
+{"canto": 21, "quote_id": "21:23", "lines": [23, 23], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:37", "lines": [37, 42], "speaker": "demonio", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:48", "lines": [48, 51], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:53", "lines": [53, 54], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:58", "lines": [58, 59], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:59", "lines": [59, 63], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:72", "lines": [72, 75], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 21, "quote_id": "21:76", "lines": [76, 76], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:78", "lines": [78, 78], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:79", "lines": [79, 80], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:81", "lines": [81, 84], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:87", "lines": [87, 87], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:88", "lines": [88, 90], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 21, "quote_id": "21:100", "lines": [100, 100], "speaker": "Malebranche", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:101", "lines": [101, 101], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:102", "lines": [102, 102], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:105", "lines": [105, 105], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:106", "lines": [106, 117], "speaker": "Malacoda", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:118", "lines": [118, 118], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:119", "lines": [119, 126], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 21, "quote_id": "21:127", "lines": [127, 127], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:128", "lines": [128, 132], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 21, "quote_id": "21:133", "lines": [133, 135], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:40", "lines": [40, 41], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:43", "lines": [43, 45], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:48", "lines": [48, 54], "speaker": "il Navarrese", "signal": "strong", "flags": []}
+{"canto": 22, "quote_id": "22:60", "lines": [60, 60], "speaker": "Barbariccia", "signal": "strong", "flags": []}
+{"canto": 22, "quote_id": "22:62A", "lines": [62, 62], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:62B", "lines": [62, 63], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:64", "lines": [64, 66], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:66", "lines": [66, 69], "speaker": "il Navarrese", "signal": "strong", "flags": []}
+{"canto": 22, "quote_id": "22:70", "lines": [70, 70], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 22, "quote_id": "22:79", "lines": [79, 80], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:81", "lines": [81, 93], "speaker": "il Navarrese", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 22, "quote_id": "22:96", "lines": [96, 96], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:97", "lines": [97, 97], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:99", "lines": [99, 105], "speaker": "lo spaürato", "signal": "strong", "flags": []}
+{"canto": 22, "quote_id": "22:107", "lines": [107, 108], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 22, "quote_id": "22:110", "lines": [110, 111], "speaker": "il Navarrese", "signal": "strong", "flags": []}
+{"canto": 22, "quote_id": "22:113", "lines": [113, 117], "speaker": "Alichin", "signal": "strong", "flags": []}
+{"canto": 22, "quote_id": "22:126", "lines": [126, 126], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:7A", "lines": [7, 7], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:7B", "lines": [7, 7], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:13", "lines": [13, 18], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 23, "quote_id": "23:21", "lines": [21, 24], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 23, "quote_id": "23:25", "lines": [25, 33], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 23, "quote_id": "23:73", "lines": [73, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:77", "lines": [77, 79], "speaker": "un che 'ntese la parola tosca", "signal": "weak", "flags": []}
+{"canto": 23, "quote_id": "23:80", "lines": [80, 81], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:88", "lines": [88, 90], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:91", "lines": [91, 93], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:94", "lines": [94, 99], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 23, "quote_id": "23:100", "lines": [100, 108], "speaker": "Catalano", "signal": "strong", "flags": []}
+{"canto": 23, "quote_id": "23:109", "lines": [109, 109], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:115", "lines": [115, 123], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:128", "lines": [128, 132], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 23, "quote_id": "23:133", "lines": [133, 138], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:140", "lines": [140, 141], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 23, "quote_id": "23:142", "lines": [142, 144], "speaker": "Catalano", "signal": "strong", "flags": []}
+{"canto": 24, "quote_id": "24:29", "lines": [29, 30], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 24, "quote_id": "24:46", "lines": [46, 46], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 24, "quote_id": "24:47", "lines": [47, 57], "speaker": "Virgilio", "signal": "weak", "flags": []}
+{"canto": 24, "quote_id": "24:60", "lines": [60, 60], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 24, "quote_id": "24:72", "lines": [72, 75], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 24, "quote_id": "24:76A", "lines": [76, 76], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 24, "quote_id": "24:76B", "lines": [76, 78], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 24, "quote_id": "24:122", "lines": [122, 126], "speaker": "Vanni Fucci", "signal": "strong", "flags": []}
+{"canto": 24, "quote_id": "24:127", "lines": [127, 129], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 24, "quote_id": "24:133", "lines": [133, 151], "speaker": "Vanni Fucci", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 25, "quote_id": "25:3", "lines": [3, 3], "speaker": "Vanni Fucci", "signal": "strong", "flags": []}
+{"canto": 25, "quote_id": "25:6", "lines": [6, 6], "speaker": "serpe", "signal": "strong", "flags": []}
+{"canto": 25, "quote_id": "25:18", "lines": [18, 18], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 25, "quote_id": "25:25", "lines": [25, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 25, "quote_id": "25:37", "lines": [37, 37], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 25, "quote_id": "25:43", "lines": [43, 43], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 25, "quote_id": "25:68", "lines": [68, 69], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 25, "quote_id": "25:140", "lines": [140, 141], "speaker": "l'anima", "signal": "strong", "flags": []}
+{"canto": 26, "quote_id": "26:47", "lines": [47, 48], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 26, "quote_id": "26:49A", "lines": [49, 49], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 26, "quote_id": "26:49B", "lines": [49, 54], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 26, "quote_id": "26:55", "lines": [55, 63], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 26, "quote_id": "26:64", "lines": [64, 65], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 26, "quote_id": "26:65", "lines": [65, 69], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 26, "quote_id": "26:70", "lines": [70, 75], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 26, "quote_id": "26:79", "lines": [79, 84], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 26, "quote_id": "26:90", "lines": [90, 142], "speaker": "Ulisse", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 26, "quote_id": "26:112A", "lines": [112, 112], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 26, "quote_id": "26:112B", "lines": [112, 120], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 27, "quote_id": "27:19", "lines": [19, 30], "speaker": "l'anima", "signal": "strong", "flags": []}
+{"canto": 27, "quote_id": "27:21", "lines": [21, 21], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 27, "quote_id": "27:33", "lines": [33, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 27, "quote_id": "27:36", "lines": [36, 57], "speaker": "Dante", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 27, "quote_id": "27:61", "lines": [61, 129], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Guido da Montefeltro;l'anima;l'anima della seconda fiamma;questa fiamma;the soul in the second flame)", "cross-scene"]}
+{"canto": 27, "quote_id": "27:100", "lines": [100, 105], "speaker": "Bonifacio VIII", "signal": "strong", "flags": []}
+{"canto": 27, "quote_id": "27:108", "lines": [108, 111], "speaker": "Guido da Montefeltro", "signal": "strong", "flags": []}
+{"canto": 27, "quote_id": "27:114", "lines": [114, 120], "speaker": "un d'i neri cherubini", "signal": "weak", "flags": []}
+{"canto": 27, "quote_id": "27:122", "lines": [122, 123], "speaker": "un d'i neri cherubini", "signal": "strong", "flags": []}
+{"canto": 27, "quote_id": "27:127", "lines": [127, 127], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:30", "lines": [30, 45], "speaker": "Mäometto", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 28, "quote_id": "28:46", "lines": [46, 46], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:47", "lines": [47, 51], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 28, "quote_id": "28:55", "lines": [55, 60], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:70", "lines": [70, 90], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Dante;L'altro)", "cross-scene"]}
+{"canto": 28, "quote_id": "28:91", "lines": [91, 93], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 28, "quote_id": "28:96", "lines": [96, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:106", "lines": [106, 108], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:107", "lines": [107, 107], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:109", "lines": [109, 109], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 28, "quote_id": "28:123", "lines": [123, 123], "speaker": "l capo tronco", "signal": "weak", "flags": []}
+{"canto": 28, "quote_id": "28:130", "lines": [130, 142], "speaker": "Bertram dal Bornio", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:4", "lines": [4, 12], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:13", "lines": [13, 13], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:14", "lines": [14, 15], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:18", "lines": [18, 21], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:22", "lines": [22, 30], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:31", "lines": [31, 32], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:33", "lines": [33, 36], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:85", "lines": [85, 85], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:87", "lines": [87, 90], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:91", "lines": [91, 92], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 29, "quote_id": "29:93", "lines": [93, 93], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 29, "quote_id": "29:94", "lines": [94, 96], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:101", "lines": [101, 101], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:103", "lines": [103, 108], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 29, "quote_id": "29:109", "lines": [109, 109], "speaker": "l'un", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:110", "lines": [110, 120], "speaker": "l'un", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:113", "lines": [113, 113], "speaker": "l'un", "signal": "strong", "flags": []}
+{"canto": 29, "quote_id": "29:121", "lines": [121, 123], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 29, "quote_id": "29:125", "lines": [125, 139], "speaker": "Capocchio", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:7", "lines": [7, 8], "speaker": "Atamante", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:32", "lines": [32, 33], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:34A", "lines": [34, 34], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:34B", "lines": [34, 36], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:37", "lines": [37, 45], "speaker": "(unattributed)", "signal": "none", "flags": ["cross-scene"]}
+{"canto": 30, "quote_id": "30:58", "lines": [58, 59], "speaker": "Maestro Adamo", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:60", "lines": [60, 90], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Maestro Adam;Maestro Adamo;Mastro Adamo)", "cross-scene"]}
+{"canto": 30, "quote_id": "30:91", "lines": [91, 93], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:94", "lines": [94, 94], "speaker": "Maestro Adam", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:95", "lines": [95, 99], "speaker": "Maestro Adam", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:106", "lines": [106, 108], "speaker": "Mastro Adamo", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:109", "lines": [109, 111], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:112", "lines": [112, 114], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:115", "lines": [115, 115], "speaker": "Sinon", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:116", "lines": [116, 117], "speaker": "Sinon", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:118", "lines": [118, 118], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:120", "lines": [120, 120], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:121", "lines": [121, 121], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:122", "lines": [122, 123], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:124", "lines": [124, 129], "speaker": "Maestro Adamo", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:131", "lines": [131, 132], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 30, "quote_id": "30:142", "lines": [142, 142], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 30, "quote_id": "30:143", "lines": [143, 148], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 31, "quote_id": "31:21", "lines": [21, 21], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:22", "lines": [22, 27], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:29", "lines": [29, 33], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 31, "quote_id": "31:67", "lines": [67, 67], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:70", "lines": [70, 75], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:76", "lines": [76, 81], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 31, "quote_id": "31:91", "lines": [91, 92], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:93", "lines": [93, 96], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:97", "lines": [97, 99], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 31, "quote_id": "31:100", "lines": [100, 105], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 31, "quote_id": "31:115", "lines": [115, 129], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 31, "quote_id": "31:134", "lines": [134, 134], "speaker": "Virgilio", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:19", "lines": [19, 21], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:43", "lines": [43, 43], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:44", "lines": [44, 44], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:54", "lines": [54, 69], "speaker": "Camiscion de' Pazzi", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:79", "lines": [79, 81], "speaker": "il peccatore", "signal": "weak", "flags": []}
+{"canto": 32, "quote_id": "32:82", "lines": [82, 84], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:87", "lines": [87, 87], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:88", "lines": [88, 89], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:89", "lines": [89, 90], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:91", "lines": [91, 91], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:92", "lines": [92, 93], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:94", "lines": [94, 96], "speaker": "Ugolino", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:98", "lines": [98, 99], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:100", "lines": [100, 102], "speaker": "il peccatore", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:106", "lines": [106, 108], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:109A", "lines": [109, 109], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:109B", "lines": [109, 111], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:112A", "lines": [112, 112], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:112B", "lines": [112, 123], "speaker": "Bocca", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 32, "quote_id": "32:116A", "lines": [116, 116], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 32, "quote_id": "32:116B", "lines": [116, 117], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:118", "lines": [118, 118], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:133", "lines": [133, 135], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 32, "quote_id": "32:135", "lines": [135, 139], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 33, "quote_id": "33:4", "lines": [4, 75], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Ugolino;conte Ugolino;quel peccator)", "cross-scene"]}
+{"canto": 33, "quote_id": "33:51", "lines": [51, 51], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 33, "quote_id": "33:61", "lines": [61, 63], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 33, "quote_id": "33:69", "lines": [69, 69], "speaker": "Gaddo", "signal": "weak", "flags": []}
+{"canto": 33, "quote_id": "33:104", "lines": [104, 105], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 33, "quote_id": "33:106", "lines": [106, 108], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 33, "quote_id": "33:110", "lines": [110, 114], "speaker": "un de' tristi", "signal": "strong", "flags": []}
+{"canto": 33, "quote_id": "33:115", "lines": [115, 117], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 33, "quote_id": "33:118", "lines": [118, 120], "speaker": "frate Alberigo", "signal": "strong", "flags": []}
+{"canto": 33, "quote_id": "33:121A", "lines": [121, 121], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 33, "quote_id": "33:121B", "lines": [121, 121], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 33, "quote_id": "33:122", "lines": [122, 138], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Fra Alberigo;frate Alberigo)", "cross-scene"]}
+{"canto": 33, "quote_id": "33:139A", "lines": [139, 139], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 33, "quote_id": "33:139B", "lines": [139, 141], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 33, "quote_id": "33:142A", "lines": [142, 142], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 33, "quote_id": "33:142B", "lines": [142, 149], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:1", "lines": [1, 2], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
+{"canto": 34, "quote_id": "34:3", "lines": [3, 3], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:20A", "lines": [20, 20], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:20B", "lines": [20, 21], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:61", "lines": [61, 61], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:62", "lines": [62, 69], "speaker": "(unattributed)", "signal": "none", "flags": ["plural", "cross-scene"]}
+{"canto": 34, "quote_id": "34:82", "lines": [82, 82], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:84", "lines": [84, 84], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:94A", "lines": [94, 94], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:94B", "lines": [94, 96], "speaker": "(unattributed)", "signal": "none", "flags": []}
+{"canto": 34, "quote_id": "34:100", "lines": [100, 101], "speaker": "Dante", "signal": "strong", "flags": []}
+{"canto": 34, "quote_id": "34:102", "lines": [102, 105], "speaker": "Dante", "signal": "weak", "flags": []}
+{"canto": 34, "quote_id": "34:106", "lines": [106, 126], "speaker": "Virgilio", "signal": "strong", "flags": ["cross-scene"]}

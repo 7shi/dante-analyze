@@ -211,8 +211,7 @@ runs selectively.
 
 Make a full run **skip** any canto whose output already exists, so an interrupted
 run resumes and hand edits survive. Offer a test mode (`-c CANTO`) that regenerates
-one unit. Committed outputs are hand/LLM-editable; gitignored outputs are
-regenerable artifacts.
+one unit.
 
 ## 10. Log a long local run so progress is legible.
 

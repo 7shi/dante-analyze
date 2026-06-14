@@ -5,7 +5,7 @@ import json
 import sys
 
 from ._paths import SCENE_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR
-from .checkpoint import out_path, load_kg
+from .checkpoint import out_path
 
 _DIRS = {"reading": READING_DIR, "tags": TAGS_DIR, "speech": SPEECH_DIR, "relations": RELATIONS_DIR}
 
@@ -24,11 +24,11 @@ def _show_registry(canticle):
     print(path.read_text(encoding="utf-8"), end="")
 
 
-def _show_kg(canticle, canto):
-    path = KG_DIR / canticle / f"{canto:02d}.json"
+def _show_kg(canticle, part):
+    path = KG_DIR / f"{canticle}-{part}.jsonl"
     if not path.exists():
         raise FileNotFoundError(path)
-    print(json.dumps(load_kg(canticle, canto), ensure_ascii=False, indent=2))
+    print(path.read_text(encoding="utf-8"), end="")
 
 
 def _show_scenes(canticle, canto):
@@ -62,7 +62,7 @@ def build_parser():
     kg_sub = kg_parser.add_subparsers(dest="action", required=True)
     kg_show = kg_sub.add_parser("show")
     kg_show.add_argument("canticle")
-    kg_show.add_argument("canto", type=int)
+    kg_show.add_argument("part", nargs="?", default="edges", choices=("nodes", "edges", "speech"))
 
     for layer in _DIRS:
         layer_parser = roots.add_parser(layer)
@@ -83,7 +83,7 @@ def main():
             elif args.layer == "registry":
                 _show_registry(args.canticle)
             elif args.layer == "kg":
-                _show_kg(args.canticle, args.canto)
+                _show_kg(args.canticle, args.part)
             else:
                 _show(args.layer, args.canticle, args.canto)
             return 0

@@ -14,7 +14,7 @@ from .checkpoint import (
     out_path, done_scene_ends, read_recap, iter_scene_blocks, scene_bodies,
     complete_scene_ends, restore_blocks, render_scene_block, append_canto,
     load_readings, load_tags, load_registry, load_speech, load_relations,
-    raw_to_canonical, load_kg, load_kg_nodes,
+    raw_to_canonical, load_kg,
 )
 from .prompts import build_reason_prompt
 
@@ -28,7 +28,7 @@ __all__ = [
     "read_markup", "available_cantos", "load_scenes",
     # output readers
     "load_readings", "load_tags", "load_registry", "load_speech", "load_relations",
-    "raw_to_canonical", "load_kg", "load_kg_nodes",
+    "raw_to_canonical", "load_kg",
     "scene_bodies", "iter_scene_blocks",
     "done_scene_ends", "complete_scene_ends", "read_recap", "restore_blocks",
     # tag numbering / parsing
