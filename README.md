@@ -80,14 +80,14 @@ canticles (100 cantos)**; per-pass design and measured results are in each subdi
    `07-relations/README.md`
 4. **Assembly** (`08-kg/`, pure code) — joins the relation edges + speaker data into the graph,
    resolving each cited `[n]` through `load_tags` → `load_registry` to a node. Output is per-canticle
-   JSONL (`08-kg/<canticle>-{nodes,edges,speech}.jsonl`). → `08-kg/README.md`
+   JSONL (`08-kg/<canticle>/{nodes,edges,speech_edges}.jsonl`). → `08-kg/README.md`
 
 ```bash
 make -C 08-kg                                   # (re)assemble the graph + geometry check
 uv run dante-analyze registry  show inferno
 uv run dante-analyze speech    show inferno 1
 uv run dante-analyze relations show inferno 1
-uv run dante-analyze kg        show inferno edges   # part: nodes | edges | speech
+uv run dante-analyze kg        show inferno edges   # part: nodes | edges | speech_edges
 ```
 
 The speaker/edge data is intended to feed the translation context lock (`dante-dravidian`, below).

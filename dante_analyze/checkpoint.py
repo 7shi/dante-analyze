@@ -260,11 +260,11 @@ def load_relations(canticle, canto):
 
 
 def _load_kg_jsonl(canticle, part):
-    """[record, …] from a per-canticle 08-kg/<canticle>-<part>.jsonl, or exit if absent.
+    """[record, …] from a per-canticle 08-kg/<canticle>/<part>.jsonl, or exit if absent.
 
     The assembled graph is JSONL — one record per line, all cantos aggregated. Built by
     08-kg/assembly.py (`make -C 08-kg`); see 08-kg/README.md."""
-    path = KG_DIR / f"{canticle}-{part}.jsonl"
+    path = KG_DIR / canticle / f"{part}.jsonl"
     if not path.exists():
         print(f"Error: kg {part} not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
         sys.exit(1)
@@ -272,16 +272,17 @@ def _load_kg_jsonl(canticle, part):
 
 
 def load_kg(canticle):
-    """The assembled KG for a canticle: {nodes, edges, speech}, each a list read from the
-    per-canticle 08-kg/<canticle>-{nodes,edges,speech}.jsonl (exit if any is absent). One call for
-    the whole graph; built by 08-kg/assembly.py (`make -C 08-kg`), see 08-kg/README.md.
+    """The assembled KG for a canticle: {nodes, edges, speech_edges}, each a list read from the
+    per-canticle 08-kg/<canticle>/{nodes,edges,speech_edges}.jsonl (exit if any is absent). One call
+    for the whole graph; built by 08-kg/assembly.py (`make -C 08-kg`), see 08-kg/README.md.
 
-    - nodes:  {id, type, members}  (members None unless a set node) — registry distilled to nodes.
-    - edges:  {canto, scene, subj, predicate, obj, frame, lines, asserter}; subj/obj are
-              {tag, name, node} (node None if the label didn't resolve to a registry node).
-    - speech: {canto, quote_id, lines, speaker, signal, flags} — 06-speech spans (speaker -> span)."""
+    - nodes:       {id, type, members}  (members None unless a set node) — registry distilled to nodes.
+    - edges:       {canto, scene, subj, predicate, obj, frame, lines, asserter}; subj/obj are
+                   {tag, name, node} (node None if the label didn't resolve to a registry node).
+    - speech_edges: {canto, quote_id, lines, speaker, signal, flags} — 06-speech spans (speaker -> span).
+    Files: 08-kg/<canticle>/{nodes,edges,speech_edges}.jsonl"""
     return {
         "nodes": _load_kg_jsonl(canticle, "nodes"),
         "edges": _load_kg_jsonl(canticle, "edges"),
-        "speech": _load_kg_jsonl(canticle, "speech"),
+        "speech_edges": _load_kg_jsonl(canticle, "speech_edges"),
     }

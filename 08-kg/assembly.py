@@ -23,9 +23,9 @@ Input:  07-relations/<canticle>/NN.txt  (committed; edges)
         04-tags/<canticle>/NN.txt       (committed; per-scene [n] -> name)
         05-registry/<canticle>.txt      (committed; canonical node table)
 Output (per canticle, JSONL — one record per line, all cantos aggregated):
-        08-kg/<canticle>-nodes.jsonl    one node per line  {id, type, members}
-        08-kg/<canticle>-edges.jsonl    one edge per line  {canto, scene, subj, predicate, obj, frame, lines, asserter}
-        08-kg/<canticle>-speech.jsonl   one speech edge per line  {canto, quote_id, lines, speaker, signal, flags}
+        08-kg/<canticle>/nodes.jsonl    one node per line  {id, type, members}
+        08-kg/<canticle>/edges.jsonl    one edge per line  {canto, scene, subj, predicate, obj, frame, lines, asserter}
+        08-kg/<canticle>/speech_edges.jsonl   one speech edge per line  {canto, quote_id, lines, speaker, signal, flags}
 """
 import argparse
 import json
@@ -155,7 +155,7 @@ def main():
         registry = load_registry(canticle)
         raw2canon = raw_to_canonical(canticle)
 
-        all_edges, all_speech, canticle_problems = [], [], False
+        all_edges, all_speech_edges, canticle_problems = [], [], False
         for canto in cantos:
             edges, speech_edges, problems = render_canto(canticle, canto, raw2canon)
             if problems:
@@ -166,19 +166,19 @@ def main():
                     print(f"- {p}", file=sys.stderr)
                 continue
             all_edges.extend(edges)
-            all_speech.extend(speech_edges)
+            all_speech_edges.extend(speech_edges)
 
         if canticle_problems:
             print(f"kg {canticle}: SKIPPED write ({len(cantos)} cantos had problems)", file=sys.stderr)
             continue
 
-        write_jsonl(KG_DIR / f"{canticle}-nodes.jsonl", build_nodes(registry))
-        write_jsonl(KG_DIR / f"{canticle}-edges.jsonl", all_edges)
-        write_jsonl(KG_DIR / f"{canticle}-speech.jsonl", all_speech)
+        write_jsonl(KG_DIR / canticle / "nodes.jsonl", build_nodes(registry))
+        write_jsonl(KG_DIR / canticle / "edges.jsonl", all_edges)
+        write_jsonl(KG_DIR / canticle / "speech_edges.jsonl", all_speech_edges)
         unresolved = sum(1 for e in all_edges for end in (e["subj"], e["obj"])
                          if end["node"] is None)
         print(f"kg {canticle}: OK — {len(cantos)} cantos, {len(build_nodes(registry))} nodes, "
-              f"{len(all_edges)} edges, {len(all_speech)} speech "
+              f"{len(all_edges)} edges, {len(all_speech_edges)} speech_edges "
               f"({unresolved} unresolved edge ends)", file=sys.stderr)
 
     if failed:

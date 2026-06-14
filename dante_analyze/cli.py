@@ -25,7 +25,7 @@ def _show_registry(canticle):
 
 
 def _show_kg(canticle, part):
-    path = KG_DIR / f"{canticle}-{part}.jsonl"
+    path = KG_DIR / canticle / f"{part}.jsonl"
     if not path.exists():
         raise FileNotFoundError(path)
     print(path.read_text(encoding="utf-8"), end="")
@@ -62,7 +62,7 @@ def build_parser():
     kg_sub = kg_parser.add_subparsers(dest="action", required=True)
     kg_show = kg_sub.add_parser("show")
     kg_show.add_argument("canticle")
-    kg_show.add_argument("part", nargs="?", default="edges", choices=("nodes", "edges", "speech"))
+    kg_show.add_argument("part", nargs="?", default="edges", choices=("nodes", "edges", "speech_edges"))
 
     for layer in _DIRS:
         layer_parser = roots.add_parser(layer)
