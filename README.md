@@ -3,6 +3,20 @@
 The formalization / knowledge-graph layer for Dante's *Divine Comedy*. It consumes the
 shared corpus from `dante-corpus`, owns the scene segmentation, and runs the LLM analysis passes.
 
+## Premise
+
+Alongside analysing the *Divine Comedy* in its own right, this repository is a methodology
+experiment: building know-how for **local-LLM referent resolution that transfers to obscure works**
+— texts with no Wikipedia, no annotated edition, no external apparatus to lean on.
+
+Dante is a good proving ground for that method precisely because it is a major work whose every
+detail is easy to verify. But that canonical knowledge is used **only for evaluation, never as
+input**: no external ground truth (known geography, identities, glossed periphrases) is fed into the
+passes. Everything the pipeline asserts
+is derived from the source text itself, so the same method can run on a work where no answer key
+exists. What is externally known about the poem is an evaluation set the text-derived output is
+measured against — not a shortcut poured in.
+
 ## Layout
 
 - `dante_analyze/` — shared library (LLM gateway, prompt builders, checkpoint I/O, CLI)

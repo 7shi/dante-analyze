@@ -19,10 +19,71 @@ There is no unfinished mandatory step in this repo.
 
 ## Next directions
 
-### 1. Digest edition
+### 1. Translation context lock (active direction)
 
-Build an analyze-side prose digest from the resolved readings. This is the most natural next
-deliverable inside this repo.
+Build a per-scene **context lock**: an identity-and-setting record that fixes what a translation or
+digest must not get wrong — who speaks and is addressed, who/what each referring expression
+resolves to, where the scene is set, who is present versus merely mentioned. Identity and setting
+**only**: never the source's meaning or a paraphrase. Each entry carries a `basis` source quote so
+it is verifiable. The parked spec sketch is `ref/PLAN.md`, with `ref/inferno-01.toml` as a
+hand-written sample — treat it as illustration, **not** the confirmed spec.
+
+This direction comes before the digest (2): it is the natural payoff of the just-completed KG, it
+consumes the freshest work (`05-08`), it has a concrete evaluation target, and a vetted lock then
+gives the digest a clean, consistent identity base to build on.
+
+**The KG is action-only.** `08-kg` represents who-does-what edges; it carries no setting
+(location / region / cohort), because those are narrative *state*, not actions. Supplying that
+missing layer is the lock's substantive new work.
+
+**Derive everything from the text.** Per the repository premise (README "Premise"), no external
+canon is an input. The poem's known geography is an *evaluation* target, not a lookup table. So the
+setting layer is built bottom-up from the source, mirroring the person pipeline already in place
+(`04-tags` surface → `05-registry` canonical), applied to places.
+
+Three kinds of work, kept separate — **one judgment per script**, so judgments never contaminate
+each other:
+
+- **code join (no LLM)** from KG / `04-tags` / `05-registry`: `speaker` (speech edges), referent
+  resolution (who/what → canonical), `relations` (edges), `simile` (frame=simile edges);
+- **single text-derived LLM judgments**, each its own pass: scene-local location; presence (cast
+  versus merely mentioned); addressee;
+- **topography**: consolidate per-scene location surfaces into a canonical, piecewise-constant
+  region sequence (the registry-for-places); cohort derived from the text.
+
+Distinctions the lock must preserve:
+
+- **current setting** (where the scene physically is) versus **referred-to places** (mentioned, not
+  the present setting) — the place analogue of named-but-absent persons; the latter belong in the
+  referent layer, not the setting layer;
+- **present cast** versus **merely-mentioned referents**.
+
+Proposed passes (continuing the `NN-name` ladder):
+
+- `09-location` (LLM) — per-scene local setting, in the work's own terms;
+- `10-topography` (code + narrow judgment) — consolidate settings into canonical regions and assign
+  a region per scene; derive cohort. Mirrors `05-registry`;
+- `11-presence` (LLM) — cast versus mentioned;
+- `12-addressee` (LLM + code) — addressee per speech span: code for two-person scenes, LLM only
+  when ambiguous;
+- `13-lock` (pure code) — join all of the above plus the KG into the per-canto lock, with a
+  structural check, exactly as `08-kg` joins.
+
+Open decisions:
+
+- output format (per-canto TOML versus JSONL) — settle at `13-lock`;
+- name form: source spelling (`Virgilio`), matching the KG nodes; anglicization belongs to
+  `dante-dravidian`'s glossary, not here;
+- deferred, outside identity-only scope: dramatic-irony flags (`misnames-addressee`) and explanatory
+  `note` prose;
+- evaluation: measure the text-derived region sequence against the poem's known structure (Inferno's
+  circles, Purgatorio's terraces, Paradiso's spheres), and compare a generated Inferno 1 lock
+  against `ref/inferno-01.toml` **structurally**, not string-exact (given the name-form difference).
+
+### 2. Digest edition
+
+Build an analyze-side prose digest from the resolved readings. Natural to do after the context lock
+(1), whose resolved identities and settings it can reuse for consistent naming.
 
 Goal: retell each canticle at story-reading density: more detailed than a plot summary, lighter than
 a line-by-line translation.
@@ -47,28 +108,6 @@ Implementation notes:
   not line coverage.
 - Do not use a future translation as a dependency; a vetted translation could enrich the pass later.
 
-### 2. Translation context lock
-
-Turn the graph's speaker and relation data into the identity lock needed by `dante-dravidian`.
-
-This is downstream-facing, but the ownership belongs here because it is referent resolution rather
-than translation. The parked detailed spec is in `ref/PLAN.md`, with `ref/inferno-01.toml` as the
-hand-written reference sample.
-
-Likely starting point:
-
-- derive `speaker`, `addressee`, and `cast` from `04-tags`, `06-speech`, and `08-kg`;
-- derive identity-bearing relations from `07-relations` / `08-kg`;
-- keep the lock identity-only: no paraphrase, no translation decisions;
-- use source-spelling names unless a single explicit normalization point is added.
-
-Open design work:
-
-- decide whether the lock is generated directly from graph JSONL or through a new pass-specific
-  intermediate;
-- define the TOML writer and checker;
-- compare a generated Inferno 1 lock against `ref/inferno-01.toml`.
-
 ### 3. Deferred quality work
 
 These items are intentionally parked. They improve polish or storage, but they are not prerequisites
@@ -88,6 +127,9 @@ for the completed KG.
   scene-local epithet for a figure already identified.
 - Do not leak answers into prompts. Prompts may include source text and general knowledge, never
   per-item answers or worked examples from the item being processed.
+- Derive every assertion from the source text; never feed external canon (known geography,
+  identities, glossed periphrases) into a pass. The poem's known facts are an evaluation set, not an
+  input — see the README "Premise". This is what keeps the method transferable to obscure works.
 - Put all ordinary LLM calls through `dante_analyze.llm.call_llm`. `01-scenes` is the exception
   because it uses `llm7shi` structured output directly.
 - Normalize mechanical orthography in code, not in prompts.
