@@ -84,6 +84,8 @@ The `02-markup → 03-reading → 04-tags` ladder produces the referent-resolved
 passes turn it into a knowledge graph of the poem (entities + who-does-what + relations) by code
 joining on the `04-tags` `[n]` tag numbers. All four are **complete and committed for all three
 canticles (100 cantos)**; per-pass design and measured results are in each subdir's `README.md`.
+See [KG-en.md](KG-en.md) / [KG-ja.md](KG-ja.md) for a walkthrough of the full ladder, and
+[KG-PROBLEM.md](KG-PROBLEM.md) for a known limitation (parked).
 
 1. **Registry** (`05-registry/`, LLM) — one canonical, source-spelled node per figure across the
    work, with closed-vocabulary node typing (cached in `types.txt`), set support, and code-extracted
