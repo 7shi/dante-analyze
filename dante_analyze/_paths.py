@@ -13,3 +13,4 @@ SPEECH_DIR = ROOT_DIR / "06-speech"      # speech.py writes 06-speech/<canticle>
 RELATIONS_DIR = ROOT_DIR / "07-relations"  # relations.py writes 07-relations/<canticle>/NN.txt
 KG_DIR = ROOT_DIR / "08-kg"              # assembly.py writes 08-kg/<canticle>/NN.json + <canticle>.nodes.json
 LOCATION_DIR = ROOT_DIR / "09-location"  # location.py writes 09-location/<canticle>/NN.txt
+TOPOGRAPHY_DIR = ROOT_DIR / "10-topography"  # topography.py writes 10-topography/<canticle>.txt (per-canticle)

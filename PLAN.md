@@ -16,8 +16,9 @@ The committed pipeline covers all three canticles, 100 cantos:
    per-canticle knowledge graph.
 
 There is no unfinished mandatory step in this repo. The translation context lock (direction 1
-below) is underway: its first pass, **`09-location`**, is committed and fully built across all 100
-cantos — see `09-location/README.md`. The next pass to design is `10-topography`.
+below) is underway: its first two passes — **`09-location`** (per-scene local setting) and
+**`10-topography`** (the place analogue of `05-registry`) — are committed and fully built across all
+100 cantos; see their READMEs. The next pass to design is `11-presence`.
 
 ## Next directions
 
@@ -43,42 +44,41 @@ canon is an input. The poem's known geography is an *evaluation* target, not a l
 setting layer is built bottom-up from the source, mirroring the person pipeline already in place
 (`04-tags` surface → `05-registry` canonical), applied to places.
 
-Three kinds of work, kept separate — **one judgment per script**, so judgments never contaminate
-each other:
+The work splits into kinds, kept separate — **one judgment per script**, so judgments never
+contaminate each other:
 
 - **code join (no LLM)** from KG / `04-tags` / `05-registry`: `speaker` (speech edges), referent
   resolution (who/what → canonical), `relations` (edges), `simile` (frame=simile edges);
 - **single text-derived LLM judgments**, each its own pass: presence (cast versus merely
   mentioned); addressee;
-- **topography**: consolidate per-scene location surfaces into a canonical, piecewise-constant
-  region sequence (the registry-for-places); cohort derived from the text.
+- **setting**: location and its consolidation into canonical regions — committed as `09-location`
+  and `10-topography` (see their READMEs). Cohort (which class of souls inhabits a region) is a
+  distinct judgment kept as its own later step.
 
 Distinctions the lock must preserve:
 
 - **present cast** versus **merely-mentioned referents**.
 
-The first pass is committed: **`09-location`** (per-scene local setting; the current-setting versus
-referred-to-place distinction it realizes is documented in `09-location/README.md`). Remaining
-passes (continuing the `NN-name` ladder):
+With `09-location` and `10-topography` committed (see their READMEs), the remaining passes
+(continuing the `NN-name` ladder) are:
 
-- `10-topography` (code + narrow judgment) — consolidate settings into canonical regions and assign
-  a region per scene; derive cohort. Mirrors `05-registry`;
 - `11-presence` (LLM) — cast versus mentioned;
 - `12-addressee` (LLM + code) — addressee per speech span: code for two-person scenes, LLM only
   when ambiguous;
-- `13-lock` (pure code) — join all of the above plus the KG into the per-canto lock, with a
+- `13-cohort` (code + narrow judgment) — which class of souls inhabits each region; co-varies with
+  topography's regions and depends on presence (`11`), so it comes after both;
+- `14-lock` (pure code) — join all of the above plus the KG into the per-canto lock, with a
   structural check, exactly as `08-kg` joins.
 
 Open decisions:
 
-- output format (per-canto TOML versus JSONL) — settle at `13-lock`;
+- output format (per-canto TOML versus JSONL) — settle at the lock pass (`14-lock`);
 - name form: source spelling (`Virgilio`), matching the KG nodes; anglicization belongs to
   `dante-dravidian`'s glossary, not here;
 - deferred, outside identity-only scope: dramatic-irony flags (`misnames-addressee`) and explanatory
   `note` prose;
-- evaluation: measure the text-derived region sequence against the poem's known structure (Inferno's
-  circles, Purgatorio's terraces, Paradiso's spheres), and compare a generated Inferno 1 lock
-  against `ref/inferno-01.toml` **structurally**, not string-exact (given the name-form difference).
+- evaluation: compare a generated Inferno 1 lock against `ref/inferno-01.toml` **structurally**, not
+  string-exact (given the name-form difference).
 
 ### 2. Digest edition
 

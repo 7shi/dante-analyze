@@ -1,0 +1,181 @@
+# Topography — purgatorio
+
+## qui
+- en: here
+- surfaces: qui (1)
+- runs: 1:1-39
+
+## cieco fiume
+- en: blind river
+- surfaces: cieco fiume (1), mie grotte (1)
+- runs: 1:40-114
+
+## questa pianura
+- en: this plain
+- surfaces: questa pianura (1), solingo piano (1)
+- runs: 1:115-120
+
+## là 've la rugiada pugna col sole
+- en: where the dew fights the sun
+- surfaces: là 've la rugiada pugna col sole (1), lito diserto (1), riva (1), piaggia (1), terra oscura (1)
+- runs: 1:121-136, 2:1-133, 3:1-45
+
+## piè del monte
+- en: foot of the mountain
+- surfaces: piè del monte (1), ove quell' anime (1), la calla (1), sasso rotto (1)
+- runs: 3:46-145, 4:1-35
+
+## l'orlo suppremo de l'alta ripa
+- en: the highest edge of the high bank
+- surfaces: l'orlo suppremo de l'alta ripa (1), scoperta piaggia (1), 'l cinghio (1)
+- runs: 4:36-102
+
+## a l'ombra dietro al sasso
+- en: in the shade behind the rock
+- surfaces: a l'ombra dietro al sasso (1), sentiero schembo (1)
+- runs: 4:103-139, 5:1-136, 6:1-151, 7:1-78
+
+## fianco de la lacca
+- en: the side of the hollow
+- surfaces: fianco de la lacca (1), di sotto (1)
+- runs: 7:79-136, 8:1-93
+
+## la picciola vallea
+- en: the little valley
+- surfaces: la picciola vallea (1), purgatorio (1)
+- runs: 8:94-139, 9:1-69
+
+## lo balzo
+- en: the ledge
+- surfaces: lo balzo (1), lo scaglion primaio (1), la soglia (1), li tre gradi (1), la porta (1), la porta sacrata (1), regge sacra (1), soglio de la porta (1), pietra fessa (1), quella cruna (1)
+- runs: 9:70-145, 10:1-21
+
+## cornice
+- en: ledge
+- surfaces: cornice (3), aspro diserto (1), prima cornice (1), ove la roccia era tagliata (1), li scaglion santi (1), sommo de la scala (1), la ripa (1), scaleo (1)
+- runs: 10:22-139, 11:1-142, 12:1-136, 13:1-154, 14:1-151, 15:1-81
+
+## l'altro girone
+- en: the other gyre
+- surfaces: l'altro girone (1), tal nube (1)
+- runs: 15:82-145, 16:1-145, 17:1-12
+
+## bassi lidi
+- en: low shores
+- surfaces: bassi lidi (1)
+- runs: 17:13-69
+
+## una scala
+- en: a ladder
+- surfaces: una scala (1), la scala (1)
+- runs: 17:70-78
+
+## giro
+- en: gyre
+- surfaces: giro (1), cornice (1), giron (1), i giron del sacro monte (1), tra due pareti del duro macigno (1), dove 'l cerchiar si prende (1)
+- runs: 17:79-139, 18:1-145, 19:1-69
+
+## quinto giro
+- en: fifth circle
+- surfaces: quinto giro (1), luoghi spediti pur lungo la roccia (1), 'mpacciata via (1), queste scale (1), lo stremo (1), il monte (1)
+- runs: 19:70-145, 20:1-151, 21:1-136, 22:1-129
+
+## mezza strada
+- en: middle of the road
+- surfaces: mezza strada (1)
+- runs: 22:130-141
+
+## l'alber
+- en: the tree
+- surfaces: l'alber (1), via (1), grande arbore (1)
+- runs: 22:142-154, 23:1-133, 24:1-126
+
+## vivagni
+- en: hedges
+- surfaces: vivagni (1)
+- runs: 24:127-132
+
+## strada sola
+- en: lonely road
+- surfaces: strada sola (1), callaia (1)
+- runs: 24:133-154, 25:1-9
+
+## scala
+- en: steep climb
+- surfaces: scala (1), ultima tortura (1), lato schiuso (1), loco (1), l'orlo (1), nel foco (1), in su la riva (1), dentro al foco (1)
+- runs: 25:10-139, 26:1-148, 27:1-63
+
+## là ove si montava
+- en: where one climbed
+- surfaces: là ove si montava (1), per entro 'l sasso (1), grado (1), monte (1), alta grotta (1), grado superno (1)
+- runs: 27:64-132
+
+## la terra
+- en: the earth
+- surfaces: la terra (1), la riva (1), la campagna (1)
+- runs: 27:133-142, 28:1-21
+
+## selva antica
+- en: ancient forest
+- surfaces: selva antica (1)
+- runs: 28:22-27
+
+## rio
+- en: stream
+- surfaces: rio (1)
+- runs: 28:28-39
+
+## di là dal fiumicello
+- en: beyond the little river
+- surfaces: di là dal fiumicello (1), la sua via (1), questa rivera (1), là dove l'erbe sono bagnate già da l'onde del bel fiume (1), questo luogo (1), questo loco (1)
+- runs: 28:40-96
+
+## questo monte
+- en: this mountain
+- surfaces: questo monte (1), questa altezza (1), esto loco (1), la riva (1)
+- runs: 28:97-148, 29:1-15
+
+## la gran foresta
+- en: the great forest
+- surfaces: la gran foresta (1)
+- runs: 29:16-63
+
+## L'acqua
+- en: the water
+- surfaces: L'acqua (1), la mia riva (1), bel ciel (1), primo cielo (1), divina basterna (1)
+- runs: 29:64-154, 30:1-57
+
+## carro
+- en: chariot
+- surfaces: carro (1)
+- runs: 30:58-75
+
+## chiaro fonte
+- en: clear fountain
+- surfaces: chiaro fonte (1), erba (1)
+- runs: 30:76-99
+
+## coscia del carro
+- en: the step of the chariot
+- surfaces: coscia del carro (1)
+- runs: 30:100-145, 31:1-96
+
+## beata riva
+- en: blessed shore
+- surfaces: beata riva (1)
+- runs: 31:97-105
+
+## danza de le quattro belle
+- en: dance of the four beauties
+- surfaces: danza de le quattro belle (1)
+- runs: 31:106-117
+
+## al petto del grifon
+- en: the breast of the griffin
+- surfaces: al petto del grifon (1), dinanzi a li smeraldi (1)
+- runs: 31:118-145, 32:1-33
+
+## l'alta selva vòta
+- en: the high empty forest
+- surfaces: l'alta selva vòta (1), dintorno a l'albero robusto (1), la selva (1)
+- runs: 32:34-160, 33:1-145

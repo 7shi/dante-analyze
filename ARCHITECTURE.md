@@ -35,6 +35,9 @@ Examples from this repo:
 - `04-tags` formalizes the reading into one identity per numbered tag.
 - `05-registry` reconciles labels globally.
 - `08-kg` assembles the graph by code only.
+- `09-location` names each scene's current setting only.
+- `10-topography` folds those settings into canonical regions only (the place analogue of
+  `05-registry`).
 
 Split only as much as the current model tier needs. If a stronger model becomes available,
 re-measure whether some scaffolding can collapse without losing accuracy.
@@ -75,7 +78,9 @@ needs. Turn it on only when one of these is true:
 
 This is why interpretation-bound passes such as `03-reading`, `04-tags`, and `07-relations` can use
 the strongest reader with thinking enabled, while simpler checked steps should not add thinking by
-habit.
+habit. `10-topography`'s same/new boundary is such a checked step: with CoT on, the local model
+deliberated a short per-term label into runaway without improving the decision; CoT-off made the call
+fast and decisive. Cost without benefit is the default outcome of adding CoT to a checked judgment.
 
 Backend caveat: not every backend can turn thinking off cleanly. Hosted Gemma backends may leak
 reasoning into the body when asked for CoT-off output. In that case, use the backend's separate
@@ -227,6 +232,12 @@ unit solve a global problem it cannot see.
 
 `05-registry` owns the global invariant: one canonical, source-spelled node per figure, with aliases,
 sets, and node types. It sees the committed output as a whole and reconciles labels there.
+`10-topography` is the place analogue: it folds `09-location`'s per-scene place surfaces into a
+piecewise-constant region sequence. Because the journey is monotonic, region identity is positional,
+so it walks the canticle in order and makes one narrow judgment per canto — a same/new boundary
+against the current region — which keeps the sequence piecewise-constant by construction; code (not
+the model) names each region from its members, the registry's deterministic-merge rule applied to
+setting.
 
 ### Use schema and provenance
 

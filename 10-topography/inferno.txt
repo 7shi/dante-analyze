@@ -1,0 +1,236 @@
+# Topography — inferno
+
+## selva oscura
+- en: dark wood
+- surfaces: selva oscura (1)
+- runs: 1:1-12
+
+## piè d'un colle
+- en: foot of a hill
+- surfaces: piè d'un colle (1), la piaggia diserta (1), cominciar de l'erta (1)
+- runs: 1:13-60
+
+## là dove 'l sol tace
+- en: where the sun is silent
+- surfaces: là dove 'l sol tace (1), basso loco (1), gran diserto (1), loco selvaggio (1), oscura costa (1), questo centro de l'ampio loco (1)
+- runs: 1:61-136, 2:1-142
+
+## cammino alto e silvestro
+- en: high and wooded path
+- surfaces: cammino alto e silvestro (1), porta (1), loco (1), le segrete cose (1)
+- runs: 3:1-89
+
+## livida palude
+- en: livid marsh
+- surfaces: livida palude (1), la riva malvagia (1), quel lito (1), l'onda bruna (1), di qua (1)
+- runs: 3:90-129
+
+## la buia campagna
+- en: the dark countryside
+- surfaces: la buia campagna (1), la proda (1)
+- runs: 3:130-136, 4:1-24
+
+## primo cerchio
+- en: the first circle
+- surfaces: primo cerchio (1)
+- runs: 4:25-63
+
+## la selva
+- en: the wood
+- surfaces: la selva (1)
+- runs: 4:64-111
+
+## prato di fresca verdura
+- en: a meadow of fresh greenery
+- surfaces: prato di fresca verdura (1), loco aperto, luminoso e alto (1), l'aura che trema (1), parte ove non è che luca (1)
+- runs: 4:112-151
+
+## secondo
+- en: second circle
+- surfaces: secondo (1), l'intrata (1), doloroso ospizio (1), l'intrare (1), loco d'ogne luce muto (1), l'aere perso (1), terzo cerchio (1), quella strada (1), al punto dove si digrada (1), questa roccia (1)
+- runs: 5:1-142, 6:1-115, 7:1-18
+
+## la quarta lacca
+- en: the fourth ditch
+- surfaces: la quarta lacca (1), la dolente ripa (1)
+- runs: 7:19-105
+
+## una via diversa
+- en: a different way
+- surfaces: una via diversa (1), grand' arco tra la ripa secca e 'l mézzo (1), al piè d'una torre al da sezzo (1), la barca (1)
+- runs: 7:106-130, 8:1-30
+
+## la morta gora
+- en: the dead stream
+- surfaces: la morta gora (1), lago (1)
+- runs: 8:31-78
+
+## l'intrata
+- en: the entrance
+- surfaces: l'intrata (1), le porte (1), fondo de la trista conca (1), palude (1)
+- runs: 8:79-130, 9:1-99
+
+## porta
+- en: gate
+- surfaces: porta (1), soglia (1), strada lorda (1)
+- runs: 9:100-105
+
+## Dentro
+- en: inside
+- surfaces: Dentro (1), grande campagna (1), martìri e li alti spaldi (1), secreto calle (1)
+- runs: 9:106-133, 10:1-33
+
+## le sepulture
+- en: the tombs
+- surfaces: le sepulture (1), piè de la sua tomba (1)
+- runs: 10:34-136
+
+## un sentier
+- en: a path
+- surfaces: un sentier (1), estremità d'un'alta ripa (1)
+- runs: 11:1-9
+
+## più crudele stipa
+- en: a more cruel ledge
+- surfaces: più crudele stipa (1), coperchio d'un grand' avello (1)
+- runs: 11:10-115
+
+## lo loco ov' a scender la riva venimmo
+- en: the place where we came to descend the bank
+- surfaces: lo loco ov' a scender la riva venimmo (1), burrato (1), la punta de la rotta lacca (1), lo scarco di quelle pietre (1), la costa (1), selvaggia strada (1)
+- runs: 12:1-99
+
+## la proda del bollor vermiglio
+- en: the bank of the red boiling river
+- surfaces: la proda del bollor vermiglio (1), fosso (1), guazzo (1)
+- runs: 12:100-139, 13:1-15
+
+## selva
+- en: wood
+- surfaces: selva (2), secondo girone (1), tronco (1), cespuglio (1), fine ove si parte lo secondo giron dal terzo (1)
+- runs: 13:16-151, 14:1-6
+
+## una landa
+- en: a plain
+- surfaces: una landa (1), sabbion (1)
+- runs: 14:7-75
+
+## picciol fiumicello
+- en: a little stream
+- surfaces: picciol fiumicello (1), 'l presente rio (1), questa valle (1), presente rigagno (1), questa fossa (1)
+- runs: 14:76-138
+
+## bosco
+- en: the woods
+- surfaces: bosco (1), margini (1), l'argine (1)
+- runs: 14:139-142, 15:1-42
+
+## la strada
+- en: the road
+- surfaces: la strada (1), la gota (1), ripa discoscesa (1), sponda (1), proda (1), orlo (1), destra mammella (1), lo stremo (1), loco scemo (1), strema testa di quel settimo cerchio (1)
+- runs: 15:43-124, 16:1-136, 17:1-65
+
+## fossa
+- en: pit
+- surfaces: fossa (1), spallacce (1), l'aere (1), al fondo (1), al piè al piè de la stagliata rocca (1), lo sasso tetro (1), uno scoglio de la ripa (1), su per la sua scheggia (1)
+- runs: 17:66-136, 18:1-72
+
+## là dov' el vaneggia di sotto
+- en: where it [the rock] drops down below
+- surfaces: là dov' el vaneggia di sotto (1), lo stretto calle con l'argine secondo s'incrocicchia (1), dosso de l'arco (1), la seguente tomba (1)
+- runs: 18:73-136, 19:1-12
+
+## lo scoglio
+- en: the rock
+- surfaces: lo scoglio (1)
+- runs: 19:13-39
+
+## l'argine quarto
+- en: the fourth ledge
+- surfaces: l'argine quarto (1), fondo foracchiato e arto (1), colmo de l'arco (1), lo scoglio sconcio ed erto (1), duro scoglio (1), ponte (1), 'l colmo (1), la ripa (1), lo scoglio (1), lo scoglio duro (1), co del ponte (1)
+- runs: 19:40-133, 20:1-130, 21:1-66
+
+## ripa sesta
+- en: sixth bank
+- surfaces: ripa sesta (1), li scheggion del ponte (1), iscoglio (1), l'argine sinistro (1), la ripa (1)
+- runs: 21:67-139, 22:1-138
+
+## sopra 'l fosso
+- en: above the ditch
+- surfaces: sopra 'l fosso (1), bogliente stagno (1), collo de la ripa dura (1), pendente roccia (1), vivagno (1)
+- runs: 22:139-151, 23:1-51
+
+## letto del fondo giù
+- en: bed of the bottom
+- surfaces: letto del fondo giù (1), fossa quinta (1)
+- runs: 23:52-81
+
+## via stretta
+- en: narrow way
+- surfaces: via stretta (1), collegio de l'ipocriti (1), poste de le care piante (1)
+- runs: 23:82-148, 24:1-24
+
+## cima d'un ronchione
+- en: top of a block
+- surfaces: cima d'un ronchione (1), la costa (1), la punta (1), la prima giunta (1), lo scoglio (1), dosso de l'arco (1), il ponte (1)
+- runs: 24:25-81
+
+## l'ottava ripa
+- en: the eighth bank
+- surfaces: l'ottava ripa (1), la bolgia (1), nostra proda (1), la valle (1), questo calle (1), le scalee (1), la solinga via (1), l'ottava bolgia (1), fosso (1)
+- runs: 24:82-151, 25:1-151, 26:1-42
+
+## 'l ponte
+- en: the bridge
+- surfaces: 'l ponte (1), fondo (1)
+- runs: 26:43-142, 27:1-136
+
+## l'altr' arco
+- en: the other arch
+- surfaces: l'altr' arco (1), la dolente strada (1)
+- runs: 28:1-45
+
+## lo scoglio #2
+- en: the rock
+- surfaces: lo scoglio (1)
+- runs: 28:46-63
+
+## fosso
+- en: the ditch
+- surfaces: fosso (1)
+- runs: 28:64-126
+
+## piè del ponte
+- en: the foot of the bridge
+- surfaces: piè del ponte (1), ultima chiostra di Malebolge (1)
+- runs: 28:127-142, 29:1-51
+
+## ultima riva del lungo scoglio
+- en: last bank of the long rock
+- surfaces: ultima riva del lungo scoglio (1), lo tristo calle (1), greppo (1), misero vallone (1)
+- runs: 29:52-139, 30:1-148, 31:1-15
+
+## ripa
+- en: bank
+- surfaces: ripa (1), la proda (1), la ripa (1), fondo (1)
+- runs: 31:16-145, 32:1-12
+
+## pozzo scuro
+- en: dark pit
+- surfaces: pozzo scuro (1)
+- runs: 32:13-21
+
+## lago
+- en: lake
+- surfaces: lago (1), ghiaccia (1), l'Antenora (1), là 've la gelata (1), fredda crosta (1)
+- runs: 32:22-139, 33:1-117
+
+## Tolomea
+- en: Tolomea
+- surfaces: Tolomea (1), là dove l'ombre tutte eran coperte (1), Dite (1), la ghiaccia (1), là dove la coscia si volge, a punto in sul grosso de l'anche (1)
+- runs: 33:118-157, 34:1-81
+
+## cotali scale
+- en: such stairs
+- surfaces: cotali scale (1), lo fóro d'un sasso (1), l'orlo (1), natural burella (1), l'abisso (1), picciola spera (1), quel cammino ascoso (1)
+- runs: 34:82-139

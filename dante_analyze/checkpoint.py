@@ -7,6 +7,7 @@ import sys
 
 from ._paths import (
     READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
+    TOPOGRAPHY_DIR,
 )
 from .labels import fold_key
 
@@ -306,6 +307,53 @@ def load_locations(canticle, canto):
                     "basis_end": int(m.group("be")) if m.group("be") else bs,
                 })
         out[(s, e)] = locs
+    return out
+
+
+# A topography `## <region-id>` heading and a `- runs:` run "<canto>:<ls>-<le>" item.
+TOPO_RUN_RE = re.compile(r"^(?P<canto>\d+):(?P<ls>\d+)-(?P<le>\d+)$")
+
+
+def load_topography(canticle):
+    """{region_id: region} for a canticle from 10-topography/<canticle>.txt, or exit if absent.
+
+    `region` is a dict: `en` (English gloss), `surfaces` (list of (form, count) source place-terms
+    folded into the region), and `runs` (list of (canto, ls, le) — the contiguous source-line spans
+    the region covers, in journey order). A scene (canto, s, e) belongs to the region whose run in
+    that canto contains it (ls <= s, e <= le); the runs partition every scene of the canticle, so
+    `region_of(canto, s, e)` is total. Built by 10-topography/topography.py; the region-id is a
+    source-spelled representative term, the piecewise-constant fold of 09-location's surfaces."""
+    path = TOPOGRAPHY_DIR / f"{canticle}.txt"
+    if not path.exists():
+        print(f"Error: topography not found: {path} (run 10-topography/topography.py first)",
+              file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    region = None
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        h = REGISTRY_HEAD_RE.match(raw)
+        if h:
+            region = {"en": None, "surfaces": [], "runs": []}
+            out[h.group(1)] = region
+            continue
+        if region is None:
+            continue
+        f = REGISTRY_FIELD_RE.match(raw)
+        if not f:
+            continue
+        key, val = f.group(1), f.group(2).strip()
+        if key == "en":
+            region["en"] = val
+        elif key == "surfaces":
+            for item in (s.strip() for s in val.split(",") if s.strip()):
+                m = re.match(r"^(.*\S)\s+\((\d+)\)$", item)
+                if m:
+                    region["surfaces"].append((m.group(1), int(m.group(2))))
+        elif key == "runs":
+            for item in (s.strip() for s in val.split(",") if s.strip()):
+                m = TOPO_RUN_RE.match(item)
+                if m:
+                    region["runs"].append((int(m.group("canto")), int(m.group("ls")), int(m.group("le"))))
     return out
 
 

@@ -1,6 +1,6 @@
 from ._paths import (
     SCENE_DIR, MARKUP_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR,
-    LOCATION_DIR,
+    LOCATION_DIR, TOPOGRAPHY_DIR,
 )
 from .llm import MAX_LENGTH, LLM_RETRIES, call_llm, step_sep
 from .corpus import read_markup, available_cantos, load_scenes
@@ -15,21 +15,21 @@ from .checkpoint import (
     out_path, done_scene_ends, read_recap, iter_scene_blocks, scene_bodies,
     complete_scene_ends, restore_blocks, render_scene_block, append_canto,
     load_readings, load_tags, load_registry, load_speech, load_relations,
-    raw_to_canonical, load_kg, load_locations,
+    raw_to_canonical, load_kg, load_locations, load_topography,
 )
 from .prompts import build_reason_prompt
 
 __all__ = [
     # output dirs (project root)
     "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "TAGS_DIR", "REGISTRY_DIR", "SPEECH_DIR",
-    "RELATIONS_DIR", "KG_DIR", "LOCATION_DIR",
+    "RELATIONS_DIR", "KG_DIR", "LOCATION_DIR", "TOPOGRAPHY_DIR",
     # LLM boundary
     "MAX_LENGTH", "LLM_RETRIES", "call_llm", "step_sep",
     # inputs / corpus
     "read_markup", "available_cantos", "load_scenes",
     # output readers
     "load_readings", "load_tags", "load_registry", "load_speech", "load_relations",
-    "raw_to_canonical", "load_kg", "load_locations",
+    "raw_to_canonical", "load_kg", "load_locations", "load_topography",
     "scene_bodies", "iter_scene_blocks",
     "done_scene_ends", "complete_scene_ends", "read_recap", "restore_blocks",
     # tag numbering / parsing

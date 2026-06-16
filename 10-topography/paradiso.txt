@@ -1,0 +1,41 @@
+# Topography — paradiso
+
+## (unstated)
+- en: not stated
+- surfaces: -
+- runs: 1:1-63
+
+## etterne rote
+- en: eternal spheres
+- surfaces: etterne rote (1), piccioletta barca (1), mio legno (1), L'acqua (1), ove (1), questo loco (1), spera più tarda (1), questo regno (1), spera nostra (1), secondo regno (1), quel ciel (1), malacòth (1), 'l paese sincero (1)
+- runs: 1:64-142, 2:1-148, 3:1-130, 4:1-142, 5:1-139, 6:1-142, 7:1-148, 8:1-21
+
+## ella
+- en: the celestial rose
+- surfaces: ella (1), regno (1), cielo (1), questo cielo (1), dentro al sol (1), punto del cerchio (1), più alta salute (1), questo lume (1), questa pace (1), qua giù (1), quinta soglia de l'albero che vive de la cima (1)
+- runs: 8:22-148, 9:1-142, 10:1-148, 11:1-139, 12:1-145, 13:1-142, 14:1-139, 15:1-148, 16:1-154, 17:1-142, 18:1-69
+
+## temprata stella sesta
+- en: tempered sixth star
+- surfaces: temprata stella sesta (1), l'aguglia (1), questo tondo (1)
+- runs: 18:70-136, 19:1-148, 20:1-148
+
+## settimo splendore
+- en: seventh splendor
+- surfaces: settimo splendore (1), cristallo (1), questa rota (1), questa corte (1), cielo (1)
+- runs: 21:1-142, 22:1-105
+
+## quella scala
+- en: that stairway
+- surfaces: quella scala (1), quelle dape (1), l'alta corte santa (1)
+- runs: 22:106-154, 23:1-139, 24:1-114
+
+## ramo
+- en: branch
+- surfaces: ramo (1), mondo felice (1), questa dia regïon (1), questa corte (1), beato coro (1), questa aiuola (1), bel nido di Leda (1)
+- runs: 24:115-154, 25:1-139, 26:1-142, 27:1-102
+
+## qua sù
+- en: here above
+- surfaces: qua sù (2), questo giardino (2), ciel (1), miro e angelico templo (1), questo ciel (1), quest' acque (1), dintorno a questo consistorio (1), ciel ch'è pura luce (1), questo cielo (1), giallo de la rosa sempiterna (1), candida rosa (1), regno (1), l'etterna fontana (1), la rosa (1)
+- runs: 27:103-148, 28:1-139, 29:1-145, 30:1-148, 31:1-142, 32:1-151, 33:1-145
