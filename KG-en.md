@@ -6,7 +6,7 @@ assembly (`08-kg`) is pure code — no LLM — and is total by construction.
 
 | Step | Pass | Question it answers | LLM? |
 |------|------|---------------------|------|
-| 1 | `05-registry` | **What** is each figure (one canonical node per figure)? | yes — typing only |
+| 1 | `05-registry` | **What type** is each label-cluster (normalize cosmetics + type)? | yes — typing only |
 | 2 | `06-speech` | **Who** is speaking each quote span? | no |
 | 3 | `07-relations` | **Who does what to whom** (edges citing `[n]` tags)? | yes |
 | 4 | `08-kg` | **Assemble** — join all of the above into a graph. | no |
@@ -16,21 +16,33 @@ committed output at each step.
 
 ---
 
-## Step 1 — `05-registry`: fold per-scene labels into canonical nodes
+## Step 1 — `05-registry`: normalize labels into nodes, type them
 
-`04-tags` resolved *who* a tag is **per scene**, so the same figure carries different spellings in
-different scenes (`Virgilio`, `quel Virgilio`, `'l mio maestro`, …). The registry is the first pass
-that sees **every unit at once**: it folds those per-scene labels into one node per figure across
-all three canticles, picks a canonical spelling, assigns a node **type**, and attaches surface
-aliases with counts. This node set is what every later step joins onto by `fold_key`.
+`04-tags` names each tag **per scene** — it resolves what every mark (`[tu]`, `{Virgilio}`,
+`'l mio maestro`) refers to, based on the reading — but it does NOT cross-link tags: it never says
+"this tag and that tag are the same figure," so the same person can carry different labels across
+scenes (`il Navarrese`, `Navarrese`, `Lo Navarrese`). The registry is the first pass that sees
+**every unit at once**: it normalizes cosmetic label variants (case-fold + leading-article strip —
+`il Navarrese` and `Navarrese` fold into one node), picks a canonical spelling **globally** across
+all three canticles, assigns a node **type** (the only LLM stage), and inventories the surface forms
+(pronouns, epithets) that the markup carries. This node set is what every later step joins onto by
+`fold_key`.
+
+What the registry does **not** do: cross-tag coreference — merging genuinely different labels for
+the same figure (bare `Guido` = `Guido da Montefeltro`, `Maestro Adamo` = `Mastro Adamo`) — is not
+attempted in v1. See `KG-PROBLEM.md` for the identification gap and its impact on the graph.
 
 **Pipeline:** `gather (code) → fold-merge (code) → set-resolve (code) → type (LLM, cached) → render
 (code) → check (code)`. The only LLM stage is typing, and the LLM is only ever asked one thing: a
 closed-vocabulary type per node.
 
-- **Fold-merge (pure code)** deterministically collapses 2,922 spellings → **2,711 nodes**. The
-  canonical label is the most frequent original spelling in the group, decided **globally** over all
-  three canticles, so a cross-canticle figure (Dante, Virgilio, Beatrice) is one node, typed once.
+- **Fold-merge (pure code)** normalizes cosmetic label variants: case-fold + leading-article strip
+  (`la Fortuna`/`Fortuna`, `i Malebranche`/`Malebranche`, `il Navarrese`/`Navarrese`). It collapses
+  **2,923 distinct labels → 2,712 nodes** — 149 groups merge 360 labels, all case/article variants.
+  The merge is cosmetic only: labels that differ in content tokens (`Maestro Adamo` vs `Mastro
+  Adamo`, bare `Guido` vs `Guido da Montefeltro`) stay separate nodes. The canonical label is the
+  most frequent original spelling, decided **globally** over all three canticles, so a
+  cross-canticle figure (Dante, Virgilio, Beatrice) is one node, typed once.
 - **Node typing (LLM, cached)** classifies each non-set node once with a closed vocabulary —
   `individual | generic | class | hypothetical-simile | non-person` — in batches of 20. A concrete
   batch the model sees and answers:
@@ -42,7 +54,7 @@ closed-vocabulary type per node.
   ```
   ~2,550 nodes ÷ 20 ≈ **~128 calls** total — far fewer than typing per scene would be.
 
-**Example output (`inferno.txt`)** — the canonical node, its surfaces, and counts:
+**Example output (`inferno.txt`)** — the canonical node, its labels, and the surface inventory:
 
 ```
 ## Virgilio
@@ -55,16 +67,25 @@ closed-vocabulary type per node.
 - members: Dante | Virgilio
 ```
 
+`labels` has one entry because `04-tags` used the name "Virgilio" consistently across scenes (the
+readings identify him by name throughout); the `surfaces` are the **text forms** the markup carries
+(pronouns, epithets, the name itself) — an inventory, not nodes the registry merged. For figures
+whose `04-tags` labels varied cosmetically (`il Navarrese` / `Navarrese` / `Lo Navarrese`),
+fold-merge collapses them into one node; for figures whose labels are genuinely different words
+(`Maestro Adamo` vs `Mastro Adamo`), they stay separate nodes (see `KG-PROBLEM.md`).
+
 Typing lives here, not in `04-tags`, because the type is a **node** property (a global view of the
 figure), not a tag property: typing in `04-tags` would re-classify the same figure dozens of times
 (up to 16,030 tag lines) and risk a different type per scene, while here it is typed once per node
 (~2,550).
 
 **Measure-first design.** `measure.py` sized the problem before any prompt existed and produced
-**decision gates**. It *failed* the epithet-grouping gate (`epithet nodes/canticle < 150`), which is
-why v1 ships **Option A**: epithet grouping is skipped, and every non-name, non-set node keeps its
-own node flagged `- grouped: no`. A flagged singleton is safer than a merge the structural check
-cannot verify.
+**decision gates**. Both failed: the near-dupe gate (`base figures with longer forms < 50` → 346)
+and the epithet gate (`epithet nodes/canticle < 150` → 285–330). v1 ships **Option A**: epithet
+grouping is skipped, and every non-name, non-set node keeps its own node flagged `grouped: no`.
+A flagged singleton is safer than a merge the structural check cannot verify. See `KG-PROBLEM.md`
+for why the near-dupes are mostly false positives and what the identification gap means for the
+graph.
 
 ---
 
@@ -151,10 +172,10 @@ renumbers, which is what makes Step 4's join total.
 
 ## Scene 31-36: The Appearance of the Leopard
 - [1] chases [2] | frame: literal | lines 34-34
-- [3] chases [2] | frame: literal | lines 35-35
+- [3] chases [4] | frame: literal | lines 35-36
 
 ## Scene 67-75: Virgil's Introduction
-- [13] praises [14] | frame: reported | lines 73-74
+- [13] tells [14] | frame: reported | lines 73-73
 
 ## Scene 112-120: The Plan for the Journey
 - [6] guides [4] | frame: prophecy | lines 113-113
@@ -239,10 +260,12 @@ Geometry: **0 failures** across all 100 cantos. Name→node: **18 unresolved edg
 
 Each pass does **one kind of work**, with **one check**:
 
-- `04-tags` answers *who* (`n. Name`); `05-registry` answers *what kind of referent* (the type).
-  These are orthogonal questions, and the type is a node property (global), not a tag property
-  (per-scene) — folding it into `04-tags` would re-type the same figure dozens of times and risk a
-  different type per scene.
+- `04-tags` names each tag per scene (per-tag resolution, bound to the reading); `05-registry`
+  normalizes label cosmetics into nodes and types them. These are separate steps: a per-scene
+  pass cannot normalize across scenes, and the type is a node property (global), not a tag
+  property (per-scene) — folding typing into `04-tags` would re-type the same figure dozens of
+  times and risk a different type per scene. Cross-tag coreference (linking genuinely different
+  labels for the same figure) is not attempted in v1; see `KG-PROBLEM.md`.
 - `06-speech` answers *who is speaking* by geometry + join — pure code, so it can't disagree with
   the registry it joins onto.
 - `07-relations` answers *who does what to whom* and cites `[n]` tags rather than resolving them, so
@@ -253,9 +276,9 @@ Each pass does **one kind of work**, with **one check**:
 
 The measure-first discipline (`measure.py` in `05-registry` *and* `07-relations`) sizes the LLM
 residual on the **full** output before freezing any prompt, and produces decision gates that say
-whether the residual is tractable. The registry's epithet gate **failed** → v1 ships flagged
-singletons (`grouped: no`); relations' predicate gate **passed** (31 ≤ 40) → one closed list, no
-grouping pass.
+whether the residual is tractable. The registry's epithet and near-dupe gates both **failed** → v1
+ships flagged singletons (`grouped: no`); relations' predicate gate **passed** (31 ≤ 40) → one
+closed list, no grouping pass.
 
 Accuracy is improved by **changing the method, never by per-item patching**: flagged singletons over
 an unverifiable merge; a `node: null` residual that is counted as measurement rather than hand-fixed.
