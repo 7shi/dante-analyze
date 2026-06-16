@@ -1,0 +1,52 @@
+# Canto 11 — The Prayer of the Souls and the Vanity of Earthly Glory
+
+## Scene 1-12: The Souls' Praise
+- it: - | en: ledge | basis: 1-12
+
+## Scene 13-24: The Souls' Petitions
+- it: aspro diserto | en: harsh desert | basis: 14-14
+
+## Scene 25-30: Entering the First Ring
+- it: prima cornice | en: first cornice | basis: 29-29
+
+## Scene 31-36: Thoughts on Divine Intercession
+- it: - | en: first cornice | basis: 31-36
+
+## Scene 37-45: A Request for Direction
+- it: - | en: first cornice | basis: 37-45
+
+## Scene 46-57: Virgil's Guidance
+- it: - | en: first cornice | basis: 46-57
+
+## Scene 58-72: The Confession of Omberto
+- it: - | en: first cornice | basis: 58-72
+
+## Scene 73-81: Recognition and Inquiry
+- it: - | en: first cornice | basis: 73-81
+
+## Scene 82-90: The Sin of Pride
+- it: - | en: first cornice | basis: 82-90
+
+## Scene 91-99: The Ephemerality of Fame
+- it: - | en: first cornice | basis: 91-99
+
+## Scene 100-108: The Brevity of Earthly Goods
+- it: - | en: first cornice | basis: 100-108
+
+## Scene 109-117: The Fading of Sienese Glory
+- it: - | en: first cornice | basis: 109-117
+
+## Scene 118-120: Dante's Humble Response
+- it: - | en: first cornice | basis: 118-120
+
+## Scene 121-126: The Identification of Salvani
+- it: - | en: first cornice | basis: 121-126
+
+## Scene 127-132: A Question of Salvation
+- it: - | en: first cornice | basis: 127-132
+
+## Scene 133-142: The Story of the Great Sacrifice
+- it: - | en: first cornice | basis: 133-142
+
+# recap
+Final setting: first cornice

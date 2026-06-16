@@ -1,0 +1,48 @@
+# Canto 26 — The Eighth Bolgia and the Tale of Ulysses
+
+## Scene 1-12: The Prologue to Florence
+- it: - | en: this path | basis: 1-12
+
+## Scene 13-24: The Ascent and Reflection
+- it: le scalee | en: the stairs | basis: 13-13
+- it: la solinga via | en: the solitary path | basis: 16-16
+
+## Scene 25-33: The Sight of the Eighth Bolgia
+- it: - | en: the solitary path | basis: 25-32
+- it: l'ottava bolgia | en: the eighth bolgia | basis: 31-33
+
+## Scene 34-42: The Motion of the Flames
+- it: fosso | en: the ditch | basis: 41-41
+
+## Scene 43-48: Virgil's Explanation
+- it: 'l ponte | en: the bridge | basis: 43-43
+
+## Scene 49-63: The Inquiry of the Trojan Heroes
+- it: - | en: the bridge | basis: 49-63
+
+## Scene 64-75: Dante's Request and Virgil's Warning
+- it: - | en: the bridge | basis: 64-75
+
+## Scene 76-84: The Voice from the Flame
+- it: - | en: the bridge | basis: 76-84
+
+## Scene 85-99: Ulysses's Wandering Impulse
+- it: - | en: the bridge | basis: 85-99
+
+## Scene 100-105: The Voyage Through the Mediterranean
+- it: - | en: the bridge | basis: 100-105
+
+## Scene 106-120: The Pillars of Hercules and the Great Exhortation
+- it: - | en: the bridge | basis: 106-120
+
+## Scene 121-126: The Flight of the Crew
+- it: - | en: the bridge | basis: 121-126
+
+## Scene 127-132: Descent into the Southern Seas
+- it: - | en: the bridge | basis: 127-132
+
+## Scene 133-142: The Final Storm and Shipwreck
+- it: - | en: the bridge | basis: 133-142
+
+# recap
+Final setting: the bridge

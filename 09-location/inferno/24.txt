@@ -1,0 +1,50 @@
+# Canto 24 — The Descent into the Second Bolgia and the Prophecy of Vanni Fucci
+
+## Scene 1-15: The Peasant’s Morning
+- it: - | en: rows of the dear plants | basis: 1-15
+
+## Scene 16-24: Virgil’s Physical Aid
+- it: - | en: rows of the dear plants | basis: 16-18
+- it: guasto ponte | en: broken bridge | basis: 19-19
+
+## Scene 25-30: Virgil’s Climbing Method
+- it: cima d'un ronchione | en: top of a block | basis: 27-28
+
+## Scene 31-45: The Difficult Descent
+- it: - | en: top of a block | basis: 31-34
+- it: la costa | en: the slope | basis: 35-40
+- it: la punta | en: the point | basis: 41-42
+- it: la prima giunta | en: the first joint | basis: 45-45
+
+## Scene 46-60: Virgil’s Exhortation
+- it: - | en: the first joint | basis: 46-60
+
+## Scene 61-78: The Angry Voice
+- it: lo scoglio | en: the rock | basis: 61-61
+- it: dosso de l'arco | en: back of the arch | basis: 67-68
+
+## Scene 79-81: Entering the Bolgia
+- it: il ponte | en: the bridge | basis: 79-79
+- it: l'ottava ripa | en: the eighth bank | basis: 80-80
+- it: la bolgia | en: the ditch | basis: 81-81
+
+## Scene 82-96: The Pit of Serpents
+- it: - | en: the ditch | basis: 82-96
+
+## Scene 97-111: The Phoenix Metaphor
+- it: nostra proda | en: our bank | basis: 97-97
+
+## Scene 112-118: The Sinner’s Anguish
+- it: - | en: our bank | basis: 112-118
+
+## Scene 119-126: Vanni Fucci’s Identity
+- it: - | en: our bank | basis: 119-126
+
+## Scene 127-139: The Confession of Theft
+- it: - | en: our bank | basis: 127-139
+
+## Scene 140-151: The Prophecy of War
+- it: - | en: our bank | basis: 140-151
+
+# recap
+Final setting: our bank

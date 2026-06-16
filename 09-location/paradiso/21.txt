@@ -1,0 +1,52 @@
+# Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
+
+## Scene 1-18: Beatrice's Warning
+- it: settimo splendore | en: seventh splendor | basis: 13-13
+
+## Scene 19-24: Dante's Obedience
+- it: - | en: seventh splendor | basis: 19-24
+
+## Scene 25-33: Vision of the Golden Ladder
+- it: cristallo | en: the crystal | basis: 25-25
+
+## Scene 34-42: The Analogy of the Sun
+- it: - | en: the crystal | basis: 34-42
+
+## Scene 43-48: Dante's Hesitation
+- it: - | en: the crystal | basis: 43-48
+
+## Scene 49-60: The Inquiry of Silence
+- it: questa rota | en: this wheel | basis: 58-58
+
+## Scene 61-72: Beatrice's Explanation
+- it: - | en: this wheel | basis: 61-72
+
+## Scene 73-78: The Question of Predestination
+- it: questa corte | en: this court | basis: 74-74
+
+## Scene 79-87: The Light's Response
+- it: - | en: this court | basis: 79-87
+
+## Scene 88-102: The Limitation of Inquiry
+- it: - | en: this court | basis: 88-102
+
+## Scene 103-105: Dante's Pivot
+- it: - | en: this court | basis: 103-105
+
+## Scene 106-111: The Prophecy of Catria
+- it: - | en: this court | basis: 106-111
+
+## Scene 112-120: The Monk's Recollection
+- it: - | en: this court | basis: 112-120
+
+## Scene 121-126: The Revelation of Identity
+- it: - | en: this court | basis: 121-126
+
+## Scene 127-135: Lament for the Church
+- it: - | en: this court | basis: 127-135
+
+## Scene 136-142: The Celestial Shout
+- it: - | en: this court | basis: 141-141
+
+# recap
+Final setting: this court

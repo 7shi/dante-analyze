@@ -1,0 +1,49 @@
+# Canto 06 — The Encounter with Sordello and the Lament for Italy
+
+## Scene 1-9: The Dice Simile
+- it: - | en: in the shade behind the rock | basis: 1-9
+
+## Scene 10-24: The Catalog of the Crowd
+- it: - | en: in the shade behind the rock | basis: 10-24
+
+## Scene 25-33: Dante's Inquiry
+- it: - | en: in the shade behind the rock | basis: 25-33
+
+## Scene 34-48: Virgil's Theological Answer
+- it: - | en: in the shade behind the rock | basis: 34-48
+
+## Scene 49-51: Dante's Urgency
+- it: - | en: in the shade behind the rock | basis: 49-51
+
+## Scene 52-60: The Approaching Shadow
+- it: - | en: in the shade behind the rock | basis: 52-60
+
+## Scene 61-66: The Silent Lombard
+- it: - | en: in the shade behind the rock | basis: 61-66
+
+## Scene 67-75: The Reunion of Virgil and Sordello
+- it: - | en: in the shade behind the rock | basis: 67-75
+
+## Scene 76-84: The Lament for Italy
+- it: - | en: in the shade behind the rock | basis: 76-84
+
+## Scene 85-96: The Failure of Law
+- it: - | en: in the shade behind the rock | basis: 85-96
+
+## Scene 97-105: The Condemnation of Albert
+- it: - | en: in the shade behind the rock | basis: 97-105
+
+## Scene 106-117: The Chaos of Cities
+- it: - | en: in the shade behind the rock | basis: 106-117
+
+## Scene 118-126: An Appeal to Divine Justice
+- it: - | en: in the shade behind the rock | basis: 118-126
+
+## Scene 127-138: The Unrest of Florence
+- it: - | en: in the shade behind the rock | basis: 127-138
+
+## Scene 139-151: The Instability of Custom
+- it: - | en: in the shade behind the rock | basis: 139-151
+
+# recap
+Final setting: in the shade behind the rock

@@ -5,7 +5,9 @@ import json
 import re
 import sys
 
-from ._paths import READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR
+from ._paths import (
+    READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
+)
 from .labels import fold_key
 
 # A tags `n. Name` line (the authoritative resolution; line n = tag [n]).
@@ -269,6 +271,42 @@ def _load_kg_jsonl(canticle, part):
         print(f"Error: kg {part} not found: {path} (run 08-kg/assembly.py first)", file=sys.stderr)
         sys.exit(1)
     return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+
+# A location line: "- it: <source term> | en: <english gloss> | basis: <s>[-<e>]".
+LOCATION_LINE_RE = re.compile(
+    r"^-\s*it:\s*(?P<it>.*?)\s*\|\s*en:\s*(?P<en>.*?)\s*\|\s*"
+    r"basis:\s*(?P<bs>\d+)(?:-(?P<be>\d+))?\s*$"
+)
+
+
+def load_locations(canticle, canto):
+    """{(start, end): [loc, …]} for a canto from 09-location/<canticle>/NN.txt, or exit if absent.
+
+    Each loc is a dict {it, en, basis_start, basis_end}: `it` is the source-text place term (the
+    surface 10-topography folds; `-` when the setting is purely carried), `en` an English gloss,
+    and `basis_start`/`basis_end` the source line range that supports the setting (within the
+    scene). The first loc of a scene is the primary current setting. Built by 09-location/location.py."""
+    path = out_path(LOCATION_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: location not found: {path} (run 09-location/location.py first)",
+              file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    for (s, e), body in scene_bodies(path).items():
+        locs = []
+        for line in body.splitlines():
+            m = LOCATION_LINE_RE.match(line)
+            if m:
+                bs = int(m.group("bs"))
+                locs.append({
+                    "it": m.group("it"),
+                    "en": m.group("en"),
+                    "basis_start": bs,
+                    "basis_end": int(m.group("be")) if m.group("be") else bs,
+                })
+        out[(s, e)] = locs
+    return out
 
 
 def load_kg(canticle):

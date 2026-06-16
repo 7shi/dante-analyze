@@ -1,0 +1,86 @@
+# Canto 19 — The Siren's Song and the Vision of the Avaricious
+
+## Scene 1-6: The Astronomical Prologue
+- it: - | en: circle (giron) | basis: 1-6
+
+## Scene 7-9: The Monstrous Vision
+- it: - | en: circle (giron) | basis: 7-9
+
+## Scene 10-15: The Siren's Transformation
+- it: - | en: circle (giron) | basis: 10-15
+
+## Scene 16-24: The Song of the Siren
+- it: - | en: circle (giron) | basis: 16-24
+
+## Scene 25-27: The Holy Intervention
+- it: - | en: circle (giron) | basis: 25-27
+
+## Scene 28-33: The Siren's Revelations
+- it: - | en: circle (giron) | basis: 28-33
+
+## Scene 34-36: Virgil's Command
+- it: - | en: circle (giron) | basis: 34-36
+
+## Scene 37-39: The Ascent Begins
+- it: i giron del sacro monte | en: the circles of the sacred mountain | basis: 38-38
+
+## Scene 40-45: The Sweet Voice
+- it: - | en: the circles of the sacred mountain | basis: 40-45
+
+## Scene 46-51: The Appearance of the Angels
+- it: tra due pareti del duro macigno | en: between two walls of hard rock | basis: 48-48
+
+## Scene 52-54: Virgil's Inquiry
+- it: - | en: between two walls of hard rock | basis: 52-54
+
+## Scene 55-57: Dante's Disturbance
+- it: - | en: between two walls of hard rock | basis: 55-57
+
+## Scene 58-63: The Vision of the Wheel
+- it: - | en: between two walls of hard rock | basis: 58-63
+
+## Scene 64-69: The Falcon's Flight
+- it: - | en: between two walls of hard rock | basis: 64-68
+- it: dove 'l cerchiar si prende | en: where the circling begins | basis: 69-69
+
+## Scene 70-72: The Wailing Souls
+- it: quinto giro | en: fifth circle | basis: 70-70
+
+## Scene 73-75: The Audible Grief
+- it: - | en: fifth circle | basis: 73-75
+
+## Scene 76-78: The Prayer for Ascent
+- it: - | en: fifth circle | basis: 76-78
+
+## Scene 79-81: Virgil's Instruction
+- it: - | en: fifth circle | basis: 79-81
+
+## Scene 82-87: The Silent Agreement
+- it: - | en: fifth circle | basis: 82-87
+
+## Scene 88-96: The Approach to the Bishop
+- it: - | en: fifth circle | basis: 88-96
+
+## Scene 97-105: The Bishop's Identity
+- it: - | en: fifth circle | basis: 97-105
+
+## Scene 106-114: The Sin of Avarice
+- it: - | en: fifth circle | basis: 106-114
+
+## Scene 115-126: The Nature of the Punishment
+- it: - | en: fifth circle | basis: 115-126
+
+## Scene 127-130: Dante's Conscience
+- it: - | en: fifth circle | basis: 127-130
+
+## Scene 131-132: The Scruple of Guilt
+- it: - | en: fifth circle | basis: 131-132
+
+## Scene 133-138: The Dismissal
+- it: - | en: fifth circle | basis: 133-138
+
+## Scene 139-145: The Final Postscript
+- it: - | en: fifth circle | basis: 139-145
+
+# recap
+Final setting: fifth circle

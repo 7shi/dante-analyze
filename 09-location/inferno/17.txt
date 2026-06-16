@@ -1,0 +1,67 @@
+# Canto 17 — The Encounter with Geryon and the Descent into the Abyss
+
+## Scene 1-3: The Herald of the Beast
+- it: - | en: bank | basis: 1-3
+
+## Scene 4-9: The Beast Approaches
+- it: - | en: bank | basis: 4-4
+- it: proda | en: shore | basis: 5-9
+
+## Scene 10-18: Description of Geryon's Form
+- it: - | en: shore | basis: 10-18
+
+## Scene 19-27: The Serpent's Tail
+- it: orlo | en: edge | basis: 24-24
+
+## Scene 28-33: Changing Course
+- it: - | en: edge (orlo) | basis: 28-30
+- it: destra mammella | en: right breast | basis: 31-31
+- it: lo stremo | en: the edge | basis: 32-32
+
+## Scene 34-42: The Decision to Investigate
+- it: loco scemo | en: broken place | basis: 36-36
+
+## Scene 43-51: The Agony of the Souls
+- it: strema testa di quel settimo cerchio | en: extreme edge of the seventh circle | basis: 43-44
+
+## Scene 52-57: The Symbolic Pouches
+- it: - | en: extreme edge of the seventh circle | basis: 52-57
+
+## Scene 58-65: The Colors of Sin
+- it: - | en: extreme edge of the seventh circle | basis: 58-65
+
+## Scene 66-73: An Encounter with a Sinner
+- it: fossa | en: pit | basis: 66-66
+
+## Scene 74-78: Dante's Retreat
+- it: - | en: pit | basis: 74-78
+
+## Scene 79-84: Mounting the Beast
+- it: - | en: pit | basis: 79-84
+
+## Scene 85-90: Dante's Internal Terror
+- it: - | en: pit | basis: 85-90
+
+## Scene 91-99: The Instructions for Flight
+- it: - | en: pit | basis: 91-91
+- it: spallacce | en: shoulders | basis: 91-91
+
+## Scene 100-105: The Start of the Descent
+- it: - | en: shoulders | basis: 100-105
+
+## Scene 106-114: Mythological Parallels of Fear
+- it: l'aere | en: the air | basis: 113-113
+
+## Scene 115-123: The Sensory Chaos of the Fall
+- it: - | en: the air | basis: 115-123
+
+## Scene 124-126: Approaching the Abyss
+- it: - | en: the air | basis: 124-126
+
+## Scene 127-136: The Final Landing
+- it: - | en: the air | basis: 127-132
+- it: al fondo | en: the bottom | basis: 133-133
+- it: al piè al piè de la stagliata rocca | en: the foot of the jagged cliff | basis: 134-134
+
+# recap
+Final setting: the foot of the jagged cliff (al piè al piè de la stagliata rocca)

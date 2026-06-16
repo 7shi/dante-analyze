@@ -1,0 +1,65 @@
+# Canto 30 — The Vision of the Empyrean and the Celestial Rose
+
+## Scene 1-15: The Fading of the Earthly Light
+- it: - | en: here above | basis: 1-15
+
+## Scene 16-27: Praise for Beatrice
+- it: - | en: here above | basis: 16-27
+
+## Scene 28-33: The Limits of Poetry
+- it: - | en: here above | basis: 28-33
+
+## Scene 34-45: The Angelic Trumpet
+- it: - | en: here above | basis: 34-38
+- it: ciel ch'è pura luce | en: heaven that is pure light | basis: 39-39
+
+## Scene 46-54: The Blinding Light
+- it: questo cielo | en: this heaven | basis: 52-52
+
+## Scene 55-60: The Overwhelming Vision
+- it: - | en: this heaven | basis: 55-60
+
+## Scene 61-69: The Luminous River
+- it: - | en: this heaven | basis: 61-69
+
+## Scene 70-75: The Voice of the Light
+- it: - | en: this heaven | basis: 70-75
+
+## Scene 76-81: Instruction on Perception
+- it: - | en: this heaven | basis: 76-81
+
+## Scene 82-90: Dante's Immersive Drinking
+- it: - | en: this heaven | basis: 82-90
+
+## Scene 91-96: The Revelation of the Two Courts
+- it: - | en: this heaven | basis: 91-96
+
+## Scene 97-102: The Prayer to God
+- it: - | en: this heaven | basis: 97-102
+
+## Scene 103-108: The Geometry of the Light
+- it: - | en: this heaven | basis: 103-108
+
+## Scene 109-114: The Mirroring of the Saints
+- it: - | en: this heaven | basis: 109-114
+
+## Scene 115-123: The Magnitude of the Rose
+- it: - | en: this heaven | basis: 115-123
+
+## Scene 124-127: The Scent of Praise
+- it: giallo de la rosa sempiterna | en: the yellow of the everlasting rose | basis: 124-124
+
+## Scene 128-132: Beatrice Points to the Assembly
+- it: - | en: the yellow of the everlasting rose | basis: 128-132
+
+## Scene 133-138: The Prophecy of Henry VII
+- it: - | en: the yellow of the everlasting rose | basis: 133-138
+
+## Scene 139-141: The Warning Against Greed
+- it: - | en: the yellow of the everlasting rose | basis: 139-141
+
+## Scene 142-148: The Fate of the Simoniac
+- it: - | en: the yellow of the everlasting rose | basis: 142-148
+
+# recap
+Final setting: the yellow of the everlasting rose

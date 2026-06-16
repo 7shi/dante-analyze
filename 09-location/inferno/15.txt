@@ -1,0 +1,49 @@
+# Canto 15 — The Encounter with Brunetto Latino
+
+## Scene 1-12: The Simile of the Flooding Banks
+- it: margini | en: banks | basis: 1-1
+
+## Scene 13-21: The Approaching Procession
+- it: l'argine | en: the bank | basis: 17-17
+
+## Scene 22-30: The Recognition of Dante
+- it: - | en: the bank | basis: 22-30
+
+## Scene 31-42: Brunetto's Instructions
+- it: - | en: the bank | basis: 31-42
+
+## Scene 43-54: Dante's Explanation of his Descent
+- it: la strada | en: the road | basis: 43-43
+
+## Scene 55-60: The Promise of Destiny
+- it: - | en: the road | basis: 55-60
+
+## Scene 61-69: The Warning Against Fiesole
+- it: - | en: the road | basis: 61-69
+
+## Scene 70-78: The Prophecy of the Holy Seed
+- it: - | en: the road | basis: 70-78
+
+## Scene 79-87: Dante's Tribute to his Teacher
+- it: - | en: the road | basis: 79-87
+
+## Scene 88-96: Acceptance of Fortune
+- it: - | en: the road | basis: 88-96
+
+## Scene 97-99: Virgil's Instruction
+- it: la gota | en: the edge | basis: 97-97
+
+## Scene 100-105: Dante's Inquiry
+- it: - | en: the edge | basis: 100-105
+
+## Scene 106-114: The Catalog of Scholars
+- it: - | en: the edge | basis: 106-114
+
+## Scene 115-120: The Interrupted Farewell
+- it: - | en: the edge | basis: 115-120
+
+## Scene 121-124: The Final Simile
+- it: - | en: the edge | basis: 121-124
+
+# recap
+Final setting: the edge

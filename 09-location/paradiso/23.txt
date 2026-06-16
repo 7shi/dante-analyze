@@ -1,0 +1,56 @@
+# Canto 23 — The Radiance of Beatrice and the Celestial Harmony
+
+## Scene 1-15: The Simile of the Bird
+- it: - | en: that stairway | basis: 1-15
+
+## Scene 16-24: Beatrice's Proclamation
+- it: - | en: that stairway | basis: 16-24
+
+## Scene 25-33: The Vision of the Sun
+- it: - | en: that stairway | basis: 25-33
+
+## Scene 34-39: The Source of Virtue
+- it: - | en: that stairway | basis: 34-39
+
+## Scene 40-48: Expansion of the Mind
+- it: - | en: that stairway | basis: 40-42
+- it: quelle dape | en: those openings | basis: 43-43
+
+## Scene 49-63: The Limit of Language
+- it: - | en: those openings | basis: 49-63
+
+## Scene 64-69: The Weight of the Subject
+- it: - | en: those openings | basis: 64-69
+
+## Scene 70-75: The Call to the Rose
+- it: - | en: those openings | basis: 70-75
+
+## Scene 76-78: Focusing the Gaze
+- it: - | en: those openings | basis: 76-78
+
+## Scene 79-84: The Burst of Light
+- it: - | en: those openings | basis: 79-84
+
+## Scene 85-96: The Crown of Light
+- it: - | en: those openings | basis: 85-96
+
+## Scene 97-102: The Celestial Lyre
+- it: - | en: those openings | basis: 97-102
+
+## Scene 103-108: The Voice of Angelic Love
+- it: - | en: those openings | basis: 103-108
+
+## Scene 109-111: The Chorus of Mary
+- it: - | en: those openings | basis: 109-111
+
+## Scene 112-120: The Distant Shore
+- it: - | en: those openings | basis: 112-120
+
+## Scene 121-129: The Simile of the Infants
+- it: - | en: those openings | basis: 121-129
+
+## Scene 130-139: The Triumph of the Saints
+- it: - | en: those openings | basis: 130-139
+
+# recap
+Final setting: those openings

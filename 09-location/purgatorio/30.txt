@@ -1,0 +1,56 @@
+# Canto 30 — The Arrival of Beatrice and the Vision of the Blessed
+
+## Scene 1-9: The Settling of the First Heaven
+- it: primo cielo | en: first heaven | basis: 1-1
+
+## Scene 10-12: The Herald's Cry
+- it: - | en: first heaven (primo cielo) | basis: 10-12
+
+## Scene 13-21: The Anthem of the Blessed
+- it: divina basterna | en: divine terrace | basis: 16-16
+
+## Scene 22-33: The Appearance of the Lady
+- it: - | en: divine terrace | basis: 22-33
+
+## Scene 34-39: Spiritual Recognition
+- it: - | en: divine terrace | basis: 34-39
+
+## Scene 40-48: Dante's Trembling
+- it: - | en: divine terrace | basis: 40-48
+
+## Scene 49-54: Lament for Virgil
+- it: - | en: divine terrace | basis: 49-54
+
+## Scene 55-57: Virgil's Warning
+- it: - | en: divine terrace | basis: 55-57
+
+## Scene 58-66: Beatrice's Gaze
+- it: carro | en: chariot | basis: 61-61
+
+## Scene 67-75: The Greeting of Beatrice
+- it: - | en: chariot | basis: 67-75
+
+## Scene 76-81: Dante's Shame
+- it: chiaro fonte | en: clear fountain | basis: 76-76
+- it: erba | en: grass | basis: 77-77
+
+## Scene 82-84: Interrupted Song
+- it: - | en: grass | basis: 82-84
+
+## Scene 85-99: The Release of Tears
+- it: - | en: grass | basis: 85-99
+
+## Scene 100-117: Theology of Grace
+- it: coscia del carro | en: the step of the chariot | basis: 100-101
+
+## Scene 118-126: The Metaphor of the Uncultivated Soil
+- it: - | en: the step of the chariot | basis: 118-126
+
+## Scene 127-138: The Descent into Error
+- it: - | en: the step of the chariot | basis: 127-138
+
+## Scene 139-145: The Necessity of Repentance
+- it: - | en: the step of the chariot | basis: 139-145
+
+# recap
+Final setting: the step of the chariot

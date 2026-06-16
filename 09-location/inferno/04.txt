@@ -1,0 +1,67 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+
+## Scene 1-6: The Awakening
+- it: - | en: the dark countryside | basis: 1-6
+
+## Scene 7-12: The Valley of Sorrow
+- it: la proda | en: the bank | basis: 7-8
+
+## Scene 13-18: The Command to Descend
+- it: - | en: the bank | basis: 13-18
+
+## Scene 19-24: Entering the First Circle
+- it: - | en: the bank | basis: 19-23
+- it: primo cerchio | en: the first circle | basis: 24-24
+
+## Scene 25-30: The Sighing Spirits
+- it: - | en: the first circle | basis: 25-25
+
+## Scene 31-42: The Nature of Limbo
+- it: - | en: the first circle | basis: 31-42
+
+## Scene 43-50: Dante's Inquiry
+- it: - | en: the first circle | basis: 43-50
+
+## Scene 51-63: The Descent of the Patriarchs
+- it: - | en: the first circle | basis: 51-63
+
+## Scene 64-66: Through the Dense Forest
+- it: la selva | en: the wood | basis: 65-66
+
+## Scene 67-78: The Discovery of the Light
+- it: - | en: the wood | basis: 67-78
+
+## Scene 79-81: The Divine Voice
+- it: - | en: the wood | basis: 79-81
+
+## Scene 82-93: The Meeting of the Great Poets
+- it: - | en: the wood | basis: 82-93
+
+## Scene 94-102: The Assembly of Wisdom
+- it: - | en: the wood | basis: 94-102
+
+## Scene 103-111: The Noble Castle
+- it: - | en: the wood | basis: 103-105
+- it: piè d'un nobile castello | en: the foot of a noble castle | basis: 106-106
+- it: prato di fresca verdura | en: a meadow of fresh greenery | basis: 111-111
+
+## Scene 112-117: The Meadow of Spirits
+- it: - | en: a meadow of fresh greenery | basis: 112-115
+- it: loco aperto, luminoso e alto | en: an open, luminous and high place | basis: 116-116
+
+## Scene 118-129: The Hall of Heroes
+- it: - | en: an open, luminous and high place | basis: 118-129
+
+## Scene 130-144: The School of Philosophers
+- it: - | en: an open, luminous and high place | basis: 130-144
+
+## Scene 145-147: The Poet's Limitation
+- it: - | en: an open, luminous and high place | basis: 145-147
+
+## Scene 148-151: Moving Toward the Light
+- it: - | en: an open, luminous and high place | basis: 148-149
+- it: l'aura che trema | en: the trembling air | basis: 150-150
+- it: parte ove non è che luca | en: a part where there is only light | basis: 151-151
+
+# recap
+Final setting: a part where there is only light (parte ove non è che luca)

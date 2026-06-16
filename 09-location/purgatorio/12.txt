@@ -1,0 +1,46 @@
+# Canto 12 — The Ascent from Hell and the Signs of the Fallen
+
+## Scene 1-12: The separation of the travelers
+- it: - | en: first cornice | basis: 1-12
+
+## Scene 13-24: The warning to watch the path
+- it: - | en: first cornice | basis: 13-24
+
+## Scene 25-36: The sight of the Giants
+- it: - | en: first cornice | basis: 25-36
+
+## Scene 37-45: The signs of tragic figures
+- it: - | en: first cornice | basis: 37-45
+
+## Scene 46-54: The symbols of fallen kings
+- it: - | en: first cornice | basis: 46-54
+
+## Scene 55-63: The remnants of war and ruin
+- it: - | en: first cornice | basis: 55-63
+
+## Scene 64-69: Dante's reaction to the imagery
+- it: - | en: first cornice | basis: 64-69
+
+## Scene 70-78: The command to look upward
+- it: - | en: first cornice | basis: 70-78
+
+## Scene 79-84: The approaching messenger
+- it: - | en: first cornice | basis: 79-84
+
+## Scene 85-96: The arrival of the angel
+- it: - | en: first cornice | basis: 85-96
+
+## Scene 97-108: The difficult climb
+- it: ove la roccia era tagliata | en: where the rock was cut | basis: 97-97
+
+## Scene 109-114: The transition in song
+- it: - | en: where the rock was cut | basis: 109-109
+
+## Scene 115-126: The mystery of the weightless ascent
+- it: li scaglion santi | en: the holy steps | basis: 115-115
+
+## Scene 127-136: The discovery of the inscription
+- it: - | en: the holy steps | basis: 127-136
+
+# recap
+Final setting: the holy steps

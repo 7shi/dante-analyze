@@ -1,0 +1,78 @@
+# Canto 32 — The Celestial Vision and the Succession of Beasts
+
+## Scene 1-12: The Sensory Blindness
+- it: - | en: before the emeralds | basis: 1-12
+
+## Scene 13-24: The Movement of the Heavenly Host
+- it: - | en: before the emeralds | basis: 13-24
+
+## Scene 25-33: The Descent of the Griffin
+- it: - | en: before the emeralds | basis: 25-30
+- it: l'alta selva vòta | en: the high empty forest | basis: 31-31
+
+## Scene 34-36: Beatrice's Descent
+- it: - | en: the high empty forest | basis: 34-36
+
+## Scene 37-42: The Bare Tree
+- it: - | en: the high empty forest | basis: 37-42
+
+## Scene 43-48: The Voice of the Griffin
+- it: dintorno a l'albero robusto | en: around the robust tree | basis: 46-46
+
+## Scene 49-51: The Tied Branch
+- it: - | en: around the robust tree | basis: 49-51
+
+## Scene 52-60: The Transformation of the Tree
+- it: - | en: around the robust tree | basis: 52-60
+
+## Scene 61-69: The Limits of Description
+- it: - | en: around the robust tree | basis: 61-69
+
+## Scene 70-78: The Awakening of the Apostles
+- it: - | en: around the robust tree | basis: 70-78
+
+## Scene 79-81: The Diminished School
+- it: - | en: around the robust tree | basis: 79-81
+
+## Scene 82-90: The Reencounter with Beatrice
+- it: - | en: around the robust tree | basis: 82-90
+
+## Scene 91-93: The Closed Senses
+- it: - | en: around the robust tree | basis: 91-93
+
+## Scene 94-99: The Guard of the Nymphs
+- it: - | en: around the robust tree | basis: 94-99
+
+## Scene 100-105: Beatrice's Command
+- it: - | en: around the robust tree | basis: 100-105
+
+## Scene 106-108: Dante's Devotion
+- it: - | en: around the robust tree | basis: 106-108
+
+## Scene 109-117: The Eagle's Strike
+- it: - | en: around the robust tree | basis: 109-117
+
+## Scene 118-123: The Attack of the Fox
+- it: - | en: around the robust tree | basis: 118-123
+
+## Scene 124-129: The Descent of the Needle
+- it: - | en: around the robust tree | basis: 124-129
+
+## Scene 130-135: The Dragon's Emergence
+- it: - | en: around the robust tree | basis: 130-135
+
+## Scene 136-141: The Covering of the Earth
+- it: - | en: around the robust tree | basis: 136-141
+
+## Scene 142-147: The Appearance of the Monster
+- it: - | en: around the robust tree | basis: 142-147
+
+## Scene 148-153: The Proximity of the Giant
+- it: - | en: around the robust tree | basis: 148-153
+
+## Scene 154-160: The Final Violence
+- it: - | en: around the robust tree | basis: 154-157
+- it: la selva | en: the forest | basis: 158-160
+
+# recap
+Final setting: the forest (la selva)

@@ -1,0 +1,43 @@
+# Canto 04 — Beatrice Resolves Dante's Theological Doubts
+
+## Scene 1-12: Dante's Internal Tension
+- it: - | en: our sphere | basis: 1-12
+
+## Scene 13-24: The First Doubt: Plato's Theory
+- it: - | en: our sphere | basis: 13-24
+
+## Scene 25-39: The Hierarchy of the First Heaven
+- it: - | en: our sphere | basis: 25-39
+
+## Scene 40-48: The Use of Anthropomorphism in Scripture
+- it: - | en: our sphere | basis: 40-48
+
+## Scene 49-63: Correcting the Error of Astrology
+- it: - | en: our sphere | basis: 50-50
+
+## Scene 64-72: Transition to the Second Doubt
+- it: - | en: our sphere | basis: 64-72
+
+## Scene 73-87: The Distinction Between Will and Force
+- it: - | en: our sphere | basis: 73-87
+
+## Scene 88-99: The Paradox of Piccarda and Costanza
+- it: - | en: our sphere | basis: 88-99
+
+## Scene 100-114: The Intersection of Force and Will
+- it: - | en: our sphere | basis: 100-114
+
+## Scene 115-117: The Resolution of Conflict
+- it: - | en: our sphere | basis: 115-117
+
+## Scene 118-129: Dante's Meditation on Truth
+- it: - | en: our sphere | basis: 118-129
+
+## Scene 130-138: The New Inquiry
+- it: - | en: our sphere | basis: 130-138
+
+## Scene 139-142: Beatrice's Divine Gaze
+- it: - | en: our sphere | basis: 139-142
+
+# recap
+Final setting: our sphere

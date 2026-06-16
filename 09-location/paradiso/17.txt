@@ -1,0 +1,49 @@
+# Canto 17 — The Prophecy of Exile and the Vision of the Great Lombard
+
+## Scene 1-6: The Mythological Parallel
+- it: - | en: this peace | basis: 1-6
+
+## Scene 7-12: Beatrice's Instruction
+- it: - | en: this peace | basis: 7-12
+
+## Scene 13-27: Dante's Plea for Knowledge
+- it: - | en: this peace | basis: 13-27
+
+## Scene 28-36: The Divine Response
+- it: - | en: this peace | basis: 28-36
+
+## Scene 37-45: The Theology of Contingency
+- it: - | en: this peace | basis: 37-45
+
+## Scene 46-54: The Prediction of Exile
+- it: - | en: this peace | basis: 46-54
+
+## Scene 55-69: The Hardships of Exile
+- it: - | en: this peace | basis: 55-69
+
+## Scene 70-75: The First Refuge
+- it: - | en: this peace | basis: 70-75
+
+## Scene 76-84: The Rise of the Virtuous Leader
+- it: - | en: this peace | basis: 76-84
+
+## Scene 85-93: The Global Impact of the Leader
+- it: - | en: this peace | basis: 85-93
+
+## Scene 94-99: A Warning Against Envy
+- it: - | en: this peace | basis: 94-99
+
+## Scene 100-105: Dante's Request for Counsel
+- it: - | en: this peace | basis: 100-105
+
+## Scene 106-120: Dante's Existential Fear
+- it: - | en: this peace | basis: 106-120
+
+## Scene 121-135: The Necessity of Bitter Truth
+- it: - | en: this peace | basis: 121-135
+
+## Scene 136-142: The Purpose of the Vision
+- it: - | en: this peace | basis: 136-142
+
+# recap
+Final setting: this peace

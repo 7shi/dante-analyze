@@ -1,0 +1,70 @@
+# Canto 31 — The Sphinx's Instruction and the Celestial Dance
+
+## Scene 1-6: The Sphinx's Accusation
+- it: - | en: the step of the chariot | basis: 1-6
+
+## Scene 7-15: Dante's Hesitant Response
+- it: - | en: the step of the chariot | basis: 7-15
+
+## Scene 16-21: The Burst of Sorrow
+- it: - | en: the step of the chariot | basis: 16-21
+
+## Scene 22-30: The Sphinx's Inquiry
+- it: - | en: the step of the chariot | basis: 22-30
+
+## Scene 31-36: The Confession of Sin
+- it: - | en: the step of the chariot | basis: 31-36
+
+## Scene 37-48: The Command to Listen
+- it: - | en: the step of the chariot | basis: 37-48
+
+## Scene 49-63: The Vanity of Earthly Beauty
+- it: - | en: the step of the chariot | basis: 49-63
+
+## Scene 64-69: A Call to Courage
+- it: - | en: the step of the chariot | basis: 64-69
+
+## Scene 70-75: The Simile of the Stripped Tree
+- it: - | en: the step of the chariot | basis: 70-75
+
+## Scene 76-84: The Vision of Beatrice
+- it: - | en: the step of the chariot | basis: 76-84
+
+## Scene 85-90: The Sting of Repentance
+- it: - | en: the step of the chariot | basis: 85-90
+
+## Scene 91-96: Crossing the River
+- it: - | en: the step of the chariot | basis: 91-93
+- it: fiume | en: river | basis: 94-94
+- it: acqua | en: water | basis: 96-96
+
+## Scene 97-105: Arrival at the Blessed Shore
+- it: beata riva | en: blessed shore | basis: 97-97
+- it: acqua | en: water | basis: 102-102
+- it: danza de le quattro belle | en: dance of the four beauties | basis: 104-104
+
+## Scene 106-111: The Nymphs' Identity
+- it: - | en: dance of the four beauties | basis: 106-111
+
+## Scene 112-117: The Procession to the Griffin
+- it: - | en: dance of the four beauties | basis: 112-112
+- it: al petto del grifon | en: the breast of the griffin | basis: 113-113
+- it: dinanzi a li smeraldi | en: before the emeralds | basis: 116-116
+
+## Scene 118-123: The Splendor of the Griffin
+- it: - | en: before the emeralds | basis: 118-123
+
+## Scene 124-126: Dante's Wonder
+- it: - | en: before the emeralds | basis: 124-126
+
+## Scene 127-132: The Celestial Dance
+- it: - | en: before the emeralds | basis: 127-132
+
+## Scene 133-138: The Song of the Nymphs
+- it: - | en: before the emeralds | basis: 133-138
+
+## Scene 139-145: Hymn to Eternal Light
+- it: - | en: before the emeralds | basis: 139-145
+
+# recap
+Final setting: before the emeralds

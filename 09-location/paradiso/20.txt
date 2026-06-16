@@ -1,0 +1,74 @@
+# Canto 20 — The Celestial Lights and the Mystery of Divine Will
+
+## Scene 1-12: The Vision of the Heavens
+- it: - | en: tempered sixth star | basis: 1-12
+
+## Scene 13-18: Reflection on the Angelic Lights
+- it: - | en: tempered sixth star | basis: 13-18
+
+## Scene 19-27: The Sound of the Stream
+- it: - | en: tempered sixth star | basis: 19-25
+- it: l'aguglia | en: the needle | basis: 26-27
+
+## Scene 28-30: The Emergence of the Voice
+- it: - | en: the needle | basis: 28-30
+
+## Scene 31-36: The First Light: The Holy Spirit's Cantor
+- it: - | en: the needle | basis: 31-36
+
+## Scene 37-42: The Glory of the Cantor
+- it: - | en: the needle | basis: 37-42
+
+## Scene 43-48: The Second Light: The Widow's Comfort
+- it: - | en: the needle (l'aguglia) | basis: 43-48
+
+## Scene 49-54: The Third Light: The Penitent
+- it: - | en: the needle (l'aguglia) | basis: 49-54
+
+## Scene 55-60: The Fourth Light: The Good Intention
+- it: - | en: the needle (l'aguglia) | basis: 55-60
+
+## Scene 61-66: The Fifth Light: The Just King
+- it: - | en: the needle | basis: 61-66
+
+## Scene 67-72: The Fifth Light Revealed: Rifeyo
+- it: questo tondo | en: this circle | basis: 68-68
+
+## Scene 73-78: Analogy of the Satisfied Bird
+- it: - | en: this circle | basis: 73-78
+
+## Scene 79-84: Dante's Inquiry
+- it: - | en: this circle | basis: 79-84
+
+## Scene 85-93: The Mystery of Essence
+- it: - | en: this circle | basis: 85-93
+
+## Scene 94-99: The Paradox of Divine Will
+- it: - | en: this circle | basis: 94-99
+
+## Scene 100-105: The Nature of the First and Fifth Lights
+- it: - | en: this circle | basis: 100-105
+
+## Scene 106-117: The Story of the First Light's Rebirth
+- it: - | en: this circle | basis: 106-117
+
+## Scene 118-126: The Story of the Second Light's Conversion
+- it: - | en: this circle | basis: 118-126
+
+## Scene 127-129: The Identity of the Three Women
+- it: - | en: this circle | basis: 127-129
+
+## Scene 130-132: A Lament on Predestination
+- it: - | en: this circle | basis: 130-132
+
+## Scene 133-138: The Limits of Mortal Judgment
+- it: - | en: this circle | basis: 133-138
+
+## Scene 139-141: The Healing Word
+- it: - | en: this circle | basis: 139-141
+
+## Scene 142-148: The Harmony of Light and Word
+- it: - | en: this circle | basis: 142-148
+
+# recap
+Final setting: this circle

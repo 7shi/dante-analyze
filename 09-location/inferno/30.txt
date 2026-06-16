@@ -1,0 +1,94 @@
+# Canto 30 — The Furies of Fraud: The Biting Shadows and the Quarrel of the Counterfeiters
+
+## Scene 1-12: The Madness of Atamante
+- it: - | en: the dreary path | basis: 1-12
+
+## Scene 13-21: The Grief of Hecuba
+- it: - | en: the dreary path | basis: 13-21
+
+## Scene 22-27: The Two Biting Shadows
+- it: - | en: the dreary path | basis: 22-27
+
+## Scene 28-33: Identification of Gianni Schicchi
+- it: - | en: the dreary path | basis: 28-33
+
+## Scene 34-36: Dante's Urgency
+- it: - | en: the dreary path | basis: 34-36
+
+## Scene 37-39: The Soul of Mirra
+- it: - | en: the dreary path | basis: 37-39
+
+## Scene 40-45: The Soul of Buoso Donati
+- it: - | en: the dreary path | basis: 40-45
+
+## Scene 46-48: A Shift in Vision
+- it: - | en: the dreary path | basis: 46-48
+
+## Scene 49-57: The Man with Dropsy
+- it: - | en: the dreary path | basis: 49-57
+
+## Scene 58-63: The Thirst of Master Adam
+- it: - | en: the dreary path | basis: 58-63
+
+## Scene 64-69: The Vision of the Arno
+- it: - | en: the dreary path | basis: 64-69
+
+## Scene 70-75: Confession of Forgery
+- it: - | en: the dreary path | basis: 70-75
+
+## Scene 76-78: Fear of the Great Fraudsters
+- it: - | en: the dreary path | basis: 76-78
+
+## Scene 79-81: The Imprisoned Soul
+- it: - | en: the dreary path | basis: 79-81
+
+## Scene 82-87: The Difficulty of Movement
+- it: - | en: the dreary path | basis: 82-87
+
+## Scene 88-90: The Motive for Counterfeiting
+- it: - | en: the dreary path | basis: 88-90
+
+## Scene 91-93: Inquiry of the Neighbors
+- it: - | en: the dreary path | basis: 91-93
+
+## Scene 94-99: The Accuser and the Deceiver
+- it: greppo | en: cliff | basis: 95-95
+
+## Scene 100-103: The Physical Strike
+- it: - | en: cliff | basis: 100-103
+
+## Scene 104-108: Adam's Counter-strike
+- it: - | en: cliff | basis: 104-108
+
+## Scene 109-111: The Coinage Insult
+- it: - | en: cliff | basis: 109-111
+
+## Scene 112-114: The Witness Accusation
+- it: - | en: cliff | basis: 112-114
+
+## Scene 115-117: The Argument of Fault
+- it: - | en: cliff | basis: 115-117
+
+## Scene 118-120: The Reminder of the Horse
+- it: - | en: cliff | basis: 118-120
+
+## Scene 121-123: The Greek's Curse
+- it: - | en: cliff | basis: 121-123
+
+## Scene 124-129: The Narcissus Insult
+- it: - | en: cliff | basis: 124-129
+
+## Scene 130-132: Virgil's Warning
+- it: - | en: cliff | basis: 130-132
+
+## Scene 133-135: Dante's Shame
+- it: - | en: cliff | basis: 133-135
+
+## Scene 136-141: The Agony of Empathy
+- it: - | en: cliff | basis: 136-141
+
+## Scene 142-148: Virgil's Moral Lesson
+- it: - | en: cliff | basis: 142-148
+
+# recap
+Final setting: cliff

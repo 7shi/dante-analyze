@@ -1,0 +1,41 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+
+## Scene 1-18: The Evening Hymn
+- it: - | en: the side of the hollow | basis: 1-18
+
+## Scene 19-30: The Descent of the Angels
+- it: - | en: the side of the hollow | basis: 19-30
+
+## Scene 31-36: The Crowd's Reaction
+- it: - | en: the side of the hollow | basis: 31-36
+
+## Scene 37-45: Sordello's Warning
+- it: - | en: the side of the hollow | basis: 37-45
+
+## Scene 46-55: Meeting the Gentle Judge
+- it: - | en: the side of the hollow | basis: 46-46
+- it: di sotto | en: below | basis: 47-47
+
+## Scene 56-63: The Inquiry of Origins
+- it: - | en: below | basis: 56-63
+
+## Scene 64-81: The Message for Giovanna
+- it: - | en: below | basis: 64-81
+
+## Scene 82-93: Celestial Observations
+- it: - | en: below | basis: 82-93
+
+## Scene 94-108: The Serpent's Intrusion
+- it: la picciola vallea | en: the little valley | basis: 98-98
+
+## Scene 109-120: The Identification of Currado
+- it: - | en: the little valley | basis: 109-120
+
+## Scene 121-132: Praise for the Malaspina
+- it: - | en: the little valley | basis: 121-132
+
+## Scene 133-139: The Judge's Dismissal
+- it: - | en: the little valley | basis: 133-139
+
+# recap
+Final setting: the little valley

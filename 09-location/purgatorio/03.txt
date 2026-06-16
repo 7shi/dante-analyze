@@ -1,0 +1,55 @@
+# Canto 03 — The Encounter with Manfred and the Limits of Reason
+
+## Scene 1-9: Dante's Internal Turmoil
+- it: - | en: deserted shore | basis: 1-9
+
+## Scene 10-15: The Widening View
+- it: - | en: deserted shore | basis: 10-15
+
+## Scene 16-30: The Obscured Sun
+- it: terra oscura | en: dark earth | basis: 21-21
+
+## Scene 31-45: The Limits of Reason
+- it: - | en: dark earth | basis: 31-45
+
+## Scene 46-54: The Steep Ascent
+- it: piè del monte | en: foot of the mountain | basis: 46-46
+
+## Scene 55-66: The Approaching Souls
+- it: - | en: foot of the mountain | basis: 55-66
+
+## Scene 67-72: The Gathering Crowd
+- it: - | en: foot of the mountain | basis: 67-72
+
+## Scene 73-78: Virgil’s Appeal
+- it: - | en: foot of the mountain | basis: 73-78
+
+## Scene 79-87: The Sheep Simile
+- it: - | en: foot of the mountain | basis: 79-87
+
+## Scene 88-93: The Souls' Hesitation
+- it: - | en: foot of the mountain | basis: 88-93
+
+## Scene 94-99: The Reason for Darkness
+- it: - | en: foot of the mountain | basis: 94-99
+
+## Scene 100-108: The Encounter
+- it: - | en: foot of the mountain | basis: 100-108
+
+## Scene 109-111: The Wound Revealed
+- it: - | en: foot of the mountain | basis: 109-111
+
+## Scene 112-123: Manfred's Identity
+- it: - | en: foot of the mountain | basis: 112-123
+
+## Scene 124-135: Manfred's History
+- it: - | en: foot of the mountain | basis: 124-135
+
+## Scene 136-141: The Doctrine of Schism
+- it: - | en: foot of the mountain | basis: 136-141
+
+## Scene 142-145: The Final Request
+- it: - | en: foot of the mountain | basis: 142-145
+
+# recap
+Final setting: foot of the mountain

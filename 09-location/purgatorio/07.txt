@@ -1,0 +1,60 @@
+# Canto 07 — The Encounter with Sordello and the Vision of the Limbo Valley
+
+## Scene 1-9: Virgil's Identification
+- it: - | en: in the shade behind the rock | basis: 1-9
+
+## Scene 10-21: Sordello's Inquiry
+- it: - | en: in the shade behind the rock | basis: 10-21
+
+## Scene 22-39: Virgil's Description of Limbo
+- it: - | en: in the shade behind the rock | basis: 22-39
+
+## Scene 40-48: The Difficulty of the Ascent
+- it: - | en: in the shade behind the rock | basis: 40-48
+
+## Scene 49-60: Sordello's Warning on Night Travel
+- it: - | en: in the shade behind the rock | basis: 49-60
+
+## Scene 61-63: Agreement to Proceed
+- it: - | en: in the shade behind the rock | basis: 61-63
+
+## Scene 64-78: The Splendor of the Valley
+- it: - | en: in the shade behind the rock | basis: 64-69
+- it: sentiero schembo | en: a crooked path | basis: 70-70
+- it: fianco de la lacca | en: the side of the hollow | basis: 71-78
+
+## Scene 79-84: The Singing Souls
+- it: - | en: the side of the hollow | basis: 79-84
+
+## Scene 85-96: The Lament of Emperor Rudolf
+- it: - | en: the side of the hollow | basis: 85-96
+
+## Scene 97-102: The Story of Ottacchero
+- it: - | en: the side of the hollow | basis: 97-102
+
+## Scene 103-106: The Death of the Young Man
+- it: - | en: the side of the hollow | basis: 103-106
+
+## Scene 107-111: The French Ancestors
+- it: - | en: the side of the hollow | basis: 107-111
+
+## Scene 112-120: The Virtuous Kings
+- it: - | en: the side of the hollow | basis: 112-120
+
+## Scene 121-123: A Reflection on Virtue
+- it: - | en: the side of the hollow | basis: 121-123
+
+## Scene 124-126: The Mention of Pier
+- it: - | en: the side of the hollow | basis: 124-126
+
+## Scene 127-129: The Legacy of Constance
+- it: - | en: the side of the hollow | basis: 127-129
+
+## Scene 130-132: Henry of England
+- it: - | en: the side of the hollow | basis: 130-132
+
+## Scene 133-136: The Sorrow of Guillaume
+- it: - | en: the side of the hollow | basis: 133-136
+
+# recap
+Final setting: the side of the hollow

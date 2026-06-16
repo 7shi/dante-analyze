@@ -1,0 +1,83 @@
+# Canto 12 — The Descent into the Valley of Violence and the Encounter with the Centaurs
+
+## Scene 1-15: The Ruin and the Minotaur
+- it: lo loco ov' a scender la riva venimmo | en: the place where we came to descend the bank | basis: 1-1
+- it: burrato | en: ravine | basis: 10-10
+- it: la punta de la rotta lacca | en: the point of the broken ledge | basis: 11-11
+
+## Scene 16-21: Virgil's Rebuke
+- it: - | en: the point of the broken ledge | basis: 16-21
+
+## Scene 22-27: The Frenzy of the Bull
+- it: - | en: the point of the broken ledge | basis: 22-27
+
+## Scene 28-30: The Descent
+- it: lo scarco di quelle pietre | en: the slope of those stones | basis: 28-29
+
+## Scene 31-45: The Earthquake and the Fall
+- it: - | en: the slope of those stones | basis: 31-45
+
+## Scene 46-48: The River of Blood
+- it: - | en: the slope of those stones | basis: 46-48
+
+## Scene 49-51: Dante's Moral Reflection
+- it: - | en: the slope of those stones | basis: 49-51
+
+## Scene 52-57: The Centaurs' Patrol
+- it: - | en: the slope of those stones | basis: 52-57
+
+## Scene 58-63: The Centaurs' Challenge
+- it: la costa | en: the slope | basis: 62-62
+
+## Scene 64-66: Virgil's Strategy
+- it: - | en: the slope | basis: 64-66
+
+## Scene 67-72: Identification of the Centaurs
+- it: - | en: the slope | basis: 67-72
+
+## Scene 73-75: The Rain of Arrows
+- it: - | en: the slope | basis: 73-75
+
+## Scene 76-79: The Inspection
+- it: - | en: the slope | basis: 76-79
+
+## Scene 80-82: Chiron's Suspicion
+- it: - | en: the slope | basis: 80-82
+
+## Scene 83-96: Virgil's Plea for Passage
+- it: selvaggia strada | en: wild road | basis: 92-92
+
+## Scene 97-99: The Order to Guide
+- it: - | en: wild road | basis: 97-99
+
+## Scene 100-102: The Boiling Blood
+- it: la proda del bollor vermiglio | en: the bank of the red boiling river | basis: 101-101
+
+## Scene 103-112: The Tyrants in the Blood
+- it: - | en: the bank of the red boiling river | basis: 103-112
+
+## Scene 113-114: Dante's Turn
+- it: - | en: the bank of the red boiling river | basis: 113-114
+
+## Scene 115-120: The Shadow of the Thames
+- it: - | en: the bank of the red boiling river | basis: 115-120
+
+## Scene 121-123: The Severed Heads
+- it: - | en: the bank of the red boiling river | basis: 121-123
+
+## Scene 124-126: The Rising Tide
+- it: - | en: the bank of the red boiling river | basis: 124-125
+- it: fosso | en: the ditch | basis: 126-126
+
+## Scene 127-132: The Depths of Tyranny
+- it: - | en: the ditch | basis: 127-132
+
+## Scene 133-138: The Scourge of Attila
+- it: - | en: the ditch | basis: 133-138
+
+## Scene 139-139: Departure
+- it: - | en: the ditch | basis: 139-139
+- it: guazzo | en: the shallow water | basis: 139-139
+
+# recap
+Final setting: the shallow water (guazzo)

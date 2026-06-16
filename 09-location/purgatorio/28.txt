@@ -1,0 +1,80 @@
+# Canto 28 — The Encounter with the Enchanted Lady in the Forest
+
+## Scene 1-6: Departure into the Forest
+- it: la riva | en: the bank | basis: 4-4
+- it: la campagna | en: the countryside | basis: 5-5
+
+## Scene 7-12: The Gentle Breeze
+- it: - | en: the countryside | basis: 7-12
+
+## Scene 13-21: The Singing Birds
+- it: - | en: the countryside | basis: 13-21
+
+## Scene 22-27: Entering the Deep Woods
+- it: selva antica | en: ancient forest | basis: 23-23
+- it: rio | en: stream | basis: 25-25
+
+## Scene 28-33: The Dark Stream
+- it: - | en: stream | basis: 28-33
+
+## Scene 34-39: The Sight of the Lady
+- it: - | en: stream | basis: 34-35
+- it: di là dal fiumicello | en: beyond the little river | basis: 35-35
+
+## Scene 40-48: Dante's Invitation
+- it: la sua via | en: her path | basis: 42-42
+- it: questa rivera | en: this riverbank | basis: 47-47
+
+## Scene 49-51: A Mythological Comparison
+- it: - | en: this riverbank | basis: 49-51
+
+## Scene 52-60: The Lady's Modest Approach
+- it: - | en: this riverbank | basis: 52-60
+
+## Scene 61-66: The Radiance of her Eyes
+- it: là dove l'erbe sono bagnate già da l'onde del bel fiume | en: where the grasses are dampened by the waves of the beautiful river | basis: 61-62
+
+## Scene 67-75: Her Joyful Presence
+- it: - | en: where the grasses are dampened by the waves of the beautiful river | basis: 67-75
+
+## Scene 76-84: The Lady's Greeting
+- it: questo luogo | en: this place | basis: 77-77
+
+## Scene 85-87: Dante's Confusion
+- it: - | en: this place | basis: 85-87
+
+## Scene 88-96: The Divine Purpose of the Place
+- it: questo loco | en: this place | basis: 92-92
+
+## Scene 97-102: The Mountain's Ascent
+- it: questo monte | en: this mountain | basis: 101-101
+
+## Scene 103-114: The Mechanics of the Wind and Trees
+- it: questa altezza | en: this height | basis: 106-106
+
+## Scene 115-117: Seedless Growth
+- it: - | en: this height | basis: 115-117
+
+## Scene 118-120: The Bounty of the Land
+- it: - | en: this height | basis: 118-120
+
+## Scene 121-126: The Two Springs
+- it: - | en: this height | basis: 121-126
+
+## Scene 127-129: Forgetfulness and Memory
+- it: - | en: this height | basis: 127-129
+
+## Scene 130-133: Lethe and Eunoe
+- it: - | en: this height | basis: 130-133
+
+## Scene 134-138: A Final Promise
+- it: - | en: this height | basis: 134-138
+
+## Scene 139-144: The Golden Age
+- it: esto loco | en: this place | basis: 141-141
+
+## Scene 145-148: Dante's Reflection
+- it: - | en: this place | basis: 145-148
+
+# recap
+Final setting: this place

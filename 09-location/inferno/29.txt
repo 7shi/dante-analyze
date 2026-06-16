@@ -1,0 +1,41 @@
+# Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
+
+## Scene 1-12: Virgil's Reprimand
+- it: - | en: the foot of the bridge | basis: 1-12
+
+## Scene 13-21: The Memory of Geri
+- it: - | en: the foot of the bridge | basis: 13-21
+
+## Scene 22-36: Reflection on Violent Death
+- it: - | en: the foot of the bridge | basis: 22-36
+
+## Scene 37-51: Arrival at the Tenth Ditch
+- it: - | en: the foot of the bridge | basis: 37-39
+- it: ultima chiostra di Malebolge | en: the last terrace of Malebolge | basis: 40-51
+
+## Scene 52-66: The Toxic Atmosphere
+- it: ultima riva del lungo scoglio | en: last bank of the long rock | basis: 52-53
+
+## Scene 67-72: The Condition of the Damned
+- it: lo tristo calle | en: the dreary path | basis: 69-69
+
+## Scene 73-84: The Agony of the Itch
+- it: - | en: the dreary path | basis: 73-84
+
+## Scene 85-96: The Greeting to the Souls
+- it: - | en: the dreary path | basis: 85-96
+
+## Scene 97-108: The Inquiry of the Living
+- it: - | en: the dreary path | basis: 97-108
+
+## Scene 109-120: The Tale of the Alchemist
+- it: - | en: the dreary path | basis: 109-120
+
+## Scene 121-123: Dante's Sienese Jibe
+- it: - | en: the dreary path | basis: 121-123
+
+## Scene 124-139: The Testimony of Capocchio
+- it: - | en: the dreary path | basis: 124-139
+
+# recap
+Final setting: the dreary path

@@ -1,0 +1,53 @@
+# Canto 22 — The Vision of the Celestial Lights and the Descent to Earth
+
+## Scene 1-21: Beatrice's Rebuke
+- it: cielo | en: heaven | basis: 7-7
+
+## Scene 22-30: The Vision of the White Lights
+- it: - | en: heaven | basis: 22-30
+
+## Scene 31-36: Beatrice's Promise of Answer
+- it: - | en: heaven | basis: 31-36
+
+## Scene 37-51: The History of the Monastery
+- it: - | en: heaven | basis: 37-51
+
+## Scene 52-60: Dante's Request
+- it: - | en: heaven | basis: 52-60
+
+## Scene 61-69: Description of the Empyrean
+- it: - | en: this court | basis: 61-69
+
+## Scene 70-84: The Decay of Monastic Discipline
+- it: - | en: this court | basis: 70-84
+
+## Scene 85-96: The Inevitability of Change
+- it: - | en: this court | basis: 85-96
+
+## Scene 97-99: The Ascent of the Spirits
+- it: - | en: this court | basis: 97-99
+
+## Scene 100-105: Dante's Rapid Ascent
+- it: - | en: this court | basis: 100-100
+- it: quella scala | en: that stairway | basis: 101-101
+
+## Scene 106-120: The Sign of Taurus
+- it: - | en: that stairway | basis: 106-120
+
+## Scene 121-123: Prayer to the Stars
+- it: - | en: that stairway | basis: 121-123
+
+## Scene 124-132: Beatrice's Command to Look Down
+- it: - | en: that stairway | basis: 124-132
+
+## Scene 133-138: The View of the Earth
+- it: - | en: that stairway | basis: 133-138
+
+## Scene 139-150: The Motion of the Planets
+- it: - | en: that stairway | basis: 139-150
+
+## Scene 151-154: The Earth as a Small Garden
+- it: - | en: that stairway | basis: 151-154
+
+# recap
+Final setting: that stairway

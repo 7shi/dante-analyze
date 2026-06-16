@@ -1,0 +1,69 @@
+# Canto 25 — The Metamorphosis of the Seventh Weight
+
+## Scene 1-9: The Thief's Struggle
+- it: - | en: our bank | basis: 1-9
+
+## Scene 10-16: Dante's Lament and the Centaur
+- it: - | en: our bank | basis: 10-16
+
+## Scene 17-24: The Dragon's Presence
+- it: - | en: our bank | basis: 17-24
+
+## Scene 25-33: Virgil's Explanation of Cacus
+- it: - | en: our bank | basis: 25-33
+
+## Scene 34-39: The Arrival of Three Spirits
+- it: - | en: our bank | basis: 34-39
+
+## Scene 40-45: The Conversation of the Spirits
+- it: - | en: our bank | basis: 40-45
+
+## Scene 46-60: The Initial Entwining
+- it: - | en: our bank | basis: 46-60
+
+## Scene 61-66: The Melting of the Forms
+- it: - | en: our bank | basis: 61-66
+
+## Scene 67-72: The Loss of Individuality
+- it: - | en: our bank | basis: 67-72
+
+## Scene 73-78: The Grotesque Fusion
+- it: - | en: our bank | basis: 73-78
+
+## Scene 79-87: The Attack of the Small Serpent
+- it: - | en: our bank | basis: 79-87
+
+## Scene 88-93: The Reaction of the Wound
+- it: - | en: our bank | basis: 88-93
+
+## Scene 94-102: A Literary Comparison
+- it: - | en: our bank | basis: 94-102
+
+## Scene 103-111: The Structural Reorganization
+- it: - | en: our bank | basis: 103-111
+
+## Scene 112-117: The Alteration of Limbs
+- it: - | en: our bank | basis: 112-117
+
+## Scene 118-123: The Changing Surface
+- it: - | en: our bank | basis: 118-123
+
+## Scene 124-129: The Swelling of the Face
+- it: - | en: our bank | basis: 124-129
+
+## Scene 130-135: The Splitting of the Tongue
+- it: - | en: our bank | basis: 130-135
+
+## Scene 136-141: The Departure of the Spirits
+- it: - | en: our bank | basis: 136-136
+- it: la valle | en: the valley | basis: 137-137
+- it: questo calle | en: this path | basis: 141-141
+
+## Scene 142-144: Dante's Commentary
+- it: - | en: this path | basis: 142-144
+
+## Scene 145-151: The Identification of the Survivors
+- it: - | en: this path | basis: 145-151
+
+# recap
+Final setting: this path

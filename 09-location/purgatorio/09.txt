@@ -1,0 +1,65 @@
+# Canto 09 — The Vision of the Needle and the Arrival at the Gate of Purgatory
+
+## Scene 1-12: The Celestial Setting
+- it: - | en: the little valley | basis: 8-12
+
+## Scene 13-24: The Dream Vision
+- it: - | en: the little valley | basis: 13-24
+
+## Scene 25-33: The Descent of the Needle
+- it: - | en: the little valley | basis: 25-33
+
+## Scene 34-42: The Awakening of Achilles
+- it: - | en: the little valley | basis: 34-42
+
+## Scene 43-45: Return to Reality
+- it: - | en: the little valley | basis: 43-45
+
+## Scene 46-63: Virgil's Revelation
+- it: purgatorio | en: purgatory | basis: 49-49
+
+## Scene 64-69: Dante's Reaction
+- it: - | en: purgatory | basis: 64-67
+- it: lo balzo | en: the ledge | basis: 68-69
+
+## Scene 70-72: The Poet's Meta-commentary
+- it: - | en: the ledge | basis: 70-72
+
+## Scene 73-78: The Three Steps
+- it: - | en: the ledge | basis: 73-78
+
+## Scene 79-84: The Flash of the Sword
+- it: - | en: the ledge | basis: 79-84
+
+## Scene 85-93: The Porter's Inquiry
+- it: - | en: the ledge | basis: 85-93
+
+## Scene 94-102: The Three Colored Steps
+- it: lo scaglion primaio | en: the first step | basis: 94-94
+
+## Scene 103-108: The Angel on the Threshold
+- it: - | en: the first step | basis: 103-103
+- it: la soglia | en: the threshold | basis: 104-104
+- it: li tre gradi | en: the three steps | basis: 106-106
+
+## Scene 109-114: The Marking of the Forehead
+- it: - | en: the three steps | basis: 109-114
+
+## Scene 115-120: The Golden and Silver Keys
+- it: - | en: the three steps | basis: 115-119
+- it: la porta | en: the gate | basis: 120-120
+
+## Scene 121-129: The Porter's Warning
+- it: - | en: the gate | basis: 121-129
+
+## Scene 130-132: The Command to Enter
+- it: la porta sacrata | en: the sacred gate | basis: 130-130
+
+## Scene 133-138: The Sound of the Hinges
+- it: regge sacra | en: sacred structure | basis: 134-134
+
+## Scene 139-145: The Celestial Hymn
+- it: - | en: sacred structure | basis: 139-145
+
+# recap
+Final setting: sacred structure

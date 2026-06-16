@@ -1,0 +1,74 @@
+# Canto 18 — The Vision of the Celestial Lights and the Inscription of Justice
+
+## Scene 1-6: Beatrice's Command
+- it: - | en: this peace | basis: 1-6
+
+## Scene 7-18: Dante's Emotional Response
+- it: - | en: this peace | basis: 7-18
+
+## Scene 19-21: Beatrice's Second Instruction
+- it: - | en: this peace | basis: 19-21
+
+## Scene 22-27: The Spirit's Presence
+- it: - | en: this peace | basis: 22-27
+
+## Scene 28-36: The Threshold and the Cross
+- it: quinta soglia de l'albero che vive de la cima | en: fifth threshold of the tree that lives on the summit | basis: 28-29
+
+## Scene 37-42: The Procession of Heroes
+- it: - | en: fifth threshold of the tree that lives on the summit | basis: 37-42
+
+## Scene 43-48: The Continued Parade
+- it: - | en: fifth threshold of the tree that lives on the summit | basis: 43-48
+
+## Scene 49-51: The Identity of the Singer
+- it: - | en: fifth threshold of the tree that lives on the summit | basis: 49-51
+
+## Scene 52-57: Beatrice's Radiance
+- it: - | en: fifth threshold of the tree that lives on the summit | basis: 52-57
+
+## Scene 58-63: The Growth of Virtue
+- it: - | en: fifth threshold of the tree that lives on the summit | basis: 58-63
+
+## Scene 64-69: The Metaphor of Transformation
+- it: - | en: fifth threshold of the tree that lives on the summit | basis: 64-67
+- it: temprata stella sesta | en: tempered sixth star | basis: 68-69
+
+## Scene 70-78: The Formation of Letters
+- it: - | en: tempered sixth star | basis: 70-78
+
+## Scene 79-81: The Rhythms of the Lights
+- it: - | en: tempered sixth star | basis: 79-81
+
+## Scene 82-87: Invocation to the Muse
+- it: - | en: tempered sixth star | basis: 82-87
+
+## Scene 88-93: The Inscribed Words
+- it: - | en: tempered sixth star | basis: 88-93
+
+## Scene 94-96: The Letter M
+- it: - | en: tempered sixth star | basis: 94-96
+
+## Scene 97-99: The Descent of Light
+- it: - | en: tempered sixth star | basis: 97-99
+
+## Scene 100-108: The Explosion of Sparks
+- it: - | en: tempered sixth star | basis: 100-108
+
+## Scene 109-114: The Divine Designer
+- it: - | en: tempered sixth star | basis: 109-114
+
+## Scene 115-117: Prayer for Justice
+- it: - | en: tempered sixth star | basis: 115-117
+
+## Scene 118-123: Prayer against Greed
+- it: - | en: tempered sixth star | basis: 118-123
+
+## Scene 124-129: The Critique of Modernity
+- it: - | en: tempered sixth star | basis: 124-129
+
+## Scene 130-136: A Warning to the Poet
+- it: - | en: tempered sixth star | basis: 130-136
+
+# recap
+Final setting: tempered sixth star

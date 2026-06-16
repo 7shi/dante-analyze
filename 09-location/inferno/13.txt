@@ -1,0 +1,57 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+
+## Scene 1-15: The Gloomy Woods
+- it: - | en: shallow water | basis: 1-1
+- it: un bosco | en: a wood | basis: 2-2
+
+## Scene 16-21: Virgil's Warning
+- it: secondo girone | en: second circle | basis: 17-17
+
+## Scene 22-30: The Mysterious Voices
+- it: - | en: the shallow water (guazzo) | basis: 22-30
+
+## Scene 31-39: The Broken Branch
+- it: - | en: the shallow water | basis: 31-39
+
+## Scene 40-45: The Splintering Tree
+- it: - | en: the shallow water | basis: 40-45
+
+## Scene 46-54: Virgil's Inquiry
+- it: - | en: the shallow water | basis: 46-54
+
+## Scene 55-63: The Keeper of Secrets
+- it: - | en: the shallow water | basis: 55-63
+
+## Scene 64-72: The Sin of Betrayal
+- it: - | en: the shallow water | basis: 64-72
+
+## Scene 73-78: A Vow of Loyalty
+- it: - | en: the shallow water | basis: 73-78
+
+## Scene 79-84: The Poet's Encouragement
+- it: - | en: the shallow water (guazzo) | basis: 79-84
+
+## Scene 85-90: The Request for Knowledge
+- it: - | en: the shallow water | basis: 85-90
+
+## Scene 91-108: The Fate of the Suicides
+- it: - | en: the shallow water | basis: 91-108
+
+## Scene 109-114: The Sound of the Hunt
+- it: tronco | en: trunk | basis: 109-109
+
+## Scene 115-123: The Fleeing Souls
+- it: selva | en: wood | basis: 117-117
+
+## Scene 124-129: The Attack of the Hounds
+- it: selva | en: wood | basis: 124-124
+
+## Scene 130-135: The Wounded Bush
+- it: - | en: wood | basis: 130-130
+- it: cespuglio | en: bush | basis: 131-131
+
+## Scene 136-151: The History of Florence
+- it: - | en: bush | basis: 136-151
+
+# recap
+Final setting: bush

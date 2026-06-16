@@ -1,0 +1,53 @@
+# Canto 31 — The Vision of the Celestial Rose and the Guidance of Saint Bernard
+
+## Scene 1-12: The Celestial Rose and the Angelic Bees
+- it: candida rosa | en: white rose | basis: 1-1
+
+## Scene 13-24: The Splendor of Divine Light
+- it: - | en: the white rose (candida rosa) | basis: 13-24
+
+## Scene 25-27: The Nature of the Eternal Kingdom
+- it: regno | en: kingdom | basis: 25-25
+
+## Scene 28-42: Dante's Prayer to the Trinity
+- it: - | en: kingdom | basis: 28-42
+
+## Scene 43-54: The Wandering Gaze
+- it: - | en: kingdom | basis: 43-54
+
+## Scene 55-63: The Appearance of Saint Bernard
+- it: - | en: kingdom | basis: 55-63
+
+## Scene 64-69: The Location of Beatrice
+- it: - | en: kingdom | basis: 64-69
+
+## Scene 70-78: A Distant Glimpse of Beatrice
+- it: - | en: kingdom | basis: 70-78
+
+## Scene 79-90: Dante's Address to Beatrice
+- it: - | en: kingdom | basis: 79-90
+
+## Scene 91-93: Beatrice's Silent Response
+- it: - | en: kingdom | basis: 91-92
+- it: l'etterna fontana | en: the eternal fountain | basis: 93-93
+
+## Scene 94-102: Bernard's Instruction
+- it: questo giardino | en: this garden | basis: 97-97
+
+## Scene 103-111: Dante's Internal Wonder
+- it: - | en: this garden | basis: 103-111
+
+## Scene 112-117: The Command to Look Higher
+- it: - | en: this garden | basis: 112-117
+
+## Scene 118-129: The Shifting Light of the Heavens
+- it: - | en: this garden | basis: 118-129
+
+## Scene 130-138: The Vision of the Queen's Joy
+- it: - | en: this garden | basis: 130-138
+
+## Scene 139-142: Bernard's Shared Devotion
+- it: - | en: this garden | basis: 139-142
+
+# recap
+Final setting: this garden

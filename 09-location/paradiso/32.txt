@@ -1,0 +1,64 @@
+# Canto 32 — St. Bernard's Vision of the Celestial Rose and the Identification of the Blessed
+
+## Scene 1-9: The Arrangement of the Matriarchs
+- it: - | en: this garden | basis: 1-9
+
+## Scene 10-15: The Lineage of the Hebrew Mothers
+- it: la rosa | en: the rose | basis: 15-15
+
+## Scene 16-27: The Structure of the Two Hemispheres
+- it: - | en: the rose | basis: 16-27
+
+## Scene 28-36: The Hierarchy of the Great Doctors
+- it: - | en: the rose | basis: 28-36
+
+## Scene 37-45: The Principle of Divine Providence
+- it: questo giardino | en: this garden | basis: 39-39
+
+## Scene 46-51: A Promise of Clarification
+- it: - | en: this garden | basis: 46-51
+
+## Scene 52-66: The Nature of Eternal Joy and Grace
+- it: - | en: this garden | basis: 52-66
+
+## Scene 67-75: The Distinction of Divine Gifts
+- it: - | en: this garden | basis: 67-75
+
+## Scene 76-84: The Evolution of the Covenant
+- it: - | en: this garden | basis: 76-84
+
+## Scene 85-87: The Command to Focus on Christ
+- it: - | en: this garden | basis: 85-87
+
+## Scene 88-96: The Celestial Anthem
+- it: - | en: this garden | basis: 88-96
+
+## Scene 97-99: The Responding Court
+- it: - | en: this garden | basis: 97-99
+
+## Scene 100-105: A Question of Love
+- it: - | en: this garden | basis: 100-105
+
+## Scene 106-114: Identification of the Angel
+- it: - | en: this garden | basis: 106-114
+
+## Scene 115-120: The Roots of the Rose
+- it: - | en: this garden | basis: 115-120
+
+## Scene 121-126: The Patriarchs of the Church
+- it: - | en: this garden | basis: 121-126
+
+## Scene 127-132: The Great Biblical Figures
+- it: - | en: this garden | basis: 127-132
+
+## Scene 133-138: The Matriarchal Counterparts
+- it: - | en: this garden | basis: 133-138
+
+## Scene 139-144: The Final Instruction
+- it: - | en: this garden | basis: 139-144
+
+## Scene 145-151: The Call for Grace
+- it: - | en: this garden | basis: 145-151
+
+# recap
+Final setting: this garden

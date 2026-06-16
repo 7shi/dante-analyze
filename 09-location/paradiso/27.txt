@@ -1,0 +1,47 @@
+# Canto 27 — The Eclipse of Beatrice and the Celestial Motion
+
+## Scene 1-9: The Celestial Hymn
+- it: - | en: this court | basis: 1-9
+
+## Scene 10-27: The Angelic Transformation
+- it: beato coro | en: blessed choir | basis: 17-17
+
+## Scene 28-36: The Celestial Eclipse
+- it: - | en: blessed choir | basis: 28-36
+
+## Scene 37-54: The Critique of the Papacy
+- it: - | en: blessed choir | basis: 37-54
+
+## Scene 55-66: The Lament for the Church
+- it: - | en: blessed choir | basis: 55-66
+
+## Scene 67-75: The Vapor Metaphor
+- it: - | en: blessed choir | basis: 67-75
+
+## Scene 76-84: The Expanding Horizon
+- it: - | en: blessed choir | basis: 76-84
+
+## Scene 85-96: Devotion to Beatrice
+- it: questa aiuola | en: this little garden | basis: 86-86
+
+## Scene 97-102: Celestial Propulsion
+- it: bel nido di Leda | en: Leda's beautiful nest | basis: 98-98
+- it: ciel | en: heaven | basis: 99-99
+
+## Scene 103-114: The Order of the Cosmos
+- it: - | en: heaven | basis: 103-114
+
+## Scene 115-120: The Mathematical Proportions
+- it: - | en: heaven | basis: 115-120
+
+## Scene 121-129: The Corrupting Power of Greed
+- it: - | en: heaven | basis: 121-129
+
+## Scene 130-138: The Perversion of Nature
+- it: - | en: heaven | basis: 130-138
+
+## Scene 139-148: The Prophecy of Renewal
+- it: - | en: heaven | basis: 139-148
+
+# recap
+Final setting: heaven

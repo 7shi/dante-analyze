@@ -1,0 +1,56 @@
+# Canto 28 — The Vision of the Celestial Hierarchies and the Angelic Orders
+
+## Scene 1-12: The Mirror of Memory
+- it: - | en: heaven | basis: 1-12
+
+## Scene 13-30: The Radiant Point and Concentric Spheres
+- it: - | en: heaven | basis: 13-30
+
+## Scene 31-39: The Expansion of the Seventh Sphere
+- it: - | en: heaven | basis: 31-39
+
+## Scene 40-45: Beatrice's First Intervention
+- it: - | en: heaven | basis: 40-45
+
+## Scene 46-57: Dante's Theological Doubt
+- it: miro e angelico templo | en: wondrous and angelic temple | basis: 53-53
+
+## Scene 58-60: Beatrice's Reassurance
+- it: - | en: wondrous and angelic temple | basis: 58-60
+
+## Scene 61-78: The Principle of Divine Proportion
+- it: - | en: wondrous and angelic temple | basis: 61-78
+
+## Scene 79-87: Clarity of Understanding
+- it: - | en: wondrous and angelic temple | basis: 79-87
+
+## Scene 88-96: The Multiplication of Sparks
+- it: - | en: wondrous and angelic temple | basis: 88-96
+
+## Scene 97-102: The Highest Angels: Seraphim and Cherubim
+- it: - | en: wondrous and angelic temple | basis: 97-102
+
+## Scene 103-108: The Thrones and the Nature of Knowledge
+- it: - | en: wondrous and angelic temple | basis: 103-108
+
+## Scene 109-114: The Essence of Beatitude
+- it: - | en: wondrous and angelic temple | basis: 109-114
+
+## Scene 115-120: The Hymn of the Third Order
+- it: - | en: wondrous and angelic temple | basis: 115-120
+
+## Scene 121-126: The Hierarchy of the Remaining Angels
+- it: - | en: wondrous and angelic temple | basis: 121-126
+
+## Scene 127-129: The Universal Influence of the Spheres
+- it: - | en: wondrous and angelic temple | basis: 127-129
+
+## Scene 130-135: Dionysius and Gregory
+- it: - | en: wondrous and angelic temple | basis: 130-134
+- it: questo ciel | en: this heaven | basis: 135-135
+
+## Scene 136-139: The Final Revelation
+- it: qua sù | en: here above | basis: 138-138
+
+# recap
+Final setting: here above (qua sù)

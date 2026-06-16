@@ -1,0 +1,50 @@
+# Canto 02 — The Divine Intervention and Dante's Rebirth of Will
+
+## Scene 1-9: Prologue and Invocation
+- it: - | en: wild place | basis: 1-9
+
+## Scene 10-27: Virgil's Illustrious Lineage
+- it: - | en: wild place | basis: 10-27
+
+## Scene 28-36: Dante's Self-Doubt
+- it: - | en: wild place | basis: 28-36
+
+## Scene 37-42: The Paralysis of Will
+- it: oscura costa | en: dark slope | basis: 40-40
+
+## Scene 43-51: Virgil's Diagnosis
+- it: - | en: dark slope | basis: 43-51
+
+## Scene 52-57: The Setting of the Encounter
+- it: - | en: dark slope | basis: 52-57
+
+## Scene 58-74: Beatrice's Message
+- it: - | en: dark slope | basis: 58-74
+
+## Scene 75-84: Dante's Inquiry
+- it: questo centro de l'ampio loco | en: this center of the wide place | basis: 83-84
+
+## Scene 85-99: Beatrice's Immunity
+- it: - | en: this center of the wide place | basis: 85-99
+
+## Scene 100-114: Lucia's Intervention
+- it: - | en: this center of the wide place | basis: 100-114
+
+## Scene 115-117: The Emotional Impact
+- it: - | en: this center of the wide place | basis: 115-117
+
+## Scene 118-126: Virgil's Final Challenge
+- it: - | en: this center of the wide place | basis: 118-126
+
+## Scene 127-132: The Metaphor of the Flowers
+- it: - | en: this center of the wide place | basis: 127-132
+
+## Scene 133-140: Dante's Renewed Commitment
+- it: - | en: this center of the wide place | basis: 133-140
+
+## Scene 141-142: The Resumed Journey
+- it: - | en: this center of the wide place | basis: 141-141
+- it: cammino alto e silvestro | en: high and wooded path | basis: 142-142
+
+# recap
+Final setting: high and wooded path (cammino alto e silvestro)

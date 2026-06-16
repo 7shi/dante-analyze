@@ -1,0 +1,81 @@
+# Canto 02 — The Vision of Beatrice and the Celestial Mechanics
+
+## Scene 1-6: The Prologue's Warning
+- it: piccioletta barca | en: little boat | basis: 1-1
+- it: mio legno | en: my ship | basis: 3-3
+
+## Scene 7-9: The Divine Muses
+- it: L'acqua | en: the water | basis: 7-7
+
+## Scene 10-21: The Mythic Precedent
+- it: - | en: the water | basis: 10-21
+
+## Scene 22-30: Beatrice Appears
+- it: - | en: the water | basis: 22-24
+- it: ove | en: where [a wonderful thing was] | basis: 25-30
+
+## Scene 31-36: The Metaphor of Light
+- it: - | en: eternal spheres | basis: 31-36
+
+## Scene 37-42: Ontological Reflection
+- it: - | en: eternal spheres | basis: 37-42
+
+## Scene 43-45: The Nature of Faith
+- it: - | en: eternal spheres | basis: 43-45
+
+## Scene 46-51: Dante's Inquiry
+- it: - | en: eternal spheres | basis: 46-51
+
+## Scene 52-58: Beatrice's Challenge
+- it: - | en: eternal spheres | basis: 52-58
+
+## Scene 59-60: Dante's Hypothesis
+- it: - | en: eternal spheres | basis: 59-60
+
+## Scene 61-72: The Argument from Virtue
+- it: - | en: eternal spheres | basis: 61-72
+
+## Scene 73-84: The Argument from Matter
+- it: - | en: eternal spheres | basis: 73-84
+
+## Scene 85-90: The Argument from Opacity
+- it: - | en: eternal spheres | basis: 85-90
+
+## Scene 91-93: The Argument from Refraction
+- it: - | en: eternal spheres | basis: 91-93
+
+## Scene 94-96: The Appeal to Experience
+- it: - | en: eternal spheres | basis: 94-96
+
+## Scene 97-105: The Three-Mirror Experiment
+- it: - | en: eternal spheres | basis: 97-105
+
+## Scene 106-111: The Vision of Intense Light
+- it: - | en: eternal spheres | basis: 106-111
+
+## Scene 112-117: The Primum Mobile
+- it: - | en: eternal spheres | basis: 112-117
+
+## Scene 118-123: The Order of the Spheres
+- it: - | en: eternal spheres | basis: 118-123
+
+## Scene 124-126: The Way of the Truth
+- it: questo loco | en: this place | basis: 125-125
+
+## Scene 127-132: The Divine Influence
+- it: - | en: this place | basis: 127-132
+
+## Scene 133-138: The Analogy of the Soul
+- it: - | en: this place | basis: 133-138
+
+## Scene 139-141: The Union of Virtue and Body
+- it: - | en: this place | basis: 139-141
+
+## Scene 142-144: The Radiance of Virtue
+- it: - | en: this place | basis: 142-144
+
+## Scene 145-148: The Nature of Light
+- it: - | en: this place | basis: 145-148
+
+# recap
+Final setting: this place

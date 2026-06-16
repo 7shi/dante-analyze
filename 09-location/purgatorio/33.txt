@@ -1,0 +1,67 @@
+# Canto 33 — Beatrice's Prophecy and the River of Lethe
+
+## Scene 1-6: The Song of the Virtuous Women
+- it: - | en: the forest | basis: 1-6
+
+## Scene 7-12: Beatrice's Proclamation
+- it: - | en: the forest | basis: 7-12
+
+## Scene 13-24: The Encounter with Dante
+- it: - | en: the forest | basis: 13-24
+
+## Scene 25-33: Dante's Stuttering Response
+- it: - | en: the forest | basis: 25-33
+
+## Scene 34-45: The Prophecy of the Serpent and the Giant
+- it: - | en: the forest | basis: 34-45
+
+## Scene 46-51: The Riddle of the Naiads
+- it: - | en: the forest | basis: 46-51
+
+## Scene 52-60: The Warning of the Fallen Fruit
+- it: - | en: the forest | basis: 52-60
+
+## Scene 61-66: The Weight of Original Sin
+- it: - | en: the forest (la selva) | basis: 61-66
+
+## Scene 67-78: The Command to Remember
+- it: - | en: the forest | basis: 67-78
+
+## Scene 79-84: Dante's Impressionable Mind
+- it: - | en: the forest (la selva) | basis: 79-84
+
+## Scene 85-90: The Distance of the Divine
+- it: - | en: the forest | basis: 85-90
+
+## Scene 91-93: Dante's Denial of Forgetting
+- it: - | en: the forest | basis: 91-93
+
+## Scene 94-99: The Reminder of Lethe
+- it: - | en: the forest (la selva) | basis: 94-99
+
+## Scene 100-111: The Noon Sun and the Seven Women
+- it: - | en: the forest (la selva) | basis: 100-111
+
+## Scene 112-114: The Emergence of the Rivers
+- it: - | en: the forest (la selva) | basis: 112-114
+
+## Scene 115-119: Dante's Inquiry
+- it: - | en: the forest (la selva) | basis: 115-119
+
+## Scene 120-123: Matelda's Revelation
+- it: - | en: the forest | basis: 120-123
+
+## Scene 124-129: Beatrice's Instruction to Virgil
+- it: - | en: the forest | basis: 124-129
+
+## Scene 130-135: The Departure of the Group
+- it: - | en: the forest | basis: 130-135
+
+## Scene 136-141: The Poet's Constraint
+- it: - | en: the forest (la selva) | basis: 136-141
+
+## Scene 142-145: The Renewal of the Soul
+- it: - | en: the forest (la selva) | basis: 142-145
+
+# recap
+Final setting: the forest (la selva)

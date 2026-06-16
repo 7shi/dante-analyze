@@ -1,0 +1,42 @@
+# Canto 27 — The Confession of the Second Flame
+
+## Scene 1-15: The Sound of the Flame
+- it: - | en: the bridge | basis: 1-15
+
+## Scene 16-30: The Inquiry of the Soul
+- it: - | en: the bridge | basis: 16-30
+
+## Scene 31-48: Dante's Political Report
+- it: - | en: the bridge | basis: 31-48
+
+## Scene 49-57: The Geography of the Region
+- it: - | en: the bridge | basis: 49-57
+
+## Scene 58-66: The Flame's Vow of Truth
+- it: fondo | en: bottom | basis: 64-64
+
+## Scene 67-78: The Nature of the Deceiver
+- it: - | en: bottom | basis: 67-78
+
+## Scene 79-93: The History of Deceit
+- it: - | en: bottom | basis: 79-93
+
+## Scene 94-105: The Pope's Counselor
+- it: - | en: bottom | basis: 94-105
+
+## Scene 106-111: The Dangerous Advice
+- it: - | en: bottom | basis: 106-111
+
+## Scene 112-123: The Cherub's Intervention
+- it: - | en: bottom | basis: 112-123
+
+## Scene 124-129: The Judgment of Minos
+- it: - | en: bottom | basis: 124-129
+
+## Scene 130-136: The Departure of the Flame
+- it: - | en: bottom | basis: 130-130
+- it: lo scoglio | en: the rock | basis: 134-134
+- it: l'altr' arco | en: the other arch | basis: 134-134
+
+# recap
+Final setting: the other arch (l'altr' arco)

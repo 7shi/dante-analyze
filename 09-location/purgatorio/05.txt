@@ -1,0 +1,61 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+
+## Scene 1-6: The Sudden Cry
+- it: - | en: in the shade behind the rock | basis: 1-6
+
+## Scene 7-9: Dante's Distraction
+- it: - | en: in the shade behind the rock | basis: 7-9
+
+## Scene 10-18: Virgil's Admonishment
+- it: - | en: in the shade behind the rock | basis: 10-18
+
+## Scene 19-21: Dante's Compliance
+- it: - | en: in the shade behind the rock | basis: 19-21
+
+## Scene 22-27: The Approaching Procession
+- it: - | en: in the shade behind the rock | basis: 22-27
+
+## Scene 28-30: The Messengers Arrive
+- it: - | en: in the shade behind the rock | basis: 28-30
+
+## Scene 31-36: Virgil's Verification
+- it: - | en: in the shade behind the rock | basis: 31-36
+
+## Scene 37-42: The Swarming Souls
+- it: - | en: in the shade behind the rock | basis: 37-42
+
+## Scene 43-45: The Poet's Warning
+- it: - | en: in the shade behind the rock | basis: 43-45
+
+## Scene 46-57: The Collective Plea
+- it: - | en: in the shade behind the rock | basis: 46-57
+
+## Scene 58-63: Dante's Vow
+- it: - | en: in the shade behind the rock | basis: 58-63
+
+## Scene 64-72: The First Soul's Request
+- it: - | en: in the shade behind the rock | basis: 64-72
+
+## Scene 73-84: The Death in the Marsh
+- it: - | en: in the shade behind the rock | basis: 73-84
+
+## Scene 85-90: The Second Soul's Appearance
+- it: - | en: in the shade behind the rock | basis: 85-90
+
+## Scene 91-93: Dante's Inquiry
+- it: - | en: in the shade behind the rock | basis: 91-93
+
+## Scene 94-108: The Battle of Angels
+- it: - | en: in the shade behind the rock | basis: 94-108
+
+## Scene 109-114: The Formation of Mist
+- it: - | en: in the shade behind the rock | basis: 109-114
+
+## Scene 115-129: The River's Embrace
+- it: - | en: in the shade behind the rock | basis: 115-129
+
+## Scene 130-136: The Plea of La Pia
+- it: - | en: in the shade behind the rock | basis: 130-136
+
+# recap
+Final setting: in the shade behind the rock

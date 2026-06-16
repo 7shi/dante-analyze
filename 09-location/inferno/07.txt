@@ -1,0 +1,47 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+
+## Scene 1-12: Pluto's Outburst and Virgil's Rebuke
+- it: questa roccia | en: this rock | basis: 6-6
+
+## Scene 13-18: Descent into the Fourth Circle
+- it: - | en: the point where it slopes down | basis: 13-15
+- it: la quarta lacca | en: the fourth ditch | basis: 16-16
+- it: la dolente ripa | en: the sorrowful bank | basis: 17-17
+
+## Scene 19-24: The Chaos of the Swirling Souls
+- it: - | en: the sorrowful bank | basis: 19-24
+
+## Scene 25-35: The Mechanics of the Punishment
+- it: - | en: the sorrowful bank | basis: 25-35
+
+## Scene 36-48: Identification of the Avaricious
+- it: - | en: the sorrowful bank | basis: 36-48
+
+## Scene 49-66: The Futility of Wealth
+- it: - | en: the sorrowful bank | basis: 49-66
+
+## Scene 67-84: The Doctrine of Fortune
+- it: - | en: the sorrowful bank | basis: 67-84
+
+## Scene 85-96: The Unchanging Divine Order
+- it: - | en: the sorrowful bank | basis: 85-96
+
+## Scene 97-105: Transition to the Styx
+- it: - | en: the sorrowful bank | basis: 97-99
+- it: l'altra riva | en: the other bank | basis: 100-100
+- it: una fonte | en: a fountain | basis: 101-101
+- it: un fossato | en: a ditch | basis: 102-102
+- it: una via diversa | en: a different way | basis: 105-105
+
+## Scene 106-114: The Sight of the Wrathful and Sullen
+- it: - | en: a different way | basis: 106-114
+
+## Scene 115-126: The Lament of the Sullen
+- it: - | en: a different way | basis: 115-126
+
+## Scene 127-130: Arrival at the Tower
+- it: grand' arco tra la ripa secca e 'l mézzo | en: a great arc between the dry bank and the middle | basis: 128-128
+- it: al piè d'una torre al da sezzo | en: at the foot of a tower, cut off | basis: 130-130
+
+# recap
+Final setting: at the foot of a tower, cut off (al piè d'una torre al da sezzo)

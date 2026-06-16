@@ -1,5 +1,6 @@
 from ._paths import (
     SCENE_DIR, MARKUP_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR,
+    LOCATION_DIR,
 )
 from .llm import MAX_LENGTH, LLM_RETRIES, call_llm, step_sep
 from .corpus import read_markup, available_cantos, load_scenes
@@ -10,25 +11,25 @@ from .labels import (
 )
 from .quotespans import walk_spans, contains, own_region
 from .checkpoint import (
-    TAGS_LINE_RE,
+    TAGS_LINE_RE, LOCATION_LINE_RE,
     out_path, done_scene_ends, read_recap, iter_scene_blocks, scene_bodies,
     complete_scene_ends, restore_blocks, render_scene_block, append_canto,
     load_readings, load_tags, load_registry, load_speech, load_relations,
-    raw_to_canonical, load_kg,
+    raw_to_canonical, load_kg, load_locations,
 )
 from .prompts import build_reason_prompt
 
 __all__ = [
     # output dirs (project root)
     "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "TAGS_DIR", "REGISTRY_DIR", "SPEECH_DIR",
-    "RELATIONS_DIR", "KG_DIR",
+    "RELATIONS_DIR", "KG_DIR", "LOCATION_DIR",
     # LLM boundary
     "MAX_LENGTH", "LLM_RETRIES", "call_llm", "step_sep",
     # inputs / corpus
     "read_markup", "available_cantos", "load_scenes",
     # output readers
     "load_readings", "load_tags", "load_registry", "load_speech", "load_relations",
-    "raw_to_canonical", "load_kg",
+    "raw_to_canonical", "load_kg", "load_locations",
     "scene_bodies", "iter_scene_blocks",
     "done_scene_ends", "complete_scene_ends", "read_recap", "restore_blocks",
     # tag numbering / parsing
@@ -39,7 +40,7 @@ __all__ = [
     # quote-span geometry (speech)
     "walk_spans", "contains", "own_region",
     # elision repair
-    "fix_elision", "ELIDE_RE", "TAGS_LINE_RE",
+    "fix_elision", "ELIDE_RE", "TAGS_LINE_RE", "LOCATION_LINE_RE",
     # prompts / checkpoint writing
     "build_reason_prompt", "out_path", "render_scene_block", "append_canto",
 ]

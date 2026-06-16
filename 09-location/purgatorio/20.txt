@@ -1,0 +1,65 @@
+# Canto 20 — The Prophecy of Ugo Ciappetta and the Catalog of Avarice
+
+## Scene 1-9: Navigating the Narrow Ledge
+- it: - | en: fifth circle | basis: 1-4
+- it: luoghi spediti pur lungo la roccia | en: open spaces along the rock | basis: 5-5
+
+## Scene 10-12: The Curse of the She-Wolf
+- it: - | en: open spaces along the rock in the fifth circle | basis: 10-12
+
+## Scene 13-15: Dante’s Cosmic Prayer
+- it: - | en: open spaces along the rock in the fifth circle | basis: 13-15
+
+## Scene 16-24: The Women’s Lament
+- it: - | en: open spaces along the rock in the fifth circle | basis: 16-24
+
+## Scene 25-33: Praising the Virtuous
+- it: - | en: open spaces along the rock in the fifth circle | basis: 25-33
+
+## Scene 34-39: Dante’s Inquiry
+- it: - | en: open spaces along the rock in the fifth circle | basis: 34-39
+
+## Scene 40-48: The Root of Corruption
+- it: - | en: open spaces along the rock in the fifth circle | basis: 40-48
+
+## Scene 49-60: The Rise of Ugo Ciappetta
+- it: - | en: open spaces along the rock in the fifth circle | basis: 49-60
+
+## Scene 61-66: Conquest through Deceit
+- it: - | en: open spaces along the rock in the fifth circle | basis: 61-66
+
+## Scene 67-72: The Fate of Leaders
+- it: - | en: open spaces along the rock in the fifth circle | basis: 67-72
+
+## Scene 73-78: The Prophecy of the New King
+- it: - | en: open spaces along the rock in the fifth circle | basis: 73-78
+
+## Scene 79-84: The Price of Avarice
+- it: - | en: open spaces along the rock in the fifth circle | basis: 79-84
+
+## Scene 85-93: Visions of Future Corruption
+- it: - | en: open spaces along the rock in the fifth circle | basis: 85-93
+
+## Scene 94-102: The Timing of Vengeance
+- it: - | en: open spaces along the rock in the fifth circle | basis: 94-102
+
+## Scene 103-117: A Catalog of Greedy Souls
+- it: - | en: open spaces along the rock in the fifth circle | basis: 103-117
+
+## Scene 118-123: Dante’s Solitary Presence
+- it: - | en: open spaces along the rock in the fifth circle | basis: 118-123
+
+## Scene 124-132: The Trembling Mountain
+- it: - | en: open spaces along the rock in the fifth circle | basis: 124-132
+
+## Scene 133-138: The Celestial Shout
+- it: - | en: open spaces along the rock in the fifth circle | basis: 133-138
+
+## Scene 139-144: Resuming the Path
+- it: - | en: open spaces along the rock in the fifth circle | basis: 139-144
+
+## Scene 145-151: Dante’s Bewilderment
+- it: - | en: open spaces along the rock in the fifth circle | basis: 145-151
+
+# recap
+Final setting: open spaces along the rock in the fifth circle

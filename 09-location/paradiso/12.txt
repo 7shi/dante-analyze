@@ -1,0 +1,43 @@
+# Canto 12 — The Praise of Saint Dominic and the Gathering of the Saints
+
+## Scene 1-9: The Rotation of the Celestial Gear
+- it: - | en: point of the circle | basis: 1-9
+
+## Scene 10-21: The Intertwining Garlands
+- it: - | en: point of the circle | basis: 10-21
+
+## Scene 22-30: The Voice Emerges
+- it: - | en: point of the circle | basis: 22-30
+
+## Scene 31-36: The Theology of the Two Guides
+- it: - | en: point of the circle | basis: 31-36
+
+## Scene 37-45: The Allegory of the Church's Defense
+- it: - | en: point of the circle | basis: 37-45
+
+## Scene 46-60: The Birth of Saint Dominic
+- it: - | en: point of the circle | basis: 46-60
+
+## Scene 61-78: The Vision and Signs of Sanctity
+- it: - | en: point of the circle | basis: 61-78
+
+## Scene 79-87: The Rapid Growth of the Doctor
+- it: - | en: point of the circle | basis: 79-87
+
+## Scene 88-105: The Missionary Zeal of Dominic
+- it: - | en: point of the circle | basis: 88-105
+
+## Scene 106-114: The Vacancy in the Second Circle
+- it: - | en: point of the circle | basis: 106-114
+
+## Scene 115-126: The Vastness of the Second Ring
+- it: - | en: point of the circle | basis: 115-126
+
+## Scene 127-141: The Assembly of the Saints
+- it: - | en: point of the circle | basis: 127-141
+
+## Scene 142-145: The Unified Praise
+- it: - | en: point of the circle | basis: 142-145
+
+# recap
+Final setting: point of the circle

@@ -1,0 +1,40 @@
+# Canto 20 — The Vision of the Distorted Souls and the Legend of Mantua
+
+## Scene 1-3: Metapoetic Prologue
+- it: - | en: the ugly and steep rock | basis: 1-3
+
+## Scene 4-18: The Procession of the Distorted
+- it: - | en: the ugly and steep rock | basis: 4-18
+
+## Scene 19-24: Dante's Grief
+- it: - | en: the ugly and steep rock | basis: 19-24
+
+## Scene 25-36: Virgil's Rebuke
+- it: duro scoglio | en: hard rock | basis: 26-26
+
+## Scene 37-45: Examples of Transformation
+- it: - | en: hard rock | basis: 37-45
+
+## Scene 46-60: The Legend of Manto
+- it: - | en: hard rock | basis: 46-60
+
+## Scene 61-78: Geography of Lake Garda
+- it: - | en: hard rock | basis: 61-78
+
+## Scene 79-87: Formation of the Marshland
+- it: - | en: hard rock | basis: 79-87
+
+## Scene 88-99: The Foundation of Mantua
+- it: - | en: hard rock | basis: 88-99
+
+## Scene 100-105: Dante's Inquiry
+- it: - | en: hard rock | basis: 100-105
+
+## Scene 106-123: Virgil's Catalog of Souls
+- it: - | en: hard rock | basis: 106-123
+
+## Scene 124-130: Closing Exhortation
+- it: - | en: hard rock | basis: 124-130
+
+# recap
+Final setting: hard rock

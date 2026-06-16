@@ -1,0 +1,67 @@
+# Canto 25 — The Encounter with Statius and the Metaphysics of the Soul
+
+## Scene 1-9: The Ascent of the Path
+- it: - | en: lonely road | basis: 1-6
+- it: callaia | en: narrow path | basis: 7-7
+- it: scala | en: steep climb | basis: 8-8
+
+## Scene 10-15: Dante's Hesitation
+- it: - | en: lonely road | basis: 10-15
+
+## Scene 16-18: Virgil's Encouragement
+- it: - | en: lonely road | basis: 16-18
+
+## Scene 19-21: The Central Question
+- it: - | en: lonely road | basis: 19-21
+
+## Scene 22-30: The Introduction of Statius
+- it: - | en: lonely road | basis: 22-30
+
+## Scene 31-33: Statius's Consent
+- it: - | en: lonely road | basis: 31-33
+
+## Scene 34-42: The Power of Blood
+- it: - | en: lonely road | basis: 34-42
+
+## Scene 43-51: Digestion and Coagulation
+- it: - | en: lonely road | basis: 43-51
+
+## Scene 52-66: The Evolution of Life
+- it: - | en: lonely road | basis: 52-66
+
+## Scene 67-75: The Development of the Spirit
+- it: - | en: lonely road | basis: 67-75
+
+## Scene 76-84: The Thread of Fate
+- it: - | en: lonely road | basis: 76-84
+
+## Scene 85-90: The Expansion of Virtue
+- it: - | en: lonely road | basis: 85-90
+
+## Scene 91-102: The Metaphor of Light and Shadow
+- it: - | en: lonely road | basis: 91-102
+
+## Scene 103-108: The Cause of the Souls' Cries
+- it: - | en: lonely road | basis: 103-108
+
+## Scene 109-117: Navigating the Abyss
+- it: ultima tortura | en: the last torture | basis: 109-109
+- it: lato schiuso | en: open side | basis: 115-115
+
+## Scene 118-120: Virgil's Warning
+- it: loco | en: place | basis: 118-118
+
+## Scene 121-126: The Hymn of Mercy
+- it: - | en: place | basis: 121-126
+
+## Scene 127-132: The Choral Interruptions
+- it: - | en: place | basis: 127-132
+
+## Scene 133-135: Cries of the Chastity
+- it: - | en: place | basis: 133-135
+
+## Scene 136-139: The Purpose of the Ritual
+- it: - | en: place | basis: 136-139
+
+# recap
+Final setting: place

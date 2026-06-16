@@ -1,0 +1,58 @@
+# Canto 14 — The Encounter with the Spirits of the Arno Valley
+
+## Scene 1-6: The Spirits' Observation
+- it: - | en: ledge (cornice) | basis: 1-6
+
+## Scene 7-15: The First Spirit's Greeting
+- it: - | en: ledge (cornice) | basis: 7-15
+
+## Scene 16-24: The Riddle of the Arno
+- it: - | en: ledge (cornice) | basis: 16-24
+
+## Scene 25-27: The Second Spirit's Query
+- it: - | en: ledge (cornice) | basis: 25-27
+
+## Scene 28-51: The Corruption of the Valley
+- it: - | en: ledge (cornice) | basis: 28-51
+
+## Scene 52-54: The Cunning Foxes
+- it: - | en: ledge (cornice) | basis: 52-54
+
+## Scene 55-66: The Prophecy of the Hunter
+- it: - | en: ledge (cornice) | basis: 55-66
+
+## Scene 67-72: The Second Spirit's Grief
+- it: - | en: ledge (cornice) | basis: 67-72
+
+## Scene 73-84: Guido's Introduction
+- it: - | en: ledge (cornice) | basis: 73-84
+
+## Scene 85-96: The Blight of Lineage
+- it: - | en: ledge (cornice) | basis: 85-96
+
+## Scene 97-102: Lament for Romagna
+- it: - | en: ledge (cornice) | basis: 97-102
+
+## Scene 103-111: Mourning the Lost Greatness
+- it: - | en: ledge (cornice) | basis: 103-111
+
+## Scene 112-123: The Decay of Towns
+- it: - | en: ledge (cornice) | basis: 112-123
+
+## Scene 124-126: Guido's Exhaustion
+- it: - | en: ledge (cornice) | basis: 124-126
+
+## Scene 127-135: The Thunderous Voice
+- it: - | en: ledge (cornice) | basis: 127-135
+
+## Scene 136-139: The Appearance of Aglauro
+- it: - | en: ledge (cornice) | basis: 136-139
+
+## Scene 140-141: Dante's Reaction
+- it: - | en: ledge (cornice) | basis: 140-141
+
+## Scene 142-151: Aglauro's Warning
+- it: - | en: ledge (cornice) | basis: 142-151
+
+# recap
+Final setting: ledge (cornice)

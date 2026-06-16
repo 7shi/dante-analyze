@@ -1,0 +1,52 @@
+# Canto 33 — The Vision of the Eternal Light and the Beatific Vision
+
+## Scene 1-18: Exaltation of the Virgin
+- it: - | en: this garden | basis: 10-10
+
+## Scene 19-39: The Prayer of Petition
+- it: - | en: this garden | basis: 19-39
+
+## Scene 40-45: Divine Response
+- it: - | en: this garden | basis: 40-45
+
+## Scene 46-54: Entry into the Light
+- it: - | en: this garden | basis: 46-54
+
+## Scene 55-66: The Loss of Memory
+- it: - | en: this garden | basis: 55-66
+
+## Scene 67-75: The Poet's Vow
+- it: - | en: this garden | basis: 67-75
+
+## Scene 76-84: The Intensity of the Radiance
+- it: - | en: this garden | basis: 76-84
+
+## Scene 85-93: The Universal Knot
+- it: - | en: this garden | basis: 85-93
+
+## Scene 94-105: The Perfection of the Light
+- it: - | en: this garden | basis: 94-105
+
+## Scene 106-114: The Changing Observer
+- it: - | en: this garden | basis: 106-114
+
+## Scene 115-120: The Three Concentric Circles
+- it: - | en: this garden | basis: 115-120
+
+## Scene 121-123: The Limits of Language
+- it: - | en: this garden | basis: 121-123
+
+## Scene 124-126: The Self-Intelligible Light
+- it: - | en: this garden | basis: 124-126
+
+## Scene 127-132: The Human Reflection
+- it: - | en: this garden | basis: 127-132
+
+## Scene 133-139: The Failed Measurement
+- it: - | en: this garden | basis: 133-139
+
+## Scene 140-145: Divine Impulse
+- it: - | en: this garden | basis: 140-145
+
+# recap
+Final setting: this garden

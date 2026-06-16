@@ -1,0 +1,62 @@
+# Canto 34 — The Center of the Earth and the Encounter with Lucifer
+
+## Scene 1-9: Approaching the Mist
+- it: - | en: Tolomea | basis: 1-9
+
+## Scene 10-15: The Shadows in the Dark
+- it: là dove l'ombre tutte eran coperte | en: where all the shades were covered | basis: 11-11
+
+## Scene 16-21: The Arrival at Dite
+- it: - | en: where all the shades were covered | basis: 16-19
+- it: Dite | en: Dite | basis: 20-21
+
+## Scene 22-27: Dante’s Internal Horror
+- it: - | en: Dite | basis: 22-27
+
+## Scene 28-36: The Emergence of Lucifer
+- it: la ghiaccia | en: the ice | basis: 29-29
+
+## Scene 37-52: The Anatomy of the Beast
+- it: - | en: the ice | basis: 37-52
+
+## Scene 53-60: The Devouring of Sinners
+- it: - | en: the ice | basis: 53-60
+
+## Scene 61-67: Identifying the Traitors
+- it: - | en: the ice | basis: 61-67
+
+## Scene 68-75: The Descent via the Beast
+- it: - | en: the ice | basis: 68-75
+
+## Scene 76-81: Reaching the Center
+- it: là dove la coscia si volge, a punto in sul grosso de l'anche | en: where the thigh turns, exactly on the bulk of the hips | basis: 76-77
+
+## Scene 82-87: Finding a Ledge
+- it: cotali scale | en: such stairs | basis: 82-82
+- it: lo fóro d'un sasso | en: the opening of a rock | basis: 85-85
+- it: l'orlo | en: the ledge | basis: 86-86
+
+## Scene 88-93: The Sight of the Upside-Down Legs
+- it: - | en: the ledge | basis: 88-93
+
+## Scene 94-99: The Difficult Path
+- it: natural burella | en: natural narrow passage | basis: 98-98
+
+## Scene 100-105: Dante’s Confusion
+- it: l'abisso | en: the abyss | basis: 100-100
+
+## Scene 106-117: The Center of Gravity
+- it: picciola spera | en: small sphere | basis: 116-117
+
+## Scene 118-126: The Shifting Hemisphere
+- it: - | en: small sphere | basis: 118-126
+
+## Scene 127-132: The Sound of the Stream
+- it: - | en: small sphere | basis: 127-132
+
+## Scene 133-139: The Return to the Stars
+- it: quel cammino ascoso | en: that hidden path | basis: 133-133
+- it: le stelle | en: the stars | basis: 139-139
+
+# recap
+Final setting: the stars (le stelle)

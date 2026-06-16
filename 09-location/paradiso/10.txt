@@ -1,0 +1,112 @@
+# Canto 10 — The Fourth Heaven and the Catalog of Luminous Souls
+
+## Scene 1-6: The Eternal Love
+- it: - | en: this heaven | basis: 1-6
+
+## Scene 7-12: Instruction to the Reader
+- it: - | en: this heaven | basis: 7-12
+
+## Scene 13-21: The Mechanics of the Planets
+- it: - | en: this heaven | basis: 13-21
+
+## Scene 22-27: A Message to the Reader
+- it: - | en: this heaven | basis: 22-27
+
+## Scene 28-33: The Great Minister
+- it: - | en: this heaven | basis: 28-33
+
+## Scene 34-36: The Unexpected Ascent
+- it: - | en: this heaven | basis: 34-36
+
+## Scene 37-39: Beatrice's Vision
+- it: - | en: this heaven | basis: 37-39
+
+## Scene 40-42: The Radiance of the Sun
+- it: dentro al sol | en: inside the sun | basis: 41-41
+
+## Scene 43-45: The Limits of Intellect
+- it: - | en: inside the sun | basis: 43-45
+
+## Scene 46-48: The Unreachable Height
+- it: - | en: inside the sun | basis: 46-48
+
+## Scene 49-51: The Fourth Family
+- it: - | en: inside the sun | basis: 49-49
+
+## Scene 52-54: Beatrice's Command
+- it: - | en: inside the sun | basis: 52-54
+
+## Scene 55-60: Dante's Devotion
+- it: - | en: inside the sun | basis: 55-60
+
+## Scene 61-63: Beatrice's Laughter
+- it: - | en: inside the sun | basis: 61-63
+
+## Scene 64-66: The Ring of Lightning
+- it: - | en: inside the sun | basis: 64-66
+
+## Scene 67-69: The Solar Corona
+- it: - | en: inside the sun | basis: 67-69
+
+## Scene 70-75: The Heavenly Court
+- it: - | en: inside the sun | basis: 70-75
+
+## Scene 76-78: The Orbiting Suns
+- it: - | en: inside the sun | basis: 76-78
+
+## Scene 79-81: The Silent Listeners
+- it: - | en: inside the sun | basis: 79-81
+
+## Scene 82-90: Theology of Grace
+- it: - | en: inside the sun | basis: 82-90
+
+## Scene 91-93: The Floral Garland
+- it: - | en: inside the sun | basis: 91-93
+
+## Scene 94-96: The Lambs of the Flock
+- it: - | en: inside the sun | basis: 94-96
+
+## Scene 97-99: The Presence of Albert the Great
+- it: - | en: inside the sun | basis: 97-99
+
+## Scene 100-102: Scanning the Circle
+- it: - | en: inside the sun | basis: 100-102
+
+## Scene 103-105: The Light of Gratian
+- it: - | en: inside the sun | basis: 103-105
+
+## Scene 106-108: The Treasure of Peter
+- it: - | en: inside the sun | basis: 106-108
+
+## Scene 109-114: The Fifth Light
+- it: - | en: inside the sun | basis: 109-114
+
+## Scene 115-117: The Angelic Vision
+- it: - | en: inside the sun | basis: 115-117
+
+## Scene 118-120: The Light of Augustine
+- it: - | en: inside the sun | basis: 118-120
+
+## Scene 121-123: The Reader's Journey
+- it: - | en: inside the sun | basis: 121-123
+
+## Scene 124-126: The Truth of the Soul
+- it: - | en: inside the sun | basis: 124-126
+
+## Scene 127-129: The Earthly Body
+- it: - | en: inside the sun | basis: 127-129
+
+## Scene 130-132: The Scholars of the Spirit
+- it: - | en: inside the sun | basis: 130-132
+
+## Scene 133-138: The Light of Siger
+- it: - | en: inside the sun | basis: 133-138
+
+## Scene 139-144: The Striking Clock
+- it: - | en: inside the sun | basis: 139-144
+
+## Scene 145-148: The Harmonious Motion
+- it: - | en: inside the sun | basis: 145-148
+
+# recap
+Final setting: inside the sun

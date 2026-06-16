@@ -1,0 +1,42 @@
+# Canto 28 — The Parade of Mutilated Schismatics
+
+## Scene 1-6: The Inadequacy of Language
+- it: - | en: the other arch | basis: 1-6
+
+## Scene 7-21: Historical Precedents of Violence
+- it: - | en: the other arch | basis: 7-21
+
+## Scene 22-33: The Vision of Muhammad
+- it: - | en: the other arch | basis: 22-33
+
+## Scene 34-45: The Proclamation of Schism
+- it: la dolente strada | en: the sorrowful road | basis: 40-40
+- it: lo scoglio | en: the rock | basis: 43-43
+
+## Scene 46-51: Virgil's Explanation
+- it: - | en: the rock | basis: 46-51
+
+## Scene 52-63: The Prophecy to the Dolciniani
+- it: - | en: the rock | basis: 52-63
+- it: fosso | en: the ditch | basis: 53-53
+
+## Scene 64-75: The Second Mutilated Soul
+- it: - | en: the ditch | basis: 64-75
+
+## Scene 76-90: The Maritime Prophecy
+- it: - | en: the ditch | basis: 76-90
+
+## Scene 91-99: The Identification of Curio
+- it: - | en: the ditch | basis: 91-99
+
+## Scene 100-111: The Encounter with the Severed Hands
+- it: - | en: the ditch | basis: 100-111
+
+## Scene 112-126: The Human Lantern
+- it: - | en: the ditch | basis: 112-126
+
+## Scene 127-142: The Confession of Bertram
+- it: piè del ponte | en: the foot of the bridge | basis: 127-127
+
+# recap
+Final setting: the foot of the bridge (piè del ponte)

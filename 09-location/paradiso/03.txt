@@ -1,0 +1,49 @@
+# Canto 03 — The Encounter with Piccarda Donati and the Harmony of Divine Will
+
+## Scene 1-9: The Vision's Impact
+- it: - | en: this place | basis: 1-9
+
+## Scene 10-16: The Visual Metaphor
+- it: - | en: this place | basis: 10-16
+
+## Scene 17-24: Encounter with the Guide
+- it: - | en: this place | basis: 17-24
+
+## Scene 25-33: Beatrice's Reassurance
+- it: - | en: this place | basis: 25-33
+
+## Scene 34-41: Dante's Greeting
+- it: - | en: this place | basis: 34-41
+
+## Scene 42-49: Piccarda's Identity
+- it: - | en: this place | basis: 42-49
+
+## Scene 50-57: Piccarda's Status
+- it: spera più tarda | en: the slowest sphere | basis: 51-51
+
+## Scene 58-66: Dante's Inquiry
+- it: - | en: the slowest sphere | basis: 58-66
+
+## Scene 67-78: The Constraint of Charity
+- it: - | en: the slowest sphere (spera più tarda) | basis: 67-78
+
+## Scene 79-87: The Harmony of Wills
+- it: questo regno | en: this kingdom | basis: 83-83
+
+## Scene 88-96: Dante's Epiphany
+- it: - | en: this kingdom | basis: 88-96
+
+## Scene 97-108: The Tale of the Nun
+- it: - | en: this kingdom | basis: 97-108
+
+## Scene 109-120: The Tale of the Sister
+- it: spera nostra | en: our sphere | basis: 111-111
+
+## Scene 121-123: The Fading Vision
+- it: - | en: our sphere | basis: 121-123
+
+## Scene 124-130: The Blinding Glory
+- it: - | en: our sphere | basis: 124-130
+
+# recap
+Final setting: our sphere

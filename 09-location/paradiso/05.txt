@@ -1,0 +1,59 @@
+# Canto 05 — The Integrity of Vows and the Ascent to the Second Heaven
+
+## Scene 1-6: The Source of Beatrice's Radiance
+- it: - | en: our sphere | basis: 1-6
+
+## Scene 7-15: The Question of Vows
+- it: - | en: our sphere | basis: 7-15
+
+## Scene 16-18: Beatrice Begins Her Discourse
+- it: - | en: our sphere | basis: 16-18
+
+## Scene 19-33: The Gift of Free Will
+- it: - | en: our sphere | basis: 19-33
+
+## Scene 34-39: The Difficulty of Truth
+- it: - | en: our sphere | basis: 34-39
+
+## Scene 40-54: The Nature of Sacrifice
+- it: - | en: our sphere | basis: 40-54
+
+## Scene 55-63: The Necessity of Authority
+- it: - | en: our sphere | basis: 55-63
+
+## Scene 64-72: Historical Warnings of Broken Vows
+- it: - | en: our sphere | basis: 64-72
+
+## Scene 73-84: Exhortation to Christians
+- it: - | en: our sphere | basis: 73-84
+
+## Scene 85-93: Movement to the Second Heaven
+- it: - | en: our sphere | basis: 85-92
+- it: secondo regno | en: second realm | basis: 93-93
+
+## Scene 94-99: Beatrice's Increasing Brilliance
+- it: quel ciel | en: that heaven | basis: 95-95
+
+## Scene 100-108: The Arrival of the Spirits
+- it: - | en: that heaven | basis: 100-108
+
+## Scene 109-114: Dante's Desire for Knowledge
+- it: - | en: that heaven | basis: 109-114
+
+## Scene 115-120: The Greeting of the Spirit
+- it: - | en: that heaven | basis: 115-120
+
+## Scene 121-123: Beatrice's Command
+- it: - | en: that heaven | basis: 121-123
+
+## Scene 124-129: Dante's Inquiry
+- it: - | en: that heaven | basis: 124-129
+
+## Scene 130-132: Beatrice's Radiant Reaction
+- it: - | en: that heaven | basis: 130-132
+
+## Scene 133-139: The Elusive Response
+- it: - | en: that heaven | basis: 133-139
+
+# recap
+Final setting: that heaven

@@ -1,0 +1,66 @@
+# Canto 01 — The Dark Wood and the Encounter with Virgil
+
+## Scene 1-12: Lost in the Dark Wood
+- it: selva oscura | en: dark wood | basis: 2-2
+
+## Scene 13-18: The Sight of the Sunlit Hill
+- it: piè d'un colle | en: foot of a hill | basis: 13-13
+
+## Scene 19-21: Relief from Fear
+- it: - | en: foot of a hill | basis: 19-21
+
+## Scene 22-30: The Swimmer Simile
+- it: la piaggia diserta | en: deserted slope | basis: 29-29
+
+## Scene 31-36: The Appearance of the Leopard
+- it: cominciar de l'erta | en: beginning of the ascent | basis: 31-31
+
+## Scene 37-43: The Morning Light
+- it: - | en: beginning of the ascent | basis: 37-43
+
+## Scene 44-48: The Appearance of the Lion
+- it: - | en: beginning of the ascent | basis: 44-48
+
+## Scene 49-60: The Appearance of the She-Wolf
+- it: - | en: beginning of the ascent | basis: 49-59
+- it: là dove 'l sol tace | en: where the sun is silent | basis: 60-60
+
+## Scene 61-66: A Shadow in the Desert
+- it: basso loco | en: low place | basis: 61-61
+- it: gran diserto | en: great desert | basis: 64-64
+
+## Scene 67-75: Virgil's Introduction
+- it: - | en: great desert | basis: 67-75
+
+## Scene 76-78: The Challenge to Ascend
+- it: - | en: great desert | basis: 76-78
+
+## Scene 79-81: Dante's Recognition
+- it: - | en: great desert | basis: 79-81
+
+## Scene 82-90: A Plea for Guidance
+- it: - | en: great desert | basis: 82-90
+
+## Scene 91-99: The Nature of the She-Wolf
+- it: loco selvaggio | en: wild place | basis: 93-93
+
+## Scene 100-105: The Prophecy of the Veltro
+- it: - | en: wild place | basis: 100-105
+
+## Scene 106-111: The Fate of Italy
+- it: - | en: wild place | basis: 106-111
+
+## Scene 112-120: The Plan for the Journey
+- it: - | en: wild place | basis: 112-120
+
+## Scene 121-129: The Prohibition of the Ascent
+- it: - | en: wild place | basis: 121-129
+
+## Scene 130-135: Dante's Acceptance
+- it: - | en: wild place | basis: 130-135
+
+## Scene 136-136: The Journey Begins
+- it: - | en: wild place | basis: 136-136
+
+# recap
+Final setting: wild place

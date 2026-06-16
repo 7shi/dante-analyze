@@ -1,0 +1,63 @@
+# Canto 03 — The Gate of Hell and the Approach to the Acheron
+
+## Scene 1-9: The Inscription on the Gate
+- it: - | en: high and wooded path | basis: 1-9
+
+## Scene 10-18: Virgil's Interpretation
+- it: porta | en: gate | basis: 11-11
+- it: loco | en: place | basis: 16-16
+
+## Scene 19-24: Entry into the Underworld
+- it: - | en: place | basis: 19-20
+- it: le segrete cose | en: the secret things | basis: 21-21
+
+## Scene 25-33: The Tumult of Wailing
+- it: - | en: the secret things | basis: 25-33
+
+## Scene 34-42: The Origin of the Uncommitted
+- it: - | en: the secret things | basis: 34-42
+
+## Scene 43-51: The Fate of the Neutral
+- it: - | en: the secret things | basis: 43-51
+
+## Scene 52-57: The Great Procession
+- it: - | en: the secret things | basis: 52-57
+
+## Scene 58-63: The Shadow of the Great Refuser
+- it: - | en: the secret things | basis: 58-63
+
+## Scene 64-69: The Torment of the Souls
+- it: - | en: the secret things | basis: 64-69
+
+## Scene 70-78: Approaching the River
+- it: - | en: the secret things | basis: 70-78
+
+## Scene 79-81: Dante's Shame
+- it: - | en: the secret things | basis: 79-81
+
+## Scene 82-89: The Arrival of Charon
+- it: - | en: the secret things | basis: 82-89
+
+## Scene 90-99: Virgil Silences the Ferryman
+- it: livida palude | en: livid marsh | basis: 98-98
+
+## Scene 100-105: The Wrath of the Damned
+- it: - | en: livid marsh | basis: 100-105
+
+## Scene 106-108: Retreat to the Shore
+- it: - | en: livid marsh | basis: 106-106
+- it: la riva malvagia | en: the evil shore | basis: 107-107
+
+## Scene 109-120: The Continuous Flow of Souls
+- it: quel lito | en: that shore | basis: 116-116
+- it: l'onda bruna | en: the dark wave | basis: 118-118
+- it: di qua | en: this side | basis: 120-120
+
+## Scene 121-129: Virgil's Final Lesson
+- it: - | en: this side | basis: 121-129
+
+## Scene 130-136: The Earthquake and Fainting
+- it: la buia campagna | en: the dark countryside | basis: 130-130
+
+# recap
+Final setting: the dark countryside (la buia campagna)

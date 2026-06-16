@@ -1,0 +1,46 @@
+# Canto 02 — The Arrival of the Celestial Messenger and the Encounter with Casella
+
+## Scene 1-12: Setting the Scene at Dawn
+- it: - | en: deserted shore | basis: 10-10
+
+## Scene 13-18: A Sudden Light Appears
+- it: - | en: deserted shore | basis: 13-18
+
+## Scene 19-36: Description of the Angelic Wings
+- it: - | en: deserted shore | basis: 19-36
+
+## Scene 37-45: The Vessel Approaches
+- it: riva | en: shore | basis: 40-40
+
+## Scene 46-51: The Sacred Song and Signal
+- it: piaggia | en: shore | basis: 50-50
+
+## Scene 52-60: The Souls Seek Guidance
+- it: - | en: shore | basis: 52-60
+
+## Scene 61-66: Virgil's Response
+- it: - | en: shore | basis: 61-66
+
+## Scene 67-75: The Souls' Reaction to Dante
+- it: - | en: shore | basis: 67-75
+
+## Scene 76-84: The Physical Embrace
+- it: - | en: shore | basis: 76-84
+
+## Scene 85-90: Recognition of Casella
+- it: - | en: deserted shore | basis: 85-90
+
+## Scene 91-105: Dialogue with Casella
+- it: - | en: deserted shore | basis: 91-105
+
+## Scene 106-114: The Sweetness of the Song
+- it: - | en: deserted shore | basis: 106-114
+
+## Scene 115-123: The Pilot's Interruption
+- it: - | en: deserted shore | basis: 115-123
+
+## Scene 124-133: The Dispersal of the Souls
+- it: - | en: deserted shore | basis: 124-133
+
+# recap
+Final setting: deserted shore

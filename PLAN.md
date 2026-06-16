@@ -15,7 +15,9 @@ The committed pipeline covers all three canticles, 100 cantos:
 3. `05-registry -> 06-speech -> 07-relations -> 08-kg` turns the resolved material into a
    per-canticle knowledge graph.
 
-There is no unfinished mandatory step in this repo.
+There is no unfinished mandatory step in this repo. The translation context lock (direction 1
+below) is underway: its first pass, **`09-location`**, is committed and fully built across all 100
+cantos — see `09-location/README.md`. The next pass to design is `10-topography`.
 
 ## Next directions
 
@@ -46,21 +48,19 @@ each other:
 
 - **code join (no LLM)** from KG / `04-tags` / `05-registry`: `speaker` (speech edges), referent
   resolution (who/what → canonical), `relations` (edges), `simile` (frame=simile edges);
-- **single text-derived LLM judgments**, each its own pass: scene-local location; presence (cast
-  versus merely mentioned); addressee;
+- **single text-derived LLM judgments**, each its own pass: presence (cast versus merely
+  mentioned); addressee;
 - **topography**: consolidate per-scene location surfaces into a canonical, piecewise-constant
   region sequence (the registry-for-places); cohort derived from the text.
 
 Distinctions the lock must preserve:
 
-- **current setting** (where the scene physically is) versus **referred-to places** (mentioned, not
-  the present setting) — the place analogue of named-but-absent persons; the latter belong in the
-  referent layer, not the setting layer;
 - **present cast** versus **merely-mentioned referents**.
 
-Proposed passes (continuing the `NN-name` ladder):
+The first pass is committed: **`09-location`** (per-scene local setting; the current-setting versus
+referred-to-place distinction it realizes is documented in `09-location/README.md`). Remaining
+passes (continuing the `NN-name` ladder):
 
-- `09-location` (LLM) — per-scene local setting, in the work's own terms;
 - `10-topography` (code + narrow judgment) — consolidate settings into canonical regions and assign
   a region per scene; derive cohort. Mirrors `05-registry`;
 - `11-presence` (LLM) — cast versus mentioned;

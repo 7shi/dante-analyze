@@ -1,0 +1,58 @@
+# Canto 19 — The Encounter with the Simoniac Boniface
+
+## Scene 1-6: Invocation to the Simoniacs
+- it: - | en: the ridge of the arch | basis: 1-6
+
+## Scene 7-12: Reflection on Divine Wisdom
+- it: la seguente tomba | en: the following tomb | basis: 7-7
+- it: lo scoglio | en: the rock | basis: 8-8
+
+## Scene 13-30: The Landscape of the Third Bolgia
+- it: - | en: the rock | basis: 13-30
+
+## Scene 31-39: Dante's Inquiry
+- it: - | en: the rock | basis: 31-39
+
+## Scene 40-45: The Physical Descent
+- it: l'argine quarto | en: the fourth ledge | basis: 40-40
+- it: fondo foracchiato e arto | en: the holey and narrow bottom | basis: 42-42
+
+## Scene 46-48: Dante’s Salutation
+- it: - | en: the holey and narrow bottom | basis: 46-48
+
+## Scene 49-51: The Confessor Simile
+- it: - | en: the holey and narrow bottom | basis: 49-51
+
+## Scene 52-57: The Sinner’s Accusation
+- it: - | en: the holey and narrow bottom | basis: 52-57
+
+## Scene 58-60: Dante’s Bewilderment
+- it: - | en: the holey and narrow bottom | basis: 58-60
+
+## Scene 61-63: Virgil’s Instruction
+- it: - | en: the holey and narrow bottom | basis: 61-63
+
+## Scene 64-78: The Sinner’s Revelation
+- it: - | en: the holey and narrow bottom | basis: 64-78
+
+## Scene 79-87: The Prophecy of the Shepherd
+- it: - | en: the holey and narrow bottom | basis: 79-87
+
+## Scene 88-105: Dante’s First Rebuttal
+- it: - | en: the holey and narrow bottom | basis: 88-88
+
+## Scene 106-117: Dante’s Second Rebuttal
+- it: - | en: the holey and narrow bottom | basis: 106-117
+
+## Scene 118-123: Virgil’s Silent Approval
+- it: - | en: the holey and narrow bottom | basis: 118-123
+
+## Scene 124-129: The Ascent
+- it: - | en: the holey and narrow bottom | basis: 124-127
+- it: colmo de l'arco | en: the ridge of the arch | basis: 128-128
+
+## Scene 130-133: Arrival at a New Valley
+- it: lo scoglio sconcio ed erto | en: the ugly and steep rock | basis: 131-131
+
+# recap
+Final setting: the ugly and steep rock (lo scoglio sconcio ed erto)

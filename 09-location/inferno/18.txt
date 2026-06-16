@@ -1,0 +1,55 @@
+# Canto 18 — The Descent into the First Bolgia of Malebolge
+
+## Scene 1-18: The Topography of Malebolge
+- it: - | en: the foot of the jagged cliff | basis: 8-8
+
+## Scene 19-24: Arrival in the First Bolgia
+- it: - | en: the foot of the jagged cliff | basis: 19-24
+
+## Scene 25-33: The Flow of Sinners
+- it: - | en: the foot of the jagged cliff | basis: 25-33
+
+## Scene 34-39: The Brutal Tormentors
+- it: lo sasso tetro | en: the gloomy rock | basis: 34-34
+
+## Scene 40-51: Recognition of Caccianemico
+- it: - | en: the gloomy rock | basis: 40-51
+
+## Scene 52-63: The Sinner's Confession
+- it: - | en: the gloomy rock | basis: 52-63
+
+## Scene 64-66: The Demon's Interruption
+- it: - | en: the gloomy rock | basis: 64-66
+
+## Scene 67-72: Moving Along the Rim
+- it: - | en: the gloomy rock | basis: 67-67
+- it: uno scoglio de la ripa | en: a ledge of the bank | basis: 69-70
+- it: su per la sua scheggia | en: up along its ridge | basis: 71-71
+- it: quelle cerchie etterne | en: those outer circles | basis: 72-72
+
+## Scene 73-78: Virgil's Warning
+- it: là dov' el vaneggia di sotto | en: where it [the rock] drops down below | basis: 73-74
+
+## Scene 79-81: Watching the Bridge
+- it: - | en: where it [the rock] drops down below | basis: 79-81
+
+## Scene 82-99: The Tragedy of Jason
+- it: - | en: where it [the rock] drops down below | basis: 82-99
+
+## Scene 100-108: The Foul Junction
+- it: lo stretto calle con l'argine secondo s'incrocicchia | en: where the narrow path crosses with the second ledge | basis: 100-101
+
+## Scene 109-114: The Sinner in the Filth
+- it: dosso de l'arco | en: the ridge of the arch | basis: 110-112
+
+## Scene 115-123: Recognition of Alessio Interminei
+- it: - | en: the ridge of the arch | basis: 115-123
+
+## Scene 124-126: The Flattery of the Sinner
+- it: - | en: the ridge of the arch | basis: 124-126
+
+## Scene 127-136: The Observation of Taïde
+- it: - | en: the ridge of the arch | basis: 127-136
+
+# recap
+Final setting: the ridge of the arch

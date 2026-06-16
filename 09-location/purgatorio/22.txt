@@ -1,0 +1,49 @@
+# Canto 22 — The Poets of Limbo and the Enchanted Tree
+
+## Scene 1-9: The Departure and Ascent
+- it: - | en: open spaces along the rock in the fifth circle | basis: 1-9
+
+## Scene 10-24: Virgil’s Inquiry
+- it: queste scale | en: these stairs | basis: 18-18
+
+## Scene 25-36: Statius’s Defense
+- it: - | en: these stairs | basis: 25-36
+
+## Scene 37-54: The Sin of Lukewarmness
+- it: - | en: these stairs | basis: 37-54
+
+## Scene 55-63: Dante’s Doubt
+- it: - | en: these stairs | basis: 55-63
+
+## Scene 64-81: Statius’s Tribute to Virgil
+- it: - | en: these stairs | basis: 64-81
+
+## Scene 82-93: The Burden of Tepidity
+- it: - | en: these stairs | basis: 82-93
+
+## Scene 94-99: Dante’s Inquiry into Classical Poets
+- it: - | en: these stairs | basis: 94-99
+
+## Scene 100-114: The Inhabitants of Limbo
+- it: - | en: these stairs | basis: 100-114
+
+## Scene 115-126: Realigning the Ascent
+- it: - | en: these stairs | basis: 115-120
+- it: lo stremo | en: the edge | basis: 121-121
+- it: il monte | en: the mountain | basis: 123-123
+
+## Scene 127-129: Dante’s Observation
+- it: - | en: the mountain | basis: 127-129
+
+## Scene 130-138: The Discovery of the Tree
+- it: mezza strada | en: middle of the road | basis: 131-131
+
+## Scene 139-141: The Voice’s Invitation
+- it: - | en: middle of the road | basis: 139-139
+- it: l'alber | en: the tree | basis: 139-139
+
+## Scene 142-154: The Theology of Fasting
+- it: - | en: the tree | basis: 142-154
+
+# recap
+Final setting: the tree

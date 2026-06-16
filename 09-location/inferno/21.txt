@@ -1,0 +1,79 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+
+## Scene 1-6: Arrival at the new, dark ditch
+- it: ponte | en: bridge | basis: 1-1
+- it: 'l colmo | en: the brink | basis: 3-3
+
+## Scene 7-18: The Venetian shipyard simile
+- it: la ripa | en: the bank | basis: 18-18
+
+## Scene 19-21: Observing the boiling pitch
+- it: - | en: the bank | basis: 19-21
+
+## Scene 22-24: Virgil pulls Dante away
+- it: - | en: the bank | basis: 22-24
+
+## Scene 25-33: The appearance of the demon
+- it: lo scoglio | en: the rock | basis: 30-30
+
+## Scene 34-36: The demon's physical ferocity
+- it: - | en: the rock | basis: 34-36
+
+## Scene 37-42: The demon's declaration
+- it: - | en: the rock | basis: 37-42
+
+## Scene 43-46: The demon's departure
+- it: lo scoglio duro | en: the hard rock | basis: 43-43
+
+## Scene 47-54: Warnings from the bridge demons
+- it: - | en: the hard rock | basis: 47-54
+
+## Scene 55-57: The cooking simile
+- it: - | en: the hard rock | basis: 55-57
+
+## Scene 58-63: Virgil's advice to Dante
+- it: - | en: hard rock | basis: 58-63
+
+## Scene 64-66: Virgil crosses the bridge
+- it: co del ponte | en: neck of the bridge | basis: 64-64
+- it: ripa sesta | en: sixth bank | basis: 65-65
+
+## Scene 67-75: The demon attack and Virgil's challenge
+- it: - | en: sixth bank | basis: 67-75
+
+## Scene 76-78: The selection of Malacoda
+- it: - | en: sixth bank | basis: 76-78
+
+## Scene 79-84: Virgil's rebuttal
+- it: - | en: sixth bank | basis: 79-84
+
+## Scene 85-87: The demons' submission
+- it: - | en: sixth bank | basis: 85-87
+
+## Scene 88-90: Virgil's second command to Dante
+- it: li scheggion del ponte | en: fragments of the bridge | basis: 89-89
+
+## Scene 91-96: The travelers' encirclement
+- it: - | en: fragments of the bridge | basis: 91-96
+
+## Scene 97-102: The demons' taunts
+- it: - | en: fragments of the bridge | basis: 97-102
+
+## Scene 103-105: Malacoda's interruption
+- it: - | en: fragments of the bridge | basis: 103-105
+
+## Scene 106-117: Malacoda's news
+- it: iscoglio | en: rock | basis: 106-107
+
+## Scene 118-126: The deployment of the demons
+- it: - | en: rock | basis: 118-126
+
+## Scene 127-132: Dante's growing anxiety
+- it: - | en: rock | basis: 127-132
+
+## Scene 133-139: Malacoda's reassurance and the demons' exit
+- it: - | en: rock | basis: 133-135
+- it: l'argine sinistro | en: the left bank | basis: 136-139
+
+# recap
+Final setting: the left bank (l'argine sinistro)

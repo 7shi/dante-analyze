@@ -1,0 +1,55 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+
+## Scene 1-6: Observation of the Flames
+- it: - | en: at the foot of a tower, cut off | basis: 1-1
+
+## Scene 7-12: Inquiry of the Flames
+- it: - | en: at the foot of a tower, cut off | basis: 7-12
+
+## Scene 13-18: The Approach of the Boat
+- it: - | en: at the foot of a tower, cut off | basis: 13-18
+
+## Scene 19-24: The Quarrel with Flegias
+- it: - | en: at the foot of a tower, cut off | basis: 19-24
+
+## Scene 25-30: Boarding the Vessel
+- it: - | en: at the foot of a tower, cut off | basis: 25-26
+- it: la barca | en: the boat | basis: 25-30
+
+## Scene 31-39: The Encounter with the Muddy Spirit
+- it: la morta gora | en: the dead stream | basis: 31-31
+
+## Scene 40-51: The Spirit's Monologue on Pride
+- it: - | en: the dead stream | basis: 40-51
+
+## Scene 52-57: Dante's Desire for Retribution
+- it: lago | en: lake | basis: 54-54
+
+## Scene 58-64: The Torment of Filippo Argenti
+- it: - | en: lake | basis: 58-64
+
+## Scene 65-78: Arrival at the Walls of Dis
+- it: - | en: lake | basis: 65-75
+- it: alte fosse | en: high ditches | basis: 76-78
+
+## Scene 79-93: Challenge at the Gates
+- it: l'intrata | en: the entrance | basis: 81-81
+- it: le porte | en: the gates | basis: 82-82
+
+## Scene 94-102: Dante's Terror
+- it: - | en: the gates | basis: 94-102
+
+## Scene 103-108: Virgil's Reassurance
+- it: - | en: the gates | basis: 103-108
+
+## Scene 109-114: Separation at the Gate
+- it: - | en: the gates | basis: 109-114
+
+## Scene 115-120: Virgil's Despair
+- it: - | en: the gates | basis: 115-120
+
+## Scene 121-130: The Secret Path Revealed
+- it: - | en: the gates | basis: 121-130
+
+# recap
+Final setting: the gates

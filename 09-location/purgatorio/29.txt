@@ -1,0 +1,59 @@
+# Canto 29 — The Celestial Procession of the Empyrean
+
+## Scene 1-15: The Path Along the River
+- it: - | en: this place | basis: 1-1
+- it: la riva | en: the bank | basis: 8-8
+
+## Scene 16-30: The Sudden Light and Melody
+- it: la gran foresta | en: the great forest | basis: 17-17
+
+## Scene 31-42: The Poet's Invocation
+- it: - | en: the great forest | basis: 31-42
+
+## Scene 43-54: The Golden Candelabra
+- it: - | en: the great forest | basis: 43-54
+
+## Scene 55-63: Beatrice's Rebuke
+- it: - | en: the great forest | basis: 55-63
+
+## Scene 64-69: The White-Clad People
+- it: L'acqua | en: the water | basis: 67-69
+
+## Scene 70-81: The Rainbow Trails
+- it: la mia riva | en: my bank | basis: 70-70
+
+## Scene 82-87: The Twenty-Four Elders
+- it: bel ciel | en: beautiful sky | basis: 82-82
+
+## Scene 88-96: The Six-Winged Creatures
+- it: - | en: beautiful sky | basis: 88-96
+
+## Scene 97-105: The Vision of Ezekiel
+- it: - | en: beautiful sky | basis: 97-105
+
+## Scene 106-114: The Triumph of the Griffin
+- it: - | en: beautiful sky | basis: 106-114
+
+## Scene 115-120: Comparison to Imperial Glory
+- it: - | en: beautiful sky | basis: 115-120
+
+## Scene 121-129: The Three Dancing Women
+- it: - | en: beautiful sky | basis: 121-129
+
+## Scene 130-132: The Purple Group
+- it: - | en: beautiful sky | basis: 130-132
+
+## Scene 133-141: The Two Old Men
+- it: - | en: beautiful sky | basis: 133-141
+
+## Scene 142-144: The Humble Figures
+- it: - | en: beautiful sky | basis: 142-144
+
+## Scene 145-150: The Floral Crowns
+- it: - | en: beautiful sky | basis: 145-150
+
+## Scene 151-154: The Sudden Halt
+- it: - | en: beautiful sky | basis: 151-154
+
+# recap
+Final setting: beautiful sky

@@ -1,0 +1,71 @@
+# Canto 14 — The Ascent to a Higher Sphere and the Vision of the New Light
+
+## Scene 1-9: The Proem and the Analogy of Thomas
+- it: - | en: point of the circle | basis: 1-9
+
+## Scene 10-18: The Celestial Question
+- it: - | en: point of the circle | basis: 10-18
+
+## Scene 19-24: The Joy of the Saints
+- it: - | en: point of the circle | basis: 19-24
+
+## Scene 25-27: The Lament of the Ascetic
+- it: - | en: point of the circle | basis: 25-27
+
+## Scene 28-33: The Trinitarian Hymn
+- it: - | en: point of the circle | basis: 28-33
+
+## Scene 34-39: The Angelic Answer
+- it: - | en: point of the circle | basis: 34-39
+
+## Scene 40-51: The Mechanics of Divine Light
+- it: - | en: point of the circle | basis: 40-51
+
+## Scene 52-60: The Analogy of the Ember
+- it: - | en: point of the circle | basis: 52-60
+
+## Scene 61-66: The Amen of the Souls
+- it: - | en: point of the circle | basis: 61-66
+
+## Scene 67-75: The Emergence of New Spheres
+- it: - | en: point of the circle | basis: 67-75
+
+## Scene 76-78: The Intensity of the Holy Spirit
+- it: - | en: point of the circle | basis: 76-78
+
+## Scene 79-81: The Sight of Beatrice
+- it: - | en: point of the circle | basis: 79-81
+
+## Scene 82-84: The Translocation
+- it: - | en: point of the circle | basis: 82-82
+- it: più alta salute | en: higher state of salvation | basis: 84-84
+
+## Scene 85-87: The Radiance of the Star
+- it: - | en: higher state of salvation | basis: 85-87
+
+## Scene 88-90: The Sacrifice of Praise
+- it: - | en: higher state of salvation | basis: 88-90
+
+## Scene 91-96: The Double Radiance
+- it: - | en: higher state of salvation | basis: 91-96
+
+## Scene 97-102: The Analogy of the Milky Way
+- it: - | en: higher state of salvation | basis: 97-102
+
+## Scene 103-108: The Cruciform Light
+- it: - | en: higher state of salvation | basis: 103-108
+
+## Scene 109-117: The Motion of the Lights
+- it: - | en: higher state of salvation | basis: 109-117
+
+## Scene 118-123: The Celestial Melody
+- it: - | en: higher state of salvation | basis: 118-123
+
+## Scene 124-126: The Unintelligible Hymn
+- it: - | en: higher state of salvation | basis: 124-126
+
+## Scene 127-139: The Poet's Apologia
+- it: - | en: higher state of salvation | basis: 127-139
+
+# recap
+Final setting: higher state of salvation

@@ -1,0 +1,46 @@
+# Canto 06 — Farinata's Imperial Monologue and Historical Survey
+
+## Scene 1-9: The Movement of the Imperial Eagle
+- it: - | en: that heaven | basis: 1-9
+
+## Scene 10-27: The Imperial Persona and Spiritual Journey
+- it: - | en: that heaven | basis: 10-27
+
+## Scene 28-33: The Significance of the Political Sign
+- it: - | en: that heaven | basis: 28-33
+
+## Scene 34-48: The Glory of the Roman Lineage
+- it: - | en: that heaven | basis: 34-48
+
+## Scene 49-54: The Expansion of Imperial Power
+- it: - | en: that heaven | basis: 49-54
+
+## Scene 55-63: The Era of Julius Caesar
+- it: - | en: that heaven | basis: 55-63
+
+## Scene 64-72: The Global Reach of the Empire
+- it: - | en: that heaven | basis: 64-72
+
+## Scene 73-81: The Tragedies of War and the Era of Peace
+- it: - | en: that heaven | basis: 73-81
+
+## Scene 82-90: The Third Caesar and Divine Justice
+- it: - | en: that heaven | basis: 82-90
+
+## Scene 91-96: Charlemagne and the Defense of the Church
+- it: - | en: that heaven | basis: 91-96
+
+## Scene 97-111: The Corruption of the Factions
+- it: - | en: that heaven | basis: 97-111
+
+## Scene 112-123: The Cosmic Balance of Merit
+- it: - | en: that heaven | basis: 112-123
+
+## Scene 124-135: The Harmony of the Troubadours
+- it: - | en: that heaven | basis: 124-135
+
+## Scene 136-142: A Tribute to the Humble Wanderer
+- it: - | en: that heaven | basis: 136-142
+
+# recap
+Final setting: that heaven

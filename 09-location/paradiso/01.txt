@@ -1,0 +1,52 @@
+# Canto 01 — The Vision of the Celestial Order and Beatrice's Instruction
+
+## Scene 1-12: The Prologue
+- it: - | en: not stated | basis: 1-12
+
+## Scene 13-27: The Invocation
+- it: - | en: not stated | basis: 13-27
+
+## Scene 28-36: The Poet's Struggle
+- it: - | en: not stated | basis: 28-36
+
+## Scene 37-42: The Cosmic Engine
+- it: - | en: not stated | basis: 37-42
+
+## Scene 43-54: The Vision of Beatrice
+- it: - | en: not stated | basis: 43-54
+
+## Scene 55-63: The Blinding Light
+- it: - | en: not stated | basis: 55-63
+
+## Scene 64-69: The Meeting
+- it: etterne rote | en: eternal spheres | basis: 64-64
+
+## Scene 70-75: The Linguistic Struggle
+- it: - | en: eternal spheres | basis: 70-75
+
+## Scene 76-84: The Celestial Harmony
+- it: - | en: eternal spheres | basis: 76-84
+
+## Scene 85-93: Beatrice's Rebuke
+- it: - | en: eternal spheres | basis: 85-93
+
+## Scene 94-99: Dante's Wonder
+- it: - | en: eternal spheres | basis: 94-99
+
+## Scene 100-108: The Doctrine of Order
+- it: - | en: eternal spheres | basis: 100-108
+
+## Scene 109-120: The Mechanics of the Spheres
+- it: - | en: eternal spheres | basis: 109-120
+
+## Scene 121-126: The Guidance of Providence
+- it: - | en: eternal spheres | basis: 121-126
+
+## Scene 127-135: The Deviation of Desire
+- it: - | en: eternal spheres | basis: 127-135
+
+## Scene 136-142: Final Instruction
+- it: - | en: eternal spheres | basis: 136-142
+
+# recap
+Final setting: eternal spheres

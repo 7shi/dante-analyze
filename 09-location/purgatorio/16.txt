@@ -1,0 +1,64 @@
+# Canto 16 — The Encounter with Marco Lombardo
+
+## Scene 1-9: The Thick Fog
+- it: - | en: the other gyre | basis: 1-9
+
+## Scene 10-15: Following the Guide
+- it: - | en: the other gyre | basis: 10-15
+
+## Scene 16-21: The Voices of the Neutrals
+- it: - | en: the other gyre | basis: 16-21
+
+## Scene 22-24: Virgil’s Interpretation
+- it: - | en: the other gyre | basis: 22-24
+
+## Scene 25-30: The Voice’s Interruption
+- it: - | en: the other gyre | basis: 25-30
+
+## Scene 31-36: Dante’s Introduction and the Voice’s Promise
+- it: - | en: the other gyre | basis: 31-36
+
+## Scene 37-45: The Mission and Request for Identity
+- it: - | en: the other gyre | basis: 37-45
+
+## Scene 46-51: Marco’s Identity and Request for Prayer
+- it: - | en: the other gyre | basis: 46-51
+
+## Scene 52-63: Dante’s Doubt and the State of the World
+- it: - | en: the other gyre | basis: 52-63
+
+## Scene 64-78: The Mechanics of Free Will
+- it: - | en: the other gyre | basis: 64-78
+
+## Scene 79-84: Human Responsibility
+- it: - | en: the other gyre | basis: 79-84
+
+## Scene 85-93: The Metaphor of the Soul
+- it: - | en: the other gyre | basis: 85-93
+
+## Scene 94-105: The Failure of Law and Leadership
+- it: - | en: the other gyre | basis: 94-105
+
+## Scene 106-114: The Conflict of the Two Suns
+- it: - | en: the other gyre | basis: 106-114
+
+## Scene 115-120: The Decline of Lombardy
+- it: - | en: the other gyre | basis: 115-120
+
+## Scene 121-126: The Three Old Men
+- it: - | en: the other gyre | basis: 121-126
+
+## Scene 127-129: The Corruption of the Church
+- it: - | en: the other gyre | basis: 127-129
+
+## Scene 130-135: Dante’s Inquiry about Gherardo
+- it: - | en: the other gyre | basis: 130-135
+
+## Scene 136-140: Marco’s Difficulty with the Name
+- it: - | en: the other gyre | basis: 136-140
+
+## Scene 141-145: The Departure of Marco
+- it: - | en: the other gyre | basis: 141-145
+
+# recap
+Final setting: the other gyre

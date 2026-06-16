@@ -1,0 +1,51 @@
+# Canto 05 — The Second Circle: The Storm of Lust
+
+## Scene 1-6: The Presence of Minos
+- it: secondo | en: second circle | basis: 2-2
+- it: l'intrata | en: the entrance | basis: 5-5
+
+## Scene 7-15: The Process of Judgment
+- it: - | en: the entrance, a part where there is only light | basis: 7-15
+
+## Scene 16-24: Minos's Warning
+- it: doloroso ospizio | en: sorrowful hospice | basis: 16-16
+- it: l'intrare | en: the entrance | basis: 20-20
+
+## Scene 25-36: The Infernal Tempest
+- it: loco d'ogne luce muto | en: a place mute of every light | basis: 28-28
+
+## Scene 37-45: The Nature of the Sin
+- it: - | en: a place mute of every light | basis: 37-45
+
+## Scene 46-51: The Drifting Souls
+- it: - | en: a place mute of every light | basis: 46-51
+
+## Scene 52-69: The Catalogue of Lovers
+- it: - | en: a place mute of every light | basis: 52-69
+
+## Scene 70-78: A Request for Dialogue
+- it: - | en: a place mute of every light | basis: 70-78
+
+## Scene 79-87: The Approach of the Souls
+- it: - | en: a place mute of every light | basis: 79-87
+
+## Scene 88-96: The Souls' Greeting
+- it: l'aere perso | en: the lost air | basis: 89-89
+
+## Scene 97-107: The Tale of Dido
+- it: - | en: the lost air | basis: 97-107
+
+## Scene 108-114: Dante's Grief
+- it: - | en: the lost air | basis: 108-114
+
+## Scene 115-126: An Inquiry to Francesca
+- it: - | en: the lost air | basis: 115-126
+
+## Scene 127-138: The Lancelot Legend
+- it: - | en: the lost air | basis: 127-138
+
+## Scene 139-142: Dante's Collapse
+- it: - | en: the lost air | basis: 139-142
+
+# recap
+Final setting: the lost air

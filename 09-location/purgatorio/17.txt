@@ -1,0 +1,57 @@
+# Canto 17 — The Ascent through the Ninth Circle and the Doctrine of Love
+
+## Scene 1-12: The Fog Analogy
+- it: tal nube | en: such cloud | basis: 11-11
+- it: bassi lidi | en: low shores | basis: 12-12
+
+## Scene 13-24: The Wandering Imagination
+- it: - | en: low shores | basis: 13-24
+
+## Scene 25-30: The Vision of the Crucifix
+- it: - | en: low shores | basis: 25-30
+
+## Scene 31-39: The Maiden's Lament
+- it: - | en: low shores | basis: 31-39
+
+## Scene 40-45: The Waking Analogy
+- it: - | en: low shores | basis: 40-45
+
+## Scene 46-54: The Blinding Light
+- it: - | en: low shores | basis: 46-54
+
+## Scene 55-63: Virgil’s Instruction
+- it: - | en: low shores | basis: 55-63
+
+## Scene 64-69: The Angelic Greeting
+- it: - | en: low shores | basis: 64-65
+- it: una scala | en: a ladder | basis: 65-66
+
+## Scene 70-72: The Visibility of the Stars
+- it: - | en: a ladder | basis: 70-72
+
+## Scene 73-78: Dante’s Physical Exhaustion
+- it: la scala | en: the ladder | basis: 77-77
+
+## Scene 79-84: Dante’s Inquiry
+- it: giro | en: gyre | basis: 83-83
+
+## Scene 85-90: Virgil’s Preface
+- it: - | en: gyre (giro) | basis: 85-90
+
+## Scene 91-105: The Doctrine of Love
+- it: - | en: gyre | basis: 91-105
+
+## Scene 106-114: The Connection to Hate and the Three Modes
+- it: - | en: gyre | basis: 106-114
+
+## Scene 115-123: The First Mode of Sinful Love
+- it: - | en: gyre | basis: 115-123
+
+## Scene 124-132: The Second Mode of Sinful Love
+- it: cornice | en: ring | basis: 131-131
+
+## Scene 133-139: The Third Mode and Conclusion
+- it: - | en: ring | basis: 133-139
+
+# recap
+Final setting: ring

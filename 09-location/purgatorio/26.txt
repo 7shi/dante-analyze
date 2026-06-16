@@ -1,0 +1,68 @@
+# Canto 26 — Encounters with the Souls of the Lustful
+
+## Scene 1-9: Sunset in the Inferno
+- it: l'orlo | en: the edge | basis: 1-1
+
+## Scene 10-15: The Shadows Observe Dante
+- it: - | en: the edge | basis: 10-15
+
+## Scene 16-24: An Inquiry from the Flames
+- it: - | en: the edge (l'orlo) | basis: 16-24
+
+## Scene 25-30: Arrival of the New Group
+- it: - | en: the edge | basis: 25-30
+
+## Scene 31-36: The Swarming Shadows
+- it: - | en: the edge | basis: 31-36
+
+## Scene 37-42: The Divided Proclamations
+- it: - | en: the edge | basis: 37-42
+
+## Scene 43-48: The Parting of the Souls
+- it: - | en: the edge | basis: 43-48
+
+## Scene 49-51: The Return of the First Group
+- it: - | en: the edge (l'orlo) | basis: 49-51
+
+## Scene 52-66: Dante's Explanation
+- it: - | en: the edge | basis: 52-66
+
+## Scene 67-72: The Shadows' Confusion
+- it: - | en: the edge | basis: 67-72
+
+## Scene 73-87: Guido's Identification
+- it: - | en: the edge | basis: 73-87
+
+## Scene 88-93: The Pride of the Poet
+- it: - | en: the edge | basis: 88-93
+
+## Scene 94-102: Dante's Emotional Response
+- it: - | en: the edge | basis: 94-102
+
+## Scene 103-105: Dante's Readiness to Serve
+- it: - | en: the edge | basis: 103-105
+
+## Scene 106-111: Guido's Request
+- it: - | en: the edge | basis: 106-111
+
+## Scene 112-114: Dante's Compliment
+- it: - | en: the edge | basis: 112-114
+
+## Scene 115-126: Praise for Arnaut Daniel
+- it: - | en: the edge | basis: 115-126
+
+## Scene 127-132: A Prayer for the Departed
+- it: - | en: the edge | basis: 127-132
+
+## Scene 133-135: The Disappearance of Guido
+- it: - | en: the edge | basis: 133-135
+
+## Scene 136-141: The Arrival of Arnaut Daniel
+- it: - | en: the edge | basis: 136-141
+
+## Scene 142-148: Arnaut's Lament and Departure
+- it: - | en: the edge | basis: 142-147
+- it: nel foco | en: in the fire | basis: 148-148
+
+# recap
+Final setting: in the fire (nel foco)

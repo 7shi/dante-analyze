@@ -1,0 +1,67 @@
+# Canto 27 — The Entrance into the Fire and the Ascent to the Earthly Paradise
+
+## Scene 1-6: The Solar Metaphor
+- it: - | en: in the fire | basis: 1-6
+
+## Scene 7-13: The Angel's Command
+- it: in su la riva | en: on the bank | basis: 7-7
+
+## Scene 14-18: Dante's Terror
+- it: - | en: on the bank | basis: 14-18
+
+## Scene 19-32: Virgil's Reassurance
+- it: - | en: on the bank | basis: 19-32
+
+## Scene 33-36: The Wall of Separation
+- it: - | en: on the bank | basis: 33-36
+
+## Scene 37-42: Dante's Conversion
+- it: - | en: on the bank | basis: 37-42
+
+## Scene 43-48: Entering the Fire
+- it: - | en: on the bank | basis: 43-45
+- it: dentro al foco | en: inside the fire | basis: 46-46
+
+## Scene 49-54: The Intensity of the Flame
+- it: - | en: inside the fire | basis: 49-54
+
+## Scene 55-63: The Heavenly Voice
+- it: - | en: inside the fire | basis: 55-56
+- it: là ove si montava | en: where one climbed | basis: 57-57
+
+## Scene 64-69: The Upward Climb
+- it: per entro 'l sasso | en: through the rock | basis: 64-64
+
+## Scene 70-75: The Evening Rest
+- it: grado | en: a step | basis: 73-73
+- it: monte | en: the mountain | basis: 74-74
+
+## Scene 76-87: The Simile of the Shepherds
+- it: alta grotta | en: high cave | basis: 87-87
+
+## Scene 88-93: The Arrival of Sleep
+- it: - | en: high cave | basis: 88-93
+
+## Scene 94-108: The Dream of Lia
+- it: - | en: high cave | basis: 94-108
+
+## Scene 109-114: The Dawn of Awakening
+- it: - | en: high cave | basis: 109-114
+
+## Scene 115-120: Virgil's Comforting Words
+- it: - | en: high cave | basis: 115-120
+
+## Scene 121-123: The Impulse to Ascend
+- it: - | en: high cave | basis: 121-123
+
+## Scene 124-132: The Limit of Virgil's Guidance
+- it: grado superno | en: topmost step | basis: 125-125
+
+## Scene 133-138: The Beauty of the Paradise
+- it: la terra | en: the earth | basis: 135-135
+
+## Scene 139-142: The Granting of Free Will
+- it: - | en: the earth | basis: 139-142
+
+# recap
+Final setting: the earth

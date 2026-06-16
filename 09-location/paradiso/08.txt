@@ -1,0 +1,50 @@
+# Canto 08 — The Descent of the Celestial Light and the Mystery of Providence
+
+## Scene 1-12: The Cosmological Prologue
+- it: - | en: the sincere realm | basis: 1-12
+
+## Scene 13-21: The Vision of Divine Light
+- it: - | en: the sincere realm | basis: 13-13
+- it: ella | en: the celestial rose | basis: 13-14
+
+## Scene 22-30: The Descent of the Spirits
+- it: - | en: the celestial rose | basis: 22-30
+
+## Scene 31-39: The Approach of the Spirit
+- it: - | en: the celestial rose | basis: 31-39
+
+## Scene 40-48: The Encounter with Beatrice
+- it: - | en: the celestial rose | basis: 40-48
+
+## Scene 49-57: The Spirit's Earthly Connection
+- it: - | en: the celestial rose | basis: 49-57
+
+## Scene 58-66: Prophecy of the Northern and Central Lands
+- it: - | en: the celestial rose | basis: 58-66
+
+## Scene 67-75: The Prophecy of Sicily
+- it: - | en: the celestial rose | basis: 67-75
+
+## Scene 76-84: The Warning for Catalonia
+- it: - | en: the celestial rose | basis: 76-84
+
+## Scene 85-93: Dante's Theological Doubt
+- it: - | en: the celestial rose | basis: 85-93
+
+## Scene 94-112: The Lesson on Divine Providence
+- it: regno | en: the kingdom | basis: 97-97
+
+## Scene 113-120: The Socratic Interlude on Nature
+- it: - | en: the kingdom | basis: 113-120
+
+## Scene 121-129: The Diversity of Human Destinies
+- it: - | en: the kingdom | basis: 121-129
+
+## Scene 130-135: Providence Overriding Nature
+- it: - | en: the kingdom | basis: 130-135
+
+## Scene 136-148: The Final Warning
+- it: - | en: the kingdom | basis: 136-148
+
+# recap
+Final setting: the kingdom

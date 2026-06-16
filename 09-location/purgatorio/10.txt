@@ -1,0 +1,62 @@
+# Canto 10 — The Marble Gallery and the Contorted Souls
+
+## Scene 1-6: Closing of the Gate
+- it: soglio de la porta | en: threshold of the gate | basis: 1-1
+
+## Scene 7-9: The Moving Stone
+- it: pietra fessa | en: split stone | basis: 7-7
+
+## Scene 10-12: Virgil's Strategy
+- it: - | en: split stone | basis: 10-12
+
+## Scene 13-21: Arrival on the Plain
+- it: quella cruna | en: that hole | basis: 16-16
+- it: un piano | en: a plain | basis: 20-20
+
+## Scene 22-27: The Enclosed Ledge
+- it: cornice | en: ledge | basis: 27-27
+
+## Scene 28-33: The Exquisite Carvings
+- it: - | en: ledge | basis: 28-28
+
+## Scene 34-45: The Annunciation
+- it: - | en: ledge | basis: 34-45
+
+## Scene 46-48: Virgil's Direction
+- it: - | en: ledge | basis: 46-48
+
+## Scene 49-54: Shifting Perspective
+- it: - | en: ledge | basis: 49-54
+
+## Scene 55-66: The Procession of the Ark
+- it: - | en: ledge | basis: 55-66
+
+## Scene 67-69: The Figure of Michal
+- it: - | en: ledge | basis: 67-69
+
+## Scene 70-81: The Imperial Carving
+- it: - | en: ledge | basis: 70-81
+
+## Scene 82-93: The Widow's Lament
+- it: - | en: ledge | basis: 82-93
+
+## Scene 94-105: Wonder at the Artistry
+- it: - | en: ledge | basis: 94-105
+
+## Scene 106-111: A Warning to the Reader
+- it: - | en: ledge | basis: 106-111
+
+## Scene 112-120: The Hidden Torment
+- it: - | en: ledge | basis: 112-120
+
+## Scene 121-129: The Sermon to Christians
+- it: - | en: ledge | basis: 121-129
+
+## Scene 130-135: The Corbel Metaphor
+- it: - | en: ledge | basis: 130-135
+
+## Scene 136-139: The Weight of Pain
+- it: - | en: ledge | basis: 136-139
+
+# recap
+Final setting: ledge

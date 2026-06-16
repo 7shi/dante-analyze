@@ -1,0 +1,46 @@
+# Canto 09 — The Prophecies of the Two Celestial Lights
+
+## Scene 1-6: Memory of Carlo
+- it: - | en: the kingdom | basis: 1-6
+
+## Scene 7-12: Condemnation of Vanity
+- it: - | en: the kingdom | basis: 7-12
+
+## Scene 13-18: Arrival of the First Light
+- it: - | en: the kingdom | basis: 13-18
+
+## Scene 19-24: Dante's Request
+- it: - | en: the kingdom | basis: 19-24
+
+## Scene 25-42: The Tale of Cunizza
+- it: - | en: the kingdom | basis: 25-42
+
+## Scene 43-51: Prophecy of Shifting Waters
+- it: - | en: the kingdom | basis: 43-51
+
+## Scene 52-63: Warning of Clerical Corruption
+- it: - | en: the kingdom | basis: 52-63
+
+## Scene 64-66: The Spirit's Reversion
+- it: - | en: the kingdom | basis: 64-66
+
+## Scene 67-72: Appearance of the Second Light
+- it: - | en: the kingdom | basis: 67-72
+
+## Scene 73-81: Dante's Dialogue
+- it: - | en: the kingdom | basis: 73-81
+
+## Scene 82-93: The Geography of the Great Valley
+- it: - | en: the kingdom | basis: 82-93
+
+## Scene 94-108: Identity and Divine Purpose
+- it: cielo | en: heaven | basis: 95-95
+
+## Scene 109-126: The Legacy of Raab
+- it: questo cielo | en: this heaven | basis: 118-118
+
+## Scene 127-142: Prophecy of Roman Liberation
+- it: - | en: this heaven | basis: 127-142
+
+# recap
+Final setting: this heaven

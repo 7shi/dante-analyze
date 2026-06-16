@@ -1,0 +1,46 @@
+# Canto 32 — The Frozen Landscape of Cocytus and the Encounters with Traitors
+
+## Scene 1-12: The Poet’s Prologue
+- it: - | en: the bottom (fondo) | basis: 1-12
+
+## Scene 13-21: The Descent into the Pit
+- it: pozzo scuro | en: dark pit | basis: 16-16
+
+## Scene 22-30: The Frozen Lake of Cocytus
+- it: lago | en: lake | basis: 23-23
+
+## Scene 31-39: The Sinners in the Ice
+- it: ghiaccia | en: the ice | basis: 35-35
+
+## Scene 40-51: The Two Intertwined Sinners
+- it: - | en: the ice | basis: 40-51
+
+## Scene 52-69: The Deaf Sinner’s Revelation
+- it: - | en: the ice | basis: 52-69
+
+## Scene 70-78: Walking through the Frozen Multitude
+- it: - | en: the ice | basis: 70-78
+
+## Scene 79-84: The Scolding Sinner
+- it: - | en: the ice | basis: 79-84
+
+## Scene 85-96: The Verbal Dispute
+- it: l'Antenora | en: Antenora | basis: 88-88
+
+## Scene 97-105: The Physical Altercation
+- it: - | en: Antenora | basis: 97-105
+
+## Scene 106-114: The Interruption by Bocca
+- it: - | en: Antenora | basis: 106-114
+
+## Scene 115-123: The Catalog of Traitors
+- it: - | en: Antenora | basis: 115-123
+
+## Scene 124-132: The Biting Sinners
+- it: - | en: Antenora | basis: 124-132
+
+## Scene 133-139: Dante’s Inquiry into Hatred
+- it: - | en: Antenora | basis: 133-139
+
+# recap
+Final setting: Antenora

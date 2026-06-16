@@ -1,0 +1,53 @@
+# Canto 14 — The Third Circle: The Wrathful and the Rain of Fire
+
+## Scene 1-6: Transition to the Third Circle
+- it: - | en: bush | basis: 1-3
+- it: fine ove si parte lo secondo giron dal terzo | en: the boundary where the second circle separates from the third | basis: 4-5
+
+## Scene 7-15: The Desolate Landscape
+- it: una landa | en: a plain | basis: 8-8
+
+## Scene 16-21: The Multitude of Souls
+- it: - | en: a plain | basis: 16-21
+
+## Scene 22-27: The Patterns of Suffering
+- it: - | en: a plain | basis: 22-27
+
+## Scene 28-39: The Rain of Fire
+- it: sabbion | en: sand | basis: 28-28
+
+## Scene 40-48: Dante's Inquiry
+- it: - | en: sand | basis: 40-48
+
+## Scene 49-60: Capaneus's Defiance
+- it: - | en: sand | basis: 49-60
+
+## Scene 61-75: Virgil's Rebuke and Warning
+- it: - | en: sand | basis: 61-75
+
+## Scene 76-84: The Red Stream
+- it: picciol fiumicello | en: a little stream | basis: 77-77
+
+## Scene 85-93: Virgil's Question to Dante
+- it: 'l presente rio | en: the present stream | basis: 89-89
+
+## Scene 94-102: The Legend of Mount Ida
+- it: - | en: the present stream | basis: 94-102
+
+## Scene 103-111: The Colossus of Metals
+- it: - | en: the present stream | basis: 103-111
+
+## Scene 112-120: The Formation of the Rivers
+- it: questa valle | en: this valley | basis: 115-115
+
+## Scene 121-129: The Geometry of Hell
+- it: presente rigagno | en: present stream | basis: 121-121
+
+## Scene 130-138: The Nature of the Rivers
+- it: questa fossa | en: this pit | basis: 136-136
+
+## Scene 139-142: Leaving the Woods
+- it: bosco | en: the woods | basis: 140-140
+
+# recap
+Final setting: the woods (bosco)

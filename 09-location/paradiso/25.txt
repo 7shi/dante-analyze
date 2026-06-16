@@ -1,0 +1,55 @@
+# Canto 25 — The Vision of the Three Lights and the Revelation of Hope
+
+## Scene 1-12: Dante's Prologue
+- it: - | en: branch | basis: 1-12
+
+## Scene 13-18: The Appearance of the Second Light
+- it: - | en: branch | basis: 13-18
+
+## Scene 19-24: Simile of the Two Princes
+- it: - | en: branch | basis: 19-24
+
+## Scene 25-33: Beatrice's Invocation of Hope
+- it: - | en: branch | basis: 25-33
+
+## Scene 34-36: Beatrice's Command
+- it: - | en: branch | basis: 34-36
+
+## Scene 37-47: The Second Light's Inquiry
+- it: - | en: branch | basis: 37-47
+
+## Scene 48-63: The Nature of Hope in the Church
+- it: - | en: branch | basis: 48-63
+
+## Scene 64-78: Dante's Scholarly Response
+- it: - | en: branch | basis: 64-78
+
+## Scene 79-87: The Third Light's Command
+- it: - | en: branch | basis: 79-87
+
+## Scene 88-96: Scriptural Identification of Hope
+- it: - | en: branch | basis: 88-96
+
+## Scene 97-99: The Heavenly Response
+- it: - | en: branch | basis: 97-99
+
+## Scene 100-108: The Arrival of the Third Light
+- it: - | en: branch | basis: 100-108
+
+## Scene 109-114: Beatrice's Identification
+- it: - | en: branch | basis: 109-114
+
+## Scene 115-117: Beatrice's Silent Attention
+- it: - | en: branch | basis: 115-117
+
+## Scene 118-129: The Prophecy of the Two Lights
+- it: - | en: branch | basis: 118-129
+
+## Scene 130-135: The Settling of the Heavens
+- it: - | en: branch | basis: 130-135
+
+## Scene 136-139: Dante's Final Vision
+- it: mondo felice | en: happy world | basis: 139-139
+
+# recap
+Final setting: happy world (mondo felice)

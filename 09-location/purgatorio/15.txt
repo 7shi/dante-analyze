@@ -1,0 +1,59 @@
+# Canto 15 — The Ascent through the Light and the Visions of Paradise
+
+## Scene 1-6: The Setting of the Hour
+- it: - | en: ledge (cornice) | basis: 1-6
+
+## Scene 7-15: The Blinding Light
+- it: - | en: ledge (cornice) | basis: 7-15
+
+## Scene 16-24: The Metaphor of Refraction
+- it: - | en: ledge (cornice) | basis: 16-24
+
+## Scene 25-33: The Angel's Reassurance
+- it: - | en: ledge (cornice) | basis: 25-33
+
+## Scene 34-39: Arrival at the Stairway
+- it: - | en: ledge (cornice) | basis: 34-34
+- it: scaleo | en: stairway | basis: 36-37
+
+## Scene 40-45: Dante's Query on Political Terms
+- it: - | en: stairway | basis: 40-45
+
+## Scene 46-57: The Paradox of Divine Distribution
+- it: - | en: stairway | basis: 46-57
+
+## Scene 58-72: The Nature of Divine Love
+- it: - | en: stairway | basis: 58-72
+
+## Scene 73-78: The Promise of Beatrice
+- it: - | en: stairway | basis: 73-78
+
+## Scene 79-81: The Closing of the Wounds
+- it: - | en: stairway | basis: 79-81
+
+## Scene 82-93: The Vision of the Mother
+- it: l'altro girone | en: the other gyre | basis: 83-83
+
+## Scene 94-101: The Vision of the Trojan Widow
+- it: - | en: the other gyre | basis: 94-101
+
+## Scene 102-105: The Lord's Gentle Response
+- it: - | en: the other gyre | basis: 102-105
+
+## Scene 106-114: The Vision of the Martyr
+- it: - | en: the other gyre | basis: 106-114
+
+## Scene 115-123: Return to Consciousness
+- it: - | en: the other gyre | basis: 115-123
+
+## Scene 124-126: Dante's Report
+- it: - | en: the other gyre | basis: 124-126
+
+## Scene 127-138: Virgil's Explanation of the Trance
+- it: - | en: the other gyre | basis: 127-138
+
+## Scene 139-145: The Encroaching Darkness
+- it: - | en: the other gyre | basis: 139-145
+
+# recap
+Final setting: the other gyre

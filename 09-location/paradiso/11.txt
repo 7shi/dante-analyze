@@ -1,0 +1,55 @@
+# Canto 11 — Beatrice Explains the Divine Providence and the Life of St. Francis
+
+## Scene 1-9: The Vanity of Earthly Pursuits
+- it: - | en: inside the sun | basis: 1-9
+
+## Scene 10-12: Memory of Celestial Glory
+- it: - | en: inside the sun | basis: 10-12
+
+## Scene 13-27: Beatrice's Clarification
+- it: punto del cerchio | en: point of the circle | basis: 14-14
+
+## Scene 28-36: The Divine Plan for the Virgin
+- it: - | en: point of the circle | basis: 28-36
+
+## Scene 37-42: The Two Celestial Guides
+- it: - | en: point of the circle | basis: 37-42
+
+## Scene 43-54: Geography of the Rising Sun
+- it: - | en: point of the circle | basis: 43-54
+
+## Scene 55-63: The Virgin's Early Life
+- it: - | en: point of the circle | basis: 55-63
+
+## Scene 64-72: The Sorrow of the Virgin
+- it: - | en: point of the circle | basis: 64-72
+
+## Scene 73-78: The Introduction of Francis and Poverty
+- it: - | en: point of the circle | basis: 73-78
+
+## Scene 79-84: The Joy of the Saints
+- it: - | en: point of the circle | basis: 79-84
+
+## Scene 85-93: Francis's Early Mission and Recognition
+- it: - | en: point of the circle | basis: 85-93
+
+## Scene 94-99: The Growth of the Order
+- it: - | en: point of the circle | basis: 94-99
+
+## Scene 100-108: The Martyrdom of Francis
+- it: - | en: point of the circle | basis: 100-108
+
+## Scene 109-117: Francis's Final Testament
+- it: - | en: point of the circle | basis: 109-117
+
+## Scene 118-123: The Pattern of the True Shepherd
+- it: - | en: point of the circle | basis: 118-123
+
+## Scene 124-132: The Wandering Sheep
+- it: - | en: point of the circle | basis: 124-132
+
+## Scene 133-139: Beatrice's Final Exhortation
+- it: - | en: point of the circle | basis: 133-139
+
+# recap
+Final setting: point of the circle

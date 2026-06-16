@@ -1,0 +1,48 @@
+# Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
+
+## Scene 1-12: The Poet’s Prologue
+- it: qui | en: here | basis: 7-9
+
+## Scene 13-21: The Awakening Sky
+- it: - | en: here | basis: 13-21
+
+## Scene 22-27: The Four Stars
+- it: - | en: here (qui) | basis: 22-27
+
+## Scene 28-39: The Discovery of the Sage
+- it: - | en: here (qui) | basis: 28-39
+
+## Scene 40-48: Virgil’s Inquiry
+- it: cieco fiume | en: blind river | basis: 40-40
+- it: mie grotte | en: my caves | basis: 48-48
+
+## Scene 49-51: The Guide’s Gesture
+- it: - | en: my caves | basis: 49-51
+
+## Scene 52-66: The Explanation of the Mission
+- it: - | en: my caves | basis: 52-66
+
+## Scene 67-84: The Plea for Passage
+- it: - | en: my caves | basis: 67-84
+
+## Scene 85-99: The Guardian’s Mandate
+- it: - | en: my caves | basis: 85-99
+
+## Scene 100-108: The Isle of Reeds
+- it: - | en: my caves | basis: 100-108
+
+## Scene 109-114: The Departure
+- it: - | en: my caves | basis: 109-113
+- it: questa pianura | en: this plain | basis: 114-114
+
+## Scene 115-120: The Morning Trek
+- it: solingo piano | en: solitary plain | basis: 118-118
+
+## Scene 121-129: The Light of Revelation
+- it: là 've la rugiada pugna col sole | en: where the dew fights the sun | basis: 121-122
+
+## Scene 130-136: Arrival at the Shore
+- it: lito diserto | en: deserted shore | basis: 130-130
+
+# recap
+Final setting: deserted shore (lito diserto)

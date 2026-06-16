@@ -1,0 +1,55 @@
+# Canto 19 — The Vision of the Celestial Image and the Prophecy of Nations
+
+## Scene 1-12: The Visual Encounter
+- it: - | en: tempered sixth star | basis: 1-12
+
+## Scene 13-18: The Image's Self-Introduction
+- it: - | en: tempered sixth star | basis: 14-14
+
+## Scene 19-21: The Unity of the Vision
+- it: - | en: tempered sixth star | basis: 19-21
+
+## Scene 22-33: Dante's Plea for Understanding
+- it: - | en: tempered sixth star | basis: 22-33
+
+## Scene 34-39: The Gesture of Praise
+- it: - | en: tempered sixth star | basis: 34-39
+
+## Scene 40-51: The Doctrine of the Fall
+- it: - | en: tempered sixth star | basis: 40-51
+
+## Scene 52-63: The Limits of Human Intellect
+- it: - | en: tempered sixth star | basis: 52-63
+
+## Scene 64-78: The Problem of the Unbaptized
+- it: - | en: tempered sixth star | basis: 64-78
+
+## Scene 79-84: The Rebuke of Dante
+- it: - | en: tempered sixth star | basis: 79-84
+
+## Scene 85-90: The Primacy of Divine Will
+- it: - | en: tempered sixth star | basis: 85-90
+
+## Scene 91-96: The Image's Graceful Motion
+- it: - | en: tempered sixth star | basis: 91-96
+
+## Scene 97-99: The Oracle of Judgment
+- it: - | en: tempered sixth star | basis: 97-99
+
+## Scene 100-102: The Stabilization of the Spirit
+- it: - | en: tempered sixth star | basis: 100-102
+
+## Scene 103-111: The Requirement of Faith
+- it: - | en: tempered sixth star | basis: 103-111
+
+## Scene 112-126: Prophecies of Western Europe
+- it: - | en: tempered sixth star | basis: 112-126
+
+## Scene 127-138: Prophecies of the Mediterranean and Italy
+- it: - | en: tempered sixth star | basis: 127-138
+
+## Scene 139-148: Prophecies of the North and East
+- it: - | en: tempered sixth star | basis: 139-148
+
+# recap
+Final setting: tempered sixth star

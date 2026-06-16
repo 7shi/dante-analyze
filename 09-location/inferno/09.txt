@@ -1,0 +1,54 @@
+# Canto 09 — The Furies and the Arrival of Charon
+
+## Scene 1-6: The obscured vision
+- it: - | en: the gates | basis: 1-6
+
+## Scene 7-15: The interrupted dialogue
+- it: - | en: the gates | basis: 7-15
+
+## Scene 16-33: Virgil’s reminiscence
+- it: fondo de la trista conca | en: the bottom of the sad shell | basis: 16-16
+- it: palude | en: marsh | basis: 31-31
+
+## Scene 34-48: The Furies revealed
+- it: - | en: marsh (palude) | basis: 34-48
+
+## Scene 49-54: The Furies' frenzy
+- it: - | en: marsh (palude) | basis: 49-54
+
+## Scene 55-60: A warning to look away
+- it: - | en: marsh | basis: 55-60
+
+## Scene 61-63: An authorial aside
+- it: - | en: marsh | basis: 61-63
+
+## Scene 64-72: A violent disturbance
+- it: - | en: marsh | basis: 64-72
+
+## Scene 73-84: The approach of Charon
+- it: - | en: marsh | basis: 73-84
+
+## Scene 85-87: Dante's pious reaction
+- it: - | en: marsh | basis: 85-87
+
+## Scene 88-99: Charon’s reprimand
+- it: - | en: marsh | basis: 88-88
+- it: porta | en: gate | basis: 89-89
+- it: soglia | en: threshold | basis: 92-92
+
+## Scene 100-105: The poets advance
+- it: strada lorda | en: dirty road | basis: 100-100
+
+## Scene 106-123: The field of tombs
+- it: Dentro | en: inside | basis: 106-106
+- it: grande campagna | en: great plain | basis: 110-110
+
+## Scene 124-131: The identity of the dead
+- it: - | en: great plain | basis: 124-131
+
+## Scene 132-133: Passing through the ruins
+- it: - | en: great plain | basis: 132-132
+- it: martìri e li alti spaldi | en: ruins and high walls | basis: 133-133
+
+# recap
+Final setting: ruins and high walls (martìri e li alti spaldi)

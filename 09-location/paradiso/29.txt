@@ -1,0 +1,46 @@
+# Canto 29 — Beatrice's Discourse on the Trinity, the Angels, and the Corruption of Preaching
+
+## Scene 1-9: The Celestial Prologue
+- it: - | en: here above | basis: 1-9
+
+## Scene 10-18: The Emergence of Eternal Love
+- it: - | en: here above | basis: 10-18
+
+## Scene 19-30: The Trinity and the Radiance of Being
+- it: quest' acque | en: these waters | basis: 21-21
+
+## Scene 31-36: The Structure of Substance
+- it: - | en: these waters | basis: 31-36
+
+## Scene 37-45: Scriptural and Rational Proof
+- it: - | en: these waters | basis: 37-45
+
+## Scene 46-51: The Introduction of the Angelic Orders
+- it: - | en: these waters | basis: 46-51
+
+## Scene 52-66: The Fallen and the Meritorious
+- it: - | en: these waters | basis: 52-66
+
+## Scene 67-84: The Clarity of Angelic Vision
+- it: dintorno a questo consistorio | en: around this assembly | basis: 67-67
+
+## Scene 85-96: The Invention of False Doctrines
+- it: qua sù | en: here above | basis: 88-88
+
+## Scene 97-108: The Deception of False Miracles
+- it: - | en: here above | basis: 97-108
+
+## Scene 109-114: The Foundation of Christ
+- it: - | en: here above | basis: 109-114
+
+## Scene 115-126: The Corruption of Modern Preachers
+- it: - | en: here above | basis: 115-126
+
+## Scene 127-135: The Numerical Mystery of Angels
+- it: - | en: here above | basis: 127-135
+
+## Scene 136-145: The Dispersion of Divine Light
+- it: - | en: here above | basis: 136-145
+
+# recap
+Final setting: here above

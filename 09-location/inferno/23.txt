@@ -1,0 +1,78 @@
+# Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
+
+## Scene 1-12: The Fable of the Frog and the Mouse
+- it: - | en: boiling pond | basis: 1-2
+
+## Scene 13-24: Dante's Dread of the Demons
+- it: - | en: boiling pond | basis: 13-24
+
+## Scene 25-33: Virgil's Strategic Plan
+- it: - | en: boiling pond | basis: 25-33
+
+## Scene 34-51: The Rapid Descent
+- it: - | en: boiling pond | basis: 34-42
+- it: collo de la ripa dura | en: brim of the hard bank | basis: 43-43
+- it: pendente roccia | en: sloping rock | basis: 44-45
+- it: vivagno | en: steep slope | basis: 49-49
+
+## Scene 52-57: Reaching the Fifth Bolgia
+- it: letto del fondo giù | en: bed of the bottom | basis: 52-53
+- it: fossa quinta | en: fifth ditch | basis: 56-56
+
+## Scene 58-66: The Appearance of the Hypocrites
+- it: - | en: fifth ditch | basis: 58-66
+
+## Scene 67-72: The Burden of the Cloaks
+- it: - | en: fifth ditch | basis: 67-72
+
+## Scene 73-75: Dante's Request to Virgil
+- it: - | en: fifth ditch | basis: 73-75
+
+## Scene 76-79: The Voice from Behind
+- it: - | en: fifth ditch | basis: 76-79
+
+## Scene 80-81: Virgil's Command
+- it: - | en: fifth ditch | basis: 80-81
+
+## Scene 82-84: The Approaching Figures
+- it: via stretta | en: narrow way | basis: 84-84
+
+## Scene 85-90: The Recognition of the Living
+- it: - | en: narrow way | basis: 85-90
+
+## Scene 91-93: The Welcome to the Hypocrites
+- it: collegio de l'ipocriti | en: college of the hypocrites | basis: 91-92
+
+## Scene 94-99: Dante's Inquiry
+- it: - | en: college of the hypocrites | basis: 94-99
+
+## Scene 100-108: The Identity of the Hypocrites
+- it: - | en: college of the hypocrites | basis: 100-108
+
+## Scene 109-113: The Sight of the Crucifix
+- it: - | en: college of the hypocrites | basis: 109-113
+
+## Scene 114-123: The Monk's Explanation
+- it: - | en: college of the hypocrites | basis: 114-123
+
+## Scene 124-126: Virgil's Reaction
+- it: - | en: college of the hypocrites | basis: 124-126
+
+## Scene 127-132: Virgil's Plea for an Exit
+- it: - | en: college of the hypocrites | basis: 127-132
+
+## Scene 133-138: The Obstacle of the Stone
+- it: - | en: college of the hypocrites | basis: 133-138
+
+## Scene 139-141: The Error of the Demon
+- it: - | en: college of the hypocrites | basis: 139-141
+
+## Scene 142-144: The Lie of the Devil
+- it: - | en: college of the hypocrites | basis: 142-144
+
+## Scene 145-148: The Departure
+- it: - | en: college of the hypocrites | basis: 145-147
+- it: poste de le care piante | en: rows of the dear plants | basis: 148-148
+
+# recap
+Final setting: rows of the dear plants (poste de le care piante)

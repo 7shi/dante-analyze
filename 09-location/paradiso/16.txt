@@ -1,0 +1,52 @@
+# Canto 16 — Cacciaguida's Prophecy and the Lament for Florence
+
+## Scene 1-12: Reflections on Lineage and Time
+- it: qua giù | en: here below | basis: 3-3
+
+## Scene 13-15: Beatrice's Laughter
+- it: - | en: this peace | basis: 13-15
+
+## Scene 16-27: Dante's Inquiry
+- it: - | en: this peace | basis: 16-27
+
+## Scene 28-39: Cacciaguida's Origins
+- it: - | en: this peace | basis: 28-39
+
+## Scene 40-48: The Ancestral Boundaries
+- it: - | en: this peace | basis: 40-48
+
+## Scene 49-57: The Dilution of Citizenship
+- it: - | en: this peace | basis: 49-57
+
+## Scene 58-66: The Loss of Florentine Virtue
+- it: - | en: this peace | basis: 58-66
+
+## Scene 67-78: The Instability of Cities
+- it: - | en: this peace | basis: 67-78
+
+## Scene 79-87: The Unpredictability of Fortune
+- it: - | en: this peace | basis: 79-87
+
+## Scene 88-93: The Catalog of Illustrious Families
+- it: - | en: this peace | basis: 88-93
+
+## Scene 94-108: The Rise of Corrupt Families
+- it: - | en: this peace | basis: 94-108
+
+## Scene 109-118: The Pride of the New Class
+- it: - | en: this peace | basis: 109-118
+
+## Scene 119-126: The Shifts in the Marketplace
+- it: - | en: this peace | basis: 119-126
+
+## Scene 127-135: The Loss of Privileges
+- it: - | en: this peace | basis: 127-135
+
+## Scene 136-144: The Tragedy of Buondelmonte
+- it: - | en: this peace | basis: 136-144
+
+## Scene 145-154: The Vision of a Lost Peace
+- it: - | en: this peace | basis: 145-154
+
+# recap
+Final setting: this peace

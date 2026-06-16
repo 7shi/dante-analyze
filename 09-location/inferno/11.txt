@@ -1,0 +1,39 @@
+# Canto 11 — The Hierarchy of Sin and the Classification of Fraud and Violence
+
+## Scene 1-9: The Inscription at the Abyss
+- it: estremità d'un'alta ripa | en: edge of a high bank | basis: 1-1
+- it: più crudele stipa | en: a more cruel ledge | basis: 3-3
+- it: coperchio d'un grand' avello | en: lid of a large tomb | basis: 6-7
+
+## Scene 10-15: Preparing for the Descent
+- it: - | en: a path | basis: 10-15
+
+## Scene 16-27: Overview of the Circles
+- it: - | en: a path | basis: 16-27
+
+## Scene 28-39: The Circle of Violence
+- it: - | en: a path | basis: 28-39
+
+## Scene 40-51: Violence Against Self and God
+- it: - | en: a path | basis: 40-51
+
+## Scene 52-66: The Circle of Fraud
+- it: - | en: a path | basis: 52-66
+
+## Scene 67-75: Dante's Inquiry
+- it: - | en: a path | basis: 67-75
+
+## Scene 76-90: The Aristotelian Defense
+- it: - | en: a path | basis: 76-90
+
+## Scene 91-96: Dante's Request for Reversal
+- it: - | en: a path | basis: 91-96
+
+## Scene 97-111: The Theology of Usury
+- it: - | en: a path | basis: 97-111
+
+## Scene 112-115: Celestial Navigation
+- it: - | en: a path | basis: 112-115
+
+# recap
+Final setting: a path

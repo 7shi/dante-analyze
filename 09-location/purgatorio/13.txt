@@ -1,0 +1,69 @@
+# Canto 13 — The Terrace of the Envious and the Sienese Soul
+
+## Scene 1-9: The Second Terrace
+- it: sommo de la scala | en: top of the stairs | basis: 1-1
+- it: cornice | en: ledge | basis: 4-4
+
+## Scene 10-21: Virgil's Prayer to the Sun
+- it: - | en: the holy steps | basis: 10-21
+
+## Scene 22-27: The Flight of the Spirits
+- it: - | en: the holy steps | basis: 22-27
+
+## Scene 28-33: The First Two Voices
+- it: - | en: the holy steps | basis: 28-33
+
+## Scene 34-36: The Third Voice
+- it: - | en: the holy steps | basis: 34-36
+
+## Scene 37-45: Virgil's Interpretation
+- it: - | en: the holy steps | basis: 37-45
+
+## Scene 46-48: Discovery of the Shadows
+- it: - | en: the holy steps | basis: 46-48
+
+## Scene 49-51: The Litany of Saints
+- it: - | en: the holy steps | basis: 49-51
+
+## Scene 52-66: The Sight of the Envious
+- it: - | en: the holy steps | basis: 52-59
+- it: la ripa | en: the ledge | basis: 60-60
+
+## Scene 67-72: The Dim Light of the Terrace
+- it: - | en: the ledge (la ripa) | basis: 67-72
+
+## Scene 73-78: Dante's Anxiety
+- it: - | en: the ledge (la ripa) | basis: 73-78
+
+## Scene 79-84: Virgil's Movement
+- it: cornice | en: ledge | basis: 80-80
+
+## Scene 85-93: Dante's Greeting
+- it: - | en: ledge (cornice) | basis: 85-93
+
+## Scene 94-99: The Reply
+- it: - | en: ledge (cornice) | basis: 94-99
+
+## Scene 100-105: The Interrogation
+- it: - | en: ledge (cornice) | basis: 100-105
+
+## Scene 106-114: The Sienese Confession
+- it: - | en: ledge (cornice) | basis: 106-114
+
+## Scene 115-123: The Tale of the Battle
+- it: - | en: ledge (cornice) | basis: 115-123
+
+## Scene 124-132: A Prayer for Penance
+- it: - | en: ledge (cornice) | basis: 124-132
+
+## Scene 133-138: Dante's Explanation
+- it: - | en: ledge (cornice) | basis: 133-138
+
+## Scene 139-144: The Living Traveler
+- it: - | en: ledge (cornice) | basis: 139-144
+
+## Scene 145-154: The Prophecy of Tuscany
+- it: - | en: ledge (cornice) | basis: 145-154
+
+# recap
+Final setting: ledge (cornice)
