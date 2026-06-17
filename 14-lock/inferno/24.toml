@@ -1,0 +1,232 @@
+canticle = "inferno"
+canto = 24
+
+[[scene]]
+lines = "1-15"
+title = "The Peasant’s Morning"
+location = ""
+region = "via stretta"
+cast = []
+simile = [
+  { lines = "4-5", vehicle = "sua sorella bianca" },
+]
+basis = "1-15"
+
+[[scene]]
+lines = "16-24"
+title = "Virgil’s Physical Aid"
+location = ""
+region = "via stretta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "16-16" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "17-17" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "20-20" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-30"
+title = "Virgil’s Climbing Method"
+location = "cima d'un ronchione"
+region = "cima d'un ronchione"
+cast = [
+  { who = "quei ch'adopera ed estima", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "27-27" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "29-29" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "30-30" },
+]
+simile = [
+  { lines = "25-28", vehicle = "quei ch'adopera ed estima" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-45"
+title = "The Difficult Descent"
+location = "cima d'un ronchione"
+region = "cima d'un ronchione"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "32-32" },
+]
+basis = "31-45"
+
+[[scene]]
+lines = "46-60"
+title = "Virgil’s Exhortation"
+location = "cima d'un ronchione"
+region = "cima d'un ronchione"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "ipocriti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:47", lines = "47-57", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "24:60", lines = "60-60", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+refer = [
+  { phrase = "Ipocriti", line = 55, resolves = "ipocriti" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "58-58" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "60-60" },
+]
+basis = "46-60"
+
+[[scene]]
+lines = "61-78"
+title = "The Angry Voice"
+location = "lo scoglio"
+region = "cima d'un ronchione"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "24:72", lines = "72-75", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "24:76B", lines = "76-78", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "una voce", line = 67, resolves = "la voce" },
+  { phrase = "una voce", line = 74, resolves = "la voce" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "la voce", lines = "67-67" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "72-72" },
+  { subj = "Dante", predicate = "hears", obj = "la voce", lines = "74-74" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "76-76" },
+]
+basis = "61-78"
+
+[[scene]]
+lines = "79-81"
+title = "Entering the Bolgia"
+location = "il ponte"
+region = "cima d'un ronchione"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-96"
+title = "The Pit of Serpents"
+location = "il ponte"
+region = "l'ottava ripa"
+cohort = ["genti nude e spaventate"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "questa cruda e tristissima copia", status = "present" },
+  { who = "genti nude e spaventate", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "questa cruda e tristissima copia", lines = "82-82" },
+  { subj = "Virgilio", predicate = "sees", obj = "genti nude e spaventate", lines = "82-92" },
+  { subj = "serpenti", predicate = "punishes", obj = "genti nude e spaventate", lines = "94-94" },
+  { subj = "serpenti", predicate = "punishes", obj = "genti nude e spaventate", lines = "95-95" },
+  { subj = "serpenti", predicate = "punishes", obj = "genti nude e spaventate", lines = "96-96" },
+]
+basis = "82-96"
+
+[[scene]]
+lines = "97-111"
+title = "The Phoenix Metaphor"
+location = "nostra proda"
+region = "l'ottava ripa"
+cohort = ["l'anima"]
+cast = [
+  { who = "l'anima", status = "present" },
+  { who = "li gran savi", status = "mentioned" },
+]
+basis = "97-111"
+
+[[scene]]
+lines = "112-118"
+title = "The Sinner’s Anguish"
+location = "nostra proda"
+region = "l'ottava ripa"
+cohort = ["l peccator"]
+cast = [
+  { who = "l'omo", status = "mentioned" },
+  { who = "demon", status = "mentioned" },
+  { who = "l peccator", status = "present" },
+]
+simile = [
+  { lines = "113-113", vehicle = "l'omo" },
+  { lines = "112-118", vehicle = "l peccator" },
+]
+basis = "112-118"
+
+[[scene]]
+lines = "119-126"
+title = "Vanni Fucci’s Identity"
+location = "nostra proda"
+region = "l'ottava ripa"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Vanni Fucci", status = "present" },
+]
+speech = [
+  { quote_id = "24:122", lines = "122-126", speaker = "Vanni Fucci", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dio", predicate = "punishes", obj = "Vanni Fucci", lines = "119-120" },
+  { subj = "Virgilio", predicate = "asks", obj = "Vanni Fucci", lines = "121-121" },
+  { subj = "Vanni Fucci", predicate = "answers", obj = "Virgilio", lines = "122-122" },
+]
+basis = "119-126"
+
+[[scene]]
+lines = "127-139"
+title = "The Confession of Theft"
+location = "nostra proda"
+region = "l'ottava ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Vanni Fucci", status = "present" },
+]
+speech = [
+  { quote_id = "24:127", lines = "127-129", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+  { quote_id = "24:133", lines = "133-151", speaker = "Vanni Fucci", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "127-127" },
+  { subj = "Vanni Fucci", predicate = "hears", obj = "Virgilio", lines = "130-130" },
+  { subj = "Vanni Fucci", predicate = "sees", obj = "Dante", lines = "131-131" },
+  { subj = "Vanni Fucci", predicate = "speaks-to", obj = "Dante", lines = "133-133" },
+]
+basis = "127-139"
+
+[[scene]]
+lines = "140-151"
+title = "The Prophecy of War"
+location = "nostra proda"
+region = "l'ottava ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Neri", status = "mentioned" },
+  { who = "ogne Bianco", status = "mentioned" },
+  { who = "Vanni Fucci", status = "present" },
+]
+relations = [
+  { subj = "Vanni Fucci", predicate = "tells", obj = "Dante", lines = "140-141" },
+  { subj = "Vanni Fucci", predicate = "commands", obj = "Dante", lines = "142-142" },
+  { subj = "Vanni Fucci", predicate = "tells", obj = "Dante", lines = "151-151" },
+]
+basis = "140-151"

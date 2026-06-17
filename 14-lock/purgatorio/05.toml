@@ -1,0 +1,347 @@
+canticle = "purgatorio"
+canto = 5
+
+[[scene]]
+lines = "1-6"
+title = "The Sudden Cry"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["quell' ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quell' ombre", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "una", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "2-2" },
+  { subj = "una", predicate = "shows", obj = "Dante", lines = "3-3" },
+  { subj = "una", predicate = "calls", obj = "quell' ombre", lines = "4-4" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-9"
+title = "Dante's Distraction"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "7-9"
+
+[[scene]]
+lines = "10-18"
+title = "Virgil's Admonishment"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["le genti"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le genti", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:11", lines = "11-18", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "10-11" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-21"
+title = "Dante's Compliance"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:19", lines = "19-19", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Dante, Virgilio", lines = "20-20" },
+]
+basis = "19-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Approaching Procession"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["le genti"]
+cast = [
+  { who = "le genti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "genti", line = 23, resolves = "le genti" },
+  { phrase = "genti", line = 25, resolves = "le genti" },
+]
+relations = [
+  { subj = "le genti", predicate = "meets", obj = "Dante, Virgilio", lines = "23-23" },
+  { subj = "le genti", predicate = "sees", obj = "Dante", lines = "25-25" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-30"
+title = "The Messengers Arrive"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "messaggi", predicate = "meets", obj = "Dante, Virgilio", lines = "29-29" },
+  { subj = "messaggi", predicate = "asks", obj = "Dante, Virgilio", lines = "29-29" },
+]
+basis = "28-30"
+
+[[scene]]
+lines = "31-36"
+title = "Virgil's Verification"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["anime"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "5:31", lines = "31-36", speaker = "Virgilio", addressee = "anime", source = "llm" },
+]
+refer = [
+  { phrase = "le anime", line = 31, resolves = "anime" },
+  { phrase = "le anime", line = 32, resolves = "anime" },
+  { phrase = "le anime", line = 34, resolves = "anime" },
+  { phrase = "le anime", line = 36, resolves = "anime" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "anime", lines = "31-31" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Swarming Souls"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "schiera", status = "mentioned" },
+]
+relations = [
+  { subj = "schiera", predicate = "meets", obj = "Dante, Virgilio", lines = "41-41" },
+]
+simile = [
+  { lines = "37-37", vehicle = "Vapori accesi" },
+  { lines = "41-42", vehicle = "schiera" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-45"
+title = "The Poet's Warning"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["questa gente"]
+cast = [
+  { who = "questa gente", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "Questa gente", line = 43, resolves = "questa gente" },
+  { phrase = "Questa gente", line = 44, resolves = "questa gente" },
+  { phrase = "Questa gente", line = 45, resolves = "questa gente" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "45-45" },
+]
+basis = "43-45"
+
+[[scene]]
+lines = "46-57"
+title = "The Collective Plea"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["i peccatori"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i peccatori", status = "present" },
+  { who = "alcun", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "peccatori", line = 46, resolves = "i peccatori" },
+  { phrase = "peccatori", line = 48, resolves = "i peccatori" },
+  { phrase = "peccatori", line = 49, resolves = "i peccatori" },
+  { phrase = "peccatori", line = 51, resolves = "i peccatori" },
+  { phrase = "peccatori", line = 54, resolves = "i peccatori" },
+  { phrase = "peccatori", line = 55, resolves = "i peccatori" },
+  { phrase = "peccatori", line = 57, resolves = "i peccatori" },
+]
+relations = [
+  { subj = "i peccatori", predicate = "calls", obj = "Dante", lines = "46-48" },
+]
+basis = "46-57"
+
+[[scene]]
+lines = "58-63"
+title = "Dante's Vow"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["spiriti ben nati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "spiriti ben nati", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:58", lines = "58-63", speaker = "Dante", addressee = "spiriti ben nati", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "spiriti ben nati", lines = "58-63" },
+  { subj = "Dante", predicate = "addresses", obj = "spiriti ben nati", lines = "60-60" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-72"
+title = "The First Soul's Request"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["uno"]
+cast = [
+  { who = "ciascun", status = "mentioned" },
+  { who = "uno", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Carlo", status = "mentioned" },
+]
+refer = [
+  { phrase = "Ciascun", line = 64, resolves = "ciascun" },
+]
+relations = [
+  { subj = "uno", predicate = "pleads-with", obj = "Dante", lines = "67-68" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-84"
+title = "The Death in the Marsh"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Pier della Vigna", status = "present" },
+  { who = "li Antenori", status = "mentioned" },
+  { who = "quel da Esti", status = "mentioned" },
+  { who = "Orïaco", status = "mentioned" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Second Soul's Appearance"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["anime"]
+cast = [
+  { who = "Bonconte", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Giovanna", status = "mentioned" },
+  { who = "anime", status = "present" },
+]
+speech = [
+  { quote_id = "5:85", lines = "85-90", speaker = "Bonconte", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Bonconte", predicate = "speaks-to", obj = "Dante", lines = "85-85" },
+  { subj = "Bonconte", predicate = "pleads-with", obj = "Dante", lines = "87-87" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-93"
+title = "Dante's Inquiry"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bonconte di Montefeltro", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Bonconte di Montefeltro", lines = "91-93" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-108"
+title = "The Battle of Angels"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Bonconte di Montefeltro", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "vivi", status = "mentioned" },
+  { who = "l'angel di Dio", status = "mentioned" },
+  { who = "demonio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:94B", lines = "94-129", speaker = "Bonconte di Montefeltro", addressee = "Dante", source = "code" },
+  { quote_id = "5:105", lines = "105-108", speaker = "demonio", addressee = "Bonconte di Montefeltro", source = "llm" },
+]
+relations = [
+  { subj = "Bonconte di Montefeltro", predicate = "tells", obj = "Dante", lines = "103-103" },
+]
+basis = "94-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Formation of Mist"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-129"
+title = "The River's Embrace"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Bonconte di Montefeltro", status = "present" },
+]
+basis = "115-129"
+
+[[scene]]
+lines = "130-136"
+title = "The Plea of La Pia"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la Pia", status = "present" },
+  { who = "Bonconte di Montefeltro", status = "present" },
+  { who = "marito della Pia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:133", lines = "133-136", speaker = "la Pia", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "la Pia", predicate = "follows", obj = "Bonconte di Montefeltro", lines = "132-132" },
+]
+basis = "130-136"

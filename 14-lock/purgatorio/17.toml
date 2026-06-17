@@ -1,0 +1,276 @@
+canticle = "purgatorio"
+canto = 17
+
+[[scene]]
+lines = "1-12"
+title = "The Fog Analogy"
+location = "tal nube"
+region = "l'altro girone"
+cast = [
+  { who = "lettor", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "lettor", lines = "1-1" },
+  { subj = "Dante", predicate = "tells", obj = "lettor", lines = "7-9" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "10-11" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Wandering Imagination"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "lume", line = 16, resolves = "un lume" },
+]
+relations = [
+  { subj = "un lume", predicate = "relates-to", obj = "imaginativa", lines = "16-16" },
+  { subj = "l'uccel", predicate = "relates-to", obj = "l'uccel", lines = "19-20" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-30"
+title = "The Vision of the Crucifix"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Cristo", status = "present" },
+  { who = "Assüero", status = "present" },
+  { who = "Estèr", status = "present" },
+  { who = "Mardoceo", status = "present" },
+]
+relations = [
+  { subj = "Assüero", predicate = "relates-to", obj = "Cristo", lines = "28-28" },
+  { subj = "Estèr", predicate = "relates-to", obj = "Assüero", lines = "29-29" },
+  { subj = "Estèr", predicate = "relates-to", obj = "Cristo", lines = "28-29" },
+  { subj = "Mardoceo", predicate = "relates-to", obj = "Cristo", lines = "28-29" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-39"
+title = "The Maiden's Lament"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Lavina", status = "present" },
+  { who = "Amata", status = "mentioned" },
+]
+speech = [
+  { quote_id = "17:35", lines = "35-39", speaker = "Lavina", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Lavina", predicate = "speaks-to", obj = "Amata", lines = "35-35" },
+  { subj = "Lavina", predicate = "asks", obj = "Amata", lines = "36-36" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Waking Analogy"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-54"
+title = "The Blinding Light"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "47-47" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "48-48" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "49-49" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "50-51" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-63"
+title = "Virgil’s Instruction"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+refer = [
+  { phrase = "uom", line = 58, resolves = "l'uom" },
+  { phrase = "uom", line = 60, resolves = "l'uom" },
+]
+simile = [
+  { lines = "58-58", vehicle = "Dante, Virgilio" },
+  { lines = "58-58", vehicle = "l'uom" },
+  { lines = "60-60", vehicle = "l'uom" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Angelic Greeting"
+location = "tal nube"
+region = "bassi lidi"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "pacifici", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "64-64" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "64-65" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-72"
+title = "The Visibility of the Stars"
+location = "tal nube"
+region = "una scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "70-72"
+
+[[scene]]
+lines = "73-78"
+title = "Dante’s Physical Exhaustion"
+location = "la scala"
+region = "una scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Dante", lines = "74-74" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "Dante’s Inquiry"
+location = "giro"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "81-81" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "82-82" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "82-83" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "82-84" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-90"
+title = "Virgil’s Preface"
+location = "giro"
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "17:85", lines = "85-90", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "85-85" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-105"
+title = "The Doctrine of Love"
+location = "giro"
+region = "giro"
+cast = [
+  { who = "creator", status = "mentioned" },
+  { who = "creatura", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l fattore", status = "mentioned" },
+]
+speech = [
+  { quote_id = "17:92", lines = "92-139", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "92-105" },
+]
+basis = "91-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Connection to Hate and the Three Modes"
+location = "giro"
+region = "giro"
+cast = [
+  { who = "subietto", status = "mentioned" },
+  { who = "alcuno esser", status = "mentioned" },
+  { who = "dal primo", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "prossimo", status = "mentioned" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-123"
+title = "The First Mode of Sinful Love"
+location = "giro"
+region = "giro"
+cast = [
+  { who = "vicin", status = "mentioned" },
+  { who = "ghiotto", status = "mentioned" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-132"
+title = "The Second Mode of Sinful Love"
+location = "cornice"
+region = "giro"
+cast = [
+  { who = "the souls who succumbed to the three-fold love", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "ciascun", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "125-125" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-139"
+title = "The Third Mode and Conclusion"
+location = "cornice"
+region = "giro"
+cast = [
+  { who = "l'uom", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "L'amor", line = 136, resolves = "amor" },
+  { phrase = "ben", line = 136, resolves = "il ben" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "139-139" },
+]
+basis = "133-139"

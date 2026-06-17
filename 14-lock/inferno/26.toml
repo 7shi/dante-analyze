@@ -1,0 +1,256 @@
+canticle = "inferno"
+canto = 26
+
+[[scene]]
+lines = "1-12"
+title = "The Prologue to Florence"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "li ladron", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "tuoi cittadini", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Fiorenza", lines = "1-12" },
+  { subj = "Dante", predicate = "meets", obj = "li ladron", lines = "4-4" },
+  { subj = "Dante", predicate = "meets", obj = "tuoi cittadini", lines = "4-4" },
+  { subj = "Dante", predicate = "rebukes", obj = "Fiorenza", lines = "1-6" },
+  { subj = "Dante", predicate = "warns", obj = "Fiorenza", lines = "7-9" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Ascent and Reflection"
+location = "le scalee"
+region = "l'ottava ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "15-15" },
+  { subj = "Dante", predicate = "chases", obj = "lo 'ngegno", lines = "21-21" },
+  { subj = "virtù", predicate = "guides", obj = "lo 'ngegno", lines = "22-22" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Sight of the Eighth Bolgia"
+location = "le scalee"
+region = "l'ottava ripa"
+cast = [
+  { who = "'l villan", status = "mentioned" },
+  { who = "colui che 'l mondo schiara", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "26-27", vehicle = "umanità" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Motion of the Flames"
+location = "fosso"
+region = "l'ottava ripa"
+cohort = ["il peccatore"]
+cast = [
+  { who = "Eliseo", status = "mentioned" },
+  { who = "Elia", status = "mentioned" },
+  { who = "il peccatore", status = "present" },
+]
+simile = [
+  { lines = "35-35", vehicle = "Elia" },
+  { lines = "37-37", vehicle = "Elia" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-48"
+title = "Virgil's Explanation"
+location = "'l ponte"
+region = "'l ponte"
+cohort = ["li spirti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "li spirti", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "46-46" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-63"
+title = "The Inquiry of the Trojan Heroes"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Ulisse", status = "mentioned" },
+  { who = "Dïomede", status = "mentioned" },
+  { who = "Eteòcle", status = "mentioned" },
+  { who = "Polinice", status = "mentioned" },
+  { who = "il gentil seme", status = "mentioned" },
+  { who = "Deïdamìa", status = "mentioned" },
+  { who = "Achille", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:49B", lines = "49-54", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "49-49" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "49-49" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "52-54" },
+  { subj = "Dante", predicate = "sees", obj = "Ulisse, Dïomede", lines = "52-53" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "55-55" },
+  { subj = "Virgilio", predicate = "names", obj = "Ulisse", lines = "56-56" },
+  { subj = "Virgilio", predicate = "names", obj = "Dïomede", lines = "56-56" },
+]
+basis = "49-63"
+
+[[scene]]
+lines = "64-75"
+title = "Dante's Request and Virgil's Warning"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Ulisse", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "i Greci", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:65", lines = "65-69", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "26:70", lines = "70-75", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "64-65" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "65-66" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "66-67" },
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "69-69" },
+  { subj = "Dante", predicate = "meets", obj = "la fiamma cornuta", lines = "69-69" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "70-70" },
+  { subj = "Virgilio", predicate = "praises", obj = "Dante", lines = "70-71" },
+  { subj = "Virgilio", predicate = "gives", obj = "Dante", lines = "71-71" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "72-72" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "73-73" },
+  { subj = "Virgilio", predicate = "recognizes", obj = "Dante", lines = "73-74" },
+]
+basis = "64-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Voice from the Flame"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Ulisse", status = "present" },
+]
+speech = [
+  { quote_id = "26:79", lines = "79-84", speaker = "Virgilio", addressee = "Ulisse", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Virgilio", lines = "78-78" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Ulisse, Diomede", lines = "79-79" },
+  { subj = "Virgilio", predicate = "commands", obj = "Ulisse, Diomede", lines = "83-83" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-99"
+title = "Ulysses's Wandering Impulse"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Ulisse", status = "present" },
+  { who = "Circe", status = "mentioned" },
+  { who = "Enëa", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+  { who = "vecchio padre", status = "mentioned" },
+  { who = "Penelopè", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:90", lines = "90-142", speaker = "Ulisse", addressee = "(none)", source = "none" },
+]
+refer = [
+  { phrase = "la lingua", line = 89, resolves = "lingua" },
+]
+simile = [
+  { lines = "89-89", vehicle = "lingua" },
+]
+basis = "85-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Voyage Through the Mediterranean"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Ulisse", status = "present" },
+  { who = "quella compagna", status = "present" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-120"
+title = "The Pillars of Hercules and the Great Exhortation"
+location = "'l ponte"
+region = "'l ponte"
+cohort = ["compagni"]
+cast = [
+  { who = "Ulisse", status = "present" },
+  { who = "compagni", status = "present" },
+  { who = "Ercule", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Sibilia", status = "mentioned" },
+  { who = "Setta", status = "mentioned" },
+]
+relations = [
+  { subj = "Ercule", predicate = "warns", obj = "l'uom", lines = "108-109" },
+  { subj = "Ulisse", predicate = "relates-to", obj = "Sibilia", lines = "110-110" },
+  { subj = "Setta", predicate = "relates-to", obj = "Ulisse", lines = "111-111" },
+  { subj = "Ulisse", predicate = "addresses", obj = "compagni", lines = "112-112" },
+]
+basis = "106-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Flight of the Crew"
+location = "'l ponte"
+region = "'l ponte"
+cohort = ["Li miei compagni"]
+cast = [
+  { who = "Li miei compagni", status = "present" },
+  { who = "Ulisse", status = "present" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "Descent into the Southern Seas"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Ulisse", status = "present" },
+  { who = "Ulisse, i suoi compagni", status = "present" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-142"
+title = "The Final Storm and Shipwreck"
+location = "'l ponte"
+region = "'l ponte"
+cast = [
+  { who = "Ulisse", status = "present" },
+  { who = "Ulisse, i suoi compagni", status = "present" },
+]
+basis = "133-142"

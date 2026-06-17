@@ -1,0 +1,358 @@
+canticle = "purgatorio"
+canto = 32
+
+[[scene]]
+lines = "1-12"
+title = "The Sensory Blindness"
+location = ""
+region = "al petto del grifon"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quelle dee", status = "present" },
+]
+relations = [
+  { subj = "quelle dee", predicate = "touches", obj = "Dante", lines = "7-8" },
+  { subj = "Dante", predicate = "hears", obj = "quelle dee", lines = "9-9" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Movement of the Heavenly Host"
+location = ""
+region = "al petto del grifon"
+cohort = ["lo glorïoso essercito"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lo glorïoso essercito", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "lo glorïoso essercito", lines = "16-17" },
+]
+simile = [
+  { lines = "19-23", vehicle = "lo glorïoso essercito" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Descent of the Griffin"
+location = ""
+region = "al petto del grifon"
+cohort = ["le donne"]
+cast = [
+  { who = "le donne", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Eva", status = "mentioned" },
+]
+relations = [
+  { subj = "l grifon", predicate = "brings", obj = "Dante, Beatrice, Stazio, le donne", lines = "26-26" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-36"
+title = "Beatrice's Descent"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Bëatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Statio", status = "present" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Bare Tree"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Adamo", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Beatrice, le ninfe, le anime", lines = "37-37" },
+  { subj = "Beatrice, le ninfe, le anime", predicate = "names", obj = "Adamo", lines = "37-37" },
+  { subj = "Beatrice, le ninfe, le anime", predicate = "sees", obj = "Adamo", lines = "38-38" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-48"
+title = "The Voice of the Griffin"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cohort = ["li altri"]
+cast = [
+  { who = "li altri", status = "present" },
+  { who = "giusto", status = "mentioned" },
+]
+relations = [
+  { subj = "li altri", predicate = "praises", obj = "grifon", lines = "43-47" },
+  { subj = "grifon", predicate = "answers", obj = "li altri", lines = "47-48" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-51"
+title = "The Tied Branch"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "la vedova frasca", status = "present" },
+]
+relations = [
+  { subj = "il Grifone", predicate = "brings", obj = "la vedova frasca", lines = "50-50" },
+  { subj = "il Grifone", predicate = "touches", obj = "la vedova frasca", lines = "51-51" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-60"
+title = "The Transformation of the Tree"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Adamo", status = "mentioned" },
+]
+basis = "52-60"
+
+[[scene]]
+lines = "61-69"
+title = "The Limits of Description"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quella gente", status = "mentioned" },
+  { who = "Siringa", status = "mentioned" },
+  { who = "pintor", status = "mentioned" },
+]
+basis = "61-69"
+
+[[scene]]
+lines = "70-78"
+title = "The Awakening of the Apostles"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "li angeli", status = "mentioned" },
+  { who = "Pietro", status = "present" },
+  { who = "Giovanni", status = "present" },
+  { who = "Iacopo", status = "present" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Diminished School"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Pietro", status = "present" },
+  { who = "Giovanni", status = "present" },
+  { who = "Moïsè", status = "mentioned" },
+  { who = "Elia", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Pietro, Giovanni, Giacomo", predicate = "sees", obj = "Moïsè", lines = "79-80" },
+  { subj = "Pietro, Giovanni, Giacomo", predicate = "sees", obj = "Elia", lines = "79-80" },
+  { subj = "Pietro, Giovanni, Giacomo", predicate = "sees", obj = "Virgilio", lines = "79-81" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-90"
+title = "The Reencounter with Beatrice"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cohort = ["la compagnia"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "conducitrice", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "la compagnia", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "conducitrice", lines = "82-82" },
+  { subj = "conducitrice", predicate = "guides", obj = "Dante", lines = "83-84" },
+  { subj = "Dante", predicate = "asks", obj = "conducitrice", lines = "85-85" },
+  { subj = "conducitrice", predicate = "answers", obj = "Dante", lines = "86-86" },
+]
+basis = "82-90"
+
+[[scene]]
+lines = "91-93"
+title = "The Closed Senses"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Guard of the Nymphs"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le sette ninfe", status = "present" },
+]
+relations = [
+  { subj = "le sette ninfe", predicate = "protects", obj = "Beatrice", lines = "97-98" },
+  { subj = "le sette ninfe", predicate = "opposes", obj = "Aquilone", lines = "98-99" },
+  { subj = "le sette ninfe", predicate = "opposes", obj = "Austro", lines = "98-99" },
+]
+simile = [
+  { lines = "95-96", vehicle = "Beatrice" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-105"
+title = "Beatrice's Command"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "32:100", lines = "100-105", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "100-105" },
+  { subj = "Beatrice", predicate = "prophesies", obj = "Dante", lines = "100-100" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "104-104" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "105-105" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-108"
+title = "Dante's Devotion"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "107-107" },
+  { subj = "Dante", predicate = "follows", obj = "Beatrice", lines = "108-108" },
+]
+basis = "106-108"
+
+[[scene]]
+lines = "109-117"
+title = "The Eagle's Strike"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Giove", status = "mentioned" },
+]
+basis = "109-117"
+
+[[scene]]
+lines = "118-123"
+title = "The Attack of the Fox"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Descent of the Needle"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "present" },
+]
+simile = [
+  { lines = "127-128", vehicle = "Dio" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-135"
+title = "The Dragon's Emergence"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Covering of the Earth"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = []
+basis = "136-141"
+
+[[scene]]
+lines = "142-147"
+title = "The Appearance of the Monster"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = []
+basis = "142-147"
+
+[[scene]]
+lines = "148-153"
+title = "The Proximity of the Giant"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cohort = ["una puttana sciolta"]
+cast = [
+  { who = "una puttana sciolta", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "un gigante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "una puttana sciolta", lines = "150-150" },
+  { subj = "un gigante", predicate = "protects", obj = "una puttana sciolta", lines = "151-152" },
+  { subj = "Dante", predicate = "sees", obj = "una puttana sciolta", lines = "152-152" },
+  { subj = "Dante", predicate = "sees", obj = "un gigante", lines = "152-152" },
+  { subj = "una puttana sciolta", predicate = "touches", obj = "un gigante", lines = "153-153" },
+  { subj = "un gigante", predicate = "touches", obj = "una puttana sciolta", lines = "153-153" },
+]
+basis = "148-153"
+
+[[scene]]
+lines = "154-160"
+title = "The Final Violence"
+location = "dintorno a l'albero robusto"
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quel feroce drudo", status = "present" },
+  { who = "la puttana", status = "present" },
+  { who = "il mostro", status = "present" },
+]
+relations = [
+  { subj = "quel feroce drudo", predicate = "sees", obj = "Dante", lines = "154-155" },
+  { subj = "quel feroce drudo", predicate = "strikes", obj = "la puttana", lines = "155-156" },
+  { subj = "quel feroce drudo", predicate = "relates-to", obj = "il mostro", lines = "158-158" },
+  { subj = "quel feroce drudo", predicate = "chases", obj = "Dante", lines = "159-160" },
+  { subj = "quel feroce drudo", predicate = "relates-to", obj = "la puttana", lines = "159-160" },
+  { subj = "quel feroce drudo", predicate = "relates-to", obj = "il mostro", lines = "159-160" },
+]
+basis = "154-160"

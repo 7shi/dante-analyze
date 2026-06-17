@@ -1,0 +1,464 @@
+canticle = "purgatorio"
+canto = 19
+
+[[scene]]
+lines = "1-6"
+title = "The Astronomical Prologue"
+location = ""
+region = "giro"
+cast = [
+  { who = "i geomanti", status = "mentioned" },
+]
+relations = [
+  { subj = "i geomanti", predicate = "sees", obj = "Maggior Fortuna", lines = "4-5" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-9"
+title = "The Monstrous Vision"
+location = ""
+region = "giro"
+cohort = ["una femmina balba"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "una femmina balba", status = "present" },
+]
+relations = [
+  { subj = "una femmina balba", predicate = "meets", obj = "Dante", lines = "7-7" },
+]
+basis = "7-9"
+
+[[scene]]
+lines = "10-15"
+title = "The Siren's Transformation"
+location = ""
+region = "giro"
+cohort = ["Sirena"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Sirena", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Sirena", lines = "10-10" },
+  { subj = "Dante", predicate = "guides", obj = "Sirena", lines = "12-12" },
+  { subj = "amor", predicate = "relates-to", obj = "Sirena", lines = "15-15" },
+  { subj = "Dante", predicate = "relates-to", obj = "Sirena", lines = "15-15" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-24"
+title = "The Song of the Siren"
+location = ""
+region = "giro"
+cohort = ["Sirena"]
+cast = [
+  { who = "Sirena", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "' marinari", status = "mentioned" },
+  { who = "Ulisse", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:19A", lines = "19-19", speaker = "Sirena", addressee = "Dante", source = "code" },
+  { quote_id = "19:19B", lines = "19-24", speaker = "Sirena", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Sirena", lines = "17-18" },
+  { subj = "Sirena", predicate = "speaks-to", obj = "Dante", lines = "19-19" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-27"
+title = "The Holy Intervention"
+location = ""
+region = "giro"
+cohort = ["Sirena"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Sirena", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "meets", obj = "Dante", lines = "26-27" },
+  { subj = "Beatrice", predicate = "defeats", obj = "Sirena", lines = "27-27" },
+]
+basis = "25-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Siren's Revelations"
+location = ""
+region = "giro"
+cohort = ["Sirena"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Sirena", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "La Sirena", line = 28, resolves = "Sirena" },
+  { phrase = "La Sirena", line = 31, resolves = "Sirena" },
+]
+relations = [
+  { subj = "Sirena", predicate = "asks", obj = "Virgilio", lines = "28-29" },
+  { subj = "Virgilio", predicate = "sees", obj = "Beatrice", lines = "29-30" },
+  { subj = "Sirena", predicate = "shows", obj = "Dante", lines = "31-32" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-36"
+title = "Virgil's Command"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "19:34", lines = "34-35", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "34-34" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "35-35" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-39"
+title = "The Ascent Begins"
+location = "i giron del sacro monte"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "37-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Sweet Voice"
+location = "i giron del sacro monte"
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "colui che l'ha di pensier carca", status = "mentioned" },
+  { who = "uno impersonale", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "40-40" },
+]
+simile = [
+  { lines = "40-42", vehicle = "colui che l'ha di pensier carca" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-51"
+title = "The Appearance of the Angels"
+location = "tra due pareti del duro macigno"
+region = "giro"
+cast = [
+  { who = "l'angelo", status = "present" },
+  { who = "anime", status = "mentioned" },
+  { who = "le donne", status = "mentioned" },
+]
+refer = [
+  { phrase = "donne", line = 51, resolves = "le donne" },
+  { phrase = "le anime", line = 51, resolves = "anime" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-54"
+title = "Virgil's Inquiry"
+location = "tra due pareti del duro macigno"
+region = "giro"
+cohort = ["un angel"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "un angel", status = "present" },
+]
+refer = [
+  { phrase = "l'angel", line = 54, resolves = "un angel" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "52-53" },
+  { subj = "un angel", predicate = "relates-to", obj = "Dante, Virgilio", lines = "54-54" },
+]
+basis = "52-54"
+
+[[scene]]
+lines = "55-57"
+title = "Dante's Disturbance"
+location = "tra due pareti del duro macigno"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "19:55", lines = "55-57", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "55-57"
+
+[[scene]]
+lines = "58-63"
+title = "The Vision of the Wheel"
+location = "tra due pareti del duro macigno"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quell'antica strega", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "al logoro", status = "present" },
+  { who = "lo rege etterno", status = "mentioned" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Falcon's Flight"
+location = "tra due pareti del duro macigno"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "chi va suso", status = "mentioned" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-72"
+title = "The Wailing Souls"
+location = "quinto giro"
+region = "quinto giro"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "71-71" },
+]
+basis = "70-72"
+
+[[scene]]
+lines = "73-75"
+title = "The Audible Grief"
+location = "quinto giro"
+region = "quinto giro"
+cohort = ["gli avarizi e i prodighi"]
+cast = [
+  { who = "gli avarizi e i prodighi", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "gli avarizi e i prodighi", lines = "74-74" },
+]
+basis = "73-75"
+
+[[scene]]
+lines = "76-78"
+title = "The Prayer for Ascent"
+location = "quinto giro"
+region = "quinto giro"
+cohort = ["anime degli avidi e dei prodighi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime degli avidi e dei prodighi", status = "present" },
+]
+relations = [
+  { subj = "anime degli avidi e dei prodighi", predicate = "addresses", obj = "Dante, Virgilio", lines = "76-76" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-81"
+title = "Virgil's Instruction"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-87"
+title = "The Silent Agreement"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "85-85" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "86-86" },
+]
+basis = "82-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Approach to the Bishop"
+location = "quinto giro"
+region = "quinto giro"
+cohort = ["Spirto"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Spirto", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "avidi, prodighi", status = "present" },
+]
+speech = [
+  { quote_id = "19:91", lines = "91-96", speaker = "Dante", addressee = "Spirto", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Spirto", lines = "89-89" },
+  { subj = "Dante", predicate = "addresses", obj = "Spirto", lines = "91-91" },
+  { subj = "Dante", predicate = "commands", obj = "Spirto", lines = "93-93" },
+  { subj = "Dante", predicate = "asks", obj = "Spirto", lines = "94-94" },
+  { subj = "Dante", predicate = "asks", obj = "avidi, prodighi", lines = "94-94" },
+  { subj = "Dante", predicate = "commands", obj = "Spirto", lines = "95-95" },
+  { subj = "Dante", predicate = "asks", obj = "Spirto", lines = "95-96" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-105"
+title = "The Bishop's Identity"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Vescovo di Savona", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Pietro", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:97", lines = "97-126", speaker = "Vescovo di Savona", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Vescovo di Savona", predicate = "speaks-to", obj = "Dante", lines = "97-97" },
+  { subj = "Vescovo di Savona", predicate = "tells", obj = "Dante", lines = "98-98" },
+  { subj = "Vescovo di Savona", predicate = "tells", obj = "Dante", lines = "99-99" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Sin of Avarice"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Vescovo di Savona", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Vescovo di Savona", predicate = "speaks-to", obj = "Dante", lines = "106-114" },
+  { subj = "Dante", predicate = "sees", obj = "Vescovo di Savona", lines = "114-114" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-126"
+title = "The Nature of the Punishment"
+location = "quinto giro"
+region = "quinto giro"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "Vescovo di Savona", status = "present" },
+  { who = "giusto Sire", status = "mentioned" },
+]
+refer = [
+  { phrase = "l'anime", line = 120, resolves = "anime" },
+  { phrase = "il vescovo di Savona", line = 121, resolves = "Vescovo di Savona" },
+  { phrase = "l'anime", line = 123, resolves = "anime" },
+  { phrase = "l'anime", line = 125, resolves = "anime" },
+]
+simile = [
+  { lines = "121-122", vehicle = "Vescovo di Savona" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-130"
+title = "Dante's Conscience"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Vescovo di Savona", status = "present" },
+]
+relations = [
+  { subj = "Vescovo di Savona", predicate = "sees", obj = "Dante", lines = "128-128" },
+  { subj = "Vescovo di Savona", predicate = "hears", obj = "Dante", lines = "129-129" },
+  { subj = "Vescovo di Savona", predicate = "asks", obj = "Dante", lines = "130-130" },
+]
+basis = "127-130"
+
+[[scene]]
+lines = "131-132"
+title = "The Scruple of Guilt"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Vescovo di Savona", status = "present" },
+]
+speech = [
+  { quote_id = "19:131", lines = "131-132", speaker = "Dante", addressee = "Vescovo di Savona", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Vescovo di Savona", lines = "131-131" },
+]
+basis = "131-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Dismissal"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Vescovo di Savona", status = "present" },
+]
+speech = [
+  { quote_id = "19:134", lines = "134-145", speaker = "Vescovo di Savona", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "vescovo di Savona", line = 133, resolves = "Vescovo di Savona" },
+  { phrase = "vescovo di Savona", line = 134, resolves = "Vescovo di Savona" },
+  { phrase = "vescovo di Savona", line = 136, resolves = "Vescovo di Savona" },
+  { phrase = "vescovo di Savona", line = 138, resolves = "Vescovo di Savona" },
+]
+relations = [
+  { subj = "Vescovo di Savona", predicate = "commands", obj = "Dante", lines = "133-133" },
+  { subj = "Vescovo di Savona", predicate = "addresses", obj = "Dante", lines = "133-133" },
+  { subj = "Vescovo di Savona", predicate = "answers", obj = "Dante", lines = "134-134" },
+  { subj = "Vescovo di Savona", predicate = "warns", obj = "Dante", lines = "134-134" },
+  { subj = "Vescovo di Savona", predicate = "asks", obj = "Dante", lines = "136-137" },
+  { subj = "Vescovo di Savona", predicate = "tells", obj = "Dante", lines = "138-138" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-145"
+title = "The Final Postscript"
+location = "quinto giro"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Vescovo di Savona", status = "present" },
+  { who = "Alagia", status = "mentioned" },
+]
+relations = [
+  { subj = "Vescovo di Savona", predicate = "commands", obj = "Dante", lines = "139-139" },
+]
+basis = "139-145"

@@ -6,7 +6,7 @@ import sys
 
 from ._paths import (
     SCENE_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR,
-    TOPOGRAPHY_DIR, COHORT_DIR,
+    TOPOGRAPHY_DIR, COHORT_DIR, LOCK_DIR,
 )
 from .checkpoint import out_path
 
@@ -33,6 +33,13 @@ def _show_canticle(layer, canticle):
 
 def _show_kg(canticle, part):
     path = KG_DIR / canticle / f"{part}.jsonl"
+    if not path.exists():
+        raise FileNotFoundError(path)
+    print(path.read_text(encoding="utf-8"), end="")
+
+
+def _show_lock(canticle, canto):
+    path = LOCK_DIR / canticle / f"{canto:02d}.toml"
     if not path.exists():
         raise FileNotFoundError(path)
     print(path.read_text(encoding="utf-8"), end="")
@@ -72,6 +79,12 @@ def build_parser():
     kg_show.add_argument("canticle")
     kg_show.add_argument("part", nargs="?", default="edges", choices=("nodes", "edges", "speech_edges"))
 
+    lock_parser = roots.add_parser("lock")
+    lock_sub = lock_parser.add_subparsers(dest="action", required=True)
+    lock_show = lock_sub.add_parser("show")
+    lock_show.add_argument("canticle")
+    lock_show.add_argument("canto", type=int)
+
     for layer in _DIRS:
         layer_parser = roots.add_parser(layer)
         sub = layer_parser.add_subparsers(dest="action", required=True)
@@ -92,6 +105,8 @@ def main():
                 _show_canticle(args.layer, args.canticle)
             elif args.layer == "kg":
                 _show_kg(args.canticle, args.part)
+            elif args.layer == "lock":
+                _show_lock(args.canticle, args.canto)
             else:
                 _show(args.layer, args.canticle, args.canto)
             return 0

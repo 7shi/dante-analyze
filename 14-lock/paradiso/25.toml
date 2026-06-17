@@ -1,0 +1,315 @@
+canticle = "paradiso"
+canto = 25
+
+[[scene]]
+lines = "1-12"
+title = "Dante's Prologue"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Pietro", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Pietro", predicate = "praises", obj = "Dante", lines = "12-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Appearance of the Second Light"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Giacomo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "i vicari suoi", status = "mentioned" },
+]
+relations = [
+  { subj = "Giacomo", predicate = "meets", obj = "Dante, Beatrice, San Pietro", lines = "13-13" },
+  { subj = "Cristo", predicate = "relates-to", obj = "San Pietro", lines = "15-15" },
+  { subj = "Cristo", predicate = "relates-to", obj = "i vicari suoi", lines = "15-15" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "17-17" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "17-17" },
+  { subj = "Beatrice", predicate = "shows", obj = "Giacomo", lines = "17-18" },
+  { subj = "Beatrice", predicate = "names", obj = "Giacomo", lines = "17-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "Simile of the Two Princes"
+location = ""
+region = "ramo"
+cohort = ["i beati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Giacomo", status = "mentioned" },
+  { who = "Pietro", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "i beati", status = "present" },
+]
+refer = [
+  { phrase = "beati", line = 24, resolves = "i beati" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Giacomo", lines = "22-22" },
+  { subj = "Pietro", predicate = "meets", obj = "Giacomo", lines = "22-23" },
+  { subj = "Beatrice", predicate = "gives", obj = "i beati", lines = "24-24" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-33"
+title = "Beatrice's Invocation of Hope"
+location = ""
+region = "ramo"
+cohort = ["'l gratular"]
+cast = [
+  { who = "'l gratular", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "San Pietro", status = "present" },
+  { who = "San Giacomo", status = "present" },
+  { who = "Bëatrice", status = "present" },
+  { who = "Iesù", status = "mentioned" },
+  { who = "San Giovanni", status = "present" },
+]
+relations = [
+  { subj = "San Pietro, San Giacomo", predicate = "sees", obj = "Dante", lines = "26-26" },
+  { subj = "Bëatrice", predicate = "calls", obj = "San Giacomo", lines = "28-29" },
+  { subj = "Bëatrice", predicate = "commands", obj = "San Giacomo", lines = "31-31" },
+  { subj = "Bëatrice", predicate = "tells", obj = "San Giacomo", lines = "32-32" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-36"
+title = "Beatrice's Command"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-47"
+title = "The Second Light's Inquiry"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lo nostro Imperadore", status = "mentioned" },
+  { who = "suoi conti", status = "mentioned" },
+]
+refer = [
+  { phrase = "la morte", line = 41, resolves = "morte" },
+]
+basis = "37-47"
+
+[[scene]]
+lines = "48-63"
+title = "The Nature of Hope in the Church"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Giacomo", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "La Chiesa militante", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "25:52", lines = "52-63", speaker = "Beatrice", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "guides", obj = "Dante", lines = "49-50" },
+  { subj = "Beatrice", predicate = "answers", obj = "Giacomo", lines = "51-51" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "61-61" },
+]
+basis = "48-63"
+
+[[scene]]
+lines = "64-78"
+title = "Dante's Scholarly Response"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Giacomo il Maggiore", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Augusto", status = "mentioned" },
+  { who = "color che sanno il nome tuo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "chi nol sa", status = "mentioned" },
+]
+speech = [
+  { quote_id = "25:67B", lines = "67-78", speaker = "Dante", addressee = "Giacomo il Maggiore", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Giacomo il Maggiore", lines = "67-67" },
+]
+simile = [
+  { lines = "64-64", vehicle = "Giacomo il Maggiore" },
+]
+basis = "64-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Third Light's Command"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Giovanni", status = "mentioned" },
+]
+speech = [
+  { quote_id = "25:82", lines = "82-87", speaker = "Giovanni", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "la virtù", line = 82, resolves = "virtù" },
+  { phrase = "la virtù", line = 83, resolves = "virtù" },
+  { phrase = "la virtù", line = 85, resolves = "virtù" },
+]
+relations = [
+  { subj = "Giovanni", predicate = "speaks-to", obj = "Dante", lines = "82-87" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-96"
+title = "Scriptural Identification of Hope"
+location = ""
+region = "ramo"
+cohort = ["Dante, i fedeli"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Isaia", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "Dante, i fedeli", status = "present" },
+]
+speech = [
+  { quote_id = "25:88", lines = "88-96", speaker = "Dante", addressee = "Dante, i fedeli", source = "code" },
+]
+refer = [
+  { phrase = "l'anime", line = 90, resolves = "anime" },
+  { phrase = "l'anime", line = 91, resolves = "anime" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-99"
+title = "The Heavenly Response"
+location = ""
+region = "ramo"
+cohort = ["tutte le carole"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "San Pietro", status = "present" },
+  { who = "San Giacomo", status = "present" },
+  { who = "San Giovanni", status = "present" },
+  { who = "tutte le carole", status = "present" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Arrival of the Third Light"
+location = ""
+region = "ramo"
+cast = [
+  { who = "San Pietro", status = "present" },
+  { who = "San Giacomo", status = "present" },
+  { who = "vergine lieta", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "104-105", vehicle = "Dante" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-114"
+title = "Beatrice's Identification"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Giovanni", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Pietro", status = "present" },
+  { who = "Giacomo", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Pietro, Giacomo, Giovanni", lines = "110-110" },
+]
+simile = [
+  { lines = "111-111", vehicle = "Beatrice" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-117"
+title = "Beatrice's Silent Attention"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Beatrice", status = "present" },
+]
+basis = "115-117"
+
+[[scene]]
+lines = "118-129"
+title = "The Prophecy of the Two Lights"
+location = ""
+region = "ramo"
+cast = [
+  { who = "colui ch'adocchia", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "San Giovanni", status = "mentioned" },
+  { who = "li altri", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "San Giacomo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "25:122", lines = "122-129", speaker = "San Giovanni", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "San Giovanni", predicate = "relates-to", obj = "Dante", lines = "121-121" },
+  { subj = "San Giovanni", predicate = "asks", obj = "Dante", lines = "122-123" },
+  { subj = "San Giovanni", predicate = "tells", obj = "Dante", lines = "129-129" },
+]
+basis = "118-129"
+
+[[scene]]
+lines = "130-135"
+title = "The Settling of the Heavens"
+location = ""
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-139"
+title = "Dante's Final Vision"
+location = "mondo felice"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "137-138" },
+]
+basis = "136-139"

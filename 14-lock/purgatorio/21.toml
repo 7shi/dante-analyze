@@ -1,0 +1,343 @@
+canticle = "purgatorio"
+canto = 21
+
+[[scene]]
+lines = "1-6"
+title = "Dante's Thirst"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "la samaritana", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "la sete natural", predicate = "punishes", obj = "Dante", lines = "4-4" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "5-5" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-13"
+title = "The Appearance of the Shade"
+location = "'mpacciata via"
+region = "quinto giro"
+cohort = ["La turba"]
+cast = [
+  { who = "Luca", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "discepoli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "La turba", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "la turba", line = 11, resolves = "La turba" },
+]
+relations = [
+  { subj = "Stazio", predicate = "meets", obj = "Dante, Virgilio", lines = "10-10" },
+  { subj = "Stazio", predicate = "follows", obj = "Dante, Virgilio", lines = "10-10" },
+  { subj = "Stazio", predicate = "sees", obj = "La turba", lines = "11-11" },
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "Stazio", lines = "12-12" },
+  { subj = "Stazio", predicate = "addresses", obj = "Dante, Virgilio", lines = "13-13" },
+]
+simile = [
+  { lines = "8-8", vehicle = "discepoli" },
+]
+basis = "7-13"
+
+[[scene]]
+lines = "14-21"
+title = "The Initial Confrontation"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:16", lines = "16-18", speaker = "Virgilio", addressee = "Stazio", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Stazio", lines = "14-15" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Stazio", lines = "16-18" },
+  { subj = "Stazio", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "19-19" },
+  { subj = "Stazio", predicate = "asks", obj = "Dante, Virgilio", lines = "20-20" },
+  { subj = "Stazio", predicate = "asks", obj = "Dio", lines = "21-21" },
+]
+basis = "14-21"
+
+[[scene]]
+lines = "22-33"
+title = "Virgil's Explanation of the Shade's Arrival"
+location = "'mpacciata via"
+region = "quinto giro"
+cohort = ["un angel"]
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "un angel", status = "present" },
+  { who = "coi buon", status = "mentioned" },
+  { who = "Cloto", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "21:22", lines = "22-36", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "l'angel", line = 23, resolves = "un angel" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Stazio", lines = "22-22" },
+]
+basis = "22-33"
+
+[[scene]]
+lines = "34-36"
+title = "The Inquiry Regarding the Earthquake"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-39"
+title = "Dante's Anticipation"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Stazio", predicate = "answers", obj = "Dante", lines = "37-37" },
+]
+basis = "37-39"
+
+[[scene]]
+lines = "40-54"
+title = "The Immutable Nature of Purgatory"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Iride", status = "mentioned" },
+  { who = "'l vicario di Pietro", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:40", lines = "40-72", speaker = "Stazio", addressee = "(none)", source = "none" },
+]
+basis = "40-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Cause of the Tremor"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "alcuna anima monda", status = "mentioned" },
+  { who = "l'alma", status = "mentioned" },
+]
+refer = [
+  { phrase = "divina giustizia", line = 65, resolves = "la divina giustizia" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Shade's Long Exile"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "li pii spiriti", status = "mentioned" },
+  { who = "quel Segnor", status = "mentioned" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-75"
+title = "Dante's Impression"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Stazio", predicate = "speaks-to", obj = "Dante", lines = "73-73" },
+  { subj = "Stazio", predicate = "relates-to", obj = "Dante", lines = "75-75" },
+]
+basis = "73-75"
+
+[[scene]]
+lines = "76-81"
+title = "Virgil Demands Identity"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "21:76", lines = "76-81", speaker = "Virgilio", addressee = "Stazio", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Stazio", lines = "76-81" },
+  { subj = "Virgilio", predicate = "asks", obj = "Stazio", lines = "79-79" },
+  { subj = "Virgilio", predicate = "asks", obj = "Stazio", lines = "80-81" },
+]
+basis = "76-81"
+
+[[scene]]
+lines = "82-87"
+title = "The Shade's Historical Context"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Tito", status = "mentioned" },
+  { who = "sommo rege", status = "mentioned" },
+  { who = "Giuda", status = "mentioned" },
+  { who = "Stazio", status = "present" },
+]
+speech = [
+  { quote_id = "21:82", lines = "82-86", speaker = "Stazio", addressee = "(none)", source = "none" },
+  { quote_id = "21:87", lines = "87-102", speaker = "Stazio", addressee = "(none)", source = "none" },
+]
+basis = "82-87"
+
+[[scene]]
+lines = "88-102"
+title = "The Praise of the Poet"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "mio vocale spirto", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "gente", status = "mentioned" },
+  { who = "Achille", status = "mentioned" },
+  { who = "Virgilio", status = "mentioned" },
+]
+refer = [
+  { phrase = "la gente", line = 91, resolves = "gente" },
+]
+basis = "88-102"
+
+[[scene]]
+lines = "103-108"
+title = "Virgil's Gesture of Silence"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "ciascun", status = "mentioned" },
+  { who = "più veraci", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "103-103" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Shade's Confusion"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uom ch'ammicca", status = "mentioned" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Stazio", predicate = "sees", obj = "Dante", lines = "110-111" },
+  { subj = "Stazio", predicate = "asks", obj = "Dante", lines = "112-114" },
+]
+simile = [
+  { lines = "109-109", vehicle = "l'uom ch'ammicca" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "Dante's Internal Conflict"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "hears", obj = "Dante", lines = "117-118" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "118-119" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "118-118" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "119-119" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Revelation of Virgil"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Li uomini", status = "mentioned" },
+  { who = "i dèi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:121", lines = "121-129", speaker = "Dante", addressee = "Stazio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Stazio", lines = "121-121" },
+  { subj = "Dante", predicate = "addresses", obj = "Stazio", lines = "122-122" },
+  { subj = "Dante", predicate = "commands", obj = "Stazio", lines = "128-128" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-132"
+title = "The Interrupted Embrace"
+location = "'mpacciata via"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Stazio", predicate = "touches", obj = "Virgilio", lines = "130-131" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Stazio", lines = "131-131" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Stazio", lines = "131-131" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-136"
+title = "The Weight of Love"
+location = "'mpacciata via"
+region = "quinto giro"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "l'ombre", status = "present" },
+]
+speech = [
+  { quote_id = "21:133", lines = "133-136", speaker = "Stazio", addressee = "l'ombre", source = "code" },
+]
+relations = [
+  { subj = "Stazio", predicate = "speaks-to", obj = "Virgilio", lines = "133-136" },
+]
+basis = "133-136"

@@ -1,0 +1,305 @@
+canticle = "inferno"
+canto = 13
+
+[[scene]]
+lines = "1-15"
+title = "The Gloomy Woods"
+location = ""
+region = "la proda del bollor vermiglio"
+cohort = ["le brutte Arpie"]
+cast = [
+  { who = "Nesso", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "le brutte Arpie", status = "present" },
+  { who = "i Troiani", status = "mentioned" },
+]
+relations = [
+  { subj = "le brutte Arpie", predicate = "chases", obj = "i Troiani", lines = "10-12" },
+  { subj = "le brutte Arpie", predicate = "prophesies", obj = "i Troiani", lines = "10-12" },
+]
+basis = "1-15"
+
+[[scene]]
+lines = "16-21"
+title = "Virgil's Warning"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "18-18" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "16-17" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "20-20" },
+]
+basis = "16-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Mysterious Voices"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "persona", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "gente", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "persona", lines = "23-23" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "28-28" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-39"
+title = "The Broken Branch"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "uomini", status = "mentioned" },
+  { who = "anime di serpi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "13:33", lines = "33-33", speaker = "un gran pruno", addressee = "Dante", source = "code" },
+  { quote_id = "13:35", lines = "35-39", speaker = "un gran pruno", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "Uomini", line = 38, resolves = "uomini" },
+]
+relations = [
+  { subj = "Dante", predicate = "strikes", obj = "un gran pruno", lines = "32-32" },
+  { subj = "un gran pruno", predicate = "asks", obj = "Dante", lines = "33-33" },
+  { subj = "un gran pruno", predicate = "asks", obj = "Dante", lines = "35-35" },
+  { subj = "un gran pruno", predicate = "asks", obj = "Dante", lines = "36-36" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Splintering Tree"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "45-45", vehicle = "Dante" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-54"
+title = "Virgil's Inquiry"
+location = "secondo girone"
+region = "selva"
+cohort = ["anima lesa"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anima lesa", status = "present" },
+]
+speech = [
+  { quote_id = "13:47", lines = "47-54", speaker = "Virgilio", addressee = "anima lesa", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "anima lesa", lines = "47-47" },
+  { subj = "Virgilio", predicate = "commands", obj = "anima lesa", lines = "52-52" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Keeper of Secrets"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Federigo", status = "mentioned" },
+]
+relations = [
+  { subj = "l tronco", predicate = "answers", obj = "Virgilio", lines = "55-55" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "l tronco", lines = "55-55" },
+  { subj = "l tronco", predicate = "commands", obj = "Dante, Virgilio", lines = "56-56" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "l tronco", lines = "57-57" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-72"
+title = "The Sin of Betrayal"
+location = "secondo girone"
+region = "selva"
+cohort = ["l'anima"]
+cast = [
+  { who = "La meretrice", status = "mentioned" },
+  { who = "Federico II", status = "mentioned" },
+  { who = "l'anima", status = "present" },
+  { who = "li animi tutti", status = "mentioned" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-78"
+title = "A Vow of Loyalty"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Pier della Vigna", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Federico II", status = "mentioned" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Poet's Encouragement"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Pier della Vigna", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "13:82", lines = "82-84", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "80-80" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "80-80" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "81-81" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "82-82" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "82-82" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Request for Knowledge"
+location = "secondo girone"
+region = "selva"
+cohort = ["spirito incarcerato"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "spirito incarcerato", status = "present" },
+  { who = "l'anima", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "spirito incarcerato", lines = "85-85" },
+  { subj = "Virgilio", predicate = "asks", obj = "spirito incarcerato", lines = "87-87" },
+  { subj = "Virgilio", predicate = "asks", obj = "spirito incarcerato", lines = "89-89" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-108"
+title = "The Fate of the Suicides"
+location = "secondo girone"
+region = "selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'anima feroce", status = "mentioned" },
+  { who = "Minòs", status = "mentioned" },
+  { who = "l'Arpie", status = "mentioned" },
+  { who = "l'altre", status = "mentioned" },
+]
+refer = [
+  { phrase = "fortuna", line = 97, resolves = "Fortuna" },
+]
+relations = [
+  { subj = "quel vento", predicate = "answers", obj = "Dante, Virgilio", lines = "92-93" },
+]
+basis = "91-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Sound of the Hunt"
+location = "tronco"
+region = "selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Pier delle Vigne", status = "mentioned" },
+]
+simile = [
+  { lines = "111-112", vehicle = "colui che venire sente 'l porco e la caccia a la sua posta" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-123"
+title = "The Fleeing Souls"
+location = "selva"
+region = "selva"
+cast = [
+  { who = "Lano", status = "present" },
+  { who = "Toppo", status = "mentioned" },
+]
+relations = [
+  { subj = "Lano", predicate = "commands", obj = "morte", lines = "118-118" },
+  { subj = "morte", predicate = "rebukes", obj = "Lano", lines = "120-121" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Attack of the Hounds"
+location = "selva"
+region = "selva"
+cohort = ["miser"]
+cast = [
+  { who = "Lano", status = "present" },
+  { who = "miser", status = "present" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-135"
+title = "The Wounded Bush"
+location = "selva"
+region = "selva"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Iacopo", status = "mentioned" },
+  { who = "Santo Andrea", status = "mentioned" },
+  { who = "Lano", status = "mentioned" },
+]
+speech = [
+  { quote_id = "13:133B", lines = "133-135", speaker = "Lano", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Iacopo", lines = "133-133" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-151"
+title = "The History of Florence"
+location = "selva"
+region = "selva"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Pier della Vigna", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "il Batista", status = "mentioned" },
+  { who = "l primo padrone", status = "mentioned" },
+  { who = "que' cittadin", status = "mentioned" },
+  { who = "Attila", status = "mentioned" },
+]
+speech = [
+  { quote_id = "13:139", lines = "139-151", speaker = "Pier della Vigna", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Pier della Vigna", lines = "137-138" },
+  { subj = "Pier della Vigna", predicate = "answers", obj = "Dante, Virgilio", lines = "139-139" },
+  { subj = "Pier della Vigna", predicate = "addresses", obj = "Dante, Virgilio", lines = "139-139" },
+  { subj = "Pier della Vigna", predicate = "commands", obj = "Dante, Virgilio", lines = "142-142" },
+]
+basis = "136-151"

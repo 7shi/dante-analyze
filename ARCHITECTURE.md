@@ -66,6 +66,8 @@ Examples from this repo:
   `05-registry`).
 - `11-presence` only labels each scene's already-resolved roster `present` / `mentioned` (the person
   analogue: code gathers the cast, the model classifies it).
+- `14-lock` joins the five context-lock layers plus the KG into the per-scene lock by code only (the
+  same code-only join as `08-kg`, one pass later in the ladder).
 
 Split only as much as the current model tier needs. If a stronger model becomes available,
 re-measure whether some scaffolding can collapse without losing accuracy.

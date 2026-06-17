@@ -1,0 +1,234 @@
+canticle = "paradiso"
+canto = 13
+
+[[scene]]
+lines = "1-6"
+title = "The Vision of the Fifteen Stars"
+location = ""
+region = "ella"
+cast = [
+  { who = "lettore", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "quindici stelle", lines = "2-2" },
+  { subj = "Dante", predicate = "commands", obj = "lettore", lines = "2-3" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-24"
+title = "The Movement of the Zodiacal Belt"
+location = ""
+region = "ella"
+cast = [
+  { who = "lettore", status = "mentioned" },
+  { who = "Arianna", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "lettore", lines = "7-7" },
+  { subj = "Dante", predicate = "commands", obj = "lettore", lines = "10-10" },
+  { subj = "Dante", predicate = "tells", obj = "lettore", lines = "19-21" },
+]
+basis = "7-24"
+
+[[scene]]
+lines = "25-30"
+title = "The Song of the Trinity"
+location = ""
+region = "ella"
+cohort = ["quei santi lumi"]
+cast = [
+  { who = "Bacco", status = "mentioned" },
+  { who = "la Trinità", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "San Domenico", status = "present" },
+  { who = "quei santi lumi", status = "present" },
+]
+relations = [
+  { subj = "quei santi lumi", predicate = "praises", obj = "la Trinità", lines = "25-26" },
+  { subj = "quei santi lumi", predicate = "praises", obj = "Cristo", lines = "26-27" },
+  { subj = "quei santi lumi", predicate = "sees", obj = "Dante, Beatrice, San Domenico", lines = "29-29" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Metaphor of the Wheat"
+location = ""
+region = "ella"
+cohort = ["concordi numi"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "concordi numi", status = "present" },
+  { who = "Francesco", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "concordi numi", lines = "31-31" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "concordi numi", lines = "34-34" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-48"
+title = "The Metaphor of the Pierced Rib"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Adamo", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "37-45" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "46-48" },
+]
+basis = "37-48"
+
+[[scene]]
+lines = "49-60"
+title = "The Hierarchy of Divine Light"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "il nostro Sire", status = "mentioned" },
+  { who = "quella viva luce", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "49-49" },
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "49-49" },
+]
+basis = "49-60"
+
+[[scene]]
+lines = "61-78"
+title = "The Descent of Light through the Spheres"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "cose generate", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'artista", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "61-78" },
+  { subj = "Beatrice", predicate = "addresses", obj = "Dante", lines = "72-72" },
+]
+basis = "61-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Models of Perfect Reception"
+location = ""
+region = "ella"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-93"
+title = "Dante’s Unspoken Question"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "lettore", status = "mentioned" },
+]
+refer = [
+  { phrase = "Il Lettore", line = 89, resolves = "lettore" },
+  { phrase = "Il Lettore", line = 92, resolves = "lettore" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "lettore", lines = "92-92" },
+  { subj = "lettore", predicate = "relates-to", obj = "Dante", lines = "92-92" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-108"
+title = "The Purpose of Solomon’s Wisdom"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettore", status = "mentioned" },
+  { who = "Salomone", status = "mentioned" },
+  { who = "li motor", status = "mentioned" },
+  { who = "regi", status = "mentioned" },
+  { who = "buon", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "tells", obj = "lettore", lines = "94-94" },
+  { subj = "Dante", predicate = "tells", obj = "lettore", lines = "103-103" },
+]
+basis = "94-108"
+
+[[scene]]
+lines = "109-120"
+title = "The Danger of Unskilled Interpretation"
+location = ""
+region = "ella"
+cast = [
+  { who = "lettore", status = "present" },
+  { who = "Adamo", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "uom lasso", status = "mentioned" },
+  { who = "li stolti", status = "mentioned" },
+]
+refer = [
+  { phrase = "il lettore", line = 110, resolves = "lettore" },
+  { phrase = "il lettore", line = 112, resolves = "lettore" },
+]
+simile = [
+  { lines = "112-113", vehicle = "uom lasso" },
+]
+basis = "109-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Failures of Past Thinkers"
+location = ""
+region = "ella"
+cast = [
+  { who = "Parmenide", status = "mentioned" },
+  { who = "Melisso", status = "mentioned" },
+  { who = "Brisso", status = "mentioned" },
+  { who = "Sabellio", status = "mentioned" },
+  { who = "Arrio", status = "mentioned" },
+  { who = "quelli stolti", status = "mentioned" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-142"
+title = "The Warning Against Premature Judgment"
+location = ""
+region = "ella"
+cast = [
+  { who = "le genti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Donna Berta", status = "mentioned" },
+  { who = "Ser Martino", status = "mentioned" },
+  { who = "un furare", status = "mentioned" },
+  { who = "altro offerere", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "warns", obj = "le genti", lines = "130-130" },
+  { subj = "Dante", predicate = "warns", obj = "Donna Berta", lines = "139-139" },
+  { subj = "Dante", predicate = "warns", obj = "Ser Martino", lines = "139-139" },
+]
+simile = [
+  { lines = "130-132", vehicle = "quei che stima le biade in campo pria che sien mature" },
+]
+basis = "130-142"

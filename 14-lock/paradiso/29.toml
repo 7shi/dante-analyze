@@ -1,0 +1,195 @@
+canticle = "paradiso"
+canto = 29
+
+[[scene]]
+lines = "1-9"
+title = "The Celestial Prologue"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Bëatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-18"
+title = "The Emergence of Eternal Love"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "29:10", lines = "10-145", speaker = "Beatrice", addressee = "Dante", source = "code" },
+  { quote_id = "29:15", lines = "15-15", speaker = "Dio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "10-10" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "10-11" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-30"
+title = "The Trinity and the Radiance of Being"
+location = "quest' acque"
+region = "qua sù"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "suo sire", status = "mentioned" },
+]
+basis = "19-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Structure of Substance"
+location = "quest' acque"
+region = "qua sù"
+cast = [
+  { who = "Dio", status = "mentioned" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-45"
+title = "Scriptural and Rational Proof"
+location = "quest' acque"
+region = "qua sù"
+cast = [
+  { who = "Ieronimo", status = "mentioned" },
+  { who = "li angeli", status = "mentioned" },
+  { who = "li scrittor", status = "mentioned" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "motori", status = "mentioned" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-51"
+title = "The Introduction of the Angelic Orders"
+location = "quest' acque"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "li angeli", status = "mentioned" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Fallen and the Meritorious"
+location = "quest' acque"
+region = "qua sù"
+cohort = ["i beati"]
+cast = [
+  { who = "l'altra", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "il maladetto superbir", status = "mentioned" },
+  { who = "Lucifero", status = "mentioned" },
+  { who = "i beati", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "i beati", lines = "58-58" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-84"
+title = "The Clarity of Angelic Vision"
+location = "dintorno a questo consistorio"
+region = "qua sù"
+cohort = ["l'angelica natura"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'angelica natura", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "73-73" },
+]
+basis = "67-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Invention of False Doctrines"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "filosofi", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "chi umilmente", status = "mentioned" },
+  { who = "predicanti", status = "mentioned" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-108"
+title = "The Deception of False Miracles"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Lapi", status = "mentioned" },
+  { who = "Bindi", status = "mentioned" },
+]
+basis = "97-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Foundation of Christ"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Apostoli", status = "mentioned" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-126"
+title = "The Corruption of Modern Preachers"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "predicatori", status = "mentioned" },
+  { who = "'l vulgo", status = "mentioned" },
+  { who = "alcun testimonio", status = "mentioned" },
+  { who = "altri assai", status = "mentioned" },
+]
+simile = [
+  { lines = "117-118", vehicle = "tale uccel" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-135"
+title = "The Numerical Mystery of Angels"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Danïel", status = "mentioned" },
+]
+basis = "127-135"
+
+[[scene]]
+lines = "136-145"
+title = "The Dispersion of Divine Light"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "angeli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'eccelso", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'eccelso", lines = "142-142" },
+]
+basis = "136-145"

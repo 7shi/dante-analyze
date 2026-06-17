@@ -1,0 +1,304 @@
+canticle = "purgatorio"
+canto = 22
+
+[[scene]]
+lines = "1-9"
+title = "The Departure and Ascent"
+location = ""
+region = "quinto giro"
+cohort = ["li spiriti veloci"]
+cast = [
+  { who = "un angel", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "li spiriti veloci", status = "present" },
+]
+refer = [
+  { phrase = "l'angel", line = 4, resolves = "un angel" },
+  { phrase = "l'angel", line = 5, resolves = "un angel" },
+]
+relations = [
+  { subj = "un angel", predicate = "praises", obj = "li spiriti veloci", lines = "4-5" },
+  { subj = "li spiriti veloci", predicate = "answers", obj = "un angel", lines = "5-6" },
+  { subj = "Dante", predicate = "follows", obj = "li spiriti veloci", lines = "8-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-24"
+title = "Virgil’s Inquiry"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "gli abitanti del limbo", status = "mentioned" },
+  { who = "Giovenale", status = "mentioned" },
+  { who = "Stazio", status = "present" },
+]
+speech = [
+  { quote_id = "22:10", lines = "10-24", speaker = "Virgilio", addressee = "Stazio", source = "code" },
+]
+refer = [
+  { phrase = "Amore", line = 11, resolves = "amore" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Stazio", lines = "10-18" },
+  { subj = "Virgilio", predicate = "asks", obj = "Stazio", lines = "19-19" },
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Stazio", lines = "19-19" },
+  { subj = "Virgilio", predicate = "asks", obj = "Stazio", lines = "21-21" },
+  { subj = "Virgilio", predicate = "asks", obj = "Stazio", lines = "22-24" },
+]
+basis = "10-24"
+
+[[scene]]
+lines = "25-36"
+title = "Statius’s Defense"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "migliaia di lunari", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:27", lines = "27-54", speaker = "Stazio", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Stazio", predicate = "answers", obj = "Virgilio", lines = "26-26" },
+  { subj = "Stazio", predicate = "tells", obj = "Virgilio", lines = "34-34" },
+]
+basis = "25-36"
+
+[[scene]]
+lines = "37-54"
+title = "The Sin of Lukewarmness"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "mortali", status = "mentioned" },
+  { who = "quella gente", status = "mentioned" },
+]
+relations = [
+  { subj = "Stazio", predicate = "tells", obj = "Virgilio", lines = "49-49" },
+]
+basis = "37-54"
+
+[[scene]]
+lines = "55-63"
+title = "Dante’s Doubt"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Statio", status = "present" },
+  { who = "Giocasta", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Caronte", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Statio", lines = "55-63" },
+  { subj = "Virgilio", predicate = "asks", obj = "Statio", lines = "61-63" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-81"
+title = "Statius’s Tribute to Virgil"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Apostoli", status = "mentioned" },
+  { who = "Cristiani", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:64", lines = "64-99", speaker = "Stazio", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Stazio", predicate = "speaks-to", obj = "Virgilio", lines = "64-64" },
+]
+simile = [
+  { lines = "67-69", vehicle = "quei che va di notte" },
+]
+basis = "64-81"
+
+[[scene]]
+lines = "82-93"
+title = "The Burden of Tepidity"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Cristiani", status = "mentioned" },
+  { who = "Domiziano", status = "mentioned" },
+  { who = "Stazio", status = "present" },
+  { who = "i Greci", status = "mentioned" },
+]
+refer = [
+  { phrase = "i cristiani", line = 82, resolves = "Cristiani" },
+  { phrase = "i cristiani", line = 83, resolves = "Cristiani" },
+  { phrase = "i cristiani", line = 86, resolves = "Cristiani" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-99"
+title = "Dante’s Inquiry into Classical Poets"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Terrenzio", status = "mentioned" },
+  { who = "Cecilio", status = "mentioned" },
+  { who = "Plauto", status = "mentioned" },
+  { who = "Varro", status = "mentioned" },
+]
+relations = [
+  { subj = "Stazio", predicate = "asks", obj = "Virgilio", lines = "97-99" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-114"
+title = "The Inhabitants of Limbo"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Cecilio", status = "mentioned" },
+  { who = "Plauto", status = "mentioned" },
+  { who = "Persio", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Virgilio, Persio, Terenzio, Cecilio, Plauto, Varrone, other poets of Limbo", status = "mentioned" },
+  { who = "Omero", status = "mentioned" },
+  { who = "muse", status = "mentioned" },
+  { who = "Euripide", status = "mentioned" },
+  { who = "Antifonte", status = "mentioned" },
+  { who = "Simonide", status = "mentioned" },
+  { who = "Agatone", status = "mentioned" },
+  { who = "Antigone", status = "mentioned" },
+  { who = "Deïfile", status = "mentioned" },
+  { who = "Argia", status = "mentioned" },
+  { who = "Ismene", status = "mentioned" },
+  { who = "quella che mostrò Langia", status = "mentioned" },
+  { who = "Manto", status = "mentioned" },
+  { who = "Teti", status = "mentioned" },
+  { who = "le suore di Deïdamia", status = "mentioned" },
+  { who = "Deïdamia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:100", lines = "100-100", speaker = "Virgilio", addressee = "(none)", source = "none" },
+]
+refer = [
+  { phrase = "le Muse", line = 102, resolves = "muse" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "names", obj = "Terenzio, Cecilio, Plauto, Varrone", lines = "100-100" },
+  { subj = "Virgilio", predicate = "names", obj = "Persio", lines = "100-100" },
+  { subj = "Virgilio", predicate = "names", obj = "Euripide", lines = "106-106" },
+  { subj = "Virgilio", predicate = "names", obj = "Antifonte", lines = "106-106" },
+  { subj = "Virgilio", predicate = "names", obj = "Simonide", lines = "107-107" },
+  { subj = "Virgilio", predicate = "names", obj = "Agatone", lines = "107-107" },
+  { subj = "Virgilio", predicate = "names", obj = "Antigone", lines = "110-110" },
+  { subj = "Virgilio", predicate = "names", obj = "Deïfile", lines = "110-110" },
+  { subj = "Virgilio", predicate = "names", obj = "Argia", lines = "110-110" },
+  { subj = "Virgilio", predicate = "names", obj = "Ismene", lines = "111-111" },
+  { subj = "Virgilio", predicate = "names", obj = "quella che mostrò Langia", lines = "112-112" },
+  { subj = "Virgilio", predicate = "names", obj = "Manto", lines = "113-113" },
+  { subj = "Virgilio", predicate = "names", obj = "Teti", lines = "113-113" },
+  { subj = "Virgilio", predicate = "names", obj = "le suore di Deïdamia", lines = "114-114" },
+  { subj = "Virgilio", predicate = "names", obj = "Deïdamia", lines = "114-114" },
+]
+basis = "100-114"
+
+[[scene]]
+lines = "115-126"
+title = "Realigning the Ascent"
+location = "queste scale"
+region = "quinto giro"
+cohort = ["le quattro ancelle"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "le quattro ancelle", status = "present" },
+  { who = "la quinta", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "22:121", lines = "121-123", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante, Virgilio, Stazio", predicate = "follows", obj = "Stazio", lines = "125-126" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-129"
+title = "Dante’s Observation"
+location = "queste scale"
+region = "quinto giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio, Stazio", lines = "127-128" },
+  { subj = "Dante", predicate = "hears", obj = "Virgilio, Stazio", lines = "128-128" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-138"
+title = "The Discovery of the Tree"
+location = "mezza strada"
+region = "mezza strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "persona", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio, Stazio", predicate = "meets", obj = "un alber", lines = "131-131" },
+]
+basis = "130-138"
+
+[[scene]]
+lines = "139-141"
+title = "The Voice’s Invitation"
+location = "mezza strada"
+region = "mezza strada"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Statio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "una voce", line = 140, resolves = "la voce" },
+]
+relations = [
+  { subj = "la voce", predicate = "addresses", obj = "Dante, Virgilio, Statio", lines = "140-141" },
+]
+basis = "139-141"
+
+[[scene]]
+lines = "142-154"
+title = "The Theology of Fasting"
+location = "mezza strada"
+region = "l'alber"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "le Romane antiche", status = "mentioned" },
+  { who = "Danïello", status = "mentioned" },
+  { who = "il Batista", status = "mentioned" },
+]
+basis = "142-154"

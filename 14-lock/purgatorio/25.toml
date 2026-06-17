@@ -1,0 +1,304 @@
+canticle = "purgatorio"
+canto = 25
+
+[[scene]]
+lines = "1-9"
+title = "The Ascent of the Path"
+location = ""
+region = "strada sola"
+cast = [
+  { who = "storpio", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio, Statius", predicate = "follows", obj = "Dante, Virgilio, Statius", lines = "8-8" },
+]
+simile = [
+  { lines = "4-7", vehicle = "l'uom" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "Dante's Hesitation"
+location = ""
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "colui ch'a dicer s'argomenta", status = "mentioned" },
+]
+simile = [
+  { lines = "10-13", vehicle = "il cicognin" },
+  { lines = "13-15", vehicle = "colui ch'a dicer s'argomenta" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-18"
+title = "Virgil's Encouragement"
+location = ""
+region = "scala"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "17-18" },
+]
+basis = "16-18"
+
+[[scene]]
+lines = "19-21"
+title = "The Central Question"
+location = ""
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "anime", lines = "20-21" },
+]
+basis = "19-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Introduction of Statius"
+location = ""
+region = "scala"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Meleagro", status = "mentioned" },
+  { who = "Stazio", status = "present" },
+]
+speech = [
+  { quote_id = "25:22", lines = "22-24", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+  { quote_id = "25:24", lines = "24-30", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "22-24" },
+  { subj = "Virgilio", predicate = "calls", obj = "Stazio", lines = "29-29" },
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Stazio", lines = "29-29" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-33"
+title = "Statius's Consent"
+location = ""
+region = "scala"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "25:32", lines = "32-33", speaker = "Stazio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Stazio", predicate = "addresses", obj = "Dante", lines = "32-32" },
+]
+basis = "31-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Power of Blood"
+location = ""
+region = "scala"
+cast = [
+  { who = "Stazio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Stazio", predicate = "speaks-to", obj = "Dante", lines = "34-34" },
+  { subj = "Stazio", predicate = "addresses", obj = "Dante", lines = "35-35" },
+  { subj = "Stazio", predicate = "answers", obj = "Dante", lines = "36-36" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-51"
+title = "Digestion and Coagulation"
+location = ""
+region = "scala"
+cohort = ["l'uno e l'altro"]
+cast = [
+  { who = "l'uno e l'altro", status = "present" },
+]
+basis = "43-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Evolution of Life"
+location = ""
+region = "scala"
+cast = [
+  { who = "l'anima", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "generante", status = "mentioned" },
+  { who = "un fante", status = "mentioned" },
+  { who = "Aristotele", status = "mentioned" },
+]
+refer = [
+  { phrase = "Anima", line = 64, resolves = "l'anima" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Development of the Spirit"
+location = ""
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lo motor primo", status = "mentioned" },
+  { who = "spirito novo", status = "mentioned" },
+  { who = "un'alma sola", status = "mentioned" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Thread of Fate"
+location = ""
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "omor", status = "mentioned" },
+  { who = "Làchesis", status = "mentioned" },
+  { who = "l'anima", status = "mentioned" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Expansion of Virtue"
+location = ""
+region = "scala"
+cast = [
+  { who = "l'anima", status = "mentioned" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-102"
+title = "The Metaphor of Light and Shadow"
+location = ""
+region = "scala"
+cast = [
+  { who = "Spirto", status = "mentioned" },
+  { who = "l'ombra", status = "mentioned" },
+]
+refer = [
+  { phrase = "lo spirto", line = 94, resolves = "Spirto" },
+  { phrase = "lo spirto", line = 97, resolves = "Spirto" },
+  { phrase = "ombra", line = 100, resolves = "l'ombra" },
+]
+simile = [
+  { lines = "91-94", vehicle = "l'aere vicin" },
+]
+basis = "91-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Cause of the Souls' Cries"
+location = ""
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'ombra", status = "mentioned" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-117"
+title = "Navigating the Abyss"
+location = "ultima tortura"
+region = "scala"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante, Virgilio, Statius", lines = "110-110" },
+]
+basis = "109-117"
+
+[[scene]]
+lines = "118-120"
+title = "Virgil's Warning"
+location = "loco"
+region = "scala"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "warns", obj = "Dante, Stazio", lines = "118-120" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Hymn of Mercy"
+location = "loco"
+region = "scala"
+cohort = ["spirti"]
+cast = [
+  { who = "Deus", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "spirti", status = "present" },
+]
+relations = [
+  { subj = "spirti", predicate = "praises", obj = "Deus", lines = "121-122" },
+  { subj = "Dante", predicate = "hears", obj = "spirti", lines = "122-122" },
+  { subj = "Dante", predicate = "sees", obj = "spirti", lines = "124-124" },
+  { subj = "Dante", predicate = "sees", obj = "spirti", lines = "125-125" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Choral Interruptions"
+location = "loco"
+region = "scala"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "Virum", status = "mentioned" },
+  { who = "Venere", status = "mentioned" },
+]
+speech = [
+  { quote_id = "25:128", lines = "128-128", speaker = "anime", addressee = "(none)", source = "none" },
+]
+refer = [
+  { phrase = "le anime", line = 128, resolves = "anime" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-135"
+title = "Cries of the Chastity"
+location = "loco"
+region = "scala"
+cohort = ["le donne", "mariti"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "le donne", status = "present" },
+  { who = "mariti", status = "present" },
+]
+basis = "133-135"
+
+[[scene]]
+lines = "136-139"
+title = "The Purpose of the Ritual"
+location = "loco"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lussuriosi", status = "mentioned" },
+]
+basis = "136-139"

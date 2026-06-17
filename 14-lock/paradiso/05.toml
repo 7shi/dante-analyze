@@ -1,0 +1,310 @@
+canticle = "paradiso"
+canto = 5
+
+[[scene]]
+lines = "1-6"
+title = "The Source of Beatrice's Radiance"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "5:1", lines = "1-15", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "4-4" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The Question of Vows"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "l'etterna luce", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "l'etterna luce", lines = "7-8" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "7-12" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-18"
+title = "Beatrice Begins Her Discourse"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+refer = [
+  { phrase = "uom", line = 17, resolves = "l'uom" },
+]
+simile = [
+  { lines = "17-17", vehicle = "l'uom" },
+]
+basis = "16-18"
+
+[[scene]]
+lines = "19-33"
+title = "The Gift of Free Will"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "le creature intelligenti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "vittima", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "19-33" },
+]
+basis = "19-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Difficulty of Truth"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "34-39" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-54"
+title = "The Nature of Sacrifice"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "li Ebrei", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "40-41" },
+  { subj = "Beatrice", predicate = "shows", obj = "Dante", lines = "40-40" },
+]
+basis = "40-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Necessity of Authority"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-72"
+title = "Historical Warnings of Broken Vows"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "li mortali", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Ieptè", status = "mentioned" },
+  { who = "Agamennone", status = "mentioned" },
+  { who = "Efigènia", status = "mentioned" },
+  { who = "i folli", status = "mentioned" },
+  { who = "i savi", status = "mentioned" },
+  { who = "fatto cólto", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:67", lines = "67-67", speaker = "Ieptè", addressee = "Dante", source = "code" },
+]
+simile = [
+  { lines = "65-66", vehicle = "Ieptè" },
+  { lines = "68-69", vehicle = "Agamennone" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-84"
+title = "Exhortation to Christians"
+location = ""
+region = "etterne rote"
+cohort = ["Cristiani"]
+cast = [
+  { who = "Cristiani", status = "present" },
+  { who = "'l pastor de la Chiesa", status = "mentioned" },
+  { who = "'l Giudeo", status = "mentioned" },
+  { who = "Agnel", status = "mentioned" },
+]
+refer = [
+  { phrase = "agnel", line = 82, resolves = "Agnel" },
+]
+simile = [
+  { lines = "82-84", vehicle = "Agnel" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-93"
+title = "Movement to the Second Heaven"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "85-85" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-99"
+title = "Beatrice's Increasing Brilliance"
+location = "quel ciel"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Mercurio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "94-94" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Arrival of the Spirits"
+location = "quel ciel"
+region = "etterne rote"
+cohort = ["l'ombra"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "l'ombra", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "splendori", lines = "103-103" },
+  { subj = "splendori", predicate = "meets", obj = "Dante, Beatrice", lines = "103-104" },
+  { subj = "Dante", predicate = "hears", obj = "splendori", lines = "104-104" },
+  { subj = "l'ombra", predicate = "meets", obj = "Dante, Beatrice", lines = "106-106" },
+  { subj = "Dante", predicate = "sees", obj = "l'ombra", lines = "107-107" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-114"
+title = "Dante's Desire for Knowledge"
+location = "quel ciel"
+region = "etterne rote"
+cast = [
+  { who = "lettor", status = "present" },
+  { who = "anime", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "le anime", line = 114, resolves = "anime" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "109-112" },
+  { subj = "Dante", predicate = "sees", obj = "anime", lines = "114-114" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Greeting of the Spirit"
+location = "quel ciel"
+region = "etterne rote"
+cohort = ["luci"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "luci", status = "present" },
+]
+speech = [
+  { quote_id = "5:115", lines = "115-120", speaker = "luce", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "luce", predicate = "addresses", obj = "Dante", lines = "115-115" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-123"
+title = "Beatrice's Command"
+location = "quel ciel"
+region = "etterne rote"
+cast = [
+  { who = "quelli spirti pii", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "dii", status = "mentioned" },
+]
+relations = [
+  { subj = "quelli spirti pii", predicate = "tells", obj = "Dante", lines = "121-122" },
+  { subj = "Beatrice", predicate = "commands", obj = "quelli spirti pii", lines = "122-122" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "123-123" },
+]
+simile = [
+  { lines = "123-123", vehicle = "dii" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-129"
+title = "Dante's Inquiry"
+location = "quel ciel"
+region = "etterne rote"
+cohort = ["anima degna"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anima degna", status = "present" },
+  { who = "mortai", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:124", lines = "124-129", speaker = "Dante", addressee = "anima degna", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "anima degna", lines = "124-129" },
+  { subj = "Dante", predicate = "addresses", obj = "anima degna", lines = "128-128" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-132"
+title = "Beatrice's Radiant Reaction"
+location = "quel ciel"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "la lumera", lines = "130-130" },
+  { subj = "la lumera", predicate = "speaks-to", obj = "Dante", lines = "131-131" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-139"
+title = "The Elusive Response"
+location = "quel ciel"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "la lumera", predicate = "relates-to", obj = "Dante", lines = "136-136" },
+  { subj = "la lumera", predicate = "answers", obj = "Dante", lines = "138-138" },
+]
+basis = "133-139"

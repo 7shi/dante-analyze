@@ -1,0 +1,278 @@
+canticle = "paradiso"
+canto = 3
+
+[[scene]]
+lines = "1-9"
+title = "The Vision's Impact"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Quel sol", predicate = "relates-to", obj = "Dante", lines = "1-1" },
+  { subj = "Quel sol", predicate = "shows", obj = "Dante", lines = "2-2" },
+  { subj = "Dante", predicate = "sees", obj = "Quel sol", lines = "3-3" },
+  { subj = "visïone", predicate = "touches", obj = "Dante", lines = "8-8" },
+  { subj = "Dante", predicate = "sees", obj = "visïone", lines = "8-8" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-16"
+title = "The Visual Metaphor"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "più facce", lines = "16-16" },
+]
+simile = [
+  { lines = "13-15", vehicle = "i nostri visi" },
+  { lines = "14-15", vehicle = "bianca fronte" },
+]
+basis = "10-16"
+
+[[scene]]
+lines = "17-24"
+title = "Encounter with the Guide"
+location = ""
+region = "etterne rote"
+cohort = ["le anime beate"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "le anime beate", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dio", predicate = "relates-to", obj = "l'omo", lines = "18-18" },
+  { subj = "Dante", predicate = "sees", obj = "le anime beate", lines = "19-19" },
+  { subj = "Dante", predicate = "sees", obj = "le anime beate", lines = "20-20" },
+  { subj = "Dante", predicate = "recognizes", obj = "le anime beate", lines = "21-21" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "22-23" },
+]
+basis = "17-24"
+
+[[scene]]
+lines = "25-33"
+title = "Beatrice's Reassurance"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "3:25", lines = "25-25", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "26-26" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-41"
+title = "Dante's Greeting"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "3:37", lines = "37-41", speaker = "Dante", addressee = "Piccarda Donati", source = "code" },
+]
+refer = [
+  { phrase = "uom", line = 36, resolves = "l'uom" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Piccarda Donati", lines = "34-35" },
+  { subj = "Dante", predicate = "addresses", obj = "Piccarda Donati", lines = "37-37" },
+  { subj = "Dante", predicate = "praises", obj = "Piccarda Donati", lines = "37-39" },
+  { subj = "Dante", predicate = "asks", obj = "Piccarda Donati", lines = "40-41" },
+]
+simile = [
+  { lines = "36-36", vehicle = "l'uom" },
+]
+basis = "34-41"
+
+[[scene]]
+lines = "42-49"
+title = "Piccarda's Identity"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Piccarda Donati", status = "present" },
+  { who = "tutta sua corte", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "3:43", lines = "43-57", speaker = "Piccarda Donati", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Piccarda Donati", predicate = "answers", obj = "Dante", lines = "42-42" },
+]
+basis = "42-49"
+
+[[scene]]
+lines = "50-57"
+title = "Piccarda's Status"
+location = "spera più tarda"
+region = "etterne rote"
+cohort = ["questi altri beati"]
+cast = [
+  { who = "questi altri beati", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+]
+basis = "50-57"
+
+[[scene]]
+lines = "58-66"
+title = "Dante's Inquiry"
+location = "spera più tarda"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+]
+speech = [
+  { quote_id = "3:58", lines = "58-66", speaker = "Dante", addressee = "Piccarda Donati", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Piccarda Donati", lines = "58-58" },
+  { subj = "Dante", predicate = "sees", obj = "Piccarda Donati", lines = "59-60" },
+  { subj = "Dante", predicate = "recognizes", obj = "Piccarda Donati", lines = "61-61" },
+  { subj = "Piccarda Donati", predicate = "tells", obj = "Dante", lines = "62-62" },
+  { subj = "Dante", predicate = "asks", obj = "Piccarda Donati", lines = "64-66" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-78"
+title = "The Constraint of Charity"
+location = "spera più tarda"
+region = "etterne rote"
+cohort = ["quelle altr' ombre"]
+cast = [
+  { who = "quelle altr' ombre", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Piccarda Donati", predicate = "relates-to", obj = "quelle altr' ombre", lines = "67-67" },
+  { subj = "Piccarda Donati", predicate = "answers", obj = "Dante", lines = "68-68" },
+  { subj = "Piccarda Donati", predicate = "addresses", obj = "Dante", lines = "70-70" },
+  { subj = "Piccarda Donati", predicate = "tells", obj = "Dante", lines = "76-78" },
+]
+basis = "67-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Harmony of Wills"
+location = "questo regno"
+region = "etterne rote"
+cohort = ["beato"]
+cast = [
+  { who = "beato", status = "present" },
+  { who = "re", status = "mentioned" },
+]
+refer = [
+  { phrase = "lo re", line = 79, resolves = "re" },
+  { phrase = "lo re", line = 81, resolves = "re" },
+  { phrase = "lo re", line = 83, resolves = "re" },
+  { phrase = "lo re", line = 86, resolves = "re" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-96"
+title = "Dante's Epiphany"
+location = "questo regno"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Piccarda Donati", lines = "94-95" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-108"
+title = "The Tale of the Nun"
+location = "questo regno"
+region = "etterne rote"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "uomini", status = "mentioned" },
+  { who = "Iddio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "3:98", lines = "98-120", speaker = "Piccarda Donati", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "Uomini", line = 107, resolves = "uomini" },
+]
+relations = [
+  { subj = "Piccarda Donati", predicate = "speaks-to", obj = "Dante", lines = "98-98" },
+]
+basis = "97-108"
+
+[[scene]]
+lines = "109-120"
+title = "The Tale of the Sister"
+location = "spera nostra"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Constanza", status = "present" },
+  { who = "Piccarda Donati", status = "present" },
+]
+relations = [
+  { subj = "Constanza", predicate = "shows", obj = "Dante", lines = "109-109" },
+  { subj = "Piccarda Donati", predicate = "tells", obj = "Dante", lines = "112-112" },
+  { subj = "Piccarda Donati", predicate = "names", obj = "Constanza", lines = "118-118" },
+]
+basis = "109-120"
+
+[[scene]]
+lines = "121-123"
+title = "The Fading Vision"
+location = "spera nostra"
+region = "etterne rote"
+cast = [
+  { who = "Piccarda Donati", status = "present" },
+  { who = "Maria", status = "mentioned" },
+]
+relations = [
+  { subj = "Piccarda Donati", predicate = "calls", obj = "Maria", lines = "121-122" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-130"
+title = "The Blinding Glory"
+location = "spera nostra"
+region = "etterne rote"
+cast = [
+  { who = "Piccarda Donati", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Piccarda Donati", lines = "124-124" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "126-127" },
+  { subj = "Beatrice", predicate = "strikes", obj = "Dante", lines = "128-128" },
+]
+basis = "124-130"

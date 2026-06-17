@@ -1,0 +1,293 @@
+canticle = "purgatorio"
+canto = 6
+
+[[scene]]
+lines = "1-9"
+title = "The Dice Simile"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "colui che perde", status = "mentioned" },
+  { who = "il vincitore", status = "mentioned" },
+  { who = "tutta la gente", status = "mentioned" },
+]
+simile = [
+  { lines = "4-4", vehicle = "il vincitore" },
+  { lines = "9-9", vehicle = "tutta la gente" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-24"
+title = "The Catalog of the Crowd"
+location = ""
+region = "a l'ombra dietro al sasso"
+cohort = ["turba spessa"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "turba spessa", status = "present" },
+  { who = "Aretin", status = "present" },
+  { who = "Ghin di Tacco", status = "mentioned" },
+  { who = "ch'annegò correndo in caccia", status = "present" },
+  { who = "Federigo Novello", status = "present" },
+  { who = "da Pisa", status = "present" },
+  { who = "lo buon Marzucco", status = "mentioned" },
+  { who = "conte Orso", status = "present" },
+  { who = "Pier da la Broccia", status = "present" },
+  { who = "la donna di Brabante", status = "present" },
+]
+refer = [
+  { phrase = "l'Aretin", line = 13, resolves = "Aretin" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "turba spessa", lines = "11-11" },
+  { subj = "Dante", predicate = "sees", obj = "conte Orso", lines = "19-19" },
+  { subj = "conte Orso", predicate = "tells", obj = "Dante", lines = "21-21" },
+  { subj = "Dante", predicate = "names", obj = "Pier da la Broccia", lines = "22-22" },
+  { subj = "Dante", predicate = "sees", obj = "la donna di Brabante", lines = "22-23" },
+]
+basis = "10-24"
+
+[[scene]]
+lines = "25-33"
+title = "Dante's Inquiry"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quell' ombre", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "6:28", lines = "28-33", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "28-33" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "29-29" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-48"
+title = "Virgil's Theological Answer"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "anime dell'Ante-Purgatorio", status = "mentioned" },
+  { who = "osservatore", status = "mentioned" },
+  { who = "anima in Purgatorio", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "6:34", lines = "34-48", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "34-34" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "44-44" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Beatrice", lines = "46-46" },
+]
+basis = "34-48"
+
+[[scene]]
+lines = "49-51"
+title = "Dante's Urgency"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "6:49", lines = "49-51", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "49-49" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "49-51" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-60"
+title = "The Approaching Shadow"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Sordello", status = "mentioned" },
+]
+refer = [
+  { phrase = "il sole", line = 55, resolves = "il Sole" },
+]
+basis = "52-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Silent Lombard"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "Sordello", lines = "61-61" },
+  { subj = "Dante, Virgilio", predicate = "addresses", obj = "Sordello", lines = "61-61" },
+  { subj = "Sordello", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "64-64" },
+  { subj = "Sordello", predicate = "sees", obj = "Dante, Virgilio", lines = "65-65" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Reunion of Virgil and Sordello"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "6:74", lines = "74-75", speaker = "Sordello", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "meets", obj = "Sordello", lines = "67-67" },
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Sordello", lines = "67-68" },
+  { subj = "Sordello", predicate = "answers", obj = "Virgilio", lines = "69-69" },
+  { subj = "Sordello", predicate = "asks", obj = "Dante, Virgilio", lines = "70-71" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Sordello", lines = "71-72" },
+  { subj = "Sordello", predicate = "meets", obj = "Virgilio", lines = "73-73" },
+  { subj = "Sordello", predicate = "addresses", obj = "Virgilio", lines = "74-74" },
+  { subj = "Sordello", predicate = "tells", obj = "Virgilio", lines = "74-74" },
+  { subj = "Virgilio", predicate = "touches", obj = "Sordello", lines = "75-75" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Lament for Italy"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "nocchiere", status = "mentioned" },
+  { who = "Sordello", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "li vivi tuoi", status = "mentioned" },
+  { who = "quei ch'un muro e una fossa serra", status = "mentioned" },
+]
+relations = [
+  { subj = "Sordello", predicate = "praises", obj = "Virgilio", lines = "79-81" },
+  { subj = "li vivi tuoi", predicate = "defeats", obj = "li vivi tuoi", lines = "83-83" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Failure of Law"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Iustinïano", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "Cesare", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-105"
+title = "The Condemnation of Albert"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Alberto", status = "present" },
+  { who = "'l tuo successor", status = "mentioned" },
+  { who = "Rodolfo", status = "mentioned" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-117"
+title = "The Chaos of Cities"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Alberto I d'Asburgo", status = "mentioned" },
+  { who = "Montecchi", status = "mentioned" },
+  { who = "Cappelletti", status = "mentioned" },
+  { who = "Monaldi", status = "mentioned" },
+  { who = "Filippeschi", status = "mentioned" },
+  { who = "i tuoi gentili", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+]
+speech = [
+  { quote_id = "6:114", lines = "114-114", speaker = "la tua Roma", addressee = "(none)", source = "none" },
+]
+refer = [
+  { phrase = "la gente", line = 115, resolves = "gente" },
+  { phrase = "la gente", line = 116, resolves = "gente" },
+]
+relations = [
+  { subj = "la tua Roma", predicate = "calls", obj = "Alberto I d'Asburgo", lines = "113-113" },
+]
+basis = "106-117"
+
+[[scene]]
+lines = "118-126"
+title = "An Appeal to Divine Justice"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "tiranni", status = "mentioned" },
+  { who = "Marcel", status = "mentioned" },
+  { who = "ogne villan", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "calls", obj = "Cristo", lines = "118-118" },
+  { subj = "Dante", predicate = "asks", obj = "Cristo", lines = "118-120" },
+  { subj = "Dante", predicate = "asks", obj = "Cristo", lines = "121-123" },
+]
+basis = "118-126"
+
+[[scene]]
+lines = "127-138"
+title = "The Unrest of Florence"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "popol tuo", status = "mentioned" },
+  { who = "Molti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "6:135", lines = "135-135", speaker = "popol tuo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Fiorenza", lines = "127-127" },
+  { subj = "Dante", predicate = "addresses", obj = "Fiorenza", lines = "128-128" },
+  { subj = "Dante", predicate = "rebukes", obj = "popol tuo", lines = "129-135" },
+  { subj = "Dante", predicate = "addresses", obj = "Fiorenza", lines = "136-136" },
+  { subj = "Dante", predicate = "addresses", obj = "Fiorenza", lines = "137-137" },
+  { subj = "Dante", predicate = "rebukes", obj = "Fiorenza", lines = "127-138" },
+]
+basis = "127-138"
+
+[[scene]]
+lines = "139-151"
+title = "The Instability of Custom"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "quell'inferma", status = "mentioned" },
+]
+simile = [
+  { lines = "149-149", vehicle = "quell'inferma" },
+]
+basis = "139-151"

@@ -1,0 +1,350 @@
+canticle = "purgatorio"
+canto = 4
+
+[[scene]]
+lines = "1-12"
+title = "Philosophical Prologue"
+location = ""
+region = "piè del monte"
+cast = [
+  { who = "l'anima", status = "mentioned" },
+  { who = "un'anima", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Voice in the Dark"
+location = ""
+region = "piè del monte"
+cohort = ["quell' anime"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Belacqua", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quell' anime", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Belacqua", lines = "14-14" },
+  { subj = "quell' anime", predicate = "calls", obj = "Dante, Virgilio", lines = "18-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "The Simile of the Vineyard"
+location = "la calla"
+region = "piè del monte"
+cast = [
+  { who = "l'uom de la villa", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "schiera", status = "mentioned" },
+]
+refer = [
+  { phrase = "la schiera", line = 24, resolves = "schiera" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "23-23" },
+  { subj = "schiera", predicate = "relates-to", obj = "Dante, Virgilio", lines = "24-24" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-30"
+title = "The Flight of Desire"
+location = "la calla"
+region = "piè del monte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "29-29" },
+  { subj = "Virgilio", predicate = "gives", obj = "Dante", lines = "30-30" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-35"
+title = "The Difficult Climb"
+location = "sasso rotto"
+region = "piè del monte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "31-35"
+
+[[scene]]
+lines = "36-39"
+title = "Virgil's Command"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "alcuna scorta saggia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:37", lines = "37-39", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "36-36" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "36-36" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "37-37" },
+]
+basis = "36-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Exhausted Climber"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "4:44", lines = "44-45", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "44-44" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "44-44" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "46-46" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "46-46" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-54"
+title = "The Rest on the Summit"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "49-49" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "50-50" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-60"
+title = "Observing the Sun"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "il sole", line = 56, resolves = "il Sole" },
+  { phrase = "il sole", line = 57, resolves = "il Sole" },
+  { phrase = "il sole", line = 60, resolves = "il Sole" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "il Sole", lines = "56-56" },
+  { subj = "il Sole", predicate = "strikes", obj = "Dante, Virgilio", lines = "57-57" },
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "58-58" },
+  { subj = "il Sole", predicate = "relates-to", obj = "Dante, Virgilio", lines = "60-60" },
+  { subj = "il Sole", predicate = "relates-to", obj = "Aquilone", lines = "60-60" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-75"
+title = "The Astronomical Lecture"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Castore", status = "mentioned" },
+  { who = "Poluce", status = "mentioned" },
+  { who = "Fetòn", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "61-61" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "64-64" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "67-67" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "68-68" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "73-73" },
+]
+basis = "61-75"
+
+[[scene]]
+lines = "76-84"
+title = "Dante's Astronomical Observation"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li Ebrei", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:76B", lines = "76-87", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "76-76" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-87"
+title = "A Request for Guidance"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "85-86" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Nature of the Mountain"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "om", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:88", lines = "88-96", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "88-88" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-102"
+title = "A Voice from the Shadows"
+location = "sasso rotto"
+region = "l'orlo suppremo de l'alta ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Belacqua", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Belacqua", predicate = "addresses", obj = "Dante", lines = "98-99" },
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "Belacqua", lines = "100-100" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Slumbering Figure"
+location = "a l'ombra dietro al sasso"
+region = "a l'ombra dietro al sasso"
+cohort = ["persone"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "persone", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Belacqua", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Belacqua", lines = "106-106" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Recognition of Belacqua"
+location = "a l'ombra dietro al sasso"
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Belacqua", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "109-109" },
+  { subj = "Belacqua", predicate = "sees", obj = "Dante, Virgilio", lines = "112-112" },
+  { subj = "Belacqua", predicate = "speaks-to", obj = "Dante", lines = "114-114" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-122"
+title = "The Encounter with Belacqua"
+location = "a l'ombra dietro al sasso"
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Belacqua", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "Belacqua", lines = "115-115" },
+  { subj = "Dante", predicate = "meets", obj = "Belacqua", lines = "117-117" },
+  { subj = "Dante", predicate = "meets", obj = "Belacqua", lines = "118-118" },
+  { subj = "Belacqua", predicate = "asks", obj = "Dante", lines = "119-120" },
+]
+basis = "115-122"
+
+[[scene]]
+lines = "123-126"
+title = "Questioning the Sloth"
+location = "a l'ombra dietro al sasso"
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Belacqua", status = "present" },
+]
+speech = [
+  { quote_id = "4:123", lines = "123-126", speaker = "Dante", addressee = "Belacqua", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Belacqua", lines = "123-123" },
+  { subj = "Dante", predicate = "tells", obj = "Belacqua", lines = "123-124" },
+  { subj = "Dante", predicate = "commands", obj = "Belacqua", lines = "124-124" },
+  { subj = "Dante", predicate = "asks", obj = "Belacqua", lines = "124-124" },
+  { subj = "Dante", predicate = "asks", obj = "Belacqua", lines = "125-125" },
+  { subj = "Dante", predicate = "asks", obj = "Belacqua", lines = "126-126" },
+]
+basis = "123-126"
+
+[[scene]]
+lines = "127-135"
+title = "Belacqua's Excuse"
+location = "a l'ombra dietro al sasso"
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Belacqua", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'angel di Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:127", lines = "127-135", speaker = "Belacqua", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Belacqua", predicate = "asks", obj = "Dante", lines = "127-127" },
+]
+basis = "127-135"
+
+[[scene]]
+lines = "136-139"
+title = "Resuming the Journey"
+location = "a l'ombra dietro al sasso"
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Morrocco", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "137-137" },
+]
+basis = "136-139"

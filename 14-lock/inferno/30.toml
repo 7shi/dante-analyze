@@ -1,0 +1,506 @@
+canticle = "inferno"
+canto = 30
+
+[[scene]]
+lines = "1-12"
+title = "The Madness of Atamante"
+location = ""
+region = "ultima riva del lungo scoglio"
+cohort = ["la moglie", "due figli"]
+cast = [
+  { who = "Iunone", status = "mentioned" },
+  { who = "Semelè", status = "mentioned" },
+  { who = "'l sangue tebano", status = "mentioned" },
+  { who = "Atamante", status = "present" },
+  { who = "la moglie", status = "present" },
+  { who = "due figli", status = "present" },
+  { who = "Learco", status = "present" },
+]
+speech = [
+  { quote_id = "30:7", lines = "7-8", speaker = "Atamante", addressee = "la moglie", source = "llm" },
+]
+relations = [
+  { subj = "Iunone", predicate = "opposes", obj = "'l sangue tebano", lines = "1-2" },
+  { subj = "Atamante", predicate = "sees", obj = "la moglie", lines = "5-5" },
+  { subj = "Atamante", predicate = "sees", obj = "due figli", lines = "5-5" },
+  { subj = "la moglie", predicate = "brings", obj = "due figli", lines = "5-6" },
+  { subj = "Atamante", predicate = "touches", obj = "Learco", lines = "10-10" },
+  { subj = "Atamante", predicate = "strikes", obj = "Learco", lines = "11-11" },
+  { subj = "la moglie", predicate = "brings", obj = "l'altro carco", lines = "12-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Grief of Hecuba"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Priamo", status = "mentioned" },
+  { who = "Ecuba", status = "mentioned" },
+  { who = "Polissena", status = "mentioned" },
+  { who = "Polidoro", status = "mentioned" },
+]
+refer = [
+  { phrase = "la fortuna", line = 13, resolves = "Fortuna" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Two Biting Shadows"
+location = ""
+region = "ultima riva del lungo scoglio"
+cohort = ["due ombre smorte e nude"]
+cast = [
+  { who = "furie", status = "mentioned" },
+  { who = "troiane", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "due ombre smorte e nude", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "due ombre smorte e nude", lines = "25-25" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-33"
+title = "Identification of Gianni Schicchi"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Gianni Schicchi", status = "present" },
+  { who = "Capocchio", status = "present" },
+  { who = "Aretin", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Gianni Schicchi", predicate = "strikes", obj = "Capocchio", lines = "29-29" },
+  { subj = "Gianni Schicchi", predicate = "strikes", obj = "Capocchio", lines = "30-30" },
+  { subj = "Aretin", predicate = "tells", obj = "Dante", lines = "31-32" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-36"
+title = "Dante's Urgency"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'alchimista di Arezzo", status = "present" },
+  { who = "L'altro", status = "mentioned" },
+]
+refer = [
+  { phrase = "l'altro", line = 34, resolves = "L'altro" },
+  { phrase = "l'altro", line = 35, resolves = "L'altro" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "l'alchimista di Arezzo", lines = "34-34" },
+  { subj = "Dante", predicate = "commands", obj = "l'alchimista di Arezzo", lines = "35-36" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-39"
+title = "The Soul of Mirra"
+location = ""
+region = "ultima riva del lungo scoglio"
+cohort = ["alchimista"]
+cast = [
+  { who = "alchimista", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Mirra", status = "present" },
+  { who = "il Padre", status = "mentioned" },
+]
+refer = [
+  { phrase = "padre", line = 38, resolves = "il Padre" },
+]
+relations = [
+  { subj = "alchimista", predicate = "answers", obj = "Dante", lines = "37-37" },
+]
+basis = "37-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Soul of Buoso Donati"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Mirra", status = "mentioned" },
+  { who = "Cinyras", status = "mentioned" },
+  { who = "Gianni Schicchi", status = "present" },
+  { who = "la donna", status = "mentioned" },
+  { who = "Buoso Donati", status = "mentioned" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-48"
+title = "A Shift in Vision"
+location = ""
+region = "ultima riva del lungo scoglio"
+cohort = ["li altri mal nati"]
+cast = [
+  { who = "Gianni Schicchi", status = "present" },
+  { who = "Mirra", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li altri mal nati", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Gianni Schicchi, Mirra", lines = "46-47" },
+  { subj = "Dante", predicate = "sees", obj = "li altri mal nati", lines = "48-48" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-57"
+title = "The Man with Dropsy"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'etico", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un, fatto a guisa di lëuto", lines = "49-49" },
+]
+simile = [
+  { lines = "56-57", vehicle = "l'etico" },
+]
+basis = "49-57"
+
+[[scene]]
+lines = "58-63"
+title = "The Thirst of Master Adam"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
+]
+speech = [
+  { quote_id = "30:58", lines = "58-59", speaker = "Maestro Adamo", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "maestro Adamo", line = 60, resolves = "Maestro Adamo" },
+  { phrase = "maestro Adamo", line = 58, resolves = "Maestro Adamo" },
+]
+relations = [
+  { subj = "Maestro Adamo", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "60-60" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Vision of the Arno"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Mastro Adamo", status = "present" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "Confession of Forgery"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Maestro Adamo", status = "present" },
+  { who = "il Batista", status = "mentioned" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-78"
+title = "Fear of the Great Fraudsters"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Maestro Adam", status = "present" },
+  { who = "Guido", status = "mentioned" },
+  { who = "Alessandro", status = "mentioned" },
+  { who = "lor frate", status = "mentioned" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Imprisoned Soul"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "l'anima", status = "mentioned" },
+  { who = "Gianni Schicchi", status = "present" },
+  { who = "Mirra", status = "mentioned" },
+  { who = "Maestro Adamo", status = "present" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-87"
+title = "The Difficulty of Movement"
+location = ""
+region = "ultima riva del lungo scoglio"
+cohort = ["questa gente sconcia"]
+cast = [
+  { who = "Maestro Adamo", status = "present" },
+  { who = "Guido, Alessandro, their brother", status = "present" },
+  { who = "questa gente sconcia", status = "present" },
+]
+basis = "82-87"
+
+[[scene]]
+lines = "88-90"
+title = "The Motive for Counterfeiting"
+location = ""
+region = "ultima riva del lungo scoglio"
+cohort = ["sì fatta famiglia"]
+cast = [
+  { who = "Maestro Adamo", status = "present" },
+  { who = "Guido, Alessandro, il fratello", status = "mentioned" },
+  { who = "sì fatta famiglia", status = "present" },
+]
+basis = "88-90"
+
+[[scene]]
+lines = "91-93"
+title = "Inquiry of the Neighbors"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Mastro Adamo", status = "present" },
+  { who = "li due tapini", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Mastro Adamo", lines = "91-93" },
+  { subj = "Dante", predicate = "sees", obj = "li due tapini", lines = "91-93" },
+  { subj = "li due tapini", predicate = "relates-to", obj = "Mastro Adamo", lines = "93-93" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Accuser and the Deceiver"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Maestro Adam", status = "present" },
+  { who = "la falsa", status = "mentioned" },
+  { who = "Sinon", status = "mentioned" },
+  { who = "Gioseppo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:94", lines = "94-94", speaker = "Maestro Adam", addressee = "(none)", source = "none" },
+  { quote_id = "30:95", lines = "95-99", speaker = "Maestro Adam", addressee = "(none)", source = "none" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-103"
+title = "The Physical Strike"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cohort = ["l'un di lor"]
+cast = [
+  { who = "l'un di lor", status = "present" },
+  { who = "la moglie di Potifare, Sinone", status = "mentioned" },
+  { who = "Mastro Adamo", status = "present" },
+]
+relations = [
+  { subj = "l'un di lor", predicate = "strikes", obj = "Mastro Adamo", lines = "102-102" },
+]
+basis = "100-103"
+
+[[scene]]
+lines = "104-108"
+title = "Adam's Counter-strike"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Mastro Adamo", status = "present" },
+  { who = "Sinon", status = "present" },
+]
+speech = [
+  { quote_id = "30:106", lines = "106-108", speaker = "Mastro Adamo", addressee = "Sinon", source = "code" },
+]
+refer = [
+  { phrase = "mastro Adamo", line = 104, resolves = "Mastro Adamo" },
+  { phrase = "mastro Adamo", line = 106, resolves = "Mastro Adamo" },
+]
+relations = [
+  { subj = "Mastro Adamo", predicate = "strikes", obj = "Sinon", lines = "104-104" },
+  { subj = "Mastro Adamo", predicate = "speaks-to", obj = "Sinon", lines = "106-106" },
+]
+basis = "104-108"
+
+[[scene]]
+lines = "109-111"
+title = "The Coinage Insult"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Sinone", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
+]
+relations = [
+  { subj = "Sinone", predicate = "answers", obj = "Maestro Adamo", lines = "109-109" },
+]
+basis = "109-111"
+
+[[scene]]
+lines = "112-114"
+title = "The Witness Accusation"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Mastro Adamo", status = "present" },
+  { who = "Sinone", status = "mentioned" },
+]
+relations = [
+  { subj = "Mastro Adamo", predicate = "commands", obj = "Sinone", lines = "112-112" },
+  { subj = "Mastro Adamo", predicate = "rebukes", obj = "Sinone", lines = "113-114" },
+  { subj = "Mastro Adamo", predicate = "rebukes", obj = "Sinone", lines = "113-113" },
+  { subj = "Mastro Adamo", predicate = "rebukes", obj = "Sinone", lines = "114-114" },
+]
+basis = "112-114"
+
+[[scene]]
+lines = "115-117"
+title = "The Argument of Fault"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Sinon", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
+  { who = "alcun altro demonio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:115", lines = "115-115", speaker = "Sinon", addressee = "Maestro Adamo", source = "code" },
+  { quote_id = "30:116", lines = "116-117", speaker = "Sinon", addressee = "Maestro Adamo", source = "code" },
+]
+relations = [
+  { subj = "Sinon", predicate = "answers", obj = "Maestro Adamo", lines = "116-116" },
+]
+basis = "115-117"
+
+[[scene]]
+lines = "118-120"
+title = "The Reminder of the Horse"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Sinone", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
+]
+relations = [
+  { subj = "Maestro Adamo", predicate = "answers", obj = "Sinone", lines = "119-119" },
+  { subj = "Maestro Adamo", predicate = "rebukes", obj = "Sinone", lines = "118-120" },
+  { subj = "Maestro Adamo", predicate = "names", obj = "Sinone", lines = "118-118" },
+  { subj = "Maestro Adamo", predicate = "names", obj = "Sinone", lines = "120-120" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-123"
+title = "The Greek's Curse"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Maestro Adamo", status = "present" },
+  { who = "Sinone", status = "present" },
+]
+relations = [
+  { subj = "Sinone", predicate = "rebukes", obj = "Maestro Adamo", lines = "121-123" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Narcissus Insult"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Maestro Adamo", status = "present" },
+  { who = "Sinon", status = "mentioned" },
+  { who = "Narcisso", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:124", lines = "124-129", speaker = "Maestro Adamo", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Maestro Adamo", predicate = "answers", obj = "Sinon", lines = "124-129" },
+  { subj = "Maestro Adamo", predicate = "rebukes", obj = "Sinon", lines = "124-125" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-132"
+title = "Virgil's Warning"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Mastro Adamo", status = "present" },
+  { who = "Sinon", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "30:131", lines = "131-132", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Mastro Adamo, Sinon", lines = "130-130" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-135"
+title = "Dante's Shame"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Virgilio", lines = "133-133" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "133-133" },
+  { subj = "Dante", predicate = "relates-to", obj = "Virgilio", lines = "134-134" },
+]
+basis = "133-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Agony of Empathy"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Dante", lines = "139-139" },
+  { subj = "Dante", predicate = "relates-to", obj = "Dante", lines = "140-140" },
+  { subj = "Dante", predicate = "relates-to", obj = "Dante", lines = "141-141" },
+]
+basis = "136-141"
+
+[[scene]]
+lines = "142-148"
+title = "Virgil's Moral Lesson"
+location = "greppo"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le genti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:143", lines = "143-148", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "143-143" },
+]
+basis = "142-148"

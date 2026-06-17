@@ -1,0 +1,294 @@
+canticle = "inferno"
+canto = 5
+
+[[scene]]
+lines = "1-6"
+title = "The Presence of Minos"
+location = "secondo"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Minòs", status = "present" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The Process of Judgment"
+location = "secondo"
+region = "secondo"
+cohort = ["anima mal nata"]
+cast = [
+  { who = "Dante", status = "mentioned" },
+  { who = "anima mal nata", status = "present" },
+  { who = "Minosse", status = "present" },
+  { who = "anime mal nate", status = "present" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-24"
+title = "Minos's Warning"
+location = "doloroso ospizio"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Minòs", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Minòs", predicate = "addresses", obj = "Dante", lines = "16-16" },
+  { subj = "Minòs", predicate = "speaks-to", obj = "Dante", lines = "17-17" },
+  { subj = "Minòs", predicate = "sees", obj = "Dante", lines = "17-17" },
+  { subj = "Minòs", predicate = "warns", obj = "Dante", lines = "19-20" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Minòs", lines = "21-21" },
+  { subj = "Virgilio", predicate = "commands", obj = "Minòs", lines = "22-22" },
+  { subj = "Virgilio", predicate = "commands", obj = "Minòs", lines = "24-24" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-36"
+title = "The Infernal Tempest"
+location = "loco d'ogne luce muto"
+region = "secondo"
+cohort = ["li spirti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "li spirti", status = "present" },
+]
+relations = [
+  { subj = "la bufera infernal", predicate = "chases", obj = "li spirti", lines = "32-32" },
+  { subj = "la bufera infernal", predicate = "strikes", obj = "li spirti", lines = "33-33" },
+  { subj = "la bufera infernal", predicate = "punishes", obj = "li spirti", lines = "33-33" },
+]
+basis = "25-36"
+
+[[scene]]
+lines = "37-45"
+title = "The Nature of the Sin"
+location = "loco d'ogne luce muto"
+region = "secondo"
+cohort = ["i peccator carnali"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i peccator carnali", status = "present" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-51"
+title = "The Drifting Souls"
+location = "loco d'ogne luce muto"
+region = "secondo"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'ombre", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "ombre", line = 48, resolves = "l'ombre" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'ombre", lines = "48-49" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "50-51" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-69"
+title = "The Catalogue of Lovers"
+location = "loco d'ogne luce muto"
+region = "secondo"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Semiramìs", status = "present" },
+  { who = "l'ombre", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Nino", status = "mentioned" },
+  { who = "l Soldan", status = "mentioned" },
+  { who = "Didone", status = "present" },
+  { who = "Sicheo", status = "mentioned" },
+  { who = "Cleopatràs", status = "present" },
+  { who = "Elena", status = "present" },
+  { who = "Achille", status = "present" },
+  { who = "Parìs", status = "present" },
+  { who = "Tristano", status = "present" },
+]
+refer = [
+  { phrase = "ombre", line = 68, resolves = "l'ombre" },
+  { phrase = "ombre", line = 69, resolves = "l'ombre" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "52-53" },
+  { subj = "Dante", predicate = "sees", obj = "Elena", lines = "64-64" },
+  { subj = "Dante", predicate = "sees", obj = "Achille", lines = "65-65" },
+  { subj = "Dante", predicate = "sees", obj = "Parìs", lines = "67-67" },
+  { subj = "Dante", predicate = "sees", obj = "Tristano", lines = "67-67" },
+  { subj = "Virgilio", predicate = "shows", obj = "l'ombre", lines = "68-68" },
+  { subj = "Virgilio", predicate = "shows", obj = "Dante", lines = "68-68" },
+  { subj = "Virgilio", predicate = "names", obj = "l'ombre", lines = "68-68" },
+]
+basis = "52-69"
+
+[[scene]]
+lines = "70-78"
+title = "A Request for Dialogue"
+location = "loco d'ogne luce muto"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "le donne antiche", status = "mentioned" },
+  { who = "cavalieri", status = "mentioned" },
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+]
+speech = [
+  { quote_id = "5:73", lines = "73-75", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Virgilio", lines = "70-70" },
+  { subj = "Virgilio", predicate = "names", obj = "le donne antiche", lines = "70-71" },
+  { subj = "Virgilio", predicate = "names", obj = "cavalieri", lines = "70-71" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "73-73" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "76-76" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "77-77" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Approach of the Souls"
+location = "loco d'ogne luce muto"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Dido", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "calls", obj = "Francesca, Paolo", lines = "80-80" },
+  { subj = "Francesca, Paolo", predicate = "meets", obj = "Dante, Virgilio", lines = "85-86" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Souls' Greeting"
+location = "l'aere perso"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "il re de l'universo", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "5:88", lines = "88-107", speaker = "Francesca", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Francesca, Paolo", predicate = "addresses", obj = "Dante", lines = "88-88" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-107"
+title = "The Tale of Dido"
+location = "l'aere perso"
+region = "secondo"
+cast = [
+  { who = "Francesca", status = "present" },
+  { who = "seguaci", status = "mentioned" },
+  { who = "Paolo", status = "present" },
+  { who = "nullo amato", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Gianciotto", status = "mentioned" },
+]
+refer = [
+  { phrase = "Amor", line = 100, resolves = "amor" },
+  { phrase = "Amor", line = 101, resolves = "amor" },
+  { phrase = "Amor", line = 104, resolves = "amor" },
+  { phrase = "Amor", line = 106, resolves = "amor" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Francesca", lines = "105-105" },
+]
+basis = "97-107"
+
+[[scene]]
+lines = "108-114"
+title = "Dante's Grief"
+location = "l'aere perso"
+region = "secondo"
+cast = [
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Francesca, Paolo", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "108-108" },
+  { subj = "Dante", predicate = "hears", obj = "Francesca, Paolo", lines = "109-109" },
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "111-111" },
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "112-112" },
+]
+basis = "108-114"
+
+[[scene]]
+lines = "115-126"
+title = "An Inquiry to Francesca"
+location = "l'aere perso"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "5:116", lines = "116-120", speaker = "Dante", addressee = "Francesca", source = "llm" },
+  { quote_id = "5:121", lines = "121-138", speaker = "Francesca", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Francesca, Paolo", lines = "115-115" },
+  { subj = "Dante", predicate = "addresses", obj = "Francesca", lines = "116-116" },
+  { subj = "Dante", predicate = "asks", obj = "Francesca", lines = "118-118" },
+  { subj = "Francesca", predicate = "answers", obj = "Dante", lines = "121-121" },
+  { subj = "Francesca", predicate = "tells", obj = "Dante", lines = "126-126" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-138"
+title = "The Lancelot Legend"
+location = "l'aere perso"
+region = "secondo"
+cast = [
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Lancialotto", status = "mentioned" },
+  { who = "Galeotto", status = "mentioned" },
+  { who = "chi lo scrisse", status = "mentioned" },
+]
+basis = "127-138"
+
+[[scene]]
+lines = "139-142"
+title = "Dante's Collapse"
+location = "l'aere perso"
+region = "secondo"
+cast = [
+  { who = "Francesca", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "142-142", vehicle = "Dante" },
+]
+basis = "139-142"

@@ -1,0 +1,435 @@
+canticle = "inferno"
+canto = 21
+
+[[scene]]
+lines = "1-6"
+title = "Arrival at the new, dark ditch"
+location = "ponte"
+region = "l'argine quarto"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "1-2" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-18"
+title = "The Venetian shipyard simile"
+location = "la ripa"
+region = "l'argine quarto"
+cast = [
+  { who = "Viniziani", status = "mentioned" },
+]
+basis = "7-18"
+
+[[scene]]
+lines = "19-21"
+title = "Observing the boiling pitch"
+location = "la ripa"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "19-21"
+
+[[scene]]
+lines = "22-24"
+title = "Virgil pulls Dante away"
+location = "la ripa"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "23-23" },
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "24-24" },
+]
+basis = "22-24"
+
+[[scene]]
+lines = "25-33"
+title = "The appearance of the demon"
+location = "lo scoglio"
+region = "l'argine quarto"
+cohort = ["un diavol nero"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "un diavol nero", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un diavol nero", lines = "29-29" },
+  { subj = "un diavol nero", predicate = "meets", obj = "Dante, Virgilio", lines = "29-30" },
+]
+simile = [
+  { lines = "25-28", vehicle = "l'uom" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-36"
+title = "The demon's physical ferocity"
+location = "lo scoglio"
+region = "l'argine quarto"
+cohort = ["un peccator"]
+cast = [
+  { who = "Malebranche", status = "present" },
+  { who = "un peccator", status = "present" },
+]
+relations = [
+  { subj = "Malebranche", predicate = "touches", obj = "un peccator", lines = "35-35" },
+  { subj = "Malebranche", predicate = "touches", obj = "un peccator", lines = "36-36" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-42"
+title = "The demon's declaration"
+location = "lo scoglio"
+region = "l'argine quarto"
+cohort = ["Malebranche"]
+cast = [
+  { who = "demonio", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Bonturo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:37", lines = "37-42", speaker = "demonio", addressee = "Malebranche", source = "llm" },
+]
+relations = [
+  { subj = "demonio", predicate = "addresses", obj = "Malebranche", lines = "37-37" },
+  { subj = "demonio", predicate = "commands", obj = "Malebranche", lines = "39-39" },
+  { subj = "demonio", predicate = "tells", obj = "Malebranche", lines = "41-42" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-46"
+title = "The demon's departure"
+location = "lo scoglio duro"
+region = "l'argine quarto"
+cohort = ["lo furo"]
+cast = [
+  { who = "lo furo", status = "present" },
+]
+relations = [
+  { subj = "mastino sciolto", predicate = "punishes", obj = "lo furo", lines = "43-43" },
+]
+simile = [
+  { lines = "44-45", vehicle = "lo furo" },
+]
+basis = "43-46"
+
+[[scene]]
+lines = "47-54"
+title = "Warnings from the bridge demons"
+location = "lo scoglio duro"
+region = "l'argine quarto"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Malebranche", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Malebranche", predicate = "strikes", obj = "Dante", lines = "52-52" },
+]
+basis = "47-54"
+
+[[scene]]
+lines = "55-57"
+title = "The cooking simile"
+location = "lo scoglio duro"
+region = "l'argine quarto"
+cast = [
+  { who = "Malebranche", status = "mentioned" },
+  { who = "barattieri", status = "mentioned" },
+]
+simile = [
+  { lines = "55-57", vehicle = "barattieri" },
+]
+basis = "55-57"
+
+[[scene]]
+lines = "58-63"
+title = "Virgil's advice to Dante"
+location = "lo scoglio duro"
+region = "l'argine quarto"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "21:59", lines = "59-63", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "58-59" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "59-59" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "60-60" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "62-62" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-66"
+title = "Virgil crosses the bridge"
+location = "co del ponte"
+region = "l'argine quarto"
+cast = [
+  { who = "Virgilio", status = "present" },
+]
+basis = "64-66"
+
+[[scene]]
+lines = "67-75"
+title = "The demon attack and Virgil's challenge"
+location = "co del ponte"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "poverello", status = "mentioned" },
+  { who = "Malebranche", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "21:72", lines = "72-75", speaker = "Virgilio", addressee = "Malebranche", source = "code" },
+]
+relations = [
+  { subj = "Malebranche", predicate = "strikes", obj = "Virgilio", lines = "70-71" },
+  { subj = "Virgilio", predicate = "commands", obj = "Malebranche", lines = "72-72" },
+]
+simile = [
+  { lines = "69-69", vehicle = "cani" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-78"
+title = "The selection of Malacoda"
+location = "co del ponte"
+region = "ripa sesta"
+cast = [
+  { who = "Malacoda", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Malacoda", predicate = "meets", obj = "Virgilio", lines = "78-78" },
+  { subj = "Malacoda", predicate = "asks", obj = "Virgilio", lines = "78-78" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-84"
+title = "Virgil's rebuttal"
+location = "co del ponte"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Malacoda", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+]
+speech = [
+  { quote_id = "21:81", lines = "81-84", speaker = "Virgilio", addressee = "Malacoda", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Malacoda", lines = "79-80" },
+  { subj = "Virgilio", predicate = "commands", obj = "Malebranche", lines = "83-83" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-87"
+title = "The demons' submission"
+location = "co del ponte"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Malacoda", status = "present" },
+  { who = "Malebranche", status = "present" },
+]
+relations = [
+  { subj = "Malacoda", predicate = "commands", obj = "Malebranche", lines = "87-87" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-90"
+title = "Virgil's second command to Dante"
+location = "li scheggion del ponte"
+region = "ripa sesta"
+cohort = ["li scheggion"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li scheggion", status = "present" },
+]
+speech = [
+  { quote_id = "21:88", lines = "88-90", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "88-88" },
+]
+basis = "88-90"
+
+[[scene]]
+lines = "91-96"
+title = "The travelers' encirclement"
+location = "li scheggion del ponte"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "li fanti", status = "mentioned" },
+  { who = "nemici cotanti", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Virgilio", lines = "91-91" },
+]
+simile = [
+  { lines = "94-94", vehicle = "li fanti" },
+  { lines = "96-96", vehicle = "nemici cotanti" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-102"
+title = "The demons' taunts"
+location = "li scheggion del ponte"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+]
+speech = [
+  { quote_id = "21:100", lines = "100-100", speaker = "Malebranche", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Virgilio", lines = "97-98" },
+  { subj = "Dante", predicate = "sees", obj = "Malebranche", lines = "98-99" },
+  { subj = "Malebranche", predicate = "asks", obj = "Malebranche", lines = "100-101" },
+  { subj = "Malebranche", predicate = "answers", obj = "Malebranche", lines = "102-102" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-105"
+title = "Malacoda's interruption"
+location = "li scheggion del ponte"
+region = "ripa sesta"
+cast = [
+  { who = "Malacoda", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Scarmiglione", status = "present" },
+]
+relations = [
+  { subj = "Malacoda", predicate = "speaks-to", obj = "Virgilio", lines = "103-104" },
+  { subj = "Malacoda", predicate = "commands", obj = "Scarmiglione", lines = "105-105" },
+]
+basis = "103-105"
+
+[[scene]]
+lines = "106-117"
+title = "Malacoda's news"
+location = "iscoglio"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Malacoda", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "alcun", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:106", lines = "106-117", speaker = "Malacoda", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Malacoda", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "106-106" },
+]
+basis = "106-117"
+
+[[scene]]
+lines = "118-126"
+title = "The deployment of the demons"
+location = "iscoglio"
+region = "ripa sesta"
+cast = [
+  { who = "Alichino", status = "present" },
+  { who = "Calcabrina", status = "present" },
+  { who = "Malacoda", status = "present" },
+  { who = "Cagnazzo", status = "present" },
+  { who = "Barbariccia", status = "present" },
+  { who = "Libicocco", status = "present" },
+  { who = "Draghignazzo", status = "present" },
+  { who = "Cirïatto sannuto", status = "present" },
+  { who = "Graffiacane", status = "present" },
+  { who = "Farfarello", status = "present" },
+  { who = "Rubicante pazzo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Malacoda", predicate = "commands", obj = "Alichino", lines = "118-118" },
+  { subj = "Malacoda", predicate = "commands", obj = "Calcabrina", lines = "118-118" },
+  { subj = "Malacoda", predicate = "commands", obj = "Cagnazzo", lines = "119-119" },
+  { subj = "Malacoda", predicate = "commands", obj = "Barbariccia", lines = "120-120" },
+  { subj = "Malacoda", predicate = "calls", obj = "Libicocco", lines = "121-121" },
+  { subj = "Malacoda", predicate = "calls", obj = "Draghignazzo", lines = "121-121" },
+  { subj = "Malacoda", predicate = "calls", obj = "Cirïatto sannuto", lines = "122-122" },
+  { subj = "Malacoda", predicate = "calls", obj = "Graffiacane", lines = "122-122" },
+  { subj = "Malacoda", predicate = "calls", obj = "Farfarello", lines = "123-123" },
+  { subj = "Malacoda", predicate = "calls", obj = "Rubicante pazzo", lines = "123-123" },
+  { subj = "Malacoda", predicate = "commands", obj = "Alichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Cirïatto sannuto, Graffiacane, Farfarello, Rubicante pazzo", lines = "124-124" },
+]
+basis = "118-126"
+
+[[scene]]
+lines = "127-132"
+title = "Dante's growing anxiety"
+location = "iscoglio"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "21:127", lines = "127-127", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+  { quote_id = "21:128", lines = "128-132", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "127-127" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "128-129" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-139"
+title = "Malacoda's reassurance and the demons' exit"
+location = "iscoglio"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Malacoda", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "li lessi dolenti", status = "mentioned" },
+  { who = "Barbariccia", status = "present" },
+]
+relations = [
+  { subj = "Malebranche", predicate = "speaks-to", obj = "Barbariccia", lines = "138-139" },
+]
+basis = "133-139"

@@ -1,0 +1,302 @@
+canticle = "paradiso"
+canto = 22
+
+[[scene]]
+lines = "1-21"
+title = "Beatrice's Rebuke"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "illustri spiriti", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:7", lines = "7-21", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Beatrice", lines = "1-1" },
+  { subj = "Beatrice", predicate = "rebukes", obj = "Dante", lines = "7-7" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "19-19" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "21-21" },
+]
+simile = [
+  { lines = "2-3", vehicle = "Beatrice" },
+  { lines = "4-5", vehicle = "Dante" },
+]
+basis = "1-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Vision of the White Lights"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "quei che 'n sé repreme la punta del disio", status = "mentioned" },
+  { who = "la maggiore e la più luculenta di quelle margherite", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "guides", obj = "Dante", lines = "22-22" },
+  { subj = "Dante", predicate = "sees", obj = "la maggiore e la più luculenta di quelle margherite", lines = "28-30" },
+]
+simile = [
+  { lines = "25-25", vehicle = "quei che 'n sé repreme la punta del disio" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-36"
+title = "Beatrice's Promise of Answer"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Beatrice", lines = "31-31" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-51"
+title = "The History of the Monastery"
+location = "cielo"
+region = "settimo splendore"
+cohort = ["uomini", "li frati miei"]
+cast = [
+  { who = "gente", status = "mentioned" },
+  { who = "San Benedetto", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "uomini", status = "present" },
+  { who = "empio cólto", status = "mentioned" },
+  { who = "Maccario", status = "present" },
+  { who = "Romoaldo", status = "present" },
+  { who = "li frati miei", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 44, resolves = "gente" },
+  { phrase = "la gente", line = 39, resolves = "gente" },
+]
+relations = [
+  { subj = "San Benedetto", predicate = "names", obj = "Maccario", lines = "49-49" },
+  { subj = "San Benedetto", predicate = "names", obj = "Romoaldo", lines = "49-49" },
+  { subj = "San Benedetto", predicate = "names", obj = "li frati miei", lines = "50-51" },
+  { subj = "San Benedetto", predicate = "relates-to", obj = "li frati miei", lines = "50-50" },
+]
+basis = "37-51"
+
+[[scene]]
+lines = "52-60"
+title = "Dante's Request"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "San Benedetto", status = "present" },
+]
+speech = [
+  { quote_id = "22:52", lines = "52-60", speaker = "Dante", addressee = "San Benedetto", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "San Benedetto", lines = "52-52" },
+]
+basis = "52-60"
+
+[[scene]]
+lines = "61-69"
+title = "Description of the Empyrean"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "San Benedetto", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "tutti li altri", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:61", lines = "61-96", speaker = "Benedetto", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "San Benedetto", predicate = "speaks-to", obj = "Dante", lines = "61-69" },
+]
+basis = "61-69"
+
+[[scene]]
+lines = "70-84"
+title = "The Decay of Monastic Discipline"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "Iacobbe", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "monaci", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "parenti", status = "mentioned" },
+]
+basis = "70-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Inevitability of Change"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "mortali", status = "mentioned" },
+  { who = "Pier", status = "mentioned" },
+  { who = "Benedetto", status = "present" },
+  { who = "Francesco", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Benedetto", predicate = "tells", obj = "Dante", lines = "85-96" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-99"
+title = "The Ascent of the Spirits"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "San Benedetto", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "San Benedetto", predicate = "speaks-to", obj = "Dante", lines = "97-97" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-105"
+title = "Dante's Rapid Ascent"
+location = "cielo"
+region = "settimo splendore"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "le anime beate", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "brings", obj = "Dante", lines = "100-100" },
+  { subj = "Beatrice", predicate = "defeats", obj = "Dante", lines = "102-102" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-120"
+title = "The Sign of Taurus"
+location = "cielo"
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettore", status = "mentioned" },
+  { who = "padre d'ogne mortal vita", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettore", lines = "106-106" },
+  { subj = "Dante", predicate = "tells", obj = "lettore", lines = "109-111" },
+  { subj = "Dante", predicate = "addresses", obj = "glorïose stelle", lines = "112-112" },
+  { subj = "padre d'ogne mortal vita", predicate = "relates-to", obj = "Dante", lines = "115-116" },
+  { subj = "padre d'ogne mortal vita", predicate = "gives", obj = "Dante", lines = "118-118" },
+]
+basis = "106-120"
+
+[[scene]]
+lines = "121-123"
+title = "Prayer to the Stars"
+location = "cielo"
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "stelle", lines = "121-122" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-132"
+title = "Beatrice's Command to Look Down"
+location = "cielo"
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bëatrice", status = "present" },
+  { who = "la turba trïunfante", status = "mentioned" },
+]
+relations = [
+  { subj = "Bëatrice", predicate = "tells", obj = "Dante", lines = "124-126" },
+  { subj = "Bëatrice", predicate = "commands", obj = "Dante", lines = "128-128" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-138"
+title = "The View of the Earth"
+location = "cielo"
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "chi ad altro pensa", status = "mentioned" },
+]
+relations = [
+  { subj = "chi ad altro pensa", predicate = "names", obj = "chi ad altro pensa", lines = "138-138" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-150"
+title = "The Motion of the Planets"
+location = "cielo"
+region = "quella scala"
+cohort = ["tutti e sette"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quell' ombra", status = "mentioned" },
+  { who = "tuo nato", status = "present" },
+  { who = "Iperïone", status = "present" },
+  { who = "Maia", status = "present" },
+  { who = "Dïone", status = "present" },
+  { who = "Giove", status = "present" },
+  { who = "il Padre", status = "present" },
+  { who = "figlio", status = "present" },
+  { who = "tutti e sette", status = "present" },
+]
+refer = [
+  { phrase = "'l padre", line = 146, resolves = "il Padre" },
+  { phrase = "'l figlio", line = 146, resolves = "figlio" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "la figlia di Latona", lines = "139-139" },
+  { subj = "quell' ombra", predicate = "relates-to", obj = "Dante", lines = "140-140" },
+  { subj = "Dante", predicate = "sees", obj = "la figlia di Latona", lines = "141-141" },
+  { subj = "Dante", predicate = "sees", obj = "Iperïone", lines = "142-143" },
+  { subj = "Dante", predicate = "sees", obj = "Iperïone", lines = "143-143" },
+  { subj = "Maia", predicate = "relates-to", obj = "Iperïone", lines = "144-144" },
+  { subj = "Dïone", predicate = "relates-to", obj = "Iperïone", lines = "144-144" },
+  { subj = "Dante", predicate = "sees", obj = "Giove", lines = "145-145" },
+  { subj = "Giove", predicate = "relates-to", obj = "il Padre", lines = "146-146" },
+  { subj = "Giove", predicate = "relates-to", obj = "figlio", lines = "146-146" },
+  { subj = "Dante", predicate = "sees", obj = "'l padre, Giove, 'l figlio", lines = "146-147" },
+  { subj = "tutti e sette", predicate = "shows", obj = "Dante", lines = "148-148" },
+]
+basis = "139-150"
+
+[[scene]]
+lines = "151-154"
+title = "The Earth as a Small Garden"
+location = "cielo"
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "li etterni Gemelli", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "154-154" },
+]
+basis = "151-154"

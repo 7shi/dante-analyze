@@ -1,0 +1,270 @@
+canticle = "paradiso"
+canto = 8
+
+[[scene]]
+lines = "1-12"
+title = "The Cosmological Prologue"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Venere", status = "mentioned" },
+  { who = "le genti antiche", status = "mentioned" },
+  { who = "Dïone", status = "mentioned" },
+  { who = "Cupido", status = "mentioned" },
+  { who = "Dido", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "'l sol", predicate = "sees", obj = "Venere", lines = "12-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Vision of Divine Light"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "15-15" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Descent of the Spirits"
+location = ""
+region = "ella"
+cohort = ["quei lumi divini"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei lumi divini", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "li alti Serafini", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "quei lumi divini", lines = "28-30" },
+]
+simile = [
+  { lines = "25-26", vehicle = "quei lumi divini" },
+  { lines = "25-26", vehicle = "Dante, Beatrice" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-39"
+title = "The Approach of the Spirit"
+location = ""
+region = "ella"
+cohort = ["le anime di Venere"]
+cast = [
+  { who = "anima beata", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "le anime di Venere", status = "present" },
+  { who = "principi celesti", status = "mentioned" },
+]
+relations = [
+  { subj = "anima beata", predicate = "meets", obj = "Dante, Beatrice", lines = "31-31" },
+  { subj = "anima beata", predicate = "speaks-to", obj = "Beatrice", lines = "32-32" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Encounter with Beatrice"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "la luce", line = 43, resolves = "luce" },
+  { phrase = "la luce", line = 44, resolves = "luce" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "40-41" },
+  { subj = "Dante", predicate = "sees", obj = "luce", lines = "43-43" },
+  { subj = "Dante", predicate = "asks", obj = "luce", lines = "44-44" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "46-46" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-57"
+title = "The Spirit's Earthly Connection"
+location = ""
+region = "ella"
+cast = [
+  { who = "Sibilla", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "8:49", lines = "49-84", speaker = "Sibilla", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Sibilla", predicate = "answers", obj = "Dante", lines = "49-49" },
+]
+basis = "49-57"
+
+[[scene]]
+lines = "58-66"
+title = "Prophecy of the Northern and Central Lands"
+location = ""
+region = "ella"
+cast = [
+  { who = "segnore", status = "mentioned" },
+  { who = "Sibilla", status = "present" },
+  { who = "quel corno d'Ausonia", status = "mentioned" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Prophecy of Sicily"
+location = ""
+region = "ella"
+cast = [
+  { who = "Tifeo", status = "mentioned" },
+  { who = "li suoi regi", status = "mentioned" },
+  { who = "Sibilla", status = "mentioned" },
+  { who = "Carlo", status = "mentioned" },
+  { who = "Ridolfo", status = "mentioned" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Warning for Catalonia"
+location = ""
+region = "ella"
+cast = [
+  { who = "il re d'Aragona", status = "mentioned" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-93"
+title = "Dante's Theological Doubt"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Sibilla", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:85", lines = "85-93", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Sibilla", lines = "85-93" },
+  { subj = "Dante", predicate = "addresses", obj = "Sibilla", lines = "86-86" },
+  { subj = "Dante", predicate = "sees", obj = "Dio", lines = "90-90" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-112"
+title = "The Lesson on Divine Providence"
+location = "regno"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Sibilla Cumana", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "li 'ntelletti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:94", lines = "94-112", speaker = "Sibilla Cumana", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Sibilla Cumana", lines = "94-94" },
+  { subj = "Sibilla Cumana", predicate = "answers", obj = "Dante", lines = "94-94" },
+  { subj = "Sibilla Cumana", predicate = "asks", obj = "Dante", lines = "112-112" },
+]
+basis = "94-112"
+
+[[scene]]
+lines = "113-120"
+title = "The Socratic Interlude on Nature"
+location = "regno"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Sibilla", status = "mentioned" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "8:113", lines = "113-114", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "8:117B", lines = "117-117", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+refer = [
+  { phrase = "la natura", line = 113, resolves = "natura" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Sibilla", lines = "113-113" },
+  { subj = "Sibilla", predicate = "asks", obj = "Dante", lines = "115-116" },
+  { subj = "Dante", predicate = "answers", obj = "Sibilla", lines = "117-117" },
+]
+basis = "113-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Diversity of Human Destinies"
+location = "regno"
+region = "ella"
+cast = [
+  { who = "Sibilla", status = "mentioned" },
+  { who = "Solone", status = "mentioned" },
+  { who = "Serse", status = "mentioned" },
+  { who = "Melchisedèch", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:122", lines = "122-148", speaker = "Sibilla Cumana", addressee = "(none)", source = "none" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-135"
+title = "Providence Overriding Nature"
+location = "regno"
+region = "ella"
+cast = [
+  { who = "Esaù", status = "mentioned" },
+  { who = "Iacòb", status = "mentioned" },
+  { who = "Quirino", status = "mentioned" },
+  { who = "vil padre", status = "mentioned" },
+  { who = "generanti", status = "mentioned" },
+  { who = "il proveder divino", status = "mentioned" },
+]
+refer = [
+  { phrase = "Natura", line = 133, resolves = "natura" },
+  { phrase = "Natura", line = 135, resolves = "natura" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-148"
+title = "The Final Warning"
+location = "regno"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Sibilla Cumana", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "nato a cignersi la spada", status = "mentioned" },
+  { who = "re", status = "mentioned" },
+]
+refer = [
+  { phrase = "fortuna", line = 139, resolves = "Fortuna" },
+]
+relations = [
+  { subj = "Sibilla Cumana", predicate = "tells", obj = "Dante", lines = "137-138" },
+]
+basis = "136-148"

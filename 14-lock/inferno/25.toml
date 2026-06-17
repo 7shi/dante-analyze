@@ -1,0 +1,356 @@
+canticle = "inferno"
+canto = 25
+
+[[scene]]
+lines = "1-9"
+title = "The Thief's Struggle"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Vanni Fucci", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "25:3", lines = "3-3", speaker = "Vanni Fucci", addressee = "Dante", source = "code" },
+  { quote_id = "25:6", lines = "6-6", speaker = "serpe", addressee = "Vanni Fucci", source = "llm" },
+]
+relations = [
+  { subj = "serpe", predicate = "touches", obj = "Vanni Fucci", lines = "5-5" },
+  { subj = "serpe", predicate = "touches", obj = "Vanni Fucci", lines = "7-7" },
+  { subj = "serpe", predicate = "chases", obj = "Vanni Fucci", lines = "7-9" },
+]
+simile = [
+  { lines = "6-6", vehicle = "Vanni Fucci" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-16"
+title = "Dante's Lament and the Centaur"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Vanni Fucci", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Capaneo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "rebukes", obj = "Pistoia", lines = "10-12" },
+  { subj = "Dante", predicate = "sees", obj = "Vanni Fucci", lines = "13-14" },
+  { subj = "Vanni Fucci", predicate = "opposes", obj = "Dio", lines = "14-14" },
+  { subj = "Dante", predicate = "compares", obj = "Vanni Fucci", lines = "14-15" },
+  { subj = "Dante", predicate = "compares", obj = "Capaneo", lines = "14-15" },
+]
+basis = "10-16"
+
+[[scene]]
+lines = "17-24"
+title = "The Dragon's Presence"
+location = ""
+region = "l'ottava ripa"
+cohort = ["un centauro"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un centauro", status = "present" },
+  { who = "Vanni Fucci", status = "mentioned" },
+  { who = "qualunque", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un centauro", lines = "17-17" },
+  { subj = "un centauro", predicate = "calls", obj = "Vanni Fucci", lines = "18-18" },
+  { subj = "un draco", predicate = "relates-to", obj = "un centauro", lines = "22-23" },
+  { subj = "un draco", predicate = "punishes", obj = "qualunque", lines = "24-24" },
+]
+basis = "17-24"
+
+[[scene]]
+lines = "25-33"
+title = "Virgil's Explanation of Cacus"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Caco", status = "present" },
+  { who = "centauri", status = "mentioned" },
+  { who = "Ercule", status = "mentioned" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Arrival of Three Spirits"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Caco", status = "present" },
+  { who = "tre spiriti", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "tre spiriti", predicate = "meets", obj = "Dante, Virgilio", lines = "35-35" },
+  { subj = "Dante", predicate = "sees", obj = "tre spiriti", lines = "36-36" },
+  { subj = "Virgilio", predicate = "sees", obj = "tre spiriti", lines = "36-36" },
+  { subj = "tre spiriti", predicate = "asks", obj = "Dante, Virgilio", lines = "37-37" },
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "tre spiriti", lines = "39-39" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Conversation of the Spirits"
+location = ""
+region = "l'ottava ripa"
+cohort = ["spiriti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "spiriti", status = "present" },
+  { who = "Cianfa", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "spiriti", lines = "40-40" },
+  { subj = "spiriti", predicate = "names", obj = "Cianfa", lines = "42-43" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-60"
+title = "The Initial Entwining"
+location = ""
+region = "l'ottava ripa"
+cohort = ["anime"]
+cast = [
+  { who = "lettore", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'anima", status = "present" },
+  { who = "anime", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettore", lines = "46-46" },
+  { subj = "Dante", predicate = "tells", obj = "lettore", lines = "46-47" },
+  { subj = "Dante", predicate = "sees", obj = "anime", lines = "49-49" },
+]
+basis = "46-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Melting of the Forms"
+location = ""
+region = "l'ottava ripa"
+cohort = ["l'anima"]
+cast = [
+  { who = "l'anima", status = "present" },
+]
+relations = [
+  { subj = "l'anima, il serpente", predicate = "touches", obj = "l'anima, il serpente", lines = "61-61" },
+  { subj = "l'anima, il serpente", predicate = "relates-to", obj = "l'anima, il serpente", lines = "62-62" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Loss of Individuality"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Li altri due", status = "present" },
+  { who = "Agnel", status = "present" },
+]
+relations = [
+  { subj = "Li altri due", predicate = "sees", obj = "Agnel", lines = "67-67" },
+  { subj = "Li altri due", predicate = "calls", obj = "Agnel", lines = "68-68" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-78"
+title = "The Grotesque Fusion"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Agnel", status = "present" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Attack of the Small Serpent"
+location = ""
+region = "l'ottava ripa"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "l'anima", status = "present" },
+]
+refer = [
+  { phrase = "anima", line = 85, resolves = "l'anima" },
+  { phrase = "anima", line = 87, resolves = "l'anima" },
+]
+relations = [
+  { subj = "un serpentello acceso", predicate = "meets", obj = "anime", lines = "82-83" },
+  { subj = "un serpentello acceso", predicate = "strikes", obj = "l'anima", lines = "85-86" },
+  { subj = "l'anima", predicate = "relates-to", obj = "un serpentello acceso", lines = "87-87" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-93"
+title = "The Reaction of the Wound"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Lo trafitto", status = "present" },
+]
+relations = [
+  { subj = "Lo trafitto", predicate = "sees", obj = "l serpente", lines = "88-88" },
+  { subj = "Lo trafitto", predicate = "sees", obj = "l serpente", lines = "91-91" },
+  { subj = "Lo trafitto", predicate = "sees", obj = "la piaga", lines = "91-91" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-102"
+title = "A Literary Comparison"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Lucano", status = "present" },
+  { who = "misero Sabello", status = "present" },
+  { who = "Nasidio", status = "present" },
+  { who = "Cadmo", status = "mentioned" },
+  { who = "Aretusa", status = "mentioned" },
+  { who = "Ovidio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "Lucano", lines = "94-94" },
+  { subj = "Dante", predicate = "commands", obj = "Lucano", lines = "96-96" },
+  { subj = "Dante", predicate = "commands", obj = "Ovidio", lines = "97-97" },
+  { subj = "Dante", predicate = "relates-to", obj = "Ovidio", lines = "99-99" },
+  { subj = "Dante", predicate = "compares", obj = "Ovidio", lines = "100-102" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-111"
+title = "The Structural Reorganization"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "'l feruto", status = "present" },
+]
+refer = [
+  { phrase = "'l serpente", line = 109, resolves = "il serpente" },
+]
+relations = [
+  { subj = "il serpente", predicate = "defeats", obj = "'l feruto", lines = "109-109" },
+]
+basis = "103-111"
+
+[[scene]]
+lines = "112-117"
+title = "The Alteration of Limbs"
+location = ""
+region = "l'ottava ripa"
+cohort = ["misero"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "misero", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "misero", lines = "112-117" },
+]
+basis = "112-117"
+
+[[scene]]
+lines = "118-123"
+title = "The Changing Surface"
+location = ""
+region = "l'ottava ripa"
+cohort = ["spirito"]
+cast = [
+  { who = "spirito", status = "present" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Swelling of the Face"
+location = ""
+region = "l'ottava ripa"
+cast = []
+basis = "124-129"
+
+[[scene]]
+lines = "130-135"
+title = "The Splitting of the Tongue"
+location = ""
+region = "l'ottava ripa"
+cohort = ["spirito"]
+cast = [
+  { who = "spirito", status = "present" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Departure of the Spirits"
+location = ""
+region = "l'ottava ripa"
+cohort = ["l'anima"]
+cast = [
+  { who = "l'anima", status = "present" },
+  { who = "L'altro", status = "present" },
+  { who = "Buoso", status = "mentioned" },
+]
+speech = [
+  { quote_id = "25:140", lines = "140-141", speaker = "l'anima", addressee = "L'altro", source = "code" },
+]
+refer = [
+  { phrase = "l'altro", line = 138, resolves = "L'altro" },
+  { phrase = "L'anima", line = 138, resolves = "l'anima" },
+  { phrase = "L'anima", line = 140, resolves = "l'anima" },
+  { phrase = "l'altro", line = 140, resolves = "L'altro" },
+]
+relations = [
+  { subj = "L'altro", predicate = "follows", obj = "l'anima", lines = "138-138" },
+  { subj = "L'altro", predicate = "speaks-to", obj = "l'anima", lines = "138-138" },
+  { subj = "l'anima", predicate = "speaks-to", obj = "L'altro", lines = "140-140" },
+]
+basis = "136-141"
+
+[[scene]]
+lines = "142-144"
+title = "Dante's Commentary"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "la settima zavorra", lines = "142-142" },
+]
+basis = "142-144"
+
+[[scene]]
+lines = "145-151"
+title = "The Identification of the Survivors"
+location = ""
+region = "l'ottava ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Puccio Sciancato", status = "present" },
+  { who = "Agnel", status = "present" },
+  { who = "the second spirit who was transformed", status = "mentioned" },
+  { who = "Gaville", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Puccio Sciancato", lines = "147-148" },
+  { subj = "Dante", predicate = "addresses", obj = "Gaville", lines = "151-151" },
+  { subj = "Gaville", predicate = "relates-to", obj = "the second spirit who was transformed", lines = "151-151" },
+]
+basis = "145-151"

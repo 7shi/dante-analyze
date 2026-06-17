@@ -1,0 +1,334 @@
+canticle = "inferno"
+canto = 6
+
+[[scene]]
+lines = "1-6"
+title = "Dante's Reflection"
+location = ""
+region = "secondo"
+cohort = ["novi tormentati"]
+cast = [
+  { who = "Francesca", status = "mentioned" },
+  { who = "Paolo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "novi tormentati", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "novi tormentati", lines = "4-5" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "The Environment of the Third Circle"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Appearance of Cerberus"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["gente"]
+cast = [
+  { who = "gente", status = "present" },
+  { who = "Cerbero", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 18, resolves = "gente" },
+]
+relations = [
+  { subj = "Cerbero", predicate = "punishes", obj = "gente", lines = "18-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-21"
+title = "The Souls' Struggle"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["i miseri profani"]
+cast = [
+  { who = "i miseri profani", status = "present" },
+]
+basis = "19-21"
+
+[[scene]]
+lines = "22-27"
+title = "Virgil's Intervention"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Feeding Simile"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["anime"]
+cast = [
+  { who = "quel cane", status = "mentioned" },
+  { who = "Cerbero", status = "present" },
+  { who = "anime", status = "present" },
+]
+refer = [
+  { phrase = "l'anime", line = 32, resolves = "anime" },
+]
+relations = [
+  { subj = "Cerbero", predicate = "punishes", obj = "anime", lines = "32-33" },
+]
+simile = [
+  { lines = "28-32", vehicle = "Cerbero" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Rising Soul"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'ombre", status = "present" },
+  { who = "persona", status = "mentioned" },
+  { who = "Ciacco", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "touches", obj = "l'ombre", lines = "34-34" },
+  { subj = "Dante, Virgilio", predicate = "touches", obj = "persona", lines = "35-36" },
+  { subj = "Ciacco", predicate = "sees", obj = "Dante, Virgilio", lines = "39-39" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-42"
+title = "The Soul's Greeting"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Ciacco", status = "present" },
+]
+speech = [
+  { quote_id = "6:41", lines = "41-42", speaker = "Ciacco", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Ciacco", predicate = "speaks-to", obj = "Dante", lines = "41-41" },
+]
+basis = "40-42"
+
+[[scene]]
+lines = "43-48"
+title = "Dante's Reply"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Ciacco", status = "present" },
+]
+speech = [
+  { quote_id = "6:43", lines = "43-48", speaker = "Dante", addressee = "Ciacco", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Ciacco", lines = "43-43" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-57"
+title = "Ciacco's Identification"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["anime"]
+cast = [
+  { who = "Ciacco", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "cittadini", status = "mentioned" },
+  { who = "anime", status = "present" },
+]
+speech = [
+  { quote_id = "6:49", lines = "49-57", speaker = "Ciacco", addressee = "Dante", source = "llm" },
+]
+basis = "49-57"
+
+[[scene]]
+lines = "58-63"
+title = "The Inquiry about Florence"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Ciacco", status = "present" },
+  { who = "li cittadin", status = "mentioned" },
+]
+speech = [
+  { quote_id = "6:58", lines = "58-63", speaker = "Dante", addressee = "Ciacco", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Ciacco", lines = "58-58" },
+  { subj = "Dante", predicate = "addresses", obj = "Ciacco", lines = "58-58" },
+  { subj = "Dante", predicate = "asks", obj = "Ciacco", lines = "60-60" },
+  { subj = "Dante", predicate = "asks", obj = "Ciacco", lines = "62-62" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-75"
+title = "The Prophecy of Discord"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Ciacco", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i fiorentini", status = "mentioned" },
+  { who = "Giusti", status = "mentioned" },
+]
+relations = [
+  { subj = "Ciacco", predicate = "answers", obj = "Dante", lines = "64-64" },
+]
+basis = "64-75"
+
+[[scene]]
+lines = "76-84"
+title = "Dante's Second Inquiry"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Ciacco", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "mentioned" },
+  { who = "Tegghiaio", status = "mentioned" },
+  { who = "Iacopo Rusticucci", status = "mentioned" },
+  { who = "Arrigo", status = "mentioned" },
+  { who = "Mosca", status = "mentioned" },
+  { who = "li altri", status = "mentioned" },
+]
+speech = [
+  { quote_id = "6:77", lines = "77-84", speaker = "Dante", addressee = "Ciacco", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Ciacco", lines = "77-77" },
+  { subj = "Dante", predicate = "names", obj = "Farinata", lines = "79-79" },
+  { subj = "Dante", predicate = "names", obj = "Tegghiaio", lines = "79-79" },
+  { subj = "Dante", predicate = "names", obj = "Iacopo Rusticucci", lines = "80-80" },
+  { subj = "Dante", predicate = "names", obj = "Arrigo", lines = "80-80" },
+  { subj = "Dante", predicate = "names", obj = "Mosca", lines = "80-80" },
+  { subj = "Dante", predicate = "names", obj = "li altri", lines = "81-81" },
+  { subj = "Dante", predicate = "asks", obj = "Ciacco", lines = "82-82" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-90"
+title = "Ciacco's Reply"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Ciacco", status = "present" },
+  { who = "Farinata", status = "mentioned" },
+  { who = "Tegghiaio", status = "mentioned" },
+  { who = "Iacopo Rusticucci", status = "mentioned" },
+  { who = "Arrigo", status = "mentioned" },
+  { who = "Mosca", status = "mentioned" },
+  { who = "anime", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "6:85", lines = "85-90", speaker = "Ciacco", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Ciacco", predicate = "pleads-with", obj = "Dante", lines = "89-89" },
+  { subj = "Ciacco", predicate = "speaks-to", obj = "Dante", lines = "90-90" },
+  { subj = "Ciacco", predicate = "answers", obj = "Dante", lines = "90-90" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-93"
+title = "The Soul's Descent"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["li altri ciechi"]
+cast = [
+  { who = "Ciacco", status = "present" },
+  { who = "li altri ciechi", status = "present" },
+]
+relations = [
+  { subj = "Ciacco", predicate = "compares", obj = "li altri ciechi", lines = "93-93" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Prophecy of Judgment"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["ciascun"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Ciacco", status = "present" },
+  { who = "la nimica podesta", status = "mentioned" },
+  { who = "ciascun", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "94-94" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Question of Intensity"
+location = "terzo cerchio"
+region = "secondo"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'ombre", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "l'ombre", lines = "100-101" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "103-105" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Principle of Suffering"
+location = "terzo cerchio"
+region = "secondo"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "questa gente maladetta", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "106-106" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-115"
+title = "Arrival at Pluto"
+location = "quella strada"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Pluto", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "Pluto", lines = "115-115" },
+]
+basis = "112-115"

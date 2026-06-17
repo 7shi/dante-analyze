@@ -1,0 +1,290 @@
+canticle = "purgatorio"
+canto = 3
+
+[[scene]]
+lines = "1-9"
+title = "Dante's Internal Turmoil"
+location = ""
+region = "là 've la rugiada pugna col sole"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "touches", obj = "Virgilio", lines = "4-4" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "7-7" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "8-8" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "The Widening View"
+location = ""
+region = "là 've la rugiada pugna col sole"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-30"
+title = "The Obscured Sun"
+location = "terra oscura"
+region = "là 've la rugiada pugna col sole"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "3:24", lines = "24-44", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "22-22" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "23-23" },
+]
+basis = "16-30"
+
+[[scene]]
+lines = "31-45"
+title = "The Limits of Reason"
+location = "terra oscura"
+region = "là 've la rugiada pugna col sole"
+cast = [
+  { who = "umana gente", status = "mentioned" },
+  { who = "Matto", status = "mentioned" },
+  { who = "tre persone", status = "mentioned" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Aristotile", status = "mentioned" },
+  { who = "Plato", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "la Virtù", line = 32, resolves = "virtù" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "umana gente", lines = "37-37" },
+  { subj = "Virgilio", predicate = "names", obj = "Aristotile", lines = "43-43" },
+  { subj = "Virgilio", predicate = "names", obj = "Plato", lines = "43-43" },
+]
+basis = "31-45"
+
+[[scene]]
+lines = "46-54"
+title = "The Steep Ascent"
+location = "piè del monte"
+region = "piè del monte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "52-54" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Approaching Souls"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["gente", "anime"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "anime", status = "present" },
+]
+refer = [
+  { phrase = "una gente", line = 58, resolves = "gente" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "58-58" },
+  { subj = "anime", predicate = "meets", obj = "Dante, Virgilio", lines = "59-59" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "61-61" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "65-65" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Gathering Crowd"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["quel popol"]
+cast = [
+  { who = "quel popol", status = "present" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "71-72", vehicle = "(unknown)" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-78"
+title = "Virgil’s Appeal"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["spiriti eletti"]
+cast = [
+  { who = "spiriti eletti", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "chi più sa", status = "mentioned" },
+]
+speech = [
+  { quote_id = "3:74", lines = "74-78", speaker = "Virgilio", addressee = "spiriti eletti", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "spiriti eletti", lines = "73-73" },
+  { subj = "Virgilio", predicate = "asks", obj = "spiriti eletti", lines = "76-76" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Sheep Simile"
+location = "piè del monte"
+region = "piè del monte"
+cast = [
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "pecorelle", line = 85, resolves = "le pecorelle" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "le pecorelle", lines = "85-86" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-93"
+title = "The Souls' Hesitation"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["tutti li altri"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "l'ombra di Dante", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "tutti li altri", status = "present" },
+]
+refer = [
+  { phrase = "le anime", line = 92, resolves = "anime" },
+]
+relations = [
+  { subj = "tutti li altri", predicate = "follows", obj = "anime", lines = "92-92" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Reason for Darkness"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["anime"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "present" },
+]
+speech = [
+  { quote_id = "3:94", lines = "94-99", speaker = "Dante", addressee = "anime", source = "code" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Encounter"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["quella gente degna"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "quella gente degna", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Manfredi", status = "present" },
+]
+speech = [
+  { quote_id = "3:103", lines = "103-105", speaker = "Manfredi", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "quella gente degna", lines = "101-101" },
+  { subj = "quella gente degna", predicate = "speaks-to", obj = "Dante", lines = "103-103" },
+  { subj = "quella gente degna", predicate = "commands", obj = "Dante", lines = "104-104" },
+  { subj = "quella gente degna", predicate = "asks", obj = "Dante", lines = "105-105" },
+  { subj = "Dante", predicate = "sees", obj = "Manfredi", lines = "106-106" },
+  { subj = "Dante", predicate = "sees", obj = "Manfredi", lines = "107-108" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-111"
+title = "The Wound Revealed"
+location = "piè del monte"
+region = "piè del monte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Manfred", status = "present" },
+]
+relations = [
+  { subj = "Manfred", predicate = "shows", obj = "Dante", lines = "111-111" },
+]
+basis = "109-111"
+
+[[scene]]
+lines = "112-123"
+title = "Manfred's Identity"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["Manfredi"]
+cast = [
+  { who = "Manfredi", status = "present" },
+  { who = "Costanza imperadrice", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Costanza", status = "mentioned" },
+  { who = "Cicilia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "3:112", lines = "112-145", speaker = "Manfredi", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Manfredi", predicate = "speaks-to", obj = "Dante", lines = "112-112" },
+]
+basis = "112-123"
+
+[[scene]]
+lines = "124-135"
+title = "Manfred's History"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["Manfredi"]
+cast = [
+  { who = "'l pastor di Cosenza", status = "mentioned" },
+  { who = "Manfredi", status = "present" },
+  { who = "Clemente", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "124-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Doctrine of Schism"
+location = "piè del monte"
+region = "piè del monte"
+cast = []
+basis = "136-141"
+
+[[scene]]
+lines = "142-145"
+title = "The Final Request"
+location = "piè del monte"
+region = "piè del monte"
+cohort = ["Manfredi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Manfredi", status = "present" },
+  { who = "Costanza", status = "mentioned" },
+]
+basis = "142-145"

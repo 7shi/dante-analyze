@@ -1,0 +1,382 @@
+canticle = "purgatorio"
+canto = 33
+
+[[scene]]
+lines = "1-6"
+title = "The Song of the Virtuous Women"
+location = ""
+region = "l'alta selva vòta"
+cohort = ["le donne"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "le donne", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Maria", status = "mentioned" },
+]
+relations = [
+  { subj = "le donne", predicate = "calls", obj = "Dio", lines = "1-3" },
+  { subj = "Beatrice", predicate = "hears", obj = "le donne", lines = "5-5" },
+]
+simile = [
+  { lines = "6-6", vehicle = "Maria" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Beatrice's Proclamation"
+location = ""
+region = "l'alta selva vòta"
+cohort = ["l'altre vergini"]
+cast = [
+  { who = "l'altre vergini", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "33:10", lines = "10-12", speaker = "Beatrice", addressee = "l'altre vergini", source = "code" },
+]
+relations = [
+  { subj = "l'altre vergini", predicate = "gives", obj = "Beatrice", lines = "7-8" },
+  { subj = "Beatrice", predicate = "answers", obj = "l'altre vergini", lines = "8-9" },
+  { subj = "Beatrice", predicate = "addresses", obj = "l'altre vergini", lines = "11-11" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Encounter with Dante"
+location = ""
+region = "l'alta selva vòta"
+cohort = ["tutte e sette"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "tutte e sette", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "la donna", status = "present" },
+  { who = "l savio", status = "present" },
+]
+speech = [
+  { quote_id = "33:20", lines = "20-21", speaker = "Beatrice", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "guides", obj = "Dante", lines = "14-15" },
+  { subj = "Beatrice", predicate = "guides", obj = "la donna", lines = "14-15" },
+  { subj = "Beatrice", predicate = "guides", obj = "l savio", lines = "14-15" },
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "18-18" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "20-20" },
+  { subj = "Dante", predicate = "follows", obj = "Beatrice", lines = "22-22" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "23-23" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-33"
+title = "Dante's Stuttering Response"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "reverenti", status = "mentioned" },
+  { who = "suo maggior", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "om", status = "mentioned" },
+]
+speech = [
+  { quote_id = "33:31", lines = "31-78", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Beatrice", lines = "29-29" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "31-31" },
+]
+simile = [
+  { lines = "25-27", vehicle = "suo maggior" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-45"
+title = "The Prophecy of the Serpent and the Giant"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "chi n'ha colpa", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "un cinquecento diece e cinque", status = "mentioned" },
+  { who = "quel gigante", status = "mentioned" },
+]
+refer = [
+  { phrase = "'l serpente", line = 40, resolves = "il serpente" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "34-45" },
+  { subj = "Beatrice", predicate = "sees", obj = "il serpente", lines = "40-40" },
+  { subj = "Beatrice", predicate = "sees", obj = "l'aguglia", lines = "40-40" },
+  { subj = "Beatrice", predicate = "sees", obj = "quel gigante", lines = "40-40" },
+]
+basis = "34-45"
+
+[[scene]]
+lines = "46-51"
+title = "The Riddle of the Naiads"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Temi", status = "mentioned" },
+  { who = "Sfinge", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "le Naiade", status = "mentioned" },
+]
+simile = [
+  { lines = "47-47", vehicle = "Dante" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-60"
+title = "The Warning of the Fallen Fruit"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "a' vivi", status = "mentioned" },
+  { who = "il peccatore", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "peccatore", line = 59, resolves = "il peccatore" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "52-52" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "53-53" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "55-55" },
+]
+basis = "52-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Weight of Original Sin"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Adamo", status = "mentioned" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-78"
+title = "The Command to Remember"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Piramo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "73-73" },
+]
+basis = "67-78"
+
+[[scene]]
+lines = "79-84"
+title = "Dante's Impressionable Mind"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "33:79", lines = "79-84", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Beatrice", lines = "79-81" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "82-84" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Distance of the Divine"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "85-85" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-93"
+title = "Dante's Denial of Forgetting"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "33:91", lines = "91-93", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Beatrice", lines = "91-91" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Reminder of Lethe"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "33:95", lines = "95-102", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "95-95" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "95-95" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "95-96" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-111"
+title = "The Noon Sun and the Seven Women"
+location = ""
+region = "l'alta selva vòta"
+cohort = ["le sette donne"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "lettore", status = "present" },
+  { who = "chi va dinanzi a gente per iscorta", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "le sette donne", status = "present" },
+]
+simile = [
+  { lines = "107-107", vehicle = "gente" },
+]
+basis = "100-111"
+
+[[scene]]
+lines = "112-114"
+title = "The Emergence of the Rivers"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Ëufratès", lines = "112-113" },
+  { subj = "Dante", predicate = "sees", obj = "Tigri", lines = "112-113" },
+  { subj = "Ëufratès", predicate = "relates-to", obj = "Tigri", lines = "114-114" },
+]
+simile = [
+  { lines = "114-114", vehicle = "Ëufratès, Tigri" },
+]
+basis = "112-114"
+
+[[scene]]
+lines = "115-119"
+title = "Dante's Inquiry"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Matelda", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "115-115" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "115-117" },
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "118-118" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "118-118" },
+  { subj = "Matelda", predicate = "answers", obj = "Dante", lines = "119-119" },
+]
+basis = "115-119"
+
+[[scene]]
+lines = "120-123"
+title = "Matelda's Revelation"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "mentioned" },
+]
+speech = [
+  { quote_id = "33:121", lines = "121-123", speaker = "Matelda", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Matelda", predicate = "speaks-to", obj = "Dante", lines = "121-123" },
+]
+simile = [
+  { lines = "120-120", vehicle = "chi da colpa si dislega" },
+]
+basis = "120-123"
+
+[[scene]]
+lines = "124-129"
+title = "Beatrice's Instruction to Virgil"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Matelda", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Matelda", lines = "124-129" },
+  { subj = "Beatrice", predicate = "commands", obj = "Matelda", lines = "128-128" },
+  { subj = "Beatrice", predicate = "commands", obj = "Matelda", lines = "129-129" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-135"
+title = "The Departure of the Group"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "anima gentil", status = "mentioned" },
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Matelda", predicate = "brings", obj = "Dante", lines = "133-133" },
+  { subj = "Matelda", predicate = "commands", obj = "Stazio", lines = "134-135" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Poet's Constraint"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettor", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "136-136" },
+]
+basis = "136-141"
+
+[[scene]]
+lines = "142-145"
+title = "The Renewal of the Soul"
+location = ""
+region = "l'alta selva vòta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "142-145"

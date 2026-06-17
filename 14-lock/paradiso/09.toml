@@ -1,0 +1,258 @@
+canticle = "paradiso"
+canto = 9
+
+[[scene]]
+lines = "1-6"
+title = "Memory of Carlo"
+location = ""
+region = "ella"
+cast = [
+  { who = "Carlo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Clemenza", lines = "1-1" },
+  { subj = "Carlo", predicate = "tells", obj = "Dante", lines = "1-2" },
+  { subj = "Carlo", predicate = "tells", obj = "Dante", lines = "2-2" },
+  { subj = "Dante", predicate = "prophesies", obj = "Clemenza", lines = "5-6" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Condemnation of Vanity"
+location = ""
+region = "ella"
+cast = [
+  { who = "Sibilla", status = "mentioned" },
+  { who = "anime ingannate e fatture empie", status = "mentioned" },
+]
+refer = [
+  { phrase = "Sol", line = 7, resolves = "'l sol" },
+  { phrase = "Sol", line = 8, resolves = "'l sol" },
+  { phrase = "Sol", line = 11, resolves = "'l sol" },
+]
+relations = [
+  { subj = "Sibilla", predicate = "relates-to", obj = "'l sol", lines = "7-8" },
+  { subj = "'l sol", predicate = "relates-to", obj = "Sibilla", lines = "8-8" },
+  { subj = "anime ingannate e fatture empie", predicate = "opposes", obj = "'l sol", lines = "11-11" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-18"
+title = "Arrival of the First Light"
+location = ""
+region = "ella"
+cohort = ["un altro di quelli splendori"]
+cast = [
+  { who = "un altro di quelli splendori", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Bëatrice", status = "present" },
+]
+relations = [
+  { subj = "un altro di quelli splendori", predicate = "meets", obj = "Dante", lines = "14-14" },
+  { subj = "un altro di quelli splendori", predicate = "relates-to", obj = "Dante", lines = "14-15" },
+  { subj = "Bëatrice", predicate = "sees", obj = "Dante", lines = "16-17" },
+  { subj = "Bëatrice", predicate = "relates-to", obj = "Dante", lines = "17-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "Dante's Request"
+location = ""
+region = "ella"
+cohort = ["beato spirto"]
+cast = [
+  { who = "beato spirto", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "9:20", lines = "20-21", speaker = "Dante", addressee = "beato spirto", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "beato spirto", lines = "19-20" },
+  { subj = "Dante", predicate = "addresses", obj = "beato spirto", lines = "20-20" },
+  { subj = "Dante", predicate = "speaks-to", obj = "beato spirto", lines = "20-21" },
+  { subj = "beato spirto", predicate = "meets", obj = "Dante", lines = "22-24" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-42"
+title = "The Tale of Cunizza"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cunizza", status = "present" },
+  { who = "vostro vulgo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "omo eccellente", status = "mentioned" },
+]
+speech = [
+  { quote_id = "9:25", lines = "25-63", speaker = "Cunizza", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "omo eccellente", lines = "41-41" },
+]
+basis = "25-42"
+
+[[scene]]
+lines = "43-51"
+title = "Prophecy of Shifting Waters"
+location = ""
+region = "ella"
+cast = [
+  { who = "la turba presente", status = "mentioned" },
+  { who = "le genti crude", status = "mentioned" },
+  { who = "tal signore", status = "mentioned" },
+]
+basis = "43-51"
+
+[[scene]]
+lines = "52-63"
+title = "Warning of Clerical Corruption"
+location = ""
+region = "ella"
+cohort = ["le anime beate"]
+cast = [
+  { who = "empio suo pastor", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "le anime beate", status = "present" },
+  { who = "Dio giudicante", status = "mentioned" },
+]
+refer = [
+  { phrase = "anime beate", line = 52, resolves = "le anime beate" },
+  { phrase = "anime beate", line = 58, resolves = "le anime beate" },
+  { phrase = "anime beate", line = 61, resolves = "le anime beate" },
+  { phrase = "anime beate", line = 62, resolves = "le anime beate" },
+]
+relations = [
+  { subj = "le anime beate", predicate = "prophesies", obj = "empio suo pastor", lines = "52-56" },
+  { subj = "le anime beate", predicate = "prophesies", obj = "empio suo pastor", lines = "58-60" },
+  { subj = "le anime beate", predicate = "speaks-to", obj = "Dante", lines = "61-63" },
+  { subj = "Dio giudicante", predicate = "shows", obj = "le anime beate", lines = "62-62" },
+]
+basis = "52-63"
+
+[[scene]]
+lines = "64-66"
+title = "The Spirit's Reversion"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cunizza", status = "present" },
+]
+basis = "64-66"
+
+[[scene]]
+lines = "67-72"
+title = "Appearance of the Second Light"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "Beatrice", lines = "67-67" },
+  { subj = "Beatrice", predicate = "shows", obj = "Dante", lines = "68-68" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-81"
+title = "Dante's Dialogue"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Cunizza", status = "present" },
+]
+speech = [
+  { quote_id = "9:74", lines = "74-81", speaker = "Dante", addressee = "Cunizza", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Cunizza", lines = "74-74" },
+  { subj = "Dante", predicate = "asks", obj = "Cunizza", lines = "76-79" },
+]
+basis = "73-81"
+
+[[scene]]
+lines = "82-93"
+title = "The Geography of the Great Valley"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cunizza", status = "mentioned" },
+]
+speech = [
+  { quote_id = "9:84", lines = "84-142", speaker = "Cunizza", addressee = "(none)", source = "none" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-108"
+title = "Identity and Divine Purpose"
+location = "cielo"
+region = "ella"
+cast = [
+  { who = "Folco", status = "mentioned" },
+  { who = "Cunizza", status = "present" },
+  { who = "quella gente", status = "mentioned" },
+  { who = "la figlia di Belo", status = "mentioned" },
+  { who = "Sicheo", status = "mentioned" },
+  { who = "Creusa", status = "mentioned" },
+  { who = "quella Rodopëa", status = "mentioned" },
+  { who = "Demofoonte", status = "mentioned" },
+  { who = "Alcide", status = "mentioned" },
+  { who = "Iole", status = "mentioned" },
+]
+relations = [
+  { subj = "Folco", predicate = "tells", obj = "Cunizza", lines = "94-94" },
+  { subj = "Cunizza", predicate = "compares", obj = "la figlia di Belo", lines = "97-99" },
+]
+basis = "94-108"
+
+[[scene]]
+lines = "109-126"
+title = "The Legacy of Raab"
+location = "questo cielo"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Raab", status = "present" },
+  { who = "Cunizza", status = "mentioned" },
+  { who = "l'ombra", status = "mentioned" },
+  { who = "altr' alma", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Iosüè", status = "mentioned" },
+  { who = "al papa", status = "mentioned" },
+]
+relations = [
+  { subj = "Cunizza", predicate = "tells", obj = "Dante", lines = "109-111" },
+  { subj = "Cunizza", predicate = "tells", obj = "Dante", lines = "115-117" },
+  { subj = "Cunizza", predicate = "names", obj = "Raab", lines = "115-116" },
+]
+basis = "109-126"
+
+[[scene]]
+lines = "127-142"
+title = "Prophecy of Roman Liberation"
+location = "questo cielo"
+region = "ella"
+cast = [
+  { who = "Augusto", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "il pastore", status = "mentioned" },
+  { who = "i dottor magni", status = "mentioned" },
+  { who = "il Papa", status = "mentioned" },
+  { who = "i cardinali", status = "mentioned" },
+  { who = "Gabrïello", status = "mentioned" },
+  { who = "la milizia", status = "mentioned" },
+  { who = "Pietro", status = "mentioned" },
+  { who = "l'avoltero", status = "mentioned" },
+]
+basis = "127-142"

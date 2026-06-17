@@ -1,0 +1,382 @@
+canticle = "inferno"
+canto = 10
+
+[[scene]]
+lines = "1-9"
+title = "Dante’s Inquiry"
+location = "secreto calle"
+region = "Dentro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li empi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:4", lines = "4-5", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "3-3" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "4-5" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "5-5" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "6-6" },
+  { subj = "Dante", predicate = "asks", obj = "li empi", lines = "7-8" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-18"
+title = "The Epicurean’s Reply"
+location = "secreto calle"
+region = "Dentro"
+cohort = ["Eretici"]
+cast = [
+  { who = "Eretici", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Epicuro", status = "mentioned" },
+  { who = "tutti suoi seguaci", status = "mentioned" },
+  { who = "Eretico", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:10", lines = "10-18", speaker = "Eretico", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Eretici", predicate = "answers", obj = "Dante", lines = "10-10" },
+  { subj = "tutti suoi seguaci", predicate = "follows", obj = "Epicuro", lines = "14-14" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-27"
+title = "Virgil’s Admonition"
+location = "secreto calle"
+region = "Dentro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'anima epicurea", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:19", lines = "19-21", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "10:22", lines = "22-27", speaker = "l'anima epicurea", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "19-19" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "19-21" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "21-21" },
+  { subj = "l'anima epicurea", predicate = "addresses", obj = "Dante", lines = "22-22" },
+  { subj = "l'anima epicurea", predicate = "speaks-to", obj = "Dante", lines = "22-27" },
+  { subj = "l'anima epicurea", predicate = "commands", obj = "Dante", lines = "24-24" },
+  { subj = "l'anima epicurea", predicate = "recognizes", obj = "Dante", lines = "25-26" },
+]
+basis = "19-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Voice from the Tomb"
+location = "secreto calle"
+region = "Dentro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Farinata", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Virgilio", lines = "29-30" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "31-31" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "31-31" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Defiance of Farinata"
+location = "le sepulture"
+region = "le sepulture"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "37-38" },
+  { subj = "Virgilio", predicate = "commands", obj = "Farinata", lines = "38-39" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-48"
+title = "Farinata’s Inquiry"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+  { who = "li maggior", status = "mentioned" },
+  { who = "primi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:46", lines = "46-48", speaker = "Farinata", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Farinata", predicate = "sees", obj = "Dante", lines = "41-41" },
+  { subj = "Farinata", predicate = "asks", obj = "Dante", lines = "42-42" },
+  { subj = "Dante", predicate = "answers", obj = "Farinata", lines = "43-44" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-51"
+title = "Dante’s Rebuttal"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Guelfi", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+  { who = "Ghibellini", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Farinata", lines = "50-50" },
+  { subj = "Dante", predicate = "rebukes", obj = "Ghibellini", lines = "51-51" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-60"
+title = "The Emergence of the Shadow"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cohort = ["un'ombra"]
+cast = [
+  { who = "un'ombra", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Cavalcante della Scala", status = "mentioned" },
+]
+relations = [
+  { subj = "un'ombra", predicate = "sees", obj = "Dante", lines = "55-55" },
+  { subj = "un'ombra", predicate = "sees", obj = "Dante", lines = "56-56" },
+  { subj = "un'ombra", predicate = "addresses", obj = "Dante", lines = "58-58" },
+  { subj = "un'ombra", predicate = "asks", obj = "Dante", lines = "60-60" },
+]
+basis = "52-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Reference to Guido"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "il padre di Cavalcante della Scala", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Guido da Montefeltro", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:61", lines = "61-63", speaker = "Dante", addressee = "il padre di Cavalcante della Scala", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "il padre di Cavalcante della Scala", lines = "61-61" },
+  { subj = "Dante", predicate = "recognizes", obj = "il padre di Cavalcante della Scala", lines = "65-65" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Shadow’s Grief"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cohort = ["l'ombra"]
+cast = [
+  { who = "l'ombra", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Cavalcante della Scala", status = "present" },
+]
+refer = [
+  { phrase = "ombra", line = 67, resolves = "l'ombra" },
+  { phrase = "ombra", line = 70, resolves = "l'ombra" },
+]
+relations = [
+  { subj = "l'ombra", predicate = "asks", obj = "Dante", lines = "67-69" },
+  { subj = "l'ombra", predicate = "sees", obj = "Dante", lines = "70-71" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-84"
+title = "Farinata’s Question on Impiety"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Farinata", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Guelfi", status = "mentioned" },
+  { who = "la donna", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:77B", lines = "77-84", speaker = "Farinata", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Farinata", predicate = "speaks-to", obj = "Dante", lines = "77-77" },
+  { subj = "Farinata", predicate = "asks", obj = "Dante", lines = "82-84" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-87"
+title = "The Metaphor of the Arbia"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Farinata", lines = "85-85" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-93"
+title = "Farinata’s Lament for Florence"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Farinata", status = "present" },
+]
+speech = [
+  { quote_id = "10:89A", lines = "89-89", speaker = "Farinata", addressee = "(none)", source = "none" },
+  { quote_id = "10:89B", lines = "89-93", speaker = "Farinata", addressee = "(none)", source = "none" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-99"
+title = "Dante’s Request for Prophecy"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "vostra semenza", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+]
+speech = [
+  { quote_id = "10:95", lines = "95-99", speaker = "Dante", addressee = "Farinata", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "Farinata", lines = "95-95" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Limitation of Hell’s Vision"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cohort = ["Farinata, le anime dell'Inferno"]
+cast = [
+  { who = "Farinata, le anime dell'Inferno", status = "present" },
+  { who = "quei c'ha mala luce", status = "mentioned" },
+  { who = "Farinata", status = "present" },
+  { who = "il sommo duce", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Farinata", predicate = "speaks-to", obj = "Dante", lines = "101-101" },
+  { subj = "Farinata", predicate = "tells", obj = "Dante", lines = "106-106" },
+]
+simile = [
+  { lines = "100-100", vehicle = "quei c'ha mala luce" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-114"
+title = "Dante’s Apology"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+  { who = "quel caduto", status = "mentioned" },
+  { who = "Cavalcante della Scala", status = "mentioned" },
+  { who = "vivi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:110", lines = "110-114", speaker = "Dante", addressee = "Farinata", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Farinata", lines = "110-110" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "Virgil’s List of Souls"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Farinata", status = "present" },
+  { who = "Eretici", status = "mentioned" },
+  { who = "Federico II", status = "mentioned" },
+  { who = "il Cardinale", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:118", lines = "118-120", speaker = "Farinata", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "gli eretici", line = 117, resolves = "Eretici" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "calls", obj = "Dante", lines = "115-115" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Farinata", lines = "116-116" },
+  { subj = "Farinata", predicate = "answers", obj = "Dante", lines = "118-118" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-126"
+title = "Virgil’s Question to Dante"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Farinata", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "125-125" },
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "126-126" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Command regarding Beatrice"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "127-128" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "129-129" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-136"
+title = "Departure into the Valley"
+location = "piè de la sua tomba"
+region = "le sepulture"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "follows", obj = "Virgilio", lines = "133-134" },
+]
+basis = "133-136"

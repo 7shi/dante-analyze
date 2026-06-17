@@ -1,0 +1,353 @@
+canticle = "purgatorio"
+canto = 20
+
+[[scene]]
+lines = "1-9"
+title = "Navigating the Narrow Ledge"
+location = ""
+region = "quinto giro"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gente", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 9, resolves = "gente" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "4-4" },
+  { subj = "gente", predicate = "meets", obj = "Dante", lines = "9-9" },
+  { subj = "gente", predicate = "meets", obj = "Virgilio", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-12"
+title = "The Curse of the She-Wolf"
+location = ""
+region = "quinto giro"
+cast = []
+basis = "10-12"
+
+[[scene]]
+lines = "13-15"
+title = "Dante’s Cosmic Prayer"
+location = ""
+region = "quinto giro"
+cast = []
+basis = "13-15"
+
+[[scene]]
+lines = "16-24"
+title = "The Women’s Lament"
+location = ""
+region = "quinto giro"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'ombre", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "la donna", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "l'ombre", lines = "17-18" },
+  { subj = "Dante", predicate = "hears", obj = "l'ombre", lines = "19-19" },
+  { subj = "l'ombre", predicate = "calls", obj = "Maria", lines = "19-20" },
+  { subj = "l'ombre", predicate = "addresses", obj = "Maria", lines = "22-22" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-33"
+title = "Praising the Virtuous"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Fabrizio", status = "present" },
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "Niccolò", status = "mentioned" },
+  { who = "le pulcelle", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Ugo Ciappetta", lines = "25-25" },
+  { subj = "Ugo Ciappetta", predicate = "addresses", obj = "Fabrizio", lines = "25-25" },
+  { subj = "Dante", predicate = "meets", obj = "Ugo Ciappetta", lines = "29-30" },
+  { subj = "Ugo Ciappetta", predicate = "speaks-to", obj = "Fabrizio", lines = "31-33" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-39"
+title = "Dante’s Inquiry"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "20:35", lines = "35-39", speaker = "Dante", addressee = "Ugo Ciappetta", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Ugo Ciappetta", lines = "34-34" },
+  { subj = "Dante", predicate = "asks", obj = "Ugo Ciappetta", lines = "35-35" },
+  { subj = "Dante", predicate = "asks", obj = "Ugo Ciappetta", lines = "35-36" },
+  { subj = "Dante", predicate = "tells", obj = "Ugo Ciappetta", lines = "37-39" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Root of Corruption"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Doagio", status = "mentioned" },
+  { who = "Lilla", status = "mentioned" },
+  { who = "Guanto", status = "mentioned" },
+  { who = "Bruggia", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Ugo Ciappetta", predicate = "asks", obj = "Dio", lines = "48-48" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-60"
+title = "The Rise of Ugo Ciappetta"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "i Filippi", status = "mentioned" },
+  { who = "i Luigi", status = "mentioned" },
+  { who = "un beccaio", status = "mentioned" },
+  { who = "li regi antichi", status = "mentioned" },
+  { who = "la corona vedova", status = "mentioned" },
+  { who = "Ugo Capeto", status = "mentioned" },
+]
+basis = "49-60"
+
+[[scene]]
+lines = "61-66"
+title = "Conquest through Deceit"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Filippi e Luigini", status = "mentioned" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Fate of Leaders"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Carlo", status = "mentioned" },
+  { who = "Curradino", status = "mentioned" },
+  { who = "Tommaso", status = "mentioned" },
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "l'altro Carlo", status = "mentioned" },
+]
+refer = [
+  { phrase = "un altro Carlo", line = 70, resolves = "l'altro Carlo" },
+]
+relations = [
+  { subj = "Ugo Ciappetta", predicate = "prophesies", obj = "l'altro Carlo", lines = "70-71" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-78"
+title = "The Prophecy of the New King"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "l'altro Carlo", status = "mentioned" },
+  { who = "Giuda", status = "mentioned" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Price of Avarice"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "sua figlia", status = "present" },
+  { who = "i corsar", status = "mentioned" },
+  { who = "l'altre schiave", status = "mentioned" },
+]
+relations = [
+  { subj = "Ugo Ciappetta", predicate = "addresses", obj = "avarizia", lines = "82-82" },
+]
+simile = [
+  { lines = "81-81", vehicle = "l'altre schiave" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-93"
+title = "Visions of Future Corruption"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "vicario suo Cristo", status = "mentioned" },
+  { who = "vivi ladroni", status = "mentioned" },
+  { who = "il novo Pilato", status = "mentioned" },
+]
+relations = [
+  { subj = "Ugo Ciappetta", predicate = "sees", obj = "lo fiordaliso", lines = "86-86" },
+  { subj = "Ugo Ciappetta", predicate = "sees", obj = "lo fiordaliso", lines = "88-88" },
+  { subj = "Ugo Ciappetta", predicate = "sees", obj = "il novo Pilato", lines = "91-91" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-102"
+title = "The Timing of Vengeance"
+location = ""
+region = "quinto giro"
+cohort = ["le anime degli avari e dei prodighi"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "le anime degli avari e dei prodighi", status = "present" },
+]
+relations = [
+  { subj = "Ugo Ciappetta", predicate = "asks", obj = "Dio", lines = "94-96" },
+  { subj = "Ugo Ciappetta", predicate = "tells", obj = "la Chiesa", lines = "97-97" },
+  { subj = "la Chiesa", predicate = "relates-to", obj = "lo Spirito Santo", lines = "97-98" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-117"
+title = "A Catalog of Greedy Souls"
+location = ""
+region = "quinto giro"
+cohort = ["le anime avare e prodigali"]
+cast = [
+  { who = "le anime avare e prodigali", status = "present" },
+  { who = "Pigmalïon", status = "mentioned" },
+  { who = "Mida", status = "mentioned" },
+  { who = "Acàn", status = "mentioned" },
+  { who = "Iosüè", status = "mentioned" },
+  { who = "Anania", status = "mentioned" },
+  { who = "Elïodoro", status = "mentioned" },
+  { who = "Polinestòr", status = "mentioned" },
+  { who = "Polidoro", status = "mentioned" },
+  { who = "Crasso", status = "present" },
+]
+relations = [
+  { subj = "le anime avare e prodigali", predicate = "relates-to", obj = "Pigmalïon", lines = "103-103" },
+  { subj = "le anime avare e prodigali", predicate = "relates-to", obj = "Mida", lines = "103-106" },
+  { subj = "le anime avare e prodigali", predicate = "recognizes", obj = "Acàn", lines = "109-109" },
+  { subj = "le anime avare e prodigali", predicate = "rebukes", obj = "Anania", lines = "112-112" },
+  { subj = "le anime avare e prodigali", predicate = "rebukes", obj = "Elïodoro", lines = "113-113" },
+  { subj = "le anime avare e prodigali", predicate = "calls", obj = "Crasso", lines = "116-116" },
+  { subj = "le anime avare e prodigali", predicate = "asks", obj = "Crasso", lines = "116-117" },
+]
+basis = "103-117"
+
+[[scene]]
+lines = "118-123"
+title = "Dante’s Solitary Presence"
+location = ""
+region = "quinto giro"
+cohort = ["avari e prodighi"]
+cast = [
+  { who = "avari e prodighi", status = "present" },
+  { who = "Ugo Ciappetta", status = "present" },
+  { who = "altra persona", status = "present" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-132"
+title = "The Trembling Mountain"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Ugo Ciappetta", status = "mentioned" },
+  { who = "colui ch'a morte vada", status = "mentioned" },
+  { who = "Latona", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "relates-to", obj = "Ugo Ciappetta", lines = "124-124" },
+]
+simile = [
+  { lines = "128-129", vehicle = "colui ch'a morte vada" },
+  { lines = "131-132", vehicle = "Apollo, Diana" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Celestial Shout"
+location = ""
+region = "quinto giro"
+cohort = ["vicin"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "vicin", status = "present" },
+]
+speech = [
+  { quote_id = "20:135", lines = "135-135", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "134-135" },
+  { subj = "vicin", predicate = "praises", obj = "Dio", lines = "136-136" },
+  { subj = "Dante", predicate = "hears", obj = "vicin", lines = "137-137" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-144"
+title = "Resuming the Path"
+location = ""
+region = "quinto giro"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "pastor", status = "mentioned" },
+  { who = "l'ombre", status = "present" },
+]
+refer = [
+  { phrase = "i pastor", line = 139, resolves = "pastor" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "l'ombre", lines = "143-143" },
+]
+simile = [
+  { lines = "139-140", vehicle = "pastor" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-151"
+title = "Dante’s Bewilderment"
+location = ""
+region = "quinto giro"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "145-151"

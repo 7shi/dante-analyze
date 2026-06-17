@@ -1,0 +1,241 @@
+canticle = "purgatorio"
+canto = 1
+
+[[scene]]
+lines = "1-12"
+title = "The Poet’s Prologue"
+location = "qui"
+region = "qui"
+cohort = ["sante Muse"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'umano spirito", status = "mentioned" },
+  { who = "sante Muse", status = "present" },
+  { who = "Calïopè", status = "present" },
+  { who = "le Piche misere", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "calls", obj = "la morta poesì", lines = "7-7" },
+  { subj = "Dante", predicate = "calls", obj = "sante Muse", lines = "7-8" },
+  { subj = "Dante", predicate = "relates-to", obj = "sante Muse", lines = "8-8" },
+  { subj = "Dante", predicate = "calls", obj = "Calïopè", lines = "9-9" },
+  { subj = "Calïopè", predicate = "follows", obj = "Dante", lines = "10-10" },
+  { subj = "Calïopè", predicate = "strikes", obj = "le Piche misere", lines = "11-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Awakening Sky"
+location = "qui"
+region = "qui"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Venere", status = "present" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Four Stars"
+location = "qui"
+region = "qui"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la prima gente", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "settentrïonal vedovo sito", lines = "26-27" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-39"
+title = "The Discovery of the Sage"
+location = "qui"
+region = "qui"
+cohort = ["un veglio solo"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un veglio solo", status = "present" },
+  { who = "il Padre", status = "mentioned" },
+  { who = "alcun figliuolo", status = "mentioned" },
+]
+refer = [
+  { phrase = "padre", line = 32, resolves = "il Padre" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un veglio solo", lines = "31-31" },
+  { subj = "Dante", predicate = "sees", obj = "un veglio solo", lines = "39-39" },
+]
+simile = [
+  { lines = "32-33", vehicle = "il Padre" },
+]
+basis = "28-39"
+
+[[scene]]
+lines = "40-48"
+title = "Virgil’s Inquiry"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "il vecchio", status = "present" },
+]
+relations = [
+  { subj = "il vecchio", predicate = "asks", obj = "Dante, Virgilio", lines = "40-41" },
+  { subj = "il vecchio", predicate = "asks", obj = "Dante, Virgilio", lines = "43-43" },
+  { subj = "il vecchio", predicate = "asks", obj = "Dante, Virgilio", lines = "48-48" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-51"
+title = "The Guide’s Gesture"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "il vecchio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "49-49" },
+  { subj = "Virgilio", predicate = "addresses", obj = "il vecchio", lines = "50-51" },
+  { subj = "Virgilio", predicate = "shows", obj = "Dante", lines = "51-51" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Explanation of the Mission"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "il guardiano", status = "present" },
+  { who = "tutta la gente ria", status = "mentioned" },
+  { who = "quelli spirti", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "il guardiano", lines = "52-52" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-84"
+title = "The Plea for Passage"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Catone", status = "present" },
+  { who = "Minòs", status = "mentioned" },
+  { who = "Marzia", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Catone", lines = "70-70" },
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Catone", lines = "81-81" },
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Catone", lines = "82-82" },
+]
+basis = "67-84"
+
+[[scene]]
+lines = "85-99"
+title = "The Guardian’s Mandate"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Marzïa", status = "mentioned" },
+  { who = "Catone", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "primo ministro", status = "mentioned" },
+  { who = "quei di paradiso", status = "mentioned" },
+]
+speech = [
+  { quote_id = "1:85", lines = "85-86", speaker = "Catone", addressee = "Virgilio", source = "llm" },
+  { quote_id = "1:87", lines = "87-108", speaker = "Catone", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Catone", predicate = "speaks-to", obj = "Virgilio", lines = "86-86" },
+  { subj = "Catone", predicate = "commands", obj = "Virgilio", lines = "94-96" },
+]
+basis = "85-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Isle of Reeds"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Departure"
+location = "cieco fiume"
+region = "cieco fiume"
+cast = [
+  { who = "Catone", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "111-111" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Morning Trek"
+location = "solingo piano"
+region = "questa pianura"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "om", status = "mentioned" },
+]
+simile = [
+  { lines = "118-119", vehicle = "om" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Light of Revelation"
+location = "là 've la rugiada pugna col sole"
+region = "là 've la rugiada pugna col sole"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "Virgilio", lines = "126-126" },
+  { subj = "Dante", predicate = "meets", obj = "Virgilio", lines = "127-127" },
+  { subj = "Virgilio", predicate = "shows", obj = "Dante", lines = "128-128" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-136"
+title = "Arrival at the Shore"
+location = "lito diserto"
+region = "là 've la rugiada pugna col sole"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "133-133" },
+]
+basis = "130-136"

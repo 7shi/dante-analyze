@@ -1,0 +1,233 @@
+canticle = "inferno"
+canto = 7
+
+[[scene]]
+lines = "1-12"
+title = "Pluto's Outburst and Virgil's Rebuke"
+location = "questa roccia"
+region = "secondo"
+cast = [
+  { who = "Satàn", status = "mentioned" },
+  { who = "Pluto", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Michele", status = "mentioned" },
+]
+relations = [
+  { subj = "Pluto", predicate = "calls", obj = "Satàn", lines = "1-1" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "3-4" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Pluto", lines = "7-8" },
+  { subj = "Virgilio", predicate = "commands", obj = "Pluto", lines = "8-8" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "Descent into the Fourth Circle"
+location = "questa roccia"
+region = "secondo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "The Chaos of the Swirling Souls"
+location = "questa roccia"
+region = "la quarta lacca"
+cohort = ["gente"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "gente", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 19, resolves = "gente" },
+  { phrase = "la gente", line = 20, resolves = "gente" },
+  { phrase = "la gente", line = 22, resolves = "gente" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "20-20" },
+]
+simile = [
+  { lines = "22-24", vehicle = "Cariddi" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-35"
+title = "The Mechanics of the Punishment"
+location = "questa roccia"
+region = "la quarta lacca"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "25-25" },
+  { subj = "gente", predicate = "rebukes", obj = "gente", lines = "33-33" },
+]
+basis = "25-35"
+
+[[scene]]
+lines = "36-48"
+title = "Identification of the Avaricious"
+location = "questa roccia"
+region = "la quarta lacca"
+cohort = ["cherci", "papi", "i cardinali"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "cherci", status = "present" },
+  { who = "papi", status = "present" },
+  { who = "i cardinali", status = "present" },
+]
+speech = [
+  { quote_id = "7:37", lines = "37-39", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+refer = [
+  { phrase = "cardinali", line = 46, resolves = "i cardinali" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "37-37" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "37-39" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "40-40" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "40-48" },
+]
+basis = "36-48"
+
+[[scene]]
+lines = "49-66"
+title = "The Futility of Wealth"
+location = "questa roccia"
+region = "la quarta lacca"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quest' anime stanche", status = "mentioned" },
+  { who = "questi col pugno chiuso", status = "mentioned" },
+  { who = "questi coi crin mozzi", status = "mentioned" },
+  { who = "umana gente", status = "mentioned" },
+]
+speech = [
+  { quote_id = "7:49", lines = "49-51", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "7:52", lines = "52-66", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "49-49" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "52-52" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "61-61" },
+]
+basis = "49-66"
+
+[[scene]]
+lines = "67-84"
+title = "The Doctrine of Fortune"
+location = "questa roccia"
+region = "la quarta lacca"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "chi conduce", status = "mentioned" },
+]
+speech = [
+  { quote_id = "7:67B", lines = "67-69", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "7:70", lines = "70-99", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "67-67" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "67-69" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "70-70" },
+  { subj = "Virgilio", predicate = "names", obj = "Dante", lines = "70-70" },
+  { subj = "Virgilio", predicate = "rebukes", obj = "Dante", lines = "71-71" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "72-72" },
+]
+basis = "67-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Unchanging Divine Order"
+location = "questa roccia"
+region = "la quarta lacca"
+cast = [
+  { who = "li altri dèi", status = "mentioned" },
+  { who = "uomini", status = "mentioned" },
+  { who = "l'altre prime creature", status = "mentioned" },
+]
+simile = [
+  { lines = "86-87", vehicle = "li altri dèi" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-105"
+title = "Transition to the Styx"
+location = "questa roccia"
+region = "la quarta lacca"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Sight of the Wrathful and Sullen"
+location = "questa roccia"
+region = "una via diversa"
+cohort = ["genti fangose"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "genti fangose", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "genti fangose", lines = "109-110" },
+  { subj = "genti fangose", predicate = "strikes", obj = "genti fangose", lines = "112-114" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-126"
+title = "The Lament of the Sullen"
+location = "questa roccia"
+region = "una via diversa"
+cohort = ["anime", "gente"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "present" },
+  { who = "gente", status = "present" },
+]
+speech = [
+  { quote_id = "7:115", lines = "115-126", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "l'anime", line = 115, resolves = "anime" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "115-115" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "115-115" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "117-117" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-130"
+title = "Arrival at the Tower"
+location = "grand' arco tra la ripa secca e 'l mézzo"
+region = "una via diversa"
+cohort = ["gli accidiosi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gli accidiosi", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "gli accidiosi", lines = "129-129" },
+]
+basis = "127-130"

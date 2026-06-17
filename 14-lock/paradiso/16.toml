@@ -1,0 +1,282 @@
+canticle = "paradiso"
+canto = 16
+
+[[scene]]
+lines = "1-12"
+title = "Reflections on Lineage and Time"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "gente", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "voi che prima a Roma s'offerie", status = "mentioned" },
+  { who = "la sua famiglia", status = "mentioned" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-15"
+title = "Beatrice's Laughter"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Ginevra", status = "mentioned" },
+]
+simile = [
+  { lines = "14-15", vehicle = "Ginevra" },
+]
+basis = "13-15"
+
+[[scene]]
+lines = "16-27"
+title = "Dante's Inquiry"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "li vostri antichi", status = "mentioned" },
+  { who = "San Giovanni", status = "mentioned" },
+  { who = "le genti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:16", lines = "16-27", speaker = "Dante", addressee = "Cacciaguida", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Cacciaguida", lines = "16-16" },
+  { subj = "Cacciaguida", predicate = "gives", obj = "Dante", lines = "17-17" },
+  { subj = "Cacciaguida", predicate = "brings", obj = "Dante", lines = "18-18" },
+  { subj = "Dante", predicate = "compares", obj = "Dante", lines = "18-18" },
+  { subj = "Dante", predicate = "asks", obj = "Cacciaguida", lines = "22-22" },
+  { subj = "Dante", predicate = "addresses", obj = "Cacciaguida", lines = "22-22" },
+  { subj = "Dante", predicate = "asks", obj = "Cacciaguida", lines = "25-25" },
+]
+basis = "16-27"
+
+[[scene]]
+lines = "28-39"
+title = "Cacciaguida's Origins"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "mia madre", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:34A", lines = "34-154", speaker = "Cacciaguida", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Cacciaguida", lines = "29-30" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Cacciaguida", lines = "30-30" },
+  { subj = "Dante", predicate = "sees", obj = "Cacciaguida", lines = "31-31" },
+  { subj = "Cacciaguida", predicate = "answers", obj = "Dante", lines = "34-34" },
+]
+basis = "28-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Ancestral Boundaries"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Li antichi miei", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "quei che corre il vostro annüal gioco", status = "mentioned" },
+  { who = "color ch'a quel tempo eran ivi", status = "mentioned" },
+  { who = "l Batista", status = "mentioned" },
+  { who = "quei ch'or son vivi", status = "mentioned" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-57"
+title = "The Dilution of Citizenship"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "ultimo artista", status = "mentioned" },
+  { who = "quelle genti", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "villan d'Aguglion", status = "mentioned" },
+  { who = "quel da Signa", status = "mentioned" },
+]
+basis = "49-57"
+
+[[scene]]
+lines = "58-66"
+title = "The Loss of Florentine Virtue"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "gente", status = "mentioned" },
+  { who = "Cesare", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+  { who = "l'avolo", status = "mentioned" },
+  { who = "Conti", status = "mentioned" },
+  { who = "Cerchi", status = "mentioned" },
+  { who = "Buondelmonti", status = "mentioned" },
+]
+refer = [
+  { phrase = "la gente", line = 58, resolves = "gente" },
+  { phrase = "la gente", line = 60, resolves = "gente" },
+]
+simile = [
+  { lines = "58-59", vehicle = "Cesare" },
+  { lines = "60-60", vehicle = "figlio" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-78"
+title = "The Instability of Cities"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "persone", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "le schiatte", status = "mentioned" },
+]
+basis = "67-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Unpredictability of Fortune"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "li alti Fiorentini", status = "mentioned" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "tells", obj = "Dante", lines = "79-81" },
+  { subj = "Cacciaguida", predicate = "prophesies", obj = "li alti Fiorentini", lines = "86-87" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-93"
+title = "The Catalog of Illustrious Families"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "li Ughi", status = "mentioned" },
+  { who = "i Catellini", status = "mentioned" },
+  { who = "i Filippi", status = "mentioned" },
+  { who = "i Greci", status = "mentioned" },
+  { who = "Ormanni", status = "mentioned" },
+  { who = "Alberichi", status = "mentioned" },
+  { who = "quel de la Sannella", status = "mentioned" },
+  { who = "la Sannella", status = "mentioned" },
+  { who = "quel de l'Arca", status = "mentioned" },
+  { who = "Soldanieri", status = "mentioned" },
+  { who = "Ardinghi", status = "mentioned" },
+  { who = "Bostichi", status = "mentioned" },
+]
+refer = [
+  { phrase = "Filippi", line = 88, resolves = "i Filippi" },
+  { phrase = "Greci", line = 88, resolves = "i Greci" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-108"
+title = "The Rise of Corrupt Families"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "conte Guido", status = "mentioned" },
+  { who = "Bellincione", status = "mentioned" },
+  { who = "Quel de la Pressa", status = "mentioned" },
+  { who = "Galigaio", status = "mentioned" },
+  { who = "Vaio", status = "mentioned" },
+  { who = "Sacchetti", status = "mentioned" },
+  { who = "Giuochi", status = "mentioned" },
+  { who = "Fifanti", status = "mentioned" },
+  { who = "Barucci", status = "mentioned" },
+  { who = "Galli", status = "mentioned" },
+  { who = "quei ch'arrossan per lo staio", status = "mentioned" },
+  { who = "Calfucci", status = "mentioned" },
+  { who = "Sizii", status = "mentioned" },
+  { who = "Arrigucci", status = "mentioned" },
+]
+basis = "94-108"
+
+[[scene]]
+lines = "109-118"
+title = "The Pride of the New Class"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "quei che son disfatti per lor superbia", status = "mentioned" },
+  { who = "i padri", status = "mentioned" },
+  { who = "coloro che si fanno grassi stando a consistoro", status = "mentioned" },
+  { who = "l'oltracotata schiatta", status = "mentioned" },
+]
+basis = "109-118"
+
+[[scene]]
+lines = "119-126"
+title = "The Shifts in the Marketplace"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Ubertin Donato", status = "mentioned" },
+  { who = "suocero", status = "mentioned" },
+  { who = "'l Caponsacco", status = "mentioned" },
+  { who = "Giuda", status = "mentioned" },
+  { who = "Infangato", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "buon cittadino", status = "mentioned" },
+  { who = "quei de la Pera", status = "mentioned" },
+]
+refer = [
+  { phrase = "il suocero", line = 120, resolves = "suocero" },
+]
+basis = "119-126"
+
+[[scene]]
+lines = "127-135"
+title = "The Loss of Privileges"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "gran barone", status = "mentioned" },
+  { who = "Tommaso", status = "mentioned" },
+  { who = "Ciascun che de la bella insegna porta", status = "mentioned" },
+  { who = "colui che la fascia col fregio", status = "mentioned" },
+  { who = "Gualterotti", status = "mentioned" },
+  { who = "Importuni", status = "mentioned" },
+  { who = "novi vicin", status = "mentioned" },
+]
+basis = "127-135"
+
+[[scene]]
+lines = "136-144"
+title = "The Tragedy of Buondelmonte"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "suoi consorti", status = "mentioned" },
+  { who = "Buondelmonte", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Ema", status = "mentioned" },
+]
+basis = "136-144"
+
+[[scene]]
+lines = "145-154"
+title = "The Vision of a Lost Peace"
+location = "qua giù"
+region = "ella"
+cast = [
+  { who = "queste genti", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "il popol suo", status = "mentioned" },
+]
+basis = "145-154"

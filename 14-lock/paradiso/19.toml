@@ -1,0 +1,241 @@
+canticle = "paradiso"
+canto = 19
+
+[[scene]]
+lines = "1-12"
+title = "The Visual Encounter"
+location = ""
+region = "temprata stella sesta"
+cohort = ["l'anime conserte"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'anime conserte", status = "present" },
+]
+speech = [
+  { quote_id = "19:11A", lines = "11-11", speaker = "la bella image", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "la bella image", predicate = "meets", obj = "Dante", lines = "1-1" },
+  { subj = "la bella image", predicate = "relates-to", obj = "l'anime conserte", lines = "2-3" },
+  { subj = "Dante", predicate = "sees", obj = "la bella image", lines = "10-10" },
+  { subj = "Dante", predicate = "hears", obj = "la bella image", lines = "10-10" },
+  { subj = "la bella image", predicate = "speaks-to", obj = "Dante", lines = "10-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Image's Self-Introduction"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "le genti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:13", lines = "13-18", speaker = "l'aquila", addressee = "(none)", source = "none" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-21"
+title = "The Unity of the Vision"
+location = ""
+region = "temprata stella sesta"
+cast = []
+basis = "19-21"
+
+[[scene]]
+lines = "22-33"
+title = "Dante's Plea for Understanding"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "19:22", lines = "22-33", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "perpetüi fiori", lines = "22-22" },
+  { subj = "Dante", predicate = "pleads-with", obj = "perpetüi fiori", lines = "25-25" },
+]
+basis = "22-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Gesture of Praise"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'aquila", lines = "37-37" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-51"
+title = "The Doctrine of the Fall"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Lucifero", status = "mentioned" },
+  { who = "ogne minor natura", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:40", lines = "40-90", speaker = "l'immagine celeste", addressee = "(none)", source = "none" },
+]
+basis = "40-51"
+
+[[scene]]
+lines = "52-63"
+title = "The Limits of Human Intellect"
+location = ""
+region = "temprata stella sesta"
+cast = []
+basis = "52-63"
+
+[[scene]]
+lines = "64-78"
+title = "The Problem of the Unbaptized"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+]
+refer = [
+  { phrase = "Un uom", line = 77, resolves = "l'uom" },
+]
+basis = "64-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Rebuke of Dante"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "immagine celeste", line = 79, resolves = "l'immagine celeste" },
+  { phrase = "immagine celeste", line = 82, resolves = "l'immagine celeste" },
+  { phrase = "immagine celeste", line = 83, resolves = "l'immagine celeste" },
+]
+relations = [
+  { subj = "l'immagine celeste", predicate = "rebukes", obj = "Dante", lines = "79-81" },
+  { subj = "l'immagine celeste", predicate = "rebukes", obj = "Dante", lines = "82-84" },
+  { subj = "l'immagine celeste", predicate = "rebukes", obj = "Dante", lines = "83-84" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Primacy of Divine Will"
+location = ""
+region = "temprata stella sesta"
+cast = []
+basis = "85-90"
+
+[[scene]]
+lines = "91-96"
+title = "The Image's Graceful Motion"
+location = ""
+region = "temprata stella sesta"
+cast = []
+basis = "91-96"
+
+[[scene]]
+lines = "97-99"
+title = "The Oracle of Judgment"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Aquila", line = 97, resolves = "l'aquila" },
+]
+relations = [
+  { subj = "l'aquila", predicate = "speaks-to", obj = "Dante", lines = "97-98" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-102"
+title = "The Stabilization of the Spirit"
+location = ""
+region = "temprata stella sesta"
+cohort = ["quei lucenti incendi"]
+cast = [
+  { who = "quei lucenti incendi", status = "present" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+]
+basis = "100-102"
+
+[[scene]]
+lines = "103-111"
+title = "The Requirement of Faith"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "chi non credette", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'Etïòpe", status = "mentioned" },
+  { who = "tai Cristian", status = "mentioned" },
+  { who = "i due collegi", status = "mentioned" },
+]
+relations = [
+  { subj = "l'immagine", predicate = "speaks-to", obj = "Dante", lines = "103-103" },
+  { subj = "Dante", predicate = "sees", obj = "tai Cristian", lines = "106-106" },
+]
+basis = "103-111"
+
+[[scene]]
+lines = "112-126"
+title = "Prophecies of Western Europe"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "regi", status = "mentioned" },
+  { who = "li Perse", status = "mentioned" },
+  { who = "Alberto", status = "mentioned" },
+  { who = "quel che morrà di colpo di cotenna", status = "mentioned" },
+  { who = "lo Scotto", status = "mentioned" },
+  { who = "l'Inghilese", status = "mentioned" },
+  { who = "quel di Spagna", status = "mentioned" },
+  { who = "quel di Boemme", status = "mentioned" },
+]
+basis = "112-126"
+
+[[scene]]
+lines = "127-138"
+title = "Prophecies of the Mediterranean and Italy"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Ciotto di Ierusalemme", status = "mentioned" },
+  { who = "quei che guarda l'isola del foco", status = "mentioned" },
+  { who = "Anchise", status = "mentioned" },
+  { who = "Bonifacio VIII", status = "mentioned" },
+  { who = "fratel", status = "mentioned" },
+]
+basis = "127-138"
+
+[[scene]]
+lines = "139-148"
+title = "Prophecies of the North and East"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "quel di Portogallo", status = "mentioned" },
+  { who = "quel di Portogallo, di Norvegia", status = "mentioned" },
+  { who = "quel di Rascia", status = "mentioned" },
+]
+basis = "139-148"

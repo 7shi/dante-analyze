@@ -1,0 +1,257 @@
+canticle = "paradiso"
+canto = 26
+
+[[scene]]
+lines = "1-12"
+title = "The Voice’s Command"
+location = "questa dia regïon"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Anania", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:4", lines = "4-12", speaker = "spiro", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "spiro", predicate = "speaks-to", obj = "Dante", lines = "4-12" },
+  { subj = "spiro", predicate = "tells", obj = "Dante", lines = "4-6" },
+  { subj = "spiro", predicate = "commands", obj = "Dante", lines = "7-7" },
+  { subj = "spiro", predicate = "commands", obj = "Dante", lines = "8-8" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "Dante’s Response"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:13", lines = "13-18", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+refer = [
+  { phrase = "Amore", line = 18, resolves = "amore" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "The Voice’s Inquiry"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-45"
+title = "Dante’s Philosophical Defense"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "la voce del verace autore", status = "mentioned" },
+  { who = "Moïsè", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:25", lines = "25-45", speaker = "Dante", addressee = "(none)", source = "none" },
+  { quote_id = "26:42", lines = "42-42", speaker = "Dio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "la voce del verace autore", predicate = "shows", obj = "Dante", lines = "37-39" },
+  { subj = "la voce del verace autore", predicate = "shows", obj = "Dante", lines = "43-45" },
+]
+basis = "25-45"
+
+[[scene]]
+lines = "46-51"
+title = "The Voice’s Second Question"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-66"
+title = "Dante’s Declaration of Intent"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "ogne fedel", status = "mentioned" },
+  { who = "l'ortolano etterno", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:55", lines = "55-66", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-79"
+title = "Beatrice’s Radiant Appearance"
+location = "questa corte"
+region = "ramo"
+cohort = ["li altri"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "li altri", status = "present" },
+  { who = "lo svegliato", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Beatrice", lines = "67-69" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "li altri", lines = "69-69" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "77-79" },
+]
+basis = "67-79"
+
+[[scene]]
+lines = "80-84"
+title = "The Vision of the Fourth Light"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Pietro", status = "present" },
+  { who = "Giacomo", status = "present" },
+  { who = "Giovanni", status = "present" },
+  { who = "l'anima prima", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "80-81" },
+  { subj = "Dante", predicate = "sees", obj = "l'anima prima", lines = "81-81" },
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "82-82" },
+]
+basis = "80-84"
+
+[[scene]]
+lines = "85-90"
+title = "Dante’s Physical Reaction"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "88-88" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-96"
+title = "Dante’s Prayerful Plea"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "padre antico", status = "mentioned" },
+  { who = "ciascuna sposa", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:91", lines = "91-96", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "padre antico", lines = "91-92" },
+  { subj = "Dante", predicate = "relates-to", obj = "padre antico", lines = "94-94" },
+  { subj = "Dante", predicate = "pleads-with", obj = "padre antico", lines = "94-94" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Analogy of Hidden Desire"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "l'anima primaia", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "l'anima primaia", predicate = "shows", obj = "Dante", lines = "100-101" },
+  { subj = "l'anima primaia", predicate = "relates-to", obj = "Dante", lines = "102-102" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-114"
+title = "The Spirit’s Promise"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "la prima anima", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "la prima anima", predicate = "speaks-to", obj = "Dante", lines = "103-114" },
+]
+basis = "103-114"
+
+[[scene]]
+lines = "115-117"
+title = "The Cause of the Journey"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "115-117"
+
+[[scene]]
+lines = "118-123"
+title = "The History of Virgil"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "la prima anima", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-132"
+title = "Reflections on Human Speech"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "First Soul", status = "present" },
+  { who = "Nembròt", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-142"
+title = "The Revelation of the Name"
+location = "questa corte"
+region = "ramo"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "mortali", status = "mentioned" },
+]
+refer = [
+  { phrase = "i mortali", line = 134, resolves = "mortali" },
+  { phrase = "i mortali", line = 136, resolves = "mortali" },
+]
+basis = "133-142"

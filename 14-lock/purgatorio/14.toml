@@ -1,0 +1,315 @@
+canticle = "purgatorio"
+canto = 14
+
+[[scene]]
+lines = "1-6"
+title = "The Spirits' Observation"
+location = ""
+region = "cornice"
+cohort = ["spirito"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "spirito", status = "present" },
+]
+speech = [
+  { quote_id = "14:4", lines = "4-6", speaker = "spirito", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "spirito", predicate = "asks", obj = "Dante", lines = "1-1" },
+  { subj = "spirito", predicate = "commands", obj = "spirito", lines = "5-5" },
+  { subj = "spirito", predicate = "commands", obj = "spirito", lines = "6-6" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The First Spirit's Greeting"
+location = ""
+region = "cornice"
+cohort = ["due spirti"]
+cast = [
+  { who = "due spirti", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "due spirti", predicate = "relates-to", obj = "Dante", lines = "8-8" },
+  { subj = "due spirti", predicate = "addresses", obj = "Dante", lines = "9-9" },
+  { subj = "due spirti", predicate = "speaks-to", obj = "Dante", lines = "10-10" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-24"
+title = "The Riddle of the Arno"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei che diceva pria", status = "present" },
+]
+speech = [
+  { quote_id = "14:16", lines = "16-21", speaker = "Dante", addressee = "quei che diceva pria", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "quei che diceva pria", lines = "16-21" },
+  { subj = "quei che diceva pria", predicate = "answers", obj = "Dante", lines = "23-24" },
+  { subj = "quei che diceva pria", predicate = "tells", obj = "Dante", lines = "24-24" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-27"
+title = "The Second Spirit's Query"
+location = ""
+region = "cornice"
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "om", status = "mentioned" },
+]
+refer = [
+  { phrase = "l'altro", line = 25, resolves = "L'altro" },
+]
+relations = [
+  { subj = "L'altro", predicate = "asks", obj = "Dante", lines = "25-27" },
+]
+basis = "25-27"
+
+[[scene]]
+lines = "28-51"
+title = "The Corruption of the Valley"
+location = ""
+region = "cornice"
+cohort = ["l'ombra"]
+cast = [
+  { who = "l'ombra", status = "present" },
+  { who = "li abitator", status = "mentioned" },
+  { who = "Circe", status = "mentioned" },
+  { who = "Botoli", status = "mentioned" },
+]
+basis = "28-51"
+
+[[scene]]
+lines = "52-54"
+title = "The Cunning Foxes"
+location = ""
+region = "cornice"
+cast = []
+basis = "52-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Prophecy of the Hunter"
+location = ""
+region = "cornice"
+cohort = ["Spirto"]
+cast = [
+  { who = "Spirto", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "vero spirto", status = "mentioned" },
+]
+refer = [
+  { phrase = "spirto", line = 57, resolves = "Spirto" },
+  { phrase = "spirto", line = 58, resolves = "Spirto" },
+  { phrase = "spirto", line = 65, resolves = "Spirto" },
+]
+relations = [
+  { subj = "vero spirto", predicate = "shows", obj = "Spirto", lines = "57-57" },
+  { subj = "Spirto", predicate = "sees", obj = "cacciator", lines = "58-58" },
+  { subj = "Spirto", predicate = "commands", obj = "Dante", lines = "65-65" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Second Spirit's Grief"
+location = ""
+region = "cornice"
+cast = [
+  { who = "colui ch'ascolta", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'altr' anima", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'altr' anima", lines = "70-70" },
+]
+simile = [
+  { lines = "67-72", vehicle = "colui ch'ascolta" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-84"
+title = "Guido's Introduction"
+location = ""
+region = "cornice"
+cohort = ["Spirto"]
+cast = [
+  { who = "Guido", status = "present" },
+  { who = "Spirto", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+]
+refer = [
+  { phrase = "lo spirto", line = 73, resolves = "Spirto" },
+  { phrase = "uom", line = 83, resolves = "l'uom" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Guido", lines = "73-74" },
+  { subj = "Dante", predicate = "sees", obj = "Spirto", lines = "73-74" },
+  { subj = "Dante", predicate = "asks", obj = "Guido", lines = "75-76" },
+  { subj = "Guido", predicate = "speaks-to", obj = "Dante", lines = "77-77" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Blight of Lineage"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Guido del Duca", status = "present" },
+  { who = "gente umana", status = "mentioned" },
+  { who = "consorte", status = "mentioned" },
+  { who = "Rinier", status = "present" },
+]
+relations = [
+  { subj = "Guido del Duca", predicate = "addresses", obj = "gente umana", lines = "86-86" },
+  { subj = "Guido del Duca", predicate = "asks", obj = "gente umana", lines = "86-87" },
+  { subj = "Guido del Duca", predicate = "names", obj = "Rinier", lines = "88-88" },
+  { subj = "Guido del Duca", predicate = "praises", obj = "Rinier", lines = "88-88" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-102"
+title = "Lament for Romagna"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Lizio", status = "mentioned" },
+  { who = "Arrigo Mainardi", status = "mentioned" },
+  { who = "Pier Traversaro", status = "mentioned" },
+  { who = "Guido di Carpigna", status = "mentioned" },
+  { who = "un Fabbro", status = "mentioned" },
+  { who = "Bernardin di Fosco", status = "mentioned" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-111"
+title = "Mourning the Lost Greatness"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido del Duca", status = "present" },
+  { who = "Guido da Prata", status = "mentioned" },
+  { who = "Ugolin d'Azzo", status = "mentioned" },
+  { who = "Federigo Tignoso", status = "mentioned" },
+  { who = "la casa Traversara", status = "mentioned" },
+  { who = "li Anastagi", status = "mentioned" },
+  { who = "le donne e ' cavalier", status = "mentioned" },
+]
+relations = [
+  { subj = "Guido del Duca", predicate = "addresses", obj = "Dante", lines = "103-103" },
+]
+basis = "103-111"
+
+[[scene]]
+lines = "112-123"
+title = "The Decay of Towns"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Conio", status = "mentioned" },
+  { who = "i Pagan", status = "mentioned" },
+  { who = "demonio", status = "mentioned" },
+  { who = "testimonio", status = "mentioned" },
+  { who = "Ugolin de' Fantolin", status = "present" },
+]
+refer = [
+  { phrase = "'l demonio", line = 118, resolves = "demonio" },
+]
+basis = "112-123"
+
+[[scene]]
+lines = "124-126"
+title = "Guido's Exhaustion"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido del Duca", status = "present" },
+]
+relations = [
+  { subj = "Guido del Duca", predicate = "commands", obj = "Dante", lines = "124-124" },
+  { subj = "Guido del Duca", predicate = "addresses", obj = "Dante", lines = "124-124" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-135"
+title = "The Thunderous Voice"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Guido del Duca", status = "present" },
+  { who = "Rinier", status = "mentioned" },
+]
+speech = [
+  { quote_id = "14:133", lines = "133-133", speaker = "la voce", addressee = "Virgilio", source = "llm" },
+]
+refer = [
+  { phrase = "voce", line = 132, resolves = "la voce" },
+]
+relations = [
+  { subj = "Guido del Duca, Rinier", predicate = "hears", obj = "Dante, Virgilio", lines = "127-128" },
+  { subj = "la voce", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "132-133" },
+]
+basis = "127-135"
+
+[[scene]]
+lines = "136-139"
+title = "The Appearance of Aglauro"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Aglauro", status = "present" },
+]
+speech = [
+  { quote_id = "14:139", lines = "139-139", speaker = "Aglauro", addressee = "(none)", source = "none" },
+]
+basis = "136-139"
+
+[[scene]]
+lines = "140-141"
+title = "Dante's Reaction"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "touches", obj = "Virgilio", lines = "140-141" },
+]
+basis = "140-141"
+
+[[scene]]
+lines = "142-151"
+title = "Aglauro's Warning"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Aglauro", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'antico avversaro", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "142-151"

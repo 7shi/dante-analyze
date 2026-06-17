@@ -1,0 +1,331 @@
+canticle = "paradiso"
+canto = 20
+
+[[scene]]
+lines = "1-12"
+title = "The Vision of the Heavens"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "duci", status = "mentioned" },
+]
+relations = [
+  { subj = "l segno del mondo", predicate = "relates-to", obj = "duci", lines = "8-8" },
+  { subj = "l segno del mondo", predicate = "relates-to", obj = "l segno del mondo", lines = "8-9" },
+  { subj = "duci", predicate = "relates-to", obj = "l segno del mondo", lines = "8-9" },
+]
+simile = [
+  { lines = "7-9", vehicle = "l segno del mondo" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "Reflection on the Angelic Lights"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "que' flailli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "dolce amor", lines = "13-13" },
+  { subj = "dolce amor", predicate = "relates-to", obj = "que' flailli", lines = "14-14" },
+  { subj = "Dante", predicate = "sees", obj = "que' flailli", lines = "16-17" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-27"
+title = "The Sound of the Stream"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "19-27"
+
+[[scene]]
+lines = "28-30"
+title = "The Emergence of the Voice"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "28-30"
+
+[[scene]]
+lines = "31-36"
+title = "The First Light: The Holy Spirit's Cantor"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "20:31", lines = "31-32", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Glory of the Cantor"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Gregorio", status = "present" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-48"
+title = "The Second Light: The Widow's Comfort"
+location = ""
+region = "temprata stella sesta"
+cohort = ["Dei cinque"]
+cast = [
+  { who = "Dei cinque", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "colui che più al becco mi s'accosta", status = "present" },
+  { who = "la vedovella", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dei cinque", predicate = "meets", obj = "Dante", lines = "43-43" },
+  { subj = "colui che più al becco mi s'accosta", predicate = "meets", obj = "Dante", lines = "44-44" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-54"
+title = "The Third Light: The Penitent"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "la terza luce", status = "present" },
+]
+refer = [
+  { phrase = "l'Aquila", line = 49, resolves = "l'aquila" },
+]
+relations = [
+  { subj = "l'aquila", predicate = "relates-to", obj = "la terza luce", lines = "49-50" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-60"
+title = "The Fourth Light: The Good Intention"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "pastor", status = "mentioned" },
+]
+relations = [
+  { subj = "L'altro", predicate = "follows", obj = "l'aquila", lines = "55-55" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Fifth Light: The Just King"
+location = ""
+region = "temprata stella sesta"
+cast = [
+  { who = "Guiglielmo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Carlo", status = "mentioned" },
+  { who = "Federigo", status = "mentioned" },
+]
+refer = [
+  { phrase = "lo ciel", line = 64, resolves = "il ciel" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Guiglielmo", lines = "61-61" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Fifth Light Revealed: Rifeyo"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Rifëo Troiano", status = "present" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-78"
+title = "Analogy of the Satisfied Bird"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "Dante's Inquiry"
+location = "questo tondo"
+region = "temprata stella sesta"
+cohort = ["luci"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "luci", status = "present" },
+]
+refer = [
+  { phrase = "le luci", line = 82, resolves = "luci" },
+  { phrase = "le luci", line = 84, resolves = "luci" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "luci", lines = "82-82" },
+  { subj = "Dante", predicate = "sees", obj = "luci", lines = "84-84" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-93"
+title = "The Mystery of Essence"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei che la cosa per nome apprende ben", status = "mentioned" },
+]
+speech = [
+  { quote_id = "20:88", lines = "88-138", speaker = "lo benedetto segno", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "lo benedetto segno", predicate = "answers", obj = "Dante", lines = "86-86" },
+  { subj = "lo benedetto segno", predicate = "commands", obj = "Dante", lines = "91-91" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Paradox of Divine Will"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "l'omo", status = "mentioned" },
+  { who = "om", status = "mentioned" },
+]
+refer = [
+  { phrase = "l'om", line = 97, resolves = "om" },
+]
+simile = [
+  { lines = "97-97", vehicle = "om" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Nature of the First and Fifth Lights"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Gregorio", status = "mentioned" },
+  { who = "Resso", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "li angeli", status = "mentioned" },
+  { who = "Gentili", status = "mentioned" },
+  { who = "Cristiani", status = "mentioned" },
+  { who = "i passuri", status = "mentioned" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-117"
+title = "The Story of the First Light's Rebirth"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "L'anima glorïosa", status = "mentioned" },
+  { who = "una de lo 'nferno", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "106-117"
+
+[[scene]]
+lines = "118-126"
+title = "The Story of the Second Light's Conversion"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "creatura", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "l'altra", status = "mentioned" },
+  { who = "le genti perverse", status = "mentioned" },
+]
+basis = "118-126"
+
+[[scene]]
+lines = "127-129"
+title = "The Identity of the Three Women"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Quelle tre donne", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-132"
+title = "A Lament on Predestination"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Dio", status = "mentioned" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Limits of Mortal Judgment"
+location = "questo tondo"
+region = "temprata stella sesta"
+cohort = ["li beati"]
+cast = [
+  { who = "mortali", status = "present" },
+  { who = "li beati", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "li eletti", status = "mentioned" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-141"
+title = "The Healing Word"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "l'Aquila", line = 139, resolves = "l'aquila" },
+]
+relations = [
+  { subj = "l'aquila", predicate = "gives", obj = "Dante", lines = "139-141" },
+]
+basis = "139-141"
+
+[[scene]]
+lines = "142-148"
+title = "The Harmony of Light and Word"
+location = "questo tondo"
+region = "temprata stella sesta"
+cast = [
+  { who = "buon cantor", status = "mentioned" },
+  { who = "buon citarista", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "142-143", vehicle = "buon cantor" },
+]
+basis = "142-148"

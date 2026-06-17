@@ -1,0 +1,221 @@
+canticle = "paradiso"
+canto = 6
+
+[[scene]]
+lines = "1-9"
+title = "The Movement of the Imperial Eagle"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Costantin", status = "mentioned" },
+  { who = "Enea", status = "mentioned" },
+  { who = "Lavina", status = "mentioned" },
+  { who = "Giustiniano", status = "mentioned" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-27"
+title = "The Imperial Persona and Spiritual Journey"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Iustinïano", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Agapito", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Belisar", status = "mentioned" },
+]
+relations = [
+  { subj = "Iustinïano", predicate = "speaks-to", obj = "Dante", lines = "20-20" },
+]
+basis = "10-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Significance of the Political Sign"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Giustino", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "chi 'l s'appropria", status = "mentioned" },
+  { who = "chi a lui s'oppone", status = "mentioned" },
+]
+relations = [
+  { subj = "Giustino", predicate = "answers", obj = "Dante", lines = "28-29" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-48"
+title = "The Glory of the Roman Lineage"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Pallante", status = "mentioned" },
+  { who = "Enea e i suoi discendenti", status = "mentioned" },
+  { who = "Enea", status = "mentioned" },
+  { who = "le Sabine", status = "mentioned" },
+  { who = "Lucrezia", status = "mentioned" },
+  { who = "sette regi", status = "mentioned" },
+  { who = "le genti vicine", status = "mentioned" },
+  { who = "li egregi", status = "mentioned" },
+  { who = "Romani", status = "mentioned" },
+  { who = "Brenno", status = "mentioned" },
+  { who = "Pirro", status = "mentioned" },
+  { who = "li altri principi", status = "mentioned" },
+  { who = "collegi", status = "mentioned" },
+  { who = "Torquato", status = "mentioned" },
+  { who = "Quinzio", status = "mentioned" },
+  { who = "i Deci", status = "mentioned" },
+  { who = "' Fabi", status = "mentioned" },
+]
+basis = "34-48"
+
+[[scene]]
+lines = "49-54"
+title = "The Expansion of Imperial Power"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Anibale", status = "mentioned" },
+  { who = "giovanetti", status = "mentioned" },
+  { who = "Scipïone", status = "mentioned" },
+  { who = "Pompeo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "L'aquila", line = 49, resolves = "l'aquila" },
+  { phrase = "L'aquila", line = 52, resolves = "l'aquila" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Era of Julius Caesar"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Cesare", status = "mentioned" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-72"
+title = "The Global Reach of the Empire"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Cesare", status = "mentioned" },
+  { who = "Ettore", status = "mentioned" },
+  { who = "Tolomeo", status = "mentioned" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-81"
+title = "The Tragedies of War and the Era of Peace"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Cesare", status = "mentioned" },
+  { who = "col baiulo", status = "mentioned" },
+  { who = "Bruto", status = "mentioned" },
+  { who = "Cassio", status = "mentioned" },
+  { who = "Cleopatra", status = "mentioned" },
+  { who = "Augusto", status = "mentioned" },
+  { who = "Giano", status = "mentioned" },
+]
+basis = "73-81"
+
+[[scene]]
+lines = "82-90"
+title = "The Third Caesar and Divine Justice"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Giustiniano", status = "mentioned" },
+  { who = "Costantino", status = "mentioned" },
+]
+relations = [
+  { subj = "Giustiniano", predicate = "names", obj = "Costantino", lines = "89-89" },
+]
+basis = "82-90"
+
+[[scene]]
+lines = "91-96"
+title = "Charlemagne and the Defense of the Church"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Giustiniano", status = "mentioned" },
+  { who = "Tito", status = "mentioned" },
+  { who = "Carlo Magno", status = "mentioned" },
+]
+relations = [
+  { subj = "Giustiniano", predicate = "answers", obj = "Dante", lines = "91-91" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-111"
+title = "The Corruption of the Factions"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei cotali", status = "mentioned" },
+  { who = "Giustiniano", status = "mentioned" },
+  { who = "Guelfi", status = "mentioned" },
+  { who = "li Ghibellin", status = "mentioned" },
+  { who = "chi più si falli", status = "mentioned" },
+  { who = "chi la giustizia e lui diparte", status = "mentioned" },
+  { who = "Carlo novello", status = "mentioned" },
+  { who = "li figli", status = "mentioned" },
+  { who = "il Padre", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "padre", line = 109, resolves = "il Padre" },
+]
+relations = [
+  { subj = "Giustiniano", predicate = "tells", obj = "Dante", lines = "97-97" },
+]
+basis = "97-111"
+
+[[scene]]
+lines = "112-123"
+title = "The Cosmic Balance of Merit"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "i buoni spirti", status = "mentioned" },
+]
+basis = "112-123"
+
+[[scene]]
+lines = "124-135"
+title = "The Harmony of the Troubadours"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Romeo", status = "mentioned" },
+  { who = "Quattro figlie", status = "mentioned" },
+  { who = "Ramondo Beringhiere", status = "mentioned" },
+]
+basis = "124-135"
+
+[[scene]]
+lines = "136-142"
+title = "A Tribute to the Humble Wanderer"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Giustiniano", status = "mentioned" },
+  { who = "Romeo", status = "present" },
+]
+basis = "136-142"

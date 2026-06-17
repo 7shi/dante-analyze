@@ -1,0 +1,332 @@
+canticle = "paradiso"
+canto = 32
+
+[[scene]]
+lines = "1-9"
+title = "The Arrangement of the Matriarchs"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Bernardo", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Eva", status = "present" },
+  { who = "Rachel", status = "present" },
+  { who = "Bëatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "32:4", lines = "4-87", speaker = "Bernardo", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "speaks-to", obj = "Dante", lines = "3-3" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "The Lineage of the Hebrew Mothers"
+location = "la rosa"
+region = "qua sù"
+cast = [
+  { who = "Sarra", status = "mentioned" },
+  { who = "Rebecca", status = "mentioned" },
+  { who = "Iudìt", status = "mentioned" },
+  { who = "Rut", status = "mentioned" },
+  { who = "Davide", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "names", obj = "Sarra", lines = "10-10" },
+  { subj = "Bernardo", predicate = "names", obj = "Rebecca", lines = "10-10" },
+  { subj = "Bernardo", predicate = "names", obj = "Iudìt", lines = "10-10" },
+  { subj = "Bernardo", predicate = "names", obj = "Rut", lines = "10-11" },
+  { subj = "Bernardo", predicate = "compares", obj = "Dante", lines = "13-15" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-27"
+title = "The Structure of the Two Hemispheres"
+location = "la rosa"
+region = "qua sù"
+cohort = ["Ebree", "quei che credettero in Cristo venturo", "quei ch'a Cristo venuto ebber li visi"]
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Ebree", status = "present" },
+  { who = "quei che credettero in Cristo venturo", status = "present" },
+  { who = "quei ch'a Cristo venuto ebber li visi", status = "present" },
+]
+basis = "16-27"
+
+[[scene]]
+lines = "28-36"
+title = "The Hierarchy of the Great Doctors"
+location = "la rosa"
+region = "qua sù"
+cast = [
+  { who = "Maria", status = "present" },
+  { who = "Giovanni", status = "present" },
+  { who = "Francesco", status = "present" },
+  { who = "Benedetto", status = "present" },
+  { who = "Augustino", status = "present" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-45"
+title = "The Principle of Divine Providence"
+location = "questo giardino"
+region = "qua sù"
+cohort = ["spiriti ascolti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "spiriti ascolti", status = "present" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-51"
+title = "A Promise of Clarification"
+location = "questo giardino"
+region = "qua sù"
+cohort = ["spiriti chiamati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "spiriti chiamati", status = "present" },
+  { who = "Bernardo", status = "present" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Nature of Eternal Joy and Grace"
+location = "questo giardino"
+region = "qua sù"
+cohort = ["questa festinata gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "questa festinata gente", status = "present" },
+  { who = "rege", status = "mentioned" },
+]
+refer = [
+  { phrase = "Lo rege", line = 64, resolves = "rege" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Distinction of Divine Gifts"
+location = "questo giardino"
+region = "qua sù"
+cohort = ["i beati"]
+cast = [
+  { who = "Esaù", status = "mentioned" },
+  { who = "Rebecca", status = "mentioned" },
+  { who = "l'anima", status = "mentioned" },
+  { who = "i beati", status = "present" },
+]
+refer = [
+  { phrase = "anima", line = 71, resolves = "l'anima" },
+  { phrase = "beati", line = 73, resolves = "i beati" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Evolution of the Covenant"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "parenti", status = "mentioned" },
+  { who = "ai maschi", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-87"
+title = "The Command to Focus on Christ"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Celestial Anthem"
+location = "questo giardino"
+region = "qua sù"
+cohort = ["le menti sante"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Maria", status = "present" },
+  { who = "le menti sante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "quell'amor", predicate = "addresses", obj = "Maria", lines = "95-95" },
+  { subj = "quell'amor", predicate = "praises", obj = "Maria", lines = "96-96" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-99"
+title = "The Responding Court"
+location = "questo giardino"
+region = "qua sù"
+cast = []
+basis = "97-99"
+
+[[scene]]
+lines = "100-105"
+title = "A Question of Love"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Bernardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "quell' angel", status = "present" },
+  { who = "Maria", status = "present" },
+]
+speech = [
+  { quote_id = "32:100", lines = "100-105", speaker = "Dante", addressee = "Bernardo", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Bernardo", lines = "100-105" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-114"
+title = "Identification of the Angel"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "San Bernardo", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "l'angelo", status = "present" },
+  { who = "l'alma", status = "mentioned" },
+  { who = "Dio e i beati", status = "mentioned" },
+  { who = "Figliuol di Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "32:109", lines = "109-150", speaker = "Bernardo", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "angelo", line = 112, resolves = "l'angelo" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "San Bernardo", lines = "106-107" },
+  { subj = "San Bernardo", predicate = "speaks-to", obj = "Dante", lines = "109-109" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Roots of the Rose"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+  { who = "Pietro", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Maria", status = "mentioned" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Patriarchs of the Church"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Paolo", status = "present" },
+  { who = "Maria", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Pietro", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+refer = [
+  { phrase = "Santa Chiesa", line = 124, resolves = "la Santa Chiesa" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Pietro", lines = "124-124" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Great Biblical Figures"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "San Paolo", status = "present" },
+  { who = "San Pietro", status = "present" },
+  { who = "Mosè", status = "present" },
+  { who = "Israeliti", status = "mentioned" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Matriarchal Counterparts"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Pietro", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Anna", status = "present" },
+  { who = "Maria", status = "present" },
+  { who = "Paolo", status = "present" },
+  { who = "Lucia", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Anna", lines = "133-133" },
+  { subj = "Anna", predicate = "relates-to", obj = "Pietro", lines = "133-133" },
+  { subj = "Anna", predicate = "sees", obj = "Maria", lines = "134-134" },
+  { subj = "Maria", predicate = "relates-to", obj = "Anna", lines = "134-134" },
+  { subj = "Dante", predicate = "sees", obj = "Lucia", lines = "136-137" },
+  { subj = "Lucia", predicate = "relates-to", obj = "Paolo", lines = "136-137" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "137-137" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-144"
+title = "The Final Instruction"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "San Bernardo", status = "present" },
+  { who = "buon sartore", status = "mentioned" },
+  { who = "primo amore", status = "mentioned" },
+]
+simile = [
+  { lines = "140-141", vehicle = "buon sartore" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-151"
+title = "The Call for Grace"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Bernardo", status = "present" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "warns", obj = "Dante", lines = "145-146" },
+  { subj = "Bernardo", predicate = "commands", obj = "Dante", lines = "149-150" },
+]
+basis = "145-151"

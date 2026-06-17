@@ -1,0 +1,200 @@
+canticle = "inferno"
+canto = 11
+
+[[scene]]
+lines = "1-9"
+title = "The Inscription at the Abyss"
+location = "estremità d'un'alta ripa"
+region = "un sentier"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Anastasio papa", status = "mentioned" },
+  { who = "Fotin", status = "mentioned" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "Preparing for the Descent"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "11:15", lines = "15-15", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "10-13" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "14-14" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "15-15" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-27"
+title = "Overview of the Circles"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "spirti maladetti", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "li frodolenti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "11:17", lines = "17-66", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "16-16" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "16-17" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "20-21" },
+]
+basis = "16-27"
+
+[[scene]]
+lines = "28-39"
+title = "The Circle of Violence"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "vïolenti", status = "mentioned" },
+  { who = "Dio, sé, prossimo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "prossimo", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "omicide", status = "mentioned" },
+  { who = "guastatori", status = "mentioned" },
+  { who = "predon", status = "mentioned" },
+]
+basis = "28-39"
+
+[[scene]]
+lines = "40-51"
+title = "Violence Against Self and God"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "l'omo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "omo", line = 40, resolves = "l'omo" },
+  { phrase = "omo", line = 46, resolves = "l'omo" },
+  { phrase = "omo", line = 47, resolves = "l'omo" },
+  { phrase = "omo", line = 48, resolves = "l'omo" },
+  { phrase = "omo", line = 51, resolves = "l'omo" },
+]
+basis = "40-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Circle of Fraud"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "l'omo", status = "mentioned" },
+  { who = "colui che 'n lui fida", status = "mentioned" },
+  { who = "quel che fidanza non imborsa", status = "mentioned" },
+  { who = "chi affattura", status = "mentioned" },
+  { who = "ruffian", status = "mentioned" },
+  { who = "baratti", status = "mentioned" },
+  { who = "qualunque trade", status = "mentioned" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-75"
+title = "Dante's Inquiry"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quei de la palude pingue", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "67-67" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "70-70" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-90"
+title = "The Aristotelian Defense"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cohort = ["questi felli"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "incontinenti", status = "mentioned" },
+  { who = "questi felli", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "76-76" },
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "79-79" },
+]
+basis = "76-90"
+
+[[scene]]
+lines = "91-96"
+title = "Dante's Request for Reversal"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "11:91", lines = "91-94", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "91-91" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "94-94" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "94-94" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "96-96" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-111"
+title = "The Theology of Usury"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "chi la 'ntende", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "'l discente", status = "mentioned" },
+  { who = "l'usuriere", status = "mentioned" },
+]
+speech = [
+  { quote_id = "11:97B", lines = "97-115", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "97-97" },
+]
+simile = [
+  { lines = "104-104", vehicle = "Dio" },
+]
+basis = "97-111"
+
+[[scene]]
+lines = "112-115"
+title = "Celestial Navigation"
+location = "estremità d'un'alta ripa"
+region = "più crudele stipa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "112-115"

@@ -1,0 +1,492 @@
+canticle = "inferno"
+canto = 22
+
+[[scene]]
+lines = "1-12"
+title = "The Knightly Vision"
+location = ""
+region = "ripa sesta"
+cohort = ["Aretini"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Aretini", status = "present" },
+  { who = "gualdane", status = "mentioned" },
+  { who = "pedoni", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Aretini", lines = "5-5" },
+]
+simile = [
+  { lines = "1-1", vehicle = "cavalier" },
+  { lines = "4-4", vehicle = "corridor" },
+  { lines = "5-5", vehicle = "gualdane" },
+  { lines = "11-11", vehicle = "cavalier" },
+  { lines = "11-11", vehicle = "pedoni" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "Dante’s Observation"
+location = ""
+region = "ripa sesta"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "li diece demoni", status = "present" },
+  { who = "santi", status = "mentioned" },
+  { who = "ghiottoni", status = "mentioned" },
+  { who = "gente", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 16, resolves = "gente" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "follows", obj = "li diece demoni", lines = "13-13" },
+  { subj = "Dante, Virgilio", predicate = "addresses", obj = "li diece demoni", lines = "14-14" },
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "gente", lines = "16-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-30"
+title = "Sinners Hiding Like Frogs"
+location = ""
+region = "ripa sesta"
+cohort = ["i peccatori"]
+cast = [
+  { who = "a' marinar", status = "mentioned" },
+  { who = "i peccatori", status = "present" },
+  { who = "Barbariccia", status = "present" },
+]
+relations = [
+  { subj = "Barbariccia", predicate = "meets", obj = "i peccatori", lines = "29-30" },
+]
+basis = "19-30"
+
+[[scene]]
+lines = "31-36"
+title = "Graffiacan’s Agitation"
+location = ""
+region = "ripa sesta"
+cohort = ["barrattore"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "barrattore", status = "present" },
+  { who = "barrattori", status = "mentioned" },
+  { who = "Graffiacan", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "barrattore", lines = "31-32" },
+  { subj = "Dante", predicate = "sees", obj = "barrattori", lines = "31-32" },
+  { subj = "Graffiacan", predicate = "relates-to", obj = "barrattori", lines = "34-34" },
+  { subj = "Graffiacan", predicate = "touches", obj = "barrattori", lines = "35-35" },
+  { subj = "Dante", predicate = "sees", obj = "Graffiacan", lines = "36-36" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-39"
+title = "Dante’s Meta-Commentary"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Malebranche", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Malebranche", lines = "38-38" },
+  { subj = "Malebranche", predicate = "names", obj = "Malebranche", lines = "39-39" },
+  { subj = "Dante", predicate = "hears", obj = "Malebranche", lines = "39-39" },
+]
+basis = "37-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Demand for Hooks"
+location = ""
+region = "ripa sesta"
+cohort = ["i maladetti"]
+cast = [
+  { who = "Rubicante", status = "present" },
+  { who = "lo sciagurato", status = "present" },
+  { who = "i maladetti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "li avversari suoi", status = "present" },
+]
+relations = [
+  { subj = "i maladetti", predicate = "commands", obj = "Rubicante", lines = "40-42" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "43-45" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-54"
+title = "The Navarrese’s Origin"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "il Navarrese", status = "present" },
+  { who = "la madre", status = "mentioned" },
+  { who = "un segnor", status = "mentioned" },
+  { who = "un ribaldo", status = "mentioned" },
+  { who = "re Tebaldo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:48", lines = "48-54", speaker = "il Navarrese", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "meets", obj = "il Navarrese", lines = "46-46" },
+  { subj = "Virgilio", predicate = "asks", obj = "il Navarrese", lines = "47-47" },
+  { subj = "il Navarrese", predicate = "answers", obj = "Virgilio", lines = "47-47" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-57"
+title = "Cirïatto’s Snorting"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "Cirïatto", status = "present" },
+  { who = "il Navarrese", status = "present" },
+]
+relations = [
+  { subj = "Cirïatto", predicate = "punishes", obj = "il Navarrese", lines = "57-57" },
+]
+basis = "55-57"
+
+[[scene]]
+lines = "58-63"
+title = "Barbariccia’s Command"
+location = ""
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Cirïatto", status = "present" },
+  { who = "Barbariccia", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "il Navarrese", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "22:60", lines = "60-60", speaker = "Barbariccia", addressee = "Malebranche", source = "llm" },
+]
+refer = [
+  { phrase = "Navarrese", line = 60, resolves = "il Navarrese" },
+  { phrase = "Navarrese", line = 62, resolves = "il Navarrese" },
+]
+relations = [
+  { subj = "Barbariccia", predicate = "chases", obj = "Cirïatto", lines = "59-59" },
+  { subj = "Barbariccia", predicate = "commands", obj = "Malebranche", lines = "60-60" },
+  { subj = "Barbariccia", predicate = "addresses", obj = "Virgilio", lines = "61-61" },
+  { subj = "Barbariccia", predicate = "commands", obj = "Virgilio", lines = "62-62" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-69"
+title = "Searching for Italians"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "il Navarrese", status = "present" },
+  { who = "Latino", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:66", lines = "66-69", speaker = "il Navarrese", addressee = "Virgilio", source = "code" },
+]
+refer = [
+  { phrase = "il navarrese", line = 64, resolves = "il Navarrese" },
+  { phrase = "il navarrese", line = 66, resolves = "il Navarrese" },
+  { phrase = "latino", line = 66, resolves = "Latino" },
+  { phrase = "il navarrese", line = 68, resolves = "il Navarrese" },
+  { phrase = "latino", line = 68, resolves = "Latino" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "il Navarrese", lines = "64-66" },
+  { subj = "il Navarrese", predicate = "answers", obj = "Virgilio", lines = "66-66" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Chaos of the Hooks"
+location = ""
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Libicocco", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "il Navarrese", status = "present" },
+  { who = "Draghignazzo", status = "present" },
+  { who = "Barbariccia", status = "present" },
+]
+relations = [
+  { subj = "Libicocco", predicate = "punishes", obj = "il Navarrese", lines = "72-72" },
+  { subj = "Draghignazzo", predicate = "touches", obj = "il Navarrese", lines = "73-73" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-80"
+title = "Virgil’s Inquiry"
+location = ""
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Malebranche", status = "present" },
+  { who = "il Navarrese", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "la persona con cui il Navarrese fece mala partita", status = "mentioned" },
+]
+refer = [
+  { phrase = "Navarrese", line = 77, resolves = "il Navarrese" },
+  { phrase = "Navarrese", line = 79, resolves = "il Navarrese" },
+  { phrase = "Navarrese", line = 80, resolves = "il Navarrese" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "il Navarrese", lines = "77-78" },
+  { subj = "Virgilio", predicate = "commands", obj = "il Navarrese", lines = "80-80" },
+]
+basis = "76-80"
+
+[[scene]]
+lines = "81-90"
+title = "The Denunciation of Gomita"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "il Navarrese", status = "present" },
+  { who = "Frate Gomita", status = "mentioned" },
+  { who = "nemici", status = "mentioned" },
+  { who = "donno", status = "mentioned" },
+  { who = "Michel Zanche", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:81", lines = "81-93", speaker = "il Navarrese", addressee = "(none)", source = "none" },
+]
+refer = [
+  { phrase = "i nemici", line = 83, resolves = "nemici" },
+  { phrase = "i nemici", line = 84, resolves = "nemici" },
+  { phrase = "i nemici", line = 85, resolves = "nemici" },
+]
+relations = [
+  { subj = "il Navarrese", predicate = "names", obj = "Frate Gomita", lines = "81-81" },
+]
+basis = "81-90"
+
+[[scene]]
+lines = "91-93"
+title = "The Threatening Gaze"
+location = ""
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "il Navarrese", status = "present" },
+]
+refer = [
+  { phrase = "il navarrese", line = 91, resolves = "il Navarrese" },
+  { phrase = "il navarrese", line = 92, resolves = "il Navarrese" },
+]
+relations = [
+  { subj = "il Navarrese", predicate = "warns", obj = "Dante, Virgilio", lines = "91-91" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-96"
+title = "Addressing Farfarello"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "Barbariccia", status = "present" },
+  { who = "Farfarello", status = "present" },
+]
+relations = [
+  { subj = "Barbariccia", predicate = "addresses", obj = "Farfarello", lines = "94-94" },
+  { subj = "Barbariccia", predicate = "speaks-to", obj = "Farfarello", lines = "96-96" },
+]
+basis = "94-96"
+
+[[scene]]
+lines = "97-105"
+title = "The Prisoner’s Bargain"
+location = ""
+region = "ripa sesta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "lo spaürato", status = "present" },
+  { who = "Toschi o Lombardi", status = "mentioned" },
+  { who = "Malebranche", status = "mentioned" },
+  { who = "alcun", status = "mentioned" },
+]
+speech = [
+  { quote_id = "22:99", lines = "99-105", speaker = "lo spaürato", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "i Malebranche", line = 100, resolves = "Malebranche" },
+]
+relations = [
+  { subj = "lo spaürato", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "98-98" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-111"
+title = "Cagnazzo’s Rebuttal"
+location = ""
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Cagnazzo", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "il Navarrese", status = "present" },
+]
+speech = [
+  { quote_id = "22:110", lines = "110-111", speaker = "il Navarrese", addressee = "Cagnazzo", source = "llm" },
+]
+relations = [
+  { subj = "Cagnazzo", predicate = "warns", obj = "Malebranche", lines = "107-108" },
+  { subj = "il Navarrese", predicate = "answers", obj = "Cagnazzo", lines = "109-110" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-117"
+title = "Alichin’s Challenge"
+location = "la ripa"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Alichin", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "il Navarrese", status = "present" },
+]
+speech = [
+  { quote_id = "22:113", lines = "113-117", speaker = "Alichin", addressee = "il Navarrese", source = "llm" },
+]
+refer = [
+  { phrase = "Navarrese", line = 113, resolves = "il Navarrese" },
+  { phrase = "Navarrese", line = 114, resolves = "il Navarrese" },
+  { phrase = "Navarrese", line = 117, resolves = "il Navarrese" },
+]
+relations = [
+  { subj = "Alichin", predicate = "answers", obj = "Malebranche", lines = "112-113" },
+  { subj = "Alichin", predicate = "speaks-to", obj = "il Navarrese", lines = "113-113" },
+]
+basis = "112-117"
+
+[[scene]]
+lines = "118-120"
+title = "The Moment of Tension"
+location = "la ripa"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "tu che leggi", status = "present" },
+  { who = "Malebranche", status = "present" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Sudden Leap"
+location = "la ripa"
+region = "ripa sesta"
+cohort = ["Malebranche"]
+cast = [
+  { who = "il Navarrese", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "quei più che cagion fu del difetto", status = "present" },
+]
+refer = [
+  { phrase = "Lo Navarrese", line = 123, resolves = "il Navarrese" },
+  { phrase = "Lo Navarrese", line = 126, resolves = "il Navarrese" },
+]
+relations = [
+  { subj = "il Navarrese", predicate = "opposes", obj = "Malebranche", lines = "123-123" },
+  { subj = "quei più che cagion fu del difetto", predicate = "calls", obj = "il Navarrese", lines = "126-126" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Struggle in the Pitch"
+location = "la ripa"
+region = "ripa sesta"
+cast = [
+  { who = "il più crudele", status = "present" },
+  { who = "Malebranche", status = "mentioned" },
+  { who = "il Navarrese", status = "present" },
+]
+simile = [
+  { lines = "130-131", vehicle = "il Navarrese" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-138"
+title = "Calcabrina’s Entanglement"
+location = "la ripa"
+region = "ripa sesta"
+cohort = ["l barattier"]
+cast = [
+  { who = "Calcabrina", status = "present" },
+  { who = "l barattier", status = "present" },
+  { who = "suo compagno", status = "present" },
+]
+relations = [
+  { subj = "Calcabrina", predicate = "follows", obj = "l barattier", lines = "134-134" },
+  { subj = "Calcabrina", predicate = "strikes", obj = "suo compagno", lines = "137-137" },
+  { subj = "Calcabrina", predicate = "touches", obj = "suo compagno", lines = "138-138" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-144"
+title = "Trapped in the Boiling Bog"
+location = "la ripa"
+region = "sopra 'l fosso"
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "Calcabrina", status = "present" },
+  { who = "Lo caldo sghermitor", status = "present" },
+]
+refer = [
+  { phrase = "l'altro", line = 139, resolves = "L'altro" },
+]
+relations = [
+  { subj = "L'altro", predicate = "strikes", obj = "Calcabrina", lines = "139-140" },
+  { subj = "bogliente stagno", predicate = "touches", obj = "Lo caldo sghermitor", lines = "144-144" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-151"
+title = "The Retreat of the Demons"
+location = "la ripa"
+region = "sopra 'l fosso"
+cohort = ["li 'mpaniati"]
+cast = [
+  { who = "Barbariccia", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "li 'mpaniati", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Calcabrina", status = "present" },
+]
+relations = [
+  { subj = "Barbariccia", predicate = "sends", obj = "Malebranche", lines = "146-146" },
+  { subj = "Malebranche", predicate = "strikes", obj = "li 'mpaniati", lines = "149-149" },
+  { subj = "Dante, Virgilio", predicate = "relates-to", obj = "Calcabrina, Malebranche", lines = "151-151" },
+]
+basis = "145-151"

@@ -1,0 +1,260 @@
+canticle = "purgatorio"
+canto = 8
+
+[[scene]]
+lines = "1-18"
+title = "The Evening Hymn"
+location = ""
+region = "fianco de la lacca"
+cohort = ["una de l'alme", "l'altre"]
+cast = [
+  { who = "navicanti", status = "mentioned" },
+  { who = "dolci amici", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "una de l'alme", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "l'altre", status = "present" },
+]
+relations = [
+  { subj = "navicanti", predicate = "speaks-to", obj = "dolci amici", lines = "3-3" },
+  { subj = "Dante", predicate = "sees", obj = "una de l'alme", lines = "8-8" },
+  { subj = "una de l'alme", predicate = "asks", obj = "Dante", lines = "8-9" },
+  { subj = "una de l'alme", predicate = "praises", obj = "Dio", lines = "13-14" },
+  { subj = "l'altre", predicate = "follows", obj = "una de l'alme", lines = "16-17" },
+]
+simile = [
+  { lines = "12-12", vehicle = "Dio" },
+]
+basis = "1-18"
+
+[[scene]]
+lines = "19-30"
+title = "The Descent of the Angels"
+location = ""
+region = "fianco de la lacca"
+cohort = ["quell'essercito gentile"]
+cast = [
+  { who = "lettor", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "quell'essercito gentile", status = "present" },
+  { who = "due angeli", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "quell'essercito gentile", lines = "22-22" },
+  { subj = "Dante", predicate = "sees", obj = "due angeli", lines = "25-26" },
+]
+basis = "19-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Crowd's Reaction"
+location = ""
+region = "fianco de la lacca"
+cohort = ["gente"]
+cast = [
+  { who = "l'un", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "present" },
+  { who = "L'altro", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "angeli", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "angeli", lines = "34-34" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-45"
+title = "Sordello's Warning"
+location = ""
+region = "fianco de la lacca"
+cohort = ["le grandi ombre"]
+cast = [
+  { who = "angeli", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Sordello", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "le grandi ombre", status = "present" },
+]
+refer = [
+  { phrase = "gli angeli", line = 37, resolves = "angeli" },
+  { phrase = "gli angeli", line = 38, resolves = "angeli" },
+  { phrase = "lo serpente", line = 38, resolves = "il serpente" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-55"
+title = "Meeting the Gentle Judge"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Nin", status = "present" },
+  { who = "rei", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Nin", lines = "47-47" },
+  { subj = "Nin", predicate = "sees", obj = "Dante", lines = "47-47" },
+  { subj = "Nin", predicate = "recognizes", obj = "Dante", lines = "48-48" },
+  { subj = "Nin", predicate = "meets", obj = "Dante", lines = "52-52" },
+  { subj = "Dante", predicate = "meets", obj = "Nin", lines = "52-52" },
+  { subj = "Dante", predicate = "addresses", obj = "Nin", lines = "53-54" },
+]
+basis = "46-55"
+
+[[scene]]
+lines = "56-63"
+title = "The Inquiry of Origins"
+location = ""
+region = "fianco de la lacca"
+cohort = ["le grandi ombre"]
+cast = [
+  { who = "Nin", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Sordello", status = "present" },
+  { who = "le grandi ombre", status = "present" },
+]
+speech = [
+  { quote_id = "8:58B", lines = "58-60", speaker = "Dante", addressee = "Nin", source = "llm" },
+]
+relations = [
+  { subj = "Nin", predicate = "asks", obj = "Dante", lines = "56-57" },
+  { subj = "Dante", predicate = "answers", obj = "Nin", lines = "58-58" },
+  { subj = "Sordello", predicate = "hears", obj = "Dante", lines = "61-61" },
+  { subj = "le grandi ombre", predicate = "hears", obj = "Dante", lines = "61-61" },
+]
+simile = [
+  { lines = "62-63", vehicle = "Sordello, le grandi ombre" },
+]
+basis = "56-63"
+
+[[scene]]
+lines = "64-81"
+title = "The Message for Giovanna"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Sordello", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Nin", status = "mentioned" },
+  { who = "Currado", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Giovanna", status = "mentioned" },
+  { who = "li 'nnocenti", status = "mentioned" },
+  { who = "la sua madre", status = "mentioned" },
+  { who = "Femmina", status = "mentioned" },
+  { who = "il gallo di Gallura", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:67", lines = "67-81", speaker = "Nin", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Sordello", predicate = "addresses", obj = "Virgilio", lines = "64-64" },
+  { subj = "Nin", predicate = "calls", obj = "Currado", lines = "64-66" },
+  { subj = "Nin", predicate = "addresses", obj = "Dante", lines = "67-67" },
+]
+basis = "64-81"
+
+[[scene]]
+lines = "82-93"
+title = "Celestial Observations"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Minosse", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "88-88" },
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "89-89" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "91-93" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-108"
+title = "The Serpent's Intrusion"
+location = "la picciola vallea"
+region = "la picciola vallea"
+cohort = ["li angeli"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l nostro avversaro", status = "present" },
+  { who = "Eva", status = "mentioned" },
+  { who = "li angeli", status = "present" },
+]
+relations = [
+  { subj = "Sordello", predicate = "brings", obj = "Dante", lines = "94-94" },
+  { subj = "Sordello", predicate = "shows", obj = "Dante", lines = "96-96" },
+  { subj = "Dante", predicate = "sees", obj = "li angeli", lines = "105-105" },
+  { subj = "li angeli", predicate = "chases", obj = "l nostro avversaro", lines = "106-107" },
+]
+simile = [
+  { lines = "99-99", vehicle = "Eva" },
+]
+basis = "94-108"
+
+[[scene]]
+lines = "109-120"
+title = "The Identification of Currado"
+location = "la picciola vallea"
+region = "la picciola vallea"
+cast = [
+  { who = "Currado Malaspina", status = "present" },
+  { who = "Nin", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "8:115", lines = "115-120", speaker = "Currado Malaspina", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Nin", predicate = "calls", obj = "Currado Malaspina", lines = "110-110" },
+  { subj = "Dante", predicate = "sees", obj = "Currado Malaspina", lines = "111-111" },
+  { subj = "Currado Malaspina", predicate = "asks", obj = "Dante", lines = "115-117" },
+]
+basis = "109-120"
+
+[[scene]]
+lines = "121-132"
+title = "Praise for the Malaspina"
+location = "la picciola vallea"
+region = "la picciola vallea"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Currado Malaspina", status = "present" },
+  { who = "Malaspina", status = "mentioned" },
+  { who = "i segnori", status = "mentioned" },
+  { who = "il capo reo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:121B", lines = "121-132", speaker = "Dante", addressee = "Currado Malaspina", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Currado Malaspina", lines = "121-121" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Currado Malaspina, Malaspina", lines = "127-127" },
+]
+basis = "121-132"
+
+[[scene]]
+lines = "133-139"
+title = "The Judge's Dismissal"
+location = "la picciola vallea"
+region = "la picciola vallea"
+cast = [
+  { who = "Nin", status = "mentioned" },
+  { who = "Currado", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Nin, Currado", predicate = "speaks-to", obj = "Dante", lines = "133-133" },
+]
+basis = "133-139"

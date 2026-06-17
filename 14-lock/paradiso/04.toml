@@ -1,0 +1,231 @@
+canticle = "paradiso"
+canto = 4
+
+[[scene]]
+lines = "1-12"
+title = "Dante's Internal Tension"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "liber' omo", status = "mentioned" },
+  { who = "due dame", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "rebukes", obj = "Dante", lines = "7-7" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The First Doubt: Plato's Theory"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Danïello", status = "mentioned" },
+  { who = "Nabuccodonosor", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "parer tornarsi l'anime a le stelle", status = "mentioned" },
+  { who = "Platone", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:16", lines = "16-114", speaker = "Beatrice", addressee = "Dante", source = "code" },
+  { quote_id = "4:19", lines = "19-21", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "16-16" },
+]
+simile = [
+  { lines = "13-13", vehicle = "Danïello" },
+  { lines = "14-15", vehicle = "Danïello" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-39"
+title = "The Hierarchy of the First Heaven"
+location = ""
+region = "etterne rote"
+cohort = ["questi spirti"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "i Serafin", status = "mentioned" },
+  { who = "Moïsè", status = "mentioned" },
+  { who = "Samuel", status = "mentioned" },
+  { who = "Giovanni", status = "mentioned" },
+  { who = "Maria", status = "mentioned" },
+  { who = "questi spirti", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "25-39" },
+  { subj = "Beatrice", predicate = "names", obj = "i Serafin", lines = "28-28" },
+  { subj = "Beatrice", predicate = "names", obj = "Moïsè", lines = "29-29" },
+  { subj = "Beatrice", predicate = "names", obj = "Samuel", lines = "29-29" },
+  { subj = "Beatrice", predicate = "names", obj = "Giovanni", lines = "29-29" },
+  { subj = "Beatrice", predicate = "names", obj = "Maria", lines = "30-30" },
+  { subj = "questi spirti", predicate = "shows", obj = "Dante", lines = "32-32" },
+  { subj = "questi spirti", predicate = "shows", obj = "questi spirti", lines = "37-37" },
+]
+basis = "25-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Use of Anthropomorphism in Scripture"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "sensato", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Gabrïel", status = "mentioned" },
+  { who = "Michel", status = "mentioned" },
+  { who = "Raffaele", status = "mentioned" },
+  { who = "Tobia", status = "mentioned" },
+]
+refer = [
+  { phrase = "Santa Chiesa", line = 46, resolves = "la Santa Chiesa" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-63"
+title = "Correcting the Error of Astrology"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Timeo", status = "mentioned" },
+  { who = "anime", status = "mentioned" },
+  { who = "l'alma", status = "mentioned" },
+  { who = "Giove", status = "mentioned" },
+  { who = "Mercurio", status = "mentioned" },
+]
+refer = [
+  { phrase = "l'anime", line = 49, resolves = "anime" },
+]
+basis = "49-63"
+
+[[scene]]
+lines = "64-72"
+title = "Transition to the Second Doubt"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "mortali", status = "mentioned" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-87"
+title = "The Distinction Between Will and Force"
+location = ""
+region = "etterne rote"
+cohort = ["quest' alme"]
+cast = [
+  { who = "quel che pate", status = "mentioned" },
+  { who = "quel che sforza", status = "mentioned" },
+  { who = "quest' alme", status = "present" },
+  { who = "Lorenzo", status = "mentioned" },
+  { who = "Muzio", status = "mentioned" },
+]
+basis = "73-87"
+
+[[scene]]
+lines = "88-99"
+title = "The Paradox of Piccarda and Costanza"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "dei", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "alma beata", status = "mentioned" },
+  { who = "Piccarda", status = "mentioned" },
+  { who = "Costanza", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "94-94" },
+]
+basis = "88-99"
+
+[[scene]]
+lines = "100-114"
+title = "The Intersection of Force and Will"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un uomo", status = "mentioned" },
+  { who = "Almeone", status = "mentioned" },
+  { who = "padre suo", status = "mentioned" },
+  { who = "la propria madre", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Piccarda", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "addresses", obj = "Dante", lines = "100-100" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "106-106" },
+]
+basis = "100-114"
+
+[[scene]]
+lines = "115-117"
+title = "The Resolution of Conflict"
+location = ""
+region = "etterne rote"
+cast = []
+basis = "115-117"
+
+[[scene]]
+lines = "118-129"
+title = "Dante's Meditation on Truth"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "quei che vede e puote", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:119", lines = "119-138", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "118-119" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "118-118" },
+]
+basis = "118-129"
+
+[[scene]]
+lines = "130-138"
+title = "The New Inquiry"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "al sommo", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "al sommo", predicate = "relates-to", obj = "l'uom", lines = "132-132" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "134-138" },
+]
+basis = "130-138"
+
+[[scene]]
+lines = "139-142"
+title = "Beatrice's Divine Gaze"
+location = ""
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "139-139" },
+  { subj = "Beatrice", predicate = "defeats", obj = "Dante", lines = "141-141" },
+]
+basis = "139-142"

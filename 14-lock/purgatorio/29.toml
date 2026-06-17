@@ -1,0 +1,299 @@
+canticle = "purgatorio"
+canto = 29
+
+[[scene]]
+lines = "1-15"
+title = "The Path Along the River"
+location = ""
+region = "questo monte"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "i beati", status = "mentioned" },
+  { who = "ninfe", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Beati", line = 3, resolves = "i beati" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Matelda", lines = "8-9" },
+  { subj = "Matelda", predicate = "relates-to", obj = "Dante", lines = "14-14" },
+  { subj = "Matelda", predicate = "addresses", obj = "Dante", lines = "15-15" },
+  { subj = "Matelda", predicate = "commands", obj = "Dante", lines = "15-15" },
+]
+simile = [
+  { lines = "4-7", vehicle = "ninfe" },
+]
+basis = "1-15"
+
+[[scene]]
+lines = "16-30"
+title = "The Sudden Light and Melody"
+location = "la gran foresta"
+region = "la gran foresta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Eva", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "compares", obj = "Eva", lines = "23-24" },
+  { subj = "Dante", predicate = "compares", obj = "Eva", lines = "28-30" },
+]
+basis = "16-30"
+
+[[scene]]
+lines = "31-42"
+title = "The Poet's Invocation"
+location = "la gran foresta"
+region = "la gran foresta"
+cohort = ["sacrosante Vergini"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "sacrosante Vergini", status = "present" },
+  { who = "Uranìe", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "sacrosante Vergini", lines = "37-39" },
+  { subj = "Elicona", predicate = "gives", obj = "Dante", lines = "40-40" },
+  { subj = "Uranìe", predicate = "guides", obj = "Dante", lines = "41-42" },
+]
+basis = "31-42"
+
+[[scene]]
+lines = "43-54"
+title = "The Golden Candelabra"
+location = "la gran foresta"
+region = "la gran foresta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Statio", status = "mentioned" },
+]
+basis = "43-54"
+
+[[scene]]
+lines = "55-63"
+title = "Beatrice's Rebuke"
+location = "la gran foresta"
+region = "la gran foresta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "novelle spose", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "55-56" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "56-56" },
+  { subj = "Beatrice", predicate = "rebukes", obj = "Dante", lines = "61-61" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-69"
+title = "The White-Clad People"
+location = "L'acqua"
+region = "L'acqua"
+cohort = ["le genti"]
+cast = [
+  { who = "le genti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "duci", status = "present" },
+]
+refer = [
+  { phrase = "Genti", line = 64, resolves = "le genti" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "le genti", lines = "64-64" },
+  { subj = "le genti", predicate = "follows", obj = "duci", lines = "64-65" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-81"
+title = "The Rainbow Trails"
+location = "la mia riva"
+region = "L'acqua"
+cohort = ["fiammelle"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "fiammelle", status = "present" },
+  { who = "Delia", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "fiammelle", lines = "73-73" },
+]
+basis = "70-81"
+
+[[scene]]
+lines = "82-87"
+title = "The Twenty-Four Elders"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["ventiquattro seniori"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "ventiquattro seniori", status = "present" },
+  { who = "le figlie d'Adamo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "ventiquattro seniori", lines = "82-84" },
+  { subj = "Dante", predicate = "hears", obj = "ventiquattro seniori", lines = "85-85" },
+]
+basis = "82-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Six-Winged Creatures"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["quelle genti elette"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quelle genti elette", status = "present" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-105"
+title = "The Vision of Ezekiel"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["serafini"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettor", status = "mentioned" },
+  { who = "Ezechïel", status = "mentioned" },
+  { who = "serafini", status = "present" },
+  { who = "Giovanni", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "97-98" },
+  { subj = "lettor", predicate = "sees", obj = "serafini", lines = "103-103" },
+  { subj = "serafini", predicate = "compares", obj = "serafini", lines = "103-104" },
+  { subj = "Giovanni", predicate = "relates-to", obj = "Dante", lines = "105-105" },
+  { subj = "serafini", predicate = "compares", obj = "Giovanni", lines = "105-105" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Triumph of the Griffin"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["quattro"]
+cast = [
+  { who = "quattro", status = "present" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-120"
+title = "Comparison to Imperial Glory"
+location = "bel ciel"
+region = "L'acqua"
+cast = [
+  { who = "Augusto", status = "mentioned" },
+  { who = "Giove", status = "mentioned" },
+]
+relations = [
+  { subj = "la Terra devota", predicate = "pleads-with", obj = "Giove", lines = "119-120" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Three Dancing Women"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["Tre donne"]
+cast = [
+  { who = "Tre donne", status = "present" },
+  { who = "la rossa", status = "present" },
+  { who = "di smeraldo", status = "present" },
+  { who = "la bianca", status = "present" },
+]
+relations = [
+  { subj = "la bianca", predicate = "guides", obj = "Tre donne", lines = "127-127" },
+  { subj = "la rossa", predicate = "guides", obj = "Tre donne", lines = "128-128" },
+  { subj = "la rossa", predicate = "guides", obj = "la bianca, di smeraldo", lines = "128-129" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-132"
+title = "The Purple Group"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["quattro"]
+cast = [
+  { who = "quattro", status = "present" },
+  { who = "una", status = "present" },
+]
+relations = [
+  { subj = "quattro", predicate = "compares", obj = "una", lines = "131-132" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-141"
+title = "The Two Old Men"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["due vecchi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "due vecchi", status = "present" },
+  { who = "alcun de' famigliari", status = "present" },
+  { who = "Ipocràte", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "due vecchi", lines = "134-134" },
+  { subj = "alcun de' famigliari", predicate = "follows", obj = "Ipocràte", lines = "136-137" },
+]
+basis = "133-141"
+
+[[scene]]
+lines = "142-144"
+title = "The Humble Figures"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["un vecchio solo"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un vecchio solo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un vecchio solo", lines = "142-144" },
+]
+basis = "142-144"
+
+[[scene]]
+lines = "145-150"
+title = "The Floral Crowns"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["primaio stuolo"]
+cast = [
+  { who = "primaio stuolo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "sette luci", predicate = "relates-to", obj = "primaio stuolo", lines = "145-146" },
+  { subj = "Dante", predicate = "sees", obj = "sette luci", lines = "149-150" },
+]
+basis = "145-150"
+
+[[scene]]
+lines = "151-154"
+title = "The Sudden Halt"
+location = "bel ciel"
+region = "L'acqua"
+cohort = ["quelle genti degne"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quelle genti degne", status = "present" },
+]
+basis = "151-154"

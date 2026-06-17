@@ -1,0 +1,291 @@
+canticle = "inferno"
+canto = 1
+
+[[scene]]
+lines = "1-12"
+title = "Lost in the Dark Wood"
+location = "selva oscura"
+region = "selva oscura"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Dante", lines = "2-2" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Sight of the Sunlit Hill"
+location = "piè d'un colle"
+region = "piè d'un colle"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-21"
+title = "Relief from Fear"
+location = "piè d'un colle"
+region = "piè d'un colle"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "19-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Swimmer Simile"
+location = "la piaggia diserta"
+region = "piè d'un colle"
+cast = [
+  { who = "quei che con lena affannata, uscito fuor del pelago a la riva", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "persona viva", status = "mentioned" },
+]
+simile = [
+  { lines = "22-26", vehicle = "quei che con lena affannata, uscito fuor del pelago a la riva" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Appearance of the Leopard"
+location = "cominciar de l'erta"
+region = "piè d'un colle"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "lonza", predicate = "chases", obj = "Dante", lines = "34-34" },
+  { subj = "lonza", predicate = "chases", obj = "Dante", lines = "35-36" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-43"
+title = "The Morning Light"
+location = "cominciar de l'erta"
+region = "piè d'un colle"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "l'amor divino", predicate = "relates-to", obj = "'l sol", lines = "39-40" },
+]
+basis = "37-43"
+
+[[scene]]
+lines = "44-48"
+title = "The Appearance of the Lion"
+location = "cominciar de l'erta"
+region = "piè d'un colle"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "44-48"
+
+[[scene]]
+lines = "49-60"
+title = "The Appearance of the She-Wolf"
+location = "cominciar de l'erta"
+region = "piè d'un colle"
+cast = [
+  { who = "molte genti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "quei che volontieri acquista", status = "mentioned" },
+]
+relations = [
+  { subj = "la lupa", predicate = "punishes", obj = "molte genti", lines = "51-51" },
+  { subj = "la lupa", predicate = "punishes", obj = "Dante", lines = "52-52" },
+  { subj = "la lupa", predicate = "meets", obj = "Dante", lines = "59-59" },
+  { subj = "la lupa", predicate = "chases", obj = "Dante", lines = "60-60" },
+]
+basis = "49-60"
+
+[[scene]]
+lines = "61-66"
+title = "A Shadow in the Desert"
+location = "basso loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "1:65", lines = "65-65", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "62-62" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "64-64" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "66-66" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-75"
+title = "Virgil's Introduction"
+location = "basso loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "li parenti miei", status = "mentioned" },
+  { who = "Iulio", status = "mentioned" },
+  { who = "Augusto", status = "mentioned" },
+  { who = "li dèi", status = "mentioned" },
+  { who = "Enea", status = "mentioned" },
+]
+speech = [
+  { quote_id = "1:67", lines = "67-78", speaker = "Virgilio", addressee = "(none)", source = "none" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-78"
+title = "The Challenge to Ascend"
+location = "basso loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-81"
+title = "Dante's Recognition"
+location = "basso loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "79-80" },
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "81-81" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-90"
+title = "A Plea for Guidance"
+location = "basso loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "1:82", lines = "82-90", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "82-82" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "83-83" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "89-89" },
+]
+basis = "82-90"
+
+[[scene]]
+lines = "91-99"
+title = "The Nature of the She-Wolf"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "altrui", status = "mentioned" },
+]
+speech = [
+  { quote_id = "1:93", lines = "93-129", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "92-92" },
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "92-92" },
+]
+basis = "91-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Prophecy of the Veltro"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = []
+basis = "100-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Fate of Italy"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Cammilla", status = "mentioned" },
+  { who = "Eurialo", status = "mentioned" },
+  { who = "Turno", status = "mentioned" },
+  { who = "Niso", status = "mentioned" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-120"
+title = "The Plan for the Journey"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li antichi spiriti dolenti", status = "mentioned" },
+  { who = "color che son contenti nel foco", status = "mentioned" },
+  { who = "le beate genti", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "112-112" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Prohibition of the Ascent"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'imperador", status = "mentioned" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-135"
+title = "Dante's Acceptance"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "the suffering spirits", status = "mentioned" },
+]
+speech = [
+  { quote_id = "1:130", lines = "130-135", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "130-130" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-136"
+title = "The Journey Begins"
+location = "loco selvaggio"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "136-136" },
+]
+basis = "136-136"

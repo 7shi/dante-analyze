@@ -1,0 +1,290 @@
+canticle = "paradiso"
+canto = 23
+
+[[scene]]
+lines = "1-15"
+title = "The Simile of the Bird"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "humans/mankind", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "generic person/hypothetical \"one\"", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "13-13" },
+]
+simile = [
+  { lines = "14-15", vehicle = "generic person/hypothetical \"one\"" },
+]
+basis = "1-15"
+
+[[scene]]
+lines = "16-24"
+title = "Beatrice's Proclamation"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "attender", status = "mentioned" },
+  { who = "vedere", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Bëatrice", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+relations = [
+  { subj = "Bëatrice", predicate = "speaks-to", obj = "Dante", lines = "19-21" },
+  { subj = "Dante", predicate = "sees", obj = "Bëatrice", lines = "22-23" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Vision of the Sun"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Trivïa", status = "mentioned" },
+  { who = "le ninfe etterne", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "la viva luce", lines = "28-29" },
+  { subj = "Dante", predicate = "sees", obj = "la lucente sustanza", lines = "28-32" },
+  { subj = "la viva luce", predicate = "shows", obj = "la lucente sustanza", lines = "31-32" },
+]
+simile = [
+  { lines = "26-26", vehicle = "le ninfe etterne" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Source of Virtue"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "34-34" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "35-35" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-48"
+title = "Expansion of the Mind"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "23:46", lines = "46-48", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "Beatrice", lines = "44-45" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-63"
+title = "The Limit of Language"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "grato", status = "mentioned" },
+  { who = "Polimnïa", status = "mentioned" },
+  { who = "le suore", status = "mentioned" },
+]
+relations = [
+  { subj = "Polimnïa", predicate = "relates-to", obj = "le suore", lines = "56-56" },
+]
+simile = [
+  { lines = "49-49", vehicle = "(unknown)" },
+  { lines = "61-63", vehicle = "(unknown)" },
+]
+basis = "49-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Weight of the Subject"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "nocchier", status = "mentioned" },
+]
+simile = [
+  { lines = "69-69", vehicle = "nocchier" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Call to the Rose"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-78"
+title = "Focusing the Gaze"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "76-77" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Burst of Light"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Crown of Light"
+location = ""
+region = "quella scala"
+cohort = ["le anime beate"]
+cast = [
+  { who = "le anime beate", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "anime beate", line = 85, resolves = "le anime beate" },
+]
+relations = [
+  { subj = "benigna vertù", predicate = "gives", obj = "le anime beate", lines = "85-85" },
+  { subj = "benigna vertù", predicate = "relates-to", obj = "benigna vertù", lines = "86-86" },
+  { subj = "benigna vertù", predicate = "gives", obj = "Dante", lines = "86-87" },
+  { subj = "Dante", predicate = "calls", obj = "Maria", lines = "88-88" },
+  { subj = "Maria", predicate = "guides", obj = "Dante", lines = "89-90" },
+  { subj = "Dio", predicate = "shows", obj = "Dante", lines = "91-91" },
+  { subj = "una facella", predicate = "touches", obj = "Maria", lines = "96-96" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Celestial Lyre"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "l'anima", status = "mentioned" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Voice of Angelic Love"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "23:103", lines = "103-108", speaker = "amore angelico", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "amore angelico", predicate = "addresses", obj = "Maria", lines = "106-106" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-111"
+title = "The Chorus of Mary"
+location = ""
+region = "quella scala"
+cohort = ["tutti li altri lumi"]
+cast = [
+  { who = "tutti li altri lumi", status = "present" },
+  { who = "Maria", status = "mentioned" },
+]
+relations = [
+  { subj = "tutti li altri lumi", predicate = "praises", obj = "Maria", lines = "110-111" },
+]
+basis = "109-111"
+
+[[scene]]
+lines = "112-120"
+title = "The Distant Shore"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "uomini", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "la coronata fiamma", status = "present" },
+]
+relations = [
+  { subj = "Dio", predicate = "relates-to", obj = "real manto", lines = "113-114" },
+  { subj = "real manto", predicate = "relates-to", obj = "uomini", lines = "115-115" },
+  { subj = "Dante", predicate = "follows", obj = "la coronata fiamma", lines = "118-119" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Simile of the Infants"
+location = ""
+region = "quella scala"
+cohort = ["quei candori"]
+cast = [
+  { who = "fantolin", status = "mentioned" },
+  { who = "la mamma", status = "mentioned" },
+  { who = "quei candori", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "quei candori", predicate = "relates-to", obj = "Maria", lines = "125-126" },
+  { subj = "Dante", predicate = "sees", obj = "quei candori", lines = "126-126" },
+  { subj = "quei candori", predicate = "praises", obj = "Maria", lines = "128-128" },
+]
+simile = [
+  { lines = "121-122", vehicle = "la mamma" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-139"
+title = "The Triumph of the Saints"
+location = ""
+region = "quella scala"
+cohort = ["arche ricchissime"]
+cast = [
+  { who = "arche ricchissime", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Maria", status = "mentioned" },
+  { who = "San Pietro", status = "present" },
+]
+relations = [
+  { subj = "arche ricchissime", predicate = "relates-to", obj = "Cristo", lines = "136-136" },
+  { subj = "Cristo", predicate = "relates-to", obj = "Dio", lines = "136-137" },
+  { subj = "Cristo", predicate = "relates-to", obj = "Maria", lines = "136-137" },
+  { subj = "San Pietro", predicate = "relates-to", obj = "arche ricchissime", lines = "138-139" },
+]
+basis = "130-139"

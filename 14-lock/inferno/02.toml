@@ -1,0 +1,286 @@
+canticle = "inferno"
+canto = 2
+
+[[scene]]
+lines = "1-9"
+title = "Prologue and Invocation"
+location = ""
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "muse", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "calls", obj = "muse", lines = "7-7" },
+  { subj = "Dante", predicate = "calls", obj = "alto ingegno", lines = "7-7" },
+  { subj = "Dante", predicate = "asks", obj = "muse, alto ingegno", lines = "7-7" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-27"
+title = "Virgil's Illustrious Lineage"
+location = ""
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Enea", status = "mentioned" },
+  { who = "li discendenti di Enea", status = "mentioned" },
+  { who = "omo d'intelletto", status = "mentioned" },
+  { who = "il Padre", status = "mentioned" },
+  { who = "il successor del maggior Piero", status = "mentioned" },
+]
+speech = [
+  { quote_id = "2:10", lines = "10-36", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "10-10" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "10-10" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "12-12" },
+]
+basis = "10-27"
+
+[[scene]]
+lines = "28-36"
+title = "Dante's Self-Doubt"
+location = ""
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Paulo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Enëa", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "36-36" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Paralysis of Will"
+location = "oscura costa"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "quei che disvuol ciò che volle", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Dante", lines = "40-40" },
+]
+simile = [
+  { lines = "37-40", vehicle = "quei che disvuol ciò che volle" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-51"
+title = "Virgil's Diagnosis"
+location = "oscura costa"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "2:43", lines = "43-43", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "hears", obj = "Dante", lines = "43-43" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "44-44" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "50-50" },
+]
+basis = "43-51"
+
+[[scene]]
+lines = "52-57"
+title = "The Setting of the Encounter"
+location = "oscura costa"
+region = "là dove 'l sol tace"
+cohort = ["color che son sospesi"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "color che son sospesi", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+simile = [
+  { lines = "55-55", vehicle = "la stella" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-74"
+title = "Beatrice's Message"
+location = "oscura costa"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "quel ch'i' ho di lui nel cielo udito", status = "mentioned" },
+  { who = "il segnor mio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "2:58", lines = "58-74", speaker = "Beatrice", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "addresses", obj = "Virgilio", lines = "58-58" },
+  { subj = "Beatrice", predicate = "commands", obj = "Virgilio", lines = "67-67" },
+  { subj = "Beatrice", predicate = "sends", obj = "Virgilio", lines = "70-70" },
+]
+basis = "58-74"
+
+[[scene]]
+lines = "75-84"
+title = "Dante's Inquiry"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "2:76", lines = "76-84", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "76-81" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "82-84" },
+]
+basis = "75-84"
+
+[[scene]]
+lines = "85-99"
+title = "Beatrice's Immunity"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Lucia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "2:85", lines = "85-86", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "86-86" },
+]
+basis = "85-99"
+
+[[scene]]
+lines = "100-114"
+title = "Lucia's Intervention"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Lucia", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Rachele", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "la volgare schiera", status = "mentioned" },
+  { who = "persone ratte", status = "mentioned" },
+  { who = "altri", status = "mentioned" },
+]
+refer = [
+  { phrase = "la morte", line = 107, resolves = "morte" },
+]
+relations = [
+  { subj = "Lucia", predicate = "meets", obj = "Virgilio", lines = "101-101" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Rachele", lines = "102-102" },
+  { subj = "Lucia", predicate = "addresses", obj = "Beatrice", lines = "103-103" },
+  { subj = "Lucia", predicate = "asks", obj = "Beatrice", lines = "104-104" },
+  { subj = "Lucia", predicate = "asks", obj = "Beatrice", lines = "106-106" },
+  { subj = "Lucia", predicate = "asks", obj = "Beatrice", lines = "107-107" },
+  { subj = "Virgilio", predicate = "compares", obj = "persone ratte", lines = "109-111" },
+  { subj = "Lucia", predicate = "praises", obj = "Lucia", lines = "114-114" },
+  { subj = "Lucia", predicate = "praises", obj = "Virgilio, altri", lines = "114-114" },
+]
+basis = "100-114"
+
+[[scene]]
+lines = "115-117"
+title = "The Emotional Impact"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "115-115" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "117-117" },
+]
+basis = "115-117"
+
+[[scene]]
+lines = "118-126"
+title = "Virgil's Final Challenge"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Lucia", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "rebukes", obj = "Dante", lines = "121-123" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "126-126" },
+]
+basis = "118-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Metaphor of the Flowers"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "fioretti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "127-130", vehicle = "fioretti" },
+  { lines = "132-132", vehicle = "Dante" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-140"
+title = "Dante's Renewed Commitment"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "2:133", lines = "133-140", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "133-133" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "134-134" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "139-139" },
+  { subj = "Dante", predicate = "names", obj = "Virgilio", lines = "140-140" },
+]
+basis = "133-140"
+
+[[scene]]
+lines = "141-142"
+title = "The Resumed Journey"
+location = "questo centro de l'ampio loco"
+region = "là dove 'l sol tace"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "141-141" },
+]
+basis = "141-142"

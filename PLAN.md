@@ -1,7 +1,8 @@
 # dante-analyze plan
 
-Status: the analysis pipeline is complete through the knowledge graph. The remaining work is not a
-build queue; it is a short list of possible next directions. Choose one before starting new work.
+Status: the analysis pipeline is complete through the knowledge graph and the translation context
+lock. The remaining work is not a build queue; it is a short list of possible next directions.
+Choose one before starting new work.
 
 For current usage, layout, and completed-pass summaries, see `README.md`. For local-LLM engineering
 rules, read `ARCHITECTURE.md` before changing an existing pass or creating a new one.
@@ -14,98 +15,22 @@ The committed pipeline covers all three canticles, 100 cantos:
 2. `02-markup -> 03-reading -> 04-tags` resolves references at scene level.
 3. `05-registry -> 06-speech -> 07-relations -> 08-kg` turns the resolved material into a
    per-canticle knowledge graph.
+4. `09-location -> 10-topography -> 11-presence -> 12-addressee -> 13-cohort -> 14-lock` builds the
+   per-scene translation context lock on top of the graph.
 
-There is no unfinished mandatory step in this repo. The translation context lock (direction 1
-below) is underway: its first five passes — **`09-location`** (per-scene local setting),
-**`10-topography`** (the place analogue of `05-registry`), **`11-presence`** (present cast versus
-merely-mentioned referents, the person analogue), **`12-addressee`** (who each speech span is
-directed at), and **`13-cohort`** (which class of souls dwells in each scene) — are committed and
-fully built across all 100 cantos; see their READMEs. The one remaining pass is `14-lock`.
+There is no unfinished mandatory step in this repo. The knowledge graph and the translation context
+lock are both complete; per-pass design and measured results live in each subdir's `README.md`, and
+the context lock as a whole is described in `README.md` ("Context lock"). What remains below are
+optional next directions, not a build queue — choose one before starting new work.
 
 ## Next directions
 
-### 1. Translation context lock (active direction)
+### 1. Digest edition — a proof of the context lock
 
-Build a per-scene **context lock**: an identity-and-setting record that fixes what a translation or
-digest must not get wrong — who speaks and is addressed, who/what each referring expression
-resolves to, where the scene is set, who is present versus merely mentioned. Identity and setting
-**only**: never the source's meaning or a paraphrase. Each entry carries a `basis` source quote so
-it is verifiable. The parked spec sketch is `ref/PLAN.md`, with `ref/inferno-01.toml` as a
-hand-written sample — treat it as illustration, **not** the confirmed spec.
-
-This direction comes before the digest (2): it is the natural payoff of the just-completed KG, it
-consumes the freshest work (`05-08`), it has a concrete evaluation target, and a vetted lock then
-gives the digest a clean, consistent identity base to build on.
-
-**The KG is action-only.** `08-kg` represents who-does-what edges; it carries no setting
-(location / region / cohort), because those are narrative *state*, not actions. Supplying that
-missing layer is the lock's substantive new work.
-
-**Derive everything from the text.** Per the repository premise (README "Premise"), no external
-canon is an input. The poem's known geography is an *evaluation* target, not a lookup table. So the
-setting layer is built bottom-up from the source, mirroring the person pipeline already in place
-(`04-tags` surface → `05-registry` canonical), applied to places.
-
-The work splits into kinds, kept separate — **one judgment per script**, so judgments never
-contaminate each other:
-
-- **code join (no LLM)** from KG / `04-tags` / `05-registry`: `speaker` (speech edges), referent
-  resolution (who/what → canonical), `relations` (edges), `simile` (frame=simile edges);
-- **single text-derived LLM judgments**, each its own pass: presence (cast versus merely
-  mentioned) — committed as `11-presence`; addressee (who each speech span is directed at) —
-  committed as `12-addressee` (see their READMEs);
-- **setting**: location and its consolidation into canonical regions — committed as `09-location`
-  and `10-topography` (see their READMEs). Cohort (which class of souls dwells in each scene) is a
-  distinct judgment — committed as `13-cohort`, with `rollup.py` folding the per-scene cohorts onto
-  the canonical regions by code.
-
-Distinctions the lock must preserve:
-
-- **present cast** versus **merely-mentioned referents**.
-
-With `09-location`, `10-topography`, `11-presence`, `12-addressee`, and `13-cohort` committed (see
-their READMEs), the one remaining pass (continuing the `NN-name` ladder) is:
-
-- `14-lock` (pure code) — join all of the above plus the KG into the per-canto lock, with a
-  structural check, exactly as `08-kg` joins.
-
-`13-cohort` settled the cohort layer with the same code-first, closed-set, LLM-residual pattern as
-`11` / `12`, judged **per scene** (not per region, which `measure.py` showed balloons the candidate
-set and conflates merged terraces); `rollup.py` builds the per-region view by code afterward.
-
-**Starting `14-lock` (a fresh session can begin here).** It is the last pass and pure code (no
-model), so the work is design then join — start by writing `14-lock/PLAN.md` per the pass-doc
-convention. Before coding, settle the two open design points below (output format, exact lock field
-set); they are deliberately deferred to this pass, not yet decided.
-
-- *Decide first:* output format (per-canto TOML vs JSONL — see Open decisions) and the lock's field
-  set. `ref/PLAN.md` + `ref/inferno-01.toml` are the spec **sketch** (illustration, not confirmed);
-  treat them as a starting proposal to confirm, not a fixed schema.
-- *Inputs to join (all committed):* `08-kg` (nodes / edges / speech_edges), plus the five context-lock
-  layers via their `dante_analyze.checkpoint` loaders — `load_locations`, `load_topography`,
-  `load_presence`, `load_addressee`, `load_cohort` (all exported from `dante_analyze`, beside one
-  another). Each layer's README documents its loader's return shape.
-- *Pattern to follow:* `08-kg` (`08-kg/README.md`) — the existing pure-code join that resolves cited
-  `[n]` tags through `load_tags` → `load_registry` and emits per-canticle output with a geometry
-  check. `14-lock` is the same shape over the lock layers, per canto.
-- *Check + evaluation:* a structural check (every scene gets a lock entry; basis ranges in-scene),
-  then compare a generated Inferno 1 lock against `ref/inferno-01.toml` **structurally**, not
-  string-exact (name-form differs).
-
-Open decisions:
-
-- output format (per-canto TOML versus JSONL) — settle at the lock pass (`14-lock`);
-- name form: source spelling (`Virgilio`), matching the KG nodes; anglicization belongs to
-  `dante-dravidian`'s glossary, not here;
-- deferred, outside identity-only scope: dramatic-irony flags (`misnames-addressee`) and explanatory
-  `note` prose;
-- evaluation: compare a generated Inferno 1 lock against `ref/inferno-01.toml` **structurally**, not
-  string-exact (given the name-form difference).
-
-### 2. Digest edition
-
-Build an analyze-side prose digest from the resolved readings. Natural to do after the context lock
-(1), whose resolved identities and settings it can reuse for consistent naming.
+Build an analyze-side prose digest from the resolved readings, **as the first consumer of the
+context lock**. The point is not only the digest itself but a demonstration that `14-lock` is what
+keeps a retelling from getting identities and settings wrong: the lock is the **primary input**, and
+the digest exercises it. This is the natural payoff of the just-completed lock.
 
 Goal: retell each canticle at story-reading density: more detailed than a plot summary, lighter than
 a line-by-line translation.
@@ -119,18 +44,51 @@ Shape:
 
 Primary inputs:
 
-- `03-reading/<canticle>/NN.txt` for referent-resolved scene prose;
-- `01-scenes/<canticle>/NN.json` for scene ranges and grouping;
+- `14-lock/<canticle>/NN.toml` via `load_lock(canticle, canto)` (exported from `dante_analyze`) — the
+  per-scene identity-and-setting scaffold `{canticle, canto, scenes: [{lines, title, location,
+  region, cohort, cast, speech, …}]}`, where `cast` is `[{who, status}]` and `speech` is
+  `[{quote_id, lines, speaker, addressee, source}]`. This fixes names (source spelling), where we
+  are, who is present versus merely mentioned, and who speaks to whom.
+- `03-reading/<canticle>/NN.txt` for referent-resolved scene prose (what happens);
+- `01-scenes/<canticle>/NN.json` for scene ranges and paragraph grouping;
+- optionally `08-kg` via `load_kg` for who-does-what edges as an action anchor;
 - source text through `dante-corpus` for anchoring.
+
+How the lock is exercised: the digest draws every named figure and stated setting from the scene's
+lock entry — it may not introduce an identity, location, region, cohort, speaker, or addressee that
+the lock does not list for that scene. The lock is the closed vocabulary for *who* and *where*; the
+reading supplies *what happens*. Identity resolution itself remains the KG's domain (`04-tags` →
+`05-registry` → `08-kg`, with its gap parked in `KG-PROBLEM.md`); the digest consumes the resolved
+result through the lock, it does not re-resolve.
+
+Quality check — the proof:
+
+- **lock conformance (the new, measurable check):** every proper name and setting the digest asserts
+  for a scene must appear in that scene's lock entry (`cast` / `location` / `region` / `cohort` /
+  `speech`). Staying inside the lock is the demonstration that it prevents identity-and-setting
+  drift; deviations are the measurement, not something to hand-correct.
+- narrative coherence and factual accuracy against the scene readings (`03-reading`), not line
+  coverage.
+
+Open design decisions (settle before coding):
+
+- **output language** — English prose with source-spelling names (`Virgilio`), matching the rest of
+  the analysis outputs? Confirm.
+- **model** — strongest available reader; all calls through `dante_analyze.llm.call_llm`. This is
+  uncheckable free prose, so CoT is permissible (ARCHITECTURE "Chain of thought policy").
+- **layout & pass number** — per-canto files under a new `15-digest/`? Make a numbered pass only if
+  it is committed as durable output (see note below).
+- **KG use** — feed `08-kg` action edges as an event anchor, or rely on `03-reading` for events?
+- **lock fields** — which lock fields the digest consumes. Note `14-lock` currently also carries
+  `refer` / `relations` / `simile` / `basis`; a trim of those was discussed and deferred, so decide
+  use-versus-ignore (and whether to revisit the trim) when settling this.
 
 Implementation notes:
 
 - Make a new numbered pass only if it is going to be committed as a durable output.
-- Its quality check should be narrative coherence and factual accuracy against the scene readings,
-  not line coverage.
 - Do not use a future translation as a dependency; a vetted translation could enrich the pass later.
 
-### 3. Deferred quality work
+### 2. Deferred quality work
 
 These items are intentionally parked. They improve polish or storage, but they are not prerequisites
 for the completed KG.

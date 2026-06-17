@@ -1,0 +1,383 @@
+canticle = "paradiso"
+canto = 24
+
+[[scene]]
+lines = "1-9"
+title = "Beatrice’s Instruction"
+location = ""
+region = "quella scala"
+cohort = ["sodalizio eletto"]
+cast = [
+  { who = "sodalizio eletto", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "uomini", status = "present" },
+  { who = "un uomo", status = "present" },
+]
+refer = [
+  { phrase = "uomo", line = 8, resolves = "un uomo" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-18"
+title = "The Celestial Dance"
+location = ""
+region = "quella scala"
+cohort = ["quelle anime liete"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "quelle anime liete", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "quelle anime liete", lines = "10-10" },
+  { subj = "quelle anime liete", predicate = "answers", obj = "Beatrice", lines = "10-12" },
+  { subj = "quelle anime liete", predicate = "shows", obj = "Dante", lines = "16-18" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-27"
+title = "The Appearance of the Flame"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "quella di più carezza", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "quella di più carezza", lines = "19-19" },
+  { subj = "quella di più carezza", predicate = "relates-to", obj = "Beatrice", lines = "22-23" },
+]
+basis = "19-27"
+
+[[scene]]
+lines = "28-33"
+title = "Dante’s Prayer and the Flame’s Turn"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "San Francesco", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "24:28", lines = "28-30", speaker = "Dante", addressee = "Beatrice", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "San Francesco", lines = "28-30" },
+  { subj = "San Francesco", predicate = "addresses", obj = "Beatrice", lines = "32-32" },
+  { subj = "San Francesco", predicate = "speaks-to", obj = "Beatrice", lines = "33-33" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-45"
+title = "The Flame’s Address to Beatrice"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Francesco", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "San Pietro", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Francesco", predicate = "addresses", obj = "Beatrice", lines = "34-34" },
+]
+basis = "34-45"
+
+[[scene]]
+lines = "46-51"
+title = "The Prepared Scholar"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "il baccialier", status = "mentioned" },
+  { who = "maestro", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+refer = [
+  { phrase = "'l maestro", line = 47, resolves = "maestro" },
+]
+relations = [
+  { subj = "Dante", predicate = "compares", obj = "il baccialier", lines = "46-49" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "50-50" },
+]
+simile = [
+  { lines = "47-47", vehicle = "il baccialier" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-57"
+title = "The First Question"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Francesco", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Francesco", predicate = "commands", obj = "Dante", lines = "52-52" },
+  { subj = "Francesco", predicate = "addresses", obj = "Dante", lines = "52-52" },
+  { subj = "Francesco", predicate = "asks", obj = "Dante", lines = "53-53" },
+  { subj = "Dante", predicate = "sees", obj = "Francesco", lines = "53-54" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "55-55" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "55-57" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "56-56" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-60"
+title = "The Prayer for Eloquence"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "24:58", lines = "58-58", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "La Grazia", lines = "58-60" },
+]
+basis = "58-60"
+
+[[scene]]
+lines = "61-66"
+title = "Defining Faith"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "San Francesco", status = "present" },
+  { who = "San Paolo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:61", lines = "61-66", speaker = "Dante", addressee = "San Francesco", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "San Francesco", lines = "61-61" },
+  { subj = "Dante", predicate = "addresses", obj = "San Francesco", lines = "62-62" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-78"
+title = "The Logic of Belief"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Paolo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:70", lines = "70-78", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "67-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Warning Against Sophistry"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "sofista", status = "mentioned" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-87"
+title = "The Test of the Purse"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Francesco", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "24:86", lines = "86-87", speaker = "Dante", addressee = "Francesco", source = "code" },
+]
+relations = [
+  { subj = "Francesco", predicate = "answers", obj = "Dante", lines = "83-83" },
+  { subj = "Dante", predicate = "answers", obj = "Francesco", lines = "86-86" },
+]
+basis = "82-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Source of Joy"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "San Francesco", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:91", lines = "91-96", speaker = "Dante", addressee = "San Francesco", source = "code" },
+]
+relations = [
+  { subj = "San Francesco", predicate = "asks", obj = "Dante", lines = "89-91" },
+  { subj = "Dante", predicate = "answers", obj = "San Francesco", lines = "91-91" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Proof of Truth"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "24:100", lines = "100-102", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-105"
+title = "The Flame’s Challenge"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "103-105"
+
+[[scene]]
+lines = "106-111"
+title = "Dante’s Defense"
+location = ""
+region = "quella scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Francesco", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Francesco", lines = "106-111" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-114"
+title = "The Heavenly Chorus"
+location = "l'alta corte santa"
+region = "quella scala"
+cast = [
+  { who = "Dio", status = "mentioned" },
+]
+basis = "112-114"
+
+[[scene]]
+lines = "115-117"
+title = "The Guidance of Peter"
+location = "ramo"
+region = "ramo"
+cast = [
+  { who = "Pietro", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Pietro", predicate = "brings", obj = "Beatrice", lines = "115-116" },
+  { subj = "Pietro", predicate = "brings", obj = "Dante", lines = "115-116" },
+]
+basis = "115-117"
+
+[[scene]]
+lines = "118-123"
+title = "St. Peter’s Prompting"
+location = "ramo"
+region = "ramo"
+cast = [
+  { who = "San Pietro", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "24:118", lines = "118-123", speaker = "San Pietro", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "San Pietro", predicate = "speaks-to", obj = "Dante", lines = "118-123" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Preparation for Creed"
+location = "ramo"
+region = "ramo"
+cast = [
+  { who = "San Pietro", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "24:127", lines = "127-147", speaker = "Dante", addressee = "San Pietro", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "San Pietro", lines = "124-124" },
+  { subj = "Dante", predicate = "speaks-to", obj = "San Pietro", lines = "127-127" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-141"
+title = "The Declaration of the Creed"
+location = "ramo"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "San Pietro", status = "present" },
+  { who = "Moïsè", status = "mentioned" },
+  { who = "profeti", status = "mentioned" },
+  { who = "Apostoli", status = "mentioned" },
+  { who = "Spirto", status = "mentioned" },
+  { who = "persone", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "San Pietro", lines = "130-130" },
+  { subj = "Dante", predicate = "asks", obj = "San Pietro", lines = "134-134" },
+]
+basis = "130-141"
+
+[[scene]]
+lines = "142-147"
+title = "The Spark of Revelation"
+location = "ramo"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "142-147"
+
+[[scene]]
+lines = "148-154"
+title = "The Final Embrace"
+location = "ramo"
+region = "ramo"
+cast = [
+  { who = "l segnor", status = "mentioned" },
+  { who = "il servo", status = "mentioned" },
+  { who = "San Pietro", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "San Pietro", predicate = "touches", obj = "Dante", lines = "152-152" },
+  { subj = "San Pietro", predicate = "commands", obj = "Dante", lines = "153-154" },
+  { subj = "Dante", predicate = "relates-to", obj = "San Pietro", lines = "154-154" },
+]
+simile = [
+  { lines = "149-149", vehicle = "il servo" },
+]
+basis = "148-154"

@@ -1,0 +1,326 @@
+canticle = "inferno"
+canto = 19
+
+[[scene]]
+lines = "1-6"
+title = "Invocation to the Simoniacs"
+location = ""
+region = "là dov' el vaneggia di sotto"
+cohort = ["miseri seguaci"]
+cast = [
+  { who = "Simon mago", status = "present" },
+  { who = "miseri seguaci", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "miseri seguaci", predicate = "follows", obj = "Simon mago", lines = "1-1" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Reflection on Divine Wisdom"
+location = "la seguente tomba"
+region = "là dov' el vaneggia di sotto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "addresses", obj = "somma sapïenza", lines = "10-10" },
+  { subj = "Dante, Virgilio", predicate = "praises", obj = "somma sapïenza", lines = "10-12" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-30"
+title = "The Landscape of the Third Bolgia"
+location = "la seguente tomba"
+region = "lo scoglio"
+cohort = ["un peccator"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "fóri", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "un peccator", status = "present" },
+  { who = "giunte", status = "present" },
+]
+refer = [
+  { phrase = "omo", line = 21, resolves = "l'omo" },
+]
+relations = [
+  { subj = "Dante", predicate = "warns", obj = "l'omo", lines = "21-21" },
+]
+basis = "13-30"
+
+[[scene]]
+lines = "31-39"
+title = "Dante's Inquiry"
+location = "la seguente tomba"
+region = "lo scoglio"
+cast = [
+  { who = "Niccolò", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "li altri suoi consorti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "19:34", lines = "34-36", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "19:37", lines = "37-39", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "31-33" },
+  { subj = "Dante", predicate = "asks", obj = "Niccolò", lines = "31-33" },
+  { subj = "Niccolò", predicate = "compares", obj = "li altri suoi consorti", lines = "32-32" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "34-34" },
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "37-37" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "38-38" },
+  { subj = "Virgilio", predicate = "recognizes", obj = "Dante", lines = "38-38" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Physical Descent"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Nicola III", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "protects", obj = "Dante", lines = "43-44" },
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "44-44" },
+  { subj = "Virgilio", predicate = "meets", obj = "Nicola III", lines = "44-45" },
+  { subj = "Dante", predicate = "meets", obj = "Nicola III", lines = "44-45" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-48"
+title = "Dante’s Salutation"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Niccolò", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Niccolò", lines = "46-46" },
+  { subj = "Dante", predicate = "addresses", obj = "Niccolò", lines = "47-47" },
+  { subj = "Dante", predicate = "asks", obj = "Niccolò", lines = "48-48" },
+  { subj = "Dante", predicate = "commands", obj = "Niccolò", lines = "48-48" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-51"
+title = "The Confessor Simile"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l frate", status = "mentioned" },
+  { who = "lo perfido assessin", status = "mentioned" },
+]
+simile = [
+  { lines = "49-49", vehicle = "l frate" },
+  { lines = "49-50", vehicle = "lo perfido assessin" },
+  { lines = "50-51", vehicle = "l frate" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-57"
+title = "The Sinner’s Accusation"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Nicola III", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Bonifazio", status = "present" },
+  { who = "la bella donna", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:52", lines = "52-57", speaker = "Nicola III", addressee = "Bonifazio", source = "llm" },
+]
+relations = [
+  { subj = "Nicola III", predicate = "asks", obj = "Dante", lines = "52-52" },
+  { subj = "Nicola III", predicate = "asks", obj = "Dante", lines = "53-53" },
+  { subj = "Nicola III", predicate = "names", obj = "Bonifazio", lines = "53-53" },
+  { subj = "Nicola III", predicate = "asks", obj = "Dante", lines = "55-55" },
+  { subj = "Nicola III", predicate = "rebukes", obj = "Dante", lines = "56-57" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-60"
+title = "Dante’s Bewilderment"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "scornati", status = "mentioned" },
+]
+simile = [
+  { lines = "58-58", vehicle = "scornati" },
+]
+basis = "58-60"
+
+[[scene]]
+lines = "61-63"
+title = "Virgil’s Instruction"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Bonifacio VIII", status = "present" },
+  { who = "Nicola III", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:62", lines = "62-62", speaker = "Dante", addressee = "Bonifacio VIII", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "61-61" },
+  { subj = "Dante", predicate = "answers", obj = "Nicola III", lines = "63-63" },
+]
+basis = "61-63"
+
+[[scene]]
+lines = "64-78"
+title = "The Sinner’s Revelation"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cohort = ["li altri tratti"]
+cast = [
+  { who = "Niccolò III", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li altri tratti", status = "present" },
+  { who = "Bonifacio VIII", status = "present" },
+]
+speech = [
+  { quote_id = "19:66", lines = "66-87", speaker = "Niccolò III", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Niccolò III", predicate = "speaks-to", obj = "Dante", lines = "66-66" },
+]
+basis = "64-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Prophecy of the Shepherd"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Niccolò III", status = "present" },
+  { who = "Bonifacio VIII", status = "mentioned" },
+  { who = "Clemente V", status = "mentioned" },
+  { who = "Iasón", status = "mentioned" },
+  { who = "suo re", status = "mentioned" },
+  { who = "Filippo IV", status = "mentioned" },
+]
+simile = [
+  { lines = "86-86", vehicle = "Iasón" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-105"
+title = "Dante’s First Rebuttal"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Nicola III", status = "present" },
+  { who = "Nostro Segnore", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "li altri", status = "mentioned" },
+  { who = "Matia", status = "mentioned" },
+  { who = "Giuda", status = "mentioned" },
+  { who = "Carlo", status = "mentioned" },
+  { who = "i buoni", status = "mentioned" },
+  { who = "i pravi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "19:90", lines = "90-117", speaker = "Dante", addressee = "Nicola III", source = "code" },
+]
+refer = [
+  { phrase = "san Pietro", line = 90, resolves = "San Pietro" },
+  { phrase = "san Pietro", line = 93, resolves = "San Pietro" },
+  { phrase = "san Pietro", line = 94, resolves = "San Pietro" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Nicola III", lines = "88-89" },
+  { subj = "Dante", predicate = "asks", obj = "Nicola III", lines = "90-90" },
+  { subj = "Dante", predicate = "rebukes", obj = "Nicola III", lines = "97-97" },
+]
+basis = "88-105"
+
+[[scene]]
+lines = "106-117"
+title = "Dante’s Second Rebuttal"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cohort = ["simoniaci"]
+cast = [
+  { who = "simoniaci", status = "present" },
+  { who = "Giovanni Vangelista", status = "mentioned" },
+  { who = "la meretrice di Babilonia", status = "mentioned" },
+  { who = "regi", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "l'idolatre", status = "mentioned" },
+  { who = "Costantino", status = "mentioned" },
+  { who = "il primo ricco patre", status = "mentioned" },
+]
+refer = [
+  { phrase = "i regi", line = 108, resolves = "regi" },
+]
+basis = "106-117"
+
+[[scene]]
+lines = "118-123"
+title = "Virgil’s Silent Approval"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Niccolò", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "rebukes", obj = "Niccolò", lines = "118-118" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "121-121" },
+  { subj = "Virgilio", predicate = "hears", obj = "Dante", lines = "122-123" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Ascent"
+location = "l'argine quarto"
+region = "l'argine quarto"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "124-124" },
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "125-125" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-133"
+title = "Arrival at a New Valley"
+location = "lo scoglio sconcio ed erto"
+region = "l'argine quarto"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "130-130" },
+]
+basis = "130-133"

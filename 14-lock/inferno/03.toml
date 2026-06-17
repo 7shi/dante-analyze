@@ -1,0 +1,337 @@
+canticle = "inferno"
+canto = 3
+
+[[scene]]
+lines = "1-9"
+title = "The Inscription on the Gate"
+location = ""
+region = "cammino alto e silvestro"
+cohort = ["chiunque entri nell'Inferno"]
+cast = [
+  { who = "chiunque entri nell'Inferno", status = "present" },
+  { who = "la perduta gente", status = "mentioned" },
+  { who = "Dio Padre", status = "mentioned" },
+  { who = "Dio Figlio", status = "mentioned" },
+  { who = "Dio Spirito Santo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "3:1", lines = "1-9", speaker = "la porta dell'Inferno", addressee = "chiunque entri nell'Inferno", source = "llm" },
+]
+refer = [
+  { phrase = "Giustizia", line = 4, resolves = "giustizia" },
+]
+relations = [
+  { subj = "la porta dell'Inferno", predicate = "warns", obj = "Dante, Virgilio", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-18"
+title = "Virgil's Interpretation"
+location = "porta"
+region = "cammino alto e silvestro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "le genti dolorose", status = "mentioned" },
+]
+speech = [
+  { quote_id = "3:12", lines = "12-12", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "3:14", lines = "14-18", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "12-12" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "13-13" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-24"
+title = "Entry into the Underworld"
+location = "porta"
+region = "cammino alto e silvestro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "19-19" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "21-21" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Tumult of Wailing"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["che gent'"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "che gent'", status = "present" },
+]
+speech = [
+  { quote_id = "3:32", lines = "32-33", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "32-32" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Origin of the Uncommitted"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["l'anime triste di coloro che visser sanza 'nfamia e sanza lodo", "quel cattivo coro de li angeli"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'anime triste di coloro che visser sanza 'nfamia e sanza lodo", status = "present" },
+  { who = "quel cattivo coro de li angeli", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "rei", status = "mentioned" },
+]
+refer = [
+  { phrase = "i rei", line = 42, resolves = "rei" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "34-34" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-51"
+title = "The Fate of the Neutral"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["ignavi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "ignavi", status = "present" },
+]
+speech = [
+  { quote_id = "3:45", lines = "45-51", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "43-44" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "45-45" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "45-45" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "51-51" },
+]
+basis = "43-51"
+
+[[scene]]
+lines = "52-57"
+title = "The Great Procession"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "52-56" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-63"
+title = "The Shadow of the Great Refuser"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["i cattivi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i cattivi", status = "present" },
+  { who = "Celestino V", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "nemici", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Celestino V", lines = "59-59" },
+  { subj = "Dante", predicate = "recognizes", obj = "Celestino V", lines = "59-59" },
+  { subj = "Dante", predicate = "recognizes", obj = "i cattivi", lines = "61-62" },
+  { subj = "i cattivi", predicate = "relates-to", obj = "Dio", lines = "63-63" },
+  { subj = "i cattivi", predicate = "relates-to", obj = "nemici", lines = "63-63" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Torment of the Souls"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["Questi sciaurati"]
+cast = [
+  { who = "Questi sciaurati", status = "present" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-78"
+title = "Approaching the River"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["le genti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "le genti", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "3:72", lines = "72-75", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+refer = [
+  { phrase = "genti", line = 71, resolves = "le genti" },
+  { phrase = "genti", line = 76, resolves = "le genti" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "le genti", lines = "71-71" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "72-72" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "72-75" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "76-76" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-81"
+title = "Dante's Shame"
+location = "porta"
+region = "cammino alto e silvestro"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "brings", obj = "Dante", lines = "81-81" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-89"
+title = "The Arrival of Charon"
+location = "porta"
+region = "cammino alto e silvestro"
+cohort = ["anime prave"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Caronte", status = "present" },
+  { who = "anime prave", status = "present" },
+]
+speech = [
+  { quote_id = "3:84", lines = "84-89", speaker = "Caronte", addressee = "anime prave", source = "llm" },
+]
+relations = [
+  { subj = "Caronte", predicate = "meets", obj = "Dante, Virgilio", lines = "82-83" },
+  { subj = "Caronte", predicate = "warns", obj = "anime prave", lines = "84-84" },
+  { subj = "Caronte", predicate = "names", obj = "anime prave", lines = "84-84" },
+  { subj = "Caronte", predicate = "warns", obj = "anime prave", lines = "85-85" },
+  { subj = "Caronte", predicate = "addresses", obj = "Dante", lines = "88-88" },
+  { subj = "Caronte", predicate = "names", obj = "Dante", lines = "88-88" },
+  { subj = "Caronte", predicate = "commands", obj = "Dante", lines = "89-89" },
+]
+basis = "82-89"
+
+[[scene]]
+lines = "90-99"
+title = "Virgil Silences the Ferryman"
+location = "livida palude"
+region = "livida palude"
+cast = [
+  { who = "Caronte", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Caronte", predicate = "sees", obj = "Dante", lines = "90-90" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Caronte", lines = "94-94" },
+]
+basis = "90-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Wrath of the Damned"
+location = "livida palude"
+region = "livida palude"
+cohort = ["quell' anime"]
+cast = [
+  { who = "quell' anime", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "lor parenti", status = "mentioned" },
+]
+relations = [
+  { subj = "quell' anime", predicate = "rebukes", obj = "Dio", lines = "103-103" },
+  { subj = "quell' anime", predicate = "rebukes", obj = "lor parenti", lines = "103-103" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-108"
+title = "Retreat to the Shore"
+location = "livida palude"
+region = "livida palude"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "ciascun uom", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "ciascun uom", predicate = "relates-to", obj = "Dio", lines = "108-108" },
+]
+basis = "106-108"
+
+[[scene]]
+lines = "109-120"
+title = "The Continuous Flow of Souls"
+location = "quel lito"
+region = "livida palude"
+cohort = ["il mal seme d'Adamo"]
+cast = [
+  { who = "Caron", status = "present" },
+  { who = "il mal seme d'Adamo", status = "present" },
+]
+relations = [
+  { subj = "Caron", predicate = "commands", obj = "il mal seme d'Adamo", lines = "109-110" },
+  { subj = "Caron", predicate = "brings", obj = "il mal seme d'Adamo", lines = "109-110" },
+  { subj = "Caron", predicate = "strikes", obj = "il mal seme d'Adamo", lines = "111-111" },
+]
+basis = "109-120"
+
+[[scene]]
+lines = "121-129"
+title = "Virgil's Final Lesson"
+location = "quel lito"
+region = "livida palude"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quelli che muoion ne l'ira di Dio", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "anima buona", status = "mentioned" },
+  { who = "Caron", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "121-121" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-136"
+title = "The Earthquake and Fainting"
+location = "la buia campagna"
+region = "la buia campagna"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+simile = [
+  { lines = "136-136", vehicle = "l'uom" },
+]
+basis = "130-136"

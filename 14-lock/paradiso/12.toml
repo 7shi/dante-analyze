@@ -1,0 +1,245 @@
+canticle = "paradiso"
+canto = 12
+
+[[scene]]
+lines = "1-9"
+title = "The Rotation of the Celestial Gear"
+location = ""
+region = "ella"
+cast = [
+  { who = "Tommaso", status = "mentioned" },
+  { who = "muse", status = "mentioned" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-21"
+title = "The Intertwining Garlands"
+location = ""
+region = "ella"
+cohort = ["gente"]
+cast = [
+  { who = "Iunone", status = "mentioned" },
+  { who = "Iride", status = "mentioned" },
+  { who = "gente", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Noè", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+simile = [
+  { lines = "12-12", vehicle = "Iride" },
+  { lines = "17-17", vehicle = "Noè" },
+]
+basis = "10-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Voice Emerges"
+location = ""
+region = "ella"
+cohort = ["le luci nove"]
+cast = [
+  { who = "le luci nove", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "le luci nove", predicate = "calls", obj = "Dante", lines = "29-30" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Theology of the Two Guides"
+location = ""
+region = "ella"
+cast = [
+  { who = "San Domenico", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "i beati", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+refer = [
+  { phrase = "beati", line = 33, resolves = "i beati" },
+]
+relations = [
+  { subj = "San Domenico", predicate = "speaks-to", obj = "Beatrice", lines = "31-31" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-45"
+title = "The Allegory of the Church's Defense"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Domenico", status = "mentioned" },
+  { who = "Francesco", status = "mentioned" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-60"
+title = "The Birth of Saint Dominic"
+location = ""
+region = "ella"
+cast = [
+  { who = "Europa", status = "mentioned" },
+  { who = "ogne uom", status = "mentioned" },
+  { who = "San Domenico", status = "mentioned" },
+  { who = "nemici", status = "mentioned" },
+  { who = "la madre", status = "mentioned" },
+]
+basis = "46-60"
+
+[[scene]]
+lines = "61-78"
+title = "The Vision and Signs of Sanctity"
+location = ""
+region = "ella"
+cast = [
+  { who = "Domenico", status = "mentioned" },
+  { who = "la donna", status = "mentioned" },
+  { who = "il padre di Domenico", status = "mentioned" },
+  { who = "spirito", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "la sua nutrice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "12:78", lines = "78-78", speaker = "Domenico", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Domenico", predicate = "relates-to", obj = "la Fede", lines = "61-62" },
+  { subj = "Domenico, la Fede", predicate = "gives", obj = "Domenico, la Fede", lines = "63-63" },
+  { subj = "la donna", predicate = "gives", obj = "Domenico", lines = "64-64" },
+  { subj = "il padre di Domenico", predicate = "relates-to", obj = "le rede", lines = "66-66" },
+  { subj = "spirito", predicate = "names", obj = "Domenico", lines = "68-69" },
+  { subj = "Domenico", predicate = "compares", obj = "Domenico", lines = "70-72" },
+  { subj = "Domenico", predicate = "relates-to", obj = "Cristo", lines = "73-73" },
+  { subj = "Cristo", predicate = "gives", obj = "Domenico", lines = "74-75" },
+  { subj = "la sua nutrice", predicate = "meets", obj = "Domenico", lines = "76-77" },
+]
+simile = [
+  { lines = "71-72", vehicle = "Domenico" },
+]
+basis = "61-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Rapid Growth of the Doctor"
+location = ""
+region = "ella"
+cast = [
+  { who = "Felice", status = "mentioned" },
+  { who = "Giovanna", status = "mentioned" },
+  { who = "Agostino", status = "mentioned" },
+  { who = "Taddeo", status = "mentioned" },
+  { who = "Domenico", status = "mentioned" },
+]
+refer = [
+  { phrase = "lo mondo", line = 82, resolves = "'l mondo" },
+]
+relations = [
+  { subj = "Domenico", predicate = "praises", obj = "Felice", lines = "79-79" },
+  { subj = "Domenico", predicate = "praises", obj = "Giovanna", lines = "80-80" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-105"
+title = "The Missionary Zeal of Dominic"
+location = ""
+region = "ella"
+cohort = ["li sterpi eretici"]
+cast = [
+  { who = "i Francescani", status = "mentioned" },
+  { who = "il Papa", status = "present" },
+  { who = "San Domenico", status = "present" },
+  { who = "pauperum Dei", status = "mentioned" },
+  { who = "Parola di Dio", status = "mentioned" },
+  { who = "li sterpi eretici", status = "present" },
+  { who = "Ordine domenicano", status = "mentioned" },
+  { who = "i suoi arbuscelli", status = "mentioned" },
+]
+refer = [
+  { phrase = "Papa", line = 88, resolves = "il Papa" },
+  { phrase = "Francescani", line = 88, resolves = "i Francescani" },
+  { phrase = "Papa", line = 91, resolves = "il Papa" },
+]
+simile = [
+  { lines = "98-99", vehicle = "San Domenico" },
+]
+basis = "88-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Vacancy in the Second Circle"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Tomma", status = "mentioned" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-126"
+title = "The Vastness of the Second Ring"
+location = ""
+region = "ella"
+cast = [
+  { who = "i Francescani", status = "mentioned" },
+  { who = "un'anima tra i Francescani", status = "mentioned" },
+  { who = "il loglio", status = "mentioned" },
+  { who = "San Domenico", status = "mentioned" },
+  { who = "i frati di Casal e Acquasparta", status = "mentioned" },
+]
+speech = [
+  { quote_id = "12:123", lines = "123-123", speaker = "San Domenico", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "un'anima tra i Francescani", predicate = "relates-to", obj = "un'anima tra i Francescani", lines = "117-117" },
+  { subj = "San Domenico", predicate = "compares", obj = "i frati di Casal e Acquasparta", lines = "124-126" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-141"
+title = "The Assembly of the Saints"
+location = ""
+region = "ella"
+cohort = ["primi scalzi poverelli"]
+cast = [
+  { who = "Domenico", status = "mentioned" },
+  { who = "Bonaventura", status = "present" },
+  { who = "Illuminato", status = "present" },
+  { who = "Augustin", status = "present" },
+  { who = "primi scalzi poverelli", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Ugo da San Vittore", status = "present" },
+  { who = "Pietro Mangiadore", status = "present" },
+  { who = "Pietro Spano", status = "present" },
+  { who = "Natàn", status = "present" },
+  { who = "Crisostomo", status = "present" },
+  { who = "Anselmo", status = "present" },
+  { who = "Donato", status = "present" },
+  { who = "Rabano", status = "present" },
+  { who = "Giovacchino", status = "present" },
+]
+basis = "127-141"
+
+[[scene]]
+lines = "142-145"
+title = "The Unified Praise"
+location = ""
+region = "ella"
+cast = [
+  { who = "Francesco", status = "present" },
+  { who = "Domenico", status = "present" },
+  { who = "Tommaso", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+basis = "142-145"

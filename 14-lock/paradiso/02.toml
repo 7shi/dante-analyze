@@ -1,0 +1,322 @@
+canticle = "paradiso"
+canto = 2
+
+[[scene]]
+lines = "1-6"
+title = "The Prologue's Warning"
+location = "piccioletta barca"
+region = "etterne rote"
+cast = [
+  { who = "i lettori", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "i lettori", lines = "1-1" },
+  { subj = "Dante", predicate = "warns", obj = "i lettori", lines = "5-6" },
+]
+simile = [
+  { lines = "1-3", vehicle = "Dante" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-9"
+title = "The Divine Muses"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Minerva", status = "mentioned" },
+  { who = "Appollo", status = "mentioned" },
+  { who = "nove Muse", status = "mentioned" },
+]
+relations = [
+  { subj = "Appollo", predicate = "guides", obj = "Dante", lines = "8-8" },
+  { subj = "nove Muse", predicate = "shows", obj = "Dante", lines = "9-9" },
+]
+basis = "7-9"
+
+[[scene]]
+lines = "10-21"
+title = "The Mythic Precedent"
+location = "L'acqua"
+region = "etterne rote"
+cohort = ["Voialtri pochi"]
+cast = [
+  { who = "Voialtri pochi", status = "present" },
+  { who = "li angeli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Que' glorïosi", status = "mentioned" },
+  { who = "Iasón", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Voialtri pochi", lines = "10-10" },
+  { subj = "Dante", predicate = "tells", obj = "Voialtri pochi", lines = "13-15" },
+]
+basis = "10-21"
+
+[[scene]]
+lines = "22-30"
+title = "Beatrice Appears"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "22-22" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "25-25" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "26-26" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "28-28" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "29-29" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Metaphor of Light"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-42"
+title = "Ontological Reflection"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-45"
+title = "The Nature of Faith"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+basis = "43-45"
+
+[[scene]]
+lines = "46-51"
+title = "Dante's Inquiry"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Caine", status = "mentioned" },
+]
+speech = [
+  { quote_id = "2:46", lines = "46-51", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Beatrice", lines = "46-46" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "49-49" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-58"
+title = "Beatrice's Challenge"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "mortali", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "53-53" },
+]
+basis = "52-58"
+
+[[scene]]
+lines = "59-60"
+title = "Dante's Hypothesis"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "2:59", lines = "59-60", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "59-60"
+
+[[scene]]
+lines = "61-72"
+title = "The Argument from Virtue"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "rebukes", obj = "Dante", lines = "61-62" },
+]
+basis = "61-72"
+
+[[scene]]
+lines = "73-84"
+title = "The Argument from Matter"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "73-84" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Argument from Opacity"
+location = "L'acqua"
+region = "etterne rote"
+cast = []
+basis = "85-90"
+
+[[scene]]
+lines = "91-93"
+title = "The Argument from Refraction"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-96"
+title = "The Appeal to Experience"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "94-96"
+
+[[scene]]
+lines = "97-105"
+title = "The Three-Mirror Experiment"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Vision of Intense Light"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+simile = [
+  { lines = "106-109", vehicle = "il suggetto" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-117"
+title = "The Primum Mobile"
+location = "L'acqua"
+region = "etterne rote"
+cast = []
+basis = "112-117"
+
+[[scene]]
+lines = "118-123"
+title = "The Order of the Spheres"
+location = "L'acqua"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "organi del mondo", lines = "122-122" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Way of the Truth"
+location = "questo loco"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Divine Influence"
+location = "questo loco"
+region = "etterne rote"
+cast = [
+  { who = "beati motor", status = "mentioned" },
+]
+simile = [
+  { lines = "128-129", vehicle = "beati motor" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Analogy of the Soul"
+location = "questo loco"
+region = "etterne rote"
+cast = [
+  { who = "l'alma", status = "mentioned" },
+]
+simile = [
+  { lines = "133-135", vehicle = "l'alma" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-141"
+title = "The Union of Virtue and Body"
+location = "questo loco"
+region = "etterne rote"
+cast = []
+refer = [
+  { phrase = "Virtù", line = 139, resolves = "virtù" },
+  { phrase = "Virtù", line = 140, resolves = "virtù" },
+  { phrase = "Virtù", line = 141, resolves = "virtù" },
+]
+basis = "139-141"
+
+[[scene]]
+lines = "142-144"
+title = "The Radiance of Virtue"
+location = "questo loco"
+region = "etterne rote"
+cast = []
+basis = "142-144"
+
+[[scene]]
+lines = "145-148"
+title = "The Nature of Light"
+location = "questo loco"
+region = "etterne rote"
+cast = []
+basis = "145-148"

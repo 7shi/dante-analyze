@@ -1,0 +1,296 @@
+canticle = "purgatorio"
+canto = 12
+
+[[scene]]
+lines = "1-12"
+title = "The separation of the travelers"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Oderisi", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Oderisi", lines = "1-2" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Virgilio", lines = "3-3" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "4-4" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "4-4" },
+  { subj = "Dante", predicate = "relates-to", obj = "Oderisi", lines = "7-8" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "10-10" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The warning to watch the path"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i sepolti", status = "mentioned" },
+  { who = "a' pïi", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "i sepolti", lines = "22-24" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-36"
+title = "The sight of the Giants"
+location = ""
+region = "cornice"
+cohort = ["i Giganti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Giove", status = "present" },
+  { who = "altra creatura", status = "mentioned" },
+  { who = "Brïareo", status = "present" },
+  { who = "Timbreo", status = "present" },
+  { who = "Pallade", status = "present" },
+  { who = "i Giganti", status = "present" },
+  { who = "Nembròt", status = "present" },
+  { who = "le genti", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Giove", lines = "25-27" },
+  { subj = "Giove", predicate = "compares", obj = "altra creatura", lines = "26-26" },
+  { subj = "Dante", predicate = "sees", obj = "Brïareo", lines = "28-30" },
+  { subj = "Dante", predicate = "sees", obj = "Timbreo", lines = "31-31" },
+  { subj = "Dante", predicate = "sees", obj = "Pallade", lines = "31-31" },
+  { subj = "Dante", predicate = "sees", obj = "Marte", lines = "31-31" },
+  { subj = "Timbreo", predicate = "relates-to", obj = "Giove", lines = "32-32" },
+  { subj = "Pallade", predicate = "relates-to", obj = "Giove", lines = "32-32" },
+  { subj = "Marte", predicate = "relates-to", obj = "Giove", lines = "32-32" },
+  { subj = "Timbreo", predicate = "sees", obj = "i Giganti", lines = "33-33" },
+  { subj = "Pallade", predicate = "sees", obj = "i Giganti", lines = "33-33" },
+  { subj = "Marte", predicate = "sees", obj = "i Giganti", lines = "33-33" },
+  { subj = "Dante", predicate = "sees", obj = "Nembròt", lines = "34-34" },
+  { subj = "Nembròt", predicate = "sees", obj = "le genti", lines = "35-36" },
+  { subj = "le genti", predicate = "relates-to", obj = "Nembròt", lines = "36-36" },
+]
+basis = "25-36"
+
+[[scene]]
+lines = "37-45"
+title = "The signs of tragic figures"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Nïobè", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "figliuoli di Nïobè", status = "mentioned" },
+  { who = "Saùl", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Nïobè", lines = "37-37" },
+  { subj = "Dante", predicate = "sees", obj = "Nïobè", lines = "38-38" },
+  { subj = "Dante", predicate = "addresses", obj = "Saùl", lines = "40-40" },
+  { subj = "Dante", predicate = "addresses", obj = "Aragne", lines = "43-43" },
+  { subj = "Dante", predicate = "sees", obj = "Aragne", lines = "43-43" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-54"
+title = "The symbols of fallen kings"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Roboàm", status = "present" },
+  { who = "i portatori del carro", status = "mentioned" },
+  { who = "Almeon", status = "mentioned" },
+  { who = "la sua madre", status = "mentioned" },
+  { who = "i figli", status = "mentioned" },
+  { who = "Sennacherìb", status = "mentioned" },
+]
+refer = [
+  { phrase = "sua madre", line = 50, resolves = "la sua madre" },
+]
+relations = [
+  { subj = "i portatori del carro", predicate = "brings", obj = "Roboàm", lines = "47-48" },
+  { subj = "Almeon", predicate = "strikes", obj = "la sua madre", lines = "50-51" },
+  { subj = "i figli", predicate = "strikes", obj = "Sennacherìb", lines = "52-53" },
+  { subj = "i figli", predicate = "relates-to", obj = "Sennacherìb", lines = "54-54" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-63"
+title = "The remnants of war and ruin"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Tamiri", status = "mentioned" },
+  { who = "Ciro", status = "mentioned" },
+  { who = "li Assiri", status = "mentioned" },
+  { who = "Oloferne", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "12:57", lines = "57-57", speaker = "Tamiri", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Tamiri", predicate = "speaks-to", obj = "Ciro", lines = "56-56" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-69"
+title = "Dante's reaction to the imagery"
+location = ""
+region = "cornice"
+cohort = ["l'ombre", "li morti"]
+cast = [
+  { who = "maestro", status = "mentioned" },
+  { who = "l'ombre", status = "present" },
+  { who = "uno ingegno sottile", status = "mentioned" },
+  { who = "li morti", status = "present" },
+  { who = "vivi", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "uno ingegno sottile", predicate = "sees", obj = "Dante", lines = "68-68" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-78"
+title = "The command to look upward"
+location = ""
+region = "cornice"
+cohort = ["figliuoli d'Eva"]
+cast = [
+  { who = "figliuoli d'Eva", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "figliuoli d'Eva", lines = "70-70" },
+  { subj = "Dante", predicate = "commands", obj = "figliuoli d'Eva", lines = "71-71" },
+  { subj = "Dante", predicate = "warns", obj = "figliuoli d'Eva", lines = "72-72" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "76-76" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "77-77" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "78-78" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-84"
+title = "The approaching messenger"
+location = ""
+region = "cornice"
+cohort = ["un angel"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un angel", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'ancella sesta", status = "present" },
+  { who = "i diletti", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un angel", lines = "79-79" },
+  { subj = "un angel", predicate = "meets", obj = "Dante, Virgilio", lines = "80-80" },
+  { subj = "Dante", predicate = "sees", obj = "un angel", lines = "80-80" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-96"
+title = "The arrival of the angel"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "la creatura bella", status = "present" },
+  { who = "gente umana", status = "mentioned" },
+  { who = "molto radi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "12:92", lines = "92-96", speaker = "la creatura bella", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "la creatura bella", predicate = "meets", obj = "Dante, Virgilio", lines = "88-88" },
+  { subj = "la creatura bella", predicate = "commands", obj = "Dante, Virgilio", lines = "92-92" },
+  { subj = "la creatura bella", predicate = "tells", obj = "Dante, Virgilio", lines = "92-93" },
+  { subj = "la creatura bella", predicate = "addresses", obj = "gente umana", lines = "95-95" },
+  { subj = "la creatura bella", predicate = "asks", obj = "gente umana", lines = "96-96" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-108"
+title = "The difficult climb"
+location = "ove la roccia era tagliata"
+region = "cornice"
+cast = [
+  { who = "l'angelo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "l'angelo", predicate = "guides", obj = "Dante", lines = "97-97" },
+  { subj = "l'angelo", predicate = "strikes", obj = "Dante", lines = "98-98" },
+  { subj = "l'angelo", predicate = "tells", obj = "Dante", lines = "99-99" },
+]
+basis = "97-108"
+
+[[scene]]
+lines = "109-114"
+title = "The transition in song"
+location = "ove la roccia era tagliata"
+region = "cornice"
+cohort = ["pauperes"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "pauperes", status = "present" },
+  { who = "l'infernali", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "pauperes", lines = "110-111" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-126"
+title = "The mystery of the weightless ascent"
+location = "li scaglion santi"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "i P", status = "mentioned" },
+]
+speech = [
+  { quote_id = "12:118", lines = "118-120", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "118-118" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "118-120" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "121-121" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "121-126" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-136"
+title = "The discovery of the inscription"
+location = "li scaglion santi"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "persone", status = "mentioned" },
+  { who = "uno", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "touches", obj = "Dante", lines = "133-135" },
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "136-136" },
+]
+simile = [
+  { lines = "127-128", vehicle = "persone" },
+]
+basis = "127-136"

@@ -1,0 +1,251 @@
+canticle = "paradiso"
+canto = 28
+
+[[scene]]
+lines = "1-12"
+title = "The Mirror of Memory"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "i miseri mortali", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "colui che se n'alluma retro", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Amor", line = 12, resolves = "amor" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "shows", obj = "Dante", lines = "2-3" },
+  { subj = "Beatrice", predicate = "guides", obj = "Dante", lines = "3-3" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "11-11" },
+  { subj = "amor", predicate = "touches", obj = "Dante", lines = "12-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-30"
+title = "The Radiant Point and Concentric Spheres"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "13-30"
+
+[[scene]]
+lines = "31-39"
+title = "The Expansion of the Seventh Sphere"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Mercurio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-45"
+title = "Beatrice's First Intervention"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "40-40" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-57"
+title = "Dante's Theological Doubt"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "28:46", lines = "46-57", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Beatrice", lines = "46-46" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "55-57" },
+]
+basis = "46-57"
+
+[[scene]]
+lines = "58-60"
+title = "Beatrice's Reassurance"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = []
+basis = "58-60"
+
+[[scene]]
+lines = "61-78"
+title = "The Principle of Divine Proportion"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "28:61", lines = "61-78", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "61-61" },
+]
+basis = "61-78"
+
+[[scene]]
+lines = "79-87"
+title = "Clarity of Understanding"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "85-86" },
+]
+simile = [
+  { lines = "81-83", vehicle = "l ciel" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Multiplication of Sparks"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "scintille", lines = "90-93" },
+  { subj = "Dante", predicate = "hears", obj = "scintille", lines = "94-94" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Highest Angels: Seraphim and Cherubim"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Serafi", status = "mentioned" },
+  { who = "Cherubi", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "97-98" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "98-98" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Thrones and the Nature of Knowledge"
+location = "miro e angelico templo"
+region = "qua sù"
+cohort = ["Troni del divino aspetto"]
+cast = [
+  { who = "Troni del divino aspetto", status = "present" },
+  { who = "ogne intelletto", status = "mentioned" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Essence of Beatitude"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "beato", status = "mentioned" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Hymn of the Third Order"
+location = "miro e angelico templo"
+region = "qua sù"
+cast = [
+  { who = "L'altro ternaro", status = "present" },
+  { who = "tre melode", status = "present" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Hierarchy of the Remaining Angels"
+location = "miro e angelico templo"
+region = "qua sù"
+cohort = ["l'altre dee"]
+cast = [
+  { who = "l'altre dee", status = "present" },
+  { who = "Dominazioni", status = "present" },
+  { who = "Virtudi", status = "present" },
+  { who = "Podestadi", status = "present" },
+  { who = "Principati", status = "present" },
+  { who = "Arcangeli", status = "present" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-129"
+title = "The Universal Influence of the Spheres"
+location = "miro e angelico templo"
+region = "qua sù"
+cohort = ["Questi ordini di sù"]
+cast = [
+  { who = "Questi ordini di sù", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Questi ordini di sù", predicate = "relates-to", obj = "Questi ordini di sù", lines = "127-127" },
+  { subj = "Dio", predicate = "brings", obj = "Questi ordini di sù", lines = "129-129" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-135"
+title = "Dionysius and Gregory"
+location = "miro e angelico templo"
+region = "qua sù"
+cohort = ["questi ordini"]
+cast = [
+  { who = "Dïonisio", status = "present" },
+  { who = "questi ordini", status = "present" },
+  { who = "Dante", status = "mentioned" },
+  { who = "Gregorio", status = "present" },
+]
+relations = [
+  { subj = "Dïonisio", predicate = "sees", obj = "questi ordini", lines = "130-131" },
+  { subj = "Dïonisio", predicate = "names", obj = "questi ordini", lines = "132-132" },
+  { subj = "Dante", predicate = "names", obj = "questi ordini", lines = "132-132" },
+  { subj = "Dante", predicate = "compares", obj = "Dïonisio", lines = "132-132" },
+  { subj = "Gregorio", predicate = "relates-to", obj = "Dïonisio", lines = "133-133" },
+  { subj = "Gregorio", predicate = "relates-to", obj = "Gregorio", lines = "135-135" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-139"
+title = "The Final Revelation"
+location = "qua sù"
+region = "qua sù"
+cast = [
+  { who = "mortale", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Gregorio", status = "mentioned" },
+]
+basis = "136-139"

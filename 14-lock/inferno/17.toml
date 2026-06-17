@@ -1,0 +1,297 @@
+canticle = "inferno"
+canto = 17
+
+[[scene]]
+lines = "1-3"
+title = "The Herald of the Beast"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Gerione", status = "present" },
+]
+basis = "1-3"
+
+[[scene]]
+lines = "4-9"
+title = "The Beast Approaches"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "il messaggero", status = "present" },
+  { who = "Gerione", status = "present" },
+]
+relations = [
+  { subj = "il messaggero", predicate = "commands", obj = "il messaggero", lines = "5-5" },
+]
+basis = "4-9"
+
+[[scene]]
+lines = "10-18"
+title = "Description of Geryon's Form"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Geryone", status = "present" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-27"
+title = "The Serpent's Tail"
+location = "orlo"
+region = "la strada"
+cast = [
+  { who = "li Tedeschi lurchi", status = "mentioned" },
+  { who = "Geryone", status = "present" },
+]
+simile = [
+  { lines = "19-24", vehicle = "li Tedeschi lurchi" },
+]
+basis = "19-27"
+
+[[scene]]
+lines = "28-33"
+title = "Changing Course"
+location = "orlo"
+region = "la strada"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Decision to Investigate"
+location = "loco scemo"
+region = "la strada"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Geryone", status = "present" },
+  { who = "gente", status = "present" },
+]
+speech = [
+  { quote_id = "17:39", lines = "39-42", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "Geryone", lines = "34-34" },
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "35-36" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "37-39" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-51"
+title = "The Agony of the Souls"
+location = "strema testa di quel settimo cerchio"
+region = "la strada"
+cohort = ["la gente mesta"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la gente mesta", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "la gente mesta", lines = "43-45" },
+  { subj = "Dante", predicate = "sees", obj = "la gente mesta", lines = "46-48" },
+]
+basis = "43-51"
+
+[[scene]]
+lines = "52-57"
+title = "The Symbolic Pouches"
+location = "strema testa di quel settimo cerchio"
+region = "la strada"
+cohort = ["anime"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "anime", lines = "54-54" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-65"
+title = "The Colors of Sin"
+location = "strema testa di quel settimo cerchio"
+region = "la strada"
+cohort = ["dannati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "dannati", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "dannati", lines = "58-58" },
+]
+basis = "58-65"
+
+[[scene]]
+lines = "66-73"
+title = "An Encounter with a Sinner"
+location = "fossa"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "il padoano", status = "present" },
+  { who = "Vitalïano", status = "mentioned" },
+  { who = "Fiorentin", status = "present" },
+]
+speech = [
+  { quote_id = "17:66", lines = "66-73", speaker = "il padoano", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "il padoano", predicate = "speaks-to", obj = "Dante", lines = "66-66" },
+  { subj = "il padoano", predicate = "asks", obj = "Dante", lines = "66-66" },
+  { subj = "il padoano", predicate = "commands", obj = "Dante", lines = "67-67" },
+  { subj = "il padoano", predicate = "tells", obj = "Dante", lines = "67-67" },
+  { subj = "il padoano", predicate = "tells", obj = "Dante", lines = "68-68" },
+  { subj = "Fiorentin", predicate = "rebukes", obj = "il padoano", lines = "71-71" },
+  { subj = "Fiorentin", predicate = "calls", obj = "Vitalïano", lines = "72-73" },
+]
+basis = "66-73"
+
+[[scene]]
+lines = "74-78"
+title = "Dante's Retreat"
+location = "fossa"
+region = "fossa"
+cohort = ["l'anime lasse"]
+cast = [
+  { who = "il peccatore padovano", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'anime lasse", status = "present" },
+]
+relations = [
+  { subj = "il peccatore padovano", predicate = "warns", obj = "Dante", lines = "77-77" },
+]
+basis = "74-78"
+
+[[scene]]
+lines = "79-84"
+title = "Mounting the Beast"
+location = "fossa"
+region = "fossa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Gerione", status = "present" },
+]
+speech = [
+  { quote_id = "17:81", lines = "81-84", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Virgilio", lines = "79-79" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "81-81" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-90"
+title = "Dante's Internal Terror"
+location = "fossa"
+region = "fossa"
+cast = [
+  { who = "colui che sì presso ha 'l riprezzo de la quartana", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "90-90" },
+]
+simile = [
+  { lines = "85-86", vehicle = "colui che sì presso ha 'l riprezzo de la quartana" },
+  { lines = "85-88", vehicle = "colui che sì presso ha 'l riprezzo de la quartana" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-99"
+title = "The Instructions for Flight"
+location = "fossa"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Gerïon", status = "present" },
+]
+speech = [
+  { quote_id = "17:93", lines = "93-93", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "92-93" },
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "96-96" },
+  { subj = "Virgilio", predicate = "protects", obj = "Dante", lines = "96-96" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Gerïon", lines = "97-97" },
+  { subj = "Virgilio", predicate = "commands", obj = "Gerïon", lines = "97-97" },
+]
+basis = "91-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Start of the Descent"
+location = "fossa"
+region = "fossa"
+cast = [
+  { who = "Geryone", status = "present" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-114"
+title = "Mythological Parallels of Fear"
+location = "l'aere"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "compares", obj = "Fetonte", lines = "106-107" },
+  { subj = "Dante", predicate = "compares", obj = "Icaro", lines = "106-109" },
+  { subj = "Dedalo", predicate = "warns", obj = "Icaro", lines = "111-111" },
+  { subj = "Dante", predicate = "sees", obj = "Dante", lines = "112-112" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-123"
+title = "The Sensory Chaos of the Fall"
+location = "l'aere"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-126"
+title = "Approaching the Abyss"
+location = "l'aere"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-136"
+title = "The Final Landing"
+location = "l'aere"
+region = "fossa"
+cast = [
+  { who = "Gerïone", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Gerïone", predicate = "brings", obj = "Dante, Virgilio", lines = "133-135" },
+]
+simile = [
+  { lines = "129-129", vehicle = "falcon" },
+  { lines = "131-132", vehicle = "falconiere" },
+]
+basis = "127-136"

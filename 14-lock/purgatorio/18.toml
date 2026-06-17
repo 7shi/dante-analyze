@@ -1,0 +1,370 @@
+canticle = "purgatorio"
+canto = 18
+
+[[scene]]
+lines = "1-9"
+title = "Dante's Hesitation"
+location = ""
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "18:5", lines = "5-6", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "2-3" },
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "7-8" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "9-9" },
+  { subj = "Virgilio", predicate = "gives", obj = "Dante", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "Dante's Request"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "18:10", lines = "10-15", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "10-10" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "13-13" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-27"
+title = "The Mechanics of Desire"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "ciechi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:16B", lines = "16-39", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "16-16" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "16-27" },
+]
+basis = "16-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Movement of the Soul"
+location = ""
+region = "giro"
+cast = []
+basis = "28-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Deception of Appearances"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "mentioned" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-45"
+title = "Dante's Doubt"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "uomini", status = "mentioned" },
+  { who = "l'anima", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:41", lines = "41-45", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+refer = [
+  { phrase = "Amor", line = 41, resolves = "amor" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "40-41" },
+  { subj = "Dante", predicate = "recognizes", obj = "amor", lines = "41-41" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-48"
+title = "The Promise of Beatrice"
+location = ""
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:46", lines = "46-75", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "46-46" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-54"
+title = "The Essence of Form"
+location = ""
+region = "giro"
+cast = []
+basis = "49-54"
+
+[[scene]]
+lines = "55-60"
+title = "The Instinct of the Soul"
+location = ""
+region = "giro"
+cast = [
+  { who = "l'omo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-63"
+title = "The Role of Assent"
+location = ""
+region = "giro"
+cast = []
+basis = "61-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Basis of Morality"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Color che ragionando andaro al fondo", status = "mentioned" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Power of Free Will"
+location = ""
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-81"
+title = "The Night Sky"
+location = ""
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "La luna", line = 79, resolves = "la Luna" },
+  { phrase = "Il sole", line = 79, resolves = "il Sole" },
+]
+relations = [
+  { subj = "la Luna", predicate = "follows", obj = "il Sole", lines = "79-80" },
+]
+basis = "76-81"
+
+[[scene]]
+lines = "82-87"
+title = "Dante's Lethargy"
+location = ""
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "uomini", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "om", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "84-84" },
+]
+simile = [
+  { lines = "87-87", vehicle = "om" },
+]
+basis = "82-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Approaching Crowd"
+location = "giron"
+region = "giro"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Ismeno", status = "mentioned" },
+  { who = "Asopo", status = "mentioned" },
+  { who = "i Teban", status = "mentioned" },
+  { who = "Bacco", status = "mentioned" },
+]
+relations = [
+  { subj = "gente", predicate = "meets", obj = "Dante, Virgilio", lines = "89-90" },
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "95-95" },
+]
+simile = [
+  { lines = "91-94", vehicle = "i Teban" },
+  { lines = "93-93", vehicle = "Bacco" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Shouts of the Travelers"
+location = "giron"
+region = "giro"
+cohort = ["tutta quella turba magna"]
+cast = [
+  { who = "tutta quella turba magna", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Cesare", status = "mentioned" },
+]
+relations = [
+  { subj = "tutta quella turba magna", predicate = "meets", obj = "Dante, Virgilio", lines = "97-97" },
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "anime", lines = "99-99" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-105"
+title = "The Urgency of the Crowd"
+location = "giron"
+region = "giro"
+cohort = ["li altri"]
+cast = [
+  { who = "li altri", status = "present" },
+]
+basis = "103-105"
+
+[[scene]]
+lines = "106-111"
+title = "Virgil's Inquiry"
+location = "giron"
+region = "giro"
+cohort = ["gente"]
+cast = [
+  { who = "gente", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "18:106", lines = "106-111", speaker = "Virgilio", addressee = "gente", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "gente", lines = "106-106" },
+  { subj = "Virgilio", predicate = "tells", obj = "gente", lines = "109-109" },
+  { subj = "Virgilio", predicate = "asks", obj = "gente", lines = "111-111" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-126"
+title = "The Abbot's Warning"
+location = "giron"
+region = "giro"
+cohort = ["quelli spirti"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "abate in San Zeno a Verona", status = "present" },
+  { who = "quelli spirti", status = "present" },
+  { who = "Barbarossa", status = "mentioned" },
+  { who = "suo figlio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:113", lines = "113-126", speaker = "abate in San Zeno a Verona", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "abate in San Zeno a Verona", predicate = "speaks-to", obj = "Virgilio", lines = "113-113" },
+  { subj = "abate in San Zeno a Verona", predicate = "commands", obj = "Virgilio", lines = "113-114" },
+  { subj = "abate in San Zeno a Verona", predicate = "pleads-with", obj = "Virgilio", lines = "116-117" },
+]
+basis = "112-126"
+
+[[scene]]
+lines = "127-129"
+title = "Dante's Observation"
+location = "giron"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "abate di San Zeno", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "abate di San Zeno", predicate = "relates-to", obj = "Dante, Virgilio", lines = "128-128" },
+  { subj = "Dante", predicate = "hears", obj = "abate di San Zeno", lines = "129-129" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-132"
+title = "Virgil's Direction"
+location = "giron"
+region = "giro"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "protects", obj = "Dante", lines = "130-130" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "131-131" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "131-131" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Final Echoes"
+location = "giron"
+region = "giro"
+cohort = ["anime"]
+cast = [
+  { who = "anime", status = "present" },
+  { who = "Israeliti", status = "mentioned" },
+  { who = "Didone", status = "mentioned" },
+  { who = "Enea", status = "mentioned" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-145"
+title = "Dante's Drift into Sleep"
+location = "giron"
+region = "giro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'ombre", status = "mentioned" },
+]
+refer = [
+  { phrase = "ombre", line = 139, resolves = "l'ombre" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "l'ombre", lines = "139-140" },
+]
+basis = "139-145"

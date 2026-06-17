@@ -1,0 +1,298 @@
+canticle = "inferno"
+canto = 18
+
+[[scene]]
+lines = "1-18"
+title = "The Topography of Malebolge"
+location = ""
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i costruttori dei castelli", status = "mentioned" },
+]
+basis = "1-18"
+
+[[scene]]
+lines = "19-24"
+title = "Arrival in the First Bolgia"
+location = ""
+region = "fossa"
+cohort = ["novi frustatori"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Gerïon", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "novi frustatori", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Gerïon", lines = "19-20" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "20-21" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "21-21" },
+  { subj = "Dante", predicate = "sees", obj = "novi frustatori", lines = "22-23" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Flow of Sinners"
+location = ""
+region = "fossa"
+cohort = ["i peccatori"]
+cast = [
+  { who = "i peccatori", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gente", status = "mentioned" },
+  { who = "Santo Pietro", status = "mentioned" },
+]
+refer = [
+  { phrase = "la gente", line = 30, resolves = "gente" },
+]
+relations = [
+  { subj = "i peccatori", predicate = "meets", obj = "Dante, Virgilio", lines = "26-26" },
+]
+simile = [
+  { lines = "30-32", vehicle = "Santo Pietro" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Brutal Tormentors"
+location = "lo sasso tetro"
+region = "fossa"
+cohort = ["ruffiani e seduttori"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "demoni cornuti", status = "present" },
+  { who = "ruffiani e seduttori", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "demoni cornuti", lines = "35-35" },
+  { subj = "demoni cornuti", predicate = "strikes", obj = "ruffiani e seduttori", lines = "36-36" },
+  { subj = "demoni cornuti", predicate = "strikes", obj = "ruffiani e seduttori", lines = "37-37" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-51"
+title = "Recognition of Caccianemico"
+location = "lo sasso tetro"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Caccianemico", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "18:42", lines = "42-42", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Caccianemico", lines = "40-41" },
+  { subj = "Dante", predicate = "recognizes", obj = "Caccianemico", lines = "42-42" },
+  { subj = "Dante", predicate = "sees", obj = "Caccianemico", lines = "43-43" },
+  { subj = "Virgilio", predicate = "follows", obj = "Dante", lines = "44-44" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "45-45" },
+  { subj = "Dante", predicate = "addresses", obj = "Caccianemico", lines = "48-48" },
+  { subj = "Dante", predicate = "names", obj = "Caccianemico", lines = "50-50" },
+  { subj = "Dante", predicate = "asks", obj = "Caccianemico", lines = "51-51" },
+]
+basis = "40-51"
+
+[[scene]]
+lines = "52-63"
+title = "The Sinner's Confession"
+location = "lo sasso tetro"
+region = "fossa"
+cast = [
+  { who = "Caccianemico", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "marchese", status = "mentioned" },
+  { who = "bolognese", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:52", lines = "52-63", speaker = "Caccianemico", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Caccianemico", predicate = "answers", obj = "Dante", lines = "52-52" },
+  { subj = "Caccianemico", predicate = "tells", obj = "Dante", lines = "58-62" },
+  { subj = "Caccianemico", predicate = "commands", obj = "Dante", lines = "63-63" },
+]
+basis = "52-63"
+
+[[scene]]
+lines = "64-66"
+title = "The Demon's Interruption"
+location = "lo sasso tetro"
+region = "fossa"
+cohort = ["demonio"]
+cast = [
+  { who = "Caccianemico", status = "present" },
+  { who = "demonio", status = "present" },
+  { who = "femmine", status = "mentioned" },
+]
+refer = [
+  { phrase = "un demonio", line = 64, resolves = "demonio" },
+  { phrase = "un demonio", line = 65, resolves = "demonio" },
+  { phrase = "un demonio", line = 66, resolves = "demonio" },
+]
+relations = [
+  { subj = "demonio", predicate = "strikes", obj = "Caccianemico", lines = "64-64" },
+  { subj = "demonio", predicate = "commands", obj = "Caccianemico", lines = "65-65" },
+  { subj = "demonio", predicate = "addresses", obj = "Caccianemico", lines = "66-66" },
+]
+basis = "64-66"
+
+[[scene]]
+lines = "67-72"
+title = "Moving Along the Rim"
+location = "lo sasso tetro"
+region = "fossa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Virgilio", lines = "67-67" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-78"
+title = "Virgil's Warning"
+location = "là dov' el vaneggia di sotto"
+region = "là dov' el vaneggia di sotto"
+cohort = ["li sferzati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "li sferzati", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "75-75" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-81"
+title = "Watching the Bridge"
+location = "là dov' el vaneggia di sotto"
+region = "là dov' el vaneggia di sotto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-99"
+title = "The Tragedy of Jason"
+location = "là dov' el vaneggia di sotto"
+region = "là dov' el vaneggia di sotto"
+cohort = ["color che 'n sé assanna"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Iasón", status = "present" },
+  { who = "l'ardite femmine spietate", status = "mentioned" },
+  { who = "tutti li maschi", status = "mentioned" },
+  { who = "Isifile", status = "mentioned" },
+  { who = "Medea", status = "mentioned" },
+  { who = "color che 'n sé assanna", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "82-83" },
+]
+basis = "82-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Foul Junction"
+location = "lo stretto calle con l'argine secondo s'incrocicchia"
+region = "là dov' el vaneggia di sotto"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gente", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "gente", lines = "103-103" },
+  { subj = "gente", predicate = "strikes", obj = "gente", lines = "105-105" },
+  { subj = "l'alito", predicate = "strikes", obj = "Dante, Virgilio", lines = "107-108" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Sinner in the Filth"
+location = "dosso de l'arco"
+region = "là dov' el vaneggia di sotto"
+cohort = ["gente attuffata", "li uman privadi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gente attuffata", status = "present" },
+  { who = "li uman privadi", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente attuffata", lines = "113-113" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-123"
+title = "Recognition of Alessio Interminei"
+location = "dosso de l'arco"
+region = "là dov' el vaneggia di sotto"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Alessio Interminei", status = "present" },
+  { who = "li altri brutti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:118", lines = "118-119", speaker = "Alessio Interminei", addressee = "Dante", source = "code" },
+  { quote_id = "18:120", lines = "120-123", speaker = "Dante", addressee = "Alessio Interminei", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Alessio Interminei", lines = "116-116" },
+  { subj = "Alessio Interminei", predicate = "rebukes", obj = "Dante", lines = "118-118" },
+  { subj = "Alessio Interminei", predicate = "asks", obj = "Dante", lines = "118-119" },
+  { subj = "Dante", predicate = "answers", obj = "Alessio Interminei", lines = "120-120" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Flattery of the Sinner"
+location = "dosso de l'arco"
+region = "là dov' el vaneggia di sotto"
+cast = [
+  { who = "Alessio Interminei", status = "present" },
+]
+speech = [
+  { quote_id = "18:125", lines = "125-126", speaker = "Alessio Interminei", addressee = "(none)", source = "none" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-136"
+title = "The Observation of Taïde"
+location = "dosso de l'arco"
+region = "là dov' el vaneggia di sotto"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Taïde", status = "present" },
+  { who = "drudo suo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "18:134", lines = "134-135", speaker = "drudo suo", addressee = "Taïde", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "127-129" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "128-128" },
+  { subj = "Dante", predicate = "sees", obj = "Taïde", lines = "129-130" },
+  { subj = "Virgilio", predicate = "names", obj = "Taïde", lines = "133-133" },
+]
+basis = "127-136"

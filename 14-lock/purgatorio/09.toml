@@ -1,0 +1,332 @@
+canticle = "purgatorio"
+canto = 9
+
+[[scene]]
+lines = "1-12"
+title = "The Celestial Setting"
+location = ""
+region = "la picciola vallea"
+cast = [
+  { who = "La concubina", status = "mentioned" },
+  { who = "Titone", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "present" },
+  { who = "Nin", status = "present" },
+  { who = "Currado", status = "present" },
+  { who = "Adamo", status = "mentioned" },
+]
+relations = [
+  { subj = "La concubina", predicate = "relates-to", obj = "Titone", lines = "1-1" },
+  { subj = "La concubina", predicate = "relates-to", obj = "Titone", lines = "3-3" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "10-10" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Dream Vision"
+location = ""
+region = "la picciola vallea"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Ganimede", status = "mentioned" },
+]
+refer = [
+  { phrase = "aguglia", line = 19, resolves = "l'aguglia" },
+  { phrase = "aguglia", line = 22, resolves = "l'aguglia" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'aguglia", lines = "19-20" },
+  { subj = "Dante", predicate = "sees", obj = "l'aguglia", lines = "22-22" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Descent of the Needle"
+location = ""
+region = "la picciola vallea"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Awakening of Achilles"
+location = ""
+region = "la picciola vallea"
+cast = [
+  { who = "Achille", status = "mentioned" },
+  { who = "Teti", status = "mentioned" },
+  { who = "Chirón", status = "mentioned" },
+  { who = "li Greci", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+simile = [
+  { lines = "37-38", vehicle = "Achille" },
+  { lines = "38-38", vehicle = "Achille" },
+  { lines = "39-39", vehicle = "Achille" },
+  { lines = "41-42", vehicle = "l'uom" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-45"
+title = "Return to Reality"
+location = ""
+region = "la picciola vallea"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+basis = "43-45"
+
+[[scene]]
+lines = "46-63"
+title = "Virgil's Revelation"
+location = "purgatorio"
+region = "la picciola vallea"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Lucia", status = "mentioned" },
+  { who = "Virgilio, l'altre genti", status = "mentioned" },
+  { who = "Sordello", status = "mentioned" },
+  { who = "Currado Malaspina", status = "mentioned" },
+]
+speech = [
+  { quote_id = "9:47", lines = "47-63", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "9:55", lines = "55-57", speaker = "Lucia", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "46-46" },
+]
+basis = "46-63"
+
+[[scene]]
+lines = "64-69"
+title = "Dante's Reaction"
+location = "purgatorio"
+region = "la picciola vallea"
+cast = [
+  { who = "l'uom", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+refer = [
+  { phrase = "uom", line = 64, resolves = "l'uom" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "68-68" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "68-69" },
+]
+simile = [
+  { lines = "64-67", vehicle = "l'uom" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-72"
+title = "The Poet's Meta-commentary"
+location = "purgatorio"
+region = "lo balzo"
+cast = [
+  { who = "lettor", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Lettor", line = 70, resolves = "lettor" },
+  { phrase = "Lettor", line = 72, resolves = "lettor" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "70-70" },
+  { subj = "lettor", predicate = "sees", obj = "Dante", lines = "70-70" },
+  { subj = "Dante", predicate = "commands", obj = "lettor", lines = "72-72" },
+]
+basis = "70-72"
+
+[[scene]]
+lines = "73-78"
+title = "The Three Steps"
+location = "purgatorio"
+region = "lo balzo"
+cohort = ["un portier"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "un portier", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un portier", lines = "76-78" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Flash of the Sword"
+location = "purgatorio"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'angelo", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "l'angelo", lines = "81-81" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-93"
+title = "The Porter's Inquiry"
+location = "purgatorio"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "il portinaio", status = "present" },
+  { who = "Lucia", status = "mentioned" },
+]
+relations = [
+  { subj = "il portinaio", predicate = "asks", obj = "Dante, Virgilio", lines = "85-85" },
+  { subj = "il portinaio", predicate = "asks", obj = "Lucia", lines = "86-86" },
+  { subj = "il portinaio", predicate = "warns", obj = "Dante, Virgilio", lines = "87-87" },
+  { subj = "Virgilio", predicate = "answers", obj = "il portinaio", lines = "88-89" },
+  { subj = "il portinaio", predicate = "commands", obj = "Dante, Virgilio", lines = "92-93" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-102"
+title = "The Three Colored Steps"
+location = "lo scaglion primaio"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Dante", lines = "96-96" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Angel on the Threshold"
+location = "lo scaglion primaio"
+region = "lo balzo"
+cast = [
+  { who = "l'angel di Dio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "106-107" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "107-107" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Marking of the Forehead"
+location = "lo scaglion primaio"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'angelo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "l'angelo", lines = "110-110" },
+  { subj = "Dante", predicate = "strikes", obj = "Dante", lines = "111-111" },
+  { subj = "l'angelo", predicate = "strikes", obj = "Dante", lines = "112-112" },
+  { subj = "l'angelo", predicate = "commands", obj = "Dante", lines = "113-114" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Golden and Silver Keys"
+location = "lo scaglion primaio"
+region = "lo balzo"
+cast = [
+  { who = "l'angelo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Porter's Warning"
+location = "lo scaglion primaio"
+region = "lo balzo"
+cast = [
+  { who = "L'Angelo di Dio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+]
+speech = [
+  { quote_id = "9:123", lines = "123-129", speaker = "L'Angelo di Dio", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "la gente", line = 129, resolves = "gente" },
+]
+relations = [
+  { subj = "L'Angelo di Dio", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "123-123" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-132"
+title = "The Command to Enter"
+location = "la porta sacrata"
+region = "lo balzo"
+cast = [
+  { who = "l'angelo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "9:131", lines = "131-132", speaker = "l'angelo", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "L'Angelo", line = 131, resolves = "l'angelo" },
+]
+relations = [
+  { subj = "l'angelo", predicate = "commands", obj = "Dante, Virgilio", lines = "131-131" },
+  { subj = "l'angelo", predicate = "warns", obj = "Dante, Virgilio", lines = "131-131" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Sound of the Hinges"
+location = "regge sacra"
+region = "lo balzo"
+cast = [
+  { who = "Tarpëa", status = "mentioned" },
+  { who = "Metello", status = "mentioned" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-145"
+title = "The Celestial Hymn"
+location = "regge sacra"
+region = "lo balzo"
+cohort = ["anime purganti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "anime purganti", status = "present" },
+  { who = "persona generica", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "anime purganti", lines = "140-141" },
+]
+basis = "139-145"

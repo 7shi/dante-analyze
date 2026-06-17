@@ -1,0 +1,319 @@
+canticle = "purgatorio"
+canto = 31
+
+[[scene]]
+lines = "1-6"
+title = "The Sphinx's Accusation"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "addresses", obj = "Dante", lines = "1-1" },
+  { subj = "Beatrice", predicate = "addresses", obj = "Dante", lines = "2-2" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "5-5" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "Dante's Hesitant Response"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "31:10", lines = "10-12", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "10-10" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "11-11" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "11-12" },
+  { subj = "Confusione e paura", predicate = "relates-to", obj = "Dante", lines = "13-14" },
+  { subj = "Dante", predicate = "answers", obj = "Beatrice", lines = "14-15" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-21"
+title = "The Burst of Sorrow"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "16-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Sphinx's Inquiry"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li altri", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "22-30" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Confession of Sin"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-48"
+title = "The Command to Listen"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "31:37", lines = "37-63", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "37-48" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "46-46" },
+]
+basis = "37-48"
+
+[[scene]]
+lines = "49-63"
+title = "The Vanity of Earthly Beauty"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "rebukes", obj = "Dante", lines = "49-63" },
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "52-54" },
+]
+basis = "49-63"
+
+[[scene]]
+lines = "64-69"
+title = "A Call to Courage"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "fanciulli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "67-67" },
+]
+simile = [
+  { lines = "64-67", vehicle = "fanciulli" },
+  { lines = "66-66", vehicle = "fanciulli" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Simile of the Stripped Tree"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "men di resistenza", status = "mentioned" },
+  { who = "Iarba", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "73-73" },
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "74-74" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Vision of Beatrice"
+location = ""
+region = "coscia del carro"
+cohort = ["quelle prime creature"]
+cast = [
+  { who = "quelle prime creature", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Cristo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "quelle prime creature", lines = "77-78" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "80-80" },
+  { subj = "Beatrice", predicate = "sees", obj = "Cristo", lines = "80-80" },
+  { subj = "Cristo", predicate = "relates-to", obj = "Cristo", lines = "81-81" },
+  { subj = "Beatrice", predicate = "compares", obj = "Beatrice", lines = "83-83" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Sting of Repentance"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "brings", obj = "Dante", lines = "86-86" },
+  { subj = "Beatrice", predicate = "opposes", obj = "Dante", lines = "87-87" },
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "90-90" },
+  { subj = "Beatrice", predicate = "gives", obj = "Dante", lines = "90-90" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-96"
+title = "Crossing the River"
+location = ""
+region = "coscia del carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Beatrice", lines = "92-92" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "93-93" },
+  { subj = "Beatrice", predicate = "brings", obj = "Dante", lines = "94-94" },
+  { subj = "Beatrice", predicate = "brings", obj = "Dante", lines = "95-95" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-105"
+title = "Arrival at the Blessed Shore"
+location = "beata riva"
+region = "beata riva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "le quattro belle", status = "present" },
+]
+speech = [
+  { quote_id = "31:98", lines = "98-98", speaker = "Dante", addressee = "Beatrice", source = "llm" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "98-98" },
+  { subj = "Dante", predicate = "hears", obj = "Beatrice", lines = "98-98" },
+  { subj = "Beatrice", predicate = "touches", obj = "Dante", lines = "101-101" },
+  { subj = "Beatrice", predicate = "touches", obj = "Dante", lines = "103-103" },
+  { subj = "Beatrice", predicate = "gives", obj = "Dante", lines = "103-104" },
+  { subj = "le quattro belle", predicate = "touches", obj = "Dante", lines = "105-105" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Nymphs' Identity"
+location = "beata riva"
+region = "danza de le quattro belle"
+cohort = ["ninfe"]
+cast = [
+  { who = "ninfe", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "le tre", status = "present" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-117"
+title = "The Procession to the Griffin"
+location = "beata riva"
+region = "danza de le quattro belle"
+cohort = ["le anime beate"]
+cast = [
+  { who = "le anime beate", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Amor", line = 117, resolves = "amor" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "le anime beate, Dante", lines = "114-114" },
+]
+basis = "112-117"
+
+[[scene]]
+lines = "118-123"
+title = "The Splendor of the Griffin"
+location = "beata riva"
+region = "al petto del grifon"
+cast = [
+  { who = "Beatrice", status = "present" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-126"
+title = "Dante's Wonder"
+location = "beata riva"
+region = "al petto del grifon"
+cast = [
+  { who = "lettore", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Grifone", line = 125, resolves = "il Grifone" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "lettore", lines = "124-124" },
+  { subj = "Dante", predicate = "sees", obj = "il Grifone", lines = "125-125" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Celestial Dance"
+location = "beata riva"
+region = "al petto del grifon"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'altre tre", status = "present" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Song of the Nymphs"
+location = "beata riva"
+region = "al petto del grifon"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "mentioned" },
+  { who = "le quattro anime beate", status = "present" },
+]
+relations = [
+  { subj = "le quattro anime beate", predicate = "pleads-with", obj = "Beatrice", lines = "133-138" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-145"
+title = "Hymn to Eternal Light"
+location = "beata riva"
+region = "al petto del grifon"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "139-145"

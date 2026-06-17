@@ -1,0 +1,250 @@
+canticle = "inferno"
+canto = 14
+
+[[scene]]
+lines = "1-6"
+title = "Transition to the Third Circle"
+location = ""
+region = "selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Jacopo", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "gives", obj = "Jacopo", lines = "3-3" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The Desolate Landscape"
+location = "una landa"
+region = "una landa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Catone", status = "mentioned" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-21"
+title = "The Multitude of Souls"
+location = "una landa"
+region = "una landa"
+cohort = ["anime nude"]
+cast = [
+  { who = "anime nude", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "vendetta di Dio", lines = "16-16" },
+  { subj = "Dante", predicate = "sees", obj = "anime nude", lines = "19-19" },
+]
+basis = "16-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Patterns of Suffering"
+location = "una landa"
+region = "una landa"
+cohort = ["alcuna gente", "alcuna", "l'altra"]
+cast = [
+  { who = "alcuna gente", status = "present" },
+  { who = "alcuna", status = "present" },
+  { who = "l'altra", status = "present" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-39"
+title = "The Rain of Fire"
+location = "sabbion"
+region = "una landa"
+cast = [
+  { who = "Alessandro", status = "mentioned" },
+]
+basis = "28-39"
+
+[[scene]]
+lines = "40-48"
+title = "Dante's Inquiry"
+location = "sabbion"
+region = "una landa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "demon duri", status = "mentioned" },
+  { who = "quel grande", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "43-43" },
+  { subj = "Dante", predicate = "sees", obj = "quel grande", lines = "46-46" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "46-48" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-60"
+title = "Capaneus's Defiance"
+location = "sabbion"
+region = "una landa"
+cast = [
+  { who = "Capaneo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Giove", status = "mentioned" },
+  { who = "Vulcano", status = "mentioned" },
+  { who = "Ciclopi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "14:51", lines = "51-60", speaker = "Capaneo", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "50-50" },
+  { subj = "Capaneo", predicate = "hears", obj = "Dante", lines = "49-50" },
+  { subj = "Capaneo", predicate = "speaks-to", obj = "Dante", lines = "51-51" },
+]
+basis = "49-60"
+
+[[scene]]
+lines = "61-75"
+title = "Virgil's Rebuke and Warning"
+location = "sabbion"
+region = "una landa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Capaneo", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "14:68", lines = "68-75", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Virgilio", lines = "61-62" },
+  { subj = "Virgilio", predicate = "rebukes", obj = "Capaneo", lines = "63-66" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "67-67" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "73-73" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "73-74" },
+]
+basis = "61-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Red Stream"
+location = "picciol fiumicello"
+region = "picciol fiumicello"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "le peccatrici", status = "mentioned" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-93"
+title = "Virgil's Question to Dante"
+location = "'l presente rio"
+region = "picciol fiumicello"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "14:85", lines = "85-90", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "85-91" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "92-92" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-102"
+title = "The Legend of Mount Ida"
+location = "'l presente rio"
+region = "picciol fiumicello"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "'l cui rege", status = "mentioned" },
+  { who = "Rëa", status = "mentioned" },
+  { who = "Giove", status = "mentioned" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-111"
+title = "The Colossus of Metals"
+location = "'l presente rio"
+region = "picciol fiumicello"
+cohort = ["un gran veglio"]
+cast = [
+  { who = "un gran veglio", status = "present" },
+]
+basis = "103-111"
+
+[[scene]]
+lines = "112-120"
+title = "The Formation of the Rivers"
+location = "questa valle"
+region = "picciol fiumicello"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Geometry of Hell"
+location = "presente rigagno"
+region = "picciol fiumicello"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "121-123" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "124-129" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-138"
+title = "The Nature of the Rivers"
+location = "questa fossa"
+region = "picciol fiumicello"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "mentioned" },
+]
+speech = [
+  { quote_id = "14:133", lines = "133-133", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "130-132" },
+  { subj = "Virgilio", predicate = "praises", obj = "Dante", lines = "133-133" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "133-134" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "134-135" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "136-138" },
+]
+basis = "130-138"
+
+[[scene]]
+lines = "139-142"
+title = "Leaving the Woods"
+location = "bosco"
+region = "bosco"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "14:139", lines = "139-142", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "139-139" },
+]
+basis = "139-142"

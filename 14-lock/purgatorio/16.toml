@@ -1,0 +1,350 @@
+canticle = "purgatorio"
+canto = 16
+
+[[scene]]
+lines = "1-9"
+title = "The Thick Fog"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "meets", obj = "Dante", lines = "9-9" },
+  { subj = "Virgilio", predicate = "gives", obj = "Dante", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "Following the Guide"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "16:15", lines = "15-15", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Virgilio", lines = "14-14" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "15-15" },
+]
+simile = [
+  { lines = "10-10", vehicle = "Virgilio" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-21"
+title = "The Voices of the Neutrals"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "16-21"
+
+[[scene]]
+lines = "22-24"
+title = "Virgil’s Interpretation"
+location = ""
+region = "l'altro girone"
+cohort = ["spirti"]
+cast = [
+  { who = "spirti", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "16:22", lines = "22-22", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "spirti", lines = "22-22" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "22-23" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "23-23" },
+]
+basis = "22-24"
+
+[[scene]]
+lines = "25-30"
+title = "The Voice’s Interruption"
+location = ""
+region = "l'altro girone"
+cohort = ["gli iracondi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gli iracondi", status = "present" },
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Marco Lombardo", predicate = "asks", obj = "Dante", lines = "25-25" },
+  { subj = "Marco Lombardo", predicate = "asks", obj = "Dante", lines = "26-26" },
+  { subj = "Marco Lombardo", predicate = "asks", obj = "Dante", lines = "27-27" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "29-29" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "30-30" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-36"
+title = "Dante’s Introduction and the Voice’s Promise"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "16:31", lines = "31-33", speaker = "Dante", addressee = "Marco Lombardo", source = "llm" },
+  { quote_id = "16:34", lines = "34-34", speaker = "Marco Lombardo", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Marco Lombardo", lines = "31-31" },
+  { subj = "Marco Lombardo", predicate = "answers", obj = "Dante", lines = "35-35" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-45"
+title = "The Mission and Request for Identity"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Marco Lombardo", status = "present" },
+]
+speech = [
+  { quote_id = "16:37", lines = "37-45", speaker = "Dante", addressee = "Marco Lombardo", source = "code" },
+]
+refer = [
+  { phrase = "la morte", line = 38, resolves = "morte" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Marco Lombardo", lines = "37-45" },
+  { subj = "Dante", predicate = "asks", obj = "Marco Lombardo", lines = "43-43" },
+  { subj = "Dante", predicate = "asks", obj = "Marco Lombardo", lines = "44-44" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-51"
+title = "Marco’s Identity and Request for Prayer"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "16:46", lines = "46-49", speaker = "Marco Lombardo", addressee = "Dante", source = "code" },
+  { quote_id = "16:50", lines = "50-51", speaker = "Marco Lombardo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Marco Lombardo", predicate = "answers", obj = "Dante", lines = "50-50" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-63"
+title = "Dante’s Doubt and the State of the World"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Marco Lombardo", status = "present" },
+]
+speech = [
+  { quote_id = "16:52", lines = "52-63", speaker = "Dante", addressee = "Marco Lombardo", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Marco Lombardo", lines = "52-52" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Marco Lombardo", lines = "61-61" },
+]
+basis = "52-63"
+
+[[scene]]
+lines = "64-78"
+title = "The Mechanics of Free Will"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "voi che vivete", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:65", lines = "65-129", speaker = "Marco Lombardo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Marco Lombardo", predicate = "addresses", obj = "Dante", lines = "65-65" },
+  { subj = "Marco Lombardo", predicate = "speaks-to", obj = "Dante", lines = "66-66" },
+  { subj = "Marco Lombardo", predicate = "addresses", obj = "voi che vivete", lines = "67-67" },
+]
+basis = "64-78"
+
+[[scene]]
+lines = "79-84"
+title = "Human Responsibility"
+location = ""
+region = "l'altro girone"
+cohort = ["uomini"]
+cast = [
+  { who = "uomini", status = "present" },
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "'l ciel", line = 81, resolves = "il ciel" },
+]
+relations = [
+  { subj = "Marco Lombardo", predicate = "tells", obj = "Dante", lines = "84-84" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-93"
+title = "The Metaphor of the Soul"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "l'anima semplicetta", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "fanciulla", status = "mentioned" },
+  { who = "lieto fattore", status = "mentioned" },
+]
+simile = [
+  { lines = "86-86", vehicle = "fanciulla" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-105"
+title = "The Failure of Law and Leadership"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "rege", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 100, resolves = "gente" },
+]
+basis = "94-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Conflict of the Two Suns"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "l'Imperatore", status = "mentioned" },
+  { who = "il Papa", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Marco Lombardo", status = "present" },
+]
+relations = [
+  { subj = "Marco Lombardo", predicate = "commands", obj = "Dante", lines = "113-113" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Decline of Lombardy"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Federigo", status = "mentioned" },
+  { who = "viaggiatore", status = "mentioned" },
+  { who = "i buoni", status = "mentioned" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Three Old Men"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Currado da Palazzo", status = "present" },
+  { who = "'l buon Gherardo", status = "present" },
+  { who = "Guido da Castel", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Marco Lombardo", status = "present" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-129"
+title = "The Corruption of the Church"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-135"
+title = "Dante’s Inquiry about Gherardo"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li figli di Levì", status = "mentioned" },
+  { who = "Gherardo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:130B", lines = "130-135", speaker = "Dante", addressee = "Marco Lombardo", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Marco Lombardo", lines = "130-130" },
+  { subj = "Dante", predicate = "praises", obj = "Marco Lombardo", lines = "130-130" },
+  { subj = "Dante", predicate = "recognizes", obj = "li figli di Levì", lines = "131-132" },
+  { subj = "Dante", predicate = "asks", obj = "Marco Lombardo", lines = "133-135" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-140"
+title = "Marco’s Difficulty with the Name"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Marco Lombardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Gherardo", status = "mentioned" },
+  { who = "Gaia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:136", lines = "136-136", speaker = "Marco Lombardo", addressee = "Dante", source = "code" },
+  { quote_id = "16:137", lines = "137-144", speaker = "Marco Lombardo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Marco Lombardo", predicate = "answers", obj = "Dante", lines = "137-137" },
+]
+basis = "136-140"
+
+[[scene]]
+lines = "141-145"
+title = "The Departure of Marco"
+location = ""
+region = "l'altro girone"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Marco Lombardo", status = "present" },
+  { who = "l'angelo", status = "mentioned" },
+]
+basis = "141-145"

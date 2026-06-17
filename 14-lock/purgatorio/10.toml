@@ -1,0 +1,308 @@
+canticle = "purgatorio"
+canto = 10
+
+[[scene]]
+lines = "1-6"
+title = "Closing of the Gate"
+location = "soglio de la porta"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "mentioned" },
+]
+refer = [
+  { phrase = "l'anime", line = 2, resolves = "anime" },
+]
+relations = [
+  { subj = "mal amor", predicate = "relates-to", obj = "anime", lines = "2-2" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-9"
+title = "The Moving Stone"
+location = "pietra fessa"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "7-9"
+
+[[scene]]
+lines = "10-12"
+title = "Virgil's Strategy"
+location = "pietra fessa"
+region = "lo balzo"
+cast = [
+  { who = "Virgilio", status = "present" },
+]
+basis = "10-12"
+
+[[scene]]
+lines = "13-21"
+title = "Arrival on the Plain"
+location = "quella cruna"
+region = "lo balzo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Enclosed Ledge"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "un corpo umano", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Exquisite Carvings"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Policleto", status = "mentioned" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-45"
+title = "The Annunciation"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Gabriele", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "Gabriele", lines = "37-37" },
+]
+basis = "34-45"
+
+[[scene]]
+lines = "46-48"
+title = "Virgil's Direction"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "46-47" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-54"
+title = "Shifting Perspective"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "51-51" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "51-51" },
+  { subj = "Dante", predicate = "relates-to", obj = "Virgilio", lines = "53-53" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Procession of the Ark"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "gente", status = "mentioned" },
+  { who = "sette cori", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Davide", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "58-58" },
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "60-60" },
+  { subj = "Dante", predicate = "hears", obj = "sette cori", lines = "60-60" },
+  { subj = "Dante", predicate = "sees", obj = "Davide", lines = "64-65" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-69"
+title = "The Figure of Michal"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Micòl", status = "present" },
+]
+basis = "67-69"
+
+[[scene]]
+lines = "70-81"
+title = "The Imperial Carving"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Micòl", status = "mentioned" },
+  { who = "Gregorio", status = "mentioned" },
+  { who = "Traiano imperadore", status = "mentioned" },
+  { who = "la vedovella", status = "mentioned" },
+  { who = "cavalieri", status = "mentioned" },
+]
+refer = [
+  { phrase = "una vedovella", line = 77, resolves = "la vedovella" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Micòl", lines = "72-72" },
+  { subj = "la vedovella", predicate = "pleads-with", obj = "Traiano imperadore", lines = "77-78" },
+  { subj = "cavalieri", predicate = "follows", obj = "Traiano imperadore", lines = "79-79" },
+]
+basis = "70-81"
+
+[[scene]]
+lines = "82-93"
+title = "The Widow's Lament"
+location = "cornice"
+region = "cornice"
+cohort = ["costoro"]
+cast = [
+  { who = "la miserella", status = "present" },
+  { who = "costoro", status = "present" },
+  { who = "Traiano", status = "present" },
+  { who = "mio figliuol", status = "mentioned" },
+  { who = "persona", status = "mentioned" },
+]
+speech = [
+  { quote_id = "10:83", lines = "83-84", speaker = "la miserella", addressee = "Traiano", source = "llm" },
+  { quote_id = "10:85", lines = "85-86", speaker = "Traiano", addressee = "la miserella", source = "llm" },
+  { quote_id = "10:88B", lines = "88-89", speaker = "Traiano", addressee = "la miserella", source = "llm" },
+  { quote_id = "10:91", lines = "91-93", speaker = "Traiano", addressee = "la miserella", source = "llm" },
+]
+relations = [
+  { subj = "la miserella", predicate = "pleads-with", obj = "Traiano", lines = "83-84" },
+  { subj = "Traiano", predicate = "answers", obj = "la miserella", lines = "85-86" },
+  { subj = "la miserella", predicate = "addresses", obj = "Traiano", lines = "86-86" },
+  { subj = "la miserella", predicate = "asks", obj = "Traiano", lines = "87-88" },
+  { subj = "Traiano", predicate = "answers", obj = "la miserella", lines = "88-89" },
+  { subj = "la miserella", predicate = "asks", obj = "Traiano", lines = "89-90" },
+  { subj = "Traiano", predicate = "answers", obj = "la miserella", lines = "91-91" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-105"
+title = "Wonder at the Artistry"
+location = "cornice"
+region = "cornice"
+cohort = ["molte genti"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "molte genti", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "100-102" },
+  { subj = "Virgilio", predicate = "shows", obj = "molte genti", lines = "100-100" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "103-105" },
+]
+basis = "94-105"
+
+[[scene]]
+lines = "106-111"
+title = "A Warning to the Reader"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettor", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "106-106" },
+  { subj = "Dante", predicate = "warns", obj = "lettor", lines = "106-108" },
+  { subj = "Dante", predicate = "commands", obj = "lettor", lines = "109-109" },
+  { subj = "Dante", predicate = "commands", obj = "lettor", lines = "110-110" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-120"
+title = "The Hidden Torment"
+location = "cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "i superbi", status = "present" },
+]
+speech = [
+  { quote_id = "10:112", lines = "112-114", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "112-112" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "115-115" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "118-118" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Sermon to Christians"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "superbi cristian", status = "mentioned" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-135"
+title = "The Corbel Metaphor"
+location = "cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "una figura", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "i superbi", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "i superbi", lines = "135-135" },
+  { subj = "i superbi", predicate = "compares", obj = "una figura", lines = "134-135" },
+]
+simile = [
+  { lines = "132-132", vehicle = "una figura" },
+  { lines = "134-134", vehicle = "una figura" },
+]
+basis = "130-135"
+
+[[scene]]
+lines = "136-139"
+title = "The Weight of Pain"
+location = "cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "i superbi", status = "present" },
+  { who = "un superbo", status = "present" },
+]
+speech = [
+  { quote_id = "10:139", lines = "139-139", speaker = "un superbo", addressee = "i superbi", source = "code" },
+]
+basis = "136-139"

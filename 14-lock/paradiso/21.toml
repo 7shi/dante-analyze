@@ -1,0 +1,257 @@
+canticle = "paradiso"
+canto = 21
+
+[[scene]]
+lines = "1-18"
+title = "Beatrice's Warning"
+location = "settimo splendore"
+region = "settimo splendore"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Semelè", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:4", lines = "4-4", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "4-5" },
+  { subj = "Beatrice", predicate = "warns", obj = "Dante", lines = "4-12" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "16-16" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "17-17" },
+]
+simile = [
+  { lines = "4-6", vehicle = "Semelè" },
+]
+basis = "1-18"
+
+[[scene]]
+lines = "19-24"
+title = "Dante's Obedience"
+location = "settimo splendore"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Beatrice", lines = "23-23" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-33"
+title = "Vision of the Golden Ladder"
+location = "cristallo"
+region = "settimo splendore"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Analogy of the Sun"
+location = "cristallo"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "sfavillar", lines = "40-42" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-48"
+title = "Dante's Hesitation"
+location = "cristallo"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:45", lines = "45-48", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-60"
+title = "The Inquiry of Silence"
+location = "questa rota"
+region = "settimo splendore"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "21:52", lines = "52-60", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "49-49" },
+  { subj = "Dante", predicate = "sees", obj = "Dio", lines = "50-50" },
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "55-55" },
+]
+basis = "49-60"
+
+[[scene]]
+lines = "61-72"
+title = "Beatrice's Explanation"
+location = "questa rota"
+region = "settimo splendore"
+cohort = ["serve"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "serve", status = "present" },
+]
+speech = [
+  { quote_id = "21:62", lines = "62-72", speaker = "Beatrice", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "62-62" },
+]
+basis = "61-72"
+
+[[scene]]
+lines = "73-78"
+title = "The Question of Predestination"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "le tue consorte", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:73A", lines = "73-73", speaker = "Dante", addressee = "Beatrice", source = "code" },
+  { quote_id = "21:73B", lines = "73-78", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "73-73" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "76-78" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-87"
+title = "The Light's Response"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:83", lines = "83-102", speaker = "amor", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "l'amor", line = 82, resolves = "amor" },
+  { phrase = "l'amor", line = 83, resolves = "amor" },
+  { phrase = "l'amor", line = 84, resolves = "amor" },
+  { phrase = "l'amor", line = 86, resolves = "amor" },
+]
+relations = [
+  { subj = "amor", predicate = "answers", obj = "Dante", lines = "82-82" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-102"
+title = "The Limitation of Inquiry"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "quel serafin", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Amor", line = 88, resolves = "amor" },
+  { phrase = "Amor", line = 95, resolves = "amor" },
+  { phrase = "Amor", line = 98, resolves = "amor" },
+  { phrase = "Amor", line = 101, resolves = "amor" },
+]
+relations = [
+  { subj = "amor", predicate = "speaks-to", obj = "Dante", lines = "88-102" },
+  { subj = "amor", predicate = "commands", obj = "Dante", lines = "98-98" },
+  { subj = "amor", predicate = "commands", obj = "Dante", lines = "101-101" },
+  { subj = "Dante", predicate = "sees", obj = "la mente", lines = "101-102" },
+]
+basis = "88-102"
+
+[[scene]]
+lines = "103-105"
+title = "Dante's Pivot"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "103-103" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "104-105" },
+]
+basis = "103-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Prophecy of Catria"
+location = "questa corte"
+region = "settimo splendore"
+cast = []
+basis = "106-111"
+
+[[scene]]
+lines = "112-120"
+title = "The Monk's Recollection"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Monaco di Catria", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "21:113", lines = "113-135", speaker = "Pietro Damiano", addressee = "Dante", source = "llm" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Revelation of Identity"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Pietro Damiano", status = "present" },
+  { who = "Nostra Donna", status = "mentioned" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-135"
+title = "Lament for the Church"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Cefàs", status = "mentioned" },
+  { who = "Paolo", status = "mentioned" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+  { who = "servants/attendants of the modern clergy", status = "mentioned" },
+  { who = "li moderni pastori", status = "mentioned" },
+]
+basis = "127-135"
+
+[[scene]]
+lines = "136-142"
+title = "The Celestial Shout"
+location = "questa corte"
+region = "settimo splendore"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "136-142"

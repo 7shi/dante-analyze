@@ -1,0 +1,245 @@
+canticle = "paradiso"
+canto = 1
+
+[[scene]]
+lines = "1-12"
+title = "The Prologue"
+location = ""
+region = "(unstated)"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-27"
+title = "The Invocation"
+location = ""
+region = "(unstated)"
+cast = [
+  { who = "Appollo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Marsïa", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Appollo", lines = "13-13" },
+  { subj = "Dante", predicate = "addresses", obj = "divina virtù", lines = "22-22" },
+]
+simile = [
+  { lines = "20-21", vehicle = "Marsïa" },
+]
+basis = "13-27"
+
+[[scene]]
+lines = "28-36"
+title = "The Poet's Struggle"
+location = ""
+region = "(unstated)"
+cast = [
+  { who = "Apollo", status = "mentioned" },
+  { who = "poeta", status = "mentioned" },
+  { who = "Cesare", status = "mentioned" },
+  { who = "alcun", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Future poets", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Apollo", lines = "28-28" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Cosmic Engine"
+location = ""
+region = "(unstated)"
+cast = [
+  { who = "mortali", status = "mentioned" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-54"
+title = "The Vision of Beatrice"
+location = ""
+region = "(unstated)"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "unquanco", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "46-47" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "52-53" },
+]
+basis = "43-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Blinding Light"
+location = ""
+region = "(unstated)"
+cast = [
+  { who = "l'umana spece", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "61-63", vehicle = "(unknown)" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Meeting"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Glauco", status = "mentioned" },
+  { who = "li altri dèi", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "65-66" },
+]
+simile = [
+  { lines = "68-69", vehicle = "li altri dèi" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Linguistic Struggle"
+location = "etterne rote"
+region = "etterne rote"
+cohort = ["anyone"]
+cast = [
+  { who = "anyone", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "amor", lines = "73-75" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Celestial Harmony"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Dio", lines = "76-84" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-93"
+title = "Beatrice's Rebuke"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "85-85" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "85-85" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "87-87" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "88-88" },
+  { subj = "Beatrice", predicate = "rebukes", obj = "Dante", lines = "88-93" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-99"
+title = "Dante's Wonder"
+location = "etterne rote"
+region = "etterne rote"
+cohort = ["questi corpi levi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "questi corpi levi", status = "present" },
+]
+speech = [
+  { quote_id = "1:97", lines = "97-99", speaker = "Dante", addressee = "questi corpi levi", source = "code" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Doctrine of Order"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "la madre", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "l'alte creature", status = "mentioned" },
+]
+speech = [
+  { quote_id = "1:103", lines = "103-141", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "madre", line = 102, resolves = "la madre" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "101-101" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "103-108" },
+]
+simile = [
+  { lines = "102-102", vehicle = "figlio" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-120"
+title = "The Mechanics of the Spheres"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "tutte nature", status = "mentioned" },
+  { who = "le creature", status = "mentioned" },
+  { who = "quelle c'hanno intelletto e amore", status = "mentioned" },
+]
+basis = "109-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Guidance of Providence"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-135"
+title = "The Deviation of Desire"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "creatura", status = "mentioned" },
+  { who = "osservatore", status = "mentioned" },
+]
+basis = "127-135"
+
+[[scene]]
+lines = "136-142"
+title = "Final Instruction"
+location = "etterne rote"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "136-142"

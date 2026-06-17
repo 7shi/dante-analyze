@@ -1,0 +1,301 @@
+canticle = "purgatorio"
+canto = 7
+
+[[scene]]
+lines = "1-9"
+title = "Virgil's Identification"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Sordello", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Ottavian", status = "mentioned" },
+]
+speech = [
+  { quote_id = "7:4", lines = "4-8", speaker = "Virgilio", addressee = "Sordello", source = "code" },
+]
+refer = [
+  { phrase = "l'anime", line = 5, resolves = "anime" },
+]
+relations = [
+  { subj = "Sordello", predicate = "asks", obj = "Virgilio", lines = "3-3" },
+  { subj = "Virgilio", predicate = "answers", obj = "Sordello", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-21"
+title = "Sordello's Inquiry"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "present" },
+]
+speech = [
+  { quote_id = "7:16B", lines = "16-21", speaker = "Sordello", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Sordello", predicate = "sees", obj = "Virgilio", lines = "10-11" },
+  { subj = "Sordello", predicate = "meets", obj = "Virgilio", lines = "14-14" },
+  { subj = "Sordello", predicate = "touches", obj = "Virgilio", lines = "15-15" },
+  { subj = "Sordello", predicate = "addresses", obj = "Virgilio", lines = "16-16" },
+  { subj = "Sordello", predicate = "praises", obj = "Virgilio", lines = "16-17" },
+  { subj = "Sordello", predicate = "addresses", obj = "Virgilio", lines = "18-18" },
+  { subj = "Sordello", predicate = "asks", obj = "Virgilio", lines = "19-19" },
+  { subj = "Sordello", predicate = "asks", obj = "Virgilio", lines = "20-21" },
+]
+basis = "10-21"
+
+[[scene]]
+lines = "22-39"
+title = "Virgil's Description of Limbo"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "mentioned" },
+  { who = "pargoli innocenti", status = "mentioned" },
+  { who = "quei che le tre sante virtù non si vestiro", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "7:23", lines = "23-39", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "la morte", line = 32, resolves = "morte" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Sordello", lines = "22-23" },
+  { subj = "Virgilio", predicate = "asks", obj = "Sordello", lines = "37-39" },
+]
+basis = "22-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Difficulty of the Ascent"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Sordello", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "mentioned" },
+]
+speech = [
+  { quote_id = "7:40", lines = "40-48", speaker = "Sordello", addressee = "Virgilio", source = "code" },
+]
+refer = [
+  { phrase = "Anime", line = 48, resolves = "anime" },
+]
+relations = [
+  { subj = "Sordello", predicate = "answers", obj = "Virgilio", lines = "40-40" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-60"
+title = "Sordello's Warning on Night Travel"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Sordello", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Sordello", predicate = "warns", obj = "Virgilio", lines = "52-60" },
+]
+basis = "49-60"
+
+[[scene]]
+lines = "61-63"
+title = "Agreement to Proceed"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "mentioned" },
+  { who = "anime", status = "mentioned" },
+]
+basis = "61-63"
+
+[[scene]]
+lines = "64-78"
+title = "The Splendor of the Valley"
+location = ""
+region = "a l'ombra dietro al sasso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Sordello", status = "mentioned" },
+]
+relations = [
+  { subj = "Sordello", predicate = "speaks-to", obj = "Dante, Virgilio, Sordello", lines = "67-67" },
+]
+basis = "64-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Singing Souls"
+location = ""
+region = "fianco de la lacca"
+cohort = ["anime"]
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "anime", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "anime", predicate = "addresses", obj = "Maria", lines = "82-82" },
+  { subj = "Dante", predicate = "sees", obj = "anime", lines = "83-83" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Lament of Emperor Rudolf"
+location = ""
+region = "fianco de la lacca"
+cohort = ["anime"]
+cast = [
+  { who = "Sordello", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anime", status = "present" },
+  { who = "Rodolfo", status = "present" },
+]
+speech = [
+  { quote_id = "7:87", lines = "87-136", speaker = "Sordello", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "le anime", line = 88, resolves = "anime" },
+]
+relations = [
+  { subj = "Sordello", predicate = "addresses", obj = "Dante, Virgilio", lines = "86-86" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Story of Ottacchero"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Ottacchero", status = "present" },
+  { who = "Rodolfo", status = "present" },
+  { who = "Vincislao", status = "mentioned" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-106"
+title = "The Death of the Young Man"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Vincislao", status = "mentioned" },
+  { who = "Ottocar", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "103-106"
+
+[[scene]]
+lines = "107-111"
+title = "The French Ancestors"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "il Padre", status = "mentioned" },
+  { who = "suocero", status = "mentioned" },
+]
+refer = [
+  { phrase = "Padre", line = 109, resolves = "il Padre" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "L'altro", lines = "107-107" },
+]
+basis = "107-111"
+
+[[scene]]
+lines = "112-120"
+title = "The Virtuous Kings"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Quel che par sì membruto", status = "present" },
+  { who = "Ottocar", status = "present" },
+  { who = "lo giovanetto", status = "present" },
+  { who = "Iacomo", status = "mentioned" },
+  { who = "Federigo", status = "mentioned" },
+]
+relations = [
+  { subj = "Quel che par sì membruto", predicate = "relates-to", obj = "Ottocar", lines = "112-113" },
+  { subj = "lo giovanetto", predicate = "follows", obj = "Quel che par sì membruto", lines = "116-116" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-123"
+title = "A Reflection on Virtue"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "l'anima", status = "mentioned" },
+]
+refer = [
+  { phrase = "L'anima", line = 123, resolves = "l'anima" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Mention of Pier"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Ottokar", status = "present" },
+  { who = "Pier della Vigna", status = "present" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-129"
+title = "The Legacy of Constance"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Margherita", status = "mentioned" },
+  { who = "Costanza", status = "mentioned" },
+  { who = "Enrico VI", status = "mentioned" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-132"
+title = "Henry of England"
+location = ""
+region = "fianco de la lacca"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Arrigo d'Inghilterra", status = "present" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-136"
+title = "The Sorrow of Guillaume"
+location = ""
+region = "fianco de la lacca"
+cohort = ["anime"]
+cast = [
+  { who = "Guiglielmo marchese", status = "present" },
+  { who = "anime", status = "present" },
+]
+basis = "133-136"

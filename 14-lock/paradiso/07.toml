@@ -1,0 +1,259 @@
+canticle = "paradiso"
+canto = 7
+
+[[scene]]
+lines = "1-3"
+title = "The Celestial Hymn"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dio", status = "mentioned" },
+]
+basis = "1-3"
+
+[[scene]]
+lines = "4-9"
+title = "Movement of the Lights"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "essa sustanza", lines = "5-5" },
+  { subj = "doppio lume", predicate = "relates-to", obj = "essa sustanza", lines = "6-6" },
+  { subj = "velocissime faville", predicate = "relates-to", obj = "Dante", lines = "9-9" },
+]
+simile = [
+  { lines = "8-9", vehicle = "velocissime faville" },
+]
+basis = "4-9"
+
+[[scene]]
+lines = "10-15"
+title = "Dante's Awe"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "le anime di Mercurio", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "7:11B", lines = "11-12", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Beatrice", lines = "14-14" },
+]
+simile = [
+  { lines = "15-15", vehicle = "l'uom" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-24"
+title = "Beatrice's Promise"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "7:19", lines = "19-148", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "17-17" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "23-23" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-39"
+title = "The Fall of Man"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Adamo", status = "mentioned" },
+  { who = "Verbo di Dio", status = "mentioned" },
+  { who = "suo fattore", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "34-34" },
+]
+basis = "25-39"
+
+[[scene]]
+lines = "40-48"
+title = "The Justice of the Cross"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-54"
+title = "Dante's Lingering Doubt"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "49-54" },
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "52-52" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Hidden Decree"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+speech = [
+  { quote_id = "7:55", lines = "55-57", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "addresses", obj = "Dante", lines = "58-58" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "63-63" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-75"
+title = "The Radiance of Divine Goodness"
+location = "malacòth"
+region = "etterne rote"
+cast = []
+basis = "64-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Impact of Sin"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "l'umana creatura", status = "mentioned" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-93"
+title = "The Necessity of a Way Back"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-102"
+title = "The Limits of Human Effort"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un uomo", status = "mentioned" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-114"
+title = "The Beauty of God's Plan"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "103-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Majesty of the Incarnation"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "l Figliuol di Dio", status = "mentioned" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-123"
+title = "Redirecting the Vision"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "121-123" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-129"
+title = "Dante's Observation of Decay"
+location = "malacòth"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "7:124", lines = "124-129", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-138"
+title = "The Hierarchy of Creation"
+location = "'l paese sincero"
+region = "etterne rote"
+cast = [
+  { who = "li angeli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Li angeli, il paese sincero", status = "mentioned" },
+]
+basis = "130-138"
+
+[[scene]]
+lines = "139-144"
+title = "The Animation of the Soul"
+location = "'l paese sincero"
+region = "etterne rote"
+cast = [
+  { who = "l'anima d'ogne bruto e de le piante", status = "mentioned" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-148"
+title = "The Argument for Resurrection"
+location = "'l paese sincero"
+region = "etterne rote"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Adamo", status = "mentioned" },
+  { who = "Eva", status = "mentioned" },
+]
+basis = "145-148"

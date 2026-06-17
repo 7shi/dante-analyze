@@ -1,0 +1,273 @@
+canticle = "inferno"
+canto = 15
+
+[[scene]]
+lines = "1-12"
+title = "The Simile of the Flooding Banks"
+location = "margini"
+region = "bosco"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Fiamminghi", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Approaching Procession"
+location = "l'argine"
+region = "bosco"
+cohort = ["d'anime una schiera"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "d'anime una schiera", status = "present" },
+  { who = "uno altro", status = "mentioned" },
+  { who = "l vecchio sartor", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "d'anime una schiera", lines = "16-16" },
+  { subj = "d'anime una schiera", predicate = "sees", obj = "Dante, Virgilio", lines = "18-18" },
+  { subj = "d'anime una schiera", predicate = "sees", obj = "Dante, Virgilio", lines = "20-20" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Recognition of Dante"
+location = "l'argine"
+region = "bosco"
+cohort = ["cotal famiglia"]
+cast = [
+  { who = "cotal famiglia", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "ser Brunetto", status = "present" },
+]
+relations = [
+  { subj = "cotal famiglia", predicate = "sees", obj = "Dante", lines = "22-22" },
+  { subj = "ser Brunetto", predicate = "recognizes", obj = "Dante", lines = "23-23" },
+  { subj = "ser Brunetto", predicate = "touches", obj = "Dante", lines = "23-23" },
+  { subj = "ser Brunetto", predicate = "calls", obj = "Dante", lines = "24-24" },
+  { subj = "ser Brunetto", predicate = "touches", obj = "Dante", lines = "25-25" },
+  { subj = "Dante", predicate = "sees", obj = "ser Brunetto", lines = "26-26" },
+  { subj = "Dante", predicate = "touches", obj = "ser Brunetto", lines = "29-29" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-42"
+title = "Brunetto's Instructions"
+location = "l'argine"
+region = "bosco"
+cohort = ["qual di questa greggia"]
+cast = [
+  { who = "Brunetto Latino", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "qual di questa greggia", status = "present" },
+]
+speech = [
+  { quote_id = "15:34", lines = "34-36", speaker = "Dante", addressee = "Brunetto Latino", source = "llm" },
+  { quote_id = "15:37B", lines = "37-42", speaker = "Brunetto Latino", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Brunetto Latino", predicate = "addresses", obj = "Dante", lines = "31-31" },
+  { subj = "Brunetto Latino", predicate = "asks", obj = "Dante", lines = "31-31" },
+  { subj = "Dante", predicate = "answers", obj = "Brunetto Latino", lines = "34-34" },
+  { subj = "Brunetto Latino", predicate = "addresses", obj = "Dante", lines = "37-37" },
+  { subj = "Brunetto Latino", predicate = "commands", obj = "Dante", lines = "40-40" },
+]
+basis = "31-42"
+
+[[scene]]
+lines = "43-54"
+title = "Dante's Explanation of his Descent"
+location = "la strada"
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Brunetto Latino", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "15:50", lines = "50-54", speaker = "Dante", addressee = "Brunetto Latino", source = "llm" },
+]
+refer = [
+  { phrase = "uom", line = 45, resolves = "l'uom" },
+]
+relations = [
+  { subj = "Brunetto Latino", predicate = "asks", obj = "Dante", lines = "46-47" },
+  { subj = "Brunetto Latino", predicate = "asks", obj = "Dante", lines = "48-48" },
+  { subj = "Dante", predicate = "answers", obj = "Brunetto Latino", lines = "49-50" },
+]
+simile = [
+  { lines = "45-45", vehicle = "l'uom" },
+]
+basis = "43-54"
+
+[[scene]]
+lines = "55-60"
+title = "The Promise of Destiny"
+location = "la strada"
+region = "la strada"
+cast = [
+  { who = "Brunetto Latino", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "15:55", lines = "55-78", speaker = "Brunetto Latino", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Brunetto Latino", predicate = "speaks-to", obj = "Dante", lines = "55-55" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-69"
+title = "The Warning Against Fiesole"
+location = "la strada"
+region = "la strada"
+cast = [
+  { who = "i fiorentini", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "61-69"
+
+[[scene]]
+lines = "70-78"
+title = "The Prophecy of the Holy Seed"
+location = "la strada"
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-87"
+title = "Dante's Tribute to his Teacher"
+location = "la strada"
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Brunetto Latino", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "15:80", lines = "80-96", speaker = "Dante", addressee = "Brunetto Latino", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Brunetto Latino", lines = "80-80" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-96"
+title = "Acceptance of Fortune"
+location = "la strada"
+region = "la strada"
+cast = [
+  { who = "Brunetto Latino", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "l villan", status = "mentioned" },
+]
+refer = [
+  { phrase = "la Fortuna", line = 93, resolves = "Fortuna" },
+]
+relations = [
+  { subj = "Dante", predicate = "tells", obj = "Brunetto Latino", lines = "91-91" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-99"
+title = "Virgil's Instruction"
+location = "la gota"
+region = "la strada"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-105"
+title = "Dante's Inquiry"
+location = "la gota"
+region = "la strada"
+cast = [
+  { who = "Ser Brunetto Latino", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "li suoi compagni", status = "mentioned" },
+]
+speech = [
+  { quote_id = "15:103", lines = "103-120", speaker = "Dante", addressee = "Ser Brunetto Latino", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Ser Brunetto Latino", lines = "100-100" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Ser Brunetto Latino", lines = "100-101" },
+  { subj = "Dante", predicate = "asks", obj = "Ser Brunetto Latino", lines = "101-102" },
+  { subj = "Dante", predicate = "relates-to", obj = "li suoi compagni", lines = "101-102" },
+  { subj = "Ser Brunetto Latino", predicate = "answers", obj = "Dante", lines = "103-103" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Catalog of Scholars"
+location = "la gota"
+region = "la strada"
+cohort = ["cherci"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "cherci", status = "present" },
+  { who = "Priscian", status = "present" },
+  { who = "Francesco d'Accorso", status = "present" },
+  { who = "Adriano V", status = "mentioned" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Interrupted Farewell"
+location = "la gota"
+region = "la strada"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "Ser Brunetto Latino", status = "present" },
+]
+refer = [
+  { phrase = "Gente", line = 118, resolves = "gente" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "gente", lines = "118-118" },
+  { subj = "Dante", predicate = "addresses", obj = "Ser Brunetto Latino", lines = "119-119" },
+  { subj = "Dante", predicate = "praises", obj = "Ser Brunetto Latino", lines = "119-119" },
+  { subj = "Dante", predicate = "relates-to", obj = "Ser Brunetto Latino", lines = "120-120" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-124"
+title = "The Final Simile"
+location = "la gota"
+region = "la strada"
+cast = [
+  { who = "Brunetto Latino", status = "present" },
+  { who = "coloro che corrono a Verona", status = "mentioned" },
+  { who = "quelli che vince", status = "mentioned" },
+  { who = "colui che perde", status = "mentioned" },
+]
+simile = [
+  { lines = "121-121", vehicle = "coloro che corrono a Verona" },
+  { lines = "123-123", vehicle = "coloro che corrono a Verona" },
+  { lines = "123-124", vehicle = "quelli che vince" },
+  { lines = "123-124", vehicle = "colui che perde" },
+]
+basis = "121-124"

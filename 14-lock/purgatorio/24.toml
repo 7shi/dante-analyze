@@ -1,0 +1,422 @@
+canticle = "purgatorio"
+canto = 24
+
+[[scene]]
+lines = "1-6"
+title = "The Watching Souls"
+location = ""
+region = "l'alber"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Forese", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Statio", status = "present" },
+  { who = "l'ombre", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio, Statio", predicate = "speaks-to", obj = "Forese", lines = "1-2" },
+  { subj = "l'ombre", predicate = "compares", obj = "l'ombre", lines = "4-4" },
+  { subj = "l'ombre", predicate = "sees", obj = "Dante", lines = "5-6" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Inquiry about Piccarda"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Piccarda", status = "mentioned" },
+  { who = "Forese", status = "present" },
+]
+speech = [
+  { quote_id = "24:8", lines = "8-12", speaker = "Dante", addressee = "Forese", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Forese", lines = "10-10" },
+  { subj = "Dante", predicate = "asks", obj = "Forese", lines = "11-11" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-24"
+title = "News of Piccarda and Bonagiunta"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Piccarda", status = "mentioned" },
+  { who = "Forese", status = "present" },
+  { who = "ciascun", status = "mentioned" },
+  { who = "Bonagiunta da Lucca", status = "present" },
+  { who = "dal Torso", status = "present" },
+  { who = "Torso", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:13", lines = "13-15", speaker = "Forese", addressee = "Bonagiunta da Lucca", source = "llm" },
+]
+relations = [
+  { subj = "Forese", predicate = "shows", obj = "Bonagiunta da Lucca", lines = "19-19" },
+  { subj = "Forese", predicate = "names", obj = "Bonagiunta da Lucca", lines = "19-19" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-33"
+title = "The List of Notable Souls"
+location = ""
+region = "l'alber"
+cohort = ["anime"]
+cast = [
+  { who = "Forese", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "present" },
+  { who = "Ubaldin da la Pila", status = "present" },
+  { who = "Bonifazio", status = "present" },
+  { who = "messer Marchese", status = "present" },
+]
+refer = [
+  { phrase = "le anime", line = 25, resolves = "anime" },
+  { phrase = "le anime", line = 27, resolves = "anime" },
+]
+relations = [
+  { subj = "Forese", predicate = "tells", obj = "Dante", lines = "25-25" },
+  { subj = "Forese", predicate = "names", obj = "anime", lines = "25-26" },
+  { subj = "Dante", predicate = "sees", obj = "anime", lines = "27-27" },
+  { subj = "Dante", predicate = "sees", obj = "Ubaldin da la Pila", lines = "28-29" },
+  { subj = "Dante", predicate = "sees", obj = "Bonifazio", lines = "28-29" },
+  { subj = "Dante", predicate = "sees", obj = "messer Marchese", lines = "31-31" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-42"
+title = "The Muttering Soul"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bonagiunta da Lucca", status = "present" },
+  { who = "Gentucca", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:40B", lines = "40-42", speaker = "Dante", addressee = "Bonagiunta da Lucca", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Bonagiunta da Lucca", lines = "34-35" },
+  { subj = "Bonagiunta da Lucca", predicate = "names", obj = "Gentucca", lines = "37-37" },
+  { subj = "Dante", predicate = "hears", obj = "Bonagiunta da Lucca", lines = "37-38" },
+  { subj = "giustizia", predicate = "punishes", obj = "Bonagiunta da Lucca", lines = "38-39" },
+  { subj = "Dante", predicate = "addresses", obj = "Bonagiunta da Lucca", lines = "40-40" },
+  { subj = "Dante", predicate = "asks", obj = "Bonagiunta da Lucca", lines = "41-41" },
+]
+basis = "34-42"
+
+[[scene]]
+lines = "43-51"
+title = "The Poet's Identity and Inquiry"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Femmina", status = "mentioned" },
+  { who = "Bonagiunta da Lucca", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "om", status = "mentioned" },
+  { who = "le donne", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:44", lines = "44-51", speaker = "Bonagiunta da Lucca", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "Donne", line = 50, resolves = "le donne" },
+]
+relations = [
+  { subj = "Bonagiunta da Lucca", predicate = "speaks-to", obj = "Dante", lines = "43-44" },
+  { subj = "Dante", predicate = "hears", obj = "Bonagiunta da Lucca", lines = "47-47" },
+  { subj = "Bonagiunta da Lucca", predicate = "asks", obj = "Dante", lines = "49-49" },
+]
+basis = "43-51"
+
+[[scene]]
+lines = "52-63"
+title = "The Knot of Poets"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bonagiunta da Lucca", status = "present" },
+  { who = "'l Notaro", status = "mentioned" },
+  { who = "Guittone", status = "mentioned" },
+  { who = "al dittator", status = "mentioned" },
+  { who = "poeta", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:52", lines = "52-54", speaker = "Dante", addressee = "Bonagiunta da Lucca", source = "code" },
+  { quote_id = "24:55A", lines = "55-55", speaker = "Bonagiunta da Lucca", addressee = "Dante", source = "code" },
+  { quote_id = "24:55B", lines = "55-62", speaker = "Bonagiunta da Lucca", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "Amor", line = 53, resolves = "amor" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Bonagiunta da Lucca", lines = "52-52" },
+  { subj = "Bonagiunta da Lucca", predicate = "addresses", obj = "Dante", lines = "55-55" },
+]
+basis = "52-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Simile of the Geese"
+location = ""
+region = "l'alber"
+cohort = ["tutta la gente"]
+cast = [
+  { who = "tutta la gente", status = "present" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "Forese Departs"
+location = ""
+region = "l'alber"
+cohort = ["la santa greggia"]
+cast = [
+  { who = "l'uom", status = "mentioned" },
+  { who = "li compagni", status = "mentioned" },
+  { who = "la santa greggia", status = "present" },
+  { who = "Forese", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "24:75", lines = "75-75", speaker = "Forese", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Forese", predicate = "relates-to", obj = "la santa greggia", lines = "73-73" },
+  { subj = "Forese", predicate = "follows", obj = "Dante", lines = "74-74" },
+]
+simile = [
+  { lines = "71-71", vehicle = "li compagni" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-81"
+title = "Dialogue with Forese"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Forese", status = "present" },
+]
+speech = [
+  { quote_id = "24:76A", lines = "76-76", speaker = "Dante", addressee = "Forese", source = "code" },
+  { quote_id = "24:76B", lines = "76-81", speaker = "Dante", addressee = "Forese", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Forese", lines = "76-76" },
+]
+basis = "76-81"
+
+[[scene]]
+lines = "82-93"
+title = "Forese's Ominous Warning"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Forese", status = "present" },
+  { who = "quei che più n'ha colpa", status = "mentioned" },
+]
+speech = [
+  { quote_id = "24:82B", lines = "82-88", speaker = "Forese", addressee = "Dante", source = "code" },
+  { quote_id = "24:89", lines = "89-93", speaker = "Forese", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Forese", predicate = "commands", obj = "Dante", lines = "82-82" },
+  { subj = "Forese", predicate = "tells", obj = "Dante", lines = "89-89" },
+  { subj = "Forese", predicate = "commands", obj = "Dante", lines = "91-91" },
+  { subj = "Forese", predicate = "follows", obj = "Dante", lines = "93-93" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-97"
+title = "The Knight's Departure"
+location = ""
+region = "l'alber"
+cast = [
+  { who = "Forese", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Forese", predicate = "relates-to", obj = "Dante, Virgilio, Stazio", lines = "97-97" },
+]
+simile = [
+  { lines = "94-97", vehicle = "lo cavalier di schiera" },
+]
+basis = "94-97"
+
+[[scene]]
+lines = "98-111"
+title = "Vision of the Hungry Souls"
+location = "via"
+region = "l'alber"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Forese", status = "present" },
+  { who = "gente", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Forese", lines = "101-101" },
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "106-106" },
+  { subj = "gente", predicate = "pleads-with", obj = "un altro pomo", lines = "106-107" },
+]
+simile = [
+  { lines = "108-109", vehicle = "un altro pomo" },
+  { lines = "109-109", vehicle = "gente" },
+]
+basis = "98-111"
+
+[[scene]]
+lines = "112-120"
+title = "Warning Near the Tree"
+location = "grande arbore"
+region = "l'alber"
+cast = [
+  { who = "gente", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Eva", status = "mentioned" },
+]
+relations = [
+  { subj = "la voce", predicate = "warns", obj = "Dante, Virgilio, Stazio", lines = "115-115" },
+  { subj = "la voce", predicate = "tells", obj = "Dante, Virgilio, Stazio", lines = "116-117" },
+]
+basis = "112-120"
+
+[[scene]]
+lines = "121-126"
+title = "Mythological Allusions"
+location = "grande arbore"
+region = "l'alber"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i maladetti", status = "mentioned" },
+  { who = "Tesëo", status = "mentioned" },
+  { who = "li Ebrei", status = "mentioned" },
+  { who = "compagni", status = "mentioned" },
+  { who = "Gedeon", status = "mentioned" },
+]
+refer = [
+  { phrase = "voce", line = 121, resolves = "la voce" },
+]
+relations = [
+  { subj = "la voce", predicate = "tells", obj = "Dante", lines = "121-121" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "Passing the Thickets"
+location = "vivagni"
+region = "vivagni"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Statio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio, Statio", predicate = "brings", obj = "Dante, Virgilio, Statio", lines = "131-131" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-136"
+title = "A Sudden Interruption"
+location = "vivagni"
+region = "strada sola"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Statio", status = "present" },
+]
+relations = [
+  { subj = "sùbita voce", predicate = "asks", obj = "Dante, Virgilio, Statio", lines = "133-134" },
+  { subj = "Dante", predicate = "sees", obj = "sùbita voce", lines = "136-136" },
+]
+basis = "133-136"
+
+[[scene]]
+lines = "137-141"
+title = "The Brilliant Figure's Warning"
+location = "vivagni"
+region = "strada sola"
+cohort = ["anima lucente e rossa"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anima lucente e rossa", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "chi vuole andar per pace", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "anima lucente e rossa", lines = "139-139" },
+]
+basis = "137-141"
+
+[[scene]]
+lines = "142-144"
+title = "Dante's Reaction"
+location = "vivagni"
+region = "strada sola"
+cohort = ["dottori"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "om", status = "mentioned" },
+  { who = "dottori", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio, Stazio", lines = "143-143" },
+]
+simile = [
+  { lines = "144-144", vehicle = "dottori" },
+]
+basis = "142-144"
+
+[[scene]]
+lines = "145-150"
+title = "The May Breeze"
+location = "vivagni"
+region = "strada sola"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un vento", lines = "148-148" },
+  { subj = "Dante", predicate = "sees", obj = "un vento", lines = "149-150" },
+]
+simile = [
+  { lines = "145-148", vehicle = "l'aura di maggio" },
+]
+basis = "145-150"
+
+[[scene]]
+lines = "151-154"
+title = "The Benediction"
+location = "vivagni"
+region = "strada sola"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i beati", status = "mentioned" },
+]
+basis = "151-154"

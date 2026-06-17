@@ -1,0 +1,262 @@
+canticle = "paradiso"
+canto = 27
+
+[[scene]]
+lines = "1-9"
+title = "The Celestial Hymn"
+location = ""
+region = "ramo"
+cast = [
+  { who = "il Padre", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+  { who = "lo Spirito Santo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Padre", line = 1, resolves = "il Padre" },
+  { phrase = "Figlio", line = 1, resolves = "figlio" },
+]
+relations = [
+  { subj = "tutto 'l paradiso", predicate = "praises", obj = "il Padre", lines = "1-2" },
+  { subj = "tutto 'l paradiso", predicate = "praises", obj = "figlio", lines = "1-2" },
+  { subj = "tutto 'l paradiso", predicate = "praises", obj = "lo Spirito Santo", lines = "1-2" },
+  { subj = "Dante", predicate = "hears", obj = "tutto 'l paradiso", lines = "2-3" },
+  { subj = "Dante", predicate = "sees", obj = "tutto 'l paradiso", lines = "4-4" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-27"
+title = "The Angelic Transformation"
+location = "beato coro"
+region = "ramo"
+cohort = ["beato coro"]
+cast = [
+  { who = "Iove", status = "mentioned" },
+  { who = "beato coro", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "quelli ch'usurpa in terra", status = "mentioned" },
+  { who = "Figliuol di Dio", status = "mentioned" },
+  { who = "l perverso", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:19", lines = "19-27", speaker = "la prima face", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "la prima face", lines = "10-11" },
+  { subj = "La provedenza", predicate = "commands", obj = "beato coro", lines = "16-18" },
+  { subj = "Dante", predicate = "hears", obj = "la prima face", lines = "19-19" },
+  { subj = "la prima face", predicate = "warns", obj = "Dante", lines = "19-20" },
+  { subj = "la prima face", predicate = "tells", obj = "Dante", lines = "20-21" },
+  { subj = "la prima face", predicate = "prophesies", obj = "beato coro", lines = "20-21" },
+]
+simile = [
+  { lines = "13-15", vehicle = "Iove" },
+  { lines = "13-15", vehicle = "Marte" },
+]
+basis = "10-27"
+
+[[scene]]
+lines = "28-36"
+title = "The Celestial Eclipse"
+location = "beato coro"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "donna onesta", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+simile = [
+  { lines = "31-34", vehicle = "donna onesta" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-54"
+title = "The Critique of the Papacy"
+location = "beato coro"
+region = "ramo"
+cast = [
+  { who = "San Pietro", status = "present" },
+  { who = "Lin", status = "mentioned" },
+  { who = "Cleto", status = "mentioned" },
+  { who = "Sisto", status = "mentioned" },
+  { who = "Pïo", status = "mentioned" },
+  { who = "Calisto", status = "mentioned" },
+  { who = "Urbano", status = "mentioned" },
+  { who = "i nostri successor", status = "mentioned" },
+  { who = "popol cristiano", status = "mentioned" },
+  { who = "battezzati", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:40", lines = "40-66", speaker = "San Pietro", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "San Pietro", predicate = "rebukes", obj = "i nostri successor", lines = "46-54" },
+]
+basis = "37-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Lament for the Church"
+location = "beato coro"
+region = "ramo"
+cast = [
+  { who = "pastor", status = "mentioned" },
+  { who = "Caorsini", status = "mentioned" },
+  { who = "Guaschi", status = "mentioned" },
+  { who = "Scipio", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "San Pietro", predicate = "calls", obj = "difesa di Dio", lines = "57-57" },
+  { subj = "San Pietro", predicate = "calls", obj = "buon principio", lines = "59-60" },
+  { subj = "San Pietro", predicate = "commands", obj = "Dante", lines = "64-66" },
+]
+simile = [
+  { lines = "55-56", vehicle = "pastor" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Vapor Metaphor"
+location = "beato coro"
+region = "ramo"
+cohort = ["trïunfanti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "trïunfanti", status = "present" },
+  { who = "San Pietro", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "trïunfanti", lines = "70-71" },
+  { subj = "Dante", predicate = "follows", obj = "trïunfanti", lines = "73-73" },
+  { subj = "San Pietro", predicate = "chases", obj = "Dante", lines = "74-75" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Expanding Horizon"
+location = "beato coro"
+region = "ramo"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Ulisse", status = "mentioned" },
+  { who = "Europa", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "76-76" },
+  { subj = "Dante", predicate = "sees", obj = "Dante", lines = "80-80" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-96"
+title = "Devotion to Beatrice"
+location = "questa aiuola"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Beatrice", lines = "88-89" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "89-90" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-102"
+title = "Celestial Propulsion"
+location = "bel nido di Leda"
+region = "ramo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Leda", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "brings", obj = "Dante", lines = "98-98" },
+  { subj = "Beatrice", predicate = "brings", obj = "Dante", lines = "99-99" },
+  { subj = "Beatrice", predicate = "guides", obj = "Dante", lines = "102-102" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-114"
+title = "The Order of the Cosmos"
+location = "bel nido di Leda"
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:106", lines = "106-148", speaker = "Beatrice", addressee = "(none)", source = "none" },
+]
+basis = "103-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Mathematical Proportions"
+location = "bel nido di Leda"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-129"
+title = "The Corrupting Power of Greed"
+location = "bel nido di Leda"
+region = "qua sù"
+cast = [
+  { who = "mortali", status = "mentioned" },
+  { who = "Li uomini", status = "mentioned" },
+  { who = "parvoletti", status = "mentioned" },
+]
+refer = [
+  { phrase = "i mortali", line = 121, resolves = "mortali" },
+]
+basis = "121-129"
+
+[[scene]]
+lines = "130-138"
+title = "The Perversion of Nature"
+location = "bel nido di Leda"
+region = "qua sù"
+cast = [
+  { who = "parvoletti", status = "mentioned" },
+  { who = "la madre sua", status = "mentioned" },
+  { who = "la bella figlia", status = "present" },
+]
+simile = [
+  { lines = "136-137", vehicle = "la bella figlia" },
+]
+basis = "130-138"
+
+[[scene]]
+lines = "139-148"
+title = "The Prophecy of Renewal"
+location = "bel nido di Leda"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "l'Imperatore", status = "mentioned" },
+]
+refer = [
+  { phrase = "la fortuna", line = 144, resolves = "Fortuna" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "139-139" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "140-140" },
+  { subj = "Beatrice", predicate = "prophesies", obj = "Fortuna", lines = "144-147" },
+]
+basis = "139-148"

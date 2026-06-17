@@ -1,0 +1,291 @@
+canticle = "purgatorio"
+canto = 30
+
+[[scene]]
+lines = "1-9"
+title = "The Settling of the First Heaven"
+location = "primo cielo"
+region = "L'acqua"
+cohort = ["la gente verace"]
+cast = [
+  { who = "'l più basso", status = "mentioned" },
+  { who = "la gente verace", status = "present" },
+]
+simile = [
+  { lines = "5-6", vehicle = "'l più basso" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-12"
+title = "The Herald's Cry"
+location = "primo cielo"
+region = "L'acqua"
+cohort = ["un di loro", "tutti li altri"]
+cast = [
+  { who = "la gente verace", status = "present" },
+  { who = "un di loro", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "tutti li altri", status = "present" },
+]
+relations = [
+  { subj = "tutti li altri", predicate = "follows", obj = "un di loro", lines = "12-12" },
+]
+basis = "10-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Anthem of the Blessed"
+location = "divina basterna"
+region = "L'acqua"
+cohort = ["i beati"]
+cast = [
+  { who = "i beati", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-33"
+title = "The Appearance of the Lady"
+location = "divina basterna"
+region = "L'acqua"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "32-32" },
+]
+basis = "22-33"
+
+[[scene]]
+lines = "34-39"
+title = "Spiritual Recognition"
+location = "divina basterna"
+region = "L'acqua"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-48"
+title = "Dante's Trembling"
+location = "divina basterna"
+region = "L'acqua"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "fantolin", status = "mentioned" },
+  { who = "la mamma", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "30:46", lines = "46-48", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+refer = [
+  { phrase = "il fantolin", line = 44, resolves = "fantolin" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "strikes", obj = "Dante", lines = "40-40" },
+  { subj = "Beatrice", predicate = "strikes", obj = "Dante", lines = "41-41" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "46-46" },
+]
+simile = [
+  { lines = "44-44", vehicle = "la mamma" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-54"
+title = "Lament for Virgil"
+location = "divina basterna"
+region = "L'acqua"
+cast = [
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "praises", obj = "Virgilio", lines = "50-50" },
+  { subj = "Virgilio", predicate = "protects", obj = "Dante", lines = "51-51" },
+]
+simile = [
+  { lines = "52-52", vehicle = "l'antica matre" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-57"
+title = "Virgil's Warning"
+location = "divina basterna"
+region = "L'acqua"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "55-55" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "56-56" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "57-57" },
+]
+basis = "55-57"
+
+[[scene]]
+lines = "58-66"
+title = "Beatrice's Gaze"
+location = "carro"
+region = "carro"
+cast = [
+  { who = "ammiraglio", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+refer = [
+  { phrase = "la gente", line = 59, resolves = "gente" },
+  { phrase = "la gente", line = 60, resolves = "gente" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "64-64" },
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "66-66" },
+]
+simile = [
+  { lines = "59-59", vehicle = "gente" },
+  { lines = "60-60", vehicle = "gente" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Greeting of Beatrice"
+location = "carro"
+region = "carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Minerva", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'uom felice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:73", lines = "73-75", speaker = "Beatrice", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "73-73" },
+  { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "73-73" },
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "74-74" },
+  { subj = "Beatrice", predicate = "asks", obj = "Dante", lines = "75-75" },
+]
+simile = [
+  { lines = "71-72", vehicle = "(unknown)" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-81"
+title = "Dante's Shame"
+location = "chiaro fonte"
+region = "chiaro fonte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la madre", status = "mentioned" },
+  { who = "al figlio", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "80-80" },
+]
+simile = [
+  { lines = "79-79", vehicle = "al figlio" },
+]
+basis = "76-81"
+
+[[scene]]
+lines = "82-84"
+title = "Interrupted Song"
+location = "chiaro fonte"
+region = "chiaro fonte"
+cohort = ["li angeli"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "li angeli", status = "present" },
+  { who = "Domine", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:83", lines = "83-83", speaker = "li angeli", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "li angeli", predicate = "addresses", obj = "Domine", lines = "82-83" },
+]
+basis = "82-84"
+
+[[scene]]
+lines = "85-99"
+title = "The Release of Tears"
+location = "chiaro fonte"
+region = "chiaro fonte"
+cohort = ["quei che notan sempre dietro a le note de li etterni giri"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei che notan sempre dietro a le note de li etterni giri", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+basis = "85-99"
+
+[[scene]]
+lines = "100-117"
+title = "Theology of Grace"
+location = "coscia del carro"
+region = "coscia del carro"
+cohort = ["le sustanze pie"]
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "le sustanze pie", status = "present" },
+  { who = "Dante", status = "mentioned" },
+]
+speech = [
+  { quote_id = "30:103", lines = "103-145", speaker = "Beatrice", addressee = "le sustanze pie", source = "code" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "addresses", obj = "le sustanze pie", lines = "102-103" },
+]
+basis = "100-117"
+
+[[scene]]
+lines = "118-126"
+title = "The Metaphor of the Uncultivated Soil"
+location = "coscia del carro"
+region = "coscia del carro"
+cast = [
+  { who = "'l terren", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "118-126"
+
+[[scene]]
+lines = "127-138"
+title = "The Descent into Error"
+location = "coscia del carro"
+region = "coscia del carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le perdute genti", status = "mentioned" },
+]
+basis = "127-138"
+
+[[scene]]
+lines = "139-145"
+title = "The Necessity of Repentance"
+location = "coscia del carro"
+region = "coscia del carro"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "i morti", status = "mentioned" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "139-145"

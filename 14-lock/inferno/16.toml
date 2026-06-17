@@ -1,0 +1,282 @@
+canticle = "inferno"
+canto = 16
+
+[[scene]]
+lines = "1-12"
+title = "The Appearance of the Wounded Souls"
+location = ""
+region = "la strada"
+cohort = ["tre ombre", "una torma"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "tre ombre", status = "present" },
+  { who = "una torma", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "tre ombre", predicate = "meets", obj = "Dante, Virgilio", lines = "7-7" },
+  { subj = "Dante", predicate = "sees", obj = "tre ombre", lines = "10-10" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-18"
+title = "Virgil's Instruction"
+location = ""
+region = "la strada"
+cohort = ["i fiorentini"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i fiorentini", status = "present" },
+]
+speech = [
+  { quote_id = "16:15", lines = "15-18", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "hears", obj = "i fiorentini", lines = "13-13" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "14-14" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "14-14" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "15-15" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-27"
+title = "The Rotation of the Three"
+location = ""
+region = "la strada"
+cohort = ["tre fiorentini"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "tre fiorentini", status = "present" },
+  { who = "i campion", status = "mentioned" },
+]
+relations = [
+  { subj = "tre fiorentini", predicate = "meets", obj = "Dante, Virgilio", lines = "20-20" },
+  { subj = "tre fiorentini", predicate = "sees", obj = "Dante", lines = "25-26" },
+]
+simile = [
+  { lines = "24-24", vehicle = "i campion" },
+]
+basis = "19-27"
+
+[[scene]]
+lines = "28-45"
+title = "The Identification of the Souls"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Guido Guerra", status = "present" },
+  { who = "Tegghiaio Aldobrandi", status = "present" },
+  { who = "Iacopo Rusticucci", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Gualdrada", status = "mentioned" },
+  { who = "la fiera moglie", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:30", lines = "30-45", speaker = "Iacopo Rusticucci", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Iacopo Rusticucci", predicate = "addresses", obj = "Dante", lines = "28-29" },
+  { subj = "Iacopo Rusticucci", predicate = "asks", obj = "Dante", lines = "31-33" },
+  { subj = "Dante", predicate = "sees", obj = "Guido Guerra", lines = "34-34" },
+]
+basis = "28-45"
+
+[[scene]]
+lines = "46-51"
+title = "Dante's Hesitation"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido Guerra", status = "present" },
+  { who = "Tegghiaio Aldobrandi", status = "present" },
+  { who = "Iacopo Rusticucci", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-63"
+title = "Dante's Response"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Guido Guerra", status = "present" },
+  { who = "Tegghiaio Aldobrandi", status = "present" },
+  { who = "Iacopo Rusticucci", status = "present" },
+]
+speech = [
+  { quote_id = "16:52", lines = "52-63", speaker = "Dante", addressee = "Guido Guerra", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci", lines = "52-52" },
+]
+basis = "52-63"
+
+[[scene]]
+lines = "64-72"
+title = "The Souls' Inquiry"
+location = ""
+region = "la strada"
+cohort = ["tre anime fiorentine"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Iacopo Rusticucci", status = "present" },
+  { who = "Guiglielmo Borsiere", status = "present" },
+  { who = "tre anime fiorentine", status = "present" },
+  { who = "compagni", status = "mentioned" },
+]
+refer = [
+  { phrase = "i compagni", line = 71, resolves = "compagni" },
+]
+relations = [
+  { subj = "Iacopo Rusticucci", predicate = "answers", obj = "Dante", lines = "64-65" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-75"
+title = "Dante's Political Rebuke"
+location = ""
+region = "la strada"
+cast = [
+  { who = "La gente nuova", status = "mentioned" },
+]
+basis = "73-75"
+
+[[scene]]
+lines = "76-85"
+title = "The Request for Remembrance"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido Guerra", status = "present" },
+  { who = "Tegghiaio Aldobrandi", status = "present" },
+  { who = "Iacopo Rusticucci", status = "present" },
+  { who = "one of the three Florentine souls", status = "present" },
+  { who = "another of the three Florentine souls", status = "present" },
+  { who = "gente", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:84", lines = "84-84", speaker = "Dante", addressee = "one of the three Florentine souls", source = "llm" },
+]
+refer = [
+  { phrase = "la gente", line = 85, resolves = "gente" },
+]
+relations = [
+  { subj = "Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci", predicate = "sees", obj = "one of the three Florentine souls", lines = "78-78" },
+  { subj = "Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci", predicate = "sees", obj = "another of the three Florentine souls", lines = "78-78" },
+  { subj = "Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci", predicate = "answers", obj = "Dante", lines = "79-81" },
+  { subj = "Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci", predicate = "commands", obj = "Dante", lines = "82-85" },
+]
+basis = "76-85"
+
+[[scene]]
+lines = "86-90"
+title = "The Departure of the Souls"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Guido Guerra", status = "present" },
+  { who = "Tegghiaio Aldobrandi", status = "present" },
+  { who = "Iacopo Rusticucci", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "86-90"
+
+[[scene]]
+lines = "91-105"
+title = "The Sound of the Water"
+location = ""
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "91-91" },
+]
+basis = "91-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Use of the Rope"
+location = "sponda"
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "110-110" },
+  { subj = "Dante", predicate = "gives", obj = "Virgilio", lines = "111-111" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-120"
+title = "Dante's Reflection on Prudence"
+location = "sponda"
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Li uomini", status = "mentioned" },
+  { who = "color che non veggion pur l'ovra", status = "mentioned" },
+]
+refer = [
+  { phrase = "li uomini", line = 118, resolves = "Li uomini" },
+  { phrase = "li uomini", line = 119, resolves = "Li uomini" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Dante", lines = "116-116" },
+  { subj = "Virgilio", predicate = "shows", obj = "Dante", lines = "116-117" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-126"
+title = "Virgil's Warning"
+location = "sponda"
+region = "la strada"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "16:121", lines = "121-123", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "121-121" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "121-126" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-136"
+title = "The Approaching Figure"
+location = "sponda"
+region = "la strada"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettor", status = "mentioned" },
+  { who = "Gerione", status = "present" },
+  { who = "colui che va giuso", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "128-128" },
+  { subj = "Dante", predicate = "sees", obj = "Gerione", lines = "130-131" },
+]
+simile = [
+  { lines = "132-133", vehicle = "colui che va giuso" },
+]
+basis = "127-136"

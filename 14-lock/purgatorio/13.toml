@@ -1,0 +1,393 @@
+canticle = "purgatorio"
+canto = 13
+
+[[scene]]
+lines = "1-9"
+title = "The Second Terrace"
+location = "sommo de la scala"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-21"
+title = "Virgil's Prayer to the Sun"
+location = "sommo de la scala"
+region = "cornice"
+cast = [
+  { who = "gente", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "13:11", lines = "11-12", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "13:16", lines = "16-17", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "calls", obj = "dolce lume", lines = "16-16" },
+]
+basis = "10-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Flight of the Spirits"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["spiriti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "spiriti", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "spiriti", lines = "25-25" },
+  { subj = "spiriti", predicate = "speaks-to", obj = "Dante, Virgilio", lines = "26-27" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-33"
+title = "The First Two Voices"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["gli invidiosi"]
+cast = [
+  { who = "gli invidiosi", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Oreste", status = "present" },
+]
+speech = [
+  { quote_id = "13:32", lines = "32-32", speaker = "Oreste", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "la prima voce", predicate = "calls", obj = "Dante, Virgilio", lines = "29-29" },
+  { subj = "la prima voce", predicate = "follows", obj = "Dante, Virgilio", lines = "30-30" },
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "la prima voce", lines = "31-31" },
+  { subj = "Oreste", predicate = "calls", obj = "Dante, Virgilio", lines = "32-33" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-36"
+title = "The Third Voice"
+location = "sommo de la scala"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "34-34" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "35-35" },
+  { subj = "la terza", predicate = "commands", obj = "Dante, Virgilio", lines = "36-36" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-45"
+title = "Virgil's Interpretation"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["gente"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+]
+speech = [
+  { quote_id = "13:37", lines = "37-45", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "37-45" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "41-41" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "43-43" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-48"
+title = "Discovery of the Shadows"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["l'ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'ombre", status = "present" },
+]
+refer = [
+  { phrase = "ombre", line = 47, resolves = "l'ombre" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'ombre", lines = "47-47" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-51"
+title = "The Litany of Saints"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["le anime degli invidiosi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Maria", status = "mentioned" },
+  { who = "le anime degli invidiosi", status = "present" },
+  { who = "Michele", status = "mentioned" },
+  { who = "Pietro", status = "mentioned" },
+  { who = "Tutti santi", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "le anime degli invidiosi", lines = "50-50" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Sight of the Envious"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["gli invidiosi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'omo", status = "mentioned" },
+  { who = "gli invidiosi", status = "present" },
+  { who = "li ciechi", status = "mentioned" },
+  { who = "a' perdoni", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gli invidiosi", lines = "54-54" },
+  { subj = "Dante", predicate = "meets", obj = "gli invidiosi", lines = "55-55" },
+  { subj = "Dante", predicate = "sees", obj = "gli invidiosi", lines = "55-56" },
+  { subj = "Dante", predicate = "sees", obj = "gli invidiosi", lines = "58-58" },
+  { subj = "gli invidiosi", predicate = "touches", obj = "gli invidiosi", lines = "59-59" },
+]
+simile = [
+  { lines = "61-62", vehicle = "a' perdoni" },
+  { lines = "63-63", vehicle = "li ciechi" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Dim Light of the Terrace"
+location = "sommo de la scala"
+region = "cornice"
+cohort = ["l'ombre"]
+cast = [
+  { who = "l'ombre", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "luce del ciel", predicate = "gives", obj = "l'ombre", lines = "68-69" },
+  { subj = "luce del ciel", predicate = "gives", obj = "luce del ciel", lines = "69-69" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-78"
+title = "Dante's Anxiety"
+location = "sommo de la scala"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "recognizes", obj = "Dante", lines = "76-76" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "78-78" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "78-78" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "Virgil's Movement"
+location = "cornice"
+region = "cornice"
+cohort = ["le divote ombre"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "persona", status = "mentioned" },
+  { who = "le divote ombre", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "meets", obj = "Dante", lines = "79-79" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-93"
+title = "Dante's Greeting"
+location = "cornice"
+region = "cornice"
+cohort = ["gente sicura"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente sicura", status = "present" },
+  { who = "l'anima", status = "mentioned" },
+]
+speech = [
+  { quote_id = "13:86", lines = "86-93", speaker = "Dante", addressee = "gente sicura", source = "code" },
+]
+refer = [
+  { phrase = "anima", line = 93, resolves = "l'anima" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "gente sicura", lines = "85-85" },
+  { subj = "Dante", predicate = "asks", obj = "gente sicura", lines = "91-92" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Reply"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Interrogation"
+location = "cornice"
+region = "cornice"
+cohort = ["un'ombra"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un'ombra", status = "present" },
+]
+speech = [
+  { quote_id = "13:103B", lines = "103-105", speaker = "Dante", addressee = "un'ombra", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un'ombra", lines = "100-100" },
+  { subj = "Dante", predicate = "addresses", obj = "un'ombra", lines = "103-103" },
+  { subj = "Dante", predicate = "asks", obj = "un'ombra", lines = "105-105" },
+]
+simile = [
+  { lines = "102-102", vehicle = "orbo" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Sienese Confession"
+location = "cornice"
+region = "cornice"
+cohort = ["le anime degli invidiosi"]
+cast = [
+  { who = "le anime degli invidiosi", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "13:106A", lines = "106-106", speaker = "Sapia", addressee = "Dante", source = "llm" },
+  { quote_id = "13:106B", lines = "106-132", speaker = "Sapia", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Sapia", predicate = "answers", obj = "Dante", lines = "106-106" },
+  { subj = "Sapia", predicate = "commands", obj = "Dante", lines = "113-113" },
+  { subj = "Sapia", predicate = "tells", obj = "Dante", lines = "113-113" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-123"
+title = "The Tale of the Battle"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "li cittadin miei", status = "mentioned" },
+  { who = "loro avversari", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "13:122", lines = "122-122", speaker = "Sapia", addressee = "(none)", source = "none" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-132"
+title = "A Prayer for Penance"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Pier Pettinaio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Sapia", predicate = "asks", obj = "Dante", lines = "130-130" },
+  { subj = "Dante", predicate = "asks", obj = "Sapia", lines = "131-131" },
+  { subj = "Sapia", predicate = "sees", obj = "Dante", lines = "131-131" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-138"
+title = "Dante's Explanation"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "13:133B", lines = "133-138", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-144"
+title = "The Living Traveler"
+location = "cornice"
+region = "cornice"
+cohort = ["le anime degli invidiosi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "le anime degli invidiosi", status = "present" },
+]
+speech = [
+  { quote_id = "13:141", lines = "141-144", speaker = "Dante", addressee = "le anime degli invidiosi", source = "llm" },
+]
+relations = [
+  { subj = "Sapia", predicate = "speaks-to", obj = "Dante", lines = "139-139" },
+  { subj = "Sapia", predicate = "asks", obj = "Dante", lines = "139-140" },
+  { subj = "Dante", predicate = "answers", obj = "Sapia", lines = "141-141" },
+  { subj = "Sapia", predicate = "asks", obj = "Dante", lines = "142-142" },
+  { subj = "Dante", predicate = "addresses", obj = "Sapia", lines = "143-143" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-154"
+title = "The Prophecy of Tuscany"
+location = "cornice"
+region = "cornice"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "miei propinqui", status = "mentioned" },
+  { who = "quella gente vana", status = "mentioned" },
+  { who = "li ammiragli", status = "mentioned" },
+]
+speech = [
+  { quote_id = "13:146", lines = "146-154", speaker = "Sapia", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "la Diana", line = 152, resolves = "Diana" },
+]
+relations = [
+  { subj = "Sapia", predicate = "answers", obj = "Dante", lines = "145-146" },
+  { subj = "Sapia", predicate = "asks", obj = "Dante", lines = "148-150" },
+]
+basis = "145-154"

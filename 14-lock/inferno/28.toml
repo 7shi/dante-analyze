@@ -1,0 +1,262 @@
+canticle = "inferno"
+canto = 28
+
+[[scene]]
+lines = "1-6"
+title = "The Inadequacy of Language"
+location = ""
+region = "l'altr' arco"
+cast = [
+  { who = "Ogne lingua", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-21"
+title = "Historical Precedents of Violence"
+location = ""
+region = "l'altr' arco"
+cast = [
+  { who = "Livïo", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+  { who = "Ruberto Guiscardo", status = "mentioned" },
+  { who = "ciascun Pugliese", status = "mentioned" },
+  { who = "il vecchio Alardo", status = "mentioned" },
+]
+refer = [
+  { phrase = "la gente", line = 13, resolves = "gente" },
+  { phrase = "la gente", line = 15, resolves = "gente" },
+  { phrase = "la gente", line = 7, resolves = "gente" },
+]
+simile = [
+  { lines = "7-14", vehicle = "gente" },
+  { lines = "7-18", vehicle = "gente" },
+]
+basis = "7-21"
+
+[[scene]]
+lines = "22-33"
+title = "The Vision of Muhammad"
+location = ""
+region = "l'altr' arco"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Mäometto", status = "present" },
+  { who = "Alì", status = "mentioned" },
+]
+speech = [
+  { quote_id = "28:30", lines = "30-45", speaker = "Mäometto", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Mäometto", lines = "23-23" },
+  { subj = "Dante", predicate = "sees", obj = "Mäometto", lines = "28-28" },
+  { subj = "Mäometto", predicate = "follows", obj = "Alì", lines = "32-32" },
+]
+basis = "22-33"
+
+[[scene]]
+lines = "34-45"
+title = "The Proclamation of Schism"
+location = "la dolente strada"
+region = "l'altr' arco"
+cohort = ["tutti li altri", "seminator di scandalo e di scisma", "questa risma"]
+cast = [
+  { who = "tutti li altri", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "seminator di scandalo e di scisma", status = "present" },
+  { who = "il diavolo", status = "present" },
+  { who = "questa risma", status = "present" },
+  { who = "Maometto", status = "present" },
+  { who = "altri", status = "mentioned" },
+]
+refer = [
+  { phrase = "Un diavolo", line = 37, resolves = "il diavolo" },
+  { phrase = "Un diavolo", line = 38, resolves = "il diavolo" },
+]
+basis = "34-45"
+
+[[scene]]
+lines = "46-51"
+title = "Virgil's Explanation"
+location = "la dolente strada"
+region = "lo scoglio #2"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Maometto", status = "mentioned" },
+]
+speech = [
+  { quote_id = "28:47", lines = "47-51", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Maometto", lines = "47-47" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Maometto", lines = "51-51" },
+]
+basis = "46-51"
+
+[[scene]]
+lines = "52-63"
+title = "The Prophecy to the Dolciniani"
+location = "la dolente strada"
+region = "lo scoglio #2"
+cohort = ["Più fuor di cento"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Più fuor di cento", status = "present" },
+  { who = "fra Dolcin", status = "mentioned" },
+  { who = "Noarese", status = "mentioned" },
+  { who = "Mäometto", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Più fuor di cento", predicate = "hears", obj = "Virgilio", lines = "52-52" },
+  { subj = "Più fuor di cento", predicate = "sees", obj = "Dante", lines = "53-53" },
+  { subj = "Mäometto", predicate = "commands", obj = "Virgilio", lines = "55-55" },
+  { subj = "Mäometto", predicate = "speaks-to", obj = "Dante", lines = "62-62" },
+]
+basis = "52-63"
+
+[[scene]]
+lines = "64-75"
+title = "The Second Mutilated Soul"
+location = "la dolente strada"
+region = "fosso"
+cohort = ["li altri"]
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "li altri", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Pier da Medicina", status = "mentioned" },
+]
+refer = [
+  { phrase = "Un altro", line = 67, resolves = "L'altro" },
+  { phrase = "Un altro", line = 70, resolves = "L'altro" },
+  { phrase = "Un altro", line = 71, resolves = "L'altro" },
+]
+relations = [
+  { subj = "L'altro", predicate = "sees", obj = "Dante", lines = "67-67" },
+  { subj = "L'altro", predicate = "addresses", obj = "Dante", lines = "70-70" },
+]
+basis = "64-75"
+
+[[scene]]
+lines = "76-90"
+title = "The Maritime Prophecy"
+location = "la dolente strada"
+region = "fosso"
+cast = [
+  { who = "Pier da Medicina", status = "present" },
+  { who = "messer Guido", status = "mentioned" },
+  { who = "Angiolello", status = "mentioned" },
+  { who = "un tiranno fello", status = "mentioned" },
+  { who = "Nettuno", status = "mentioned" },
+  { who = "pirate", status = "mentioned" },
+  { who = "gente argolica", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "76-90"
+
+[[scene]]
+lines = "91-99"
+title = "The Identification of Curio"
+location = "la dolente strada"
+region = "fosso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Pier da Medicina", status = "present" },
+  { who = "Curio", status = "present" },
+  { who = "Cesare", status = "mentioned" },
+]
+speech = [
+  { quote_id = "28:91", lines = "91-93", speaker = "Dante", addressee = "Pier da Medicina", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Pier da Medicina", lines = "91-93" },
+  { subj = "Dante", predicate = "sees", obj = "Curio", lines = "93-93" },
+  { subj = "Pier da Medicina", predicate = "touches", obj = "Curio", lines = "94-94" },
+  { subj = "Pier da Medicina", predicate = "touches", obj = "Curio", lines = "95-95" },
+  { subj = "Pier da Medicina", predicate = "tells", obj = "Dante", lines = "96-99" },
+  { subj = "Pier da Medicina", predicate = "names", obj = "Curio", lines = "96-96" },
+]
+basis = "91-99"
+
+[[scene]]
+lines = "100-111"
+title = "The Encounter with the Severed Hands"
+location = "la dolente strada"
+region = "fosso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Curïo", status = "present" },
+  { who = "Mosca", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Curïo", lines = "100-102" },
+  { subj = "Mosca", predicate = "calls", obj = "Dante", lines = "106-106" },
+  { subj = "Dante", predicate = "answers", obj = "Mosca", lines = "109-109" },
+  { subj = "Dante", predicate = "rebukes", obj = "Mosca", lines = "109-109" },
+]
+basis = "100-111"
+
+[[scene]]
+lines = "112-126"
+title = "The Human Lantern"
+location = "la dolente strada"
+region = "fosso"
+cohort = ["lo stuolo", "la trista greggia"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lo stuolo", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "un busto sanza capo", status = "present" },
+  { who = "li altri", status = "present" },
+  { who = "la trista greggia", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "28:123", lines = "123-123", speaker = "l capo tronco", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "lo stuolo", lines = "112-112" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "116-116" },
+  { subj = "Dante", predicate = "sees", obj = "un busto sanza capo", lines = "118-118" },
+  { subj = "un busto sanza capo", predicate = "touches", obj = "l capo tronco", lines = "121-122" },
+  { subj = "l capo tronco", predicate = "sees", obj = "Dante, Virgilio", lines = "123-123" },
+  { subj = "l capo tronco", predicate = "calls", obj = "l capo tronco", lines = "123-123" },
+  { subj = "Dio", predicate = "guides", obj = "l capo tronco", lines = "126-126" },
+]
+simile = [
+  { lines = "119-120", vehicle = "li altri" },
+]
+basis = "112-126"
+
+[[scene]]
+lines = "127-142"
+title = "The Confession of Bertram"
+location = "piè del ponte"
+region = "piè del ponte"
+cohort = ["i morti"]
+cast = [
+  { who = "Bertram dal Bornio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i morti", status = "present" },
+  { who = "al re giovane", status = "mentioned" },
+  { who = "il Padre", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+  { who = "Achitofèl", status = "mentioned" },
+  { who = "Absalone", status = "mentioned" },
+  { who = "Davìd", status = "mentioned" },
+]
+speech = [
+  { quote_id = "28:130", lines = "130-142", speaker = "Bertram dal Bornio", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "il padre", line = 136, resolves = "il Padre" },
+  { phrase = "'l figlio", line = 136, resolves = "figlio" },
+]
+relations = [
+  { subj = "Bertram dal Bornio", predicate = "addresses", obj = "Dante", lines = "130-130" },
+  { subj = "Bertram dal Bornio", predicate = "asks", obj = "Dante", lines = "133-133" },
+]
+basis = "127-142"

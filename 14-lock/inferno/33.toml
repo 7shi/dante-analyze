@@ -1,0 +1,289 @@
+canticle = "inferno"
+canto = 33
+
+[[scene]]
+lines = "1-9"
+title = "The Sinner’s Pause"
+location = ""
+region = "lago"
+cohort = ["quel peccator", "al traditor"]
+cast = [
+  { who = "quel peccator", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "al traditor", status = "present" },
+]
+relations = [
+  { subj = "quel peccator", predicate = "punishes", obj = "al traditor", lines = "2-3" },
+  { subj = "quel peccator", predicate = "answers", obj = "Dante", lines = "4-4" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "The Introduction"
+location = ""
+region = "lago"
+cast = [
+  { who = "conte Ugolino", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "arcivescovo Ruggieri", status = "present" },
+]
+relations = [
+  { subj = "conte Ugolino", predicate = "recognizes", obj = "Dante", lines = "10-10" },
+  { subj = "conte Ugolino", predicate = "asks", obj = "Dante", lines = "10-11" },
+  { subj = "conte Ugolino", predicate = "hears", obj = "Dante", lines = "12-12" },
+  { subj = "conte Ugolino", predicate = "tells", obj = "Dante", lines = "13-13" },
+  { subj = "conte Ugolino", predicate = "tells", obj = "Dante", lines = "15-15" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-27"
+title = "The Imprisonment"
+location = ""
+region = "lago"
+cast = [
+  { who = "Ruggieri", status = "mentioned" },
+  { who = "Ugolino", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "altrui", status = "mentioned" },
+]
+relations = [
+  { subj = "Ugolino", predicate = "tells", obj = "Dante", lines = "19-19" },
+  { subj = "Ugolino", predicate = "tells", obj = "Dante", lines = "21-21" },
+]
+basis = "16-27"
+
+[[scene]]
+lines = "28-36"
+title = "The Prison Landscape"
+location = ""
+region = "lago"
+cohort = ["i figli"]
+cast = [
+  { who = "Ruggieri", status = "mentioned" },
+  { who = "Ugolino", status = "present" },
+  { who = "i Pisan", status = "mentioned" },
+  { who = "Gualandi", status = "present" },
+  { who = "Sismondi", status = "present" },
+  { who = "Lanfranchi", status = "present" },
+  { who = "i figli", status = "present" },
+]
+refer = [
+  { phrase = "figli", line = 29, resolves = "i figli" },
+  { phrase = "figli", line = 34, resolves = "i figli" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-54"
+title = "The Morning of Hunger"
+location = ""
+region = "lago"
+cohort = ["i figliuoli di Ugolino"]
+cast = [
+  { who = "Ugolino", status = "present" },
+  { who = "i figliuoli di Ugolino", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Anselmuccio", status = "present" },
+]
+relations = [
+  { subj = "Ugolino", predicate = "rebukes", obj = "Dante", lines = "40-42" },
+]
+basis = "37-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Terrible Choice"
+location = ""
+region = "lago"
+cast = [
+  { who = "Ugolino", status = "present" },
+  { who = "Anselmuccio", status = "present" },
+]
+relations = [
+  { subj = "Ugolino", predicate = "sees", obj = "quattro visi", lines = "56-57" },
+  { subj = "Anselmuccio", predicate = "addresses", obj = "Ugolino", lines = "60-61" },
+  { subj = "Ugolino", predicate = "calls", obj = "dura terra", lines = "66-66" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Death of the Children"
+location = ""
+region = "lago"
+cohort = ["i figli di Ugolino"]
+cast = [
+  { who = "Ugolino", status = "present" },
+  { who = "i figli di Ugolino", status = "present" },
+  { who = "Gaddo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "33:69", lines = "69-69", speaker = "Gaddo", addressee = "Ugolino", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Ugolino", lines = "70-70" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-78"
+title = "Resumption of the Feast"
+location = ""
+region = "lago"
+cast = [
+  { who = "Ugolino", status = "present" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-90"
+title = "The Curse on Pisa"
+location = ""
+region = "lago"
+cast = [
+  { who = "vicini", status = "mentioned" },
+  { who = "ogne persona", status = "mentioned" },
+  { who = "conte Ugolino", status = "present" },
+  { who = "i figliuoi", status = "mentioned" },
+  { who = "Uguiccione", status = "mentioned" },
+  { who = "la brigata", status = "mentioned" },
+  { who = "Anselmuccio", status = "mentioned" },
+  { who = "Gaddo", status = "mentioned" },
+]
+refer = [
+  { phrase = "i vicini", line = 81, resolves = "vicini" },
+]
+basis = "79-90"
+
+[[scene]]
+lines = "91-108"
+title = "Entering Cocytus"
+location = ""
+region = "lago"
+cohort = ["un'altra gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "un'altra gente", status = "present" },
+  { who = "Lucifero", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "un'altra gente", lines = "91-92" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "104-105" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "106-106" },
+  { subj = "Virgilio", predicate = "names", obj = "Dante", lines = "106-106" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "106-108" },
+]
+basis = "91-108"
+
+[[scene]]
+lines = "109-117"
+title = "The Cry for Unmasking"
+location = "fredda crosta"
+region = "lago"
+cohort = ["un de' tristi"]
+cast = [
+  { who = "un de' tristi", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "33:110", lines = "110-114", speaker = "un de' tristi", addressee = "Dante", source = "llm" },
+  { quote_id = "33:115", lines = "115-117", speaker = "Dante", addressee = "un de' tristi", source = "llm" },
+]
+relations = [
+  { subj = "un de' tristi", predicate = "calls", obj = "Dante, Virgilio", lines = "109-110" },
+  { subj = "un de' tristi", predicate = "addresses", obj = "Dante, Virgilio", lines = "110-110" },
+  { subj = "Dante", predicate = "answers", obj = "un de' tristi", lines = "115-115" },
+]
+basis = "109-117"
+
+[[scene]]
+lines = "118-126"
+title = "The Identity of Alberigo"
+location = "Tolomea"
+region = "Tolomea"
+cast = [
+  { who = "frate Alberigo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "l'anima", status = "mentioned" },
+  { who = "Atropòs", status = "mentioned" },
+]
+speech = [
+  { quote_id = "33:118", lines = "118-120", speaker = "frate Alberigo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "frate Alberigo", predicate = "answers", obj = "Dante", lines = "118-118" },
+  { subj = "Dante", predicate = "speaks-to", obj = "frate Alberigo", lines = "121-121" },
+  { subj = "Dante", predicate = "asks", obj = "frate Alberigo", lines = "121-121" },
+  { subj = "frate Alberigo", predicate = "answers", obj = "Dante", lines = "122-122" },
+]
+basis = "118-126"
+
+[[scene]]
+lines = "127-138"
+title = "The Mechanics of the Tolomea"
+location = "Tolomea"
+region = "Tolomea"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Fra Alberigo", status = "present" },
+  { who = "l'anima", status = "mentioned" },
+  { who = "demonio", status = "mentioned" },
+  { who = "ser Branca Doria", status = "present" },
+]
+refer = [
+  { phrase = "un demonio", line = 130, resolves = "demonio" },
+]
+relations = [
+  { subj = "Dante", predicate = "touches", obj = "Fra Alberigo", lines = "127-128" },
+]
+basis = "127-138"
+
+[[scene]]
+lines = "139-150"
+title = "The Dispute with Alberigo"
+location = "Tolomea"
+region = "Tolomea"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Alberigo", status = "present" },
+  { who = "Branca Doria", status = "mentioned" },
+  { who = "Malebranche", status = "mentioned" },
+  { who = "Michel Zanche", status = "mentioned" },
+  { who = "il diavolo", status = "mentioned" },
+  { who = "un suo prossimano", status = "mentioned" },
+]
+speech = [
+  { quote_id = "33:139A", lines = "139-139", speaker = "Dante", addressee = "Alberigo", source = "code" },
+  { quote_id = "33:139B", lines = "139-141", speaker = "Dante", addressee = "Alberigo", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Alberigo", lines = "139-139" },
+  { subj = "Alberigo", predicate = "speaks-to", obj = "Dante", lines = "142-142" },
+  { subj = "Alberigo", predicate = "commands", obj = "Dante", lines = "148-148" },
+  { subj = "Alberigo", predicate = "commands", obj = "Dante", lines = "149-149" },
+  { subj = "Dante", predicate = "rebukes", obj = "Alberigo", lines = "150-150" },
+]
+basis = "139-150"
+
+[[scene]]
+lines = "151-157"
+title = "The Curse on Genoa"
+location = "Tolomea"
+region = "Tolomea"
+cast = [
+  { who = "Genovesi", status = "mentioned" },
+  { who = "peggiore spirto di Romagna", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Alberigo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Genovesi", lines = "151-153" },
+  { subj = "Dante", predicate = "rebukes", obj = "Genovesi", lines = "151-153" },
+  { subj = "Dante", predicate = "asks", obj = "Genovesi", lines = "153-153" },
+]
+basis = "151-157"

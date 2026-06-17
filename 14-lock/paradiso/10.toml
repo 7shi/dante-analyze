@@ -1,0 +1,487 @@
+canticle = "paradiso"
+canto = 10
+
+[[scene]]
+lines = "1-6"
+title = "The Eternal Love"
+location = ""
+region = "ella"
+cast = [
+  { who = "figlio", status = "present" },
+  { who = "lo Spirito Santo", status = "present" },
+  { who = "il Padre", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "Figlio", line = 1, resolves = "figlio" },
+  { phrase = "Figlio", line = 2, resolves = "figlio" },
+]
+relations = [
+  { subj = "il Padre", predicate = "sees", obj = "figlio", lines = "1-5" },
+  { subj = "lo Spirito Santo", predicate = "relates-to", obj = "il Padre", lines = "2-2" },
+  { subj = "lo Spirito Santo", predicate = "relates-to", obj = "figlio", lines = "2-2" },
+  { subj = "Dante", predicate = "recognizes", obj = "il Padre", lines = "6-6" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Instruction to the Reader"
+location = ""
+region = "ella"
+cast = [
+  { who = "lettore", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "commands", obj = "lettore", lines = "7-10" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Mechanics of the Planets"
+location = ""
+region = "ella"
+cast = [
+  { who = "lettore", status = "mentioned" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-27"
+title = "A Message to the Reader"
+location = ""
+region = "ella"
+cast = [
+  { who = "lettor", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "22-22" },
+  { subj = "Dante", predicate = "commands", obj = "lettor", lines = "22-22" },
+  { subj = "Dante", predicate = "tells", obj = "lettor", lines = "25-25" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Great Minister"
+location = ""
+region = "ella"
+cast = []
+basis = "28-33"
+
+[[scene]]
+lines = "34-36"
+title = "The Unexpected Ascent"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "l'uom", status = "mentioned" },
+]
+refer = [
+  { phrase = "uom", line = 35, resolves = "l'uom" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Beatrice", lines = "34-34" },
+]
+simile = [
+  { lines = "35-35", vehicle = "l'uom" },
+]
+basis = "34-36"
+
+[[scene]]
+lines = "37-39"
+title = "Beatrice's Vision"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+]
+basis = "37-39"
+
+[[scene]]
+lines = "40-42"
+title = "The Radiance of the Sun"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "quel ch'era dentro al sol", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "quel ch'era dentro al sol", lines = "41-41" },
+]
+basis = "40-42"
+
+[[scene]]
+lines = "43-45"
+title = "The Limits of Intellect"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettore", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "tells", obj = "lettore", lines = "43-45" },
+]
+basis = "43-45"
+
+[[scene]]
+lines = "46-48"
+title = "The Unreachable Height"
+location = "dentro al sol"
+region = "ella"
+cast = []
+basis = "46-48"
+
+[[scene]]
+lines = "49-51"
+title = "The Fourth Family"
+location = "dentro al sol"
+region = "ella"
+cohort = ["la quarta famiglia"]
+cast = [
+  { who = "la quarta famiglia", status = "present" },
+  { who = "l'alto Padre", status = "mentioned" },
+]
+relations = [
+  { subj = "la quarta famiglia", predicate = "relates-to", obj = "l'alto Padre", lines = "49-50" },
+  { subj = "l'alto Padre", predicate = "gives", obj = "la quarta famiglia", lines = "50-50" },
+  { subj = "la quarta famiglia", predicate = "shows", obj = "l'alto Padre", lines = "51-51" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-54"
+title = "Beatrice's Command"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "il Sol de li angeli", status = "mentioned" },
+]
+basis = "52-54"
+
+[[scene]]
+lines = "55-60"
+title = "Dante's Devotion"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "mortal", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Bëatrice", status = "mentioned" },
+]
+refer = [
+  { phrase = "Sole", line = 59, resolves = "il Sole" },
+]
+relations = [
+  { subj = "Dante", predicate = "compares", obj = "mortal", lines = "55-58" },
+  { subj = "Dante", predicate = "relates-to", obj = "Dio", lines = "56-58" },
+  { subj = "Dante", predicate = "relates-to", obj = "il Sole", lines = "59-59" },
+  { subj = "Dante", predicate = "relates-to", obj = "Bëatrice", lines = "60-60" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-63"
+title = "Beatrice's Laughter"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+]
+basis = "61-63"
+
+[[scene]]
+lines = "64-66"
+title = "The Ring of Lightning"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "più folgór vivi e vincenti", lines = "64-64" },
+  { subj = "più folgór vivi e vincenti", predicate = "relates-to", obj = "Dante, Beatrice", lines = "65-65" },
+]
+basis = "64-66"
+
+[[scene]]
+lines = "67-69"
+title = "The Solar Corona"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "67-68", vehicle = "la Luna" },
+]
+basis = "67-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Heavenly Court"
+location = "dentro al sol"
+region = "ella"
+cohort = ["quei lumi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei lumi", status = "present" },
+  { who = "dal muto", status = "mentioned" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-78"
+title = "The Orbiting Suns"
+location = "dentro al sol"
+region = "ella"
+cohort = ["quelli ardenti soli"]
+cast = [
+  { who = "quelli ardenti soli", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "quelli ardenti soli", predicate = "relates-to", obj = "Dante, Beatrice", lines = "77-77" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Silent Listeners"
+location = "dentro al sol"
+region = "ella"
+cohort = ["le donne"]
+cast = [
+  { who = "le donne", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "donne", line = 79, resolves = "le donne" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "le donne", lines = "79-79" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-90"
+title = "Theology of Grace"
+location = "dentro al sol"
+region = "ella"
+cohort = ["l'un"]
+cast = [
+  { who = "l'un", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "qual", line = 88, resolves = "Qual" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "l'un", lines = "82-82" },
+]
+basis = "82-90"
+
+[[scene]]
+lines = "91-93"
+title = "The Floral Garland"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-96"
+title = "The Lambs of the Flock"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Pietro Damiano", status = "present" },
+  { who = "Domenico", status = "mentioned" },
+]
+basis = "94-96"
+
+[[scene]]
+lines = "97-99"
+title = "The Presence of Albert the Great"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Alberto di Cologna", status = "present" },
+  { who = "Thomas d'Aquino", status = "present" },
+]
+relations = [
+  { subj = "Thomas d'Aquino", predicate = "names", obj = "Alberto di Cologna", lines = "98-98" },
+  { subj = "Thomas d'Aquino", predicate = "names", obj = "Thomas d'Aquino", lines = "99-99" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-102"
+title = "Scanning the Circle"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "li altri", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "100-102"
+
+[[scene]]
+lines = "103-105"
+title = "The Light of Gratian"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Grazïan", status = "present" },
+]
+basis = "103-105"
+
+[[scene]]
+lines = "106-108"
+title = "The Treasure of Peter"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Pietro Damian", status = "present" },
+]
+refer = [
+  { phrase = "Santa Chiesa", line = 107, resolves = "la Santa Chiesa" },
+]
+basis = "106-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Fifth Light"
+location = "dentro al sol"
+region = "ella"
+cohort = ["le anime beate del quarto cielo"]
+cast = [
+  { who = "Aristotele", status = "present" },
+  { who = "le anime beate del quarto cielo", status = "present" },
+  { who = "il secondo", status = "mentioned" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-117"
+title = "The Angelic Vision"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Francesco", status = "present" },
+  { who = "l'angelica natura", status = "mentioned" },
+]
+basis = "115-117"
+
+[[scene]]
+lines = "118-120"
+title = "The Light of Augustine"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Augustin", status = "present" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-123"
+title = "The Reader's Journey"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "lettore", status = "present" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Truth of the Soul"
+location = "dentro al sol"
+region = "ella"
+cohort = ["l'anima santa"]
+cast = [
+  { who = "l'anima santa", status = "present" },
+  { who = "chi di lei ben ode", status = "present" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-129"
+title = "The Earthly Body"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Santa Caterina", status = "present" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-132"
+title = "The Scholars of the Spirit"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Isidoro", status = "present" },
+  { who = "Beda", status = "present" },
+  { who = "Riccardo", status = "present" },
+  { who = "viro", status = "mentioned" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Light of Siger"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Sigieri", status = "present" },
+  { who = "Tommaso", status = "present" },
+  { who = "invidïosi", status = "mentioned" },
+]
+relations = [
+  { subj = "Tommaso", predicate = "names", obj = "Sigieri", lines = "136-136" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-144"
+title = "The Striking Clock"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "l ben disposto spirto d'amor", status = "mentioned" },
+]
+simile = [
+  { lines = "139-141", vehicle = "Dio" },
+  { lines = "141-141", vehicle = "Dio" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-148"
+title = "The Harmonious Motion"
+location = "dentro al sol"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "145-148"

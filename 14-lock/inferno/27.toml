@@ -1,0 +1,229 @@
+canticle = "inferno"
+canto = 27
+
+[[scene]]
+lines = "1-15"
+title = "The Sound of the Flame"
+location = ""
+region = "'l ponte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Ulisse", status = "present" },
+  { who = "l'afflitto", status = "mentioned" },
+]
+basis = "1-15"
+
+[[scene]]
+lines = "16-30"
+title = "The Inquiry of the Soul"
+location = ""
+region = "'l ponte"
+cohort = ["l'anima"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'anima", status = "present" },
+]
+speech = [
+  { quote_id = "27:19", lines = "19-30", speaker = "l'anima", addressee = "Dante", source = "llm" },
+  { quote_id = "27:21", lines = "21-21", speaker = "Dante", addressee = "l'anima", source = "llm" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "l'anima", lines = "19-19" },
+  { subj = "l'anima", predicate = "addresses", obj = "Dante", lines = "19-19" },
+  { subj = "l'anima", predicate = "tells", obj = "Dante", lines = "20-20" },
+  { subj = "l'anima", predicate = "asks", obj = "Dante", lines = "23-23" },
+  { subj = "l'anima", predicate = "asks", obj = "Dante", lines = "25-26" },
+  { subj = "l'anima", predicate = "asks", obj = "Dante", lines = "28-28" },
+]
+basis = "16-30"
+
+[[scene]]
+lines = "31-48"
+title = "Dante's Political Report"
+location = ""
+region = "'l ponte"
+cohort = ["l'anima"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "l'anima", status = "present" },
+  { who = "tiranni", status = "mentioned" },
+  { who = "Franceschi", status = "mentioned" },
+  { who = "Malatesta Vecchio", status = "mentioned" },
+  { who = "Malatesta Giovane", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:36", lines = "36-57", speaker = "Dante", addressee = "l'anima", source = "llm" },
+]
+refer = [
+  { phrase = "anima", line = 35, resolves = "l'anima" },
+  { phrase = "anima", line = 36, resolves = "l'anima" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "32-32" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "33-33" },
+  { subj = "Dante", predicate = "answers", obj = "l'anima", lines = "35-48" },
+  { subj = "Dante", predicate = "addresses", obj = "l'anima", lines = "36-36" },
+]
+basis = "31-48"
+
+[[scene]]
+lines = "49-57"
+title = "The Geography of the Region"
+location = ""
+region = "'l ponte"
+cast = [
+  { who = "il lïoncel", status = "present" },
+  { who = "il Savio", status = "mentioned" },
+  { who = "Guido da Montefeltro", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Guido da Montefeltro", lines = "55-55" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Guido da Montefeltro", lines = "55-55" },
+  { subj = "Dante", predicate = "commands", obj = "Guido da Montefeltro", lines = "55-55" },
+  { subj = "Dante", predicate = "commands", obj = "Guido da Montefeltro", lines = "56-56" },
+]
+basis = "49-57"
+
+[[scene]]
+lines = "58-66"
+title = "The Flame's Vow of Truth"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "questa fiamma", predicate = "answers", obj = "Dante", lines = "66-66" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-78"
+title = "The Nature of the Deceiver"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "l'anima della seconda fiamma", status = "present" },
+  { who = "il gran prete", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "la madre", status = "mentioned" },
+]
+relations = [
+  { subj = "l'anima della seconda fiamma", predicate = "speaks-to", obj = "Dante", lines = "72-72" },
+]
+basis = "67-78"
+
+[[scene]]
+lines = "79-93"
+title = "The History of Deceit"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "Guido da Montefeltro", status = "present" },
+  { who = "Bonifacio VIII", status = "mentioned" },
+]
+basis = "79-93"
+
+[[scene]]
+lines = "94-105"
+title = "The Pope's Counselor"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "Costantin", status = "mentioned" },
+  { who = "Silvestro", status = "mentioned" },
+  { who = "Siratti", status = "mentioned" },
+  { who = "the soul in the second flame", status = "present" },
+  { who = "Bonifacio VIII", status = "present" },
+  { who = "Penestrino", status = "mentioned" },
+  { who = "Celestino V", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:100", lines = "100-105", speaker = "Bonifacio VIII", addressee = "the soul in the second flame", source = "code" },
+]
+relations = [
+  { subj = "Bonifacio VIII", predicate = "asks", obj = "the soul in the second flame", lines = "96-97" },
+  { subj = "Bonifacio VIII", predicate = "asks", obj = "the soul in the second flame", lines = "98-98" },
+]
+simile = [
+  { lines = "94-94", vehicle = "Silvestro" },
+]
+basis = "94-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Dangerous Advice"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "Guido da Montefeltro", status = "present" },
+  { who = "Bonifacio VIII", status = "present" },
+]
+speech = [
+  { quote_id = "27:108", lines = "108-111", speaker = "Guido da Montefeltro", addressee = "Bonifacio VIII", source = "code" },
+]
+relations = [
+  { subj = "Guido da Montefeltro", predicate = "addresses", obj = "Bonifacio VIII", lines = "108-108" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-123"
+title = "The Cherub's Intervention"
+location = "fondo"
+region = "'l ponte"
+cohort = ["l'anima"]
+cast = [
+  { who = "Francesco", status = "present" },
+  { who = "l'anima", status = "present" },
+  { who = "un d'i neri cherubini", status = "present" },
+  { who = "i miei meschini", status = "mentioned" },
+  { who = "chi non si pente", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:114", lines = "114-120", speaker = "un d'i neri cherubini", addressee = "Francesco", source = "llm" },
+  { quote_id = "27:122", lines = "122-123", speaker = "un d'i neri cherubini", addressee = "l'anima", source = "llm" },
+]
+relations = [
+  { subj = "Francesco", predicate = "protects", obj = "l'anima", lines = "112-112" },
+  { subj = "un d'i neri cherubini", predicate = "speaks-to", obj = "Francesco", lines = "113-114" },
+  { subj = "un d'i neri cherubini", predicate = "commands", obj = "Francesco", lines = "114-114" },
+  { subj = "un d'i neri cherubini", predicate = "touches", obj = "l'anima", lines = "122-122" },
+  { subj = "un d'i neri cherubini", predicate = "speaks-to", obj = "l'anima", lines = "122-122" },
+]
+basis = "112-123"
+
+[[scene]]
+lines = "124-129"
+title = "The Judgment of Minos"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "Minòs", status = "present" },
+  { who = "l'anima della seconda fiamma", status = "present" },
+  { who = "i rei del foco", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'anima della seconda fiamma", lines = "128-128" },
+]
+basis = "124-129"
+
+[[scene]]
+lines = "130-136"
+title = "The Departure of the Flame"
+location = "fondo"
+region = "'l ponte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quei che scommettendo acquistan carco", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "133-133" },
+]
+basis = "130-136"

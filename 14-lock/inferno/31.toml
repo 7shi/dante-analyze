@@ -1,0 +1,381 @@
+canticle = "inferno"
+canto = 31
+
+[[scene]]
+lines = "1-6"
+title = "Introductory Metaphor"
+location = ""
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Achille", status = "mentioned" },
+  { who = "Peleo", status = "mentioned" },
+]
+simile = [
+  { lines = "1-1", vehicle = "Dante" },
+  { lines = "2-2", vehicle = "Dante" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The Horn Blast"
+location = "misero vallone"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-18"
+title = "Legendary Echoes"
+location = "misero vallone"
+region = "ripa"
+cast = [
+  { who = "Carlo Magno", status = "mentioned" },
+  { who = "Orlando", status = "mentioned" },
+]
+basis = "16-18"
+
+[[scene]]
+lines = "19-27"
+title = "The Tower Illusion"
+location = "misero vallone"
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "21-21" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "21-21" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "22-22" },
+]
+basis = "19-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Truth of the Giants"
+location = "misero vallone"
+region = "ripa"
+cohort = ["i Giganti"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i Giganti", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "28-28" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "29-29" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "31-31" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Clearing Mist"
+location = "misero vallone"
+region = "ripa"
+cast = []
+basis = "34-39"
+
+[[scene]]
+lines = "40-45"
+title = "The Wall of Giants"
+location = "la proda"
+region = "ripa"
+cohort = ["li orribili giganti"]
+cast = [
+  { who = "li orribili giganti", status = "present" },
+  { who = "Giove", status = "mentioned" },
+]
+relations = [
+  { subj = "Giove", predicate = "warns", obj = "li orribili giganti", lines = "44-45" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-48"
+title = "Anatomy of the Giants"
+location = "la proda"
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-57"
+title = "Nature's Weapons"
+location = "la proda"
+region = "ripa"
+cast = [
+  { who = "i Giganti", status = "mentioned" },
+  { who = "chi guarda sottilmente", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+]
+refer = [
+  { phrase = "Natura", line = 50, resolves = "natura" },
+  { phrase = "Giganti", line = 50, resolves = "i Giganti" },
+  { phrase = "Natura", line = 53, resolves = "natura" },
+]
+relations = [
+  { subj = "natura", predicate = "brings", obj = "i Giganti", lines = "50-51" },
+  { subj = "natura", predicate = "relates-to", obj = "Marte", lines = "50-51" },
+  { subj = "chi guarda sottilmente", predicate = "sees", obj = "natura", lines = "53-54" },
+]
+basis = "49-57"
+
+[[scene]]
+lines = "58-66"
+title = "Massive Proportions"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "San Pietro", status = "mentioned" },
+  { who = "Anteo", status = "present" },
+  { who = "tre Frison", status = "mentioned" },
+  { who = "l'omo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Anteo", lines = "65-65" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-69"
+title = "The Unintelligible Cry"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Raphèl", status = "mentioned" },
+  { who = "Nimrod", status = "present" },
+]
+relations = [
+  { subj = "Nimrod", predicate = "calls", obj = "Raphèl", lines = "67-68" },
+]
+basis = "67-69"
+
+[[scene]]
+lines = "70-75"
+title = "Virgil's Rebuke"
+location = "la ripa"
+region = "ripa"
+cohort = ["un gigante"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "un gigante", status = "present" },
+]
+refer = [
+  { phrase = "il Gigante", line = 75, resolves = "un gigante" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Virgilio", lines = "70-70" },
+  { subj = "Virgilio", predicate = "names", obj = "Dante", lines = "70-70" },
+  { subj = "Virgilio", predicate = "names", obj = "Dante", lines = "74-74" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-81"
+title = "The Identity of Nembrot"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Nembrotto", status = "present" },
+  { who = "i Giganti", status = "mentioned" },
+]
+refer = [
+  { phrase = "giganti", line = 79, resolves = "i Giganti" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "76-76" },
+]
+basis = "76-81"
+
+[[scene]]
+lines = "82-90"
+title = "The Second Giant"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Anteo", status = "present" },
+  { who = "Nimrod", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "Anteo", lines = "84-84" },
+]
+basis = "82-90"
+
+[[scene]]
+lines = "91-96"
+title = "The Fall of Fialte"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Fïalte", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "i Giganti", status = "mentioned" },
+  { who = "i dèi", status = "mentioned" },
+]
+refer = [
+  { phrase = "i giganti", line = 95, resolves = "i Giganti" },
+  { phrase = "dèi", line = 95, resolves = "i dèi" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-99"
+title = "Dante's Curiosity"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Brïareo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "31:97", lines = "97-99", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "97-97" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-105"
+title = "The Promise of Antaeus"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Anteo", status = "mentioned" },
+  { who = "ogne reo", status = "mentioned" },
+  { who = "Briareo", status = "mentioned" },
+  { who = "Fialte", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "100-100" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-111"
+title = "The Earth Shaking"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Fïalte", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-114"
+title = "The Arrival of Antaeus"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Anteo", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "Anteo", lines = "113-113" },
+]
+basis = "112-114"
+
+[[scene]]
+lines = "115-129"
+title = "Virgil's Diplomacy"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Anteo", status = "present" },
+  { who = "Scipïon", status = "mentioned" },
+  { who = "Anibàl", status = "mentioned" },
+  { who = "i Giganti", status = "mentioned" },
+  { who = "Tizio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'imperador", status = "mentioned" },
+]
+basis = "115-129"
+
+[[scene]]
+lines = "130-132"
+title = "The Giant's Obedience"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Anteo", status = "present" },
+  { who = "Ercule", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Anteo", lines = "130-130" },
+  { subj = "Anteo", predicate = "touches", obj = "Virgilio", lines = "131-131" },
+]
+simile = [
+  { lines = "132-132", vehicle = "Ercule" },
+]
+basis = "130-132"
+
+[[scene]]
+lines = "133-135"
+title = "Securing the Poet"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Anteo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "31:134", lines = "134-134", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Anteo", predicate = "touches", obj = "Virgilio", lines = "133-133" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "134-134" },
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "135-135" },
+]
+basis = "133-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Dizzying Descent"
+location = "la ripa"
+region = "ripa"
+cast = [
+  { who = "Antëo", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Antëo", lines = "139-139" },
+]
+basis = "136-141"
+
+[[scene]]
+lines = "142-145"
+title = "Reaching the Abyss"
+location = "fondo"
+region = "ripa"
+cast = [
+  { who = "Lucifero", status = "mentioned" },
+  { who = "Giuda", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Anteo", status = "present" },
+]
+relations = [
+  { subj = "Anteo", predicate = "brings", obj = "Dante, Virgilio", lines = "142-143" },
+]
+basis = "142-145"

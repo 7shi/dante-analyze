@@ -1,0 +1,278 @@
+canticle = "purgatorio"
+canto = 11
+
+[[scene]]
+lines = "1-12"
+title = "The Souls' Praise"
+location = ""
+region = "cornice"
+cohort = ["le anime dei superbi"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "le anime dei superbi", status = "present" },
+  { who = "li angeli tuoi", status = "mentioned" },
+  { who = "li uomini de' suoi", status = "mentioned" },
+]
+relations = [
+  { subj = "le anime dei superbi", predicate = "addresses", obj = "Dio", lines = "1-1" },
+  { subj = "le anime dei superbi", predicate = "praises", obj = "Dio", lines = "4-6" },
+  { subj = "le anime dei superbi", predicate = "pleads-with", obj = "Dio", lines = "7-9" },
+]
+simile = [
+  { lines = "10-11", vehicle = "Dio" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Souls' Petitions"
+location = "aspro diserto"
+region = "cornice"
+cohort = ["le anime dei superbi"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "le anime dei superbi", status = "present" },
+  { who = "chi più di gir s'affanna", status = "present" },
+  { who = "Lucifero", status = "mentioned" },
+  { who = "color che dietro a noi restaro", status = "mentioned" },
+]
+relations = [
+  { subj = "le anime dei superbi", predicate = "pleads-with", obj = "Dio", lines = "13-13" },
+  { subj = "le anime dei superbi", predicate = "pleads-with", obj = "Dio", lines = "17-18" },
+  { subj = "le anime dei superbi", predicate = "pleads-with", obj = "Dio", lines = "20-21" },
+  { subj = "le anime dei superbi", predicate = "pleads-with", obj = "Dio", lines = "22-24" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-30"
+title = "Entering the First Ring"
+location = "prima cornice"
+region = "cornice"
+cohort = ["quell' ombre"]
+cast = [
+  { who = "quell' ombre", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "anyone", status = "present" },
+]
+relations = [
+  { subj = "quell' ombre", predicate = "commands", obj = "quell' ombre", lines = "25-26" },
+  { subj = "quell' ombre", predicate = "commands", obj = "Dante, Virgilio", lines = "25-26" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-36"
+title = "Thoughts on Divine Intercession"
+location = "prima cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "uomini", status = "mentioned" },
+  { who = "i superbi", status = "present" },
+  { who = "quei c'hanno al voler buona radice", status = "mentioned" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-45"
+title = "A Request for Direction"
+location = "prima cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "i superbi", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Adamo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "11:37", lines = "37-45", speaker = "Virgilio", addressee = "i superbi", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "43-43" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-57"
+title = "Virgil's Guidance"
+location = "prima cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i superbi", status = "present" },
+  { who = "un superbo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "47-47" },
+  { subj = "i superbi", predicate = "answers", obj = "Virgilio", lines = "46-48" },
+]
+basis = "46-57"
+
+[[scene]]
+lines = "58-72"
+title = "The Confession of Omberto"
+location = "prima cornice"
+region = "cornice"
+cohort = ["' morti"]
+cast = [
+  { who = "Omberto", status = "present" },
+  { who = "Guiglielmo Aldobrandesco", status = "mentioned" },
+  { who = "i miei maggior", status = "mentioned" },
+  { who = "ogn' uomo", status = "mentioned" },
+  { who = "ogne fante", status = "mentioned" },
+  { who = "tutti miei consorti", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "' vivi", status = "mentioned" },
+  { who = "' morti", status = "present" },
+]
+basis = "58-72"
+
+[[scene]]
+lines = "73-81"
+title = "Recognition and Inquiry"
+location = "prima cornice"
+region = "cornice"
+cohort = ["i superbi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i superbi", status = "present" },
+  { who = "Omberto", status = "present" },
+  { who = "Oderisi", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Omberto", lines = "73-74" },
+  { subj = "Oderisi", predicate = "sees", obj = "Dante", lines = "76-76" },
+  { subj = "Oderisi", predicate = "recognizes", obj = "Dante", lines = "76-76" },
+  { subj = "Oderisi", predicate = "calls", obj = "Dante", lines = "76-76" },
+  { subj = "Oderisi", predicate = "sees", obj = "Dante", lines = "77-78" },
+  { subj = "Dante", predicate = "follows", obj = "i superbi", lines = "78-78" },
+  { subj = "Dante", predicate = "addresses", obj = "Oderisi", lines = "79-79" },
+  { subj = "Dante", predicate = "asks", obj = "Oderisi", lines = "79-79" },
+  { subj = "Dante", predicate = "asks", obj = "Oderisi", lines = "80-80" },
+]
+basis = "73-81"
+
+[[scene]]
+lines = "82-90"
+title = "The Sin of Pride"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Oderisi", status = "present" },
+  { who = "Franco Bolognese", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "11:82B", lines = "82-117", speaker = "Oderisi", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Oderisi", predicate = "addresses", obj = "Dante", lines = "82-82" },
+]
+basis = "82-90"
+
+[[scene]]
+lines = "91-99"
+title = "The Ephemerality of Fame"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Cimabue", status = "mentioned" },
+  { who = "Giotto", status = "mentioned" },
+  { who = "the poets who preceded Guido", status = "mentioned" },
+  { who = "Guido Cavalcanti", status = "mentioned" },
+  { who = "a future poet / successor", status = "mentioned" },
+]
+basis = "91-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Brevity of Earthly Goods"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'etterno", status = "mentioned" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-117"
+title = "The Fading of Sienese Glory"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "sire", status = "present" },
+  { who = "Oderisi", status = "present" },
+]
+basis = "109-117"
+
+[[scene]]
+lines = "118-120"
+title = "Dante's Humble Response"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Oderisi", status = "present" },
+  { who = "gran signore", status = "mentioned" },
+]
+speech = [
+  { quote_id = "11:118", lines = "118-120", speaker = "Dante", addressee = "Oderisi", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Oderisi", lines = "118-118" },
+  { subj = "Dante", predicate = "asks", obj = "Oderisi", lines = "120-120" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Identification of Salvani"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Provenzan Salvani", status = "present" },
+  { who = "Oderisi", status = "present" },
+]
+relations = [
+  { subj = "Oderisi", predicate = "names", obj = "Provenzan Salvani", lines = "121-121" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-132"
+title = "A Question of Salvation"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Provenzan Salvani", status = "mentioned" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-142"
+title = "The Story of the Great Sacrifice"
+location = "prima cornice"
+region = "cornice"
+cast = [
+  { who = "Provenzan Salvani", status = "mentioned" },
+  { who = "Oderisi", status = "present" },
+  { who = "l'amico suo", status = "mentioned" },
+  { who = "Carlo", status = "mentioned" },
+  { who = "tuoi vicini", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "11:134", lines = "134-142", speaker = "Oderisi", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Oderisi", predicate = "speaks-to", obj = "Dante", lines = "133-142" },
+]
+basis = "133-142"

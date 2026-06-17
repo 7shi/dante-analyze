@@ -1,0 +1,272 @@
+canticle = "paradiso"
+canto = 31
+
+[[scene]]
+lines = "1-12"
+title = "The Celestial Rose and the Angelic Bees"
+location = "candida rosa"
+region = "qua sù"
+cohort = ["la milizia santa"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la milizia santa", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+relations = [
+  { subj = "la milizia santa", predicate = "shows", obj = "Dante", lines = "1-2" },
+  { subj = "Cristo", predicate = "relates-to", obj = "la milizia santa", lines = "3-3" },
+  { subj = "Beatrice", predicate = "sees", obj = "Dio", lines = "4-5" },
+  { subj = "Beatrice", predicate = "praises", obj = "Dio", lines = "4-5" },
+  { subj = "Dio", predicate = "relates-to", obj = "Beatrice", lines = "5-5" },
+  { subj = "Beatrice", predicate = "meets", obj = "la milizia santa", lines = "10-10" },
+  { subj = "Beatrice", predicate = "meets", obj = "Dio", lines = "11-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Splendor of Divine Light"
+location = "candida rosa"
+region = "qua sù"
+cohort = ["tanta moltitudine volante"]
+cast = [
+  { who = "tanta moltitudine volante", status = "present" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-27"
+title = "The Nature of the Eternal Kingdom"
+location = "regno"
+region = "qua sù"
+cohort = ["gente antica e in novella"]
+cast = [
+  { who = "gente antica e in novella", status = "present" },
+]
+basis = "25-27"
+
+[[scene]]
+lines = "28-42"
+title = "Dante's Prayer to the Trinity"
+location = "regno"
+region = "qua sù"
+cast = [
+  { who = "i beati", status = "mentioned" },
+  { who = "i barbari", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "popol giusto e sano", status = "mentioned" },
+]
+refer = [
+  { phrase = "beati", line = 28, resolves = "i beati" },
+]
+relations = [
+  { subj = "Dante", predicate = "pleads-with", obj = "trina luce", lines = "28-30" },
+  { subj = "trina luce", predicate = "relates-to", obj = "i beati", lines = "28-29" },
+]
+simile = [
+  { lines = "31-40", vehicle = "i barbari" },
+  { lines = "39-40", vehicle = "popol giusto e sano" },
+]
+basis = "28-42"
+
+[[scene]]
+lines = "43-54"
+title = "The Wandering Gaze"
+location = "regno"
+region = "qua sù"
+cohort = ["altri"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "altri", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "visi", lines = "49-49" },
+  { subj = "Dante", predicate = "sees", obj = "atti", lines = "49-51" },
+]
+basis = "43-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Appearance of Saint Bernard"
+location = "regno"
+region = "qua sù"
+cohort = ["le genti glorïose"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Bernardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le genti glorïose", status = "present" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "answers", obj = "Dante", lines = "58-58" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "59-59" },
+]
+simile = [
+  { lines = "61-63", vehicle = "Bernardo" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Location of Beatrice"
+location = "regno"
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+]
+speech = [
+  { quote_id = "31:65", lines = "65-69", speaker = "Bernardo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Bernardo", lines = "64-64" },
+  { subj = "Bernardo", predicate = "answers", obj = "Dante", lines = "65-65" },
+  { subj = "Bernardo", predicate = "guides", obj = "Dante", lines = "67-67" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-78"
+title = "A Distant Glimpse of Beatrice"
+location = "regno"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "occhio mortale alcun", status = "mentioned" },
+  { who = "qualunque", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "71-71" },
+  { subj = "occhio mortale alcun", predicate = "relates-to", obj = "Beatrice", lines = "74-76" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "77-77" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "78-78" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-90"
+title = "Dante's Address to Beatrice"
+location = "regno"
+region = "qua sù"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "31:79", lines = "79-90", speaker = "Dante", addressee = "Beatrice", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "79-79" },
+]
+basis = "79-90"
+
+[[scene]]
+lines = "91-93"
+title = "Beatrice's Silent Response"
+location = "regno"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-102"
+title = "Bernard's Instruction"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Bernardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Maria", status = "mentioned" },
+]
+speech = [
+  { quote_id = "31:95", lines = "95-102", speaker = "Bernardo", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "speaks-to", obj = "Dante", lines = "94-95" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-111"
+title = "Dante's Internal Wonder"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "colui che forse di Croazia", status = "mentioned" },
+  { who = "Iesù Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Bernardo", lines = "109-110" },
+]
+simile = [
+  { lines = "103-104", vehicle = "la Veronica" },
+  { lines = "106-108", vehicle = "Iesù Cristo" },
+]
+basis = "103-111"
+
+[[scene]]
+lines = "112-117"
+title = "The Command to Look Higher"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+  { who = "Maria", status = "mentioned" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "addresses", obj = "Dante", lines = "112-113" },
+]
+basis = "112-117"
+
+[[scene]]
+lines = "118-129"
+title = "The Shifting Light of the Heavens"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "118-129"
+
+[[scene]]
+lines = "130-138"
+title = "The Vision of the Queen's Joy"
+location = "questo giardino"
+region = "qua sù"
+cohort = ["mille angeli festanti", "tutti li altri santi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "mille angeli festanti", status = "present" },
+  { who = "Maria", status = "present" },
+  { who = "tutti li altri santi", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "mille angeli festanti", lines = "130-132" },
+  { subj = "Dante", predicate = "sees", obj = "Maria", lines = "133-134" },
+]
+basis = "130-138"
+
+[[scene]]
+lines = "139-142"
+title = "Bernard's Shared Devotion"
+location = "questo giardino"
+region = "qua sù"
+cast = [
+  { who = "Bernardo", status = "present" },
+  { who = "Maria", status = "present" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "sees", obj = "Maria", lines = "141-141" },
+]
+basis = "139-142"

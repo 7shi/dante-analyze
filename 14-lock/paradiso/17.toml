@@ -1,0 +1,255 @@
+canticle = "paradiso"
+canto = 17
+
+[[scene]]
+lines = "1-6"
+title = "The Mythological Parallel"
+location = ""
+region = "ella"
+cast = [
+  { who = "Climenè", status = "mentioned" },
+  { who = "Faetone", status = "mentioned" },
+  { who = "li padri", status = "mentioned" },
+  { who = "ai figli", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "sees", obj = "Dante", lines = "4-5" },
+  { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "6-6" },
+]
+simile = [
+  { lines = "1-1", vehicle = "Climenè" },
+  { lines = "1-4", vehicle = "Faetone" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Beatrice's Instruction"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "mentioned" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-27"
+title = "Dante's Plea for Knowledge"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "mentioned" },
+  { who = "le terrene menti", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "anime", status = "mentioned" },
+]
+speech = [
+  { quote_id = "17:13", lines = "13-27", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Beatrice", lines = "13-27" },
+  { subj = "Dante", predicate = "addresses", obj = "Beatrice", lines = "13-13" },
+  { subj = "Dante", predicate = "tells", obj = "Beatrice", lines = "16-16" },
+  { subj = "Dante", predicate = "asks", obj = "Beatrice", lines = "25-26" },
+]
+basis = "13-27"
+
+[[scene]]
+lines = "28-36"
+title = "The Divine Response"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "la gente folle", status = "mentioned" },
+  { who = "l'Agnel di Dio", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Beatrice", lines = "28-28" },
+  { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "29-29" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "30-30" },
+  { subj = "Cacciaguida", predicate = "answers", obj = "Dante", lines = "34-35" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-45"
+title = "The Theology of Contingency"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "17:37", lines = "37-92", speaker = "Cacciaguida", addressee = "Dante", source = "code" },
+]
+basis = "37-45"
+
+[[scene]]
+lines = "46-54"
+title = "The Prediction of Exile"
+location = ""
+region = "ella"
+cast = [
+  { who = "Ipolito", status = "mentioned" },
+  { who = "Ipolito d'Atene", status = "mentioned" },
+  { who = "Fedra", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Neri", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "mercatanti e cittadini di Fiorenza", status = "mentioned" },
+]
+simile = [
+  { lines = "46-47", vehicle = "Ipolito d'Atene" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-69"
+title = "The Hardships of Exile"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la compagnia malvagia e scempia", status = "mentioned" },
+]
+basis = "55-69"
+
+[[scene]]
+lines = "70-75"
+title = "The First Refuge"
+location = ""
+region = "ella"
+cast = [
+  { who = "Enrico VII", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Rise of the Virtuous Leader"
+location = ""
+region = "ella"
+cast = [
+  { who = "Arrigo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "le genti", status = "mentioned" },
+  { who = "'l Guasco", status = "mentioned" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-93"
+title = "The Global Impact of the Leader"
+location = ""
+region = "ella"
+cast = [
+  { who = "nemici", status = "mentioned" },
+  { who = "Enrico VII", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "molta gente", status = "mentioned" },
+  { who = "ricchi e mendici", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "speaks-to", obj = "Dante", lines = "92-92" },
+  { subj = "Cacciaguida", predicate = "tells", obj = "Dante, Beatrice", lines = "92-93" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-99"
+title = "A Warning Against Envy"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "vicini", status = "mentioned" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "addresses", obj = "Dante", lines = "94-94" },
+  { subj = "Cacciaguida", predicate = "warns", obj = "Dante", lines = "97-97" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-105"
+title = "Dante's Request for Counsel"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "gives", obj = "Beatrice", lines = "102-102" },
+  { subj = "Dante", predicate = "asks", obj = "Cacciaguida", lines = "103-105" },
+]
+simile = [
+  { lines = "103-103", vehicle = "Dante" },
+  { lines = "103-105", vehicle = "Cacciaguida" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-120"
+title = "Dante's Existential Fear"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "coloro che questo tempo chiameranno antico", status = "mentioned" },
+]
+speech = [
+  { quote_id = "17:106", lines = "106-120", speaker = "Dante", addressee = "Cacciaguida", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Cacciaguida", lines = "106-106" },
+]
+basis = "106-120"
+
+[[scene]]
+lines = "121-135"
+title = "The Necessity of Bitter Truth"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Beatrice", lines = "121-122" },
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "124-124" },
+  { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "129-129" },
+]
+basis = "121-135"
+
+[[scene]]
+lines = "136-142"
+title = "The Purpose of the Vision"
+location = ""
+region = "ella"
+cohort = ["quel ch'ode"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "mentioned" },
+  { who = "quel ch'ode", status = "present" },
+]
+refer = [
+  { phrase = "l'anime", line = 136, resolves = "anime" },
+]
+basis = "136-142"

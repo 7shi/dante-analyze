@@ -1,0 +1,352 @@
+canticle = "purgatorio"
+canto = 27
+
+[[scene]]
+lines = "1-6"
+title = "The Solar Metaphor"
+location = ""
+region = "scala"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "l'angel di Dio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-13"
+title = "The Angel's Command"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "l'angelo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "l'angelo", predicate = "addresses", obj = "Dante, Virgilio, Stazio", lines = "11-11" },
+  { subj = "l'angelo", predicate = "commands", obj = "Dante, Virgilio, Stazio", lines = "11-11" },
+  { subj = "l'angelo", predicate = "commands", obj = "Dante, Virgilio, Stazio", lines = "12-12" },
+  { subj = "l'angelo", predicate = "tells", obj = "Dante, Virgilio, Stazio", lines = "13-13" },
+  { subj = "Dante, Virgilio, Stazio", predicate = "meets", obj = "l'angelo", lines = "13-13" },
+]
+basis = "7-13"
+
+[[scene]]
+lines = "14-18"
+title = "Dante's Terror"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "colui che ne la fossa è messo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "umani corpi", lines = "17-18" },
+]
+simile = [
+  { lines = "14-15", vehicle = "colui che ne la fossa è messo" },
+]
+basis = "14-18"
+
+[[scene]]
+lines = "19-32"
+title = "Virgil's Reassurance"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Gerïon", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:20", lines = "20-32", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio, Stazio", predicate = "sees", obj = "Dante", lines = "19-19" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "20-20" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "20-20" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "22-22" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "25-25" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "29-29" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "31-31" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "32-32" },
+]
+basis = "19-32"
+
+[[scene]]
+lines = "33-36"
+title = "The Wall of Separation"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Bëatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "34-34" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "35-36" },
+  { subj = "Virgilio", predicate = "names", obj = "Dante", lines = "35-35" },
+]
+basis = "33-36"
+
+[[scene]]
+lines = "37-42"
+title = "Dante's Conversion"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Tisbe", status = "mentioned" },
+  { who = "Piramo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "41-41" },
+]
+simile = [
+  { lines = "37-38", vehicle = "Tisbe" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-48"
+title = "Entering the Fire"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+speech = [
+  { quote_id = "27:43", lines = "43-44", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "43-44" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "46-46" },
+  { subj = "Virgilio", predicate = "pleads-with", obj = "Stazio", lines = "47-47" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-54"
+title = "The Intensity of the Flame"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "52-53" },
+  { subj = "Virgilio", predicate = "relates-to", obj = "Beatrice", lines = "53-53" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Heavenly Voice"
+location = "in su la riva"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Statio", status = "present" },
+  { who = "Patris", status = "mentioned" },
+]
+refer = [
+  { phrase = "una voce", line = 55, resolves = "la voce" },
+  { phrase = "una voce", line = 56, resolves = "la voce" },
+  { phrase = "una voce", line = 58, resolves = "la voce" },
+  { phrase = "una voce", line = 60, resolves = "la voce" },
+  { phrase = "una voce", line = 61, resolves = "la voce" },
+  { phrase = "una voce", line = 62, resolves = "la voce" },
+]
+relations = [
+  { subj = "la voce", predicate = "guides", obj = "Dante, Virgilio, Statio", lines = "55-55" },
+  { subj = "Dante, Virgilio, Statio", predicate = "hears", obj = "la voce", lines = "56-56" },
+  { subj = "la voce", predicate = "addresses", obj = "Dante, Virgilio, Statio", lines = "58-58" },
+  { subj = "la voce", predicate = "commands", obj = "Dante, Virgilio, Statio", lines = "58-58" },
+  { subj = "la voce", predicate = "defeats", obj = "Dante", lines = "60-60" },
+  { subj = "la voce", predicate = "speaks-to", obj = "Dante, Virgilio, Statio", lines = "61-61" },
+  { subj = "la voce", predicate = "commands", obj = "Dante, Virgilio, Statio", lines = "62-62" },
+  { subj = "la voce", predicate = "warns", obj = "Dante, Virgilio, Statio", lines = "62-63" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-69"
+title = "The Upward Climb"
+location = "per entro 'l sasso"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "l'ombra", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio, Stazio", predicate = "guides", obj = "Dante", lines = "69-69" },
+]
+basis = "64-69"
+
+[[scene]]
+lines = "70-75"
+title = "The Evening Rest"
+location = "grado"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Statio", status = "mentioned" },
+]
+basis = "70-75"
+
+[[scene]]
+lines = "76-87"
+title = "The Simile of the Shepherds"
+location = "alta grotta"
+region = "là ove si montava"
+cast = [
+  { who = "pastor", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio, Stazio", predicate = "protects", obj = "Dante", lines = "86-86" },
+  { subj = "Dante", predicate = "compares", obj = "Virgilio, Stazio", lines = "86-86" },
+]
+simile = [
+  { lines = "80-80", vehicle = "Dante" },
+  { lines = "81-81", vehicle = "Dante" },
+  { lines = "84-84", vehicle = "mandrïan" },
+]
+basis = "76-87"
+
+[[scene]]
+lines = "88-93"
+title = "The Arrival of Sleep"
+location = "alta grotta"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "il sonno", predicate = "brings", obj = "Dante", lines = "92-92" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-108"
+title = "The Dream of Lia"
+location = "alta grotta"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Lia", status = "present" },
+  { who = "Rachel", status = "mentioned" },
+]
+speech = [
+  { quote_id = "27:100", lines = "100-108", speaker = "Lia", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Lia", lines = "97-98" },
+  { subj = "Lia", predicate = "speaks-to", obj = "Dante", lines = "99-99" },
+]
+basis = "94-108"
+
+[[scene]]
+lines = "109-114"
+title = "The Dawn of Awakening"
+location = "alta grotta"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio, Stazio", lines = "114-114" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "Virgil's Comforting Words"
+location = "alta grotta"
+region = "là ove si montava"
+cast = [
+  { who = "mortali", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "118-119" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-123"
+title = "The Impulse to Ascend"
+location = "alta grotta"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-132"
+title = "The Limit of Virgil's Guidance"
+location = "grado superno"
+region = "là ove si montava"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+speech = [
+  { quote_id = "27:127", lines = "127-142", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "126-126" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Beauty of the Paradise"
+location = "la terra"
+region = "la terra"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-142"
+title = "The Granting of Free Will"
+location = "la terra"
+region = "la terra"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "139-139" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "141-141" },
+  { subj = "Virgilio", predicate = "gives", obj = "Dante", lines = "142-142" },
+  { subj = "Dante", predicate = "relates-to", obj = "Dante", lines = "142-142" },
+]
+basis = "139-142"

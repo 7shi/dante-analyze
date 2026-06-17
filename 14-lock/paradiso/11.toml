@@ -1,0 +1,245 @@
+canticle = "paradiso"
+canto = 11
+
+[[scene]]
+lines = "1-9"
+title = "The Vanity of Earthly Pursuits"
+location = ""
+region = "ella"
+cast = [
+  { who = "mortali", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-12"
+title = "Memory of Celestial Glory"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Beatrice", lines = "11-11" },
+]
+basis = "10-12"
+
+[[scene]]
+lines = "13-27"
+title = "Beatrice's Clarification"
+location = "punto del cerchio"
+region = "ella"
+cohort = ["ciascuno"]
+cast = [
+  { who = "ciascuno", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
+  { who = "il secondo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Tommaso d'Aquino", lines = "16-16" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Dante", lines = "16-17" },
+  { subj = "Tommaso d'Aquino", predicate = "speaks-to", obj = "Dante", lines = "17-18" },
+  { subj = "Tommaso d'Aquino", predicate = "sees", obj = "Dante", lines = "20-21" },
+]
+basis = "13-27"
+
+[[scene]]
+lines = "28-36"
+title = "The Divine Plan for the Virgin"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "due principi", status = "mentioned" },
+]
+basis = "28-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Two Celestial Guides"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Francesco", status = "mentioned" },
+  { who = "Domenico", status = "mentioned" },
+  { who = "Tommaso", status = "mentioned" },
+  { who = "principe", status = "mentioned" },
+  { who = "un uomo", status = "mentioned" },
+]
+refer = [
+  { phrase = "uomo", line = 41, resolves = "un uomo" },
+]
+relations = [
+  { subj = "Tommaso", predicate = "relates-to", obj = "Francesco", lines = "40-40" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-54"
+title = "Geography of the Rising Sun"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Beato Ubaldo", status = "mentioned" },
+  { who = "Francesco", status = "mentioned" },
+]
+basis = "43-54"
+
+[[scene]]
+lines = "55-63"
+title = "The Virgin's Early Life"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Francesco d'Assisi", status = "mentioned" },
+  { who = "Maria", status = "mentioned" },
+  { who = "Dio Padre", status = "mentioned" },
+]
+refer = [
+  { phrase = "la morte", line = 59, resolves = "morte" },
+]
+simile = [
+  { lines = "59-59", vehicle = "morte" },
+]
+basis = "55-63"
+
+[[scene]]
+lines = "64-72"
+title = "The Sorrow of the Virgin"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Francesco", status = "mentioned" },
+  { who = "colui ch'a tutto 'l mondo fé paura", status = "mentioned" },
+  { who = "Amiclate", status = "mentioned" },
+]
+basis = "64-72"
+
+[[scene]]
+lines = "73-78"
+title = "The Introduction of Francis and Poverty"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Tommaso", status = "mentioned" },
+  { who = "Francesco", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Tommaso", predicate = "commands", obj = "Dante", lines = "74-75" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Joy of the Saints"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Bernardo", status = "present" },
+  { who = "Egidio", status = "present" },
+  { who = "Silvestro", status = "present" },
+  { who = "Francesco", status = "present" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-93"
+title = "Francis's Early Mission and Recognition"
+location = "punto del cerchio"
+region = "ella"
+cohort = ["quella famiglia"]
+cast = [
+  { who = "Francesco", status = "present" },
+  { who = "quella famiglia", status = "present" },
+  { who = "Pietro Bernardone", status = "mentioned" },
+  { who = "Innocenzio", status = "present" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-99"
+title = "The Growth of the Order"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "la gente poverella", status = "mentioned" },
+  { who = "Francesco", status = "mentioned" },
+  { who = "Onorio", status = "mentioned" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Martyrdom of Francis"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Soldan", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "li altri", status = "mentioned" },
+  { who = "Francesco", status = "mentioned" },
+  { who = "gente", status = "mentioned" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-117"
+title = "Francis's Final Testament"
+location = "punto del cerchio"
+region = "ella"
+cohort = ["frati suoi"]
+cast = [
+  { who = "Francesco", status = "present" },
+  { who = "frati suoi", status = "present" },
+  { who = "la donna sua più cara", status = "mentioned" },
+]
+relations = [
+  { subj = "frati suoi", predicate = "speaks-to", obj = "frati suoi", lines = "112-113" },
+  { subj = "frati suoi", predicate = "relates-to", obj = "la donna sua più cara", lines = "113-113" },
+  { subj = "frati suoi", predicate = "commands", obj = "frati suoi", lines = "114-114" },
+  { subj = "la donna sua più cara", predicate = "relates-to", obj = "Francesco", lines = "117-117" },
+]
+basis = "109-117"
+
+[[scene]]
+lines = "118-123"
+title = "The Pattern of the True Shepherd"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bonaventura", status = "mentioned" },
+  { who = "Pietro", status = "mentioned" },
+  { who = "qual segue lui", status = "mentioned" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-132"
+title = "The Wandering Sheep"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Bonaventura", status = "mentioned" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-139"
+title = "Beatrice's Final Exhortation"
+location = "punto del cerchio"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'ordine francescano", status = "mentioned" },
+  { who = "San Bonaventura", status = "mentioned" },
+  { who = "uno", status = "mentioned" },
+]
+basis = "133-139"

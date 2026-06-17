@@ -7,7 +7,7 @@ import sys
 
 from ._paths import (
     READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
-    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR,
+    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR, LOCK_DIR,
 )
 from .labels import fold_key
 
@@ -491,3 +491,22 @@ def load_kg(canticle):
         "edges": _load_kg_jsonl(canticle, "edges"),
         "speech_edges": _load_kg_jsonl(canticle, "speech_edges"),
     }
+
+
+def load_lock(canticle, canto):
+    """The context lock for a canto: {canticle, canto, scenes}, parsed from the per-canto
+    14-lock/<canticle>/NN.toml (exit if absent). `scenes` is the list of [[scene]] tables, each a
+    dict {lines, title, location, region, cohort, cast, speech, refer, relations, simile, basis}:
+    `cast` is [{who, status}]; `speech` is [{quote_id, lines, speaker, addressee, source}];
+    `refer`/`relations`/`simile` are present only when non-empty. Identity and setting only — never
+    the source's meaning. Built by 14-lock/lock.py (`make -C 14-lock`); see 14-lock/README.md."""
+    try:
+        import tomllib
+    except ModuleNotFoundError:  # Python < 3.11
+        import tomli as tomllib
+    path = LOCK_DIR / canticle / f"{canto:02d}.toml"
+    if not path.exists():
+        print(f"Error: lock not found: {path} (run 14-lock/lock.py first)", file=sys.stderr)
+        sys.exit(1)
+    doc = tomllib.loads(path.read_text(encoding="utf-8"))
+    return {"canticle": doc["canticle"], "canto": doc["canto"], "scenes": doc.get("scene", [])}

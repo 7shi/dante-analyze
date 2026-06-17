@@ -1,0 +1,312 @@
+canticle = "inferno"
+canto = 32
+
+[[scene]]
+lines = "1-12"
+title = "The Poet’s Prologue"
+location = ""
+region = "ripa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "la mamma", status = "mentioned" },
+  { who = "babbo", status = "mentioned" },
+  { who = "muse", status = "mentioned" },
+  { who = "Anfïone", status = "mentioned" },
+]
+refer = [
+  { phrase = "mamma", line = 9, resolves = "la mamma" },
+  { phrase = "Muse", line = 10, resolves = "muse" },
+  { phrase = "Muse", line = 11, resolves = "muse" },
+]
+relations = [
+  { subj = "lingua", predicate = "calls", obj = "la mamma", lines = "9-9" },
+  { subj = "lingua", predicate = "calls", obj = "babbo", lines = "9-9" },
+  { subj = "Dante", predicate = "calls", obj = "muse", lines = "10-10" },
+  { subj = "muse", predicate = "relates-to", obj = "Anfïone", lines = "11-11" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Descent into the Pit"
+location = "pozzo scuro"
+region = "pozzo scuro"
+cohort = ["plebe", "fratei miseri lassi"]
+cast = [
+  { who = "plebe", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Anteo", status = "present" },
+  { who = "fratei miseri lassi", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "plebe", lines = "13-13" },
+  { subj = "Dante", predicate = "addresses", obj = "plebe", lines = "15-15" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-30"
+title = "The Frozen Lake of Cocytus"
+location = "lago"
+region = "lago"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "relates-to", obj = "Dante", lines = "22-22" },
+]
+basis = "22-30"
+
+[[scene]]
+lines = "31-39"
+title = "The Sinners in the Ice"
+location = "ghiaccia"
+region = "lago"
+cohort = ["l'ombre dolenti"]
+cast = [
+  { who = "la villana", status = "mentioned" },
+  { who = "l'ombre dolenti", status = "present" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-51"
+title = "The Two Intertwined Sinners"
+location = "ghiaccia"
+region = "lago"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "due becchi", lines = "41-41" },
+  { subj = "Dante", predicate = "addresses", obj = "due becchi", lines = "43-43" },
+  { subj = "Dante", predicate = "asks", obj = "due becchi", lines = "44-44" },
+  { subj = "due becchi", predicate = "sees", obj = "Dante", lines = "45-45" },
+]
+simile = [
+  { lines = "50-50", vehicle = "due becchi" },
+]
+basis = "40-51"
+
+[[scene]]
+lines = "52-69"
+title = "The Deaf Sinner’s Revelation"
+location = "ghiaccia"
+region = "lago"
+cast = [
+  { who = "Camiscion de' Pazzi", status = "present" },
+  { who = "l'ombre", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "cotesti due", status = "present" },
+  { who = "Bisenzo", status = "mentioned" },
+  { who = "Alberto", status = "mentioned" },
+  { who = "l'ombra", status = "mentioned" },
+  { who = "quelli a cui fu rotto il petto", status = "mentioned" },
+  { who = "Artù", status = "mentioned" },
+  { who = "Sassol Mascheroni", status = "present" },
+  { who = "Carlin", status = "mentioned" },
+]
+speech = [
+  { quote_id = "32:54", lines = "54-69", speaker = "Camiscion de' Pazzi", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "ombre", line = 54, resolves = "l'ombre" },
+  { phrase = "un corpo", line = 58, resolves = "lo corpo" },
+]
+relations = [
+  { subj = "Camiscion de' Pazzi", predicate = "addresses", obj = "Dante", lines = "54-54" },
+  { subj = "Camiscion de' Pazzi", predicate = "asks", obj = "Dante", lines = "54-54" },
+  { subj = "Dante", predicate = "sees", obj = "l'ombre", lines = "54-54" },
+  { subj = "Camiscion de' Pazzi", predicate = "tells", obj = "Dante", lines = "55-57" },
+  { subj = "Sassol Mascheroni", predicate = "chases", obj = "Camiscion de' Pazzi", lines = "63-64" },
+  { subj = "Dante", predicate = "recognizes", obj = "Sassol Mascheroni", lines = "66-66" },
+  { subj = "Dante", predicate = "asks", obj = "Camiscion de' Pazzi", lines = "67-67" },
+]
+basis = "52-69"
+
+[[scene]]
+lines = "70-78"
+title = "Walking through the Frozen Multitude"
+location = "ghiaccia"
+region = "lago"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "70-78"
+
+[[scene]]
+lines = "79-84"
+title = "The Scolding Sinner"
+location = "ghiaccia"
+region = "lago"
+cohort = ["il peccatore"]
+cast = [
+  { who = "il peccatore", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "32:79", lines = "79-81", speaker = "il peccatore", addressee = "Dante", source = "llm" },
+  { quote_id = "32:82", lines = "82-84", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "il peccatore", predicate = "rebukes", obj = "Dante", lines = "79-79" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "82-82" },
+  { subj = "Dante", predicate = "commands", obj = "Virgilio", lines = "82-82" },
+  { subj = "Dante", predicate = "relates-to", obj = "il peccatore", lines = "83-83" },
+]
+basis = "79-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Verbal Dispute"
+location = "l'Antenora"
+region = "lago"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Ugolino", status = "present" },
+]
+speech = [
+  { quote_id = "32:91", lines = "91-91", speaker = "Dante", addressee = "Ugolino", source = "llm" },
+  { quote_id = "32:92", lines = "92-93", speaker = "Dante", addressee = "Ugolino", source = "llm" },
+  { quote_id = "32:94", lines = "94-96", speaker = "Ugolino", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Ugolino", lines = "85-85" },
+  { subj = "Dante", predicate = "asks", obj = "Ugolino", lines = "87-87" },
+  { subj = "Ugolino", predicate = "answers", obj = "Dante", lines = "88-88" },
+  { subj = "Dante", predicate = "answers", obj = "Ugolino", lines = "91-91" },
+  { subj = "Ugolino", predicate = "tells", obj = "Dante", lines = "94-94" },
+  { subj = "Ugolino", predicate = "commands", obj = "Dante", lines = "95-95" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-105"
+title = "The Physical Altercation"
+location = "l'Antenora"
+region = "lago"
+cohort = ["il peccatore"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "il peccatore", status = "present" },
+]
+speech = [
+  { quote_id = "32:100", lines = "100-102", speaker = "il peccatore", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "touches", obj = "il peccatore", lines = "97-97" },
+  { subj = "il peccatore", predicate = "answers", obj = "Dante", lines = "100-100" },
+  { subj = "Dante", predicate = "strikes", obj = "il peccatore", lines = "104-104" },
+]
+basis = "97-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Interruption by Bocca"
+location = "l'Antenora"
+region = "lago"
+cast = [
+  { who = "L'altro", status = "present" },
+  { who = "Bocca", status = "present" },
+  { who = "diavol", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "32:109B", lines = "109-111", speaker = "Dante", addressee = "Bocca", source = "llm" },
+  { quote_id = "32:112B", lines = "112-123", speaker = "Bocca", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "un altro", line = 106, resolves = "L'altro" },
+  { phrase = "un altro", line = 107, resolves = "L'altro" },
+  { phrase = "un altro", line = 108, resolves = "L'altro" },
+  { phrase = "un altro", line = 113, resolves = "L'altro" },
+]
+relations = [
+  { subj = "L'altro", predicate = "asks", obj = "Bocca", lines = "106-106" },
+  { subj = "L'altro", predicate = "names", obj = "Bocca", lines = "106-106" },
+  { subj = "L'altro", predicate = "rebukes", obj = "Bocca", lines = "107-107" },
+  { subj = "L'altro", predicate = "asks", obj = "Bocca", lines = "108-108" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Bocca", lines = "109-109" },
+  { subj = "Dante", predicate = "tells", obj = "Bocca", lines = "109-109" },
+  { subj = "Bocca", predicate = "answers", obj = "Dante", lines = "112-112" },
+  { subj = "Bocca", predicate = "commands", obj = "Dante", lines = "112-112" },
+  { subj = "Bocca", predicate = "tells", obj = "Dante", lines = "112-112" },
+  { subj = "Bocca", predicate = "commands", obj = "Dante", lines = "113-113" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-123"
+title = "The Catalog of Traitors"
+location = "l'Antenora"
+region = "lago"
+cast = [
+  { who = "il peccatore", status = "mentioned" },
+  { who = "Franceschi", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "i peccatori", status = "mentioned" },
+  { who = "Beccheria", status = "mentioned" },
+  { who = "Gianni de' Soldanier", status = "mentioned" },
+  { who = "Bocca", status = "present" },
+  { who = "Ganellone", status = "mentioned" },
+  { who = "Tebaldello", status = "mentioned" },
+]
+speech = [
+  { quote_id = "32:116A", lines = "116-116", speaker = "Dante", addressee = "Bocca", source = "code" },
+]
+relations = [
+  { subj = "Bocca", predicate = "tells", obj = "Dante", lines = "115-123" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-132"
+title = "The Biting Sinners"
+location = "l'Antenora"
+region = "lago"
+cohort = ["due ghiacciati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Bocca", status = "mentioned" },
+  { who = "due ghiacciati", status = "present" },
+  { who = "'l sovran", status = "present" },
+  { who = "Tidëo", status = "mentioned" },
+  { who = "Menalippo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "due ghiacciati", lines = "125-125" },
+  { subj = "'l sovran", predicate = "strikes", obj = "due ghiacciati", lines = "128-128" },
+]
+simile = [
+  { lines = "130-131", vehicle = "Menalippo" },
+  { lines = "132-132", vehicle = "Menalippo" },
+]
+basis = "124-132"
+
+[[scene]]
+lines = "133-139"
+title = "Dante’s Inquiry into Hatred"
+location = "l'Antenora"
+region = "lago"
+cohort = ["le due ombre"]
+cast = [
+  { who = "l'ombra che morde", status = "present" },
+  { who = "l'ombra morsa", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le due ombre", status = "present" },
+]
+speech = [
+  { quote_id = "32:135", lines = "135-139", speaker = "Dante", addressee = "l'ombra che morde", source = "llm" },
+]
+relations = [
+  { subj = "l'ombra che morde", predicate = "shows", obj = "l'ombra morsa", lines = "133-134" },
+  { subj = "l'ombra che morde", predicate = "defeats", obj = "l'ombra morsa", lines = "133-134" },
+  { subj = "Dante", predicate = "asks", obj = "l'ombra che morde", lines = "135-135" },
+  { subj = "Dante", predicate = "speaks-to", obj = "l'ombra che morde", lines = "139-139" },
+]
+basis = "133-139"

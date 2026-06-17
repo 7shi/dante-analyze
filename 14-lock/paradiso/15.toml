@@ -1,0 +1,393 @@
+canticle = "paradiso"
+canto = 15
+
+[[scene]]
+lines = "1-6"
+title = "The Nature of Divine Love"
+location = ""
+region = "ella"
+cast = []
+refer = [
+  { phrase = "l'amor", line = 1, resolves = "amor" },
+]
+relations = [
+  { subj = "amor", predicate = "relates-to", obj = "Benigna volontade", lines = "1-2" },
+]
+simile = [
+  { lines = "3-3", vehicle = "l'iniqua" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "The Impermanence of Earthly Desire"
+location = ""
+region = "ella"
+cast = [
+  { who = "quelle sustanze", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'anima", status = "mentioned" },
+]
+relations = [
+  { subj = "quelle sustanze", predicate = "gives", obj = "Dante", lines = "8-8" },
+  { subj = "Dante", predicate = "pleads-with", obj = "quelle sustanze", lines = "9-9" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-24"
+title = "The Passing Star"
+location = ""
+region = "ella"
+cast = []
+basis = "13-24"
+
+[[scene]]
+lines = "25-31"
+title = "The Arrival of the Shade"
+location = ""
+region = "ella"
+cast = [
+  { who = "Anchise", status = "present" },
+  { who = "maggior musa", status = "mentioned" },
+  { who = "Enea", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "addresses", obj = "Dante", lines = "28-28" },
+  { subj = "Cacciaguida", predicate = "asks", obj = "Dante", lines = "29-30" },
+  { subj = "Dante", predicate = "hears", obj = "Cacciaguida", lines = "31-31" },
+]
+simile = [
+  { lines = "26-27", vehicle = "Enea" },
+]
+basis = "25-31"
+
+[[scene]]
+lines = "32-36"
+title = "Dante's Joyful Confusion"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "32-32" },
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "34-34" },
+]
+basis = "32-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Difficulty of Divine Speech"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "mortal", status = "mentioned" },
+]
+refer = [
+  { phrase = "i mortal", line = 41, resolves = "mortal" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Cacciaguida", lines = "37-37" },
+  { subj = "Dante", predicate = "hears", obj = "Cacciaguida", lines = "37-37" },
+  { subj = "Dante", predicate = "relates-to", obj = "Cacciaguida", lines = "39-39" },
+  { subj = "Cacciaguida", predicate = "speaks-to", obj = "Dante", lines = "39-39" },
+  { subj = "Cacciaguida", predicate = "relates-to", obj = "Dante", lines = "40-40" },
+  { subj = "Cacciaguida", predicate = "relates-to", obj = "mortal", lines = "41-42" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-48"
+title = "The First Blessing"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-54"
+title = "Recognition of the Scholar"
+location = "questo lume"
+region = "ella"
+cohort = ["l'anima"]
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "l'anima", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+speech = [
+  { quote_id = "15:49", lines = "49-69", speaker = "Cacciaguida", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "speaks-to", obj = "Dante", lines = "49-49" },
+  { subj = "Cacciaguida", predicate = "speaks-to", obj = "Dante", lines = "53-53" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-60"
+title = "The Equality of Spirits"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "primo", status = "mentioned" },
+  { who = "general human soul/observer", status = "mentioned" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "tells", obj = "Dante", lines = "55-60" },
+  { subj = "Cacciaguida", predicate = "commands", obj = "Dante", lines = "59-59" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-69"
+title = "The Mirror of Thought"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i minori", status = "mentioned" },
+  { who = "grandi", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "tells", obj = "Dante", lines = "61-61" },
+  { subj = "Cacciaguida", predicate = "relates-to", obj = "l sacro amore", lines = "64-64" },
+  { subj = "l sacro amore", predicate = "gives", obj = "Cacciaguida", lines = "65-66" },
+  { subj = "Cacciaguida", predicate = "commands", obj = "Dante", lines = "67-68" },
+]
+basis = "61-69"
+
+[[scene]]
+lines = "70-72"
+title = "Beatrice's Silent Encouragement"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "70-70" },
+  { subj = "Beatrice", predicate = "hears", obj = "Dante", lines = "70-71" },
+  { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "71-71" },
+]
+basis = "70-72"
+
+[[scene]]
+lines = "73-78"
+title = "Dante's Philosophical Inquiry"
+location = "questo lume"
+region = "ella"
+cohort = ["anime"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "present" },
+]
+speech = [
+  { quote_id = "15:73", lines = "73-87", speaker = "Dante", addressee = "anime", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "anime", lines = "73-78" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-87"
+title = "A Request for Knowledge"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "mortali", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Cacciaguida", lines = "79-87" },
+  { subj = "Dante", predicate = "praises", obj = "Cacciaguida", lines = "83-84" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Cacciaguida", lines = "85-85" },
+]
+basis = "79-87"
+
+[[scene]]
+lines = "88-90"
+title = "The Ancestral Connection"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+]
+speech = [
+  { quote_id = "15:88", lines = "88-89", speaker = "Cacciaguida", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "addresses", obj = "Dante", lines = "88-88" },
+  { subj = "Cacciaguida", predicate = "answers", obj = "Dante", lines = "90-90" },
+]
+basis = "88-90"
+
+[[scene]]
+lines = "91-96"
+title = "The Mandate of Works"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "bisavol", status = "mentioned" },
+]
+speech = [
+  { quote_id = "15:91", lines = "91-148", speaker = "Cacciaguida", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Cacciaguida", predicate = "speaks-to", obj = "Dante", lines = "91-91" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Virtue of Ancient Florence"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "persona", status = "mentioned" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Modesty of Old Households"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "la figlia", status = "mentioned" },
+  { who = "al padre", status = "mentioned" },
+  { who = "Sardanapalo", status = "mentioned" },
+  { who = "persona", status = "mentioned" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-111"
+title = "The Omen of Decline"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Uccellato", status = "mentioned" },
+]
+basis = "109-111"
+
+[[scene]]
+lines = "112-117"
+title = "The Corruption of Modernity"
+location = "questo lume"
+region = "ella"
+cohort = ["le sue donne"]
+cast = [
+  { who = "Bellincion Berti", status = "present" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "la donna sua", status = "present" },
+  { who = "quel d'i Nerli", status = "present" },
+  { who = "quel del Vecchio", status = "present" },
+  { who = "le sue donne", status = "present" },
+]
+basis = "112-117"
+
+[[scene]]
+lines = "118-120"
+title = "The Stability of the Past"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "i fiorentini", status = "mentioned" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-126"
+title = "Traditional Domestic Life"
+location = "questo lume"
+region = "ella"
+cohort = ["le donne", "la sua famiglia"]
+cast = [
+  { who = "le donne", status = "present" },
+  { who = "i padri", status = "mentioned" },
+  { who = "le madri", status = "mentioned" },
+  { who = "la sua famiglia", status = "present" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-129"
+title = "The Greatness of Ancestors"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Cianghella", status = "mentioned" },
+  { who = "Lapo Salterello", status = "mentioned" },
+  { who = "Cincinnato", status = "mentioned" },
+  { who = "Corniglia", status = "mentioned" },
+]
+basis = "127-129"
+
+[[scene]]
+lines = "130-133"
+title = "The Arrival of Mary"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Maria", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+]
+basis = "130-133"
+
+[[scene]]
+lines = "134-138"
+title = "The Lineage of Cacciaguida"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "Moronto", status = "mentioned" },
+  { who = "Eliseo", status = "mentioned" },
+  { who = "Maria", status = "mentioned" },
+]
+basis = "134-138"
+
+[[scene]]
+lines = "139-141"
+title = "Service to the Emperor"
+location = "questo lume"
+region = "ella"
+cast = [
+  { who = "Cacciaguida", status = "present" },
+  { who = "lo 'mperador Currado", status = "present" },
+]
+basis = "139-141"
+
+[[scene]]
+lines = "142-148"
+title = "Martyrdom and Peace"
+location = "questa pace"
+region = "ella"
+cast = [
+  { who = "Corrado", status = "mentioned" },
+  { who = "Cacciaguida", status = "present" },
+  { who = "pastor", status = "mentioned" },
+  { who = "molt' anime", status = "mentioned" },
+]
+basis = "142-148"

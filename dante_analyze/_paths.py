@@ -18,3 +18,4 @@ PRESENCE_DIR = ROOT_DIR / "11-presence"  # presence.py writes 11-presence/<canti
 ADDRESSEE_DIR = ROOT_DIR / "12-addressee"  # addressee.py writes 12-addressee/<canticle>/NN.txt
 COHORT_DIR = ROOT_DIR / "13-cohort"        # cohort.py writes 13-cohort/<canticle>/NN.txt (per-scene);
                                            # rollup.py writes 13-cohort/<canticle>.txt (per-region)
+LOCK_DIR = ROOT_DIR / "14-lock"            # lock.py writes 14-lock/<canticle>/NN.toml (per-canto)

@@ -1,0 +1,437 @@
+canticle = "inferno"
+canto = 12
+
+[[scene]]
+lines = "1-15"
+title = "The Ruin and the Minotaur"
+location = "lo loco ov' a scender la riva venimmo"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Minotauro", status = "present" },
+  { who = "la falsa vacca", status = "mentioned" },
+  { who = "quei cui l'ira dentro fiacca", status = "mentioned" },
+]
+relations = [
+  { subj = "Minotauro", predicate = "sees", obj = "Dante, Virgilio", lines = "14-14" },
+  { subj = "Minotauro", predicate = "strikes", obj = "Minotauro", lines = "14-14" },
+]
+basis = "1-15"
+
+[[scene]]
+lines = "16-21"
+title = "Virgil's Rebuke"
+location = "lo loco ov' a scender la riva venimmo"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Minotauro", status = "present" },
+  { who = "Teseo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "la tua sorella", status = "mentioned" },
+]
+refer = [
+  { phrase = "la morte", line = 18, resolves = "morte" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Minotauro", lines = "16-16" },
+  { subj = "Virgilio", predicate = "commands", obj = "Minotauro", lines = "19-19" },
+  { subj = "Virgilio", predicate = "names", obj = "Minotauro", lines = "19-19" },
+]
+basis = "16-21"
+
+[[scene]]
+lines = "22-27"
+title = "The Frenzy of the Bull"
+location = "lo loco ov' a scender la riva venimmo"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Minotauro", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Minotauro", lines = "25-25" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "26-26" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "27-27" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-30"
+title = "The Descent"
+location = "lo scarco di quelle pietre"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "28-30"
+
+[[scene]]
+lines = "31-45"
+title = "The Earthquake and the Fall"
+location = "lo scarco di quelle pietre"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Lucifero", status = "mentioned" },
+  { who = "chi creda", status = "mentioned" },
+]
+speech = [
+  { quote_id = "12:31", lines = "31-48", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "31-31" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "34-34" },
+]
+basis = "31-45"
+
+[[scene]]
+lines = "46-48"
+title = "The River of Blood"
+location = "lo scarco di quelle pietre"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "46-48"
+
+[[scene]]
+lines = "49-51"
+title = "Dante's Moral Reflection"
+location = "lo scarco di quelle pietre"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-57"
+title = "The Centaurs' Patrol"
+location = "lo scarco di quelle pietre"
+region = "lo loco ov' a scender la riva venimmo"
+cohort = ["centauri"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "centauri", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "centauri", lines = "55-56" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "54-54" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-63"
+title = "The Centaurs' Challenge"
+location = "la costa"
+region = "lo loco ov' a scender la riva venimmo"
+cohort = ["schiera"]
+cast = [
+  { who = "schiera", status = "present" },
+  { who = "centauri", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "un centauro", status = "present" },
+]
+speech = [
+  { quote_id = "12:61", lines = "61-63", speaker = "un centauro", addressee = "Virgilio", source = "llm" },
+]
+refer = [
+  { phrase = "la schiera", line = 58, resolves = "schiera" },
+  { phrase = "Centauro", line = 61, resolves = "un centauro" },
+  { phrase = "Centauro", line = 63, resolves = "un centauro" },
+  { phrase = "Centauri", line = 63, resolves = "centauri" },
+]
+relations = [
+  { subj = "schiera", predicate = "sees", obj = "Dante, Virgilio", lines = "58-58" },
+  { subj = "un centauro", predicate = "asks", obj = "Dante, Virgilio", lines = "61-62" },
+  { subj = "un centauro", predicate = "commands", obj = "Dante, Virgilio", lines = "63-63" },
+]
+basis = "58-63"
+
+[[scene]]
+lines = "64-66"
+title = "Virgil's Strategy"
+location = "la costa"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Chirón", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "rebukes", obj = "Chirón", lines = "66-66" },
+]
+basis = "64-66"
+
+[[scene]]
+lines = "67-72"
+title = "Identification of the Centaurs"
+location = "la costa"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Nesso", status = "present" },
+  { who = "Deianira", status = "mentioned" },
+  { who = "Chirón", status = "present" },
+  { who = "Achille", status = "mentioned" },
+  { who = "Folo", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "67-67" },
+  { subj = "Dante", predicate = "sees", obj = "Chirón", lines = "70-70" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-75"
+title = "The Rain of Arrows"
+location = "la costa"
+region = "lo loco ov' a scender la riva venimmo"
+cohort = ["l'anima"]
+cast = [
+  { who = "centauri", status = "present" },
+  { who = "l'anima", status = "present" },
+]
+refer = [
+  { phrase = "Centauri", line = 74, resolves = "centauri" },
+  { phrase = "anima", line = 74, resolves = "l'anima" },
+]
+basis = "73-75"
+
+[[scene]]
+lines = "76-79"
+title = "The Inspection"
+location = "la costa"
+region = "lo loco ov' a scender la riva venimmo"
+cohort = ["centauri"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "centauri", status = "present" },
+  { who = "Chirón", status = "present" },
+]
+refer = [
+  { phrase = "i Centauri", line = 76, resolves = "centauri" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "centauri", lines = "76-76" },
+]
+basis = "76-79"
+
+[[scene]]
+lines = "80-82"
+title = "Chiron's Suspicion"
+location = "la costa"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Chirone", status = "present" },
+  { who = "Nesso", status = "present" },
+  { who = "Folo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i morti", status = "mentioned" },
+]
+relations = [
+  { subj = "Chirone", predicate = "speaks-to", obj = "Nesso, Folo", lines = "80-80" },
+]
+basis = "80-82"
+
+[[scene]]
+lines = "83-96"
+title = "Virgil's Plea for Passage"
+location = "selvaggia strada"
+region = "lo loco ov' a scender la riva venimmo"
+cohort = ["un centauro"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Chirone", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "un centauro", status = "present" },
+]
+speech = [
+  { quote_id = "12:85", lines = "85-96", speaker = "Virgilio", addressee = "Chirone", source = "llm" },
+]
+refer = [
+  { phrase = "un Centauro", line = 93, resolves = "un centauro" },
+  { phrase = "un Centauro", line = 94, resolves = "un centauro" },
+  { phrase = "un Centauro", line = 95, resolves = "un centauro" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "relates-to", obj = "Chirone", lines = "83-83" },
+  { subj = "Virgilio", predicate = "answers", obj = "Chirone", lines = "85-85" },
+  { subj = "the journey/the act of descent", predicate = "relates-to", obj = "Dante, Virgilio", lines = "87-87" },
+  { subj = "Virgilio", predicate = "asks", obj = "Chirone", lines = "93-93" },
+  { subj = "Chirone", predicate = "relates-to", obj = "Dante, Virgilio", lines = "93-93" },
+]
+basis = "83-96"
+
+[[scene]]
+lines = "97-99"
+title = "The Order to Guide"
+location = "selvaggia strada"
+region = "lo loco ov' a scender la riva venimmo"
+cast = [
+  { who = "Chirone", status = "present" },
+  { who = "Nesso", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "altra schiera", status = "mentioned" },
+]
+basis = "97-99"
+
+[[scene]]
+lines = "100-102"
+title = "The Boiling Blood"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cohort = ["i bolliti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Nesso", status = "mentioned" },
+  { who = "i bolliti", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "follows", obj = "Nesso", lines = "100-100" },
+]
+basis = "100-102"
+
+[[scene]]
+lines = "103-112"
+title = "The Tyrants in the Blood"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cohort = ["tiranni"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Nesso", status = "present" },
+  { who = "tiranni", status = "present" },
+  { who = "Alessandro", status = "present" },
+  { who = "Dïonisio", status = "present" },
+  { who = "Cicilia", status = "mentioned" },
+  { who = "Azzolino", status = "present" },
+  { who = "Opizzo da Esti", status = "present" },
+  { who = "figliastro", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "tiranni", lines = "103-103" },
+  { subj = "Nesso", predicate = "speaks-to", obj = "Dante", lines = "104-104" },
+  { subj = "Nesso", predicate = "names", obj = "tiranni", lines = "104-105" },
+  { subj = "Nesso", predicate = "names", obj = "Alessandro", lines = "107-107" },
+  { subj = "Nesso", predicate = "names", obj = "Dïonisio", lines = "107-107" },
+  { subj = "Nesso", predicate = "names", obj = "Azzolino", lines = "109-110" },
+  { subj = "Nesso", predicate = "names", obj = "Opizzo da Esti", lines = "110-111" },
+]
+basis = "103-112"
+
+[[scene]]
+lines = "113-114"
+title = "Dante's Turn"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Nesso", status = "present" },
+]
+speech = [
+  { quote_id = "12:114", lines = "114-114", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+basis = "113-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Shadow of the Thames"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cohort = ["gente", "un'ombra"]
+cast = [
+  { who = "Nesso", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "un'ombra", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+refer = [
+  { phrase = "una gente", line = 115, resolves = "gente" },
+]
+relations = [
+  { subj = "Nesso", predicate = "meets", obj = "gente", lines = "115-116" },
+  { subj = "Nesso", predicate = "shows", obj = "un'ombra", lines = "118-118" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-123"
+title = "The Severed Heads"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "121-121" },
+  { subj = "Dante", predicate = "recognizes", obj = "gente", lines = "123-123" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Rising Tide"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cast = []
+basis = "124-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Depths of Tyranny"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Nesso", status = "present" },
+]
+speech = [
+  { quote_id = "12:129", lines = "129-138", speaker = "Nesso", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Nesso", predicate = "speaks-to", obj = "Dante", lines = "127-129" },
+  { subj = "Nesso", predicate = "tells", obj = "Dante", lines = "129-132" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Scourge of Attila"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cast = [
+  { who = "Attila", status = "present" },
+  { who = "Pirro", status = "present" },
+  { who = "Sesto", status = "present" },
+  { who = "Rinier da Corneto", status = "present" },
+  { who = "Rinier Pazzo", status = "present" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-139"
+title = "Departure"
+location = "la proda del bollor vermiglio"
+region = "la proda del bollor vermiglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Nesso", status = "mentioned" },
+]
+basis = "139-139"

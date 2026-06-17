@@ -1,0 +1,315 @@
+canticle = "purgatorio"
+canto = 15
+
+[[scene]]
+lines = "1-6"
+title = "The Setting of the Hour"
+location = ""
+region = "cornice"
+cast = []
+simile = [
+  { lines = "2-3", vehicle = "la spera" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The Blinding Light"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-24"
+title = "The Metaphor of Refraction"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-33"
+title = "The Angel's Reassurance"
+location = ""
+region = "cornice"
+cohort = ["messo"]
+cast = [
+  { who = "messo", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "un uomo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "15:25", lines = "25-26", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+]
+refer = [
+  { phrase = "uomo", line = 30, resolves = "un uomo" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "25-27" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "28-28" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "29-29" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-39"
+title = "Arrival at the Stairway"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "angel benedetto", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "angel benedetto", lines = "34-34" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-45"
+title = "Dante's Query on Political Terms"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Aglauro", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "43-43" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "43-45" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-57"
+title = "The Paradox of Divine Distribution"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Aglauro", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "l'antico avversario", status = "mentioned" },
+  { who = "i beati", status = "mentioned" },
+]
+relations = [
+  { subj = "Aglauro", predicate = "speaks-to", obj = "Dante", lines = "46-46" },
+]
+basis = "46-57"
+
+[[scene]]
+lines = "58-72"
+title = "The Nature of Divine Love"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "più posseditor", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "15:58", lines = "58-58", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "15:59", lines = "59-63", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "61-63" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "64-72" },
+  { subj = "Virgilio", predicate = "rebukes", obj = "Dante", lines = "64-66" },
+]
+basis = "58-72"
+
+[[scene]]
+lines = "73-78"
+title = "The Promise of Beatrice"
+location = ""
+region = "cornice"
+cast = [
+  { who = "quanta gente", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+]
+basis = "73-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Closing of the Wounds"
+location = ""
+region = "cornice"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-93"
+title = "The Vision of the Mother"
+location = "l'altro girone"
+region = "l'altro girone"
+cohort = ["persone"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "persone", status = "present" },
+  { who = "la madre", status = "present" },
+  { who = "lo tuo padre", status = "present" },
+]
+speech = [
+  { quote_id = "15:82", lines = "82-82", speaker = "Dante", addressee = "la madre", source = "llm" },
+  { quote_id = "15:89", lines = "89-92", speaker = "la madre", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "madre", line = 88, resolves = "la madre" },
+  { phrase = "madre", line = 89, resolves = "la madre" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "persone", lines = "87-87" },
+  { subj = "la madre", predicate = "addresses", obj = "Dante", lines = "88-89" },
+  { subj = "la madre", predicate = "asks", obj = "Dante", lines = "89-90" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-101"
+title = "The Vision of the Trojan Widow"
+location = "l'altro girone"
+region = "l'altro girone"
+cohort = ["un'altra"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un'altra", status = "present" },
+  { who = "ne' dèi", status = "mentioned" },
+  { who = "nostra figlia", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "un'altra", lines = "94-94" },
+  { subj = "'l dolor", predicate = "punishes", obj = "un'altra", lines = "95-95" },
+  { subj = "un'altra", predicate = "asks", obj = "Dante", lines = "97-97" },
+  { subj = "un'altra", predicate = "addresses", obj = "Dante", lines = "97-97" },
+  { subj = "un'altra", predicate = "commands", obj = "Dante", lines = "100-100" },
+  { subj = "un'altra", predicate = "relates-to", obj = "nostra figlia", lines = "101-101" },
+  { subj = "un'altra", predicate = "names", obj = "Dante", lines = "101-101" },
+]
+basis = "94-101"
+
+[[scene]]
+lines = "102-105"
+title = "The Lord's Gentle Response"
+location = "l'altro girone"
+region = "l'altro girone"
+cast = [
+  { who = "Pisistrato", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "la donna troiana", status = "present" },
+  { who = "i Troiani", status = "mentioned" },
+  { who = "i Greci", status = "mentioned" },
+  { who = "quei che ci ama", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Pisistrato", lines = "102-102" },
+  { subj = "Pisistrato", predicate = "answers", obj = "la donna troiana", lines = "102-103" },
+]
+basis = "102-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Vision of the Martyr"
+location = "l'altro girone"
+region = "l'altro girone"
+cohort = ["un giovinetto"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "le genti", status = "present" },
+  { who = "un giovinetto", status = "present" },
+  { who = "l'alto Sire", status = "mentioned" },
+]
+refer = [
+  { phrase = "genti", line = 106, resolves = "le genti" },
+  { phrase = "genti", line = 108, resolves = "le genti" },
+  { phrase = "genti", line = 113, resolves = "le genti" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "le genti", lines = "106-106" },
+  { subj = "le genti", predicate = "strikes", obj = "un giovinetto", lines = "106-107" },
+  { subj = "le genti", predicate = "calls", obj = "un giovinetto", lines = "108-108" },
+  { subj = "un giovinetto", predicate = "pleads-with", obj = "l'alto Sire", lines = "112-112" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-123"
+title = "Return to Consciousness"
+location = "l'altro girone"
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "om", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "118-118" },
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "120-120" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "121-123" },
+]
+simile = [
+  { lines = "119-119", vehicle = "om" },
+]
+basis = "115-123"
+
+[[scene]]
+lines = "124-126"
+title = "Dante's Report"
+location = "l'altro girone"
+region = "l'altro girone"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "15:124", lines = "124-125", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "15:125", lines = "125-126", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "124-124" },
+  { subj = "Virgilio", predicate = "hears", obj = "Dante", lines = "124-124" },
+  { subj = "Dante", predicate = "tells", obj = "Virgilio", lines = "125-125" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "125-125" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-138"
+title = "Virgil's Explanation of the Trance"
+location = "l'altro girone"
+region = "l'altro girone"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "chi guarda pur con l'occhio che non vede", status = "mentioned" },
+  { who = "i pigri, lenti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "15:127", lines = "127-138", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "127-138" },
+]
+basis = "127-138"
+
+[[scene]]
+lines = "139-145"
+title = "The Encroaching Darkness"
+location = "l'altro girone"
+region = "l'altro girone"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "139-145"

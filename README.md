@@ -33,7 +33,11 @@ measured against — not a shortcut poured in.
 - `11-presence/` — present cast versus merely-mentioned referents per scene (committed)
 - `12-addressee/` — addressee per speech span: who each speaker is talking to (committed)
 - `13-cohort/` — which class of souls dwells in each scene, with a per-region rollup (committed)
-- `ref/` — reference material
+- `14-lock/` — the per-scene translation context lock: a pure-code join of all layers plus the KG (committed)
+- `ref/` — hand-written reference material, kept as an evaluation anchor (per "Premise": a reference
+  is for evaluation, never an input): `inferno-01.toml`, a full hand-built Inferno 1 lock the
+  generated `14-lock` is compared against structurally, and `PLAN.md`, the parked design sketch the
+  built lock refines
 
 ## Usage
 
@@ -115,11 +119,19 @@ The speaker/edge data is intended to feed the translation context lock (`dante-d
 
 ## Context lock
 
+The context lock is a per-scene **identity-and-setting record** that fixes what a translation or
+digest must not get wrong — where the scene is set, which class of souls dwells there, who is
+present versus merely mentioned, who speaks and is addressed, and who/what each referring expression
+resolves to. Identity and setting **only**: never the source's meaning or a paraphrase. Each scene
+carries its line range as a verifiable `basis` anchor.
+
 The KG is action-only (who-does-what); it carries no **setting**, nor who is bodily present versus
-merely named, nor who each speech span is addressed to, nor which class of souls dwells in a place. A
-context-lock layer supplies those missing layers, built bottom-up from the text (no external
-geography or canon). Five passes are committed for all three canticles (100 cantos); per-pass design
-and measured results are in each subdir's `README.md`:
+merely named, nor who each speech span is addressed to, nor which class of souls dwells in a place.
+The context lock supplies those missing layers, built bottom-up from the text (no external geography
+or canon), mirroring the person pipeline (`04-tags` surface → `05-registry` canonical) applied to
+places — **one judgment per pass**, so judgments never contaminate each other. Six passes are
+committed for all three canticles (100 cantos); per-pass design and measured results are in each
+subdir's `README.md`:
 
 1. **Location** (`09-location/`, LLM) — each scene's current physical setting in the source's own
    place-words, current-setting-only (a merely named, recalled, or compared place is excluded), with
@@ -142,8 +154,13 @@ and measured results are in each subdir's `README.md`:
    resident class(es) only when ≥2 remain. `rollup.py` (pure code) then folds the per-scene cohorts
    onto the `10-topography` regions. The narrative-state analogue of topography. → `13-cohort/README.md`
 
-The one remaining pass — a final code join of all layers plus the KG into the per-canto lock — is
-planned in `PLAN.md`.
+6. **Lock** (`14-lock/`, pure code, no LLM) — the final join: per-canto TOML, one `[[scene]]` table
+   per scene, gathering all five layers plus the KG (`08-kg`) into a per-scene identity-and-setting
+   record — `location`, `region`, `cohort`, `cast` (present/mentioned), `speech`
+   (speaker/addressee), and the KG's resolved `refer`/`relations`/`simile`. A structural check
+   guards scene coverage, region totality, and basis ranges. → `14-lock/README.md`
+
+This completes the translation context lock; see `PLAN.md` for the remaining directions (digest, deferred quality work).
 
 ## Downstream Projects
 

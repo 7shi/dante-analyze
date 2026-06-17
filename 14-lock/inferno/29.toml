@@ -1,0 +1,264 @@
+canticle = "inferno"
+canto = 29
+
+[[scene]]
+lines = "1-12"
+title = "Virgil's Reprimand"
+location = ""
+region = "piè del ponte"
+cohort = ["molta gente"]
+cast = [
+  { who = "molta gente", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "La molta gente", line = 1, resolves = "molta gente" },
+  { phrase = "La molta gente", line = 5, resolves = "molta gente" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "molta gente", lines = "1-2" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "4-4" },
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "4-4" },
+  { subj = "Virgilio", predicate = "asks", obj = "Dante", lines = "5-6" },
+  { subj = "Virgilio", predicate = "rebukes", obj = "Dante", lines = "7-7" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "8-8" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "12-12" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Memory of Geri"
+location = ""
+region = "piè del ponte"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Geri", status = "mentioned" },
+]
+speech = [
+  { quote_id = "29:14", lines = "14-15", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "29:18", lines = "18-21", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "13-13" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "16-16" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "17-17" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-36"
+title = "Reflection on Violent Death"
+location = ""
+region = "piè del ponte"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Geri del Bello", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Bertram dal Bornio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "29:22", lines = "22-30", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "29:33", lines = "33-36", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "22-22" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "31-32" },
+]
+basis = "22-36"
+
+[[scene]]
+lines = "37-51"
+title = "Arrival at the Tenth Ditch"
+location = ""
+region = "piè del ponte"
+cohort = ["i suoi conversi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "i suoi conversi", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "i suoi conversi", lines = "40-42" },
+  { subj = "i suoi conversi", predicate = "strikes", obj = "Dante", lines = "43-43" },
+]
+basis = "37-51"
+
+[[scene]]
+lines = "52-66"
+title = "The Toxic Atmosphere"
+location = "ultima riva del lungo scoglio"
+region = "ultima riva del lungo scoglio"
+cohort = ["i falsador"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "la ministra", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "i falsador", status = "present" },
+  { who = "le genti antiche", status = "mentioned" },
+  { who = "i poeti", status = "mentioned" },
+]
+relations = [
+  { subj = "la ministra", predicate = "relates-to", obj = "Dio", lines = "55-56" },
+  { subj = "la ministra", predicate = "punishes", obj = "i falsador", lines = "57-57" },
+  { subj = "Dante", predicate = "sees", obj = "la ministra", lines = "54-57" },
+  { subj = "Dante", predicate = "sees", obj = "i falsador", lines = "54-57" },
+  { subj = "Dante", predicate = "sees", obj = "i falsador", lines = "65-66" },
+]
+simile = [
+  { lines = "58-66", vehicle = "le genti antiche" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Condition of the Damned"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cohort = ["li ammalati"]
+cast = [
+  { who = "li ammalati", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "sees", obj = "li ammalati", lines = "71-71" },
+  { subj = "Dante, Virgilio", predicate = "hears", obj = "li ammalati", lines = "71-71" },
+  { subj = "li ammalati", predicate = "relates-to", obj = "li ammalati", lines = "72-72" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-84"
+title = "The Agony of the Itch"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cohort = ["I falsari"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "I falsari", status = "present" },
+  { who = "ragazzo", status = "mentioned" },
+  { who = "segnorso", status = "mentioned" },
+  { who = "colui che mal volontier vegghia", status = "mentioned" },
+]
+refer = [
+  { phrase = "falsari", line = 73, resolves = "I falsari" },
+  { phrase = "falsari", line = 79, resolves = "I falsari" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "I falsari", lines = "73-73" },
+  { subj = "I falsari", predicate = "touches", obj = "I falsari", lines = "73-73" },
+  { subj = "I falsari", predicate = "strikes", obj = "I falsari", lines = "79-80" },
+]
+simile = [
+  { lines = "76-77", vehicle = "ragazzo" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-96"
+title = "The Greeting to the Souls"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cohort = ["alcun Latino", "quinc' entro"]
+cast = [
+  { who = "Latino", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "alcun Latino", status = "present" },
+  { who = "quinc' entro", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "29:94", lines = "94-96", speaker = "Virgilio", addressee = "Latino", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Latino", lines = "85-86" },
+  { subj = "Virgilio", predicate = "asks", obj = "Latino", lines = "87-90" },
+  { subj = "Latino", predicate = "answers", obj = "Virgilio", lines = "91-92" },
+  { subj = "Latino", predicate = "asks", obj = "Virgilio", lines = "93-93" },
+  { subj = "Virgilio", predicate = "answers", obj = "Latino", lines = "94-96" },
+]
+basis = "85-96"
+
+[[scene]]
+lines = "97-108"
+title = "The Inquiry of the Living"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cohort = ["I falsari"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "I falsari", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "29:103", lines = "103-108", speaker = "Dante", addressee = "I falsari", source = "llm" },
+]
+relations = [
+  { subj = "I falsari", predicate = "sees", obj = "Dante", lines = "98-98" },
+  { subj = "Virgilio", predicate = "meets", obj = "Dante", lines = "100-100" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "101-101" },
+  { subj = "Dante", predicate = "asks", obj = "I falsari", lines = "106-106" },
+]
+basis = "97-108"
+
+[[scene]]
+lines = "109-120"
+title = "The Tale of the Alchemist"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cohort = ["l'un"]
+cast = [
+  { who = "l'un", status = "present" },
+  { who = "Minòs", status = "mentioned" },
+]
+speech = [
+  { quote_id = "29:109", lines = "109-109", speaker = "l'un", addressee = "(none)", source = "none" },
+  { quote_id = "29:110", lines = "110-120", speaker = "l'un", addressee = "(none)", source = "none" },
+  { quote_id = "29:113", lines = "113-113", speaker = "l'un", addressee = "(none)", source = "none" },
+]
+basis = "109-120"
+
+[[scene]]
+lines = "121-123"
+title = "Dante's Sienese Jibe"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Francesca", status = "mentioned" },
+]
+refer = [
+  { phrase = "la francesca", line = 123, resolves = "Francesca" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "121-122" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-139"
+title = "The Testimony of Capocchio"
+location = "lo tristo calle"
+region = "ultima riva del lungo scoglio"
+cast = [
+  { who = "Capocchio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Stricca", status = "mentioned" },
+  { who = "Niccolò", status = "mentioned" },
+  { who = "la brigata", status = "mentioned" },
+  { who = "l'Abbagliato", status = "mentioned" },
+  { who = "i Sanesi", status = "mentioned" },
+]
+speech = [
+  { quote_id = "29:125", lines = "125-139", speaker = "Capocchio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Capocchio", predicate = "hears", obj = "Dante", lines = "124-124" },
+  { subj = "Capocchio", predicate = "answers", obj = "Dante", lines = "125-125" },
+]
+basis = "124-139"

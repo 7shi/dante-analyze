@@ -1,0 +1,311 @@
+canticle = "purgatorio"
+canto = 28
+
+[[scene]]
+lines = "1-6"
+title = "Departure into the Forest"
+location = "la riva"
+region = "la terra"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "The Gentle Breeze"
+location = "la riva"
+region = "la terra"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-21"
+title = "The Singing Birds"
+location = "la riva"
+region = "la terra"
+cast = [
+  { who = "Ëolo", status = "mentioned" },
+]
+basis = "13-21"
+
+[[scene]]
+lines = "22-27"
+title = "Entering the Deep Woods"
+location = "selva antica"
+region = "selva antica"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "22-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Dark Stream"
+location = "selva antica"
+region = "rio"
+cast = []
+basis = "28-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Sight of the Lady"
+location = "selva antica"
+region = "rio"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-48"
+title = "Dante's Invitation"
+location = "la sua via"
+region = "di là dal fiumicello"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "28:43", lines = "43-46", speaker = "Dante", addressee = "Matelda", source = "code" },
+  { quote_id = "28:47", lines = "47-51", speaker = "Dante", addressee = "Matelda", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Matelda", lines = "47-47" },
+]
+basis = "40-48"
+
+[[scene]]
+lines = "49-51"
+title = "A Mythological Comparison"
+location = "la sua via"
+region = "di là dal fiumicello"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Proserpina", status = "mentioned" },
+  { who = "Cerere", status = "mentioned" },
+]
+relations = [
+  { subj = "Matelda", predicate = "relates-to", obj = "Dante", lines = "49-49" },
+  { subj = "Dante", predicate = "relates-to", obj = "Proserpina", lines = "49-50" },
+]
+simile = [
+  { lines = "49-50", vehicle = "Proserpina" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-60"
+title = "The Lady's Modest Approach"
+location = "la sua via"
+region = "di là dal fiumicello"
+cohort = ["fioretti"]
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "fioretti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "vergine", status = "mentioned" },
+]
+relations = [
+  { subj = "Matelda", predicate = "sees", obj = "Dante", lines = "56-56" },
+  { subj = "Matelda", predicate = "meets", obj = "Dante", lines = "59-60" },
+  { subj = "Dante", predicate = "hears", obj = "Matelda", lines = "59-60" },
+]
+simile = [
+  { lines = "56-57", vehicle = "vergine" },
+]
+basis = "52-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Radiance of her Eyes"
+location = "là dove l'erbe sono bagnate già da l'onde del bel fiume"
+region = "di là dal fiumicello"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Venere", status = "mentioned" },
+  { who = "Cupidino", status = "mentioned" },
+]
+relations = [
+  { subj = "Matelda", predicate = "sees", obj = "Dante", lines = "63-63" },
+]
+simile = [
+  { lines = "65-66", vehicle = "Venere" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-75"
+title = "Her Joyful Presence"
+location = "là dove l'erbe sono bagnate già da l'onde del bel fiume"
+region = "di là dal fiumicello"
+cohort = ["fioretti"]
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "fioretti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Serse", status = "mentioned" },
+  { who = "Leandro", status = "mentioned" },
+]
+simile = [
+  { lines = "73-75", vehicle = "Leandro" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Lady's Greeting"
+location = "questo luogo"
+region = "di là dal fiumicello"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Matelda", status = "present" },
+]
+speech = [
+  { quote_id = "28:76", lines = "76-76", speaker = "Matelda", addressee = "Dante", source = "code" },
+  { quote_id = "28:77", lines = "77-84", speaker = "Matelda", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Matelda", predicate = "addresses", obj = "Dante", lines = "76-77" },
+  { subj = "Matelda", predicate = "commands", obj = "Dante", lines = "83-83" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-87"
+title = "Dante's Confusion"
+location = "questo luogo"
+region = "di là dal fiumicello"
+cast = [
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "28:85B", lines = "85-87", speaker = "Dante", addressee = "(none)", source = "none" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-96"
+title = "The Divine Purpose of the Place"
+location = "questo loco"
+region = "di là dal fiumicello"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Adamo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "28:88", lines = "88-144", speaker = "Matelda", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Matelda", predicate = "speaks-to", obj = "Dante", lines = "88-90" },
+]
+basis = "88-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Mountain's Ascent"
+location = "questo monte"
+region = "questo monte"
+cast = [
+  { who = "un uomo", status = "mentioned" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-114"
+title = "The Mechanics of the Wind and Trees"
+location = "questa altezza"
+region = "questo monte"
+cast = []
+basis = "103-114"
+
+[[scene]]
+lines = "115-117"
+title = "Seedless Growth"
+location = "questa altezza"
+region = "questo monte"
+cast = []
+basis = "115-117"
+
+[[scene]]
+lines = "118-120"
+title = "The Bounty of the Land"
+location = "questa altezza"
+region = "questo monte"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "118-120"
+
+[[scene]]
+lines = "121-126"
+title = "The Two Springs"
+location = "questa altezza"
+region = "questo monte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+basis = "121-126"
+
+[[scene]]
+lines = "127-129"
+title = "Forgetfulness and Memory"
+location = "questa altezza"
+region = "questo monte"
+cast = []
+basis = "127-129"
+
+[[scene]]
+lines = "130-133"
+title = "Lethe and Eunoe"
+location = "questa altezza"
+region = "questo monte"
+cast = []
+basis = "130-133"
+
+[[scene]]
+lines = "134-138"
+title = "A Final Promise"
+location = "questa altezza"
+region = "questo monte"
+cast = [
+  { who = "Matelda", status = "present" },
+  { who = "Dante", status = "present" },
+]
+basis = "134-138"
+
+[[scene]]
+lines = "139-144"
+title = "The Golden Age"
+location = "esto loco"
+region = "questo monte"
+cast = [
+  { who = "Quelli ch'anticamente poetaro", status = "mentioned" },
+  { who = "Adamo", status = "mentioned" },
+]
+basis = "139-144"
+
+[[scene]]
+lines = "145-148"
+title = "Dante's Reflection"
+location = "esto loco"
+region = "questo monte"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+  { who = "Matelda", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio, Stazio", lines = "146-146" },
+  { subj = "Virgilio, Stazio", predicate = "hears", obj = "Matelda", lines = "147-147" },
+  { subj = "Dante", predicate = "sees", obj = "Matelda", lines = "148-148" },
+]
+basis = "145-148"

@@ -1,0 +1,308 @@
+canticle = "inferno"
+canto = 8
+
+[[scene]]
+lines = "1-6"
+title = "Observation of the Flames"
+location = ""
+region = "una via diversa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "Inquiry of the Flames"
+location = ""
+region = "una via diversa"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "quei che 'l fenno", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "8-9" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "10-10" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "11-11" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Approach of the Boat"
+location = ""
+region = "una via diversa"
+cohort = ["anima fella"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Flegeo", status = "present" },
+  { who = "anima fella", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Flegeo", lines = "15-17" },
+  { subj = "Flegeo", predicate = "meets", obj = "Dante, Virgilio", lines = "16-17" },
+  { subj = "Flegeo", predicate = "addresses", obj = "anima fella", lines = "18-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "The Quarrel with Flegias"
+location = ""
+region = "una via diversa"
+cast = [
+  { who = "Flegïàs", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "addresses", obj = "Flegïàs", lines = "19-20" },
+  { subj = "Virgilio", predicate = "rebukes", obj = "Flegïàs", lines = "19-21" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-30"
+title = "Boarding the Vessel"
+location = ""
+region = "una via diversa"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "26-26" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "26-26" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-39"
+title = "The Encounter with the Muddy Spirit"
+location = "la morta gora"
+region = "la morta gora"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Filippo Argenti", status = "present" },
+]
+speech = [
+  { quote_id = "8:34", lines = "34-35", speaker = "Dante", addressee = "Filippo Argenti", source = "llm" },
+  { quote_id = "8:36", lines = "36-36", speaker = "Filippo Argenti", addressee = "Dante", source = "llm" },
+  { quote_id = "8:37", lines = "37-39", speaker = "Dante", addressee = "Filippo Argenti", source = "llm" },
+]
+relations = [
+  { subj = "Filippo Argenti", predicate = "meets", obj = "Dante", lines = "32-32" },
+  { subj = "Filippo Argenti", predicate = "asks", obj = "Dante", lines = "33-33" },
+  { subj = "Dante", predicate = "answers", obj = "Filippo Argenti", lines = "34-34" },
+  { subj = "Dante", predicate = "asks", obj = "Filippo Argenti", lines = "34-35" },
+  { subj = "Filippo Argenti", predicate = "answers", obj = "Dante", lines = "36-36" },
+  { subj = "Dante", predicate = "rebukes", obj = "Filippo Argenti", lines = "37-38" },
+  { subj = "Dante", predicate = "commands", obj = "Filippo Argenti", lines = "38-38" },
+  { subj = "Dante", predicate = "recognizes", obj = "Filippo Argenti", lines = "39-39" },
+]
+basis = "31-39"
+
+[[scene]]
+lines = "40-51"
+title = "The Spirit's Monologue on Pride"
+location = "la morta gora"
+region = "la morta gora"
+cohort = ["persona orgogliosa"]
+cast = [
+  { who = "Filippo Argenti", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "persona orgogliosa", status = "present" },
+  { who = "Quanti", status = "mentioned" },
+  { who = "gran regi", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "strikes", obj = "Filippo Argenti", lines = "41-41" },
+  { subj = "Virgilio", predicate = "rebukes", obj = "Filippo Argenti", lines = "42-42" },
+  { subj = "Filippo Argenti", predicate = "touches", obj = "Dante", lines = "43-43" },
+  { subj = "Filippo Argenti", predicate = "touches", obj = "Dante", lines = "44-44" },
+  { subj = "Filippo Argenti", predicate = "addresses", obj = "Dante", lines = "44-44" },
+]
+basis = "40-51"
+
+[[scene]]
+lines = "52-57"
+title = "Dante's Desire for Retribution"
+location = "lago"
+region = "la morta gora"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Filippo Argenti", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "52-54" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "55-57" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-64"
+title = "The Torment of Filippo Argenti"
+location = "lago"
+region = "la morta gora"
+cohort = ["le fangose genti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Filippo Argenti", status = "present" },
+  { who = "le fangose genti", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Filippo Argenti", lines = "58-59" },
+  { subj = "le fangose genti", predicate = "punishes", obj = "Filippo Argenti", lines = "58-59" },
+  { subj = "Dante", predicate = "praises", obj = "Dio", lines = "60-60" },
+  { subj = "le fangose genti", predicate = "calls", obj = "Filippo Argenti", lines = "61-61" },
+  { subj = "Dante, Virgilio", predicate = "relates-to", obj = "Filippo Argenti", lines = "64-64" },
+]
+basis = "58-64"
+
+[[scene]]
+lines = "65-78"
+title = "Arrival at the Walls of Dis"
+location = "lago"
+region = "la morta gora"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "gravi cittadin", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:70", lines = "70-73", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "67-69" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "70-72" },
+  { subj = "Dante", predicate = "sees", obj = "gravi cittadin", lines = "70-72" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "73-75" },
+]
+basis = "65-78"
+
+[[scene]]
+lines = "79-93"
+title = "Challenge at the Gates"
+location = "l'intrata"
+region = "l'intrata"
+cohort = ["demoni"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Flegeo", status = "present" },
+  { who = "demoni", status = "present" },
+]
+relations = [
+  { subj = "Flegeo", predicate = "commands", obj = "Dante, Virgilio", lines = "81-81" },
+  { subj = "demoni", predicate = "asks", obj = "Dante", lines = "84-85" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "demoni", lines = "86-87" },
+  { subj = "demoni", predicate = "commands", obj = "Virgilio", lines = "88-89" },
+  { subj = "demoni", predicate = "commands", obj = "Dante", lines = "89-90" },
+]
+basis = "79-93"
+
+[[scene]]
+lines = "94-102"
+title = "Dante's Terror"
+location = "l'intrata"
+region = "l'intrata"
+cast = [
+  { who = "lettor", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "8:97", lines = "97-100", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "94-94" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "97-97" },
+  { subj = "Dante", predicate = "pleads-with", obj = "Virgilio", lines = "100-100" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-108"
+title = "Virgil's Reassurance"
+location = "l'intrata"
+region = "l'intrata"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "8:104", lines = "104-108", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "103-103" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "104-104" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-114"
+title = "Separation at the Gate"
+location = "l'intrata"
+region = "l'intrata"
+cohort = ["demoni"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "demoni", status = "present" },
+]
+refer = [
+  { phrase = "i demoni", line = 112, resolves = "demoni" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "109-109" },
+  { subj = "Dante", predicate = "hears", obj = "Virgilio", lines = "112-112" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "demoni", lines = "112-112" },
+]
+basis = "109-114"
+
+[[scene]]
+lines = "115-120"
+title = "Virgil's Despair"
+location = "l'intrata"
+region = "l'intrata"
+cast = [
+  { who = "que' nostri avversari", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "8:120", lines = "120-120", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "que' nostri avversari", predicate = "chases", obj = "Virgilio", lines = "115-116" },
+  { subj = "Virgilio", predicate = "meets", obj = "Dante", lines = "117-117" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "119-119" },
+]
+basis = "115-120"
+
+[[scene]]
+lines = "121-130"
+title = "The Secret Path Revealed"
+location = "l'intrata"
+region = "l'intrata"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "demoni", status = "mentioned" },
+  { who = "scorta", status = "mentioned" },
+]
+speech = [
+  { quote_id = "8:121", lines = "121-130", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "121-121" },
+]
+basis = "121-130"

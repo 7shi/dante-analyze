@@ -1,0 +1,269 @@
+canticle = "inferno"
+canto = 9
+
+[[scene]]
+lines = "1-6"
+title = "The obscured vision"
+location = ""
+region = "l'intrata"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "2-2" },
+]
+simile = [
+  { lines = "4-4", vehicle = "Dante" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-15"
+title = "The interrupted dialogue"
+location = ""
+region = "l'intrata"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "9:8", lines = "8-9", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "7-8" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "10-10" },
+]
+basis = "7-15"
+
+[[scene]]
+lines = "16-33"
+title = "Virgil’s reminiscence"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "del primo grado", status = "mentioned" },
+  { who = "Eritón", status = "mentioned" },
+  { who = "l'ombre", status = "mentioned" },
+  { who = "Spirto", status = "mentioned" },
+  { who = "Giuda", status = "mentioned" },
+]
+speech = [
+  { quote_id = "9:20", lines = "20-33", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+refer = [
+  { phrase = "un spirto", line = 26, resolves = "Spirto" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "16-19" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "19-21" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "30-30" },
+]
+basis = "16-33"
+
+[[scene]]
+lines = "34-48"
+title = "The Furies revealed"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cohort = ["tre furïe infernal"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "tre furïe infernal", status = "present" },
+  { who = "la regina de l'etterno pianto", status = "mentioned" },
+  { who = "Megera", status = "present" },
+  { who = "Aletto", status = "present" },
+  { who = "Tesifón", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "34-34" },
+  { subj = "Dante", predicate = "sees", obj = "tre furïe infernal", lines = "35-37" },
+  { subj = "Virgilio", predicate = "recognizes", obj = "tre furïe infernal", lines = "43-43" },
+  { subj = "tre furïe infernal", predicate = "relates-to", obj = "la regina de l'etterno pianto", lines = "44-44" },
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "45-45" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "45-45" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "46-48" },
+  { subj = "Virgilio", predicate = "names", obj = "Megera", lines = "46-46" },
+  { subj = "Virgilio", predicate = "names", obj = "Aletto", lines = "47-47" },
+  { subj = "Virgilio", predicate = "names", obj = "Tesifón", lines = "48-48" },
+]
+basis = "34-48"
+
+[[scene]]
+lines = "49-54"
+title = "The Furies' frenzy"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cast = [
+  { who = "Megera", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Medusa", status = "mentioned" },
+  { who = "Tesëo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "touches", obj = "Virgilio", lines = "51-51" },
+]
+basis = "49-54"
+
+[[scene]]
+lines = "55-60"
+title = "A warning to look away"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Medusa", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "55-55" },
+  { subj = "Virgilio", predicate = "warns", obj = "Dante", lines = "55-57" },
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "59-59" },
+]
+basis = "55-60"
+
+[[scene]]
+lines = "61-63"
+title = "An authorial aside"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cohort = ["voi ch'avete li 'ntelletti sani"]
+cast = [
+  { who = "voi ch'avete li 'ntelletti sani", status = "present" },
+]
+basis = "61-63"
+
+[[scene]]
+lines = "64-72"
+title = "A violent disturbance"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cast = []
+basis = "64-72"
+
+[[scene]]
+lines = "73-84"
+title = "The approach of Charon"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cohort = ["mille anime distrutte"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "mille anime distrutte", status = "present" },
+  { who = "Caronte", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "73-73" },
+  { subj = "Dante", predicate = "sees", obj = "mille anime distrutte", lines = "79-79" },
+  { subj = "Caronte", predicate = "chases", obj = "mille anime distrutte", lines = "80-81" },
+]
+basis = "73-84"
+
+[[scene]]
+lines = "85-87"
+title = "Dante's pious reaction"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Caronte", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "Caronte", lines = "85-85" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "86-86" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-99"
+title = "Charon’s reprimand"
+location = "fondo de la trista conca"
+region = "l'intrata"
+cohort = ["cacciati del ciel"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Caronte", status = "present" },
+  { who = "cacciati del ciel", status = "present" },
+  { who = "Cerbero", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Caronte", lines = "88-88" },
+  { subj = "Caronte", predicate = "addresses", obj = "cacciati del ciel", lines = "91-92" },
+  { subj = "Caronte", predicate = "asks", obj = "cacciati del ciel", lines = "93-93" },
+  { subj = "Caronte", predicate = "asks", obj = "cacciati del ciel", lines = "94-94" },
+]
+basis = "88-99"
+
+[[scene]]
+lines = "100-105"
+title = "The poets advance"
+location = "strada lorda"
+region = "porta"
+cast = [
+  { who = "Caronte", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "101-102", vehicle = "Caronte" },
+  { lines = "103-103", vehicle = "Caronte" },
+]
+basis = "100-105"
+
+[[scene]]
+lines = "106-123"
+title = "The field of tombs"
+location = "Dentro"
+region = "Dentro"
+cohort = ["miseri", "offesi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "miseri", status = "present" },
+  { who = "offesi", status = "present" },
+]
+basis = "106-123"
+
+[[scene]]
+lines = "124-131"
+title = "The identity of the dead"
+location = "Dentro"
+region = "Dentro"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quelle genti", status = "mentioned" },
+  { who = "li eresïarche", status = "mentioned" },
+  { who = "lor seguaci", status = "mentioned" },
+]
+refer = [
+  { phrase = "Simile", line = 130, resolves = "simile" },
+]
+relations = [
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "124-124" },
+  { subj = "Dante", predicate = "hears", obj = "quelle genti", lines = "126-126" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "127-127" },
+]
+basis = "124-131"
+
+[[scene]]
+lines = "132-133"
+title = "Passing through the ruins"
+location = "Dentro"
+region = "Dentro"
+cohort = ["i martìri"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i martìri", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "i martìri", lines = "133-133" },
+]
+basis = "132-133"

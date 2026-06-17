@@ -1,0 +1,408 @@
+canticle = "inferno"
+canto = 4
+
+[[scene]]
+lines = "1-6"
+title = "The Awakening"
+location = ""
+region = "la buia campagna"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "persona", status = "mentioned" },
+]
+simile = [
+  { lines = "2-3", vehicle = "persona" },
+]
+basis = "1-6"
+
+[[scene]]
+lines = "7-12"
+title = "The Valley of Sorrow"
+location = "la proda"
+region = "la buia campagna"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "7-12"
+
+[[scene]]
+lines = "13-18"
+title = "The Command to Descend"
+location = "la proda"
+region = "la buia campagna"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "4:15", lines = "15-15", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "4:17", lines = "17-18", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "13-14" },
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "16-16" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "17-17" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "17-18" },
+]
+basis = "13-18"
+
+[[scene]]
+lines = "19-24"
+title = "Entering the First Circle"
+location = "la proda"
+region = "la buia campagna"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "le genti", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:19", lines = "19-22", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "22-22" },
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "23-24" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-30"
+title = "The Sighing Spirits"
+location = "la proda"
+region = "primo cerchio"
+cohort = ["le turbe"]
+cast = [
+  { who = "le turbe", status = "present" },
+  { who = "infanti", status = "present" },
+  { who = "femmine", status = "present" },
+  { who = "viri", status = "present" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-42"
+title = "The Nature of Limbo"
+location = "la proda"
+region = "primo cerchio"
+cohort = ["spiriti"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "spiriti", status = "present" },
+  { who = "Dio", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:31", lines = "31-42", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "31-31" },
+  { subj = "Dante", predicate = "sees", obj = "spiriti", lines = "32-32" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "33-33" },
+]
+basis = "31-42"
+
+[[scene]]
+lines = "43-50"
+title = "Dante's Inquiry"
+location = "la proda"
+region = "primo cerchio"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "gente di molto valore", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "gente di molto valore", lines = "44-45" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "46-50" },
+]
+basis = "43-50"
+
+[[scene]]
+lines = "51-63"
+title = "The Descent of the Patriarchs"
+location = "la proda"
+region = "primo cerchio"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Virgilio, le ombre di Limbo", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Abèl", status = "mentioned" },
+  { who = "Noè", status = "mentioned" },
+  { who = "Moïsè", status = "mentioned" },
+  { who = "Abraàm", status = "mentioned" },
+  { who = "Davìd", status = "mentioned" },
+  { who = "Israèl", status = "mentioned" },
+  { who = "Isacco", status = "mentioned" },
+  { who = "i figli di Israèl", status = "mentioned" },
+  { who = "Rachele", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "i patriarchi", status = "mentioned" },
+  { who = "spiriti umani", status = "mentioned" },
+]
+speech = [
+  { quote_id = "4:52", lines = "52-63", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "51-52" },
+  { subj = "Virgilio", predicate = "tells", obj = "Dante", lines = "62-62" },
+]
+basis = "51-63"
+
+[[scene]]
+lines = "64-66"
+title = "Through the Dense Forest"
+location = "la selva"
+region = "la selva"
+cohort = ["spiriti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "spiriti", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "spiriti", lines = "65-66" },
+]
+basis = "64-66"
+
+[[scene]]
+lines = "67-78"
+title = "The Discovery of the Light"
+location = "la selva"
+region = "la selva"
+cohort = ["orrevol gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "orrevol gente", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "orrevol gente", lines = "71-72" },
+  { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "73-73" },
+  { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "73-75" },
+  { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "76-76" },
+]
+basis = "67-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Divine Voice"
+location = "la selva"
+region = "la selva"
+cohort = ["Dante, noble souls of Limbo"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dante, noble souls of Limbo", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-93"
+title = "The Meeting of the Great Poets"
+location = "la selva"
+region = "la selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Omero", status = "present" },
+  { who = "Orazio", status = "present" },
+  { who = "Ovidio", status = "present" },
+  { who = "Lucano", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "4:86", lines = "86-93", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Omero, Orazio, Ovidio, Lucano", lines = "83-83" },
+  { subj = "Omero, Orazio, Ovidio, Lucano", predicate = "meets", obj = "Dante, Virgilio", lines = "83-83" },
+  { subj = "Virgilio", predicate = "addresses", obj = "Dante", lines = "85-85" },
+  { subj = "Virgilio", predicate = "commands", obj = "Dante", lines = "86-86" },
+  { subj = "Orazio, Ovidio, Lucano", predicate = "follows", obj = "Omero", lines = "87-87" },
+]
+basis = "82-93"
+
+[[scene]]
+lines = "94-102"
+title = "The Assembly of Wisdom"
+location = "la selva"
+region = "la selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Omero", status = "present" },
+  { who = "Orazio", status = "present" },
+  { who = "Ovidio", status = "present" },
+  { who = "Lucano", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Omero, Orazio, Ovidio, Lucano, Virgilio", lines = "94-94" },
+  { subj = "Omero", predicate = "addresses", obj = "Dante", lines = "98-98" },
+  { subj = "Omero, Orazio, Ovidio, Lucano, Virgilio", predicate = "praises", obj = "Dante", lines = "100-100" },
+  { subj = "Omero, Orazio, Ovidio, Lucano, Virgilio", predicate = "relates-to", obj = "Dante", lines = "101-101" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-111"
+title = "The Noble Castle"
+location = "la selva"
+region = "la selva"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Omero", status = "present" },
+  { who = "Orazio", status = "present" },
+  { who = "Ovidio", status = "present" },
+  { who = "Lucano", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio, Omero, Orazio, Ovidio, Lucano", predicate = "follows", obj = "Omero, Orazio, Ovidio, Lucano, Virgilio", lines = "110-110" },
+]
+basis = "103-111"
+
+[[scene]]
+lines = "112-117"
+title = "The Meadow of Spirits"
+location = "la selva"
+region = "prato di fresca verdura"
+cohort = ["le genti"]
+cast = [
+  { who = "le genti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Omero", status = "present" },
+  { who = "Orazio", status = "present" },
+  { who = "Ovidio", status = "present" },
+  { who = "Lucano", status = "present" },
+]
+basis = "112-117"
+
+[[scene]]
+lines = "118-129"
+title = "The Hall of Heroes"
+location = "la selva"
+region = "prato di fresca verdura"
+cohort = ["li spiriti magni"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "li spiriti magni", status = "present" },
+  { who = "Eletra", status = "present" },
+  { who = "Ettòr", status = "present" },
+  { who = "Enea", status = "present" },
+  { who = "Cesare", status = "present" },
+  { who = "Cammilla", status = "present" },
+  { who = "Pantasilea", status = "present" },
+  { who = "Latino", status = "present" },
+  { who = "Lavina", status = "present" },
+  { who = "Bruto", status = "present" },
+  { who = "Tarquino", status = "mentioned" },
+  { who = "Lucrezia", status = "present" },
+  { who = "Iulia", status = "present" },
+  { who = "Marzïa", status = "present" },
+  { who = "Corniglia", status = "present" },
+  { who = "Saladino", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Eletra", lines = "121-121" },
+  { subj = "Dante", predicate = "recognizes", obj = "Ettòr", lines = "122-122" },
+  { subj = "Dante", predicate = "recognizes", obj = "Enea", lines = "122-122" },
+  { subj = "Dante", predicate = "sees", obj = "Cesare", lines = "121-123" },
+  { subj = "Dante", predicate = "sees", obj = "Cammilla", lines = "124-124" },
+  { subj = "Dante", predicate = "sees", obj = "Pantasilea", lines = "124-124" },
+  { subj = "Dante", predicate = "sees", obj = "Latino", lines = "125-125" },
+  { subj = "Latino", predicate = "relates-to", obj = "Lavina", lines = "126-126" },
+  { subj = "Lavina", predicate = "relates-to", obj = "Latino", lines = "126-126" },
+  { subj = "Dante", predicate = "sees", obj = "Bruto", lines = "127-127" },
+  { subj = "Dante", predicate = "sees", obj = "Lucrezia", lines = "127-128" },
+  { subj = "Dante", predicate = "sees", obj = "Iulia", lines = "127-128" },
+  { subj = "Dante", predicate = "sees", obj = "Marzïa", lines = "127-128" },
+  { subj = "Dante", predicate = "sees", obj = "Corniglia", lines = "127-128" },
+  { subj = "Dante", predicate = "sees", obj = "Saladino", lines = "129-129" },
+]
+basis = "118-129"
+
+[[scene]]
+lines = "130-144"
+title = "The School of Philosophers"
+location = "la selva"
+region = "prato di fresca verdura"
+cohort = ["filosofica famiglia"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Aristotele", status = "present" },
+  { who = "filosofica famiglia", status = "present" },
+  { who = "Socrate", status = "present" },
+  { who = "Platone", status = "present" },
+  { who = "Democrito", status = "present" },
+  { who = "Dïogenès", status = "present" },
+  { who = "Anassagora", status = "present" },
+  { who = "Tale", status = "present" },
+  { who = "Empedoclès", status = "present" },
+  { who = "Eraclito", status = "present" },
+  { who = "Zenone", status = "present" },
+  { who = "Dïascoride", status = "present" },
+  { who = "Orfeo", status = "present" },
+  { who = "Tulïo", status = "present" },
+  { who = "Lino", status = "present" },
+  { who = "Seneca", status = "present" },
+  { who = "Euclide", status = "present" },
+  { who = "Tolomeo", status = "present" },
+  { who = "Ipocràte", status = "present" },
+  { who = "Avicenna", status = "present" },
+  { who = "Galïeno", status = "present" },
+  { who = "Averoìs", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Aristotele", lines = "131-131" },
+  { subj = "Aristotele", predicate = "relates-to", obj = "filosofica famiglia", lines = "131-131" },
+  { subj = "filosofica famiglia", predicate = "sees", obj = "Aristotele", lines = "133-133" },
+  { subj = "filosofica famiglia", predicate = "praises", obj = "Aristotele", lines = "133-133" },
+  { subj = "Dante", predicate = "sees", obj = "Socrate", lines = "134-134" },
+  { subj = "Dante", predicate = "sees", obj = "Platone", lines = "134-134" },
+  { subj = "Socrate", predicate = "relates-to", obj = "Socrate, Platone", lines = "135-135" },
+  { subj = "Platone", predicate = "relates-to", obj = "Socrate, Platone", lines = "135-135" },
+  { subj = "Dante", predicate = "sees", obj = "Democrito", lines = "136-136" },
+  { subj = "Dante", predicate = "sees", obj = "Dïogenès", lines = "137-137" },
+  { subj = "Dante", predicate = "sees", obj = "Anassagora", lines = "137-137" },
+  { subj = "Dante", predicate = "sees", obj = "Tale", lines = "137-137" },
+  { subj = "Dante", predicate = "sees", obj = "Empedoclès", lines = "138-138" },
+  { subj = "Dante", predicate = "sees", obj = "Eraclito", lines = "138-138" },
+  { subj = "Dante", predicate = "sees", obj = "Zenone", lines = "138-138" },
+  { subj = "Dante", predicate = "sees", obj = "Dïascoride", lines = "139-139" },
+  { subj = "Dante", predicate = "names", obj = "Dïascoride", lines = "140-140" },
+  { subj = "Dante", predicate = "sees", obj = "Orfeo", lines = "140-140" },
+  { subj = "Dante", predicate = "sees", obj = "Tulïo", lines = "141-141" },
+  { subj = "Dante", predicate = "sees", obj = "Lino", lines = "141-141" },
+  { subj = "Dante", predicate = "sees", obj = "Seneca", lines = "141-141" },
+  { subj = "Dante", predicate = "sees", obj = "Euclide", lines = "142-142" },
+  { subj = "Dante", predicate = "sees", obj = "Tolomeo", lines = "142-142" },
+  { subj = "Dante", predicate = "sees", obj = "Ipocràte", lines = "143-143" },
+  { subj = "Dante", predicate = "sees", obj = "Avicenna", lines = "143-143" },
+  { subj = "Dante", predicate = "sees", obj = "Galïeno", lines = "143-143" },
+  { subj = "Dante", predicate = "sees", obj = "Averoìs", lines = "144-144" },
+]
+basis = "130-144"
+
+[[scene]]
+lines = "145-147"
+title = "The Poet's Limitation"
+location = "la selva"
+region = "prato di fresca verdura"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "145-147"
+
+[[scene]]
+lines = "148-151"
+title = "Moving Toward the Light"
+location = "la selva"
+region = "prato di fresca verdura"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "149-149" },
+]
+basis = "148-151"

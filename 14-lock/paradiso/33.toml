@@ -1,0 +1,228 @@
+canticle = "paradiso"
+canto = 33
+
+[[scene]]
+lines = "1-18"
+title = "Exaltation of the Virgin"
+location = ""
+region = "qua sù"
+cohort = ["i beati"]
+cast = [
+  { who = "Maria", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "creatura", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Bernardo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "i beati", status = "present" },
+  { who = "mortali", status = "mentioned" },
+  { who = "chi vuol grazia", status = "mentioned" },
+]
+speech = [
+  { quote_id = "33:1", lines = "1-39", speaker = "Bernardo", addressee = "Maria", source = "llm" },
+]
+basis = "1-18"
+
+[[scene]]
+lines = "19-39"
+title = "The Prayer of Petition"
+location = ""
+region = "qua sù"
+cohort = ["i beati"]
+cast = [
+  { who = "Maria", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "i beati", status = "present" },
+]
+refer = [
+  { phrase = "beati", line = 38, resolves = "i beati" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "praises", obj = "Maria", lines = "19-21" },
+  { subj = "Bernardo", predicate = "pleads-with", obj = "Maria", lines = "29-30" },
+  { subj = "Bernardo", predicate = "pleads-with", obj = "Maria", lines = "30-30" },
+  { subj = "Bernardo", predicate = "pleads-with", obj = "Maria", lines = "34-34" },
+]
+basis = "19-39"
+
+[[scene]]
+lines = "40-45"
+title = "Divine Response"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "Bernardo", status = "present" },
+  { who = "Maria", status = "present" },
+  { who = "creatura", status = "mentioned" },
+]
+relations = [
+  { subj = "Dio", predicate = "praises", obj = "Maria", lines = "40-40" },
+  { subj = "Maria", predicate = "sees", obj = "Bernardo", lines = "41-41" },
+  { subj = "Maria", predicate = "shows", obj = "Bernardo", lines = "41-42" },
+  { subj = "Maria", predicate = "sees", obj = "Dio", lines = "43-43" },
+]
+basis = "40-45"
+
+[[scene]]
+lines = "46-54"
+title = "Entry into the Light"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Bernardo", status = "present" },
+  { who = "l'alta luce", status = "present" },
+]
+relations = [
+  { subj = "Bernardo", predicate = "guides", obj = "Dante", lines = "49-50" },
+  { subj = "Bernardo", predicate = "guides", obj = "Dante", lines = "50-51" },
+  { subj = "Dante", predicate = "sees", obj = "l'alta luce", lines = "52-54" },
+]
+basis = "46-54"
+
+[[scene]]
+lines = "55-66"
+title = "The Loss of Memory"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Sibilla", status = "mentioned" },
+]
+simile = [
+  { lines = "58-61", vehicle = "colüi che sognando vede" },
+]
+basis = "55-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Poet's Vow"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "somma luce", status = "present" },
+  { who = "la futura gente", status = "mentioned" },
+]
+basis = "67-75"
+
+[[scene]]
+lines = "76-84"
+title = "The Intensity of the Radiance"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Dio", status = "present" },
+]
+basis = "76-84"
+
+[[scene]]
+lines = "85-93"
+title = "The Universal Knot"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "85-93"
+
+[[scene]]
+lines = "94-105"
+title = "The Perfection of the Light"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Nettuno", status = "mentioned" },
+  { who = "l'ombra d'Argo", status = "mentioned" },
+  { who = "Dio", status = "present" },
+  { who = "impersonal 'one'", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "compares", obj = "Nettuno", lines = "94-96" },
+  { subj = "Dante", predicate = "sees", obj = "Dio", lines = "97-99" },
+  { subj = "impersonal 'one'", predicate = "sees", obj = "Dio", lines = "100-102" },
+]
+simile = [
+  { lines = "95-96", vehicle = "l'ombra d'Argo" },
+]
+basis = "94-105"
+
+[[scene]]
+lines = "106-114"
+title = "The Changing Observer"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "un fante", status = "mentioned" },
+  { who = "nel vivo lume", status = "present" },
+]
+basis = "106-114"
+
+[[scene]]
+lines = "115-120"
+title = "The Three Concentric Circles"
+location = ""
+region = "qua sù"
+cast = []
+basis = "115-120"
+
+[[scene]]
+lines = "121-123"
+title = "The Limits of Language"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dante", status = "present" },
+]
+basis = "121-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Self-Intelligible Light"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dio", status = "present" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-132"
+title = "The Human Reflection"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-139"
+title = "The Failed Measurement"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "l geomètra", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+simile = [
+  { lines = "133-136", vehicle = "l geomètra" },
+]
+basis = "133-139"
+
+[[scene]]
+lines = "140-145"
+title = "Divine Impulse"
+location = ""
+region = "qua sù"
+cast = [
+  { who = "Dio", status = "mentioned" },
+]
+basis = "140-145"

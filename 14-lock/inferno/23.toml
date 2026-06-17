@@ -1,0 +1,421 @@
+canticle = "inferno"
+canto = 23
+
+[[scene]]
+lines = "1-12"
+title = "The Fable of the Frog and the Mouse"
+location = ""
+region = "sopra 'l fosso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "frati minor", status = "mentioned" },
+  { who = "Isopo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "2-2" },
+]
+simile = [
+  { lines = "2-3", vehicle = "frati minor" },
+]
+basis = "1-12"
+
+[[scene]]
+lines = "13-24"
+title = "Dante's Dread of the Demons"
+location = ""
+region = "sopra 'l fosso"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Malebranche", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+]
+speech = [
+  { quote_id = "23:13", lines = "13-18", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "23:21", lines = "21-24", speaker = "Dante", addressee = "Virgilio", source = "code" },
+]
+refer = [
+  { phrase = "i Malebranche", line = 13, resolves = "Malebranche" },
+  { phrase = "i Malebranche", line = 16, resolves = "Malebranche" },
+  { phrase = "i Malebranche", line = 23, resolves = "Malebranche" },
+  { phrase = "i Malebranche", line = 24, resolves = "Malebranche" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "21-21" },
+]
+basis = "13-24"
+
+[[scene]]
+lines = "25-33"
+title = "Virgil's Strategic Plan"
+location = ""
+region = "sopra 'l fosso"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "23:25", lines = "25-33", speaker = "Virgilio", addressee = "Dante", source = "code" },
+]
+basis = "25-33"
+
+[[scene]]
+lines = "34-51"
+title = "The Rapid Descent"
+location = ""
+region = "sopra 'l fosso"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Malebranche", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "la madre", status = "mentioned" },
+  { who = "figlio", status = "mentioned" },
+]
+refer = [
+  { phrase = "il figlio", line = 38, resolves = "figlio" },
+  { phrase = "il figlio", line = 41, resolves = "figlio" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Malebranche", lines = "35-36" },
+  { subj = "Virgilio", predicate = "touches", obj = "Dante", lines = "37-37" },
+  { subj = "Virgilio", predicate = "brings", obj = "Dante", lines = "49-50" },
+]
+simile = [
+  { lines = "38-40", vehicle = "figlio" },
+  { lines = "41-41", vehicle = "figlio" },
+]
+basis = "34-51"
+
+[[scene]]
+lines = "52-57"
+title = "Reaching the Fifth Bolgia"
+location = "letto del fondo giù"
+region = "letto del fondo giù"
+cohort = ["Malebranche"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Malebranche", status = "present" },
+]
+relations = [
+  { subj = "l'alta provedenza", predicate = "relates-to", obj = "Malebranche", lines = "55-56" },
+]
+basis = "52-57"
+
+[[scene]]
+lines = "58-66"
+title = "The Appearance of the Hypocrites"
+location = "letto del fondo giù"
+region = "letto del fondo giù"
+cohort = ["una gente dipinta"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "una gente dipinta", status = "present" },
+  { who = "li monaci", status = "mentioned" },
+  { who = "observers/onlookers", status = "present" },
+  { who = "Federigo", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "una gente dipinta", lines = "58-58" },
+]
+basis = "58-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Burden of the Cloaks"
+location = "letto del fondo giù"
+region = "letto del fondo giù"
+cohort = ["quella gente stanca"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "quella gente stanca", status = "present" },
+]
+relations = [
+  { subj = "Dante, Virgilio", predicate = "follows", obj = "quella gente stanca", lines = "68-69" },
+  { subj = "Dante, Virgilio", predicate = "meets", obj = "quella gente stanca", lines = "71-72" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-75"
+title = "Dante's Request to Virgil"
+location = "letto del fondo giù"
+region = "letto del fondo giù"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "alcun", status = "mentioned" },
+]
+basis = "73-75"
+
+[[scene]]
+lines = "76-79"
+title = "The Voice from Behind"
+location = "letto del fondo giù"
+region = "letto del fondo giù"
+cohort = ["un che 'ntese la parola tosca"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "un che 'ntese la parola tosca", status = "present" },
+]
+speech = [
+  { quote_id = "23:77", lines = "77-79", speaker = "un che 'ntese la parola tosca", addressee = "Virgilio", source = "llm" },
+]
+relations = [
+  { subj = "un che 'ntese la parola tosca", predicate = "calls", obj = "Dante, Virgilio", lines = "77-77" },
+]
+basis = "76-79"
+
+[[scene]]
+lines = "80-81"
+title = "Virgil's Command"
+location = "letto del fondo giù"
+region = "letto del fondo giù"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "ipocrita", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "ipocrita", lines = "80-80" },
+]
+basis = "80-81"
+
+[[scene]]
+lines = "82-84"
+title = "The Approaching Figures"
+location = "via stretta"
+region = "via stretta"
+cohort = ["ipocriti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "ipocriti", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "ipocriti", lines = "82-82" },
+  { subj = "ipocriti", predicate = "meets", obj = "Dante", lines = "82-83" },
+]
+basis = "82-84"
+
+[[scene]]
+lines = "85-90"
+title = "The Recognition of the Living"
+location = "via stretta"
+region = "via stretta"
+cohort = ["ipocriti"]
+cast = [
+  { who = "ipocriti", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+]
+relations = [
+  { subj = "ipocriti", predicate = "sees", obj = "Dante", lines = "86-86" },
+  { subj = "ipocriti", predicate = "speaks-to", obj = "ipocriti", lines = "87-87" },
+]
+basis = "85-90"
+
+[[scene]]
+lines = "91-93"
+title = "The Welcome to the Hypocrites"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cohort = ["ipocriti tristi"]
+cast = [
+  { who = "ipocriti tristi", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "ipocriti tristi", predicate = "speaks-to", obj = "Dante", lines = "91-91" },
+]
+basis = "91-93"
+
+[[scene]]
+lines = "94-99"
+title = "Dante's Inquiry"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cohort = ["ipocriti"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "ipocriti", status = "present" },
+]
+speech = [
+  { quote_id = "23:94", lines = "94-99", speaker = "Dante", addressee = "ipocriti", source = "code" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "ipocriti", lines = "94-94" },
+  { subj = "Dante", predicate = "tells", obj = "ipocriti", lines = "94-96" },
+  { subj = "Dante", predicate = "asks", obj = "ipocriti", lines = "97-97" },
+  { subj = "Dante", predicate = "asks", obj = "ipocriti", lines = "99-99" },
+]
+basis = "94-99"
+
+[[scene]]
+lines = "100-108"
+title = "The Identity of the Hypocrites"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Catalano", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Loderingo", status = "present" },
+  { who = "un uom solingo", status = "mentioned" },
+]
+speech = [
+  { quote_id = "23:100", lines = "100-108", speaker = "Catalano", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Catalano", predicate = "answers", obj = "Dante", lines = "100-100" },
+]
+simile = [
+  { lines = "106-106", vehicle = "un uom solingo" },
+]
+basis = "100-108"
+
+[[scene]]
+lines = "109-113"
+title = "The Sight of the Crucifix"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Catalano", status = "present" },
+  { who = "Loderingo", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Catalano, Loderingo", lines = "109-109" },
+  { subj = "Dante", predicate = "sees", obj = "crucifisso", lines = "110-111" },
+  { subj = "crucifisso", predicate = "sees", obj = "Dante", lines = "112-112" },
+]
+basis = "109-113"
+
+[[scene]]
+lines = "114-123"
+title = "The Monk's Explanation"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cohort = ["li altri"]
+cast = [
+  { who = "l frate Catalan", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Caifasse", status = "present" },
+  { who = "i Farisei", status = "mentioned" },
+  { who = "l'uom", status = "mentioned" },
+  { who = "lo popolo", status = "mentioned" },
+  { who = "anime", status = "present" },
+  { who = "li altri", status = "present" },
+  { who = "li Giudei", status = "mentioned" },
+]
+refer = [
+  { phrase = "un uom", line = 116, resolves = "l'uom" },
+  { phrase = "le anime", line = 119, resolves = "anime" },
+]
+relations = [
+  { subj = "l frate Catalan", predicate = "speaks-to", obj = "Dante", lines = "115-115" },
+  { subj = "Dante", predicate = "sees", obj = "Caifasse", lines = "115-115" },
+  { subj = "Dante", predicate = "sees", obj = "Caifasse", lines = "119-119" },
+]
+basis = "114-123"
+
+[[scene]]
+lines = "124-126"
+title = "Virgil's Reaction"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Caifa", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "124-124" },
+  { subj = "Virgilio", predicate = "sees", obj = "Caifa", lines = "124-125" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-132"
+title = "Virgil's Plea for an Exit"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Catalano", status = "present" },
+  { who = "Loderingo", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Malebranche", status = "mentioned" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-138"
+title = "The Obstacle of the Stone"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Catalano", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Catalano", predicate = "answers", obj = "Virgilio", lines = "133-133" },
+  { subj = "Catalano", predicate = "tells", obj = "Dante, Virgilio", lines = "137-138" },
+]
+basis = "133-138"
+
+[[scene]]
+lines = "139-141"
+title = "The Error of the Demon"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cohort = ["un peccator"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dio", status = "mentioned" },
+  { who = "un peccator", status = "present" },
+]
+refer = [
+  { phrase = "i peccator", line = 141, resolves = "un peccator" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "rebukes", obj = "Dio", lines = "140-141" },
+]
+basis = "139-141"
+
+[[scene]]
+lines = "142-144"
+title = "The Lie of the Devil"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Catalano", status = "mentioned" },
+  { who = "Lucifero", status = "mentioned" },
+]
+speech = [
+  { quote_id = "23:142", lines = "142-144", speaker = "Catalano", addressee = "(none)", source = "none" },
+]
+relations = [
+  { subj = "Catalano", predicate = "hears", obj = "Lucifero", lines = "142-143" },
+  { subj = "Catalano", predicate = "hears", obj = "Lucifero", lines = "143-144" },
+]
+basis = "142-144"
+
+[[scene]]
+lines = "145-148"
+title = "The Departure"
+location = "collegio de l'ipocriti"
+region = "via stretta"
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "Catalano", status = "mentioned" },
+  { who = "Loderingo", status = "mentioned" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "145-145" },
+  { subj = "Dante", predicate = "follows", obj = "Virgilio", lines = "145-148" },
+]
+basis = "145-148"

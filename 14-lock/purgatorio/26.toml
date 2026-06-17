@@ -1,0 +1,392 @@
+canticle = "purgatorio"
+canto = 26
+
+[[scene]]
+lines = "1-9"
+title = "Sunset in the Inferno"
+location = "l'orlo"
+region = "scala"
+cohort = ["molt' ombre"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "mentioned" },
+  { who = "molt' ombre", status = "present" },
+]
+speech = [
+  { quote_id = "26:3", lines = "3-3", speaker = "Virgilio", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "2-3" },
+  { subj = "Dante", predicate = "sees", obj = "molt' ombre", lines = "9-9" },
+  { subj = "molt' ombre", predicate = "sees", obj = "Dante", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-15"
+title = "The Shadows Observe Dante"
+location = "l'orlo"
+region = "scala"
+cohort = ["lussuriosi"]
+cast = [
+  { who = "lussuriosi", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "i lussuriosi", line = 11, resolves = "lussuriosi" },
+  { phrase = "i lussuriosi", line = 13, resolves = "lussuriosi" },
+]
+relations = [
+  { subj = "lussuriosi", predicate = "meets", obj = "Dante", lines = "13-13" },
+]
+basis = "10-15"
+
+[[scene]]
+lines = "16-24"
+title = "An Inquiry from the Flames"
+location = "l'orlo"
+region = "scala"
+cohort = ["lussuriosi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lussurioso", status = "present" },
+  { who = "lussuriosi", status = "present" },
+]
+speech = [
+  { quote_id = "26:16", lines = "16-24", speaker = "lussurioso", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "lussurioso", predicate = "addresses", obj = "Dante", lines = "16-16" },
+]
+basis = "16-24"
+
+[[scene]]
+lines = "25-30"
+title = "Arrival of the New Group"
+location = "l'orlo"
+region = "scala"
+cohort = ["gente"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lussuriosi", status = "present" },
+  { who = "gente", status = "present" },
+  { who = "Virgilio", status = "present" },
+  { who = "Stazio", status = "present" },
+]
+relations = [
+  { subj = "lussuriosi", predicate = "speaks-to", obj = "Dante", lines = "25-25" },
+  { subj = "gente", predicate = "meets", obj = "Dante, Virgilio, Stazio", lines = "29-29" },
+  { subj = "Dante", predicate = "sees", obj = "gente", lines = "30-30" },
+]
+basis = "25-30"
+
+[[scene]]
+lines = "31-36"
+title = "The Swarming Shadows"
+location = "l'orlo"
+region = "scala"
+cohort = ["l'ombra"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'ombra", status = "present" },
+]
+refer = [
+  { phrase = "ombra", line = 31, resolves = "l'ombra" },
+  { phrase = "ombra", line = 32, resolves = "l'ombra" },
+  { phrase = "ombra", line = 34, resolves = "l'ombra" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'ombra", lines = "31-32" },
+  { subj = "l'ombra", predicate = "touches", obj = "l'ombra", lines = "32-32" },
+]
+simile = [
+  { lines = "34-36", vehicle = "Dante" },
+]
+basis = "31-36"
+
+[[scene]]
+lines = "37-42"
+title = "The Divided Proclamations"
+location = "l'orlo"
+region = "scala"
+cohort = ["lussuriosi"]
+cast = [
+  { who = "lussuriosi", status = "present" },
+  { who = "la nova gente", status = "present" },
+  { who = "Pasife", status = "mentioned" },
+]
+basis = "37-42"
+
+[[scene]]
+lines = "43-48"
+title = "The Parting of the Souls"
+location = "l'orlo"
+region = "scala"
+cohort = ["lussuriosi"]
+cast = [
+  { who = "lussuriosi", status = "present" },
+]
+basis = "43-48"
+
+[[scene]]
+lines = "49-51"
+title = "The Return of the First Group"
+location = "l'orlo"
+region = "scala"
+cohort = ["lussuriosi"]
+cast = [
+  { who = "lussuriosi", status = "present" },
+  { who = "Dante", status = "present" },
+]
+refer = [
+  { phrase = "i lussuriosi", line = 49, resolves = "lussuriosi" },
+  { phrase = "i lussuriosi", line = 50, resolves = "lussuriosi" },
+]
+relations = [
+  { subj = "lussuriosi", predicate = "meets", obj = "Dante", lines = "49-49" },
+  { subj = "lussuriosi", predicate = "pleads-with", obj = "Dante", lines = "50-50" },
+]
+basis = "49-51"
+
+[[scene]]
+lines = "52-66"
+title = "Dante's Explanation"
+location = "l'orlo"
+region = "scala"
+cohort = ["anime", "quella turba"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "anime", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
+  { who = "quella turba", status = "present" },
+]
+speech = [
+  { quote_id = "26:53", lines = "53-66", speaker = "Dante", addressee = "anime", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "anime", lines = "52-52" },
+  { subj = "Dante", predicate = "addresses", obj = "anime", lines = "53-53" },
+  { subj = "Dante", predicate = "asks", obj = "anime", lines = "64-65" },
+]
+basis = "52-66"
+
+[[scene]]
+lines = "67-72"
+title = "The Shadows' Confusion"
+location = "l'orlo"
+region = "scala"
+cohort = ["ciascun' ombra"]
+cast = [
+  { who = "Virgilio", status = "present" },
+  { who = "Dante", status = "present" },
+  { who = "ciascun' ombra", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "chases", obj = "ciascun' ombra", lines = "69-70" },
+]
+basis = "67-72"
+
+[[scene]]
+lines = "73-87"
+title = "Guido's Identification"
+location = "l'orlo"
+region = "scala"
+cohort = ["the first group of souls"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido da Montefeltro", status = "present" },
+  { who = "gente", status = "mentioned" },
+  { who = "the first group of souls", status = "present" },
+  { who = "Cesar", status = "mentioned" },
+  { who = "Regina", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:75", lines = "75-93", speaker = "Guido Guinizzelli", addressee = "Dante", source = "llm" },
+]
+refer = [
+  { phrase = "La gente", line = 76, resolves = "gente" },
+  { phrase = "La gente", line = 80, resolves = "gente" },
+]
+relations = [
+  { subj = "Guido da Montefeltro", predicate = "praises", obj = "Dante", lines = "73-73" },
+  { subj = "Guido da Montefeltro", predicate = "speaks-to", obj = "Dante", lines = "74-74" },
+  { subj = "Guido da Montefeltro", predicate = "commands", obj = "Dante", lines = "75-75" },
+  { subj = "Dante", predicate = "hears", obj = "gente", lines = "80-80" },
+]
+basis = "73-87"
+
+[[scene]]
+lines = "88-93"
+title = "The Pride of the Poet"
+location = "l'orlo"
+region = "scala"
+cohort = ["anime"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido Guinizzelli", status = "present" },
+  { who = "anime", status = "present" },
+]
+relations = [
+  { subj = "Guido Guinizzelli", predicate = "speaks-to", obj = "Dante", lines = "88-93" },
+]
+basis = "88-93"
+
+[[scene]]
+lines = "94-102"
+title = "Dante's Emotional Response"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Ligurgo", status = "mentioned" },
+  { who = "due figli", status = "mentioned" },
+  { who = "la madre", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "Guido Guinizzelli", status = "present" },
+  { who = "li altri miei miglior", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Guido Guinizzelli", lines = "97-97" },
+  { subj = "Dante", predicate = "sees", obj = "Guido Guinizzelli", lines = "101-101" },
+]
+simile = [
+  { lines = "94-95", vehicle = "la madre" },
+]
+basis = "94-102"
+
+[[scene]]
+lines = "103-105"
+title = "Dante's Readiness to Serve"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "gives", obj = "Dante", lines = "104-104" },
+]
+basis = "103-105"
+
+[[scene]]
+lines = "106-111"
+title = "Guido's Request"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Guido Guinizzelli", status = "present" },
+  { who = "Dante", status = "present" },
+]
+speech = [
+  { quote_id = "26:106", lines = "106-111", speaker = "Guido Guinizzelli", addressee = "Dante", source = "code" },
+]
+relations = [
+  { subj = "Guido Guinizzelli", predicate = "speaks-to", obj = "Dante", lines = "106-106" },
+  { subj = "Guido Guinizzelli", predicate = "asks", obj = "Dante", lines = "110-111" },
+]
+basis = "106-111"
+
+[[scene]]
+lines = "112-114"
+title = "Dante's Compliment"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido Guinizzelli", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "speaks-to", obj = "Guido Guinizzelli", lines = "112-112" },
+  { subj = "Dante", predicate = "praises", obj = "Guido Guinizzelli", lines = "112-114" },
+]
+basis = "112-114"
+
+[[scene]]
+lines = "115-126"
+title = "Praise for Arnaut Daniel"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Guido Guinizzelli", status = "present" },
+  { who = "Arnaut Daniel", status = "present" },
+  { who = "li stolti", status = "mentioned" },
+  { who = "molti antichi di Guittone", status = "mentioned" },
+  { who = "Guittone d'Arezzo", status = "mentioned" },
+  { who = "più persone", status = "mentioned" },
+]
+speech = [
+  { quote_id = "26:115B", lines = "115-116", speaker = "Guido Guinizzelli", addressee = "Dante", source = "llm" },
+  { quote_id = "26:117", lines = "117-132", speaker = "Guido Guinizzelli", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Guido Guinizzelli", predicate = "addresses", obj = "Dante", lines = "115-115" },
+  { subj = "Guido Guinizzelli", predicate = "shows", obj = "Arnaut Daniel", lines = "115-116" },
+  { subj = "Guido Guinizzelli", predicate = "praises", obj = "Arnaut Daniel", lines = "117-117" },
+]
+basis = "115-126"
+
+[[scene]]
+lines = "127-132"
+title = "A Prayer for the Departed"
+location = "l'orlo"
+region = "scala"
+cohort = ["lussuriosi"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Cristo", status = "mentioned" },
+  { who = "Guido Guinizzelli", status = "present" },
+  { who = "lussuriosi", status = "present" },
+]
+relations = [
+  { subj = "Guido Guinizzelli", predicate = "pleads-with", obj = "Dante", lines = "127-132" },
+]
+basis = "127-132"
+
+[[scene]]
+lines = "133-135"
+title = "The Disappearance of Guido"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "lussuriosi", status = "mentioned" },
+  { who = "Guido", status = "present" },
+]
+refer = [
+  { phrase = "i lussuriosi", line = 133, resolves = "lussuriosi" },
+]
+relations = [
+  { subj = "Guido", predicate = "relates-to", obj = "lussuriosi", lines = "133-134" },
+]
+basis = "133-135"
+
+[[scene]]
+lines = "136-141"
+title = "The Arrival of Arnaut Daniel"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Arnaut Daniel", status = "present" },
+]
+speech = [
+  { quote_id = "26:140", lines = "140-147", speaker = "Arnaut", addressee = "Dante", source = "llm" },
+]
+relations = [
+  { subj = "Dante", predicate = "meets", obj = "Arnaut Daniel", lines = "136-136" },
+  { subj = "Arnaut Daniel", predicate = "answers", obj = "Dante", lines = "139-139" },
+]
+basis = "136-141"
+
+[[scene]]
+lines = "142-148"
+title = "Arnaut's Lament and Departure"
+location = "l'orlo"
+region = "scala"
+cast = [
+  { who = "Arnaut", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Arnaut", predicate = "pleads-with", obj = "Dante", lines = "145-145" },
+]
+basis = "142-148"

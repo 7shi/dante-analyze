@@ -1,0 +1,298 @@
+canticle = "paradiso"
+canto = 14
+
+[[scene]]
+lines = "1-9"
+title = "The Proem and the Analogy of Thomas"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Tommaso", status = "mentioned" },
+  { who = "Beatrice", status = "mentioned" },
+]
+relations = [
+  { subj = "Tommaso", predicate = "compares", obj = "Beatrice", lines = "7-8" },
+  { subj = "Beatrice", predicate = "follows", obj = "Tommaso", lines = "9-9" },
+]
+basis = "1-9"
+
+[[scene]]
+lines = "10-18"
+title = "The Celestial Question"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Tommaso", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+basis = "10-18"
+
+[[scene]]
+lines = "19-24"
+title = "The Joy of the Saints"
+location = ""
+region = "ella"
+cast = [
+  { who = "quei che vanno a rota", status = "mentioned" },
+]
+basis = "19-24"
+
+[[scene]]
+lines = "25-27"
+title = "The Lament of the Ascetic"
+location = ""
+region = "ella"
+cast = []
+basis = "25-27"
+
+[[scene]]
+lines = "28-33"
+title = "The Trinitarian Hymn"
+location = ""
+region = "ella"
+cohort = ["quelli spirti"]
+cast = [
+  { who = "Dio", status = "mentioned" },
+  { who = "quelli spirti", status = "present" },
+]
+relations = [
+  { subj = "quelli spirti", predicate = "praises", obj = "Dio", lines = "31-32" },
+]
+basis = "28-33"
+
+[[scene]]
+lines = "34-39"
+title = "The Angelic Answer"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Tommaso d'Aquino", status = "present" },
+  { who = "Gabriele", status = "mentioned" },
+  { who = "Maria", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "hears", obj = "Tommaso d'Aquino", lines = "34-35" },
+]
+simile = [
+  { lines = "36-36", vehicle = "Maria" },
+]
+basis = "34-39"
+
+[[scene]]
+lines = "40-51"
+title = "The Mechanics of Divine Light"
+location = ""
+region = "ella"
+cast = [
+  { who = "i beati", status = "mentioned" },
+]
+refer = [
+  { phrase = "beati", line = 46, resolves = "i beati" },
+  { phrase = "beati", line = 48, resolves = "i beati" },
+]
+basis = "40-51"
+
+[[scene]]
+lines = "52-60"
+title = "The Analogy of the Ember"
+location = ""
+region = "ella"
+cast = []
+basis = "52-60"
+
+[[scene]]
+lines = "61-66"
+title = "The Amen of the Souls"
+location = ""
+region = "ella"
+cohort = ["l'uno e l'altro coro"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "l'uno e l'altro coro", status = "present" },
+  { who = "i corpi morti", status = "mentioned" },
+  { who = "le mamme", status = "mentioned" },
+  { who = "li padri", status = "mentioned" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "l'uno e l'altro coro", lines = "61-62" },
+  { subj = "l'uno e l'altro coro", predicate = "relates-to", obj = "i corpi morti", lines = "63-63" },
+  { subj = "l'uno e l'altro coro", predicate = "relates-to", obj = "i corpi morti", lines = "64-64" },
+  { subj = "l'uno e l'altro coro", predicate = "relates-to", obj = "le mamme", lines = "64-64" },
+  { subj = "l'uno e l'altro coro", predicate = "relates-to", obj = "li padri", lines = "65-65" },
+]
+basis = "61-66"
+
+[[scene]]
+lines = "67-75"
+title = "The Emergence of New Spheres"
+location = ""
+region = "ella"
+cast = []
+basis = "67-75"
+
+[[scene]]
+lines = "76-78"
+title = "The Intensity of the Holy Spirit"
+location = ""
+region = "ella"
+cast = [
+  { who = "Santo Spiro", status = "present" },
+]
+basis = "76-78"
+
+[[scene]]
+lines = "79-81"
+title = "The Sight of Beatrice"
+location = ""
+region = "ella"
+cast = [
+  { who = "Beatrice", status = "present" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Beatrice", predicate = "shows", obj = "Dante", lines = "80-80" },
+]
+basis = "79-81"
+
+[[scene]]
+lines = "82-84"
+title = "The Translocation"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "83-84" },
+]
+basis = "82-84"
+
+[[scene]]
+lines = "85-87"
+title = "The Radiance of the Star"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "Beatrice", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "86-87" },
+]
+basis = "85-87"
+
+[[scene]]
+lines = "88-90"
+title = "The Sacrifice of Praise"
+location = ""
+region = "ella"
+cast = [
+  { who = "i beati", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "praises", obj = "Dio", lines = "88-89" },
+]
+basis = "88-90"
+
+[[scene]]
+lines = "91-96"
+title = "The Double Radiance"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "addresses", obj = "Elïòs", lines = "96-96" },
+]
+basis = "91-96"
+
+[[scene]]
+lines = "97-102"
+title = "The Analogy of the Milky Way"
+location = ""
+region = "ella"
+cast = [
+  { who = "saggi", status = "mentioned" },
+]
+basis = "97-102"
+
+[[scene]]
+lines = "103-108"
+title = "The Cruciform Light"
+location = ""
+region = "ella"
+cast = [
+  { who = "Cristo", status = "mentioned" },
+  { who = "Dante", status = "present" },
+  { who = "chi prende sua croce", status = "mentioned" },
+]
+relations = [
+  { subj = "chi prende sua croce", predicate = "follows", obj = "Cristo", lines = "106-106" },
+  { subj = "chi prende sua croce", predicate = "sees", obj = "Cristo", lines = "108-108" },
+]
+basis = "103-108"
+
+[[scene]]
+lines = "109-117"
+title = "The Motion of the Lights"
+location = ""
+region = "ella"
+cast = [
+  { who = "gente", status = "mentioned" },
+]
+basis = "109-117"
+
+[[scene]]
+lines = "118-123"
+title = "The Celestial Melody"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+]
+relations = [
+  { subj = "Dante", predicate = "sees", obj = "lumi", lines = "121-121" },
+]
+basis = "118-123"
+
+[[scene]]
+lines = "124-126"
+title = "The Unintelligible Hymn"
+location = ""
+region = "ella"
+cohort = ["i beati"]
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "i beati", status = "present" },
+  { who = "colui che non intende e ode", status = "mentioned" },
+]
+refer = [
+  { phrase = "beati", line = 124, resolves = "i beati" },
+  { phrase = "beati", line = 125, resolves = "i beati" },
+]
+relations = [
+  { subj = "Dante", predicate = "recognizes", obj = "i beati", lines = "124-124" },
+  { subj = "i beati", predicate = "commands", obj = "Dante", lines = "125-125" },
+]
+simile = [
+  { lines = "126-126", vehicle = "colui che non intende e ode" },
+]
+basis = "124-126"
+
+[[scene]]
+lines = "127-139"
+title = "The Poet's Apologia"
+location = ""
+region = "ella"
+cast = [
+  { who = "Dante", status = "present" },
+  { who = "lettore", status = "mentioned" },
+]
+basis = "127-139"
