@@ -1,0 +1,71 @@
+# Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
+
+## Scene 1-18: Beatrice's Warning
+- who: Beatrice | status: present | basis: 1-18
+- who: Dante | status: present | basis: 1-18
+- who: Semelè | status: mentioned | basis: 6-6
+
+## Scene 19-24: Dante's Obedience
+- who: Dante | status: present | basis: 20-23
+- who: Beatrice | status: mentioned | basis: 23-23
+
+## Scene 25-33: Vision of the Golden Ladder
+- who: Cristo | status: mentioned | basis: 25-27
+- who: Dante | status: present | basis: 29-32
+
+## Scene 34-42: The Analogy of the Sun
+- who: Dante | status: present | basis: 40-40
+
+## Scene 43-48: Dante's Hesitation
+- who: Dante | status: present | basis: 44-48
+- who: Beatrice | status: mentioned | basis: 46-46
+
+## Scene 49-60: The Inquiry of Silence
+- who: Beatrice | status: present | basis: 49-51
+- who: Dio | status: mentioned | basis: 50-50
+- who: Dante | status: present | basis: 49-52
+
+## Scene 61-72: Beatrice's Explanation
+- who: Dante | status: present | basis: 61-62
+- who: Beatrice | status: mentioned | basis: 63-63
+- who: serve | status: present | basis: 70-70
+
+## Scene 73-78: The Question of Predestination
+- who: Dante | status: present | basis: 73-76
+- who: Beatrice | status: present | basis: 73-77
+- who: le tue consorte | status: mentioned | basis: 78-78
+
+## Scene 79-87: The Light's Response
+- who: Dante | status: present | basis: 79-79
+- who: Beatrice | status: present | basis: 82-87
+- who: Dio | status: mentioned | basis: 83-87
+
+## Scene 88-102: The Limitation of Inquiry
+- who: quel serafin | status: mentioned | basis: 91-92
+- who: Dante | status: present | basis: 93-97
+
+## Scene 103-105: Dante's Pivot
+- who: Dante | status: present | basis: 103-105
+- who: Beatrice | status: mentioned | basis: 103-105
+
+## Scene 106-111: The Prophecy of Catria
+# (no person figure named in this scene)
+
+## Scene 112-120: The Monk's Recollection
+- who: Dante | status: present | basis: 112-112
+- who: Monaco di Catria | status: present | basis: 112-113
+- who: Dio | status: mentioned | basis: 114-114
+
+## Scene 121-126: The Revelation of Identity
+- who: Pietro Damiano | status: present | basis: 121-121
+- who: Nostra Donna | status: mentioned | basis: 123-123
+
+## Scene 127-135: Lament for the Church
+- who: Cefàs | status: mentioned | basis: 127-127
+- who: Paolo | status: mentioned | basis: 127-128
+- who: lo Spirito Santo | status: mentioned | basis: 128-128
+- who: servants/attendants of the modern clergy | status: mentioned | basis: 130-132
+- who: li moderni pastori | status: mentioned | basis: 131-131
+
+## Scene 136-142: The Celestial Shout
+- who: Dante | status: present | basis: 136-142

@@ -1,0 +1,97 @@
+# Canto 28 — The Encounter with the Enchanted Lady in the Forest
+
+## Scene 1-6: Departure into the Forest
+- who: Dante | status: present | basis: 1-6
+
+## Scene 7-12: The Gentle Breeze
+- who: Dante | status: present | basis: 8-8
+
+## Scene 13-21: The Singing Birds
+- who: Ëolo | status: mentioned | basis: 21-21
+
+## Scene 22-27: Entering the Deep Woods
+- who: Dante | status: present | basis: 22-25
+
+## Scene 28-33: The Dark Stream
+# (no person figure named in this scene)
+
+## Scene 34-39: The Sight of the Lady
+- who: Dante | status: present | basis: 34-37
+
+## Scene 40-48: Dante's Invitation
+- who: Matelda | status: present | basis: 40-48
+- who: Dante | status: present | basis: 44-48
+
+## Scene 49-51: A Mythological Comparison
+- who: Matelda | status: present | basis: 49-49
+- who: Dante | status: present | basis: 49-49
+- who: Proserpina | status: mentioned | basis: 50-50
+- who: Cerere | status: mentioned | basis: 51-51
+
+## Scene 52-60: The Lady's Modest Approach
+- who: Matelda | status: present | basis: 52-60
+- who: fioretti | status: present | basis: 55-56
+- who: Dante | status: present | basis: 56-60
+- who: vergine | status: mentioned | basis: 57-57
+
+## Scene 61-66: The Radiance of her Eyes
+- who: Matelda | status: present | basis: 61-63
+- who: Dante | status: present | basis: 63-63
+- who: Venere | status: mentioned | basis: 65-65
+- who: Cupidino | status: mentioned | basis: 66-66
+
+## Scene 67-75: Her Joyful Presence
+- who: Matelda | status: present | basis: 67-68
+- who: fioretti | status: present | basis: 68-68
+- who: Dante | status: present | basis: 70-75
+- who: Serse | status: mentioned | basis: 71-71
+- who: Leandro | status: mentioned | basis: 73-73
+
+## Scene 76-84: The Lady's Greeting
+- who: Dante | status: present | basis: 76-84
+- who: Matelda | status: present | basis: 76-84
+
+## Scene 85-87: Dante's Confusion
+- who: Dante | status: present | basis: 85-87
+
+## Scene 88-96: The Divine Purpose of the Place
+- who: Matelda | status: present | basis: 88-88
+- who: Dante | status: present | basis: 89-90
+- who: Dio | status: mentioned | basis: 91-93
+- who: Adamo | status: mentioned | basis: 92-96
+
+## Scene 97-102: The Mountain's Ascent
+- who: un uomo | status: mentioned | basis: 100-100
+
+## Scene 103-114: The Mechanics of the Wind and Trees
+# (no person figure named in this scene)
+
+## Scene 115-117: Seedless Growth
+# (no person figure named in this scene)
+
+## Scene 118-120: The Bounty of the Land
+- who: Dante | status: present | basis: 119-119
+
+## Scene 121-126: The Two Springs
+- who: Dante | status: present | basis: 121-121
+- who: Dio | status: mentioned | basis: 125-125
+
+## Scene 127-129: Forgetfulness and Memory
+# (no person figure named in this scene)
+
+## Scene 130-133: Lethe and Eunoe
+# (no person figure named in this scene)
+
+## Scene 134-138: A Final Promise
+- who: Matelda | status: present | basis: 135-137
+- who: Dante | status: present | basis: 135-138
+
+## Scene 139-144: The Golden Age
+- who: Quelli ch'anticamente poetaro | status: mentioned | basis: 139-141
+- who: Adamo | status: mentioned | basis: 142-142
+
+## Scene 145-148: Dante's Reflection
+- who: Dante | status: present | basis: 145-148
+- who: Virgilio | status: present | basis: 146-147
+- who: Stazio | status: present | basis: 146-147
+- who: Matelda | status: present | basis: 148-148

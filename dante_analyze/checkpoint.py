@@ -7,7 +7,7 @@ import sys
 
 from ._paths import (
     READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
-    TOPOGRAPHY_DIR,
+    TOPOGRAPHY_DIR, PRESENCE_DIR,
 )
 from .labels import fold_key
 
@@ -307,6 +307,44 @@ def load_locations(canticle, canto):
                     "basis_end": int(m.group("be")) if m.group("be") else bs,
                 })
         out[(s, e)] = locs
+    return out
+
+
+# A presence line: "- who: <name> | status: present|mentioned | basis: s[-e]". The `-e` is optional
+# (a one-line basis may be written `basis: 17`); 11-presence renders the two-number form.
+PRESENCE_LINE_RE = re.compile(
+    r"^-\s*who:\s*(?P<who>.*?)\s*\|\s*status:\s*(?P<status>present|mentioned)\s*\|\s*"
+    r"basis:\s*(?P<bs>\d+)(?:-(?P<be>\d+))?\s*$"
+)
+
+
+def load_presence(canticle, canto):
+    """{(start, end): [fig, …]} for a canto from 11-presence/<canticle>/NN.txt, or exit if absent.
+
+    Each fig is a dict {who, status, basis_start, basis_end}: `who` is the canonical figure label
+    (source spelling, matching the KG nodes), `status` is `present` (bodily in the scene) or
+    `mentioned` (named but not present), and `basis_start`/`basis_end` the source line range
+    supporting the call (within the scene). A scene that names no person figure carries an empty
+    list. Built by 11-presence/presence.py."""
+    path = out_path(PRESENCE_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: presence not found: {path} (run 11-presence/presence.py first)",
+              file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    for (s, e), body in scene_bodies(path).items():
+        figs = []
+        for line in body.splitlines():
+            m = PRESENCE_LINE_RE.match(line)
+            if m:
+                bs = int(m.group("bs"))
+                figs.append({
+                    "who": m.group("who"),
+                    "status": m.group("status"),
+                    "basis_start": bs,
+                    "basis_end": int(m.group("be")) if m.group("be") else bs,
+                })
+        out[(s, e)] = figs
     return out
 
 

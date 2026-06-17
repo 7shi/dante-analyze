@@ -1,0 +1,96 @@
+# Canto 11 — The Prayer of the Souls and the Vanity of Earthly Glory
+
+## Scene 1-12: The Souls' Praise
+- who: Dio | status: mentioned | basis: 1-11
+- who: le anime dei superbi | status: present | basis: 1-12
+- who: li angeli tuoi | status: mentioned | basis: 10-11
+- who: li uomini de' suoi | status: mentioned | basis: 12-12
+
+## Scene 13-24: The Souls' Petitions
+- who: Dio | status: mentioned | basis: 13-22
+- who: le anime dei superbi | status: present | basis: 13-24
+- who: chi più di gir s'affanna | status: present | basis: 15-15
+- who: Lucifero | status: mentioned | basis: 20-21
+- who: color che dietro a noi restaro | status: mentioned | basis: 24-24
+
+## Scene 25-30: Entering the First Ring
+- who: quell' ombre | status: present | basis: 26-26
+- who: Dante | status: present | basis: 25-25
+- who: Virgilio | status: present | basis: 25-25
+- who: anyone | status: present | basis: 25-30
+
+## Scene 31-36: Thoughts on Divine Intercession
+- who: uomini | status: mentioned | basis: 31-31
+- who: i superbi | status: present | basis: 32-36
+- who: quei c'hanno al voler buona radice | status: mentioned | basis: 33-33
+
+## Scene 37-45: A Request for Direction
+- who: i superbi | status: present | basis: 37-39
+- who: Dante | status: present | basis: 43-45
+- who: Virgilio | status: present | basis: 43-43
+- who: Adamo | status: mentioned | basis: 44-44
+
+## Scene 46-57: Virgil's Guidance
+- who: Virgilio | status: present | basis: 47-50
+- who: Dante | status: present | basis: 46-55
+- who: i superbi | status: present | basis: 46-50
+- who: un superbo | status: present | basis: 49-57
+
+## Scene 58-72: The Confession of Omberto
+- who: Omberto | status: present | basis: 58-72
+- who: Guiglielmo Aldobrandesco | status: mentioned | basis: 59-59
+- who: i miei maggior | status: mentioned | basis: 62-62
+- who: ogn' uomo | status: mentioned | basis: 64-64
+- who: ogne fante | status: mentioned | basis: 66-66
+- who: tutti miei consorti | status: mentioned | basis: 68-69
+- who: Dio | status: mentioned | basis: 71-71
+- who: ' vivi | status: mentioned | basis: 72-72
+- who: ' morti | status: present | basis: 72-72
+
+## Scene 73-81: Recognition and Inquiry
+- who: Dante | status: present | basis: 73-79
+- who: i superbi | status: present | basis: 74-78
+- who: Omberto | status: present | basis: 74-74
+- who: Oderisi | status: present | basis: 74-81
+
+## Scene 82-90: The Sin of Pride
+- who: Dante | status: present | basis: 82-82
+- who: Oderisi | status: present | basis: 82-90
+- who: Franco Bolognese | status: mentioned | basis: 83-84
+- who: Dio | status: mentioned | basis: 90-90
+
+## Scene 91-99: The Ephemerality of Fame
+- who: Cimabue | status: mentioned | basis: 94-94
+- who: Giotto | status: mentioned | basis: 95-95
+- who: the poets who preceded Guido | status: mentioned | basis: 97-97
+- who: Guido Cavalcanti | status: mentioned | basis: 97-97
+- who: a future poet / successor | status: mentioned | basis: 98-99
+
+## Scene 100-108: The Brevity of Earthly Goods
+- who: Dante | status: present | basis: 103-106
+- who: l'etterno | status: mentioned | basis: 107-107
+
+## Scene 109-117: The Fading of Sienese Glory
+- who: sire | status: present | basis: 110-112
+- who: Oderisi | status: present | basis: 110-110
+
+## Scene 118-120: Dante's Humble Response
+- who: Dante | status: present | basis: 118-118
+- who: Oderisi | status: present | basis: 118-120
+- who: gran signore | status: mentioned | basis: 120-120
+
+## Scene 121-126: The Identification of Salvani
+- who: Provenzan Salvani | status: present | basis: 121-122
+- who: Oderisi | status: present | basis: 121-121
+
+## Scene 127-132: A Question of Salvation
+- who: Dante | status: present | basis: 127-127
+- who: Provenzan Salvani | status: mentioned | basis: 127-132
+
+## Scene 133-142: The Story of the Great Sacrifice
+- who: Provenzan Salvani | status: mentioned | basis: 133-142
+- who: Oderisi | status: present | basis: 133-142
+- who: l'amico suo | status: mentioned | basis: 136-137
+- who: Carlo | status: mentioned | basis: 137-137
+- who: tuoi vicini | status: mentioned | basis: 140-140
+- who: Dante | status: present | basis: 140-141

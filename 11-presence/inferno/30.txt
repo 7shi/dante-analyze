@@ -1,0 +1,154 @@
+# Canto 30 — The Furies of Fraud: The Biting Shadows and the Quarrel of the Counterfeiters
+
+## Scene 1-12: The Madness of Atamante
+- who: Iunone | status: mentioned | basis: 1-3
+- who: Semelè | status: mentioned | basis: 2-2
+- who: 'l sangue tebano | status: mentioned | basis: 2-2
+- who: Atamante | status: present | basis: 4-11
+- who: la moglie | status: present | basis: 5-12
+- who: due figli | status: present | basis: 5-12
+- who: Learco | status: present | basis: 10-11
+
+## Scene 13-21: The Grief of Hecuba
+- who: Priamo | status: mentioned | basis: 15-15
+- who: Ecuba | status: mentioned | basis: 16-21
+- who: Polissena | status: mentioned | basis: 17-17
+- who: Polidoro | status: mentioned | basis: 18-18
+
+## Scene 22-27: The Two Biting Shadows
+- who: furie | status: mentioned | basis: 22-22
+- who: troiane | status: mentioned | basis: 22-22
+- who: Dante | status: present | basis: 25-25
+- who: due ombre smorte e nude | status: present | basis: 25-26
+
+## Scene 28-33: Identification of Gianni Schicchi
+- who: Gianni Schicchi | status: present | basis: 32-32
+- who: Capocchio | status: present | basis: 28-30
+- who: Aretin | status: present | basis: 31-32
+- who: Dante | status: present | basis: 32-32
+
+## Scene 34-36: Dante's Urgency
+- who: Dante | status: present | basis: 34-34
+- who: l'alchimista di Arezzo | status: present | basis: 34-34
+- who: L'altro | status: mentioned | basis: 34-34
+
+## Scene 37-39: The Soul of Mirra
+- who: alchimista | status: present | basis: 37-37
+- who: Dante | status: present | basis: 37-37
+- who: Mirra | status: present | basis: 37-38
+- who: il Padre | status: mentioned | basis: 39-39
+
+## Scene 40-45: The Soul of Buoso Donati
+- who: Mirra | status: mentioned | basis: 40-41
+- who: Cinyras | status: mentioned | basis: 40-40
+- who: Gianni Schicchi | status: present | basis: 40-45
+- who: la donna | status: mentioned | basis: 43-43
+- who: Buoso Donati | status: mentioned | basis: 44-44
+
+## Scene 46-48: A Shift in Vision
+- who: Gianni Schicchi | status: present | basis: 48-48
+- who: Mirra | status: present | basis: 48-48
+- who: Dante | status: present | basis: 47-47
+- who: li altri mal nati | status: present | basis: 48-48
+
+## Scene 49-57: The Man with Dropsy
+- who: Dante | status: present | basis: 49-49
+- who: l'etico | status: mentioned | basis: 56-56
+
+## Scene 58-63: The Thirst of Master Adam
+- who: Dante | status: present | basis: 60-60
+- who: Virgilio | status: present | basis: 60-60
+- who: Maestro Adamo | status: present | basis: 58-63
+
+## Scene 64-69: The Vision of the Arno
+- who: Mastro Adamo | status: present | basis: 64-69
+
+## Scene 70-75: Confession of Forgery
+- who: Maestro Adamo | status: present | basis: 70-75
+- who: il Batista | status: mentioned | basis: 74-74
+
+## Scene 76-78: Fear of the Great Fraudsters
+- who: Maestro Adam | status: present | basis: 76-78
+- who: Guido | status: mentioned | basis: 77-77
+- who: Alessandro | status: mentioned | basis: 77-77
+- who: lor frate | status: mentioned | basis: 77-77
+
+## Scene 79-81: The Imprisoned Soul
+- who: l'anima | status: mentioned | basis: 79-79
+- who: Gianni Schicchi | status: present | basis: 80-80
+- who: Mirra | status: mentioned | basis: 79-79
+- who: Maestro Adamo | status: present | basis: 81-81
+
+## Scene 82-87: The Difficulty of Movement
+- who: Maestro Adamo | status: present | basis: 85-85
+- who: Guido, Alessandro, their brother | status: present | basis: 85-85
+- who: questa gente sconcia | status: present | basis: 85-87
+
+## Scene 88-90: The Motive for Counterfeiting
+- who: Maestro Adamo | status: present | basis: 88-90
+- who: Guido, Alessandro, il fratello | status: mentioned | basis: 88-89
+- who: sì fatta famiglia | status: present | basis: 88-88
+
+## Scene 91-93: Inquiry of the Neighbors
+- who: Dante | status: present | basis: 91-91
+- who: Mastro Adamo | status: present | basis: 91-93
+- who: li due tapini | status: present | basis: 91-93
+
+## Scene 94-99: The Accuser and the Deceiver
+- who: Maestro Adam | status: present | basis: 95-95
+- who: la falsa | status: mentioned | basis: 97-97
+- who: Sinon | status: mentioned | basis: 98-98
+- who: Gioseppo | status: mentioned | basis: 97-97
+
+## Scene 100-103: The Physical Strike
+- who: l'un di lor | status: present | basis: 100-102
+- who: la moglie di Potifare, Sinone | status: mentioned | basis: 101-101
+- who: Mastro Adamo | status: present | basis: 102-102
+
+## Scene 104-108: Adam's Counter-strike
+- who: Mastro Adamo | status: present | basis: 104-108
+- who: Sinon | status: present | basis: 104-106
+
+## Scene 109-111: The Coinage Insult
+- who: Sinone | status: present | basis: 109-111
+- who: Maestro Adamo | status: present | basis: 109-109
+
+## Scene 112-114: The Witness Accusation
+- who: Mastro Adamo | status: present | basis: 112-114
+- who: Sinone | status: mentioned | basis: 113-114
+
+## Scene 115-117: The Argument of Fault
+- who: Sinon | status: present | basis: 116-116
+- who: Maestro Adamo | status: present | basis: 115-117
+- who: alcun altro demonio | status: mentioned | basis: 117-117
+
+## Scene 118-120: The Reminder of the Horse
+- who: Sinone | status: present | basis: 119-119
+- who: Maestro Adamo | status: present | basis: 118-118
+
+## Scene 121-123: The Greek's Curse
+- who: Maestro Adamo | status: present | basis: 121-123
+- who: Sinone | status: present | basis: 122-122
+
+## Scene 124-129: The Narcissus Insult
+- who: Maestro Adamo | status: present | basis: 125-129
+- who: Sinon | status: mentioned | basis: 129-129
+- who: Narcisso | status: mentioned | basis: 128-128
+
+## Scene 130-132: Virgil's Warning
+- who: Mastro Adamo | status: present | basis: 130-130
+- who: Sinon | status: mentioned | basis: 130-130
+- who: Dante | status: present | basis: 130-132
+- who: Virgilio | status: present | basis: 131-132
+
+## Scene 133-135: Dante's Shame
+- who: Dante | status: present | basis: 133-135
+- who: Virgilio | status: present | basis: 133-134
+
+## Scene 136-141: The Agony of Empathy
+- who: Dante | status: present | basis: 139-141
+
+## Scene 142-148: Virgil's Moral Lesson
+- who: Virgilio | status: present | basis: 143-143
+- who: Dante | status: present | basis: 143-146
+- who: le genti | status: mentioned | basis: 147-147

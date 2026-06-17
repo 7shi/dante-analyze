@@ -1,0 +1,125 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+
+## Scene 1-6: Arrival at the new, dark ditch
+- who: Virgilio | status: present | basis: 1-6
+- who: Dante | status: present | basis: 1-6
+
+## Scene 7-18: The Venetian shipyard simile
+- who: Viniziani | status: mentioned | basis: 7-7
+
+## Scene 19-21: Observing the boiling pitch
+- who: Dante | status: present | basis: 19-19
+
+## Scene 22-24: Virgil pulls Dante away
+- who: Dante | status: present | basis: 22-24
+- who: Virgilio | status: present | basis: 23-24
+
+## Scene 25-33: The appearance of the demon
+- who: Dante | status: present | basis: 25-32
+- who: l'uom | status: mentioned | basis: 25-28
+- who: Virgilio | status: present | basis: 29-29
+- who: un diavol nero | status: present | basis: 29-33
+
+## Scene 34-36: The demon's physical ferocity
+- who: Malebranche | status: present | basis: 34-35
+- who: un peccator | status: present | basis: 35-36
+
+## Scene 37-42: The demon's declaration
+- who: demonio | status: present | basis: 37-37
+- who: Malebranche | status: present | basis: 37-37
+- who: Dante | status: present | basis: 38-38
+- who: Virgilio | status: present | basis: 38-38
+- who: Bonturo | status: mentioned | basis: 41-41
+
+## Scene 43-46: The demon's departure
+- who: lo furo | status: present | basis: 45-46
+
+## Scene 47-54: Warnings from the bridge demons
+- who: Malebranche | status: present | basis: 47-53
+- who: Dante | status: present | basis: 50-54
+- who: Virgilio | status: present | basis: 48-48
+
+## Scene 55-57: The cooking simile
+- who: Malebranche | status: mentioned | basis: 55-56
+- who: barattieri | status: mentioned | basis: 57-57
+
+## Scene 58-63: Virgil's advice to Dante
+- who: Virgilio | status: present | basis: 58-63
+- who: Dante | status: present | basis: 59-62
+
+## Scene 64-66: Virgil crosses the bridge
+- who: Virgilio | status: present | basis: 64-66
+
+## Scene 67-75: The demon attack and Virgil's challenge
+- who: poverello | status: mentioned | basis: 68-69
+- who: Malebranche | status: present | basis: 70-71
+- who: Virgilio | status: present | basis: 72-75
+
+## Scene 76-78: The selection of Malacoda
+- who: Malacoda | status: present | basis: 76-78
+- who: Virgilio | status: present | basis: 78-78
+
+## Scene 79-84: Virgil's rebuttal
+- who: Malacoda | status: present | basis: 79-79
+- who: Virgilio | status: present | basis: 80-80
+- who: Malebranche | status: present | basis: 81-83
+
+## Scene 85-87: The demons' submission
+- who: Malacoda | status: present | basis: 85-87
+- who: Malebranche | status: present | basis: 87-87
+
+## Scene 88-90: Virgil's second command to Dante
+- who: Virgilio | status: present | basis: 88-88
+- who: Dante | status: present | basis: 88-90
+- who: li scheggion | status: present | basis: 89-89
+
+## Scene 91-96: The travelers' encirclement
+- who: Dante | status: present | basis: 91-94
+- who: Virgilio | status: present | basis: 91-91
+- who: Malebranche | status: present | basis: 92-93
+- who: li fanti | status: mentioned | basis: 94-95
+- who: nemici cotanti | status: mentioned | basis: 96-96
+
+## Scene 97-102: The demons' taunts
+- who: Dante | status: present | basis: 97-98
+- who: Virgilio | status: present | basis: 98-98
+- who: Malebranche | status: present | basis: 99-102
+
+## Scene 103-105: Malacoda's interruption
+- who: Malacoda | status: present | basis: 103-105
+- who: Virgilio | status: present | basis: 104-104
+- who: Scarmiglione | status: present | basis: 105-105
+
+## Scene 106-117: Malacoda's news
+- who: Malacoda | status: present | basis: 106-106
+- who: Dante | status: present | basis: 106-106
+- who: Virgilio | status: present | basis: 106-106
+- who: Malebranche | status: present | basis: 115-115
+- who: alcun | status: mentioned | basis: 116-116
+
+## Scene 118-126: The deployment of the demons
+- who: Alichino | status: present | basis: 118-118
+- who: Calcabrina | status: present | basis: 118-118
+- who: Malacoda | status: present | basis: 119-119
+- who: Cagnazzo | status: present | basis: 119-119
+- who: Barbariccia | status: present | basis: 120-120
+- who: Libicocco | status: present | basis: 121-121
+- who: Draghignazzo | status: present | basis: 121-121
+- who: Cirïatto sannuto | status: present | basis: 122-122
+- who: Graffiacane | status: present | basis: 122-122
+- who: Farfarello | status: present | basis: 123-123
+- who: Rubicante pazzo | status: present | basis: 123-123
+- who: Dante | status: present | basis: 125-125
+- who: Virgilio | status: present | basis: 125-125
+
+## Scene 127-132: Dante's growing anxiety
+- who: Virgilio | status: present | basis: 127-131
+- who: Malebranche | status: present | basis: 131-132
+- who: Dante | status: present | basis: 127-132
+
+## Scene 133-139: Malacoda's reassurance and the demons' exit
+- who: Malacoda | status: present | basis: 133-139
+- who: Dante | status: present | basis: 133-133
+- who: Malebranche | status: present | basis: 134-138
+- who: li lessi dolenti | status: mentioned | basis: 135-135
+- who: Barbariccia | status: present | basis: 134-138

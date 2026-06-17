@@ -1,0 +1,104 @@
+# Canto 06 — The Third Circle: The Gluttons and the Prophecy of Florence
+
+## Scene 1-6: Dante's Reflection
+- who: Francesca | status: mentioned | basis: 2-2
+- who: Paolo | status: mentioned | basis: 2-2
+- who: Dante | status: present | basis: 5-6
+- who: novi tormentati | status: present | basis: 4-5
+
+## Scene 7-12: The Environment of the Third Circle
+- who: Dante | status: present | basis: 7-7
+
+## Scene 13-18: The Appearance of Cerberus
+- who: gente | status: present | basis: 15-18
+- who: Cerbero | status: present | basis: 13-18
+
+## Scene 19-21: The Souls' Struggle
+- who: i miseri profani | status: present | basis: 19-21
+
+## Scene 22-27: Virgil's Intervention
+- who: Dante | status: present | basis: 22-24
+- who: Virgilio | status: present | basis: 22-27
+
+## Scene 28-33: The Feeding Simile
+- who: quel cane | status: mentioned | basis: 28-30
+- who: Cerbero | status: present | basis: 31-32
+- who: anime | status: present | basis: 33-33
+
+## Scene 34-39: The Rising Soul
+- who: Dante | status: present | basis: 34-39
+- who: Virgilio | status: present | basis: 34-39
+- who: l'ombre | status: present | basis: 34-37
+- who: persona | status: mentioned | basis: 36-36
+- who: Ciacco | status: present | basis: 38-39
+
+## Scene 40-42: The Soul's Greeting
+- who: Dante | status: present | basis: 40-42
+- who: Ciacco | status: present | basis: 41-42
+
+## Scene 43-48: Dante's Reply
+- who: Dante | status: present | basis: 43-43
+- who: Ciacco | status: present | basis: 43-47
+
+## Scene 49-57: Ciacco's Identification
+- who: Ciacco | status: present | basis: 49-57
+- who: Dante | status: present | basis: 49-54
+- who: cittadini | status: mentioned | basis: 52-52
+- who: anime | status: present | basis: 55-56
+
+## Scene 58-63: The Inquiry about Florence
+- who: Dante | status: present | basis: 58-59
+- who: Ciacco | status: present | basis: 58-58
+- who: li cittadin | status: mentioned | basis: 61-61
+
+## Scene 64-75: The Prophecy of Discord
+- who: Ciacco | status: present | basis: 64-64
+- who: Dante | status: present | basis: 64-64
+- who: i fiorentini | status: mentioned | basis: 65-72
+- who: Giusti | status: mentioned | basis: 73-73
+
+## Scene 76-84: Dante's Second Inquiry
+- who: Ciacco | status: present | basis: 76-77
+- who: Dante | status: present | basis: 77-84
+- who: Farinata | status: mentioned | basis: 79-84
+- who: Tegghiaio | status: mentioned | basis: 79-84
+- who: Iacopo Rusticucci | status: mentioned | basis: 80-84
+- who: Arrigo | status: mentioned | basis: 80-84
+- who: Mosca | status: mentioned | basis: 80-84
+- who: li altri | status: mentioned | basis: 81-84
+
+## Scene 85-90: Ciacco's Reply
+- who: Ciacco | status: present | basis: 85-90
+- who: Farinata | status: mentioned | basis: 85-85
+- who: Tegghiaio | status: mentioned | basis: 85-85
+- who: Iacopo Rusticucci | status: mentioned | basis: 85-85
+- who: Arrigo | status: mentioned | basis: 85-85
+- who: Mosca | status: mentioned | basis: 85-85
+- who: anime | status: mentioned | basis: 85-85
+- who: Dante | status: present | basis: 87-90
+
+## Scene 91-93: The Soul's Descent
+- who: Ciacco | status: present | basis: 91-93
+- who: li altri ciechi | status: present | basis: 93-93
+
+## Scene 94-99: The Prophecy of Judgment
+- who: Virgilio | status: present | basis: 94-94
+- who: Dante | status: present | basis: 94-94
+- who: Ciacco | status: present | basis: 95-97
+- who: la nimica podesta | status: mentioned | basis: 96-96
+- who: ciascun | status: present | basis: 97-97
+
+## Scene 100-105: The Question of Intensity
+- who: Dante | status: present | basis: 100-103
+- who: Virgilio | status: present | basis: 100-103
+- who: l'ombre | status: present | basis: 101-101
+
+## Scene 106-111: The Principle of Suffering
+- who: Virgilio | status: present | basis: 106-106
+- who: Dante | status: present | basis: 106-106
+- who: questa gente maladetta | status: mentioned | basis: 109-111
+
+## Scene 112-115: Arrival at Pluto
+- who: Dante | status: present | basis: 112-115
+- who: Virgilio | status: present | basis: 112-115
+- who: Pluto | status: present | basis: 115-115

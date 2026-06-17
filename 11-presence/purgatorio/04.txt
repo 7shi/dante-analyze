@@ -1,0 +1,99 @@
+# Canto 04 — The Ascent of the Mountain and the Encounter with Belacqua
+
+## Scene 1-12: Philosophical Prologue
+- who: l'anima | status: mentioned | basis: 3-11
+- who: un'anima | status: mentioned | basis: 6-6
+- who: l'uom | status: mentioned | basis: 9-9
+
+## Scene 13-18: The Voice in the Dark
+- who: Dante | status: present | basis: 13-18
+- who: Belacqua | status: present | basis: 14-14
+- who: Virgilio | status: present | basis: 17-18
+- who: quell' anime | status: present | basis: 17-18
+
+## Scene 19-24: The Simile of the Vineyard
+- who: l'uom de la villa | status: mentioned | basis: 19-21
+- who: Virgilio | status: present | basis: 22-23
+- who: Dante | status: present | basis: 23-23
+- who: schiera | status: mentioned | basis: 24-24
+
+## Scene 25-30: The Flight of Desire
+- who: Dante | status: present | basis: 25-30
+- who: Virgilio | status: present | basis: 27-30
+
+## Scene 31-35: The Difficult Climb
+- who: Dante | status: present | basis: 31-34
+- who: Virgilio | status: present | basis: 31-34
+
+## Scene 36-39: Virgil's Command
+- who: Virgilio | status: present | basis: 36-38
+- who: Dante | status: present | basis: 36-37
+- who: alcuna scorta saggia | status: mentioned | basis: 39-39
+
+## Scene 40-48: The Exhausted Climber
+- who: Dante | status: present | basis: 43-47
+- who: Virgilio | status: present | basis: 44-47
+
+## Scene 49-54: The Rest on the Summit
+- who: Dante | status: present | basis: 49-53
+- who: Virgilio | status: present | basis: 49-53
+
+## Scene 55-60: Observing the Sun
+- who: Dante | status: present | basis: 55-60
+- who: Virgilio | status: present | basis: 57-60
+
+## Scene 61-75: The Astronomical Lecture
+- who: Virgilio | status: present | basis: 61-61
+- who: Dante | status: present | basis: 61-61
+- who: Castore | status: mentioned | basis: 61-61
+- who: Poluce | status: mentioned | basis: 61-61
+- who: Fetòn | status: mentioned | basis: 72-72
+
+## Scene 76-84: Dante's Astronomical Observation
+- who: Virgilio | status: present | basis: 76-76
+- who: Dante | status: present | basis: 76-78
+- who: li Ebrei | status: mentioned | basis: 83-84
+
+## Scene 85-87: A Request for Guidance
+- who: Virgilio | status: present | basis: 85-85
+- who: Dante | status: present | basis: 85-87
+
+## Scene 88-96: The Nature of the Mountain
+- who: Virgilio | status: present | basis: 88-96
+- who: Dante | status: present | basis: 88-94
+- who: om | status: mentioned | basis: 90-90
+
+## Scene 97-102: A Voice from the Shadows
+- who: Virgilio | status: present | basis: 97-102
+- who: Belacqua | status: present | basis: 98-99
+- who: Dante | status: present | basis: 100-102
+
+## Scene 103-108: The Slumbering Figure
+- who: Dante | status: present | basis: 103-106
+- who: Virgilio | status: present | basis: 103-103
+- who: persone | status: present | basis: 103-104
+- who: l'uom | status: mentioned | basis: 105-105
+- who: Belacqua | status: present | basis: 106-108
+
+## Scene 109-114: The Recognition of Belacqua
+- who: Virgilio | status: present | basis: 109-109
+- who: Dante | status: present | basis: 109-109
+- who: Belacqua | status: present | basis: 112-114
+
+## Scene 115-122: The Encounter with Belacqua
+- who: Dante | status: present | basis: 115-122
+- who: Belacqua | status: present | basis: 117-121
+
+## Scene 123-126: Questioning the Sloth
+- who: Dante | status: present | basis: 123-123
+- who: Belacqua | status: present | basis: 123-126
+
+## Scene 127-135: Belacqua's Excuse
+- who: Belacqua | status: present | basis: 127-135
+- who: Dante | status: present | basis: 127-127
+- who: l'angel di Dio | status: mentioned | basis: 129-129
+
+## Scene 136-139: Resuming the Journey
+- who: Virgilio | status: present | basis: 136-137
+- who: Dante | status: present | basis: 136-137
+- who: Morrocco | status: mentioned | basis: 139-139

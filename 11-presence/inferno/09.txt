@@ -1,0 +1,85 @@
+# Canto 09 — The Furies and the Arrival of Charon
+
+## Scene 1-6: The obscured vision
+- who: Dante | status: present | basis: 1-3
+- who: Virgilio | status: present | basis: 2-5
+
+## Scene 7-15: The interrupted dialogue
+- who: Virgilio | status: present | basis: 7-13
+- who: Dante | status: present | basis: 10-15
+
+## Scene 16-33: Virgil’s reminiscence
+- who: Dante | status: present | basis: 19-19
+- who: Virgilio | status: present | basis: 19-33
+- who: del primo grado | status: mentioned | basis: 17-17
+- who: Eritón | status: mentioned | basis: 23-23
+- who: l'ombre | status: mentioned | basis: 24-24
+- who: Spirto | status: mentioned | basis: 27-27
+- who: Giuda | status: mentioned | basis: 27-27
+
+## Scene 34-48: The Furies revealed
+- who: Virgilio | status: present | basis: 34-45
+- who: Dante | status: present | basis: 34-45
+- who: tre furïe infernal | status: present | basis: 37-42
+- who: la regina de l'etterno pianto | status: mentioned | basis: 44-44
+- who: Megera | status: present | basis: 46-46
+- who: Aletto | status: present | basis: 47-47
+- who: Tesifón | status: present | basis: 48-48
+
+## Scene 49-54: The Furies' frenzy
+- who: Megera | status: present | basis: 49-54
+- who: Dante | status: present | basis: 51-51
+- who: Virgilio | status: present | basis: 51-51
+- who: Medusa | status: mentioned | basis: 52-52
+- who: Tesëo | status: mentioned | basis: 54-54
+
+## Scene 55-60: A warning to look away
+- who: Dante | status: present | basis: 55-60
+- who: Medusa | status: mentioned | basis: 56-56
+- who: Virgilio | status: present | basis: 55-60
+
+## Scene 61-63: An authorial aside
+- who: voi ch'avete li 'ntelletti sani | status: present | basis: 61-61
+
+## Scene 64-72: A violent disturbance
+# (no person figure named in this scene)
+
+## Scene 73-84: The approach of Charon
+- who: Virgilio | status: present | basis: 73-75
+- who: Dante | status: present | basis: 73-79
+- who: mille anime distrutte | status: present | basis: 79-80
+- who: Caronte | status: present | basis: 80-84
+
+## Scene 85-87: Dante's pious reaction
+- who: Dante | status: present | basis: 85-87
+- who: Caronte | status: mentioned | basis: 85-85
+- who: Virgilio | status: present | basis: 86-86
+
+## Scene 88-99: Charon’s reprimand
+- who: Dante | status: present | basis: 88-88
+- who: Caronte | status: present | basis: 88-99
+- who: cacciati del ciel | status: present | basis: 91-98
+- who: Cerbero | status: mentioned | basis: 98-99
+
+## Scene 100-105: The poets advance
+- who: Caronte | status: mentioned | basis: 103-103
+- who: Virgilio | status: present | basis: 100-105
+- who: Dante | status: present | basis: 101-105
+
+## Scene 106-123: The field of tombs
+- who: Dante | status: present | basis: 106-110
+- who: Virgilio | status: present | basis: 106-106
+- who: miseri | status: present | basis: 122-123
+- who: offesi | status: present | basis: 122-123
+
+## Scene 124-131: The identity of the dead
+- who: Dante | status: present | basis: 124-124
+- who: Virgilio | status: present | basis: 124-124
+- who: quelle genti | status: mentioned | basis: 124-126
+- who: li eresïarche | status: mentioned | basis: 127-127
+- who: lor seguaci | status: mentioned | basis: 128-128
+
+## Scene 132-133: Passing through the ruins
+- who: Virgilio | status: present | basis: 132-133
+- who: Dante | status: present | basis: 133-133
+- who: i martìri | status: present | basis: 133-133

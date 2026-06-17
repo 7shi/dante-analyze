@@ -1,0 +1,107 @@
+# Canto 33 — Beatrice's Prophecy and the River of Lethe
+
+## Scene 1-6: The Song of the Virtuous Women
+- who: Dio | status: mentioned | basis: 1-1
+- who: le donne | status: present | basis: 3-3
+- who: Beatrice | status: present | basis: 4-5
+- who: Maria | status: mentioned | basis: 6-6
+
+## Scene 7-12: Beatrice's Proclamation
+- who: l'altre vergini | status: present | basis: 7-11
+- who: Beatrice | status: present | basis: 8-12
+
+## Scene 13-24: The Encounter with Dante
+- who: Beatrice | status: present | basis: 15-15
+- who: tutte e sette | status: present | basis: 13-13
+- who: Dante | status: present | basis: 15-23
+- who: la donna | status: present | basis: 15-15
+- who: l savio | status: present | basis: 15-24
+
+## Scene 25-33: Dante's Stuttering Response
+- who: reverenti | status: mentioned | basis: 25-27
+- who: suo maggior | status: mentioned | basis: 26-26
+- who: Dante | status: present | basis: 28-33
+- who: Beatrice | status: present | basis: 29-33
+- who: om | status: mentioned | basis: 33-33
+
+## Scene 34-45: The Prophecy of the Serpent and the Giant
+- who: Dante | status: present | basis: 34-34
+- who: chi n'ha colpa | status: mentioned | basis: 35-35
+- who: Dio | status: mentioned | basis: 36-44
+- who: Beatrice | status: present | basis: 34-45
+- who: un cinquecento diece e cinque | status: mentioned | basis: 43-43
+- who: quel gigante | status: mentioned | basis: 45-45
+
+## Scene 46-51: The Riddle of the Naiads
+- who: Temi | status: mentioned | basis: 47-47
+- who: Sfinge | status: mentioned | basis: 47-47
+- who: Dante | status: present | basis: 47-47
+- who: le Naiade | status: mentioned | basis: 49-50
+
+## Scene 52-60: The Warning of the Fallen Fruit
+- who: Dante | status: present | basis: 52-56
+- who: Beatrice | status: present | basis: 52-60
+- who: a' vivi | status: mentioned | basis: 53-54
+- who: il peccatore | status: mentioned | basis: 58-59
+- who: Dio | status: mentioned | basis: 59-60
+
+## Scene 61-66: The Weight of Original Sin
+- who: Adamo | status: mentioned | basis: 62-63
+
+## Scene 67-78: The Command to Remember
+- who: Piramo | status: mentioned | basis: 69-69
+- who: Dio | status: mentioned | basis: 71-71
+- who: Dante | status: present | basis: 68-77
+- who: Beatrice | status: present | basis: 73-76
+
+## Scene 79-84: Dante's Impressionable Mind
+- who: Dante | status: present | basis: 79-79
+- who: Beatrice | status: present | basis: 81-81
+
+## Scene 85-90: The Distance of the Divine
+- who: Dante | status: present | basis: 85-88
+- who: Beatrice | status: present | basis: 85-85
+
+## Scene 91-93: Dante's Denial of Forgetting
+- who: Dante | status: present | basis: 91-93
+- who: Beatrice | status: present | basis: 91-92
+
+## Scene 94-99: The Reminder of Lethe
+- who: Dante | status: present | basis: 94-96
+- who: Beatrice | status: present | basis: 95-95
+
+## Scene 100-111: The Noon Sun and the Seven Women
+- who: Beatrice | status: present | basis: 100-102
+- who: lettore | status: present | basis: 102-102
+- who: chi va dinanzi a gente per iscorta | status: mentioned | basis: 107-107
+- who: gente | status: mentioned | basis: 107-107
+- who: le sette donne | status: present | basis: 109-109
+
+## Scene 112-114: The Emergence of the Rivers
+- who: Dante | status: present | basis: 113-113
+
+## Scene 115-119: Dante's Inquiry
+- who: Beatrice | status: present | basis: 115-118
+- who: Dante | status: present | basis: 115-118
+- who: Matelda | status: present | basis: 118-119
+
+## Scene 120-123: Matelda's Revelation
+- who: Matelda | status: present | basis: 120-120
+- who: Dante | status: mentioned | basis: 122-123
+
+## Scene 124-129: Beatrice's Instruction to Virgil
+- who: Beatrice | status: present | basis: 124-124
+- who: Matelda | status: mentioned | basis: 127-127
+
+## Scene 130-135: The Departure of the Group
+- who: anima gentil | status: mentioned | basis: 130-132
+- who: Matelda | status: present | basis: 133-135
+- who: Dante | status: present | basis: 133-135
+- who: Stazio | status: present | basis: 134-135
+
+## Scene 136-141: The Poet's Constraint
+- who: Dante | status: present | basis: 136-141
+- who: lettor | status: present | basis: 136-136
+
+## Scene 142-145: The Renewal of the Soul
+- who: Dante | status: present | basis: 142-145

@@ -1,0 +1,61 @@
+# Canto 24 — The Descent into the Second Bolgia and the Prophecy of Vanni Fucci
+
+## Scene 1-15: The Peasant’s Morning
+# (no person figure named in this scene)
+
+## Scene 16-24: Virgil’s Physical Aid
+- who: Dante | status: present | basis: 16-24
+- who: Virgilio | status: present | basis: 16-24
+
+## Scene 25-30: Virgil’s Climbing Method
+- who: quei ch'adopera ed estima | status: mentioned | basis: 25-25
+- who: Dante | status: present | basis: 27-27
+- who: Virgilio | status: present | basis: 27-30
+
+## Scene 31-45: The Difficult Descent
+- who: Dante | status: present | basis: 32-45
+- who: Virgilio | status: present | basis: 32-36
+
+## Scene 46-60: Virgil’s Exhortation
+- who: Dante | status: present | basis: 58-60
+- who: Virgilio | status: present | basis: 47-47
+- who: ipocriti | status: mentioned | basis: 56-56
+
+## Scene 61-78: The Angry Voice
+- who: Dante | status: present | basis: 61-78
+- who: Virgilio | status: present | basis: 61-78
+
+## Scene 79-81: Entering the Bolgia
+- who: Dante | status: present | basis: 79-81
+- who: Virgilio | status: present | basis: 79-79
+
+## Scene 82-96: The Pit of Serpents
+- who: Virgilio | status: present | basis: 84-84
+- who: Dante | status: present | basis: 82-82
+- who: questa cruda e tristissima copia | status: present | basis: 91-91
+- who: genti nude e spaventate | status: present | basis: 92-92
+
+## Scene 97-111: The Phoenix Metaphor
+- who: l'anima | status: present | basis: 97-105
+- who: li gran savi | status: mentioned | basis: 106-106
+
+## Scene 112-118: The Sinner’s Anguish
+- who: l'omo | status: mentioned | basis: 114-114
+- who: demon | status: mentioned | basis: 113-113
+- who: l peccator | status: present | basis: 118-118
+
+## Scene 119-126: Vanni Fucci’s Identity
+- who: Dio | status: mentioned | basis: 119-119
+- who: Virgilio | status: present | basis: 121-121
+- who: Vanni Fucci | status: present | basis: 121-126
+
+## Scene 127-139: The Confession of Theft
+- who: Dante | status: present | basis: 127-127
+- who: Virgilio | status: present | basis: 127-127
+- who: Vanni Fucci | status: present | basis: 130-133
+
+## Scene 140-151: The Prophecy of War
+- who: Dante | status: present | basis: 140-151
+- who: Neri | status: mentioned | basis: 143-143
+- who: ogne Bianco | status: mentioned | basis: 150-150
+- who: Vanni Fucci | status: present | basis: 140-151

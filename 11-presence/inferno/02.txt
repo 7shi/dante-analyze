@@ -1,0 +1,87 @@
+# Canto 02 — The Divine Intervention and Dante's Rebirth of Will
+
+## Scene 1-9: Prologue and Invocation
+- who: Dante | status: present | basis: 3-4
+- who: muse | status: mentioned | basis: 7-7
+
+## Scene 10-27: Virgil's Illustrious Lineage
+- who: Dante | status: present | basis: 10-10
+- who: Virgilio | status: present | basis: 10-10
+- who: Enea | status: mentioned | basis: 13-15
+- who: li discendenti di Enea | status: mentioned | basis: 20-20
+- who: omo d'intelletto | status: mentioned | basis: 19-19
+- who: il Padre | status: mentioned | basis: 16-16
+- who: il successor del maggior Piero | status: mentioned | basis: 24-24
+
+## Scene 28-36: Dante's Self-Doubt
+- who: Paulo | status: mentioned | basis: 32-32
+- who: Dante | status: present | basis: 31-36
+- who: Dio | status: mentioned | basis: 28-31
+- who: Enëa | status: mentioned | basis: 32-32
+- who: Virgilio | status: present | basis: 36-36
+
+## Scene 37-42: The Paralysis of Will
+- who: quei che disvuol ciò che volle | status: mentioned | basis: 37-37
+- who: Dante | status: present | basis: 40-42
+
+## Scene 43-51: Virgil's Diagnosis
+- who: Virgilio | status: present | basis: 43-51
+- who: Dante | status: present | basis: 43-51
+- who: l'omo | status: mentioned | basis: 46-47
+
+## Scene 52-57: The Setting of the Encounter
+- who: Virgilio | status: present | basis: 52-56
+- who: color che son sospesi | status: present | basis: 52-52
+- who: Beatrice | status: present | basis: 53-57
+
+## Scene 58-74: Beatrice's Message
+- who: Virgilio | status: present | basis: 58-74
+- who: Dante | status: mentioned | basis: 61-69
+- who: Beatrice | status: present | basis: 65-74
+- who: quel ch'i' ho di lui nel cielo udito | status: mentioned | basis: 66-66
+- who: il segnor mio | status: mentioned | basis: 73-74
+
+## Scene 75-84: Dante's Inquiry
+- who: Virgilio | status: present | basis: 75-75
+- who: Dante | status: present | basis: 75-75
+- who: Beatrice | status: mentioned | basis: 76-84
+
+## Scene 85-99: Beatrice's Immunity
+- who: Dante | status: present | basis: 85-86
+- who: Virgilio | status: present | basis: 86-87
+- who: Beatrice | status: mentioned | basis: 94-97
+- who: Dio | status: mentioned | basis: 91-91
+- who: Lucia | status: mentioned | basis: 97-99
+
+## Scene 100-114: Lucia's Intervention
+- who: Lucia | status: present | basis: 100-112
+- who: Virgilio | status: mentioned | basis: 114-114
+- who: Rachele | status: present | basis: 102-102
+- who: Beatrice | status: present | basis: 103-114
+- who: Dante | status: present | basis: 101-102
+- who: la volgare schiera | status: mentioned | basis: 105-105
+- who: persone ratte | status: mentioned | basis: 109-109
+- who: altri | status: mentioned | basis: 114-114
+
+## Scene 115-117: The Emotional Impact
+- who: Dante | status: present | basis: 115-117
+- who: Virgilio | status: present | basis: 115-117
+
+## Scene 118-126: Virgil's Final Challenge
+- who: Virgilio | status: present | basis: 118-126
+- who: Dante | status: present | basis: 118-126
+- who: Beatrice | status: mentioned | basis: 118-125
+- who: Lucia | status: mentioned | basis: 124-125
+
+## Scene 127-132: The Metaphor of the Flowers
+- who: fioretti | status: mentioned | basis: 127-129
+- who: Dante | status: present | basis: 130-132
+
+## Scene 133-140: Dante's Renewed Commitment
+- who: Beatrice | status: mentioned | basis: 133-135
+- who: Dante | status: present | basis: 133-140
+- who: Virgilio | status: present | basis: 134-140
+
+## Scene 141-142: The Resumed Journey
+- who: Virgilio | status: present | basis: 141-141
+- who: Dante | status: present | basis: 141-142

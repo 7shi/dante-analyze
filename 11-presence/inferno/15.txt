@@ -1,0 +1,80 @@
+# Canto 15 — The Encounter with Brunetto Latino
+
+## Scene 1-12: The Simile of the Flooding Banks
+- who: Dante | status: present | basis: 1-1
+- who: Virgilio | status: present | basis: 1-1
+- who: Fiamminghi | status: mentioned | basis: 4-6
+- who: Dio | status: mentioned | basis: 12-12
+
+## Scene 13-21: The Approaching Procession
+- who: Dante | status: present | basis: 13-20
+- who: Virgilio | status: present | basis: 13-20
+- who: d'anime una schiera | status: present | basis: 16-20
+- who: uno altro | status: mentioned | basis: 19-19
+- who: l vecchio sartor | status: mentioned | basis: 21-21
+
+## Scene 22-30: The Recognition of Dante
+- who: cotal famiglia | status: present | basis: 22-22
+- who: Dante | status: present | basis: 23-30
+- who: ser Brunetto | status: present | basis: 23-30
+
+## Scene 31-42: Brunetto's Instructions
+- who: Brunetto Latino | status: present | basis: 31-42
+- who: Dante | status: present | basis: 31-42
+- who: Virgilio | status: present | basis: 36-36
+- who: qual di questa greggia | status: present | basis: 37-42
+
+## Scene 43-54: Dante's Explanation of his Descent
+- who: Dante | status: present | basis: 43-54
+- who: Brunetto Latino | status: present | basis: 44-50
+- who: l'uom | status: mentioned | basis: 45-45
+- who: Virgilio | status: present | basis: 48-54
+
+## Scene 55-60: The Promise of Destiny
+- who: Brunetto Latino | status: present | basis: 55-55
+- who: Dante | status: present | basis: 55-55
+
+## Scene 61-69: The Warning Against Fiesole
+- who: i fiorentini | status: mentioned | basis: 61-68
+- who: Dante | status: present | basis: 64-69
+
+## Scene 70-78: The Prophecy of the Holy Seed
+- who: Dante | status: present | basis: 70-72
+
+## Scene 79-87: Dante's Tribute to his Teacher
+- who: Dante | status: present | basis: 80-80
+- who: Brunetto Latino | status: present | basis: 80-80
+- who: l'uom | status: mentioned | basis: 85-85
+
+## Scene 88-96: Acceptance of Fortune
+- who: Brunetto Latino | status: present | basis: 88-96
+- who: Dante | status: present | basis: 88-96
+- who: Beatrice | status: mentioned | basis: 90-90
+- who: l villan | status: mentioned | basis: 96-96
+
+## Scene 97-99: Virgil's Instruction
+- who: Virgilio | status: present | basis: 97-99
+- who: Dante | status: present | basis: 98-99
+
+## Scene 100-105: Dante's Inquiry
+- who: Ser Brunetto Latino | status: present | basis: 101-103
+- who: Dante | status: present | basis: 100-103
+- who: li suoi compagni | status: mentioned | basis: 102-104
+
+## Scene 106-114: The Catalog of Scholars
+- who: Dante | status: present | basis: 106-106
+- who: cherci | status: present | basis: 106-109
+- who: Priscian | status: present | basis: 109-109
+- who: Francesco d'Accorso | status: present | basis: 110-110
+- who: Adriano V | status: mentioned | basis: 112-113
+
+## Scene 115-120: The Interrupted Farewell
+- who: Dante | status: present | basis: 119-119
+- who: gente | status: present | basis: 118-118
+- who: Ser Brunetto Latino | status: present | basis: 115-120
+
+## Scene 121-124: The Final Simile
+- who: Brunetto Latino | status: present | basis: 121-121
+- who: coloro che corrono a Verona | status: mentioned | basis: 122-123
+- who: quelli che vince | status: mentioned | basis: 124-124
+- who: colui che perde | status: mentioned | basis: 124-124

@@ -1,0 +1,87 @@
+# Canto 18 — The Descent into the First Bolgia of Malebolge
+
+## Scene 1-18: The Topography of Malebolge
+- who: Dante | status: present | basis: 6-6
+- who: i costruttori dei castelli | status: mentioned | basis: 10-15
+
+## Scene 19-24: Arrival in the First Bolgia
+- who: Dante | status: present | basis: 19-22
+- who: Gerïon | status: present | basis: 19-20
+- who: Virgilio | status: present | basis: 20-21
+- who: novi frustatori | status: present | basis: 23-24
+
+## Scene 25-33: The Flow of Sinners
+- who: i peccatori | status: present | basis: 25-27
+- who: Dante | status: present | basis: 26-27
+- who: Virgilio | status: present | basis: 26-27
+- who: gente | status: mentioned | basis: 29-30
+- who: Santo Pietro | status: mentioned | basis: 32-32
+
+## Scene 34-39: The Brutal Tormentors
+- who: Dante | status: present | basis: 35-35
+- who: demoni cornuti | status: present | basis: 35-36
+- who: ruffiani e seduttori | status: present | basis: 36-37
+
+## Scene 40-51: Recognition of Caccianemico
+- who: Dante | status: present | basis: 40-51
+- who: Caccianemico | status: present | basis: 40-51
+- who: Virgilio | status: present | basis: 44-45
+
+## Scene 52-63: The Sinner's Confession
+- who: Caccianemico | status: present | basis: 52-52
+- who: Dante | status: present | basis: 52-52
+- who: marchese | status: mentioned | basis: 56-56
+- who: bolognese | status: mentioned | basis: 58-58
+
+## Scene 64-66: The Demon's Interruption
+- who: Caccianemico | status: present | basis: 64-66
+- who: demonio | status: present | basis: 64-65
+- who: femmine | status: mentioned | basis: 66-66
+
+## Scene 67-72: Moving Along the Rim
+- who: Dante | status: present | basis: 67-72
+- who: Virgilio | status: present | basis: 67-72
+
+## Scene 73-78: Virgil's Warning
+- who: Dante | status: present | basis: 73-78
+- who: Virgilio | status: present | basis: 73-78
+- who: li sferzati | status: present | basis: 74-78
+
+## Scene 79-81: Watching the Bridge
+- who: Dante | status: present | basis: 79-80
+- who: Virgilio | status: present | basis: 79-80
+
+## Scene 82-99: The Tragedy of Jason
+- who: Virgilio | status: present | basis: 82-83
+- who: Dante | status: present | basis: 82-83
+- who: Iasón | status: present | basis: 83-86
+- who: l'ardite femmine spietate | status: mentioned | basis: 89-89
+- who: tutti li maschi | status: mentioned | basis: 90-90
+- who: Isifile | status: mentioned | basis: 92-92
+- who: Medea | status: mentioned | basis: 96-96
+- who: color che 'n sé assanna | status: present | basis: 97-99
+
+## Scene 100-108: The Foul Junction
+- who: Dante | status: present | basis: 100-108
+- who: Virgilio | status: present | basis: 100-108
+- who: gente | status: present | basis: 103-105
+
+## Scene 109-114: The Sinner in the Filth
+- who: Dante | status: present | basis: 109-113
+- who: Virgilio | status: present | basis: 109-112
+- who: gente attuffata | status: present | basis: 113-113
+- who: li uman privadi | status: present | basis: 114-114
+
+## Scene 115-123: Recognition of Alessio Interminei
+- who: Dante | status: present | basis: 115-123
+- who: Alessio Interminei | status: present | basis: 116-123
+- who: li altri brutti | status: mentioned | basis: 119-123
+
+## Scene 124-126: The Flattery of the Sinner
+- who: Alessio Interminei | status: present | basis: 124-126
+
+## Scene 127-136: The Observation of Taïde
+- who: Virgilio | status: present | basis: 127-136
+- who: Dante | status: present | basis: 128-136
+- who: Taïde | status: present | basis: 130-133
+- who: drudo suo | status: mentioned | basis: 134-135

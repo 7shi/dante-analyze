@@ -1,0 +1,99 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+
+## Scene 1-6: The Sudden Cry
+- who: Dante | status: present | basis: 1-3
+- who: quell' ombre | status: present | basis: 1-1
+- who: Virgilio | status: present | basis: 2-2
+- who: una | status: present | basis: 3-4
+
+## Scene 7-9: Dante's Distraction
+- who: Dante | status: present | basis: 7-9
+
+## Scene 10-18: Virgil's Admonishment
+- who: Virgilio | status: present | basis: 10-18
+- who: Dante | status: present | basis: 10-13
+- who: le genti | status: present | basis: 12-13
+- who: l'omo | status: mentioned | basis: 16-18
+
+## Scene 19-21: Dante's Compliance
+- who: Dante | status: present | basis: 19-20
+- who: Virgilio | status: present | basis: 20-20
+- who: l'uom | status: mentioned | basis: 21-21
+
+## Scene 22-27: The Approaching Procession
+- who: le genti | status: present | basis: 23-27
+- who: Dante | status: present | basis: 23-26
+- who: Virgilio | status: present | basis: 23-23
+
+## Scene 28-30: The Messengers Arrive
+- who: anime | status: present | basis: 28-30
+- who: Dante | status: present | basis: 29-30
+- who: Virgilio | status: present | basis: 29-30
+
+## Scene 31-36: Virgil's Verification
+- who: Virgilio | status: present | basis: 31-31
+- who: anime | status: present | basis: 31-31
+- who: Dante | status: present | basis: 31-31
+
+## Scene 37-42: The Swarming Souls
+- who: Dante | status: present | basis: 37-41
+- who: Virgilio | status: present | basis: 41-41
+- who: schiera | status: mentioned | basis: 42-42
+
+## Scene 43-45: The Poet's Warning
+- who: questa gente | status: present | basis: 43-44
+- who: Dante | status: present | basis: 44-45
+- who: Virgilio | status: present | basis: 44-44
+
+## Scene 46-57: The Collective Plea
+- who: Dante | status: present | basis: 46-51
+- who: i peccatori | status: present | basis: 48-57
+- who: alcun | status: mentioned | basis: 49-49
+- who: Dio | status: mentioned | basis: 56-57
+
+## Scene 58-63: Dante's Vow
+- who: Dante | status: present | basis: 58-58
+- who: spiriti ben nati | status: present | basis: 60-60
+- who: Virgilio | status: mentioned | basis: 62-62
+
+## Scene 64-72: The First Soul's Request
+- who: ciascun | status: mentioned | basis: 64-64
+- who: uno | status: present | basis: 64-72
+- who: Dante | status: present | basis: 65-72
+- who: Carlo | status: mentioned | basis: 69-69
+
+## Scene 73-84: The Death in the Marsh
+- who: Pier della Vigna | status: present | basis: 73-84
+- who: li Antenori | status: mentioned | basis: 75-75
+- who: quel da Esti | status: mentioned | basis: 77-77
+- who: Orïaco | status: mentioned | basis: 80-80
+
+## Scene 85-90: The Second Soul's Appearance
+- who: Bonconte | status: present | basis: 85-90
+- who: Dante | status: present | basis: 86-87
+- who: Giovanna | status: mentioned | basis: 89-89
+- who: anime | status: present | basis: 90-90
+
+## Scene 91-93: Dante's Inquiry
+- who: Dante | status: present | basis: 91-91
+- who: Bonconte di Montefeltro | status: present | basis: 91-93
+
+## Scene 94-108: The Battle of Angels
+- who: Bonconte di Montefeltro | status: present | basis: 94-94
+- who: Maria | status: mentioned | basis: 101-101
+- who: Dante | status: present | basis: 103-103
+- who: vivi | status: mentioned | basis: 103-103
+- who: l'angel di Dio | status: mentioned | basis: 104-104
+- who: demonio | status: mentioned | basis: 104-104
+
+## Scene 109-114: The Formation of Mist
+- who: Dante | status: present | basis: 109-109
+
+## Scene 115-129: The River's Embrace
+- who: Bonconte di Montefeltro | status: present | basis: 124-129
+
+## Scene 130-136: The Plea of La Pia
+- who: Dante | status: present | basis: 130-130
+- who: la Pia | status: present | basis: 132-133
+- who: Bonconte di Montefeltro | status: present | basis: 132-132
+- who: marito della Pia | status: mentioned | basis: 135-136

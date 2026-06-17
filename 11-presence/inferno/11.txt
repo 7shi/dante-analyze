@@ -1,0 +1,72 @@
+# Canto 11 — The Hierarchy of Sin and the Classification of Fraud and Violence
+
+## Scene 1-9: The Inscription at the Abyss
+- who: Dante | status: present | basis: 3-7
+- who: Virgilio | status: present | basis: 3-6
+- who: Anastasio papa | status: mentioned | basis: 8-8
+- who: Fotin | status: mentioned | basis: 9-9
+
+## Scene 10-15: Preparing for the Descent
+- who: Virgilio | status: present | basis: 10-15
+- who: Dante | status: present | basis: 13-15
+
+## Scene 16-27: Overview of the Circles
+- who: Dante | status: present | basis: 16-21
+- who: Virgilio | status: present | basis: 16-17
+- who: spirti maladetti | status: mentioned | basis: 19-19
+- who: l'uom | status: mentioned | basis: 25-25
+- who: Dio | status: mentioned | basis: 26-26
+- who: li frodolenti | status: mentioned | basis: 26-27
+
+## Scene 28-39: The Circle of Violence
+- who: vïolenti | status: mentioned | basis: 28-28
+- who: Dio, sé, prossimo | status: mentioned | basis: 31-31
+- who: Dio | status: mentioned | basis: 31-31
+- who: prossimo | status: mentioned | basis: 31-35
+- who: Virgilio | status: present | basis: 32-32
+- who: Dante | status: present | basis: 33-33
+- who: omicide | status: mentioned | basis: 37-37
+- who: guastatori | status: mentioned | basis: 38-38
+- who: predon | status: mentioned | basis: 38-38
+
+## Scene 40-51: Violence Against Self and God
+- who: l'omo | status: mentioned | basis: 40-40
+- who: Dio | status: mentioned | basis: 46-51
+
+## Scene 52-66: The Circle of Fraud
+- who: l'omo | status: mentioned | basis: 53-53
+- who: colui che 'n lui fida | status: mentioned | basis: 53-53
+- who: quel che fidanza non imborsa | status: mentioned | basis: 54-54
+- who: chi affattura | status: mentioned | basis: 58-58
+- who: ruffian | status: mentioned | basis: 60-60
+- who: baratti | status: mentioned | basis: 60-60
+- who: qualunque trade | status: mentioned | basis: 66-66
+
+## Scene 67-75: Dante's Inquiry
+- who: Dante | status: present | basis: 67-67
+- who: Virgilio | status: present | basis: 67-70
+- who: quei de la palude pingue | status: mentioned | basis: 70-75
+- who: Dio | status: mentioned | basis: 74-75
+
+## Scene 76-90: The Aristotelian Defense
+- who: Virgilio | status: present | basis: 76-77
+- who: Dante | status: present | basis: 76-88
+- who: Dio | status: mentioned | basis: 84-84
+- who: incontinenti | status: mentioned | basis: 82-90
+- who: questi felli | status: present | basis: 88-88
+
+## Scene 91-96: Dante's Request for Reversal
+- who: Virgilio | status: present | basis: 91-96
+- who: Dante | status: present | basis: 95-95
+
+## Scene 97-111: The Theology of Usury
+- who: Dante | status: present | basis: 97-111
+- who: Virgilio | status: present | basis: 97-111
+- who: chi la 'ntende | status: mentioned | basis: 97-97
+- who: Dio | status: mentioned | basis: 100-105
+- who: 'l discente | status: mentioned | basis: 104-104
+- who: l'usuriere | status: mentioned | basis: 109-111
+
+## Scene 112-115: Celestial Navigation
+- who: Dante | status: present | basis: 112-112
+- who: Virgilio | status: present | basis: 112-112

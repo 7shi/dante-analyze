@@ -30,6 +30,7 @@ measured against — not a shortcut poured in.
 - `08-kg/` — the assembled per-canticle graph as JSONL (regenerable: `make -C 08-kg`)
 - `09-location/` — per-scene current setting (committed)
 - `10-topography/` — canonical regions per canticle (committed)
+- `11-presence/` — present cast versus merely-mentioned referents per scene (committed)
 - `ref/` — reference material
 
 ## Usage
@@ -112,10 +113,10 @@ The speaker/edge data is intended to feed the translation context lock (`dante-d
 
 ## Context lock
 
-The KG is action-only (who-does-what); it carries no **setting**. A context-lock layer supplies that
-missing where-layer, built bottom-up from the text (no external geography). Two passes are committed
-for all three canticles (100 cantos); per-pass design and measured results are in each subdir's
-`README.md`:
+The KG is action-only (who-does-what); it carries no **setting**, nor who is bodily present versus
+merely named. A context-lock layer supplies those missing layers, built bottom-up from the text (no
+external geography or canon). Three passes are committed for all three canticles (100 cantos);
+per-pass design and measured results are in each subdir's `README.md`:
 
 1. **Location** (`09-location/`, LLM) — each scene's current physical setting in the source's own
    place-words, current-setting-only (a merely named, recalled, or compared place is excluded), with
@@ -123,9 +124,13 @@ for all three canticles (100 cantos); per-pass design and measured results are i
 2. **Topography** (`10-topography/`, LLM + code) — folds those per-scene surfaces into canonical
    **regions** via a positional journey-walk, one region per scene (a piecewise-constant sequence).
    The place analogue of the registry. → `10-topography/README.md`
+3. **Presence** (`11-presence/`, code + LLM) — code gathers each scene's already-resolved roster
+   (`04-tags` → `05-registry`); the LLM only labels each figure **present** (bodily on stage) or
+   **mentioned** (named but absent), with a source-line basis. The person analogue of the
+   location/topography split. → `11-presence/README.md`
 
-Further passes — presence (cast versus merely mentioned), addressee, cohort, and a final code join
-into the per-canto lock — are planned in `PLAN.md`.
+Further passes — addressee, cohort, and a final code join into the per-canto lock — are planned in
+`PLAN.md`.
 
 ## Downstream Projects
 

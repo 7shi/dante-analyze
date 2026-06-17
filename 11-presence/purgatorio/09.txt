@@ -1,0 +1,103 @@
+# Canto 09 — The Vision of the Needle and the Arrival at the Gate of Purgatory
+
+## Scene 1-12: The Celestial Setting
+- who: La concubina | status: mentioned | basis: 1-4
+- who: Titone | status: mentioned | basis: 1-1
+- who: gente | status: mentioned | basis: 6-6
+- who: Dante | status: present | basis: 10-12
+- who: Virgilio | status: present | basis: 10-12
+- who: Sordello | status: present | basis: 12-12
+- who: Nin | status: present | basis: 12-12
+- who: Currado | status: present | basis: 12-12
+- who: Adamo | status: mentioned | basis: 10-10
+
+## Scene 13-24: The Dream Vision
+- who: Dante | status: present | basis: 19-22
+- who: Ganimede | status: mentioned | basis: 23-24
+
+## Scene 25-33: The Descent of the Needle
+- who: Dante | status: present | basis: 25-33
+
+## Scene 34-42: The Awakening of Achilles
+- who: Achille | status: mentioned | basis: 34-39
+- who: Teti | status: mentioned | basis: 37-37
+- who: Chirón | status: mentioned | basis: 37-37
+- who: li Greci | status: mentioned | basis: 39-39
+- who: Dante | status: present | basis: 40-41
+- who: l'uom | status: mentioned | basis: 42-42
+
+## Scene 43-45: Return to Reality
+- who: Dante | status: present | basis: 43-45
+- who: Virgilio | status: mentioned | basis: 43-43
+
+## Scene 46-63: Virgil's Revelation
+- who: Dante | status: present | basis: 46-47
+- who: Virgilio | status: present | basis: 46-46
+- who: Lucia | status: mentioned | basis: 55-55
+- who: Virgilio, l'altre genti | status: mentioned | basis: 58-58
+- who: Sordello | status: mentioned | basis: 58-58
+- who: Currado Malaspina | status: mentioned | basis: 58-58
+
+## Scene 64-69: Dante's Reaction
+- who: l'uom | status: mentioned | basis: 64-66
+- who: Dante | status: present | basis: 67-69
+- who: Virgilio | status: present | basis: 68-69
+
+## Scene 70-72: The Poet's Meta-commentary
+- who: lettor | status: present | basis: 70-72
+- who: Dante | status: present | basis: 70-72
+
+## Scene 73-78: The Three Steps
+- who: Dante | status: present | basis: 73-76
+- who: Virgilio | status: present | basis: 73-73
+- who: un portier | status: present | basis: 78-78
+
+## Scene 79-84: The Flash of the Sword
+- who: Dante | status: present | basis: 79-84
+- who: l'angelo | status: present | basis: 80-82
+- who: Virgilio | status: present | basis: 83-83
+
+## Scene 85-93: The Porter's Inquiry
+- who: Dante | status: present | basis: 85-93
+- who: Virgilio | status: present | basis: 88-90
+- who: il portinaio | status: present | basis: 85-93
+- who: Lucia | status: mentioned | basis: 88-91
+
+## Scene 94-102: The Three Colored Steps
+- who: Dante | status: present | basis: 94-101
+- who: Virgilio | status: present | basis: 94-94
+
+## Scene 103-108: The Angel on the Threshold
+- who: l'angel di Dio | status: present | basis: 103-104
+- who: Dante | status: present | basis: 105-107
+- who: Virgilio | status: present | basis: 107-107
+
+## Scene 109-114: The Marking of the Forehead
+- who: Dante | status: present | basis: 109-114
+- who: l'angelo | status: present | basis: 109-114
+
+## Scene 115-120: The Golden and Silver Keys
+- who: l'angelo | status: present | basis: 116-120
+- who: Dante | status: present | basis: 120-120
+
+## Scene 121-129: The Porter's Warning
+- who: L'Angelo di Dio | status: present | basis: 123-123
+- who: Dante | status: present | basis: 123-123
+- who: Virgilio | status: present | basis: 123-123
+- who: San Pietro | status: mentioned | basis: 127-128
+- who: gente | status: mentioned | basis: 129-129
+
+## Scene 130-132: The Command to Enter
+- who: l'angelo | status: present | basis: 130-131
+- who: Dante | status: present | basis: 131-131
+- who: Virgilio | status: present | basis: 131-131
+
+## Scene 133-138: The Sound of the Hinges
+- who: Tarpëa | status: mentioned | basis: 136-138
+- who: Metello | status: mentioned | basis: 137-137
+
+## Scene 139-145: The Celestial Hymn
+- who: Dante | status: present | basis: 139-143
+- who: Dio | status: mentioned | basis: 140-140
+- who: anime purganti | status: present | basis: 141-141
+- who: persona generica | status: mentioned | basis: 143-144

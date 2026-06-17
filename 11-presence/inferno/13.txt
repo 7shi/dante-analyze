@@ -1,0 +1,95 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+
+## Scene 1-15: The Gloomy Woods
+- who: Nesso | status: mentioned | basis: 1-1
+- who: Dante | status: present | basis: 2-2
+- who: Virgilio | status: present | basis: 2-2
+- who: le brutte Arpie | status: present | basis: 10-15
+- who: i Troiani | status: mentioned | basis: 11-11
+
+## Scene 16-21: Virgil's Warning
+- who: Virgilio | status: present | basis: 16-21
+- who: Dante | status: present | basis: 17-20
+
+## Scene 22-30: The Mysterious Voices
+- who: Dante | status: present | basis: 22-30
+- who: persona | status: mentioned | basis: 23-23
+- who: Virgilio | status: present | basis: 25-28
+- who: gente | status: mentioned | basis: 27-27
+
+## Scene 31-39: The Broken Branch
+- who: Dante | status: present | basis: 31-32
+- who: uomini | status: mentioned | basis: 37-37
+- who: anime di serpi | status: mentioned | basis: 39-39
+
+## Scene 40-45: The Splintering Tree
+- who: Dante | status: present | basis: 44-45
+
+## Scene 46-54: Virgil's Inquiry
+- who: Dante | status: present | basis: 47-47
+- who: Virgilio | status: present | basis: 46-54
+- who: anima lesa | status: present | basis: 47-54
+
+## Scene 55-63: The Keeper of Secrets
+- who: Virgilio | status: present | basis: 56-56
+- who: Dante | status: present | basis: 55-56
+- who: Federigo | status: mentioned | basis: 59-59
+
+## Scene 64-72: The Sin of Betrayal
+- who: La meretrice | status: mentioned | basis: 64-64
+- who: Federico II | status: mentioned | basis: 65-68
+- who: l'anima | status: present | basis: 70-70
+- who: li animi tutti | status: mentioned | basis: 67-67
+
+## Scene 73-78: A Vow of Loyalty
+- who: Pier della Vigna | status: present | basis: 73-78
+- who: Dante | status: present | basis: 74-76
+- who: Virgilio | status: present | basis: 74-76
+- who: Federico II | status: mentioned | basis: 75-75
+
+## Scene 79-84: The Poet's Encouragement
+- who: Virgilio | status: present | basis: 80-82
+- who: Pier della Vigna | status: present | basis: 79-81
+- who: Dante | status: present | basis: 80-84
+
+## Scene 85-90: The Request for Knowledge
+- who: Virgilio | status: present | basis: 85-85
+- who: Dante | status: present | basis: 85-86
+- who: spirito incarcerato | status: present | basis: 87-87
+- who: l'anima | status: mentioned | basis: 88-88
+
+## Scene 91-108: The Fate of the Suicides
+- who: Dante | status: present | basis: 93-93
+- who: Virgilio | status: present | basis: 93-93
+- who: l'anima feroce | status: mentioned | basis: 94-100
+- who: Minòs | status: mentioned | basis: 96-96
+- who: l'Arpie | status: mentioned | basis: 101-102
+- who: l'altre | status: mentioned | basis: 103-103
+
+## Scene 109-114: The Sound of the Hunt
+- who: Dante | status: present | basis: 109-111
+- who: Virgilio | status: present | basis: 109-111
+- who: Pier delle Vigne | status: mentioned | basis: 109-110
+
+## Scene 115-123: The Fleeing Souls
+- who: Lano | status: present | basis: 120-120
+- who: Toppo | status: mentioned | basis: 121-121
+
+## Scene 124-129: The Attack of the Hounds
+- who: Lano | status: present | basis: 124-124
+- who: miser | status: present | basis: 127-129
+
+## Scene 130-135: The Wounded Bush
+- who: Virgilio | status: present | basis: 130-130
+- who: Iacopo | status: mentioned | basis: 133-133
+- who: Santo Andrea | status: mentioned | basis: 133-133
+- who: Lano | status: mentioned | basis: 133-133
+
+## Scene 136-151: The History of Florence
+- who: Virgilio | status: present | basis: 136-142
+- who: Pier della Vigna | status: present | basis: 136-151
+- who: Dante | status: present | basis: 139-142
+- who: il Batista | status: mentioned | basis: 143-143
+- who: l primo padrone | status: mentioned | basis: 144-147
+- who: que' cittadin | status: mentioned | basis: 148-150
+- who: Attila | status: mentioned | basis: 149-149

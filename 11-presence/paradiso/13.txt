@@ -1,0 +1,83 @@
+# Canto 13 — The Angelic Discourse on Divine Light and Wisdom
+
+## Scene 1-6: The Vision of the Fifteen Stars
+- who: lettore | status: present | basis: 1-2
+- who: Dante | status: present | basis: 2-3
+
+## Scene 7-24: The Movement of the Zodiacal Belt
+- who: lettore | status: mentioned | basis: 7-10
+- who: Arianna | status: mentioned | basis: 14-14
+- who: Dante | status: present | basis: 21-21
+
+## Scene 25-30: The Song of the Trinity
+- who: Bacco | status: mentioned | basis: 25-25
+- who: la Trinità | status: mentioned | basis: 26-26
+- who: Cristo | status: mentioned | basis: 27-27
+- who: Dante | status: present | basis: 29-29
+- who: Beatrice | status: present | basis: 29-29
+- who: San Domenico | status: present | basis: 29-29
+- who: quei santi lumi | status: present | basis: 29-29
+
+## Scene 31-36: The Metaphor of the Wheat
+- who: Beatrice | status: present | basis: 31-31
+- who: concordi numi | status: present | basis: 31-31
+- who: Francesco | status: mentioned | basis: 33-33
+
+## Scene 37-48: The Metaphor of the Pierced Rib
+- who: Dante | status: present | basis: 37-37
+- who: Adamo | status: mentioned | basis: 37-37
+- who: Cristo | status: mentioned | basis: 40-40
+- who: Beatrice | status: mentioned | basis: 38-38
+
+## Scene 49-60: The Hierarchy of Divine Light
+- who: Dante | status: present | basis: 49-50
+- who: Beatrice | status: present | basis: 49-50
+- who: il nostro Sire | status: mentioned | basis: 54-54
+- who: quella viva luce | status: mentioned | basis: 55-55
+
+## Scene 61-78: The Descent of Light through the Spheres
+- who: Beatrice | status: present | basis: 64-72
+- who: cose generate | status: mentioned | basis: 65-65
+- who: Dante | status: present | basis: 72-72
+- who: l'artista | status: mentioned | basis: 77-78
+
+## Scene 79-87: The Models of Perfect Reception
+- who: Maria | status: mentioned | basis: 84-87
+- who: Beatrice | status: present | basis: 79-87
+- who: Cristo | status: mentioned | basis: 84-87
+
+## Scene 88-93: Dante’s Unspoken Question
+- who: Dante | status: present | basis: 88-90
+- who: Cristo | status: mentioned | basis: 89-92
+- who: lettore | status: mentioned | basis: 92-92
+
+## Scene 94-108: The Purpose of Solomon’s Wisdom
+- who: Dante | status: present | basis: 94-107
+- who: lettore | status: mentioned | basis: 103-103
+- who: Salomone | status: mentioned | basis: 95-96
+- who: li motor | status: mentioned | basis: 98-98
+- who: regi | status: mentioned | basis: 108-108
+- who: buon | status: mentioned | basis: 108-108
+
+## Scene 109-120: The Danger of Unskilled Interpretation
+- who: lettore | status: present | basis: 109-109
+- who: Adamo | status: mentioned | basis: 111-111
+- who: Cristo | status: mentioned | basis: 111-111
+- who: uom lasso | status: mentioned | basis: 113-113
+- who: li stolti | status: mentioned | basis: 115-115
+
+## Scene 121-129: The Failures of Past Thinkers
+- who: Parmenide | status: mentioned | basis: 125-125
+- who: Melisso | status: mentioned | basis: 125-125
+- who: Brisso | status: mentioned | basis: 125-125
+- who: Sabellio | status: mentioned | basis: 127-127
+- who: Arrio | status: mentioned | basis: 127-127
+- who: quelli stolti | status: mentioned | basis: 127-129
+
+## Scene 130-142: The Warning Against Premature Judgment
+- who: le genti | status: mentioned | basis: 130-130
+- who: Dante | status: present | basis: 130-142
+- who: Donna Berta | status: mentioned | basis: 139-139
+- who: Ser Martino | status: mentioned | basis: 139-139
+- who: un furare | status: mentioned | basis: 140-140
+- who: altro offerere | status: mentioned | basis: 140-140

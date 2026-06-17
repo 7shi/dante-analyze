@@ -1,0 +1,67 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+
+## Scene 1-12: Pluto's Outburst and Virgil's Rebuke
+- who: Satàn | status: mentioned | basis: 1-1
+- who: Pluto | status: present | basis: 1-2
+- who: Virgilio | status: present | basis: 3-12
+- who: Dante | status: present | basis: 4-5
+- who: Michele | status: mentioned | basis: 11-12
+
+## Scene 13-18: Descent into the Fourth Circle
+- who: Dante | status: present | basis: 16-17
+- who: Virgilio | status: present | basis: 16-17
+
+## Scene 19-24: The Chaos of the Swirling Souls
+- who: Dio | status: mentioned | basis: 19-19
+- who: gente | status: present | basis: 24-24
+- who: Dante | status: present | basis: 20-21
+
+## Scene 25-35: The Mechanics of the Punishment
+- who: Dante | status: present | basis: 25-25
+- who: gente | status: present | basis: 25-35
+
+## Scene 36-48: Identification of the Avaricious
+- who: Dante | status: present | basis: 36-40
+- who: Virgilio | status: present | basis: 37-40
+- who: gente | status: present | basis: 38-39
+- who: cherci | status: present | basis: 38-46
+- who: papi | status: present | basis: 47-47
+- who: i cardinali | status: present | basis: 47-47
+
+## Scene 49-66: The Futility of Wealth
+- who: Dante | status: present | basis: 49-52
+- who: Virgilio | status: present | basis: 49-52
+- who: quest' anime stanche | status: mentioned | basis: 65-66
+- who: questi col pugno chiuso | status: mentioned | basis: 56-57
+- who: questi coi crin mozzi | status: mentioned | basis: 57-57
+- who: umana gente | status: mentioned | basis: 63-63
+
+## Scene 67-84: The Doctrine of Fortune
+- who: Virgilio | status: present | basis: 67-70
+- who: Dante | status: present | basis: 67-72
+- who: Dio | status: mentioned | basis: 73-73
+- who: chi conduce | status: mentioned | basis: 74-74
+
+## Scene 85-96: The Unchanging Divine Order
+- who: li altri dèi | status: mentioned | basis: 87-87
+- who: uomini | status: mentioned | basis: 92-93
+- who: l'altre prime creature | status: mentioned | basis: 95-95
+
+## Scene 97-105: Transition to the Styx
+- who: Dante | status: present | basis: 97-105
+- who: Virgilio | status: present | basis: 97-105
+
+## Scene 106-114: The Sight of the Wrathful and Sullen
+- who: Dante | status: present | basis: 109-109
+- who: genti fangose | status: present | basis: 110-114
+
+## Scene 115-126: The Lament of the Sullen
+- who: Virgilio | status: present | basis: 115-115
+- who: Dante | status: present | basis: 115-115
+- who: anime | status: present | basis: 116-116
+- who: gente | status: present | basis: 118-118
+
+## Scene 127-130: Arrival at the Tower
+- who: Dante | status: present | basis: 127-130
+- who: Virgilio | status: present | basis: 127-130
+- who: gli accidiosi | status: present | basis: 129-129

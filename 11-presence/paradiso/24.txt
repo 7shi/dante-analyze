@@ -1,0 +1,112 @@
+# Canto 24 — The Final Interrogation and the Proclamation of Faith
+
+## Scene 1-9: Beatrice’s Instruction
+- who: sodalizio eletto | status: present | basis: 1-1
+- who: Cristo | status: mentioned | basis: 2-2
+- who: Dio | status: mentioned | basis: 4-4
+- who: uomini | status: present | basis: 1-9
+- who: un uomo | status: present | basis: 4-9
+
+## Scene 10-18: The Celestial Dance
+- who: Beatrice | status: present | basis: 10-10
+- who: quelle anime liete | status: present | basis: 10-18
+- who: Dante | status: present | basis: 18-18
+
+## Scene 19-27: The Appearance of the Flame
+- who: quella di più carezza | status: present | basis: 19-19
+- who: Dante | status: present | basis: 20-20
+- who: Beatrice | status: present | basis: 22-22
+
+## Scene 28-33: Dante’s Prayer and the Flame’s Turn
+- who: San Francesco | status: present | basis: 28-32
+- who: Dante | status: present | basis: 33-33
+- who: Beatrice | status: present | basis: 28-33
+
+## Scene 34-45: The Flame’s Address to Beatrice
+- who: Francesco | status: present | basis: 34-45
+- who: Beatrice | status: present | basis: 34-34
+- who: San Pietro | status: present | basis: 34-34
+- who: Cristo | status: mentioned | basis: 35-35
+- who: Dante | status: present | basis: 37-37
+
+## Scene 46-51: The Prepared Scholar
+- who: il baccialier | status: mentioned | basis: 46-46
+- who: maestro | status: mentioned | basis: 47-47
+- who: Dante | status: present | basis: 49-49
+- who: Beatrice | status: present | basis: 50-50
+
+## Scene 52-57: The First Question
+- who: Dante | status: present | basis: 52-57
+- who: Francesco | status: present | basis: 52-53
+- who: Beatrice | status: present | basis: 55-56
+
+## Scene 58-60: The Prayer for Eloquence
+- who: Dante | status: present | basis: 58-60
+
+## Scene 61-66: Defining Faith
+- who: Dante | status: present | basis: 61-66
+- who: San Francesco | status: present | basis: 62-62
+- who: San Paolo | status: mentioned | basis: 62-63
+
+## Scene 67-78: The Logic of Belief
+- who: Dante | status: present | basis: 67-78
+- who: Paolo | status: mentioned | basis: 67-78
+
+## Scene 79-81: The Warning Against Sophistry
+- who: Dante | status: present | basis: 79-79
+- who: sofista | status: mentioned | basis: 81-81
+
+## Scene 82-87: The Test of the Purse
+- who: Francesco | status: present | basis: 82-85
+- who: Dante | status: present | basis: 85-87
+
+## Scene 88-96: The Source of Joy
+- who: San Francesco | status: present | basis: 88-91
+- who: Dante | status: present | basis: 91-96
+- who: lo Spirito Santo | status: mentioned | basis: 92-92
+
+## Scene 97-102: The Proof of Truth
+- who: Dante | status: present | basis: 97-100
+
+## Scene 103-105: The Flame’s Challenge
+- who: Dante | status: present | basis: 103-105
+- who: Dio | status: mentioned | basis: 105-105
+
+## Scene 106-111: Dante’s Defense
+- who: Dante | status: present | basis: 107-107
+- who: Francesco | status: present | basis: 107-109
+
+## Scene 112-114: The Heavenly Chorus
+- who: Dio | status: mentioned | basis: 113-113
+
+## Scene 115-117: The Guidance of Peter
+- who: Pietro | status: present | basis: 115-117
+- who: Beatrice | status: mentioned | basis: 117-117
+- who: Dante | status: present | basis: 116-117
+
+## Scene 118-123: St. Peter’s Prompting
+- who: San Pietro | status: present | basis: 118-121
+- who: Dante | status: present | basis: 119-123
+
+## Scene 124-129: The Preparation for Creed
+- who: San Pietro | status: present | basis: 124-129
+- who: Dante | status: present | basis: 124-129
+
+## Scene 130-141: The Declaration of the Creed
+- who: Dante | status: present | basis: 130-130
+- who: Dio | status: mentioned | basis: 130-130
+- who: San Pietro | status: present | basis: 137-137
+- who: Moïsè | status: mentioned | basis: 136-136
+- who: profeti | status: mentioned | basis: 136-136
+- who: Apostoli | status: mentioned | basis: 137-138
+- who: Spirto | status: mentioned | basis: 138-138
+- who: persone | status: mentioned | basis: 139-139
+
+## Scene 142-147: The Spark of Revelation
+- who: Dante | status: present | basis: 142-147
+
+## Scene 148-154: The Final Embrace
+- who: l segnor | status: mentioned | basis: 148-149
+- who: il servo | status: mentioned | basis: 149-150
+- who: San Pietro | status: present | basis: 151-154
+- who: Dante | status: present | basis: 151-154

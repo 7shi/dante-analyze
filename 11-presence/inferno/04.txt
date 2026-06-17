@@ -1,0 +1,150 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+
+## Scene 1-6: The Awakening
+- who: Dante | status: present | basis: 1-6
+- who: persona | status: mentioned | basis: 3-3
+
+## Scene 7-12: The Valley of Sorrow
+- who: Dante | status: present | basis: 7-12
+
+## Scene 13-18: The Command to Descend
+- who: Virgilio | status: present | basis: 13-15
+- who: Dante | status: present | basis: 16-18
+
+## Scene 19-24: Entering the First Circle
+- who: Virgilio | status: present | basis: 19-23
+- who: Dante | status: present | basis: 19-23
+- who: le genti | status: mentioned | basis: 19-20
+
+## Scene 25-30: The Sighing Spirits
+- who: le turbe | status: present | basis: 29-29
+- who: infanti | status: present | basis: 30-30
+- who: femmine | status: present | basis: 30-30
+- who: viri | status: present | basis: 30-30
+
+## Scene 31-42: The Nature of Limbo
+- who: Virgilio | status: present | basis: 31-31
+- who: Dante | status: present | basis: 31-31
+- who: spiriti | status: present | basis: 32-32
+- who: Dio | status: mentioned | basis: 38-38
+
+## Scene 43-50: Dante's Inquiry
+- who: Dante | status: present | basis: 43-50
+- who: gente di molto valore | status: mentioned | basis: 44-45
+- who: Virgilio | status: present | basis: 46-46
+
+## Scene 51-63: The Descent of the Patriarchs
+- who: Virgilio | status: present | basis: 51-51
+- who: Virgilio, le ombre di Limbo | status: present | basis: 51-52
+- who: Cristo | status: mentioned | basis: 53-54
+- who: Abèl | status: mentioned | basis: 56-56
+- who: Noè | status: mentioned | basis: 56-56
+- who: Moïsè | status: mentioned | basis: 57-57
+- who: Abraàm | status: mentioned | basis: 58-58
+- who: Davìd | status: mentioned | basis: 58-58
+- who: Israèl | status: mentioned | basis: 59-59
+- who: Isacco | status: mentioned | basis: 59-59
+- who: i figli di Israèl | status: mentioned | basis: 59-59
+- who: Rachele | status: mentioned | basis: 60-60
+- who: Dante | status: present | basis: 51-51
+- who: i patriarchi | status: mentioned | basis: 55-61
+- who: spiriti umani | status: mentioned | basis: 63-63
+
+## Scene 64-66: Through the Dense Forest
+- who: Dante | status: present | basis: 64-65
+- who: Virgilio | status: present | basis: 64-65
+- who: spiriti | status: present | basis: 66-66
+
+## Scene 67-78: The Discovery of the Light
+- who: Dante | status: present | basis: 67-76
+- who: Virgilio | status: present | basis: 67-73
+- who: orrevol gente | status: present | basis: 72-76
+
+## Scene 79-81: The Divine Voice
+- who: Dante | status: present | basis: 79-79
+- who: Dante, noble souls of Limbo | status: present | basis: 79-80
+- who: Virgilio | status: present | basis: 81-81
+
+## Scene 82-93: The Meeting of the Great Poets
+- who: Dante | status: present | basis: 83-83
+- who: Omero | status: present | basis: 83-88
+- who: Orazio | status: present | basis: 83-89
+- who: Ovidio | status: present | basis: 83-90
+- who: Lucano | status: present | basis: 83-90
+- who: Virgilio | status: present | basis: 83-93
+
+## Scene 94-102: The Assembly of Wisdom
+- who: Dante | status: present | basis: 94-102
+- who: Omero | status: present | basis: 95-98
+- who: Orazio | status: present | basis: 94-102
+- who: Ovidio | status: present | basis: 94-102
+- who: Lucano | status: present | basis: 94-102
+- who: Virgilio | status: present | basis: 99-99
+
+## Scene 103-111: The Noble Castle
+- who: Dante | status: present | basis: 110-110
+- who: Virgilio | status: present | basis: 103-103
+- who: Omero | status: present | basis: 110-110
+- who: Orazio | status: present | basis: 110-110
+- who: Ovidio | status: present | basis: 110-110
+- who: Lucano | status: present | basis: 110-110
+
+## Scene 112-117: The Meadow of Spirits
+- who: le genti | status: present | basis: 112-117
+- who: Dante | status: present | basis: 115-115
+- who: Virgilio | status: present | basis: 115-115
+- who: Omero | status: present | basis: 112-117
+- who: Orazio | status: present | basis: 112-117
+- who: Ovidio | status: present | basis: 112-117
+- who: Lucano | status: present | basis: 112-117
+
+## Scene 118-129: The Hall of Heroes
+- who: Dante | status: present | basis: 119-129
+- who: li spiriti magni | status: present | basis: 119-119
+- who: Eletra | status: present | basis: 121-121
+- who: Ettòr | status: present | basis: 122-122
+- who: Enea | status: present | basis: 122-122
+- who: Cesare | status: present | basis: 123-123
+- who: Cammilla | status: present | basis: 124-124
+- who: Pantasilea | status: present | basis: 124-124
+- who: Latino | status: present | basis: 125-125
+- who: Lavina | status: present | basis: 126-126
+- who: Bruto | status: present | basis: 127-127
+- who: Tarquino | status: mentioned | basis: 127-127
+- who: Lucrezia | status: present | basis: 128-128
+- who: Iulia | status: present | basis: 128-128
+- who: Marzïa | status: present | basis: 128-128
+- who: Corniglia | status: present | basis: 128-128
+- who: Saladino | status: present | basis: 129-129
+
+## Scene 130-144: The School of Philosophers
+- who: Dante | status: present | basis: 130-130
+- who: Aristotele | status: present | basis: 131-133
+- who: filosofica famiglia | status: present | basis: 132-132
+- who: Socrate | status: present | basis: 134-135
+- who: Platone | status: present | basis: 134-135
+- who: Democrito | status: present | basis: 136-136
+- who: Dïogenès | status: present | basis: 137-137
+- who: Anassagora | status: present | basis: 137-137
+- who: Tale | status: present | basis: 137-137
+- who: Empedoclès | status: present | basis: 138-138
+- who: Eraclito | status: present | basis: 138-138
+- who: Zenone | status: present | basis: 138-138
+- who: Dïascoride | status: present | basis: 139-140
+- who: Orfeo | status: present | basis: 140-140
+- who: Tulïo | status: present | basis: 141-141
+- who: Lino | status: present | basis: 141-141
+- who: Seneca | status: present | basis: 141-141
+- who: Euclide | status: present | basis: 142-142
+- who: Tolomeo | status: present | basis: 142-142
+- who: Ipocràte | status: present | basis: 143-143
+- who: Avicenna | status: present | basis: 143-143
+- who: Galïeno | status: present | basis: 143-143
+- who: Averoìs | status: present | basis: 144-144
+
+## Scene 145-147: The Poet's Limitation
+- who: Dante | status: present | basis: 145-146
+
+## Scene 148-151: Moving Toward the Light
+- who: Dante | status: present | basis: 149-151
+- who: Virgilio | status: present | basis: 149-149

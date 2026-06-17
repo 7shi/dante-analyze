@@ -1,0 +1,104 @@
+# Canto 27 — The Entrance into the Fire and the Ascent to the Earthly Paradise
+
+## Scene 1-6: The Solar Metaphor
+- who: Cristo | status: mentioned | basis: 2-2
+- who: l'angel di Dio | status: present | basis: 6-6
+- who: Dante | status: present | basis: 6-6
+- who: Virgilio | status: present | basis: 6-6
+- who: Stazio | status: present | basis: 6-6
+
+## Scene 7-13: The Angel's Command
+- who: l'angelo | status: present | basis: 7-13
+- who: Dante | status: present | basis: 9-13
+- who: Virgilio | status: present | basis: 9-13
+- who: Stazio | status: present | basis: 9-13
+
+## Scene 14-18: Dante's Terror
+- who: Dante | status: present | basis: 14-18
+- who: colui che ne la fossa è messo | status: mentioned | basis: 15-15
+
+## Scene 19-32: Virgil's Reassurance
+- who: Dante | status: present | basis: 19-20
+- who: Virgilio | status: present | basis: 19-20
+- who: Stazio | status: present | basis: 19-19
+- who: Gerïon | status: mentioned | basis: 23-23
+- who: Dio | status: mentioned | basis: 24-24
+
+## Scene 33-36: The Wall of Separation
+- who: Dante | status: present | basis: 33-36
+- who: Virgilio | status: present | basis: 34-35
+- who: Bëatrice | status: mentioned | basis: 36-36
+
+## Scene 37-42: Dante's Conversion
+- who: Tisbe | status: mentioned | basis: 37-37
+- who: Piramo | status: mentioned | basis: 38-38
+- who: Dante | status: present | basis: 40-41
+- who: Virgilio | status: present | basis: 41-41
+
+## Scene 43-48: Entering the Fire
+- who: Virgilio | status: present | basis: 43-47
+- who: Dante | status: present | basis: 46-48
+- who: Stazio | status: present | basis: 47-48
+
+## Scene 49-54: The Intensity of the Flame
+- who: Dante | status: present | basis: 49-51
+- who: Virgilio | status: present | basis: 52-54
+- who: Beatrice | status: mentioned | basis: 53-54
+
+## Scene 55-63: The Heavenly Voice
+- who: Dante | status: present | basis: 55-60
+- who: Virgilio | status: present | basis: 55-57
+- who: Statio | status: present | basis: 58-58
+- who: Patris | status: mentioned | basis: 58-58
+
+## Scene 64-69: The Upward Climb
+- who: Dante | status: present | basis: 65-69
+- who: Virgilio | status: present | basis: 67-69
+- who: Stazio | status: present | basis: 67-69
+- who: l'ombra | status: mentioned | basis: 68-68
+
+## Scene 70-75: The Evening Rest
+- who: Dante | status: present | basis: 73-74
+- who: Virgilio | status: present | basis: 73-74
+- who: Statio | status: mentioned | basis: 73-73
+
+## Scene 76-87: The Simile of the Shepherds
+- who: pastor | status: mentioned | basis: 80-86
+- who: Dante | status: present | basis: 85-86
+- who: Virgilio | status: present | basis: 85-86
+- who: Stazio | status: present | basis: 85-86
+
+## Scene 88-93: The Arrival of Sleep
+- who: Dante | status: present | basis: 89-92
+
+## Scene 94-108: The Dream of Lia
+- who: Dante | status: present | basis: 97-97
+- who: Lia | status: present | basis: 97-102
+- who: Rachel | status: mentioned | basis: 104-104
+
+## Scene 109-114: The Dawn of Awakening
+- who: Dante | status: present | basis: 113-113
+- who: Virgilio | status: present | basis: 114-114
+- who: Stazio | status: present | basis: 114-114
+
+## Scene 115-120: Virgil's Comforting Words
+- who: mortali | status: mentioned | basis: 116-116
+- who: Virgilio | status: present | basis: 118-118
+- who: Dante | status: present | basis: 117-118
+
+## Scene 121-123: The Impulse to Ascend
+- who: Dante | status: present | basis: 121-123
+
+## Scene 124-132: The Limit of Virgil's Guidance
+- who: Dante | status: present | basis: 124-132
+- who: Virgilio | status: present | basis: 124-132
+- who: Stazio | status: present | basis: 124-125
+
+## Scene 133-138: The Beauty of the Paradise
+- who: Dante | status: present | basis: 133-138
+- who: Beatrice | status: present | basis: 133-138
+- who: Virgilio | status: mentioned | basis: 136-137
+
+## Scene 139-142: The Granting of Free Will
+- who: Dante | status: present | basis: 139-142
+- who: Virgilio | status: present | basis: 139-142

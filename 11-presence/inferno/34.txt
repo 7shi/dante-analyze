@@ -1,0 +1,86 @@
+# Canto 34 — The Center of the Earth and the Encounter with Lucifer
+
+## Scene 1-9: Approaching the Mist
+- who: Lucifero | status: mentioned | basis: 1-3
+- who: Dante | status: present | basis: 2-8
+- who: Virgilio | status: present | basis: 3-9
+
+## Scene 10-15: The Shadows in the Dark
+- who: Dante | status: present | basis: 10-10
+- who: l'ombre | status: present | basis: 11-15
+
+## Scene 16-21: The Arrival at Dite
+- who: Dante | status: present | basis: 16-21
+- who: Virgilio | status: present | basis: 16-21
+- who: Lucifero | status: mentioned | basis: 18-18
+
+## Scene 22-27: Dante’s Internal Horror
+- who: Dante | status: present | basis: 22-27
+- who: lettor | status: mentioned | basis: 23-26
+
+## Scene 28-36: The Emergence of Lucifer
+- who: Lucifero | status: present | basis: 28-29
+- who: un gigante | status: mentioned | basis: 30-30
+- who: Dante | status: present | basis: 30-30
+- who: i Giganti | status: mentioned | basis: 31-31
+- who: lettore | status: present | basis: 32-32
+- who: Dio | status: mentioned | basis: 35-35
+
+## Scene 37-52: The Anatomy of the Beast
+- who: Dante | status: present | basis: 37-38
+- who: Lucifero | status: present | basis: 38-52
+
+## Scene 53-60: The Devouring of Sinners
+- who: Lucifero | status: present | basis: 53-57
+- who: il peccatore | status: present | basis: 56-60
+
+## Scene 61-67: Identifying the Traitors
+- who: Giuda Scarïotto | status: present | basis: 62-63
+- who: Virgilio | status: present | basis: 62-62
+- who: Bruto | status: present | basis: 65-66
+- who: Cassio | status: present | basis: 67-67
+- who: Dante | status: present | basis: 66-66
+
+## Scene 68-75: The Descent via the Beast
+- who: Dante | status: present | basis: 70-70
+- who: Virgilio | status: present | basis: 69-71
+
+## Scene 76-81: Reaching the Center
+- who: Dante | status: present | basis: 76-81
+- who: Virgilio | status: present | basis: 78-80
+- who: Lucifero | status: present | basis: 76-80
+- who: om | status: mentioned | basis: 80-80
+
+## Scene 82-87: Finding a Ledge
+- who: Dante | status: present | basis: 82-87
+- who: Virgilio | status: present | basis: 82-87
+
+## Scene 88-93: The Sight of the Upside-Down Legs
+- who: Dante | status: present | basis: 88-93
+- who: Lucifero | status: present | basis: 89-90
+- who: la gente grossa | status: mentioned | basis: 92-92
+
+## Scene 94-99: The Difficult Path
+- who: Dante | status: present | basis: 94-98
+- who: Virgilio | status: present | basis: 94-98
+
+## Scene 100-105: Dante’s Confusion
+- who: Dante | status: present | basis: 100-102
+- who: Virgilio | status: present | basis: 101-102
+- who: Lucifero | status: present | basis: 103-104
+
+## Scene 106-117: The Center of Gravity
+- who: Virgilio | status: present | basis: 106-106
+- who: Dante | status: present | basis: 106-106
+- who: Lucifero | status: mentioned | basis: 108-108
+- who: Adamo | status: mentioned | basis: 115-115
+
+## Scene 118-126: The Shifting Hemisphere
+- who: Lucifero | status: present | basis: 119-120
+
+## Scene 127-132: The Sound of the Stream
+- who: Belzebù | status: mentioned | basis: 127-127
+
+## Scene 133-139: The Return to the Stars
+- who: Virgilio | status: present | basis: 133-139
+- who: Dante | status: present | basis: 133-139

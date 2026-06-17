@@ -1,0 +1,107 @@
+# Canto 21 — The Encounter with Statius and the Nature of Purgatory
+
+## Scene 1-6: Dante's Thirst
+- who: la samaritana | status: mentioned | basis: 2-3
+- who: Dante | status: present | basis: 4-6
+- who: Virgilio | status: present | basis: 5-5
+
+## Scene 7-13: The Appearance of the Shade
+- who: Luca | status: mentioned | basis: 7-7
+- who: Cristo | status: mentioned | basis: 8-8
+- who: discepoli | status: mentioned | basis: 8-8
+- who: Dante | status: present | basis: 10-12
+- who: Virgilio | status: present | basis: 10-12
+- who: Stazio | status: present | basis: 10-13
+- who: La turba | status: present | basis: 11-11
+- who: Dio | status: mentioned | basis: 13-13
+
+## Scene 14-21: The Initial Confrontation
+- who: Dante | status: present | basis: 14-14
+- who: Virgilio | status: present | basis: 14-16
+- who: Stazio | status: present | basis: 15-19
+- who: Dio | status: mentioned | basis: 20-20
+
+## Scene 22-33: Virgil's Explanation of the Shade's Arrival
+- who: Stazio | status: present | basis: 23-33
+- who: Dante | status: present | basis: 22-30
+- who: un angel | status: present | basis: 23-23
+- who: coi buon | status: mentioned | basis: 24-24
+- who: Cloto | status: mentioned | basis: 25-27
+- who: Virgilio | status: present | basis: 22-33
+
+## Scene 34-36: The Inquiry Regarding the Earthquake
+- who: Stazio | status: present | basis: 34-34
+
+## Scene 37-39: Dante's Anticipation
+- who: Stazio | status: mentioned | basis: 38-38
+- who: Dante | status: present | basis: 37-39
+
+## Scene 40-54: The Immutable Nature of Purgatory
+- who: Stazio | status: present | basis: 40-40
+- who: Iride | status: mentioned | basis: 50-50
+- who: 'l vicario di Pietro | status: mentioned | basis: 54-54
+
+## Scene 55-66: The Cause of the Tremor
+- who: Stazio | status: present | basis: 57-57
+- who: alcuna anima monda | status: mentioned | basis: 58-60
+- who: l'alma | status: mentioned | basis: 63-63
+
+## Scene 67-72: The Shade's Long Exile
+- who: Stazio | status: present | basis: 67-69
+- who: Virgilio | status: present | basis: 70-70
+- who: li pii spiriti | status: mentioned | basis: 70-71
+- who: quel Segnor | status: mentioned | basis: 72-72
+
+## Scene 73-75: Dante's Impression
+- who: Stazio | status: present | basis: 73-75
+- who: Dante | status: present | basis: 75-75
+
+## Scene 76-81: Virgil Demands Identity
+- who: Virgilio | status: present | basis: 76-76
+- who: Stazio | status: present | basis: 79-81
+- who: Dante | status: present | basis: 76-81
+
+## Scene 82-87: The Shade's Historical Context
+- who: Tito | status: mentioned | basis: 82-82
+- who: sommo rege | status: mentioned | basis: 83-83
+- who: Giuda | status: mentioned | basis: 84-84
+- who: Stazio | status: present | basis: 86-86
+
+## Scene 88-102: The Praise of the Poet
+- who: mio vocale spirto | status: present | basis: 88-88
+- who: Stazio | status: present | basis: 91-91
+- who: gente | status: mentioned | basis: 91-91
+- who: Achille | status: mentioned | basis: 92-92
+- who: Virgilio | status: mentioned | basis: 101-101
+
+## Scene 103-108: Virgil's Gesture of Silence
+- who: Virgilio | status: present | basis: 103-104
+- who: Dante | status: present | basis: 103-104
+- who: ciascun | status: mentioned | basis: 107-107
+- who: più veraci | status: mentioned | basis: 108-108
+
+## Scene 109-114: The Shade's Confusion
+- who: Dante | status: present | basis: 109-114
+- who: l'uom ch'ammicca | status: mentioned | basis: 109-109
+- who: Stazio | status: present | basis: 110-114
+
+## Scene 115-120: Dante's Internal Conflict
+- who: Dante | status: present | basis: 115-117
+- who: Virgilio | status: present | basis: 118-119
+- who: Stazio | status: present | basis: 116-120
+
+## Scene 121-129: The Revelation of Virgil
+- who: Dante | status: present | basis: 121-121
+- who: Stazio | status: present | basis: 121-122
+- who: Virgilio | status: present | basis: 124-125
+- who: Li uomini | status: mentioned | basis: 126-126
+- who: i dèi | status: mentioned | basis: 126-126
+
+## Scene 130-132: The Interrupted Embrace
+- who: Stazio | status: present | basis: 130-132
+- who: Virgilio | status: present | basis: 131-132
+
+## Scene 133-136: The Weight of Love
+- who: Stazio | status: present | basis: 133-133
+- who: Virgilio | status: mentioned | basis: 136-136
+- who: l'ombre | status: present | basis: 136-136

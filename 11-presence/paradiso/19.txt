@@ -1,0 +1,78 @@
+# Canto 19 — The Vision of the Celestial Image and the Prophecy of Nations
+
+## Scene 1-12: The Visual Encounter
+- who: Dante | status: present | basis: 1-12
+- who: l'anime conserte | status: present | basis: 3-4
+
+## Scene 13-18: The Image's Self-Introduction
+- who: le genti | status: mentioned | basis: 17-18
+
+## Scene 19-21: The Unity of the Vision
+# (no person figure named in this scene)
+
+## Scene 22-33: Dante's Plea for Understanding
+- who: Dante | status: present | basis: 22-33
+
+## Scene 34-39: The Gesture of Praise
+- who: Dante | status: present | basis: 37-37
+- who: anime | status: mentioned | basis: 39-39
+
+## Scene 40-51: The Doctrine of the Fall
+- who: Dio | status: mentioned | basis: 40-45
+- who: Lucifero | status: mentioned | basis: 46-48
+- who: ogne minor natura | status: mentioned | basis: 49-50
+
+## Scene 52-63: The Limits of Human Intellect
+# (no person figure named in this scene)
+
+## Scene 64-78: The Problem of the Unbaptized
+- who: Dante | status: present | basis: 67-70
+- who: l'uom | status: mentioned | basis: 70-78
+- who: Cristo | status: mentioned | basis: 72-72
+
+## Scene 79-84: The Rebuke of Dante
+- who: Dante | status: present | basis: 79-84
+
+## Scene 85-90: The Primacy of Divine Will
+# (no person figure named in this scene)
+
+## Scene 91-96: The Image's Graceful Motion
+# (no person figure named in this scene)
+
+## Scene 97-99: The Oracle of Judgment
+- who: Dante | status: present | basis: 98-99
+
+## Scene 100-102: The Stabilization of the Spirit
+- who: quei lucenti incendi | status: present | basis: 100-100
+- who: lo Spirito Santo | status: mentioned | basis: 101-101
+
+## Scene 103-111: The Requirement of Faith
+- who: chi non credette | status: mentioned | basis: 104-104
+- who: Cristo | status: mentioned | basis: 104-108
+- who: Dante | status: present | basis: 106-106
+- who: l'Etïòpe | status: mentioned | basis: 109-109
+- who: tai Cristian | status: mentioned | basis: 109-109
+- who: i due collegi | status: mentioned | basis: 110-110
+
+## Scene 112-126: Prophecies of Western Europe
+- who: regi | status: mentioned | basis: 112-112
+- who: li Perse | status: mentioned | basis: 112-112
+- who: Alberto | status: mentioned | basis: 115-115
+- who: quel che morrà di colpo di cotenna | status: mentioned | basis: 120-120
+- who: lo Scotto | status: mentioned | basis: 122-122
+- who: l'Inghilese | status: mentioned | basis: 122-122
+- who: quel di Spagna | status: mentioned | basis: 125-125
+- who: quel di Boemme | status: mentioned | basis: 125-125
+
+## Scene 127-138: Prophecies of the Mediterranean and Italy
+- who: Dante | status: present | basis: 127-127
+- who: Ciotto di Ierusalemme | status: mentioned | basis: 127-127
+- who: quei che guarda l'isola del foco | status: mentioned | basis: 131-131
+- who: Anchise | status: mentioned | basis: 132-132
+- who: Bonifacio VIII | status: mentioned | basis: 137-137
+- who: fratel | status: mentioned | basis: 137-137
+
+## Scene 139-148: Prophecies of the North and East
+- who: quel di Portogallo | status: mentioned | basis: 139-139
+- who: quel di Portogallo, di Norvegia | status: mentioned | basis: 139-139
+- who: quel di Rascia | status: mentioned | basis: 140-141

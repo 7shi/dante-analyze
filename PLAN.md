@@ -16,9 +16,10 @@ The committed pipeline covers all three canticles, 100 cantos:
    per-canticle knowledge graph.
 
 There is no unfinished mandatory step in this repo. The translation context lock (direction 1
-below) is underway: its first two passes — **`09-location`** (per-scene local setting) and
-**`10-topography`** (the place analogue of `05-registry`) — are committed and fully built across all
-100 cantos; see their READMEs. The next pass to design is `11-presence`.
+below) is underway: its first three passes — **`09-location`** (per-scene local setting),
+**`10-topography`** (the place analogue of `05-registry`), and **`11-presence`** (present cast versus
+merely-mentioned referents, the person analogue) — are committed and fully built across all 100
+cantos; see their READMEs. The next pass to design is `12-addressee`.
 
 ## Next directions
 
@@ -50,7 +51,7 @@ contaminate each other:
 - **code join (no LLM)** from KG / `04-tags` / `05-registry`: `speaker` (speech edges), referent
   resolution (who/what → canonical), `relations` (edges), `simile` (frame=simile edges);
 - **single text-derived LLM judgments**, each its own pass: presence (cast versus merely
-  mentioned); addressee;
+  mentioned) — committed as `11-presence` (see its README); addressee — `12-addressee`;
 - **setting**: location and its consolidation into canonical regions — committed as `09-location`
   and `10-topography` (see their READMEs). Cohort (which class of souls inhabits a region) is a
   distinct judgment kept as its own later step.
@@ -59,10 +60,9 @@ Distinctions the lock must preserve:
 
 - **present cast** versus **merely-mentioned referents**.
 
-With `09-location` and `10-topography` committed (see their READMEs), the remaining passes
-(continuing the `NN-name` ladder) are:
+With `09-location`, `10-topography`, and `11-presence` committed (see their READMEs), the remaining
+passes (continuing the `NN-name` ladder) are:
 
-- `11-presence` (LLM) — cast versus mentioned;
 - `12-addressee` (LLM + code) — addressee per speech span: code for two-person scenes, LLM only
   when ambiguous;
 - `13-cohort` (code + narrow judgment) — which class of souls inhabits each region; co-varies with

@@ -1,0 +1,126 @@
+# Canto 16 — Cacciaguida's Prophecy and the Lament for Florence
+
+## Scene 1-12: Reflections on Lineage and Time
+- who: gente | status: mentioned | basis: 2-2
+- who: Cacciaguida | status: present | basis: 1-12
+- who: voi che prima a Roma s'offerie | status: mentioned | basis: 10-10
+- who: la sua famiglia | status: mentioned | basis: 11-11
+
+## Scene 13-15: Beatrice's Laughter
+- who: Beatrice | status: present | basis: 13-14
+- who: Ginevra | status: mentioned | basis: 15-15
+
+## Scene 16-27: Dante's Inquiry
+- who: Dante | status: present | basis: 16-16
+- who: Cacciaguida | status: present | basis: 16-16
+- who: li vostri antichi | status: mentioned | basis: 23-23
+- who: San Giovanni | status: mentioned | basis: 25-25
+- who: le genti | status: mentioned | basis: 26-26
+
+## Scene 28-39: Cacciaguida's Origins
+- who: Dante | status: present | basis: 29-34
+- who: Cacciaguida | status: present | basis: 29-34
+- who: mia madre | status: mentioned | basis: 35-39
+
+## Scene 40-48: The Ancestral Boundaries
+- who: Li antichi miei | status: mentioned | basis: 40-40
+- who: Cacciaguida | status: present | basis: 40-40
+- who: quei che corre il vostro annüal gioco | status: mentioned | basis: 42-42
+- who: color ch'a quel tempo eran ivi | status: mentioned | basis: 46-46
+- who: l Batista | status: mentioned | basis: 47-47
+- who: quei ch'or son vivi | status: mentioned | basis: 48-48
+
+## Scene 49-57: The Dilution of Citizenship
+- who: ultimo artista | status: mentioned | basis: 51-51
+- who: quelle genti | status: mentioned | basis: 53-53
+- who: Cacciaguida | status: present | basis: 53-53
+- who: villan d'Aguglion | status: mentioned | basis: 56-56
+- who: quel da Signa | status: mentioned | basis: 56-57
+
+## Scene 58-66: The Loss of Florentine Virtue
+- who: gente | status: mentioned | basis: 58-58
+- who: Cesare | status: mentioned | basis: 59-59
+- who: figlio | status: mentioned | basis: 60-60
+- who: l'avolo | status: mentioned | basis: 63-63
+- who: Conti | status: mentioned | basis: 64-64
+- who: Cerchi | status: mentioned | basis: 65-65
+- who: Buondelmonti | status: mentioned | basis: 66-66
+
+## Scene 67-78: The Instability of Cities
+- who: persone | status: mentioned | basis: 67-67
+- who: Dante | status: present | basis: 73-77
+- who: le schiatte | status: mentioned | basis: 76-76
+
+## Scene 79-87: The Unpredictability of Fortune
+- who: Dante | status: present | basis: 79-80
+- who: Cacciaguida | status: present | basis: 79-86
+- who: li alti Fiorentini | status: mentioned | basis: 86-87
+
+## Scene 88-93: The Catalog of Illustrious Families
+- who: Cacciaguida | status: present | basis: 88-93
+- who: li Ughi | status: mentioned | basis: 88-88
+- who: i Catellini | status: mentioned | basis: 88-88
+- who: i Filippi | status: mentioned | basis: 89-89
+- who: i Greci | status: mentioned | basis: 89-89
+- who: Ormanni | status: mentioned | basis: 89-89
+- who: Alberichi | status: mentioned | basis: 89-89
+- who: quel de la Sannella | status: mentioned | basis: 92-92
+- who: la Sannella | status: mentioned | basis: 92-92
+- who: quel de l'Arca | status: mentioned | basis: 92-92
+- who: Soldanieri | status: mentioned | basis: 93-93
+- who: Ardinghi | status: mentioned | basis: 93-93
+- who: Bostichi | status: mentioned | basis: 93-93
+
+## Scene 94-108: The Rise of Corrupt Families
+- who: conte Guido | status: mentioned | basis: 98-98
+- who: Bellincione | status: mentioned | basis: 99-99
+- who: Quel de la Pressa | status: mentioned | basis: 100-100
+- who: Galigaio | status: mentioned | basis: 101-102
+- who: Vaio | status: mentioned | basis: 103-103
+- who: Sacchetti | status: mentioned | basis: 104-104
+- who: Giuochi | status: mentioned | basis: 104-104
+- who: Fifanti | status: mentioned | basis: 104-104
+- who: Barucci | status: mentioned | basis: 104-104
+- who: Galli | status: mentioned | basis: 105-105
+- who: quei ch'arrossan per lo staio | status: mentioned | basis: 105-105
+- who: Calfucci | status: mentioned | basis: 106-106
+- who: Sizii | status: mentioned | basis: 108-108
+- who: Arrigucci | status: mentioned | basis: 108-108
+
+## Scene 109-118: The Pride of the New Class
+- who: Cacciaguida | status: present | basis: 109-109
+- who: quei che son disfatti per lor superbia | status: mentioned | basis: 109-109
+- who: i padri | status: mentioned | basis: 112-112
+- who: coloro che si fanno grassi stando a consistoro | status: mentioned | basis: 112-114
+- who: l'oltracotata schiatta | status: mentioned | basis: 115-118
+
+## Scene 119-126: The Shifts in the Marketplace
+- who: Ubertin Donato | status: mentioned | basis: 119-119
+- who: suocero | status: mentioned | basis: 120-120
+- who: 'l Caponsacco | status: mentioned | basis: 121-122
+- who: Giuda | status: mentioned | basis: 123-123
+- who: Infangato | status: mentioned | basis: 123-123
+- who: Cacciaguida | status: present | basis: 124-124
+- who: buon cittadino | status: mentioned | basis: 123-123
+- who: quei de la Pera | status: mentioned | basis: 126-126
+
+## Scene 127-135: The Loss of Privileges
+- who: gran barone | status: mentioned | basis: 128-128
+- who: Tommaso | status: mentioned | basis: 129-129
+- who: Ciascun che de la bella insegna porta | status: mentioned | basis: 127-127
+- who: colui che la fascia col fregio | status: mentioned | basis: 131-132
+- who: Gualterotti | status: mentioned | basis: 133-133
+- who: Importuni | status: mentioned | basis: 133-133
+- who: novi vicin | status: mentioned | basis: 135-135
+
+## Scene 136-144: The Tragedy of Buondelmonte
+- who: Dante | status: present | basis: 136-138
+- who: suoi consorti | status: mentioned | basis: 139-139
+- who: Buondelmonte | status: mentioned | basis: 140-144
+- who: Dio | status: mentioned | basis: 143-143
+- who: Ema | status: mentioned | basis: 143-143
+
+## Scene 145-154: The Vision of a Lost Peace
+- who: queste genti | status: mentioned | basis: 148-151
+- who: Cacciaguida | status: present | basis: 145-154
+- who: il popol suo | status: mentioned | basis: 152-152

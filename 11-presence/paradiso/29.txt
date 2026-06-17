@@ -1,0 +1,74 @@
+# Canto 29 — Beatrice's Discourse on the Trinity, the Angels, and the Corruption of Preaching
+
+## Scene 1-9: The Celestial Prologue
+- who: Bëatrice | status: present | basis: 7-8
+- who: Dante | status: present | basis: 9-9
+
+## Scene 10-18: The Emergence of Eternal Love
+- who: Beatrice | status: present | basis: 10-11
+- who: Dante | status: present | basis: 11-11
+- who: Dio | status: mentioned | basis: 13-18
+
+## Scene 19-30: The Trinity and the Radiance of Being
+- who: Dio | status: mentioned | basis: 21-21
+- who: suo sire | status: mentioned | basis: 28-28
+
+## Scene 31-36: The Structure of Substance
+- who: Dio | status: mentioned | basis: 33-33
+
+## Scene 37-45: Scriptural and Rational Proof
+- who: Ieronimo | status: mentioned | basis: 37-37
+- who: li angeli | status: mentioned | basis: 38-38
+- who: li scrittor | status: mentioned | basis: 41-41
+- who: lo Spirito Santo | status: mentioned | basis: 41-41
+- who: Dante | status: present | basis: 42-42
+- who: motori | status: mentioned | basis: 44-45
+
+## Scene 46-51: The Introduction of the Angelic Orders
+- who: Dante | status: present | basis: 46-49
+- who: li angeli | status: mentioned | basis: 50-50
+
+## Scene 52-66: The Fallen and the Meritorious
+- who: l'altra | status: present | basis: 52-52
+- who: Dante | status: present | basis: 53-64
+- who: il maladetto superbir | status: mentioned | basis: 55-56
+- who: Lucifero | status: mentioned | basis: 56-57
+- who: i beati | status: present | basis: 58-58
+- who: Beatrice | status: present | basis: 52-66
+
+## Scene 67-84: The Clarity of Angelic Vision
+- who: Dante | status: present | basis: 68-73
+- who: l'angelica natura | status: present | basis: 67-76
+- who: Beatrice | status: present | basis: 68-84
+- who: Dio | status: mentioned | basis: 77-78
+
+## Scene 85-96: The Invention of False Doctrines
+- who: filosofi | status: mentioned | basis: 86-86
+- who: Dio | status: mentioned | basis: 90-90
+- who: chi umilmente | status: mentioned | basis: 93-93
+- who: predicanti | status: mentioned | basis: 96-96
+
+## Scene 97-108: The Deception of False Miracles
+- who: Cristo | status: mentioned | basis: 98-98
+- who: Lapi | status: mentioned | basis: 103-103
+- who: Bindi | status: mentioned | basis: 103-103
+
+## Scene 109-114: The Foundation of Christ
+- who: Cristo | status: mentioned | basis: 109-109
+- who: Apostoli | status: mentioned | basis: 109-112
+
+## Scene 115-126: The Corruption of Modern Preachers
+- who: predicatori | status: mentioned | basis: 115-117
+- who: 'l vulgo | status: mentioned | basis: 119-119
+- who: alcun testimonio | status: mentioned | basis: 122-122
+- who: altri assai | status: mentioned | basis: 125-125
+
+## Scene 127-135: The Numerical Mystery of Angels
+- who: Beatrice | status: present | basis: 127-127
+- who: Dante | status: present | basis: 127-127
+- who: Danïel | status: mentioned | basis: 134-134
+
+## Scene 136-145: The Dispersion of Divine Light
+- who: angeli | status: mentioned | basis: 144-144
+- who: Dante | status: present | basis: 142-142
+- who: l'eccelso | status: mentioned | basis: 142-142

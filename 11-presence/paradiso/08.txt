@@ -1,0 +1,88 @@
+# Canto 08 — The Descent of the Celestial Light and the Mystery of Providence
+
+## Scene 1-12: The Cosmological Prologue
+- who: Venere | status: mentioned | basis: 2-4
+- who: le genti antiche | status: mentioned | basis: 6-6
+- who: Dïone | status: mentioned | basis: 7-8
+- who: Cupido | status: mentioned | basis: 7-9
+- who: Dido | status: mentioned | basis: 9-10
+- who: Dante | status: present | basis: 10-10
+
+## Scene 13-21: The Vision of Divine Light
+- who: Dante | status: present | basis: 13-21
+- who: Beatrice | status: present | basis: 15-15
+
+## Scene 22-30: The Descent of the Spirits
+- who: Dante | status: present | basis: 26-30
+- who: quei lumi divini | status: present | basis: 25-28
+- who: Beatrice | status: present | basis: 25-28
+- who: li alti Serafini | status: mentioned | basis: 27-27
+
+## Scene 31-39: The Approach of the Spirit
+- who: anima beata | status: present | basis: 31-32
+- who: Dante | status: present | basis: 31-31
+- who: Beatrice | status: present | basis: 31-33
+- who: le anime di Venere | status: present | basis: 32-34
+- who: principi celesti | status: mentioned | basis: 34-37
+
+## Scene 40-48: The Encounter with Beatrice
+- who: Beatrice | status: present | basis: 41-48
+- who: Dante | status: present | basis: 40-48
+
+## Scene 49-57: The Spirit's Earthly Connection
+- who: Sibilla | status: mentioned | basis: 54-54
+- who: Dante | status: present | basis: 49-49
+- who: Beatrice | status: present | basis: 49-49
+
+## Scene 58-66: Prophecy of the Northern and Central Lands
+- who: segnore | status: mentioned | basis: 60-60
+- who: Sibilla | status: present | basis: 58-66
+- who: quel corno d'Ausonia | status: mentioned | basis: 61-61
+
+## Scene 67-75: The Prophecy of Sicily
+- who: Tifeo | status: mentioned | basis: 70-70
+- who: li suoi regi | status: mentioned | basis: 71-72
+- who: Sibilla | status: mentioned | basis: 71-71
+- who: Carlo | status: mentioned | basis: 72-72
+- who: Ridolfo | status: mentioned | basis: 72-72
+
+## Scene 76-84: The Warning for Catalonia
+- who: il re d'Aragona | status: mentioned | basis: 76-84
+
+## Scene 85-93: Dante's Theological Doubt
+- who: Dante | status: present | basis: 85-93
+- who: Sibilla | status: mentioned | basis: 93-93
+- who: Dio | status: mentioned | basis: 90-90
+
+## Scene 94-112: The Lesson on Divine Providence
+- who: Dante | status: present | basis: 94-94
+- who: Sibilla Cumana | status: mentioned | basis: 95-95
+- who: Dio | status: mentioned | basis: 97-97
+- who: li 'ntelletti | status: mentioned | basis: 109-109
+
+## Scene 113-120: The Socratic Interlude on Nature
+- who: Dante | status: present | basis: 113-117
+- who: Sibilla | status: mentioned | basis: 113-120
+- who: l'omo | status: mentioned | basis: 116-118
+- who: Virgilio | status: present | basis: 115-120
+
+## Scene 121-129: The Diversity of Human Destinies
+- who: Sibilla | status: mentioned | basis: 121-121
+- who: Solone | status: mentioned | basis: 124-124
+- who: Serse | status: mentioned | basis: 124-124
+- who: Melchisedèch | status: mentioned | basis: 125-125
+
+## Scene 130-135: Providence Overriding Nature
+- who: Esaù | status: mentioned | basis: 130-130
+- who: Iacòb | status: mentioned | basis: 131-131
+- who: Quirino | status: mentioned | basis: 131-131
+- who: vil padre | status: mentioned | basis: 132-132
+- who: generanti | status: mentioned | basis: 134-134
+- who: il proveder divino | status: mentioned | basis: 135-135
+
+## Scene 136-148: The Final Warning
+- who: Dante | status: present | basis: 136-138
+- who: Sibilla Cumana | status: mentioned | basis: 145-145
+- who: gente | status: mentioned | basis: 144-144
+- who: nato a cignersi la spada | status: mentioned | basis: 146-146
+- who: re | status: mentioned | basis: 147-147

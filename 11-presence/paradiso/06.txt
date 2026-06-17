@@ -1,0 +1,100 @@
+# Canto 06 — Farinata's Imperial Monologue and Historical Survey
+
+## Scene 1-9: The Movement of the Imperial Eagle
+- who: Costantin | status: mentioned | basis: 1-1
+- who: Enea | status: mentioned | basis: 3-3
+- who: Lavina | status: mentioned | basis: 3-3
+- who: Giustiniano | status: mentioned | basis: 8-8
+
+## Scene 10-27: The Imperial Persona and Spiritual Journey
+- who: Iustinïano | status: present | basis: 10-10
+- who: Cristo | status: mentioned | basis: 14-14
+- who: Agapito | status: mentioned | basis: 16-16
+- who: Dante | status: present | basis: 20-20
+- who: Dio | status: mentioned | basis: 23-23
+- who: Belisar | status: mentioned | basis: 25-25
+
+## Scene 28-33: The Significance of the Political Sign
+- who: Giustino | status: mentioned | basis: 33-33
+- who: Dante | status: present | basis: 31-31
+- who: chi 'l s'appropria | status: mentioned | basis: 33-33
+- who: chi a lui s'oppone | status: mentioned | basis: 33-33
+
+## Scene 34-48: The Glory of the Roman Lineage
+- who: Dante | status: present | basis: 34-43
+- who: Pallante | status: mentioned | basis: 36-36
+- who: Enea e i suoi discendenti | status: mentioned | basis: 34-43
+- who: Enea | status: mentioned | basis: 34-43
+- who: le Sabine | status: mentioned | basis: 40-40
+- who: Lucrezia | status: mentioned | basis: 41-41
+- who: sette regi | status: mentioned | basis: 41-41
+- who: le genti vicine | status: mentioned | basis: 42-42
+- who: li egregi | status: mentioned | basis: 43-43
+- who: Romani | status: mentioned | basis: 44-44
+- who: Brenno | status: mentioned | basis: 44-44
+- who: Pirro | status: mentioned | basis: 44-44
+- who: li altri principi | status: mentioned | basis: 45-45
+- who: collegi | status: mentioned | basis: 45-45
+- who: Torquato | status: mentioned | basis: 46-46
+- who: Quinzio | status: mentioned | basis: 46-46
+- who: i Deci | status: mentioned | basis: 47-47
+- who: ' Fabi | status: mentioned | basis: 47-47
+
+## Scene 49-54: The Expansion of Imperial Power
+- who: Anibale | status: mentioned | basis: 50-50
+- who: giovanetti | status: mentioned | basis: 52-52
+- who: Scipïone | status: mentioned | basis: 53-53
+- who: Pompeo | status: mentioned | basis: 53-53
+- who: Dante | status: present | basis: 54-54
+
+## Scene 55-63: The Era of Julius Caesar
+- who: Cesare | status: mentioned | basis: 57-63
+
+## Scene 64-72: The Global Reach of the Empire
+- who: Cesare | status: mentioned | basis: 64-72
+- who: Ettore | status: mentioned | basis: 68-68
+- who: Tolomeo | status: mentioned | basis: 69-69
+
+## Scene 73-81: The Tragedies of War and the Era of Peace
+- who: Cesare | status: mentioned | basis: 73-73
+- who: col baiulo | status: mentioned | basis: 73-73
+- who: Bruto | status: mentioned | basis: 74-74
+- who: Cassio | status: mentioned | basis: 74-74
+- who: Cleopatra | status: mentioned | basis: 76-79
+- who: Augusto | status: mentioned | basis: 79-80
+- who: Giano | status: mentioned | basis: 81-81
+
+## Scene 82-90: The Third Caesar and Divine Justice
+- who: Giustiniano | status: mentioned | basis: 83-83
+- who: Costantino | status: mentioned | basis: 83-83
+
+## Scene 91-96: Charlemagne and the Defense of the Church
+- who: Dante | status: present | basis: 91-91
+- who: Giustiniano | status: mentioned | basis: 92-92
+- who: Tito | status: mentioned | basis: 92-92
+- who: Carlo Magno | status: mentioned | basis: 96-96
+
+## Scene 97-111: The Corruption of the Factions
+- who: Dante | status: present | basis: 97-99
+- who: quei cotali | status: mentioned | basis: 97-97
+- who: Giustiniano | status: mentioned | basis: 98-98
+- who: Guelfi | status: mentioned | basis: 107-107
+- who: li Ghibellin | status: mentioned | basis: 103-103
+- who: chi più si falli | status: mentioned | basis: 102-102
+- who: chi la giustizia e lui diparte | status: mentioned | basis: 105-105
+- who: Carlo novello | status: mentioned | basis: 106-106
+- who: li figli | status: mentioned | basis: 109-109
+- who: il Padre | status: mentioned | basis: 110-110
+- who: Dio | status: mentioned | basis: 111-111
+
+## Scene 112-123: The Cosmic Balance of Merit
+- who: i buoni spirti | status: mentioned | basis: 112-113
+
+## Scene 124-135: The Harmony of the Troubadours
+- who: Romeo | status: mentioned | basis: 128-135
+- who: Quattro figlie | status: mentioned | basis: 133-133
+- who: Ramondo Beringhiere | status: mentioned | basis: 134-134
+
+## Scene 136-142: A Tribute to the Humble Wanderer
+- who: Giustiniano | status: mentioned | basis: 137-142
+- who: Romeo | status: present | basis: 136-142

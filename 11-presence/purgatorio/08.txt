@@ -1,0 +1,87 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+
+## Scene 1-18: The Evening Hymn
+- who: navicanti | status: mentioned | basis: 2-2
+- who: dolci amici | status: mentioned | basis: 3-3
+- who: Dante | status: present | basis: 7-15
+- who: una de l'alme | status: present | basis: 8-14
+- who: Dio | status: mentioned | basis: 12-12
+- who: l'altre | status: present | basis: 16-18
+
+## Scene 19-30: The Descent of the Angels
+- who: lettor | status: mentioned | basis: 19-19
+- who: Dante | status: present | basis: 22-25
+- who: quell'essercito gentile | status: present | basis: 22-24
+- who: due angeli | status: present | basis: 25-30
+
+## Scene 31-36: The Crowd's Reaction
+- who: l'un | status: present | basis: 31-31
+- who: Dante | status: present | basis: 31-35
+- who: Virgilio | status: present | basis: 31-31
+- who: Sordello | status: present | basis: 33-33
+- who: L'altro | status: present | basis: 32-32
+- who: gente | status: present | basis: 33-33
+- who: angeli | status: present | basis: 31-35
+
+## Scene 37-45: Sordello's Warning
+- who: angeli | status: present | basis: 37-37
+- who: Maria | status: mentioned | basis: 37-37
+- who: Sordello | status: present | basis: 38-43
+- who: Dante | status: present | basis: 40-42
+- who: Virgilio | status: present | basis: 42-42
+- who: le grandi ombre | status: present | basis: 44-44
+
+## Scene 46-55: Meeting the Gentle Judge
+- who: Dante | status: present | basis: 46-55
+- who: Nin | status: present | basis: 47-55
+- who: rei | status: mentioned | basis: 54-54
+
+## Scene 56-63: The Inquiry of Origins
+- who: Nin | status: present | basis: 56-62
+- who: Dante | status: present | basis: 56-61
+- who: Sordello | status: present | basis: 62-62
+- who: le grandi ombre | status: present | basis: 62-62
+
+## Scene 64-81: The Message for Giovanna
+- who: Sordello | status: present | basis: 64-65
+- who: Virgilio | status: present | basis: 64-64
+- who: Nin | status: mentioned | basis: 73-73
+- who: Currado | status: present | basis: 65-65
+- who: Dio | status: mentioned | basis: 66-69
+- who: Dante | status: present | basis: 67-67
+- who: Giovanna | status: mentioned | basis: 71-79
+- who: li 'nnocenti | status: mentioned | basis: 72-72
+- who: la sua madre | status: mentioned | basis: 73-76
+- who: Femmina | status: mentioned | basis: 77-77
+- who: il gallo di Gallura | status: mentioned | basis: 81-81
+
+## Scene 82-93: Celestial Observations
+- who: Minosse | status: mentioned | basis: 82-93
+- who: Virgilio | status: present | basis: 88-93
+- who: Dante | status: present | basis: 85-90
+
+## Scene 94-108: The Serpent's Intrusion
+- who: Virgilio | status: present | basis: 94-94
+- who: Sordello | status: present | basis: 94-96
+- who: Dante | status: present | basis: 94-105
+- who: l nostro avversaro | status: present | basis: 95-107
+- who: Eva | status: mentioned | basis: 99-99
+- who: li angeli | status: present | basis: 104-108
+
+## Scene 109-120: The Identification of Currado
+- who: Currado Malaspina | status: present | basis: 109-120
+- who: Nin | status: mentioned | basis: 120-120
+- who: Dante | status: present | basis: 111-111
+- who: Virgilio | status: present | basis: 112-117
+
+## Scene 121-132: Praise for the Malaspina
+- who: Dante | status: present | basis: 121-121
+- who: Currado Malaspina | status: present | basis: 121-121
+- who: Malaspina | status: mentioned | basis: 124-128
+- who: i segnori | status: mentioned | basis: 125-125
+- who: il capo reo | status: mentioned | basis: 131-131
+
+## Scene 133-139: The Judge's Dismissal
+- who: Nin | status: mentioned | basis: 138-138
+- who: Currado | status: mentioned | basis: 138-138
+- who: Dante | status: present | basis: 133-137

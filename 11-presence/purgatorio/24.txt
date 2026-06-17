@@ -1,0 +1,127 @@
+# Canto 24 — Recognition of Souls and the Warning of the Tree
+
+## Scene 1-6: The Watching Souls
+- who: Forese | status: present | basis: 4-4
+- who: Dante | status: present | basis: 2-6
+- who: Virgilio | status: present | basis: 1-2
+- who: Statio | status: present | basis: 4-4
+- who: l'ombre | status: present | basis: 4-6
+
+## Scene 7-12: Inquiry about Piccarda
+- who: Dante | status: present | basis: 7-12
+- who: Piccarda | status: mentioned | basis: 10-10
+- who: Forese | status: present | basis: 10-11
+
+## Scene 13-24: News of Piccarda and Bonagiunta
+- who: Piccarda | status: mentioned | basis: 13-15
+- who: Forese | status: present | basis: 13-24
+- who: ciascun | status: mentioned | basis: 17-17
+- who: Bonagiunta da Lucca | status: present | basis: 19-20
+- who: dal Torso | status: present | basis: 21-23
+- who: Torso | status: mentioned | basis: 23-23
+
+## Scene 25-33: The List of Notable Souls
+- who: Forese | status: present | basis: 25-25
+- who: Dante | status: present | basis: 25-31
+- who: anime | status: present | basis: 26-26
+- who: Ubaldin da la Pila | status: present | basis: 28-29
+- who: Bonifazio | status: present | basis: 28-30
+- who: messer Marchese | status: present | basis: 31-31
+
+## Scene 34-42: The Muttering Soul
+- who: Dante | status: present | basis: 34-42
+- who: Bonagiunta da Lucca | status: present | basis: 35-42
+- who: Gentucca | status: mentioned | basis: 37-37
+
+## Scene 43-51: The Poet's Identity and Inquiry
+- who: Femmina | status: mentioned | basis: 43-43
+- who: Bonagiunta da Lucca | status: present | basis: 44-44
+- who: Dante | status: present | basis: 44-49
+- who: om | status: mentioned | basis: 45-45
+- who: le donne | status: mentioned | basis: 51-51
+
+## Scene 52-63: The Knot of Poets
+- who: Dante | status: present | basis: 52-52
+- who: Bonagiunta da Lucca | status: present | basis: 55-55
+- who: 'l Notaro | status: mentioned | basis: 56-56
+- who: Guittone | status: mentioned | basis: 56-56
+- who: al dittator | status: mentioned | basis: 59-59
+- who: poeta | status: mentioned | basis: 55-56
+
+## Scene 64-69: The Simile of the Geese
+- who: tutta la gente | status: present | basis: 67-69
+
+## Scene 70-75: Forese Departs
+- who: l'uom | status: mentioned | basis: 70-70
+- who: li compagni | status: mentioned | basis: 71-71
+- who: la santa greggia | status: present | basis: 73-73
+- who: Forese | status: present | basis: 73-75
+- who: Dante | status: present | basis: 74-75
+
+## Scene 76-81: Dialogue with Forese
+- who: Dante | status: present | basis: 76-76
+- who: Forese | status: present | basis: 76-76
+
+## Scene 82-93: Forese's Ominous Warning
+- who: Dante | status: present | basis: 82-93
+- who: Forese | status: present | basis: 82-93
+- who: quei che più n'ha colpa | status: mentioned | basis: 82-87
+
+## Scene 94-97: The Knight's Departure
+- who: Forese | status: present | basis: 97-97
+- who: Dante | status: present | basis: 97-97
+- who: Virgilio | status: present | basis: 97-97
+- who: Stazio | status: present | basis: 97-97
+
+## Scene 98-111: Vision of the Hungry Souls
+- who: Dante | status: present | basis: 98-98
+- who: Virgilio | status: present | basis: 98-98
+- who: Stazio | status: present | basis: 98-98
+- who: Forese | status: present | basis: 100-100
+- who: gente | status: present | basis: 106-106
+
+## Scene 112-120: Warning Near the Tree
+- who: gente | status: mentioned | basis: 114-114
+- who: Dante | status: present | basis: 119-119
+- who: Virgilio | status: present | basis: 119-119
+- who: Stazio | status: present | basis: 119-119
+- who: Eva | status: mentioned | basis: 116-116
+
+## Scene 121-126: Mythological Allusions
+- who: Dante | status: present | basis: 121-121
+- who: i maladetti | status: mentioned | basis: 121-122
+- who: Tesëo | status: mentioned | basis: 123-123
+- who: li Ebrei | status: mentioned | basis: 124-124
+- who: compagni | status: mentioned | basis: 125-125
+- who: Gedeon | status: mentioned | basis: 125-126
+
+## Scene 127-132: Passing the Thickets
+- who: Dante | status: present | basis: 128-132
+- who: Virgilio | status: present | basis: 128-132
+- who: Statio | status: mentioned | basis: 128-128
+
+## Scene 133-136: A Sudden Interruption
+- who: Dante | status: present | basis: 133-136
+- who: Virgilio | status: present | basis: 133-133
+- who: Statio | status: present | basis: 133-133
+
+## Scene 137-141: The Brilliant Figure's Warning
+- who: Dante | status: present | basis: 139-139
+- who: anima lucente e rossa | status: present | basis: 139-139
+- who: Virgilio | status: present | basis: 140-140
+- who: Stazio | status: present | basis: 140-140
+- who: chi vuole andar per pace | status: mentioned | basis: 141-141
+
+## Scene 142-144: Dante's Reaction
+- who: Dante | status: present | basis: 142-143
+- who: Virgilio | status: present | basis: 143-143
+- who: Stazio | status: present | basis: 143-143
+- who: om | status: mentioned | basis: 144-144
+- who: dottori | status: present | basis: 143-143
+
+## Scene 145-150: The May Breeze
+- who: Dante | status: present | basis: 148-149
+
+## Scene 151-154: The Benediction
+- who: Dante | status: present | basis: 151-151
+- who: i beati | status: mentioned | basis: 151-151

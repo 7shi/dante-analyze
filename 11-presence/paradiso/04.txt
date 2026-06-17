@@ -1,0 +1,87 @@
+# Canto 04 — Beatrice Resolves Dante's Theological Doubts
+
+## Scene 1-12: Dante's Internal Tension
+- who: liber' omo | status: mentioned | basis: 3-3
+- who: due dame | status: mentioned | basis: 6-6
+- who: Dante | status: present | basis: 7-12
+
+## Scene 13-24: The First Doubt: Plato's Theory
+- who: Beatrice | status: present | basis: 13-24
+- who: Danïello | status: mentioned | basis: 13-13
+- who: Nabuccodonosor | status: mentioned | basis: 14-15
+- who: Dante | status: present | basis: 16-24
+- who: parer tornarsi l'anime a le stelle | status: mentioned | basis: 23-23
+- who: Platone | status: mentioned | basis: 24-24
+
+## Scene 25-39: The Hierarchy of the First Heaven
+- who: Beatrice | status: present | basis: 25-39
+- who: i Serafin | status: mentioned | basis: 28-28
+- who: Moïsè | status: mentioned | basis: 29-29
+- who: Samuel | status: mentioned | basis: 29-29
+- who: Giovanni | status: mentioned | basis: 29-29
+- who: Maria | status: mentioned | basis: 30-30
+- who: questi spirti | status: present | basis: 32-37
+- who: Dante | status: present | basis: 25-32
+
+## Scene 40-48: The Use of Anthropomorphism in Scripture
+- who: sensato | status: mentioned | basis: 41-41
+- who: Dante | status: present | basis: 40-44
+- who: Dio | status: mentioned | basis: 45-45
+- who: Gabrïel | status: mentioned | basis: 47-47
+- who: Michel | status: mentioned | basis: 47-47
+- who: Raffaele | status: mentioned | basis: 48-48
+- who: Tobia | status: mentioned | basis: 48-48
+
+## Scene 49-63: Correcting the Error of Astrology
+- who: Timeo | status: mentioned | basis: 49-60
+- who: anime | status: mentioned | basis: 49-49
+- who: l'alma | status: mentioned | basis: 52-52
+- who: Giove | status: mentioned | basis: 62-62
+- who: Mercurio | status: mentioned | basis: 63-63
+
+## Scene 64-72: Transition to the Second Doubt
+- who: Dante | status: present | basis: 64-72
+- who: Beatrice | status: present | basis: 64-72
+- who: mortali | status: mentioned | basis: 68-68
+
+## Scene 73-87: The Distinction Between Will and Force
+- who: quel che pate | status: mentioned | basis: 73-73
+- who: quel che sforza | status: mentioned | basis: 74-74
+- who: quest' alme | status: present | basis: 75-81
+- who: Lorenzo | status: mentioned | basis: 83-83
+- who: Muzio | status: mentioned | basis: 84-84
+
+## Scene 88-99: The Paradox of Piccarda and Costanza
+- who: Dante | status: present | basis: 89-97
+- who: dei | status: mentioned | basis: 89-89
+- who: Beatrice | status: present | basis: 94-99
+- who: alma beata | status: mentioned | basis: 95-95
+- who: Piccarda | status: mentioned | basis: 97-97
+- who: Costanza | status: mentioned | basis: 98-99
+
+## Scene 100-114: The Intersection of Force and Will
+- who: Dante | status: present | basis: 100-106
+- who: un uomo | status: mentioned | basis: 101-102
+- who: Almeone | status: mentioned | basis: 103-105
+- who: padre suo | status: mentioned | basis: 104-104
+- who: la propria madre | status: mentioned | basis: 104-104
+- who: Beatrice | status: present | basis: 100-114
+- who: Piccarda | status: mentioned | basis: 112-112
+
+## Scene 115-117: The Resolution of Conflict
+# (no person figure named in this scene)
+
+## Scene 118-129: Dante's Meditation on Truth
+- who: Beatrice | status: present | basis: 118-122
+- who: Dante | status: present | basis: 119-129
+- who: quei che vede e puote | status: mentioned | basis: 123-123
+
+## Scene 130-138: The New Inquiry
+- who: al sommo | status: mentioned | basis: 132-132
+- who: l'uom | status: mentioned | basis: 136-136
+- who: Dante | status: present | basis: 133-136
+- who: Beatrice | status: present | basis: 134-138
+
+## Scene 139-142: Beatrice's Divine Gaze
+- who: Beatrice | status: present | basis: 139-139
+- who: Dante | status: present | basis: 139-142

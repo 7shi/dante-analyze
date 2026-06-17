@@ -1,0 +1,83 @@
+# Canto 27 — The Eclipse of Beatrice and the Celestial Motion
+
+## Scene 1-9: The Celestial Hymn
+- who: il Padre | status: mentioned | basis: 1-1
+- who: figlio | status: mentioned | basis: 1-1
+- who: lo Spirito Santo | status: mentioned | basis: 1-1
+- who: Dante | status: present | basis: 3-6
+
+## Scene 10-27: The Angelic Transformation
+- who: Iove | status: mentioned | basis: 14-14
+- who: beato coro | status: present | basis: 17-17
+- who: Dante | status: present | basis: 10-10
+- who: quelli ch'usurpa in terra | status: mentioned | basis: 22-22
+- who: Figliuol di Dio | status: mentioned | basis: 24-24
+- who: l perverso | status: mentioned | basis: 26-26
+
+## Scene 28-36: The Celestial Eclipse
+- who: Dante | status: present | basis: 30-30
+- who: donna onesta | status: mentioned | basis: 31-31
+- who: Beatrice | status: present | basis: 34-34
+- who: Cristo | status: mentioned | basis: 35-36
+
+## Scene 37-54: The Critique of the Papacy
+- who: San Pietro | status: present | basis: 37-54
+- who: Lin | status: mentioned | basis: 41-41
+- who: Cleto | status: mentioned | basis: 41-41
+- who: Sisto | status: mentioned | basis: 44-44
+- who: Pïo | status: mentioned | basis: 44-44
+- who: Calisto | status: mentioned | basis: 44-44
+- who: Urbano | status: mentioned | basis: 44-44
+- who: i nostri successor | status: mentioned | basis: 47-47
+- who: popol cristiano | status: mentioned | basis: 48-48
+- who: battezzati | status: mentioned | basis: 51-51
+
+## Scene 55-66: The Lament for the Church
+- who: pastor | status: mentioned | basis: 55-56
+- who: Caorsini | status: mentioned | basis: 58-58
+- who: Guaschi | status: mentioned | basis: 58-58
+- who: Scipio | status: mentioned | basis: 61-61
+- who: San Pietro | status: mentioned | basis: 59-59
+- who: Dante | status: present | basis: 64-65
+
+## Scene 67-75: The Vapor Metaphor
+- who: Dante | status: present | basis: 70-75
+- who: trïunfanti | status: present | basis: 71-75
+- who: San Pietro | status: present | basis: 71-75
+
+## Scene 76-84: The Expanding Horizon
+- who: Beatrice | status: present | basis: 76-78
+- who: Dante | status: present | basis: 76-84
+- who: Ulisse | status: mentioned | basis: 83-83
+- who: Europa | status: mentioned | basis: 84-84
+
+## Scene 85-96: Devotion to Beatrice
+- who: Dante | status: present | basis: 85-96
+- who: Beatrice | status: present | basis: 89-96
+
+## Scene 97-102: Celestial Propulsion
+- who: Dante | status: present | basis: 97-102
+- who: Beatrice | status: present | basis: 97-102
+- who: Leda | status: mentioned | basis: 98-98
+
+## Scene 103-114: The Order of the Cosmos
+- who: Beatrice | status: present | basis: 103-114
+- who: Dio | status: mentioned | basis: 105-114
+
+## Scene 115-120: The Mathematical Proportions
+- who: Dante | status: present | basis: 120-120
+
+## Scene 121-129: The Corrupting Power of Greed
+- who: mortali | status: mentioned | basis: 121-121
+- who: Li uomini | status: mentioned | basis: 124-124
+- who: parvoletti | status: mentioned | basis: 128-128
+
+## Scene 130-138: The Perversion of Nature
+- who: parvoletti | status: mentioned | basis: 130-133
+- who: la madre sua | status: mentioned | basis: 134-135
+- who: la bella figlia | status: present | basis: 137-137
+
+## Scene 139-148: The Prophecy of Renewal
+- who: Dante | status: present | basis: 139-139
+- who: Beatrice | status: present | basis: 139-148
+- who: l'Imperatore | status: mentioned | basis: 140-140

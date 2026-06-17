@@ -1,0 +1,81 @@
+# Canto 17 — The Ascent through the Ninth Circle and the Doctrine of Love
+
+## Scene 1-12: The Fog Analogy
+- who: lettor | status: mentioned | basis: 1-1
+- who: Dante | status: present | basis: 10-11
+- who: Virgilio | status: present | basis: 10-10
+
+## Scene 13-24: The Wandering Imagination
+- who: Dante | status: present | basis: 13-24
+
+## Scene 25-30: The Vision of the Crucifix
+- who: Cristo | status: present | basis: 26-27
+- who: Assüero | status: present | basis: 28-28
+- who: Estèr | status: present | basis: 29-29
+- who: Mardoceo | status: present | basis: 29-29
+
+## Scene 31-39: The Maiden's Lament
+- who: Lavina | status: present | basis: 34-39
+- who: Amata | status: mentioned | basis: 35-39
+
+## Scene 40-45: The Waking Analogy
+- who: Dante | status: present | basis: 43-44
+
+## Scene 46-54: The Blinding Light
+- who: Dante | status: present | basis: 46-54
+- who: Virgilio | status: mentioned | basis: 52-52
+
+## Scene 55-63: Virgil’s Instruction
+- who: Virgilio | status: present | basis: 55-63
+- who: Dante | status: present | basis: 58-62
+- who: l'uom | status: mentioned | basis: 58-58
+
+## Scene 64-69: The Angelic Greeting
+- who: Virgilio | status: present | basis: 64-65
+- who: Dante | status: present | basis: 64-68
+- who: pacifici | status: mentioned | basis: 68-69
+
+## Scene 70-72: The Visibility of the Stars
+- who: Dante | status: present | basis: 70-70
+- who: Virgilio | status: present | basis: 70-70
+
+## Scene 73-78: Dante’s Physical Exhaustion
+- who: Dante | status: present | basis: 73-77
+- who: Virgilio | status: present | basis: 76-77
+
+## Scene 79-84: Dante’s Inquiry
+- who: Dante | status: present | basis: 79-81
+- who: Virgilio | status: present | basis: 81-82
+
+## Scene 85-90: Virgil’s Preface
+- who: Virgilio | status: present | basis: 85-90
+- who: Dante | status: present | basis: 85-90
+
+## Scene 91-105: The Doctrine of Love
+- who: creator | status: mentioned | basis: 91-91
+- who: creatura | status: mentioned | basis: 91-91
+- who: Virgilio | status: present | basis: 92-92
+- who: Dante | status: present | basis: 92-92
+- who: l fattore | status: mentioned | basis: 102-102
+
+## Scene 106-114: The Connection to Hate and the Three Modes
+- who: subietto | status: mentioned | basis: 107-107
+- who: alcuno esser | status: mentioned | basis: 110-110
+- who: dal primo | status: mentioned | basis: 110-110
+- who: Virgilio | status: present | basis: 106-114
+- who: prossimo | status: mentioned | basis: 113-113
+
+## Scene 115-123: The First Mode of Sinful Love
+- who: vicin | status: mentioned | basis: 115-115
+- who: ghiotto | status: mentioned | basis: 122-122
+
+## Scene 124-132: The Second Mode of Sinful Love
+- who: the souls who succumbed to the three-fold love | status: mentioned | basis: 124-132
+- who: Virgilio | status: present | basis: 125-125
+- who: Dante | status: present | basis: 125-125
+- who: ciascun | status: mentioned | basis: 127-129
+
+## Scene 133-139: The Third Mode and Conclusion
+- who: l'uom | status: mentioned | basis: 133-133
+- who: Dante | status: present | basis: 137-139
+- who: Virgilio | status: present | basis: 137-139

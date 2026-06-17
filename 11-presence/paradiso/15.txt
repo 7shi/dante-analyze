@@ -1,0 +1,128 @@
+# Canto 15 — The Vision of Cacciaguida and the Ancestral Legacy
+
+## Scene 1-6: The Nature of Divine Love
+# (no person figure named in this scene)
+
+## Scene 7-12: The Impermanence of Earthly Desire
+- who: quelle sustanze | status: mentioned | basis: 7-9
+- who: Dante | status: present | basis: 7-12
+- who: l'anima | status: mentioned | basis: 10-12
+
+## Scene 13-24: The Passing Star
+# (no person figure named in this scene)
+
+## Scene 25-31: The Arrival of the Shade
+- who: Anchise | status: present | basis: 25-31
+- who: maggior musa | status: mentioned | basis: 26-26
+- who: Enea | status: mentioned | basis: 27-27
+- who: Dante | status: present | basis: 31-31
+- who: Dio | status: mentioned | basis: 29-29
+- who: Cacciaguida | status: present | basis: 28-31
+
+## Scene 32-36: Dante's Joyful Confusion
+- who: Dante | status: present | basis: 32-36
+- who: Beatrice | status: present | basis: 32-34
+
+## Scene 37-42: The Difficulty of Divine Speech
+- who: Cacciaguida | status: present | basis: 37-39
+- who: Dante | status: present | basis: 39-40
+- who: mortal | status: mentioned | basis: 42-42
+
+## Scene 43-48: The First Blessing
+- who: Dante | status: present | basis: 45-46
+- who: Dio | status: mentioned | basis: 47-48
+
+## Scene 49-54: Recognition of the Scholar
+- who: Cacciaguida | status: present | basis: 49-53
+- who: l'anima | status: present | basis: 49-53
+- who: Dante | status: present | basis: 52-54
+- who: Beatrice | status: mentioned | basis: 53-54
+
+## Scene 55-60: The Equality of Spirits
+- who: Dante | status: present | basis: 55-59
+- who: Cacciaguida | status: present | basis: 55-60
+- who: primo | status: mentioned | basis: 56-56
+- who: general human soul/observer | status: mentioned | basis: 57-57
+
+## Scene 61-69: The Mirror of Thought
+- who: Dante | status: present | basis: 61-68
+- who: i minori | status: mentioned | basis: 61-61
+- who: grandi | status: mentioned | basis: 61-61
+- who: Cacciaguida | status: present | basis: 61-69
+
+## Scene 70-72: Beatrice's Silent Encouragement
+- who: Dante | status: present | basis: 70-72
+- who: Beatrice | status: present | basis: 70-71
+
+## Scene 73-78: Dante's Philosophical Inquiry
+- who: Dante | status: present | basis: 73-73
+- who: anime | status: present | basis: 74-76
+
+## Scene 79-87: A Request for Knowledge
+- who: mortali | status: mentioned | basis: 79-82
+- who: Cacciaguida | status: present | basis: 80-87
+- who: Dante | status: present | basis: 82-85
+
+## Scene 88-90: The Ancestral Connection
+- who: Dante | status: present | basis: 88-90
+- who: Cacciaguida | status: present | basis: 88-90
+
+## Scene 91-96: The Mandate of Works
+- who: Dante | status: present | basis: 91-91
+- who: Cacciaguida | status: present | basis: 91-91
+- who: bisavol | status: mentioned | basis: 91-96
+
+## Scene 97-102: The Virtue of Ancient Florence
+- who: persona | status: mentioned | basis: 102-102
+
+## Scene 103-108: The Modesty of Old Households
+- who: la figlia | status: mentioned | basis: 104-104
+- who: al padre | status: mentioned | basis: 104-104
+- who: Sardanapalo | status: mentioned | basis: 107-107
+- who: persona | status: mentioned | basis: 104-104
+
+## Scene 109-111: The Omen of Decline
+- who: Uccellato | status: mentioned | basis: 110-110
+
+## Scene 112-117: The Corruption of Modernity
+- who: Bellincion Berti | status: present | basis: 112-112
+- who: Cacciaguida | status: present | basis: 112-117
+- who: la donna sua | status: present | basis: 113-114
+- who: quel d'i Nerli | status: present | basis: 115-115
+- who: quel del Vecchio | status: present | basis: 115-115
+- who: le sue donne | status: present | basis: 117-117
+
+## Scene 118-120: The Stability of the Past
+- who: i fiorentini | status: mentioned | basis: 118-120
+
+## Scene 121-126: Traditional Domestic Life
+- who: le donne | status: present | basis: 121-124
+- who: i padri | status: mentioned | basis: 123-123
+- who: le madri | status: mentioned | basis: 123-123
+- who: la sua famiglia | status: present | basis: 125-125
+
+## Scene 127-129: The Greatness of Ancestors
+- who: Cianghella | status: mentioned | basis: 128-128
+- who: Lapo Salterello | status: mentioned | basis: 128-128
+- who: Cincinnato | status: mentioned | basis: 129-129
+- who: Corniglia | status: mentioned | basis: 129-129
+
+## Scene 130-133: The Arrival of Mary
+- who: Maria | status: mentioned | basis: 133-133
+- who: Cacciaguida | status: present | basis: 130-133
+
+## Scene 134-138: The Lineage of Cacciaguida
+- who: Cacciaguida | status: present | basis: 135-135
+- who: Moronto | status: mentioned | basis: 136-136
+- who: Eliseo | status: mentioned | basis: 136-136
+- who: Maria | status: mentioned | basis: 137-137
+
+## Scene 139-141: Service to the Emperor
+- who: Cacciaguida | status: present | basis: 139-141
+- who: lo 'mperador Currado | status: present | basis: 139-140
+
+## Scene 142-148: Martyrdom and Peace
+- who: Corrado | status: mentioned | basis: 144-144
+- who: Cacciaguida | status: present | basis: 142-148
+- who: pastor | status: mentioned | basis: 144-144
+- who: molt' anime | status: mentioned | basis: 147-147

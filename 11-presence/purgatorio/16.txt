@@ -1,0 +1,105 @@
+# Canto 16 — The Encounter with Marco Lombardo
+
+## Scene 1-9: The Thick Fog
+- who: Dante | status: present | basis: 4-9
+- who: Virgilio | status: present | basis: 8-9
+
+## Scene 10-15: Following the Guide
+- who: Dante | status: present | basis: 13-15
+- who: Virgilio | status: present | basis: 14-15
+
+## Scene 16-21: The Voices of the Neutrals
+- who: Dante | status: present | basis: 16-16
+- who: Cristo | status: mentioned | basis: 18-19
+
+## Scene 22-24: Virgil’s Interpretation
+- who: spirti | status: present | basis: 22-24
+- who: Virgilio | status: present | basis: 22-23
+- who: Dante | status: present | basis: 22-23
+
+## Scene 25-30: The Voice’s Interruption
+- who: Dante | status: present | basis: 25-30
+- who: gli iracondi | status: present | basis: 25-26
+- who: Marco Lombardo | status: present | basis: 25-28
+- who: Virgilio | status: present | basis: 29-30
+
+## Scene 31-36: Dante’s Introduction and the Voice’s Promise
+- who: Dante | status: present | basis: 31-33
+- who: Marco Lombardo | status: present | basis: 31-36
+- who: Dio | status: mentioned | basis: 32-32
+- who: Virgilio | status: present | basis: 31-36
+
+## Scene 37-45: The Mission and Request for Identity
+- who: Dante | status: present | basis: 37-45
+- who: Dio | status: mentioned | basis: 40-41
+- who: Marco Lombardo | status: present | basis: 43-45
+
+## Scene 46-51: Marco’s Identity and Request for Prayer
+- who: Marco Lombardo | status: present | basis: 46-51
+- who: Dante | status: present | basis: 49-51
+
+## Scene 52-63: Dante’s Doubt and the State of the World
+- who: Dante | status: present | basis: 52-63
+- who: Marco Lombardo | status: present | basis: 52-61
+
+## Scene 64-78: The Mechanics of Free Will
+- who: Marco Lombardo | status: present | basis: 64-65
+- who: Dante | status: present | basis: 65-66
+- who: voi che vivete | status: mentioned | basis: 67-67
+
+## Scene 79-84: Human Responsibility
+- who: uomini | status: present | basis: 80-83
+- who: Marco Lombardo | status: present | basis: 79-84
+- who: Dante | status: present | basis: 84-84
+
+## Scene 85-93: The Metaphor of the Soul
+- who: l'anima semplicetta | status: mentioned | basis: 88-88
+- who: Dio | status: mentioned | basis: 85-85
+- who: fanciulla | status: mentioned | basis: 86-87
+- who: lieto fattore | status: mentioned | basis: 89-89
+
+## Scene 94-105: The Failure of Law and Leadership
+- who: rege | status: mentioned | basis: 95-95
+- who: gente | status: mentioned | basis: 100-100
+- who: Dante | status: present | basis: 103-105
+
+## Scene 106-114: The Conflict of the Two Suns
+- who: l'Imperatore | status: mentioned | basis: 107-109
+- who: il Papa | status: mentioned | basis: 107-110
+- who: Dio | status: mentioned | basis: 108-108
+- who: Dante | status: present | basis: 113-113
+- who: Marco Lombardo | status: present | basis: 113-113
+
+## Scene 115-120: The Decline of Lombardy
+- who: Federigo | status: mentioned | basis: 117-117
+- who: viaggiatore | status: mentioned | basis: 118-119
+- who: i buoni | status: mentioned | basis: 120-120
+
+## Scene 121-126: The Three Old Men
+- who: Currado da Palazzo | status: present | basis: 121-124
+- who: 'l buon Gherardo | status: present | basis: 121-124
+- who: Guido da Castel | status: present | basis: 121-126
+- who: Dio | status: mentioned | basis: 123-123
+- who: Marco Lombardo | status: present | basis: 121-126
+
+## Scene 127-129: The Corruption of the Church
+- who: Dante | status: present | basis: 127-127
+
+## Scene 130-135: Dante’s Inquiry about Gherardo
+- who: Marco Lombardo | status: present | basis: 130-130
+- who: Dante | status: present | basis: 130-130
+- who: li figli di Levì | status: mentioned | basis: 132-132
+- who: Gherardo | status: mentioned | basis: 133-133
+
+## Scene 136-140: Marco’s Difficulty with the Name
+- who: Marco Lombardo | status: present | basis: 136-140
+- who: Dante | status: present | basis: 136-137
+- who: Gherardo | status: mentioned | basis: 138-139
+- who: Gaia | status: mentioned | basis: 140-140
+
+## Scene 141-145: The Departure of Marco
+- who: Dio | status: mentioned | basis: 141-141
+- who: Dante | status: present | basis: 141-145
+- who: Virgilio | status: present | basis: 141-145
+- who: Marco Lombardo | status: present | basis: 141-145
+- who: l'angelo | status: mentioned | basis: 144-144

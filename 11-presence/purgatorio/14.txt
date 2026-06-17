@@ -1,0 +1,100 @@
+# Canto 14 — The Encounter with the Spirits of the Arno Valley
+
+## Scene 1-6: The Spirits' Observation
+- who: Dante | status: present | basis: 1-6
+- who: spirito | status: present | basis: 1-6
+
+## Scene 7-15: The First Spirit's Greeting
+- who: due spirti | status: present | basis: 7-10
+- who: Dante | status: present | basis: 8-15
+
+## Scene 16-24: The Riddle of the Arno
+- who: Dante | status: present | basis: 16-21
+- who: quei che diceva pria | status: present | basis: 22-24
+
+## Scene 25-27: The Second Spirit's Query
+- who: L'altro | status: present | basis: 25-25
+- who: Dante | status: present | basis: 25-26
+- who: om | status: mentioned | basis: 27-27
+
+## Scene 28-51: The Corruption of the Valley
+- who: l'ombra | status: present | basis: 28-29
+- who: li abitator | status: mentioned | basis: 41-42
+- who: Circe | status: mentioned | basis: 42-42
+- who: Botoli | status: mentioned | basis: 46-46
+
+## Scene 52-54: The Cunning Foxes
+# (no person figure named in this scene)
+
+## Scene 55-66: The Prophecy of the Hunter
+- who: Spirto | status: present | basis: 55-58
+- who: Dante | status: present | basis: 56-58
+- who: vero spirto | status: mentioned | basis: 57-57
+
+## Scene 67-72: The Second Spirit's Grief
+- who: colui ch'ascolta | status: mentioned | basis: 68-68
+- who: Dante | status: present | basis: 70-70
+- who: l'altr' anima | status: present | basis: 70-72
+
+## Scene 73-84: Guido's Introduction
+- who: Guido | status: present | basis: 81-84
+- who: Spirto | status: present | basis: 76-77
+- who: Dante | status: present | basis: 74-75
+- who: Dio | status: mentioned | basis: 79-79
+- who: l'uom | status: mentioned | basis: 83-83
+
+## Scene 85-96: The Blight of Lineage
+- who: Guido del Duca | status: present | basis: 85-96
+- who: gente umana | status: mentioned | basis: 86-86
+- who: consorte | status: mentioned | basis: 87-87
+- who: Rinier | status: present | basis: 88-88
+
+## Scene 97-102: Lament for Romagna
+- who: Lizio | status: mentioned | basis: 97-97
+- who: Arrigo Mainardi | status: mentioned | basis: 97-97
+- who: Pier Traversaro | status: mentioned | basis: 98-98
+- who: Guido di Carpigna | status: mentioned | basis: 98-98
+- who: un Fabbro | status: mentioned | basis: 100-100
+- who: Bernardin di Fosco | status: mentioned | basis: 101-102
+
+## Scene 103-111: Mourning the Lost Greatness
+- who: Dante | status: present | basis: 103-103
+- who: Guido del Duca | status: present | basis: 103-103
+- who: Guido da Prata | status: mentioned | basis: 104-104
+- who: Ugolin d'Azzo | status: mentioned | basis: 105-105
+- who: Federigo Tignoso | status: mentioned | basis: 106-106
+- who: la casa Traversara | status: mentioned | basis: 107-107
+- who: li Anastagi | status: mentioned | basis: 107-107
+- who: le donne e ' cavalier | status: mentioned | basis: 109-109
+
+## Scene 112-123: The Decay of Towns
+- who: Conio | status: mentioned | basis: 116-116
+- who: i Pagan | status: mentioned | basis: 118-118
+- who: demonio | status: mentioned | basis: 118-118
+- who: testimonio | status: mentioned | basis: 120-120
+- who: Ugolin de' Fantolin | status: present | basis: 121-121
+
+## Scene 124-126: Guido's Exhaustion
+- who: Dante | status: present | basis: 124-124
+- who: Guido del Duca | status: present | basis: 124-126
+
+## Scene 127-135: The Thunderous Voice
+- who: Dante | status: present | basis: 127-130
+- who: Virgilio | status: present | basis: 127-130
+- who: Guido del Duca | status: present | basis: 132-134
+- who: Rinier | status: mentioned | basis: 127-129
+
+## Scene 136-139: The Appearance of Aglauro
+- who: Aglauro | status: present | basis: 137-139
+
+## Scene 140-141: Dante's Reaction
+- who: Virgilio | status: present | basis: 140-140
+- who: Dante | status: present | basis: 140-141
+
+## Scene 142-151: Aglauro's Warning
+- who: Aglauro | status: present | basis: 143-151
+- who: Dante | status: present | basis: 143-151
+- who: l'uom | status: mentioned | basis: 144-144
+- who: Virgilio | status: present | basis: 143-151
+- who: l'antico avversaro | status: mentioned | basis: 146-146
+- who: Dio | status: mentioned | basis: 148-151

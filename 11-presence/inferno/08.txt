@@ -1,0 +1,86 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+
+## Scene 1-6: Observation of the Flames
+- who: Dante | status: present | basis: 1-4
+- who: Virgilio | status: present | basis: 1-4
+
+## Scene 7-12: Inquiry of the Flames
+- who: Dante | status: present | basis: 7-12
+- who: quei che 'l fenno | status: mentioned | basis: 9-9
+- who: Virgilio | status: present | basis: 7-10
+
+## Scene 13-18: The Approach of the Boat
+- who: Dante | status: present | basis: 15-15
+- who: Virgilio | status: present | basis: 16-16
+- who: Flegeo | status: present | basis: 17-18
+- who: anima fella | status: present | basis: 18-18
+
+## Scene 19-24: The Quarrel with Flegias
+- who: Flegïàs | status: present | basis: 19-24
+- who: Virgilio | status: present | basis: 20-20
+- who: Dante | status: present | basis: 20-20
+
+## Scene 25-30: Boarding the Vessel
+- who: Virgilio | status: present | basis: 25-28
+- who: Dante | status: present | basis: 26-28
+
+## Scene 31-39: The Encounter with the Muddy Spirit
+- who: Dante | status: present | basis: 31-39
+- who: Virgilio | status: present | basis: 31-31
+- who: Filippo Argenti | status: present | basis: 32-39
+
+## Scene 40-51: The Spirit's Monologue on Pride
+- who: Filippo Argenti | status: present | basis: 40-42
+- who: Virgilio | status: present | basis: 41-44
+- who: Dante | status: present | basis: 43-44
+- who: persona orgogliosa | status: present | basis: 46-46
+- who: Quanti | status: mentioned | basis: 49-49
+- who: gran regi | status: mentioned | basis: 49-49
+
+## Scene 52-57: Dante's Desire for Retribution
+- who: Dante | status: present | basis: 52-57
+- who: Virgilio | status: present | basis: 52-57
+- who: Filippo Argenti | status: mentioned | basis: 53-53
+
+## Scene 58-64: The Torment of Filippo Argenti
+- who: Dante | status: present | basis: 58-64
+- who: Filippo Argenti | status: present | basis: 59-64
+- who: le fangose genti | status: present | basis: 59-61
+- who: Dio | status: mentioned | basis: 60-60
+- who: Virgilio | status: present | basis: 64-64
+
+## Scene 65-78: Arrival at the Walls of Dis
+- who: Dante | status: present | basis: 65-78
+- who: Virgilio | status: present | basis: 67-76
+- who: gravi cittadin | status: mentioned | basis: 69-69
+
+## Scene 79-93: Challenge at the Gates
+- who: Dante | status: present | basis: 79-82
+- who: Virgilio | status: present | basis: 79-86
+- who: Flegeo | status: present | basis: 80-81
+- who: demoni | status: present | basis: 82-93
+
+## Scene 94-102: Dante's Terror
+- who: lettor | status: mentioned | basis: 94-94
+- who: Dante | status: present | basis: 94-102
+- who: Virgilio | status: present | basis: 97-102
+
+## Scene 103-108: Virgil's Reassurance
+- who: Virgilio | status: present | basis: 103-108
+- who: Dante | status: present | basis: 103-108
+
+## Scene 109-114: Separation at the Gate
+- who: Virgilio | status: present | basis: 109-113
+- who: Dante | status: present | basis: 109-112
+- who: demoni | status: present | basis: 112-114
+
+## Scene 115-120: Virgil's Despair
+- who: que' nostri avversari | status: mentioned | basis: 115-115
+- who: Virgilio | status: present | basis: 116-120
+- who: Dante | status: present | basis: 117-117
+
+## Scene 121-130: The Secret Path Revealed
+- who: Dante | status: present | basis: 121-121
+- who: Virgilio | status: present | basis: 121-121
+- who: demoni | status: mentioned | basis: 123-125
+- who: scorta | status: mentioned | basis: 129-129

@@ -1,0 +1,78 @@
+# Canto 01 — The Vision of the Celestial Order and Beatrice's Instruction
+
+## Scene 1-12: The Prologue
+- who: Dio | status: mentioned | basis: 1-4
+- who: Dante | status: present | basis: 5-12
+
+## Scene 13-27: The Invocation
+- who: Appollo | status: mentioned | basis: 13-13
+- who: Dante | status: present | basis: 14-27
+- who: Marsïa | status: mentioned | basis: 20-20
+
+## Scene 28-36: The Poet's Struggle
+- who: Apollo | status: mentioned | basis: 32-36
+- who: poeta | status: mentioned | basis: 29-29
+- who: Cesare | status: mentioned | basis: 29-29
+- who: alcun | status: mentioned | basis: 33-33
+- who: Dante | status: present | basis: 28-36
+- who: Future poets | status: mentioned | basis: 35-36
+
+## Scene 37-42: The Cosmic Engine
+- who: mortali | status: mentioned | basis: 37-37
+
+## Scene 43-54: The Vision of Beatrice
+- who: Beatrice | status: present | basis: 46-47
+- who: Dante | status: present | basis: 53-54
+- who: unquanco | status: mentioned | basis: 48-48
+
+## Scene 55-63: The Blinding Light
+- who: l'umana spece | status: mentioned | basis: 57-57
+- who: Dante | status: present | basis: 58-59
+
+## Scene 64-69: The Meeting
+- who: Beatrice | status: present | basis: 64-65
+- who: Dante | status: present | basis: 65-67
+- who: Glauco | status: mentioned | basis: 68-68
+- who: li altri dèi | status: mentioned | basis: 69-69
+
+## Scene 70-75: The Linguistic Struggle
+- who: anyone | status: present | basis: 70-75
+- who: Dante | status: present | basis: 73-75
+
+## Scene 76-84: The Celestial Harmony
+- who: Dio | status: mentioned | basis: 76-78
+- who: Dante | status: present | basis: 77-84
+
+## Scene 85-93: Beatrice's Rebuke
+- who: Beatrice | status: present | basis: 85-88
+- who: Dante | status: present | basis: 85-93
+
+## Scene 94-99: Dante's Wonder
+- who: Dante | status: present | basis: 94-99
+- who: Beatrice | status: mentioned | basis: 95-95
+- who: questi corpi levi | status: present | basis: 99-99
+
+## Scene 100-108: The Doctrine of Order
+- who: Beatrice | status: present | basis: 100-108
+- who: Dante | status: present | basis: 101-101
+- who: la madre | status: mentioned | basis: 102-102
+- who: figlio | status: mentioned | basis: 102-102
+- who: Dio | status: mentioned | basis: 105-105
+- who: l'alte creature | status: mentioned | basis: 106-106
+
+## Scene 109-120: The Mechanics of the Spheres
+- who: Beatrice | status: present | basis: 109-109
+- who: tutte nature | status: mentioned | basis: 110-110
+- who: le creature | status: mentioned | basis: 118-118
+- who: quelle c'hanno intelletto e amore | status: mentioned | basis: 120-120
+
+## Scene 121-126: The Guidance of Providence
+- who: Dante | status: present | basis: 121-126
+
+## Scene 127-135: The Deviation of Desire
+- who: creatura | status: mentioned | basis: 131-131
+- who: osservatore | status: mentioned | basis: 133-133
+
+## Scene 136-142: Final Instruction
+- who: Dante | status: present | basis: 136-141
+- who: Beatrice | status: present | basis: 136-142

@@ -1,0 +1,94 @@
+# Canto 22 — The Vision of the Celestial Lights and the Descent to Earth
+
+## Scene 1-21: Beatrice's Rebuke
+- who: Beatrice | status: present | basis: 1-21
+- who: Dante | status: present | basis: 1-21
+- who: illustri spiriti | status: mentioned | basis: 20-20
+- who: Dio | status: mentioned | basis: 14-14
+
+## Scene 22-30: The Vision of the White Lights
+- who: Beatrice | status: present | basis: 22-22
+- who: Dante | status: present | basis: 22-30
+- who: quei che 'n sé repreme la punta del disio | status: mentioned | basis: 25-27
+- who: la maggiore e la più luculenta di quelle margherite | status: present | basis: 28-30
+
+## Scene 31-36: Beatrice's Promise of Answer
+- who: Beatrice | status: present | basis: 31-36
+- who: Dante | status: present | basis: 31-36
+
+## Scene 37-51: The History of the Monastery
+- who: gente | status: mentioned | basis: 39-39
+- who: San Benedetto | status: present | basis: 40-40
+- who: Cristo | status: mentioned | basis: 41-42
+- who: uomini | status: present | basis: 46-47
+- who: empio cólto | status: mentioned | basis: 45-45
+- who: Maccario | status: present | basis: 49-49
+- who: Romoaldo | status: present | basis: 49-49
+- who: li frati miei | status: present | basis: 50-51
+
+## Scene 52-60: Dante's Request
+- who: Dante | status: present | basis: 52-52
+- who: San Benedetto | status: present | basis: 52-52
+
+## Scene 61-69: Description of the Empyrean
+- who: San Benedetto | status: present | basis: 61-61
+- who: Dante | status: present | basis: 61-69
+- who: tutti li altri | status: mentioned | basis: 63-63
+
+## Scene 70-84: The Decay of Monastic Discipline
+- who: Iacobbe | status: mentioned | basis: 70-72
+- who: Dio | status: mentioned | basis: 80-83
+- who: monaci | status: mentioned | basis: 81-81
+- who: gente | status: mentioned | basis: 83-83
+- who: parenti | status: mentioned | basis: 84-84
+
+## Scene 85-96: The Inevitability of Change
+- who: mortali | status: mentioned | basis: 85-85
+- who: Pier | status: mentioned | basis: 88-88
+- who: Benedetto | status: present | basis: 89-89
+- who: Francesco | status: mentioned | basis: 90-90
+- who: Dante | status: present | basis: 91-93
+- who: Dio | status: mentioned | basis: 95-95
+
+## Scene 97-99: The Ascent of the Spirits
+- who: San Benedetto | status: present | basis: 97-99
+- who: Dante | status: present | basis: 97-97
+
+## Scene 100-105: Dante's Rapid Ascent
+- who: Beatrice | status: present | basis: 100-101
+- who: le anime beate | status: mentioned | basis: 100-100
+- who: Dante | status: present | basis: 100-105
+
+## Scene 106-120: The Sign of Taurus
+- who: Dante | status: present | basis: 106-120
+- who: lettore | status: mentioned | basis: 106-109
+- who: padre d'ogne mortal vita | status: mentioned | basis: 116-116
+
+## Scene 121-123: Prayer to the Stars
+- who: Dante | status: present | basis: 121-122
+
+## Scene 124-132: Beatrice's Command to Look Down
+- who: Dante | status: present | basis: 124-130
+- who: Bëatrice | status: present | basis: 125-125
+- who: la turba trïunfante | status: mentioned | basis: 131-132
+
+## Scene 133-138: The View of the Earth
+- who: Dante | status: present | basis: 133-136
+- who: chi ad altro pensa | status: mentioned | basis: 137-138
+
+## Scene 139-150: The Motion of the Planets
+- who: Dante | status: present | basis: 139-150
+- who: quell' ombra | status: mentioned | basis: 140-140
+- who: tuo nato | status: present | basis: 142-143
+- who: Iperïone | status: present | basis: 142-143
+- who: Maia | status: present | basis: 144-144
+- who: Dïone | status: present | basis: 144-144
+- who: Giove | status: present | basis: 145-145
+- who: il Padre | status: present | basis: 146-146
+- who: figlio | status: present | basis: 146-146
+- who: tutti e sette | status: present | basis: 148-148
+
+## Scene 151-154: The Earth as a Small Garden
+- who: Dante | status: present | basis: 152-154
+- who: li etterni Gemelli | status: present | basis: 152-152
+- who: Beatrice | status: present | basis: 154-154

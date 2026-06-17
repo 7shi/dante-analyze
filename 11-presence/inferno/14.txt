@@ -1,0 +1,77 @@
+# Canto 14 — The Third Circle: The Wrathful and the Rain of Fire
+
+## Scene 1-6: Transition to the Third Circle
+- who: Dante | status: present | basis: 2-4
+- who: Jacopo | status: present | basis: 3-3
+- who: Virgilio | status: present | basis: 4-4
+
+## Scene 7-15: The Desolate Landscape
+- who: Dante | status: present | basis: 8-12
+- who: Virgilio | status: present | basis: 8-12
+- who: Catone | status: mentioned | basis: 15-15
+
+## Scene 16-21: The Multitude of Souls
+- who: anime nude | status: present | basis: 19-20
+- who: Dante | status: present | basis: 18-19
+
+## Scene 22-27: The Patterns of Suffering
+- who: alcuna gente | status: present | basis: 22-22
+- who: alcuna | status: present | basis: 23-23
+- who: l'altra | status: present | basis: 24-24
+
+## Scene 28-39: The Rain of Fire
+- who: Alessandro | status: mentioned | basis: 31-36
+
+## Scene 40-48: Dante's Inquiry
+- who: Dante | status: present | basis: 43-43
+- who: Virgilio | status: present | basis: 43-43
+- who: demon duri | status: mentioned | basis: 44-45
+- who: quel grande | status: present | basis: 46-47
+
+## Scene 49-60: Capaneus's Defiance
+- who: Capaneo | status: present | basis: 49-51
+- who: Dante | status: present | basis: 50-50
+- who: Virgilio | status: present | basis: 50-50
+- who: Giove | status: mentioned | basis: 52-60
+- who: Vulcano | status: mentioned | basis: 52-57
+- who: Ciclopi | status: mentioned | basis: 55-55
+
+## Scene 61-75: Virgil's Rebuke and Warning
+- who: Virgilio | status: present | basis: 61-75
+- who: Dante | status: present | basis: 62-75
+- who: Capaneo | status: present | basis: 63-66
+- who: Dio | status: mentioned | basis: 70-70
+
+## Scene 76-84: The Red Stream
+- who: Dante | status: present | basis: 76-84
+- who: Virgilio | status: present | basis: 76-76
+- who: le peccatrici | status: mentioned | basis: 80-80
+
+## Scene 85-93: Virgil's Question to Dante
+- who: Virgilio | status: present | basis: 85-92
+- who: Dante | status: present | basis: 85-93
+
+## Scene 94-102: The Legend of Mount Ida
+- who: Virgilio | status: present | basis: 95-95
+- who: 'l cui rege | status: mentioned | basis: 96-96
+- who: Rëa | status: mentioned | basis: 100-100
+- who: Giove | status: mentioned | basis: 101-101
+
+## Scene 103-111: The Colossus of Metals
+- who: un gran veglio | status: present | basis: 103-111
+
+## Scene 112-120: The Formation of the Rivers
+- who: Dante | status: present | basis: 120-120
+
+## Scene 121-129: The Geometry of Hell
+- who: Dante | status: present | basis: 121-129
+- who: Virgilio | status: present | basis: 121-129
+
+## Scene 130-138: The Nature of the Rivers
+- who: Dante | status: present | basis: 130-130
+- who: Virgilio | status: present | basis: 133-134
+- who: anime | status: mentioned | basis: 137-137
+
+## Scene 139-142: Leaving the Woods
+- who: Virgilio | status: present | basis: 139-140
+- who: Dante | status: present | basis: 140-140

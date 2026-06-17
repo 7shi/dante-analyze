@@ -1,0 +1,78 @@
+# Canto 33 — The Vision of the Eternal Light and the Beatific Vision
+
+## Scene 1-18: Exaltation of the Virgin
+- who: Maria | status: present | basis: 1-1
+- who: Cristo | status: mentioned | basis: 1-1
+- who: creatura | status: mentioned | basis: 2-2
+- who: Dio | status: mentioned | basis: 3-3
+- who: Bernardo | status: present | basis: 1-18
+- who: Dante | status: present | basis: 10-10
+- who: i beati | status: present | basis: 10-10
+- who: mortali | status: mentioned | basis: 11-11
+- who: chi vuol grazia | status: mentioned | basis: 14-14
+
+## Scene 19-39: The Prayer of Petition
+- who: Maria | status: present | basis: 19-34
+- who: Dante | status: present | basis: 28-39
+- who: Bernardo | status: present | basis: 22-25
+- who: Beatrice | status: present | basis: 38-38
+- who: i beati | status: present | basis: 38-38
+
+## Scene 40-45: Divine Response
+- who: Dio | status: mentioned | basis: 40-40
+- who: Bernardo | status: present | basis: 41-41
+- who: Maria | status: present | basis: 40-43
+- who: creatura | status: mentioned | basis: 45-45
+
+## Scene 46-54: Entry into the Light
+- who: Dante | status: present | basis: 46-52
+- who: Bernardo | status: present | basis: 49-51
+- who: l'alta luce | status: present | basis: 53-54
+
+## Scene 55-66: The Loss of Memory
+- who: Dante | status: present | basis: 55-63
+- who: Sibilla | status: mentioned | basis: 66-66
+
+## Scene 67-75: The Poet's Vow
+- who: somma luce | status: present | basis: 67-67
+- who: la futura gente | status: mentioned | basis: 72-72
+
+## Scene 76-84: The Intensity of the Radiance
+- who: Dante | status: present | basis: 76-84
+- who: Dio | status: present | basis: 77-84
+
+## Scene 85-93: The Universal Knot
+- who: Dante | status: present | basis: 85-93
+
+## Scene 94-105: The Perfection of the Light
+- who: Dante | status: present | basis: 94-99
+- who: Nettuno | status: mentioned | basis: 96-96
+- who: l'ombra d'Argo | status: mentioned | basis: 96-96
+- who: Dio | status: present | basis: 100-105
+- who: impersonal 'one' | status: mentioned | basis: 100-102
+
+## Scene 106-114: The Changing Observer
+- who: Dante | status: present | basis: 106-114
+- who: un fante | status: mentioned | basis: 107-108
+- who: nel vivo lume | status: present | basis: 110-111
+
+## Scene 115-120: The Three Concentric Circles
+# (no person figure named in this scene)
+
+## Scene 121-123: The Limits of Language
+- who: Dante | status: present | basis: 121-123
+
+## Scene 124-126: The Self-Intelligible Light
+- who: Dio | status: present | basis: 124-126
+
+## Scene 127-132: The Human Reflection
+- who: Dio | status: present | basis: 128-128
+- who: Dante | status: present | basis: 129-132
+- who: Cristo | status: mentioned | basis: 131-131
+
+## Scene 133-139: The Failed Measurement
+- who: l geomètra | status: mentioned | basis: 133-133
+- who: Dante | status: present | basis: 136-139
+
+## Scene 140-145: Divine Impulse
+- who: Dio | status: mentioned | basis: 145-145

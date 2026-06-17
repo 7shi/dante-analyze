@@ -14,3 +14,4 @@ RELATIONS_DIR = ROOT_DIR / "07-relations"  # relations.py writes 07-relations/<c
 KG_DIR = ROOT_DIR / "08-kg"              # assembly.py writes 08-kg/<canticle>/NN.json + <canticle>.nodes.json
 LOCATION_DIR = ROOT_DIR / "09-location"  # location.py writes 09-location/<canticle>/NN.txt
 TOPOGRAPHY_DIR = ROOT_DIR / "10-topography"  # topography.py writes 10-topography/<canticle>.txt (per-canticle)
+PRESENCE_DIR = ROOT_DIR / "11-presence"  # presence.py writes 11-presence/<canticle>/NN.txt

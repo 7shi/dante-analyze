@@ -1,0 +1,83 @@
+# Canto 07 — Beatrice's Theological Discourse on the Incarnation and Redemption
+
+## Scene 1-3: The Celestial Hymn
+- who: Dio | status: mentioned | basis: 1-2
+
+## Scene 4-9: Movement of the Lights
+- who: Dante | status: present | basis: 5-9
+
+## Scene 10-15: Dante's Awe
+- who: Dante | status: present | basis: 10-15
+- who: le anime di Mercurio | status: mentioned | basis: 14-14
+- who: Beatrice | status: present | basis: 11-14
+- who: l'uom | status: mentioned | basis: 15-15
+
+## Scene 16-24: Beatrice's Promise
+- who: Dante | status: present | basis: 16-24
+- who: Beatrice | status: present | basis: 16-24
+- who: l'uom | status: mentioned | basis: 18-18
+
+## Scene 25-39: The Fall of Man
+- who: Adamo | status: mentioned | basis: 26-27
+- who: Verbo di Dio | status: mentioned | basis: 30-30
+- who: suo fattore | status: mentioned | basis: 31-35
+- who: Dante | status: present | basis: 34-34
+- who: Beatrice | status: present | basis: 34-34
+
+## Scene 40-48: The Justice of the Cross
+- who: Cristo | status: mentioned | basis: 41-47
+- who: Dio | status: mentioned | basis: 47-47
+
+## Scene 49-54: Dante's Lingering Doubt
+- who: Dante | status: present | basis: 49-52
+- who: Beatrice | status: present | basis: 52-52
+
+## Scene 55-63: The Hidden Decree
+- who: Dante | status: present | basis: 55-58
+- who: Dio | status: mentioned | basis: 56-56
+- who: Beatrice | status: present | basis: 55-63
+
+## Scene 64-75: The Radiance of Divine Goodness
+# (no person figure named in this scene)
+
+## Scene 76-84: The Impact of Sin
+- who: l'umana creatura | status: mentioned | basis: 77-84
+
+## Scene 85-93: The Necessity of a Way Back
+- who: Dante | status: present | basis: 85-88
+- who: Dio | status: mentioned | basis: 91-91
+- who: l'uom | status: mentioned | basis: 92-92
+
+## Scene 94-102: The Limits of Human Effort
+- who: Dante | status: present | basis: 94-96
+- who: un uomo | status: mentioned | basis: 97-102
+
+## Scene 103-114: The Beauty of God's Plan
+- who: Dio | status: mentioned | basis: 103-103
+- who: l'omo | status: mentioned | basis: 104-104
+- who: Beatrice | status: present | basis: 105-105
+
+## Scene 115-120: The Majesty of the Incarnation
+- who: Dio | status: mentioned | basis: 115-115
+- who: l'uom | status: mentioned | basis: 116-116
+- who: l Figliuol di Dio | status: mentioned | basis: 119-120
+
+## Scene 121-123: Redirecting the Vision
+- who: Beatrice | status: present | basis: 122-123
+- who: Dante | status: present | basis: 121-123
+
+## Scene 124-129: Dante's Observation of Decay
+- who: Dante | status: present | basis: 124-124
+
+## Scene 130-138: The Hierarchy of Creation
+- who: li angeli | status: mentioned | basis: 130-130
+- who: Dante | status: present | basis: 130-133
+- who: Li angeli, il paese sincero | status: mentioned | basis: 130-131
+
+## Scene 139-144: The Animation of the Soul
+- who: l'anima d'ogne bruto e de le piante | status: mentioned | basis: 139-141
+
+## Scene 145-148: The Argument for Resurrection
+- who: Dante | status: present | basis: 145-146
+- who: Adamo | status: mentioned | basis: 148-148
+- who: Eva | status: mentioned | basis: 148-148

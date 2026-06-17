@@ -38,6 +38,8 @@ Examples from this repo:
 - `09-location` names each scene's current setting only.
 - `10-topography` folds those settings into canonical regions only (the place analogue of
   `05-registry`).
+- `11-presence` only labels each scene's already-resolved roster `present` / `mentioned` (the person
+  analogue: code gathers the cast, the model classifies it).
 
 Split only as much as the current model tier needs. If a stronger model becomes available,
 re-measure whether some scaffolding can collapse without losing accuracy.
@@ -243,7 +245,10 @@ setting.
 
 For bounded, well-studied work, prefer a closed schema to open extraction. `07-relations` uses a
 closed predicate vocabulary and cites `[n]` tag numbers; `08-kg` joins those tags through
-`04-tags` and `05-registry`.
+`04-tags` and `05-registry`. `11-presence` goes further: code gathers the closed roster (the scene's
+already-resolved `05-registry` figures), so the model only labels each `present` / `mentioned` — a
+closed-set classification that admits a total structural check (every roster figure labeled exactly
+once, none outside it), instead of re-extracting identities the pipeline has already fixed.
 
 Carry provenance on every structured record:
 

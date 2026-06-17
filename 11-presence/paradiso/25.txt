@@ -1,0 +1,107 @@
+# Canto 25 — The Vision of the Three Lights and the Revelation of Hope
+
+## Scene 1-12: Dante's Prologue
+- who: Dante | status: present | basis: 3-12
+- who: Dio | status: mentioned | basis: 11-11
+- who: Pietro | status: mentioned | basis: 12-12
+- who: Beatrice | status: mentioned | basis: 12-12
+
+## Scene 13-18: The Appearance of the Second Light
+- who: Giacomo | status: present | basis: 13-18
+- who: Dante | status: present | basis: 13-18
+- who: Beatrice | status: present | basis: 13-18
+- who: San Pietro | status: mentioned | basis: 14-15
+- who: Cristo | status: mentioned | basis: 15-15
+- who: i vicari suoi | status: mentioned | basis: 15-15
+
+## Scene 19-24: Simile of the Two Princes
+- who: Dante | status: present | basis: 22-22
+- who: Giacomo | status: mentioned | basis: 23-23
+- who: Pietro | status: mentioned | basis: 23-23
+- who: Beatrice | status: mentioned | basis: 22-22
+- who: i beati | status: present | basis: 23-24
+
+## Scene 25-33: Beatrice's Invocation of Hope
+- who: 'l gratular | status: present | basis: 25-25
+- who: Dante | status: present | basis: 26-27
+- who: San Pietro | status: present | basis: 26-33
+- who: San Giacomo | status: present | basis: 26-33
+- who: Bëatrice | status: present | basis: 28-33
+- who: Iesù | status: mentioned | basis: 33-33
+- who: San Giovanni | status: present | basis: 26-33
+
+## Scene 34-36: Beatrice's Command
+- who: Dante | status: present | basis: 34-34
+
+## Scene 37-47: The Second Light's Inquiry
+- who: Dante | status: present | basis: 38-47
+- who: lo nostro Imperadore | status: mentioned | basis: 41-41
+- who: suoi conti | status: mentioned | basis: 42-42
+
+## Scene 48-63: The Nature of Hope in the Church
+- who: Giacomo | status: present | basis: 48-48
+- who: Beatrice | status: present | basis: 49-51
+- who: Dante | status: present | basis: 50-51
+- who: La Chiesa militante | status: mentioned | basis: 52-52
+- who: Dio | status: mentioned | basis: 63-63
+
+## Scene 64-78: Dante's Scholarly Response
+- who: Dante | status: present | basis: 67-67
+- who: Giacomo il Maggiore | status: present | basis: 64-64
+- who: Virgilio | status: mentioned | basis: 71-72
+- who: Augusto | status: mentioned | basis: 72-72
+- who: color che sanno il nome tuo | status: mentioned | basis: 74-74
+- who: Dio | status: mentioned | basis: 74-74
+- who: chi nol sa | status: mentioned | basis: 75-75
+
+## Scene 79-87: The Third Light's Command
+- who: Dante | status: present | basis: 79-87
+- who: Giovanni | status: mentioned | basis: 83-83
+
+## Scene 88-96: Scriptural Identification of Hope
+- who: Dante | status: present | basis: 88-88
+- who: anime | status: mentioned | basis: 90-90
+- who: Dio | status: mentioned | basis: 90-90
+- who: Isaia | status: mentioned | basis: 91-91
+- who: San Pietro | status: mentioned | basis: 90-90
+- who: Dante, i fedeli | status: present | basis: 96-96
+
+## Scene 97-99: The Heavenly Response
+- who: Dio | status: mentioned | basis: 98-98
+- who: Dante | status: present | basis: 98-98
+- who: Beatrice | status: present | basis: 98-98
+- who: San Pietro | status: present | basis: 98-98
+- who: San Giacomo | status: present | basis: 98-98
+- who: San Giovanni | status: present | basis: 98-98
+- who: tutte le carole | status: present | basis: 99-99
+
+## Scene 100-108: The Arrival of the Third Light
+- who: San Pietro | status: present | basis: 107-107
+- who: San Giacomo | status: present | basis: 107-107
+- who: vergine lieta | status: mentioned | basis: 103-104
+- who: Dante | status: present | basis: 106-106
+
+## Scene 109-114: Beatrice's Identification
+- who: Giovanni | status: present | basis: 112-113
+- who: Beatrice | status: present | basis: 110-111
+- who: Pietro | status: present | basis: 113-114
+- who: Giacomo | status: present | basis: 109-110
+- who: Cristo | status: mentioned | basis: 113-114
+
+## Scene 115-117: Beatrice's Silent Attention
+- who: Beatrice | status: present | basis: 115-117
+
+## Scene 118-129: The Prophecy of the Two Lights
+- who: colui ch'adocchia | status: mentioned | basis: 118-118
+- who: Dante | status: present | basis: 121-129
+- who: San Giovanni | status: mentioned | basis: 125-125
+- who: li altri | status: mentioned | basis: 125-125
+- who: San Pietro | status: mentioned | basis: 128-128
+- who: San Giacomo | status: mentioned | basis: 128-128
+
+## Scene 130-135: The Settling of the Heavens
+- who: Dante | status: present | basis: 130-135
+
+## Scene 136-139: Dante's Final Vision
+- who: Dante | status: present | basis: 136-139
+- who: Beatrice | status: present | basis: 137-139

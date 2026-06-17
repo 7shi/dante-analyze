@@ -1,0 +1,97 @@
+# Canto 12 — The Praise of Saint Dominic and the Gathering of the Saints
+
+## Scene 1-9: The Rotation of the Celestial Gear
+- who: Tommaso | status: mentioned | basis: 2-2
+- who: muse | status: mentioned | basis: 7-7
+
+## Scene 10-21: The Intertwining Garlands
+- who: Iunone | status: mentioned | basis: 12-12
+- who: Iride | status: mentioned | basis: 12-14
+- who: gente | status: present | basis: 16-16
+- who: Dio | status: mentioned | basis: 17-17
+- who: Noè | status: mentioned | basis: 17-17
+- who: Dante | status: present | basis: 20-20
+- who: Beatrice | status: present | basis: 20-20
+
+## Scene 22-30: The Voice Emerges
+- who: le luci nove | status: present | basis: 28-28
+- who: Dante | status: present | basis: 29-30
+
+## Scene 31-36: The Theology of the Two Guides
+- who: San Domenico | status: mentioned | basis: 32-32
+- who: Virgilio | status: present | basis: 34-34
+- who: i beati | status: mentioned | basis: 33-33
+- who: Beatrice | status: present | basis: 31-31
+
+## Scene 37-45: The Allegory of the Church's Defense
+- who: Cristo | status: mentioned | basis: 37-43
+- who: Domenico | status: mentioned | basis: 44-44
+- who: Francesco | status: mentioned | basis: 44-44
+
+## Scene 46-60: The Birth of Saint Dominic
+- who: Europa | status: mentioned | basis: 48-48
+- who: ogne uom | status: mentioned | basis: 51-51
+- who: San Domenico | status: mentioned | basis: 55-60
+- who: nemici | status: mentioned | basis: 57-57
+- who: la madre | status: mentioned | basis: 60-60
+
+## Scene 61-78: The Vision and Signs of Sanctity
+- who: Domenico | status: mentioned | basis: 65-78
+- who: la donna | status: mentioned | basis: 64-65
+- who: il padre di Domenico | status: mentioned | basis: 62-66
+- who: spirito | status: mentioned | basis: 68-68
+- who: Cristo | status: mentioned | basis: 71-75
+- who: la sua nutrice | status: mentioned | basis: 77-77
+
+## Scene 79-87: The Rapid Growth of the Doctor
+- who: Felice | status: mentioned | basis: 79-79
+- who: Giovanna | status: mentioned | basis: 80-80
+- who: Agostino | status: mentioned | basis: 83-83
+- who: Taddeo | status: mentioned | basis: 83-83
+- who: Domenico | status: mentioned | basis: 82-86
+
+## Scene 88-105: The Missionary Zeal of Dominic
+- who: i Francescani | status: mentioned | basis: 88-89
+- who: il Papa | status: present | basis: 88-90
+- who: San Domenico | status: present | basis: 88-102
+- who: pauperum Dei | status: mentioned | basis: 93-93
+- who: Parola di Dio | status: mentioned | basis: 95-96
+- who: li sterpi eretici | status: present | basis: 100-100
+- who: Ordine domenicano | status: mentioned | basis: 103-103
+- who: i suoi arbuscelli | status: mentioned | basis: 105-105
+
+## Scene 106-114: The Vacancy in the Second Circle
+- who: Dante | status: present | basis: 111-111
+- who: Tomma | status: mentioned | basis: 110-110
+
+## Scene 115-126: The Vastness of the Second Ring
+- who: i Francescani | status: mentioned | basis: 124-126
+- who: un'anima tra i Francescani | status: mentioned | basis: 124-126
+- who: il loglio | status: mentioned | basis: 119-120
+- who: San Domenico | status: mentioned | basis: 115-115
+- who: i frati di Casal e Acquasparta | status: mentioned | basis: 124-126
+
+## Scene 127-141: The Assembly of the Saints
+- who: Domenico | status: mentioned | basis: 131-131
+- who: Bonaventura | status: present | basis: 127-127
+- who: Illuminato | status: present | basis: 130-130
+- who: Augustin | status: present | basis: 130-130
+- who: primi scalzi poverelli | status: present | basis: 130-131
+- who: Dio | status: mentioned | basis: 132-132
+- who: Ugo da San Vittore | status: present | basis: 133-133
+- who: Pietro Mangiadore | status: present | basis: 134-134
+- who: Pietro Spano | status: present | basis: 134-134
+- who: Natàn | status: present | basis: 136-136
+- who: Crisostomo | status: present | basis: 137-137
+- who: Anselmo | status: present | basis: 137-137
+- who: Donato | status: present | basis: 137-137
+- who: Rabano | status: present | basis: 139-139
+- who: Giovacchino | status: present | basis: 140-140
+
+## Scene 142-145: The Unified Praise
+- who: Francesco | status: present | basis: 143-145
+- who: Domenico | status: present | basis: 144-145
+- who: Tommaso | status: present | basis: 144-145
+- who: Virgilio | status: present | basis: 145-145
+- who: Dante | status: present | basis: 145-145
+- who: Beatrice | status: mentioned | basis: 145-145
