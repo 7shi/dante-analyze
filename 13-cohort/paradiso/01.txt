@@ -1,0 +1,49 @@
+# Canto 01 — The Vision of the Celestial Order and Beatrice's Instruction
+
+## Scene 1-12: The Prologue
+# (no soul-class present in this scene)
+
+## Scene 13-27: The Invocation
+# (no soul-class present in this scene)
+
+## Scene 28-36: The Poet's Struggle
+# (no soul-class present in this scene)
+
+## Scene 37-42: The Cosmic Engine
+# (no soul-class present in this scene)
+
+## Scene 43-54: The Vision of Beatrice
+# (no soul-class present in this scene)
+
+## Scene 55-63: The Blinding Light
+# (no soul-class present in this scene)
+
+## Scene 64-69: The Meeting
+# (no soul-class present in this scene)
+
+## Scene 70-75: The Linguistic Struggle
+- cohort: anyone | source: code | basis: 70-75
+
+## Scene 76-84: The Celestial Harmony
+# (no soul-class present in this scene)
+
+## Scene 85-93: Beatrice's Rebuke
+# (no soul-class present in this scene)
+
+## Scene 94-99: Dante's Wonder
+- cohort: questi corpi levi | source: code | basis: 99-99
+
+## Scene 100-108: The Doctrine of Order
+# (no soul-class present in this scene)
+
+## Scene 109-120: The Mechanics of the Spheres
+# (no soul-class present in this scene)
+
+## Scene 121-126: The Guidance of Providence
+# (no soul-class present in this scene)
+
+## Scene 127-135: The Deviation of Desire
+# (no soul-class present in this scene)
+
+## Scene 136-142: Final Instruction
+# (no soul-class present in this scene)

@@ -1,0 +1,40 @@
+# Canto 24 — The Descent into the Second Bolgia and the Prophecy of Vanni Fucci
+
+## Scene 1-15: The Peasant’s Morning
+# (no soul-class present in this scene)
+
+## Scene 16-24: Virgil’s Physical Aid
+# (no soul-class present in this scene)
+
+## Scene 25-30: Virgil’s Climbing Method
+# (no soul-class present in this scene)
+
+## Scene 31-45: The Difficult Descent
+# (no soul-class present in this scene)
+
+## Scene 46-60: Virgil’s Exhortation
+# (no soul-class present in this scene)
+
+## Scene 61-78: The Angry Voice
+# (no soul-class present in this scene)
+
+## Scene 79-81: Entering the Bolgia
+# (no soul-class present in this scene)
+
+## Scene 82-96: The Pit of Serpents
+- cohort: genti nude e spaventate | source: llm | basis: 92-92
+
+## Scene 97-111: The Phoenix Metaphor
+- cohort: l'anima | source: code | basis: 97-105
+
+## Scene 112-118: The Sinner’s Anguish
+- cohort: l peccator | source: code | basis: 118-118
+
+## Scene 119-126: Vanni Fucci’s Identity
+# (no soul-class present in this scene)
+
+## Scene 127-139: The Confession of Theft
+# (no soul-class present in this scene)
+
+## Scene 140-151: The Prophecy of War
+# (no soul-class present in this scene)

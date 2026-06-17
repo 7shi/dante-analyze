@@ -1,0 +1,52 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+
+## Scene 1-15: The Gloomy Woods
+- cohort: le brutte Arpie | source: code | basis: 10-15
+
+## Scene 16-21: Virgil's Warning
+# (no soul-class present in this scene)
+
+## Scene 22-30: The Mysterious Voices
+# (no soul-class present in this scene)
+
+## Scene 31-39: The Broken Branch
+# (no soul-class present in this scene)
+
+## Scene 40-45: The Splintering Tree
+# (no soul-class present in this scene)
+
+## Scene 46-54: Virgil's Inquiry
+- cohort: anima lesa | source: code | basis: 47-54
+
+## Scene 55-63: The Keeper of Secrets
+# (no soul-class present in this scene)
+
+## Scene 64-72: The Sin of Betrayal
+- cohort: l'anima | source: code | basis: 70-70
+
+## Scene 73-78: A Vow of Loyalty
+# (no soul-class present in this scene)
+
+## Scene 79-84: The Poet's Encouragement
+# (no soul-class present in this scene)
+
+## Scene 85-90: The Request for Knowledge
+- cohort: spirito incarcerato | source: code | basis: 87-87
+
+## Scene 91-108: The Fate of the Suicides
+# (no soul-class present in this scene)
+
+## Scene 109-114: The Sound of the Hunt
+# (no soul-class present in this scene)
+
+## Scene 115-123: The Fleeing Souls
+# (no soul-class present in this scene)
+
+## Scene 124-129: The Attack of the Hounds
+- cohort: miser | source: code | basis: 127-129
+
+## Scene 130-135: The Wounded Bush
+# (no soul-class present in this scene)
+
+## Scene 136-151: The History of Florence
+# (no soul-class present in this scene)

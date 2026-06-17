@@ -1,0 +1,53 @@
+# Canto 03 — The Encounter with Manfred and the Limits of Reason
+
+## Scene 1-9: Dante's Internal Turmoil
+- cohort: anime | source: code | basis: 2-2
+
+## Scene 10-15: The Widening View
+# (no soul-class present in this scene)
+
+## Scene 16-30: The Obscured Sun
+# (no soul-class present in this scene)
+
+## Scene 31-45: The Limits of Reason
+# (no soul-class present in this scene)
+
+## Scene 46-54: The Steep Ascent
+# (no soul-class present in this scene)
+
+## Scene 55-66: The Approaching Souls
+- cohort: gente | source: llm | basis: 58-58
+- cohort: anime | source: llm | basis: 59-59
+
+## Scene 67-72: The Gathering Crowd
+- cohort: quel popol | source: code | basis: 67-71
+
+## Scene 73-78: Virgil’s Appeal
+- cohort: spiriti eletti | source: code | basis: 73-73
+
+## Scene 79-87: The Sheep Simile
+# (no soul-class present in this scene)
+
+## Scene 88-93: The Souls' Hesitation
+- cohort: tutti li altri | source: llm | basis: 92-92
+
+## Scene 94-99: The Reason for Darkness
+- cohort: anime | source: code | basis: 94-99
+
+## Scene 100-108: The Encounter
+- cohort: quella gente degna | source: llm | basis: 100-100
+
+## Scene 109-111: The Wound Revealed
+# (no soul-class present in this scene)
+
+## Scene 112-123: Manfred's Identity
+- cohort: Manfredi | source: code | basis: 112-112
+
+## Scene 124-135: Manfred's History
+- cohort: Manfredi | source: code | basis: 124-135
+
+## Scene 136-141: The Doctrine of Schism
+# (no soul-class present in this scene)
+
+## Scene 142-145: The Final Request
+- cohort: Manfredi | source: code | basis: 142-145

@@ -1,0 +1,53 @@
+# Canto 30 — The Arrival of Beatrice and the Vision of the Blessed
+
+## Scene 1-9: The Settling of the First Heaven
+- cohort: la gente verace | source: code | basis: 7-9
+
+## Scene 10-12: The Herald's Cry
+- cohort: un di loro | source: llm | basis: 10-10
+- cohort: tutti li altri | source: llm | basis: 12-12
+
+## Scene 13-21: The Anthem of the Blessed
+- cohort: i beati | source: code | basis: 16-21
+
+## Scene 22-33: The Appearance of the Lady
+# (no soul-class present in this scene)
+
+## Scene 34-39: Spiritual Recognition
+# (no soul-class present in this scene)
+
+## Scene 40-48: Dante's Trembling
+# (no soul-class present in this scene)
+
+## Scene 49-54: Lament for Virgil
+# (no soul-class present in this scene)
+
+## Scene 55-57: Virgil's Warning
+# (no soul-class present in this scene)
+
+## Scene 58-66: Beatrice's Gaze
+# (no soul-class present in this scene)
+
+## Scene 67-75: The Greeting of Beatrice
+# (no soul-class present in this scene)
+
+## Scene 76-81: Dante's Shame
+# (no soul-class present in this scene)
+
+## Scene 82-84: Interrupted Song
+- cohort: li angeli | source: code | basis: 82-82
+
+## Scene 85-99: The Release of Tears
+- cohort: quei che notan sempre dietro a le note de li etterni giri | source: code | basis: 92-96
+
+## Scene 100-117: Theology of Grace
+- cohort: le sustanze pie | source: code | basis: 101-103
+
+## Scene 118-126: The Metaphor of the Uncultivated Soil
+# (no soul-class present in this scene)
+
+## Scene 127-138: The Descent into Error
+# (no soul-class present in this scene)
+
+## Scene 139-145: The Necessity of Repentance
+# (no soul-class present in this scene)

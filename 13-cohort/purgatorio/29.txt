@@ -1,0 +1,55 @@
+# Canto 29 — The Celestial Procession of the Empyrean
+
+## Scene 1-15: The Path Along the River
+# (no soul-class present in this scene)
+
+## Scene 16-30: The Sudden Light and Melody
+# (no soul-class present in this scene)
+
+## Scene 31-42: The Poet's Invocation
+- cohort: sacrosante Vergini | source: code | basis: 36-39
+
+## Scene 43-54: The Golden Candelabra
+# (no soul-class present in this scene)
+
+## Scene 55-63: Beatrice's Rebuke
+# (no soul-class present in this scene)
+
+## Scene 64-69: The White-Clad People
+- cohort: le genti | source: llm | basis: 64-65
+
+## Scene 70-81: The Rainbow Trails
+- cohort: fiammelle | source: code | basis: 73-73
+
+## Scene 82-87: The Twenty-Four Elders
+- cohort: ventiquattro seniori | source: code | basis: 83-85
+
+## Scene 88-96: The Six-Winged Creatures
+- cohort: quelle genti elette | source: code | basis: 90-90
+
+## Scene 97-105: The Vision of Ezekiel
+- cohort: serafini | source: code | basis: 97-104
+
+## Scene 106-114: The Triumph of the Griffin
+- cohort: quattro | source: code | basis: 106-106
+
+## Scene 115-120: Comparison to Imperial Glory
+# (no soul-class present in this scene)
+
+## Scene 121-129: The Three Dancing Women
+- cohort: Tre donne | source: code | basis: 121-121
+
+## Scene 130-132: The Purple Group
+- cohort: quattro | source: llm | basis: 130-132
+
+## Scene 133-141: The Two Old Men
+- cohort: due vecchi | source: llm | basis: 134-135
+
+## Scene 142-144: The Humble Figures
+- cohort: un vecchio solo | source: code | basis: 143-144
+
+## Scene 145-150: The Floral Crowns
+- cohort: primaio stuolo | source: code | basis: 145-148
+
+## Scene 151-154: The Sudden Halt
+- cohort: quelle genti degne | source: code | basis: 152-154

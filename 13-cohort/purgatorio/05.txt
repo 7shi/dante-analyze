@@ -1,0 +1,58 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+
+## Scene 1-6: The Sudden Cry
+- cohort: quell' ombre | source: llm | basis: 1-1
+
+## Scene 7-9: Dante's Distraction
+# (no soul-class present in this scene)
+
+## Scene 10-18: Virgil's Admonishment
+- cohort: le genti | source: code | basis: 12-13
+
+## Scene 19-21: Dante's Compliance
+# (no soul-class present in this scene)
+
+## Scene 22-27: The Approaching Procession
+- cohort: le genti | source: code | basis: 23-27
+
+## Scene 28-30: The Messengers Arrive
+- cohort: anime | source: code | basis: 28-30
+
+## Scene 31-36: Virgil's Verification
+- cohort: anime | source: code | basis: 31-31
+
+## Scene 37-42: The Swarming Souls
+# (no soul-class present in this scene)
+
+## Scene 43-45: The Poet's Warning
+- cohort: questa gente | source: code | basis: 43-44
+
+## Scene 46-57: The Collective Plea
+- cohort: i peccatori | source: code | basis: 48-57
+
+## Scene 58-63: Dante's Vow
+- cohort: spiriti ben nati | source: code | basis: 60-60
+
+## Scene 64-72: The First Soul's Request
+- cohort: uno | source: code | basis: 64-72
+
+## Scene 73-84: The Death in the Marsh
+# (no soul-class present in this scene)
+
+## Scene 85-90: The Second Soul's Appearance
+- cohort: anime | source: code | basis: 90-90
+
+## Scene 91-93: Dante's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 94-108: The Battle of Angels
+# (no soul-class present in this scene)
+
+## Scene 109-114: The Formation of Mist
+# (no soul-class present in this scene)
+
+## Scene 115-129: The River's Embrace
+# (no soul-class present in this scene)
+
+## Scene 130-136: The Plea of La Pia
+# (no soul-class present in this scene)

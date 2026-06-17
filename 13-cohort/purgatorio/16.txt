@@ -1,0 +1,61 @@
+# Canto 16 — The Encounter with Marco Lombardo
+
+## Scene 1-9: The Thick Fog
+# (no soul-class present in this scene)
+
+## Scene 10-15: Following the Guide
+# (no soul-class present in this scene)
+
+## Scene 16-21: The Voices of the Neutrals
+# (no soul-class present in this scene)
+
+## Scene 22-24: Virgil’s Interpretation
+- cohort: spirti | source: code | basis: 22-24
+
+## Scene 25-30: The Voice’s Interruption
+- cohort: gli iracondi | source: code | basis: 25-26
+
+## Scene 31-36: Dante’s Introduction and the Voice’s Promise
+# (no soul-class present in this scene)
+
+## Scene 37-45: The Mission and Request for Identity
+# (no soul-class present in this scene)
+
+## Scene 46-51: Marco’s Identity and Request for Prayer
+# (no soul-class present in this scene)
+
+## Scene 52-63: Dante’s Doubt and the State of the World
+# (no soul-class present in this scene)
+
+## Scene 64-78: The Mechanics of Free Will
+# (no soul-class present in this scene)
+
+## Scene 79-84: Human Responsibility
+- cohort: uomini | source: code | basis: 80-83
+
+## Scene 85-93: The Metaphor of the Soul
+# (no soul-class present in this scene)
+
+## Scene 94-105: The Failure of Law and Leadership
+# (no soul-class present in this scene)
+
+## Scene 106-114: The Conflict of the Two Suns
+# (no soul-class present in this scene)
+
+## Scene 115-120: The Decline of Lombardy
+# (no soul-class present in this scene)
+
+## Scene 121-126: The Three Old Men
+# (no soul-class present in this scene)
+
+## Scene 127-129: The Corruption of the Church
+# (no soul-class present in this scene)
+
+## Scene 130-135: Dante’s Inquiry about Gherardo
+# (no soul-class present in this scene)
+
+## Scene 136-140: Marco’s Difficulty with the Name
+# (no soul-class present in this scene)
+
+## Scene 141-145: The Departure of Marco
+# (no soul-class present in this scene)

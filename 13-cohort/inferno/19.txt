@@ -1,0 +1,52 @@
+# Canto 19 — The Encounter with the Simoniac Boniface
+
+## Scene 1-6: Invocation to the Simoniacs
+- cohort: miseri seguaci | source: code | basis: 1-6
+
+## Scene 7-12: Reflection on Divine Wisdom
+# (no soul-class present in this scene)
+
+## Scene 13-30: The Landscape of the Third Bolgia
+- cohort: un peccator | source: llm | basis: 23-23
+
+## Scene 31-39: Dante's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 40-45: The Physical Descent
+# (no soul-class present in this scene)
+
+## Scene 46-48: Dante’s Salutation
+# (no soul-class present in this scene)
+
+## Scene 49-51: The Confessor Simile
+# (no soul-class present in this scene)
+
+## Scene 52-57: The Sinner’s Accusation
+# (no soul-class present in this scene)
+
+## Scene 58-60: Dante’s Bewilderment
+# (no soul-class present in this scene)
+
+## Scene 61-63: Virgil’s Instruction
+# (no soul-class present in this scene)
+
+## Scene 64-78: The Sinner’s Revelation
+- cohort: li altri tratti | source: code | basis: 73-75
+
+## Scene 79-87: The Prophecy of the Shepherd
+# (no soul-class present in this scene)
+
+## Scene 88-105: Dante’s First Rebuttal
+# (no soul-class present in this scene)
+
+## Scene 106-117: Dante’s Second Rebuttal
+- cohort: simoniaci | source: code | basis: 106-117
+
+## Scene 118-123: Virgil’s Silent Approval
+# (no soul-class present in this scene)
+
+## Scene 124-129: The Ascent
+# (no soul-class present in this scene)
+
+## Scene 130-133: Arrival at a New Valley
+# (no soul-class present in this scene)

@@ -1,0 +1,77 @@
+# Canto 12 — The Descent into the Valley of Violence and the Encounter with the Centaurs
+
+## Scene 1-15: The Ruin and the Minotaur
+# (no soul-class present in this scene)
+
+## Scene 16-21: Virgil's Rebuke
+# (no soul-class present in this scene)
+
+## Scene 22-27: The Frenzy of the Bull
+# (no soul-class present in this scene)
+
+## Scene 28-30: The Descent
+# (no soul-class present in this scene)
+
+## Scene 31-45: The Earthquake and the Fall
+# (no soul-class present in this scene)
+
+## Scene 46-48: The River of Blood
+# (no soul-class present in this scene)
+
+## Scene 49-51: Dante's Moral Reflection
+# (no soul-class present in this scene)
+
+## Scene 52-57: The Centaurs' Patrol
+- cohort: centauri | source: code | basis: 56-56
+
+## Scene 58-63: The Centaurs' Challenge
+- cohort: schiera | source: llm | basis: 59-59
+
+## Scene 64-66: Virgil's Strategy
+# (no soul-class present in this scene)
+
+## Scene 67-72: Identification of the Centaurs
+# (no soul-class present in this scene)
+
+## Scene 73-75: The Rain of Arrows
+- cohort: l'anima | source: llm | basis: 74-75
+
+## Scene 76-79: The Inspection
+- cohort: centauri | source: code | basis: 76-76
+
+## Scene 80-82: Chiron's Suspicion
+# (no soul-class present in this scene)
+
+## Scene 83-96: Virgil's Plea for Passage
+- cohort: un centauro | source: code | basis: 83-96
+
+## Scene 97-99: The Order to Guide
+# (no soul-class present in this scene)
+
+## Scene 100-102: The Boiling Blood
+- cohort: i bolliti | source: code | basis: 102-102
+
+## Scene 103-112: The Tyrants in the Blood
+- cohort: tiranni | source: code | basis: 104-104
+
+## Scene 113-114: Dante's Turn
+# (no soul-class present in this scene)
+
+## Scene 115-120: The Shadow of the Thames
+- cohort: gente | source: llm | basis: 116-117
+- cohort: un'ombra | source: llm | basis: 118-118
+
+## Scene 121-123: The Severed Heads
+- cohort: gente | source: code | basis: 121-122
+
+## Scene 124-126: The Rising Tide
+# (no soul-class present in this scene)
+
+## Scene 127-132: The Depths of Tyranny
+# (no soul-class present in this scene)
+
+## Scene 133-138: The Scourge of Attila
+# (no soul-class present in this scene)
+
+## Scene 139-139: Departure
+# (no soul-class present in this scene)

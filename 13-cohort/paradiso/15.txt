@@ -1,0 +1,80 @@
+# Canto 15 — The Vision of Cacciaguida and the Ancestral Legacy
+
+## Scene 1-6: The Nature of Divine Love
+# (no soul-class present in this scene)
+
+## Scene 7-12: The Impermanence of Earthly Desire
+# (no soul-class present in this scene)
+
+## Scene 13-24: The Passing Star
+# (no soul-class present in this scene)
+
+## Scene 25-31: The Arrival of the Shade
+# (no soul-class present in this scene)
+
+## Scene 32-36: Dante's Joyful Confusion
+# (no soul-class present in this scene)
+
+## Scene 37-42: The Difficulty of Divine Speech
+# (no soul-class present in this scene)
+
+## Scene 43-48: The First Blessing
+# (no soul-class present in this scene)
+
+## Scene 49-54: Recognition of the Scholar
+- cohort: l'anima | source: code | basis: 49-53
+
+## Scene 55-60: The Equality of Spirits
+# (no soul-class present in this scene)
+
+## Scene 61-69: The Mirror of Thought
+# (no soul-class present in this scene)
+
+## Scene 70-72: Beatrice's Silent Encouragement
+# (no soul-class present in this scene)
+
+## Scene 73-78: Dante's Philosophical Inquiry
+- cohort: anime | source: code | basis: 74-76
+
+## Scene 79-87: A Request for Knowledge
+# (no soul-class present in this scene)
+
+## Scene 88-90: The Ancestral Connection
+# (no soul-class present in this scene)
+
+## Scene 91-96: The Mandate of Works
+# (no soul-class present in this scene)
+
+## Scene 97-102: The Virtue of Ancient Florence
+# (no soul-class present in this scene)
+
+## Scene 103-108: The Modesty of Old Households
+# (no soul-class present in this scene)
+
+## Scene 109-111: The Omen of Decline
+# (no soul-class present in this scene)
+
+## Scene 112-117: The Corruption of Modernity
+- cohort: le sue donne | source: code | basis: 117-117
+
+## Scene 118-120: The Stability of the Past
+# (no soul-class present in this scene)
+
+## Scene 121-126: Traditional Domestic Life
+- cohort: le donne | source: llm | basis: 121-126
+- cohort: la sua famiglia | source: llm | basis: 125-125
+
+## Scene 127-129: The Greatness of Ancestors
+# (no soul-class present in this scene)
+
+## Scene 130-133: The Arrival of Mary
+# (no soul-class present in this scene)
+
+## Scene 134-138: The Lineage of Cacciaguida
+# (no soul-class present in this scene)
+
+## Scene 139-141: Service to the Emperor
+# (no soul-class present in this scene)
+
+## Scene 142-148: Martyrdom and Peace
+# (no soul-class present in this scene)

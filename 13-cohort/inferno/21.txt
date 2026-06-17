@@ -1,0 +1,73 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+
+## Scene 1-6: Arrival at the new, dark ditch
+# (no soul-class present in this scene)
+
+## Scene 7-18: The Venetian shipyard simile
+# (no soul-class present in this scene)
+
+## Scene 19-21: Observing the boiling pitch
+# (no soul-class present in this scene)
+
+## Scene 22-24: Virgil pulls Dante away
+# (no soul-class present in this scene)
+
+## Scene 25-33: The appearance of the demon
+- cohort: un diavol nero | source: code | basis: 29-33
+
+## Scene 34-36: The demon's physical ferocity
+- cohort: un peccator | source: llm | basis: 35-35
+
+## Scene 37-42: The demon's declaration
+- cohort: Malebranche | source: llm | basis: 37-37
+
+## Scene 43-46: The demon's departure
+- cohort: lo furo | source: code | basis: 45-46
+
+## Scene 47-54: Warnings from the bridge demons
+- cohort: Malebranche | source: code | basis: 47-53
+
+## Scene 55-57: The cooking simile
+# (no soul-class present in this scene)
+
+## Scene 58-63: Virgil's advice to Dante
+# (no soul-class present in this scene)
+
+## Scene 64-66: Virgil crosses the bridge
+# (no soul-class present in this scene)
+
+## Scene 67-75: The demon attack and Virgil's challenge
+- cohort: Malebranche | source: code | basis: 70-71
+
+## Scene 76-78: The selection of Malacoda
+# (no soul-class present in this scene)
+
+## Scene 79-84: Virgil's rebuttal
+- cohort: Malebranche | source: code | basis: 81-83
+
+## Scene 85-87: The demons' submission
+- cohort: Malebranche | source: code | basis: 87-87
+
+## Scene 88-90: Virgil's second command to Dante
+- cohort: li scheggion | source: code | basis: 89-89
+
+## Scene 91-96: The travelers' encirclement
+- cohort: Malebranche | source: code | basis: 92-93
+
+## Scene 97-102: The demons' taunts
+- cohort: Malebranche | source: code | basis: 99-102
+
+## Scene 103-105: Malacoda's interruption
+# (no soul-class present in this scene)
+
+## Scene 106-117: Malacoda's news
+- cohort: Malebranche | source: code | basis: 115-115
+
+## Scene 118-126: The deployment of the demons
+# (no soul-class present in this scene)
+
+## Scene 127-132: Dante's growing anxiety
+- cohort: Malebranche | source: code | basis: 131-132
+
+## Scene 133-139: Malacoda's reassurance and the demons' exit
+- cohort: Malebranche | source: code | basis: 134-138

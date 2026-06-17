@@ -1,0 +1,64 @@
+# Canto 33 — Beatrice's Prophecy and the River of Lethe
+
+## Scene 1-6: The Song of the Virtuous Women
+- cohort: le donne | source: code | basis: 3-3
+
+## Scene 7-12: Beatrice's Proclamation
+- cohort: l'altre vergini | source: code | basis: 7-11
+
+## Scene 13-24: The Encounter with Dante
+- cohort: tutte e sette | source: llm | basis: 13-13
+
+## Scene 25-33: Dante's Stuttering Response
+# (no soul-class present in this scene)
+
+## Scene 34-45: The Prophecy of the Serpent and the Giant
+# (no soul-class present in this scene)
+
+## Scene 46-51: The Riddle of the Naiads
+# (no soul-class present in this scene)
+
+## Scene 52-60: The Warning of the Fallen Fruit
+# (no soul-class present in this scene)
+
+## Scene 61-66: The Weight of Original Sin
+# (no soul-class present in this scene)
+
+## Scene 67-78: The Command to Remember
+# (no soul-class present in this scene)
+
+## Scene 79-84: Dante's Impressionable Mind
+# (no soul-class present in this scene)
+
+## Scene 85-90: The Distance of the Divine
+# (no soul-class present in this scene)
+
+## Scene 91-93: Dante's Denial of Forgetting
+# (no soul-class present in this scene)
+
+## Scene 94-99: The Reminder of Lethe
+# (no soul-class present in this scene)
+
+## Scene 100-111: The Noon Sun and the Seven Women
+- cohort: le sette donne | source: code | basis: 109-109
+
+## Scene 112-114: The Emergence of the Rivers
+# (no soul-class present in this scene)
+
+## Scene 115-119: Dante's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 120-123: Matelda's Revelation
+# (no soul-class present in this scene)
+
+## Scene 124-129: Beatrice's Instruction to Virgil
+# (no soul-class present in this scene)
+
+## Scene 130-135: The Departure of the Group
+# (no soul-class present in this scene)
+
+## Scene 136-141: The Poet's Constraint
+# (no soul-class present in this scene)
+
+## Scene 142-145: The Renewal of the Soul
+# (no soul-class present in this scene)

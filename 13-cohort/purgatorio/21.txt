@@ -1,0 +1,58 @@
+# Canto 21 — The Encounter with Statius and the Nature of Purgatory
+
+## Scene 1-6: Dante's Thirst
+# (no soul-class present in this scene)
+
+## Scene 7-13: The Appearance of the Shade
+- cohort: La turba | source: code | basis: 11-11
+
+## Scene 14-21: The Initial Confrontation
+# (no soul-class present in this scene)
+
+## Scene 22-33: Virgil's Explanation of the Shade's Arrival
+- cohort: un angel | source: code | basis: 23-23
+
+## Scene 34-36: The Inquiry Regarding the Earthquake
+# (no soul-class present in this scene)
+
+## Scene 37-39: Dante's Anticipation
+# (no soul-class present in this scene)
+
+## Scene 40-54: The Immutable Nature of Purgatory
+# (no soul-class present in this scene)
+
+## Scene 55-66: The Cause of the Tremor
+# (no soul-class present in this scene)
+
+## Scene 67-72: The Shade's Long Exile
+# (no soul-class present in this scene)
+
+## Scene 73-75: Dante's Impression
+# (no soul-class present in this scene)
+
+## Scene 76-81: Virgil Demands Identity
+# (no soul-class present in this scene)
+
+## Scene 82-87: The Shade's Historical Context
+# (no soul-class present in this scene)
+
+## Scene 88-102: The Praise of the Poet
+# (no soul-class present in this scene)
+
+## Scene 103-108: Virgil's Gesture of Silence
+# (no soul-class present in this scene)
+
+## Scene 109-114: The Shade's Confusion
+# (no soul-class present in this scene)
+
+## Scene 115-120: Dante's Internal Conflict
+# (no soul-class present in this scene)
+
+## Scene 121-129: The Revelation of Virgil
+# (no soul-class present in this scene)
+
+## Scene 130-132: The Interrupted Embrace
+# (no soul-class present in this scene)
+
+## Scene 133-136: The Weight of Love
+- cohort: l'ombre | source: code | basis: 136-136

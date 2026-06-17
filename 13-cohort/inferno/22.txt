@@ -1,0 +1,73 @@
+# Canto 22 — The Chaos and Combat of the Malebranche
+
+## Scene 1-12: The Knightly Vision
+- cohort: Aretini | source: code | basis: 5-5
+
+## Scene 13-18: Dante’s Observation
+- cohort: gente | source: llm | basis: 18-18
+
+## Scene 19-30: Sinners Hiding Like Frogs
+- cohort: i peccatori | source: code | basis: 23-28
+
+## Scene 31-36: Graffiacan’s Agitation
+- cohort: barrattore | source: code | basis: 32-36
+
+## Scene 37-39: Dante’s Meta-Commentary
+# (no soul-class present in this scene)
+
+## Scene 40-45: The Demand for Hooks
+- cohort: i maladetti | source: llm | basis: 42-42
+
+## Scene 46-54: The Navarrese’s Origin
+# (no soul-class present in this scene)
+
+## Scene 55-57: Cirïatto’s Snorting
+# (no soul-class present in this scene)
+
+## Scene 58-63: Barbariccia’s Command
+- cohort: Malebranche | source: code | basis: 58-63
+
+## Scene 64-69: Searching for Italians
+# (no soul-class present in this scene)
+
+## Scene 70-75: The Chaos of the Hooks
+- cohort: Malebranche | source: code | basis: 70-75
+
+## Scene 76-80: Virgil’s Inquiry
+- cohort: Malebranche | source: code | basis: 76-76
+
+## Scene 81-90: The Denunciation of Gomita
+# (no soul-class present in this scene)
+
+## Scene 91-93: The Threatening Gaze
+- cohort: Malebranche | source: code | basis: 91-93
+
+## Scene 94-96: Addressing Farfarello
+# (no soul-class present in this scene)
+
+## Scene 97-105: The Prisoner’s Bargain
+# (no soul-class present in this scene)
+
+## Scene 106-111: Cagnazzo’s Rebuttal
+- cohort: Malebranche | source: code | basis: 107-107
+
+## Scene 112-117: Alichin’s Challenge
+- cohort: Malebranche | source: code | basis: 113-117
+
+## Scene 118-120: The Moment of Tension
+- cohort: Malebranche | source: llm | basis: 119-120
+
+## Scene 121-126: The Sudden Leap
+- cohort: Malebranche | source: code | basis: 123-126
+
+## Scene 127-132: The Struggle in the Pitch
+# (no soul-class present in this scene)
+
+## Scene 133-138: Calcabrina’s Entanglement
+- cohort: l barattier | source: code | basis: 134-136
+
+## Scene 139-144: Trapped in the Boiling Bog
+# (no soul-class present in this scene)
+
+## Scene 145-151: The Retreat of the Demons
+- cohort: li 'mpaniati | source: llm | basis: 149-150

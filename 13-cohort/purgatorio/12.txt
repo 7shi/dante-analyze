@@ -1,0 +1,44 @@
+# Canto 12 — The Ascent from Hell and the Signs of the Fallen
+
+## Scene 1-12: The separation of the travelers
+# (no soul-class present in this scene)
+
+## Scene 13-24: The warning to watch the path
+# (no soul-class present in this scene)
+
+## Scene 25-36: The sight of the Giants
+- cohort: i Giganti | source: code | basis: 33-33
+
+## Scene 37-45: The signs of tragic figures
+# (no soul-class present in this scene)
+
+## Scene 46-54: The symbols of fallen kings
+# (no soul-class present in this scene)
+
+## Scene 55-63: The remnants of war and ruin
+# (no soul-class present in this scene)
+
+## Scene 64-69: Dante's reaction to the imagery
+- cohort: l'ombre | source: llm | basis: 65-65
+- cohort: li morti | source: llm | basis: 67-67
+
+## Scene 70-78: The command to look upward
+- cohort: figliuoli d'Eva | source: code | basis: 70-72
+
+## Scene 79-84: The approaching messenger
+- cohort: un angel | source: code | basis: 79-80
+
+## Scene 85-96: The arrival of the angel
+# (no soul-class present in this scene)
+
+## Scene 97-108: The difficult climb
+# (no soul-class present in this scene)
+
+## Scene 109-114: The transition in song
+- cohort: pauperes | source: code | basis: 110-111
+
+## Scene 115-126: The mystery of the weightless ascent
+# (no soul-class present in this scene)
+
+## Scene 127-136: The discovery of the inscription
+# (no soul-class present in this scene)

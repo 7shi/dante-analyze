@@ -1,0 +1,46 @@
+# Canto 15 — The Encounter with Brunetto Latino
+
+## Scene 1-12: The Simile of the Flooding Banks
+# (no soul-class present in this scene)
+
+## Scene 13-21: The Approaching Procession
+- cohort: d'anime una schiera | source: code | basis: 16-20
+
+## Scene 22-30: The Recognition of Dante
+- cohort: cotal famiglia | source: code | basis: 22-22
+
+## Scene 31-42: Brunetto's Instructions
+- cohort: qual di questa greggia | source: code | basis: 37-42
+
+## Scene 43-54: Dante's Explanation of his Descent
+# (no soul-class present in this scene)
+
+## Scene 55-60: The Promise of Destiny
+# (no soul-class present in this scene)
+
+## Scene 61-69: The Warning Against Fiesole
+# (no soul-class present in this scene)
+
+## Scene 70-78: The Prophecy of the Holy Seed
+# (no soul-class present in this scene)
+
+## Scene 79-87: Dante's Tribute to his Teacher
+# (no soul-class present in this scene)
+
+## Scene 88-96: Acceptance of Fortune
+# (no soul-class present in this scene)
+
+## Scene 97-99: Virgil's Instruction
+# (no soul-class present in this scene)
+
+## Scene 100-105: Dante's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 106-114: The Catalog of Scholars
+- cohort: cherci | source: code | basis: 106-109
+
+## Scene 115-120: The Interrupted Farewell
+- cohort: gente | source: code | basis: 118-118
+
+## Scene 121-124: The Final Simile
+# (no soul-class present in this scene)

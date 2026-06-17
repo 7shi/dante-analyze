@@ -1,0 +1,38 @@
+# Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
+
+## Scene 1-12: Virgil's Reprimand
+- cohort: molta gente | source: code | basis: 1-2
+
+## Scene 13-21: The Memory of Geri
+# (no soul-class present in this scene)
+
+## Scene 22-36: Reflection on Violent Death
+# (no soul-class present in this scene)
+
+## Scene 37-51: Arrival at the Tenth Ditch
+- cohort: i suoi conversi | source: code | basis: 41-43
+
+## Scene 52-66: The Toxic Atmosphere
+- cohort: i falsador | source: code | basis: 57-66
+
+## Scene 67-72: The Condition of the Damned
+- cohort: li ammalati | source: code | basis: 67-72
+
+## Scene 73-84: The Agony of the Itch
+- cohort: I falsari | source: code | basis: 73-82
+
+## Scene 85-96: The Greeting to the Souls
+- cohort: alcun Latino | source: llm | basis: 88-91
+- cohort: quinc' entro | source: llm | basis: 89-89
+
+## Scene 97-108: The Inquiry of the Living
+- cohort: I falsari | source: code | basis: 97-108
+
+## Scene 109-120: The Tale of the Alchemist
+- cohort: l'un | source: code | basis: 110-110
+
+## Scene 121-123: Dante's Sienese Jibe
+# (no soul-class present in this scene)
+
+## Scene 124-139: The Testimony of Capocchio
+# (no soul-class present in this scene)

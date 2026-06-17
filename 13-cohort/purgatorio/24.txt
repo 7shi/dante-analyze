@@ -1,0 +1,64 @@
+# Canto 24 — Recognition of Souls and the Warning of the Tree
+
+## Scene 1-6: The Watching Souls
+- cohort: l'ombre | source: code | basis: 4-6
+
+## Scene 7-12: Inquiry about Piccarda
+# (no soul-class present in this scene)
+
+## Scene 13-24: News of Piccarda and Bonagiunta
+# (no soul-class present in this scene)
+
+## Scene 25-33: The List of Notable Souls
+- cohort: anime | source: code | basis: 26-26
+
+## Scene 34-42: The Muttering Soul
+# (no soul-class present in this scene)
+
+## Scene 43-51: The Poet's Identity and Inquiry
+# (no soul-class present in this scene)
+
+## Scene 52-63: The Knot of Poets
+# (no soul-class present in this scene)
+
+## Scene 64-69: The Simile of the Geese
+- cohort: tutta la gente | source: code | basis: 67-69
+
+## Scene 70-75: Forese Departs
+- cohort: la santa greggia | source: code | basis: 73-73
+
+## Scene 76-81: Dialogue with Forese
+# (no soul-class present in this scene)
+
+## Scene 82-93: Forese's Ominous Warning
+# (no soul-class present in this scene)
+
+## Scene 94-97: The Knight's Departure
+# (no soul-class present in this scene)
+
+## Scene 98-111: Vision of the Hungry Souls
+- cohort: gente | source: code | basis: 106-106
+
+## Scene 112-120: Warning Near the Tree
+# (no soul-class present in this scene)
+
+## Scene 121-126: Mythological Allusions
+# (no soul-class present in this scene)
+
+## Scene 127-132: Passing the Thickets
+# (no soul-class present in this scene)
+
+## Scene 133-136: A Sudden Interruption
+# (no soul-class present in this scene)
+
+## Scene 137-141: The Brilliant Figure's Warning
+- cohort: anima lucente e rossa | source: code | basis: 139-139
+
+## Scene 142-144: Dante's Reaction
+- cohort: dottori | source: code | basis: 143-143
+
+## Scene 145-150: The May Breeze
+# (no soul-class present in this scene)
+
+## Scene 151-154: The Benediction
+# (no soul-class present in this scene)

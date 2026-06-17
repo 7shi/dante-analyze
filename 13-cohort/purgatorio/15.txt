@@ -1,0 +1,55 @@
+# Canto 15 — The Ascent through the Light and the Visions of Paradise
+
+## Scene 1-6: The Setting of the Hour
+# (no soul-class present in this scene)
+
+## Scene 7-15: The Blinding Light
+# (no soul-class present in this scene)
+
+## Scene 16-24: The Metaphor of Refraction
+# (no soul-class present in this scene)
+
+## Scene 25-33: The Angel's Reassurance
+- cohort: messo | source: code | basis: 25-30
+
+## Scene 34-39: Arrival at the Stairway
+# (no soul-class present in this scene)
+
+## Scene 40-45: Dante's Query on Political Terms
+# (no soul-class present in this scene)
+
+## Scene 46-57: The Paradox of Divine Distribution
+# (no soul-class present in this scene)
+
+## Scene 58-72: The Nature of Divine Love
+# (no soul-class present in this scene)
+
+## Scene 73-78: The Promise of Beatrice
+# (no soul-class present in this scene)
+
+## Scene 79-81: The Closing of the Wounds
+# (no soul-class present in this scene)
+
+## Scene 82-93: The Vision of the Mother
+- cohort: persone | source: code | basis: 87-87
+
+## Scene 94-101: The Vision of the Trojan Widow
+- cohort: un'altra | source: code | basis: 94-97
+
+## Scene 102-105: The Lord's Gentle Response
+# (no soul-class present in this scene)
+
+## Scene 106-114: The Vision of the Martyr
+- cohort: un giovinetto | source: llm | basis: 107-114
+
+## Scene 115-123: Return to Consciousness
+# (no soul-class present in this scene)
+
+## Scene 124-126: Dante's Report
+# (no soul-class present in this scene)
+
+## Scene 127-138: Virgil's Explanation of the Trance
+# (no soul-class present in this scene)
+
+## Scene 139-145: The Encroaching Darkness
+# (no soul-class present in this scene)

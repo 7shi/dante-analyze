@@ -1,0 +1,50 @@
+# Canto 31 — The Vision of the Celestial Rose and the Guidance of Saint Bernard
+
+## Scene 1-12: The Celestial Rose and the Angelic Bees
+- cohort: la milizia santa | source: code | basis: 1-2
+
+## Scene 13-24: The Splendor of Divine Light
+- cohort: tanta moltitudine volante | source: code | basis: 13-21
+
+## Scene 25-27: The Nature of the Eternal Kingdom
+- cohort: gente antica e in novella | source: code | basis: 26-26
+
+## Scene 28-42: Dante's Prayer to the Trinity
+# (no soul-class present in this scene)
+
+## Scene 43-54: The Wandering Gaze
+- cohort: altri | source: code | basis: 50-50
+
+## Scene 55-63: The Appearance of Saint Bernard
+- cohort: le genti glorïose | source: code | basis: 60-60
+
+## Scene 64-69: The Location of Beatrice
+# (no soul-class present in this scene)
+
+## Scene 70-78: A Distant Glimpse of Beatrice
+# (no soul-class present in this scene)
+
+## Scene 79-90: Dante's Address to Beatrice
+# (no soul-class present in this scene)
+
+## Scene 91-93: Beatrice's Silent Response
+# (no soul-class present in this scene)
+
+## Scene 94-102: Bernard's Instruction
+# (no soul-class present in this scene)
+
+## Scene 103-111: Dante's Internal Wonder
+# (no soul-class present in this scene)
+
+## Scene 112-117: The Command to Look Higher
+# (no soul-class present in this scene)
+
+## Scene 118-129: The Shifting Light of the Heavens
+# (no soul-class present in this scene)
+
+## Scene 130-138: The Vision of the Queen's Joy
+- cohort: mille angeli festanti | source: llm | basis: 131-131
+- cohort: tutti li altri santi | source: llm | basis: 135-135
+
+## Scene 139-142: Bernard's Shared Devotion
+# (no soul-class present in this scene)

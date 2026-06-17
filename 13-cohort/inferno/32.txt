@@ -1,0 +1,44 @@
+# Canto 32 — The Frozen Landscape of Cocytus and the Encounters with Traitors
+
+## Scene 1-12: The Poet’s Prologue
+# (no soul-class present in this scene)
+
+## Scene 13-21: The Descent into the Pit
+- cohort: plebe | source: llm | basis: 13-13
+- cohort: fratei miseri lassi | source: llm | basis: 21-21
+
+## Scene 22-30: The Frozen Lake of Cocytus
+# (no soul-class present in this scene)
+
+## Scene 31-39: The Sinners in the Ice
+- cohort: l'ombre dolenti | source: code | basis: 35-39
+
+## Scene 40-51: The Two Intertwined Sinners
+# (no soul-class present in this scene)
+
+## Scene 52-69: The Deaf Sinner’s Revelation
+# (no soul-class present in this scene)
+
+## Scene 70-78: Walking through the Frozen Multitude
+# (no soul-class present in this scene)
+
+## Scene 79-84: The Scolding Sinner
+- cohort: il peccatore | source: code | basis: 79-81
+
+## Scene 85-96: The Verbal Dispute
+# (no soul-class present in this scene)
+
+## Scene 97-105: The Physical Altercation
+- cohort: il peccatore | source: code | basis: 97-105
+
+## Scene 106-114: The Interruption by Bocca
+# (no soul-class present in this scene)
+
+## Scene 115-123: The Catalog of Traitors
+# (no soul-class present in this scene)
+
+## Scene 124-132: The Biting Sinners
+- cohort: due ghiacciati | source: code | basis: 125-125
+
+## Scene 133-139: Dante’s Inquiry into Hatred
+- cohort: le due ombre | source: code | basis: 137-137

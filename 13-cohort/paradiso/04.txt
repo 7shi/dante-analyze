@@ -1,0 +1,40 @@
+# Canto 04 — Beatrice Resolves Dante's Theological Doubts
+
+## Scene 1-12: Dante's Internal Tension
+# (no soul-class present in this scene)
+
+## Scene 13-24: The First Doubt: Plato's Theory
+# (no soul-class present in this scene)
+
+## Scene 25-39: The Hierarchy of the First Heaven
+- cohort: questi spirti | source: code | basis: 32-37
+
+## Scene 40-48: The Use of Anthropomorphism in Scripture
+# (no soul-class present in this scene)
+
+## Scene 49-63: Correcting the Error of Astrology
+# (no soul-class present in this scene)
+
+## Scene 64-72: Transition to the Second Doubt
+# (no soul-class present in this scene)
+
+## Scene 73-87: The Distinction Between Will and Force
+- cohort: quest' alme | source: code | basis: 75-81
+
+## Scene 88-99: The Paradox of Piccarda and Costanza
+# (no soul-class present in this scene)
+
+## Scene 100-114: The Intersection of Force and Will
+# (no soul-class present in this scene)
+
+## Scene 115-117: The Resolution of Conflict
+# (no soul-class present in this scene)
+
+## Scene 118-129: Dante's Meditation on Truth
+# (no soul-class present in this scene)
+
+## Scene 130-138: The New Inquiry
+# (no soul-class present in this scene)
+
+## Scene 139-142: Beatrice's Divine Gaze
+# (no soul-class present in this scene)

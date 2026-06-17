@@ -1,0 +1,82 @@
+# Canto 19 — The Siren's Song and the Vision of the Avaricious
+
+## Scene 1-6: The Astronomical Prologue
+# (no soul-class present in this scene)
+
+## Scene 7-9: The Monstrous Vision
+- cohort: una femmina balba | source: code | basis: 7-9
+
+## Scene 10-15: The Siren's Transformation
+- cohort: Sirena | source: code | basis: 10-15
+
+## Scene 16-24: The Song of the Siren
+- cohort: Sirena | source: code | basis: 16-24
+
+## Scene 25-27: The Holy Intervention
+- cohort: Sirena | source: code | basis: 25-27
+
+## Scene 28-33: The Siren's Revelations
+- cohort: Sirena | source: code | basis: 28-32
+
+## Scene 34-36: Virgil's Command
+# (no soul-class present in this scene)
+
+## Scene 37-39: The Ascent Begins
+# (no soul-class present in this scene)
+
+## Scene 40-45: The Sweet Voice
+# (no soul-class present in this scene)
+
+## Scene 46-51: The Appearance of the Angels
+# (no soul-class present in this scene)
+
+## Scene 52-54: Virgil's Inquiry
+- cohort: un angel | source: code | basis: 54-54
+
+## Scene 55-57: Dante's Disturbance
+# (no soul-class present in this scene)
+
+## Scene 58-63: The Vision of the Wheel
+# (no soul-class present in this scene)
+
+## Scene 64-69: The Falcon's Flight
+# (no soul-class present in this scene)
+
+## Scene 70-72: The Wailing Souls
+- cohort: gente | source: code | basis: 71-72
+
+## Scene 73-75: The Audible Grief
+- cohort: gli avarizi e i prodighi | source: code | basis: 73-74
+
+## Scene 76-78: The Prayer for Ascent
+- cohort: anime degli avidi e dei prodighi | source: code | basis: 76-78
+
+## Scene 79-81: Virgil's Instruction
+# (no soul-class present in this scene)
+
+## Scene 82-87: The Silent Agreement
+# (no soul-class present in this scene)
+
+## Scene 88-96: The Approach to the Bishop
+- cohort: Spirto | source: llm | basis: 91-91
+
+## Scene 97-105: The Bishop's Identity
+# (no soul-class present in this scene)
+
+## Scene 106-114: The Sin of Avarice
+# (no soul-class present in this scene)
+
+## Scene 115-126: The Nature of the Punishment
+- cohort: anime | source: code | basis: 116-126
+
+## Scene 127-130: Dante's Conscience
+# (no soul-class present in this scene)
+
+## Scene 131-132: The Scruple of Guilt
+# (no soul-class present in this scene)
+
+## Scene 133-138: The Dismissal
+# (no soul-class present in this scene)
+
+## Scene 139-145: The Final Postscript
+# (no soul-class present in this scene)

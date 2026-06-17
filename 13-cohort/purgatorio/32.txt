@@ -1,0 +1,73 @@
+# Canto 32 — The Celestial Vision and the Succession of Beasts
+
+## Scene 1-12: The Sensory Blindness
+# (no soul-class present in this scene)
+
+## Scene 13-24: The Movement of the Heavenly Host
+- cohort: lo glorïoso essercito | source: code | basis: 16-23
+
+## Scene 25-33: The Descent of the Griffin
+- cohort: le donne | source: code | basis: 25-25
+
+## Scene 34-36: Beatrice's Descent
+# (no soul-class present in this scene)
+
+## Scene 37-42: The Bare Tree
+# (no soul-class present in this scene)
+
+## Scene 43-48: The Voice of the Griffin
+- cohort: li altri | source: code | basis: 47-47
+
+## Scene 49-51: The Tied Branch
+# (no soul-class present in this scene)
+
+## Scene 52-60: The Transformation of the Tree
+# (no soul-class present in this scene)
+
+## Scene 61-69: The Limits of Description
+# (no soul-class present in this scene)
+
+## Scene 70-78: The Awakening of the Apostles
+# (no soul-class present in this scene)
+
+## Scene 79-81: The Diminished School
+# (no soul-class present in this scene)
+
+## Scene 82-90: The Reencounter with Beatrice
+- cohort: la compagnia | source: code | basis: 88-90
+
+## Scene 91-93: The Closed Senses
+# (no soul-class present in this scene)
+
+## Scene 94-99: The Guard of the Nymphs
+# (no soul-class present in this scene)
+
+## Scene 100-105: Beatrice's Command
+# (no soul-class present in this scene)
+
+## Scene 106-108: Dante's Devotion
+# (no soul-class present in this scene)
+
+## Scene 109-117: The Eagle's Strike
+# (no soul-class present in this scene)
+
+## Scene 118-123: The Attack of the Fox
+# (no soul-class present in this scene)
+
+## Scene 124-129: The Descent of the Needle
+# (no soul-class present in this scene)
+
+## Scene 130-135: The Dragon's Emergence
+# (no soul-class present in this scene)
+
+## Scene 136-141: The Covering of the Earth
+# (no soul-class present in this scene)
+
+## Scene 142-147: The Appearance of the Monster
+# (no soul-class present in this scene)
+
+## Scene 148-153: The Proximity of the Giant
+- cohort: una puttana sciolta | source: llm | basis: 149-149
+
+## Scene 154-160: The Final Violence
+# (no soul-class present in this scene)

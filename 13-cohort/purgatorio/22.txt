@@ -1,0 +1,43 @@
+# Canto 22 — The Poets of Limbo and the Enchanted Tree
+
+## Scene 1-9: The Departure and Ascent
+- cohort: li spiriti veloci | source: llm | basis: 9-9
+
+## Scene 10-24: Virgil’s Inquiry
+# (no soul-class present in this scene)
+
+## Scene 25-36: Statius’s Defense
+# (no soul-class present in this scene)
+
+## Scene 37-54: The Sin of Lukewarmness
+# (no soul-class present in this scene)
+
+## Scene 55-63: Dante’s Doubt
+# (no soul-class present in this scene)
+
+## Scene 64-81: Statius’s Tribute to Virgil
+# (no soul-class present in this scene)
+
+## Scene 82-93: The Burden of Tepidity
+# (no soul-class present in this scene)
+
+## Scene 94-99: Dante’s Inquiry into Classical Poets
+# (no soul-class present in this scene)
+
+## Scene 100-114: The Inhabitants of Limbo
+# (no soul-class present in this scene)
+
+## Scene 115-126: Realigning the Ascent
+- cohort: le quattro ancelle | source: code | basis: 118-118
+
+## Scene 127-129: Dante’s Observation
+# (no soul-class present in this scene)
+
+## Scene 130-138: The Discovery of the Tree
+# (no soul-class present in this scene)
+
+## Scene 139-141: The Voice’s Invitation
+# (no soul-class present in this scene)
+
+## Scene 142-154: The Theology of Fasting
+# (no soul-class present in this scene)

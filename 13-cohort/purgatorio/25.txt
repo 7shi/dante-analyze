@@ -1,0 +1,62 @@
+# Canto 25 — The Encounter with Statius and the Metaphysics of the Soul
+
+## Scene 1-9: The Ascent of the Path
+# (no soul-class present in this scene)
+
+## Scene 10-15: Dante's Hesitation
+# (no soul-class present in this scene)
+
+## Scene 16-18: Virgil's Encouragement
+# (no soul-class present in this scene)
+
+## Scene 19-21: The Central Question
+# (no soul-class present in this scene)
+
+## Scene 22-30: The Introduction of Statius
+# (no soul-class present in this scene)
+
+## Scene 31-33: Statius's Consent
+# (no soul-class present in this scene)
+
+## Scene 34-42: The Power of Blood
+# (no soul-class present in this scene)
+
+## Scene 43-51: Digestion and Coagulation
+- cohort: l'uno e l'altro | source: code | basis: 46-47
+
+## Scene 52-66: The Evolution of Life
+# (no soul-class present in this scene)
+
+## Scene 67-75: The Development of the Spirit
+# (no soul-class present in this scene)
+
+## Scene 76-84: The Thread of Fate
+# (no soul-class present in this scene)
+
+## Scene 85-90: The Expansion of Virtue
+# (no soul-class present in this scene)
+
+## Scene 91-102: The Metaphor of Light and Shadow
+# (no soul-class present in this scene)
+
+## Scene 103-108: The Cause of the Souls' Cries
+# (no soul-class present in this scene)
+
+## Scene 109-117: Navigating the Abyss
+# (no soul-class present in this scene)
+
+## Scene 118-120: Virgil's Warning
+# (no soul-class present in this scene)
+
+## Scene 121-126: The Hymn of Mercy
+- cohort: spirti | source: code | basis: 124-125
+
+## Scene 127-132: The Choral Interruptions
+- cohort: anime | source: code | basis: 128-130
+
+## Scene 133-135: Cries of the Chastity
+- cohort: le donne | source: llm | basis: 133-133
+- cohort: mariti | source: llm | basis: 134-134
+
+## Scene 136-139: The Purpose of the Ritual
+# (no soul-class present in this scene)

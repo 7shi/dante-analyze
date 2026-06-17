@@ -1,0 +1,64 @@
+# Canto 13 — The Terrace of the Envious and the Sienese Soul
+
+## Scene 1-9: The Second Terrace
+# (no soul-class present in this scene)
+
+## Scene 10-21: Virgil's Prayer to the Sun
+# (no soul-class present in this scene)
+
+## Scene 22-27: The Flight of the Spirits
+- cohort: spiriti | source: code | basis: 25-26
+
+## Scene 28-33: The First Two Voices
+- cohort: gli invidiosi | source: code | basis: 28-33
+
+## Scene 34-36: The Third Voice
+# (no soul-class present in this scene)
+
+## Scene 37-45: Virgil's Interpretation
+- cohort: gente | source: code | basis: 44-45
+
+## Scene 46-48: Discovery of the Shadows
+- cohort: l'ombre | source: code | basis: 47-48
+
+## Scene 49-51: The Litany of Saints
+- cohort: le anime degli invidiosi | source: code | basis: 50-51
+
+## Scene 52-66: The Sight of the Envious
+- cohort: gli invidiosi | source: code | basis: 54-60
+
+## Scene 67-72: The Dim Light of the Terrace
+- cohort: l'ombre | source: code | basis: 68-70
+
+## Scene 73-78: Dante's Anxiety
+# (no soul-class present in this scene)
+
+## Scene 79-84: Virgil's Movement
+- cohort: le divote ombre | source: code | basis: 82-84
+
+## Scene 85-93: Dante's Greeting
+- cohort: gente sicura | source: code | basis: 85-85
+
+## Scene 94-99: The Reply
+# (no soul-class present in this scene)
+
+## Scene 100-105: The Interrogation
+- cohort: un'ombra | source: code | basis: 100-105
+
+## Scene 106-114: The Sienese Confession
+- cohort: le anime degli invidiosi | source: code | basis: 106-107
+
+## Scene 115-123: The Tale of the Battle
+# (no soul-class present in this scene)
+
+## Scene 124-132: A Prayer for Penance
+# (no soul-class present in this scene)
+
+## Scene 133-138: Dante's Explanation
+# (no soul-class present in this scene)
+
+## Scene 139-144: The Living Traveler
+- cohort: le anime degli invidiosi | source: code | basis: 139-143
+
+## Scene 145-154: The Prophecy of Tuscany
+# (no soul-class present in this scene)

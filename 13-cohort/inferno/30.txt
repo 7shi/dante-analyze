@@ -1,0 +1,92 @@
+# Canto 30 — The Furies of Fraud: The Biting Shadows and the Quarrel of the Counterfeiters
+
+## Scene 1-12: The Madness of Atamante
+- cohort: la moglie | source: llm | basis: 5-12
+- cohort: due figli | source: llm | basis: 5-12
+
+## Scene 13-21: The Grief of Hecuba
+# (no soul-class present in this scene)
+
+## Scene 22-27: The Two Biting Shadows
+- cohort: due ombre smorte e nude | source: code | basis: 25-26
+
+## Scene 28-33: Identification of Gianni Schicchi
+# (no soul-class present in this scene)
+
+## Scene 34-36: Dante's Urgency
+# (no soul-class present in this scene)
+
+## Scene 37-39: The Soul of Mirra
+- cohort: alchimista | source: code | basis: 37-37
+
+## Scene 40-45: The Soul of Buoso Donati
+# (no soul-class present in this scene)
+
+## Scene 46-48: A Shift in Vision
+- cohort: li altri mal nati | source: code | basis: 48-48
+
+## Scene 49-57: The Man with Dropsy
+# (no soul-class present in this scene)
+
+## Scene 58-63: The Thirst of Master Adam
+# (no soul-class present in this scene)
+
+## Scene 64-69: The Vision of the Arno
+# (no soul-class present in this scene)
+
+## Scene 70-75: Confession of Forgery
+# (no soul-class present in this scene)
+
+## Scene 76-78: Fear of the Great Fraudsters
+# (no soul-class present in this scene)
+
+## Scene 79-81: The Imprisoned Soul
+# (no soul-class present in this scene)
+
+## Scene 82-87: The Difficulty of Movement
+- cohort: questa gente sconcia | source: code | basis: 85-87
+
+## Scene 88-90: The Motive for Counterfeiting
+- cohort: sì fatta famiglia | source: code | basis: 88-88
+
+## Scene 91-93: Inquiry of the Neighbors
+# (no soul-class present in this scene)
+
+## Scene 94-99: The Accuser and the Deceiver
+# (no soul-class present in this scene)
+
+## Scene 100-103: The Physical Strike
+- cohort: l'un di lor | source: code | basis: 100-102
+
+## Scene 104-108: Adam's Counter-strike
+# (no soul-class present in this scene)
+
+## Scene 109-111: The Coinage Insult
+# (no soul-class present in this scene)
+
+## Scene 112-114: The Witness Accusation
+# (no soul-class present in this scene)
+
+## Scene 115-117: The Argument of Fault
+# (no soul-class present in this scene)
+
+## Scene 118-120: The Reminder of the Horse
+# (no soul-class present in this scene)
+
+## Scene 121-123: The Greek's Curse
+# (no soul-class present in this scene)
+
+## Scene 124-129: The Narcissus Insult
+# (no soul-class present in this scene)
+
+## Scene 130-132: Virgil's Warning
+# (no soul-class present in this scene)
+
+## Scene 133-135: Dante's Shame
+# (no soul-class present in this scene)
+
+## Scene 136-141: The Agony of Empathy
+# (no soul-class present in this scene)
+
+## Scene 142-148: Virgil's Moral Lesson
+# (no soul-class present in this scene)

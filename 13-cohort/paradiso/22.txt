@@ -1,0 +1,50 @@
+# Canto 22 — The Vision of the Celestial Lights and the Descent to Earth
+
+## Scene 1-21: Beatrice's Rebuke
+# (no soul-class present in this scene)
+
+## Scene 22-30: The Vision of the White Lights
+# (no soul-class present in this scene)
+
+## Scene 31-36: Beatrice's Promise of Answer
+# (no soul-class present in this scene)
+
+## Scene 37-51: The History of the Monastery
+- cohort: uomini | source: llm | basis: 47-47
+- cohort: li frati miei | source: llm | basis: 50-50
+
+## Scene 52-60: Dante's Request
+# (no soul-class present in this scene)
+
+## Scene 61-69: Description of the Empyrean
+# (no soul-class present in this scene)
+
+## Scene 70-84: The Decay of Monastic Discipline
+# (no soul-class present in this scene)
+
+## Scene 85-96: The Inevitability of Change
+# (no soul-class present in this scene)
+
+## Scene 97-99: The Ascent of the Spirits
+# (no soul-class present in this scene)
+
+## Scene 100-105: Dante's Rapid Ascent
+# (no soul-class present in this scene)
+
+## Scene 106-120: The Sign of Taurus
+# (no soul-class present in this scene)
+
+## Scene 121-123: Prayer to the Stars
+# (no soul-class present in this scene)
+
+## Scene 124-132: Beatrice's Command to Look Down
+# (no soul-class present in this scene)
+
+## Scene 133-138: The View of the Earth
+# (no soul-class present in this scene)
+
+## Scene 139-150: The Motion of the Planets
+- cohort: tutti e sette | source: code | basis: 148-148
+
+## Scene 151-154: The Earth as a Small Garden
+# (no soul-class present in this scene)

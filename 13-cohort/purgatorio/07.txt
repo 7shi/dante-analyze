@@ -1,0 +1,55 @@
+# Canto 07 — The Encounter with Sordello and the Vision of the Limbo Valley
+
+## Scene 1-9: Virgil's Identification
+# (no soul-class present in this scene)
+
+## Scene 10-21: Sordello's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 22-39: Virgil's Description of Limbo
+# (no soul-class present in this scene)
+
+## Scene 40-48: The Difficulty of the Ascent
+# (no soul-class present in this scene)
+
+## Scene 49-60: Sordello's Warning on Night Travel
+# (no soul-class present in this scene)
+
+## Scene 61-63: Agreement to Proceed
+# (no soul-class present in this scene)
+
+## Scene 64-78: The Splendor of the Valley
+# (no soul-class present in this scene)
+
+## Scene 79-84: The Singing Souls
+- cohort: anime | source: code | basis: 83-83
+
+## Scene 85-96: The Lament of Emperor Rudolf
+- cohort: anime | source: code | basis: 87-93
+
+## Scene 97-102: The Story of Ottacchero
+# (no soul-class present in this scene)
+
+## Scene 103-106: The Death of the Young Man
+# (no soul-class present in this scene)
+
+## Scene 107-111: The French Ancestors
+# (no soul-class present in this scene)
+
+## Scene 112-120: The Virtuous Kings
+# (no soul-class present in this scene)
+
+## Scene 121-123: A Reflection on Virtue
+# (no soul-class present in this scene)
+
+## Scene 124-126: The Mention of Pier
+# (no soul-class present in this scene)
+
+## Scene 127-129: The Legacy of Constance
+# (no soul-class present in this scene)
+
+## Scene 130-132: Henry of England
+# (no soul-class present in this scene)
+
+## Scene 133-136: The Sorrow of Guillaume
+- cohort: anime | source: code | basis: 133-133

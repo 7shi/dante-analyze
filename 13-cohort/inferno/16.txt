@@ -1,0 +1,47 @@
+# Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
+
+## Scene 1-12: The Appearance of the Wounded Souls
+- cohort: tre ombre | source: llm | basis: 4-4
+- cohort: una torma | source: llm | basis: 5-6
+
+## Scene 13-18: Virgil's Instruction
+- cohort: i fiorentini | source: code | basis: 13-18
+
+## Scene 19-27: The Rotation of the Three
+- cohort: tre fiorentini | source: code | basis: 19-27
+
+## Scene 28-45: The Identification of the Souls
+# (no soul-class present in this scene)
+
+## Scene 46-51: Dante's Hesitation
+# (no soul-class present in this scene)
+
+## Scene 52-63: Dante's Response
+# (no soul-class present in this scene)
+
+## Scene 64-72: The Souls' Inquiry
+- cohort: tre anime fiorentine | source: code | basis: 68-71
+
+## Scene 73-75: Dante's Political Rebuke
+# (no soul-class present in this scene)
+
+## Scene 76-85: The Request for Remembrance
+# (no soul-class present in this scene)
+
+## Scene 86-90: The Departure of the Souls
+# (no soul-class present in this scene)
+
+## Scene 91-105: The Sound of the Water
+# (no soul-class present in this scene)
+
+## Scene 106-114: The Use of the Rope
+# (no soul-class present in this scene)
+
+## Scene 115-120: Dante's Reflection on Prudence
+# (no soul-class present in this scene)
+
+## Scene 121-126: Virgil's Warning
+# (no soul-class present in this scene)
+
+## Scene 127-136: The Approaching Figure
+# (no soul-class present in this scene)

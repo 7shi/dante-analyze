@@ -1,0 +1,61 @@
+# Canto 31 — The Sphinx's Instruction and the Celestial Dance
+
+## Scene 1-6: The Sphinx's Accusation
+# (no soul-class present in this scene)
+
+## Scene 7-15: Dante's Hesitant Response
+# (no soul-class present in this scene)
+
+## Scene 16-21: The Burst of Sorrow
+# (no soul-class present in this scene)
+
+## Scene 22-30: The Sphinx's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 31-36: The Confession of Sin
+# (no soul-class present in this scene)
+
+## Scene 37-48: The Command to Listen
+# (no soul-class present in this scene)
+
+## Scene 49-63: The Vanity of Earthly Beauty
+# (no soul-class present in this scene)
+
+## Scene 64-69: A Call to Courage
+# (no soul-class present in this scene)
+
+## Scene 70-75: The Simile of the Stripped Tree
+# (no soul-class present in this scene)
+
+## Scene 76-84: The Vision of Beatrice
+- cohort: quelle prime creature | source: code | basis: 77-78
+
+## Scene 85-90: The Sting of Repentance
+# (no soul-class present in this scene)
+
+## Scene 91-96: Crossing the River
+# (no soul-class present in this scene)
+
+## Scene 97-105: Arrival at the Blessed Shore
+# (no soul-class present in this scene)
+
+## Scene 106-111: The Nymphs' Identity
+- cohort: ninfe | source: code | basis: 106-106
+
+## Scene 112-117: The Procession to the Griffin
+- cohort: le anime beate | source: code | basis: 112-116
+
+## Scene 118-123: The Splendor of the Griffin
+# (no soul-class present in this scene)
+
+## Scene 124-126: Dante's Wonder
+# (no soul-class present in this scene)
+
+## Scene 127-132: The Celestial Dance
+# (no soul-class present in this scene)
+
+## Scene 133-138: The Song of the Nymphs
+# (no soul-class present in this scene)
+
+## Scene 139-145: Hymn to Eternal Light
+# (no soul-class present in this scene)

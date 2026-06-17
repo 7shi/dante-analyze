@@ -1,0 +1,49 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+
+## Scene 1-6: Observation of the Flames
+# (no soul-class present in this scene)
+
+## Scene 7-12: Inquiry of the Flames
+# (no soul-class present in this scene)
+
+## Scene 13-18: The Approach of the Boat
+- cohort: anima fella | source: code | basis: 18-18
+
+## Scene 19-24: The Quarrel with Flegias
+# (no soul-class present in this scene)
+
+## Scene 25-30: Boarding the Vessel
+# (no soul-class present in this scene)
+
+## Scene 31-39: The Encounter with the Muddy Spirit
+# (no soul-class present in this scene)
+
+## Scene 40-51: The Spirit's Monologue on Pride
+- cohort: persona orgogliosa | source: code | basis: 46-46
+
+## Scene 52-57: Dante's Desire for Retribution
+# (no soul-class present in this scene)
+
+## Scene 58-64: The Torment of Filippo Argenti
+- cohort: le fangose genti | source: code | basis: 59-61
+
+## Scene 65-78: Arrival at the Walls of Dis
+# (no soul-class present in this scene)
+
+## Scene 79-93: Challenge at the Gates
+- cohort: demoni | source: code | basis: 82-93
+
+## Scene 94-102: Dante's Terror
+# (no soul-class present in this scene)
+
+## Scene 103-108: Virgil's Reassurance
+# (no soul-class present in this scene)
+
+## Scene 109-114: Separation at the Gate
+- cohort: demoni | source: code | basis: 112-114
+
+## Scene 115-120: Virgil's Despair
+# (no soul-class present in this scene)
+
+## Scene 121-130: The Secret Path Revealed
+# (no soul-class present in this scene)

@@ -1,0 +1,52 @@
+# Canto 25 — The Vision of the Three Lights and the Revelation of Hope
+
+## Scene 1-12: Dante's Prologue
+# (no soul-class present in this scene)
+
+## Scene 13-18: The Appearance of the Second Light
+# (no soul-class present in this scene)
+
+## Scene 19-24: Simile of the Two Princes
+- cohort: i beati | source: code | basis: 23-24
+
+## Scene 25-33: Beatrice's Invocation of Hope
+- cohort: 'l gratular | source: code | basis: 25-25
+
+## Scene 34-36: Beatrice's Command
+# (no soul-class present in this scene)
+
+## Scene 37-47: The Second Light's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 48-63: The Nature of Hope in the Church
+# (no soul-class present in this scene)
+
+## Scene 64-78: Dante's Scholarly Response
+# (no soul-class present in this scene)
+
+## Scene 79-87: The Third Light's Command
+# (no soul-class present in this scene)
+
+## Scene 88-96: Scriptural Identification of Hope
+- cohort: Dante, i fedeli | source: code | basis: 96-96
+
+## Scene 97-99: The Heavenly Response
+- cohort: tutte le carole | source: code | basis: 99-99
+
+## Scene 100-108: The Arrival of the Third Light
+# (no soul-class present in this scene)
+
+## Scene 109-114: Beatrice's Identification
+# (no soul-class present in this scene)
+
+## Scene 115-117: Beatrice's Silent Attention
+# (no soul-class present in this scene)
+
+## Scene 118-129: The Prophecy of the Two Lights
+# (no soul-class present in this scene)
+
+## Scene 130-135: The Settling of the Heavens
+# (no soul-class present in this scene)
+
+## Scene 136-139: Dante's Final Vision
+# (no soul-class present in this scene)

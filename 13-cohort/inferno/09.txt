@@ -1,0 +1,47 @@
+# Canto 09 — The Furies and the Arrival of Charon
+
+## Scene 1-6: The obscured vision
+# (no soul-class present in this scene)
+
+## Scene 7-15: The interrupted dialogue
+# (no soul-class present in this scene)
+
+## Scene 16-33: Virgil’s reminiscence
+# (no soul-class present in this scene)
+
+## Scene 34-48: The Furies revealed
+- cohort: tre furïe infernal | source: code | basis: 37-42
+
+## Scene 49-54: The Furies' frenzy
+# (no soul-class present in this scene)
+
+## Scene 55-60: A warning to look away
+# (no soul-class present in this scene)
+
+## Scene 61-63: An authorial aside
+- cohort: voi ch'avete li 'ntelletti sani | source: code | basis: 61-61
+
+## Scene 64-72: A violent disturbance
+# (no soul-class present in this scene)
+
+## Scene 73-84: The approach of Charon
+- cohort: mille anime distrutte | source: code | basis: 79-80
+
+## Scene 85-87: Dante's pious reaction
+# (no soul-class present in this scene)
+
+## Scene 88-99: Charon’s reprimand
+- cohort: cacciati del ciel | source: code | basis: 91-98
+
+## Scene 100-105: The poets advance
+# (no soul-class present in this scene)
+
+## Scene 106-123: The field of tombs
+- cohort: miseri | source: llm | basis: 123-123
+- cohort: offesi | source: llm | basis: 123-123
+
+## Scene 124-131: The identity of the dead
+# (no soul-class present in this scene)
+
+## Scene 132-133: Passing through the ruins
+- cohort: i martìri | source: code | basis: 133-133

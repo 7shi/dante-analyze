@@ -1,0 +1,40 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+
+## Scene 1-12: Pluto's Outburst and Virgil's Rebuke
+# (no soul-class present in this scene)
+
+## Scene 13-18: Descent into the Fourth Circle
+# (no soul-class present in this scene)
+
+## Scene 19-24: The Chaos of the Swirling Souls
+- cohort: gente | source: code | basis: 24-24
+
+## Scene 25-35: The Mechanics of the Punishment
+- cohort: gente | source: code | basis: 25-35
+
+## Scene 36-48: Identification of the Avaricious
+- cohort: cherci | source: llm | basis: 46-46
+- cohort: papi | source: llm | basis: 47-47
+- cohort: i cardinali | source: llm | basis: 47-47
+
+## Scene 49-66: The Futility of Wealth
+# (no soul-class present in this scene)
+
+## Scene 67-84: The Doctrine of Fortune
+# (no soul-class present in this scene)
+
+## Scene 85-96: The Unchanging Divine Order
+# (no soul-class present in this scene)
+
+## Scene 97-105: Transition to the Styx
+# (no soul-class present in this scene)
+
+## Scene 106-114: The Sight of the Wrathful and Sullen
+- cohort: genti fangose | source: code | basis: 110-114
+
+## Scene 115-126: The Lament of the Sullen
+- cohort: anime | source: llm | basis: 116-116
+- cohort: gente | source: llm | basis: 118-118
+
+## Scene 127-130: Arrival at the Tower
+- cohort: gli accidiosi | source: code | basis: 129-129

@@ -16,3 +16,5 @@ LOCATION_DIR = ROOT_DIR / "09-location"  # location.py writes 09-location/<canti
 TOPOGRAPHY_DIR = ROOT_DIR / "10-topography"  # topography.py writes 10-topography/<canticle>.txt (per-canticle)
 PRESENCE_DIR = ROOT_DIR / "11-presence"  # presence.py writes 11-presence/<canticle>/NN.txt
 ADDRESSEE_DIR = ROOT_DIR / "12-addressee"  # addressee.py writes 12-addressee/<canticle>/NN.txt
+COHORT_DIR = ROOT_DIR / "13-cohort"        # cohort.py writes 13-cohort/<canticle>/NN.txt (per-scene);
+                                           # rollup.py writes 13-cohort/<canticle>.txt (per-region)

@@ -1,0 +1,52 @@
+# Canto 23 — The Radiance of Beatrice and the Celestial Harmony
+
+## Scene 1-15: The Simile of the Bird
+# (no soul-class present in this scene)
+
+## Scene 16-24: Beatrice's Proclamation
+# (no soul-class present in this scene)
+
+## Scene 25-33: The Vision of the Sun
+# (no soul-class present in this scene)
+
+## Scene 34-39: The Source of Virtue
+# (no soul-class present in this scene)
+
+## Scene 40-48: Expansion of the Mind
+# (no soul-class present in this scene)
+
+## Scene 49-63: The Limit of Language
+# (no soul-class present in this scene)
+
+## Scene 64-69: The Weight of the Subject
+# (no soul-class present in this scene)
+
+## Scene 70-75: The Call to the Rose
+# (no soul-class present in this scene)
+
+## Scene 76-78: Focusing the Gaze
+# (no soul-class present in this scene)
+
+## Scene 79-84: The Burst of Light
+# (no soul-class present in this scene)
+
+## Scene 85-96: The Crown of Light
+- cohort: le anime beate | source: code | basis: 85-87
+
+## Scene 97-102: The Celestial Lyre
+# (no soul-class present in this scene)
+
+## Scene 103-108: The Voice of Angelic Love
+# (no soul-class present in this scene)
+
+## Scene 109-111: The Chorus of Mary
+- cohort: tutti li altri lumi | source: code | basis: 110-111
+
+## Scene 112-120: The Distant Shore
+# (no soul-class present in this scene)
+
+## Scene 121-129: The Simile of the Infants
+- cohort: quei candori | source: code | basis: 124-128
+
+## Scene 130-139: The Triumph of the Saints
+- cohort: arche ricchissime | source: code | basis: 131-131

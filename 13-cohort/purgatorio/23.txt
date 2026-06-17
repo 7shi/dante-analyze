@@ -1,0 +1,49 @@
+# Canto 23 — The Encounter with Forese and the Shadows of Limbo
+
+## Scene 1-6: The Father's Command
+# (no soul-class present in this scene)
+
+## Scene 7-9: Following the Sages
+# (no soul-class present in this scene)
+
+## Scene 10-15: The Sound of Sorrow
+- cohort: l'ombre | source: code | basis: 10-15
+
+## Scene 16-24: The Emaciated Crowd
+- cohort: d'anime turba tacita e devota | source: code | basis: 20-21
+
+## Scene 25-30: Reflections on Hunger
+# (no soul-class present in this scene)
+
+## Scene 31-39: The Scent of Temptation
+- cohort: i penitenti | source: code | basis: 31-39
+
+## Scene 40-48: An Unexpected Encounter
+# (no soul-class present in this scene)
+
+## Scene 49-54: Forese's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 55-60: Dante's Grief
+# (no soul-class present in this scene)
+
+## Scene 61-75: The Cause of Torment
+- cohort: Tutta esta gente | source: code | basis: 64-64
+
+## Scene 76-84: A Question of Time
+# (no soul-class present in this scene)
+
+## Scene 85-96: The Power of Prayer
+# (no soul-class present in this scene)
+
+## Scene 97-114: A Prophecy of Florence
+- cohort: questa gente | source: code | basis: 113-114
+
+## Scene 115-123: Explaining the Companions
+# (no soul-class present in this scene)
+
+## Scene 124-129: Dante's Destination
+- cohort: Forese, anime penitenti | source: code | basis: 124-126
+
+## Scene 130-133: Identifying the Guides
+# (no soul-class present in this scene)

@@ -1,0 +1,70 @@
+# Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
+
+## Scene 1-12: The Fable of the Frog and the Mouse
+# (no soul-class present in this scene)
+
+## Scene 13-24: Dante's Dread of the Demons
+# (no soul-class present in this scene)
+
+## Scene 25-33: Virgil's Strategic Plan
+# (no soul-class present in this scene)
+
+## Scene 34-51: The Rapid Descent
+- cohort: Malebranche | source: code | basis: 35-36
+
+## Scene 52-57: Reaching the Fifth Bolgia
+- cohort: Malebranche | source: code | basis: 52-53
+
+## Scene 58-66: The Appearance of the Hypocrites
+- cohort: una gente dipinta | source: llm | basis: 58-66
+
+## Scene 67-72: The Burden of the Cloaks
+- cohort: quella gente stanca | source: code | basis: 69-72
+
+## Scene 73-75: Dante's Request to Virgil
+# (no soul-class present in this scene)
+
+## Scene 76-79: The Voice from Behind
+- cohort: un che 'ntese la parola tosca | source: code | basis: 76-77
+
+## Scene 80-81: Virgil's Command
+# (no soul-class present in this scene)
+
+## Scene 82-84: The Approaching Figures
+- cohort: ipocriti | source: code | basis: 82-84
+
+## Scene 85-90: The Recognition of the Living
+- cohort: ipocriti | source: code | basis: 85-87
+
+## Scene 91-93: The Welcome to the Hypocrites
+- cohort: ipocriti tristi | source: code | basis: 91-92
+
+## Scene 94-99: Dante's Inquiry
+- cohort: ipocriti | source: code | basis: 94-99
+
+## Scene 100-108: The Identity of the Hypocrites
+# (no soul-class present in this scene)
+
+## Scene 109-113: The Sight of the Crucifix
+# (no soul-class present in this scene)
+
+## Scene 114-123: The Monk's Explanation
+- cohort: li altri | source: llm | basis: 122-122
+
+## Scene 124-126: Virgil's Reaction
+# (no soul-class present in this scene)
+
+## Scene 127-132: Virgil's Plea for an Exit
+# (no soul-class present in this scene)
+
+## Scene 133-138: The Obstacle of the Stone
+# (no soul-class present in this scene)
+
+## Scene 139-141: The Error of the Demon
+- cohort: un peccator | source: code | basis: 141-141
+
+## Scene 142-144: The Lie of the Devil
+# (no soul-class present in this scene)
+
+## Scene 145-148: The Departure
+# (no soul-class present in this scene)

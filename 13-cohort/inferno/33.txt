@@ -1,0 +1,47 @@
+# Canto 33 — The Tale of Count Ugolino and the Frozen Souls
+
+## Scene 1-9: The Sinner’s Pause
+- cohort: quel peccator | source: llm | basis: 2-2
+- cohort: al traditor | source: llm | basis: 8-8
+
+## Scene 10-15: The Introduction
+# (no soul-class present in this scene)
+
+## Scene 16-27: The Imprisonment
+# (no soul-class present in this scene)
+
+## Scene 28-36: The Prison Landscape
+- cohort: i figli | source: code | basis: 35-35
+
+## Scene 37-54: The Morning of Hunger
+- cohort: i figliuoli di Ugolino | source: code | basis: 38-50
+
+## Scene 55-66: The Terrible Choice
+# (no soul-class present in this scene)
+
+## Scene 67-75: The Death of the Children
+- cohort: i figli di Ugolino | source: code | basis: 68-74
+
+## Scene 76-78: Resumption of the Feast
+# (no soul-class present in this scene)
+
+## Scene 79-90: The Curse on Pisa
+# (no soul-class present in this scene)
+
+## Scene 91-108: Entering Cocytus
+- cohort: un'altra gente | source: code | basis: 92-99
+
+## Scene 109-117: The Cry for Unmasking
+- cohort: un de' tristi | source: code | basis: 109-114
+
+## Scene 118-126: The Identity of Alberigo
+# (no soul-class present in this scene)
+
+## Scene 127-138: The Mechanics of the Tolomea
+# (no soul-class present in this scene)
+
+## Scene 139-150: The Dispute with Alberigo
+# (no soul-class present in this scene)
+
+## Scene 151-157: The Curse on Genoa
+# (no soul-class present in this scene)

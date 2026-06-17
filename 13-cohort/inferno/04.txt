@@ -1,0 +1,58 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+
+## Scene 1-6: The Awakening
+# (no soul-class present in this scene)
+
+## Scene 7-12: The Valley of Sorrow
+# (no soul-class present in this scene)
+
+## Scene 13-18: The Command to Descend
+# (no soul-class present in this scene)
+
+## Scene 19-24: Entering the First Circle
+# (no soul-class present in this scene)
+
+## Scene 25-30: The Sighing Spirits
+- cohort: le turbe | source: llm | basis: 29-30
+
+## Scene 31-42: The Nature of Limbo
+- cohort: spiriti | source: code | basis: 32-32
+
+## Scene 43-50: Dante's Inquiry
+# (no soul-class present in this scene)
+
+## Scene 51-63: The Descent of the Patriarchs
+# (no soul-class present in this scene)
+
+## Scene 64-66: Through the Dense Forest
+- cohort: spiriti | source: code | basis: 66-66
+
+## Scene 67-78: The Discovery of the Light
+- cohort: orrevol gente | source: code | basis: 72-76
+
+## Scene 79-81: The Divine Voice
+- cohort: Dante, noble souls of Limbo | source: code | basis: 79-80
+
+## Scene 82-93: The Meeting of the Great Poets
+# (no soul-class present in this scene)
+
+## Scene 94-102: The Assembly of Wisdom
+# (no soul-class present in this scene)
+
+## Scene 103-111: The Noble Castle
+# (no soul-class present in this scene)
+
+## Scene 112-117: The Meadow of Spirits
+- cohort: le genti | source: code | basis: 112-117
+
+## Scene 118-129: The Hall of Heroes
+- cohort: li spiriti magni | source: code | basis: 119-119
+
+## Scene 130-144: The School of Philosophers
+- cohort: filosofica famiglia | source: code | basis: 132-132
+
+## Scene 145-147: The Poet's Limitation
+# (no soul-class present in this scene)
+
+## Scene 148-151: Moving Toward the Light
+# (no soul-class present in this scene)

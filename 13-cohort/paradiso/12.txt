@@ -1,0 +1,40 @@
+# Canto 12 — The Praise of Saint Dominic and the Gathering of the Saints
+
+## Scene 1-9: The Rotation of the Celestial Gear
+# (no soul-class present in this scene)
+
+## Scene 10-21: The Intertwining Garlands
+- cohort: gente | source: code | basis: 16-16
+
+## Scene 22-30: The Voice Emerges
+- cohort: le luci nove | source: code | basis: 28-28
+
+## Scene 31-36: The Theology of the Two Guides
+# (no soul-class present in this scene)
+
+## Scene 37-45: The Allegory of the Church's Defense
+# (no soul-class present in this scene)
+
+## Scene 46-60: The Birth of Saint Dominic
+# (no soul-class present in this scene)
+
+## Scene 61-78: The Vision and Signs of Sanctity
+# (no soul-class present in this scene)
+
+## Scene 79-87: The Rapid Growth of the Doctor
+# (no soul-class present in this scene)
+
+## Scene 88-105: The Missionary Zeal of Dominic
+- cohort: li sterpi eretici | source: code | basis: 100-100
+
+## Scene 106-114: The Vacancy in the Second Circle
+# (no soul-class present in this scene)
+
+## Scene 115-126: The Vastness of the Second Ring
+# (no soul-class present in this scene)
+
+## Scene 127-141: The Assembly of the Saints
+- cohort: primi scalzi poverelli | source: code | basis: 130-131
+
+## Scene 142-145: The Unified Praise
+# (no soul-class present in this scene)

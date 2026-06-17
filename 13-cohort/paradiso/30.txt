@@ -1,0 +1,61 @@
+# Canto 30 — The Vision of the Empyrean and the Celestial Rose
+
+## Scene 1-15: The Fading of the Earthly Light
+# (no soul-class present in this scene)
+
+## Scene 16-27: Praise for Beatrice
+# (no soul-class present in this scene)
+
+## Scene 28-33: The Limits of Poetry
+# (no soul-class present in this scene)
+
+## Scene 34-45: The Angelic Trumpet
+# (no soul-class present in this scene)
+
+## Scene 46-54: The Blinding Light
+# (no soul-class present in this scene)
+
+## Scene 55-60: The Overwhelming Vision
+# (no soul-class present in this scene)
+
+## Scene 61-69: The Luminous River
+- cohort: faville vive | source: code | basis: 64-69
+
+## Scene 70-75: The Voice of the Light
+# (no soul-class present in this scene)
+
+## Scene 76-81: Instruction on Perception
+# (no soul-class present in this scene)
+
+## Scene 82-90: Dante's Immersive Drinking
+# (no soul-class present in this scene)
+
+## Scene 91-96: The Revelation of the Two Courts
+# (no soul-class present in this scene)
+
+## Scene 97-102: The Prayer to God
+# (no soul-class present in this scene)
+
+## Scene 103-108: The Geometry of the Light
+# (no soul-class present in this scene)
+
+## Scene 109-114: The Mirroring of the Saints
+- cohort: i beati | source: code | basis: 113-114
+
+## Scene 115-123: The Magnitude of the Rose
+# (no soul-class present in this scene)
+
+## Scene 124-127: The Scent of Praise
+# (no soul-class present in this scene)
+
+## Scene 128-132: Beatrice Points to the Assembly
+- cohort: l convento de le bianche stole | source: code | basis: 129-131
+
+## Scene 133-138: The Prophecy of Henry VII
+# (no soul-class present in this scene)
+
+## Scene 139-141: The Warning Against Greed
+# (no soul-class present in this scene)
+
+## Scene 142-148: The Fate of the Simoniac
+# (no soul-class present in this scene)

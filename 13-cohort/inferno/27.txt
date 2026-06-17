@@ -1,0 +1,37 @@
+# Canto 27 — The Confession of the Second Flame
+
+## Scene 1-15: The Sound of the Flame
+# (no soul-class present in this scene)
+
+## Scene 16-30: The Inquiry of the Soul
+- cohort: l'anima | source: code | basis: 16-30
+
+## Scene 31-48: Dante's Political Report
+- cohort: l'anima | source: code | basis: 33-36
+
+## Scene 49-57: The Geography of the Region
+# (no soul-class present in this scene)
+
+## Scene 58-66: The Flame's Vow of Truth
+# (no soul-class present in this scene)
+
+## Scene 67-78: The Nature of the Deceiver
+# (no soul-class present in this scene)
+
+## Scene 79-93: The History of Deceit
+# (no soul-class present in this scene)
+
+## Scene 94-105: The Pope's Counselor
+# (no soul-class present in this scene)
+
+## Scene 106-111: The Dangerous Advice
+# (no soul-class present in this scene)
+
+## Scene 112-123: The Cherub's Intervention
+- cohort: l'anima | source: llm | basis: 112-121
+
+## Scene 124-129: The Judgment of Minos
+# (no soul-class present in this scene)
+
+## Scene 130-136: The Departure of the Flame
+# (no soul-class present in this scene)

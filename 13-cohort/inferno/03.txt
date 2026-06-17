@@ -1,0 +1,56 @@
+# Canto 03 — The Gate of Hell and the Approach to the Acheron
+
+## Scene 1-9: The Inscription on the Gate
+- cohort: chiunque entri nell'Inferno | source: code | basis: 9-9
+
+## Scene 10-18: Virgil's Interpretation
+# (no soul-class present in this scene)
+
+## Scene 19-24: Entry into the Underworld
+# (no soul-class present in this scene)
+
+## Scene 25-33: The Tumult of Wailing
+- cohort: che gent' | source: code | basis: 25-33
+
+## Scene 34-42: The Origin of the Uncommitted
+- cohort: l'anime triste di coloro che visser sanza 'nfamia e sanza lodo | source: llm | basis: 34-36
+- cohort: quel cattivo coro de li angeli | source: llm | basis: 37-39
+
+## Scene 43-51: The Fate of the Neutral
+- cohort: ignavi | source: code | basis: 44-51
+
+## Scene 52-57: The Great Procession
+- cohort: gente | source: code | basis: 55-56
+
+## Scene 58-63: The Shadow of the Great Refuser
+- cohort: i cattivi | source: code | basis: 62-62
+
+## Scene 64-69: The Torment of the Souls
+- cohort: Questi sciaurati | source: code | basis: 64-69
+
+## Scene 70-78: Approaching the River
+- cohort: le genti | source: code | basis: 71-75
+
+## Scene 79-81: Dante's Shame
+# (no soul-class present in this scene)
+
+## Scene 82-89: The Arrival of Charon
+- cohort: anime prave | source: code | basis: 84-84
+
+## Scene 90-99: Virgil Silences the Ferryman
+# (no soul-class present in this scene)
+
+## Scene 100-105: The Wrath of the Damned
+- cohort: quell' anime | source: code | basis: 100-103
+
+## Scene 106-108: Retreat to the Shore
+- cohort: anime | source: code | basis: 106-107
+
+## Scene 109-120: The Continuous Flow of Souls
+- cohort: il mal seme d'Adamo | source: code | basis: 115-120
+
+## Scene 121-129: Virgil's Final Lesson
+# (no soul-class present in this scene)
+
+## Scene 130-136: The Earthquake and Fainting
+# (no soul-class present in this scene)

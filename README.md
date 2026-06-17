@@ -32,6 +32,7 @@ measured against — not a shortcut poured in.
 - `10-topography/` — canonical regions per canticle (committed)
 - `11-presence/` — present cast versus merely-mentioned referents per scene (committed)
 - `12-addressee/` — addressee per speech span: who each speaker is talking to (committed)
+- `13-cohort/` — which class of souls dwells in each scene, with a per-region rollup (committed)
 - `ref/` — reference material
 
 ## Usage
@@ -115,10 +116,10 @@ The speaker/edge data is intended to feed the translation context lock (`dante-d
 ## Context lock
 
 The KG is action-only (who-does-what); it carries no **setting**, nor who is bodily present versus
-merely named, nor who each speech span is addressed to. A context-lock layer supplies those missing
-layers, built bottom-up from the text (no external geography or canon). Four passes are committed for
-all three canticles (100 cantos); per-pass design and measured results are in each subdir's
-`README.md`:
+merely named, nor who each speech span is addressed to, nor which class of souls dwells in a place. A
+context-lock layer supplies those missing layers, built bottom-up from the text (no external
+geography or canon). Five passes are committed for all three canticles (100 cantos); per-pass design
+and measured results are in each subdir's `README.md`:
 
 1. **Location** (`09-location/`, LLM) — each scene's current physical setting in the source's own
    place-words, current-setting-only (a merely named, recalled, or compared place is excluded), with
@@ -135,8 +136,14 @@ all three canticles (100 cantos); per-pass design and measured results are in ea
    directly when the pool is empty (`(none)`) or a single figure (`code`); the LLM picks from the
    closed list only when ≥2 present figures remain. The dialogue analogue of the speaker join. →
    `12-addressee/README.md`
+5. **Cohort** (`13-cohort/`, code + LLM) — which class of souls dwells in each scene. Code makes the
+   candidate set = the scene's **present** cast (`11-presence`) kept to `05-registry` `class`/`generic`
+   types, and resolves it directly when empty (no line) or a single class (`code`); the LLM names the
+   resident class(es) only when ≥2 remain. `rollup.py` (pure code) then folds the per-scene cohorts
+   onto the `10-topography` regions. The narrative-state analogue of topography. → `13-cohort/README.md`
 
-Further passes — cohort, and a final code join into the per-canto lock — are planned in `PLAN.md`.
+The one remaining pass — a final code join of all layers plus the KG into the per-canto lock — is
+planned in `PLAN.md`.
 
 ## Downstream Projects
 

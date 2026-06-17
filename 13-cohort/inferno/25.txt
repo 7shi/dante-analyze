@@ -1,0 +1,64 @@
+# Canto 25 — The Metamorphosis of the Seventh Weight
+
+## Scene 1-9: The Thief's Struggle
+# (no soul-class present in this scene)
+
+## Scene 10-16: Dante's Lament and the Centaur
+# (no soul-class present in this scene)
+
+## Scene 17-24: The Dragon's Presence
+- cohort: un centauro | source: code | basis: 17-22
+
+## Scene 25-33: Virgil's Explanation of Cacus
+# (no soul-class present in this scene)
+
+## Scene 34-39: The Arrival of Three Spirits
+# (no soul-class present in this scene)
+
+## Scene 40-45: The Conversation of the Spirits
+- cohort: spiriti | source: code | basis: 40-43
+
+## Scene 46-60: The Initial Entwining
+- cohort: anime | source: llm | basis: 49-51
+
+## Scene 61-66: The Melting of the Forms
+- cohort: l'anima | source: code | basis: 61-63
+
+## Scene 67-72: The Loss of Individuality
+# (no soul-class present in this scene)
+
+## Scene 73-78: The Grotesque Fusion
+# (no soul-class present in this scene)
+
+## Scene 79-87: The Attack of the Small Serpent
+- cohort: anime | source: llm | basis: 83-86
+
+## Scene 88-93: The Reaction of the Wound
+# (no soul-class present in this scene)
+
+## Scene 94-102: A Literary Comparison
+# (no soul-class present in this scene)
+
+## Scene 103-111: The Structural Reorganization
+# (no soul-class present in this scene)
+
+## Scene 112-117: The Alteration of Limbs
+- cohort: misero | source: code | basis: 117-117
+
+## Scene 118-123: The Changing Surface
+- cohort: spirito | source: code | basis: 118-123
+
+## Scene 124-129: The Swelling of the Face
+# (no soul-class present in this scene)
+
+## Scene 130-135: The Splitting of the Tongue
+- cohort: spirito | source: code | basis: 130-135
+
+## Scene 136-141: The Departure of the Spirits
+- cohort: l'anima | source: code | basis: 136-137
+
+## Scene 142-144: Dante's Commentary
+# (no soul-class present in this scene)
+
+## Scene 145-151: The Identification of the Survivors
+# (no soul-class present in this scene)

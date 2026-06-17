@@ -16,11 +16,11 @@ The committed pipeline covers all three canticles, 100 cantos:
    per-canticle knowledge graph.
 
 There is no unfinished mandatory step in this repo. The translation context lock (direction 1
-below) is underway: its first four passes — **`09-location`** (per-scene local setting),
+below) is underway: its first five passes — **`09-location`** (per-scene local setting),
 **`10-topography`** (the place analogue of `05-registry`), **`11-presence`** (present cast versus
-merely-mentioned referents, the person analogue), and **`12-addressee`** (who each speech span is
-directed at) — are committed and fully built across all 100 cantos; see their READMEs. The next pass
-to design is `13-cohort`.
+merely-mentioned referents, the person analogue), **`12-addressee`** (who each speech span is
+directed at), and **`13-cohort`** (which class of souls dwells in each scene) — are committed and
+fully built across all 100 cantos; see their READMEs. The one remaining pass is `14-lock`.
 
 ## Next directions
 
@@ -55,24 +55,42 @@ contaminate each other:
   mentioned) — committed as `11-presence`; addressee (who each speech span is directed at) —
   committed as `12-addressee` (see their READMEs);
 - **setting**: location and its consolidation into canonical regions — committed as `09-location`
-  and `10-topography` (see their READMEs). Cohort (which class of souls inhabits a region) is a
-  distinct judgment kept as its own later step.
+  and `10-topography` (see their READMEs). Cohort (which class of souls dwells in each scene) is a
+  distinct judgment — committed as `13-cohort`, with `rollup.py` folding the per-scene cohorts onto
+  the canonical regions by code.
 
 Distinctions the lock must preserve:
 
 - **present cast** versus **merely-mentioned referents**.
 
-With `09-location`, `10-topography`, `11-presence`, and `12-addressee` committed (see their READMEs),
-the remaining passes (continuing the `NN-name` ladder) are:
+With `09-location`, `10-topography`, `11-presence`, `12-addressee`, and `13-cohort` committed (see
+their READMEs), the one remaining pass (continuing the `NN-name` ladder) is:
 
-- `13-cohort` (code + narrow judgment) — which class of souls inhabits each region; co-varies with
-  topography's regions and depends on presence (`11`), so it comes after both. For reference, the
-  established method to draw on (the detailed design is left to that pass) is the code-first,
-  closed-set, LLM-residual pattern `11-presence` / `12-addressee` settled: code assembles a closed
-  candidate set already resolved upstream and decides every unambiguous case, the LLM is the oracle
-  on the residual only, and the reply is checked back against the closed set;
 - `14-lock` (pure code) — join all of the above plus the KG into the per-canto lock, with a
   structural check, exactly as `08-kg` joins.
+
+`13-cohort` settled the cohort layer with the same code-first, closed-set, LLM-residual pattern as
+`11` / `12`, judged **per scene** (not per region, which `measure.py` showed balloons the candidate
+set and conflates merged terraces); `rollup.py` builds the per-region view by code afterward.
+
+**Starting `14-lock` (a fresh session can begin here).** It is the last pass and pure code (no
+model), so the work is design then join — start by writing `14-lock/PLAN.md` per the pass-doc
+convention. Before coding, settle the two open design points below (output format, exact lock field
+set); they are deliberately deferred to this pass, not yet decided.
+
+- *Decide first:* output format (per-canto TOML vs JSONL — see Open decisions) and the lock's field
+  set. `ref/PLAN.md` + `ref/inferno-01.toml` are the spec **sketch** (illustration, not confirmed);
+  treat them as a starting proposal to confirm, not a fixed schema.
+- *Inputs to join (all committed):* `08-kg` (nodes / edges / speech_edges), plus the five context-lock
+  layers via their `dante_analyze.checkpoint` loaders — `load_locations`, `load_topography`,
+  `load_presence`, `load_addressee`, `load_cohort` (all exported from `dante_analyze`, beside one
+  another). Each layer's README documents its loader's return shape.
+- *Pattern to follow:* `08-kg` (`08-kg/README.md`) — the existing pure-code join that resolves cited
+  `[n]` tags through `load_tags` → `load_registry` and emits per-canticle output with a geometry
+  check. `14-lock` is the same shape over the lock layers, per canto.
+- *Check + evaluation:* a structural check (every scene gets a lock entry; basis ranges in-scene),
+  then compare a generated Inferno 1 lock against `ref/inferno-01.toml` **structurally**, not
+  string-exact (name-form differs).
 
 Open decisions:
 
@@ -123,6 +141,11 @@ for the completed KG.
   pronoun validation both need a reliable pronoun lexicon.
 - Diff-only storage: store only additions relative to the source token list instead of full marked-up
   text.
+- `05-registry` artifacts surfaced by `13-cohort/rollup.py`: a few registry entries bundle an
+  individual with a collective and are typed `class` (e.g. `Dante, noble souls of Limbo`), so they
+  flow through `11-presence` into cohort lines unchanged. Not a cohort defect — the fix belongs
+  upstream in `05-registry` (re-measure, do not hand-correct the output). See `13-cohort/README.md`
+  "Notes".
 
 ## Rules to keep
 

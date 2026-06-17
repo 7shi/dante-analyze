@@ -7,7 +7,7 @@ import sys
 
 from ._paths import (
     READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
-    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR,
+    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR,
 )
 from .labels import fold_key
 
@@ -389,6 +389,43 @@ def load_addressee(canticle, canto):
                     "basis_end": int(m.group("be")) if m.group("be") else bs,
                 })
         out[(s, e)] = spans
+    return out
+
+
+# A cohort line: "- cohort: <name>|(none) | source: code|llm|none | basis: bs[-be]". One per
+# soul-class a scene's present cast resolves to (a scene with none carries a `#` marker).
+COHORT_LINE_RE = re.compile(
+    r"^-\s*cohort:\s*(?P<cohort>.*?)\s*\|\s*source:\s*(?P<src>\w+)\s*\|\s*"
+    r"basis:\s*(?P<bs>\d+)(?:-(?P<be>\d+))?\s*$"
+)
+
+
+def load_cohort(canticle, canto):
+    """{(start, end): [cohort, …]} for a canto from 13-cohort/<canticle>/NN.txt, or exit if absent.
+
+    Each cohort is a dict {cohort, source, basis_start, basis_end}: `cohort` is the canonical
+    soul-class label (source spelling, a 05-registry `class`/`generic` node), `source` is `code`
+    (one present candidate), `llm` (chosen from several), or `none` (no present soul-class), and
+    `basis_start`/`basis_end` the supporting source line range (within the scene). A scene with no
+    present soul-class carries an empty list. Built by 13-cohort/cohort.py."""
+    path = out_path(COHORT_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: cohort not found: {path} (run 13-cohort/cohort.py first)", file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    for (s, e), body in scene_bodies(path).items():
+        cohorts = []
+        for line in body.splitlines():
+            m = COHORT_LINE_RE.match(line)
+            if m and m.group("src") != "none":
+                bs = int(m.group("bs"))
+                cohorts.append({
+                    "cohort": m.group("cohort"),
+                    "source": m.group("src"),
+                    "basis_start": bs,
+                    "basis_end": int(m.group("be")) if m.group("be") else bs,
+                })
+        out[(s, e)] = cohorts
     return out
 
 

@@ -1,0 +1,38 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+
+## Scene 1-18: The Evening Hymn
+- cohort: una de l'alme | source: llm | basis: 8-8
+- cohort: l'altre | source: llm | basis: 16-16
+
+## Scene 19-30: The Descent of the Angels
+- cohort: quell'essercito gentile | source: llm | basis: 22-24
+
+## Scene 31-36: The Crowd's Reaction
+- cohort: gente | source: llm | basis: 33-33
+
+## Scene 37-45: Sordello's Warning
+- cohort: le grandi ombre | source: llm | basis: 44-44
+
+## Scene 46-55: Meeting the Gentle Judge
+# (no soul-class present in this scene)
+
+## Scene 56-63: The Inquiry of Origins
+- cohort: le grandi ombre | source: code | basis: 62-62
+
+## Scene 64-81: The Message for Giovanna
+# (no soul-class present in this scene)
+
+## Scene 82-93: Celestial Observations
+# (no soul-class present in this scene)
+
+## Scene 94-108: The Serpent's Intrusion
+- cohort: li angeli | source: code | basis: 104-108
+
+## Scene 109-120: The Identification of Currado
+# (no soul-class present in this scene)
+
+## Scene 121-132: Praise for the Malaspina
+# (no soul-class present in this scene)
+
+## Scene 133-139: The Judge's Dismissal
+# (no soul-class present in this scene)

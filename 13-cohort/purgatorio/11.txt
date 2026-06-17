@@ -1,0 +1,49 @@
+# Canto 11 — The Prayer of the Souls and the Vanity of Earthly Glory
+
+## Scene 1-12: The Souls' Praise
+- cohort: le anime dei superbi | source: code | basis: 1-12
+
+## Scene 13-24: The Souls' Petitions
+- cohort: le anime dei superbi | source: llm | basis: 13-24
+
+## Scene 25-30: Entering the First Ring
+- cohort: quell' ombre | source: llm | basis: 26-30
+
+## Scene 31-36: Thoughts on Divine Intercession
+- cohort: i superbi | source: code | basis: 32-36
+
+## Scene 37-45: A Request for Direction
+- cohort: i superbi | source: code | basis: 37-39
+
+## Scene 46-57: Virgil's Guidance
+- cohort: i superbi | source: llm | basis: 53-53
+
+## Scene 58-72: The Confession of Omberto
+- cohort: ' morti | source: code | basis: 72-72
+
+## Scene 73-81: Recognition and Inquiry
+- cohort: i superbi | source: code | basis: 74-78
+
+## Scene 82-90: The Sin of Pride
+# (no soul-class present in this scene)
+
+## Scene 91-99: The Ephemerality of Fame
+# (no soul-class present in this scene)
+
+## Scene 100-108: The Brevity of Earthly Goods
+# (no soul-class present in this scene)
+
+## Scene 109-117: The Fading of Sienese Glory
+# (no soul-class present in this scene)
+
+## Scene 118-120: Dante's Humble Response
+# (no soul-class present in this scene)
+
+## Scene 121-126: The Identification of Salvani
+# (no soul-class present in this scene)
+
+## Scene 127-132: A Question of Salvation
+# (no soul-class present in this scene)
+
+## Scene 133-142: The Story of the Great Sacrifice
+# (no soul-class present in this scene)
