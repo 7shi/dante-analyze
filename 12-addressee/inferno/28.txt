@@ -1,0 +1,37 @@
+# Canto 28 — The Parade of Mutilated Schismatics
+
+## Scene 1-6: The Inadequacy of Language
+# (no attributed speech in this scene)
+
+## Scene 7-21: Historical Precedents of Violence
+# (no attributed speech in this scene)
+
+## Scene 22-33: The Vision of Muhammad
+- 28:30 lines 30-45 | speaker: Mäometto | addressee: Dante | source: code | basis: 30-45
+
+## Scene 34-45: The Proclamation of Schism
+# (no attributed speech in this scene)
+
+## Scene 46-51: Virgil's Explanation
+- 28:47 lines 47-51 | speaker: Virgilio | addressee: Dante | source: code | basis: 47-51
+
+## Scene 52-63: The Prophecy to the Dolciniani
+# (no attributed speech in this scene)
+
+## Scene 64-75: The Second Mutilated Soul
+# (no attributed speech in this scene)
+
+## Scene 76-90: The Maritime Prophecy
+# (no attributed speech in this scene)
+
+## Scene 91-99: The Identification of Curio
+- 28:91 lines 91-93 | speaker: Dante | addressee: Pier da Medicina | source: llm | basis: 91-91
+
+## Scene 100-111: The Encounter with the Severed Hands
+# (no attributed speech in this scene)
+
+## Scene 112-126: The Human Lantern
+- 28:123 lines 123-123 | speaker: l capo tronco | addressee: Dante | source: llm | basis: 123-123
+
+## Scene 127-142: The Confession of Bertram
+- 28:130 lines 130-142 | speaker: Bertram dal Bornio | addressee: Dante | source: llm | basis: 130-131

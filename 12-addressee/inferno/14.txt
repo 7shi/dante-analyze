@@ -1,0 +1,49 @@
+# Canto 14 — The Third Circle: The Wrathful and the Rain of Fire
+
+## Scene 1-6: Transition to the Third Circle
+# (no attributed speech in this scene)
+
+## Scene 7-15: The Desolate Landscape
+# (no attributed speech in this scene)
+
+## Scene 16-21: The Multitude of Souls
+# (no attributed speech in this scene)
+
+## Scene 22-27: The Patterns of Suffering
+# (no attributed speech in this scene)
+
+## Scene 28-39: The Rain of Fire
+# (no attributed speech in this scene)
+
+## Scene 40-48: Dante's Inquiry
+# (no attributed speech in this scene)
+
+## Scene 49-60: Capaneus's Defiance
+- 14:51 lines 51-60 | speaker: Capaneo | addressee: Dante | source: llm | basis: 51-51
+
+## Scene 61-75: Virgil's Rebuke and Warning
+- 14:68 lines 68-75 | speaker: Virgilio | addressee: Dante | source: llm | basis: 73-75
+
+## Scene 76-84: The Red Stream
+# (no attributed speech in this scene)
+
+## Scene 85-93: Virgil's Question to Dante
+- 14:85 lines 85-90 | speaker: Virgilio | addressee: Dante | source: code | basis: 85-90
+
+## Scene 94-102: The Legend of Mount Ida
+# (no attributed speech in this scene)
+
+## Scene 103-111: The Colossus of Metals
+# (no attributed speech in this scene)
+
+## Scene 112-120: The Formation of the Rivers
+# (no attributed speech in this scene)
+
+## Scene 121-129: The Geometry of Hell
+# (no attributed speech in this scene)
+
+## Scene 130-138: The Nature of the Rivers
+- 14:133 lines 133-133 | speaker: Virgilio | addressee: Dante | source: code | basis: 133-133
+
+## Scene 139-142: Leaving the Woods
+- 14:139 lines 139-142 | speaker: Virgilio | addressee: Dante | source: code | basis: 139-142

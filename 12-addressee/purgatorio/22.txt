@@ -1,0 +1,43 @@
+# Canto 22 — The Poets of Limbo and the Enchanted Tree
+
+## Scene 1-9: The Departure and Ascent
+# (no attributed speech in this scene)
+
+## Scene 10-24: Virgil’s Inquiry
+- 22:10 lines 10-24 | speaker: Virgilio | addressee: Stazio | source: code | basis: 10-24
+
+## Scene 25-36: Statius’s Defense
+- 22:27 lines 27-54 | speaker: Stazio | addressee: Virgilio | source: code | basis: 27-54
+
+## Scene 37-54: The Sin of Lukewarmness
+# (no attributed speech in this scene)
+
+## Scene 55-63: Dante’s Doubt
+# (no attributed speech in this scene)
+
+## Scene 64-81: Statius’s Tribute to Virgil
+- 22:64 lines 64-99 | speaker: Stazio | addressee: Virgilio | source: code | basis: 64-99
+
+## Scene 82-93: The Burden of Tepidity
+# (no attributed speech in this scene)
+
+## Scene 94-99: Dante’s Inquiry into Classical Poets
+# (no attributed speech in this scene)
+
+## Scene 100-114: The Inhabitants of Limbo
+- 22:100 lines 100-100 | speaker: Virgilio | addressee: (none) | source: none | basis: 100-100
+
+## Scene 115-126: Realigning the Ascent
+- 22:121 lines 121-123 | speaker: Virgilio | addressee: Dante | source: llm | basis: 121-123
+
+## Scene 127-129: Dante’s Observation
+# (no attributed speech in this scene)
+
+## Scene 130-138: The Discovery of the Tree
+# (no attributed speech in this scene)
+
+## Scene 139-141: The Voice’s Invitation
+# (no attributed speech in this scene)
+
+## Scene 142-154: The Theology of Fasting
+# (no attributed speech in this scene)

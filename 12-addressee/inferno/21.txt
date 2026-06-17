@@ -1,0 +1,74 @@
+# Canto 21 — The Encounter with the Malebranche and Malacoda
+
+## Scene 1-6: Arrival at the new, dark ditch
+# (no attributed speech in this scene)
+
+## Scene 7-18: The Venetian shipyard simile
+# (no attributed speech in this scene)
+
+## Scene 19-21: Observing the boiling pitch
+# (no attributed speech in this scene)
+
+## Scene 22-24: Virgil pulls Dante away
+# (no attributed speech in this scene)
+
+## Scene 25-33: The appearance of the demon
+# (no attributed speech in this scene)
+
+## Scene 34-36: The demon's physical ferocity
+# (no attributed speech in this scene)
+
+## Scene 37-42: The demon's declaration
+- 21:37 lines 37-42 | speaker: demonio | addressee: Malebranche | source: llm | basis: 37-37
+
+## Scene 43-46: The demon's departure
+# (no attributed speech in this scene)
+
+## Scene 47-54: Warnings from the bridge demons
+# (no attributed speech in this scene)
+
+## Scene 55-57: The cooking simile
+# (no attributed speech in this scene)
+
+## Scene 58-63: Virgil's advice to Dante
+- 21:59 lines 59-63 | speaker: Virgilio | addressee: Dante | source: code | basis: 59-63
+
+## Scene 64-66: Virgil crosses the bridge
+# (no attributed speech in this scene)
+
+## Scene 67-75: The demon attack and Virgil's challenge
+- 21:72 lines 72-75 | speaker: Virgilio | addressee: Malebranche | source: code | basis: 72-75
+
+## Scene 76-78: The selection of Malacoda
+# (no attributed speech in this scene)
+
+## Scene 79-84: Virgil's rebuttal
+- 21:81 lines 81-84 | speaker: Virgilio | addressee: Malacoda | source: llm | basis: 81-82
+
+## Scene 85-87: The demons' submission
+# (no attributed speech in this scene)
+
+## Scene 88-90: Virgil's second command to Dante
+- 21:88 lines 88-90 | speaker: Virgilio | addressee: Dante | source: llm | basis: 88-88
+
+## Scene 91-96: The travelers' encirclement
+# (no attributed speech in this scene)
+
+## Scene 97-102: The demons' taunts
+- 21:100 lines 100-100 | speaker: Malebranche | addressee: Virgilio | source: llm | basis: 100-100
+
+## Scene 103-105: Malacoda's interruption
+# (no attributed speech in this scene)
+
+## Scene 106-117: Malacoda's news
+- 21:106 lines 106-117 | speaker: Malacoda | addressee: Virgilio | source: llm | basis: 106-106
+
+## Scene 118-126: The deployment of the demons
+# (no attributed speech in this scene)
+
+## Scene 127-132: Dante's growing anxiety
+- 21:127 lines 127-127 | speaker: Dante | addressee: Virgilio | source: llm | basis: 127-127
+- 21:128 lines 128-132 | speaker: Dante | addressee: Virgilio | source: llm | basis: 130-130
+
+## Scene 133-139: Malacoda's reassurance and the demons' exit
+# (no attributed speech in this scene)

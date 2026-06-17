@@ -1,0 +1,58 @@
+# Canto 06 — The Third Circle: The Gluttons and the Prophecy of Florence
+
+## Scene 1-6: Dante's Reflection
+# (no attributed speech in this scene)
+
+## Scene 7-12: The Environment of the Third Circle
+# (no attributed speech in this scene)
+
+## Scene 13-18: The Appearance of Cerberus
+# (no attributed speech in this scene)
+
+## Scene 19-21: The Souls' Struggle
+# (no attributed speech in this scene)
+
+## Scene 22-27: Virgil's Intervention
+# (no attributed speech in this scene)
+
+## Scene 28-33: The Feeding Simile
+# (no attributed speech in this scene)
+
+## Scene 34-39: The Rising Soul
+# (no attributed speech in this scene)
+
+## Scene 40-42: The Soul's Greeting
+- 6:41 lines 41-42 | speaker: Ciacco | addressee: Dante | source: code | basis: 41-42
+
+## Scene 43-48: Dante's Reply
+- 6:43 lines 43-48 | speaker: Dante | addressee: Ciacco | source: code | basis: 43-48
+
+## Scene 49-57: Ciacco's Identification
+- 6:49 lines 49-57 | speaker: Ciacco | addressee: Dante | source: llm | basis: 49-54
+
+## Scene 58-63: The Inquiry about Florence
+- 6:58 lines 58-63 | speaker: Dante | addressee: Ciacco | source: code | basis: 58-63
+
+## Scene 64-75: The Prophecy of Discord
+# (no attributed speech in this scene)
+
+## Scene 76-84: Dante's Second Inquiry
+- 6:77 lines 77-84 | speaker: Dante | addressee: Ciacco | source: code | basis: 77-84
+
+## Scene 85-90: Ciacco's Reply
+- 6:85 lines 85-90 | speaker: Ciacco | addressee: Dante | source: code | basis: 85-90
+
+## Scene 91-93: The Soul's Descent
+# (no attributed speech in this scene)
+
+## Scene 94-99: The Prophecy of Judgment
+# (no attributed speech in this scene)
+
+## Scene 100-105: The Question of Intensity
+# (no attributed speech in this scene)
+
+## Scene 106-111: The Principle of Suffering
+# (no attributed speech in this scene)
+
+## Scene 112-115: Arrival at Pluto
+# (no attributed speech in this scene)

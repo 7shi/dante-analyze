@@ -7,7 +7,7 @@ import sys
 
 from ._paths import (
     READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
-    TOPOGRAPHY_DIR, PRESENCE_DIR,
+    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR,
 )
 from .labels import fold_key
 
@@ -345,6 +345,50 @@ def load_presence(canticle, canto):
                     "basis_end": int(m.group("be")) if m.group("be") else bs,
                 })
         out[(s, e)] = figs
+    return out
+
+
+# An addressee line: "- <quote_id> lines <s>-<e> | speaker: <name> | addressee: <name>|(none) |
+# source: code|llm|none | basis: bs[-be]". One per ATTRIBUTED 06-speech span. The `-be` is optional.
+ADDRESSEE_LINE_RE = re.compile(
+    r"^-\s+(?P<qid>\S+)\s+lines\s+(?P<s>\d+)-(?P<e>\d+)\s*\|\s*"
+    r"speaker:\s*(?P<speaker>.*?)\s*\|\s*addressee:\s*(?P<addr>.*?)\s*\|\s*"
+    r"source:\s*(?P<src>\w+)\s*\|\s*basis:\s*(?P<bs>\d+)(?:-(?P<be>\d+))?\s*$"
+)
+
+
+def load_addressee(canticle, canto):
+    """{(start, end): [span, …]} for a canto from 12-addressee/<canticle>/NN.txt, or exit if absent.
+
+    Keyed by the SCENE that contains each span's start line. Each span is a dict {quote_id, start,
+    end, speaker, addressee, source, basis_start, basis_end}: `speaker` is the canonical figure the
+    06-speech span is attributed to, `addressee` the canonical figure it is directed at (or `(none)`
+    when no other figure is present), `source` is `code` (one present candidate), `llm` (chosen from
+    several), or `none` (no candidate), and `basis_start`/`basis_end` the supporting source line
+    range. Unattributed spans carry no line. Built by 12-addressee/addressee.py."""
+    path = out_path(ADDRESSEE_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: addressee not found: {path} (run 12-addressee/addressee.py first)",
+              file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    for (s, e), body in scene_bodies(path).items():
+        spans = []
+        for line in body.splitlines():
+            m = ADDRESSEE_LINE_RE.match(line)
+            if m:
+                bs = int(m.group("bs"))
+                spans.append({
+                    "quote_id": m.group("qid"),
+                    "start": int(m.group("s")),
+                    "end": int(m.group("e")),
+                    "speaker": m.group("speaker"),
+                    "addressee": m.group("addr"),
+                    "source": m.group("src"),
+                    "basis_start": bs,
+                    "basis_end": int(m.group("be")) if m.group("be") else bs,
+                })
+        out[(s, e)] = spans
     return out
 
 

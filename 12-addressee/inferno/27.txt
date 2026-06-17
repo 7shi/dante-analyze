@@ -1,0 +1,39 @@
+# Canto 27 — The Confession of the Second Flame
+
+## Scene 1-15: The Sound of the Flame
+# (no attributed speech in this scene)
+
+## Scene 16-30: The Inquiry of the Soul
+- 27:19 lines 19-30 | speaker: l'anima | addressee: Dante | source: llm | basis: 20-21
+- 27:21 lines 21-21 | speaker: Dante | addressee: l'anima | source: llm | basis: 21-21
+
+## Scene 31-48: Dante's Political Report
+- 27:36 lines 36-57 | speaker: Dante | addressee: l'anima | source: llm | basis: 36-36
+
+## Scene 49-57: The Geography of the Region
+# (no attributed speech in this scene)
+
+## Scene 58-66: The Flame's Vow of Truth
+# (no attributed speech in this scene)
+
+## Scene 67-78: The Nature of the Deceiver
+# (no attributed speech in this scene)
+
+## Scene 79-93: The History of Deceit
+# (no attributed speech in this scene)
+
+## Scene 94-105: The Pope's Counselor
+- 27:100 lines 100-105 | speaker: Bonifacio VIII | addressee: the soul in the second flame | source: code | basis: 100-105
+
+## Scene 106-111: The Dangerous Advice
+- 27:108 lines 108-111 | speaker: Guido da Montefeltro | addressee: Bonifacio VIII | source: code | basis: 108-111
+
+## Scene 112-123: The Cherub's Intervention
+- 27:114 lines 114-120 | speaker: un d'i neri cherubini | addressee: Francesco | source: llm | basis: 114-114
+- 27:122 lines 122-123 | speaker: un d'i neri cherubini | addressee: l'anima | source: llm | basis: 122-123
+
+## Scene 124-129: The Judgment of Minos
+# (no attributed speech in this scene)
+
+## Scene 130-136: The Departure of the Flame
+# (no attributed speech in this scene)

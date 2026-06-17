@@ -1,0 +1,93 @@
+# Canto 30 — The Furies of Fraud: The Biting Shadows and the Quarrel of the Counterfeiters
+
+## Scene 1-12: The Madness of Atamante
+- 30:7 lines 7-8 | speaker: Atamante | addressee: la moglie | source: llm | basis: 7-8
+
+## Scene 13-21: The Grief of Hecuba
+# (no attributed speech in this scene)
+
+## Scene 22-27: The Two Biting Shadows
+# (no attributed speech in this scene)
+
+## Scene 28-33: Identification of Gianni Schicchi
+# (no attributed speech in this scene)
+
+## Scene 34-36: Dante's Urgency
+# (no attributed speech in this scene)
+
+## Scene 37-39: The Soul of Mirra
+# (no attributed speech in this scene)
+
+## Scene 40-45: The Soul of Buoso Donati
+# (no attributed speech in this scene)
+
+## Scene 46-48: A Shift in Vision
+# (no attributed speech in this scene)
+
+## Scene 49-57: The Man with Dropsy
+# (no attributed speech in this scene)
+
+## Scene 58-63: The Thirst of Master Adam
+- 30:58 lines 58-59 | speaker: Maestro Adamo | addressee: Dante | source: llm | basis: 58-58
+
+## Scene 64-69: The Vision of the Arno
+# (no attributed speech in this scene)
+
+## Scene 70-75: Confession of Forgery
+# (no attributed speech in this scene)
+
+## Scene 76-78: Fear of the Great Fraudsters
+# (no attributed speech in this scene)
+
+## Scene 79-81: The Imprisoned Soul
+# (no attributed speech in this scene)
+
+## Scene 82-87: The Difficulty of Movement
+# (no attributed speech in this scene)
+
+## Scene 88-90: The Motive for Counterfeiting
+# (no attributed speech in this scene)
+
+## Scene 91-93: Inquiry of the Neighbors
+# (no attributed speech in this scene)
+
+## Scene 94-99: The Accuser and the Deceiver
+- 30:94 lines 94-94 | speaker: Maestro Adam | addressee: (none) | source: none | basis: 94-94
+- 30:95 lines 95-99 | speaker: Maestro Adam | addressee: (none) | source: none | basis: 95-99
+
+## Scene 100-103: The Physical Strike
+# (no attributed speech in this scene)
+
+## Scene 104-108: Adam's Counter-strike
+- 30:106 lines 106-108 | speaker: Mastro Adamo | addressee: Sinon | source: code | basis: 106-108
+
+## Scene 109-111: The Coinage Insult
+# (no attributed speech in this scene)
+
+## Scene 112-114: The Witness Accusation
+# (no attributed speech in this scene)
+
+## Scene 115-117: The Argument of Fault
+- 30:115 lines 115-115 | speaker: Sinon | addressee: Maestro Adamo | source: code | basis: 115-115
+- 30:116 lines 116-117 | speaker: Sinon | addressee: Maestro Adamo | source: code | basis: 116-117
+
+## Scene 118-120: The Reminder of the Horse
+# (no attributed speech in this scene)
+
+## Scene 121-123: The Greek's Curse
+# (no attributed speech in this scene)
+
+## Scene 124-129: The Narcissus Insult
+- 30:124 lines 124-129 | speaker: Maestro Adamo | addressee: (none) | source: none | basis: 124-129
+
+## Scene 130-132: Virgil's Warning
+- 30:131 lines 131-132 | speaker: Virgilio | addressee: Dante | source: llm | basis: 131-132
+
+## Scene 133-135: Dante's Shame
+# (no attributed speech in this scene)
+
+## Scene 136-141: The Agony of Empathy
+# (no attributed speech in this scene)
+
+## Scene 142-148: Virgil's Moral Lesson
+- 30:143 lines 143-148 | speaker: Virgilio | addressee: Dante | source: code | basis: 143-148

@@ -1,0 +1,49 @@
+# Canto 11 — The Prayer of the Souls and the Vanity of Earthly Glory
+
+## Scene 1-12: The Souls' Praise
+# (no attributed speech in this scene)
+
+## Scene 13-24: The Souls' Petitions
+# (no attributed speech in this scene)
+
+## Scene 25-30: Entering the First Ring
+# (no attributed speech in this scene)
+
+## Scene 31-36: Thoughts on Divine Intercession
+# (no attributed speech in this scene)
+
+## Scene 37-45: A Request for Direction
+- 11:37 lines 37-45 | speaker: Virgilio | addressee: i superbi | source: llm | basis: 37-42
+
+## Scene 46-57: Virgil's Guidance
+# (no attributed speech in this scene)
+
+## Scene 58-72: The Confession of Omberto
+# (no attributed speech in this scene)
+
+## Scene 73-81: Recognition and Inquiry
+# (no attributed speech in this scene)
+
+## Scene 82-90: The Sin of Pride
+- 11:82B lines 82-117 | speaker: Oderisi | addressee: Dante | source: code | basis: 82-117
+
+## Scene 91-99: The Ephemerality of Fame
+# (no attributed speech in this scene)
+
+## Scene 100-108: The Brevity of Earthly Goods
+# (no attributed speech in this scene)
+
+## Scene 109-117: The Fading of Sienese Glory
+# (no attributed speech in this scene)
+
+## Scene 118-120: Dante's Humble Response
+- 11:118 lines 118-120 | speaker: Dante | addressee: Oderisi | source: code | basis: 118-120
+
+## Scene 121-126: The Identification of Salvani
+# (no attributed speech in this scene)
+
+## Scene 127-132: A Question of Salvation
+# (no attributed speech in this scene)
+
+## Scene 133-142: The Story of the Great Sacrifice
+- 11:134 lines 134-142 | speaker: Oderisi | addressee: Dante | source: code | basis: 134-142

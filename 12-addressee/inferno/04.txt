@@ -1,0 +1,59 @@
+# Canto 04 — The Limbo and the Great Hall of Heroes
+
+## Scene 1-6: The Awakening
+# (no attributed speech in this scene)
+
+## Scene 7-12: The Valley of Sorrow
+# (no attributed speech in this scene)
+
+## Scene 13-18: The Command to Descend
+- 4:15 lines 15-15 | speaker: Virgilio | addressee: Dante | source: code | basis: 15-15
+- 4:17 lines 17-18 | speaker: Dante | addressee: Virgilio | source: code | basis: 17-18
+
+## Scene 19-24: Entering the First Circle
+- 4:19 lines 19-22 | speaker: Virgilio | addressee: Dante | source: code | basis: 19-22
+
+## Scene 25-30: The Sighing Spirits
+# (no attributed speech in this scene)
+
+## Scene 31-42: The Nature of Limbo
+- 4:31 lines 31-42 | speaker: Virgilio | addressee: Dante | source: llm | basis: 31-32
+
+## Scene 43-50: Dante's Inquiry
+# (no attributed speech in this scene)
+
+## Scene 51-63: The Descent of the Patriarchs
+- 4:52 lines 52-63 | speaker: Virgilio | addressee: Dante | source: llm | basis: 62-62
+
+## Scene 64-66: Through the Dense Forest
+# (no attributed speech in this scene)
+
+## Scene 67-78: The Discovery of the Light
+# (no attributed speech in this scene)
+
+## Scene 79-81: The Divine Voice
+# (no attributed speech in this scene)
+
+## Scene 82-93: The Meeting of the Great Poets
+- 4:86 lines 86-93 | speaker: Virgilio | addressee: Dante | source: llm | basis: 86-86
+
+## Scene 94-102: The Assembly of Wisdom
+# (no attributed speech in this scene)
+
+## Scene 103-111: The Noble Castle
+# (no attributed speech in this scene)
+
+## Scene 112-117: The Meadow of Spirits
+# (no attributed speech in this scene)
+
+## Scene 118-129: The Hall of Heroes
+# (no attributed speech in this scene)
+
+## Scene 130-144: The School of Philosophers
+# (no attributed speech in this scene)
+
+## Scene 145-147: The Poet's Limitation
+# (no attributed speech in this scene)
+
+## Scene 148-151: Moving Toward the Light
+# (no attributed speech in this scene)

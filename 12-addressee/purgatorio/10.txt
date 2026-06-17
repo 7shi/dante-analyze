@@ -1,0 +1,61 @@
+# Canto 10 — The Marble Gallery and the Contorted Souls
+
+## Scene 1-6: Closing of the Gate
+# (no attributed speech in this scene)
+
+## Scene 7-9: The Moving Stone
+# (no attributed speech in this scene)
+
+## Scene 10-12: Virgil's Strategy
+# (no attributed speech in this scene)
+
+## Scene 13-21: Arrival on the Plain
+# (no attributed speech in this scene)
+
+## Scene 22-27: The Enclosed Ledge
+# (no attributed speech in this scene)
+
+## Scene 28-33: The Exquisite Carvings
+# (no attributed speech in this scene)
+
+## Scene 34-45: The Annunciation
+# (no attributed speech in this scene)
+
+## Scene 46-48: Virgil's Direction
+# (no attributed speech in this scene)
+
+## Scene 49-54: Shifting Perspective
+# (no attributed speech in this scene)
+
+## Scene 55-66: The Procession of the Ark
+# (no attributed speech in this scene)
+
+## Scene 67-69: The Figure of Michal
+# (no attributed speech in this scene)
+
+## Scene 70-81: The Imperial Carving
+# (no attributed speech in this scene)
+
+## Scene 82-93: The Widow's Lament
+- 10:83 lines 83-84 | speaker: la miserella | addressee: Traiano | source: llm | basis: 83-83
+- 10:85 lines 85-86 | speaker: Traiano | addressee: la miserella | source: llm | basis: 85-85
+- 10:88B lines 88-89 | speaker: Traiano | addressee: la miserella | source: llm | basis: 88-89
+- 10:91 lines 91-93 | speaker: Traiano | addressee: la miserella | source: llm | basis: 91-91
+
+## Scene 94-105: Wonder at the Artistry
+# (no attributed speech in this scene)
+
+## Scene 106-111: A Warning to the Reader
+# (no attributed speech in this scene)
+
+## Scene 112-120: The Hidden Torment
+- 10:112 lines 112-114 | speaker: Dante | addressee: Virgilio | source: llm | basis: 112-112
+
+## Scene 121-129: The Sermon to Christians
+# (no attributed speech in this scene)
+
+## Scene 130-135: The Corbel Metaphor
+# (no attributed speech in this scene)
+
+## Scene 136-139: The Weight of Pain
+- 10:139 lines 139-139 | speaker: un superbo | addressee: i superbi | source: code | basis: 139-139

@@ -1,0 +1,44 @@
+# Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
+
+## Scene 1-12: The Poet’s Prologue
+# (no attributed speech in this scene)
+
+## Scene 13-21: The Awakening Sky
+# (no attributed speech in this scene)
+
+## Scene 22-27: The Four Stars
+# (no attributed speech in this scene)
+
+## Scene 28-39: The Discovery of the Sage
+# (no attributed speech in this scene)
+
+## Scene 40-48: Virgil’s Inquiry
+# (no attributed speech in this scene)
+
+## Scene 49-51: The Guide’s Gesture
+# (no attributed speech in this scene)
+
+## Scene 52-66: The Explanation of the Mission
+# (no attributed speech in this scene)
+
+## Scene 67-84: The Plea for Passage
+# (no attributed speech in this scene)
+
+## Scene 85-99: The Guardian’s Mandate
+- 1:85 lines 85-86 | speaker: Catone | addressee: Virgilio | source: llm | basis: 85-86
+- 1:87 lines 87-108 | speaker: Catone | addressee: Virgilio | source: llm | basis: 94-94
+
+## Scene 100-108: The Isle of Reeds
+# (no attributed speech in this scene)
+
+## Scene 109-114: The Departure
+# (no attributed speech in this scene)
+
+## Scene 115-120: The Morning Trek
+# (no attributed speech in this scene)
+
+## Scene 121-129: The Light of Revelation
+# (no attributed speech in this scene)
+
+## Scene 130-136: Arrival at the Shore
+# (no attributed speech in this scene)

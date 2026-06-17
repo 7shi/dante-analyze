@@ -1,0 +1,66 @@
+# Canto 13 — The Terrace of the Envious and the Sienese Soul
+
+## Scene 1-9: The Second Terrace
+# (no attributed speech in this scene)
+
+## Scene 10-21: Virgil's Prayer to the Sun
+- 13:11 lines 11-12 | speaker: Virgilio | addressee: Dante | source: code | basis: 11-12
+- 13:16 lines 16-17 | speaker: Virgilio | addressee: Dante | source: code | basis: 16-17
+
+## Scene 22-27: The Flight of the Spirits
+# (no attributed speech in this scene)
+
+## Scene 28-33: The First Two Voices
+- 13:32 lines 32-32 | speaker: Oreste | addressee: Dante | source: llm | basis: 32-32
+
+## Scene 34-36: The Third Voice
+# (no attributed speech in this scene)
+
+## Scene 37-45: Virgil's Interpretation
+- 13:37 lines 37-45 | speaker: Virgilio | addressee: Dante | source: llm | basis: 41-44
+
+## Scene 46-48: Discovery of the Shadows
+# (no attributed speech in this scene)
+
+## Scene 49-51: The Litany of Saints
+# (no attributed speech in this scene)
+
+## Scene 52-66: The Sight of the Envious
+# (no attributed speech in this scene)
+
+## Scene 67-72: The Dim Light of the Terrace
+# (no attributed speech in this scene)
+
+## Scene 73-78: Dante's Anxiety
+# (no attributed speech in this scene)
+
+## Scene 79-84: Virgil's Movement
+# (no attributed speech in this scene)
+
+## Scene 85-93: Dante's Greeting
+- 13:86 lines 86-93 | speaker: Dante | addressee: gente sicura | source: code | basis: 86-93
+
+## Scene 94-99: The Reply
+# (no attributed speech in this scene)
+
+## Scene 100-105: The Interrogation
+- 13:103B lines 103-105 | speaker: Dante | addressee: un'ombra | source: code | basis: 103-105
+
+## Scene 106-114: The Sienese Confession
+- 13:106A lines 106-106 | speaker: Sapia | addressee: Dante | source: llm | basis: 106-106
+- 13:106B lines 106-132 | speaker: Sapia | addressee: Dante | source: llm | basis: 112-113
+
+## Scene 115-123: The Tale of the Battle
+- 13:122 lines 122-122 | speaker: Sapia | addressee: (none) | source: none | basis: 122-122
+
+## Scene 124-132: A Prayer for Penance
+# (no attributed speech in this scene)
+
+## Scene 133-138: Dante's Explanation
+- 13:133B lines 133-138 | speaker: Dante | addressee: (none) | source: none | basis: 133-138
+
+## Scene 139-144: The Living Traveler
+- 13:141 lines 141-144 | speaker: Dante | addressee: le anime degli invidiosi | source: llm | basis: 143-143
+
+## Scene 145-154: The Prophecy of Tuscany
+- 13:146 lines 146-154 | speaker: Sapia | addressee: Dante | source: code | basis: 146-154

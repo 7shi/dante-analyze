@@ -1,0 +1,71 @@
+# Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
+
+## Scene 1-12: The Fable of the Frog and the Mouse
+# (no attributed speech in this scene)
+
+## Scene 13-24: Dante's Dread of the Demons
+- 23:13 lines 13-18 | speaker: Dante | addressee: Virgilio | source: code | basis: 13-18
+- 23:21 lines 21-24 | speaker: Dante | addressee: Virgilio | source: code | basis: 21-24
+
+## Scene 25-33: Virgil's Strategic Plan
+- 23:25 lines 25-33 | speaker: Virgilio | addressee: Dante | source: code | basis: 25-33
+
+## Scene 34-51: The Rapid Descent
+# (no attributed speech in this scene)
+
+## Scene 52-57: Reaching the Fifth Bolgia
+# (no attributed speech in this scene)
+
+## Scene 58-66: The Appearance of the Hypocrites
+# (no attributed speech in this scene)
+
+## Scene 67-72: The Burden of the Cloaks
+# (no attributed speech in this scene)
+
+## Scene 73-75: Dante's Request to Virgil
+# (no attributed speech in this scene)
+
+## Scene 76-79: The Voice from Behind
+- 23:77 lines 77-79 | speaker: un che 'ntese la parola tosca | addressee: Virgilio | source: llm | basis: 77-79
+
+## Scene 80-81: Virgil's Command
+# (no attributed speech in this scene)
+
+## Scene 82-84: The Approaching Figures
+# (no attributed speech in this scene)
+
+## Scene 85-90: The Recognition of the Living
+# (no attributed speech in this scene)
+
+## Scene 91-93: The Welcome to the Hypocrites
+# (no attributed speech in this scene)
+
+## Scene 94-99: Dante's Inquiry
+- 23:94 lines 94-99 | speaker: Dante | addressee: ipocriti | source: code | basis: 94-99
+
+## Scene 100-108: The Identity of the Hypocrites
+- 23:100 lines 100-108 | speaker: Catalano | addressee: Dante | source: llm | basis: 100-100
+
+## Scene 109-113: The Sight of the Crucifix
+# (no attributed speech in this scene)
+
+## Scene 114-123: The Monk's Explanation
+# (no attributed speech in this scene)
+
+## Scene 124-126: Virgil's Reaction
+# (no attributed speech in this scene)
+
+## Scene 127-132: Virgil's Plea for an Exit
+# (no attributed speech in this scene)
+
+## Scene 133-138: The Obstacle of the Stone
+# (no attributed speech in this scene)
+
+## Scene 139-141: The Error of the Demon
+# (no attributed speech in this scene)
+
+## Scene 142-144: The Lie of the Devil
+- 23:142 lines 142-144 | speaker: Catalano | addressee: (none) | source: none | basis: 142-144
+
+## Scene 145-148: The Departure
+# (no attributed speech in this scene)

@@ -1,0 +1,51 @@
+# Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
+
+## Scene 1-6: Observation of the Flames
+# (no attributed speech in this scene)
+
+## Scene 7-12: Inquiry of the Flames
+# (no attributed speech in this scene)
+
+## Scene 13-18: The Approach of the Boat
+# (no attributed speech in this scene)
+
+## Scene 19-24: The Quarrel with Flegias
+# (no attributed speech in this scene)
+
+## Scene 25-30: Boarding the Vessel
+# (no attributed speech in this scene)
+
+## Scene 31-39: The Encounter with the Muddy Spirit
+- 8:34 lines 34-35 | speaker: Dante | addressee: Filippo Argenti | source: llm | basis: 35-35
+- 8:36 lines 36-36 | speaker: Filippo Argenti | addressee: Dante | source: llm | basis: 36-36
+- 8:37 lines 37-39 | speaker: Dante | addressee: Filippo Argenti | source: llm | basis: 38-39
+
+## Scene 40-51: The Spirit's Monologue on Pride
+# (no attributed speech in this scene)
+
+## Scene 52-57: Dante's Desire for Retribution
+# (no attributed speech in this scene)
+
+## Scene 58-64: The Torment of Filippo Argenti
+# (no attributed speech in this scene)
+
+## Scene 65-78: Arrival at the Walls of Dis
+- 8:70 lines 70-73 | speaker: Dante | addressee: Virgilio | source: code | basis: 70-73
+
+## Scene 79-93: Challenge at the Gates
+# (no attributed speech in this scene)
+
+## Scene 94-102: Dante's Terror
+- 8:97 lines 97-100 | speaker: Dante | addressee: Virgilio | source: code | basis: 97-100
+
+## Scene 103-108: Virgil's Reassurance
+- 8:104 lines 104-108 | speaker: Virgilio | addressee: Dante | source: code | basis: 104-108
+
+## Scene 109-114: Separation at the Gate
+# (no attributed speech in this scene)
+
+## Scene 115-120: Virgil's Despair
+- 8:120 lines 120-120 | speaker: Virgilio | addressee: Dante | source: code | basis: 120-120
+
+## Scene 121-130: The Secret Path Revealed
+- 8:121 lines 121-130 | speaker: Virgilio | addressee: Dante | source: code | basis: 121-130

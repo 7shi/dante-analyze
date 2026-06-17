@@ -1,0 +1,44 @@
+# Canto 26 — The Eighth Bolgia and the Tale of Ulysses
+
+## Scene 1-12: The Prologue to Florence
+# (no attributed speech in this scene)
+
+## Scene 13-24: The Ascent and Reflection
+# (no attributed speech in this scene)
+
+## Scene 25-33: The Sight of the Eighth Bolgia
+# (no attributed speech in this scene)
+
+## Scene 34-42: The Motion of the Flames
+# (no attributed speech in this scene)
+
+## Scene 43-48: Virgil's Explanation
+# (no attributed speech in this scene)
+
+## Scene 49-63: The Inquiry of the Trojan Heroes
+- 26:49B lines 49-54 | speaker: Dante | addressee: Virgilio | source: code | basis: 49-54
+
+## Scene 64-75: Dante's Request and Virgil's Warning
+- 26:65 lines 65-69 | speaker: Dante | addressee: Virgilio | source: code | basis: 65-69
+- 26:70 lines 70-75 | speaker: Virgilio | addressee: Dante | source: code | basis: 70-75
+
+## Scene 76-84: The Voice from the Flame
+- 26:79 lines 79-84 | speaker: Virgilio | addressee: Ulisse | source: llm | basis: 79-79
+
+## Scene 85-99: Ulysses's Wandering Impulse
+- 26:90 lines 90-142 | speaker: Ulisse | addressee: (none) | source: none | basis: 90-142
+
+## Scene 100-105: The Voyage Through the Mediterranean
+# (no attributed speech in this scene)
+
+## Scene 106-120: The Pillars of Hercules and the Great Exhortation
+# (no attributed speech in this scene)
+
+## Scene 121-126: The Flight of the Crew
+# (no attributed speech in this scene)
+
+## Scene 127-132: Descent into the Southern Seas
+# (no attributed speech in this scene)
+
+## Scene 133-142: The Final Storm and Shipwreck
+# (no attributed speech in this scene)

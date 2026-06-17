@@ -1,0 +1,64 @@
+# Canto 16 — The Encounter with Marco Lombardo
+
+## Scene 1-9: The Thick Fog
+# (no attributed speech in this scene)
+
+## Scene 10-15: Following the Guide
+- 16:15 lines 15-15 | speaker: Virgilio | addressee: Dante | source: code | basis: 15-15
+
+## Scene 16-21: The Voices of the Neutrals
+# (no attributed speech in this scene)
+
+## Scene 22-24: Virgil’s Interpretation
+- 16:22 lines 22-22 | speaker: Dante | addressee: Virgilio | source: llm | basis: 22-22
+
+## Scene 25-30: The Voice’s Interruption
+# (no attributed speech in this scene)
+
+## Scene 31-36: Dante’s Introduction and the Voice’s Promise
+- 16:31 lines 31-33 | speaker: Dante | addressee: Marco Lombardo | source: llm | basis: 31-31
+- 16:34 lines 34-34 | speaker: Marco Lombardo | addressee: Dante | source: llm | basis: 34-34
+
+## Scene 37-45: The Mission and Request for Identity
+- 16:37 lines 37-45 | speaker: Dante | addressee: Marco Lombardo | source: code | basis: 37-45
+
+## Scene 46-51: Marco’s Identity and Request for Prayer
+- 16:46 lines 46-49 | speaker: Marco Lombardo | addressee: Dante | source: code | basis: 46-49
+- 16:50 lines 50-51 | speaker: Marco Lombardo | addressee: Dante | source: code | basis: 50-51
+
+## Scene 52-63: Dante’s Doubt and the State of the World
+- 16:52 lines 52-63 | speaker: Dante | addressee: Marco Lombardo | source: code | basis: 52-63
+
+## Scene 64-78: The Mechanics of Free Will
+- 16:65 lines 65-129 | speaker: Marco Lombardo | addressee: Dante | source: code | basis: 65-129
+
+## Scene 79-84: Human Responsibility
+# (no attributed speech in this scene)
+
+## Scene 85-93: The Metaphor of the Soul
+# (no attributed speech in this scene)
+
+## Scene 94-105: The Failure of Law and Leadership
+# (no attributed speech in this scene)
+
+## Scene 106-114: The Conflict of the Two Suns
+# (no attributed speech in this scene)
+
+## Scene 115-120: The Decline of Lombardy
+# (no attributed speech in this scene)
+
+## Scene 121-126: The Three Old Men
+# (no attributed speech in this scene)
+
+## Scene 127-129: The Corruption of the Church
+# (no attributed speech in this scene)
+
+## Scene 130-135: Dante’s Inquiry about Gherardo
+- 16:130B lines 130-135 | speaker: Dante | addressee: Marco Lombardo | source: code | basis: 130-135
+
+## Scene 136-140: Marco’s Difficulty with the Name
+- 16:136 lines 136-136 | speaker: Marco Lombardo | addressee: Dante | source: code | basis: 136-136
+- 16:137 lines 137-144 | speaker: Marco Lombardo | addressee: Dante | source: code | basis: 137-144
+
+## Scene 141-145: The Departure of Marco
+# (no attributed speech in this scene)

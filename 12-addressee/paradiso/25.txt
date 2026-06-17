@@ -1,0 +1,52 @@
+# Canto 25 — The Vision of the Three Lights and the Revelation of Hope
+
+## Scene 1-12: Dante's Prologue
+# (no attributed speech in this scene)
+
+## Scene 13-18: The Appearance of the Second Light
+# (no attributed speech in this scene)
+
+## Scene 19-24: Simile of the Two Princes
+# (no attributed speech in this scene)
+
+## Scene 25-33: Beatrice's Invocation of Hope
+# (no attributed speech in this scene)
+
+## Scene 34-36: Beatrice's Command
+# (no attributed speech in this scene)
+
+## Scene 37-47: The Second Light's Inquiry
+# (no attributed speech in this scene)
+
+## Scene 48-63: The Nature of Hope in the Church
+- 25:52 lines 52-63 | speaker: Beatrice | addressee: Dante | source: llm | basis: 60-60
+
+## Scene 64-78: Dante's Scholarly Response
+- 25:67B lines 67-78 | speaker: Dante | addressee: Giacomo il Maggiore | source: code | basis: 67-78
+
+## Scene 79-87: The Third Light's Command
+- 25:82 lines 82-87 | speaker: Giovanni | addressee: Dante | source: code | basis: 82-87
+
+## Scene 88-96: Scriptural Identification of Hope
+- 25:88 lines 88-96 | speaker: Dante | addressee: Dante, i fedeli | source: code | basis: 88-96
+
+## Scene 97-99: The Heavenly Response
+# (no attributed speech in this scene)
+
+## Scene 100-108: The Arrival of the Third Light
+# (no attributed speech in this scene)
+
+## Scene 109-114: Beatrice's Identification
+# (no attributed speech in this scene)
+
+## Scene 115-117: Beatrice's Silent Attention
+# (no attributed speech in this scene)
+
+## Scene 118-129: The Prophecy of the Two Lights
+- 25:122 lines 122-129 | speaker: San Giovanni | addressee: Dante | source: code | basis: 122-129
+
+## Scene 130-135: The Settling of the Heavens
+# (no attributed speech in this scene)
+
+## Scene 136-139: Dante's Final Vision
+# (no attributed speech in this scene)

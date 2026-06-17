@@ -1,0 +1,56 @@
+# Canto 34 — The Center of the Earth and the Encounter with Lucifer
+
+## Scene 1-9: Approaching the Mist
+# (no attributed speech in this scene)
+
+## Scene 10-15: The Shadows in the Dark
+# (no attributed speech in this scene)
+
+## Scene 16-21: The Arrival at Dite
+# (no attributed speech in this scene)
+
+## Scene 22-27: Dante’s Internal Horror
+# (no attributed speech in this scene)
+
+## Scene 28-36: The Emergence of Lucifer
+# (no attributed speech in this scene)
+
+## Scene 37-52: The Anatomy of the Beast
+# (no attributed speech in this scene)
+
+## Scene 53-60: The Devouring of Sinners
+# (no attributed speech in this scene)
+
+## Scene 61-67: Identifying the Traitors
+# (no attributed speech in this scene)
+
+## Scene 68-75: The Descent via the Beast
+# (no attributed speech in this scene)
+
+## Scene 76-81: Reaching the Center
+# (no attributed speech in this scene)
+
+## Scene 82-87: Finding a Ledge
+# (no attributed speech in this scene)
+
+## Scene 88-93: The Sight of the Upside-Down Legs
+# (no attributed speech in this scene)
+
+## Scene 94-99: The Difficult Path
+# (no attributed speech in this scene)
+
+## Scene 100-105: Dante’s Confusion
+- 34:100 lines 100-101 | speaker: Dante | addressee: Virgilio | source: llm | basis: 101-101
+- 34:102 lines 102-105 | speaker: Dante | addressee: Virgilio | source: llm | basis: 102-102
+
+## Scene 106-117: The Center of Gravity
+- 34:106 lines 106-126 | speaker: Virgilio | addressee: Dante | source: code | basis: 106-126
+
+## Scene 118-126: The Shifting Hemisphere
+# (no attributed speech in this scene)
+
+## Scene 127-132: The Sound of the Stream
+# (no attributed speech in this scene)
+
+## Scene 133-139: The Return to the Stars
+# (no attributed speech in this scene)

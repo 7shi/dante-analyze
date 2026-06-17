@@ -1,0 +1,83 @@
+# Canto 19 — The Siren's Song and the Vision of the Avaricious
+
+## Scene 1-6: The Astronomical Prologue
+# (no attributed speech in this scene)
+
+## Scene 7-9: The Monstrous Vision
+# (no attributed speech in this scene)
+
+## Scene 10-15: The Siren's Transformation
+# (no attributed speech in this scene)
+
+## Scene 16-24: The Song of the Siren
+- 19:19A lines 19-19 | speaker: Sirena | addressee: Dante | source: code | basis: 19-19
+- 19:19B lines 19-24 | speaker: Sirena | addressee: Dante | source: code | basis: 19-24
+
+## Scene 25-27: The Holy Intervention
+# (no attributed speech in this scene)
+
+## Scene 28-33: The Siren's Revelations
+# (no attributed speech in this scene)
+
+## Scene 34-36: Virgil's Command
+- 19:34 lines 34-35 | speaker: Virgilio | addressee: Dante | source: code | basis: 34-35
+
+## Scene 37-39: The Ascent Begins
+# (no attributed speech in this scene)
+
+## Scene 40-45: The Sweet Voice
+# (no attributed speech in this scene)
+
+## Scene 46-51: The Appearance of the Angels
+# (no attributed speech in this scene)
+
+## Scene 52-54: Virgil's Inquiry
+# (no attributed speech in this scene)
+
+## Scene 55-57: Dante's Disturbance
+- 19:55 lines 55-57 | speaker: Dante | addressee: (none) | source: none | basis: 55-57
+
+## Scene 58-63: The Vision of the Wheel
+# (no attributed speech in this scene)
+
+## Scene 64-69: The Falcon's Flight
+# (no attributed speech in this scene)
+
+## Scene 70-72: The Wailing Souls
+# (no attributed speech in this scene)
+
+## Scene 73-75: The Audible Grief
+# (no attributed speech in this scene)
+
+## Scene 76-78: The Prayer for Ascent
+# (no attributed speech in this scene)
+
+## Scene 79-81: Virgil's Instruction
+# (no attributed speech in this scene)
+
+## Scene 82-87: The Silent Agreement
+# (no attributed speech in this scene)
+
+## Scene 88-96: The Approach to the Bishop
+- 19:91 lines 91-96 | speaker: Dante | addressee: Spirto | source: llm | basis: 91-91
+
+## Scene 97-105: The Bishop's Identity
+- 19:97 lines 97-126 | speaker: Vescovo di Savona | addressee: Dante | source: code | basis: 97-126
+
+## Scene 106-114: The Sin of Avarice
+# (no attributed speech in this scene)
+
+## Scene 115-126: The Nature of the Punishment
+# (no attributed speech in this scene)
+
+## Scene 127-130: Dante's Conscience
+# (no attributed speech in this scene)
+
+## Scene 131-132: The Scruple of Guilt
+- 19:131 lines 131-132 | speaker: Dante | addressee: Vescovo di Savona | source: code | basis: 131-132
+
+## Scene 133-138: The Dismissal
+- 19:134 lines 134-145 | speaker: Vescovo di Savona | addressee: Dante | source: code | basis: 134-145
+
+## Scene 139-145: The Final Postscript
+# (no attributed speech in this scene)

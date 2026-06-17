@@ -1,0 +1,46 @@
+# Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
+
+## Scene 1-12: The Appearance of the Wounded Souls
+# (no attributed speech in this scene)
+
+## Scene 13-18: Virgil's Instruction
+- 16:15 lines 15-18 | speaker: Virgilio | addressee: Dante | source: llm | basis: 18-18
+
+## Scene 19-27: The Rotation of the Three
+# (no attributed speech in this scene)
+
+## Scene 28-45: The Identification of the Souls
+- 16:30 lines 30-45 | speaker: Iacopo Rusticucci | addressee: Dante | source: llm | basis: 31-33
+
+## Scene 46-51: Dante's Hesitation
+# (no attributed speech in this scene)
+
+## Scene 52-63: Dante's Response
+- 16:52 lines 52-63 | speaker: Dante | addressee: Guido Guerra | source: llm | basis: 52-63
+
+## Scene 64-72: The Souls' Inquiry
+# (no attributed speech in this scene)
+
+## Scene 73-75: Dante's Political Rebuke
+# (no attributed speech in this scene)
+
+## Scene 76-85: The Request for Remembrance
+- 16:84 lines 84-84 | speaker: Dante | addressee: one of the three Florentine souls | source: llm | basis: 84-84
+
+## Scene 86-90: The Departure of the Souls
+# (no attributed speech in this scene)
+
+## Scene 91-105: The Sound of the Water
+# (no attributed speech in this scene)
+
+## Scene 106-114: The Use of the Rope
+# (no attributed speech in this scene)
+
+## Scene 115-120: Dante's Reflection on Prudence
+# (no attributed speech in this scene)
+
+## Scene 121-126: Virgil's Warning
+- 16:121 lines 121-123 | speaker: Virgilio | addressee: Dante | source: code | basis: 121-123
+
+## Scene 127-136: The Approaching Figure
+# (no attributed speech in this scene)

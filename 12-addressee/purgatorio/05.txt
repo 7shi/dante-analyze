@@ -1,0 +1,59 @@
+# Canto 05 — The Interruption of the Souls and the Three Testimonies
+
+## Scene 1-6: The Sudden Cry
+# (no attributed speech in this scene)
+
+## Scene 7-9: Dante's Distraction
+# (no attributed speech in this scene)
+
+## Scene 10-18: Virgil's Admonishment
+- 5:11 lines 11-18 | speaker: Virgilio | addressee: Dante | source: llm | basis: 11-13
+
+## Scene 19-21: Dante's Compliance
+- 5:19 lines 19-19 | speaker: Dante | addressee: Virgilio | source: code | basis: 19-19
+
+## Scene 22-27: The Approaching Procession
+# (no attributed speech in this scene)
+
+## Scene 28-30: The Messengers Arrive
+# (no attributed speech in this scene)
+
+## Scene 31-36: Virgil's Verification
+- 5:31 lines 31-36 | speaker: Virgilio | addressee: anime | source: llm | basis: 31-31
+
+## Scene 37-42: The Swarming Souls
+# (no attributed speech in this scene)
+
+## Scene 43-45: The Poet's Warning
+# (no attributed speech in this scene)
+
+## Scene 46-57: The Collective Plea
+# (no attributed speech in this scene)
+
+## Scene 58-63: Dante's Vow
+- 5:58 lines 58-63 | speaker: Dante | addressee: spiriti ben nati | source: code | basis: 58-63
+
+## Scene 64-72: The First Soul's Request
+# (no attributed speech in this scene)
+
+## Scene 73-84: The Death in the Marsh
+# (no attributed speech in this scene)
+
+## Scene 85-90: The Second Soul's Appearance
+- 5:85 lines 85-90 | speaker: Bonconte | addressee: Dante | source: llm | basis: 86-86
+
+## Scene 91-93: Dante's Inquiry
+# (no attributed speech in this scene)
+
+## Scene 94-108: The Battle of Angels
+- 5:94B lines 94-129 | speaker: Bonconte di Montefeltro | addressee: Dante | source: code | basis: 94-129
+- 5:105 lines 105-108 | speaker: demonio | addressee: Bonconte di Montefeltro | source: llm | basis: 105-108
+
+## Scene 109-114: The Formation of Mist
+# (no attributed speech in this scene)
+
+## Scene 115-129: The River's Embrace
+# (no attributed speech in this scene)
+
+## Scene 130-136: The Plea of La Pia
+- 5:133 lines 133-136 | speaker: la Pia | addressee: Dante | source: llm | basis: 133-133

@@ -1,0 +1,55 @@
+# Canto 07 — The Encounter with Sordello and the Vision of the Limbo Valley
+
+## Scene 1-9: Virgil's Identification
+- 7:4 lines 4-8 | speaker: Virgilio | addressee: Sordello | source: code | basis: 4-8
+
+## Scene 10-21: Sordello's Inquiry
+- 7:16B lines 16-21 | speaker: Sordello | addressee: Virgilio | source: code | basis: 16-21
+
+## Scene 22-39: Virgil's Description of Limbo
+- 7:23 lines 23-39 | speaker: Virgilio | addressee: Dante | source: code | basis: 23-39
+
+## Scene 40-48: The Difficulty of the Ascent
+- 7:40 lines 40-48 | speaker: Sordello | addressee: Virgilio | source: code | basis: 40-48
+
+## Scene 49-60: Sordello's Warning on Night Travel
+# (no attributed speech in this scene)
+
+## Scene 61-63: Agreement to Proceed
+# (no attributed speech in this scene)
+
+## Scene 64-78: The Splendor of the Valley
+# (no attributed speech in this scene)
+
+## Scene 79-84: The Singing Souls
+# (no attributed speech in this scene)
+
+## Scene 85-96: The Lament of Emperor Rudolf
+- 7:87 lines 87-136 | speaker: Sordello | addressee: Dante | source: llm | basis: 87-89
+
+## Scene 97-102: The Story of Ottacchero
+# (no attributed speech in this scene)
+
+## Scene 103-106: The Death of the Young Man
+# (no attributed speech in this scene)
+
+## Scene 107-111: The French Ancestors
+# (no attributed speech in this scene)
+
+## Scene 112-120: The Virtuous Kings
+# (no attributed speech in this scene)
+
+## Scene 121-123: A Reflection on Virtue
+# (no attributed speech in this scene)
+
+## Scene 124-126: The Mention of Pier
+# (no attributed speech in this scene)
+
+## Scene 127-129: The Legacy of Constance
+# (no attributed speech in this scene)
+
+## Scene 130-132: Henry of England
+# (no attributed speech in this scene)
+
+## Scene 133-136: The Sorrow of Guillaume
+# (no attributed speech in this scene)

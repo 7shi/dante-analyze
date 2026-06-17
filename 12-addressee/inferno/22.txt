@@ -1,0 +1,73 @@
+# Canto 22 — The Chaos and Combat of the Malebranche
+
+## Scene 1-12: The Knightly Vision
+# (no attributed speech in this scene)
+
+## Scene 13-18: Dante’s Observation
+# (no attributed speech in this scene)
+
+## Scene 19-30: Sinners Hiding Like Frogs
+# (no attributed speech in this scene)
+
+## Scene 31-36: Graffiacan’s Agitation
+# (no attributed speech in this scene)
+
+## Scene 37-39: Dante’s Meta-Commentary
+# (no attributed speech in this scene)
+
+## Scene 40-45: The Demand for Hooks
+# (no attributed speech in this scene)
+
+## Scene 46-54: The Navarrese’s Origin
+- 22:48 lines 48-54 | speaker: il Navarrese | addressee: Virgilio | source: code | basis: 48-54
+
+## Scene 55-57: Cirïatto’s Snorting
+# (no attributed speech in this scene)
+
+## Scene 58-63: Barbariccia’s Command
+- 22:60 lines 60-60 | speaker: Barbariccia | addressee: Malebranche | source: llm | basis: 60-60
+
+## Scene 64-69: Searching for Italians
+- 22:66 lines 66-69 | speaker: il Navarrese | addressee: Virgilio | source: code | basis: 66-69
+
+## Scene 70-75: The Chaos of the Hooks
+# (no attributed speech in this scene)
+
+## Scene 76-80: Virgil’s Inquiry
+# (no attributed speech in this scene)
+
+## Scene 81-90: The Denunciation of Gomita
+- 22:81 lines 81-93 | speaker: il Navarrese | addressee: (none) | source: none | basis: 81-93
+
+## Scene 91-93: The Threatening Gaze
+# (no attributed speech in this scene)
+
+## Scene 94-96: Addressing Farfarello
+# (no attributed speech in this scene)
+
+## Scene 97-105: The Prisoner’s Bargain
+- 22:99 lines 99-105 | speaker: lo spaürato | addressee: Dante | source: llm | basis: 99-99
+
+## Scene 106-111: Cagnazzo’s Rebuttal
+- 22:110 lines 110-111 | speaker: il Navarrese | addressee: Cagnazzo | source: llm | basis: 110-110
+
+## Scene 112-117: Alichin’s Challenge
+- 22:113 lines 113-117 | speaker: Alichin | addressee: il Navarrese | source: llm | basis: 113-113
+
+## Scene 118-120: The Moment of Tension
+# (no attributed speech in this scene)
+
+## Scene 121-126: The Sudden Leap
+# (no attributed speech in this scene)
+
+## Scene 127-132: The Struggle in the Pitch
+# (no attributed speech in this scene)
+
+## Scene 133-138: Calcabrina’s Entanglement
+# (no attributed speech in this scene)
+
+## Scene 139-144: Trapped in the Boiling Bog
+# (no attributed speech in this scene)
+
+## Scene 145-151: The Retreat of the Demons
+# (no attributed speech in this scene)

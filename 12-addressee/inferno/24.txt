@@ -1,0 +1,43 @@
+# Canto 24 — The Descent into the Second Bolgia and the Prophecy of Vanni Fucci
+
+## Scene 1-15: The Peasant’s Morning
+# (no attributed speech in this scene)
+
+## Scene 16-24: Virgil’s Physical Aid
+# (no attributed speech in this scene)
+
+## Scene 25-30: Virgil’s Climbing Method
+# (no attributed speech in this scene)
+
+## Scene 31-45: The Difficult Descent
+# (no attributed speech in this scene)
+
+## Scene 46-60: Virgil’s Exhortation
+- 24:47 lines 47-57 | speaker: Virgilio | addressee: Dante | source: code | basis: 47-57
+- 24:60 lines 60-60 | speaker: Dante | addressee: Virgilio | source: code | basis: 60-60
+
+## Scene 61-78: The Angry Voice
+- 24:72 lines 72-75 | speaker: Dante | addressee: Virgilio | source: code | basis: 72-75
+- 24:76B lines 76-78 | speaker: Virgilio | addressee: Dante | source: code | basis: 76-78
+
+## Scene 79-81: Entering the Bolgia
+# (no attributed speech in this scene)
+
+## Scene 82-96: The Pit of Serpents
+# (no attributed speech in this scene)
+
+## Scene 97-111: The Phoenix Metaphor
+# (no attributed speech in this scene)
+
+## Scene 112-118: The Sinner’s Anguish
+# (no attributed speech in this scene)
+
+## Scene 119-126: Vanni Fucci’s Identity
+- 24:122 lines 122-126 | speaker: Vanni Fucci | addressee: Virgilio | source: code | basis: 122-126
+
+## Scene 127-139: The Confession of Theft
+- 24:127 lines 127-129 | speaker: Dante | addressee: Virgilio | source: llm | basis: 127-127
+- 24:133 lines 133-151 | speaker: Vanni Fucci | addressee: Dante | source: llm | basis: 133-134
+
+## Scene 140-151: The Prophecy of War
+# (no attributed speech in this scene)

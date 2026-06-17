@@ -1,0 +1,53 @@
+# Canto 13 — The Second Circle and the Wood of Suicides
+
+## Scene 1-15: The Gloomy Woods
+# (no attributed speech in this scene)
+
+## Scene 16-21: Virgil's Warning
+# (no attributed speech in this scene)
+
+## Scene 22-30: The Mysterious Voices
+# (no attributed speech in this scene)
+
+## Scene 31-39: The Broken Branch
+- 13:33 lines 33-33 | speaker: un gran pruno | addressee: Dante | source: code | basis: 33-33
+- 13:35 lines 35-39 | speaker: un gran pruno | addressee: Dante | source: code | basis: 35-39
+
+## Scene 40-45: The Splintering Tree
+# (no attributed speech in this scene)
+
+## Scene 46-54: Virgil's Inquiry
+- 13:47 lines 47-54 | speaker: Virgilio | addressee: anima lesa | source: llm | basis: 47-47
+
+## Scene 55-63: The Keeper of Secrets
+# (no attributed speech in this scene)
+
+## Scene 64-72: The Sin of Betrayal
+# (no attributed speech in this scene)
+
+## Scene 73-78: A Vow of Loyalty
+# (no attributed speech in this scene)
+
+## Scene 79-84: The Poet's Encouragement
+- 13:82 lines 82-84 | speaker: Dante | addressee: Virgilio | source: llm | basis: 82-82
+
+## Scene 85-90: The Request for Knowledge
+# (no attributed speech in this scene)
+
+## Scene 91-108: The Fate of the Suicides
+# (no attributed speech in this scene)
+
+## Scene 109-114: The Sound of the Hunt
+# (no attributed speech in this scene)
+
+## Scene 115-123: The Fleeing Souls
+# (no attributed speech in this scene)
+
+## Scene 124-129: The Attack of the Hounds
+# (no attributed speech in this scene)
+
+## Scene 130-135: The Wounded Bush
+- 13:133B lines 133-135 | speaker: Lano | addressee: Virgilio | source: code | basis: 133-135
+
+## Scene 136-151: The History of Florence
+- 13:139 lines 139-151 | speaker: Pier della Vigna | addressee: Virgilio | source: llm | basis: 139-139

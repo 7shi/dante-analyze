@@ -1,0 +1,37 @@
+# Canto 20 — The Vision of the Distorted Souls and the Legend of Mantua
+
+## Scene 1-3: Metapoetic Prologue
+# (no attributed speech in this scene)
+
+## Scene 4-18: The Procession of the Distorted
+# (no attributed speech in this scene)
+
+## Scene 19-24: Dante's Grief
+# (no attributed speech in this scene)
+
+## Scene 25-36: Virgil's Rebuke
+- 20:27 lines 27-99 | speaker: Virgilio | addressee: Dante | source: code | basis: 27-99
+
+## Scene 37-45: Examples of Transformation
+# (no attributed speech in this scene)
+
+## Scene 46-60: The Legend of Manto
+# (no attributed speech in this scene)
+
+## Scene 61-78: Geography of Lake Garda
+# (no attributed speech in this scene)
+
+## Scene 79-87: Formation of the Marshland
+# (no attributed speech in this scene)
+
+## Scene 88-99: The Foundation of Mantua
+# (no attributed speech in this scene)
+
+## Scene 100-105: Dante's Inquiry
+- 20:100 lines 100-105 | speaker: Dante | addressee: Virgilio | source: llm | basis: 100-100
+
+## Scene 106-123: Virgil's Catalog of Souls
+# (no attributed speech in this scene)
+
+## Scene 124-130: Closing Exhortation
+# (no attributed speech in this scene)

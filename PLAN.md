@@ -16,10 +16,11 @@ The committed pipeline covers all three canticles, 100 cantos:
    per-canticle knowledge graph.
 
 There is no unfinished mandatory step in this repo. The translation context lock (direction 1
-below) is underway: its first three passes — **`09-location`** (per-scene local setting),
-**`10-topography`** (the place analogue of `05-registry`), and **`11-presence`** (present cast versus
-merely-mentioned referents, the person analogue) — are committed and fully built across all 100
-cantos; see their READMEs. The next pass to design is `12-addressee`.
+below) is underway: its first four passes — **`09-location`** (per-scene local setting),
+**`10-topography`** (the place analogue of `05-registry`), **`11-presence`** (present cast versus
+merely-mentioned referents, the person analogue), and **`12-addressee`** (who each speech span is
+directed at) — are committed and fully built across all 100 cantos; see their READMEs. The next pass
+to design is `13-cohort`.
 
 ## Next directions
 
@@ -51,7 +52,8 @@ contaminate each other:
 - **code join (no LLM)** from KG / `04-tags` / `05-registry`: `speaker` (speech edges), referent
   resolution (who/what → canonical), `relations` (edges), `simile` (frame=simile edges);
 - **single text-derived LLM judgments**, each its own pass: presence (cast versus merely
-  mentioned) — committed as `11-presence` (see its README); addressee — `12-addressee`;
+  mentioned) — committed as `11-presence`; addressee (who each speech span is directed at) —
+  committed as `12-addressee` (see their READMEs);
 - **setting**: location and its consolidation into canonical regions — committed as `09-location`
   and `10-topography` (see their READMEs). Cohort (which class of souls inhabits a region) is a
   distinct judgment kept as its own later step.
@@ -60,13 +62,15 @@ Distinctions the lock must preserve:
 
 - **present cast** versus **merely-mentioned referents**.
 
-With `09-location`, `10-topography`, and `11-presence` committed (see their READMEs), the remaining
-passes (continuing the `NN-name` ladder) are:
+With `09-location`, `10-topography`, `11-presence`, and `12-addressee` committed (see their READMEs),
+the remaining passes (continuing the `NN-name` ladder) are:
 
-- `12-addressee` (LLM + code) — addressee per speech span: code for two-person scenes, LLM only
-  when ambiguous;
 - `13-cohort` (code + narrow judgment) — which class of souls inhabits each region; co-varies with
-  topography's regions and depends on presence (`11`), so it comes after both;
+  topography's regions and depends on presence (`11`), so it comes after both. For reference, the
+  established method to draw on (the detailed design is left to that pass) is the code-first,
+  closed-set, LLM-residual pattern `11-presence` / `12-addressee` settled: code assembles a closed
+  candidate set already resolved upstream and decides every unambiguous case, the LLM is the oracle
+  on the residual only, and the reply is checked back against the closed set;
 - `14-lock` (pure code) — join all of the above plus the KG into the per-canto lock, with a
   structural check, exactly as `08-kg` joins.
 

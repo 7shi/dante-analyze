@@ -1,0 +1,46 @@
+# Canto 06 — The Encounter with Sordello and the Lament for Italy
+
+## Scene 1-9: The Dice Simile
+# (no attributed speech in this scene)
+
+## Scene 10-24: The Catalog of the Crowd
+# (no attributed speech in this scene)
+
+## Scene 25-33: Dante's Inquiry
+- 6:28 lines 28-33 | speaker: Dante | addressee: Virgilio | source: code | basis: 28-33
+
+## Scene 34-48: Virgil's Theological Answer
+- 6:34 lines 34-48 | speaker: Virgilio | addressee: Dante | source: code | basis: 34-48
+
+## Scene 49-51: Dante's Urgency
+- 6:49 lines 49-51 | speaker: Dante | addressee: Virgilio | source: code | basis: 49-51
+
+## Scene 52-60: The Approaching Shadow
+# (no attributed speech in this scene)
+
+## Scene 61-66: The Silent Lombard
+# (no attributed speech in this scene)
+
+## Scene 67-75: The Reunion of Virgil and Sordello
+- 6:74 lines 74-75 | speaker: Sordello | addressee: Virgilio | source: llm | basis: 74-75
+
+## Scene 76-84: The Lament for Italy
+# (no attributed speech in this scene)
+
+## Scene 85-96: The Failure of Law
+# (no attributed speech in this scene)
+
+## Scene 97-105: The Condemnation of Albert
+# (no attributed speech in this scene)
+
+## Scene 106-117: The Chaos of Cities
+- 6:114 lines 114-114 | speaker: la tua Roma | addressee: (none) | source: none | basis: 114-114
+
+## Scene 118-126: An Appeal to Divine Justice
+# (no attributed speech in this scene)
+
+## Scene 127-138: The Unrest of Florence
+- 6:135 lines 135-135 | speaker: popol tuo | addressee: Dante | source: code | basis: 135-135
+
+## Scene 139-151: The Instability of Custom
+# (no attributed speech in this scene)

@@ -1,0 +1,39 @@
+# Canto 07 — The Fourth Circle and the Marsh of the Styx
+
+## Scene 1-12: Pluto's Outburst and Virgil's Rebuke
+# (no attributed speech in this scene)
+
+## Scene 13-18: Descent into the Fourth Circle
+# (no attributed speech in this scene)
+
+## Scene 19-24: The Chaos of the Swirling Souls
+# (no attributed speech in this scene)
+
+## Scene 25-35: The Mechanics of the Punishment
+# (no attributed speech in this scene)
+
+## Scene 36-48: Identification of the Avaricious
+- 7:37 lines 37-39 | speaker: Dante | addressee: Virgilio | source: llm | basis: 37-37
+
+## Scene 49-66: The Futility of Wealth
+- 7:49 lines 49-51 | speaker: Dante | addressee: Virgilio | source: code | basis: 49-51
+- 7:52 lines 52-66 | speaker: Virgilio | addressee: Dante | source: code | basis: 52-66
+
+## Scene 67-84: The Doctrine of Fortune
+- 7:67B lines 67-69 | speaker: Dante | addressee: Virgilio | source: code | basis: 67-69
+- 7:70 lines 70-99 | speaker: Virgilio | addressee: Dante | source: code | basis: 70-99
+
+## Scene 85-96: The Unchanging Divine Order
+# (no attributed speech in this scene)
+
+## Scene 97-105: Transition to the Styx
+# (no attributed speech in this scene)
+
+## Scene 106-114: The Sight of the Wrathful and Sullen
+# (no attributed speech in this scene)
+
+## Scene 115-126: The Lament of the Sullen
+- 7:115 lines 115-126 | speaker: Virgilio | addressee: Dante | source: llm | basis: 115-115
+
+## Scene 127-130: Arrival at the Tower
+# (no attributed speech in this scene)

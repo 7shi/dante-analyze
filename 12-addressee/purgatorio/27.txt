@@ -1,0 +1,61 @@
+# Canto 27 — The Entrance into the Fire and the Ascent to the Earthly Paradise
+
+## Scene 1-6: The Solar Metaphor
+# (no attributed speech in this scene)
+
+## Scene 7-13: The Angel's Command
+# (no attributed speech in this scene)
+
+## Scene 14-18: Dante's Terror
+# (no attributed speech in this scene)
+
+## Scene 19-32: Virgil's Reassurance
+- 27:20 lines 20-32 | speaker: Virgilio | addressee: Dante | source: llm | basis: 20-20
+
+## Scene 33-36: The Wall of Separation
+# (no attributed speech in this scene)
+
+## Scene 37-42: Dante's Conversion
+# (no attributed speech in this scene)
+
+## Scene 43-48: Entering the Fire
+- 27:43 lines 43-44 | speaker: Virgilio | addressee: Dante | source: llm | basis: 43-44
+
+## Scene 49-54: The Intensity of the Flame
+# (no attributed speech in this scene)
+
+## Scene 55-63: The Heavenly Voice
+# (no attributed speech in this scene)
+
+## Scene 64-69: The Upward Climb
+# (no attributed speech in this scene)
+
+## Scene 70-75: The Evening Rest
+# (no attributed speech in this scene)
+
+## Scene 76-87: The Simile of the Shepherds
+# (no attributed speech in this scene)
+
+## Scene 88-93: The Arrival of Sleep
+# (no attributed speech in this scene)
+
+## Scene 94-108: The Dream of Lia
+- 27:100 lines 100-108 | speaker: Lia | addressee: Dante | source: code | basis: 100-108
+
+## Scene 109-114: The Dawn of Awakening
+# (no attributed speech in this scene)
+
+## Scene 115-120: Virgil's Comforting Words
+# (no attributed speech in this scene)
+
+## Scene 121-123: The Impulse to Ascend
+# (no attributed speech in this scene)
+
+## Scene 124-132: The Limit of Virgil's Guidance
+- 27:127 lines 127-142 | speaker: Virgilio | addressee: Dante | source: llm | basis: 128-128
+
+## Scene 133-138: The Beauty of the Paradise
+# (no attributed speech in this scene)
+
+## Scene 139-142: The Granting of Free Will
+# (no attributed speech in this scene)

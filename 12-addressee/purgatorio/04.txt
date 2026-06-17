@@ -1,0 +1,61 @@
+# Canto 04 — The Ascent of the Mountain and the Encounter with Belacqua
+
+## Scene 1-12: Philosophical Prologue
+# (no attributed speech in this scene)
+
+## Scene 13-18: The Voice in the Dark
+# (no attributed speech in this scene)
+
+## Scene 19-24: The Simile of the Vineyard
+# (no attributed speech in this scene)
+
+## Scene 25-30: The Flight of Desire
+# (no attributed speech in this scene)
+
+## Scene 31-35: The Difficult Climb
+# (no attributed speech in this scene)
+
+## Scene 36-39: Virgil's Command
+- 4:37 lines 37-39 | speaker: Virgilio | addressee: Dante | source: code | basis: 37-39
+
+## Scene 40-48: The Exhausted Climber
+- 4:44 lines 44-45 | speaker: Dante | addressee: Virgilio | source: code | basis: 44-45
+
+## Scene 49-54: The Rest on the Summit
+# (no attributed speech in this scene)
+
+## Scene 55-60: Observing the Sun
+# (no attributed speech in this scene)
+
+## Scene 61-75: The Astronomical Lecture
+# (no attributed speech in this scene)
+
+## Scene 76-84: Dante's Astronomical Observation
+- 4:76B lines 76-87 | speaker: Dante | addressee: Virgilio | source: code | basis: 76-87
+
+## Scene 85-87: A Request for Guidance
+# (no attributed speech in this scene)
+
+## Scene 88-96: The Nature of the Mountain
+- 4:88 lines 88-96 | speaker: Virgilio | addressee: Dante | source: code | basis: 88-96
+
+## Scene 97-102: A Voice from the Shadows
+# (no attributed speech in this scene)
+
+## Scene 103-108: The Slumbering Figure
+# (no attributed speech in this scene)
+
+## Scene 109-114: The Recognition of Belacqua
+# (no attributed speech in this scene)
+
+## Scene 115-122: The Encounter with Belacqua
+# (no attributed speech in this scene)
+
+## Scene 123-126: Questioning the Sloth
+- 4:123 lines 123-126 | speaker: Dante | addressee: Belacqua | source: code | basis: 123-126
+
+## Scene 127-135: Belacqua's Excuse
+- 4:127 lines 127-135 | speaker: Belacqua | addressee: Dante | source: code | basis: 127-135
+
+## Scene 136-139: Resuming the Journey
+# (no attributed speech in this scene)

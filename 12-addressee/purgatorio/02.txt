@@ -1,0 +1,45 @@
+# Canto 02 — The Arrival of the Celestial Messenger and the Encounter with Casella
+
+## Scene 1-12: Setting the Scene at Dawn
+# (no attributed speech in this scene)
+
+## Scene 13-18: A Sudden Light Appears
+# (no attributed speech in this scene)
+
+## Scene 19-36: Description of the Angelic Wings
+# (no attributed speech in this scene)
+
+## Scene 37-45: The Vessel Approaches
+# (no attributed speech in this scene)
+
+## Scene 46-51: The Sacred Song and Signal
+# (no attributed speech in this scene)
+
+## Scene 52-60: The Souls Seek Guidance
+# (no attributed speech in this scene)
+
+## Scene 61-66: Virgil's Response
+# (no attributed speech in this scene)
+
+## Scene 67-75: The Souls' Reaction to Dante
+# (no attributed speech in this scene)
+
+## Scene 76-84: The Physical Embrace
+# (no attributed speech in this scene)
+
+## Scene 85-90: Recognition of Casella
+- 2:88 lines 88-90 | speaker: Casella | addressee: Dante | source: code | basis: 88-90
+
+## Scene 91-105: Dialogue with Casella
+- 2:91 lines 91-92 | speaker: Dante | addressee: Casella | source: code | basis: 91-92
+- 2:94 lines 94-105 | speaker: Casella | addressee: Dante | source: code | basis: 94-105
+
+## Scene 106-114: The Sweetness of the Song
+- 2:106 lines 106-111 | speaker: Dante | addressee: Casella | source: code | basis: 106-111
+- 2:112 lines 112-112 | speaker: Casella | addressee: Dante | source: code | basis: 112-112
+
+## Scene 115-123: The Pilot's Interruption
+# (no attributed speech in this scene)
+
+## Scene 124-133: The Dispersal of the Souls
+# (no attributed speech in this scene)

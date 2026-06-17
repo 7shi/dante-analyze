@@ -31,6 +31,7 @@ measured against — not a shortcut poured in.
 - `09-location/` — per-scene current setting (committed)
 - `10-topography/` — canonical regions per canticle (committed)
 - `11-presence/` — present cast versus merely-mentioned referents per scene (committed)
+- `12-addressee/` — addressee per speech span: who each speaker is talking to (committed)
 - `ref/` — reference material
 
 ## Usage
@@ -114,9 +115,10 @@ The speaker/edge data is intended to feed the translation context lock (`dante-d
 ## Context lock
 
 The KG is action-only (who-does-what); it carries no **setting**, nor who is bodily present versus
-merely named. A context-lock layer supplies those missing layers, built bottom-up from the text (no
-external geography or canon). Three passes are committed for all three canticles (100 cantos);
-per-pass design and measured results are in each subdir's `README.md`:
+merely named, nor who each speech span is addressed to. A context-lock layer supplies those missing
+layers, built bottom-up from the text (no external geography or canon). Four passes are committed for
+all three canticles (100 cantos); per-pass design and measured results are in each subdir's
+`README.md`:
 
 1. **Location** (`09-location/`, LLM) — each scene's current physical setting in the source's own
    place-words, current-setting-only (a merely named, recalled, or compared place is excluded), with
@@ -128,9 +130,13 @@ per-pass design and measured results are in each subdir's `README.md`:
    (`04-tags` → `05-registry`); the LLM only labels each figure **present** (bodily on stage) or
    **mentioned** (named but absent), with a source-line basis. The person analogue of the
    location/topography split. → `11-presence/README.md`
+4. **Addressee** (`12-addressee/`, code + LLM) — for each attributed `06-speech` span, code makes the
+   candidate pool = the scene's **present** cast (`11-presence`) minus the speaker, and resolves it
+   directly when the pool is empty (`(none)`) or a single figure (`code`); the LLM picks from the
+   closed list only when ≥2 present figures remain. The dialogue analogue of the speaker join. →
+   `12-addressee/README.md`
 
-Further passes — addressee, cohort, and a final code join into the per-canto lock — are planned in
-`PLAN.md`.
+Further passes — cohort, and a final code join into the per-canto lock — are planned in `PLAN.md`.
 
 ## Downstream Projects
 

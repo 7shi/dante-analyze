@@ -1,0 +1,50 @@
+# Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
+
+## Scene 1-18: Beatrice's Warning
+- 21:4 lines 4-4 | speaker: Beatrice | addressee: Dante | source: code | basis: 4-4
+
+## Scene 19-24: Dante's Obedience
+# (no attributed speech in this scene)
+
+## Scene 25-33: Vision of the Golden Ladder
+# (no attributed speech in this scene)
+
+## Scene 34-42: The Analogy of the Sun
+# (no attributed speech in this scene)
+
+## Scene 43-48: Dante's Hesitation
+- 21:45 lines 45-48 | speaker: Dante | addressee: (none) | source: none | basis: 45-48
+
+## Scene 49-60: The Inquiry of Silence
+- 21:52 lines 52-60 | speaker: Dante | addressee: Beatrice | source: code | basis: 52-60
+
+## Scene 61-72: Beatrice's Explanation
+- 21:62 lines 62-72 | speaker: Beatrice | addressee: Dante | source: llm | basis: 62-62
+
+## Scene 73-78: The Question of Predestination
+- 21:73A lines 73-73 | speaker: Dante | addressee: Beatrice | source: code | basis: 73-73
+- 21:73B lines 73-78 | speaker: Dante | addressee: Beatrice | source: code | basis: 73-78
+
+## Scene 79-87: The Light's Response
+- 21:83 lines 83-102 | speaker: amor | addressee: Dante | source: llm | basis: 83-87
+
+## Scene 88-102: The Limitation of Inquiry
+# (no attributed speech in this scene)
+
+## Scene 103-105: Dante's Pivot
+# (no attributed speech in this scene)
+
+## Scene 106-111: The Prophecy of Catria
+# (no attributed speech in this scene)
+
+## Scene 112-120: The Monk's Recollection
+- 21:113 lines 113-135 | speaker: Pietro Damiano | addressee: Dante | source: llm | basis: 113-120
+
+## Scene 121-126: The Revelation of Identity
+# (no attributed speech in this scene)
+
+## Scene 127-135: Lament for the Church
+# (no attributed speech in this scene)
+
+## Scene 136-142: The Celestial Shout
+# (no attributed speech in this scene)

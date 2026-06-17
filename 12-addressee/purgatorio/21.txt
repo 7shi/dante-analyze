@@ -1,0 +1,59 @@
+# Canto 21 — The Encounter with Statius and the Nature of Purgatory
+
+## Scene 1-6: Dante's Thirst
+# (no attributed speech in this scene)
+
+## Scene 7-13: The Appearance of the Shade
+# (no attributed speech in this scene)
+
+## Scene 14-21: The Initial Confrontation
+- 21:16 lines 16-18 | speaker: Virgilio | addressee: Stazio | source: llm | basis: 17-17
+
+## Scene 22-33: Virgil's Explanation of the Shade's Arrival
+- 21:22 lines 22-36 | speaker: Virgilio | addressee: Dante | source: llm | basis: 22-24
+
+## Scene 34-36: The Inquiry Regarding the Earthquake
+# (no attributed speech in this scene)
+
+## Scene 37-39: Dante's Anticipation
+# (no attributed speech in this scene)
+
+## Scene 40-54: The Immutable Nature of Purgatory
+- 21:40 lines 40-72 | speaker: Stazio | addressee: (none) | source: none | basis: 40-72
+
+## Scene 55-66: The Cause of the Tremor
+# (no attributed speech in this scene)
+
+## Scene 67-72: The Shade's Long Exile
+# (no attributed speech in this scene)
+
+## Scene 73-75: Dante's Impression
+# (no attributed speech in this scene)
+
+## Scene 76-81: Virgil Demands Identity
+- 21:76 lines 76-81 | speaker: Virgilio | addressee: Stazio | source: llm | basis: 79-81
+
+## Scene 82-87: The Shade's Historical Context
+- 21:82 lines 82-86 | speaker: Stazio | addressee: (none) | source: none | basis: 82-86
+- 21:87 lines 87-102 | speaker: Stazio | addressee: (none) | source: none | basis: 87-102
+
+## Scene 88-102: The Praise of the Poet
+# (no attributed speech in this scene)
+
+## Scene 103-108: Virgil's Gesture of Silence
+# (no attributed speech in this scene)
+
+## Scene 109-114: The Shade's Confusion
+# (no attributed speech in this scene)
+
+## Scene 115-120: Dante's Internal Conflict
+# (no attributed speech in this scene)
+
+## Scene 121-129: The Revelation of Virgil
+- 21:121 lines 121-129 | speaker: Dante | addressee: Stazio | source: llm | basis: 121-122
+
+## Scene 130-132: The Interrupted Embrace
+# (no attributed speech in this scene)
+
+## Scene 133-136: The Weight of Love
+- 21:133 lines 133-136 | speaker: Stazio | addressee: l'ombre | source: code | basis: 133-136

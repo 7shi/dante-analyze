@@ -1,0 +1,41 @@
+# Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
+
+## Scene 1-12: Virgil's Reprimand
+# (no attributed speech in this scene)
+
+## Scene 13-21: The Memory of Geri
+- 29:14 lines 14-15 | speaker: Dante | addressee: Virgilio | source: code | basis: 14-15
+- 29:18 lines 18-21 | speaker: Dante | addressee: Virgilio | source: code | basis: 18-21
+
+## Scene 22-36: Reflection on Violent Death
+- 29:22 lines 22-30 | speaker: Virgilio | addressee: Dante | source: code | basis: 22-30
+- 29:33 lines 33-36 | speaker: Dante | addressee: Virgilio | source: code | basis: 33-36
+
+## Scene 37-51: Arrival at the Tenth Ditch
+# (no attributed speech in this scene)
+
+## Scene 52-66: The Toxic Atmosphere
+# (no attributed speech in this scene)
+
+## Scene 67-72: The Condition of the Damned
+# (no attributed speech in this scene)
+
+## Scene 73-84: The Agony of the Itch
+# (no attributed speech in this scene)
+
+## Scene 85-96: The Greeting to the Souls
+- 29:94 lines 94-96 | speaker: Virgilio | addressee: Latino | source: llm | basis: 94-96
+
+## Scene 97-108: The Inquiry of the Living
+- 29:103 lines 103-108 | speaker: Dante | addressee: I falsari | source: llm | basis: 106-106
+
+## Scene 109-120: The Tale of the Alchemist
+- 29:109 lines 109-109 | speaker: l'un | addressee: (none) | source: none | basis: 109-109
+- 29:110 lines 110-120 | speaker: l'un | addressee: (none) | source: none | basis: 110-120
+- 29:113 lines 113-113 | speaker: l'un | addressee: (none) | source: none | basis: 113-113
+
+## Scene 121-123: Dante's Sienese Jibe
+# (no attributed speech in this scene)
+
+## Scene 124-139: The Testimony of Capocchio
+- 29:125 lines 125-139 | speaker: Capocchio | addressee: Dante | source: code | basis: 125-139

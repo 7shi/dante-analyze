@@ -1,0 +1,56 @@
+# Canto 03 — The Gate of Hell and the Approach to the Acheron
+
+## Scene 1-9: The Inscription on the Gate
+- 3:1 lines 1-9 | speaker: la porta dell'Inferno | addressee: chiunque entri nell'Inferno | source: llm | basis: 9-9
+
+## Scene 10-18: Virgil's Interpretation
+- 3:12 lines 12-12 | speaker: Dante | addressee: Virgilio | source: code | basis: 12-12
+- 3:14 lines 14-18 | speaker: Virgilio | addressee: Dante | source: code | basis: 14-18
+
+## Scene 19-24: Entry into the Underworld
+# (no attributed speech in this scene)
+
+## Scene 25-33: The Tumult of Wailing
+- 3:32 lines 32-33 | speaker: Dante | addressee: Virgilio | source: llm | basis: 32-32
+
+## Scene 34-42: The Origin of the Uncommitted
+# (no attributed speech in this scene)
+
+## Scene 43-51: The Fate of the Neutral
+- 3:45 lines 45-51 | speaker: Virgilio | addressee: Dante | source: llm | basis: 45-51
+
+## Scene 52-57: The Great Procession
+# (no attributed speech in this scene)
+
+## Scene 58-63: The Shadow of the Great Refuser
+# (no attributed speech in this scene)
+
+## Scene 64-69: The Torment of the Souls
+# (no attributed speech in this scene)
+
+## Scene 70-78: Approaching the River
+- 3:72 lines 72-75 | speaker: Dante | addressee: Virgilio | source: llm | basis: 72-72
+
+## Scene 79-81: Dante's Shame
+# (no attributed speech in this scene)
+
+## Scene 82-89: The Arrival of Charon
+- 3:84 lines 84-89 | speaker: Caronte | addressee: anime prave | source: llm | basis: 84-84
+
+## Scene 90-99: Virgil Silences the Ferryman
+# (no attributed speech in this scene)
+
+## Scene 100-105: The Wrath of the Damned
+# (no attributed speech in this scene)
+
+## Scene 106-108: Retreat to the Shore
+# (no attributed speech in this scene)
+
+## Scene 109-120: The Continuous Flow of Souls
+# (no attributed speech in this scene)
+
+## Scene 121-129: Virgil's Final Lesson
+# (no attributed speech in this scene)
+
+## Scene 130-136: The Earthquake and Fainting
+# (no attributed speech in this scene)

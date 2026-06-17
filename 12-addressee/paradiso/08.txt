@@ -1,0 +1,47 @@
+# Canto 08 — The Descent of the Celestial Light and the Mystery of Providence
+
+## Scene 1-12: The Cosmological Prologue
+# (no attributed speech in this scene)
+
+## Scene 13-21: The Vision of Divine Light
+# (no attributed speech in this scene)
+
+## Scene 22-30: The Descent of the Spirits
+# (no attributed speech in this scene)
+
+## Scene 31-39: The Approach of the Spirit
+# (no attributed speech in this scene)
+
+## Scene 40-48: The Encounter with Beatrice
+# (no attributed speech in this scene)
+
+## Scene 49-57: The Spirit's Earthly Connection
+- 8:49 lines 49-84 | speaker: Sibilla | addressee: Dante | source: llm | basis: 49-49
+
+## Scene 58-66: Prophecy of the Northern and Central Lands
+# (no attributed speech in this scene)
+
+## Scene 67-75: The Prophecy of Sicily
+# (no attributed speech in this scene)
+
+## Scene 76-84: The Warning for Catalonia
+# (no attributed speech in this scene)
+
+## Scene 85-93: Dante's Theological Doubt
+- 8:85 lines 85-93 | speaker: Dante | addressee: (none) | source: none | basis: 85-93
+
+## Scene 94-112: The Lesson on Divine Providence
+- 8:94 lines 94-112 | speaker: Sibilla Cumana | addressee: Dante | source: code | basis: 94-112
+
+## Scene 113-120: The Socratic Interlude on Nature
+- 8:113 lines 113-114 | speaker: Dante | addressee: Virgilio | source: code | basis: 113-114
+- 8:117B lines 117-117 | speaker: Dante | addressee: Virgilio | source: code | basis: 117-117
+
+## Scene 121-129: The Diversity of Human Destinies
+- 8:122 lines 122-148 | speaker: Sibilla Cumana | addressee: (none) | source: none | basis: 122-148
+
+## Scene 130-135: Providence Overriding Nature
+# (no attributed speech in this scene)
+
+## Scene 136-148: The Final Warning
+# (no attributed speech in this scene)

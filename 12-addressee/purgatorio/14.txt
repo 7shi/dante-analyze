@@ -1,0 +1,55 @@
+# Canto 14 — The Encounter with the Spirits of the Arno Valley
+
+## Scene 1-6: The Spirits' Observation
+- 14:4 lines 4-6 | speaker: spirito | addressee: Dante | source: code | basis: 4-6
+
+## Scene 7-15: The First Spirit's Greeting
+# (no attributed speech in this scene)
+
+## Scene 16-24: The Riddle of the Arno
+- 14:16 lines 16-21 | speaker: Dante | addressee: quei che diceva pria | source: code | basis: 16-21
+
+## Scene 25-27: The Second Spirit's Query
+# (no attributed speech in this scene)
+
+## Scene 28-51: The Corruption of the Valley
+# (no attributed speech in this scene)
+
+## Scene 52-54: The Cunning Foxes
+# (no attributed speech in this scene)
+
+## Scene 55-66: The Prophecy of the Hunter
+# (no attributed speech in this scene)
+
+## Scene 67-72: The Second Spirit's Grief
+# (no attributed speech in this scene)
+
+## Scene 73-84: Guido's Introduction
+# (no attributed speech in this scene)
+
+## Scene 85-96: The Blight of Lineage
+# (no attributed speech in this scene)
+
+## Scene 97-102: Lament for Romagna
+# (no attributed speech in this scene)
+
+## Scene 103-111: Mourning the Lost Greatness
+# (no attributed speech in this scene)
+
+## Scene 112-123: The Decay of Towns
+# (no attributed speech in this scene)
+
+## Scene 124-126: Guido's Exhaustion
+# (no attributed speech in this scene)
+
+## Scene 127-135: The Thunderous Voice
+- 14:133 lines 133-133 | speaker: la voce | addressee: Virgilio | source: llm | basis: 133-133
+
+## Scene 136-139: The Appearance of Aglauro
+- 14:139 lines 139-139 | speaker: Aglauro | addressee: (none) | source: none | basis: 139-139
+
+## Scene 140-141: Dante's Reaction
+# (no attributed speech in this scene)
+
+## Scene 142-151: Aglauro's Warning
+# (no attributed speech in this scene)

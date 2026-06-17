@@ -1,0 +1,76 @@
+# Canto 12 — The Descent into the Valley of Violence and the Encounter with the Centaurs
+
+## Scene 1-15: The Ruin and the Minotaur
+# (no attributed speech in this scene)
+
+## Scene 16-21: Virgil's Rebuke
+# (no attributed speech in this scene)
+
+## Scene 22-27: The Frenzy of the Bull
+# (no attributed speech in this scene)
+
+## Scene 28-30: The Descent
+# (no attributed speech in this scene)
+
+## Scene 31-45: The Earthquake and the Fall
+- 12:31 lines 31-48 | speaker: Virgilio | addressee: Dante | source: code | basis: 31-48
+
+## Scene 46-48: The River of Blood
+# (no attributed speech in this scene)
+
+## Scene 49-51: Dante's Moral Reflection
+# (no attributed speech in this scene)
+
+## Scene 52-57: The Centaurs' Patrol
+# (no attributed speech in this scene)
+
+## Scene 58-63: The Centaurs' Challenge
+- 12:61 lines 61-63 | speaker: un centauro | addressee: Virgilio | source: llm | basis: 61-63
+
+## Scene 64-66: Virgil's Strategy
+# (no attributed speech in this scene)
+
+## Scene 67-72: Identification of the Centaurs
+# (no attributed speech in this scene)
+
+## Scene 73-75: The Rain of Arrows
+# (no attributed speech in this scene)
+
+## Scene 76-79: The Inspection
+# (no attributed speech in this scene)
+
+## Scene 80-82: Chiron's Suspicion
+# (no attributed speech in this scene)
+
+## Scene 83-96: Virgil's Plea for Passage
+- 12:85 lines 85-96 | speaker: Virgilio | addressee: Chirone | source: llm | basis: 93-93
+
+## Scene 97-99: The Order to Guide
+# (no attributed speech in this scene)
+
+## Scene 100-102: The Boiling Blood
+# (no attributed speech in this scene)
+
+## Scene 103-112: The Tyrants in the Blood
+# (no attributed speech in this scene)
+
+## Scene 113-114: Dante's Turn
+- 12:114 lines 114-114 | speaker: Dante | addressee: Virgilio | source: llm | basis: 114-114
+
+## Scene 115-120: The Shadow of the Thames
+# (no attributed speech in this scene)
+
+## Scene 121-123: The Severed Heads
+# (no attributed speech in this scene)
+
+## Scene 124-126: The Rising Tide
+# (no attributed speech in this scene)
+
+## Scene 127-132: The Depths of Tyranny
+- 12:129 lines 129-138 | speaker: Nesso | addressee: Dante | source: code | basis: 129-138
+
+## Scene 133-138: The Scourge of Attila
+# (no attributed speech in this scene)
+
+## Scene 139-139: Departure
+# (no attributed speech in this scene)

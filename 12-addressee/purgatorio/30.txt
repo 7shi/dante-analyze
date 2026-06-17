@@ -1,0 +1,52 @@
+# Canto 30 — The Arrival of Beatrice and the Vision of the Blessed
+
+## Scene 1-9: The Settling of the First Heaven
+# (no attributed speech in this scene)
+
+## Scene 10-12: The Herald's Cry
+# (no attributed speech in this scene)
+
+## Scene 13-21: The Anthem of the Blessed
+# (no attributed speech in this scene)
+
+## Scene 22-33: The Appearance of the Lady
+# (no attributed speech in this scene)
+
+## Scene 34-39: Spiritual Recognition
+# (no attributed speech in this scene)
+
+## Scene 40-48: Dante's Trembling
+- 30:46 lines 46-48 | speaker: Dante | addressee: Virgilio | source: llm | basis: 46-46
+
+## Scene 49-54: Lament for Virgil
+# (no attributed speech in this scene)
+
+## Scene 55-57: Virgil's Warning
+# (no attributed speech in this scene)
+
+## Scene 58-66: Beatrice's Gaze
+# (no attributed speech in this scene)
+
+## Scene 67-75: The Greeting of Beatrice
+- 30:73 lines 73-75 | speaker: Beatrice | addressee: Dante | source: code | basis: 73-75
+
+## Scene 76-81: Dante's Shame
+# (no attributed speech in this scene)
+
+## Scene 82-84: Interrupted Song
+- 30:83 lines 83-83 | speaker: li angeli | addressee: Beatrice | source: code | basis: 83-83
+
+## Scene 85-99: The Release of Tears
+# (no attributed speech in this scene)
+
+## Scene 100-117: Theology of Grace
+- 30:103 lines 103-145 | speaker: Beatrice | addressee: le sustanze pie | source: code | basis: 103-145
+
+## Scene 118-126: The Metaphor of the Uncultivated Soil
+# (no attributed speech in this scene)
+
+## Scene 127-138: The Descent into Error
+# (no attributed speech in this scene)
+
+## Scene 139-145: The Necessity of Repentance
+# (no attributed speech in this scene)

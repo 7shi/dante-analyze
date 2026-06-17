@@ -1,0 +1,47 @@
+# Canto 15 — The Encounter with Brunetto Latino
+
+## Scene 1-12: The Simile of the Flooding Banks
+# (no attributed speech in this scene)
+
+## Scene 13-21: The Approaching Procession
+# (no attributed speech in this scene)
+
+## Scene 22-30: The Recognition of Dante
+# (no attributed speech in this scene)
+
+## Scene 31-42: Brunetto's Instructions
+- 15:34 lines 34-36 | speaker: Dante | addressee: Brunetto Latino | source: llm | basis: 34-35
+- 15:37B lines 37-42 | speaker: Brunetto Latino | addressee: Dante | source: llm | basis: 37-40
+
+## Scene 43-54: Dante's Explanation of his Descent
+- 15:50 lines 50-54 | speaker: Dante | addressee: Brunetto Latino | source: llm | basis: 50-50
+
+## Scene 55-60: The Promise of Destiny
+- 15:55 lines 55-78 | speaker: Brunetto Latino | addressee: Dante | source: code | basis: 55-78
+
+## Scene 61-69: The Warning Against Fiesole
+# (no attributed speech in this scene)
+
+## Scene 70-78: The Prophecy of the Holy Seed
+# (no attributed speech in this scene)
+
+## Scene 79-87: Dante's Tribute to his Teacher
+- 15:80 lines 80-96 | speaker: Dante | addressee: Brunetto Latino | source: code | basis: 80-96
+
+## Scene 88-96: Acceptance of Fortune
+# (no attributed speech in this scene)
+
+## Scene 97-99: Virgil's Instruction
+# (no attributed speech in this scene)
+
+## Scene 100-105: Dante's Inquiry
+- 15:103 lines 103-120 | speaker: Dante | addressee: Ser Brunetto Latino | source: code | basis: 103-120
+
+## Scene 106-114: The Catalog of Scholars
+# (no attributed speech in this scene)
+
+## Scene 115-120: The Interrupted Farewell
+# (no attributed speech in this scene)
+
+## Scene 121-124: The Final Simile
+# (no attributed speech in this scene)

@@ -1,0 +1,47 @@
+# Canto 32 — The Frozen Landscape of Cocytus and the Encounters with Traitors
+
+## Scene 1-12: The Poet’s Prologue
+# (no attributed speech in this scene)
+
+## Scene 13-21: The Descent into the Pit
+# (no attributed speech in this scene)
+
+## Scene 22-30: The Frozen Lake of Cocytus
+# (no attributed speech in this scene)
+
+## Scene 31-39: The Sinners in the Ice
+# (no attributed speech in this scene)
+
+## Scene 40-51: The Two Intertwined Sinners
+# (no attributed speech in this scene)
+
+## Scene 52-69: The Deaf Sinner’s Revelation
+- 32:54 lines 54-69 | speaker: Camiscion de' Pazzi | addressee: Dante | source: llm | basis: 54-55
+
+## Scene 70-78: Walking through the Frozen Multitude
+# (no attributed speech in this scene)
+
+## Scene 79-84: The Scolding Sinner
+- 32:79 lines 79-81 | speaker: il peccatore | addressee: Dante | source: llm | basis: 79-81
+- 32:82 lines 82-84 | speaker: Dante | addressee: Virgilio | source: llm | basis: 82-82
+
+## Scene 85-96: The Verbal Dispute
+- 32:91 lines 91-91 | speaker: Dante | addressee: Ugolino | source: llm | basis: 91-91
+- 32:92 lines 92-93 | speaker: Dante | addressee: Ugolino | source: llm | basis: 92-93
+- 32:94 lines 94-96 | speaker: Ugolino | addressee: Dante | source: llm | basis: 94-94
+
+## Scene 97-105: The Physical Altercation
+- 32:100 lines 100-102 | speaker: il peccatore | addressee: Dante | source: code | basis: 100-102
+
+## Scene 106-114: The Interruption by Bocca
+- 32:109B lines 109-111 | speaker: Dante | addressee: Bocca | source: llm | basis: 109-111
+- 32:112B lines 112-123 | speaker: Bocca | addressee: Dante | source: llm | basis: 112-113
+
+## Scene 115-123: The Catalog of Traitors
+- 32:116A lines 116-116 | speaker: Dante | addressee: Bocca | source: code | basis: 116-116
+
+## Scene 124-132: The Biting Sinners
+# (no attributed speech in this scene)
+
+## Scene 133-139: Dante’s Inquiry into Hatred
+- 32:135 lines 135-139 | speaker: Dante | addressee: l'ombra che morde | source: llm | basis: 135-139

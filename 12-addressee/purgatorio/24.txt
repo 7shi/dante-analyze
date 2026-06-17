@@ -1,0 +1,68 @@
+# Canto 24 — Recognition of Souls and the Warning of the Tree
+
+## Scene 1-6: The Watching Souls
+# (no attributed speech in this scene)
+
+## Scene 7-12: Inquiry about Piccarda
+- 24:8 lines 8-12 | speaker: Dante | addressee: Forese | source: code | basis: 8-12
+
+## Scene 13-24: News of Piccarda and Bonagiunta
+- 24:13 lines 13-15 | speaker: Forese | addressee: Bonagiunta da Lucca | source: llm | basis: 13-15
+
+## Scene 25-33: The List of Notable Souls
+# (no attributed speech in this scene)
+
+## Scene 34-42: The Muttering Soul
+- 24:40B lines 40-42 | speaker: Dante | addressee: Bonagiunta da Lucca | source: code | basis: 40-42
+
+## Scene 43-51: The Poet's Identity and Inquiry
+- 24:44 lines 44-51 | speaker: Bonagiunta da Lucca | addressee: Dante | source: code | basis: 44-51
+
+## Scene 52-63: The Knot of Poets
+- 24:52 lines 52-54 | speaker: Dante | addressee: Bonagiunta da Lucca | source: code | basis: 52-54
+- 24:55A lines 55-55 | speaker: Bonagiunta da Lucca | addressee: Dante | source: code | basis: 55-55
+- 24:55B lines 55-62 | speaker: Bonagiunta da Lucca | addressee: Dante | source: code | basis: 55-62
+
+## Scene 64-69: The Simile of the Geese
+# (no attributed speech in this scene)
+
+## Scene 70-75: Forese Departs
+- 24:75 lines 75-75 | speaker: Forese | addressee: Dante | source: llm | basis: 75-75
+
+## Scene 76-81: Dialogue with Forese
+- 24:76A lines 76-76 | speaker: Dante | addressee: Forese | source: code | basis: 76-76
+- 24:76B lines 76-81 | speaker: Dante | addressee: Forese | source: code | basis: 76-81
+
+## Scene 82-93: Forese's Ominous Warning
+- 24:82B lines 82-88 | speaker: Forese | addressee: Dante | source: code | basis: 82-88
+- 24:89 lines 89-93 | speaker: Forese | addressee: Dante | source: code | basis: 89-93
+
+## Scene 94-97: The Knight's Departure
+# (no attributed speech in this scene)
+
+## Scene 98-111: Vision of the Hungry Souls
+# (no attributed speech in this scene)
+
+## Scene 112-120: Warning Near the Tree
+# (no attributed speech in this scene)
+
+## Scene 121-126: Mythological Allusions
+# (no attributed speech in this scene)
+
+## Scene 127-132: Passing the Thickets
+# (no attributed speech in this scene)
+
+## Scene 133-136: A Sudden Interruption
+# (no attributed speech in this scene)
+
+## Scene 137-141: The Brilliant Figure's Warning
+# (no attributed speech in this scene)
+
+## Scene 142-144: Dante's Reaction
+# (no attributed speech in this scene)
+
+## Scene 145-150: The May Breeze
+# (no attributed speech in this scene)
+
+## Scene 151-154: The Benediction
+# (no attributed speech in this scene)

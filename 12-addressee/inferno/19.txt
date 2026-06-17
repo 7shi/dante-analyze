@@ -1,0 +1,53 @@
+# Canto 19 — The Encounter with the Simoniac Boniface
+
+## Scene 1-6: Invocation to the Simoniacs
+# (no attributed speech in this scene)
+
+## Scene 7-12: Reflection on Divine Wisdom
+# (no attributed speech in this scene)
+
+## Scene 13-30: The Landscape of the Third Bolgia
+# (no attributed speech in this scene)
+
+## Scene 31-39: Dante's Inquiry
+- 19:34 lines 34-36 | speaker: Virgilio | addressee: Dante | source: code | basis: 34-36
+- 19:37 lines 37-39 | speaker: Dante | addressee: Virgilio | source: code | basis: 37-39
+
+## Scene 40-45: The Physical Descent
+# (no attributed speech in this scene)
+
+## Scene 46-48: Dante’s Salutation
+# (no attributed speech in this scene)
+
+## Scene 49-51: The Confessor Simile
+# (no attributed speech in this scene)
+
+## Scene 52-57: The Sinner’s Accusation
+- 19:52 lines 52-57 | speaker: Nicola III | addressee: Bonifazio | source: llm | basis: 53-53
+
+## Scene 58-60: Dante’s Bewilderment
+# (no attributed speech in this scene)
+
+## Scene 61-63: Virgil’s Instruction
+- 19:62 lines 62-62 | speaker: Dante | addressee: Bonifacio VIII | source: llm | basis: 62-62
+
+## Scene 64-78: The Sinner’s Revelation
+- 19:66 lines 66-87 | speaker: Niccolò III | addressee: Dante | source: llm | basis: 66-68
+
+## Scene 79-87: The Prophecy of the Shepherd
+# (no attributed speech in this scene)
+
+## Scene 88-105: Dante’s First Rebuttal
+- 19:90 lines 90-117 | speaker: Dante | addressee: Nicola III | source: code | basis: 90-117
+
+## Scene 106-117: Dante’s Second Rebuttal
+# (no attributed speech in this scene)
+
+## Scene 118-123: Virgil’s Silent Approval
+# (no attributed speech in this scene)
+
+## Scene 124-129: The Ascent
+# (no attributed speech in this scene)
+
+## Scene 130-133: Arrival at a New Valley
+# (no attributed speech in this scene)

@@ -1,0 +1,37 @@
+# Canto 08 — The Arrival of the Angels and the Encounter with the Malaspina
+
+## Scene 1-18: The Evening Hymn
+# (no attributed speech in this scene)
+
+## Scene 19-30: The Descent of the Angels
+# (no attributed speech in this scene)
+
+## Scene 31-36: The Crowd's Reaction
+# (no attributed speech in this scene)
+
+## Scene 37-45: Sordello's Warning
+# (no attributed speech in this scene)
+
+## Scene 46-55: Meeting the Gentle Judge
+# (no attributed speech in this scene)
+
+## Scene 56-63: The Inquiry of Origins
+- 8:58B lines 58-60 | speaker: Dante | addressee: Nin | source: llm | basis: 58-58
+
+## Scene 64-81: The Message for Giovanna
+- 8:67 lines 67-81 | speaker: Nin | addressee: Dante | source: llm | basis: 67-67
+
+## Scene 82-93: Celestial Observations
+# (no attributed speech in this scene)
+
+## Scene 94-108: The Serpent's Intrusion
+# (no attributed speech in this scene)
+
+## Scene 109-120: The Identification of Currado
+- 8:115 lines 115-120 | speaker: Currado Malaspina | addressee: Dante | source: llm | basis: 115-117
+
+## Scene 121-132: Praise for the Malaspina
+- 8:121B lines 121-132 | speaker: Dante | addressee: Currado Malaspina | source: code | basis: 121-132
+
+## Scene 133-139: The Judge's Dismissal
+# (no attributed speech in this scene)

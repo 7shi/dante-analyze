@@ -1,0 +1,58 @@
+# Canto 15 — The Ascent through the Light and the Visions of Paradise
+
+## Scene 1-6: The Setting of the Hour
+# (no attributed speech in this scene)
+
+## Scene 7-15: The Blinding Light
+# (no attributed speech in this scene)
+
+## Scene 16-24: The Metaphor of Refraction
+# (no attributed speech in this scene)
+
+## Scene 25-33: The Angel's Reassurance
+- 15:25 lines 25-26 | speaker: Dante | addressee: Virgilio | source: llm | basis: 25-25
+
+## Scene 34-39: Arrival at the Stairway
+# (no attributed speech in this scene)
+
+## Scene 40-45: Dante's Query on Political Terms
+# (no attributed speech in this scene)
+
+## Scene 46-57: The Paradox of Divine Distribution
+# (no attributed speech in this scene)
+
+## Scene 58-72: The Nature of Divine Love
+- 15:58 lines 58-58 | speaker: Dante | addressee: Virgilio | source: code | basis: 58-58
+- 15:59 lines 59-63 | speaker: Dante | addressee: Virgilio | source: code | basis: 59-63
+
+## Scene 73-78: The Promise of Beatrice
+# (no attributed speech in this scene)
+
+## Scene 79-81: The Closing of the Wounds
+# (no attributed speech in this scene)
+
+## Scene 82-93: The Vision of the Mother
+- 15:82 lines 82-82 | speaker: Dante | addressee: la madre | source: llm | basis: 82-82
+- 15:89 lines 89-92 | speaker: la madre | addressee: Dante | source: llm | basis: 89-89
+
+## Scene 94-101: The Vision of the Trojan Widow
+# (no attributed speech in this scene)
+
+## Scene 102-105: The Lord's Gentle Response
+# (no attributed speech in this scene)
+
+## Scene 106-114: The Vision of the Martyr
+# (no attributed speech in this scene)
+
+## Scene 115-123: Return to Consciousness
+# (no attributed speech in this scene)
+
+## Scene 124-126: Dante's Report
+- 15:124 lines 124-125 | speaker: Dante | addressee: Virgilio | source: code | basis: 124-125
+- 15:125 lines 125-126 | speaker: Dante | addressee: Virgilio | source: code | basis: 125-126
+
+## Scene 127-138: Virgil's Explanation of the Trance
+- 15:127 lines 127-138 | speaker: Virgilio | addressee: Dante | source: code | basis: 127-138
+
+## Scene 139-145: The Encroaching Darkness
+# (no attributed speech in this scene)

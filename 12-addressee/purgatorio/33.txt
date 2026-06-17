@@ -1,0 +1,64 @@
+# Canto 33 — Beatrice's Prophecy and the River of Lethe
+
+## Scene 1-6: The Song of the Virtuous Women
+# (no attributed speech in this scene)
+
+## Scene 7-12: Beatrice's Proclamation
+- 33:10 lines 10-12 | speaker: Beatrice | addressee: l'altre vergini | source: code | basis: 10-12
+
+## Scene 13-24: The Encounter with Dante
+- 33:20 lines 20-21 | speaker: Beatrice | addressee: Dante | source: llm | basis: 20-21
+
+## Scene 25-33: Dante's Stuttering Response
+- 33:31 lines 31-78 | speaker: Beatrice | addressee: Dante | source: code | basis: 31-78
+
+## Scene 34-45: The Prophecy of the Serpent and the Giant
+# (no attributed speech in this scene)
+
+## Scene 46-51: The Riddle of the Naiads
+# (no attributed speech in this scene)
+
+## Scene 52-60: The Warning of the Fallen Fruit
+# (no attributed speech in this scene)
+
+## Scene 61-66: The Weight of Original Sin
+# (no attributed speech in this scene)
+
+## Scene 67-78: The Command to Remember
+# (no attributed speech in this scene)
+
+## Scene 79-84: Dante's Impressionable Mind
+- 33:79 lines 79-84 | speaker: Dante | addressee: Beatrice | source: code | basis: 79-84
+
+## Scene 85-90: The Distance of the Divine
+# (no attributed speech in this scene)
+
+## Scene 91-93: Dante's Denial of Forgetting
+- 33:91 lines 91-93 | speaker: Dante | addressee: Beatrice | source: code | basis: 91-93
+
+## Scene 94-99: The Reminder of Lethe
+- 33:95 lines 95-102 | speaker: Beatrice | addressee: Dante | source: code | basis: 95-102
+
+## Scene 100-111: The Noon Sun and the Seven Women
+# (no attributed speech in this scene)
+
+## Scene 112-114: The Emergence of the Rivers
+# (no attributed speech in this scene)
+
+## Scene 115-119: Dante's Inquiry
+# (no attributed speech in this scene)
+
+## Scene 120-123: Matelda's Revelation
+- 33:121 lines 121-123 | speaker: Matelda | addressee: (none) | source: none | basis: 121-123
+
+## Scene 124-129: Beatrice's Instruction to Virgil
+# (no attributed speech in this scene)
+
+## Scene 130-135: The Departure of the Group
+# (no attributed speech in this scene)
+
+## Scene 136-141: The Poet's Constraint
+# (no attributed speech in this scene)
+
+## Scene 142-145: The Renewal of the Soul
+# (no attributed speech in this scene)
