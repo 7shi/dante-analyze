@@ -23,6 +23,32 @@ whitelist and lose no information:
 When a check cannot verify interpretation, say so plainly in the pass README. Do not imply a safety
 net that is not actually run.
 
+### Call the model only on the residual
+
+Before calling the model, let code narrow each item to a candidate set. The size of that set decides
+who resolves it:
+
+- **deterministic cases** — where code can already decide the answer (zero candidates, or exactly
+  one) — are resolved by code, with no model call;
+- **the genuine residual** — where two or more candidates remain and only reading can choose — is the
+  only thing sent to the model, and even then as a choice from the **closed candidate set**, not free
+  generation.
+
+The model is an **oracle for the residual**, not the default resolver. This keeps calls rare, makes
+every answer a closed-set pick that code can check by membership, and records *which* path decided
+each item (`source: code` | `llm` | `none`) so the split is measurable.
+
+Examples from this repo:
+
+- `06-speech` attributes a quote's speaker by code where the markup fixes it, and calls the model
+  only for the ambiguous remainder.
+- `12-addressee` builds the candidate pool from the scene's `present` cast minus the speaker, then
+  branches on its size: 0 → `(none)`, 1 → that figure by code, ≥2 → the model picks one from the
+  closed list.
+
+Identity consolidation (`05-registry`, `10-topography`) applies the same rule to merging; see
+*Separate deterministic merge from LLM residual*.
+
 ### Keep model jobs narrow
 
 One call should have one job and one kind of check. Do not ask a local model to detect, resolve,
@@ -263,7 +289,8 @@ Frame prevents embedded assertions from flattening into narrator fact.
 ### Separate deterministic merge from LLM residual
 
 When consolidating identities, first do what code can do: normalize labels, group by fold key, and
-choose canonical spellings from observed forms. Send only the residual to the model.
+choose canonical spellings from observed forms. Send only the residual to the model. This is the
+merge-specific case of *Call the model only on the residual*.
 
 If a residual merge is too large or unverifiable, prefer flagged singletons over forced grouping.
 An honest unresolved node is better than a confident but wrong merge that passes only a structural
