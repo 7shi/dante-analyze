@@ -353,6 +353,10 @@ Existing shared primitives include:
 - `number_scene` and tag-position helpers;
 - label normalization: `norm_label`, `fold_key`, `split_set`;
 - registry joins such as `raw_to_canonical`;
+- the per-tag coreference overlay applied inside `load_tags` (`load_coref`, `04-tags/coref.txt`):
+  identity corrections live at the single tag-read layer so every consumer sees one per-tag
+  identity — `raw_to_canonical` is a global `fold_key` map and cannot route one surface to two
+  nodes, so disambiguation must be in the label, not the join;
 - quote-span geometry.
 
 Re-export promoted public helpers from `dante_analyze/__init__.py` when other passes or users should

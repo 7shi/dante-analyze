@@ -14,6 +14,11 @@ from .labels import fold_key
 # A tags `n. Name` line (the authoritative resolution; line n = tag [n]).
 TAGS_LINE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
 
+# A coref overlay line: `canticle/canto/start-end/tag_no = identity-first label`.
+COREF_LINE_RE = re.compile(
+    r"^\s*(\w+)/(\d+)/(\d+)-(\d+)/(\d+)\s*=\s*(.*\S)\s*$")
+COREF_FILE = TAGS_DIR / "coref.txt"
+
 SCENE_HEAD_RE = re.compile(r"^## Scene (\d+)-(\d+):")
 RECAP_HEAD = "# recap"
 
@@ -111,22 +116,53 @@ def load_readings(canticle, canto):
     return scene_bodies(path)
 
 
-def load_tags(canticle, canto):
+_coref_cache = None
+
+
+def load_coref():
+    """{(canticle, canto, start, end, tag_no): label} from the per-tag coreference overlay
+    04-tags/coref.txt (Step 2 of identity resolution; see 05-registry/README.md). The overlay
+    upgrades under-specified `04-tags` labels (bare `Guido`, `Latino`) to their identity-first
+    form, applied at the `load_tags` read layer so every consumer sees the same per-tag identity
+    — the join `raw_to_canonical` is a global fold_key map and cannot route one surface to two
+    nodes, so the disambiguation must live in the label. Absent/empty file => no corrections.
+    Read once per process."""
+    global _coref_cache
+    if _coref_cache is None:
+        _coref_cache = {}
+        if COREF_FILE.exists():
+            for line in COREF_FILE.read_text(encoding="utf-8").splitlines():
+                if not line.strip() or line.lstrip().startswith("#"):
+                    continue
+                m = COREF_LINE_RE.match(line)
+                if m:
+                    canticle, canto, s, e, tag_no = (
+                        m.group(1), int(m.group(2)), int(m.group(3)),
+                        int(m.group(4)), int(m.group(5)))
+                    _coref_cache[(canticle, canto, s, e, tag_no)] = m.group(6)
+    return _coref_cache
+
+
+def load_tags(canticle, canto, apply_coref=True):
     """{(start, end): {tag_no: name}} for a canto from 04-tags/<canticle>/NN.txt, or exit if the
     file is absent — the authoritative per-scene referent table the downstream consumes. Each
     `n. Name` line becomes {n: name}, the labels exactly as committed (tags.py already applied
-    `fix_elision` at generation time — no post-run verifier)."""
+    `fix_elision` at generation time — no post-run verifier), then any per-tag correction from
+    the coreference overlay (load_coref) is applied on top. Pass `apply_coref=False` to read the
+    committed labels raw (the overlay generator needs the un-corrected text)."""
     path = out_path(TAGS_DIR, canticle, canto)
     if not path.exists():
         print(f"Error: tags not found: {path} (run 04-tags/tags.py first)", file=sys.stderr)
         sys.exit(1)
+    coref = load_coref() if apply_coref else {}
     out = {}
     for (s, e), body in scene_bodies(path).items():
         res = {}
         for line in body.splitlines():
             m = TAGS_LINE_RE.match(line)
             if m:
-                res[int(m.group(1))] = m.group(2)
+                tag_no = int(m.group(1))
+                res[tag_no] = coref.get((canticle, canto, s, e, tag_no), m.group(2))
         out[(s, e)] = res
     return out
 

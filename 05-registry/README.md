@@ -53,9 +53,12 @@ regression: rerun it after any `04-tags` change to confirm the gate numbers stil
 labels, and surface aliases. Pipeline:
 
 ```
-gather (code) -> fold-merge (code) -> set-resolve (code) -> type (LLM, cached)
+gather (code) -> fold-merge (code) -> alias-merge (code) -> set-resolve (code) -> type (LLM, cached)
               -> render per-canticle (code) -> structural check (code)
 ```
+
+`fold_key` only merges cosmetic drift (case, articles, elision). Two further identity layers handle
+what it cannot — see **"Identity resolution beyond fold_key"** below.
 
 **1. Gather + fold-merge (pure code).** Read every scene's labels (`load_tags`) and surfaces
 (`number_scene` `meta`), normalize (`norm_label`), group by `fold_key`. The canonical label is the
@@ -119,6 +122,66 @@ consolidation is a later pass. The rejected alternative (B) was to split
 each canticle's ~300-candidate list into several grouping calls — more design and tokens, with
 cross-batch splits a single call would have caught, and still no check that can verify a merge.
 
+---
+
+## Identity resolution beyond fold_key
+
+`fold_key` merges only cosmetic drift. Genuinely-different labels for the same figure need more.
+There are two layers, by increasing risk. Both are motivated and measured in the root `KG-PROBLEM.md`
+(the downstream impact of a node-set change).
+
+### Fix 1 — `aliases.txt` (deterministic, global)
+
+A hand-maintained merge table, `05-registry/aliases.txt`, with one `alias = canonical` per line.
+`apply_aliases` (in `registry.py`, between fold-merge and set-resolve) folds the alias node's labels
+and surfaces into the canonical and drops the alias. Both sides must be existing nodes — a typo
+raises rather than silently no-ops. This is for **spelling variants with zero ambiguity risk**: one
+surface that *always* means one figure, so a global merge is safe and fully verifiable. The four
+committed pairs:
+
+```
+Mastro Adamo   = Maestro Adamo
+Pier delle Vigne = Pier della Vigna
+Pietro Damian  = Pietro Damiano
+Iesù Cristo    = Cristo
+```
+
+### Fix 2 — `04-tags/coref.txt` (context-aware, per-tag)
+
+The opposite case: an **under-specified** label (bare `Guido`, `Latino`, `Pietro`) that means
+*different* figures in different scenes, so no global alias is correct. `coreference.py` decides,
+per scene and with the scene's reading as context, which fuller-form figure (if any) the label
+denotes, and stages a per-tag correction in `04-tags/coref.txt`:
+
+```
+inferno/27/19-30/5 = Guido da Montefeltro    # canticle/canto/start-end/tag_no = identity-first label
+```
+
+**Why the correction lives at the tag-read layer, not in the registry.** The downstream join
+`raw_to_canonical` is a global `fold_key → canonical` map; it *cannot* route one surface (`Guido`)
+to two nodes. So the disambiguation has to be in the label itself, applied where every consumer
+reads it — `load_tags` (`load_coref`). Once a tag's label is identity-first, the existing fold_key
+join folds it onto the right node automatically; **06-speech, 08-kg, and 11-presence need no
+change.** This is the same identity-first rule the project applies everywhere ("commit the most
+specific identification the reading establishes").
+
+**This step calls the model and cannot be structurally verified** — a wrong merge passes every
+check, and false positives dominate (most name-sharing pairs are different people). So:
+
+- granularity is **one decision per (label, scene)** (04-tags already keeps intra-scene labels
+  consistent), applied to every occurrence of that label in the scene;
+- candidate targets for a bare label are the fuller `individual` nodes containing it as a token
+  (`Guido` → `Guido da Montefeltro`, …), plus a small seed map for semantic pairs (`Iesù` → `Cristo`);
+- the safe default is **`distinct`** — no correction, label left as committed;
+- every decision (incl. `distinct`) is recorded in `05-registry/coref.cache.txt` for resume/audit;
+  only non-`distinct` decisions reach `04-tags/coref.txt`;
+- **the overlay is staged for human review before commit.** Read it, delete wrong lines, then
+  rebuild the registry — the structural check rejects any correction pointing at a non-existent
+  canonical, but it cannot catch a plausible-but-wrong merge, so the human pass is the real gate.
+
+Run `make -C 05-registry coref` to (re)generate, then rebuild with `make -C 05-registry`. With an
+absent or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
+
 ### `types.txt` — the resume cache
 
 Typing is the slow part (~128 local-LLM calls), so each passed batch is appended to
@@ -181,6 +244,7 @@ changing the method, never by per-item patching.
 | Target | Command it runs | Effect |
 |---|---|---|
 | `make -C 05-registry` (`all`) | `uv run registry.py inferno purgatorio paradiso -m $(MODEL)` | Build/resume the registry; writes the three `<canticle>.txt` + `types.txt` |
+| `make -C 05-registry coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); rebuild with `all` after |
 | `make -C 05-registry measure` | `uv run measure.py` | Re-print the sizing report + decision gates (read-only) |
 
 `$(MODEL)` comes from `../model.mk` (default `ollama:gemma4:31b-it-qat`).
