@@ -1,0 +1,77 @@
+# Canto 10 — The Marble Gallery and the Contorted Souls
+
+## Scene 1-6: Closing of the Gate
+en: Once *Dante* and *Virgilio* are inside the *soglio de la porta*, *Dante* hears the gate shut behind them, a gate that deceives the *anime* by making the crooked path seem straight. He reflects that he would have no excuse for the fault had he turned back to look.
+ja: DanteとVirgilioが門の敷居に入ると、背後で門が閉ざされた。それは曲がりくねった道を直線に見せかけてanimeを欺く門であり、もし振り返って見ていたならば、その過失に弁解の余地はないだろうとDanteは考えた。
+
+## Scene 7-9: The Moving Stone
+en: *Dante* and *Virgilio* ascend a *pietra fessa* that shifts back and forth like a wave.
+ja: 波のように前後に揺れ動く割れた岩を、DanteとVirgilioは登っていく。
+
+## Scene 10-12: Virgil's Strategy
+en: On the *pietra fessa*, *Virgilio* explains the need for a bit of skill, shifting back and forth along the dividing edge.
+ja: 割れた岩の上で、Virgilioは、境界の縁を行き来するには多少の技巧が必要であることを説いた。
+
+## Scene 13-21: Arrival on the Plain
+en: Slowed by their progress, *Dante* and *Virgilio* finally emerge from *quella cruna* to a desolate plain, where they stop, exhausted and uncertain of the path ahead.
+ja: 足取りを重くしていたDanteとVirgilioは、ようやくその狭い穴を抜け、荒涼とした平原へと出た。疲れ果てた二人は、行く末に迷いながら、そこで足を止めた。
+
+## Scene 22-27: The Enclosed Ledge
+en: *Dante* observes that the *cornice* is only three times the width of *un corpo umano*, and it remains this narrow as far as he can see to his left and right.
+ja: Danteは、その縁の幅がun corpo umanoのわずか三倍しかないことに気づいた。左右に見渡す限り、それはどこまでも同じ狭さのままであった。
+
+## Scene 28-33: The Exquisite Carvings
+en: Before moving on, *Dante* notices that the *cornice* is made of white marble adorned with carvings so exquisite that they would shame *Policleto*.
+ja: 先へ進む前に、Danteは、そのコーニスが白大理石で造られ、Policletoさえも恥じ入らせるほど精緻な彫刻で飾られていることに気づいた。
+
+## Scene 34-45: The Annunciation
+en: On the *cornice*, *Dante* and *Virgilio* observe a relief of *Gabriele* delivering *Dio*'s decree of peace to *Maria*. The figures are so lifelike that *Gabriele* seems to hail her and *Maria* appears to respond that she is the handmaid of *Dio*.
+ja: コーニスの上で、DanteとVirgilioは、GabrieleがMariaにDioの平和の宣告を届ける様を刻んだレリーフを見つめていた。その姿はあまりに真に迫っており、Gabrieleが彼女に呼びかけ、Mariaが自分はDioの侍女であると応えているかのようであった。
+
+## Scene 46-48: Virgil's Direction
+en: On the *cornice*, *Virgilio* urges *Dante* not to keep his mind fixed on a single place, speaking to him from the side of the heart.
+ja: corniceの上で、VirgilioはDanteの心臓の側から語りかけ、意識を一箇所に留めていてはいけないと諭した。
+
+## Scene 49-54: Shifting Perspective
+en: On the *cornice*, *Dante* shifts his gaze beyond the depiction of *Maria* toward where *Virgilio* stands and notices another carving. He moves past *Virgilio* to get a closer look.
+ja: コーニスの上で、DanteはMariaの姿の向こう側、Virgilioが立っている方へと視線を移し、別の彫刻に気づいた。彼はそれを間近で見るため、Virgilioの脇を通り過ぎて歩み寄った。
+
+## Scene 55-66: The Procession of the Ark
+en: On the `*cornice*`, `*Dante*` observes a carving of `*gente*` divided into `*sette cori*` and the dancing figure of `*Davide*`, experiencing a sensory conflict between the silence of the stone and the imagined singing.
+ja: 張り出しに立つDanteは、sette coriに分かれたgenteの彫刻と舞い踊るDavideの姿を眺め、石の静寂と想像上の歌声との間で感覚的な相克に揺れた。
+
+## Scene 67-69: The Figure of Michal
+en: On the *cornice*, *Micòl* is depicted gazing from a great palace, appearing spiteful and sad.
+ja: コーニスの上の巨大な宮殿から外を眺めるMicòlの姿が描かれており、その表情は恨みがましく、そして悲しげであった。
+
+## Scene 70-81: The Imperial Carving
+en: On the `*cornice*`, `*Dante*` moves past the image of `*Micòl*` to observe a relief of `*Traiano imperadore*` on horseback, attended by `*la vedovella*` and surrounded by `*cavalieri*`, noting how `*Gregorio*` prompted his great victory.
+ja: その段にて、`Dante`は`Micòl`の像を通り過ぎ、`la vedovella`が付き添い`cavalieri`に囲まれて馬に跨る`Traiano imperadore`の浮き彫りを眺め、`Gregorio`がいかにして彼の偉大なる勝利を導いたかを心に留めた。
+
+## Scene 82-93: The Widow's Lament
+en: On the *cornice*, *la miserella* begs *Traiano* for vengeance for her mentioned *mio figliuol* while surrounded by *costoro*. *Traiano* tells her to take heart and wait, explaining that while justice requires he fulfill his duty first, pity for her holds him.
+ja: テラスの上、costoroに囲まれたla miserellaは、先述のmio figliuolへの復讐をTraianoに切に願った。Traianoは、正義に従いまずは自らの務めを果たさねばならないが、彼女への憐れみが彼を引き留めているのだと語り、勇気を持って待つように諭した。
+
+## Scene 94-105: Wonder at the Artistry
+en: On the *cornice*, *Dante* reflects on the artistry of the images produced by *Dio*, but *Virgilio* points out *molte genti* who will lead them to higher levels. *Dante* quickly turns his gaze away from the carvings toward *Virgilio*.
+ja: 縁の上で、DanteはDioが作り出した像の芸術性に思いを馳せていたが、Virgilioは彼らをより上の階層へと導くmolte gentiを指し示した。Danteはすぐに彫刻から視線を外し、Virgilioへと目を向けた。
+
+## Scene 106-111: A Warning to the Reader
+en: On the *cornice*, *Dante* warns the *lettor* not to lose heart when hearing how *Dio* requires the debt of sin to be paid, urging him instead to focus on the eventual outcome and the justice of the divine sentence.
+ja: 張り出しの上で、Danteはlettorに対し、Dioが罪という債務の返済を求める様を聞いて心を挫いてはならないと諭し、むしろ最終的な結末と神聖なる判決に宿る正義に目を向けるよう促した。
+
+## Scene 112-120: The Hidden Torment
+en: On the *cornice*, *Dante* tells *Virgilio* that the moving figures do not seem human, but *Virgilio* explains that the weight of their torment forces *i superbi* to huddle on the ground. He urges *Dante* to look more closely to see how each of *i superbi* struggles.
+ja: 段の上で、Danteは動く人影が人間には見えないとVirgilioに告げたが、Virgilioは、苦悶の重みがi superbiを地に伏せさせているのだと説明した。そしてi superbiの一人ひとりがどのようにもがいているか、より詳しく見るようにDanteに促した。
+
+## Scene 121-129: The Sermon to Christians
+en: On the `*cornice*`, the `*superbi cristian*` are spoken of as wretched beings, compared to worms that should transform into angelic butterflies but instead remain defective.
+ja: そのテラスにおいて、superbi cristianは哀れな存在として語られている。彼らは、本来ならば天使のような蝶へと化けるはずの虫でありながら、不完全な姿のまま留まっているのである。
+
+## Scene 130-135: The Corbel Metaphor
+en: On the *cornice*, *Dante* reflects on how the contorted form of *una figura* can evoke real distress in a viewer; looking closely, he sees that *i superbi* are similarly bent and twisted.
+ja: corniceの上で、Danteはuna figuraの歪んだ姿が観る者にいかに切実な苦痛を喚起させるかについて思いを馳せた。目を凝らすと、i superbiも同様に身を屈め、ねじ曲がっているのが見て取れた。
+
+## Scene 136-139: The Weight of Pain
+en: On the `*cornice*`, `*i superbi*` are bent to varying degrees according to the weight they carry, and those with the least endurance weep as if `*un superbo*` were saying he can no longer bear the load.
+ja: `cornice`の上で、`i superbi`は背負う重荷に応じて様々に身を屈めており、なかでも忍耐に堪えきれぬ者たちは、あたかも`un superbo`がもはやこの重みに耐えられないと嘆いているかのように涙を流していた。

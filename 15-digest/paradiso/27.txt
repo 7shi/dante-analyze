@@ -1,0 +1,57 @@
+# Canto 27 — The Eclipse of Beatrice and the Celestial Motion
+
+## Scene 1-9: The Celestial Hymn
+en: While in the *ramo*, *Dante* is intoxicated by a hymn of glory addressed to *il Padre*, *figlio*, and *lo Spirito Santo*. This experience fills him with an ineffable joy and a sense of absolute peace.
+ja: 枝にいたDanteは、il Padre、figlio、そしてlo Spirito Santoに捧げられた栄光の賛歌に深く陶酔した。その体験は、言い尽くせぬ喜びと絶対的な平安で彼を満たした。
+
+## Scene 10-27: The Angelic Transformation
+en: In the `*beato coro*`, `*la prima face*` increases its radiance—comparing the change to `*Iove*`—and tells `*Dante*` not to be surprised by its shifting colors. It then speaks of the `*Figliuol di Dio*` and denounces `*quelli ch'usurpa in terra*` for desecrating its grave, an act that pleases `*l perverso*`.
+ja: `beato coro` において、`la prima face` はその輝きを強め、自らの変貌を `Iove` に比して `Dante` に色彩の移ろいを驚くなと告げた。そして `Figliuol di Dio` について語り、`l perverso` を喜ばせる行為である、その墓を汚す `quelli ch'usurpa in terra` を糾弾した。
+
+## Scene 28-36: The Celestial Eclipse
+en: In the *beato coro*, *Dante* sees the sky darken as *Beatrice* grows timid, resembling a mentioned *donna onesta* reacting to the faults of others. He believes a similar eclipse occurred when the mentioned *Cristo* suffered his final agony.
+ja: 至福の合唱の中で、Beatriceが恥じらうとともに空が暗くなっていくのをDanteは見た。その様は他者の過ちに反応するあるdonna onestaに似ており、彼は、Cristoが最期の苦しみに悶えた際にも同様に空が陰ったのだと考えた。
+
+## Scene 37-54: The Critique of the Papacy
+en: Within the *beato coro*, *San Pietro* laments that *i nostri successor* have used the papacy for profit and power against the *popol cristiano* and *battezzati*, betraying the blood shed by *Lin*, *Cleto*, *Sisto*, *Pïo*, *Calisto*, and *Urbano*.
+ja: 祝福された合唱の中で、San Pietroは、i nostri successorがpopol cristianoやbattezzatiに背いて私欲と権力のために教皇の座を利用し、Lin, Cleto, Sisto, Pïo, Calisto, およびUrbanoが流した血を裏切ったことを嘆いている。
+
+## Scene 55-66: The Lament for the Church
+en: In the *beato coro*, the lament of *San Pietro* denounces those who masquerade as a *pastor* and the greed of the *Caorsini* and *Guaschi*, invoking the providence that once guided *Scipio*. *San Pietro*’s words charge *Dante* to reveal these truths to the world upon his return to the mortal realm.
+ja: 祝福された聖歌隊にて、San Pietroはpastorを装う者たちとCaorsiniおよびGuaschiの強欲さを嘆き、かつてScipioを導いた摂理に訴えかける。San Pietroは、Danteが再び現世に戻った折に、これらの真実を世に知らしめるよう命じた。
+
+## Scene 67-75: The Vapor Metaphor
+en: Within the *beato coro*, *Dante* sees the ether fill with a vapor emanating from the *trïunfanti*, which eventually grows so thick that it obscures his view of *San Pietro*.
+ja: 祝福された合唱団の中で、Danteはtrïunfantiから立ち昇る蒸気がエーテルを満たしていくさまを目にした。その霧は次第に濃くなり、ついにはSan Pietroの姿を覆い隠した。
+
+## Scene 76-84: The Expanding Horizon
+en: Within the *beato coro*, *Beatrice* instructs *Dante* to shift his gaze and see how his perspective has changed, allowing him to perceive a vast horizon stretching from the voyage of the mentioned *Ulisse* to the shores of the mentioned *Europa*.
+ja: beato coroのなかで、BeatriceはDanteに視線を転じさせ、自らの視座がいかに変容したかを見つめさせた。それにより、かのUlisseの航海からEuropaの岸辺まで広がる壮大な地平線が、彼の眼前に開かれた。
+
+## Scene 85-96: Devotion to Beatrice
+en: While observing *questa aiuola*, *Dante* is drawn away by the celestial motion and an overwhelming longing to return his gaze to *Beatrice*. He concludes that no human beauty or art can match the divine pleasure he feels when looking upon the smiling face of *Beatrice*.
+ja: *questa aiuola*を眺めていたDanteは、天上の運行とBeatriceに再び視線を戻したいという抗いがたい切望に突き動かされた。Beatriceの微笑む顔に見出す神聖な悦びこそが、地上のいかなる美や芸術をも凌駕するものであると、彼は確信した。
+
+## Scene 97-102: Celestial Propulsion
+en: The power of *Beatrice*'s gaze tears *Dante* away from the *bel nido di Leda* and propels him so swiftly through the celestial heights that he cannot discern where *Beatrice* has taken him.
+ja: Beatriceの眼差しに宿る力がDanteをLedaの美しい巣から引き剥がし、天上の高みへと猛烈な速さで突き動かす。そのあまりの速さに、DanteはBeatriceが自分をどこへ連れて行ったのかさえ判然としなかった。
+
+## Scene 103-114: The Order of the Cosmos
+en: In the *bel nido di Leda*, *Beatrice* laughs with a joy that reflects *Dio* and explains how the cosmos moves around a still center. She describes how the universe is driven and understood only by the mentioned *Dio*.
+ja: レダの美しい巣の中で、BeatriceはDioを映し出す歓喜に満ちて笑い、静止した中心を巡る宇宙の運行を説いた。そして、この万物がただDioのみによって動かされ、理解されるものであることを語った。
+
+## Scene 115-120: The Mathematical Proportions
+en: In the *bel nido di Leda*, *Dante* learns that the primary celestial motion serves as the measure for all others, functioning like the number ten or the root of a tree from which all other movements branch.
+ja: bel nido di Ledaにおいて、Danteは、第一の天球の運動が他のあらゆる運動の尺度となっており、それが数字の10のように、あるいはすべての運動がそこから分かれ出る木の根のように機能していることを知る。
+
+## Scene 121-129: The Corrupting Power of Greed
+en: In the *bel nido di Leda*, greed is lamented as a flood that sinks *mortali* and erodes the virtuous will of *Li uomini*, leaving faith and innocence only to the *parvoletti*.
+ja: レダの美しい巣において、強欲はmortaliを沈め、Li uominiの徳ある意志を蝕む洪水として嘆かれている。信仰と純真さは、ただparvolettiにのみ残された。
+
+## Scene 130-138: The Perversion of Nature
+en: In the `*bel nido di Leda*`, it is described how the mentioned `*parvoletti*` succumb to greed and eventually turn against the mentioned `*la madre sua*`. This spiritual darkening is compared to the way `*la bella figlia*` turns from white to black.
+ja: `bel nido di Leda`において、`parvoletti`が強欲に呑まれ、やがて`la madre sua`に背くさまが描かれている。その精神的な暗転は、`la bella figlia`が白から黒へと染まる様子に例えられていた。
+
+## Scene 139-148: The Prophecy of Renewal
+en: In the *bel nido di Leda*, *Beatrice* tells *Dante* that human instability is caused by the absence of *l'Imperatore* to govern on earth, but she prophesies a cosmic shift that will soon steer the world toward a direct and fruitful renewal.
+ja: bel nido di Ledaにおいて、BeatriceはDanteに、地上を統べるべきl'Imperatoreの不在が人の世の不安定さを招いていると説く。だが同時に彼女は、世界を直接的で実り豊かな刷新へと導く宇宙的な転換が、間もなく訪れることを予言する。

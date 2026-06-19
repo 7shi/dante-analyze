@@ -1,0 +1,57 @@
+# Canto 26 — The Eighth Bolgia and the Tale of Ulysses
+
+## Scene 1-12: The Prologue to Florence
+en: While at *l'ottava ripa*, *Dante* expresses his shame that some *tuoi cittadini* are found among *li ladron* and warns of a coming misfortune that will weigh heavily upon him.
+ja: l'ottava ripaにて、Danteはtuoi cittadiniの一部がli ladronの中に混じっていることに恥じ入り、彼に重くのしかかるであろう来たるべき不幸について警告する。
+
+## Scene 13-24: The Ascent and Reflection
+en: *Dante* and *Virgilio* climb back up *le scalee* in *l'ottava ripa*, scrambling through the rocky shards. *Dante* reflects on his pain and resolves to restrain his imagination to ensure his narrative is rightly guided.
+ja: DanteとVirgilioは、岩の破片の間を這い上がりながら、第8の岸の階段を再び登っていった。Danteは自身の痛みに思いを巡らせ、叙述が正しく導かれるよう、想像力を抑制しようと心に決めた。
+
+## Scene 25-33: The Sight of the Eighth Bolgia
+en: From *le scalee*, *Dante* beholds a glowing expanse of fire, comparing the sight to how *'l villan* would perceive distant lights while *colui che 'l mondo schiara* is visible. He realizes the scale of the flames as soon as the depth comes into view.
+ja: le scaleeから、Danteは光り輝く炎の広がりを眺め、その光景を、colui che 'l mondo schiaraが見えている時に'l villanが遠くの灯りを眺める様子に例えた。そして、奥行きが視界に入った途端、彼はその炎のあまりの規模を悟った。
+
+## Scene 34-42: The Motion of the Flames
+en: Just as `*Eliseo*` saw only a rising cloud of flame when `*Elia*` departed, each flame in the *fosso* of *l'ottava ripa* swoops down to envelop and hide `*il peccatore*`.
+ja: `Elia`が去ったとき、`Eliseo`がただ燃え上がる炎の雲を目にしたように、第八の岸の溝にあるそれぞれの炎が舞い降りて、`il peccatore`を包み込み、覆い隠す。
+
+## Scene 43-48: Virgil's Explanation
+en: While on *'l ponte*, *Dante* is so mesmerized that he nearly falls, prompting *Virgilio* to explain that *li spirti* are encased within the flames, each soul wrapped in its own fire.
+ja: 'l ponteにいたDanteは、あまりに心を奪われて危うく転落しそうになり、それを見たVirgilioは、li spirtiはそれぞれが個別の炎に包まれ、その火の中に閉じ込められているのだと説明した。
+
+## Scene 49-63: The Inquiry of the Trojan Heroes
+en: At *'l ponte*, *Dante* asks *Virgilio* about the souls in the fire, comparing them to *Eteòcle* and *Polinice*. *Virgilio* identifies the spirits as *Ulisse* and *Dïomede*, speaking of their fraud that gave rise to *il gentil seme* and the sorrow of *Deïdamìa* for *Achille*.
+ja: 橋にて、Danteは火に焼かれる魂たちの正体をVirgilioに問い、彼らをEteòcleやPoliniceになぞらえた。Virgilioはその魂たちがUlisseとDïomedeであることを明かし、il gentil semeをもたらした彼らの欺瞞と、Achilleを想うDeïdamìaの悲しみについて語った。
+
+## Scene 64-75: Dante's Request and Virgil's Warning
+en: At *'l ponte*, *Dante* pleads with *Virgilio* to let him speak with the spirits in the flames, but *Virgilio* warns him to remain silent, fearing *i Greci* might be reluctant to respond to him.
+ja: 橋において、Danteは炎に包まれた魂たちと話させてほしいとVirgilioに懇願するが、Virgilioはi Greciが応じるのをためらうのではないかと危惧し、彼に沈黙を守るよう警告する。
+
+## Scene 76-84: The Voice from the Flame
+en: At *'l ponte*, while *Dante* listens, *Virgilio* addresses *Ulisse* and the other soul in the flame, asking that one of them explain how *Virgilio* was lost because of their actions.
+ja: 'l ponteにて、Danteが耳を傾けるなか、VirgilioはUlisseと炎の中のもうひとりの魂に語りかけ、彼らの行いによっていかにしてVirgilioが道を見失ったのかを、どちらか一方が説明するよう求めた。
+
+## Scene 85-99: Ulysses's Wandering Impulse
+en: At *'l ponte*, the flame enveloping *Ulisse* stirs and speaks, and *Ulisse* recounts how his drive to experience the world's knowledge and human nature outweighed his love for his *figlio*, his pity for his *vecchio padre*, and his duty to *Penelopè* after leaving *Circe*, whom *Enëa* had later named.
+ja: 'l ponte にて、Ulisse を包み込む炎が揺らぎ、言葉を発する。Ulisse は、後に Enëa が名を呼んだ Circe を去った後、世界の知と人間性を経験したいという渇望が、figlio への愛、vecchio padre への憐れみ、そして Penelopè への義務をも上回ったことを語る。
+
+## Scene 100-105: The Voyage Through the Mediterranean
+en: At *'l ponte*, *Ulisse* recounts how he set out across the open sea with only one small ship, *quella compagna*, visiting distant shores and islands.
+ja: 橋の上で、Ulisseはたった一隻の小舟であるquella compagnaと共に大海原へと乗り出し、遥か彼方の岸辺や島々を訪れたことを語った。
+
+## Scene 106-120: The Pillars of Hercules and the Great Exhortation
+en: At *'l ponte*, *Ulisse* recounts reaching the limit marked by *Ercule* to warn *l'uom*, after leaving *Sibilia* and *Setta* behind. He then exhorts his *compagni* to pursue virtue and knowledge rather than living as brutes.
+ja: 'l ponteにて、UlisseはSibiliaとSettaを後にし、l'uomに警告すべくErculeが定めた限界へと辿り着いたことを語る。そして、獣として生きるのではなく、徳と知識を追求せよとcompagniを鼓舞した。
+
+## Scene 121-126: The Flight of the Crew
+en: At `*'l ponte*`, `*Ulisse*` explains how his short speech made `*Li miei compagni*` so eager for the voyage that he could hardly have restrained them. In the morning, `*Ulisse*` and `*Li miei compagni*` turned the ship's stern and used their oars as wings for a foolish flight, steering to the left.
+ja: `'l ponte`にて、`Ulisse`は、自身の短い演説がいかに`Li miei compagni`の航海への意欲をかき立て、彼らを抑えきれないほどにしたかを語る。翌朝、`Ulisse`と`Li miei compagni`は船尾を転じ、櫂を翼に見立てて愚かな飛翔へと漕ぎ出し、左へと舵を切った。
+
+## Scene 127-132: Descent into the Southern Seas
+en: At `*'l ponte*`, `*Ulisse*` describes how he and `*Ulisse, i suoi compagni*` sailed so far south that they saw stars from the opposite pole while their own sank below the horizon, five lunar cycles after their departure.
+ja: `'l ponte` において、`Ulisse` は、出発から五つの月周期が過ぎた頃、自身と `Ulisse, i suoi compagni` がいかに遥か南へと航海し、自分たちの星が地平線の下に沈みゆく一方で、反対側の極の星々を仰ぎ見たかを語る。
+
+## Scene 133-142: The Final Storm and Shipwreck
+en: At `*'l ponte*`, `*Ulisse*` recounts how `*Ulisse, i suoi compagni*` rejoiced at the sight of a towering mountain, but their joy turned to weeping when a whirlwind struck. The storm spun the ship three times, and on the fourth rotation, the sea closed over `*Ulisse, i suoi compagni*`.
+ja: `'l ponte`にて、`Ulisse`は、`Ulisse, i suoi compagni`がそびえ立つ山を目にして歓喜したものの、旋風が襲ったことでその喜びが嘆きへと変わったことを語る。船は嵐に三度回転させられ、四度目の回転に、海が`Ulisse, i suoi compagni`を飲み込んだ。

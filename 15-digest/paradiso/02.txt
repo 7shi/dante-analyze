@@ -1,0 +1,101 @@
+# Canto 02 — The Vision of Beatrice and the Celestial Mechanics
+
+## Scene 1-6: The Prologue's Warning
+en: Within the *etterne rote*, *Dante* warns *i lettori* in their *piccioletta barca* not to venture too far into the deep, lest they lose him and be left wandering.
+ja: 永遠の円環の中で、Danteは小さな舟に乗るi lettoriに、彼を見失い彷徨うことのないよう、深淵へ深く入り込みすぎないようにと警告する。
+
+## Scene 7-9: The Divine Muses
+en: Drawing from the inexhaustible *L'acqua*, *Dante* calls upon the inspiration of *Minerva*, the leadership of *Appollo*, and the direction of the *nove Muse*.
+ja: 尽きることのない水から力を得て、DanteはMinervaの霊感、Appolloの指導、そしてnove Museの導きを乞い願った。
+
+## Scene 10-21: The Mythic Precedent
+en: In *L'acqua*, *Dante* tells *Voialtri pochi* that they may navigate the high seas by following his wake, provided they have sought the bread of *li angeli*. He notes that they will be more amazed than *Que' glorïosi* were when they saw *Iasón* humiliated.
+ja: 水の中で、DanteはVoialtri pochiに、li angeliのパンを求めたのであれば、自らの航跡を辿ることで大海原を航行できると語った。Iasónが辱められた様を見たQue' glorïosi以上に、彼らは驚嘆することになるだろうと、彼は付け加えた。
+
+## Scene 22-30: Beatrice Appears
+en: Within *L'acqua*, *Beatrice* swiftly turns her gaze toward *Dante*, looking as happy as she is beautiful. She tells him to lift his mind in gratitude toward *Dio*.
+ja: 水の中で、Beatriceは美しさに劣らぬ幸福感を湛えて、素早くDanteへと視線を向けた。そして、Dioへの感謝とともに心を高く掲げるよう、彼に告げた。
+
+## Scene 31-36: The Metaphor of Light
+en: Within *L'acqua*, *Dante* observes a lucid, solid cloud resembling a diamond, through which an eternal light passes as a ray of light permeates water while remaining whole.
+ja: 水の中で、Danteはダイヤモンドのように透明で凝固した雲を目にした。そこを、光線がそのままの姿で水を通り抜けるように、永遠の光が貫いていた。
+
+## Scene 37-42: Ontological Reflection
+en: Within *L'acqua*, *Dante* reflects that if he still possessed a physical body, his longing would be even more intense to behold the essence in which human nature and *Dio* were united.
+ja: 水の中で、Danteは、もし今も肉体を宿していたなら、人間性とDioがひとつになった本質を仰ぎ見たいという切望はいっそう募っただろうと思索した。
+
+## Scene 43-45: The Nature of Faith
+en: In *L'acqua*, it is revealed that *Dante* will see that which is held by faith as self-evident, just as the first truths believed by *l'uom* are known.
+ja: 水の中で、l'uomが信じた最初の真理が知られているように、Danteは信仰によって抱かれるものを自明のものとして見ることになると明かされる。
+
+## Scene 46-51: Dante's Inquiry
+en: Within *L'acqua*, *Dante* expresses his gratitude to *Dio* for being removed from the mortal world and asks *Beatrice* about the dark marks on his body that cause others to speak of *Caine*.
+ja: L'acquaの中で、Danteは俗世から遠ざけられたことにDioへの感謝を捧げ、人々がCaineの名を口にする原因となった自らの身体の黒い印についてBeatriceに問いかけた。
+
+## Scene 52-58: Beatrice's Challenge
+en: Within *L'acqua*, *Beatrice* smiles and tells *Dante* that the opinions of the *mortali* are flawed where reason is limited, urging him to ignore their judgment and instead tell her his own thoughts.
+ja: L'acquaにて、Beatriceは微笑んでDanteに告げた。理性が及ばぬところではmortaliの意見は不完全なものであるから、彼らの判断など気にせず、あなた自身の考えを私に聞かせてほしい、と。
+
+## Scene 59-60: Dante's Hypothesis
+en: Within *L'acqua*, *Dante* proposes that the visual differences appearing above are caused by the varying densities of spiritual bodies.
+ja: L'acquaにおいて、Danteは、そこに現れている視覚的な差異は、霊体の密度の違いから生じるものであると説いた。
+
+## Scene 61-72: The Argument from Virtue
+en: Within *L'acqua*, *Beatrice* informs *Dante* that his theory is flawed, arguing that the varying qualities of the lights above prove that diverse virtues arise from distinct formal principles rather than mere differences in density.
+ja: L'acquaにおいて、BeatriceはDanteの説に誤りがあることを指摘し、頭上に輝く光の質の差異こそが、多様な徳とは単なる密度の違いではなく、それぞれ異なる形式的原理から生じるものであることを証明しているのだと説いた。
+
+## Scene 73-84: The Argument from Matter
+en: Within *L'acqua*, the reasoning of *Beatrice* asserts that if rarity caused the dark marks, they would be transparent during a solar eclipse, thereby falsifying *Dante*'s opinion.
+ja: L'acquaにおいて、Beatriceの論理は、もし希薄さがその暗い印の原因であるならば、日食の最中にはそれらが透明になるはずであると断じ、Danteの説を覆した。
+
+## Scene 85-90: The Argument from Opacity
+en: Within `*L'acqua*`, it is argued that rarity would allow light to pass, whereas the observed opacity instead suggests a boundary that reflects light like lead hidden behind glass.
+ja: `L'acqua`においては、希薄であれば光は透過すると論じられているが、観測された不透明さは、むしろガラスの背後に隠された鉛のように光を反射する境界の存在を示唆していた。
+
+## Scene 91-93: The Argument from Refraction
+en: Within *L'acqua*, *Dante* is told that he might now argue the darkness is caused by light being refracted backward.
+ja: 水の中で、Danteは、この闇は光が後方に屈折したことで生じているのだと、今や論じてもよいのだと告げられた。
+
+## Scene 94-96: The Appeal to Experience
+en: Within *L'acqua*, *Dante* is told that experience can resolve the matter, as it typically serves as the source for his arts.
+ja: L'acquaにて、Danteは、経験こそが事態を解決し得ると告げられる。経験こそが、通常、彼の芸術の源泉となるからだ。
+
+## Scene 97-105: The Three-Mirror Experiment
+en: Within *L'acqua*, *Dante* is instructed to arrange three mirrors and a light source to observe how the reflected light returns with equal brilliance regardless of the distance traveled.
+ja: 水の世界において、Danteは三枚の鏡とひとつの光源を配置し、反射した光がどれほど遠くを旅しようとも、等しい輝きを湛えて戻る様子を観察せよとの指示を受けた。
+
+## Scene 106-111: The Vision of Intense Light
+en: Within *L'acqua*, it is spoken of how *Beatrice* intends to strip away the intellectual reasoning of *Dante* with a light so vivid that it will make him tremble.
+ja: 水の中では、Beatriceが、Danteを戦慄させるほど鮮烈な光をもって、その知的な理性を剥ぎ取ろうとしていると語られている。
+
+## Scene 112-117: The Primum Mobile
+en: Within `*L'acqua*`, a rotating body is described as the source of an essence that governs all that follows. This essence divides existence into diverse forms, yet keeps them all contained.
+ja: `L'acqua`において、回転する天体は、その後に続く万物を統べる本質の源泉として描かれている。この本質は、存在を多様な形態へと分かちながらも、同時にそれらすべてをその内に留めている。
+
+## Scene 118-123: The Order of the Spheres
+en: Within *L'acqua*, *Dante* learns that the organs of the world operate through a hierarchy of grades, receiving influence from above to transmit it to the levels below.
+ja: 水の中で、Danteは、世界の諸器官が階層的な等級に従って機能し、上位から受け取った影響を下位へと伝達させていることを知る。
+
+## Scene 124-126: The Way of the Truth
+en: In *questo loco*, *Dante* is urged to observe the path of *Beatrice* toward the truth he desires, so that he may later keep his own course.
+ja: この場所において、Danteは、自らが追い求める真理へと向かうBeatriceの歩みを注視するよう促される。それは、後になって彼が自らの道を踏み外さず進むためであった。
+
+## Scene 127-132: The Divine Influence
+en: Within *questo loco*, the *beati motor* is spoken of as the craftsman whose deep mind directs the motion and virtue of the spheres, leaving its image as a seal upon the rotating heavens.
+ja: この場所において、beati motorは、その深遠なる知性をもって天球の運行と徳を司り、回転する天空に自らの像を印として刻み込む工匠であると語られている。
+
+## Scene 133-138: The Analogy of the Soul
+en: Within `*questo loco*`, a comparison is made between the way `*l'alma*` is spoken of as distributing itself through the various members of the body and the way a unified celestial goodness unfolds across the stars.
+ja: この場所において、`l'alma`が身体のさまざまな部位へと浸透していくあり方と、統一された天上の善が星々へと展開していくさまが、対比的に描かれている。
+
+## Scene 139-141: The Union of Virtue and Body
+en: Within *questo loco*, it is explained that different spiritual virtues form distinct bonds with celestial bodies, just as life binds to and animates the human body.
+ja: questo loco では、生命が人の体に結びついてそこに活力を与えるように、さまざまな霊的な徳が、それぞれ固有の天体と結びつきを成しているのだと説かれている。
+
+## Scene 142-144: The Radiance of Virtue
+en: Within `*questo loco*`, it is explained that the virtue mixed within a body radiates light because of its joyful nature, much as joy shines through a living eye.
+ja: `questo loco`において、肉体に混ざり合う徳が光を放つのは、それが喜びという性質を帯びているためであり、それはあたかも生ける者の瞳に喜びが輝き出るのと同様であると説かれている。
+
+## Scene 145-148: The Nature of Light
+en: Within `*questo loco*`, it is explained that the variation in light results from a formal principle acting according to its goodness, rather than from differences in density.
+ja: `questo loco`において、光の差異は密度の違いによるものではなく、ある形相的な原理がその善さに従って作用した結果であると説かれている。

@@ -1,0 +1,81 @@
+# Canto 16 — The Encounter with Marco Lombardo
+
+## Scene 1-9: The Thick Fog
+en: In *l'altro girone*, a smoke so thick and caustic blinds *Dante*, prompting *Virgilio* to draw close and offer his shoulder for support.
+ja: もう一方の圏では、濃密で刺激的な煙がDanteの視界を遮り、Virgilioは彼に寄り添い、支えとなるべく肩を貸した。
+
+## Scene 10-15: Following the Guide
+en: *Dante* follows *Virgilio* through the foul air of *l'altro girone* like a blind man relying on his guide, while *Virgilio* warns him to stay close so they are not separated.
+ja: 導き手に身を委ねる盲人のごとく、Danteは別の円環の悪臭漂う空気の中をVirgilioの後についていった。Virgilioは、はぐれてしまわぬよう、近くに寄り添うようにと彼に警告した。
+
+## Scene 16-21: The Voices of the Neutrals
+en: In *l'altro girone*, *Dante* hears voices pleading in unison for peace and mercy from *Cristo*.
+ja: もう一方の圏において、DanteはCristoに平安と慈悲を求めて一斉に嘆願する声を聞いた。
+
+## Scene 22-24: Virgil’s Interpretation
+en: In *l'altro girone*, *Dante* asks *Virgilio* if the voices he hears are *spirti*, and *Virgilio* confirms that these *spirti* are venting their anger.
+ja: 別の円環にて、Danteは聞こえてくる声がspirtiであるのかをVirgilioに問い、Virgilioはそれらのspirtiが怒りをぶちまけているのだと肯定した。
+
+## Scene 25-30: The Voice’s Interruption
+en: In *l'altro girone*, *Marco Lombardo* asks *Dante* who he is and why he speaks of *gli iracondi* as if they were still living, prompting *Virgilio* to tell *Dante* to respond and inquire if there is a way to ascend.
+ja: 別の圏にて、Marco LombardoはDanteにその正体を問い、なぜgli iracondiのことをあたかも生きているかのように語るのかと尋ねた。するとVirgilioはDanteに、それに応答した上で、上へと登る道があるかを尋ねるよう促した。
+
+## Scene 31-36: Dante’s Introduction and the Voice’s Promise
+en: *Dante* tells *Marco Lombardo* that he will hear something marvelous if he follows, mentioning that *Marco Lombardo* is being purified to return to the beauty of *Dio*. *Marco Lombardo* agrees to follow as far as he may, observing that although they cannot see each other in *l'altro girone*, their hearing will keep them together.
+ja: Danteは、Dioの美へと回帰するために浄化されているMarco Lombardoへ、ついてくれば驚くべきことが聞こえるだろうと告げた。Marco Lombardoは行けるところまでついていくことに同意し、別の圏では互いの姿は見えずとも、聴覚だけは彼らを結びつけてくれるだろうと述べた。
+
+## Scene 37-45: The Mission and Request for Identity
+en: In *l'altro girone*, *Dante* explains to *Marco Lombardo* that he travels by a grace from *Dio* that allows him to see the divine court despite still being alive. He asks *Marco Lombardo* to reveal his identity and confirm if they are moving toward the correct passage.
+ja: 別の圏にて、DanteはMarco Lombardoに、Dioの恩寵によって生きながらにして神の宮廷を視ることができているのだと語った。そして、Marco Lombardoにその正体を明かすよう求め、自分たちが正しい通路へと向かっているのかを確認した。
+
+## Scene 46-51: Marco’s Identity and Request for Prayer
+en: In *l'altro girone*, *Marco Lombardo* reveals his identity and worldly past, instructing *Dante* to proceed straight to ascend. He then asks *Dante* to pray for him once *Dante* has ascended.
+ja: 別の円環にて、Marco Lombardoは自らの正体と現世での過去を明かし、Danteにそのまま直進して登るよう促した。そして、Danteが登り切った後には、自分のために祈りを捧げてほしいと彼に願った。
+
+## Scene 52-63: Dante’s Doubt and the State of the World
+en: In *l'altro girone*, *Dante* pledges to pray for *Marco Lombardo* but confesses a burning doubt, asking *Marco Lombardo* to reveal the cause of a world so stripped of virtue and consumed by malice.
+ja: 別の圏にて、DanteはMarco Lombardoのために祈ることを誓いながらも、心に燃えるような疑念を吐露し、徳を失い悪意に塗り潰されたこの世界の原因を明かすようMarco Lombardoに請うた。
+
+## Scene 64-78: The Mechanics of Free Will
+en: In *l'altro girone*, *Marco Lombardo* sighs and tells *Dante* that while celestial influences initiate human movements, *voi che vivete* are granted a free will to choose between good and evil. He contends that if all actions were driven by necessity, there would be no justice in reward or punishment.
+ja: 別の圏域にて、Marco Lombardoは溜息をつきながら、天上の影響が人の動きを促すとはいえ、voi che viveteには善悪を選択する自由意志が与えられているのだとDanteに語る。もしあらゆる行いが必然に支配されているのであれば、賞罰に正義などあり得ない、と彼は主張した。
+
+## Scene 79-84: Human Responsibility
+en: In *l'altro girone*, *Marco Lombardo* explains to *Dante* that *uomini* possess a free will that transcends celestial influence, meaning they alone are responsible for the world's corruption. He concludes by promising *Dante* that he will serve as a truthful witness to this fact.
+ja: 別の圏において、Marco Lombardoは、uominiには天の影響を超越した自由意志が備わっており、それゆえに世界の堕落は彼らのみの責任であるとDanteに説いた。そして、自らがこの事実の真実なる証人となることをDanteに約束して締めくくった。
+
+## Scene 85-93: The Metaphor of the Soul
+en: In *l'altro girone*, it is explained that `*l'anima semplicetta*` emerges from `*Dio*` like a `*fanciulla*` and, moved by a `*lieto fattore*`, instinctively pursues small pleasures.
+ja: もう一つの圏において、l'anima semplicettaはfanciullaのようにDioから現れ、lieto fattoreに突き動かされて、本能的にささやかな快楽を追い求めると説かれている。
+
+## Scene 94-105: The Failure of Law and Leadership
+en: In `*l'altro girone*`, `*Dante*` is told that while a `*rege*` is necessary to enforce the laws, the failure of such leadership allows `*gente*` to pursue their own greed. This reveals that the world is made wicked by bad conduct rather than a corrupt nature.
+ja: 別の円環にて、法を執行するには`rege`が必要であるが、指導者の不在が`gente`を強欲へと走らせるのだと`Dante`は告げられる。これは、世界を邪悪にしたのは腐敗した本性ではなく、誤った行いであることを明らかにしていた。
+
+## Scene 106-114: The Conflict of the Two Suns
+en: In *l'altro girone*, *Marco Lombardo* explains to *Dante* that the world was meant to be guided by two powers, *l'Imperatore* and *il Papa*, who directed humanity toward earthly order and *Dio*. He argues that the current corruption began when *il Papa* usurped the secular authority of *l'Imperatore*.
+ja: 別の圏域にて、Marco LombardoはDanteに、世界は本来l'Imperatoreとil Papaという二つの権力によって導かれ、人類を地上の秩序とDioへと導くべきであったと説いた。そして、il Papaがl'Imperatoreの世俗的な権威を奪ったことで、現在の腐敗が始まったのだと彼は主張する。
+
+## Scene 115-120: The Decline of Lombardy
+en: In *l'altro girone*, it is recounted that after the conflicts caused by `*Federigo*`, a `*viaggiatore*` may pass through a once-virtuous region without encountering `*i buoni*`, who are now consumed by shame.
+ja: 別の圏域では、Federigoが引き起こした争いの後、viaggiatoreがかつては徳の高かった地を通り抜けても、今は恥辱に身を焼かれているi buoniに出会うことはないと伝えられている。
+
+## Scene 121-126: The Three Old Men
+en: In *l'altro girone*, *Marco Lombardo* identifies *Currado da Palazzo*, *'l buon Gherardo*, and *Guido da Castel* as three old men who criticize the present age and feel that *Dio* is slow in granting them a better life.
+ja: もう一方の圏において、Marco Lombardo は Currado da Palazzo, 'l buon Gherardo, そして Guido da Castel の三人を、現世を批判し、Dio がより良き生を授けるのが遅いと感じている老人たちとして紹介した。
+
+## Scene 127-129: The Corruption of the Church
+en: In *l'altro girone*, *Dante* is urged to testify that a power has fallen into filth by attempting to merge two different forms of governance.
+ja: 別の圏にて、Danteはある権力が二つの異なる統治形態を融合させようと試みたことで汚辱に堕ちたことを、証言するように促される。
+
+## Scene 130-135: Dante’s Inquiry about Gherardo
+en: In *l'altro girone*, *Dante* agrees with the arguments of *Marco Lombardo*, noting the exclusion of *li figli di Levì*, and asks *Marco Lombardo* to identify the wise *Gherardo* he previously mentioned.
+ja: 別の圏域にて、DanteはMarco Lombardoの主張に同意し、li figli di Levìが除外されていることに触れつつ、先に言及のあった賢明なGherardoとは誰なのかをMarco Lombardoに問いかけた。
+
+## Scene 136-140: Marco’s Difficulty with the Name
+en: In *l'altro girone*, *Marco Lombardo* tells *Dante* that he finds the Tuscan phrasing confusing and does not recognize *Gherardo* by that name, except perhaps in connection with his daughter, *Gaia*.
+ja: 別の圏にて、Marco LombardoはDanteに、トスカーナ風の言い回しには困惑しており、娘のGaiaとの関わりにおいてであればまだしも、その名ではGherardoという人物に心当たりはないと語った。
+
+## Scene 141-145: The Departure of Marco
+en: In *l'altro girone*, *Marco Lombardo* wishes *Dio*'s blessing upon *Dante* and *Virgilio*, then departs to avoid being seen by *l'angelo* as the first light of dawn appears.
+ja: 別の圏にて、Marco LombardoはDanteとVirgilioにDioの祝福を祈ると、夜明けの光が差し始めるころ、l'angeloに見つからないようその場を去った。

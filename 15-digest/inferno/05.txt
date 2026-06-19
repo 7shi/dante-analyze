@@ -1,0 +1,61 @@
+# Canto 05 — The Second Circle: The Storm of Lust
+
+## Scene 1-6: The Presence of Minos
+en: *Dante* descends into the *secondo*, where *Minòs* stands snarling, judging the sins of the arriving souls to determine their placement.
+ja: Danteは第二円へと降りていく。そこではMinòsが唸り声を上げ、辿り着いた魂たちの罪を裁いて、彼らが配されるべき場所を決めていた。
+
+## Scene 7-15: The Process of Judgment
+en: *Dante* (mentioned) relates that an *anima mal nata* confesses to *Minosse*, who signals the depth of her descent by wrapping his tail. In the *secondo*, *anime mal nate* wait their turn to be judged and cast down.
+ja: Danteが語るには、ある anima mal nata が Minosse に告白し、彼は尾を巻くことで彼女の堕ちる深さを指し示した。そして第二の圏では、anime mal nate たちが裁きを受けて突き落とされる順番を待っている。
+
+## Scene 16-24: Minos's Warning
+en: In the *doloroso ospizio*, *Minòs* warns *Dante* to be cautious of the place and the guide he trusts. *Virgilio* commands *Minòs* not to obstruct *Dante*'s path, as his journey is willed by the power above.
+ja: 悲しみの宿所において、MinòsはDanteに、この場所と信頼を寄せる導き手に用心せよと警告する。しかしVirgilioは、その旅路は天上の力によって定められたものであるとし、Danteの行く手を阻むなとMinòsに命じた。
+
+## Scene 25-36: The Infernal Tempest
+en: *Dante* enters the *loco d'ogne luce muto*, where an eternal storm violently tosses *li spirti*. As they are beaten against the ruins, *li spirti* cry out in lament and blaspheme the divine virtue.
+ja: Danteは、永遠の嵐がli spirtiを激しく翻弄する、あらゆる光の絶えた静寂の地へと足を踏み入れる。廃墟に打ち付けられたli spirtiは、嘆き叫び、神の徳を冒涜する。
+
+## Scene 37-45: The Nature of the Sin
+en: In the *loco d'ogne luce muto*, *Dante* understands that *i peccator carnali* are damned for subordinating reason to passion. Driven like flocks of starlings by the wind, *i peccator carnali* are tossed without hope of rest or reprieve.
+ja: あらゆる光の絶えし場所にて、Danteは、理性を情欲に従わせたがゆえに i peccator carnali が罰せられていることを悟る。風に煽られるムクドリの群れのごとく、i peccator carnali は安らぎも救いもないままに、ただ翻弄され続けていた。
+
+## Scene 46-51: The Drifting Souls
+en: In the *loco d'ogne luce muto*, *Dante* sees *l'ombre* drifting like a flock of cranes and asks *Virgilio* who these souls are that the black wind so harshly beats.
+ja: 全ての光が絶えたその場所で、Danteはl'ombreが鶴の群れのように漂うのを目にし、黒い風に激しく打ちつけられているこの魂たちは一体何者なのかとVirgilioに問いかけた。
+
+## Scene 52-69: The Catalogue of Lovers
+en: In the `*loco d'ogne luce muto*`, `*Virgilio*` identifies specific souls among `*l'ombre*` for `*Dante*`, including `*Semiramìs*`—who succeeded `*Nino*` and ruled the lands of `*l Soldan*`—and `*Didone*`, who betrayed `*Sicheo*`. He also points out `*Cleopatràs*`, `*Elena*`, `*Achille*`, `*Parìs*`, and `*Tristano*`, indicating that thousands more were similarly torn from their lives by love.
+ja: `loco d'ogne luce muto`において、`Virgilio`は`Dante`に`l'ombre`の中から特定の魂たちを指し示した。そこには、`Nino`の跡を継いで`l Soldan`の地を治めた`Semiramìs`や、`Sicheo`を裏切った`Didone`、そして`Cleopatràs`、`Elena`、`Achille`、`Parìs`、`Tristano`らがおり、愛ゆえに人生を引き裂かれた者が他にも数千人はいることが示された。
+
+## Scene 70-78: A Request for Dialogue
+en: *Dante* is overcome with pity after hearing of *le donne antiche* and *cavalieri*. In the *loco d'ogne luce muto*, *Dante* expresses a desire to speak with *Francesca* and *Paolo*, and *Virgilio* tells him to wait until they are near to appeal to the love that moves them.
+ja: le donne antiche や cavalieri の話を聞いた Dante は、深い憐憫に心を揺さぶられた。あらゆる光の絶えた場所で、Dante が Francesca と Paolo に語らうことを望むと、Virgilio は彼らを突き動かす愛に訴えかけるため、すぐ近くまで来るまで待つように諭した。
+
+## Scene 79-87: The Approach of the Souls
+en: In the *loco d'ogne luce muto*, *Dante* calls to *Francesca* and *Paolo* as the wind pushes them closer. *Francesca* and *Paolo* fly toward *Dante* and *Virgilio*, leaving the mentioned *Dido*.
+ja: loco d'ogne luce mutoにて、風に押されて近づくFrancescaとPaoloにDanteが声をかけた。二人は前述のDidoを離れ、DanteとVirgilioの方へと舞い寄った。
+
+## Scene 88-96: The Souls' Greeting
+en: In *l'aere perso*, *Francesca* and *Paolo* thank *Dante* for his pity and remark that if *il re de l'universo* were their friend, they would pray for his peace. They agree to converse with *Dante* and *Virgilio* provided the wind allows it.
+ja: 失われた大気の中で、Francesca と Paolo は Dante の憐れみに感謝し、もし il re de l'universo が味方であったなら、その平安を祈ったことだろうと語った。そして、風が許す限り、Dante と Virgilio と対話することに同意した。
+
+## Scene 97-107: The Tale of Dido
+en: In `*l'aere perso*`, *Francesca* describes her origins among the *seguaci* and explains to *Dante* how a passion that spares no *nullo amato* seized both her and *Paolo*. This love eventually led them to a death brought about by *Gianciotto*.
+ja: 失われた大気の中で、Francescaはseguaciとしての出自を語り、nullo amatoを容赦せぬ情熱がいかにして自分とPaoloを捉えたかをDanteに明かす。この愛が、やがて二人をGianciottoによる死へと導いた。
+
+## Scene 108-114: Dante's Grief
+en: In *l'aere perso*, *Dante* bows his head in grief after hearing *Francesca*'s words, remaining silent until *Virgilio* asks what he is thinking. *Dante* responds by lamenting how sweet desires and longing led *Francesca* and *Paolo* to their painful end.
+ja: l'aere persoにて、Francescaの言葉を聞いたDanteは悲しみに打ちひしがれてうなだれ、Virgilioに心中を問われるまで沈黙を守っていた。Danteは、甘美な情欲と切望がいかにしてFrancescaとPaoloをこの痛ましい結末へと導いたのかを嘆き、その問いに答えた。
+
+## Scene 115-126: An Inquiry to Francesca
+en: In *l'aere perso*, *Dante* asks *Francesca* how love led her and *Paolo* to their forbidden desires. *Francesca* reflects on the pain of remembering happiness in misery, a sorrow known to *Virgilio*, and agrees to reveal the first root of their love to *Dante*.
+ja: l'aere persoにおいて、DanteはFrancescaに対し、愛がどのように彼女とPaoloを禁じられた欲望へと導いたのかを問いかける。Francescaは、Virgilioも知る「不幸の中で幸福を思い出す」という痛切な悲哀に浸りながら、彼らの愛の始まりをDanteに明かすことに同意した。
+
+## Scene 127-138: The Lancelot Legend
+en: In `*l'aere perso*`, `*Francesca*` recalls how she and `*Paolo*` read of `*Lancialotto*` and how love constrained him, until a description of a kiss led `*Paolo*` to kiss her. She declares that the book and `*chi lo scrisse*` served as `*Galeotto*` to them.
+ja: `l'aere perso`において、`Francesca`は、`Paolo`と共に`Lancialotto`の物語を読み、愛に囚われた騎士の姿に心を寄せていたとき、ある口づけの描写に導かれて`Paolo`が彼女に口づけたことを回想する。彼女は、その書物と`chi lo scrisse`が、二人にとっての`Galeotto`となったのだと語る。
+
+## Scene 139-142: Dante's Collapse
+en: In *l'aere perso*, as *Francesca* finishes speaking and *Paolo* weeps, *Dante* is overcome with pity and collapses like a dead body.
+ja: l'aere persoにて、Francescaが語り終え、Paoloが涙に暮れるなか、Danteは深い憐れみに打ちひしがれ、死人のように崩れ落ちた。

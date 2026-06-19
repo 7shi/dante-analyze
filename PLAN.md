@@ -18,75 +18,23 @@ The committed pipeline covers all three canticles, 100 cantos:
 4. `09-location -> 10-topography -> 11-presence -> 12-addressee -> 13-cohort -> 14-lock` builds the
    per-scene translation context lock on top of the graph.
 
-There is no unfinished mandatory step in this repo. The knowledge graph and the translation context
-lock are both complete; per-pass design and measured results live in each subdir's `README.md`, and
-the context lock as a whole is described in `README.md` ("Context lock"). What remains below are
-optional next directions, not a build queue — choose one before starting new work.
+There is no unfinished mandatory step in this repo. The knowledge graph, the translation context
+lock, and the digest edition that consumes it are all complete; per-pass design and measured results
+live in each subdir's `README.md`, and the context lock and digest are described in `README.md`
+("Context lock", "Digest edition"). What remains below are optional next directions, not a build
+queue — choose one before starting new work.
 
 ## Next directions
 
-### 1. Digest edition — a proof of the context lock
+### 1. Digest follow-ups
 
-Build an analyze-side prose digest from the resolved readings, **as the first consumer of the
-context lock**. The point is not only the digest itself but a demonstration that `14-lock` is what
-keeps a retelling from getting identities and settings wrong: the lock is the **primary input**, and
-the digest exercises it. This is the natural payoff of the just-completed lock.
+The digest edition itself is complete (`15-digest/`, all three canticles; design and measured proof
+in `15-digest/README.md` and the README "Digest edition"). These optional refinements are not started:
 
-Goal: retell each canticle at story-reading density: more detailed than a plot summary, lighter than
-a line-by-line translation.
-
-Shape:
-
-- one to two sentences per scene;
-- scenes grouped into continuous paragraphs, roughly 3-5 paragraphs per canto;
-- prose under `## Canto N` headings;
-- separate from translation work, because it deliberately breaks line fidelity.
-
-Primary inputs:
-
-- `14-lock/<canticle>/NN.toml` via `load_lock(canticle, canto)` (exported from `dante_analyze`) — the
-  per-scene identity-and-setting scaffold `{canticle, canto, scenes: [{lines, title, location,
-  region, cohort, cast, speech, …}]}`, where `cast` is `[{who, status}]` and `speech` is
-  `[{quote_id, lines, speaker, addressee, source}]`. This fixes names (source spelling), where we
-  are, who is present versus merely mentioned, and who speaks to whom.
-- `03-reading/<canticle>/NN.txt` for referent-resolved scene prose (what happens);
-- `01-scenes/<canticle>/NN.json` for scene ranges and paragraph grouping;
-- optionally `08-kg` via `load_kg` for who-does-what edges as an action anchor;
-- source text through `dante-corpus` for anchoring.
-
-How the lock is exercised: the digest draws every named figure and stated setting from the scene's
-lock entry — it may not introduce an identity, location, region, cohort, speaker, or addressee that
-the lock does not list for that scene. The lock is the closed vocabulary for *who* and *where*; the
-reading supplies *what happens*. Identity resolution itself remains the KG's domain (`04-tags` →
-`05-registry` → `08-kg`, with its gap parked in `KG-PROBLEM.md`); the digest consumes the resolved
-result through the lock, it does not re-resolve.
-
-Quality check — the proof:
-
-- **lock conformance (the new, measurable check):** every proper name and setting the digest asserts
-  for a scene must appear in that scene's lock entry (`cast` / `location` / `region` / `cohort` /
-  `speech`). Staying inside the lock is the demonstration that it prevents identity-and-setting
-  drift; deviations are the measurement, not something to hand-correct.
-- narrative coherence and factual accuracy against the scene readings (`03-reading`), not line
-  coverage.
-
-Open design decisions (settle before coding):
-
-- **output language** — English prose with source-spelling names (`Virgilio`), matching the rest of
-  the analysis outputs? Confirm.
-- **model** — strongest available reader; all calls through `dante_analyze.llm.call_llm`. This is
-  uncheckable free prose, so CoT is permissible (ARCHITECTURE "Chain of thought policy").
-- **layout & pass number** — per-canto files under a new `15-digest/`? Make a numbered pass only if
-  it is committed as durable output (see note below).
-- **KG use** — feed `08-kg` action edges as an event anchor, or rely on `03-reading` for events?
-- **lock fields** — which lock fields the digest consumes. Note `14-lock` currently also carries
-  `refer` / `relations` / `simile` / `basis`; a trim of those was discussed and deferred, so decide
-  use-versus-ignore (and whether to revisit the trim) when settling this.
-
-Implementation notes:
-
-- Make a new numbered pass only if it is going to be committed as a durable output.
-- Do not use a future translation as a dependency; a vetted translation could enrich the pass later.
+- tune the `digest show` paragraph grouping;
+- consider generating Japanese independently from the reading rather than translating from the English;
+- refine `conformance.py` to whitelist liturgical quotes / reverent pronouns — method polish that
+  would not change the proof.
 
 ### 2. Deferred quality work
 

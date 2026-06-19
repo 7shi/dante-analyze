@@ -1,0 +1,81 @@
+# Canto 01 — The Dark Wood and the Encounter with Virgil
+
+## Scene 1-12: Lost in the Dark Wood
+en: *Dante* finds himself lost in the *selva oscura*, having strayed from the right path while in a state of spiritual slumber. He describes the terror of the place and resolves to recount the things he encountered there.
+ja: 精神的なまどろみの中で正しき道を外れたDanteは、暗い森へと迷い込んでいた。彼はその地の恐ろしさを語り、そこで遭遇した出来事を記そうと決意する。
+
+## Scene 13-18: The Sight of the Sunlit Hill
+en: *Dante* reaches the *piè d'un colle* and looks upward to see the summit bathed in the rays of light that guide others on their way.
+ja: Danteはpiè d'un colleに辿り着き、ふと見上げると、そこには他者を導く光の光線に照らされた山頂があった。
+
+## Scene 19-21: Relief from Fear
+en: At the *piè d'un colle*, the fear that had flooded *Dante*'s heart throughout the long, sorrowful night finally begins to abate.
+ja: piè d'un colleに辿り着いたとき、長く悲しみに満ちた夜の間、Danteの心を浸していた恐怖がようやく和らぎ始めた。
+
+## Scene 22-30: The Swimmer Simile
+en: *Dante* compares his anxiety to that of *quei che con lena affannata, uscito fuor del pelago a la riva*, as he looks back at the passage no *persona viva* had ever escaped. Resting his exhausted body, *Dante* resumes his journey up *la piaggia diserta* at the *piè d'un colle*.
+ja: Danteは、いかなるpersona vivaも逃れたことのない道を振り返り、自らの不安をquei che con lena affannata, uscito fuor del pelago a la rivaのそれに例えた。疲れ果てた身体を休めたDanteは、丘の麓にある人跡稀な浜辺を登り、再び歩み出した。
+
+## Scene 31-36: The Appearance of the Leopard
+en: At the *cominciar de l'erta*, a swift and spotted leopard obstructs *Dante*, nearly forcing him to turn back several times.
+ja: 丘の登り口で、素早く斑点のある豹がDanteの行く手を阻み、彼は危うく何度も引き返しかけた。
+
+## Scene 37-43: The Morning Light
+en: At the *cominciar de l'erta*, *Dante* finds hope in the morning light and the sweet season as he faces the obstacle before him.
+ja: 登り坂の始まりに、Danteは目前に立ちはだかる困難に直面しながらも、朝の光と麗らかな季節に希望を見出した。
+
+## Scene 44-48: The Appearance of the Lion
+en: At the *cominciar de l'erta*, *Dante* is seized with fear by the appearance of a lion that charges toward him with head held high and rabid hunger, making the air tremble.
+ja: 登り坂の始まりに、Danteは恐怖に囚われた。頭を高く掲げ、狂おしい飢えに突き動かされて猛進してくる獅子の姿が、大気を震わせていた。
+
+## Scene 49-60: The Appearance of the She-Wolf
+en: At the *cominciar de l'erta*, *Dante* is driven back by a beast that has made *molte genti* live in misery. He is overcome by a despair like that of *quei che volontieri acquista* who suddenly loses everything.
+ja: 登り口に差し掛かったDanteは、molte gentiを悲惨な境遇に陥れた獣によって押し戻された。彼は、突如としてすべてを失ったquei che volontieri acquistaが抱くような絶望に、深く打ちひしがれた。
+
+## Scene 61-66: A Shadow in the Desert
+en: As *Dante* descends into the *basso loco*, he encounters *Virgilio*, whose form appears dim from a long silence. *Dante* cries out to *Virgilio*, begging for mercy and questioning whether he is a shade or a living man.
+ja: Danteがbasso locoへと降りていくなか、長き沈黙に霞んだ姿のVirgilioが現れた。Danteは彼に向かって叫び、慈悲を乞いながら、それが亡霊なのか生身の人間なのかを問いかけた。
+
+## Scene 67-75: Virgil's Introduction
+en: In the *basso loco*, *Virgilio* answers that he was once *l'omo*, born under *Iulio* and having lived under *Augusto* in the time of *li dèi*. He identifies himself as a poet who sang of *Enea*, mentioning also *li parenti miei*.
+ja: 低い地にて、Virgilioは、自らがかつてl'omoであり、Iulioの下に生まれ、li dèiの時代にAugustoの下で生きたのだと答えた。そしてli parenti mieiについても触れつつ、自らをEneaを歌った詩人であると名乗った。
+
+## Scene 76-78: The Challenge to Ascend
+en: In the *basso loco* of the region *là dove 'l sol tace*, *Dante* is asked why he returns to such misery instead of ascending the delightful mountain that is the source of all joy.
+ja: 太陽が沈黙する地の低い場所において、あらゆる喜びの源である心地よい山に登るのではなく、なぜこのような悲惨な地に戻ってきたのかと Dante は問われる。
+
+## Scene 79-81: Dante's Recognition
+en: In the *basso loco* of the region *là dove 'l sol tace*, *Dante* asks *Virgilio* with a shamed expression if he is indeed the poet and source of such vast eloquence.
+ja: là dove 'l sol tace という地域の basso loco において、Dante は恥じらう面持ちで、Virgilio こそが真に、あの限りない雄弁さを湛えた詩人であり、その源であるのかと問いかけた。
+
+## Scene 82-90: A Plea for Guidance
+en: In the *basso loco* of the region *là dove 'l sol tace*, *Dante* hails *Virgilio* as his master and the source of his poetic style. He then begs *Virgilio* to rescue him from the beast that leaves him trembling with fear.
+ja: 太陽の沈黙せし地、là dove 'l sol taceのbasso locoにおいて、DanteはVirgilioを師として、また自らの詩風の源泉として仰ぎ見た。そして、恐怖に身を震わせる自分をあの獣から救い出してほしいと、Virgilioに切に請い願った。
+
+## Scene 91-99: The Nature of the She-Wolf
+en: Seeing *Dante* weep, *Virgilio* advises him to take a different path to escape the *loco selvaggio*. He explains that the beast destroys *altrui* who attempt to pass, possessed by a malicious greed that only increases after feeding.
+ja: Danteが嘆き泣くのを見たVirgilioは、野生の地を脱するために別の道を行くよう彼に説いた。その獣は、喰らえば喰らうほど増大する悪意に満ちた強欲に憑りつかれ、通り抜けようとするaltruiをことごとく滅ぼすのだという。
+
+## Scene 100-105: The Prophecy of the Veltro
+en: In the *loco selvaggio* of the region *là dove 'l sol tace*, a prophecy is spoken of a coming savior of wisdom and virtue who will eventually destroy the greed that torments so many.
+ja: là dove 'l sol tace の地に広がる loco selvaggio では、知恵と徳を兼ね備えた救世主が降臨し、多くの人々を苛む強欲をいつか打ち砕くという予言が語られている。
+
+## Scene 106-111: The Fate of Italy
+en: In the *loco selvaggio* of the region *là dove 'l sol tace*, it is prophesied that a savior will restore the land where *Cammilla*, *Eurialo*, *Turno*, and *Niso* are mentioned to have perished, and will drive the beast back to the depths.
+ja: 太陽が沈黙する地の荒野において、Cammilla, Eurialo, Turno, そしてNisoが斃れたと言い伝えられるこの地を救世主が再生させ、獣を深淵へと追い戻すという予言が語られている。
+
+## Scene 112-120: The Plan for the Journey
+en: In the *loco selvaggio* of the region *là dove 'l sol tace*, *Virgilio* offers to be the guide for *Dante*, leading him through an eternal place. There, *Dante* will encounter *li antichi spiriti dolenti* and see *color che son contenti nel foco* who hope to eventually join *le beate genti*.
+ja: 太陽が沈黙する地の荒涼たる場所にて、Virgilio は Dante の導き手となることを申し出て、彼を永遠の領域へと導く。そこで Dante は li antichi spiriti dolenti と出会い、いつの日か le beate genti に加わることを切望する color che son contenti nel foco の姿を目の当たりにするのである。
+
+## Scene 121-129: The Prohibition of the Ascent
+en: In the *loco selvaggio* of the region *là dove 'l sol tace*, *Virgilio* warns *Dante* that he cannot guide him on the final ascent, as *l'imperador* forbids his entry into the celestial city. *Virgilio* explains that *Beatrice* will instead be the soul worthy to lead *Dante* to that height.
+ja: 太陽の沈黙する地の荒野にて、Virgilio は Dante に、l'imperador が天の都への進入を禁じているため、最後の登攀まで導くことはできないと告げた。そして、代わりに Beatrice こそが Dante をその高みへと導くにふさわしい魂であると説いた。
+
+## Scene 130-135: Dante's Acceptance
+en: In the *loco selvaggio* of the region *là dove 'l sol tace*, *Dante* implores *Virgilio* to guide him away from his misery, invoking the name of *Dio*. He asks to be led toward the gate of *San Pietro* and to *the suffering spirits* who cause *Virgilio* such sorrow.
+ja: 太陽の届かぬ地の荒涼たる場所で、DanteはDioの名を唱え、自らの悲嘆から救い出してくれるようVirgilioに懇願した。彼は、San Pietroの門へと、そしてVirgilioに深い悲しみをもたらしているthe suffering spiritsのもとへと導いてほしいと願った。
+
+## Scene 136-136: The Journey Begins
+en: In the *loco selvaggio* of the region *là dove 'l sol tace*, *Virgilio* sets off, and *Dante* follows him.
+ja: là dove 'l sol tace の領域に広がる loco selvaggio にて、Virgilio が歩み出し、Dante がそれに続いた。

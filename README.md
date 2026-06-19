@@ -34,6 +34,7 @@ measured against — not a shortcut poured in.
 - `12-addressee/` — addressee per speech span: who each speaker is talking to (committed)
 - `13-cohort/` — which class of souls dwells in each scene, with a per-region rollup (committed)
 - `14-lock/` — the per-scene translation context lock: a pure-code join of all layers plus the KG (committed)
+- `15-digest/` — the digest edition: a bilingual per-scene retelling constrained to the lock, and its conformance proof (committed)
 - `ref/` — hand-written reference material, kept as an evaluation anchor (per "Premise": a reference
   is for evaluation, never an input): `inferno-01.toml`, a full hand-built Inferno 1 lock the
   generated `14-lock` is compared against structurally, and `PLAN.md`, the parked design sketch the
@@ -160,7 +161,29 @@ subdir's `README.md`:
    (speaker/addressee), and the KG's resolved `refer`/`relations`/`simile`. A structural check
    guards scene coverage, region totality, and basis ranges. → `14-lock/README.md`
 
-This completes the translation context lock; see `PLAN.md` for the remaining directions (digest, deferred quality work).
+This completes the translation context lock.
+
+## Digest edition
+
+The context lock's first **consumer**, and its proof (`15-digest/`). A 1–2 sentence bilingual
+(English + Japanese) retelling per scene at story-reading density — more than a plot summary, lighter
+than a line-by-line translation — built with the scene's `14-lock` entry as the **closed *who/where*
+vocabulary** and `03-reading` for *what happens*. The digest may not introduce a name, place, or
+soul-class the lock does not list for the scene, so a pure-code conformance check measures whether the
+lock kept the retelling from drifting. Generated for all three canticles (100 cantos); LLM prose plus
+a code-only proof. → `15-digest/README.md`
+
+```bash
+make -C 15-digest                          # generate all three canticles
+make -C 15-digest check                    # measure 14-lock conformance (no LLM)
+uv run dante-analyze digest show inferno 1 # render as paragraphed bilingual prose
+```
+
+Across all 100 cantos the digest stays within the lock vocabulary **99.5%** of the time (15757/15838
+asserted names and settings), and every residual is non-name material the lock does not vocabularize
+(liturgical Latin quotations, capitalized theological abstractions, reverent pronouns) — never a
+wrong figure or place. The lock prevents the identity-and-setting drift it is built to prevent. See
+`PLAN.md` for the remaining deferred quality work.
 
 ## Downstream Projects
 

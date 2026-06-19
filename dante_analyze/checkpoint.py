@@ -7,7 +7,7 @@ import sys
 
 from ._paths import (
     READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR, LOCATION_DIR,
-    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR, LOCK_DIR,
+    TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR, LOCK_DIR, DIGEST_DIR,
 )
 from .labels import fold_key
 
@@ -510,3 +510,28 @@ def load_lock(canticle, canto):
         sys.exit(1)
     doc = tomllib.loads(path.read_text(encoding="utf-8"))
     return {"canticle": doc["canticle"], "canto": doc["canto"], "scenes": doc.get("scene", [])}
+
+
+# A digest body line: `en: <english sentences>` or `ja: <日本語>`. One of each per scene block.
+DIGEST_LINE_RE = re.compile(r"^(en|ja):\s*(.*\S)\s*$")
+
+
+def load_digest(canticle, canto):
+    """{(start, end): {"en": str, "ja": str}} for a canto from 15-digest/<canticle>/NN.txt, or exit
+    if absent. Each `## Scene s-e` block carries an `en:` and a `ja:` line — the 1-2 sentence
+    bilingual retelling of that scene, drawn from its 14-lock entry (the closed who/where vocabulary)
+    and 03-reading (events). A missing language defaults to the empty string. Built by
+    15-digest/digest.py; see 15-digest/README.md."""
+    path = out_path(DIGEST_DIR, canticle, canto)
+    if not path.exists():
+        print(f"Error: digest not found: {path} (run 15-digest/digest.py first)", file=sys.stderr)
+        sys.exit(1)
+    out = {}
+    for (s, e), body in scene_bodies(path).items():
+        langs = {"en": "", "ja": ""}
+        for line in body.splitlines():
+            m = DIGEST_LINE_RE.match(line)
+            if m:
+                langs[m.group(1)] = m.group(2)
+        out[(s, e)] = langs
+    return out

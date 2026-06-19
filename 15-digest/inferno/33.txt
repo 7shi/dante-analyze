@@ -1,0 +1,61 @@
+# Canto 33 — The Tale of Count Ugolino and the Frozen Souls
+
+## Scene 1-9: The Sinner’s Pause
+en: Within the *lago*, *quel peccator* lifts his head from the skull of *al traditor* to tell *Dante* that he will relive his agonizing pain only if it brings further infamy to *al traditor*.
+ja: 湖の中で、quel peccatorはal traditorの頭蓋骨から頭をもたげ、Danteに告げた。al traditorにさらなる不名誉がもたらされるときにのみ、自分はあの悶えるような苦痛を再び味わうことになると。
+
+## Scene 10-15: The Introduction
+en: In the *lago*, *conte Ugolino* tells *Dante* that he seems to be a Florentine and identifies himself and *arcivescovo Ruggieri*, promising to explain why they are together.
+ja: 湖の中で、conte UgolinoはDanteがフィレンツェ人のようであると告げ、自らとarcivescovo Ruggieriが何者であるかを明かし、なぜ二人が共にいるのかを説明すると約束した。
+
+## Scene 16-27: The Imprisonment
+en: In the *lago*, *Ugolino* tells *Dante* how he trusted *Ruggieri*, who betrayed him, and describes the cruelty of his imprisonment, where *altrui* might also be shut away, and a nightmare that revealed his future.
+ja: 湖の中で、UgolinoはDanteに、信頼していたRuggieriに裏切られた経緯を語り、altruiまでもが閉じ込められる監禁の残酷さと、自らの未来を予見させた悪夢について述べる。
+
+## Scene 28-36: The Prison Landscape
+en: In the *lago*, *Ugolino* describes a dream where *Gualandi*, *Sismondi*, and *Lanfranchi* hunt him and *i figli* like wolves, tearing into their flanks under the direction of the mentioned *Ruggieri* and beyond the sight of the mentioned *i Pisan*.
+ja: 湖の中で、Ugolinoはある夢を語る。そこでは、前述のRuggieriの指揮の下、Gualandi、Sismondi、Lanfranchiが狼のごとく彼とi figliを追い詰め、前述のi Pisanの視界の外でその脇腹を食い破っていた。
+
+## Scene 37-54: The Morning of Hunger
+en: In the *lago*, *Ugolino* describes waking to the cries of *i figliuoli di Ugolino* begging for bread, challenging *Dante* to weep for such suffering. When the hour for food arrives, *Anselmuccio* asks why his father is silent, but *Ugolino* remains mute and tearless for the following day and night.
+ja: 湖の中で、Ugolinoはパンを求めるi figliuoli di Ugolinoの泣き叫ぶ声で目を覚ましたことを語り、これほどの苦しみに涙せよとDanteに迫る。食事の刻限が訪れ、Anselmuccioがなぜ父は沈黙しているのかと問うが、Ugolinoはその後一日一夜、口を閉ざしたまま涙ひとつ流さなかった。
+
+## Scene 55-66: The Terrible Choice
+en: In the *lago*, *Ugolino* bites his hands in despair, prompting *Anselmuccio* to offer his own flesh as sustenance. *Ugolino* silences himself and they remain mute for two days, while *Ugolino* wishes the earth had opened.
+ja: 湖の中で、絶望のあまり自らの手を噛む Ugolino に、Anselmuccio は自らの肉を糧として差し出した。Ugolino は口を閉ざし、二人は二日間沈黙に浸ったが、その間 Ugolino は地が割れて飲み込まれればよいのにと願っていた。
+
+## Scene 67-75: The Death of the Children
+en: In the *lago*, *Ugolino* tells *Dante* how *Gaddo* collapsed and died on the fourth day, followed by the rest of *i figli di Ugolino* between the fifth and sixth. Blinded by hunger, *Ugolino* spent two days groping and calling to their corpses before he too succumbed to famine.
+ja: 湖の中で、UgolinoはDanteに、四日目にGaddoが倒れて死に、五日から六日の間にi figli di Ugolinoの残る者たちもそれに続いたことを語る。飢えに目を眩ませたUgolinoは、自らも飢餓に屈するまでの二日間、死体を手探りで探し、彼らに呼びかけ続けた。
+
+## Scene 76-78: Resumption of the Feast
+en: In the *lago*, *Ugolino* finishes speaking and, with twisted eyes, resumes biting the skull with teeth as strong as a dog's.
+ja: 湖のなかで、Ugolinoは語り終えると、その目を歪ませ、犬のごとき強靭な歯で再び頭蓋骨を噛み始めた。
+
+## Scene 79-90: The Curse on Pisa
+en: In the *lago*, a curse is called down upon a city and its *vicini*, wishing that *ogne persona* there be drowned. The innocence of *i figliuoi*—including *Uguiccione*, *la brigata*, *Anselmuccio*, and *Gaddo*—is invoked to condemn the cruelty visited upon them regardless of the betrayal of *conte Ugolino*.
+ja: 湖において、ある都市とそのviciniに呪いがかけられ、そこにいるogne personaがことごとく溺死することが願われた。そしてconte Ugolinoの裏切りにかかわらず、Uguiccione, la brigata, Anselmuccio, Gaddoを含むi figliuoiの無垢さが、彼らに降りかかった残酷な仕打ちを断罪すべく訴えられている。
+
+## Scene 91-108: Entering Cocytus
+en: In the *lago*, *Dante* and *Virgilio* pass *un'altra gente* whose frozen tears form crystalline visors over their eyes. When *Dante* asks *Virgilio* what causes a sudden breeze, *Virgilio* tells him that his eyes will soon reveal the source, referring to *Lucifero*.
+ja: 湖の中で、DanteとVirgilioは、凍りついた涙が水晶の覆いとなって目に張り付いたun'altra genteの傍らを通り過ぎる。突如として吹き起こった風の正体をDanteが問うと、Virgilioは、間もなくその目で正体がわかるだろうと答え、Luciferoのことについて触れた。
+
+## Scene 109-117: The Cry for Unmasking
+en: In the *fredda crosta* of the *lago*, *un de' tristi* begs *Dante* and *Virgilio* to remove the frozen masks from his eyes so that he may weep. *Dante* responds that he will only assist *un de' tristi* if the soul reveals his identity, otherwise he will continue his descent to the bottom.
+ja: 湖の凍てついた殻の中で、un de' tristi が Dante と Virgilio に、涙を流せるよう目に張り付いた氷の仮面を取り除いてほしいと請う。Dante は、その魂が正体を明かすのであれば un de' tristi を助けるが、さもなくばそのまま底へと降りていくと答えた。
+
+## Scene 118-126: The Identity of Alberigo
+en: In *Tolomea*, *frate Alberigo* reveals his identity to *Dante* and admits he is unsure if his physical body is yet dead, explaining that *l'anima* often descends here before *Atropòs* has cut the thread of life.
+ja: Tolomeaにおいて、frate AlberigoはDanteに正体を明かし、Atropòsが生命の糸を切る前にl'animaがここへ降りてくることはしばしばあるため、自らの肉体がすでに死んでいるのか定かではないと認めた。
+
+## Scene 127-138: The Mechanics of the Tolomea
+en: In *Tolomea*, *Fra Alberigo* explains to *Dante* that once *l'anima* betrays, the soul is cast down while a *demonio* takes over the physical body. He then identifies the frozen shade behind him as *ser Branca Doria*, who has been imprisoned there for many years.
+ja: Tolomeaにおいて、Fra AlberigoはDanteに、l'animaが裏切りを犯すと魂は突き落とされ、代わりにdemonioがその肉体を乗っ取るのだと説明した。そして彼は、背後で凍てついた姿にある者が、長年ここに囚われ続けているser Branca Doriaであると明かした。
+
+## Scene 139-150: The Dispute with Alberigo
+en: In *Tolomea*, *Dante* argues that *Branca Doria* is still alive, but *Alberigo* explains that *Michel Zanche* and the *Malebranche* replaced *Branca Doria*'s soul with *il diavolo* and *un suo prossimano*. *Dante* then refuses *Alberigo*'s plea to clear the ice from his eyes.
+ja: Tolomeaにおいて、DanteはBranca Doriaがいまだ生存していると主張したが、Alberigoは、Michel ZancheとMalebrancheがBranca Doriaの魂をil diavoloとun suo prossimanoにすり替えたのだと説明した。そしてDanteは、目から氷を取り除いてほしいというAlberigoの嘆願を拒絶した。
+
+## Scene 151-157: The Curse on Genoa
+en: In *Tolomea*, *Dante* curses the mentioned *Genovesi* for their depravity, questioning why they have not been wiped from the world. He declares that among them he found *Alberigo*, who is worse than the present *peggiore spirto di Romagna* and whose soul suffers here while his body remains alive.
+ja: Tolomeaにおいて、Danteは前述のGenovesiの堕落を呪い、なぜ彼らがこの世から消し去られていないのかと問う。彼はその中に、今ここにいるpeggiore spirto di Romagnaよりもさらに酷いAlberigoを見出したと述べ、その身は生きていながら、魂のみがここで苦しんでいるのだと宣言する。

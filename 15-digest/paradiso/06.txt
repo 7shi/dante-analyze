@@ -1,0 +1,57 @@
+# Canto 06 — Farinata's Imperial Monologue and Historical Survey
+
+## Scene 1-9: The Movement of the Imperial Eagle
+en: In the *etterne rote*, it is recounted how *Costantin* diverted the imperial eagle, which had followed the path of *Enea* after he took *Lavina*. This bird governed the world for centuries before returning to the speaker's land.
+ja: 永遠の円環の中では、EneaがLavinaを娶った後に辿った道を追ってきた帝国の鷲を、Costantinがいかにして別の方向へ導いたかが語られている。この鳥は数世紀にわたって世界を支配し、やがて語り手の地へと戻ってきた。
+
+## Scene 10-27: The Imperial Persona and Spiritual Journey
+en: In the *etterne rote*, *Iustinïano* tells *Dante* that he refined the laws and was led to the true faith in *Cristo* by *Agapito*. He describes how *Dio* inspired his high work, prompting him to entrust the arms to *Belisar*.
+ja: 永遠なる円環の中で、IustinïanoはDanteに、自らが法を整備し、AgapitoによってCristoへの真なる信仰へと導かれたことを語る。そして、Dioがその崇高な業に霊感を与え、Belisarに軍を委ねさせた経緯を明かしている。
+
+## Scene 28-33: The Significance of the Political Sign
+en: In the *etterne rote*, *Dante* is told that certain premises must be established to explain the reasons why *chi 'l s'appropria* and *chi a lui s'oppone* clash, in relation to *Giustino*.
+ja: 永遠なる天球において、Danteは、Giustinoを巡って chi 'l s'appropria と chi a lui s'oppone が衝突する理由を説くためには、いくつかの前提を定める必要があると告げられた。
+
+## Scene 34-48: The Glory of the Roman Lineage
+en: In the *etterne rote*, *Dante* is told how the empire's glory began when *Pallante* died for *Enea e i suoi discendenti* and how *Enea*'s line endured the trials of *le Sabine* and *Lucrezia* under the *sette regi*. The account further recalls the conquest of *le genti vicine* and the triumphs of *li egregi* *Romani* over *Brenno*, *Pirro*, *li altri principi*, and *collegi*, which brought fame to *Torquato*, *Quinzio*, *i Deci*, and *' Fabi*.
+ja: 永遠の車輪の中で、Danteは、PallanteがEnea e i suoi discendentiのために命を捧げたことで帝国の栄光が始まり、Eneaの血統がsette regiの下でle SabineやLucreziaという試練に耐え抜いたことを聞かされる。さらに、le genti vicineの征服や、Brenno、Pirro、li altri principi、およびcollegiに対するli egregi Romaniの勝利が回想され、それがTorquato、Quinzio、i Deci、そして' Fabiに名声をもたらしたことが語られる。
+
+## Scene 49-54: The Expansion of Imperial Power
+en: In the *etterne rote*, it is recounted how the pride of those who followed *Anibale* was crushed and how *giovanetti* such as *Scipïone* and *Pompeo* triumphed, a power that felt bitter to the land where *Dante* was born.
+ja: 永遠の輪の中では、Anibaleに従った者たちの矜持がいかに打ち砕かれ、ScipïoneやPompeoといったgiovanettiがいかに勝利を収めたかが語られており、その権力はDanteが生まれた地に苦い記憶を刻んだ。
+
+## Scene 55-63: The Era of Julius Caesar
+en: In the *etterne rote*, it is recounted how *Cesare* was raised to power and accomplished deeds of such immense scale that no language or pen could fully express them.
+ja: 永遠に巡る輪の中で、Cesareがいかにして権力を掌握し、いかなる言葉や筆をもってしても書き尽くせぬほど途方もない業を成し遂げたかが語られている。
+
+## Scene 64-72: The Global Reach of the Empire
+en: In the *etterne rote*, it is recounted how *Cesare* expanded his reach across the world, visiting the burial place of *Ettore* and asserting his will over *Tolomeo*.
+ja: 永遠の輪には、Cesareが世界にその権勢を広げ、Ettoreの墓所を訪れ、Tolomeoに自らの意志を強いたことが記されている。
+
+## Scene 73-81: The Tragedies of War and the Era of Peace
+en: In the *etterne rote*, it is recounted how `*Cesare*` was followed by `*col baiulo*`, and how `*Bruto*` and `*Cassio*` were condemned while `*Cleopatra*` suffered. Then it is told how `*Augusto*` brought a peace that shut the temple of `*Giano*`.
+ja: *etterne rote*には、`col baiulo`に付き添われた`Cesare`のありさまや、断罪された`Bruto`と`Cassio`、そして苦しむ`Cleopatra`の姿が語られている。また、`Augusto`がもたらした平和が`Giano`の神殿を閉じさせたことも記されている。
+
+## Scene 82-90: The Third Caesar and Divine Justice
+en: In the *etterne rote*, it is recounted that the imperial sign appeared obscure under *Costantino*, who was nonetheless granted the glory of vengeance through a living justice that also inspired *Giustiniano*.
+ja: 永遠なる輪の伝承によれば、Costantinoのもとで帝国の徴は翳っていたが、それでも彼は、後にGiustinianoをも突き動かすことになる生ける正義を通じて、復讐の栄光を授かったという。
+
+## Scene 91-96: Charlemagne and the Defense of the Church
+en: In the *etterne rote*, *Dante* is told by *Giustiniano* that *Tito* carried out a vengeance for an ancient sin and that *Carlo Magno* later defended the faith.
+ja: etterne roteにおいて、DanteはGiustinianoから、Titoがいにしえの罪への復讐を果たし、その後Carlo Magnoが信仰を守り抜いたことを告げられる。
+
+## Scene 97-111: The Corruption of the Factions
+en: In the *etterne rote*, it is recounted to *Dante* how `*quei cotali*` cause current miseries, specifically the `*Guelfi*` and `*li Ghibellin*`, including `*chi più si falli*` and `*chi la giustizia e lui diparte*`. The account warns `*Carlo novello*` that `*li figli*` often suffer for the faults of `*il Padre*` and that `*Dio*` will not abandon His signs.
+ja: *etterne rote* の中で、Guelfi や li Ghibellin、そして chi più si falli や chi la giustizia e lui diparte といった quei cotali がいかにして現世の悲劇を招いているかが Dante に語られる。また、li figli がしばしば il Padre の過ちゆえに苦しむこと、そして Dio は自らの兆しを放棄しないことが、Carlo novello への警告として綴られている。
+
+## Scene 112-123: The Cosmic Balance of Merit
+en: In the *etterne rote*, it is explained that `*i buoni spirti*` receive a diminished light of love because of their desire for honor and fame, yet they find peace in the perfect proportionality of their merit and reward.
+ja: 永遠の圏において、`i buoni spirti`は名誉と名声への欲望ゆえに、弱められた愛の光を授かる。それでも彼らは、自らの功績と報酬が完璧な均衡にあることに、深い安らぎを見出していた。
+
+## Scene 124-135: The Harmony of the Troubadours
+en: In the *etterne rote*, it is recounted how *Romeo* achieved harmony despite his work being unappreciated. He is spoken of as a humble pilgrim who served *Ramondo Beringhiere* and had *Quattro figlie*.
+ja: etterne roteには、その業績に顧みられることなくも、調和を見出したRomeoの物語が記されている。彼はRamondo Beringhiereに仕え、Quattro figlieを設けた謙虚な巡礼者であったと伝えられている。
+
+## Scene 136-142: A Tribute to the Humble Wanderer
+en: In the *etterne rote*, *Romeo* speaks of *Giustiniano* to inquire about the reasons for his specific reward, reflecting on how the world would have praised him more had it known the heart he possessed during his poverty and old age.
+ja: 永遠の輪において、RomeoはGiustinianoが受けた特別な報いの理由を問い、もし世界が、彼が貧困と老境にありながら抱いていた心を知っていたならば、より彼を称賛したであろうと思いを馳せた。

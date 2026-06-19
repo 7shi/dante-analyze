@@ -1,0 +1,73 @@
+# Canto 14 — The Encounter with the Spirits of the Arno Valley
+
+## Scene 1-6: The Spirits' Observation
+en: A *spirito* on the *cornice* notices that *Dante* can open and close his eyes, prompting another *spirito* to suggest approaching him to ask who he is.
+ja: corniceにいたあるspiritoが、Danteが目を開閉できることに気づくと、別のspiritoが、正体を尋ねるために彼に近づいてはどうかと提案した。
+
+## Scene 7-15: The First Spirit's Greeting
+en: The *due spirti* on the *cornice* turn toward *Dante*, and one of them asks, out of charity, who he is and where he comes from, marvelling that he is a soul still encased in a body.
+ja: 張り出しにいたdue spirtiがDanteへと向き直り、そのうちの一人が慈悲心から、彼が何者でどこから来たのかを問いかけた。肉体をまとったままの魂であるということに、彼は驚嘆していた。
+
+## Scene 16-24: The Riddle of the Arno
+en: On the `*cornice*`, `*Dante*` responds with a riddle about a river to indicate his origin without naming himself directly. `*quei che diceva pria*` quickly understands the clue and identifies the river.
+ja: 段丘の上で、`Dante`は自らの名を直接明かすのではなく、ある川にまつわる謎かけを用いて自身の出身地を示した。`quei che diceva pria`は即座にその手がかりを理解し、その川を言い当てた。
+
+## Scene 25-27: The Second Spirit's Query
+en: On the *cornice*, *L'altro* asks *Dante* why he concealed the name of the river, just as *om* avoids naming things that are horrific.
+ja: 段の上で、L'altroはDanteに、なぜ川の名を伏せたのかと問いかけた。それはまるで、omが恐ろしいものの名を口にするのを避けるかのようであった。
+
+## Scene 28-51: The Corruption of the Valley
+en: On the `*cornice*`, `*l'ombra*` explains that the river shuns `*li abitator*`, whose nature is so corrupted they seem like livestock for `*Circe*`. `*l'ombra*` describes the river winding past `*Botoli*` and others who have become predatory.
+ja: corniceの上でl'ombraは、li abitatorの本性があまりに堕落し、あたかもCirceに飼われる家畜のようであるために、川が彼らを忌み避けているのだと語った。そしてl'ombraは、川がBotoliや、捕食者のようになった他の者たちの傍らをうねりながら流れる様子を描写した。
+
+## Scene 52-54: The Cunning Foxes
+en: On the *cornice*, a descent through dark waters is described, leading to a fraudulence so arrogant that no intellect is feared.
+ja: 張り出しの縁には、暗い水の中を降りていく様が記されており、それは、いかなる知性をも恐れぬほどに傲慢な欺瞞へと至っている。
+
+## Scene 55-66: The Prophecy of the Hunter
+en: On the *cornice*, *Spirto* tells *Dante* to remember what a *vero spirto* reveals: that a future kinsman will violently purge the corrupt. *Spirto* advises *Dante* to leave this grim process to unfold.
+ja: 段丘の上で、SpirtoはDanteに、vero spirtoが明かした啓示、すなわち後世の親族が腐敗した者たちを激しく粛清することを忘れるなと告げた。そして、この残酷な過程がそのまま進むに任せるよう、Danteに諭した。
+
+## Scene 67-72: The Second Spirit's Grief
+en: On the *cornice*, *Dante* observes *l'altr' anima* become troubled and sad after absorbing the words, just as *colui ch'ascolta* is spoken of when reacting to news of sorrowful losses.
+ja: corniceの上で、Danteはl'altr' animaがその言葉を飲み込み、不安と悲しみに沈んでいく様を見守っていた。それは、悲痛な喪失の報せを聞いたcolui ch'ascoltaについて語られる時の、あの様子そのものであった。
+
+## Scene 73-84: Guido's Introduction
+en: On the *cornice*, *Dante* asks for the names of the spirits, and the first identifies himself as *Guido*, who agrees to be open because of the grace of *Dio*. *Guido* explains that his envy was so great that seeing *l'uom* be happy, or seeing *Dante*, would have filled him with hatred.
+ja: 段の上で、DanteがSpirtoたちの名を尋ねると、最初の一人が自らをGuidoと名乗り、Dioの恩寵によって率直に語ることに同意した。Guidoは、自らの嫉妬があまりに激しく、l'uomの幸福やDanteの姿を目にしただけで、心は憎しみで満たされたであろうことを語った。
+
+## Scene 85-96: The Blight of Lineage
+en: On the *cornice*, *Guido del Duca* laments the failure of his own lineage and questions why *gente umana* pursues a forbidden *consorte*. He then introduces *Rinier*, praising his individual honor while decrying the pervasive moral corruption of their descendants and region.
+ja: 段の上で、Guido del Ducaは自らの血統の断絶を嘆き、なぜgente umanaが禁じられたconsorteを追い求めるのかと問いかける。続いて彼はRinierを紹介し、その個人の名誉を称える一方で、後継者たちやその地に蔓延する道徳的腐敗を激しく非難した。
+
+## Scene 97-102: Lament for Romagna
+en: On the *cornice*, the loss of honorable men is lamented, wondering where *Lizio*, *Arrigo Mainardi*, *Pier Traversaro*, and *Guido di Carpigna* have gone and when the virtue of *un Fabbro* or *Bernardin di Fosco* will return.
+ja: その cornice では、高潔な人々が失われたことが嘆かれ、Lizio, Arrigo Mainardi, Pier Traversaro, Guido di Carpigna はどこへ去ったのか、un Fabbro や Bernardin di Fosco の徳はいつ戻るのかと問われている。
+
+## Scene 103-111: Mourning the Lost Greatness
+en: On the *cornice*, *Guido del Duca* asks *Dante* not to marvel at his tears as he recalls the courtly love and nobility of *Guido da Prata*, *Ugolin d'Azzo*, *Federigo Tignoso*, *la casa Traversara*, *li Anastagi*, and *le donne e ' cavalier*, contrasting that lost greatness with the current wickedness of the region.
+ja: 段の上で、Guido del Ducaは、Guido da Prata、Ugolin d'Azzo、Federigo Tignoso、la casa Traversara、li Anastagi、そしてle donne e ' cavalierたちがかつて備えていた宮廷愛と高潔さを回想し、失われた偉大さと現在のこの地の邪悪さとを対比させながら、自らの流す涙を不思議に思わないでくれとDanteに請うた。
+
+## Scene 112-123: The Decay of Towns
+en: On the *cornice*, the speaker laments that *Conio* continues to produce heirs and that no pure *testimonio* will remain of *i Pagan* after the *demonio* departs, while telling *Ugolin de' Fantolin* that his name is finally secure from further degradation.
+ja: 岩棚の上で、話し手はConioが絶えず後継者を増やし続けていること、そしてdemonioが去ればi Paganの純粋なtestimonioは何も残らないことを嘆き、一方でUgolin de' Fantolinには、その名はついにさらなる汚辱から免れたのだと告げた。
+
+## Scene 124-126: Guido's Exhaustion
+en: On the *cornice*, *Guido del Duca* tells *Dante* to leave, for he is so overcome by grief that he now prefers weeping to speaking.
+ja: 棚の上で、Guido del DucaはDanteに立ち去るよう告げた。あまりの悲しみに打ちひしがれ、今は言葉を交わすよりも、涙に暮れることを望んでいたからである。
+
+## Scene 127-135: The Thunderous Voice
+en: *Dante* and *Virgilio* depart, aware that *Guido del Duca* and the mentioned *Rinier* are listening in silence. On the *cornice*, a sudden *la voce* cries out a threat to kill anyone who recognizes it and then vanishes like thunder.
+ja: DanteとVirgilioは、Guido del Ducaと前述のRinierが静かに耳を傾けていることに気づきながら、その場を去った。すると張り出しの上に突如としてla voceが響き渡り、己を認める者は誰であれ殺すと脅しを叫ぶと、雷鳴のごとく消え去った。
+
+## Scene 136-139: The Appearance of Aglauro
+en: Once the first voice ceases, another crashes upon the *cornice* with the force of thunder, identifying itself as *Aglauro*, who became stone.
+ja: 最初の一つの声が止むやいなや、雷鳴のごとき激しさで別の声が張り出しに突き刺さり、自らを石となったAglauroであると名乗った。
+
+## Scene 140-141: Dante's Reaction
+en: On the *cornice*, *Dante* steps to the right rather than forward to press himself close to *Virgilio*.
+ja: 張り出しの上で、Danteは前へではなく右へと足を踏み出し、Virgilioに身を寄せた。
+
+## Scene 142-151: Aglauro's Warning
+en: On the *cornice*, *Aglauro* warns *Dante* and *Virgilio* that they have taken the bait of *l'antico avversaro* by looking toward the earth even as *Dio* shows them eternal beauties, noting that *l'uom* should keep such passions contained.
+ja: 張り出しの上で、AglauroはDanteとVirgilioに、Dioが永遠の美を見せている最中に地上へと目を向けたことはl'antico avversaroの餌に釣られたも同然であると警告し、l'uomはそうした情念を制御すべきであると説いた。

@@ -1,6 +1,6 @@
 from ._paths import (
     SCENE_DIR, MARKUP_DIR, READING_DIR, TAGS_DIR, REGISTRY_DIR, SPEECH_DIR, RELATIONS_DIR, KG_DIR,
-    LOCATION_DIR, TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR, LOCK_DIR,
+    LOCATION_DIR, TOPOGRAPHY_DIR, PRESENCE_DIR, ADDRESSEE_DIR, COHORT_DIR, LOCK_DIR, DIGEST_DIR,
 )
 from .llm import MAX_LENGTH, LLM_RETRIES, call_llm, step_sep
 from .corpus import read_markup, available_cantos, load_scenes
@@ -16,15 +16,15 @@ from .checkpoint import (
     complete_scene_ends, restore_blocks, render_scene_block, append_canto,
     load_readings, load_tags, load_registry, load_speech, load_relations,
     raw_to_canonical, load_kg, load_locations, load_topography, load_presence, load_addressee,
-    load_cohort, load_lock,
+    load_cohort, load_lock, load_digest,
 )
-from .prompts import build_reason_prompt
+from .prompts import build_reason_prompt, build_digest_prompt, build_digest_translate_prompt
 
 __all__ = [
     # output dirs (project root)
     "SCENE_DIR", "MARKUP_DIR", "READING_DIR", "TAGS_DIR", "REGISTRY_DIR", "SPEECH_DIR",
     "RELATIONS_DIR", "KG_DIR", "LOCATION_DIR", "TOPOGRAPHY_DIR", "PRESENCE_DIR", "ADDRESSEE_DIR",
-    "COHORT_DIR", "LOCK_DIR",
+    "COHORT_DIR", "LOCK_DIR", "DIGEST_DIR",
     # LLM boundary
     "MAX_LENGTH", "LLM_RETRIES", "call_llm", "step_sep",
     # inputs / corpus
@@ -32,7 +32,7 @@ __all__ = [
     # output readers
     "load_readings", "load_tags", "load_registry", "load_speech", "load_relations",
     "raw_to_canonical", "load_kg", "load_locations", "load_topography", "load_presence",
-    "load_addressee", "load_cohort", "load_lock", "scene_bodies", "iter_scene_blocks",
+    "load_addressee", "load_cohort", "load_lock", "load_digest", "scene_bodies", "iter_scene_blocks",
     "done_scene_ends", "complete_scene_ends", "read_recap", "restore_blocks",
     # tag numbering / parsing
     "number_scene", "tag_positions", "strip_to_source", "parse_bullets", "unbrace",
@@ -45,5 +45,6 @@ __all__ = [
     "fix_elision", "ELIDE_RE", "TAGS_LINE_RE", "LOCATION_LINE_RE", "PRESENCE_LINE_RE",
     "ADDRESSEE_LINE_RE", "COHORT_LINE_RE",
     # prompts / checkpoint writing
-    "build_reason_prompt", "out_path", "render_scene_block", "append_canto",
+    "build_reason_prompt", "build_digest_prompt", "build_digest_translate_prompt",
+    "out_path", "render_scene_block", "append_canto",
 ]

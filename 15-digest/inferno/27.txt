@@ -1,0 +1,49 @@
+# Canto 27 — The Confession of the Second Flame
+
+## Scene 1-15: The Sound of the Flame
+en: At *'l ponte*, the flame of *Ulisse* departs from *Dante* and *Virgilio* as a second flame approaches, emitting a distorted sound reminiscent of the cries of *l'afflitto* in a brass bull.
+ja: 'l ponteにて、Ulisseの炎がDanteとVirgilioから離れると、別の炎が近づいてきた。それは、銅の雄牛に囚われたl'afflittoの叫びを彷彿とさせる、歪んだ音を響かせていた。
+
+## Scene 16-30: The Inquiry of the Soul
+en: At *'l ponte*, *l'anima*'s voice becomes intelligible, and *l'anima* asks *Dante* to linger and share news, recalling a remark *Dante* had made to *Virgilio* and noting that *l'anima* is already burning.
+ja: 'l ponteにおいて l'anima の声は明瞭になり、Dante が Virgilio に語った言葉を思い出した l'anima は、Dante に留まって近況を知らせてほしいと請い、自らがすでに焼かれていることを告げた。
+
+## Scene 31-48: Dante's Political Report
+en: At *'l ponte*, *Virgilio* prompts *Dante* to speak to *l'anima*, and *Dante* reports that the land is plagued by *tiranni*, mentioning the slaughter of the *Franceschi* and the rapaciousness of *Malatesta Vecchio* and *Malatesta Giovane*.
+ja: 橋の上で、Virgilioに促されたDanteがl'animaに語りかけると、彼はFranceschiの虐殺やMalatesta VecchioとMalatesta Giovaneの強欲さに触れ、その地がtiranniによって苦しめられていることを伝えた。
+
+## Scene 49-57: The Geography of the Region
+en: At *'l ponte*, *Dante* describes the rule of *il lïoncel* and the lands by *il Savio*, then asks *Guido da Montefeltro* to reveal his identity.
+ja: 'l ponteにて、Danteはil lïoncelの統治とil Savioによる領地について述べ、そしてGuido da Montefeltroに正体を明かすよう求めた。
+
+## Scene 58-66: The Flame's Vow of Truth
+en: At *'l ponte*, a flame moves its sharp tip and tells *Dante* it will speak truthfully, believing that no one ever returns alive from the *fondo* to spread infamy.
+ja: 橋の上で、ある炎がその鋭い先端を揺らし、自らは真実を語るとDanteに告げた。底から生きて戻り、不名誉を言い広める者は一人としていないと信じてのことだった。
+
+## Scene 67-78: The Nature of the Deceiver
+en: In the *fondo*, *l'anima della seconda fiamma* tells *Dante* that it lived first as a man-at-arms and then as a friar, but was led back to sin by *il gran prete*. It admits that from the moment it was born of *la madre*, its nature was defined by guile and deceit rather than bravery.
+ja: 底において、l'anima della seconda fiammaはDanteに、かつては武人として、次いで修道士として生きたが、il gran preteによって再び罪へと導かれたことを語る。そして、la madreから生まれたその時から、自らの本質は勇気ではなく、狡猾さと欺瞞によって形作られていたのだと認めた。
+
+## Scene 79-93: The History of Deceit
+en: In the *fondo*, *Guido da Montefeltro* recounts how he sought redemption in his old age, but was lured back into sin by *Bonifacio VIII*, who disregarded his own sacred office to exploit *Guido da Montefeltro*'s talent for deceit.
+ja: 底において、Guido da Montefeltroは、晩年に贖いを求めたものの、自らの聖職を顧みずに彼の欺瞞の才を利用しようとしたBonifacio VIIIによって、再び罪へと誘い込まれた経緯を語る。
+
+## Scene 94-105: The Pope's Counselor
+en: In the *fondo*, *the soul in the second flame* recounts how *Bonifacio VIII*, likening his request to that of *Costantin* seeking *Silvestro* at *Siratti*, offered absolution to have *the soul in the second flame* destroy *Penestrino*, boasting of the papal keys that *Celestino V* had not valued.
+ja: その底で、the soul in the second flameは、Bonifacio VIIIが、SirattiでSilvestroを求めたCostantinの要求に自らの願いをなぞらえ、the soul in the second flameにPenestrinoを破壊させることと引き換えに赦免を提示し、その際、Celestino Vが価値を認めなかった教皇の鍵を誇示したことを語る。
+
+## Scene 106-111: The Dangerous Advice
+en: In the *fondo*, *Guido da Montefeltro* decides that silence would be the worst option and informs *Bonifacio VIII* that a strategy of deceptive promises will secure *Bonifacio VIII*'s triumph.
+ja: 底において、Guido da Montefeltroは沈黙こそが最悪の選択であると判断し、欺瞞に満ちた約束という戦略がBonifacio VIIIの勝利を確実にするだろうと彼に告げた。
+
+## Scene 112-123: The Cherub's Intervention
+en: In the *fondo*, *Francesco* attempts to rescue *l'anima*, but *un d'i neri cherubini* stops him, decreeing that *l'anima* must descend among *i miei meschini* because *chi non si pente* cannot be absolved. *Un d'i neri cherubini* then seizes *l'anima*, mocking *l'anima*'s lack of logic.
+ja: 最深部にて、Francescoはl'animaを救い出そうと試みるが、un d'i neri cherubiniがそれを阻み、chi non si penteは赦されぬがゆえにl'animaはi miei meschiniの間へと降りなければならないと宣告した。そしてun d'i neri cherubiniはl'animaを捕らえ、その論理の欠如を嘲笑った。
+
+## Scene 124-129: The Judgment of Minos
+en: In the *fondo*, *Minòs* takes *l'anima della seconda fiamma* and, after wrapping his tail around himself and biting it in rage, declares the soul to be among *i rei del foco*. *L'anima della seconda fiamma* then explains to *Dante* that this is why it is lost and clothed in flame.
+ja: 底において、Minòsはl'anima della seconda fiammaを捉え、怒りに任せて自らの尾を体に巻き付けて噛み切ると、その魂がi rei del focoに属することを宣告した。するとl'anima della seconda fiammaは、ゆえに自分は迷い、炎に身を包んでいるのだとDanteに語った。
+
+## Scene 130-136: The Departure of the Flame
+en: Once the confession concludes, *Dante* and *Virgilio* move across the *fondo* where *quei che scommettendo acquistan carco* pay for their sins.
+ja: 告白が終わると、DanteとVirgilioは、quei che scommettendo acquistan carcoが罪に報いを受けている底を横切って進んだ。

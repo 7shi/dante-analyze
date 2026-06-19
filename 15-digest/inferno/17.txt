@@ -1,0 +1,77 @@
+# Canto 17 — The Encounter with Geryon and the Descent into the Abyss
+
+## Scene 1-3: The Herald of the Beast
+en: On *la strada*, it is announced that *Gerione* is arriving, described as a sharp-tailed beast that breaks through walls and fouls the whole world.
+ja: 道に、Gerioneの到来が告げられた。壁を突き破り、世界を穢す鋭い尾を持つ獣であると。
+
+## Scene 4-9: The Beast Approaches
+en: *Virgilio* signals to *il messaggero* to approach the edge of *la strada*, where *Gerione* arrives, bringing its head and torso to the shore but keeping its tail below.
+ja: Virgilioがil messaggeroに道の端へ寄るよう合図すると、そこへGerioneが現れ、頭と胴体を岸辺まで寄せたが、尾は下に潜らせたままにしていた。
+
+## Scene 10-18: Description of Geryon's Form
+en: On *la strada*, *Geryone* displays a deceptive face like that of a just man, though the rest of his form is that of a serpent with hairy arms and skin covered in intricate, multicolored patterns.
+ja: その道において、Geryoneは正義の人のような欺瞞に満ちた顔を見せていたが、身体の残りは蛇の姿であり、毛深い腕と、複雑で色とりどりの文様に覆われた肌を持っていた。
+
+## Scene 19-27: The Serpent's Tail
+en: Like the boats of *li Tedeschi lurchi*, *Geryone* balances himself on the *orlo*, his venomous tail writhing in the void and curving upward like a scorpion's sting.
+ja: li Tedeschi lurchiの舟のごとく、Geryoneは縁の上に身を据えて均衡を保ち、その毒ある尾は虚空にのたうちながら、サソリの針のように上方に反り返っていた。
+
+## Scene 28-33: Changing Course
+en: *Virgilio* tells *Dante* that they must shift their course on the *orlo*, and they walk ten paces to the right to distance themselves from the burning sand and flames.
+ja: VirgilioはDanteに、縁での進路を変える必要があると告げ、二人は燃え盛る砂と炎から遠ざかるために右へ十歩歩いた。
+
+## Scene 34-42: The Decision to Investigate
+en: As they reach *Geryone* at the *loco scemo* on *la strada*, *Dante* notices some *gente* sitting nearby. *Virgilio* instructs *Dante* to go observe them to fully experience this circle, while he remains to persuade *Geryone* to offer its strong shoulders for their descent.
+ja: 道の愚かな場所で Geryone に辿り着いたとき、Dante は傍らに座る gente の姿に目を留めた。Virgilio は、この圏を十分に体感させるため Dante に彼らを観察しに行くよう促し、自らは下降を助けるべく Geryone にその強靭な肩を貸すよう説得するためにその場に残った。
+
+## Scene 43-51: The Agony of the Souls
+en: Along the *strema testa di quel settimo cerchio*, *Dante* observes *la gente mesta* as they weep and frantically scratch themselves to escape the heat and vapors, like dogs plagued by insects.
+ja: 第七圏の最果ての縁に沿って、Danteは la gente mesta が、熱気と蒸気を逃れようと泣き叫び、虫に苛まれる犬のように必死に体を掻きむしるさまを眺めていた。
+
+## Scene 52-57: The Symbolic Pouches
+en: At the *strema testa di quel settimo cerchio*, *Dante* recognizes none of the *anime* he observes, but notices that each wears a pouch of a certain color and sign around the neck, which they constantly behold.
+ja: 第7圏の外縁にて、Danteは目に映るanimeの誰一人として見覚えがなかったが、彼らが皆、首に特定の色と記号の付いた袋を下げ、絶えずそれを凝視していることに気づいた。
+
+## Scene 58-65: The Colors of Sin
+en: At the *strema testa di quel settimo cerchio*, *Dante* looks among the *dannati* and notices the heraldic colors and signs on their pouches, seeing a blue lion on yellow, a white goose on red, and a blue sow on white.
+ja: あの第七圏の最果てにおいて、Danteはdannatiの間を見渡し、彼らの袋に記された紋章の色と意匠に目を留めた。そこには黄地に青い獅子、赤地に白い雁、そして白地に青い雌豚が描かれていた。
+
+## Scene 66-73: An Encounter with a Sinner
+en: In the *fossa*, *il padoano* asks *Dante* what he is doing and urges him to depart, mentioning that *Vitalïano* will soon arrive to sit by his side. He laments that the *Fiorentin* frequently mock him by shouting for the arrival of *Vitalïano* and his pouch.
+ja: 坑にいたil padoanoは、Danteに何をしているのかと問い、立ち去るよう促した。間もなくVitalïanoがやってきて隣に座るだろうと述べ、彼はFiorentinたちがVitalïanoとその金袋の到来を叫んで自分を嘲笑うことを嘆いた。
+
+## Scene 74-78: Dante's Retreat
+en: In the *fossa*, one of *l'anime lasse* mocks him by sticking out his tongue, and *Dante* retreats from *l'anime lasse*, recalling the warning of *il peccatore padovano*.
+ja: 溝の中で、l'anime lasseの一人が舌を出して彼を嘲笑い、Danteはil peccatore padovanoの警告を思い出してl'anime lasseから後ずさりした。
+
+## Scene 79-84: Mounting the Beast
+en: In the *fossa*, *Dante* finds *Virgilio* already mounted on the back of *Gerione*. *Virgilio* urges *Dante* to be brave and climb on in front of him, so that *Virgilio* may act as a shield against the monster's tail.
+ja: その溝の中で、DanteはVirgilioがすでにGerioneの背に跨っているのを目にした。Virgilioは、自らが怪物の尾に対する盾となれるよう、勇気を持って自分の前に乗ることをDanteに促した。
+
+## Scene 85-90: Dante's Internal Terror
+en: In the *fossa*, *Dante* trembles with a terror like that of *colui che sì presso ha 'l riprezzo de la quartana*, but the shame he feels toward *Virgilio* makes him brave.
+ja: 穴の中で、Danteはcolui che sì presso ha 'l riprezzo de la quartanaのような恐怖に身を震わせたが、Virgilioへの羞恥心が彼を勇敢にさせた。
+
+## Scene 91-99: The Instructions for Flight
+en: In the *fossa*, *Dante* mounts the shoulders of *Gerïon* and, voice trembling, asks *Virgilio* to hold him tight. *Virgilio* secures him and commands *Gerïon* to begin the descent, warning the beast to be mindful of its new burden.
+ja: 淵の中で、DanteはGerïonの肩にまたがり、震える声でVirgilioに自分をしっかりと支えてほしいと請うた。Virgilioは彼を固定し、新たな荷に留意せよと警告しながら、Gerïonに降下を開始するよう命じた。
+
+## Scene 100-105: The Start of the Descent
+en: In the *fossa*, *Geryone* backs away like a small boat and, once steady in the air, whips his tail around and beats the air with his arms to begin the descent.
+ja: 溝の中で、Geryoneは小舟のごとく後ずさり、ひとたび空中で体勢を安定させると、尾を鋭く振り、腕で空気を打ち据えて下降し始めた。
+
+## Scene 106-114: Mythological Parallels of Fear
+en: While suspended in *l'aere*, *Dante* feels a dread exceeding that of the falling figures spoken of, with no sight remaining to him save for the beast.
+ja: 空中に吊るされたDanteは、先に語られた墜落する者たちが抱いたそれを上回る恐怖に苛まれ、視界にはただ、あの獣だけが映っていた。
+
+## Scene 115-123: The Sensory Chaos of the Fall
+en: In *l'aere*, *Dante* initially fails to notice the spiraling descent, feeling only a rush of wind before a terrifying roar rises from the depths. Peering down, he sees flames and hears wailing, which causes him to tremble and recoil in terror beside *Virgilio*.
+ja: l'aereにおいて、Danteは当初、らせん状に下降していることに気づかず、ただ激しい風を感じていたが、やがて深淵から恐ろしい咆哮が沸き上がった。眼下を覗き込むと、そこには炎が揺らめき嘆きの声が響き渡っており、彼は恐怖に身を震わせてVirgilioの傍らでたじろいだ。
+
+## Scene 124-126: Approaching the Abyss
+en: *Dante* eventually perceived the descending and spiraling motion in *l'aere* as the great evils approached from every side.
+ja: あらゆる方向から大いなる悪が迫り来るなか、Danteはついに、大気の中を下降し、渦巻いていくあの動きを捉えた。
+
+## Scene 127-136: The Final Landing
+en: After spiraling down through *l'aere*, *Gerïone* deposits *Dante* and *Virgilio* at the foot of the jagged rock and vanishes instantly.
+ja: 空をらせん状に降りていったGerïoneは、DanteとVirgilioを切り立った岩の麓に降ろすと、たちまち姿を消した。

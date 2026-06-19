@@ -1,0 +1,61 @@
+# Canto 09 — The Furies and the Arrival of Charon
+
+## Scene 1-6: The obscured vision
+en: At *l'intrata*, *Dante* recoils in fear as he sees *Virgilio* turn around. Blinded by the black air and thick fog, he stands still and listens intently.
+ja: 入り口にて、Virgilioが振り返るのを見たDanteは、恐怖に後ずさりした。黒い空気と深い霧に視界を奪われ、彼はじっと立ち止まり、一心に耳を澄ませた。
+
+## Scene 7-15: The interrupted dialogue
+en: At *l'intrata*, *Virgilio* attempts to reassure *Dante* but abruptly alters his phrasing; this hesitation leads *Dante* to fear that the truncated words concealed a more ominous sentence.
+ja: l'intrataにて、VirgilioはDanteを安心させようとするが、不意に言い方を変えた。そのためらいに、Danteは切り詰められた言葉の裏に、より不吉な宣告が隠されていたのではないかと恐れた。
+
+## Scene 16-33: Virgil’s reminiscence
+en: At *fondo de la trista conca*, *Dante* asks if anyone *del primo grado* ever descends to this depth. *Virgilio* reassures him by recalling how *Eritón* once compelled him to return *l'ombre* to their bodies and retrieve a *Spirto* from the circle of *Giuda*.
+ja: 悲しき器の底にて、Dante は del primo grado の者がこの深淵まで降りてきたことがあるのかと問いかけた。Virgilio は、かつて Eritón の命により l'ombre をその身体へと戻し、Giuda の圏から Spirto を回収したことを語って、彼を安んじた。
+
+## Scene 34-48: The Furies revealed
+en: At *fondo de la trista conca*, *Dante* is captivated by the sudden appearance of the *tre furïe infernal*. *Virgilio* identifies them as servants of *la regina de l'etterno pianto*, naming them as *Megera*, *Aletto*, and *Tesifón*.
+ja: 悲しき盆地の底で、突如として現れたtre furïe infernalにDanteは目を奪われた。Virgilioは、彼女らがla regina de l'etterno piantoの従者であると明かし、その名をMegera、Aletto、Tesifónであると告げた。
+
+## Scene 49-54: The Furies' frenzy
+en: At *fondo de la trista conca*, *Megera* screams and claws at her chest, causing a terrified *Dante* to cling to *Virgilio*. *Megera* calls for *Medusa* to turn him to stone, recalling the assault on *Tesëo*.
+ja: 悲しき谷の底で、Megeraが絶叫して自らの胸を掻きむしると、恐怖に駆られたDanteはVirgilioにしがみついた。MegeraはTesëoへの襲撃を想起させ、Medusaを呼んで彼を石に変えようとする。
+
+## Scene 55-60: A warning to look away
+en: At *fondo de la trista conca*, *Virgilio* warns *Dante* to turn around and close his eyes, for the sight of *Medusa* would make his return impossible. He physically turns *Dante* away and holds the poet's hands over his eyes until *Dante* closes them.
+ja: 悲しき谷の底にて、VirgilioはMedusaを見ればもはや戻れなくなるとDanteに警告し、向きを変えて目を閉じるよう促した。彼はDanteの体を無理に反転させ、彼が目を閉じるまで、その両手を詩人の目の上に押し当てた。
+
+## Scene 61-63: An authorial aside
+en: At *fondo de la trista conca*, *voi ch'avete li 'ntelletti sani* are urged to look for the hidden doctrine concealed beneath the veil of strange verses.
+ja: 悲しき谷の底にて、voi ch'avete li 'ntelletti saniは、奇怪な詩句のヴェールの下に秘匿された教義を探求するよう促されている。
+
+## Scene 64-72: A violent disturbance
+en: A terrifying sound approaches across the turbid waves at *fondo de la trista conca*, shaking both banks like a violent wind that ravages the woods.
+ja: fondo de la trista concaの濁った波を越え、森を蹂躙する猛烈な風のごとく両岸を震わせながら、恐ろしい轟音が迫り来る。
+
+## Scene 73-84: The approach of Charon
+en: At *fondo de la trista conca*, *Virgilio* releases *Dante*'s eyes and urges him to look across the acrid smoke, where *Dante* sees *mille anime distrutte* fleeing in terror before *Caronte*, who crosses the water with dry feet and waves away the oppressive air.
+ja: 悲しき谷の底にて、VirgilioはDanteの目を覆っていた手を放ち、刺激臭の漂う煙の向こうを見るよう促した。そこでDanteが目にしたのは、乾いた足で水面を渡り重苦しい空気を追い払うCaronteの前を、恐怖に駆られて逃げ惑うmille anime distrutteの姿であった。
+
+## Scene 85-87: Dante's pious reaction
+en: At *fondo de la trista conca*, *Dante* recognizes that *Caronte* was sent from heaven and turns to *Virgilio*, who signals for him to remain quiet and bow.
+ja: 悲しき谷の底にて、DanteはCaronteが天から遣わされたことに気づきVirgilioを振り返ったが、Virgilioは静かにして頭を垂れるよう合図を送った。
+
+## Scene 88-99: Charon’s reprimand
+en: At *fondo de la trista conca*, *Dante* watches as *Caronte* opens the gate and screams at the *cacciati del ciel*, mocking their futile resistance to an inevitable will. *Caronte* reminds the *cacciati del ciel* that *Cerbero* still bears the scars of their struggle.
+ja: 悲しき器の底にて、DanteはCaronteが門を開き、避けられぬ意志に抗うcacciati del cielの虚しさを嘲笑いながら叫ぶ様を見つめていた。Caronteは、Cerberoが今も彼らの抗いの傷跡を身に宿していることをcacciati del cielに思い知らせた。
+
+## Scene 100-105: The poets advance
+en: Secure in the holy words, *Dante* and *Virgilio* advance on the *strada lorda*, mindful of the silence of *Caronte*.
+ja: 聖なる言葉に守られ、DanteとVirgilioはCaronteの沈黙を意識しながら、汚れきった道を進んでいく。
+
+## Scene 106-123: The field of tombs
+en: *Dante* and *Virgilio* enter *Dentro* without conflict, where *Dante* surveys a vast plain of fiery tombs. From these open graves, the agonizing cries of the *miseri* and *offesi* emerge.
+ja: DanteとVirgilioは何の争いもなく内部へと入り、Danteは火に包まれた墓が広がる広大な平原を見渡した。開かれた墓からは、miseriとoffesiの苦悶に満ちた叫びが沸き上がっていた。
+
+## Scene 124-131: The identity of the dead
+en: At *Dentro*, *Dante* asks *Virgilio* about the identity of *quelle genti* who make themselves heard through sorrowful sighs. *Virgilio* explains that these are *li eresïarche* and *lor seguaci*, buried together according to their sects in tombs of varying heat.
+ja: 内部にて、Danteは悲しげな嘆きの声を上げているquelle gentiの正体をVirgilioに尋ねた。Virgilioは、彼らがli eresïarcheとlor seguaciであり、それぞれの宗派に従い、熱の異なる墓に共に葬られているのだと説明した。
+
+## Scene 132-133: Passing through the ruins
+en: Once *Virgilio* turns to the right, he and *Dante* pass through *Dentro*, walking between *i martìri* and the high walls.
+ja: Virgilioが右へ曲がると、彼とDanteはi martìriと高い壁の間を歩きながら、内部を通り抜けた。
