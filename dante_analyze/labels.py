@@ -47,14 +47,24 @@ def fold_key(label):
 
 _CAP_NAME_RE = re.compile(r"^[^\W\d_][\w']*(?:\s+[^\W\d_][\w']*)*$", re.UNICODE)
 
+# Italian prepositions that appear lowercase inside proper names.
+_ITALIAN_PREPS = frozenset({
+    "di", "da", "della", "dello", "dei", "degli", "delle", "dell", "de'", "del",
+})
+
 
 def is_capitalized_name(piece):
-    """A piece that looks like a proper-name sequence: every word starts with an
-    uppercase letter (so `Cammilla`, `Eurialo`, `Turno` qualify; `li parenti miei`,
-    a comma-bearing epithet's clause, does not). The registry uses this to tell a
-    proper-name node from an epithet node (option A's `grouped: no` flag)."""
+    """A piece that looks like a proper-name sequence: every non-preposition word
+    starts with an uppercase letter, and at least one such word is present.
+    Italian prepositions (della, da, di, del, …) are allowed lowercase, so
+    `Pier della Vigna` and `Guido da Montefeltro` qualify as names."""
     words = piece.split()
-    return bool(words) and all(w[:1].isupper() and _CAP_NAME_RE.match(w) for w in words)
+    if not words:
+        return False
+    non_preps = [w for w in words if w.casefold() not in _ITALIAN_PREPS]
+    return bool(non_preps) and all(
+        w[:1].isupper() and _CAP_NAME_RE.match(w) for w in non_preps
+    )
 
 
 def split_set(label, known_labels):

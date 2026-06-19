@@ -137,7 +137,6 @@
 - type: individual
 - labels: Guido da Montefeltro
 - surfaces: mi (6), io (5), tu (2), Guido (1), chi (1), m' (1), me (1), miser lasso (1), ti (1)
-- grouped: no
 
 ## Minòs
 - type: individual
@@ -267,7 +266,6 @@
 - type: individual
 - labels: Geri del Bello
 - surfaces: ei (2), el (2), lui (2), Geri del Bello (1), ello (1), li (1), sen (1), si (1), sé (1)
-- grouped: no
 
 ## Nicola III
 - type: individual
@@ -308,13 +306,11 @@
 - type: individual
 - labels: Pier da Medicina
 - surfaces: tu (3), egli (2), Pier da Medicina (1), ei (1), lui (1), meco (1), tale (1), te (1)
-- grouped: no
 
 ## Pier della Vigna
 - type: individual
 - labels: Pier della Vigna
 - surfaces: io (2), me (2), Chi (1), I' (1), Io (1), el (1), elli (1), lui (1), si (1)
-- grouped: no
 
 ## Virgilio, Dante
 - type: set
@@ -400,7 +396,6 @@
 - type: individual
 - labels: Camiscion de' Pazzi
 - surfaces: i' (2), mi (2), ei (1), il Camiscion de' Pazzi (1), io (1), m' (1), un (1)
-- grouped: no
 
 ## Fiorenza
 - type: non-person
@@ -860,7 +855,6 @@
 - type: individual
 - labels: Cavalcante della Scala
 - surfaces: elli (2), ei (1), figlio (1), l suo nato (1)
-- grouped: no
 
 ## Cristo
 - type: individual
@@ -1500,7 +1494,6 @@
 - type: individual
 - labels: Opizzo da Esti
 - surfaces: Opizzo da Esti (1), ei (1), quell' altro (1)
-- grouped: no
 
 ## Orazio
 - type: individual
@@ -2014,7 +2007,6 @@
 - type: individual
 - labels: Gianni de' Soldanier
 - surfaces: Gianni de' Soldanier (1), ei (1)
-- grouped: no
 
 ## Giovanni Vangelista
 - type: individual
@@ -3587,7 +3579,6 @@
 - type: individual
 - labels: Pier delle Vigne
 - surfaces: ei (1)
-- grouped: no
 
 ## Pinamonte
 - type: individual
@@ -3659,7 +3650,6 @@
 - type: individual
 - labels: Rinier da Corneto
 - surfaces: Rinier da Corneto (1)
-- grouped: no
 
 ## Ruberto Guiscardo
 - type: individual

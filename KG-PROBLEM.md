@@ -111,23 +111,6 @@ they should not be individual nodes at all.
 
 ---
 
-## The `is_capitalized_name` bug
-
-`is_capitalized_name` (`dante_analyze/labels.py:51`) requires **every word** to start with an
-uppercase letter. Italian proper names routinely contain lowercase prepositions — `Pier della
-Vigna`, `Guido da Montefeltro`, `Cavalcante della Scala`, `Camiscion de' Pazzi` — so the function
-classifies them as non-names. Two consequences:
-
-1. **Inflates the epithet node count** (the gate input): at least 27 proper names are miscounted as
-   epithet nodes, making the epithet gate (`< 150/canticle`) harder to pass than it should be.
-2. **Over-applies the `grouped: no` flag**: properly named figures are flagged as ungrouped
-   singletons, so the flag cannot serve as a reliable "this node may be fragmented" signal.
-
-Fix: ignore Italian prepositions (`di`, `da`, `della`, `dello`, `dei`, `degli`, `delle`, `dell`,
-`de'`, `del`) when checking capitalization. Zero risk, immediate effect on the gate input.
-
----
-
 ## Why epithet grouping was skipped
 
 `measure.py` produced two decision gates; both failed:
@@ -169,8 +152,6 @@ downstream filter can remove these phantom nodes; they must be resolved at node-
 - **Mid-tier and minor figures** are **unreliable**. A figure split across bare `Guido` (12) and
   `Guido da Montefeltro` (20) means querying either node returns a partial view. The user cannot
   tell which nodes are complete and which are fragments without inspecting each one.
-- The `grouped: no` flag **over-applies** (due to the `is_capitalized_name` bug), so it cannot
-  serve as a reliable "this node may be fragmented" signal.
 
 ---
 
@@ -180,13 +161,7 @@ A **coreference resolution** step between `04-tags` and typing — one that sees
 their scene context and groups same-figure mentions. The data suggests three tractable
 sub-problems, in order of increasing difficulty:
 
-### 1. Fix `is_capitalized_name` (immediate, zero risk)
-
-Ignore Italian prepositions when checking capitalization. Immediately reclassifies ~27 proper
-names out of the epithet pool, lowers the gate input, and stops over-flagging named figures. This
-is a bug fix, not a design change.
-
-### 2. Curate a deterministic merge table (low effort, high precision)
+### 1. Curate a deterministic merge table (low effort, high precision)
 
 The genuine same-figure splits — where two nodes are unambiguously the same person — are few
 (~10–20 pairs):
@@ -200,7 +175,7 @@ The genuine same-figure splits — where two nodes are unambiguously the same pe
 A hand-maintained alias table in `05-registry` would collapse these deterministically, with full
 verifiability (each merge is a curated fact, not an LLM judgment).
 
-### 3. Context-aware LLM coreference (the real fix, hardest)
+### 2. Context-aware LLM coreference (the real fix, hardest)
 
 For the residual — bare first names (`Guido`, `Arrigo`, `Francesco`), generic epithets
 (`l'angelo`, `la madre`, `poeta`) — each candidate must be presented with its **scene context**
@@ -213,5 +188,5 @@ context, but:
 - The merge must be **per-tag, not per-label**: "this `Guido` in scene X is Guido da Montefeltro,
   but that `Guido` in scene Y is Guido Guerra."
 
-This step, if attempted, should come **after** fixes 1 and 2, which reduce the candidate pool and
-remove the clear-cut cases.
+This step, if attempted, should come **after** fix 1 (merge table), which reduces the candidate
+pool and removes the clear-cut cases.

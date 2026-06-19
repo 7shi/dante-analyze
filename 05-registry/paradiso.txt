@@ -671,7 +671,6 @@
 - type: individual
 - labels: Alberto di Cologna
 - surfaces: Alberto (1), Questi (1), esso (1), frate e maestro (1)
-- grouped: no
 
 ## Apollo
 - type: individual
@@ -742,7 +741,6 @@
 - type: individual
 - labels: Verbo di Dio
 - surfaces: al Verbo di Dio (1), ei (1), persona (1), sé (1)
-- grouped: no
 
 ## angeli
 - type: class
@@ -1002,7 +1000,6 @@
 - type: individual
 - labels: Figliuol di Dio
 - surfaces: Figliuol di Dio (1), del Figliuol di Dio (1), si (1)
-- grouped: no
 
 ## Glauco
 - type: individual
@@ -1039,7 +1036,6 @@
 - type: individual
 - labels: Monaco di Catria
 - surfaces: elli (2), mi (1)
-- grouped: no
 
 ## Paulo
 - type: individual
@@ -2513,10 +2509,8 @@
 - grouped: no
 
 ## quel di Portogallo, di Norvegia
-- type: individual
-- labels: quel di Portogallo, di Norvegia
-- surfaces: elli (1), si (1)
-- grouped: no
+- type: set
+- members: quel di Portogallo | di Norvegia
 
 ## quell' angel
 - type: individual
@@ -2922,7 +2916,6 @@
 - type: individual
 - labels: Ciotto di Ierusalemme
 - surfaces: al Ciotto di Ierusalemme (1)
-- grouped: no
 
 ## Clemenza
 - type: non-person
@@ -3506,7 +3499,6 @@
 - type: individual
 - labels: Parola di Dio
 - surfaces: ti (1)
-- grouped: no
 
 ## Peana
 - type: non-person
@@ -3805,7 +3797,6 @@
 - type: individual
 - labels: Ugo da San Vittore
 - surfaces: Ugo da San Vittore (1)
-- grouped: no
 
 ## Ulisse
 - type: individual

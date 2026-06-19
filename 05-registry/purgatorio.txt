@@ -95,7 +95,6 @@
 - type: individual
 - labels: Vescovo di Savona | vescovo di Savona | il vescovo di Savona
 - surfaces: io (12), el (2), anima (1), chi (1), ego (1), ei (1), elli (1), lui (1), m' (1), me (1), omè (1), roman pastore (1), s' (1), successor (1)
-- grouped: no
 
 ## l'angelo
 - type: individual
@@ -107,7 +106,6 @@
 - type: individual
 - labels: Bonagiunta da Lucca
 - surfaces: el (2), elli (2), i' (2), io (2), lui (2), tu (2), Bonagiunta (1), Bonagiunta da Lucca (1), El (1), Io (1), Questi (1), anima (1), li (1), me (1), quel (1), si (1), t' (1), te (1)
-- grouped: no
 
 ## Casella
 - type: individual
@@ -181,7 +179,6 @@
 - type: individual
 - labels: Bonconte di Montefeltro
 - surfaces: io (4), mi (4), Io (1), al secondo (1), costui (1), elli (1), i' (1), lui (1), me (1), ti (1)
-- grouped: no
 
 ## Maria
 - type: individual
@@ -209,7 +206,6 @@
 - type: individual
 - labels: Pier della Vigna
 - surfaces: io (9), m' (2), Pier (1), i' (1), l'altro (1), mi (1)
-- grouped: no
 
 ## Spirto
 - type: generic
@@ -664,13 +660,11 @@
 - type: individual
 - labels: Guido del Duca
 - surfaces: io (3), m' (1), mi (1)
-- grouped: no
 
 ## L'Angelo di Dio
 - type: individual
 - labels: L'Angelo di Dio
 - surfaces: elli (1), i' (1), io (1), mi (1), tu (1)
-- grouped: no
 
 ## Oreste
 - type: individual
@@ -1677,7 +1671,6 @@
 - type: individual
 - labels: Bernardin di Fosco
 - surfaces: un Bernardin di Fosco (1), verga gentil di picciola gramigna (1)
-- grouped: no
 
 ## Bretinoro
 - type: non-person
@@ -1770,7 +1763,6 @@
 - type: individual
 - labels: Guido da Castel
 - surfaces: Guido da Castel (1), si (1)
-- grouped: no
 
 ## Guittone d'Arezzo
 - type: individual
@@ -2881,7 +2873,6 @@
 - type: individual
 - labels: Currado da Palazzo
 - surfaces: Currado da Palazzo (1)
-- grouped: no
 
 ## Dante, Beatrice, Stazio, le donne
 - type: set
@@ -3041,7 +3032,6 @@
 - type: individual
 - labels: Ghin di Tacco
 - surfaces: Ghin di Tacco (1)
-- grouped: no
 
 ## Giocasta
 - type: individual
@@ -3077,19 +3067,16 @@
 - type: individual
 - labels: Guido da Montefeltro
 - surfaces: colei (1)
-- grouped: no
 
 ## Guido da Prata
 - type: individual
 - labels: Guido da Prata
 - surfaces: Guido da Prata (1)
-- grouped: no
 
 ## Guido di Carpigna
 - type: individual
 - labels: Guido di Carpigna
 - surfaces: Guido di Carpigna (1)
-- grouped: no
 
 ## Guido, lo spirto
 - type: set
@@ -3507,7 +3494,6 @@
 - type: individual
 - labels: Ugolin de' Fantolin
 - surfaces: Ugolin de' Fantolin (1)
-- grouped: no
 
 ## Ulisse
 - type: individual
@@ -3806,7 +3792,6 @@
 - type: individual
 - labels: da Pisa
 - surfaces: quel (1)
-- grouped: no
 
 ## di smeraldo
 - type: individual

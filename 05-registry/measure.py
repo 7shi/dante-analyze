@@ -187,9 +187,15 @@ def piece_qualifies(piece, known_folds):
     return fold_key(piece) in known_folds or _is_cap_name(piece)
 
 
+_ITALIAN_PREPS = frozenset({
+    "di", "da", "della", "dello", "dei", "degli", "delle", "dell", "de'", "del",
+})
+
+
 def _is_cap_name(piece):
     words = piece.split()
-    return bool(words) and all(w[:1].isupper() for w in words)
+    non_preps = [w for w in words if w.casefold() not in _ITALIAN_PREPS]
+    return bool(non_preps) and all(w[:1].isupper() for w in non_preps)
 
 
 def section_sets(data):
