@@ -182,6 +182,12 @@ check, and false positives dominate (most name-sharing pairs are different peopl
 Run `make -C 05-registry coref` to (re)generate, then rebuild with `make -C 05-registry`. With an
 absent or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
 
+**Run `coreference.py` as ONE process — do not parallelize per canticle** (same constraint as
+`registry.py`). Both outputs are global single files with no locking: `coref.cache.txt` is
+append-on-decision, and `04-tags/coref.txt` is rewritten whole from the in-memory cache at the end of
+the run — concurrent runs corrupt the cache and clobber each other's overlay (last-writer-wins). The
+`coref` make target passes all three canticles to one process.
+
 ### `types.txt` — the resume cache
 
 Typing is the slow part (~128 local-LLM calls), so each passed batch is appended to

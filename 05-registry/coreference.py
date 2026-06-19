@@ -25,6 +25,12 @@ one figure. The candidate targets for a bare label are the fuller individual nod
 a token (`Guido` -> `Guido da Montefeltro`, …; `Latino` -> `Brunetto Latino`), plus a small seed map
 for semantic pairs no token test catches (`Iesù` -> `Cristo`).
 
+Run it as ONE process — do NOT parallelize per canticle (same hazard as registry.py). Both outputs
+are GLOBAL single files with no locking: `coref.cache.txt` is append-on-decision (concurrent appends
+corrupt it), and `coref.txt` is rewritten WHOLE from the in-memory cache at the end of the run, so a
+second process clobbers the first's corrections (last-writer-wins). The intended invocation is the
+single `coreference.py inferno purgatorio paradiso` that `make -C 05-registry coref` runs.
+
 Input:  04-tags/<canticle>/NN.txt    (committed; the labels to correct)
         05-registry/<canticle>.txt   (committed; the node set = candidate targets)
         03-reading/<canticle>/NN.txt  (scene context for the judgment)
