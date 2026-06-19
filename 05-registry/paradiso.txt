@@ -27,8 +27,8 @@
 
 ## Cristo
 - type: individual
-- labels: Cristo
-- surfaces: Cristo (33), lui (4), colui (2), egli (2), ei (2), figlio (2), Diletto (1), Nostro Segnor (1), benedetto Agnello (1), caro duce (1), costui (1), del primo marito (1), el (1), essa (1), l verbo divino (1), l vocabol (1), l'alto Filio (1), l'altro (1), l'umana (1), la persona (1), lei (1), lo 'mperador (1), lo suo diletto (1), nostro pellicano (1), quei (1), quello sposo (1), questi (1), questo fiore (1), s' (1), si (1), sé (1), una persona (1)
+- labels: Cristo | Iesù Cristo
+- surfaces: Cristo (33), lui (4), colui (2), egli (2), ei (2), figlio (2), Diletto (1), Dio verace (1), Iesù Cristo (1), Nostro Segnor (1), Segnor (1), benedetto Agnello (1), caro duce (1), costui (1), del primo marito (1), el (1), essa (1), l verbo divino (1), l vocabol (1), l'alto Filio (1), l'altro (1), l'umana (1), la persona (1), lei (1), lo 'mperador (1), lo suo diletto (1), nostro pellicano (1), quei (1), quello sposo (1), questi (1), questo fiore (1), s' (1), si (1), sé (1), una persona (1)
 
 ## Bernardo
 - type: individual
@@ -317,6 +317,11 @@
 - labels: Giustiniano
 - surfaces: io (2), mi (2), ella (1), i' (1), questo giusto (1)
 
+## Pietro Damiano
+- type: individual
+- labels: Pietro Damiano | Pietro Damian
+- surfaces: io (2), Io (1), Pietro (1), Pietro Damiano (1), Pietro Peccator (1), m' (1)
+
 ## beato spirto
 - type: generic
 - labels: beato spirto
@@ -414,11 +419,6 @@
 - type: individual
 - labels: Paolo
 - surfaces: colui (1), egli (1), ei (1), il gran vasello (1), il padre (1), maggior padre di famiglia (1)
-
-## Pietro Damiano
-- type: individual
-- labels: Pietro Damiano
-- surfaces: io (2), Io (1), Pietro Damiano (1), Pietro Peccator (1), m' (1)
 
 ## San Pietro, San Giacomo
 - type: set
@@ -1010,11 +1010,6 @@
 - type: individual
 - labels: Iacobbe
 - surfaces: Iacobbe (1), il patriarca (1), li (1)
-
-## Iesù Cristo
-- type: individual
-- labels: Iesù Cristo
-- surfaces: Dio verace (1), Iesù Cristo (1), Segnor (1)
 
 ## Iosuè
 - type: individual
@@ -3514,11 +3509,6 @@
 - type: individual
 - labels: Pietro Bernardone
 - surfaces: Pietro Bernardone (1)
-
-## Pietro Damian
-- type: individual
-- labels: Pietro Damian
-- surfaces: Pietro (1)
 
 ## Pietro Mangiadore
 - type: individual

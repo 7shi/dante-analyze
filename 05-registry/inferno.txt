@@ -57,6 +57,11 @@
 - labels: Ciacco
 - surfaces: tu (11), elli (7), io (6), mi (4), Ciacco (2), ei (2), lui (2), quelli (2), si (2), ti (2), anima trista (1), chi (1), ella (1), li (1), una (1)
 
+## Maestro Adamo
+- type: individual
+- labels: Maestro Adamo | Mastro Adamo | maestro Adamo | mastro Adamo
+- surfaces: io (11), mi (6), tu (6), i' (3), m' (2), Io (1), elli (1), il monetier (1), l'idropico (1), li (1), lui (1), maestro Adamo (1), mastro Adamo (1), quel (1), t' (1), te (1), ti (1)
+
 ## Vanni Fucci
 - type: individual
 - labels: Vanni Fucci
@@ -71,11 +76,6 @@
 - type: individual
 - labels: Lucifero
 - surfaces: elli (10), ei (3), lui (3), Lucifero (2), questi (2), Lo 'mperador del doloroso regno (1), chi (1), colui (1), del diavol (1), el (1), ello (1), l' (1), la creatura (1), padre di menzogna (1), quel tutto (1), regis (1), si (1), tanto uccello (1), vermo reo (1)
-
-## Maestro Adamo
-- type: individual
-- labels: Maestro Adamo | maestro Adamo
-- surfaces: io (9), tu (6), i' (3), mi (3), Io (1), elli (1), il monetier (1), m' (1), maestro Adamo (1), quel (1), t' (1), te (1), ti (1)
 
 ## Francesca, Paolo
 - type: set
@@ -272,6 +272,11 @@
 - labels: Nicola III
 - surfaces: tu (5), ti (2), el (1), lui (1), mi (1), quel (1), si (1)
 
+## Pier della Vigna
+- type: individual
+- labels: Pier della Vigna | Pier delle Vigne
+- surfaces: io (2), me (2), Chi (1), I' (1), Io (1), ei (1), el (1), elli (1), lui (1), si (1)
+
 ## Bertram dal Bornio
 - type: individual
 - labels: Bertram dal Bornio
@@ -306,11 +311,6 @@
 - type: individual
 - labels: Pier da Medicina
 - surfaces: tu (3), egli (2), Pier da Medicina (1), ei (1), lui (1), meco (1), tale (1), te (1)
-
-## Pier della Vigna
-- type: individual
-- labels: Pier della Vigna
-- surfaces: io (2), me (2), Chi (1), I' (1), Io (1), el (1), elli (1), lui (1), si (1)
 
 ## Virgilio, Dante
 - type: set
@@ -348,11 +348,6 @@
 - type: individual
 - labels: Lucia
 - surfaces: ella (3), te (3), Lucia (2), nimica di ciascun crudele (1), si (1)
-
-## Mastro Adamo
-- type: individual
-- labels: Mastro Adamo | mastro Adamo
-- surfaces: mi (3), io (2), l'idropico (1), li (1), lui (1), m' (1), mastro Adamo (1)
 
 ## Semiramìs
 - type: individual
@@ -3574,11 +3569,6 @@
 - type: individual
 - labels: Penestrino
 - surfaces: Penestrino (1)
-
-## Pier delle Vigne
-- type: individual
-- labels: Pier delle Vigne
-- surfaces: ei (1)
 
 ## Pinamonte
 - type: individual

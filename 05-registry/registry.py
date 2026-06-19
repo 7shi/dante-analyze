@@ -45,6 +45,7 @@ DEFAULT_MODEL = "ollama:gemma4:31b-it-qat"
 TYPES = ("individual", "generic", "class", "hypothetical-simile", "non-person")
 BATCH = 20
 TYPES_CACHE = REGISTRY_DIR / "types.txt"
+ALIASES_FILE = REGISTRY_DIR / "aliases.txt"
 
 
 def committed_cantos(canticle):
@@ -108,6 +109,39 @@ class Nodes:
         keys = [k for k in self.labels if canticle in self.labels_canticle[k]]
         return sorted(keys, key=lambda k: (-sum(self.surfaces[k][canticle].values()),
                                            self.canonical(k)))
+
+
+# ---------- 2b. alias merge (pure code) ----------
+
+def load_aliases(path):
+    """Load (alias, canonical) pairs from the hand-maintained merge table."""
+    pairs = []
+    if not path.exists():
+        return pairs
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        alias, _, canonical = line.partition(" = ")
+        pairs.append((alias.strip(), canonical.strip()))
+    return pairs
+
+
+def apply_aliases(nodes, pairs):
+    """Merge alias nodes into their canonical targets in-place."""
+    for alias, canonical in pairs:
+        alias_key = fold_key(norm_label(alias))
+        canonical_key = fold_key(norm_label(canonical))
+        if alias_key not in nodes.labels:
+            raise ValueError(f"alias '{alias}' (key '{alias_key}') not found in nodes")
+        if canonical_key not in nodes.labels:
+            raise ValueError(f"canonical '{canonical}' (key '{canonical_key}') not found in nodes")
+        nodes.labels[canonical_key].update(nodes.labels.pop(alias_key))
+        for c, counter in nodes.labels_canticle.pop(alias_key).items():
+            nodes.labels_canticle[canonical_key][c].update(counter)
+        for c, counter in nodes.surfaces.pop(alias_key).items():
+            nodes.surfaces[canonical_key][c].update(counter)
+        print(f"alias-merge: '{alias}' -> '{canonical}'", file=sys.stderr)
 
 
 # ---------- 3. node typing (LLM, cached) ----------
@@ -330,6 +364,12 @@ def main():
     nodes = Nodes(CANTICLES)
     print(f"code-merge: {sum(len(c) for c in nodes.labels.values())} label spellings -> "
           f"{len(nodes.labels)} nodes", file=sys.stderr)
+
+    aliases = load_aliases(ALIASES_FILE)
+    if aliases:
+        apply_aliases(nodes, aliases)
+        print(f"alias-merge: {len(aliases)} pair(s) applied -> {len(nodes.labels)} nodes",
+              file=sys.stderr)
 
     types = type_nodes(nodes, args.model)
 

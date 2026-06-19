@@ -1,0 +1,7 @@
+# Deterministic merge table — alias = canonical
+# alias is absorbed into canonical; both must be existing node canonicals.
+# Only pure spelling variants with no ambiguity risk are listed here.
+Mastro Adamo = Maestro Adamo
+Pier delle Vigne = Pier della Vigna
+Pietro Damian = Pietro Damiano
+Iesù Cristo = Cristo
