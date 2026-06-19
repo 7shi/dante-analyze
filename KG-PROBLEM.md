@@ -1,11 +1,9 @@
 # The identification gap in the KG ladder
 
-> **Status — parked until the active `PLAN.md` work settles.** This is a known limitation to
-> revisit *after* the translation context lock (the active direction in `PLAN.md`, passes `09`–`14`)
-> is complete — not a blocker for it. The KG ladder (`01`–`08`) is committed and usable today, and
-> the context lock does not depend on closing this gap. The gap degrades the character count and
-> minor-figure queries (see "Impact" below); the fixes belong to a later cleanup pass on the
-> registry, taken up once the lock passes land.
+> **Status — Fix 1 complete (commit `8f2bee5`). Fix 2 is the remaining open work.**
+> The translation context lock (passes `09`–`14`) and digest (`15`) are complete. Fix 1 (deterministic
+> alias merge table) was applied to `05-registry` on 2026-06-19: four spelling-variant pairs merged,
+> node count reduced from 2711 to 2707. Fix 2 (context-aware LLM coreference) remains open.
 
 ## What the KG is for
 
@@ -161,19 +159,25 @@ A **coreference resolution** step between `04-tags` and typing — one that sees
 their scene context and groups same-figure mentions. The data suggests three tractable
 sub-problems, in order of increasing difficulty:
 
-### 1. Curate a deterministic merge table (low effort, high precision)
+### 1. Curate a deterministic merge table ✓ DONE (2026-06-19)
 
-The genuine same-figure splits — where two nodes are unambiguously the same person — are few
-(~10–20 pairs):
+`05-registry/aliases.txt` — hand-maintained alias table applied in `registry.py` after fold_key
+grouping. Only pure spelling variants with no ambiguity risk were included:
 
-- `Latino` (9) = `Brunetto Latino` (28) = `Ser Brunetto Latino` (5)
-- `Maestro Adamo` (30) = `Mastro Adamo` (10)
-- `Pier della Vigna` (26) = `Pier delle Vigne` (1)
-- `San Pietro` (35) = `Pietro` (12)
-- `Cristo` (96) = `Iesù Cristo` (3)
+| Alias (absorbed) | Canonical (kept) |
+|---|---|
+| `Mastro Adamo` | `Maestro Adamo` |
+| `Pier delle Vigne` | `Pier della Vigna` |
+| `Pietro Damian` | `Pietro Damiano` |
+| `Iesù Cristo` | `Cristo` |
 
-A hand-maintained alias table in `05-registry` would collapse these deterministically, with full
-verifiability (each merge is a curated fact, not an LLM judgment).
+**Excluded** from Fix 1 (require Fix 2 scene-context verification):
+- `Latino` — surface `'l re Latino` suggests King Latinus (Aeneid), not Brunetto Latino.
+- `San Pietro` / `Pietro` — bare `Pietro` in paradiso could be one of several Pietro figures.
+- `Iesù` — context needed to confirm it always refers to Cristo.
+
+The KG-PROBLEM.md original list (`Ser Brunetto Latino`, `San Pietro` = `Pietro`) was not fully
+verified; the items above were confirmed safe by inspecting the registry before merging.
 
 ### 2. Context-aware LLM coreference (the real fix, hardest)
 
