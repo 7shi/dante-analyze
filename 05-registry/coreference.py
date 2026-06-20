@@ -21,9 +21,12 @@ audit. Run it, READ the proposals, delete the wrong ones, then rebuild the regis
 
 Granularity: one decision per (label, canticle, canto, scene), applied to every occurrence of that
 label in the scene — 04-tags already aims for intra-scene label consistency, so a scene's `Guido` is
-one figure. The candidate targets for a bare label are the fuller individual nodes that contain it as
-a token (`Guido` -> `Guido da Montefeltro`, …; `Latino` -> `Brunetto Latino`), plus a small seed map
-for semantic pairs no token test catches (`Iesù` -> `Cristo`).
+one figure. The candidate targets for a bare label are the fuller individual nodes it HEADS as a
+proper name (`Guido` -> `Guido da Montefeltro`, …; `Latino` -> `Brunetto Latino`) — see heads_name,
+which excludes governed periphrases (`l'ombra di Dante`, `Figliuol di Dio`) where the bare name is
+not the head — plus a small seed map for semantic pairs no token test catches (`Iesù` -> `Cristo`).
+Superclass terms whose fuller forms name distinct figures are excluded outright (EXCLUDE_BARE: `Dio`,
+which spans the three Trinity persons).
 
 Run it as ONE process — do NOT parallelize per canticle (same hazard as registry.py). Both outputs
 are GLOBAL single files with no locking: `coref.cache.txt` is append-on-decision (concurrent appends
@@ -76,15 +79,49 @@ def committed_cantos(canticle):
 
 # ---------- candidates ----------
 
+# Function words that GOVERN a following noun: a bare name preceded by one of these is not the
+# proper-name head of the form but the object/possessee of the governor, so the form is a periphrasis
+# denoting a related entity, not a fuller name OF the figure. Prepositions ("X di Dio", "l'ombra di
+# Dante"), possessives ("vicario suo Cristo"), and demonstratives ("l'altro Carlo") all qualify.
+# Plain articles are NOT here: "la Pia" is a legitimate fuller name (article + proper name).
+GOVERNORS = {
+    "di", "del", "dello", "della", "dei", "degli", "delle",
+    "da", "dal", "dallo", "dalla", "dai", "dagli", "dalle",
+    "de", "de'", "d'", "a", "in", "con", "su", "per", "tra", "fra",
+    "suo", "sua", "suoi", "sue", "mio", "mia", "miei", "mie",
+    "tuo", "tua", "tuoi", "tue", "nostro", "nostra", "vostro", "vostra", "loro",
+    "altro", "altra", "altri", "altre", "l'altro", "l'altra",
+    "quel", "quello", "quella", "quei", "quegli", "quelle", "questo", "questa",
+}
+
+# Bare names that must NOT auto-merge into a fuller form: superclass/ambiguous terms whose fuller
+# forms denote DISTINCT figures, so a per-scene merge over-commits. "Dio" spans the three Trinity
+# persons ("Dio Padre / Dio Figlio / Dio Spirito Santo") and the bare word almost always means
+# God-in-general — leave it distinct rather than fold it into one person.
+EXCLUDE_BARE = {"Dio"}
+
+
+def heads_name(bare, fuller):
+    """True if single-token `bare` is the proper-name HEAD of multi-token `fuller`: it occurs as a
+    token that is NOT preceded by a GOVERNOR. So "San Pietro", "conte Ugolino", "Tommaso d'Aquino"
+    qualify (title/honorific or first-token), but governed periphrases "l'ombra di Dante",
+    "Figliuol di Dio", "vicario suo Cristo", "l'altro Carlo" do not — there `bare` follows a
+    preposition/possessive/demonstrative and the form names a related or contrasted entity."""
+    toks = fuller.split()
+    return any(t == bare and (i == 0 or toks[i - 1].lower() not in GOVERNORS)
+               for i, t in enumerate(toks))
+
+
 def candidate_targets(registry):
     """{bare_label: [fuller canonical, …]} — under-specified individual nodes paired with the fuller
     individual nodes they could resolve to. A bare label is a single-token `individual` canonical; a
-    target is a multi-token `individual` canonical containing that token (plus SEED_TARGETS)."""
+    target is a multi-token `individual` canonical that the bare label HEADS as a proper name (see
+    heads_name — excludes possessive periphrases like "X di Dio"), plus SEED_TARGETS."""
     individuals = [c for c, n in registry.items() if n.get("type") == "individual"]
-    bare = [c for c in individuals if " " not in c]
+    bare = [c for c in individuals if " " not in c and c not in EXCLUDE_BARE]
     out = {}
     for b in bare:
-        targets = sorted(c for c in individuals if c != b and b in c.split())
+        targets = sorted(c for c in individuals if c != b and heads_name(b, c))
         for extra in SEED_TARGETS.get(b, []):
             if extra in registry and extra not in targets:
                 targets.append(extra)
@@ -133,11 +170,21 @@ def append_cache(canticle, canto, s, e, label, decision):
 def write_overlay(cache):
     """Regenerate 04-tags/coref.txt from the cache: per-tag lines for every non-'distinct' decision.
     Re-reads each scene RAW (apply_coref=False) to expand a (label, scene) decision to the tag
-    numbers that carry the bare label."""
+    numbers that carry the bare label.
+
+    A decision is dropped if (label, target) no longer passes the structural candidate test
+    (heads_name, or a SEED_TARGETS pair) — so tightening candidate generation cleans the overlay on
+    the next regenerate WITHOUT a model rerun. The test is on the label/target STRINGS only, never
+    re-derived from the registry: the committed registry already reflects the prior overlay (merged
+    labels are gone from it), so re-deriving candidates there would wrongly drop the very corrections
+    that worked."""
     by_scene = {}   # (canticle, canto, s, e) -> {norm_label: decision}
     for (canticle, canto, s, e, label), decision in cache.items():
-        if decision != DISTINCT:
-            by_scene.setdefault((canticle, canto, s, e), {})[norm_label(label)] = decision
+        if decision == DISTINCT or label in EXCLUDE_BARE:
+            continue
+        if not (heads_name(label, decision) or decision in SEED_TARGETS.get(label, [])):
+            continue
+        by_scene.setdefault((canticle, canto, s, e), {})[norm_label(label)] = decision
     lines = []
     for (canticle, canto, s, e) in sorted(by_scene):
         res = load_tags(canticle, canto, apply_coref=False).get((s, e), {})

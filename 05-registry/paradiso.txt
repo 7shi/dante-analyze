@@ -10,10 +10,10 @@
 - labels: Beatrice
 - surfaces: ella (53), io (42), Beatrice (26), tu (17), la mia donna (12), si (12), lei (11), quella (10), Bëatrice (9), la donna (5), Io (4), essa (4), la (4), sé (4), ti (4), ei (3), elli (3), le (3), mi (3), t' (3), Ella (2), chi (2), colei (2), donna (2), egli (2), i' (2), la donna mia (2), la stella (2), mia donna (2), voi (2), 'mparadisa (1), Be (1), L'altra bëatitudo (1), L'altra letizia (1), La dolce donna (1), La donna (1), La donna mia (1), Madonna (1), Tu (1), Uno (1), amanza (1), cara cosa (1), cara piota mia (1), costei (1), cotal Beatrice (1), diva (1), dolce guida e cara (1), dolce stella (1), ice (1), il lume (1), il mio tesoro (1), il sol de li occhi miei (1), ingigliarsi (1), l'altra (1), l'anima santa (1), l'un (1), la bella donna (1), la dolce guida (1), la mia celeste scorta (1), la mia guida (1), la più bella (1), la santa lampa (1), la tua donna (1), li occhi belli (1), luce etterna (1), lui (1), m' (1), madre (1), me (1), meco (1), mirabil cosa (1), quella donna (1), quella luce stessa (1), quella pïa (1), quello specchio beato (1), questa (1), sacra lucerna (1), se (1), sposa tacita e immota (1), tal querente (1), te (1), tua donna (1), vita beata (1)
 
-## Dio Padre
+## Dio
 - type: individual
-- labels: Dio Padre
-- surfaces: Dio (39), sé (7), tu (7), lui (6), te (6), colui (4), ei (4), egli (3), io (3), s' (3), 'l süo amor (1), Alfa e O (1), Colui (1), Deï (1), Iddio (1), Io (1), Lo ben (1), Luce divina (1), Lume (1), Quel medesmo (1), chi (1), dei (1), del padre (1), elli (1), essa (1), esso (1), i (1), il (1), il primo (1), il sovrano (1), l'amor (1), l'etterno amore (1), l'etterno lume (1), la destra del ciel (1), la mente (1), la prima cagion (1), la somma essenza (1), lei (1), lo creatore (1), luce etterna (1), pasture (1), patre (1), quel (1), quel maestro (1), sanctus Deus sabaòth (1), si (1), suo fattore (1), t' (1), un'altra fïata (1)
+- labels: Dio
+- surfaces: Dio (49), tu (9), colui (7), egli (7), lui (7), sé (7), te (6), ei (5), s' (4), io (3), si (3), 'l suo fattore (1), 'l süo amor (1), Alfa e O (1), Colui (1), Deï (1), El (1), Iddio (1), Io (1), Lo ben (1), Luce divina (1), Lume (1), Quel medesmo (1), Quell' uno e due e tre (1), Sol (1), chi (1), dei (1), ella (1), elli (1), essa (1), esso (1), i (1), il (1), il primo (1), il sovrano (1), l' (1), l'amor (1), l'etterno amore (1), l'etterno lume (1), l'operante (1), la destra del ciel (1), la divina bontà (1), la mente (1), la mente divina (1), la prima cagion (1), la somma essenza (1), lei (1), lo creatore (1), lo sposo (1), luce etterna (1), pasture (1), quel (1), quel maestro (1), questo (1), sanctus Deus sabaòth (1), suo fattore (1), t' (1), tre e 'n due e 'n uno (1), trino e uno (1), un'altra fïata (1)
 
 ## Maria
 - type: individual
@@ -60,11 +60,6 @@
 - type: individual
 - labels: Cunizza
 - surfaces: io (9), ei (4), me (4), mi (3), si (2), Cunizza (1), beato spirto (1), litorano (1), m' (1), te (1), tu (1)
-
-## Dio
-- type: individual
-- labels: Dio
-- surfaces: Dio (7), egli (3), tu (2), El (1), Quell' uno e due e tre (1), Sol (1), colui (1), ei (1), ella (1), l' (1), l'operante (1), la divina bontà (1), la mente divina (1), lo sposo (1), lui (1), si (1), tre e 'n due e 'n uno (1), trino e uno (1)
 
 ## San Francesco
 - type: individual
@@ -313,12 +308,6 @@
 - labels: Appollo
 - surfaces: tu (5), Appollo (1), buono Appollo (1)
 
-## Dio giudicante
-- type: individual
-- labels: Dio giudicante
-- surfaces: Dio (2), colui (2), Dio giudicante (1), questo (1), si (1)
-- grouped: no
-
 ## Giacomo il Maggiore
 - type: individual
 - labels: Giacomo il Maggiore
@@ -405,11 +394,6 @@
 - type: class
 - labels: Apostoli
 - surfaces: voi (3), elli (1), lor (1), vi (1)
-
-## Figliuol di Dio
-- type: individual
-- labels: Figliuol di Dio
-- surfaces: 'l suo fattore (1), Dio (1), Figliuol di Dio (1), del Figliuol di Dio (1), s' (1), si (1)
 
 ## Giove
 - type: individual
@@ -550,11 +534,6 @@
 - type: individual
 - labels: Timeo
 - surfaces: ei (3), Timeo (1), elli (1)
-
-## Verbo di Dio
-- type: individual
-- labels: Verbo di Dio
-- surfaces: al Verbo di Dio (1), egli (1), ei (1), persona (1), sé (1)
 
 ## collegio
 - type: non-person
@@ -728,6 +707,11 @@
 - type: individual
 - labels: San Giacomo
 - surfaces: tu (3), Inclita vita (1)
+
+## Verbo di Dio
+- type: individual
+- labels: Verbo di Dio
+- surfaces: al Verbo di Dio (1), ei (1), persona (1), sé (1)
 
 ## angeli
 - type: class
@@ -982,6 +966,11 @@
 - type: individual
 - labels: Eva
 - surfaces: colei (1), costei (1), quella (1)
+
+## Figliuol di Dio
+- type: individual
+- labels: Figliuol di Dio
+- surfaces: Figliuol di Dio (1), del Figliuol di Dio (1), si (1)
 
 ## Glauco
 - type: individual
@@ -1612,6 +1601,11 @@
 - type: individual
 - labels: Dido
 - surfaces: Dido (1), costei (1)
+
+## Dio Padre
+- type: individual
+- labels: Dio Padre
+- surfaces: del padre (1), patre (1)
 
 ## Domenico, la Fede
 - type: set
@@ -2977,6 +2971,12 @@
 - type: class
 - labels: Dio e i beati
 - surfaces: noi (1)
+- grouped: no
+
+## Dio giudicante
+- type: individual
+- labels: Dio giudicante
+- surfaces: Dio giudicante (1)
 - grouped: no
 
 ## Domenico, Francesco

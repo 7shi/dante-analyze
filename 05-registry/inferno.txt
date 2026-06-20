@@ -68,10 +68,10 @@
 - labels: Vanni Fucci
 - surfaces: elli (6), io (6), mi (4), ei (3), 'l (2), Io (2), si (2), 'l peccator (1), El (1), Vanni Fucci (1), chi (1), ello (1), i' (1), il (1), il ladro (1), l'acerbo (1), ladro (1), li (1), m' (1), s' (1), spirto (1), uomo di sangue e di crucci (1)
 
-## Dio Padre
+## Dio
 - type: individual
-- labels: Dio Padre
-- surfaces: Dio (19), lui (3),  'l maestro (1), 'l (1), 'l suo fattore (1), Colui (1), colui (1), divino 'ntelletto (1), il mio alto fattore (1), l'alto Sire (1), la divina podestate (1), lo maestro (1), quei (1), te (1)
+- labels: Dio
+- surfaces: Dio (23), lui (3),  'l maestro (1), 'l (1), 'l suo fattore (1), Colui (1), chi (1), colui (1), divino 'ntelletto (1), l'alto Sire (1), la deïtade (1), lo maestro (1), quei (1), quella (1), te (1)
 
 ## Lucifero
 - type: individual
@@ -289,11 +289,6 @@
 - labels: Capocchio
 - surfaces: io (3), chi (1), l' (1), l'altro lebbroso (1), l'ombra di Capocchio (1), li (1), m' (1), me (1), mene (1)
 
-## Fra Alberigo
-- type: individual
-- labels: Fra Alberigo
-- surfaces: lui (2), mi (2), el (1), elli (1), gliel' (1), si (1), tu (1), un tal (1), ïo (1)
-
 ## Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci
 - type: set
 - members: Guido Guerra | Tegghiaio Aldobrandi | Iacopo Rusticucci
@@ -453,6 +448,11 @@
 - surfaces: tu (4), ti (2), quella (1), si (1), te (1)
 - grouped: no
 
+## Alberigo
+- type: individual
+- labels: Alberigo
+- surfaces: lui (2), el (1), elli (1), gliel' (1), si (1), tu (1), un tal (1)
+
 ## Catalano
 - type: individual
 - labels: Catalano
@@ -559,11 +559,6 @@
 - type: individual
 - labels: Cerbero
 - surfaces: ei (5), Cerbero (1), lo demonio Cerbero (1)
-
-## Dio
-- type: individual
-- labels: Dio
-- surfaces: Dio (4), chi (1), la deïtade (1), quella (1)
 
 ## Omero
 - type: individual
@@ -1422,6 +1417,11 @@
 - labels: Flegeo
 - surfaces: ei (1), il nocchier forte (1), un sol galeoto (1)
 
+## Fra Alberigo
+- type: individual
+- labels: Fra Alberigo
+- surfaces: mi (2), ïo (1)
+
 ## Gerïone
 - type: individual
 - labels: Gerïone
@@ -1934,6 +1934,11 @@
 - type: individual
 - labels: Deïdamìa
 - surfaces: Deïdamìa (1), si (1)
+
+## Dio Padre
+- type: individual
+- labels: Dio Padre
+- surfaces: il mio alto fattore (1), la divina podestate (1)
 
 ## Dio, sé, prossimo
 - type: generic

@@ -3,7 +3,7 @@
 ## Dante
 - type: individual
 - labels: Dante
-- surfaces: io (436), tu (297), mi (180), me (81), m' (61), ti (60), Io (27), i' (24), te (22), t' (17), ei (10), Tu (8), si (8), voi (8), lui (7), meco (7), frate (6), questi (6), Figliuol (5), costui (5), elli (5), li (5), I' (4), chi (4), teco (4), vos (4), 'l (3), egli (3), figlio (3), l' (3), l'anima mia (3), s' (3), ïo (3), Tosco (2), anima (2), colui (2), e' (2), ella (2), lo (2),  'l mortal (1), Chi (1), Colui (1), Dante (1), Figliuole (1), Frate (1), Frate mio (1), Pisistràto (1), Questi (1), Voi (1), a' pellegrin (1), al fanciul (1), al tuo fedele (1), cieco (1), cive (1), conducerlo (1), corpo uman (1), cotesti (1), dirmi (1), ditemi (1), dolce figlio (1), dolce frate (1), esso (1), farlo (1), figliuol (1), l (1), l'anima tua (1), l'animo (1), la sua ombra (1), la sua persona (1), lei (1), li occhi (1), li occhi spietati (1), lo muto (1), lo novo peregrin d'amore (1), mei (1), mosterrolli (1), mostrarli (1), om (1), persona viva (1), potert' (1), questa persona (1), questo (1), silvano (1), sire (1), smarrirsi (1), sua compagna (1), tienvi (1), tua e mia serocchia (1), ventarmi (1)
+- surfaces: io (476), tu (329), mi (201), me (93), m' (67), ti (63), Io (30), i' (25), te (23), t' (18), ei (13), si (10), voi (9), Tu (8), lui (8), meco (7), questi (7), costui (6), elli (6), frate (6), Figliuol (5), chi (5), egli (5), li (5), s' (5), I' (4), teco (4), vos (4), 'l (3), Frate (3), figlio (3), il (3), l' (3), l'anima mia (3), ïo (3), Tosco (2), anima (2), colui (2), e' (2), ella (2), lo (2), om (2),  'l mortal (1), Chi (1), Chiunque (1), Colui (1), Dante (1), Figliuole (1), Frate mio (1), Pisistràto (1), Questi (1), Voi (1), a' pellegrin (1), al fanciul (1), al tuo fedele (1), cieco (1), cive (1), conducerlo (1), corpo uman (1), cotesti (1), dirmi (1), ditemi (1), dolce figlio (1), dolce frate (1), esso (1), farlo (1), figliuol (1), figliuolo (1), l (1), l'anima tua (1), l'animo (1), la sua ombra (1), la sua persona (1), lei (1), li occhi (1), li occhi spietati (1), lo muto (1), lo novo peregrin d'amore (1), lo spirito mio (1), mei (1), mosterrolli (1), mostrarli (1), persona viva (1), potert' (1), questa persona (1), questo (1), silvano (1), sire (1), smarrirsi (1), sua compagna (1), tienvi (1), tua e mia serocchia (1), ventarmi (1)
 
 ## Virgilio
 - type: individual
@@ -18,12 +18,6 @@
 - type: individual
 - labels: Beatrice
 - surfaces: ella (37), io (20), Beatrice (14), tu (8), lei (6), me (6), voi (4), donna (3), la (3), si (3), Bëatrice (2), Ella (2), La bella donna (2), la donna (2), le (2), m' (2), meco (2), Donna (1), La donna (1), Madonna (1), chi (1), colei (1), donna del ciel (1), ei (1), elli (1), gloria de la gente umana (1), guardia (1), isplendor di viva luce etterna (1), l'alta virtù (1), la donna mia (1), li occhi belli (1), luce (1), mi (1), nostra eletta (1), quella (1), quella onesta (1), questa (1), qui (1), se' (1), sponsa (1), sé (1), sé stessa (1), t' (1), te (1), ti (1), una donna (1)
-
-## l'ombra di Dante
-- type: individual
-- labels: l'ombra di Dante
-- surfaces: io (40), tu (32), mi (21), me (12), m' (6), Io (3), ei (3), il (3), ti (3), Frate (2), egli (2), s' (2), si (2), Chiunque (1), chi (1), costui (1), elli (1), figliuolo (1), i' (1), lo spirito mio (1), lui (1), om (1), ombra (1), questi (1), t' (1), te (1), voi (1)
-- grouped: no
 
 ## Stazio
 - type: individual
@@ -156,6 +150,11 @@
 - surfaces: elli (8), essi (2), lor (2), l'altra (1), l'una gente (1), li (1), loro (1), noi (1), questi (1), s' (1), si (1), un (1)
 - grouped: no
 
+## Cristo
+- type: individual
+- labels: Cristo
+- surfaces: Cristo (4), tu (2), abate del collegio (1), cotal (1), ei (1), esso (1), il suo fattor (1), il tuo portato santo (1), l'Agnel di Dio (1), la fiera (1), progenïe (1), si (1), sommo Giove (1), un crucifisso (1), una persona (1), ‘Agnus Dei’ (1)
+
 ## l'angel di Dio
 - type: individual
 - labels: l'angel di Dio
@@ -202,11 +201,6 @@
 ## Dante, Virgilio, Statio
 - type: set
 - members: Dante | Virgilio | Statio
-
-## Cristo
-- type: individual
-- labels: Cristo
-- surfaces: Cristo (4), tu (2), abate del collegio (1), ei (1), il suo fattor (1), il tuo portato santo (1), l'Agnel di Dio (1), la fiera (1), progenïe (1), sommo Giove (1), una persona (1), ‘Agnus Dei’ (1)
 
 ## Maria
 - type: individual
@@ -450,12 +444,6 @@
 - surfaces: ei (2), colui (1), il Sole (1), quei (1), quel (1), si (1)
 - grouped: no
 
-## l'altro Carlo
-- type: individual
-- labels: l'altro Carlo | un altro Carlo
-- surfaces: ei (3), sé (2), Carlo (1), un altro Carlo (1)
-- grouped: no
-
 ## l'animo
 - type: non-person
 - labels: l'animo
@@ -559,6 +547,12 @@
 - surfaces: ella (4), l'alma (1), le (1)
 - grouped: no
 
+## l'altro Carlo
+- type: individual
+- labels: l'altro Carlo | un altro Carlo
+- surfaces: ei (3), sé (2), un altro Carlo (1)
+- grouped: no
+
 ## la prima voce
 - type: non-person
 - labels: la prima voce
@@ -635,6 +629,11 @@
 - type: individual
 - labels: Alagia
 - surfaces: Alagia (1), Nepote (1), lei (1), questa (1), sé (1)
+
+## Carlo
+- type: individual
+- labels: Carlo
+- surfaces: Carlo (3), egli (2)
 
 ## Currado da Palazzo
 - type: individual
@@ -796,21 +795,10 @@
 - surfaces: voi (3), noi (1), umana gente (1)
 - grouped: no
 
-## vicario suo Cristo
-- type: individual
-- labels: vicario suo Cristo
-- surfaces: cotal (1), esso (1), nel vicario suo Cristo (1), si (1), un crucifisso (1)
-- grouped: no
-
 ## Aragne
 - type: hypothetical-simile
 - labels: Aragne
 - surfaces: te (2), folle Aragne (1), mezza ragna (1)
-
-## Carlo
-- type: individual
-- labels: Carlo
-- surfaces: Carlo (2), egli (2)
 
 ## Cesare
 - type: individual
@@ -912,12 +900,6 @@
 - type: class
 - labels: cento spirti
 - surfaces: cento spirti (1), ei (1), elli (1), si (1)
-- grouped: no
-
-## dal Torso
-- type: individual
-- labels: dal Torso
-- surfaces: ella (2), Torso (1), quella faccia (1)
 - grouped: no
 
 ## dolce lume
@@ -1292,6 +1274,12 @@
 - type: individual
 - labels: conte Orso
 - surfaces: conte Orso (1), e' (1), l'anima (1)
+- grouped: no
+
+## dal Torso
+- type: individual
+- labels: dal Torso
+- surfaces: ella (2), quella faccia (1)
 - grouped: no
 
 ## fantolin
@@ -3419,6 +3407,11 @@
 - labels: Tommaso
 - surfaces: Tommaso (1)
 
+## Torso
+- type: individual
+- labels: Torso
+- surfaces: Torso (1)
+
 ## Tutti santi
 - type: class
 - labels: Tutti santi
@@ -4137,6 +4130,12 @@
 - type: class
 - labels: l'infernali
 - surfaces: l'infernali (1)
+- grouped: no
+
+## l'ombra di Dante
+- type: individual
+- labels: l'ombra di Dante
+- surfaces: ombra (1)
 - grouped: no
 
 ## l'onda
@@ -5139,6 +5138,12 @@
 - type: generic
 - labels: viaggiatore
 - surfaces: ei (1)
+- grouped: no
+
+## vicario suo Cristo
+- type: individual
+- labels: vicario suo Cristo
+- surfaces: nel vicario suo Cristo (1)
 - grouped: no
 
 ## virtute
