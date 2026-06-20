@@ -187,8 +187,10 @@ check, and false positives dominate (most name-sharing pairs are different peopl
   rebuild the registry — the structural check rejects any correction pointing at a non-existent
   canonical, but it cannot catch a plausible-but-wrong merge, so the human pass is the real gate.
 
-Run `make -C 05-registry coref` to (re)generate, then rebuild with `make -C 05-registry`. With an
-absent or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
+Run `make -C 05-registry coref` to (re)generate, then rebuild with `make -C 05-registry registry`.
+(`make -C 05-registry all` chains both — `registry` → `coref` → `registry` — but that applies the
+proposals *without* the review gate; for a reviewed pass run the two steps by hand.) With an absent
+or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
 
 **Run `coreference.py` as ONE process — do not parallelize per canticle** (same constraint as
 `registry.py`). Both outputs are global single files with no locking: `coref.cache.txt` is
@@ -206,8 +208,8 @@ only the remainder is sent. Interrupting the build loses at most the one in-flig
 LLM's typing decisions): keeping it makes the registry reproducible without re-running the model and
 leaves the only interpretive step auditable. To re-derive types from scratch, delete it first.
 
-- **Resume:** rerun `make -C 05-registry` (or the `uv run` command below). It reads `types.txt`,
-  skips what's done, and finishes the rest, then renders + checks.
+- **Resume:** rerun `make -C 05-registry registry` (or the `uv run` command below). It reads
+  `types.txt`, skips what's done, and finishes the rest, then renders + checks.
 - **Rebuild from scratch:** `rm 05-registry/types.txt` first, then run.
 - **Progress:** `wc -l 05-registry/types.txt` (one line = one typed node).
 
@@ -216,8 +218,9 @@ deduplicated node set (the canticle args only choose which `<canticle>.txt` get 
 gets typed). Running `registry.py inferno`, `registry.py purgatorio`, `registry.py paradiso`
 concurrently would each re-type the *same* ~2,550 nodes (3× the LLM cost) and **append to
 `types.txt` at the same time, corrupting the cache** (it is a plain append-on-pass file, no locking).
-The intended invocation is the single `registry.py inferno purgatorio paradiso` that `make` runs;
-the three output files are a cheap rendering split at the end of that one run.
+The intended invocation is the single `registry.py inferno purgatorio paradiso` that
+`make -C 05-registry registry` runs; the three output files are a cheap rendering split at the end
+of that one run.
 
 ---
 
@@ -257,8 +260,9 @@ changing the method, never by per-item patching.
 
 | Target | Command it runs | Effect |
 |---|---|---|
-| `make -C 05-registry` (`all`) | `uv run registry.py inferno purgatorio paradiso -m $(MODEL)` | Build/resume the registry; writes the three `<canticle>.txt` + `types.txt` |
-| `make -C 05-registry coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); rebuild with `all` after |
+| `make -C 05-registry all` | `registry` → `coref` → `registry` | **Full build**: node tables + typing cache, then the coref overlay, then the tables re-rendered with the overlay applied. Applies coref proposals *without* the review gate |
+| `make -C 05-registry registry` | `uv run registry.py inferno purgatorio paradiso -m $(MODEL)` | Build/resume the registry only; writes the three `<canticle>.txt` + `types.txt` (applies whatever `04-tags/coref.txt` holds) |
+| `make -C 05-registry coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); rebuild with `registry` after |
 | `make -C 05-registry measure` | `uv run measure.py` | Re-print the sizing report + decision gates (read-only) |
 
 `$(MODEL)` comes from `../model.mk` (default `ollama:gemma4:31b-it-qat`).
@@ -267,7 +271,8 @@ changing the method, never by per-item patching.
 
 ```bash
 make -C 05-registry measure                 # size the problem (read-only)
-make -C 05-registry                          # build/resume; fail-loud structural check
+make -C 05-registry registry                 # build/resume; fail-loud structural check
+make -C 05-registry all                      # full build: registry -> coref -> registry
 uv run 05-registry/registry.py inferno       # one canticle (still gathers all three globally)
 uv run dante-analyze registry show inferno   # read a committed registry file
 ```

@@ -86,7 +86,7 @@ How a Fix-2 correction (e.g. bare `Guido` → `Guido da Montefeltro` in one scen
 
 ### Recommended rebuild order
 
-After regenerating the registry (`make -C 05-registry`):
+After regenerating the registry (`make -C 05-registry registry`):
 
 ```
 06-speech, 08-kg        (code, no cache — just rerun)
