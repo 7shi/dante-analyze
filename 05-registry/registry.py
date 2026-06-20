@@ -37,6 +37,7 @@ from dante_analyze import (
     read_markup, load_tags, number_scene,
     norm_label, fold_key, split_set, is_capitalized_name,
     call_llm, step_sep,
+    load_aliases, load_types_cache, ALIASES_FILE, TYPES_CACHE,
 )
 
 CANTICLES = ("inferno", "purgatorio", "paradiso")
@@ -44,8 +45,6 @@ UNKNOWN = "(unknown)"
 DEFAULT_MODEL = "ollama:gemma4:31b-it-qat"
 TYPES = ("individual", "generic", "class", "hypothetical-simile", "non-person")
 BATCH = 20
-TYPES_CACHE = REGISTRY_DIR / "types.txt"
-ALIASES_FILE = REGISTRY_DIR / "aliases.txt"
 
 
 def committed_cantos(canticle):
@@ -113,20 +112,6 @@ class Nodes:
 
 # ---------- 2b. alias merge (pure code) ----------
 
-def load_aliases(path):
-    """Load (alias, canonical) pairs from the hand-maintained merge table."""
-    pairs = []
-    if not path.exists():
-        return pairs
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        alias, _, canonical = line.partition(" = ")
-        pairs.append((alias.strip(), canonical.strip()))
-    return pairs
-
-
 def apply_aliases(nodes, pairs):
     """Merge alias nodes into their canonical targets in-place."""
     for alias, canonical in pairs:
@@ -147,17 +132,6 @@ def apply_aliases(nodes, pairs):
 # ---------- 3. node typing (LLM, cached) ----------
 
 TYPE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*=\s*([a-z-]+)\s*$")
-
-
-def load_types_cache():
-    """{canonical: type} already decided, from the resume cache."""
-    out = {}
-    if TYPES_CACHE.exists():
-        for line in TYPES_CACHE.read_text(encoding="utf-8").splitlines():
-            if " = " in line:
-                label, _, t = line.rpartition(" = ")
-                out[label.strip()] = t.strip()
-    return out
 
 
 def append_types_cache(typed):

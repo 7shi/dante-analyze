@@ -149,9 +149,9 @@ Iesù Cristo    = Cristo
 ### Fix 2 — `04-tags/coref.txt` (context-aware, per-tag)
 
 The opposite case: an **under-specified** label (bare `Guido`, `Latino`, `Pietro`) that means
-*different* figures in different scenes, so no global alias is correct. `coreference.py` decides,
-per scene and with the scene's reading as context, which fuller-form figure (if any) the label
-denotes, and stages a per-tag correction in `04-tags/coref.txt`:
+*different* figures in different scenes, so no global alias is correct. `04-tags/coreference.py`
+decides, per scene and with the scene's reading as context, which fuller-form figure (if any) the
+label denotes, and stages a per-tag correction in `04-tags/coref.txt`:
 
 ```
 inferno/27/19-30/5 = Guido da Montefeltro    # canticle/canto/start-end/tag_no = identity-first label
@@ -181,22 +181,30 @@ check, and false positives dominate (most name-sharing pairs are different peopl
   DAG: registry build #1 (empty overlay) → `types.txt` → `coreference.py` → `coref.txt` → registry
   build #2 (overlay applied);
 - the safe default is **`distinct`** — no correction, label left as committed;
-- every decision (incl. `distinct`) is recorded in `05-registry/coref.cache.txt` for resume/audit;
+- every decision (incl. `distinct`) is recorded in `04-tags/coref.cache.txt` for resume/audit;
   only non-`distinct` decisions reach `04-tags/coref.txt`;
 - **the overlay is staged for human review before commit.** Read it, delete wrong lines, then
   rebuild the registry — the structural check rejects any correction pointing at a non-existent
   canonical, but it cannot catch a plausible-but-wrong merge, so the human pass is the real gate.
 
-Run `make -C 05-registry coref` to (re)generate, then rebuild with `make -C 05-registry registry`.
-(`make -C 05-registry all` chains both — `registry` → `coref` → `registry` — but that applies the
-proposals *without* the review gate; for a reviewed pass run the two steps by hand.) With an absent
-or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
+**Where the generator lives.** `coreference.py`, the overlay `coref.txt`, and the audit cache
+`coref.cache.txt` all live in **`04-tags/`**: the output is a *tags* patch, so the writer sits with
+the data it corrects and with `load_tags`, the reader that applies it. Its one 05-registry
+dependency — the typing info — is read as **data** (`types.txt` / `aliases.txt` via the shared
+`load_types_cache` / `load_aliases`), not a cross-pass code import. (The residual asymmetry is that a
+04-tags tool reads a 05-registry file; that is an ordinary input dependency, far milder than the
+former arrangement where 05 *wrote into* 04.)
+
+Run `make -C 04-tags coref` to (re)generate, then rebuild with `make -C 05-registry registry`.
+(`make -C 05-registry all` chains both — `registry` → `make -C ../04-tags coref` → `registry` — but
+that applies the proposals *without* the review gate; for a reviewed pass run the two steps by hand.)
+With an absent or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
 
 **Run `coreference.py` as ONE process — do not parallelize per canticle** (same constraint as
-`registry.py`). Both outputs are global single files with no locking: `coref.cache.txt` is
+`registry.py`). Both outputs are global single files with no locking: `04-tags/coref.cache.txt` is
 append-on-decision, and `04-tags/coref.txt` is rewritten whole from the in-memory cache at the end of
 the run — concurrent runs corrupt the cache and clobber each other's overlay (last-writer-wins). The
-`coref` make target passes all three canticles to one process.
+`make -C 04-tags coref` target passes all three canticles to one process.
 
 ### `types.txt` — the resume cache
 
@@ -260,9 +268,9 @@ changing the method, never by per-item patching.
 
 | Target | Command it runs | Effect |
 |---|---|---|
-| `make -C 05-registry all` | `registry` → `coref` → `registry` | **Full build**: node tables + typing cache, then the coref overlay, then the tables re-rendered with the overlay applied. Applies coref proposals *without* the review gate |
+| `make -C 05-registry all` | `registry` → `make -C ../04-tags coref` → `registry` | **Full build**: node tables + typing cache, then the coref overlay (a 04-tags target), then the tables re-rendered with the overlay applied. Applies coref proposals *without* the review gate |
 | `make -C 05-registry registry` | `uv run registry.py inferno purgatorio paradiso -m $(MODEL)` | Build/resume the registry only; writes the three `<canticle>.txt` + `types.txt` (applies whatever `04-tags/coref.txt` holds) |
-| `make -C 05-registry coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); rebuild with `registry` after |
+| `make -C 04-tags coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); reads `05-registry/types.txt`, so it needs a registry build first; rebuild with `registry` after |
 | `make -C 05-registry measure` | `uv run measure.py` | Re-print the sizing report + decision gates (read-only) |
 
 `$(MODEL)` comes from `../model.mk` (default `ollama:gemma4:31b-it-qat`).

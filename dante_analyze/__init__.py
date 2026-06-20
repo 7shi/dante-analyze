@@ -16,7 +16,8 @@ from .checkpoint import (
     complete_scene_ends, restore_blocks, render_scene_block, append_canto,
     load_readings, load_tags, load_registry, load_speech, load_relations,
     raw_to_canonical, load_kg, load_locations, load_topography, load_presence, load_addressee,
-    load_cohort, load_lock, load_digest,
+    load_cohort, load_lock, load_digest, load_aliases, load_types_cache,
+    ALIASES_FILE, TYPES_CACHE,
 )
 from .prompts import build_reason_prompt, build_digest_prompt, build_digest_translate_prompt
 
@@ -32,7 +33,8 @@ __all__ = [
     # output readers
     "load_readings", "load_tags", "load_registry", "load_speech", "load_relations",
     "raw_to_canonical", "load_kg", "load_locations", "load_topography", "load_presence",
-    "load_addressee", "load_cohort", "load_lock", "load_digest", "scene_bodies", "iter_scene_blocks",
+    "load_addressee", "load_cohort", "load_lock", "load_digest", "load_aliases", "load_types_cache",
+    "ALIASES_FILE", "TYPES_CACHE", "scene_bodies", "iter_scene_blocks",
     "done_scene_ends", "complete_scene_ends", "read_recap", "restore_blocks",
     # tag numbering / parsing
     "number_scene", "tag_positions", "strip_to_source", "parse_bullets", "unbrace",

@@ -18,6 +18,10 @@ TAGS_LINE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
 COREF_LINE_RE = re.compile(
     r"^\s*(\w+)/(\d+)/(\d+)-(\d+)/(\d+)\s*=\s*(.*\S)\s*$")
 COREF_FILE = TAGS_DIR / "coref.txt"
+# Deterministic-identity inputs built by 05-registry (read as DATA by other passes, e.g. the
+# 04-tags coreference generator, so it needs no cross-pass code import).
+ALIASES_FILE = REGISTRY_DIR / "aliases.txt"   # hand-maintained (alias = canonical) merge table
+TYPES_CACHE = REGISTRY_DIR / "types.txt"       # append-only {canonical: type} typing cache
 
 SCENE_HEAD_RE = re.compile(r"^## Scene (\d+)-(\d+):")
 RECAP_HEAD = "# recap"
@@ -211,6 +215,33 @@ def load_registry(canticle):
                     node["surfaces"].append((m.group(1), int(m.group(2))))
         elif key == "grouped":
             node["grouped"] = val.lower() != "no"
+    return out
+
+
+def load_aliases(path=ALIASES_FILE):
+    """[(alias, canonical), …] from the hand-maintained merge table (05-registry/aliases.txt)."""
+    pairs = []
+    if not path.exists():
+        return pairs
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        alias, _, canonical = line.partition(" = ")
+        pairs.append((alias.strip(), canonical.strip()))
+    return pairs
+
+
+def load_types_cache():
+    """{canonical: type} from the typing resume cache (05-registry/types.txt). Overlay-free
+    (append-only superset of every label ever typed), so consumers can use it as a candidate
+    source without depending on whether the coreference overlay has been applied."""
+    out = {}
+    if TYPES_CACHE.exists():
+        for line in TYPES_CACHE.read_text(encoding="utf-8").splitlines():
+            if " = " in line:
+                label, _, t = line.rpartition(" = ")
+                out[label.strip()] = t.strip()
     return out
 
 

@@ -93,9 +93,26 @@ no-hand-proofreading policy.
 disables): naming a tag is judgment-heavy coreference; the runaway guard (`call_llm`) and
 Ollama's separate thinking channel cover the risk.
 
+## Coreference overlay (`coreference.py` → `coref.txt`)
+
+A second, optional generator in this directory upgrades **under-specified** tag labels (bare `Guido`,
+`Latino`, `Pietro`) to their identity-first form *per scene*, where no global alias is safe. Because
+its output is a **tags patch** applied at `load_tags` (`load_coref`), the generator, the overlay
+`coref.txt`, and the audit cache `coref.cache.txt` all live here in `04-tags`, not in `05-registry`.
+Its one cross-pass dependency — which labels are `individual`, for candidate selection — is read as
+**data** from `05-registry/types.txt` (the overlay-free typing cache, via the shared
+`load_types_cache` / `load_aliases`), so it does **not** import `05-registry/registry.py`.
+
+It calls the model and cannot be structurally verified, so it runs as a separate, reviewed step
+(not part of `make all`) and needs a registry build first (for `types.txt`). The full mechanism
+— candidate logic, the build DAG, the single-process constraint, and the review gate — is documented
+in **`05-registry/README.md` → "Fix 2 — `04-tags/coref.txt`"**.
+
 ## Usage
 
 ```bash
 uv run 04-tags/tags.py inferno [-c 1] [-m MODEL] [--no-think]
-make -C 04-tags          # all canticles
+make -C 04-tags          # all canticles (tags only)
+
+make -C 04-tags coref    # (re)generate coref.txt — needs 05-registry/types.txt; review before commit
 ```
