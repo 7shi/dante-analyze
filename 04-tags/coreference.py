@@ -35,13 +35,15 @@ second process clobbers the first's corrections (last-writer-wins). The intended
 single `coreference.py inferno purgatorio paradiso` that `make -C 04-tags coref` runs.
 
 Layering: this generator lives in 04-tags because its output is a TAGS patch — it writes only into
-04-tags, and `load_tags()` (the 04-tags reader) applies it. Its one 05-registry dependency, the
-typing info, is read as DATA (types.txt / aliases.txt via the shared loaders), not a code import.
+04-tags, and `load_tags()` (the 04-tags reader) applies it. Its inputs are all upstream in the linear
+chain `tags.py -> node_types.py -> coreference.py -> 05-registry/registry.py`: the typing info comes
+from its sibling 04-tags/types.txt (produced by node_types.py), the deterministic alias table from
+05-registry/aliases.txt (hand-maintained). Both are read as DATA via the shared loaders — no
+cross-pass code import, no back-edge.
 
 Input:  04-tags/<canticle>/NN.txt    (committed; the labels to correct)
-        05-registry/types.txt        (typing cache; overlay-free type info = candidate targets —
-                                      NOT the <canticle>.txt node set, which is built WITH this
-                                      overlay; reading it would create a build-time cycle)
+        04-tags/types.txt            (typing cache; overlay-free type info = candidate targets,
+                                      produced by node_types.py one step upstream)
         03-reading/<canticle>/NN.txt  (scene context for the judgment)
 Output: 04-tags/coref.txt            (the overlay, human-reviewable)
         04-tags/coref.cache.txt      (resume + audit cache; every decision incl. "distinct")
@@ -50,11 +52,12 @@ import argparse
 import re
 import sys
 
-# 05-registry deterministic-identity info is read as DATA (no cross-pass code import): the candidate
-# targets come from types.txt (load_types_cache), the OVERLAY-FREE typing cache — NOT the committed
-# <canticle>.txt node set, which is built WITH this overlay applied. Reading the node set would make
-# coref depend on its own downstream output (a build-time cycle); types.txt keeps the dependency a
-# linear DAG (registry build #1 -> types.txt -> coref -> coref.txt -> registry build #2).
+# The candidate targets come from 04-tags/types.txt (load_types_cache), the OVERLAY-FREE typing cache
+# produced by node_types.py one step upstream — NOT the committed 05-registry/<canticle>.txt node
+# set, which is built WITH this overlay applied. Reading the node set would make coref depend on its
+# own downstream output (a build-time cycle); types.txt, built overlay-free before this step, keeps
+# the dependency a linear DAG (tags -> node_types -> coref -> registry). aliases.txt (hand-maintained)
+# is read the same way, as DATA, so there is no cross-pass code import.
 from dante_analyze import (
     TAGS_DIR, MAX_LENGTH,
     read_markup, load_tags, load_readings, number_scene,

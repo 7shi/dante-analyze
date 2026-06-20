@@ -21,7 +21,7 @@ COREF_FILE = TAGS_DIR / "coref.txt"
 # Deterministic-identity inputs built by 05-registry (read as DATA by other passes, e.g. the
 # 04-tags coreference generator, so it needs no cross-pass code import).
 ALIASES_FILE = REGISTRY_DIR / "aliases.txt"   # hand-maintained (alias = canonical) merge table
-TYPES_CACHE = REGISTRY_DIR / "types.txt"       # append-only {canonical: type} typing cache
+TYPES_CACHE = TAGS_DIR / "types.txt"           # append-only {canonical: type} typing cache (04-tags/node_types.py)
 
 SCENE_HEAD_RE = re.compile(r"^## Scene (\d+)-(\d+):")
 RECAP_HEAD = "# recap"
@@ -233,9 +233,10 @@ def load_aliases(path=ALIASES_FILE):
 
 
 def load_types_cache():
-    """{canonical: type} from the typing resume cache (05-registry/types.txt). Overlay-free
-    (append-only superset of every label ever typed), so consumers can use it as a candidate
-    source without depending on whether the coreference overlay has been applied."""
+    """{canonical: type} from the typing resume cache (04-tags/types.txt, written by
+    04-tags/node_types.py). Overlay-free (append-only superset of every label ever typed), so
+    consumers can use it as a candidate source without depending on whether the coreference
+    overlay has been applied."""
     out = {}
     if TYPES_CACHE.exists():
         for line in TYPES_CACHE.read_text(encoding="utf-8").splitlines():

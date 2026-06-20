@@ -6,7 +6,7 @@ assembly (`08-kg`) is pure code — no LLM — and is total by construction.
 
 | Step | Pass | Question it answers | LLM? |
 |------|------|---------------------|------|
-| 1 | `05-registry` | **What type** is each label-cluster (normalize cosmetics + type)? | yes — typing only |
+| 1 | `05-registry` | **What type** is each label-cluster (normalize cosmetics + type)? | no — pure code (typing is a prep step, `04-tags/node_types.py`) |
 | 2 | `06-speech` | **Who** is speaking each quote span? | no |
 | 3 | `07-relations` | **Who does what to whom** (edges citing `[n]` tags)? | yes |
 | 4 | `08-kg` | **Assemble** — join all of the above into a graph. | no |
@@ -24,17 +24,18 @@ committed output at each step.
 scenes (`il Navarrese`, `Navarrese`, `Lo Navarrese`). The registry is the first pass that sees
 **every unit at once**: it normalizes cosmetic label variants (case-fold + leading-article strip —
 `il Navarrese` and `Navarrese` fold into one node), picks a canonical spelling **globally** across
-all three canticles, assigns a node **type** (the only LLM stage), and inventories the surface forms
-(pronouns, epithets) that the markup carries. This node set is what every later step joins onto by
-`fold_key`.
+all three canticles, attaches each node's **type** (read from the upstream typing cache
+`04-tags/types.txt`), and inventories the surface forms (pronouns, epithets) that the markup carries.
+This node set is what every later step joins onto by `fold_key`.
 
 What the registry does **not** do: cross-tag coreference — merging genuinely different labels for
 the same figure (bare `Guido` = `Guido da Montefeltro`, `Maestro Adamo` = `Mastro Adamo`) — is not
 attempted in v1. See `KG-PROBLEM.md` for the identification gap and its impact on the graph.
 
-**Pipeline:** `gather (code) → fold-merge (code) → set-resolve (code) → type (LLM, cached) → render
-(code) → check (code)`. The only LLM stage is typing, and the LLM is only ever asked one thing: a
-closed-vocabulary type per node.
+**Pipeline:** `gather (code) → fold-merge (code) → set-resolve (code) → read types (code) → render
+(code) → check (code)`. The registry build is **pure code** — no model call; node types are read
+from `04-tags/types.txt`, produced upstream by the LLM step `04-tags/node_types.py`, which asks the
+model only one thing: a closed-vocabulary type per node.
 
 - **Fold-merge (pure code)** normalizes cosmetic label variants: case-fold + leading-article strip
   (`la Fortuna`/`Fortuna`, `i Malebranche`/`Malebranche`, `il Navarrese`/`Navarrese`). It collapses
@@ -43,9 +44,10 @@ closed-vocabulary type per node.
   Adamo`, bare `Guido` vs `Guido da Montefeltro`) stay separate nodes. The canonical label is the
   most frequent original spelling, decided **globally** over all three canticles, so a
   cross-canticle figure (Dante, Virgilio, Beatrice) is one node, typed once.
-- **Node typing (LLM, cached)** classifies each non-set node once with a closed vocabulary —
-  `individual | generic | class | hypothetical-simile | non-person` — in batches of 20. A concrete
-  batch the model sees and answers:
+- **Node typing** is read from the cache `04-tags/types.txt`, produced **upstream** by the LLM step
+  `04-tags/node_types.py` (the registry build itself is pure code). That step classifies each non-set
+  node once with a closed vocabulary — `individual | generic | class | hypothetical-simile |
+  non-person` — in batches of 20. A concrete batch the model sees and answers:
   ```
   1. Dante = individual
   2. la Fortuna = non-person
@@ -74,10 +76,12 @@ whose `04-tags` labels varied cosmetically (`il Navarrese` / `Navarrese` / `Lo N
 fold-merge collapses them into one node; for figures whose labels are genuinely different words
 (`Maestro Adamo` vs `Mastro Adamo`), they stay separate nodes (see `KG-PROBLEM.md`).
 
-Typing lives here, not in `04-tags`, because the type is a **node** property (a global view of the
-figure), not a tag property: typing in `04-tags` would re-classify the same figure dozens of times
-(up to 16,030 tag lines) and risk a different type per scene, while here it is typed once per node
-(~2,550).
+Typing is a **node-level** pass (`04-tags/node_types.py`, run before this build), not folded into the
+per-scene `tags.py`, because the type is a **node** property (a global view of the figure), not a tag
+property: typing per scene would re-classify the same figure dozens of times (up to 16,030 tag lines)
+and risk a different type per scene, while as a node pass it is typed once per node (~2,550). It lives
+in the `04-tags` directory because it depends only on the committed `04-tags` labels and runs ahead of
+the registry (and of coreference, which reads its `types.txt`), keeping the build a straight line.
 
 **Measure-first design.** `measure.py` sized the problem before any prompt existed and produced
 **decision gates**. Both failed: the near-dupe gate (`base figures with longer forms < 50` → 346)
@@ -260,11 +264,12 @@ Geometry: **0 failures** across all 100 cantos. Name→node: **18 unresolved edg
 
 Each pass does **one kind of work**, with **one check**:
 
-- `04-tags` names each tag per scene (per-tag resolution, bound to the reading); `05-registry`
-  normalizes label cosmetics into nodes and types them. These are separate steps: a per-scene
-  pass cannot normalize across scenes, and the type is a node property (global), not a tag
-  property (per-scene) — folding typing into `04-tags` would re-type the same figure dozens of
-  times and risk a different type per scene. Cross-tag coreference (linking genuinely different
+- `04-tags/tags.py` names each tag per scene (per-tag resolution, bound to the reading); typing
+  (`04-tags/node_types.py`) classifies the node, and `05-registry` normalizes label cosmetics into
+  nodes (pure code). These are separate steps: a per-scene pass cannot normalize across scenes, and
+  the type is a node property (global), not a tag property (per-scene) — folding typing into the
+  per-scene `tags.py` would re-type the same figure dozens of times and risk a different type per
+  scene, so it is a node-level pass instead. Cross-tag coreference (linking genuinely different
   labels for the same figure) is not attempted in v1; see `KG-PROBLEM.md`.
 - `06-speech` answers *who is speaking* by geometry + join — pure code, so it can't disagree with
   the registry it joins onto.

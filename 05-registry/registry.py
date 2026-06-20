@@ -1,18 +1,20 @@
 #!/usr/bin/env python
 """
-Registry build — Step 1 of the knowledge graph.
+Registry build — Step 1 of the knowledge graph. PURE CODE (no model call).
 
 Aggregates the per-scene 04-tags labels into one canonical, source-spelled NODE per figure across
 the whole work, with node typing (closed vocabulary), set support, and a per-canticle alias-surface
 inventory. This is the node layer the speech/relations passes join onto.
 
-Pipeline: gather (code) -> fold-merge (code) -> set-resolve (code) -> type (LLM, cached) ->
-render per-canticle (code) -> structural check (code).
+Pipeline: gather (code) -> fold-merge (code) -> alias-merge (code) -> set-resolve (code) ->
+render per-canticle (code) -> structural check (code). The fold (`Nodes`) is shared with
+`04-tags/node_types.py`; the node TYPES are read from `04-tags/types.txt` (`load_types_cache`), produced
+by that step — not generated here. So the build is the last link of the linear identity chain
+`tags.py -> node_types.py -> coreference.py -> registry.py`, reading 04-tags only, with no back-edge.
 
 The deterministic code-merge collapses the distinct labels by `fold_key` (canonical = most frequent
 original spelling, decided GLOBALLY so a cross-canticle figure shares one label); `measure.py`
-already proved this is total and sizes it (2,923 distinct -> 2,712 nodes). The only LLM stage is
-node typing (~136 batched calls), checked and retried like `tags.py`.
+already proved this is total and sizes it (2,923 distinct -> 2,712 nodes).
 
 Decision: epithet grouping is SKIPPED in v1 — every epithet node
 stays its own node, flagged `grouped: no`. A flagged singleton is safer than an unverifiable merge;
@@ -20,94 +22,26 @@ consolidation is a later pass.
 
 Output `05-registry/<canticle>.txt` (committed). Surfaces and labels are PER-CANTICLE (each file is
 self-contained, so the structural check closes within it); the canonical label and type are global,
-re-emitted in each canticle file the node appears in. Typing is cached in `05-registry/types.txt`
-(`<canonical> = <type>`), appended as batches pass, so the ~136 calls resume.
+re-emitted in each canticle file the node appears in. `Nodes` gathers WITH the coreference overlay
+applied (`load_tags` default), so the render reflects the Fix-2 merges.
 
 Input:  04-tags/<canticle>/NN.txt   (committed; run 04-tags/tags.py first)
+        04-tags/types.txt           (typing cache; run 04-tags/node_types.py first)
         02-markup/<canticle>/NN.txt (for number_scene's surface meta)
-Output: 05-registry/<canticle>.txt  (committed) + 05-registry/types.txt (typing cache)
+Output: 05-registry/<canticle>.txt  (committed)
 """
 import argparse
-import re
 import sys
-from collections import Counter, defaultdict
+from collections import Counter
 
 from dante_analyze import (
-    REGISTRY_DIR, TAGS_DIR, MAX_LENGTH,
-    read_markup, load_tags, number_scene,
-    norm_label, fold_key, split_set, is_capitalized_name,
-    call_llm, step_sep,
-    load_aliases, load_types_cache, ALIASES_FILE, TYPES_CACHE,
+    REGISTRY_DIR,
+    norm_label, fold_key, is_capitalized_name,
+    Nodes, TYPES,
+    load_aliases, load_types_cache, ALIASES_FILE,
 )
 
 CANTICLES = ("inferno", "purgatorio", "paradiso")
-UNKNOWN = "(unknown)"
-DEFAULT_MODEL = "ollama:gemma4:31b-it-qat"
-TYPES = ("individual", "generic", "class", "hypothetical-simile", "non-person")
-BATCH = 20
-
-
-def committed_cantos(canticle):
-    """Cantos with a committed 04-tags file, in order; the file is the checkpoint."""
-    d = TAGS_DIR / canticle
-    if not d.is_dir():
-        return []
-    return sorted(int(p.stem) for p in d.glob("[0-9][0-9].txt"))
-
-
-# ---------- 1-2. gather + code-merge (pure code) ----------
-
-class Nodes:
-    """The code-merged node set over all three canticles. `key` is fold_key(canonical).
-
-    - labels[key]: global Counter of norm_label spellings -> canonical (most frequent, tie by spelling)
-    - labels_canticle[key][canticle]: Counter of spellings that occurred in that canticle
-    - surfaces[key][canticle]: Counter of marked surface forms -> counts (per canticle)
-    `(unknown)` is excluded from nodes (exempt from the assignment check, as in measure.py).
-    """
-
-    def __init__(self, canticles):
-        self.labels = defaultdict(Counter)
-        self.labels_canticle = defaultdict(lambda: defaultdict(Counter))
-        self.surfaces = defaultdict(lambda: defaultdict(Counter))
-        self.distinct_canticle = defaultdict(set)   # canticle -> {norm_label} (for the check)
-        for canticle in canticles:
-            self._gather(canticle)
-
-    def _gather(self, canticle):
-        for canto in committed_cantos(canticle):
-            markup = read_markup(canticle, canto)
-            tags = load_tags(canticle, canto)
-            for (s, e), res in tags.items():
-                _text, _k, meta = number_scene(markup, s, e)
-                for tag_no, raw in res.items():
-                    nl = norm_label(raw)
-                    if nl == UNKNOWN:
-                        continue
-                    key = fold_key(nl)
-                    self.labels[key][nl] += 1
-                    self.labels_canticle[key][canticle][nl] += 1
-                    self.distinct_canticle[canticle].add(nl)
-                    _kind, surface = meta[tag_no]
-                    self.surfaces[key][canticle][surface] += 1
-
-    def canonical(self, key):
-        """Most frequent global spelling of the node (tie broken by spelling)."""
-        return max(self.labels[key].items(), key=lambda kv: (kv[1], kv[0]))[0]
-
-    @property
-    def canonicals(self):
-        return {self.canonical(k) for k in self.labels}
-
-    def members(self, key):
-        """Set members if the node's canonical label is a comma-set, else None."""
-        return split_set(self.canonical(key), self.canonicals)
-
-    def keys_in(self, canticle):
-        """Node keys occurring in `canticle`, sorted by descending in-canticle count then label."""
-        keys = [k for k in self.labels if canticle in self.labels_canticle[k]]
-        return sorted(keys, key=lambda k: (-sum(self.surfaces[k][canticle].values()),
-                                           self.canonical(k)))
 
 
 # ---------- 2b. alias merge (pure code) ----------
@@ -129,127 +63,19 @@ def apply_aliases(nodes, pairs):
         print(f"alias-merge: '{alias}' -> '{canonical}'", file=sys.stderr)
 
 
-# ---------- 3. node typing (LLM, cached) ----------
+# ---------- 3. node typing (read the cache; produced by 04-tags/node_types.py) ----------
 
-TYPE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*=\s*([a-z-]+)\s*$")
-
-
-def append_types_cache(typed):
-    """Append `{canonical: type}` to the resume cache."""
-    with TYPES_CACHE.open("a", encoding="utf-8") as f:
-        for label, t in typed.items():
-            f.write(f"{label} = {t}\n")
-
-
-def build_typing_prompt(batch):
-    """Type each label with the closed vocabulary. Only the labels are sent — no glosses, no
-    per-item answers. The vocabulary definitions are general knowledge."""
-    listing = "\n".join(f"{i}. {label}" for i, label in enumerate(batch, 1))
-    return f"""Each line below is a label naming a figure referred to in Dante's Divine Comedy, in
-source (Italian) spelling. Classify EACH with exactly one type from this closed vocabulary:
-
-- individual        — a specific, identifiable person or being (e.g. a named soul, a named angel).
-- generic           — an unspecified person referred to in general terms ("anyone", "a soul").
-- class             — a category or kind of being, not one specific member (an order of angels, a
-                      group of sinners taken as a type).
-- hypothetical-simile — a figure that exists only inside a simile or hypothetical comparison
-                      ("like a man who...").
-- non-person        — not a person: a personification, an abstraction, a place, an animal, a
-                      celestial body, or an object treated as a referent.
-
-Labels:
-{listing}
-
-Output one numbered line per label, in the SAME order, exactly:
-
-    n. <label> = <type>
-
-Echo the label VERBATIM (same spelling) and put one type from the vocabulary after the `=`. Output
-only these {len(batch)} lines and nothing else."""
-
-
-def build_typing_retry(problems, batch):
-    issues = "\n".join(f"- {p}" for p in problems)
-    listing = "\n".join(f"{i}. {label}" for i, label in enumerate(batch, 1))
-    return f"""The classification did not pass the check:
-{issues}
-
-Produce it again. One line `n. <label> = <type>` per label, same order, label echoed verbatim, type
-from: {", ".join(TYPES)}. The labels:
-{listing}
-Output only these {len(batch)} lines and nothing else."""
-
-
-def parse_typing(text, batch):
-    """{label: type} from the reply, keyed by the echoed label matched against `batch` by index."""
-    out = {}
-    for raw in text.splitlines():
-        m = TYPE_RE.match(raw)
-        if not m:
-            continue
-        n, label, t = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
-        if 1 <= n <= len(batch):
-            out[batch[n - 1]] = t
-    return out
-
-
-def check_typing(typed, batch):
-    """Problems with a batch's typing (empty = OK): every label typed once, type in vocabulary."""
-    problems = []
-    for label in batch:
-        if label not in typed:
-            problems.append(f"missing type for '{label}'")
-        elif typed[label] not in TYPES:
-            problems.append(f"'{label}' has type '{typed[label]}' not in {', '.join(TYPES)}")
-    return problems
-
-
-def type_batch(batch, model, max_attempts=3):
-    """Type one batch, retrying in-conversation until the check passes or attempts run out;
-    the last draft is kept (any still-bad label falls back to '(untyped)', flagged)."""
-    messages = [{"role": "user", "content": build_typing_prompt(batch)}]
-    step_sep("registry typing")
-    resp = call_llm(messages, model, include_thoughts=True)
-    typed = parse_typing(resp.text, batch)
-    for attempt in range(1, max_attempts + 1):
-        problems = check_typing(typed, batch)
-        if not problems:
-            return typed
-        print(f"typing batch: attempt {attempt}/{max_attempts}: {len(problems)} problem(s):",
-              file=sys.stderr)
-        for p in problems:
-            print(f"- {p}", file=sys.stderr)
-        if attempt >= max_attempts:
-            break
-        messages = messages + [
-            {"role": "assistant", "content": resp.text},
-            {"role": "user", "content": build_typing_retry(problems, batch)},
-        ]
-        resp = call_llm(messages, model, max_length=MAX_LENGTH, include_thoughts=True)
-        typed = parse_typing(resp.text, batch)
-    print(f"typing batch: NOT resolved after {max_attempts} attempt(s); flagging '(untyped)'",
-          file=sys.stderr)
-    return {label: typed.get(label) if typed.get(label) in TYPES else "(untyped)"
-            for label in batch}
-
-
-def type_nodes(nodes, model):
-    """Type every non-set node once (global), using the resume cache to skip typed labels."""
+def load_types(nodes):
+    """The {canonical: type} cache (04-tags/types.txt), checked complete against `nodes`: every
+    non-set canonical must be typed. types.txt is built overlay-free, so it is a superset of every
+    label; a miss means typing has not been run — fail loudly rather than render `(untyped)` nodes."""
     cache = load_types_cache()
-    to_type = []
-    for key in nodes.labels:
-        if nodes.members(key) is not None:   # sets are not typed (set is a structural kind)
-            continue
-        canonical = nodes.canonical(key)
-        if canonical not in cache:
-            to_type.append(canonical)
-    print(f"typing: {len(to_type)} node(s) to type, {len(cache)} cached", file=sys.stderr)
-    for i in range(0, len(to_type), BATCH):
-        batch = to_type[i:i + BATCH]
-        typed = type_batch(batch, model)
-        append_types_cache(typed)
-        cache.update(typed)
-        print(f"typing: {min(i + BATCH, len(to_type))}/{len(to_type)} done", file=sys.stderr)
+    missing = sorted(nodes.canonical(key) for key in nodes.labels
+                     if nodes.members(key) is None and nodes.canonical(key) not in cache)
+    if missing:
+        print(f"Error: {len(missing)} node(s) not typed in 04-tags/types.txt "
+              f"(run 04-tags/node_types.py first); e.g. {', '.join(missing[:5])}", file=sys.stderr)
+        sys.exit(1)
     return cache
 
 
@@ -324,17 +150,16 @@ def check_registry(nodes, canticle, types):
 
 def main():
     ap = argparse.ArgumentParser(
-        description="Registry build (Step 1): canonical node table over 04-tags "
-                    "(see 05-registry/README.md).",
+        description="Registry build (Step 1): canonical node table over 04-tags, pure code "
+                    "(typing comes from 04-tags/types.txt; see 05-registry/README.md).",
         formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("canticles", nargs="*", default=list(CANTICLES),
                     help="canticles to build (default: all three; canonical labels are global)")
-    ap.add_argument("-m", "--model", default=DEFAULT_MODEL,
-                    help=f"LLM for node typing (default: {DEFAULT_MODEL})")
     args = ap.parse_args()
 
     # canonical labels are decided globally — always gather all three so a cross-canticle
-    # figure shares one label, even when only one canticle is being (re)rendered.
+    # figure shares one label, even when only one canticle is being (re)rendered. Gather WITH the
+    # coreference overlay applied (load_tags default) so the render reflects the Fix-2 merges.
     nodes = Nodes(CANTICLES)
     print(f"code-merge: {sum(len(c) for c in nodes.labels.values())} label spellings -> "
           f"{len(nodes.labels)} nodes", file=sys.stderr)
@@ -345,7 +170,7 @@ def main():
         print(f"alias-merge: {len(aliases)} pair(s) applied -> {len(nodes.labels)} nodes",
               file=sys.stderr)
 
-    types = type_nodes(nodes, args.model)
+    types = load_types(nodes)
 
     failed = False
     for canticle in args.canticles:

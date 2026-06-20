@@ -152,8 +152,9 @@ uv run dante-analyze relations show inferno 1  # read a committed file
 
 ### Running the canticles in parallel
 
-Per-canticle runs are **safe to parallelize** — unlike
-`05-registry` (which serializes on a global node set and a lock-free shared `types.txt`), this pass
+Per-canticle runs are **safe to parallelize** — unlike the global identity steps
+`04-tags/node_types.py` and `04-tags/coreference.py` (which serialize on a global node set and a
+lock-free shared append cache), this pass
 has **no shared writable state**: each
 canticle writes only its own `07-relations/<canticle>/NN.txt`, the per-canto checkpoints are
 independent and resumable, and every input (`load_readings`/`load_tags`/`number_scene`/

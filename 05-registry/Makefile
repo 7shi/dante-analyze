@@ -1,21 +1,17 @@
 include ../model.mk
 
-# Full build, end to end: node tables + typing cache, then the coreference overlay (which reads
-# types.txt and is owned by 04-tags), then the node tables re-rendered WITH that overlay applied.
-# This is the linear DAG
-#   registry (build #1 -> types.txt) -> 04-tags coref (-> 04-tags/coref.txt) -> registry (build #2)
-# NOTE: `all` applies coref's per-scene proposals WITHOUT the human-review gate. For a reviewed
-# pass, run the steps individually: `make -C ../04-tags coref`, inspect 04-tags/coref.txt, then
-# `make registry`.
-all:
-	$(MAKE) registry
-	$(MAKE) -C ../04-tags coref
-	$(MAKE) registry
+# Node tables (05-registry/<canticle>.txt). PURE CODE: folds the committed 04-tags labels (overlay
+# applied) and reads the type of each node from 04-tags/types.txt — it does NOT call the model and
+# does NOT produce types.txt. The full identity build is the linear chain
+#   04-tags: make        (tags) ->
+#   04-tags: make typing (types.txt) ->
+#   04-tags: make coref  (coref.txt, review) ->
+#   05-registry: make    (these node tables)
+# so this directory only ever READS 04-tags's artifacts — no back-edge, no re-render.
+all: registry
 
-# Node tables (05-registry/<canticle>.txt) + typing cache (types.txt). Pure code given a warm
-# types.txt; calls the model only for not-yet-typed nodes. Applies whatever 04-tags/coref.txt holds.
 registry:
-	uv run registry.py inferno purgatorio paradiso -m $(MODEL)
+	uv run registry.py inferno purgatorio paradiso
 
 measure:
 	uv run measure.py

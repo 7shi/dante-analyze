@@ -47,13 +47,14 @@ regression: rerun it after any `04-tags` change to confirm the gate numbers stil
 
 ---
 
-## `registry.py` — build the node table (the one LLM stage is typing)
+## `registry.py` — build the node table (pure code)
 
 **Purpose.** Aggregate `04-tags` into `05-registry/<canticle>.txt`: canonical nodes with type,
-labels, and surface aliases. Pipeline:
+labels, and surface aliases. The build calls **no model** — node TYPES are read from
+`04-tags/types.txt`, produced upstream by `04-tags/node_types.py`. Pipeline:
 
 ```
-gather (code) -> fold-merge (code) -> alias-merge (code) -> set-resolve (code) -> type (LLM, cached)
+gather (code) -> fold-merge (code) -> alias-merge (code) -> set-resolve (code) -> read types (code)
               -> render per-canticle (code) -> structural check (code)
 ```
 
@@ -72,21 +73,11 @@ canticle, all three are gathered first so the labels stay consistent.
 capitalized name (`split_set`) is a **set** node — a structural kind orthogonal to the five types —
 listing its members instead of surfaces.
 
-**3. Node typing (LLM, cached).** The *only* LLM stage. Each non-set node is classified once with a
-closed vocabulary — `individual | generic | class | hypothetical-simile | non-person` — in batches
-of 20, reply `n. <label> = <type>`. Checked (every label typed once, type in vocabulary, label
-echoed verbatim) with pinpointed in-conversation retry, exactly like `tags.py`. `gemma4:31b-it-qat`,
-CoT on. ~2,550 nodes ÷ 20 ≈ **~128 calls** total — far fewer than typing per scene or per canto,
-which would re-type recurring figures hundreds of times.
-
-A concrete batch the model sees and answers:
-
-```
-1. Dante = individual
-2. la Fortuna = non-person
-3. angeli = class
-4. Beatrice = individual
-```
+**3. Node typing (read the cache, pure code).** Each non-set node's type comes from the typing cache
+`04-tags/types.txt` (`load_types_cache`), produced upstream by the LLM step `04-tags/node_types.py`
+(see `04-tags/README.md`). The build only **reads** it and fails loud if any node is untyped (run
+`node_types.py` first). The cache is overlay-free — a superset of every label ever seen — so every
+node rendered here resolves to a type.
 
 **4. Render + check (pure code).** Write `05-registry/<canticle>.txt`. Surfaces and labels are
 **per-canticle** (each file is self-contained); the canonical label and type are global, re-emitted
@@ -175,11 +166,11 @@ check, and false positives dominate (most name-sharing pairs are different peopl
   `heads_name` excludes governed periphrases where the bare name follows a preposition/possessive/
   demonstrative (`l'ombra di Dante`, `Figliuol di Dio`, `vicario suo Cristo`), and `EXCLUDE_BARE`
   drops superclass terms whose fuller forms are distinct figures (`Dio` spans the Trinity persons);
-- **candidates are read from the overlay-free `types.txt`, never from the `<canticle>.txt` node set.**
-  The node set is built *with* this overlay applied, so reading it would make `coreference.py` depend
-  on its own downstream output (a build-time cycle). Using the typing cache keeps the build a linear
-  DAG: registry build #1 (empty overlay) → `types.txt` → `coreference.py` → `coref.txt` → registry
-  build #2 (overlay applied);
+- **candidates are read from the overlay-free `04-tags/types.txt`, never from the `<canticle>.txt`
+  node set.** The node set is built *with* this overlay applied, so reading it would make
+  `coreference.py` depend on its own downstream output (a build-time cycle). The typing cache is built
+  overlay-free one step upstream, keeping the whole identity build a single linear DAG:
+  `tags.py` → `node_types.py` (`types.txt`) → `coreference.py` (`coref.txt`) → `registry.py`;
 - the safe default is **`distinct`** — no correction, label left as committed;
 - every decision (incl. `distinct`) is recorded in `04-tags/coref.cache.txt` for resume/audit;
   only non-`distinct` decisions reach `04-tags/coref.txt`;
@@ -189,16 +180,17 @@ check, and false positives dominate (most name-sharing pairs are different peopl
 
 **Where the generator lives.** `coreference.py`, the overlay `coref.txt`, and the audit cache
 `coref.cache.txt` all live in **`04-tags/`**: the output is a *tags* patch, so the writer sits with
-the data it corrects and with `load_tags`, the reader that applies it. Its one 05-registry
-dependency — the typing info — is read as **data** (`types.txt` / `aliases.txt` via the shared
-`load_types_cache` / `load_aliases`), not a cross-pass code import. (The residual asymmetry is that a
-04-tags tool reads a 05-registry file; that is an ordinary input dependency, far milder than the
-former arrangement where 05 *wrote into* 04.)
+the data it corrects and with `load_tags`, the reader that applies it. Its typing input is now a
+04-tags **sibling** (`types.txt`, produced one step upstream by `node_types.py`); its only remaining
+05-registry input is the hand-maintained `aliases.txt`, read as **data** via the shared
+`load_types_cache` / `load_aliases` — no cross-pass code import, and 05-registry never writes into
+04-tags.
 
-Run `make -C 04-tags coref` to (re)generate, then rebuild with `make -C 05-registry registry`.
-(`make -C 05-registry all` chains both — `registry` → `make -C ../04-tags coref` → `registry` — but
-that applies the proposals *without* the review gate; for a reviewed pass run the two steps by hand.)
-With an absent or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is byte-identical.
+Run `make -C 04-tags typing` (if `types.txt` isn't current), then `make -C 04-tags coref` to
+(re)generate, **review** `04-tags/coref.txt`, and rebuild with `make -C 05-registry`. The build is a
+straight line — `tags → node_types → coref → registry` — with no re-render: `registry.py` only reads
+the overlay. With an absent or empty `04-tags/coref.txt`, `load_tags` is a no-op and the registry is
+byte-identical.
 
 **Run `coreference.py` as ONE process — do not parallelize per canticle** (same constraint as
 `registry.py`). Both outputs are global single files with no locking: `04-tags/coref.cache.txt` is
@@ -206,61 +198,46 @@ append-on-decision, and `04-tags/coref.txt` is rewritten whole from the in-memor
 the run — concurrent runs corrupt the cache and clobber each other's overlay (last-writer-wins). The
 `make -C 04-tags coref` target passes all three canticles to one process.
 
-### `types.txt` — the resume cache
+### `types.txt` — produced upstream, read here
 
-Typing is the slow part (~128 local-LLM calls), so each passed batch is appended to
-`05-registry/types.txt` as `<canonical> = <type>`. On rerun, already-typed nodes are skipped and
-only the remainder is sent. Interrupting the build loses at most the one in-flight batch.
-
-`types.txt` is **committed** alongside the three `<canticle>.txt` (it is the exact record of the
-LLM's typing decisions): keeping it makes the registry reproducible without re-running the model and
-leaves the only interpretive step auditable. To re-derive types from scratch, delete it first.
-
-- **Resume:** rerun `make -C 05-registry registry` (or the `uv run` command below). It reads
-  `types.txt`, skips what's done, and finishes the rest, then renders + checks.
-- **Rebuild from scratch:** `rm 05-registry/types.txt` first, then run.
-- **Progress:** `wc -l 05-registry/types.txt` (one line = one typed node).
-
-**Run it as ONE process — do not parallelize per canticle.** Typing operates on the *global*
-deduplicated node set (the canticle args only choose which `<canticle>.txt` get *rendered*, not what
-gets typed). Running `registry.py inferno`, `registry.py purgatorio`, `registry.py paradiso`
-concurrently would each re-type the *same* ~2,550 nodes (3× the LLM cost) and **append to
-`types.txt` at the same time, corrupting the cache** (it is a plain append-on-pass file, no locking).
-The intended invocation is the single `registry.py inferno purgatorio paradiso` that
-`make -C 05-registry registry` runs; the three output files are a cheap rendering split at the end
-of that one run.
+The typing cache `04-tags/types.txt` (`<canonical> = <type>`, committed) is built by the LLM step
+`04-tags/node_types.py` and only **read** here via `load_types_cache`. Its resume, single-process,
+and rebuild-from-scratch rules live with the producer in `04-tags/README.md`. `registry.py` fails
+loud if a node is missing from it (run `node_types.py` first). Because the cache is overlay-free, the
+registry render is fully deterministic — pure code, no model call.
 
 ---
 
-## Why typing lives here, not in 04-tags
+## Why typing is a node-level pass (not folded into `tags.py`)
 
-A natural question: `04-tags` already read each scene and resolved each figure with full context —
-why not assign the type there at the same time, instead of a separate node-level pass here? Because
-the two passes answer **orthogonal questions** — `04-tags` answers *who* a tag is (`n. Name`); typing
-answers *what kind of referent* a figure is (`individual / generic / class / hypothetical-simile /
-non-person`) — and the type is structurally a **node** property, not a **tag** property:
+A natural question: `04-tags/tags.py` already read each scene and resolved each figure with full
+context — why not assign the type there at the same time, instead of a separate node-level pass
+(`node_types.py`)? Because the two answer **orthogonal questions** — `tags.py` answers *who* a tag is
+(`n. Name`); typing answers *what kind of referent* a figure is (`individual / generic / class /
+hypothetical-simile / non-person`) — and the type is structurally a **node** property, not a **tag**
+property. (`node_types.py` lives in the `04-tags` directory but operates on the global `Nodes` fold,
+the same code-merge the registry uses — it is a node-level pass, not a per-scene one.)
 
-1. **Unit mismatch (redundancy + inconsistency).** `04-tags` is per-scene; a figure like Virgilio
+1. **Unit mismatch (redundancy + inconsistency).** `tags.py` is per-scene; a figure like Virgilio
    appears in dozens of scenes. Typing there would re-classify the same figure dozens of times
-   (up to 16,030 tag lines) and risk a different type per scene. Here it is typed **once per node**
-   (~2,550) — the same dedup win that makes the build cheap.
+   (up to 16,030 tag lines) and risk a different type per scene. `node_types.py` types **once per
+   node** (~2,550) — the same dedup win that makes the build cheap.
 2. **Type needs the global view.** Whether `le anime` is a `generic` group or resolves to specific
    individuals is a property of the figure across the whole work, not of one scene. The type belongs
    *after* the `fold_key` merge that produces the canonical node — you type the node, not each raw
    spelling.
-3. **One kind of work per pass.** `04-tags`' check is "every tag named once, no
+3. **One kind of work per pass.** `tags.py`' check is "every tag named once, no
    pronoun echo"; typing's check is "type in vocabulary". Folding an ontological classification into
    the per-tag identity turn would complicate both checks and both prompts. The project keeps reading
-   / tags / registry as separate narrow passes on purpose.
+   / tags / typing / registry as separate narrow passes on purpose.
 
-**The real tradeoff.** Typing here sees only the bare label, so it has *less* context than
-`04-tags` had when it understood the figure in its scene. That is
-a deliberate trade: we give up context to gain dedup, global consistency, and a cheap, checkable
-pass. If typing accuracy proves insufficient, the fix is **not** to move it back into `04-tags` (that
-breaks the dedup) but to feed the node-level pass more signal while still typing once per node — e.g.
-attach the node's surface aliases (already computed) or a few representative scene contexts to the
-prompt. Per the project's method-not-handwork policy, accuracy is improved by
-changing the method, never by per-item patching.
+**The real tradeoff.** Typing sees only the bare label, so it has *less* context than `tags.py` had
+when it understood the figure in its scene. That is a deliberate trade: we give up context to gain
+dedup, global consistency, and a cheap, checkable pass. If typing accuracy proves insufficient, the
+fix is **not** to fold it back into `tags.py` per scene (that breaks the dedup) but to feed the
+node-level pass more signal while still typing once per node — e.g. attach the node's surface aliases
+(already computed) or a few representative scene contexts to the prompt. Per the project's
+method-not-handwork policy, accuracy is improved by changing the method, never by per-item patching.
 
 ---
 
@@ -268,21 +245,31 @@ changing the method, never by per-item patching.
 
 | Target | Command it runs | Effect |
 |---|---|---|
-| `make -C 05-registry all` | `registry` → `make -C ../04-tags coref` → `registry` | **Full build**: node tables + typing cache, then the coref overlay (a 04-tags target), then the tables re-rendered with the overlay applied. Applies coref proposals *without* the review gate |
-| `make -C 05-registry registry` | `uv run registry.py inferno purgatorio paradiso -m $(MODEL)` | Build/resume the registry only; writes the three `<canticle>.txt` + `types.txt` (applies whatever `04-tags/coref.txt` holds) |
-| `make -C 04-tags coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); reads `05-registry/types.txt`, so it needs a registry build first; rebuild with `registry` after |
+| `make -C 05-registry all` | `registry` | Same as `registry` — the build is a single pure-code render now (no cross-dir chain, no re-render) |
+| `make -C 05-registry registry` | `uv run registry.py inferno purgatorio paradiso` | Build the three `<canticle>.txt` (pure code, no model); reads `04-tags/types.txt` for node types and applies whatever `04-tags/coref.txt` holds |
+| `make -C 04-tags typing` | `uv run node_types.py inferno purgatorio paradiso -m $(MODEL)` | (Upstream, LLM) (re)build the typing cache `04-tags/types.txt`; prerequisite for `coref` and `registry`. See `04-tags/README.md` |
+| `make -C 04-tags coref` | `uv run coreference.py inferno purgatorio paradiso -m $(MODEL)` | (Upstream, LLM) (re)generate the per-tag coreference overlay `04-tags/coref.txt` for human review (Fix 2); reads `04-tags/types.txt`, so run `make -C 04-tags typing` first |
 | `make -C 05-registry measure` | `uv run measure.py` | Re-print the sizing report + decision gates (read-only) |
 
-`$(MODEL)` comes from `../model.mk` (default `ollama:gemma4:31b-it-qat`).
+`$(MODEL)` comes from `../model.mk` (default `ollama:gemma4:31b-it-qat`); `registry.py` itself takes
+no model (pure code).
 
 ## Usage
 
 ```bash
 make -C 05-registry measure                 # size the problem (read-only)
-make -C 05-registry registry                 # build/resume; fail-loud structural check
-make -C 05-registry all                      # full build: registry -> coref -> registry
+make -C 05-registry registry                 # build the node tables (pure code; fail-loud check)
 uv run 05-registry/registry.py inferno       # one canticle (still gathers all three globally)
 uv run dante-analyze registry show inferno   # read a committed registry file
+```
+
+The full from-scratch identity build is a straight line across the two directories:
+
+```bash
+make -C 04-tags          # tags.py        (LLM)
+make -C 04-tags typing   # node_types.py  (LLM) -> 04-tags/types.txt
+make -C 04-tags coref    # coreference.py (LLM) -> 04-tags/coref.txt   (then review it)
+make -C 05-registry      # registry.py    (pure code) -> 05-registry/<canticle>.txt
 ```
 
 Downstream reads it with `load_registry(canticle)` → `{canonical: {type, labels, surfaces,

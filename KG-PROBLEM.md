@@ -115,7 +115,8 @@ In rough order of value:
 3. **`class`-typed individual+collective bundles.** A few registry entries bundle an individual with
    a collective and are typed `class` (e.g. `Dante, noble souls of Limbo`), so 11-presence carries
    them into cohort lines unchanged. This is a node-construction/typing defect, not a cohort defect —
-   the fix belongs upstream in `05-registry` (re-measure, do not hand-correct the output). See
-   `PLAN.md` §2 and `13-cohort/README.md` "Notes".
+   the fix belongs upstream in the typing step (`04-tags/node_types.py`) or node construction (the
+   shared `Nodes` set-detection), re-measured, not hand-corrected in the output. See `PLAN.md` §2 and
+   `13-cohort/README.md` "Notes".
 4. **Granular invalidation** (optional): a way to clear only the cached scenes a node-set change
    touched, so a rebuild doesn't force a full re-run of the LLM passes. Today this is manual.

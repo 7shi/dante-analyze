@@ -93,20 +93,45 @@ no-hand-proofreading policy.
 disables): naming a tag is judgment-heavy coreference; the runaway guard (`call_llm`) and
 Ollama's separate thinking channel cover the risk.
 
+## Typing (`node_types.py` → `types.txt`)
+
+`node_types.py` classifies every figure label with a closed vocabulary — `individual | generic |
+class | hypothetical-simile | non-person` — caching the result in `04-tags/types.txt` as
+`<canonical> = <type>` (committed). It is the LLM step the coreference overlay **and** the registry
+both read; it lives here because it depends only on the committed `04-tags` labels and runs **before**
+both.
+
+- **Node-level, not per-tag.** It builds the global `Nodes` fold (the same code-merge `05-registry`
+  uses) and types each non-set node **once** (~2,550 nodes ÷ 20 per batch ≈ ~128 calls), not each of
+  the 16,030 tag lines. Why typing is a node-level pass — not folded into `tags.py` — is argued in
+  `05-registry/README.md`.
+- **Overlay-free.** It gathers the raw committed labels (`Nodes(..., apply_coref=False)`), so
+  `types.txt` is an append-only **superset** of every label ever seen — adding or removing a
+  coreference correction never invalidates it, and the registry reads it without depending on the
+  overlay. This is exactly what lets the build stay a linear DAG (`tags → node_types → coref →
+  registry`) with no cycle.
+- **Checked + resumable.** Each batch is checked (every label typed once, type in vocabulary, label
+  echoed verbatim) with in-conversation retry, like `tags.py`; passed batches append to `types.txt`,
+  so a rerun skips what's done. `wc -l 04-tags/types.txt` = typed-node progress; `rm` it to re-type
+  from scratch.
+- **Run as ONE process** — `node_types.py inferno purgatorio paradiso` (what `make -C 04-tags typing`
+  runs). Typing is global (the canticle args don't subset it); concurrent runs would re-type the same
+  nodes and corrupt the un-locked append cache.
+
 ## Coreference overlay (`coreference.py` → `coref.txt`)
 
 A second, optional generator in this directory upgrades **under-specified** tag labels (bare `Guido`,
 `Latino`, `Pietro`) to their identity-first form *per scene*, where no global alias is safe. Because
 its output is a **tags patch** applied at `load_tags` (`load_coref`), the generator, the overlay
-`coref.txt`, and the audit cache `coref.cache.txt` all live here in `04-tags`, not in `05-registry`.
-Its one cross-pass dependency — which labels are `individual`, for candidate selection — is read as
-**data** from `05-registry/types.txt` (the overlay-free typing cache, via the shared
-`load_types_cache` / `load_aliases`), so it does **not** import `05-registry/registry.py`.
+`coref.txt`, and the audit cache `coref.cache.txt` all live here in `04-tags`. Its candidate
+selection — which labels are `individual` — is read as **data** from its sibling `04-tags/types.txt`
+(via the shared `load_types_cache`), so run `make -C 04-tags typing` first; it does **not** import
+`05-registry/registry.py`.
 
 It calls the model and cannot be structurally verified, so it runs as a separate, reviewed step
-(not part of `make all`) and needs a registry build first (for `types.txt`). The full mechanism
-— candidate logic, the build DAG, the single-process constraint, and the review gate — is documented
-in **`05-registry/README.md` → "Fix 2 — `04-tags/coref.txt`"**.
+(not part of `make all`). The full mechanism — candidate logic, the linear build DAG, the
+single-process constraint, and the review gate — is documented in
+**`05-registry/README.md` → "Fix 2 — `04-tags/coref.txt`"**.
 
 ## Usage
 
@@ -114,5 +139,6 @@ in **`05-registry/README.md` → "Fix 2 — `04-tags/coref.txt`"**.
 uv run 04-tags/tags.py inferno [-c 1] [-m MODEL] [--no-think]
 make -C 04-tags          # all canticles (tags only)
 
-make -C 04-tags coref    # (re)generate coref.txt — needs 05-registry/types.txt; review before commit
+make -C 04-tags typing   # (re)build types.txt — the typing cache; prerequisite for coref + registry
+make -C 04-tags coref    # (re)generate coref.txt — needs 04-tags/types.txt; review before commit
 ```

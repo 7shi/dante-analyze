@@ -95,9 +95,10 @@ canticles (100 cantos)**; per-pass design and measured results are in each subdi
 See [KG-en.md](KG-en.md) / [KG-ja.md](KG-ja.md) for a walkthrough of the full ladder, and
 [KG-PROBLEM.md](KG-PROBLEM.md) for a known limitation (parked).
 
-1. **Registry** (`05-registry/`, LLM) — one canonical, source-spelled node per figure across the
-   work, with closed-vocabulary node typing (cached in `types.txt`), set support, and code-extracted
-   alias surfaces. → `05-registry/README.md`
+1. **Registry** (`05-registry/`, pure code) — one canonical, source-spelled node per figure across
+   the work, with closed-vocabulary node typing (the LLM typing runs upstream in
+   `04-tags/node_types.py`, cached in `04-tags/types.txt`), set support, and code-extracted alias
+   surfaces. → `05-registry/README.md`
 2. **Speech** (`06-speech/`, pure code) — speaker per quote span: the unique canonical first-person
    referent in the span's own region, joined onto the registry; else `(unattributed)`. →
    `06-speech/README.md`
