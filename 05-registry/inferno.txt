@@ -19,6 +19,12 @@
 - labels: Malebranche | i Malebranche
 - surfaces: elli (17), li (5), ei (4), tu (4), voi (4), e' (3), lor (3), si (3), Malebranche (2), i Malebranche (2), li altri (2), noi (2), quel (2), Ei (1), Questi (1), altro (1), de li angeli neri (1), ello (1), i cuoci (1), i demon (1), i diavoli (1), io (1), l'altro (1), l'un (1), lasciali (1), ministri de la fossa quinta (1), ne (1), partirs' (1), quei (1), questi (1), s' (1), scorta (1)
 
+## conte Ugolino
+- type: individual
+- labels: conte Ugolino
+- surfaces: io (19), mi (10), tu (7), elli (4), Io (2), Padre (2), m' (2), me (2),  'l conte Ugolino  (1), Tu (1), colui (1), conte Ugolino (1), i (1), i' (1), lo padre (1), meco (1), padre (1), s' (1), ti (1)
+- grouped: no
+
 ## gente
 - type: generic
 - labels: gente | la gente | una gente | Gente
@@ -30,11 +36,6 @@
 - labels: l'anima | anima | L'anima
 - surfaces: io (8), ei (6), me (6), el (4), l'anima (3), si (3), 'l (2), anima (2), li (2), lui (2), mi (2), Ella (1), I' (1), L'anima (1), L'animo mio (1), ella (1), l'un (1), l'una (1), l'uno (1), meco (1), questi (1), se (1), tu (1), un (1)
 - grouped: no
-
-## Ugolino
-- type: individual
-- labels: Ugolino
-- surfaces: io (17), mi (9), tu (7), elli (4), Padre (2), m' (2), me (2), Io (1), Tu (1), colui (1), lo padre (1), meco (1), padre (1), s' (1), ti (1)
 
 ## il Navarrese
 - type: individual
@@ -67,10 +68,10 @@
 - labels: Vanni Fucci
 - surfaces: elli (6), io (6), mi (4), ei (3), 'l (2), Io (2), si (2), 'l peccator (1), El (1), Vanni Fucci (1), chi (1), ello (1), i' (1), il (1), il ladro (1), l'acerbo (1), ladro (1), li (1), m' (1), s' (1), spirto (1), uomo di sangue e di crucci (1)
 
-## Dio
+## Dio Padre
 - type: individual
-- labels: Dio
-- surfaces: Dio (23), lui (3),  'l maestro (1), 'l (1), 'l suo fattore (1), Colui (1), chi (1), colui (1), divino 'ntelletto (1), l'alto Sire (1), la deïtade (1), lo maestro (1), quei (1), quella (1), te (1)
+- labels: Dio Padre
+- surfaces: Dio (19), lui (3),  'l maestro (1), 'l (1), 'l suo fattore (1), Colui (1), colui (1), divino 'ntelletto (1), il mio alto fattore (1), l'alto Sire (1), la divina podestate (1), lo maestro (1), quei (1), te (1)
 
 ## Lucifero
 - type: individual
@@ -80,6 +81,11 @@
 ## Francesca, Paolo
 - type: set
 - members: Francesca | Paolo
+
+## Niccolò III
+- type: individual
+- labels: Niccolò III
+- surfaces: i' (5), me (4), io (3), tu (3), ei (2), 'l (1), Chi (1), Niccolò (1), anima trista (1), colui (1), figliuol de l'orsa (1), li (1), lo spirto (1), lui (1), mi (1), si (1), sé (1)
 
 ## Brunetto Latino
 - type: individual
@@ -174,11 +180,6 @@
 - labels: Manto
 - surfaces: ei (7), ella (4), Manto (1), colei (1), quella (1), questa (1), si (1)
 
-## Niccolò III
-- type: individual
-- labels: Niccolò III
-- surfaces: i' (5), me (4), io (3), ei (1), figliuol de l'orsa (1), lo spirto (1), mi (1)
-
 ## l'anima della seconda fiamma
 - type: individual
 - labels: l'anima della seconda fiamma
@@ -223,15 +224,15 @@
 - surfaces: mi (4), io (3), i' (2), I' (1), Io (1), l' (1), l'un (1), me (1)
 - grouped: no
 
+## Geri del Bello
+- type: individual
+- labels: Geri del Bello
+- surfaces: ei (2), el (2), lui (2), Geri del Bello (1), ello (1), li (1), sen (1), si (1), sé (1), un spirto del mio sangue (1)
+
 ## L'altro
 - type: individual
 - labels: L'altro | l'altro | Un altro | un altro
 - surfaces: l'altro (4), ei (2), Un altro (1), chi (1), io (1), li (1), m' (1), quel (1), un altro (1)
-
-## Niccolò
-- type: individual
-- labels: Niccolò
-- surfaces: tu (3), 'l (1), Chi (1), Niccolò (1), anima trista (1), colui (1), ei (1), li (1), lui (1), si (1), sé (1)
 
 ## ipocriti
 - type: class
@@ -262,11 +263,6 @@
 - labels: Frate Gomita
 - surfaces: ei (4), barattier (1), e' (1), esso (1), frate Gomita (1), quel (1), si (1), sovrano (1), vasel d'ogne froda (1)
 
-## Geri del Bello
-- type: individual
-- labels: Geri del Bello
-- surfaces: ei (2), el (2), lui (2), Geri del Bello (1), ello (1), li (1), sen (1), si (1), sé (1)
-
 ## Nicola III
 - type: individual
 - labels: Nicola III
@@ -292,6 +288,11 @@
 - type: individual
 - labels: Capocchio
 - surfaces: io (3), chi (1), l' (1), l'altro lebbroso (1), l'ombra di Capocchio (1), li (1), m' (1), me (1), mene (1)
+
+## Fra Alberigo
+- type: individual
+- labels: Fra Alberigo
+- surfaces: lui (2), mi (2), el (1), elli (1), gliel' (1), si (1), tu (1), un tal (1), ïo (1)
 
 ## Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci
 - type: set
@@ -452,11 +453,6 @@
 - surfaces: tu (4), ti (2), quella (1), si (1), te (1)
 - grouped: no
 
-## Alberigo
-- type: individual
-- labels: Alberigo
-- surfaces: lui (2), el (1), elli (1), gliel' (1), si (1), tu (1), un tal (1)
-
 ## Catalano
 - type: individual
 - labels: Catalano
@@ -501,12 +497,6 @@
 - type: class
 - labels: cherci
 - surfaces: cherci (3), Questi (1), chercuti (1), lerci (1), litterati grandi e di gran fama (1), quella turba grama (1)
-- grouped: no
-
-## conte Ugolino
-- type: individual
-- labels: conte Ugolino
-- surfaces: io (2),  'l conte Ugolino  (1), Io (1), conte Ugolino (1), i (1), i' (1), mi (1)
 - grouped: no
 
 ## due becchi
@@ -570,6 +560,11 @@
 - labels: Cerbero
 - surfaces: ei (5), Cerbero (1), lo demonio Cerbero (1)
 
+## Dio
+- type: individual
+- labels: Dio
+- surfaces: Dio (4), chi (1), la deïtade (1), quella (1)
+
 ## Omero
 - type: individual
 - labels: Omero
@@ -578,6 +573,12 @@
 ## Omero, Orazio, Ovidio, Lucano, Virgilio
 - type: set
 - members: Omero | Orazio | Ovidio | Lucano | Virgilio
+
+## arcivescovo Ruggieri
+- type: individual
+- labels: arcivescovo Ruggieri
+- surfaces: Questi (1), donno (1), l'arcivescovo Ruggieri (1), lui (1), maestro (1), questi (1), s' (1)
+- grouped: no
 
 ## compagni
 - type: class
@@ -894,10 +895,11 @@
 - type: set
 - members: Omero | Orazio | Ovidio | Lucano
 
-## Ruggieri
+## Rubicante pazzo
 - type: individual
-- labels: Ruggieri
-- surfaces: Questi (1), donno (1), lui (1), maestro (1), s' (1)
+- labels: Rubicante pazzo
+- surfaces: tu (3), Rubicante (1), Rubicante pazzo (1)
+- grouped: no
 
 ## Ser Brunetto Latino
 - type: individual
@@ -1032,11 +1034,6 @@
 - labels: Caron
 - surfaces: Caron (2), dimonio (1), egli (1)
 
-## Cirïatto
-- type: individual
-- labels: Cirïatto
-- surfaces: Cirïatto (1), ei (1), il (1), l sorco (1)
-
 ## Clemente V
 - type: individual
 - labels: Clemente V
@@ -1075,6 +1072,11 @@
 - type: individual
 - labels: Gaddo
 - surfaces: Gaddo (1), ei (1), m' (1), si (1)
+
+## Giuda Scarïotto
+- type: individual
+- labels: Giuda Scarïotto
+- surfaces: Giuda (2), Giuda Scarïotto (1), Quell' anima (1)
 
 ## Guiglielmo Borsiere
 - type: individual
@@ -1124,11 +1126,6 @@
 - type: non-person
 - labels: Pisa
 - surfaces: te (3), tu (1)
-
-## Rubicante
-- type: individual
-- labels: Rubicante
-- surfaces: tu (3), Rubicante (1)
 
 ## Simon mago, miseri seguaci
 - type: set
@@ -1375,6 +1372,12 @@
 - labels: Celestino V
 - surfaces: colui (1), l mio antecessor (1), ombra (1)
 
+## Cirïatto sannuto
+- type: individual
+- labels: Cirïatto sannuto
+- surfaces: Cirïatto (1), Cirïatto sannuto (1), ei (1)
+- grouped: no
+
 ## Costantino
 - type: individual
 - labels: Costantino
@@ -1419,11 +1422,6 @@
 - labels: Flegeo
 - surfaces: ei (1), il nocchier forte (1), un sol galeoto (1)
 
-## Fra Alberigo
-- type: individual
-- labels: Fra Alberigo
-- surfaces: mi (2), ïo (1)
-
 ## Gerïone
 - type: individual
 - labels: Gerïone
@@ -1432,11 +1430,6 @@
 ## Gianni Schicchi, Mirra
 - type: set
 - members: Gianni Schicchi | Mirra
-
-## Giuda
-- type: individual
-- labels: Giuda
-- surfaces: Giuda (2), l'anima ria (1)
 
 ## Graffiacan
 - type: individual
@@ -1892,6 +1885,11 @@
 - type: set
 - members: Bruto | Cassio
 
+## Buoso Donati
+- type: individual
+- labels: Buoso Donati
+- surfaces: Buoso (1), Buoso Donati (1)
+
 ## Cadmo
 - type: individual
 - labels: Cadmo
@@ -1917,6 +1915,11 @@
 - labels: Circe
 - surfaces: Circe (1), la (1)
 
+## Cirïatto
+- type: individual
+- labels: Cirïatto
+- surfaces: il (1), l sorco (1)
+
 ## Cleopatràs
 - type: individual
 - labels: Cleopatràs
@@ -1931,11 +1934,6 @@
 - type: individual
 - labels: Deïdamìa
 - surfaces: Deïdamìa (1), si (1)
-
-## Dio Padre
-- type: individual
-- labels: Dio Padre
-- surfaces: il mio alto fattore (1), la divina podestate (1)
 
 ## Dio, sé, prossimo
 - type: generic
@@ -2007,11 +2005,6 @@
 - type: individual
 - labels: Giovanni Vangelista
 - surfaces: il Vangelista (1), lui (1)
-
-## Giuda Scarïotto
-- type: individual
-- labels: Giuda Scarïotto
-- surfaces: Giuda Scarïotto (1), Quell' anima (1)
 
 ## Guido, Alessandro, il fratello
 - type: individual
@@ -2141,12 +2134,6 @@
 - type: generic
 - labels: anima fella
 - surfaces: anima fella (1), se' (1)
-- grouped: no
-
-## arcivescovo Ruggieri
-- type: individual
-- labels: arcivescovo Ruggieri
-- surfaces: l'arcivescovo Ruggieri (1), questi (1)
 - grouped: no
 
 ## cani
@@ -2991,16 +2978,6 @@
 - labels: Brïareo
 - surfaces: lo smisurato Brïareo (1)
 
-## Buoso
-- type: individual
-- labels: Buoso
-- surfaces: Buoso (1)
-
-## Buoso Donati
-- type: individual
-- labels: Buoso Donati
-- surfaces: Buoso Donati (1)
-
 ## Caccia d'Ascian
 - type: hypothetical-simile
 - labels: Caccia d'Ascian
@@ -3085,12 +3062,6 @@
 - type: individual
 - labels: Cinyras
 - surfaces: esso (1)
-
-## Cirïatto sannuto
-- type: individual
-- labels: Cirïatto sannuto
-- surfaces: Cirïatto sannuto (1)
-- grouped: no
 
 ## Cocito
 - type: non-person
@@ -3281,11 +3252,6 @@
 - type: set
 - members: Genti | Dante | Virgilio | Omero | Orazio | Ovidio | Lucano
 
-## Geri
-- type: individual
-- labels: Geri
-- surfaces: un spirto del mio sangue (1)
-
 ## Ghibellini
 - type: class
 - labels: Ghibellini
@@ -3300,6 +3266,11 @@
 - type: individual
 - labels: Gioseppo
 - surfaces: Gioseppo (1)
+
+## Giuda
+- type: individual
+- labels: Giuda
+- surfaces: l'anima ria (1)
 
 ## Giusti
 - type: class
@@ -3645,12 +3616,6 @@
 - type: individual
 - labels: Ruberto Guiscardo
 - surfaces: Ruberto Guiscardo (1)
-
-## Rubicante pazzo
-- type: individual
-- labels: Rubicante pazzo
-- surfaces: Rubicante pazzo (1)
-- grouped: no
 
 ## Saladino
 - type: individual

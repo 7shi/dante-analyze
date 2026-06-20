@@ -3,7 +3,7 @@
 ## Dante
 - type: individual
 - labels: Dante
-- surfaces: io (476), tu (329), mi (201), me (93), m' (67), ti (63), Io (30), i' (25), te (23), t' (18), ei (13), si (10), voi (9), Tu (8), lui (8), meco (7), questi (7), costui (6), elli (6), frate (6), Figliuol (5), chi (5), egli (5), li (5), s' (5), I' (4), teco (4), vos (4), 'l (3), Frate (3), figlio (3), il (3), l' (3), l'anima mia (3), ïo (3), Tosco (2), anima (2), colui (2), e' (2), ella (2), lo (2), om (2),  'l mortal (1), Chi (1), Chiunque (1), Colui (1), Dante (1), Figliuole (1), Frate mio (1), Pisistràto (1), Questi (1), Voi (1), a' pellegrin (1), al fanciul (1), al tuo fedele (1), cieco (1), cive (1), conducerlo (1), corpo uman (1), cotesti (1), dirmi (1), ditemi (1), dolce figlio (1), dolce frate (1), esso (1), farlo (1), figliuol (1), figliuolo (1), l (1), l'anima tua (1), l'animo (1), la sua ombra (1), la sua persona (1), lei (1), li occhi (1), li occhi spietati (1), lo muto (1), lo novo peregrin d'amore (1), lo spirito mio (1), mei (1), mosterrolli (1), mostrarli (1), persona viva (1), potert' (1), questa persona (1), questo (1), silvano (1), sire (1), smarrirsi (1), sua compagna (1), tienvi (1), tua e mia serocchia (1), ventarmi (1)
+- surfaces: io (436), tu (297), mi (180), me (81), m' (61), ti (60), Io (27), i' (24), te (22), t' (17), ei (10), Tu (8), si (8), voi (8), lui (7), meco (7), frate (6), questi (6), Figliuol (5), costui (5), elli (5), li (5), I' (4), chi (4), teco (4), vos (4), 'l (3), egli (3), figlio (3), l' (3), l'anima mia (3), s' (3), ïo (3), Tosco (2), anima (2), colui (2), e' (2), ella (2), lo (2),  'l mortal (1), Chi (1), Colui (1), Dante (1), Figliuole (1), Frate (1), Frate mio (1), Pisistràto (1), Questi (1), Voi (1), a' pellegrin (1), al fanciul (1), al tuo fedele (1), cieco (1), cive (1), conducerlo (1), corpo uman (1), cotesti (1), dirmi (1), ditemi (1), dolce figlio (1), dolce frate (1), esso (1), farlo (1), figliuol (1), l (1), l'anima tua (1), l'animo (1), la sua ombra (1), la sua persona (1), lei (1), li occhi (1), li occhi spietati (1), lo muto (1), lo novo peregrin d'amore (1), mei (1), mosterrolli (1), mostrarli (1), om (1), persona viva (1), potert' (1), questa persona (1), questo (1), silvano (1), sire (1), smarrirsi (1), sua compagna (1), tienvi (1), tua e mia serocchia (1), ventarmi (1)
 
 ## Virgilio
 - type: individual
@@ -18,6 +18,12 @@
 - type: individual
 - labels: Beatrice
 - surfaces: ella (37), io (20), Beatrice (14), tu (8), lei (6), me (6), voi (4), donna (3), la (3), si (3), Bëatrice (2), Ella (2), La bella donna (2), la donna (2), le (2), m' (2), meco (2), Donna (1), La donna (1), Madonna (1), chi (1), colei (1), donna del ciel (1), ei (1), elli (1), gloria de la gente umana (1), guardia (1), isplendor di viva luce etterna (1), l'alta virtù (1), la donna mia (1), li occhi belli (1), luce (1), mi (1), nostra eletta (1), quella (1), quella onesta (1), questa (1), qui (1), se' (1), sponsa (1), sé (1), sé stessa (1), t' (1), te (1), ti (1), una donna (1)
+
+## l'ombra di Dante
+- type: individual
+- labels: l'ombra di Dante
+- surfaces: io (40), tu (32), mi (21), me (12), m' (6), Io (3), ei (3), il (3), ti (3), Frate (2), egli (2), s' (2), si (2), Chiunque (1), chi (1), costui (1), elli (1), figliuolo (1), i' (1), lo spirito mio (1), lui (1), om (1), ombra (1), questi (1), t' (1), te (1), voi (1)
+- grouped: no
 
 ## Stazio
 - type: individual
@@ -107,6 +113,16 @@
 - labels: Bonagiunta da Lucca
 - surfaces: el (2), elli (2), i' (2), io (2), lui (2), tu (2), Bonagiunta (1), Bonagiunta da Lucca (1), El (1), Io (1), Questi (1), anima (1), li (1), me (1), quel (1), si (1), t' (1), te (1)
 
+## Arnaut Daniel
+- type: individual
+- labels: Arnaut Daniel
+- surfaces: ei (4), io (3), ieu (2), Arnaut (1), El (1), Ieu (1), al mostrato (1), elli (1), fabbro (1), li (1), m' (1), me (1), quel (1), questi (1), s' (1), un spirto (1)
+
+## Bonconte di Montefeltro
+- type: individual
+- labels: Bonconte di Montefeltro
+- surfaces: io (6), mi (4), Io (2), me (2), Bonconte (1), al secondo (1), costui (1), elli (1), i' (1), lui (1), ti (1), un altro (1)
+
 ## Casella
 - type: individual
 - labels: Casella
@@ -140,11 +156,6 @@
 - surfaces: elli (8), essi (2), lor (2), l'altra (1), l'una gente (1), li (1), loro (1), noi (1), questi (1), s' (1), si (1), un (1)
 - grouped: no
 
-## Cristo
-- type: individual
-- labels: Cristo
-- surfaces: Cristo (4), tu (2), abate del collegio (1), cotal (1), ei (1), esso (1), il suo fattor (1), il tuo portato santo (1), l'Agnel di Dio (1), la fiera (1), progenïe (1), si (1), sommo Giove (1), un crucifisso (1), una persona (1), ‘Agnus Dei’ (1)
-
 ## l'angel di Dio
 - type: individual
 - labels: l'angel di Dio
@@ -162,23 +173,40 @@
 - labels: Catone
 - surfaces: ti (4), me (2), mi (2), tu (2), Tu (1), chi (1), ei (1), elli (1), i' (1), il veglio onesto (1), io (1), santo petto (1), te (1)
 
-## Virgilio, Stazio
-- type: set
-- members: Virgilio | Stazio
+## Currado Malaspina
+- type: individual
+- labels: Currado Malaspina
+- surfaces: ella (4), io (4), lui (2), Currado Malaspina (1), L'ombra (1), l'antico (1), la (1), la vostra casa (1), me (1), s' (1), si (1), vostra gente onrata (1)
 
 ## Guido Guinizzelli
 - type: individual
 - labels: Guido Guinizzelli
-- surfaces: io (5), me (3), ei (2), lui (2), Guido Guinizzelli (1), elli (1), i' (1), il padre (1), mi (1), sé stesso (1)
+- surfaces: io (5), me (3), ei (2), elli (2), lui (2), Guido Guinizzelli (1), i' (1), il padre (1), mi (1), sé stesso (1)
+
+## Virgilio, Stazio
+- type: set
+- members: Virgilio | Stazio
+
+## Traiano imperadore
+- type: individual
+- labels: Traiano imperadore
+- surfaces: i' (3), tu (3), Segnor (2), ei (2), elli (2), Traiano imperadore (1), io (1), li (1), lui (1), mi (1), te (1)
+- grouped: no
+
+## Alberto I d'Asburgo
+- type: individual
+- labels: Alberto I d'Asburgo
+- surfaces: tu (10), ti (2), Alberto tedesco (1), Cesare mio (1), crudel (1), ei (1), uom sanza cura (1)
+- grouped: no
 
 ## Dante, Virgilio, Statio
 - type: set
 - members: Dante | Virgilio | Statio
 
-## Bonconte di Montefeltro
+## Cristo
 - type: individual
-- labels: Bonconte di Montefeltro
-- surfaces: io (4), mi (4), Io (1), al secondo (1), costui (1), elli (1), i' (1), lui (1), me (1), ti (1)
+- labels: Cristo
+- surfaces: Cristo (4), tu (2), abate del collegio (1), ei (1), il suo fattor (1), il tuo portato santo (1), l'Agnel di Dio (1), la fiera (1), progenïe (1), sommo Giove (1), una persona (1), ‘Agnus Dei’ (1)
 
 ## Maria
 - type: individual
@@ -196,6 +224,11 @@
 - labels: la voce | una voce | voce
 - surfaces: ella (4), ei (2), lei (2), si (2), una voce (2), chi (1), io (1), la voce (1), m' (1)
 - grouped: no
+
+## Guido del Duca
+- type: individual
+- labels: Guido del Duca
+- surfaces: io (6), m' (2), mi (2), Guido (1), del Duca (1), ei (1), l'una (1), lo spirto (1)
 
 ## Nin
 - type: individual
@@ -221,37 +254,16 @@
 - labels: Adamo
 - surfaces: Adamo (3), elli (2), colui (1), ella (1), l'anima prima (1), l'umana radice (1), l'uom buono (1), la pianta (1), lui (1), s' (1), sé (1)
 
-## Alberto I d'Asburgo
-- type: individual
-- labels: Alberto I d'Asburgo
-- surfaces: tu (8), ti (2), Cesare mio (1), crudel (1), ei (1), uom sanza cura (1)
-- grouped: no
-
-## Arnaut Daniel
-- type: individual
-- labels: Arnaut Daniel
-- surfaces: ei (4), ieu (2), El (1), al mostrato (1), fabbro (1), m' (1), me (1), quel (1), questi (1), un spirto (1)
-
 ## Manfredi
 - type: class
 - labels: Manfredi
 - surfaces: io (3), mi (3), Io (1), Manfredi (1), egli (1), ei (1), lui (1), m' (1), me (1), nepote (1)
-
-## Traiano
-- type: individual
-- labels: Traiano
-- surfaces: i' (3), tu (3), Segnor (2), elli (2), ei (1), io (1), mi (1), te (1)
 
 ## i beati
 - type: class
 - labels: i beati | Beati
 - surfaces: Beati (2), elli (2), si (2), cento (1), cotali (1), i beati (1), messaggier (1), ministri (1), quanti (1), quorum (1), tanti senis (1)
 - grouped: no
-
-## Currado Malaspina
-- type: individual
-- labels: Currado Malaspina
-- surfaces: io (4), ella (2), lui (2), Currado Malaspina (1), L'ombra (1), l'antico (1), me (1), s' (1)
 
 ## Lucia
 - type: individual
@@ -281,11 +293,6 @@
 - labels: colui che perde
 - surfaces: el (6), si (2), colui (1), il (1), li (1), s' (1)
 - grouped: no
-
-## Guido
-- type: individual
-- labels: Guido
-- surfaces: io (3), Guido (1), del Duca (1), ei (1), elli (1), l'una (1), lo spirto (1), m' (1), mi (1)
 
 ## Omberto
 - type: individual
@@ -350,11 +357,6 @@
 - surfaces: ella (3), si (2), la Virtù (1), s' (1), ti (1), virtù (1)
 - grouped: no
 
-## Arnaut
-- type: individual
-- labels: Arnaut
-- surfaces: io (3), Arnaut (1), Ieu (1), elli (1), li (1), s' (1)
-
 ## Cristiani
 - type: class
 - labels: Cristiani | i cristiani
@@ -410,6 +412,12 @@
 - labels: Achille
 - surfaces: si (2), Achille (1), del grande Achille (1), ei (1), il (1), lui (1)
 
+## Costanza imperadrice
+- type: individual
+- labels: Costanza imperadrice
+- surfaces: Costanza (1), Costanza imperadrice (1), genitrice (1), la mia buona Costanza (1), lei (1), mia bella figlia (1), si (1)
+- grouped: no
+
 ## Dante, Virgilio, Statius
 - type: set
 - members: Dante | Virgilio | Statius
@@ -440,6 +448,12 @@
 - type: non-person
 - labels: il Sole | il sole | Il sole
 - surfaces: ei (2), colui (1), il Sole (1), quei (1), quel (1), si (1)
+- grouped: no
+
+## l'altro Carlo
+- type: individual
+- labels: l'altro Carlo | un altro Carlo
+- surfaces: ei (3), sé (2), Carlo (1), un altro Carlo (1)
 - grouped: no
 
 ## l'animo
@@ -511,16 +525,6 @@
 - labels: Arno
 - surfaces: ella (6)
 
-## Bonconte
-- type: individual
-- labels: Bonconte
-- surfaces: io (2), Bonconte (1), Io (1), me (1), un altro (1)
-
-## Costanza
-- type: individual
-- labels: Costanza
-- surfaces: Costanza (1), genitrice (1), la mia buona Costanza (1), lei (1), mia bella figlia (1), si (1)
-
 ## Eva
 - type: individual
 - labels: Eva
@@ -530,11 +534,6 @@
 - type: individual
 - labels: Lavina
 - surfaces: Io (1), Lavina (1), ella (1), essa (1), m' (1), una fanciulla (1)
-
-## Malaspina
-- type: individual
-- labels: Malaspina
-- surfaces: ella (2), la (1), la vostra casa (1), si (1), vostra gente onrata (1)
 
 ## ciascun
 - type: generic
@@ -558,12 +557,6 @@
 - type: generic
 - labels: l'alma
 - surfaces: ella (4), l'alma (1), le (1)
-- grouped: no
-
-## l'altro Carlo
-- type: individual
-- labels: l'altro Carlo | un altro Carlo
-- surfaces: ei (3), sé (2), un altro Carlo (1)
 - grouped: no
 
 ## la prima voce
@@ -632,15 +625,21 @@
 - surfaces: ella (2), Ella (1), le (1), lei (1), una de l'alme (1)
 - grouped: no
 
+## 'l buon Gherardo
+- type: individual
+- labels: 'l buon Gherardo
+- surfaces: 'l buon Gherardo (1), del buon Gherardo (1), qual Gherardo (1), quel (1), saggio (1)
+- grouped: no
+
 ## Alagia
 - type: individual
 - labels: Alagia
 - surfaces: Alagia (1), Nepote (1), lei (1), questa (1), sé (1)
 
-## Carlo
+## Currado da Palazzo
 - type: individual
-- labels: Carlo
-- surfaces: Carlo (3), egli (2)
+- labels: Currado da Palazzo
+- surfaces: Currado (1), Currado da Palazzo (1), si (1), tu (1), un (1)
 
 ## Dante, Virgilio, Sordello
 - type: set
@@ -655,11 +654,6 @@
 - type: individual
 - labels: Gabriele
 - surfaces: ei (2), L'angel (1), el (1), imagine (1)
-
-## Guido del Duca
-- type: individual
-- labels: Guido del Duca
-- surfaces: io (3), m' (1), mi (1)
 
 ## L'Angelo di Dio
 - type: individual
@@ -802,10 +796,21 @@
 - surfaces: voi (3), noi (1), umana gente (1)
 - grouped: no
 
+## vicario suo Cristo
+- type: individual
+- labels: vicario suo Cristo
+- surfaces: cotal (1), esso (1), nel vicario suo Cristo (1), si (1), un crucifisso (1)
+- grouped: no
+
 ## Aragne
 - type: hypothetical-simile
 - labels: Aragne
 - surfaces: te (2), folle Aragne (1), mezza ragna (1)
+
+## Carlo
+- type: individual
+- labels: Carlo
+- surfaces: Carlo (2), egli (2)
 
 ## Cesare
 - type: individual
@@ -818,20 +823,10 @@
 - surfaces: elli (2), Color (1), s' (1)
 - grouped: no
 
-## Currado
-- type: individual
-- labels: Currado
-- surfaces: Currado (1), si (1), tu (1), un (1)
-
 ## Eünoè
 - type: non-person
 - labels: Eünoè
 - surfaces: Eünoè (2), ella (1), si (1)
-
-## Gherardo
-- type: individual
-- labels: Gherardo
-- surfaces: del buon Gherardo (1), qual Gherardo (1), quel (1), saggio (1)
 
 ## Giove
 - type: individual
@@ -880,6 +875,11 @@
 - labels: Rodolfo
 - surfaces:  'l tuo padre  (1), Colui (1), Rodolfo imperador (1), lui (1)
 
+## San Pietro
+- type: individual
+- labels: San Pietro
+- surfaces: Pietro (2), Petri (1), Pier (1)
+
 ## Statio
 - type: individual
 - labels: Statio
@@ -889,12 +889,6 @@
 - type: individual
 - labels: Tarpëa
 - surfaces: Tarpëa (1), ella (1), le (1), si (1)
-
-## Traiano imperadore
-- type: individual
-- labels: Traiano imperadore
-- surfaces: Traiano imperadore (1), ei (1), li (1), lui (1)
-- grouped: no
 
 ## abate di San Zeno
 - type: individual
@@ -918,6 +912,12 @@
 - type: class
 - labels: cento spirti
 - surfaces: cento spirti (1), ei (1), elli (1), si (1)
+- grouped: no
+
+## dal Torso
+- type: individual
+- labels: dal Torso
+- surfaces: ella (2), Torso (1), quella faccia (1)
 - grouped: no
 
 ## dolce lume
@@ -1127,11 +1127,6 @@
 - labels: Acàn
 - surfaces: ei (1), folle Acàn (1), lo (1)
 
-## Alberto
-- type: individual
-- labels: Alberto
-- surfaces: tu (2), Alberto tedesco (1)
-
 ## Arrigo d'Inghilterra
 - type: individual
 - labels: Arrigo d'Inghilterra
@@ -1205,6 +1200,12 @@
 - labels: Guiglielmo Aldobrandesco
 - surfaces: Guiglielmo Aldobrandesco (1), mio padre (1), un gran Tosco (1)
 
+## Guittone d'Arezzo
+- type: individual
+- labels: Guittone d'Arezzo
+- surfaces: Guittone (1), l' (1), lui (1)
+- grouped: no
+
 ## Letè
 - type: non-person
 - labels: Letè
@@ -1219,11 +1220,6 @@
 - type: individual
 - labels: Ottokar
 - surfaces: al nasuto (1), elli (1), lui (1)
-
-## Pietro
-- type: individual
-- labels: Pietro
-- surfaces: Pietro (2), Petri (1)
 
 ## Piramo
 - type: individual
@@ -1296,12 +1292,6 @@
 - type: individual
 - labels: conte Orso
 - surfaces: conte Orso (1), e' (1), l'anima (1)
-- grouped: no
-
-## dal Torso
-- type: individual
-- labels: dal Torso
-- surfaces: ella (2), quella faccia (1)
 - grouped: no
 
 ## fantolin
@@ -1763,12 +1753,6 @@
 - type: individual
 - labels: Guido da Castel
 - surfaces: Guido da Castel (1), si (1)
-
-## Guittone d'Arezzo
-- type: individual
-- labels: Guittone d'Arezzo
-- surfaces: l' (1), lui (1)
-- grouped: no
 
 ## Ipocràte
 - type: individual
@@ -2594,12 +2578,6 @@
 - surfaces: 'l Notaro (1)
 - grouped: no
 
-## 'l buon Gherardo
-- type: individual
-- labels: 'l buon Gherardo
-- surfaces: 'l buon Gherardo (1)
-- grouped: no
-
 ## 'l ciel veloce
 - type: non-person
 - labels: 'l ciel veloce
@@ -2849,12 +2827,6 @@
 - labels: Conio
 - surfaces: Conio (1)
 
-## Costanza imperadrice
-- type: individual
-- labels: Costanza imperadrice
-- surfaces: Costanza imperadrice (1)
-- grouped: no
-
 ## Cupidino
 - type: individual
 - labels: Cupidino
@@ -2868,11 +2840,6 @@
 ## Currado Malaspina, Malaspina
 - type: set
 - members: Currado Malaspina | Malaspina
-
-## Currado da Palazzo
-- type: individual
-- labels: Currado da Palazzo
-- surfaces: Currado da Palazzo (1)
 
 ## Dante, Beatrice, Stazio, le donne
 - type: set
@@ -3081,11 +3048,6 @@
 ## Guido, lo spirto
 - type: set
 - members: Guido | lo spirto
-
-## Guittone
-- type: individual
-- labels: Guittone
-- surfaces: Guittone (1)
 
 ## Iacomo
 - type: individual
@@ -3380,11 +3342,6 @@
 - labels: Regina
 - surfaces: “Regina” (1)
 
-## San Pietro
-- type: individual
-- labels: San Pietro
-- surfaces: Pier (1)
-
 ## Sapia, le anime degli invidiosi
 - type: set
 - members: Sapia | le anime degli invidiosi
@@ -3461,11 +3418,6 @@
 - type: individual
 - labels: Tommaso
 - surfaces: Tommaso (1)
-
-## Torso
-- type: individual
-- labels: Torso
-- surfaces: Torso (1)
 
 ## Tutti santi
 - type: class
@@ -4185,12 +4137,6 @@
 - type: class
 - labels: l'infernali
 - surfaces: l'infernali (1)
-- grouped: no
-
-## l'ombra di Dante
-- type: individual
-- labels: l'ombra di Dante
-- surfaces: ombra (1)
 - grouped: no
 
 ## l'onda
@@ -5193,12 +5139,6 @@
 - type: generic
 - labels: viaggiatore
 - surfaces: ei (1)
-- grouped: no
-
-## vicario suo Cristo
-- type: individual
-- labels: vicario suo Cristo
-- surfaces: nel vicario suo Cristo (1)
 - grouped: no
 
 ## virtute

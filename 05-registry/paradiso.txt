@@ -10,10 +10,10 @@
 - labels: Beatrice
 - surfaces: ella (53), io (42), Beatrice (26), tu (17), la mia donna (12), si (12), lei (11), quella (10), Bëatrice (9), la donna (5), Io (4), essa (4), la (4), sé (4), ti (4), ei (3), elli (3), le (3), mi (3), t' (3), Ella (2), chi (2), colei (2), donna (2), egli (2), i' (2), la donna mia (2), la stella (2), mia donna (2), voi (2), 'mparadisa (1), Be (1), L'altra bëatitudo (1), L'altra letizia (1), La dolce donna (1), La donna (1), La donna mia (1), Madonna (1), Tu (1), Uno (1), amanza (1), cara cosa (1), cara piota mia (1), costei (1), cotal Beatrice (1), diva (1), dolce guida e cara (1), dolce stella (1), ice (1), il lume (1), il mio tesoro (1), il sol de li occhi miei (1), ingigliarsi (1), l'altra (1), l'anima santa (1), l'un (1), la bella donna (1), la dolce guida (1), la mia celeste scorta (1), la mia guida (1), la più bella (1), la santa lampa (1), la tua donna (1), li occhi belli (1), luce etterna (1), lui (1), m' (1), madre (1), me (1), meco (1), mirabil cosa (1), quella donna (1), quella luce stessa (1), quella pïa (1), quello specchio beato (1), questa (1), sacra lucerna (1), se (1), sposa tacita e immota (1), tal querente (1), te (1), tua donna (1), vita beata (1)
 
-## Dio
+## Dio Padre
 - type: individual
-- labels: Dio
-- surfaces: Dio (49), tu (9), colui (7), egli (7), lui (7), sé (7), te (6), ei (5), s' (4), io (3), si (3), 'l suo fattore (1), 'l süo amor (1), Alfa e O (1), Colui (1), Deï (1), El (1), Iddio (1), Io (1), Lo ben (1), Luce divina (1), Lume (1), Quel medesmo (1), Quell' uno e due e tre (1), Sol (1), chi (1), dei (1), ella (1), elli (1), essa (1), esso (1), i (1), il (1), il primo (1), il sovrano (1), l' (1), l'amor (1), l'etterno amore (1), l'etterno lume (1), l'operante (1), la destra del ciel (1), la divina bontà (1), la mente (1), la mente divina (1), la prima cagion (1), la somma essenza (1), lei (1), lo creatore (1), lo sposo (1), luce etterna (1), pasture (1), quel (1), quel maestro (1), questo (1), sanctus Deus sabaòth (1), suo fattore (1), t' (1), tre e 'n due e 'n uno (1), trino e uno (1), un'altra fïata (1)
+- labels: Dio Padre
+- surfaces: Dio (39), sé (7), tu (7), lui (6), te (6), colui (4), ei (4), egli (3), io (3), s' (3), 'l süo amor (1), Alfa e O (1), Colui (1), Deï (1), Iddio (1), Io (1), Lo ben (1), Luce divina (1), Lume (1), Quel medesmo (1), chi (1), dei (1), del padre (1), elli (1), essa (1), esso (1), i (1), il (1), il primo (1), il sovrano (1), l'amor (1), l'etterno amore (1), l'etterno lume (1), la destra del ciel (1), la mente (1), la prima cagion (1), la somma essenza (1), lei (1), lo creatore (1), luce etterna (1), pasture (1), patre (1), quel (1), quel maestro (1), sanctus Deus sabaòth (1), si (1), suo fattore (1), t' (1), un'altra fïata (1)
 
 ## Maria
 - type: individual
@@ -28,22 +28,27 @@
 ## Cristo
 - type: individual
 - labels: Cristo | Iesù Cristo
-- surfaces: Cristo (33), lui (4), colui (2), egli (2), ei (2), figlio (2), Diletto (1), Dio verace (1), Iesù Cristo (1), Nostro Segnor (1), Segnor (1), benedetto Agnello (1), caro duce (1), costui (1), del primo marito (1), el (1), essa (1), l verbo divino (1), l vocabol (1), l'alto Filio (1), l'altro (1), l'umana (1), la persona (1), lei (1), lo 'mperador (1), lo suo diletto (1), nostro pellicano (1), quei (1), quello sposo (1), questi (1), questo fiore (1), s' (1), si (1), sé (1), una persona (1)
+- surfaces: Cristo (33), lui (4), colui (2), egli (2), ei (2), figlio (2), Diletto (1), Dio verace (1), Iesù (1), Iesù Cristo (1), Nostro Segnor (1), Segnor (1), benedetto Agnello (1), caro duce (1), costui (1), del primo marito (1), el (1), essa (1), l verbo divino (1), l vocabol (1), l'alto Filio (1), l'altro (1), l'umana (1), la persona (1), lei (1), lo 'mperador (1), lo suo diletto (1), nostro pellicano (1), quei (1), quello sposo (1), questi (1), questo fiore (1), s' (1), si (1), sé (1), una persona (1)
 
-## Bernardo
+## San Bernardo
 - type: individual
-- labels: Bernardo
-- surfaces: ei (8), io (7), egli (3), Bernardo (2), elli (2), i' (2), 'l santo sene (1), altro (1), colui (1), il suo fedel Bernardo (1), l venerabile Bernardo (1), l'orator (1), li (1), me (1), mi (1), quel contemplante (1), santo padre (1), si (1), tenero padre (1), tu (1), ïo (1)
+- labels: San Bernardo
+- surfaces: ei (8), io (7), egli (3), elli (3), Bernardo (2), colui (2), i' (2), 'l santo sene (1), altro (1), il suo fedel Bernardo (1), l venerabile Bernardo (1), l'orator (1), li (1), me (1), mi (1), quel contemplante (1), santo padre (1), si (1), stella mattutina (1), tenero padre (1), tu (1), ïo (1)
+
+## San Domenico
+- type: individual
+- labels: San Domenico
+- surfaces: ei (7), lui (4), mi (4), io (3), si (3), Domenico (2), Io (2), I' (1), altro (1), ella (1), famigliar (1), gran dottor (1), i' (1), il santo atleta (1), l'agricola (1), l'amoroso drudo (1), meco (1), messo (1), quel (1), tal (1), torrente (1)
 
 ## Piccarda Donati
 - type: individual
 - labels: Piccarda Donati
-- surfaces: ella (5), io (5), mi (4), lei (3), voi (3), ei (2), tu (2), I' (1), Piccarda (1), ben creato spirito (1), giovinetta (1), i' (1), la (1), me (1), ombra (1), vergine sorella (1), vi (1)
+- surfaces: ella (7), io (5), mi (4), Piccarda (3), lei (3), voi (3), ei (2), tu (2), I' (1), ben creato spirito (1), giovinetta (1), i' (1), la (1), me (1), ombra (1), vergine sorella (1), vi (1)
 
-## Francesco
+## San Pietro
 - type: individual
-- labels: Francesco
-- surfaces: Francesco (3), costui (2), egli (2), io (2), un (2), 'l (1), colui (1), cotanto paladino (1), del poverel di Dio (1), ei (1), el (1), ella (1), esto archimandrita (1), fi' (1), il lume di quel cero (1), la luce (1), li (1), lo sposo (1), quel maestro (1), quel padre (1), questo (1), trarlo (1), tu (1), un sole (1)
+- labels: San Pietro
+- surfaces: io (6), Pietro (5), tu (5), egli (3), l'altro (2), colui (1), del più avanti (1), ei (1), gran viro (1), il pescator (1), l (1), l tuo fratello (1), la primizia (1), li (1), lui (1), mi (1), quel baron (1), quel padre vetusto (1), santo padre (1), spirito (1), sé (1)
 
 ## l'aquila
 - type: non-person
@@ -56,10 +61,20 @@
 - labels: Cunizza
 - surfaces: io (9), ei (4), me (4), mi (3), si (2), Cunizza (1), beato spirto (1), litorano (1), m' (1), te (1), tu (1)
 
-## San Pietro
+## Dio
 - type: individual
-- labels: San Pietro
-- surfaces: io (6), tu (5), egli (3), colui (1), del più avanti (1), ei (1), gran viro (1), l (1), l tuo fratello (1), l'altro (1), la primizia (1), li (1), lui (1), mi (1), santo padre (1), spirito (1), sé (1)
+- labels: Dio
+- surfaces: Dio (7), egli (3), tu (2), El (1), Quell' uno e due e tre (1), Sol (1), colui (1), ei (1), ella (1), l' (1), l'operante (1), la divina bontà (1), la mente divina (1), lo sposo (1), lui (1), si (1), tre e 'n due e 'n uno (1), trino e uno (1)
+
+## San Francesco
+- type: individual
+- labels: San Francesco
+- surfaces: egli (2), ella (2), io (2), un (2), 'l (1), colui (1), costui (1), cotanto paladino (1), divota (1), ei (1), el (1), esto archimandrita (1), fi' (1), il lume di quel cero (1), li (1), padre (1), quel maestro (1), quel padre (1), questo (1), santa suora (1), teco (1), trarlo (1), tu (1)
+
+## Sibilla Cumana
+- type: individual
+- labels: Sibilla Cumana
+- surfaces: elli (4), io (4), mi (4), m' (3), tu (3), egli (2), Sibilla (1), lui (1), me (1), quel lume santo (1), segnor (1), te (1)
 
 ## l'uom
 - type: generic
@@ -84,15 +99,11 @@
 - labels: Cesare | cesare
 - surfaces: ei (7), elli (7), si (3), Cesare (2), cesare (1), costui (1), quel (1)
 
-## Domenico
+## Tommaso d'Aquino
 - type: individual
-- labels: Domenico
-- surfaces: lui (3), Domenico (2), Io (2), ei (2), io (2), si (2), altro (1), famigliar (1), gran dottor (1), l'agricola (1), meco (1), messo (1), mi (1), tal (1)
-
-## Sibilla
-- type: individual
-- labels: Sibilla
-- surfaces: elli (3), m' (3), mi (3), tu (3), egli (2), io (2), Sibilla (1), me (1), quel lume santo (1), segnor (1), te (1)
+- labels: Tommaso d'Aquino
+- surfaces: io (6), voi (4), vi (2), Tommaso (1), fra Tommaso (1), la benedetta fiamma (1), la glorïosa vita di Tommaso (1), lui (1), lumera (1), me (1), s' (1), una voce modesta (1)
+- grouped: no
 
 ## amor
 - type: non-person
@@ -106,15 +117,15 @@
 - surfaces: elli (3), li (3), si (2), voi (2), Quelli (1), ci (1), egli (1), la carne glorïosa e santa (1), la nostra persona (1), lor (1), noi (1), quanti beati (1), sé (1), tutti (1)
 - grouped: no
 
-## San Domenico
-- type: individual
-- labels: San Domenico
-- surfaces: ei (5), mi (3), I' (1), ella (1), i' (1), il santo atleta (1), io (1), l'amoroso drudo (1), lui (1), quel (1), si (1), torrente (1)
-
 ## Iustinïano
 - type: individual
 - labels: Iustinïano
 - surfaces: io (10), i' (2), mi (2), Cesare (1), Io (1), Iustinïano (1)
+
+## San Benedetto
+- type: individual
+- labels: San Benedetto
+- surfaces: io (3), ei (2), ti (2), tu (2), Benedetto (1), elli (1), lui (1), me (1), padre (1), quel (1), si (1)
 
 ## gente
 - type: generic
@@ -127,10 +138,16 @@
 - labels: Cristiani
 - surfaces: voi (8), vi (4), Cristiani (2), uomini (1)
 
-## Tommaso
+## Francesco d'Assisi
 - type: individual
-- labels: Tommaso
-- surfaces: voi (4), io (2), vi (2), Tommaso (1), fra Tommaso (1), la benedetta fiamma (1), la glorïosa vita di Tommaso (1), lui (1), me (1), s' (1)
+- labels: Francesco d'Assisi
+- surfaces: lui (4), Francesco (3), costui (1), del poverel di Dio (1), el (1), giovinetto (1), la luce (1), lo sposo (1), si (1), un sole (1)
+- grouped: no
+
+## San Giovanni
+- type: individual
+- labels: San Giovanni
+- surfaces: io (3), ei (2), ïo (2), Questi (1), San Giovanni (1), colui (1), gran Giovanni (1), lui (1), mi (1), quel Giovanni (1), questi (1)
 
 ## natura
 - type: non-person
@@ -141,11 +158,6 @@
 ## Dante, Beatrice
 - type: set
 - members: Dante | Beatrice
-
-## San Benedetto
-- type: individual
-- labels: San Benedetto
-- surfaces: ei (2), io (2), ti (2), tu (2), elli (1), lui (1), me (1), padre (1), quel (1), si (1)
 
 ## anime
 - type: class
@@ -162,11 +174,6 @@
 - type: individual
 - labels: Constanza
 - surfaces: ella (4), Quest' (1), la gran Costanza (1), la luce (1), le (1), s' (1), si (1), sorella (1), sé (1)
-
-## Giovanni
-- type: individual
-- labels: Giovanni
-- surfaces: ei (2), io (2), Questi (1), colui (1), gran Giovanni (1), lui (1), mi (1), quel Giovanni (1), questi (1), ïo (1)
 
 ## Gregorio
 - type: individual
@@ -228,10 +235,10 @@
 - labels: Fiorenza
 - surfaces: ella (5), Fiorenza (2), si (1), vittima (1)
 
-## Pietro
+## San Bonaventura
 - type: individual
-- labels: Pietro
-- surfaces: Pietro (5), il pescator (1), l'altro (1), quel baron (1), quel padre vetusto (1)
+- labels: San Bonaventura
+- surfaces: Bonaventura (1), al pastor (1), collega (1), colui (1), el (1), il corrègger (1), il nostro patrïarca (1), lui (1), questo (1)
 
 ## anima degna
 - type: generic
@@ -257,11 +264,6 @@
 - surfaces: elli (3), lor (2), li (1), noi (1), quelle (1), s' (1)
 - grouped: no
 
-## Bonaventura
-- type: individual
-- labels: Bonaventura
-- surfaces: Bonaventura (1), al pastor (1), collega (1), colui (1), el (1), il nostro patrïarca (1), lui (1), questo (1)
-
 ## Enrico VII
 - type: individual
 - labels: Enrico VII
@@ -283,6 +285,11 @@
 - type: individual
 - labels: Raab
 - surfaces: ella (2), lei (2), si (2), Raab (1), chi (1)
+
+## San Paolo
+- type: individual
+- labels: San Paolo
+- surfaces: colui (1), egli (1), ei (1), esso (1), il gran vasello (1), il padre (1), maggior padre di famiglia (1), tuo caro frate (1)
 
 ## Sigieri
 - type: individual
@@ -306,10 +313,16 @@
 - labels: Appollo
 - surfaces: tu (5), Appollo (1), buono Appollo (1)
 
-## Francesco d'Assisi
+## Dio giudicante
 - type: individual
-- labels: Francesco d'Assisi
-- surfaces: lui (4), el (1), giovinetto (1), si (1)
+- labels: Dio giudicante
+- surfaces: Dio (2), colui (2), Dio giudicante (1), questo (1), si (1)
+- grouped: no
+
+## Giacomo il Maggiore
+- type: individual
+- labels: Giacomo il Maggiore
+- surfaces: Tu (1), dottor (1), il barone (1), l secondo lume (1), l'un (1), principe glorïoso (1), un lume (1)
 - grouped: no
 
 ## Giustiniano
@@ -393,6 +406,11 @@
 - labels: Apostoli
 - surfaces: voi (3), elli (1), lor (1), vi (1)
 
+## Figliuol di Dio
+- type: individual
+- labels: Figliuol di Dio
+- surfaces: 'l suo fattore (1), Dio (1), Figliuol di Dio (1), del Figliuol di Dio (1), s' (1), si (1)
+
 ## Giove
 - type: individual
 - labels: Giove
@@ -415,20 +433,9 @@
 - surfaces: Li antichi miei (1), chi (1), ei (1), elli (1), i miei maggiori (1), si (1)
 - grouped: no
 
-## Paolo
-- type: individual
-- labels: Paolo
-- surfaces: colui (1), egli (1), ei (1), il gran vasello (1), il padre (1), maggior padre di famiglia (1)
-
 ## San Pietro, San Giacomo
 - type: set
 - members: San Pietro | San Giacomo
-
-## Tommaso d'Aquino
-- type: individual
-- labels: Tommaso d'Aquino
-- surfaces: io (4), lumera (1), una voce modesta (1)
-- grouped: no
 
 ## Troni del divino aspetto
 - type: class
@@ -513,15 +520,15 @@
 - labels: Adamo
 - surfaces: ei (1), l'uno (1), primo padre (1), quell' uom (1), sé (1)
 
-## Carlo
+## Alberto di Cologna
 - type: individual
-- labels: Carlo
-- surfaces: Carlo (3), elli (1), elli  (1)
+- labels: Alberto di Cologna
+- surfaces: Alberto (2), Questi (1), esso (1), frate e maestro (1)
 
-## Giacomo
+## Carlo Magno
 - type: individual
-- labels: Giacomo
-- surfaces: il barone (1), l secondo lume (1), l'un (1), principe glorïoso (1), un lume (1)
+- labels: Carlo Magno
+- surfaces: Carlo Magno (2), Carlo (1), elli (1), elli  (1)
 
 ## L'altro
 - type: individual
@@ -539,20 +546,15 @@
 - surfaces: elli (3), Questi ordini di sù (1), s' (1)
 - grouped: no
 
-## San Francesco
-- type: individual
-- labels: San Francesco
-- surfaces: divota (1), ella (1), padre (1), santa suora (1), teco (1)
-
-## Sibilla Cumana
-- type: individual
-- labels: Sibilla Cumana
-- surfaces: io (2), elli (1), lui (1), mi (1)
-
 ## Timeo
 - type: individual
 - labels: Timeo
 - surfaces: ei (3), Timeo (1), elli (1)
+
+## Verbo di Dio
+- type: individual
+- labels: Verbo di Dio
+- surfaces: al Verbo di Dio (1), egli (1), ei (1), persona (1), sé (1)
 
 ## collegio
 - type: non-person
@@ -667,11 +669,6 @@
 - labels: Agapito
 - surfaces: 'l benedetto Agapito (1), ei (1), li (1), sommo pastore (1)
 
-## Alberto di Cologna
-- type: individual
-- labels: Alberto di Cologna
-- surfaces: Alberto (1), Questi (1), esso (1), frate e maestro (1)
-
 ## Apollo
 - type: individual
 - labels: Apollo
@@ -727,20 +724,10 @@
 - labels: Moïsè
 - surfaces: Moïsè (3), ti (1)
 
-## Piccarda
-- type: individual
-- labels: Piccarda
-- surfaces: Piccarda (2), ella (2)
-
 ## San Giacomo
 - type: individual
 - labels: San Giacomo
 - surfaces: tu (3), Inclita vita (1)
-
-## Verbo di Dio
-- type: individual
-- labels: Verbo di Dio
-- surfaces: al Verbo di Dio (1), ei (1), persona (1), sé (1)
 
 ## angeli
 - type: class
@@ -996,11 +983,6 @@
 - labels: Eva
 - surfaces: colei (1), costei (1), quella (1)
 
-## Figliuol di Dio
-- type: individual
-- labels: Figliuol di Dio
-- surfaces: Figliuol di Dio (1), del Figliuol di Dio (1), si (1)
-
 ## Glauco
 - type: individual
 - labels: Glauco
@@ -1067,16 +1049,6 @@
 - type: individual
 - labels: Salomone
 - surfaces: el (1), re (1), re sufficïente (1)
-
-## San Bernardo
-- type: individual
-- labels: San Bernardo
-- surfaces: colui (1), elli (1), stella mattutina (1)
-
-## San Giovanni
-- type: individual
-- labels: San Giovanni
-- surfaces: San Giovanni (1), io (1), ïo (1)
 
 ## Serafi, Cherubi
 - type: set
@@ -1590,11 +1562,6 @@
 - type: set
 - members: Beatrice | Dante
 
-## Benedetto
-- type: individual
-- labels: Benedetto
-- surfaces: Benedetto (1), io (1)
-
 ## Bonifacio VIII
 - type: individual
 - labels: Bonifacio VIII
@@ -1604,10 +1571,10 @@
 - type: set
 - members: Caorsini | Guaschi
 
-## Carlo Magno
+## Carlo
 - type: individual
-- labels: Carlo Magno
-- surfaces: Carlo Magno (2)
+- labels: Carlo
+- surfaces: Carlo (2)
 
 ## Carlo novello
 - type: individual
@@ -1646,11 +1613,6 @@
 - labels: Dido
 - surfaces: Dido (1), costei (1)
 
-## Dio Padre
-- type: individual
-- labels: Dio Padre
-- surfaces: del padre (1), patre (1)
-
 ## Domenico, la Fede
 - type: set
 - members: Domenico | la Fede
@@ -1683,12 +1645,6 @@
 - type: set
 - members: Giacobbe | Esaù
 
-## Giacomo il Maggiore
-- type: individual
-- labels: Giacomo il Maggiore
-- surfaces: Tu (1), dottor (1)
-- grouped: no
-
 ## Ginevra
 - type: individual
 - labels: Ginevra
@@ -1717,6 +1673,12 @@
 ## Iove, Marte
 - type: set
 - members: Iove | Marte
+
+## Ipolito d'Atene
+- type: individual
+- labels: Ipolito d'Atene
+- surfaces: Ipolito d'Atene (1), si (1)
+- grouped: no
 
 ## Iride
 - type: individual
@@ -1806,11 +1768,6 @@
 ## San Bernardo, Dante
 - type: set
 - members: San Bernardo | Dante
-
-## San Paolo
-- type: individual
-- labels: San Paolo
-- surfaces: esso (1), tuo caro frate (1)
 
 ## Santa Caterina
 - type: individual
@@ -2721,11 +2678,6 @@
 - labels: Alberichi
 - surfaces: Alberichi (1)
 
-## Alberto
-- type: individual
-- labels: Alberto
-- surfaces: Alberto (1)
-
 ## Amiclate
 - type: individual
 - labels: Amiclate
@@ -3027,12 +2979,6 @@
 - surfaces: noi (1)
 - grouped: no
 
-## Dio giudicante
-- type: individual
-- labels: Dio giudicante
-- surfaces: Dio giudicante (1)
-- grouped: no
-
 ## Domenico, Francesco
 - type: set
 - members: Domenico | Francesco
@@ -3246,11 +3192,6 @@
 - labels: Ieronimo
 - surfaces: Ieronimo (1)
 
-## Iesù
-- type: individual
-- labels: Iesù
-- surfaces: Iesù (1)
-
 ## Illuminato
 - type: individual
 - labels: Illuminato
@@ -3279,17 +3220,6 @@
 - type: individual
 - labels: Iosüè
 - surfaces: Iosüè (1)
-
-## Ipolito
-- type: individual
-- labels: Ipolito
-- surfaces: si (1)
-
-## Ipolito d'Atene
-- type: individual
-- labels: Ipolito d'Atene
-- surfaces: Ipolito d'Atene (1)
-- grouped: no
 
 ## Isaia
 - type: individual
@@ -3634,11 +3564,6 @@
 - type: individual
 - labels: Samuel
 - surfaces: Samuel (1)
-
-## San Bonaventura
-- type: individual
-- labels: San Bonaventura
-- surfaces: il corrègger (1)
 
 ## San Pietro, San Giacomo, San Giovanni
 - type: set
