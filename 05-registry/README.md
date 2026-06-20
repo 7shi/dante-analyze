@@ -170,8 +170,16 @@ check, and false positives dominate (most name-sharing pairs are different peopl
 
 - granularity is **one decision per (label, scene)** (04-tags already keeps intra-scene labels
   consistent), applied to every occurrence of that label in the scene;
-- candidate targets for a bare label are the fuller `individual` nodes containing it as a token
-  (`Guido` → `Guido da Montefeltro`, …), plus a small seed map for semantic pairs (`Iesù` → `Cristo`);
+- candidate targets for a bare label are the fuller `individual` forms it **heads** as a proper name
+  (`Guido` → `Guido da Montefeltro`, …), plus a seed map for semantic pairs (`Iesù` → `Cristo`).
+  `heads_name` excludes governed periphrases where the bare name follows a preposition/possessive/
+  demonstrative (`l'ombra di Dante`, `Figliuol di Dio`, `vicario suo Cristo`), and `EXCLUDE_BARE`
+  drops superclass terms whose fuller forms are distinct figures (`Dio` spans the Trinity persons);
+- **candidates are read from the overlay-free `types.txt`, never from the `<canticle>.txt` node set.**
+  The node set is built *with* this overlay applied, so reading it would make `coreference.py` depend
+  on its own downstream output (a build-time cycle). Using the typing cache keeps the build a linear
+  DAG: registry build #1 (empty overlay) → `types.txt` → `coreference.py` → `coref.txt` → registry
+  build #2 (overlay applied);
 - the safe default is **`distinct`** — no correction, label left as committed;
 - every decision (incl. `distinct`) is recorded in `05-registry/coref.cache.txt` for resume/audit;
   only non-`distinct` decisions reach `04-tags/coref.txt`;

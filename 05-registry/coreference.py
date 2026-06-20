@@ -35,7 +35,9 @@ second process clobbers the first's corrections (last-writer-wins). The intended
 single `coreference.py inferno purgatorio paradiso` that `make -C 05-registry coref` runs.
 
 Input:  04-tags/<canticle>/NN.txt    (committed; the labels to correct)
-        05-registry/<canticle>.txt   (committed; the node set = candidate targets)
+        05-registry/types.txt        (typing cache; overlay-free type info = candidate targets —
+                                      NOT the <canticle>.txt node set, which is built WITH this
+                                      overlay; reading it would create a build-time cycle)
         03-reading/<canticle>/NN.txt  (scene context for the judgment)
 Output: 04-tags/coref.txt            (the overlay, human-reviewable)
         05-registry/coref.cache.txt  (resume + audit cache; every decision incl. "distinct")
@@ -46,9 +48,15 @@ import sys
 
 from dante_analyze import (
     REGISTRY_DIR, TAGS_DIR, MAX_LENGTH,
-    read_markup, load_tags, load_readings, load_registry, number_scene,
+    read_markup, load_tags, load_readings, number_scene,
     norm_label, call_llm, step_sep,
 )
+# Intra-pass reuse (sibling in 05-registry): the OVERLAY-FREE type info. Candidates come from
+# types.txt, the append-only typing cache — NOT from the committed <canticle>.txt node set, which
+# is built WITH this overlay applied. Reading the node set would make coref depend on its own
+# downstream output (a build-time cycle); types.txt keeps the dependency a linear DAG
+# (registry build #1 -> types.txt -> coref -> coref.txt -> registry build #2).
+from registry import load_types_cache, load_aliases, ALIASES_FILE
 
 CANTICLES = ("inferno", "purgatorio", "paradiso")
 DISTINCT = "distinct"
@@ -112,18 +120,20 @@ def heads_name(bare, fuller):
                for i, t in enumerate(toks))
 
 
-def candidate_targets(registry):
-    """{bare_label: [fuller canonical, …]} — under-specified individual nodes paired with the fuller
-    individual nodes they could resolve to. A bare label is a single-token `individual` canonical; a
-    target is a multi-token `individual` canonical that the bare label HEADS as a proper name (see
-    heads_name — excludes possessive periphrases like "X di Dio"), plus SEED_TARGETS."""
-    individuals = [c for c, n in registry.items() if n.get("type") == "individual"]
+def candidate_targets(types):
+    """{bare_label: [fuller canonical, …]} from `types` ({canonical: type}, i.e. load_types_cache) —
+    under-specified individual labels paired with the fuller individual labels they could resolve to.
+    A bare label is a single-token `individual`; a target is a multi-token `individual` that the bare
+    label HEADS as a proper name (see heads_name — excludes governed periphrases like "X di Dio"),
+    plus SEED_TARGETS. Type info is global and overlay-free, so candidates do not depend on whether
+    the overlay has been applied."""
+    individuals = [c for c, t in types.items() if t == "individual"]
     bare = [c for c in individuals if " " not in c and c not in EXCLUDE_BARE]
     out = {}
     for b in bare:
         targets = sorted(c for c in individuals if c != b and heads_name(b, c))
         for extra in SEED_TARGETS.get(b, []):
-            if extra in registry and extra not in targets:
+            if types.get(extra) and extra not in targets:
                 targets.append(extra)
         if targets:
             out[b] = targets
@@ -280,9 +290,13 @@ def main():
     args = ap.parse_args()
 
     cache = load_cache()
+    # types.txt is an append-only superset: drop canonicals that aliases.txt has since absorbed
+    # (Fix 1), so coref does not offer alias pairs (e.g. "Cristo" -> "Iesù Cristo") as candidates.
+    types = load_types_cache()
+    for alias, _canonical in load_aliases(ALIASES_FILE):
+        types.pop(alias, None)
+    targets_of = candidate_targets(types)                # global, overlay-free (see import note)
     for canticle in args.canticles:
-        registry = load_registry(canticle)
-        targets_of = candidate_targets(registry)
         occ = gather_occurrences(canticle, list(targets_of))
         scenes = sorted(occ)
         print(f"coref {canticle}: {len(targets_of)} candidate label(s), {len(scenes)} scene(s) to "
