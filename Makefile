@@ -2,7 +2,7 @@
 # Build it first:  make -C ../dante-corpus
 
 markup:
-	$(MAKE) -C 02-markup markup
+	$(MAKE) -C 02-markup
 
 reading:
 	$(MAKE) -C 03-reading

@@ -8,4 +8,7 @@ all:
 rollup:
 	uv run rollup.py inferno purgatorio paradiso
 
-.PHONY: all rollup
+measure:
+	uv run measure.py
+
+.PHONY: all rollup measure

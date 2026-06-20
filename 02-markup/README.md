@@ -60,7 +60,7 @@ routes the thinking to its own channel so the saved reply stays clean.
 ## Usage
 
 ```bash
-make -C 02-markup                              # all three canticles (target is `markup`, not `all`)
+make -C 02-markup                              # all three canticles (the `all` target)
 uv run 02-markup/markup.py inferno [-c 1] [-m MODEL]
 ```
 
