@@ -848,14 +848,14 @@
 - labels: Ottacchero
 - surfaces: elli (2), L'altro (1), Ottacchero (1)
 
-## Piccarda
+## Piccarda Donati
 - type: individual
-- labels: Piccarda
+- labels: Piccarda Donati
 - surfaces: Ella (1), La mia sorella (1), Piccarda (1), ella (1)
 
-## Rinier
+## Rinier Pazzo
 - type: individual
-- labels: Rinier
+- labels: Rinier Pazzo
 - surfaces: 'l pregio e l'onore (1), Questi (1), Rinier (1), questi (1)
 
 ## Rodolfo
@@ -1163,11 +1163,6 @@
 - type: individual
 - labels: Giovanna
 - surfaces: Giovanna (2), ella (1)
-
-## Giovanni
-- type: individual
-- labels: Giovanni
-- surfaces: Giovanni (2), lui (1)
 
 ## Guido Guinizzelli, anime
 - type: set
@@ -1728,9 +1723,14 @@
 - labels: Gedeon
 - surfaces: Gedeon (1), ei (1)
 
-## Giuda
+## Giovanni Vangelista
 - type: individual
-- labels: Giuda
+- labels: Giovanni Vangelista
+- surfaces: Giovanni (1), lui (1)
+
+## Giuda Scarïotto
+- type: individual
+- labels: Giuda Scarïotto
 - surfaces: Giuda (2)
 
 ## Guido Cavalcanti, the poets who preceded Guido
@@ -3209,9 +3209,9 @@
 - labels: Moïsè
 - surfaces: Moïsè (1)
 
-## Niccolò
+## Niccolò III
 - type: individual
-- labels: Niccolò
+- labels: Niccolò III
 - surfaces: Niccolò (1)
 
 ## Nin, Currado
@@ -3330,6 +3330,11 @@
 - labels: Regina
 - surfaces: “Regina” (1)
 
+## San Giovanni
+- type: individual
+- labels: San Giovanni
+- surfaces: Giovanni (1)
+
 ## Sapia, le anime degli invidiosi
 - type: set
 - members: Sapia | le anime degli invidiosi
@@ -3402,10 +3407,11 @@
 - labels: Tito
 - surfaces: l buon Tito (1)
 
-## Tommaso
+## Tommaso d'Aquino
 - type: individual
-- labels: Tommaso
+- labels: Tommaso d'Aquino
 - surfaces: Tommaso (1)
+- grouped: no
 
 ## Torso
 - type: individual

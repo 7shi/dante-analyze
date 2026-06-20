@@ -2934,9 +2934,9 @@
 - labels: Aretini
 - surfaces: Aretini (1)
 
-## Arrigo
+## Arrigo Mainardi
 - type: individual
-- labels: Arrigo
+- labels: Arrigo Mainardi
 - surfaces: Arrigo (1)
 
 ## Artù

@@ -2893,10 +2893,11 @@
 - labels: Costantin
 - surfaces: Costantin (1)
 
-## Costanza
+## Costanza imperadrice
 - type: individual
-- labels: Costanza
+- labels: Costanza imperadrice
 - surfaces: Costanza (1)
+- grouped: no
 
 ## Creusa
 - type: individual
@@ -3129,9 +3130,9 @@
 - labels: Giovanna
 - surfaces: madre sua veramente Giovanna (1)
 
-## Giuda
+## Giuda Scarïotto
 - type: individual
-- labels: Giuda
+- labels: Giuda Scarïotto
 - surfaces: Giuda (1)
 
 ## Giuda, Infangato
@@ -3638,11 +3639,6 @@
 - type: individual
 - labels: Sizii
 - surfaces: Sizii (1)
-
-## Soldan
-- type: individual
-- labels: Soldan
-- surfaces: del Soldan (1)
 
 ## Soldanieri
 - type: class
@@ -4409,6 +4405,12 @@
 - type: individual
 - labels: l Batista
 - surfaces: l Batista (1)
+- grouped: no
+
+## l Soldan
+- type: individual
+- labels: l Soldan
+- surfaces: del Soldan (1)
 - grouped: no
 
 ## l ben disposto spirto d'amor
