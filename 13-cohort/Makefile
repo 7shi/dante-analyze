@@ -12,4 +12,8 @@ rollup:
 measure:
 	uv run measure.py
 
-.PHONY: all cohort rollup measure
+# Remove the generated cohort cantos and rollups (regenerable by `make`); keeps the .py/README/Makefile.
+clean:
+	rm -rf inferno purgatorio paradiso inferno.txt purgatorio.txt paradiso.txt
+
+.PHONY: all cohort rollup measure clean

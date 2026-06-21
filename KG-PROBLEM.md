@@ -103,6 +103,12 @@ makes explicit (each line names its canto).
 
 ## Remaining identity work
 
+> **Current plan.** Items 1 and 2 are both **upstream** defects (04-tags typing / shared `Nodes`
+> node construction). By the propagation logic above, an LLM rebuild that runs *before* they are
+> fixed would have to be paid again afterward. So the agreed order is: **fix items 1 and 2 first,
+> then rebuild the LLM passes** (11→15) once, folding both corrections into the same pass. Item 3 is
+> optional tooling and does not block the rebuild.
+
 In rough order of value:
 
 1. **Demonstrative / periphrastic labels** (`quel X`, `colui che …`, one-off descriptions): these
