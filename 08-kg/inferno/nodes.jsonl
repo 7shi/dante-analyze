@@ -238,7 +238,6 @@
 {"id": "le cose", "type": "non-person", "members": null}
 {"id": "li maggior", "type": "class", "members": null}
 {"id": "lo sciagurato", "type": "individual", "members": null}
-{"id": "messer Guido", "type": "individual", "members": null}
 {"id": "nemici", "type": "class", "members": null}
 {"id": "prossimo", "type": "generic", "members": null}
 {"id": "quattro visi", "type": "non-person", "members": null}
@@ -941,6 +940,7 @@
 {"id": "marchese", "type": "generic", "members": null}
 {"id": "maschi", "type": "class", "members": null}
 {"id": "membra", "type": "non-person", "members": null}
+{"id": "messer Guido", "type": "individual", "members": null}
 {"id": "mille anime distrutte", "type": "class", "members": null}
 {"id": "mio annunzio", "type": "non-person", "members": null}
 {"id": "miseri", "type": "class", "members": null}

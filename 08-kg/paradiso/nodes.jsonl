@@ -211,7 +211,6 @@
 {"id": "filosofi", "type": "class", "members": null}
 {"id": "generic person/hypothetical \"one\"", "type": "generic", "members": null}
 {"id": "i Francescani", "type": "class", "members": null}
-{"id": "il baccialier", "type": "individual", "members": null}
 {"id": "il loglio", "type": "class", "members": null}
 {"id": "il nostro Sire", "type": "individual", "members": null}
 {"id": "il re d'Aragona", "type": "individual", "members": null}
@@ -379,7 +378,6 @@
 {"id": "l'etterna luce", "type": "individual", "members": null}
 {"id": "l'immagine celeste", "type": "non-person", "members": null}
 {"id": "l'intelligenza", "type": "non-person", "members": null}
-{"id": "l'ortolano etterno", "type": "individual", "members": null}
 {"id": "l'umana natura", "type": "non-person", "members": null}
 {"id": "la Chiesa", "type": "non-person", "members": null}
 {"id": "la coronata fiamma", "type": "individual", "members": null}
@@ -412,6 +410,7 @@
 {"id": "li alimenti, quelle cose che di lor si fanno", "type": "non-person", "members": null}
 {"id": "li padri", "type": "class", "members": null}
 {"id": "liber' omo", "type": "generic", "members": null}
+{"id": "lo Scotto", "type": "individual", "members": null}
 {"id": "lo nostro Imperadore", "type": "individual", "members": null}
 {"id": "lumi", "type": "non-person", "members": null}
 {"id": "milizia del ciel", "type": "class", "members": null}
@@ -898,7 +897,6 @@
 {"id": "li sterpi eretici", "type": "class", "members": null}
 {"id": "li vostri antichi", "type": "class", "members": null}
 {"id": "lingua", "type": "non-person", "members": null}
-{"id": "lo Scotto", "type": "individual", "members": null}
 {"id": "lo Scotto, l'Inghilese", "type": "set", "members": ["lo Scotto", "l'Inghilese"]}
 {"id": "lo tempo", "type": "non-person", "members": null}
 {"id": "maestro", "type": "individual", "members": null}
@@ -998,7 +996,6 @@
 {"id": "spiro", "type": "non-person", "members": null}
 {"id": "splendori", "type": "non-person", "members": null}
 {"id": "stelle", "type": "non-person", "members": null}
-{"id": "suo sire", "type": "individual", "members": null}
 {"id": "suocero", "type": "individual", "members": null}
 {"id": "suoi conti", "type": "class", "members": null}
 {"id": "tempio", "type": "non-person", "members": null}

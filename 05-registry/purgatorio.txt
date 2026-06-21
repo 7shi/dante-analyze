@@ -22,7 +22,7 @@
 ## Stazio
 - type: individual
 - labels: Stazio
-- surfaces: io (29), tu (22), Stazio (8), m' (7), mi (7), ei (5), ella (5), elli (4), me (4), ti (3), amico (2), el (2), li (2), lui (2), si (2), Frate (1), Quei (1), antico spirto (1), chi (1), cristiano (1), e' (1), i' (1), l dottor mio (1), l'ombra (1), lei (1), mei (1), ombra (1), persona (1), poeta (1), purgarmi (1), quell' anima degna (1), quell' ombra (1), quello spirto (1), quest' altro (1), rendéli (1), s' (1), sanator (1), sé (1), te (1), tolosano (1), un'ombra (1), vi (1), voi (1)
+- surfaces: io (29), tu (22), Stazio (8), m' (7), mi (7), ei (5), ella (5), elli (4), me (4), ti (3), amico (2), el (2), li (2), lui (2), si (2), Frate (1), Quei (1), antico spirto (1), chi (1), cristiano (1), e' (1), i' (1), l dottor mio (1), l'ombra (1), lei (1), mei (1), mio vocale spirto (1), ombra (1), persona (1), poeta (1), purgarmi (1), quell' anima degna (1), quell' ombra (1), quello spirto (1), quest' altro (1), rendéli (1), s' (1), sanator (1), sé (1), te (1), tolosano (1), un'ombra (1), vi (1), voi (1)
 
 ## Dio
 - type: individual
@@ -4666,12 +4666,6 @@
 - type: individual
 - labels: mio figliuol
 - surfaces: mio figliuol (1)
-- grouped: no
-
-## mio vocale spirto
-- type: individual
-- labels: mio vocale spirto
-- surfaces: mio vocale spirto (1)
 - grouped: no
 
 ## molt' ombre

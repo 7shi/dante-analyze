@@ -3,7 +3,7 @@
 ## Dante
 - type: individual
 - labels: Dante
-- surfaces: io (346), tu (263), mi (168), m' (70), ti (66), me (46), t' (35), Io (27), te (24), i' (22), Tu (20), ïo (14), si (10), chi (7), voi (7), ei (6), elli (5), li (5), colui (3), egli (3), ella (3), frate (3), vi (3), Frate (2), costui (2), darmi (2), figlio (2), l'anima mia (2), lui (2), meco (2), s' (2), 'l (1), Figlio (1), Figliuol di grazia (1), I' (1), Sternilmi (1), anima (1), bene nato (1), buon Cristiano (1), ch'io (1), compiacermi (1), convienmi (1), discente (1), el (1), figliuol (1), figluol mio (1), fronda mia (1), il core (1), illustrami (1), l'anima tua (1), la (1), la novizia (1), lo (1), mostrarti (1), mutandom' (1), parvol (1), pelegrin (1), peregrin (1), poeta (1), primo amante (1), quel (1), questi (1), sanguis meus (1), scriba (1), se (1), se' (1), sé (1), tibi (1), timido amico (1), tu  (1), v' (1), volgendom' (1), Ïo (1)
+- surfaces: io (346), tu (263), mi (168), m' (70), ti (66), me (46), t' (35), Io (27), te (24), i' (22), Tu (20), ïo (14), si (10), chi (7), voi (7), ei (6), elli (5), li (5), egli (4), colui (3), ella (3), frate (3), s' (3), vi (3), Frate (2), costui (2), darmi (2), figlio (2), l'anima mia (2), lui (2), meco (2), 'l (1), Figlio (1), Figliuol di grazia (1), I' (1), Sternilmi (1), anima (1), bene nato (1), buon Cristiano (1), ch'io (1), compiacermi (1), convienmi (1), discente (1), el (1), figliuol (1), figluol mio (1), fronda mia (1), il baccialier (1), il core (1), illustrami (1), l'anima tua (1), la (1), la novizia (1), lo (1), mostrarti (1), mutandom' (1), parvol (1), pelegrin (1), peregrin (1), poeta (1), primo amante (1), quel (1), questi (1), sanguis meus (1), scriba (1), se (1), se' (1), sé (1), tibi (1), timido amico (1), tu  (1), v' (1), volgendom' (1), Ïo (1)
 
 ## Beatrice
 - type: individual
@@ -13,7 +13,7 @@
 ## Dio
 - type: individual
 - labels: Dio
-- surfaces: Dio (49), tu (9), colui (7), egli (7), lui (7), sé (7), te (6), ei (5), s' (4), io (3), si (3), 'l suo fattore (1), 'l süo amor (1), Alfa e O (1), Colui (1), Deï (1), El (1), Iddio (1), Io (1), Lo ben (1), Luce divina (1), Lume (1), Quel medesmo (1), Quell' uno e due e tre (1), Sol (1), chi (1), dei (1), ella (1), elli (1), essa (1), esso (1), i (1), il (1), il primo (1), il sovrano (1), l' (1), l'amor (1), l'etterno amore (1), l'etterno lume (1), l'operante (1), la destra del ciel (1), la divina bontà (1), la mente (1), la mente divina (1), la prima cagion (1), la somma essenza (1), lei (1), lo creatore (1), lo sposo (1), luce etterna (1), pasture (1), quel (1), quel maestro (1), questo (1), sanctus Deus sabaòth (1), suo fattore (1), t' (1), tre e 'n due e 'n uno (1), trino e uno (1), un'altra fïata (1)
+- surfaces: Dio (49), tu (9), lui (8), colui (7), egli (7), sé (7), te (6), ei (5), s' (4), io (3), si (3),  suo sire  (1), 'l suo fattore (1), 'l süo amor (1), Alfa e O (1), Colui (1), Deï (1), El (1), Iddio (1), Io (1), Lo ben (1), Luce divina (1), Lume (1), Quel medesmo (1), Quell' uno e due e tre (1), Sol (1), chi (1), dei (1), ella (1), elli (1), essa (1), esso (1), i (1), il (1), il primo (1), il sovrano (1), l' (1), l'amor (1), l'etterno amore (1), l'etterno lume (1), l'operante (1), l'ortolano etterno (1), la destra del ciel (1), la divina bontà (1), la mente (1), la mente divina (1), la prima cagion (1), la somma essenza (1), lei (1), lo creatore (1), lo sposo (1), luce etterna (1), pasture (1), quel (1), quel maestro (1), questo (1), sanctus Deus sabaòth (1), suo fattore (1), t' (1), tre e 'n due e 'n uno (1), trino e uno (1), un'altra fïata (1)
 
 ## Maria
 - type: individual
@@ -1187,12 +1187,6 @@
 - surfaces: La sua famiglia (1), poveri giusti (1), si (1)
 - grouped: no
 
-## il baccialier
-- type: individual
-- labels: il baccialier
-- surfaces: egli (1), il baccialier (1), s' (1)
-- grouped: no
-
 ## il loglio
 - type: class
 - labels: il loglio
@@ -2134,12 +2128,6 @@
 - type: non-person
 - labels: l'intelligenza
 - surfaces: l'intelligenza (1), sé (1)
-- grouped: no
-
-## l'ortolano etterno
-- type: individual
-- labels: l'ortolano etterno
-- surfaces: l'ortolano etterno (1), lui (1)
 - grouped: no
 
 ## l'umana natura
@@ -5590,12 +5578,6 @@
 - type: non-person
 - labels: stelle
 - surfaces: voi (1)
-- grouped: no
-
-## suo sire
-- type: individual
-- labels: suo sire
-- surfaces:  suo sire  (1)
 - grouped: no
 
 ## suocero

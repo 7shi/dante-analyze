@@ -128,6 +128,7 @@
 {"id": "demonio", "type": "generic", "members": null}
 {"id": "gente umana", "type": "class", "members": null}
 {"id": "grifon", "type": "non-person", "members": null}
+{"id": "il Papa", "type": "individual", "members": null}
 {"id": "l'aguglia", "type": "non-person", "members": null}
 {"id": "l'omo", "type": "generic", "members": null}
 {"id": "la Pia", "type": "individual", "members": null}
@@ -169,7 +170,6 @@
 {"id": "figliuoli d'Eva", "type": "class", "members": null}
 {"id": "gente sicura", "type": "generic", "members": null}
 {"id": "giustizia", "type": "non-person", "members": null}
-{"id": "il Papa", "type": "individual", "members": null}
 {"id": "l sole", "type": "non-person", "members": null}
 {"id": "l'Imperatore", "type": "individual", "members": null}
 {"id": "l'altre vergini", "type": "class", "members": null}
@@ -840,7 +840,6 @@
 {"id": "messagger", "type": "individual", "members": null}
 {"id": "migliaia di lunari", "type": "class", "members": null}
 {"id": "mio figliuol", "type": "individual", "members": null}
-{"id": "mio vocale spirto", "type": "individual", "members": null}
 {"id": "molt' ombre", "type": "class", "members": null}
 {"id": "molti antichi di Guittone", "type": "class", "members": null}
 {"id": "molto radi", "type": "generic", "members": null}
