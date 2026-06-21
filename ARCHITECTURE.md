@@ -261,7 +261,8 @@ A per-scene pass cannot enforce cross-canto canonical labels. Do not patch promp
 unit solve a global problem it cannot see.
 
 `05-registry` owns the global invariant: one canonical, source-spelled node per figure, with aliases,
-sets, and node types. It sees the committed output as a whole and reconciles labels there.
+sets, and node types (the types are read from the upstream cache `04-tags/types.txt`). It sees the
+committed output as a whole and reconciles labels there.
 `10-topography` is the place analogue: it folds `09-location`'s per-scene place surfaces into a
 piecewise-constant region sequence. Because the journey is monotonic, region identity is positional,
 so it walks the canticle in order and makes one narrow judgment per canto — a same/new boundary

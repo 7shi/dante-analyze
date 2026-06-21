@@ -47,10 +47,11 @@ for the completed KG.
   pronoun validation both need a reliable pronoun lexicon.
 - Diff-only storage: store only additions relative to the source token list instead of full marked-up
   text.
-- `05-registry` artifacts surfaced by `13-cohort/rollup.py`: a few registry entries bundle an
-  individual with a collective and are typed `class` (e.g. `Dante, noble souls of Limbo`), so they
-  flow through `11-presence` into cohort lines unchanged. Not a cohort defect — the fix belongs
-  upstream in `05-registry` (re-measure, do not hand-correct the output). See `13-cohort/README.md`
+- `class`-typed individual+collective bundles surfaced by `13-cohort/rollup.py`: a few registry
+  entries bundle an individual with a collective and are typed `class` (e.g. `Dante, noble souls of
+  Limbo`), so they flow through `11-presence` into cohort lines unchanged. Not a cohort defect — the
+  fix belongs upstream in the typing step (`04-tags/node_types.py`) or node construction (the shared
+  `Nodes` set-detection), re-measured, not hand-corrected in the output. See `13-cohort/README.md`
   "Notes".
 
 ## Rules to keep
