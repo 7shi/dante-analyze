@@ -21,12 +21,21 @@ audit. Run it, READ the proposals, delete the wrong ones, then rebuild the regis
 
 Granularity: one decision per (label, canticle, canto, scene), applied to every occurrence of that
 label in the scene — 04-tags already aims for intra-scene label consistency, so a scene's `Guido` is
-one figure. The candidate targets for a bare label are the fuller individual nodes it HEADS as a
-proper name (`Guido` -> `Guido da Montefeltro`, …; `Latino` -> `Brunetto Latino`) — see heads_name,
-which excludes governed periphrases (`l'ombra di Dante`, `Figliuol di Dio`) where the bare name is
-not the head — plus a small seed map for semantic pairs no token test catches (`Iesù` -> `Cristo`).
-Superclass terms whose fuller forms name distinct figures are excluded outright (EXCLUDE_BARE: `Dio`,
-which spans the three Trinity persons).
+one figure. There are TWO candidate kinds:
+
+- **Bare name -> fuller form (lexical).** The candidate targets for a single-token bare label are the
+  fuller individual nodes it HEADS as a proper name (`Guido` -> `Guido da Montefeltro`, …; `Latino` ->
+  `Brunetto Latino`) — see heads_name, which excludes governed periphrases (`l'ombra di Dante`,
+  `Figliuol di Dio`) where the bare name is not the head — plus a small seed map for semantic pairs no
+  token test catches (`Iesù` -> `Cristo`). Superclass terms whose fuller forms name distinct figures
+  are excluded outright (EXCLUDE_BARE: `Dio`, which spans the three Trinity persons).
+- **Epithet -> co-present named figure (scene-local).** A genuine epithet/periphrasis
+  (`il Navarrese`, `la madre`, `l'angelo`: `individual`-typed, not a proper name, not `deictic`)
+  shares NO name token with its referent, so it has no lexical candidate. Its candidates are the NAMED
+  individuals co-present in that same scene, recomputed per scene (see `epithet_labels`,
+  `gather_epithet_scenes`). The poem frequently leaves such a figure unnamed, so `distinct` (no merge)
+  is the common, correct answer; this is the deferred part-B grouping (see root `KG-PROBLEM.md`), an
+  unverifiable merge that the human review of `coref.txt` is the safeguard for.
 
 Run it as ONE process — do NOT parallelize per canticle (same hazard as registry.py). Both outputs
 are GLOBAL single files with no locking: `coref.cache.txt` is append-on-decision (concurrent appends
@@ -61,7 +70,7 @@ import sys
 from dante_analyze import (
     TAGS_DIR, MAX_LENGTH,
     read_markup, load_tags, load_readings, number_scene,
-    norm_label, call_llm, step_sep,
+    norm_label, fold_key, is_capitalized_name, is_deictic, call_llm, step_sep,
     load_types_cache, load_aliases, ALIASES_FILE,
 )
 
@@ -161,6 +170,59 @@ def gather_occurrences(canticle, bare_labels):
     return occ
 
 
+# ---------- candidates: epithets / periphrases (the scene-local case) ----------
+
+# The bare-name path above resolves an under-specified PROPER NAME to a fuller form bearing the same
+# name token (heads_name) — a lexical, scene-independent candidate. A genuine epithet / periphrasis
+# ("il Navarrese", "la madre", "l'angelo") shares NO name token with its referent, so its candidates
+# cannot be lexical: they are the NAMED figures co-present in that same scene, recomputed per scene.
+# The poem often leaves such a figure unnamed, so `distinct` is the common, safe answer; the merge is
+# interpretation with no structural check, which is exactly why the overlay is human-reviewed.
+
+def epithet_labels(types):
+    """Genuine epithet/periphrasis canonicals (the part-B grouping target): `individual`-typed labels
+    that are not proper names (`is_capitalized_name`) and not `deictic`. These name a figure the poem
+    MAY identify elsewhere, but their merge candidates are scene-local (the co-present named figures),
+    not lexical — so they are decided with a per-scene candidate list, disjoint from the bare-name
+    path (a multi-token periphrasis is never in `candidate_targets`, whose `bare` keys are
+    single-token; a single-token epithet like `figlio` heads no fuller name, so it has no lexical
+    target there either)."""
+    return [c for c, t in types.items()
+            if t == "individual" and not is_capitalized_name(c) and not is_deictic(c)]
+
+
+def named_individuals(types):
+    """{fold_key: canonical} for every NAMED `individual` (the merge targets an epithet can resolve
+    to). Keyed by `fold_key` — the same global join `raw_to_canonical` uses — so a co-present tag in
+    any spelling folds onto its named node."""
+    return {fold_key(c): c for c, t in types.items()
+            if t == "individual" and is_capitalized_name(c)}
+
+
+def gather_epithet_scenes(canticle, epi_labels, named_by_fold):
+    """{(label, canto, s, e): [co-present named canonical, …]} for every scene where an epithet label
+    occurs alongside >=1 named individual — the per-scene candidate list. Read with the overlay
+    applied (apply_coref=True) so candidates reflect committed merges and an epithet already corrected
+    by a prior run drops out (its tag now carries the named form). The epithet occurrence is matched
+    by `norm_label` (so `write_overlay`, which expands the decision to tag numbers by the same key,
+    always finds it); the co-present NAMED candidates are folded by `fold_key` (the global
+    `raw_to_canonical` join) so a variant spelling resolves onto its named node."""
+    wanted = {norm_label(b): b for b in epi_labels}
+    out = {}
+    for canto in committed_cantos(canticle):
+        for (s, e), res in load_tags(canticle, canto, apply_coref=True).items():
+            vals = list(res.values())
+            present = sorted({named_by_fold[fold_key(v)] for v in vals
+                              if fold_key(v) in named_by_fold})
+            if not present:
+                continue
+            for v in set(vals):
+                b = wanted.get(norm_label(v))
+                if b is not None:
+                    out[(b, canto, s, e)] = present
+    return out
+
+
 # ---------- resume cache ----------
 
 CACHE_RE = re.compile(r"^\s*(\w+)/(\d+)/(\d+)-(\d+)\s+(.*\S)\s*=\s*(.*\S)\s*$")
@@ -184,22 +246,27 @@ def append_cache(canticle, canto, s, e, label, decision):
         f.write(f"{canticle}/{canto}/{s}-{e} {label} = {decision}\n")
 
 
-def write_overlay(cache):
+def write_overlay(cache, types):
     """Regenerate 04-tags/coref.txt from the cache: per-tag lines for every non-'distinct' decision.
     Re-reads each scene RAW (apply_coref=False) to expand a (label, scene) decision to the tag
     numbers that carry the bare label.
 
-    A decision is dropped if (label, target) no longer passes the structural candidate test
-    (heads_name, or a SEED_TARGETS pair) — so tightening candidate generation cleans the overlay on
-    the next regenerate WITHOUT a model rerun. The test is on the label/target STRINGS only, never
-    re-derived from the registry: the committed registry already reflects the prior overlay (merged
-    labels are gone from it), so re-deriving candidates there would wrongly drop the very corrections
-    that worked."""
+    A decision is dropped if it no longer passes its structural candidate test — bare names by
+    `heads_name` / a SEED_TARGETS pair, epithets by `decision` still being a named individual in
+    `types` (the part-B target must resolve to a real proper-name node) — so tightening candidate
+    generation cleans the overlay on the next regenerate WITHOUT a model rerun. The test is on the
+    label/target STRINGS and the upstream typing cache only, never re-derived from the registry: the
+    committed registry already reflects the prior overlay (merged labels are gone from it), so
+    re-deriving candidates there would wrongly drop the very corrections that worked."""
+    named_by_fold = named_individuals(types)
     by_scene = {}   # (canticle, canto, s, e) -> {norm_label: decision}
     for (canticle, canto, s, e, label), decision in cache.items():
         if decision == DISTINCT or label in EXCLUDE_BARE:
             continue
-        if not (heads_name(label, decision) or decision in SEED_TARGETS.get(label, [])):
+        bare_ok = heads_name(label, decision) or decision in SEED_TARGETS.get(label, [])
+        epi_ok = (not is_capitalized_name(label) and not is_deictic(label)
+                  and fold_key(decision) in named_by_fold)
+        if not (bare_ok or epi_ok):
             continue
         by_scene.setdefault((canticle, canto, s, e), {})[norm_label(label)] = decision
     lines = []
@@ -240,6 +307,34 @@ Answer with exactly one line:
 Echo "{label}" verbatim. Output only that one line and nothing else."""
 
 
+def build_epithet_prompt(label, candidates, source_text, reading):
+    """Ask which NAMED figure present in this scene the epithet/periphrasis `label` denotes, if any.
+    Unlike the bare-name prompt, the candidates are the figures co-present in THIS scene (the epithet
+    shares no name with its referent), and the poem often leaves the figure unnamed — so `distinct`
+    is a frequent, correct answer. The scene is the only evidence; no per-item answer is supplied."""
+    listing = "\n".join(f"{i}. {t}" for i, t in enumerate(candidates, 1))
+    return f"""In one scene of Dante's Divine Comedy a figure is referred to by the epithet or
+periphrasis "{label}" — a descriptive phrase, not a proper name. Decide which NAMED figure present in
+THIS scene "{label}" denotes, if any, using the scene below. The poem frequently leaves such a figure
+unnamed; if "{label}" is not one of the named figures present, answer {DISTINCT} — do NOT guess.
+
+Scene (source text):
+{source_text}
+
+Scene (reading):
+{reading}
+
+Named figures present in this scene that "{label}" could denote:
+{listing}
+{len(candidates) + 1}. {DISTINCT} — "{label}" denotes none of the above (the figure is unnamed here, or not present).
+
+Answer with exactly one line:
+
+    {label} = <one candidate exactly as listed, or {DISTINCT}>
+
+Echo "{label}" verbatim. Output only that one line and nothing else."""
+
+
 ANSWER_RE = re.compile(r"^\s*(.*\S)\s*=\s*(.*\S)\s*$")
 
 
@@ -260,10 +355,12 @@ def parse_answer(text, label, targets):
     return None
 
 
-def decide(label, targets, source_text, reading, model, max_attempts=3):
+def decide(label, targets, prompt_text, model, max_attempts=3):
     """One scene decision, retried in-conversation until parseable, else DISTINCT (the safe default:
-    no correction, leave the label as committed)."""
-    messages = [{"role": "user", "content": build_prompt(label, targets, source_text, reading)}]
+    no correction, leave the label as committed). `prompt_text` is the initial question (bare-name
+    `build_prompt` or epithet `build_epithet_prompt`); `targets` is the candidate list parse_answer
+    validates the answer against."""
+    messages = [{"role": "user", "content": prompt_text}]
     step_sep("coreference")
     resp = call_llm(messages, model, include_thoughts=True)
     for attempt in range(1, max_attempts + 1):
@@ -302,11 +399,17 @@ def main():
     types = load_types_cache()
     for alias, _canonical in load_aliases(ALIASES_FILE):
         types.pop(alias, None)
-    targets_of = candidate_targets(types)                # global, overlay-free (see import note)
+    targets_of = candidate_targets(types)                # bare-name -> fuller, global/overlay-free
+    # part-B epithets (scene-local candidates); drop any already owned by the bare-name path
+    # (a single-token label that heads_name a fuller form, e.g. `rege`/`figlio`) so the two paths
+    # are disjoint and never double-decide a (label, scene).
+    epi_labels = [c for c in epithet_labels(types) if c not in targets_of]
+    named_by_fold = named_individuals(types)
     for canticle in args.canticles:
+        # --- bare-name path: under-specified proper name -> fuller form (lexical candidates) ---
         occ = gather_occurrences(canticle, list(targets_of))
         scenes = sorted(occ)
-        print(f"coref {canticle}: {len(targets_of)} candidate label(s), {len(scenes)} scene(s) to "
+        print(f"coref {canticle}: {len(targets_of)} bare-name label(s), {len(scenes)} scene(s) to "
               f"decide", file=sys.stderr)
         for (label, canto, s, e) in scenes:
             ck = (canticle, canto, s, e, label)
@@ -315,13 +418,33 @@ def main():
             markup = read_markup(canticle, canto)
             source_text, _k, _meta = number_scene(markup, s, e)
             reading = load_readings(canticle, canto).get((s, e), "")
-            decision = decide(label, targets_of[label], source_text, reading, args.model)
+            prompt = build_prompt(label, targets_of[label], source_text, reading)
+            decision = decide(label, targets_of[label], prompt, args.model)
             append_cache(canticle, canto, s, e, label, decision)
             cache[ck] = decision
             mark = decision if decision != DISTINCT else "(distinct — no correction)"
             print(f"coref {canticle} {canto} {s}-{e}: {label} -> {mark}", file=sys.stderr)
 
-    write_overlay(cache)
+        # --- epithet path: periphrasis -> a NAMED figure co-present in the scene (or distinct) ---
+        epi_occ = gather_epithet_scenes(canticle, epi_labels, named_by_fold)
+        print(f"coref {canticle}: {len(epi_labels)} epithet label(s), {len(epi_occ)} scene(s) with a "
+              f"co-present named candidate", file=sys.stderr)
+        for (label, canto, s, e) in sorted(epi_occ):
+            ck = (canticle, canto, s, e, label)
+            if ck in cache:
+                continue
+            candidates = epi_occ[(label, canto, s, e)]
+            markup = read_markup(canticle, canto)
+            source_text, _k, _meta = number_scene(markup, s, e)
+            reading = load_readings(canticle, canto).get((s, e), "")
+            prompt = build_epithet_prompt(label, candidates, source_text, reading)
+            decision = decide(label, candidates, prompt, args.model)
+            append_cache(canticle, canto, s, e, label, decision)
+            cache[ck] = decision
+            mark = decision if decision != DISTINCT else "(distinct — no correction)"
+            print(f"coref {canticle} {canto} {s}-{e}: {label} -> {mark}", file=sys.stderr)
+
+    write_overlay(cache, types)
     n = sum(1 for v in cache.values() if v != DISTINCT)
     print(f"coref: {n} correction(s) written to {COREF_FILE} (review before committing)",
           file=sys.stderr)

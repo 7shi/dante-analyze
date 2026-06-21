@@ -126,12 +126,15 @@ both.
 
 ## Coreference overlay (`coreference.py` → `coref.txt`)
 
-A second, optional generator in this directory upgrades **under-specified** tag labels (bare `Guido`,
-`Latino`, `Pietro`) to their identity-first form *per scene*, where no global alias is safe. Because
-its output is a **tags patch** applied at `load_tags` (`load_coref`), the generator, the overlay
-`coref.txt`, and the audit cache `coref.cache.txt` all live here in `04-tags`. Its candidate
-selection — which labels are `individual` — is read as **data** from its sibling `04-tags/types.txt`
-(via the shared `load_types_cache`), so run `make -C 04-tags typing` first; it does **not** import
+A second, optional generator in this directory upgrades **under-specified** tag labels to their
+identity-first form *per scene*, where no global alias is safe. It handles two cases: a bare proper
+name (`Guido`, `Latino`, `Pietro`) → its fuller form (lexical candidates), and a genuine
+epithet/periphrasis (`il Navarrese`, `la madre`, `l'angelo`) → a **named figure co-present in the
+scene** (scene-local candidates — the deferred epithet-grouping pass). Because its output is a **tags
+patch** applied at `load_tags` (`load_coref`), the generator, the overlay `coref.txt`, and the audit
+cache `coref.cache.txt` all live here in `04-tags`. Its candidate selection — which labels are
+`individual`, which are proper names — is read as **data** from its sibling `04-tags/types.txt` (via
+the shared `load_types_cache`), so run `make -C 04-tags typing` first; it does **not** import
 `05-registry/registry.py`.
 
 It calls the model and cannot be structurally verified, so it runs as a separate, reviewed step

@@ -168,11 +168,20 @@ check, and false positives dominate (most name-sharing pairs are different peopl
 
 - granularity is **one decision per (label, scene)** (04-tags already keeps intra-scene labels
   consistent), applied to every occurrence of that label in the scene;
-- candidate targets for a bare label are the fuller `individual` forms it **heads** as a proper name
-  (`Guido` → `Guido da Montefeltro`, …), plus a seed map for semantic pairs (`Iesù` → `Cristo`).
-  `heads_name` excludes governed periphrases where the bare name follows a preposition/possessive/
-  demonstrative (`l'ombra di Dante`, `Figliuol di Dio`, `vicario suo Cristo`), and `EXCLUDE_BARE`
-  drops superclass terms whose fuller forms are distinct figures (`Dio` spans the Trinity persons);
+- there are **two candidate kinds**:
+  - **bare name → fuller form (lexical):** the fuller `individual` forms a single-token label
+    **heads** as a proper name (`Guido` → `Guido da Montefeltro`, …), plus a seed map for semantic
+    pairs (`Iesù` → `Cristo`). `heads_name` excludes governed periphrases where the bare name follows
+    a preposition/possessive/demonstrative (`l'ombra di Dante`, `Figliuol di Dio`, `vicario suo
+    Cristo`), and `EXCLUDE_BARE` drops superclass terms whose fuller forms are distinct figures (`Dio`
+    spans the Trinity persons);
+  - **epithet → co-present named figure (scene-local, part B):** a genuine epithet/periphrasis
+    (`il Navarrese`, `la madre`, `l'angelo` — `individual`, not a proper name, not `deictic`) shares
+    no name token with its referent, so its candidates are the **named individuals co-present in that
+    scene**, recomputed per scene (`epithet_labels`, `gather_epithet_scenes`). This is the deferred
+    epithet-grouping pass; the poem often leaves the figure unnamed, so `distinct` dominates and the
+    human review is doing the real work. The two paths are disjoint (a label the bare path already
+    owns is dropped from the epithet set), so no `(label, scene)` is decided twice;
 - **candidates are read from the overlay-free `04-tags/types.txt`, never from the `<canticle>.txt`
   node set.** The node set is built *with* this overlay applied, so reading it would make
   `coreference.py` depend on its own downstream output (a build-time cycle). The typing cache is built
