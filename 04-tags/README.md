@@ -127,19 +127,36 @@ both.
 ## Coreference overlay (`coreference.py` → `coref.txt`)
 
 A second, optional generator in this directory upgrades **under-specified** tag labels to their
-identity-first form *per scene*, where no global alias is safe. It handles two cases: a bare proper
-name (`Guido`, `Latino`, `Pietro`) → its fuller form (lexical candidates), and a genuine
-epithet/periphrasis (`il Navarrese`, `la madre`, `l'angelo`) → a **named figure co-present in the
-scene** (scene-local candidates — the deferred epithet-grouping pass). Because its output is a **tags
-patch** applied at `load_tags` (`load_coref`), the generator, the overlay `coref.txt`, and the audit
-cache `coref.cache.txt` all live here in `04-tags`. Its candidate selection — which labels are
-`individual`, which are proper names — is read as **data** from its sibling `04-tags/types.txt` (via
-the shared `load_types_cache`), so run `make -C 04-tags typing` first; it does **not** import
+identity-first form *per scene*, where no global alias is safe. Because its output is a **tags patch**
+applied at `load_tags` (`load_coref`), the generator, the overlay `coref.txt`, and the audit cache
+`coref.cache.txt` all live here in `04-tags`. Its candidate selection — which labels are `individual`,
+which are proper names — is read as **data** from its sibling `04-tags/types.txt` (via the shared
+`load_types_cache`), so run `make -C 04-tags typing` first; it does **not** import
 `05-registry/registry.py`.
 
+It handles **two kinds of under-specification**:
+
+1. **Bare name → fuller form** (`Guido` → `Guido da Montefeltro`): a single-token proper name that
+   denotes different figures in different scenes. Candidates are lexical — the fuller `individual`
+   forms the bare name *heads* as a proper name — so they are global and scene-independent.
+2. **Epithet → co-present named figure** (`il Navarrese`, `la madre`, `l'angelo` → a named individual
+   present in the scene): a genuine epithet/periphrasis that shares **no name token** with its
+   referent. This is the **epithet-grouping** step that `05-registry`'s registry build deliberately
+   left for a later pass (`grouped: no`).
+
+**Why the epithet path is shaped the way it is.** An epithet has no lexical anchor to its referent, so
+its candidates can only be the **named figures co-present in that same scene**, recomputed per scene.
+But Dante frequently refers to a figure by periphrasis and **never names them**, so the correct answer
+is very often `distinct` (no merge — the epithet legitimately stays its own node); the co-present
+candidates are distractor-heavy. There is **no structural check** that can tell a right merge from a
+plausible-but-wrong one — this is exactly the "unverifiable merge" the project guards by **human
+review of `coref.txt`**, not a deterministic rule. The purpose is the same as every identity layer:
+one node per figure, so the character listing does not over-count and a query returns all of a
+figure's edges (`../KG-PROBLEM.md` "Why node identity matters").
+
 It calls the model and cannot be structurally verified, so it runs as a separate, reviewed step
-(not part of `make all`). The full mechanism — candidate logic, the linear build DAG, the
-single-process constraint, and the review gate — is documented in
+(not part of `make all`). The full mechanism — candidate logic for both kinds, the linear build DAG,
+the single-process constraint, and the review gate — is documented in
 **`05-registry/README.md` → "Fix 2 — `04-tags/coref.txt`"**.
 
 ## Usage

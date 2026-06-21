@@ -49,36 +49,44 @@ singleton nodes. The registry flags every non-name node `- grouped: no` and **de
 a later pass** (`05-registry/registry.py`: "epithet grouping is SKIPPED in v1 — a flagged singleton is
 safer than an unverifiable merge").
 
-- **The flagged set is now clean (part A, done).** `is_capitalized_name` formerly mislabelled real
-  titled names as epithets — `Tommaso d'Aquino`, `conte Ugolino`, `Francesco d'Assisi`,
-  `Giacomo il Maggiore` — because it knew no lowercase honorific titles, elided-particle forms, or
-  infix articles. It now recognizes all three (`dante_analyze/labels.py`), so 32 real names dropped
-  their `grouped: no` flag. This is a **deterministic, node-set-preserving** change: the node keys,
-  set membership, and types are byte-identical (verified) — only the registry `grouped:` diagnostic
-  (unconsumed downstream) and three set-member surface inventories shift, so it triggers **no LLM
-  rebuild**, just `make -C 05-registry`.
-- **Scale of the genuine residual (part B, open).** After the name-test fix, **~245** non-name,
+- **The flagged set is now clean (part A, done).** `is_capitalized_name` now recognizes titled real
+  names (`Tommaso d'Aquino`, `conte Ugolino`, `Giacomo il Maggiore`) — lowercase honorific titles,
+  elided-particle forms, infix articles — so 32 real names dropped their spurious `grouped: no` flag.
+  A **deterministic, node-set-preserving** change (no LLM rebuild, just `make -C 05-registry`); the
+  spec lives in `05-registry/README.md` and `ARCHITECTURE.md`.
+- **Scale of the genuine residual (part B).** After the name-test fix, **~245** non-name,
   non-`deictic` `individual` nodes remain flagged — these *are* genuine epithets/periphrases
   (`il Navarrese`, `la madre`, `l'imperador`, `la prima anima`), the real candidate set for grouping.
 - **Impact.** These are **extra cast singletons, not misattributions** — each named figure is still
   correctly identified; the cost is an inflated character listing, not a corrupted edge.
-- **Part B — the actual merge (code landed; coref run IN PROGRESS).** Referent resolution
-  (epithet → named-figure) is interpretation with no structural check, so it is built as an extension
-  of the coreference overlay (`04-tags/coreference.py`), not a deterministic test. For each genuine
-  epithet, candidates are the **named individuals co-present in that scene** (`gather_epithet_scenes`);
-  the model picks one or `distinct`, staged in `coref.txt` for human review exactly like the bare-name
-  path. **Sizing (code-only):** 217 / 245 epithets have ≥1 co-present named candidate (~255 scene
-  decisions), but the candidate sets are distractor-heavy and the poem often never names the figure,
-  so `distinct` is expected to dominate — this is the "unverifiable merge" the project deliberately
-  guards with human review, not a clean deterministic win like part A. The committed bare-name overlay
-  is **unchanged** by the new code (regenerating `coref.txt` from the existing cache is byte-identical);
-  the epithet decisions are new.
-  - **Status: `make -C 04-tags coref` is running now** (the ~255 new epithet decisions; the cached
-    bare-name scenes are skipped). When it finishes: review the new `coref.txt` lines, delete the
-    wrong merges, commit the kept ones, then rebuild — `make -C 04-tags typing` is unaffected, so just
-    `make -C 05-registry`, and the registry's `individual` over-count drops by however many epithets
-    survived review. Same "fix upstream once, then rebuild" logic as the deictic/bundle fixes;
-    **not a blocker** for the current rebuild.
+- **Part B — the actual merge (mechanism landed; coref run IN PROGRESS).** The epithet → named-figure
+  merge is now built into the coreference overlay as a second candidate kind (epithet → a named
+  individual co-present in the scene). It is an *unverifiable* merge guarded by human review — design,
+  purpose, and candidate logic are documented at **`04-tags/README.md` "Coreference overlay"** and
+  **`05-registry/README.md` "Fix 2"**, not here. **Scale of the open problem (code-only sizing):**
+  217 / 245 epithets have ≥1 co-present named candidate (~255 scene decisions); candidate sets are
+  distractor-heavy and the poem often never names the figure, so `distinct` is expected to dominate —
+  the surviving merges (and the over-count reduction) are bounded by what review keeps.
+
+### Part B — to do (the coref run is in progress; do this when it finishes)
+
+`make -C 04-tags coref` is generating the ~255 new epithet decisions now (the cached bare-name scenes
+are skipped; the committed bare-name overlay is byte-unchanged, so only new epithet lines appear).
+When it completes:
+
+1. **Review the new `coref.txt` lines** — delete the wrong merges (expect to delete many; `distinct`
+   should dominate). The structural check cannot catch a plausible-but-wrong merge, so this human pass
+   is the real gate.
+2. **Commit** the kept `coref.txt` and `coref.cache.txt`.
+3. **Rebuild the registry:** `make -C 05-registry` (pure code; `make -C 04-tags typing` is unaffected).
+   The `individual` over-count drops by however many epithets survived review.
+4. **Propagate downstream.** A committed epithet merge is a **coreference-overlay edit = a `load_tags`
+   change**, so it propagates per Open problem 2's table below: 06-speech / 08-kg re-run for free
+   (code, no cache), and the caching LLM passes (11 / 12 / 13 / 15) need their caches cleared for the
+   **touched cantos** before rerun. Fold this into the pending 11→15 rebuild — don't pay it twice.
+
+Part B is **not a blocker** for that rebuild; if review keeps nothing, the node set is unchanged and
+only steps 1–2 apply.
 
 ---
 
