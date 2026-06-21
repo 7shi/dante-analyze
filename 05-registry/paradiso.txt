@@ -104,7 +104,6 @@
 - type: individual
 - labels: Tommaso d'Aquino
 - surfaces: io (6), voi (4), vi (2), Tommaso (1), fra Tommaso (1), la benedetta fiamma (1), la glorïosa vita di Tommaso (1), lui (1), lumera (1), me (1), s' (1), una voce modesta (1)
-- grouped: no
 
 ## amor
 - type: non-person
@@ -137,7 +136,6 @@
 - type: individual
 - labels: Francesco d'Assisi
 - surfaces: lui (4), Francesco (3), costui (1), del poverel di Dio (1), el (1), giovinetto (1), la luce (1), lo sposo (1), si (1), un sole (1)
-- grouped: no
 
 ## San Giovanni
 - type: individual
@@ -324,7 +322,6 @@
 - type: individual
 - labels: Giacomo il Maggiore
 - surfaces: Tu (1), dottor (1), il barone (1), l secondo lume (1), l'un (1), principe glorïoso (1), un lume (1)
-- grouped: no
 
 ## Giustiniano
 - type: individual
@@ -1059,7 +1056,6 @@
 - type: individual
 - labels: Thomas d'Aquino
 - surfaces: Thomas d'Aquino (1), io (1), m' (1)
-- grouped: no
 
 ## Ubertin Donato
 - type: individual
@@ -1237,7 +1233,6 @@
 - type: individual
 - labels: l'Etïòpe
 - surfaces: l'Etïòpe (1), l'uno (1), tal (1)
-- grouped: no
 
 ## l'alto Padre
 - type: individual
@@ -1708,7 +1703,6 @@
 - type: individual
 - labels: Ipolito d'Atene
 - surfaces: Ipolito d'Atene (1), si (1)
-- grouped: no
 
 ## Iride
 - type: individual
@@ -2340,6 +2334,12 @@
 - surfaces: liber' omo (1), si (1)
 - grouped: no
 
+## lo Scotto
+- type: individual
+- labels: lo Scotto
+- surfaces: ei (1), lo Scotto (1)
+- grouped: no
+
 ## lo nostro Imperadore
 - type: individual
 - labels: lo nostro Imperadore
@@ -2939,7 +2939,6 @@
 - type: individual
 - labels: Costanza imperadrice
 - surfaces: Costanza (1)
-- grouped: no
 
 ## Creusa
 - type: individual
@@ -4065,7 +4064,6 @@
 - type: individual
 - labels: conte Guido
 - surfaces: il conte Guido (1)
-- grouped: no
 
 ## cose generate
 - type: class
@@ -4113,7 +4111,6 @@
 - type: individual
 - labels: duca Gottifredi
 - surfaces: duca Gottifredi (1)
-- grouped: no
 
 ## duci
 - type: class
@@ -4481,25 +4478,21 @@
 - type: individual
 - labels: l'Agnel di Dio
 - surfaces: l'Agnel di Dio (1)
-- grouped: no
 
 ## l'Arca
 - type: non-person
 - labels: l'Arca
 - surfaces: l'Arca (1)
-- grouped: no
 
 ## l'Imperatore
 - type: individual
 - labels: l'Imperatore | l'imperatore
 - surfaces: chi (1)
-- grouped: no
 
 ## l'Inghilese
 - type: individual
 - labels: l'Inghilese
 - surfaces: l'Inghilese (1)
-- grouped: no
 
 ## l'acqua, il foco, l'aere, la terra, tutte lor misture
 - type: non-person
@@ -5007,12 +5000,6 @@
 - type: non-person
 - labels: lingua
 - surfaces: lingua (1)
-- grouped: no
-
-## lo Scotto
-- type: individual
-- labels: lo Scotto
-- surfaces: lo Scotto (1)
 - grouped: no
 
 ## lo Scotto, l'Inghilese

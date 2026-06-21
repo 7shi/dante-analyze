@@ -44,19 +44,28 @@ fragmentation (same figure, many labels) by the coreference overlay, and demonst
 (`quel X`, `colui che …`, now typed `deictic`) plus individual+collective bundles (now split to sets).
 
 The **third remains**: one-off epithets and governed periphrases that are *not* demonstrative-led —
-`'l pastor de la Chiesa`, `'l vicario di Pietro`, `'l sovran` — stay their own `individual` singleton
-nodes. The registry flags every non-name node `- grouped: no` and **defers consolidation to a later
-pass** (`05-registry/registry.py`: "epithet grouping is SKIPPED in v1 — a flagged singleton is safer
-than an unverifiable merge").
+`il Navarrese`, `la madre`, `l'angelo`, `l'anima della seconda fiamma` — stay their own `individual`
+singleton nodes. The registry flags every non-name node `- grouped: no` and **defers consolidation to
+a later pass** (`05-registry/registry.py`: "epithet grouping is SKIPPED in v1 — a flagged singleton is
+safer than an unverifiable merge").
 
-- **Scale.** ~277 non-name, non-`deictic` `individual` nodes, ~117 of them singletons — but the raw
-  count over-states the problem: many are real names that fail `is_capitalized_name` only because of an
-  elided article or lowercased structure (`'l Caponsacco`, `Ugolin d'Azzo`, `Francesco d'Accorso`).
-  The genuine epithets/periphrases are a subset.
+- **The flagged set is now clean (part A, done).** `is_capitalized_name` formerly mislabelled real
+  titled names as epithets — `Tommaso d'Aquino`, `conte Ugolino`, `Francesco d'Assisi`,
+  `Giacomo il Maggiore` — because it knew no lowercase honorific titles, elided-particle forms, or
+  infix articles. It now recognizes all three (`dante_analyze/labels.py`), so 32 real names dropped
+  their `grouped: no` flag. This is a **deterministic, node-set-preserving** change: the node keys,
+  set membership, and types are byte-identical (verified) — only the registry `grouped:` diagnostic
+  (unconsumed downstream) and three set-member surface inventories shift, so it triggers **no LLM
+  rebuild**, just `make -C 05-registry`.
+- **Scale of the genuine residual (part B, open).** After the name-test fix, **~245** non-name,
+  non-`deictic` `individual` nodes remain flagged — these *are* genuine epithets/periphrases
+  (`il Navarrese`, `la madre`, `l'imperador`, `la prima anima`), the real candidate set for grouping.
 - **Impact.** These are **extra cast singletons, not misattributions** — each named figure is still
   correctly identified; the cost is an inflated character listing, not a corrupted edge.
-- **Status.** A candidate for a future grouping pass (same "fix upstream once, then rebuild" logic as
-  the deictic/bundle fixes), **not a blocker** for the current rebuild.
+- **Part B — the actual merge** needs referent resolution (an epithet → named-figure decision), which
+  is interpretation, i.e. an extension of the coreference overlay (`04-tags/coreference.py`, LLM), not
+  a deterministic test. Same "fix upstream once, then rebuild" logic as the deictic/bundle fixes;
+  **not a blocker** for the current rebuild.
 
 ---
 

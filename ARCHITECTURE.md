@@ -353,9 +353,12 @@ Existing shared primitives include:
 - checkpoint loaders;
 - `number_scene` and tag-position helpers;
 - label normalization and classification: `norm_label`, `fold_key`, `split_set`, `is_deictic`
-  (a label led by a demonstrative/deictic-pronoun head → the `deictic` type), and
-  `mixed_bundle_pieces` (the lowercase collective remainders an individual+collective bundle promotes
-  to their own nodes);
+  (a label led by a demonstrative/deictic-pronoun head → the `deictic` type), `mixed_bundle_pieces`
+  (the lowercase collective remainders an individual+collective bundle promotes to their own nodes),
+  and `is_capitalized_name` (a proper-name sequence, allowing lowercase prepositions, honorific titles
+  `conte`/`ser`/`imperadore`, elided-particle forms `d'Aquino`, and infix articles `Giacomo il Maggiore`;
+  a leading article stays an epithet) — the test that decides set membership and the registry
+  `grouped:` epithet flag;
 - registry joins such as `raw_to_canonical`, and the deterministic-identity input loaders
   `load_aliases` / `load_types_cache` (with `ALIASES_FILE` / `TYPES_CACHE`): these read the
   hand-maintained `05-registry/aliases.txt` and the typing cache `04-tags/types.txt` as **data**, so

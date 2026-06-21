@@ -190,13 +190,11 @@
 - type: individual
 - labels: Traiano imperadore
 - surfaces: i' (3), tu (3), Segnor (2), ei (2), elli (2), Traiano imperadore (1), io (1), li (1), lui (1), mi (1), te (1)
-- grouped: no
 
 ## Alberto I d'Asburgo
 - type: individual
 - labels: Alberto I d'Asburgo
 - surfaces: tu (10), ti (2), Alberto tedesco (1), Cesare mio (1), crudel (1), ei (1), uom sanza cura (1)
-- grouped: no
 
 ## Dante, Virgilio, Statio
 - type: set
@@ -428,7 +426,6 @@
 - type: individual
 - labels: Costanza imperadrice
 - surfaces: Costanza (1), Costanza imperadrice (1), genitrice (1), la mia buona Costanza (1), lei (1), mia bella figlia (1), si (1)
-- grouped: no
 
 ## Dante, Virgilio, Statius
 - type: set
@@ -711,6 +708,12 @@
 - surfaces: del grifon (1), grifon (1), l'animal binato (1), seco (1), tu (1)
 - grouped: no
 
+## il Papa
+- type: individual
+- labels: il Papa
+- surfaces: l'altro (2), L'un (1), col pasturale (1), due soli (1)
+- grouped: no
+
 ## l'aguglia
 - type: non-person
 - labels: l'aguglia | aguglia
@@ -831,7 +834,6 @@
 - type: individual
 - labels: Guiglielmo marchese
 - surfaces: Guiglielmo marchese (1), Quel (1), lui (1), s' (1)
-- grouped: no
 
 ## La turba
 - type: class
@@ -944,12 +946,6 @@
 - surfaces: giustizia (4)
 - grouped: no
 
-## il Papa
-- type: individual
-- labels: il Papa
-- surfaces: l'altro (2), L'un (1), col pasturale (1)
-- grouped: no
-
 ## l sole
 - type: non-person
 - labels: l sole
@@ -960,7 +956,6 @@
 - type: individual
 - labels: l'Imperatore
 - surfaces: l'un (2), l'altro (1), la spada (1)
-- grouped: no
 
 ## l'altre vergini
 - type: class
@@ -1137,7 +1132,6 @@
 - type: individual
 - labels: Arrigo d'Inghilterra
 - surfaces: Arrigo d'Inghilterra (1), il re de la semplice vita (1), questi (1)
-- grouped: no
 
 ## Bëatrice
 - type: individual
@@ -1205,7 +1199,6 @@
 - type: individual
 - labels: Guittone d'Arezzo
 - surfaces: Guittone (1), l' (1), lui (1)
-- grouped: no
 
 ## Letè
 - type: non-person
@@ -1281,7 +1274,6 @@
 - type: individual
 - labels: conte Orso
 - surfaces: conte Orso (1), e' (1), l'anima (1)
-- grouped: no
 
 ## dal Torso
 - type: individual
@@ -3294,7 +3286,6 @@
 - type: individual
 - labels: Pier da la Broccia
 - surfaces: Pier da la Broccia (1)
-- grouped: no
 
 ## Pietro, Giovanni, Giacomo
 - type: set
@@ -3425,7 +3416,6 @@
 - type: individual
 - labels: Tommaso d'Aquino
 - surfaces: Tommaso (1)
-- grouped: no
 
 ## Torso
 - type: individual
@@ -3442,7 +3432,6 @@
 - type: individual
 - labels: Ubaldin da la Pila
 - surfaces: Ubaldin da la Pila (1)
-- grouped: no
 
 ## Ugo Capeto
 - type: individual
@@ -3453,7 +3442,6 @@
 - type: individual
 - labels: Ugolin d'Azzo
 - surfaces: Ugolin d'Azzo (1)
-- grouped: no
 
 ## Ugolin de' Fantolin
 - type: individual

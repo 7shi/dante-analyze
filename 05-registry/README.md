@@ -112,7 +112,11 @@ resolves, every type is in vocabulary, every heading is one of its group's raw l
 **Option A — `grouped: no`.** Epithet grouping is **skipped in v1** (the gate it failed). Every
 non-name, non-set node keeps its own node, flagged `- grouped: no` to mark the un-consolidated
 epithet layer. A flagged singleton is safer than a merge the structural check cannot verify;
-consolidation is a later pass. The rejected alternative (B) was to split
+consolidation is a later pass. The name test (`is_capitalized_name`) recognizes lowercase honorific
+titles (`conte Ugolino`, `ser Brunetto`, `Traiano imperadore`), elided-particle forms
+(`Tommaso d'Aquino`, `l'Abbagliato`), and infix articles (`Giacomo il Maggiore`), so a titled real
+name is **not** flagged — `grouped: no` marks only genuine epithets/periphrases (`il Navarrese`,
+`la madre`, `l'angelo`), the candidate set for that later grouping pass. The rejected alternative (B) was to split
 each canticle's ~300-candidate list into several grouping calls — more design and tokens, with
 cross-batch splits a single call would have caught, and still no check that can verify a merge.
 

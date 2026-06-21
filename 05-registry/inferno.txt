@@ -23,7 +23,6 @@
 - type: individual
 - labels: conte Ugolino
 - surfaces: io (19), mi (10), tu (7), elli (4), Io (2), Padre (2), m' (2), me (2),  'l conte Ugolino  (1), Tu (1), colui (1), conte Ugolino (1), i (1), i' (1), lo padre (1), meco (1), padre (1), s' (1), ti (1)
-- grouped: no
 
 ## gente
 - type: generic
@@ -434,7 +433,6 @@
 - type: individual
 - labels: frate Alberigo
 - surfaces: elli (2), I' (1), frate Alberigo (1), i' (1), io (1), lui (1), quel (1), tu (1)
-- grouped: no
 
 ## i peccatori
 - type: class
@@ -585,7 +583,6 @@
 - type: individual
 - labels: arcivescovo Ruggieri
 - surfaces: Questi (1), donno (1), l'arcivescovo Ruggieri (1), lui (1), maestro (1), questi (1), s' (1)
-- grouped: no
 
 ## i fiorentini
 - type: class
@@ -639,7 +636,6 @@
 - type: individual
 - labels: ser Brunetto
 - surfaces: ei (2), 'l viso abbrusciato (1), lo cotto aspetto (1), ser Brunetto (1), un (1), voi (1)
-- grouped: no
 
 ## the soul in the second flame
 - type: individual
@@ -923,7 +919,6 @@
 - type: individual
 - labels: fra Dolcin
 - surfaces: ei (1), ello (1), fra Dolcin (1), s' (1), tu (1)
-- grouped: no
 
 ## l'alchimista di Arezzo
 - type: individual
@@ -963,7 +958,6 @@
 - type: individual
 - labels: ser Branca Doria
 - surfaces: che (1), el (1), elli (1), l'ombra (1), ser Branca Doria (1)
-- grouped: no
 
 ## spirito incarcerato
 - type: generic
@@ -1286,12 +1280,6 @@
 - type: individual
 - labels: lo sciagurato
 - surfaces: chi (1), li (1), lo (1), lo sciagurato (1)
-- grouped: no
-
-## messer Guido
-- type: individual
-- labels: messer Guido
-- surfaces: due miglior da Fano (1), elli (1), messer Guido (1), venirli (1)
 - grouped: no
 
 ## nemici
@@ -2421,7 +2409,6 @@
 - type: class
 - labels: l'Arpie
 - surfaces: elli (1), l'Arpie (1)
-- grouped: no
 
 ## l'aguta punta
 - type: non-person
@@ -2944,7 +2931,6 @@
 - type: individual
 - labels: Anastasio papa
 - surfaces: Anastasio papa (1)
-- grouped: no
 
 ## Anfïone
 - type: individual
@@ -3033,7 +3019,6 @@
 - type: hypothetical-simile
 - labels: Caccia d'Ascian
 - surfaces: Caccia d'Ascian (1)
-- grouped: no
 
 ## Caifa
 - type: individual
@@ -3276,7 +3261,6 @@
 - type: individual
 - labels: Francesco d'Accorso
 - surfaces: Francesco d'Accorso (1)
-- grouped: no
 
 ## Frate Gomita, Michel Zanche
 - type: set
@@ -4588,7 +4572,6 @@
 - type: individual
 - labels: l'Abbagliato
 - surfaces: l'Abbagliato (1)
-- grouped: no
 
 ## l'afflitto
 - type: generic
@@ -5170,6 +5153,11 @@
 - surfaces: si (1)
 - grouped: no
 
+## messer Guido
+- type: individual
+- labels: messer Guido
+- surfaces: messer Guido (1)
+
 ## mille anime distrutte
 - type: class
 - labels: mille anime distrutte
@@ -5532,7 +5520,6 @@
 - type: individual
 - labels: re Tebaldo
 - surfaces: del buon re Tebaldo (1)
-- grouped: no
 
 ## regi
 - type: class

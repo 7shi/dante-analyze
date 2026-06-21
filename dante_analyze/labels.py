@@ -52,19 +52,55 @@ _ITALIAN_PREPS = frozenset({
     "di", "da", "della", "dello", "dei", "degli", "delle", "dell", "de'", "del",
 })
 
+# Lowercase honorific / rank titles that prefix a proper name (`conte Ugolino`,
+# `ser Brunetto`, `Traiano imperadore`). Like prepositions, they are allowed lowercase
+# as long as the piece still carries at least one real name word.
+_TITLE_WORDS = frozenset({
+    "conte", "contessa", "ser", "messer", "frate", "fra", "re", "donno",
+    "imperadore", "imperador", "imperadrice", "arcivescovo", "vescovo",
+    "marchese", "duca", "papa", "san", "santa", "santo",
+})
+
+# Articles allowed lowercase only INSIDE a name (`Giacomo il Maggiore`), never leading:
+# a leading article marks an epithet (`il Navarrese`, `la madre`), not a name.
+_INFIX_ARTICLES = frozenset({"il", "lo", "la", "l'", "i", "gli", "le"})
+
+
+def _is_name_word(w):
+    """A single proper-name token, possibly an elided-particle form (`d'Aquino`,
+    `l'Abbagliato`) where the segment after the apostrophe is capitalized."""
+    if w[:1].isupper() and _CAP_NAME_RE.match(w):
+        return True
+    if "'" in w:
+        head, _, tail = w.partition("'")
+        if head.islower() and tail[:1].isupper() and _CAP_NAME_RE.match(tail):
+            return True
+    return False
+
 
 def is_capitalized_name(piece):
-    """A piece that looks like a proper-name sequence: every non-preposition word
-    starts with an uppercase letter, and at least one such word is present.
-    Italian prepositions (della, da, di, del, …) are allowed lowercase, so
-    `Pier della Vigna` and `Guido da Montefeltro` qualify as names."""
+    """A piece that looks like a proper-name sequence: every word is either a name word
+    (capitalized, or an elided-particle form like `d'Aquino`) or an allowed lowercase
+    connector — an Italian preposition (`della`, `da`, …), an honorific title
+    (`conte`, `ser`, …), or an INFIX article (`Giacomo il Maggiore`) — and at least one
+    real name word is present. A LEADING article (`il Navarrese`, `la madre`) is not a
+    connector, so bare epithets/periphrases stay out and `Pier della Vigna`,
+    `Guido da Montefeltro`, `Tommaso d'Aquino`, `conte Ugolino` qualify."""
     words = piece.split()
     if not words:
         return False
-    non_preps = [w for w in words if w.casefold() not in _ITALIAN_PREPS]
-    return bool(non_preps) and all(
-        w[:1].isupper() and _CAP_NAME_RE.match(w) for w in non_preps
-    )
+    has_name = False
+    for i, w in enumerate(words):
+        cf = w.casefold()
+        if cf in _ITALIAN_PREPS or cf in _TITLE_WORDS:
+            continue
+        if i > 0 and cf in _INFIX_ARTICLES:
+            continue
+        if _is_name_word(w):
+            has_name = True
+            continue
+        return False
+    return has_name
 
 
 def split_set(label, known_labels):

@@ -24,7 +24,7 @@ from dante_analyze import (
     TAGS_DIR,
     read_markup, load_tags, load_readings, load_scenes,
     number_scene, tag_positions,
-    norm_label, fold_key, split_set,
+    norm_label, fold_key, split_set, is_capitalized_name,
     walk_spans, own_region,
     FIRST_PERSON_STRONG, FIRST_PERSON_WEAK, FIRST_PERSON_PLURAL,
 )
@@ -184,18 +184,7 @@ def section_variants(data):
 
 
 def piece_qualifies(piece, known_folds):
-    return fold_key(piece) in known_folds or _is_cap_name(piece)
-
-
-_ITALIAN_PREPS = frozenset({
-    "di", "da", "della", "dello", "dei", "degli", "delle", "dell", "de'", "del",
-})
-
-
-def _is_cap_name(piece):
-    words = piece.split()
-    non_preps = [w for w in words if w.casefold() not in _ITALIAN_PREPS]
-    return bool(non_preps) and all(w[:1].isupper() for w in non_preps)
+    return fold_key(piece) in known_folds or is_capitalized_name(piece)
 
 
 def section_sets(data):
@@ -318,7 +307,7 @@ def epithet_nodes(label_count):
             continue
         if "," in canonical:  # a set, handled by split_set not epithet grouping
             continue
-        if _is_cap_name(canonical):
+        if is_capitalized_name(canonical):
             continue
         out.append((canonical, total))
     return sorted(out, key=lambda kv: -kv[1])
