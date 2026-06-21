@@ -36,7 +36,7 @@ typing), never as a downstream filter.
 
 ---
 
-## Open problem 1 — epithet / periphrasis grouping (part A done; part B awaiting the LLM run)
+## Open problem 1 — epithet / periphrasis grouping (part A done; part B coref run in progress)
 
 The registry over-counts `individual` nodes (vs. ~300–500 real named figures) from three sources, all
 resolved at **node-construction time** (no downstream filter can remove them). Two are closed:
@@ -62,7 +62,7 @@ safer than an unverifiable merge").
   (`il Navarrese`, `la madre`, `l'imperador`, `la prima anima`), the real candidate set for grouping.
 - **Impact.** These are **extra cast singletons, not misattributions** — each named figure is still
   correctly identified; the cost is an inflated character listing, not a corrupted edge.
-- **Part B — the actual merge (code landed, awaiting the LLM run).** Referent resolution
+- **Part B — the actual merge (code landed; coref run IN PROGRESS).** Referent resolution
   (epithet → named-figure) is interpretation with no structural check, so it is built as an extension
   of the coreference overlay (`04-tags/coreference.py`), not a deterministic test. For each genuine
   epithet, candidates are the **named individuals co-present in that scene** (`gather_epithet_scenes`);
@@ -72,9 +72,13 @@ safer than an unverifiable merge").
   so `distinct` is expected to dominate — this is the "unverifiable merge" the project deliberately
   guards with human review, not a clean deterministic win like part A. The committed bare-name overlay
   is **unchanged** by the new code (regenerating `coref.txt` from the existing cache is byte-identical);
-  the epithet decisions are new. **The user runs** `make -C 04-tags coref`, reviews `coref.txt`,
-  commits the kept merges, then rebuilds the registry. Same "fix upstream once, then rebuild" logic as
-  the deictic/bundle fixes; **not a blocker** for the current rebuild.
+  the epithet decisions are new.
+  - **Status: `make -C 04-tags coref` is running now** (the ~255 new epithet decisions; the cached
+    bare-name scenes are skipped). When it finishes: review the new `coref.txt` lines, delete the
+    wrong merges, commit the kept ones, then rebuild — `make -C 04-tags typing` is unaffected, so just
+    `make -C 05-registry`, and the registry's `individual` over-count drops by however many epithets
+    survived review. Same "fix upstream once, then rebuild" logic as the deictic/bundle fixes;
+    **not a blocker** for the current rebuild.
 
 ---
 
