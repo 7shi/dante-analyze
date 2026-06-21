@@ -4,13 +4,18 @@
 
 Each canonical 04-tags label (the most frequent spelling in its `fold_key` group) is typed once,
 GLOBALLY, with the closed vocabulary `TYPES` (individual / generic / class / hypothetical-simile /
-non-person). The result is appended to `types.txt` as `<canonical> = <type>` and resumed across runs.
+non-person / deictic). Scene-local demonstrative/periphrastic labels (`quel cane`, `colui che …`)
+are typed `deictic` DETERMINISTICALLY (is_deictic) — never sent to the model — and dropped from the
+cast/cohort downstream. The model types only the rest. `types.txt` is written as `<canonical> = <type>`.
 
 Why this is a 04-tags step, run BEFORE coreference and the registry:
 
 - Typing is **overlay-free**: a label's type is a function of the label string alone, so this gathers
-  the RAW committed labels (`Nodes(..., apply_coref=False)`). `types.txt` is therefore an append-only
-  SUPERSET of every label ever seen — adding/removing a coreference correction never invalidates it.
+  the RAW committed labels (`Nodes(..., apply_coref=False)`). The cache is reconciled to the current
+  node set and rewritten whole each run (resume reuses cached types, so the model never re-types a
+  known label; per-batch appends keep a crashed run resumable). The whole-file rewrite drops labels
+  no longer present — a decomposed mixed-bundle heading, or a label reclassified to `deictic`. The
+  overlay-free property (what coreference depends on) is unchanged.
 - The coreference generator (`04-tags/coreference.py`) needs `types.txt` to pick candidate targets
   (it merges under-specified `individual` labels into fuller `individual` ones). If typing were a
   side effect of the registry build, coref would need a registry build first, and the registry render
@@ -34,7 +39,7 @@ import sys
 
 from dante_analyze import (
     MAX_LENGTH, TYPES_CACHE,
-    Nodes, TYPES,
+    Nodes, TYPES, is_deictic,
     load_types_cache, call_llm, step_sep,
 )
 
@@ -46,10 +51,18 @@ TYPE_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*=\s*([a-z-]+)\s*$")
 
 
 def append_types_cache(typed):
-    """Append `{canonical: type}` to the resume cache (04-tags/types.txt)."""
+    """Append `{canonical: type}` to the resume cache (04-tags/types.txt), crash-safe within a run."""
     with TYPES_CACHE.open("a", encoding="utf-8") as f:
         for label, t in typed.items():
             f.write(f"{label} = {t}\n")
+
+
+def write_types_cache(types):
+    """Rewrite the WHOLE typing cache (04-tags/types.txt), sorted, so the file reflects EXACTLY the
+    current node set: stale lines (decomposed-bundle headings, labels reclassified to `deictic`) are
+    dropped. Called once at the end; per-batch appends during the run keep resume crash-safe."""
+    lines = [f"{label} = {t}" for label, t in sorted(types.items())]
+    TYPES_CACHE.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
 
 
 def build_typing_prompt(batch):
@@ -145,23 +158,34 @@ def type_batch(batch, model, max_attempts=3):
 
 
 def type_nodes(nodes, model):
-    """Type every non-set node once (global), using the resume cache to skip typed labels."""
+    """Type every non-set node once and return `{canonical: type}` for the CURRENT node set only.
+
+    Deictic labels (is_deictic) are assigned `deictic` DETERMINISTICALLY — never sent to the model,
+    overriding any stale cached `individual`. The rest are reused from the resume cache (no
+    re-typing) or, if new (e.g. a collective remainder a mixed bundle just promoted), typed by the
+    model. Returns the reconciled set; the caller writes the whole cache so dropped labels disappear."""
     cache = load_types_cache()
+    result = {}
     to_type = []
     for key in nodes.labels:
         if nodes.members(key) is not None:   # sets are not typed (set is a structural kind)
             continue
         canonical = nodes.canonical(key)
-        if canonical not in cache:
+        if is_deictic(canonical):
+            result[canonical] = "deictic"    # deterministic; scene-local deixis, not a stable figure
+        elif canonical in cache:
+            result[canonical] = cache[canonical]
+        else:
             to_type.append(canonical)
-    print(f"typing: {len(to_type)} node(s) to type, {len(cache)} cached", file=sys.stderr)
+    print(f"typing: {len(to_type)} node(s) to type, {len(result)} from cache/deterministic",
+          file=sys.stderr)
     for i in range(0, len(to_type), BATCH):
         batch = to_type[i:i + BATCH]
         typed = type_batch(batch, model)
-        append_types_cache(typed)
-        cache.update(typed)
+        append_types_cache(typed)         # crash-safe resume; the final whole-file write cleans up
+        result.update(typed)
         print(f"typing: {min(i + BATCH, len(to_type))}/{len(to_type)} done", file=sys.stderr)
-    return cache
+    return result
 
 
 def main():
@@ -182,8 +206,9 @@ def main():
     print(f"code-merge: {sum(len(c) for c in nodes.labels.values())} label spellings -> "
           f"{len(nodes.labels)} nodes", file=sys.stderr)
 
-    cache = type_nodes(nodes, args.model)
-    print(f"typing: done — {len(cache)} typed label(s) in {TYPES_CACHE}", file=sys.stderr)
+    types = type_nodes(nodes, args.model)
+    write_types_cache(types)              # whole-file rewrite: drop stale/decomposed/reclassified
+    print(f"typing: done — {len(types)} typed label(s) in {TYPES_CACHE}", file=sys.stderr)
 
 
 if __name__ == "__main__":

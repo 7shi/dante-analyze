@@ -14,13 +14,14 @@ from ._paths import TAGS_DIR
 from .corpus import read_markup
 from .checkpoint import load_tags
 from .marks import number_scene
-from .labels import norm_label, fold_key, split_set
+from .labels import norm_label, fold_key, split_set, mixed_bundle_pieces
 
 UNKNOWN = "(unknown)"
 
 # Closed typing vocabulary shared by the typing step (which assigns it) and the registry structural
-# check (which validates every node carries one of these).
-TYPES = ("individual", "generic", "class", "hypothetical-simile", "non-person")
+# check (which validates every node carries one of these). `deictic` is assigned deterministically
+# (is_deictic) for scene-local demonstrative/periphrastic labels and dropped from cast/cohort.
+TYPES = ("individual", "generic", "class", "hypothetical-simile", "non-person", "deictic")
 
 
 def committed_cantos(canticle):
@@ -53,6 +54,13 @@ class Nodes:
         for canticle in canticles:
             self._gather(canticle)
 
+    def _add_label(self, canticle, nl, surface):
+        key = fold_key(nl)
+        self.labels[key][nl] += 1
+        self.labels_canticle[key][canticle][nl] += 1
+        self.distinct_canticle[canticle].add(nl)
+        self.surfaces[key][canticle][surface] += 1
+
     def _gather(self, canticle):
         for canto in committed_cantos(canticle):
             markup = read_markup(canticle, canto)
@@ -63,12 +71,13 @@ class Nodes:
                     nl = norm_label(raw)
                     if nl == UNKNOWN:
                         continue
-                    key = fold_key(nl)
-                    self.labels[key][nl] += 1
-                    self.labels_canticle[key][canticle][nl] += 1
-                    self.distinct_canticle[canticle].add(nl)
                     _kind, surface = meta[tag_no]
-                    self.surfaces[key][canticle][surface] += 1
+                    self._add_label(canticle, nl, surface)
+                    # Mixed individual+collective bundle ("Dante, noble souls of Limbo"): promote
+                    # each lowercase collective piece to its own node so the whole label resolves as
+                    # a SET (split_set) — the individual is no longer absorbed into a `class` node.
+                    for piece in mixed_bundle_pieces(nl):
+                        self._add_label(canticle, piece, surface)
 
     def canonical(self, key):
         """Most frequent global spelling of the node (tie broken by spelling)."""

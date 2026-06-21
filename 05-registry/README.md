@@ -70,8 +70,11 @@ names) is **one node, typed once** — not re-derived per canticle. Even when yo
 canticle, all three are gathered first so the labels stay consistent.
 
 **2. Set resolution (pure code).** A comma-label whose every piece is a known node or a
-capitalized name (`split_set`) is a **set** node — a structural kind orthogonal to the five types —
-listing its members instead of surfaces.
+capitalized name (`split_set`) is a **set** node — a structural kind orthogonal to the types —
+listing its members instead of surfaces. An individual+collective **bundle** (`Dante, noble souls of
+Limbo`) also renders as a set: `Nodes._gather` promotes the lowercase collective remainder to its own
+node, so the named individual rejoins its own node and the collective becomes its own `class` node
+instead of the bundle being one `class` node that absorbs the individual.
 
 **3. Node typing (read the cache, pure code).** Each non-set node's type comes from the typing cache
 `04-tags/types.txt` (`load_types_cache`), produced upstream by the LLM step `04-tags/node_types.py`
@@ -214,8 +217,8 @@ A natural question: `04-tags/tags.py` already read each scene and resolved each 
 context — why not assign the type there at the same time, instead of a separate node-level pass
 (`node_types.py`)? Because the two answer **orthogonal questions** — `tags.py` answers *who* a tag is
 (`n. Name`); typing answers *what kind of referent* a figure is (`individual / generic / class /
-hypothetical-simile / non-person`) — and the type is structurally a **node** property, not a **tag**
-property. (`node_types.py` lives in the `04-tags` directory but operates on the global `Nodes` fold,
+hypothetical-simile / non-person / deictic`) — and the type is structurally a **node** property, not a
+**tag** property. (`node_types.py` lives in the `04-tags` directory but operates on the global `Nodes` fold,
 the same code-merge the registry uses — it is a node-level pass, not a per-scene one.)
 
 1. **Unit mismatch (redundancy + inconsistency).** `tags.py` is per-scene; a figure like Virgilio

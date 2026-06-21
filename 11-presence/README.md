@@ -17,8 +17,9 @@ outside the roster) instead of re-extracting identities the pipeline has already
 1. **Roster (code).** `scene_roster` takes the scene's `04-tags` labels, canonicalizes each through
    `raw_to_canonical` (`fold_key(norm_label(...))`, the same join `08-kg` uses), and keeps person-like
    registry types (`individual` / `generic` / `class`); a `set` node is expanded to its members.
-   `non-person` (la Fortuna) and `hypothetical-simile` (the swimmer, the miser) are **dropped** —
-   similes are a separate code-join in the lock. Unresolved labels (`(unknown)` / un-registered) are
+   `non-person` (la Fortuna), `hypothetical-simile` (the swimmer, the miser), and `deictic`
+   (scene-local `quel cane`, a different figure each scene) are **dropped** — similes are a separate
+   code-join in the lock. Unresolved labels (`(unknown)` / un-registered) are
    tallied, not fatal. The roster is the closed set the LLM must classify, in first-mention order.
 2. **Classify (LLM, one turn per scene).** The numbered scene source plus the roster list; the model
    labels each figure `present` (bodily on stage — acting, listening, addressed) or `mentioned` (named

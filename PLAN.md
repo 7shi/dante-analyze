@@ -47,12 +47,11 @@ for the completed KG.
   pronoun validation both need a reliable pronoun lexicon.
 - Diff-only storage: store only additions relative to the source token list instead of full marked-up
   text.
-- `class`-typed individual+collective bundles surfaced by `13-cohort/rollup.py`: a few registry
-  entries bundle an individual with a collective and are typed `class` (e.g. `Dante, noble souls of
-  Limbo`), so they flow through `11-presence` into cohort lines unchanged. Not a cohort defect — the
-  fix belongs upstream in the typing step (`04-tags/node_types.py`) or node construction (the shared
-  `Nodes` set-detection), re-measured, not hand-corrected in the output. See `13-cohort/README.md`
-  "Notes".
+- ~~`class`-typed individual+collective bundles~~ (RESOLVED): `Dante, noble souls of Limbo`-style
+  bundles are now split at node construction — `Nodes._gather` promotes the lowercase collective
+  remainder to its own node so the label resolves as a `set` (the individual rejoins its own node,
+  the collective becomes its own `class` node). See `KG-PROBLEM.md` "Resolved" and
+  `13-cohort/README.md` "Notes".
 
 ## Rules to keep
 

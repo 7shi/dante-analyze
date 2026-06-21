@@ -352,18 +352,23 @@ Existing shared primitives include:
 - `call_llm`;
 - checkpoint loaders;
 - `number_scene` and tag-position helpers;
-- label normalization: `norm_label`, `fold_key`, `split_set`;
+- label normalization and classification: `norm_label`, `fold_key`, `split_set`, `is_deictic`
+  (a label led by a demonstrative/deictic-pronoun head → the `deictic` type), and
+  `mixed_bundle_pieces` (the lowercase collective remainders an individual+collective bundle promotes
+  to their own nodes);
 - registry joins such as `raw_to_canonical`, and the deterministic-identity input loaders
   `load_aliases` / `load_types_cache` (with `ALIASES_FILE` / `TYPES_CACHE`): these read the
   hand-maintained `05-registry/aliases.txt` and the typing cache `04-tags/types.txt` as **data**, so
   a tool in another pass (e.g. `04-tags/coreference.py`, which needs the typing info to pick
   coreference candidates) reads them through the shared library rather than importing a pass script;
 - the code-merged node fold `Nodes` (with `committed_cantos` and the closed typing vocabulary
-  `TYPES`): the gather → `fold_key` merge → canonical selection shared by the registry build
-  (`05-registry/registry.py`, which renders + types-checks it) and the typing step
-  (`04-tags/node_types.py`, which classifies its canonicals). `apply_coref` selects overlay-applied
-  vs. raw labels so the two callers fold identically; promoting it keeps the fold in one place instead
-  of importing one pass's script from the other;
+  `TYPES`, which includes `deictic`): the gather → `fold_key` merge → canonical selection shared by
+  the registry build (`05-registry/registry.py`, which renders + types-checks it) and the typing step
+  (`04-tags/node_types.py`, which classifies its canonicals). `_gather` also decomposes
+  individual+collective bundles (`mixed_bundle_pieces`) so they resolve as sets rather than one
+  `class` node. `apply_coref` selects overlay-applied vs. raw labels so the two callers fold
+  identically; promoting it keeps the fold in one place instead of importing one pass's script from
+  the other;
 - the per-tag coreference overlay applied inside `load_tags` (`load_coref`, `04-tags/coref.txt`):
   identity corrections live at the single tag-read layer so every consumer sees one per-tag
   identity — `raw_to_canonical` is a global `fold_key` map and cannot route one surface to two

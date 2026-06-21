@@ -26,11 +26,12 @@ Both depend on **node identity**. If one person is split across two nodes (bare 
 registry merges only cosmetic drift (case, articles, elision). The two identity layers added on top
 (Fix 1, Fix 2) close the rest — see `05-registry/README.md`.
 
-The registry over-counts `individual` nodes by roughly **2×** (1,026 nodes vs. ~300–500 real named
-figures) from three sources, all of which must be resolved at **node-construction time** (no
-downstream filter can remove them): fragmentation (same figure, many labels), one-off periphrastic
-singletons, and demonstrative labels (`quel X`, `colui che …`) that name a different person in each
-scene. Fix 2 targets the first; the latter two remain open (see "Remaining identity work").
+The registry over-counts `individual` nodes (vs. ~300–500 real named figures) from three sources, all
+resolved at **node-construction time** (no downstream filter can remove them): fragmentation (same
+figure, many labels), one-off periphrastic singletons, and demonstrative labels (`quel X`, `colui che
+…`) that name a different person in each scene. Fix 2 targets the first; the demonstrative/periphrastic
+labels are now typed `deictic` and dropped from the cast (181 `deictic` nodes, ≈52 of them formerly
+`individual`) — see "Resolved" below.
 
 ---
 
@@ -101,24 +102,25 @@ makes explicit (each line names its canto).
 
 ---
 
+## Resolved (folded into the pending 11→15 rebuild)
+
+Both were **upstream** defects (04-tags typing / shared `Nodes` node construction), fixed before the
+LLM rebuild so they propagate through it once rather than forcing a second pass.
+
+1. **Demonstrative / periphrastic labels** (`quel X`, `colui che …`, one-off descriptions) — now
+   typed **`deictic`** deterministically (`is_deictic`, `dante_analyze/labels.py`; a label led by a
+   demonstrative/deictic-pronoun head). `deictic` is a closed-vocabulary type assigned in
+   `04-tags/node_types.py` (never sent to the model) and dropped from the cast (11-presence
+   `PERSON_TYPES`) and cohort (13-cohort `COHORT_TYPES`). 181 `deictic` nodes, none `individual` cast
+   any longer.
+2. **`class`-typed individual+collective bundles** (`Dante, noble souls of Limbo`) — now **split at
+   node construction**: `Nodes._gather` promotes each lowercase collective remainder to its own node,
+   so the existing `split_set` recognizes the whole label as a `set`. The named individual rejoins its
+   own node (cast) and the collective becomes its own `class` node (a cohort candidate) — the
+   individual is no longer absorbed. Genuine appositive classes (`i pigri, lenti`) have no capitalized
+   piece, so they stay single `class` nodes. ~6 bundles affected.
+
 ## Remaining identity work
 
-> **Current plan.** Items 1 and 2 are both **upstream** defects (04-tags typing / shared `Nodes`
-> node construction). By the propagation logic above, an LLM rebuild that runs *before* they are
-> fixed would have to be paid again afterward. So the agreed order is: **fix items 1 and 2 first,
-> then rebuild the LLM passes** (11→15) once, folding both corrections into the same pass. Item 3 is
-> optional tooling and does not block the rebuild.
-
-In rough order of value:
-
-1. **Demonstrative / periphrastic labels** (`quel X`, `colui che …`, one-off descriptions): these
-   are not figure names and should not be `individual` nodes at all. They need a different treatment
-   from Fix 2 (suppression or per-scene typing), not coreference.
-2. **`class`-typed individual+collective bundles.** A few registry entries bundle an individual with
-   a collective and are typed `class` (e.g. `Dante, noble souls of Limbo`), so 11-presence carries
-   them into cohort lines unchanged. This is a node-construction/typing defect, not a cohort defect —
-   the fix belongs upstream in the typing step (`04-tags/node_types.py`) or node construction (the
-   shared `Nodes` set-detection), re-measured, not hand-corrected in the output. See `PLAN.md` §2 and
-   `13-cohort/README.md` "Notes".
-3. **Granular invalidation** (optional): a way to clear only the cached scenes a node-set change
-   touched, so a rebuild doesn't force a full re-run of the LLM passes. Today this is manual.
+- **Granular invalidation** (optional): a way to clear only the cached scenes a node-set change
+  touched, so a rebuild doesn't force a full re-run of the LLM passes. Today this is manual.

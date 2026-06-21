@@ -8,8 +8,8 @@ current-setting vs referred-to-place split 09-location/10-topography made for pl
 A CLOSED-SET classification, not free extraction. The scene's figures are already resolved
 upstream, so code gathers the roster — every figure the scene's 04-tags mentions, canonicalized
 through 05-registry (raw_to_canonical), filtered to person-like node types (individual / generic /
-class; set nodes expanded to members; non-person and hypothetical-simile dropped — similes are a
-separate code-join in the lock). The LLM only LABELS each roster figure `present` or `mentioned`.
+class; set nodes expanded to members; non-person, hypothetical-simile, and deictic dropped — similes
+are a separate code-join in the lock). The LLM only LABELS each roster figure `present` or `mentioned`.
 This gives a strong structural check (every roster figure labeled exactly once, no figure outside
 the roster) and reuses resolved identities instead of re-extracting them.
 
@@ -51,8 +51,9 @@ from dante_analyze import (
 OUT_DIR = PRESENCE_DIR
 DEFAULT_MODEL = "ollama:gemma4:31b-it-qat"   # the stronger reader (judgment-heavy presence call)
 
-# Registry node types that name a person-like figure (candidate cast). non-person (la Fortuna) and
-# hypothetical-simile (the swimmer, the miser) are NOT cast; set nodes are expanded to members.
+# Registry node types that name a person-like figure (candidate cast). non-person (la Fortuna),
+# hypothetical-simile (the swimmer, the miser), and deictic (scene-local "quel cane", a different
+# figure each scene) are NOT cast; set nodes are expanded to members.
 PERSON_TYPES = {"individual", "generic", "class"}
 NO_CAST_MARKER = "# (no person figure named in this scene)"
 

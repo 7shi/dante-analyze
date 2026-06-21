@@ -167,9 +167,12 @@ resolves `anima mal nata` from the residual (`llm`).
 - `load_cohort` and `COHORT_LINE_RE` live in `dante_analyze/checkpoint.py`, beside `load_presence` —
   reused parsing belongs in the package, not in a pass script (ARCHITECTURE "Shared Code"; feedback
   memory `feedback_shared_library_reuse`).
-- The rollup can surface upstream registry artifacts faithfully: e.g. a malformed `05-registry` entry
-  that bundles an individual with a collective (`Dante, noble souls of Limbo`, typed `class`) flows
-  through `11-presence` into a cohort line unchanged. That is a data-quality issue in `05-registry`,
-  not a cohort defect — this pass consumes its inputs as given and does not hand-correct them.
+- Individual+collective bundles are now split upstream: a label like `Dante, noble souls of Limbo`
+  used to be one `class` node that flowed through `11-presence` into a cohort line, absorbing the
+  individual. `Nodes._gather` (`mixed_bundle_pieces`) now promotes the lowercase collective remainder
+  to its own node, so the bundle resolves as a `set` — the individual rejoins its own node and the
+  collective becomes its own `class` cohort candidate (see `KG-PROBLEM.md` "Resolved"). Demonstrative
+  /periphrastic labels (`quel X`, `colui che …`) are likewise typed `deictic` upstream and excluded
+  from the candidate pool. This pass still consumes its inputs as given and does not hand-correct them.
 - `14-lock` (the pure-code join of all layers plus the KG into the per-canto lock) is the next and
   final pass.

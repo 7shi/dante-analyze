@@ -6,7 +6,7 @@ from .llm import MAX_LENGTH, LLM_RETRIES, call_llm, step_sep
 from .corpus import read_markup, available_cantos, load_scenes
 from .marks import number_scene, tag_positions, strip_to_source, parse_bullets, unbrace, fix_elision, ELIDE_RE
 from .labels import (
-    norm_label, fold_key, split_set, is_capitalized_name,
+    norm_label, fold_key, split_set, is_capitalized_name, is_deictic, mixed_bundle_pieces,
     FIRST_PERSON_STRONG, FIRST_PERSON_WEAK, FIRST_PERSON_PLURAL,
 )
 from .quotespans import walk_spans, contains, own_region
@@ -42,7 +42,7 @@ __all__ = [
     # tag numbering / parsing
     "number_scene", "tag_positions", "strip_to_source", "parse_bullets", "unbrace",
     # label normalization / classification (registry)
-    "norm_label", "fold_key", "split_set", "is_capitalized_name",
+    "norm_label", "fold_key", "split_set", "is_capitalized_name", "is_deictic", "mixed_bundle_pieces",
     "FIRST_PERSON_STRONG", "FIRST_PERSON_WEAK", "FIRST_PERSON_PLURAL",
     # quote-span geometry (speech)
     "walk_spans", "contains", "own_region",

@@ -90,6 +90,47 @@ def split_set(label, known_labels):
     return pieces
 
 
+# Demonstrative / deictic-pronoun heads. A label LED by one of these names a different figure in
+# every scene (scene-local deixis), so it is not a stable individual node — it is typed `deictic`
+# and dropped from the cast/cohort. A superset of the demonstrative subset of coreference.py's
+# GOVERNORS; kept here so the typing step (04-tags/node_types.py) can classify deterministically.
+DEICTIC_HEADS = frozenset({
+    "quel", "quello", "quella", "quei", "quegli", "quelle",
+    "questo", "questa", "questi", "queste",
+    "costui", "costei", "costoro", "colui", "colei", "coloro",
+    "chi", "cui", "ciò", "tale", "tali",
+})
+
+
+def is_deictic(label):
+    """True if `label` is led by a demonstrative / deictic pronoun (DEICTIC_HEADS) — a scene-local
+    reference ("quel cane", "colui che va giuso", "quel di Brescia") that names a different person
+    per scene, so it is not a stable individual. Decided on the FIRST token alone, so real names
+    (Guido, Pier della Vigna, San Pietro, la Pia) are never caught."""
+    toks = norm_label(label).casefold().split()
+    return bool(toks) and toks[0] in DEICTIC_HEADS
+
+
+def mixed_bundle_pieces(label):
+    """For a comma label that bundles named individual(s) with lowercase collective phrase(s)
+    ("Dante, noble souls of Limbo"), return the lowercase (non-capitalized-name) pieces — the
+    collective remainders that must be promoted to their own nodes so the whole label resolves as a
+    SET (split_set) instead of a single `class` node that absorbs the individual. Returns [] when the
+    label is not such a bundle: no comma, no capitalized-name piece (a pure epithet/appositive like
+    "i pigri, lenti"), or every piece is already a capitalized name (a plain named set split_set
+    handles)."""
+    if "," not in label:
+        return []
+    pieces = [p for p in (norm_label(p) for p in label.split(",")) if p]
+    if len(pieces) < 2:
+        return []
+    named = [p for p in pieces if is_capitalized_name(p)]
+    rest = [p for p in pieces if not is_capitalized_name(p)]
+    if not named or not rest:
+        return []
+    return rest
+
+
 # First-person surface sets (case-folded), for speaker attribution in 06-speech.
 # A strong first-person tag (`io`/`i'`) inside a quote's own region attributes the
 # speaker; a weak one (`mi`/`me`) only does so as a fallback (signal: weak); plural

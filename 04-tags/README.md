@@ -96,24 +96,30 @@ Ollama's separate thinking channel cover the risk.
 ## Typing (`node_types.py` → `types.txt`)
 
 `node_types.py` classifies every figure label with a closed vocabulary — `individual | generic |
-class | hypothetical-simile | non-person` — caching the result in `04-tags/types.txt` as
+class | hypothetical-simile | non-person | deictic` — caching the result in `04-tags/types.txt` as
 `<canonical> = <type>` (committed). It is the LLM step the coreference overlay **and** the registry
 both read; it lives here because it depends only on the committed `04-tags` labels and runs **before**
 both.
+
+- **`deictic` is deterministic.** A label led by a demonstrative/deictic-pronoun head (`quel cane`,
+  `colui che …`, `questa gente`) names a different figure in every scene, so it is not a stable
+  individual. `is_deictic` (`dante_analyze/labels.py`) types these `deictic` mechanically — they are
+  never sent to the model — and they are dropped from the cast (11-presence) and cohort (13-cohort).
 
 - **Node-level, not per-tag.** It builds the global `Nodes` fold (the same code-merge `05-registry`
   uses) and types each non-set node **once** (~2,550 nodes ÷ 20 per batch ≈ ~128 calls), not each of
   the 16,030 tag lines. Why typing is a node-level pass — not folded into `tags.py` — is argued in
   `05-registry/README.md`.
 - **Overlay-free.** It gathers the raw committed labels (`Nodes(..., apply_coref=False)`), so
-  `types.txt` is an append-only **superset** of every label ever seen — adding or removing a
-  coreference correction never invalidates it, and the registry reads it without depending on the
-  overlay. This is exactly what lets the build stay a linear DAG (`tags → node_types → coref →
-  registry`) with no cycle.
-- **Checked + resumable.** Each batch is checked (every label typed once, type in vocabulary, label
-  echoed verbatim) with in-conversation retry, like `tags.py`; passed batches append to `types.txt`,
-  so a rerun skips what's done. `wc -l 04-tags/types.txt` = typed-node progress; `rm` it to re-type
-  from scratch.
+  `types.txt` is reconciled to the current overlay-free node set and the registry reads it without
+  depending on the overlay. This is exactly what lets the build stay a linear DAG (`tags → node_types
+  → coref → registry`) with no cycle.
+- **Reconciled + resumable.** Each batch is checked (every label typed once, type in vocabulary,
+  label echoed verbatim) with in-conversation retry, like `tags.py`; passed batches append to
+  `types.txt` during the run (crash-safe resume), and at the end the whole file is **rewritten** from
+  the current node set — so cached types are reused (the model never re-types a known label), but
+  stale lines disappear (a label reclassified to `deictic`, or a mixed-bundle heading the
+  `Nodes` set-detection has decomposed). `rm 04-tags/types.txt` to re-type from scratch.
 - **Run as ONE process** — `node_types.py inferno purgatorio paradiso` (what `make -C 04-tags typing`
   runs). Typing is global (the canticle args don't subset it); concurrent runs would re-type the same
   nodes and corrupt the un-locked append cache.
