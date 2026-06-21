@@ -7,7 +7,7 @@
 - 14:24 lines 24-24 | speaker: (unattributed) | signal: none | flags: -
 - 14:25 lines 25-27 | speaker: (unattributed) | signal: none | flags: -
 - 14:29 lines 29-66 | speaker: (unattributed) | signal: none | flags: multi(Spirto;l'ombra), cross-scene
-- 14:77 lines 77-126 | speaker: (unattributed) | signal: none | flags: multi(Guido;Guido del Duca), cross-scene
+- 14:77 lines 77-126 | speaker: Guido del Duca | signal: strong | flags: cross-scene
 - 14:133 lines 133-133 | speaker: la voce | signal: strong | flags: -
 - 14:139 lines 139-139 | speaker: Aglauro | signal: strong | flags: -
 - 14:143 lines 143-151 | speaker: (unattributed) | signal: none | flags: -

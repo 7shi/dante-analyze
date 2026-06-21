@@ -7,12 +7,12 @@
 - 10:60A lines 60-60 | speaker: (unattributed) | signal: none | flags: -
 - 10:60B lines 60-60 | speaker: (unattributed) | signal: none | flags: -
 - 10:83 lines 83-84 | speaker: la miserella | signal: strong | flags: -
-- 10:85 lines 85-86 | speaker: Traiano | signal: strong | flags: -
+- 10:85 lines 85-86 | speaker: Traiano imperadore | signal: strong | flags: -
 - 10:86 lines 86-86 | speaker: (unattributed) | signal: none | flags: -
 - 10:88A lines 88-88 | speaker: (unattributed) | signal: none | flags: -
-- 10:88B lines 88-89 | speaker: Traiano | signal: strong | flags: -
+- 10:88B lines 88-89 | speaker: Traiano imperadore | signal: strong | flags: -
 - 10:89 lines 89-90 | speaker: (unattributed) | signal: none | flags: -
-- 10:91 lines 91-93 | speaker: Traiano | signal: strong | flags: -
+- 10:91 lines 91-93 | speaker: Traiano imperadore | signal: strong | flags: -
 - 10:100 lines 100-100 | speaker: (unattributed) | signal: none | flags: -
 - 10:101 lines 101-102 | speaker: (unattributed) | signal: none | flags: -
 - 10:112 lines 112-114 | speaker: Dante | signal: strong | flags: -

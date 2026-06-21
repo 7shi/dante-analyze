@@ -2,18 +2,19 @@
 {"id": "Virgilio", "type": "individual", "members": null}
 {"id": "Dante, Virgilio", "type": "set", "members": ["Dante", "Virgilio"]}
 {"id": "Malebranche", "type": "class", "members": null}
+{"id": "conte Ugolino", "type": "individual", "members": null}
 {"id": "gente", "type": "generic", "members": null}
 {"id": "l'anima", "type": "generic", "members": null}
-{"id": "Ugolino", "type": "individual", "members": null}
 {"id": "il Navarrese", "type": "individual", "members": null}
 {"id": "Beatrice", "type": "individual", "members": null}
 {"id": "Farinata", "type": "individual", "members": null}
 {"id": "Ciacco", "type": "individual", "members": null}
+{"id": "Maestro Adamo", "type": "individual", "members": null}
 {"id": "Vanni Fucci", "type": "individual", "members": null}
 {"id": "Dio", "type": "individual", "members": null}
 {"id": "Lucifero", "type": "individual", "members": null}
-{"id": "Maestro Adamo", "type": "individual", "members": null}
 {"id": "Francesca, Paolo", "type": "set", "members": ["Francesca", "Paolo"]}
+{"id": "Niccolò III", "type": "individual", "members": null}
 {"id": "Brunetto Latino", "type": "individual", "members": null}
 {"id": "Filippo Argenti", "type": "individual", "members": null}
 {"id": "Anteo", "type": "individual", "members": null}
@@ -32,7 +33,6 @@
 {"id": "l'ombre", "type": "class", "members": null}
 {"id": "Bonifacio VIII", "type": "individual", "members": null}
 {"id": "Manto", "type": "individual", "members": null}
-{"id": "Niccolò III", "type": "individual", "members": null}
 {"id": "l'anima della seconda fiamma", "type": "individual", "members": null}
 {"id": "lo villanello", "type": "hypothetical-simile", "members": null}
 {"id": "Barbariccia", "type": "individual", "members": null}
@@ -41,15 +41,15 @@
 {"id": "Alessio Interminei", "type": "individual", "members": null}
 {"id": "Francesca", "type": "individual", "members": null}
 {"id": "l'un", "type": "generic", "members": null}
+{"id": "Geri del Bello", "type": "individual", "members": null}
 {"id": "L'altro", "type": "individual", "members": null}
-{"id": "Niccolò", "type": "individual", "members": null}
 {"id": "ipocriti", "type": "class", "members": null}
 {"id": "l'anima feroce", "type": "generic", "members": null}
 {"id": "l'uom", "type": "generic", "members": null}
 {"id": "lettor", "type": "generic", "members": null}
 {"id": "Frate Gomita", "type": "individual", "members": null}
-{"id": "Geri del Bello", "type": "individual", "members": null}
 {"id": "Nicola III", "type": "individual", "members": null}
+{"id": "Pier della Vigna", "type": "individual", "members": null}
 {"id": "Bertram dal Bornio", "type": "individual", "members": null}
 {"id": "Bocca", "type": "individual", "members": null}
 {"id": "Capocchio", "type": "individual", "members": null}
@@ -57,7 +57,6 @@
 {"id": "Iasón", "type": "individual", "members": null}
 {"id": "Minotauro", "type": "individual", "members": null}
 {"id": "Pier da Medicina", "type": "individual", "members": null}
-{"id": "Pier della Vigna", "type": "individual", "members": null}
 {"id": "Virgilio, Dante", "type": "set", "members": ["Virgilio", "Dante"]}
 {"id": "morte", "type": "non-person", "members": null}
 {"id": "natura", "type": "non-person", "members": null}
@@ -65,7 +64,6 @@
 {"id": "Giove", "type": "individual", "members": null}
 {"id": "I falsari", "type": "class", "members": null}
 {"id": "Lucia", "type": "individual", "members": null}
-{"id": "Mastro Adamo", "type": "individual", "members": null}
 {"id": "Semiramìs", "type": "individual", "members": null}
 {"id": "Sinon", "type": "individual", "members": null}
 {"id": "Sinone", "type": "individual", "members": null}
@@ -95,7 +93,6 @@
 {"id": "Mosca", "type": "individual", "members": null}
 {"id": "Taïde", "type": "individual", "members": null}
 {"id": "cherci", "type": "class", "members": null}
-{"id": "conte Ugolino", "type": "individual", "members": null}
 {"id": "due becchi", "type": "non-person", "members": null}
 {"id": "i Giganti", "type": "class", "members": null}
 {"id": "il mal seme d'Adamo", "type": "class", "members": null}
@@ -109,6 +106,7 @@
 {"id": "Cerbero", "type": "individual", "members": null}
 {"id": "Omero", "type": "individual", "members": null}
 {"id": "Omero, Orazio, Ovidio, Lucano, Virgilio", "type": "set", "members": ["Omero", "Orazio", "Ovidio", "Lucano", "Virgilio"]}
+{"id": "arcivescovo Ruggieri", "type": "individual", "members": null}
 {"id": "compagni", "type": "class", "members": null}
 {"id": "i fiorentini", "type": "class", "members": null}
 {"id": "ignavi", "type": "class", "members": null}
@@ -167,7 +165,7 @@
 {"id": "Megera, Alecto, Tesifone", "type": "set", "members": ["Megera", "Alecto", "Tesifone"]}
 {"id": "Mirra", "type": "individual", "members": null}
 {"id": "Omero, Orazio, Ovidio, Lucano", "type": "set", "members": ["Omero", "Orazio", "Ovidio", "Lucano"]}
-{"id": "Ruggieri", "type": "individual", "members": null}
+{"id": "Rubicante pazzo", "type": "individual", "members": null}
 {"id": "Ser Brunetto Latino", "type": "individual", "members": null}
 {"id": "demonio", "type": "generic", "members": null}
 {"id": "fra Dolcin", "type": "individual", "members": null}
@@ -192,7 +190,6 @@
 {"id": "Briareo", "type": "individual", "members": null}
 {"id": "Cagnazzo", "type": "individual", "members": null}
 {"id": "Caron", "type": "individual", "members": null}
-{"id": "Cirïatto", "type": "individual", "members": null}
 {"id": "Clemente V", "type": "individual", "members": null}
 {"id": "Didone", "type": "individual", "members": null}
 {"id": "Eretici", "type": "class", "members": null}
@@ -201,6 +198,7 @@
 {"id": "Federico II", "type": "individual", "members": null}
 {"id": "Francesco", "type": "individual", "members": null}
 {"id": "Gaddo", "type": "individual", "members": null}
+{"id": "Giuda Scarïotto", "type": "individual", "members": null}
 {"id": "Guiglielmo Borsiere", "type": "individual", "members": null}
 {"id": "Icaro", "type": "hypothetical-simile", "members": null}
 {"id": "Lano", "type": "individual", "members": null}
@@ -211,7 +209,6 @@
 {"id": "Medusa", "type": "individual", "members": null}
 {"id": "Mincio", "type": "non-person", "members": null}
 {"id": "Pisa", "type": "non-person", "members": null}
-{"id": "Rubicante", "type": "individual", "members": null}
 {"id": "Simon mago, miseri seguaci", "type": "set", "members": ["Simon mago", "miseri seguaci"]}
 {"id": "Tiresia", "type": "individual", "members": null}
 {"id": "Ulisse, i suoi compagni", "type": "individual", "members": null}
@@ -255,6 +252,7 @@
 {"id": "Attila", "type": "individual", "members": null}
 {"id": "Azzolino", "type": "individual", "members": null}
 {"id": "Celestino V", "type": "individual", "members": null}
+{"id": "Cirïatto sannuto", "type": "individual", "members": null}
 {"id": "Costantino", "type": "individual", "members": null}
 {"id": "Dante, Virgilio, Nesso", "type": "set", "members": ["Dante", "Virgilio", "Nesso"]}
 {"id": "Dite", "type": "non-person", "members": null}
@@ -267,7 +265,6 @@
 {"id": "Fra Alberigo", "type": "individual", "members": null}
 {"id": "Gerïone", "type": "individual", "members": null}
 {"id": "Gianni Schicchi, Mirra", "type": "set", "members": ["Gianni Schicchi", "Mirra"]}
-{"id": "Giuda", "type": "individual", "members": null}
 {"id": "Graffiacan", "type": "individual", "members": null}
 {"id": "Guelfi", "type": "class", "members": null}
 {"id": "Iacopo", "type": "individual", "members": null}
@@ -349,11 +346,13 @@
 {"id": "Beccheria", "type": "individual", "members": null}
 {"id": "Bisenzo", "type": "individual", "members": null}
 {"id": "Bruto, Cassio", "type": "set", "members": ["Bruto", "Cassio"]}
+{"id": "Buoso Donati", "type": "individual", "members": null}
 {"id": "Cadmo", "type": "individual", "members": null}
 {"id": "Cammilla", "type": "individual", "members": null}
 {"id": "Cassio", "type": "individual", "members": null}
 {"id": "Cesare", "type": "individual", "members": null}
 {"id": "Circe", "type": "individual", "members": null}
+{"id": "Cirïatto", "type": "individual", "members": null}
 {"id": "Cleopatràs", "type": "individual", "members": null}
 {"id": "Davìd", "type": "individual", "members": null}
 {"id": "Deïdamìa", "type": "individual", "members": null}
@@ -372,7 +371,6 @@
 {"id": "Genovesi", "type": "class", "members": null}
 {"id": "Gianni de' Soldanier", "type": "individual", "members": null}
 {"id": "Giovanni Vangelista", "type": "individual", "members": null}
-{"id": "Giuda Scarïotto", "type": "individual", "members": null}
 {"id": "Guido, Alessandro, il fratello", "type": "individual", "members": null}
 {"id": "Isifile", "type": "individual", "members": null}
 {"id": "Isopo", "type": "individual", "members": null}
@@ -398,7 +396,6 @@
 {"id": "Vitalïano", "type": "individual", "members": null}
 {"id": "a' marinar", "type": "class", "members": null}
 {"id": "anima fella", "type": "generic", "members": null}
-{"id": "arcivescovo Ruggieri", "type": "individual", "members": null}
 {"id": "cani", "type": "non-person", "members": null}
 {"id": "cavalier", "type": "hypothetical-simile", "members": null}
 {"id": "chi guarda sottilmente", "type": "generic", "members": null}
@@ -536,7 +533,7 @@
 {"id": "Antëo", "type": "individual", "members": null}
 {"id": "Aragne", "type": "hypothetical-simile", "members": null}
 {"id": "Aretini", "type": "class", "members": null}
-{"id": "Arrigo", "type": "individual", "members": null}
+{"id": "Arrigo Mainardi", "type": "individual", "members": null}
 {"id": "Artù", "type": "individual", "members": null}
 {"id": "Augusto", "type": "individual", "members": null}
 {"id": "Averoìs", "type": "individual", "members": null}
@@ -546,8 +543,6 @@
 {"id": "Bonifazio", "type": "individual", "members": null}
 {"id": "Bonturo", "type": "individual", "members": null}
 {"id": "Brïareo", "type": "individual", "members": null}
-{"id": "Buoso", "type": "individual", "members": null}
-{"id": "Buoso Donati", "type": "individual", "members": null}
 {"id": "Caccia d'Ascian", "type": "hypothetical-simile", "members": null}
 {"id": "Caifa", "type": "individual", "members": null}
 {"id": "Caina", "type": "non-person", "members": null}
@@ -565,7 +560,6 @@
 {"id": "Cicilia", "type": "individual", "members": null}
 {"id": "Ciclopi", "type": "class", "members": null}
 {"id": "Cinyras", "type": "individual", "members": null}
-{"id": "Cirïatto sannuto", "type": "individual", "members": null}
 {"id": "Cocito", "type": "non-person", "members": null}
 {"id": "Corniglia", "type": "individual", "members": null}
 {"id": "Costantin", "type": "individual", "members": null}
@@ -604,10 +598,10 @@
 {"id": "Galïeno", "type": "individual", "members": null}
 {"id": "Ganellone", "type": "individual", "members": null}
 {"id": "Genti, Dante, Virgilio, Omero, Orazio, Ovidio, Lucano", "type": "set", "members": ["Genti", "Dante", "Virgilio", "Omero", "Orazio", "Ovidio", "Lucano"]}
-{"id": "Geri", "type": "individual", "members": null}
 {"id": "Ghibellini", "type": "class", "members": null}
 {"id": "Gianciotto", "type": "individual", "members": null}
 {"id": "Gioseppo", "type": "individual", "members": null}
+{"id": "Giuda", "type": "individual", "members": null}
 {"id": "Giusti", "type": "class", "members": null}
 {"id": "Graffiacane", "type": "individual", "members": null}
 {"id": "Gualandi", "type": "individual", "members": null}
@@ -663,7 +657,6 @@
 {"id": "Peleo", "type": "individual", "members": null}
 {"id": "Penelopè", "type": "individual", "members": null}
 {"id": "Penestrino", "type": "individual", "members": null}
-{"id": "Pier delle Vigne", "type": "individual", "members": null}
 {"id": "Pinamonte", "type": "individual", "members": null}
 {"id": "Pirro", "type": "individual", "members": null}
 {"id": "Più fuor di cento", "type": "class", "members": null}
@@ -679,7 +672,6 @@
 {"id": "Rinier Pazzo", "type": "individual", "members": null}
 {"id": "Rinier da Corneto", "type": "individual", "members": null}
 {"id": "Ruberto Guiscardo", "type": "individual", "members": null}
-{"id": "Rubicante pazzo", "type": "individual", "members": null}
 {"id": "Saladino", "type": "individual", "members": null}
 {"id": "Santo Andrea", "type": "individual", "members": null}
 {"id": "Santo Pietro", "type": "individual", "members": null}

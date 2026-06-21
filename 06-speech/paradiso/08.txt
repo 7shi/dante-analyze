@@ -3,7 +3,7 @@
 - 8:32 lines 32-39 | speaker: (unattributed) | signal: none | flags: plural
 - 8:37 lines 37-37 | speaker: (unattributed) | signal: none | flags: -
 - 8:44 lines 44-44 | speaker: (unattributed) | signal: none | flags: -
-- 8:49 lines 49-84 | speaker: Sibilla | signal: strong | flags: cross-scene
+- 8:49 lines 49-84 | speaker: Sibilla Cumana | signal: strong | flags: cross-scene
 - 8:75 lines 75-75 | speaker: (unattributed) | signal: none | flags: -
 - 8:85 lines 85-93 | speaker: Dante | signal: strong | flags: -
 - 8:94 lines 94-112 | speaker: Sibilla Cumana | signal: strong | flags: -

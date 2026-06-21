@@ -8,7 +8,7 @@
 - 25:67B lines 67-78 | speaker: Dante | signal: strong | flags: -
 - 25:73 lines 73-73 | speaker: (unattributed) | signal: none | flags: -
 - 25:74 lines 74-74 | speaker: (unattributed) | signal: none | flags: -
-- 25:82 lines 82-87 | speaker: Giovanni | signal: strong | flags: -
+- 25:82 lines 82-87 | speaker: San Giovanni | signal: strong | flags: -
 - 25:88 lines 88-96 | speaker: Dante | signal: weak | flags: -
 - 25:98 lines 98-98 | speaker: (unattributed) | signal: none | flags: -
 - 25:112 lines 112-114 | speaker: (unattributed) | signal: none | flags: -

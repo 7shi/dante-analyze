@@ -1,5 +1,5 @@
 # Canto 33 — The Tale of Count Ugolino and the Frozen Souls
-- 33:4 lines 4-75 | speaker: (unattributed) | signal: none | flags: multi(Ugolino;conte Ugolino;quel peccator), cross-scene
+- 33:4 lines 4-75 | speaker: (unattributed) | signal: none | flags: multi(conte Ugolino;quel peccator), cross-scene
 - 33:51 lines 51-51 | speaker: (unattributed) | signal: none | flags: -
 - 33:61 lines 61-63 | speaker: (unattributed) | signal: none | flags: plural
 - 33:69 lines 69-69 | speaker: Gaddo | signal: weak | flags: -

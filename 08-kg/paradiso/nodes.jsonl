@@ -4,32 +4,32 @@
 {"id": "Maria", "type": "individual", "members": null}
 {"id": "Cacciaguida", "type": "individual", "members": null}
 {"id": "Cristo", "type": "individual", "members": null}
-{"id": "Bernardo", "type": "individual", "members": null}
+{"id": "San Bernardo", "type": "individual", "members": null}
+{"id": "San Domenico", "type": "individual", "members": null}
 {"id": "Piccarda Donati", "type": "individual", "members": null}
-{"id": "Francesco", "type": "individual", "members": null}
+{"id": "San Pietro", "type": "individual", "members": null}
 {"id": "l'aquila", "type": "non-person", "members": null}
 {"id": "Cunizza", "type": "individual", "members": null}
-{"id": "San Pietro", "type": "individual", "members": null}
+{"id": "San Francesco", "type": "individual", "members": null}
+{"id": "Sibilla Cumana", "type": "individual", "members": null}
 {"id": "l'uom", "type": "generic", "members": null}
 {"id": "lettore", "type": "generic", "members": null}
 {"id": "mortali", "type": "class", "members": null}
 {"id": "Cesare", "type": "individual", "members": null}
-{"id": "Domenico", "type": "individual", "members": null}
-{"id": "Sibilla", "type": "individual", "members": null}
+{"id": "Tommaso d'Aquino", "type": "individual", "members": null}
 {"id": "amor", "type": "non-person", "members": null}
 {"id": "i beati", "type": "class", "members": null}
-{"id": "San Domenico", "type": "individual", "members": null}
 {"id": "Iustinïano", "type": "individual", "members": null}
+{"id": "San Benedetto", "type": "individual", "members": null}
 {"id": "gente", "type": "generic", "members": null}
 {"id": "Cristiani", "type": "class", "members": null}
-{"id": "Tommaso", "type": "individual", "members": null}
+{"id": "Francesco d'Assisi", "type": "individual", "members": null}
+{"id": "San Giovanni", "type": "individual", "members": null}
 {"id": "natura", "type": "non-person", "members": null}
 {"id": "Dante, Beatrice", "type": "set", "members": ["Dante", "Beatrice"]}
-{"id": "San Benedetto", "type": "individual", "members": null}
 {"id": "anime", "type": "class", "members": null}
 {"id": "Bëatrice", "type": "individual", "members": null}
 {"id": "Constanza", "type": "individual", "members": null}
-{"id": "Giovanni", "type": "individual", "members": null}
 {"id": "Gregorio", "type": "individual", "members": null}
 {"id": "lettor", "type": "generic", "members": null}
 {"id": "Virgilio", "type": "individual", "members": null}
@@ -41,22 +41,23 @@
 {"id": "Alcide", "type": "individual", "members": null}
 {"id": "Arrigo", "type": "individual", "members": null}
 {"id": "Fiorenza", "type": "non-person", "members": null}
-{"id": "Pietro", "type": "individual", "members": null}
+{"id": "San Bonaventura", "type": "individual", "members": null}
 {"id": "anima degna", "type": "generic", "members": null}
 {"id": "la Santa Chiesa", "type": "non-person", "members": null}
 {"id": "la prima anima", "type": "individual", "members": null}
 {"id": "le anime beate", "type": "class", "members": null}
-{"id": "Bonaventura", "type": "individual", "members": null}
 {"id": "Enrico VII", "type": "individual", "members": null}
 {"id": "L'anima glorïosa", "type": "individual", "members": null}
 {"id": "La divina bontà", "type": "non-person", "members": null}
 {"id": "Raab", "type": "individual", "members": null}
+{"id": "San Paolo", "type": "individual", "members": null}
 {"id": "Sigieri", "type": "individual", "members": null}
 {"id": "l'anima", "type": "generic", "members": null}
 {"id": "l'umana creatura", "type": "generic", "members": null}
 {"id": "Appollo", "type": "individual", "members": null}
-{"id": "Francesco d'Assisi", "type": "individual", "members": null}
+{"id": "Giacomo il Maggiore", "type": "individual", "members": null}
 {"id": "Giustiniano", "type": "individual", "members": null}
+{"id": "Pietro Damiano", "type": "individual", "members": null}
 {"id": "beato spirto", "type": "generic", "members": null}
 {"id": "colui che se n'alluma retro", "type": "individual", "members": null}
 {"id": "faville vive", "type": "class", "members": null}
@@ -73,10 +74,7 @@
 {"id": "Guiglielmo", "type": "individual", "members": null}
 {"id": "La provedenza", "type": "non-person", "members": null}
 {"id": "Li antichi miei", "type": "class", "members": null}
-{"id": "Paolo", "type": "individual", "members": null}
-{"id": "Pietro Damiano", "type": "individual", "members": null}
 {"id": "San Pietro, San Giacomo", "type": "set", "members": ["San Pietro", "San Giacomo"]}
-{"id": "Tommaso d'Aquino", "type": "individual", "members": null}
 {"id": "Troni del divino aspetto", "type": "class", "members": null}
 {"id": "bisavol", "type": "individual", "members": null}
 {"id": "creatura", "type": "generic", "members": null}
@@ -91,13 +89,11 @@
 {"id": "quest' alme", "type": "class", "members": null}
 {"id": "'l mondo", "type": "non-person", "members": null}
 {"id": "Adamo", "type": "individual", "members": null}
-{"id": "Carlo", "type": "individual", "members": null}
-{"id": "Giacomo", "type": "individual", "members": null}
+{"id": "Alberto di Cologna", "type": "individual", "members": null}
+{"id": "Carlo Magno", "type": "individual", "members": null}
 {"id": "L'altro", "type": "individual", "members": null}
 {"id": "Qual", "type": "hypothetical-simile", "members": null}
 {"id": "Questi ordini di sù", "type": "class", "members": null}
-{"id": "San Francesco", "type": "individual", "members": null}
-{"id": "Sibilla Cumana", "type": "individual", "members": null}
 {"id": "Timeo", "type": "individual", "members": null}
 {"id": "collegio", "type": "non-person", "members": null}
 {"id": "dal muto", "type": "individual", "members": null}
@@ -118,7 +114,6 @@
 {"id": "'l sol", "type": "non-person", "members": null}
 {"id": "'l vulgo", "type": "class", "members": null}
 {"id": "Agapito", "type": "individual", "members": null}
-{"id": "Alberto di Cologna", "type": "individual", "members": null}
 {"id": "Apollo", "type": "individual", "members": null}
 {"id": "Augustin", "type": "individual", "members": null}
 {"id": "Buondelmonte", "type": "individual", "members": null}
@@ -130,7 +125,6 @@
 {"id": "Marte", "type": "non-person", "members": null}
 {"id": "Mercurio", "type": "individual", "members": null}
 {"id": "Moïsè", "type": "individual", "members": null}
-{"id": "Piccarda", "type": "individual", "members": null}
 {"id": "San Giacomo", "type": "individual", "members": null}
 {"id": "Verbo di Dio", "type": "individual", "members": null}
 {"id": "angeli", "type": "class", "members": null}
@@ -180,7 +174,6 @@
 {"id": "Figliuol di Dio", "type": "individual", "members": null}
 {"id": "Glauco", "type": "individual", "members": null}
 {"id": "Iacobbe", "type": "individual", "members": null}
-{"id": "Iesù Cristo", "type": "individual", "members": null}
 {"id": "Iosuè", "type": "individual", "members": null}
 {"id": "La Grazia", "type": "non-person", "members": null}
 {"id": "La natura del mondo", "type": "non-person", "members": null}
@@ -192,8 +185,6 @@
 {"id": "Questa cara gioia", "type": "non-person", "members": null}
 {"id": "Rifëo Troiano", "type": "individual", "members": null}
 {"id": "Salomone", "type": "individual", "members": null}
-{"id": "San Bernardo", "type": "individual", "members": null}
-{"id": "San Giovanni", "type": "individual", "members": null}
 {"id": "Serafi, Cherubi", "type": "set", "members": ["Serafi", "Cherubi"]}
 {"id": "Thomas d'Aquino", "type": "individual", "members": null}
 {"id": "Ubertin Donato", "type": "individual", "members": null}
@@ -281,10 +272,9 @@
 {"id": "Anna", "type": "individual", "members": null}
 {"id": "Arianna", "type": "individual", "members": null}
 {"id": "Beatrice, Dante", "type": "set", "members": ["Beatrice", "Dante"]}
-{"id": "Benedetto", "type": "individual", "members": null}
 {"id": "Bonifacio VIII", "type": "individual", "members": null}
 {"id": "Caorsini, Guaschi", "type": "set", "members": ["Caorsini", "Guaschi"]}
-{"id": "Carlo Magno", "type": "individual", "members": null}
+{"id": "Carlo", "type": "individual", "members": null}
 {"id": "Carlo novello", "type": "individual", "members": null}
 {"id": "Ciascun che de la bella insegna porta", "type": "generic", "members": null}
 {"id": "Cleopatra", "type": "individual", "members": null}
@@ -300,13 +290,13 @@
 {"id": "Faetone", "type": "individual", "members": null}
 {"id": "Francesco, Povertà", "type": "set", "members": ["Francesco", "Povertà"]}
 {"id": "Giacobbe, Esaù", "type": "set", "members": ["Giacobbe", "Esaù"]}
-{"id": "Giacomo il Maggiore", "type": "individual", "members": null}
 {"id": "Ginevra", "type": "individual", "members": null}
 {"id": "Guelfi", "type": "class", "members": null}
 {"id": "Ieptè", "type": "individual", "members": null}
 {"id": "Innocenzio", "type": "individual", "members": null}
 {"id": "Iove", "type": "individual", "members": null}
 {"id": "Iove, Marte", "type": "set", "members": ["Iove", "Marte"]}
+{"id": "Ipolito d'Atene", "type": "individual", "members": null}
 {"id": "Iride", "type": "individual", "members": null}
 {"id": "L'altro ternaro", "type": "individual", "members": null}
 {"id": "La cieca cupidigia", "type": "non-person", "members": null}
@@ -324,7 +314,6 @@
 {"id": "Romolo, Remo, Numitore", "type": "set", "members": ["Romolo", "Remo", "Numitore"]}
 {"id": "Rut", "type": "individual", "members": null}
 {"id": "San Bernardo, Dante", "type": "set", "members": ["San Bernardo", "Dante"]}
-{"id": "San Paolo", "type": "individual", "members": null}
 {"id": "Santa Caterina", "type": "individual", "members": null}
 {"id": "Semelè", "type": "individual", "members": null}
 {"id": "Sole, Luna", "type": "set", "members": ["Sole", "Luna"]}
@@ -442,7 +431,7 @@
 {"id": "quei santi lumi", "type": "class", "members": null}
 {"id": "quel ch'era dentro al sol", "type": "individual", "members": null}
 {"id": "quel corno d'Ausonia", "type": "individual", "members": null}
-{"id": "quel di Portogallo, di Norvegia", "type": "individual", "members": null}
+{"id": "quel di Portogallo, di Norvegia", "type": "set", "members": ["quel di Portogallo", "di Norvegia"]}
 {"id": "quell' angel", "type": "individual", "members": null}
 {"id": "quell'amor", "type": "non-person", "members": null}
 {"id": "quella di più carezza", "type": "individual", "members": null}
@@ -480,7 +469,6 @@
 {"id": "Agnel", "type": "individual", "members": null}
 {"id": "Agostino", "type": "individual", "members": null}
 {"id": "Alberichi", "type": "class", "members": null}
-{"id": "Alberto", "type": "individual", "members": null}
 {"id": "Amiclate", "type": "individual", "members": null}
 {"id": "Anania", "type": "individual", "members": null}
 {"id": "Anibale", "type": "individual", "members": null}
@@ -526,7 +514,7 @@
 {"id": "Corniglia", "type": "individual", "members": null}
 {"id": "Corrado", "type": "individual", "members": null}
 {"id": "Costantin", "type": "individual", "members": null}
-{"id": "Costanza", "type": "individual", "members": null}
+{"id": "Costanza imperadrice", "type": "individual", "members": null}
 {"id": "Creusa", "type": "individual", "members": null}
 {"id": "Dante, Beatrice, Pietro, Giacomo, Giovanni", "type": "set", "members": ["Dante", "Beatrice", "Pietro", "Giacomo", "Giovanni"]}
 {"id": "Dante, Beatrice, San Domenico", "type": "set", "members": ["Dante", "Beatrice", "San Domenico"]}
@@ -574,7 +562,7 @@
 {"id": "Giano", "type": "individual", "members": null}
 {"id": "Giovacchino", "type": "individual", "members": null}
 {"id": "Giovanna", "type": "individual", "members": null}
-{"id": "Giuda", "type": "individual", "members": null}
+{"id": "Giuda Scarïotto", "type": "individual", "members": null}
 {"id": "Giuda, Infangato", "type": "set", "members": ["Giuda", "Infangato"]}
 {"id": "Giuochi", "type": "individual", "members": null}
 {"id": "Giustino", "type": "individual", "members": null}
@@ -587,15 +575,12 @@
 {"id": "Icaro", "type": "hypothetical-simile", "members": null}
 {"id": "Iddio", "type": "individual", "members": null}
 {"id": "Ieronimo", "type": "individual", "members": null}
-{"id": "Iesù", "type": "individual", "members": null}
 {"id": "Illuminato", "type": "individual", "members": null}
 {"id": "Illuminato, Augustin, primi scalzi poverelli", "type": "set", "members": ["Illuminato", "Augustin", "primi scalzi poverelli"]}
 {"id": "Importuni", "type": "class", "members": null}
 {"id": "Infangato", "type": "individual", "members": null}
 {"id": "Iole", "type": "individual", "members": null}
 {"id": "Iosüè", "type": "individual", "members": null}
-{"id": "Ipolito", "type": "individual", "members": null}
-{"id": "Ipolito d'Atene", "type": "individual", "members": null}
 {"id": "Isaia", "type": "individual", "members": null}
 {"id": "Isidoro", "type": "individual", "members": null}
 {"id": "Israeliti", "type": "class", "members": null}
@@ -639,7 +624,6 @@
 {"id": "Peana", "type": "non-person", "members": null}
 {"id": "Pier", "type": "individual", "members": null}
 {"id": "Pietro Bernardone", "type": "individual", "members": null}
-{"id": "Pietro Damian", "type": "individual", "members": null}
 {"id": "Pietro Mangiadore", "type": "individual", "members": null}
 {"id": "Pietro Spano", "type": "individual", "members": null}
 {"id": "Pietro, Giacomo, Giovanni", "type": "set", "members": ["Pietro", "Giacomo", "Giovanni"]}
@@ -665,7 +649,6 @@
 {"id": "Sabellio", "type": "individual", "members": null}
 {"id": "Sacchetti", "type": "individual", "members": null}
 {"id": "Samuel", "type": "individual", "members": null}
-{"id": "San Bonaventura", "type": "individual", "members": null}
 {"id": "San Pietro, San Giacomo, San Giovanni", "type": "set", "members": ["San Pietro", "San Giacomo", "San Giovanni"]}
 {"id": "Santo Spiro", "type": "individual", "members": null}
 {"id": "Sardanapalo", "type": "individual", "members": null}
@@ -681,7 +664,6 @@
 {"id": "Simon mago", "type": "individual", "members": null}
 {"id": "Sisto", "type": "individual", "members": null}
 {"id": "Sizii", "type": "individual", "members": null}
-{"id": "Soldan", "type": "individual", "members": null}
 {"id": "Soldanieri", "type": "class", "members": null}
 {"id": "Solone", "type": "individual", "members": null}
 {"id": "Spirto", "type": "generic", "members": null}
@@ -815,6 +797,7 @@
 {"id": "intelletto umano", "type": "non-person", "members": null}
 {"id": "invidïosi", "type": "class", "members": null}
 {"id": "l Batista", "type": "individual", "members": null}
+{"id": "l Soldan", "type": "individual", "members": null}
 {"id": "l ben disposto spirto d'amor", "type": "generic", "members": null}
 {"id": "l ciel", "type": "non-person", "members": null}
 {"id": "l convento de le bianche stole", "type": "class", "members": null}

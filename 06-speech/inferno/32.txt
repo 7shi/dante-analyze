@@ -10,7 +10,7 @@
 - 32:89 lines 89-90 | speaker: (unattributed) | signal: none | flags: -
 - 32:91 lines 91-91 | speaker: Dante | signal: strong | flags: -
 - 32:92 lines 92-93 | speaker: Dante | signal: strong | flags: -
-- 32:94 lines 94-96 | speaker: Ugolino | signal: strong | flags: -
+- 32:94 lines 94-96 | speaker: conte Ugolino | signal: strong | flags: -
 - 32:98 lines 98-99 | speaker: (unattributed) | signal: none | flags: -
 - 32:100 lines 100-102 | speaker: il peccatore | signal: strong | flags: -
 - 32:106 lines 106-108 | speaker: (unattributed) | signal: none | flags: -

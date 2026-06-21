@@ -5,11 +5,11 @@
 - 30:34B lines 34-36 | speaker: (unattributed) | signal: none | flags: -
 - 30:37 lines 37-45 | speaker: (unattributed) | signal: none | flags: cross-scene
 - 30:58 lines 58-59 | speaker: Maestro Adamo | signal: strong | flags: -
-- 30:60 lines 60-90 | speaker: (unattributed) | signal: none | flags: multi(Maestro Adam;Maestro Adamo;Mastro Adamo), cross-scene
+- 30:60 lines 60-90 | speaker: (unattributed) | signal: none | flags: multi(Maestro Adam;Maestro Adamo), cross-scene
 - 30:91 lines 91-93 | speaker: (unattributed) | signal: none | flags: -
 - 30:94 lines 94-94 | speaker: Maestro Adam | signal: strong | flags: -
 - 30:95 lines 95-99 | speaker: Maestro Adam | signal: strong | flags: -
-- 30:106 lines 106-108 | speaker: Mastro Adamo | signal: strong | flags: -
+- 30:106 lines 106-108 | speaker: Maestro Adamo | signal: strong | flags: -
 - 30:109 lines 109-111 | speaker: (unattributed) | signal: none | flags: -
 - 30:112 lines 112-114 | speaker: (unattributed) | signal: none | flags: -
 - 30:115 lines 115-115 | speaker: Sinon | signal: strong | flags: -

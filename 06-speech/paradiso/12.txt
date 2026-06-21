@@ -1,4 +1,4 @@
 # Canto 12 — The Praise of Saint Dominic and the Gathering of the Saints
-- 12:31 lines 31-145 | speaker: (unattributed) | signal: none | flags: multi(Domenico;San Domenico), cross-scene
-- 12:78 lines 78-78 | speaker: Domenico | signal: strong | flags: -
+- 12:31 lines 31-145 | speaker: San Domenico | signal: strong | flags: cross-scene
+- 12:78 lines 78-78 | speaker: San Domenico | signal: strong | flags: -
 - 12:123 lines 123-123 | speaker: San Domenico | signal: strong | flags: -

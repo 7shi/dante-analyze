@@ -63,7 +63,7 @@
 {"canto": 5, "quote_id": "5:48", "lines": [48, 57], "speaker": "(unattributed)", "signal": "none", "flags": ["plural"]}
 {"canto": 5, "quote_id": "5:58", "lines": [58, 63], "speaker": "Dante", "signal": "strong", "flags": []}
 {"canto": 5, "quote_id": "5:64", "lines": [64, 84], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Pier della Vigna;uno)", "cross-scene"]}
-{"canto": 5, "quote_id": "5:85", "lines": [85, 90], "speaker": "Bonconte", "signal": "strong", "flags": []}
+{"canto": 5, "quote_id": "5:85", "lines": [85, 90], "speaker": "Bonconte di Montefeltro", "signal": "strong", "flags": []}
 {"canto": 5, "quote_id": "5:91", "lines": [91, 93], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 5, "quote_id": "5:94A", "lines": [94, 94], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 5, "quote_id": "5:94B", "lines": [94, 129], "speaker": "Bonconte di Montefeltro", "signal": "strong", "flags": ["cross-scene"]}
@@ -141,12 +141,12 @@
 {"canto": 10, "quote_id": "10:60A", "lines": [60, 60], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 10, "quote_id": "10:60B", "lines": [60, 60], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 10, "quote_id": "10:83", "lines": [83, 84], "speaker": "la miserella", "signal": "strong", "flags": []}
-{"canto": 10, "quote_id": "10:85", "lines": [85, 86], "speaker": "Traiano", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:85", "lines": [85, 86], "speaker": "Traiano imperadore", "signal": "strong", "flags": []}
 {"canto": 10, "quote_id": "10:86", "lines": [86, 86], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 10, "quote_id": "10:88A", "lines": [88, 88], "speaker": "(unattributed)", "signal": "none", "flags": []}
-{"canto": 10, "quote_id": "10:88B", "lines": [88, 89], "speaker": "Traiano", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:88B", "lines": [88, 89], "speaker": "Traiano imperadore", "signal": "strong", "flags": []}
 {"canto": 10, "quote_id": "10:89", "lines": [89, 90], "speaker": "(unattributed)", "signal": "none", "flags": []}
-{"canto": 10, "quote_id": "10:91", "lines": [91, 93], "speaker": "Traiano", "signal": "strong", "flags": []}
+{"canto": 10, "quote_id": "10:91", "lines": [91, 93], "speaker": "Traiano imperadore", "signal": "strong", "flags": []}
 {"canto": 10, "quote_id": "10:100", "lines": [100, 100], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 10, "quote_id": "10:101", "lines": [101, 102], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 10, "quote_id": "10:112", "lines": [112, 114], "speaker": "Dante", "signal": "strong", "flags": []}
@@ -213,7 +213,7 @@
 {"canto": 14, "quote_id": "14:24", "lines": [24, 24], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 14, "quote_id": "14:25", "lines": [25, 27], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 14, "quote_id": "14:29", "lines": [29, 66], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Spirto;l'ombra)", "cross-scene"]}
-{"canto": 14, "quote_id": "14:77", "lines": [77, 126], "speaker": "(unattributed)", "signal": "none", "flags": ["multi(Guido;Guido del Duca)", "cross-scene"]}
+{"canto": 14, "quote_id": "14:77", "lines": [77, 126], "speaker": "Guido del Duca", "signal": "strong", "flags": ["cross-scene"]}
 {"canto": 14, "quote_id": "14:133", "lines": [133, 133], "speaker": "la voce", "signal": "strong", "flags": []}
 {"canto": 14, "quote_id": "14:139", "lines": [139, 139], "speaker": "Aglauro", "signal": "strong", "flags": []}
 {"canto": 14, "quote_id": "14:143", "lines": [143, 151], "speaker": "(unattributed)", "signal": "none", "flags": []}
@@ -415,7 +415,7 @@
 {"canto": 26, "quote_id": "26:115A", "lines": [115, 115], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 26, "quote_id": "26:115B", "lines": [115, 116], "speaker": "Guido Guinizzelli", "signal": "strong", "flags": []}
 {"canto": 26, "quote_id": "26:117", "lines": [117, 132], "speaker": "Guido Guinizzelli", "signal": "weak", "flags": ["cross-scene"]}
-{"canto": 26, "quote_id": "26:140", "lines": [140, 147], "speaker": "Arnaut", "signal": "strong", "flags": ["cross-scene"]}
+{"canto": 26, "quote_id": "26:140", "lines": [140, 147], "speaker": "Arnaut Daniel", "signal": "strong", "flags": ["cross-scene"]}
 {"canto": 27, "quote_id": "27:8", "lines": [8, 8], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 27, "quote_id": "27:10", "lines": [10, 12], "speaker": "(unattributed)", "signal": "none", "flags": []}
 {"canto": 27, "quote_id": "27:20", "lines": [20, 32], "speaker": "Virgilio", "signal": "strong", "flags": []}

@@ -13,7 +13,7 @@
 - 5:48 lines 48-57 | speaker: (unattributed) | signal: none | flags: plural
 - 5:58 lines 58-63 | speaker: Dante | signal: strong | flags: -
 - 5:64 lines 64-84 | speaker: (unattributed) | signal: none | flags: multi(Pier della Vigna;uno), cross-scene
-- 5:85 lines 85-90 | speaker: Bonconte | signal: strong | flags: -
+- 5:85 lines 85-90 | speaker: Bonconte di Montefeltro | signal: strong | flags: -
 - 5:91 lines 91-93 | speaker: (unattributed) | signal: none | flags: -
 - 5:94A lines 94-94 | speaker: (unattributed) | signal: none | flags: -
 - 5:94B lines 94-129 | speaker: Bonconte di Montefeltro | signal: strong | flags: cross-scene

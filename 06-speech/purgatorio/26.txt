@@ -14,4 +14,4 @@
 - 26:115A lines 115-115 | speaker: (unattributed) | signal: none | flags: -
 - 26:115B lines 115-116 | speaker: Guido Guinizzelli | signal: strong | flags: -
 - 26:117 lines 117-132 | speaker: Guido Guinizzelli | signal: weak | flags: cross-scene
-- 26:140 lines 140-147 | speaker: Arnaut | signal: strong | flags: cross-scene
+- 26:140 lines 140-147 | speaker: Arnaut Daniel | signal: strong | flags: cross-scene
