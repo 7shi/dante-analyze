@@ -1,9 +1,11 @@
 include ../model.mk
 
-all:
+all: relations
+
+relations:
 	uv run relations.py inferno purgatorio paradiso -m $(MODEL)
 
 measure:
 	uv run measure.py
 
-.PHONY: all measure
+.PHONY: all relations measure

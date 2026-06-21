@@ -1,8 +1,9 @@
 include ../model.mk
 
-all:
+all: cohort rollup
+
+cohort:
 	uv run cohort.py inferno purgatorio paradiso -m $(MODEL)
-	uv run rollup.py inferno purgatorio paradiso
 
 # Code-only region consolidation (no model); safe to re-run any time.
 rollup:
@@ -11,4 +12,4 @@ rollup:
 measure:
 	uv run measure.py
 
-.PHONY: all rollup measure
+.PHONY: all cohort rollup measure

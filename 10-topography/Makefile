@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: topography
+
+topography:
 	uv run topography.py inferno purgatorio paradiso -m $(MODEL)
 
-.PHONY: all
+.PHONY: all topography

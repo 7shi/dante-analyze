@@ -263,12 +263,14 @@ uv run 05-registry/registry.py inferno       # one canticle (still gathers all t
 uv run dante-analyze registry show inferno   # read a committed registry file
 ```
 
-The full from-scratch identity build is a straight line across the two directories:
+The full from-scratch identity build is a straight line across the two directories. `make -C 04-tags`
+runs the whole 04-tags chain (tags -> typing -> coref) in order; the individual targets are below it:
 
 ```bash
-make -C 04-tags          # tags.py        (LLM)
-make -C 04-tags typing   # node_types.py  (LLM) -> 04-tags/types.txt
-make -C 04-tags coref    # coreference.py (LLM) -> 04-tags/coref.txt   (then review it)
+make -C 04-tags          # full 04-tags chain in order:
+                         #   tags.py        (LLM)
+                         #   node_types.py  (LLM) -> 04-tags/types.txt
+                         #   coreference.py (LLM) -> 04-tags/coref.txt   (then review it)
 make -C 05-registry      # registry.py    (pure code) -> 05-registry/<canticle>.txt
 ```
 

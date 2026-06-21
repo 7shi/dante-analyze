@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: markup
+
+markup:
 	uv run markup.py inferno purgatorio paradiso -m $(MODEL)
 
-.PHONY: all
+.PHONY: all markup

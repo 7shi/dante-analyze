@@ -1,4 +1,6 @@
-all:
+all: digest
+
+digest:
 	uv run digest.py inferno purgatorio paradiso
 
 # Measure 14-lock conformance of the committed digest (the proof; no LLM).
@@ -9,4 +11,4 @@ check:
 clean:
 	rm -rf inferno purgatorio paradiso
 
-.PHONY: all check clean
+.PHONY: all digest check clean

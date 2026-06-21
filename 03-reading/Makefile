@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: reading
+
+reading:
 	uv run reading.py inferno purgatorio paradiso -m $(MODEL)
 
-.PHONY: all
+.PHONY: all reading

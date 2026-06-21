@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: location
+
+location:
 	uv run location.py inferno purgatorio paradiso -m $(MODEL)
 
-.PHONY: all
+.PHONY: all location

@@ -5,9 +5,9 @@ ordered, gap-free **scenes**, the unit the whole pipeline iterates over. Every d
 this split with `load_scenes(canticle, canto)` → `(canto_title, [(start, end, scene_name), …])`, so
 the scene boundaries decided here fix the granularity of markup, reading, tags, and the KG.
 
-It is a **dev-only** builder (`uv sync --group dev`): the segmentation is committed, so a normal run
-of the pipeline never re-invokes it. It reads the source straight from `dante-corpus` (no upstream
-analysis pass).
+It is a **regenerate-only** builder: the segmentation is committed, so a normal run of the pipeline
+never re-invokes it (no special dependencies — the standard `uv sync` is enough). It reads the source
+straight from `dante-corpus` (no upstream analysis pass).
 
 ## What it does
 
@@ -71,7 +71,6 @@ generated.
 ## Usage
 
 ```bash
-uv sync --group dev                                    # dev-only builder
 make -C 01-scenes                                      # all three canticles → <canticle>.md + NN.json
 uv run 01-scenes/scenes.py inferno --outdir .          # one canticle
 uv run 01-scenes/scenes.py inferno -c 1 -o /tmp/x.md   # one canto (testing)

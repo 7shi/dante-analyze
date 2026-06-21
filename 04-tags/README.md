@@ -137,7 +137,8 @@ single-process constraint, and the review gate — is documented in
 
 ```bash
 uv run 04-tags/tags.py inferno [-c 1] [-m MODEL] [--no-think]
-make -C 04-tags          # all canticles (tags only)
+make -C 04-tags          # full identity build, in order: tags -> typing -> coref
+make -C 04-tags tags     # tags.py only — all canticles
 
 make -C 04-tags typing   # (re)build types.txt — the typing cache; prerequisite for coref + registry
 make -C 04-tags coref    # (re)generate coref.txt — needs 04-tags/types.txt; review before commit

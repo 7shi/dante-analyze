@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: presence
+
+presence:
 	uv run presence.py inferno purgatorio paradiso -m $(MODEL)
 
-.PHONY: all
+.PHONY: all presence

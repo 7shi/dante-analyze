@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: scenes
+
+scenes:
 	uv run scenes.py inferno purgatorio paradiso --outdir . -m $(MODEL)
 
-.PHONY: all
+.PHONY: all scenes

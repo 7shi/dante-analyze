@@ -1,4 +1,6 @@
-all:
+all: speech
+
+speech:
 	uv run speech.py inferno purgatorio paradiso
 
-.PHONY: all
+.PHONY: all speech

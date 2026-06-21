@@ -1,6 +1,8 @@
 include ../model.mk
 
-all:
+all: addressee
+
+addressee:
 	uv run addressee.py inferno purgatorio paradiso -m $(MODEL)
 
-.PHONY: all
+.PHONY: all addressee
