@@ -102,10 +102,19 @@ makes explicit (each line names its canto).
 
 ---
 
-## Resolved (folded into the pending 11→15 rebuild)
+## Resolved (built through 08-kg; 11→15 LLM rebuild pending)
 
 Both were **upstream** defects (04-tags typing / shared `Nodes` node construction), fixed before the
 LLM rebuild so they propagate through it once rather than forcing a second pass.
+
+> **Build status (2026-06-21).** Implemented and rebuilt through the code passes: `04-tags/types.txt`
+> regenerated (`individual` 973, `class` 620, `non-person` 503, `generic` 249, **`deictic` 181**,
+> `hypothetical-simile` 27), `05-registry` re-rendered (172 `set` nodes), and `08-kg` reassembled.
+> Because items 1 & 2 leave `load_tags` unchanged — they only re-type and re-structure nodes, not the
+> raw tags — the rebuild touched **only** the typing cache, the registry, and `08-kg/.../nodes.jsonl`
+> (node types/sets): **06-speech was byte-unchanged**, 08-kg edges/speech_edges unchanged, and
+> 07-relations / 09-location / 10-topography are independent. The remaining cost is the **11→15 LLM
+> rebuild** (clear the per-scene caches for changed cantos, then rerun — see the order below).
 
 1. **Demonstrative / periphrastic labels** (`quel X`, `colui che …`, one-off descriptions) — now
    typed **`deictic`** deterministically (`is_deictic`, `dante_analyze/labels.py`; a label led by a

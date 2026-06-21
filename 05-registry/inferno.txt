@@ -258,6 +258,12 @@
 - surfaces: tu (5), lettor (4), te (2), ti (2)
 - grouped: no
 
+## spiriti
+- type: class
+- labels: spiriti
+- surfaces: elli (3), noi (3), questi (2), spiriti (2), e' (1), ei (1), li (1)
+- grouped: no
+
 ## Frate Gomita
 - type: individual
 - labels: Frate Gomita
@@ -272,6 +278,18 @@
 - type: individual
 - labels: Pier della Vigna | Pier delle Vigne
 - surfaces: io (2), me (2), Chi (1), I' (1), Io (1), ei (1), el (1), elli (1), lui (1), si (1)
+
+## li altri
+- type: generic
+- labels: li altri
+- surfaces: li altri (6), li (3), elli (2), dal concilio (1)
+- grouped: no
+
+## morte
+- type: non-person
+- labels: morte | la morte
+- surfaces: egli (2), la morte (2), tu (2), 'l (1), due (1), l'altro (1), li (1), morte (1), sé (1)
+- grouped: no
 
 ## Bertram dal Bornio
 - type: individual
@@ -311,12 +329,6 @@
 ## Virgilio, Dante
 - type: set
 - members: Virgilio | Dante
-
-## morte
-- type: non-person
-- labels: morte | la morte
-- surfaces: egli (2), la morte (2), tu (2), 'l (1), l'altro (1), li (1), morte (1), sé (1)
-- grouped: no
 
 ## natura
 - type: non-person
@@ -364,12 +376,6 @@
 - type: non-person
 - labels: l tronco
 - surfaces: i' (2), io (2), m' (2), Io (1), colui (1), l tronco (1), ïo (1)
-- grouped: no
-
-## spiriti
-- type: class
-- labels: spiriti
-- surfaces: elli (3), questi (2), spiriti (2), e' (1), ei (1), li (1)
 - grouped: no
 
 ## un de' tristi
@@ -436,6 +442,12 @@
 - surfaces: i peccatori (3), elli (2), alcun de' peccatori (1), chi (1), ei (1), si (1)
 - grouped: no
 
+## il serpente
+- type: non-person
+- labels: il serpente | 'l serpente
+- surfaces:  'l serpente  (1), due figure miste (1), due perduti (1), ei (1), l'imagine perversa (1), l'un (1), l'uno (1), si (1), tal (1)
+- grouped: no
+
 ## l capo tronco
 - type: non-person
 - labels: l capo tronco
@@ -499,6 +511,12 @@
 - surfaces: cherci (3), Questi (1), chercuti (1), lerci (1), litterati grandi e di gran fama (1), quella turba grama (1)
 - grouped: no
 
+## compagni
+- type: class
+- labels: compagni | i compagni
+- surfaces: voi (4), ' compagni (1), frati (1), i compagni (1), noi (1)
+- grouped: no
+
 ## due becchi
 - type: non-person
 - labels: due becchi
@@ -527,12 +545,6 @@
 - type: class
 - labels: le genti | genti | Genti
 - surfaces: elli (2), genti (2), le genti (2), Genti (1), le (1)
-- grouped: no
-
-## li altri
-- type: generic
-- labels: li altri
-- surfaces: li altri (6), dal concilio (1), elli (1)
 - grouped: no
 
 ## un'ombra
@@ -575,12 +587,6 @@
 - surfaces: Questi (1), donno (1), l'arcivescovo Ruggieri (1), lui (1), maestro (1), questi (1), s' (1)
 - grouped: no
 
-## compagni
-- type: class
-- labels: compagni | i compagni
-- surfaces: voi (4), ' compagni (1), frati (1), i compagni (1)
-- grouped: no
-
 ## i fiorentini
 - type: class
 - labels: i fiorentini | fiorentini
@@ -612,13 +618,13 @@
 - grouped: no
 
 ## quei de la palude pingue
-- type: class
+- type: deictic
 - labels: quei de la palude pingue
 - surfaces: elli (2), li (2), ei (1), quei (1), s' (1)
 - grouped: no
 
 ## quel peccator
-- type: generic
+- type: deictic
 - labels: quel peccator
 - surfaces: io (2), egli (1), elli (1), i' (1), mi (1), quel peccator (1)
 - grouped: no
@@ -712,6 +718,12 @@
 - labels: Ovidio
 - surfaces: Ovidio (2), ei (2), 'l terzo (1), lo (1)
 
+## Rubicante pazzo
+- type: individual
+- labels: Rubicante pazzo
+- surfaces: tu (3), Rubicante (1), Rubicante pazzo (1), voi (1)
+- grouped: no
+
 ## San Pietro
 - type: individual
 - labels: San Pietro | san Pietro
@@ -757,6 +769,12 @@
 - surfaces: elli (4), quello imperador (1), sé (1)
 - grouped: no
 
+## la falsa
+- type: individual
+- labels: la falsa
+- surfaces: elli (3), la falsa (1), li (1), una (1)
+- grouped: no
+
 ## la parte selvaggia
 - type: non-person
 - labels: la parte selvaggia
@@ -788,13 +806,13 @@
 - grouped: no
 
 ## quel cane
-- type: individual
+- type: deictic
 - labels: quel cane
 - surfaces: egli (4), quel cane (1), si (1)
 - grouped: no
 
 ## quel grande
-- type: individual
+- type: deictic
 - labels: quel grande
 - surfaces: ei (3), 'l (1), chi (1), quel grande (1)
 - grouped: no
@@ -890,12 +908,6 @@
 - type: set
 - members: Omero | Orazio | Ovidio | Lucano
 
-## Rubicante pazzo
-- type: individual
-- labels: Rubicante pazzo
-- surfaces: tu (3), Rubicante (1), Rubicante pazzo (1)
-- grouped: no
-
 ## Ser Brunetto Latino
 - type: individual
 - labels: Ser Brunetto Latino
@@ -936,7 +948,7 @@
 - grouped: no
 
 ## quel cattivo coro de li angeli
-- type: class
+- type: deictic
 - labels: quel cattivo coro de li angeli
 - surfaces: elli (2), li angeli (1), quel cattivo coro (1), sé (1)
 - grouped: no
@@ -1028,6 +1040,12 @@
 - type: individual
 - labels: Caron
 - surfaces: Caron (2), dimonio (1), egli (1)
+
+## Cirïatto sannuto
+- type: individual
+- labels: Cirïatto sannuto
+- surfaces: Cirïatto (1), Cirïatto sannuto (1), ei (1), voi (1)
+- grouped: no
 
 ## Clemente V
 - type: individual
@@ -1132,10 +1150,8 @@
 - surfaces: ei (2), Tiresia (1), l padre suo (1)
 
 ## Ulisse, i suoi compagni
-- type: individual
-- labels: Ulisse, i suoi compagni
-- surfaces: noi (2), Noi (1), ci (1)
-- grouped: no
+- type: set
+- members: Ulisse | i suoi compagni
 
 ## Vulcano
 - type: individual
@@ -1167,7 +1183,7 @@
 - grouped: no
 
 ## colui che suo dannaggio sogna
-- type: hypothetical-simile
+- type: deictic
 - labels: colui che suo dannaggio sogna
 - surfaces: egli (2), colui (1), quel (1)
 - grouped: no
@@ -1190,6 +1206,12 @@
 - surfaces: 'l figlio (1), figlio (1), il figlio (1), lui (1)
 - grouped: no
 
+## i figli di Ugolino
+- type: class
+- labels: i figli di Ugolino
+- surfaces: elli (1), li (1), li tre (1), noi (1)
+- grouped: no
+
 ## i figliuoli di Ugolino
 - type: class
 - labels: i figliuoli di Ugolino
@@ -1202,16 +1224,16 @@
 - surfaces: li (2), i peccator carnali (1), li spiriti mali (1)
 - grouped: no
 
+## i suoi compagni
+- type: individual
+- labels: i suoi compagni
+- surfaces: noi (2), Noi (1), ci (1)
+- grouped: no
+
 ## il peccatore padovano
 - type: individual
 - labels: il peccatore padovano
 - surfaces: lui (4)
-- grouped: no
-
-## il serpente
-- type: non-person
-- labels: il serpente | 'l serpente
-- surfaces:  'l serpente  (1), l'un (1), l'uno (1), si (1)
 - grouped: no
 
 ## incontinenti
@@ -1266,32 +1288,50 @@
 - surfaces: chi (1), li (1), lo (1), lo sciagurato (1)
 - grouped: no
 
+## messer Guido
+- type: individual
+- labels: messer Guido
+- surfaces: due miglior da Fano (1), elli (1), messer Guido (1), venirli (1)
+- grouped: no
+
 ## nemici
 - type: class
 - labels: nemici | i nemici
 - surfaces: i nemici (1), lor (1), nemici (1), se (1)
 - grouped: no
 
+## prossimo
+- type: generic
+- labels: prossimo
+- surfaces: prossimo (2), loro (1), tre persone (1)
+- grouped: no
+
+## quattro visi
+- type: non-person
+- labels: quattro visi
+- surfaces: noi (2), ci (1), quattro visi (1)
+- grouped: no
+
 ## quei che volontieri acquista
-- type: class
+- type: deictic
 - labels: quei che volontieri acquista
 - surfaces: ei (1), lo (1), quei (1), s' (1)
 - grouped: no
 
 ## quei più che cagion fu del difetto
-- type: individual
+- type: deictic
 - labels: quei più che cagion fu del difetto
 - surfaces: elli (2), quei (1), si (1)
 - grouped: no
 
 ## quelle genti
-- type: class
+- type: deictic
 - labels: quelle genti
 - surfaces: elli (1), quai (1), quelle genti (1), si (1)
 - grouped: no
 
 ## questa fiamma
-- type: non-person
+- type: deictic
 - labels: questa fiamma
 - surfaces: i' (2), io (1), questa fiamma (1)
 - grouped: no
@@ -1367,12 +1407,6 @@
 - labels: Celestino V
 - surfaces: colui (1), l mio antecessor (1), ombra (1)
 
-## Cirïatto sannuto
-- type: individual
-- labels: Cirïatto sannuto
-- surfaces: Cirïatto (1), Cirïatto sannuto (1), ei (1)
-- grouped: no
-
 ## Costantino
 - type: individual
 - labels: Costantino
@@ -1402,10 +1436,8 @@
 - members: Farinata | Tegghiaio | Iacopo Rusticucci | Arrigo | Mosca
 
 ## Farinata, le anime dell'Inferno
-- type: class
-- labels: Farinata, le anime dell'Inferno
-- surfaces: Noi (1), ci (1), noi (1)
-- grouped: no
+- type: set
+- members: Farinata | le anime dell'Inferno
 
 ## Filosofia
 - type: non-person
@@ -1457,6 +1489,12 @@
 - labels: Lancialotto
 - surfaces: Lancialotto (1), cotanto amante (1), lo (1)
 
+## Li miei compagni
+- type: class
+- labels: Li miei compagni | li miei compagni
+- surfaces: Li miei compagni (1), li (1), noi (1)
+- grouped: no
+
 ## Lo maggior corno
 - type: non-person
 - labels: Lo maggior corno
@@ -1504,7 +1542,7 @@
 - surfaces: Puccio Sciancato (1), ei (1), quel (1)
 
 ## Questi sciaurati
-- type: class
+- type: deictic
 - labels: Questi sciaurati
 - surfaces: Questi sciaurati (1), elli (1), lor (1)
 - grouped: no
@@ -1569,7 +1607,7 @@
 - grouped: no
 
 ## colui che va giuso
-- type: individual
+- type: deictic
 - labels: colui che va giuso
 - surfaces: si (2), colui (1)
 - grouped: no
@@ -1590,12 +1628,6 @@
 - type: class
 - labels: i campion
 - surfaces: elli (1), i campion (1), lor (1)
-- grouped: no
-
-## i figli di Ugolino
-- type: class
-- labels: i figli di Ugolino
-- surfaces: elli (1), li (1), li tre (1)
 - grouped: no
 
 ## i miseri profani
@@ -1682,6 +1714,12 @@
 - surfaces: la moglie (1), quella (1), s' (1)
 - grouped: no
 
+## le anime dell'Inferno
+- type: class
+- labels: le anime dell'Inferno
+- surfaces: Noi (1), ci (1), noi (1)
+- grouped: no
+
 ## le brutte Arpie
 - type: class
 - labels: le brutte Arpie
@@ -1722,26 +1760,26 @@
 - type: set
 - members: messer Guido | Angiolello
 
+## miser
+- type: generic
+- labels: miser
+- surfaces: loro (1), miser (1), quel (1)
+- grouped: no
+
 ## persona
 - type: generic
 - labels: persona
 - surfaces: persona (3)
 - grouped: no
 
-## quattro visi
-- type: non-person
-- labels: quattro visi
-- surfaces: ci (1), noi (1), quattro visi (1)
-- grouped: no
-
 ## quei ch'adopera ed estima
-- type: class
+- type: deictic
 - labels: quei ch'adopera ed estima
 - surfaces: egli (1), quei (1), si (1)
 - grouped: no
 
 ## quella gente stanca
-- type: class
+- type: deictic
 - labels: quella gente stanca
 - surfaces: ella (1), loro (1), quella gente stanca (1)
 - grouped: no
@@ -1753,7 +1791,7 @@
 - grouped: no
 
 ## queste misere carni
-- type: non-person
+- type: deictic
 - labels: queste misere carni
 - surfaces: le (1), ne (1), queste misere carni (1)
 - grouped: no
@@ -1774,6 +1812,12 @@
 - type: non-person
 - labels: serpenti
 - surfaces: elle (2), quelle (1)
+- grouped: no
+
+## the second spirit who was transformed
+- type: individual
+- labels: the second spirit who was transformed
+- surfaces: l'altr' (1), quel (1), tre compagni (1)
 - grouped: no
 
 ## tre fiorentini
@@ -1941,10 +1985,8 @@
 - surfaces: il mio alto fattore (1), la divina podestate (1)
 
 ## Dio, sé, prossimo
-- type: generic
-- labels: Dio, sé, prossimo
-- surfaces: loro (1), tre persone (1)
-- grouped: no
+- type: set
+- members: Dio | sé | prossimo
 
 ## Draghignazzo
 - type: individual
@@ -2012,10 +2054,8 @@
 - surfaces: il Vangelista (1), lui (1)
 
 ## Guido, Alessandro, il fratello
-- type: individual
-- labels: Guido, Alessandro, il fratello
-- surfaces: elli (1), lor (1)
-- grouped: no
+- type: set
+- members: Guido | Alessandro | il fratello
 
 ## Isifile
 - type: individual
@@ -2046,12 +2086,6 @@
 - type: individual
 - labels: Li altri due
 - surfaces: Li altri due (1), egli (1)
-- grouped: no
-
-## Li miei compagni
-- type: class
-- labels: Li miei compagni
-- surfaces: Li miei compagni (1), li (1)
 - grouped: no
 
 ## Lo caldo sghermitor
@@ -2135,6 +2169,12 @@
 - surfaces: a' marinar (1), s' (1)
 - grouped: no
 
+## altri
+- type: generic
+- labels: altri
+- surfaces: altri (1), quei (1)
+- grouped: no
+
 ## anima fella
 - type: generic
 - labels: anima fella
@@ -2154,13 +2194,13 @@
 - grouped: no
 
 ## chi guarda sottilmente
-- type: generic
+- type: deictic
 - labels: chi guarda sottilmente
 - surfaces: chi (1), egli (1)
 - grouped: no
 
 ## chi non si pente
-- type: class
+- type: deictic
 - labels: chi non si pente
 - surfaces: chi (1), si (1)
 - grouped: no
@@ -2184,7 +2224,7 @@
 - grouped: no
 
 ## coloro che corrono a Verona
-- type: class
+- type: deictic
 - labels: coloro che corrono a Verona
 - surfaces: coloro (1), costoro (1)
 - grouped: no
@@ -2196,13 +2236,13 @@
 - grouped: no
 
 ## colui che 'l mondo schiara
-- type: individual
+- type: deictic
 - labels: colui che 'l mondo schiara
 - surfaces: colui (1), egli (1)
 - grouped: no
 
 ## colui che sì presso ha 'l riprezzo de la quartana
-- type: individual
+- type: deictic
 - labels: colui che sì presso ha 'l riprezzo de la quartana
 - surfaces: colui (1), ei (1)
 - grouped: no
@@ -2279,6 +2319,12 @@
 - surfaces: i falsador (1), li spirti (1)
 - grouped: no
 
+## i figli
+- type: class
+- labels: i figli | figli
+- surfaces: figli (1), lor (1)
+- grouped: no
+
 ## i morti
 - type: class
 - labels: i morti
@@ -2301,6 +2347,12 @@
 - type: individual
 - labels: il diavolo | Un diavolo
 - surfaces: Un diavolo (1), il diavolo (1)
+- grouped: no
+
+## il fratello
+- type: individual
+- labels: il fratello
+- surfaces: elli (1), lor (1)
 - grouped: no
 
 ## il messaggero
@@ -2453,12 +2505,6 @@
 - surfaces: la donna (2)
 - grouped: no
 
-## la falsa
-- type: individual
-- labels: la falsa
-- surfaces: la falsa (1), una (1)
-- grouped: no
-
 ## la fiamma cornuta
 - type: non-person
 - labels: la fiamma cornuta
@@ -2585,10 +2631,10 @@
 - surfaces: ella (2)
 - grouped: no
 
-## miser
-- type: generic
-- labels: miser
-- surfaces: miser (1), quel (1)
+## lor frate
+- type: individual
+- labels: lor frate
+- surfaces: l'anima trista (1), lor frate (1)
 - grouped: no
 
 ## molta gente
@@ -2615,12 +2661,6 @@
 - surfaces: plebe (1), voi (1)
 - grouped: no
 
-## prossimo
-- type: generic
-- labels: prossimo
-- surfaces: prossimo (2)
-- grouped: no
-
 ## que' cittadin
 - type: class
 - labels: que' cittadin
@@ -2634,37 +2674,37 @@
 - grouped: no
 
 ## quei che 'l fenno
-- type: class
+- type: deictic
 - labels: quei che 'l fenno
 - surfaces: chi (1), quei (1)
 - grouped: no
 
 ## quei che con lena affannata, uscito fuor del pelago a la riva
-- type: class
+- type: deictic
 - labels: quei che con lena affannata, uscito fuor del pelago a la riva
 - surfaces: quei (1), si (1)
 - grouped: no
 
 ## quei che disvuol ciò che volle
-- type: class
+- type: deictic
 - labels: quei che disvuol ciò che volle
 - surfaces: ei (1), quei (1)
 - grouped: no
 
 ## quei che scommettendo acquistan carco
-- type: class
+- type: deictic
 - labels: quei che scommettendo acquistan carco
 - surfaces: quei (1), si (1)
 - grouped: no
 
 ## quel caduto
-- type: individual
+- type: deictic
 - labels: quel caduto
 - surfaces: i (1), quel caduto (1)
 - grouped: no
 
 ## questa gente maladetta
-- type: class
+- type: deictic
 - labels: questa gente maladetta
 - surfaces: ella (1), questa gente maladetta (1)
 - grouped: no
@@ -2709,16 +2749,16 @@
 - surfaces: lui (1), suo compagno (1)
 - grouped: no
 
+## sé
+- type: individual
+- labels: sé
+- surfaces: loro (1), tre persone (1)
+- grouped: no
+
 ## the event involving Florence and Prato
 - type: non-person
 - labels: the event involving Florence and Prato
 - surfaces: ei (2)
-- grouped: no
-
-## the second spirit who was transformed
-- type: individual
-- labels: the second spirit who was transformed
-- surfaces: l'altr' (1), quel (1)
 - grouped: no
 
 ## tiranni
@@ -2755,6 +2795,12 @@
 - type: non-person
 - labels: turbo
 - surfaces: esso (2)
+- grouped: no
+
+## tutti li altri
+- type: class
+- labels: tutti li altri
+- surfaces: noi (1), tutti li altri (1)
 - grouped: no
 
 ## umana gente
@@ -3093,10 +3139,8 @@
 - members: Dante | Guido Guerra | Tegghiaio Aldobrandi | Iacopo Rusticucci
 
 ## Dante, noble souls of Limbo
-- type: class
-- labels: Dante, noble souls of Limbo
-- surfaces: voi (1)
-- grouped: no
+- type: set
+- members: Dante | noble souls of Limbo
 
 ## Dedalo
 - type: hypothetical-simile
@@ -3320,10 +3364,8 @@
 - members: Guido | Alessandro | lor frate
 
 ## Guido, Alessandro, their brother
-- type: individual
-- labels: Guido, Alessandro, their brother
-- surfaces: lui (1)
-- grouped: no
+- type: set
+- members: Guido | Alessandro | their brother
 
 ## Inferno
 - type: non-person
@@ -3713,7 +3755,7 @@
 - surfaces: Stricca (1)
 
 ## Tale
-- type: individual
+- type: deictic
 - labels: Tale
 - surfaces: Tale (1)
 
@@ -3828,10 +3870,8 @@
 - members: Virgilio | altri
 
 ## Virgilio, le ombre di Limbo
-- type: individual
-- labels: Virgilio, le ombre di Limbo
-- surfaces: ci (1)
-- grouped: no
+- type: set
+- members: Virgilio | le ombre di Limbo
 
 ## Zenone
 - type: individual
@@ -3902,12 +3942,6 @@
 - type: class
 - labels: altra schiera
 - surfaces: altra schiera (1)
-- grouped: no
-
-## altri
-- type: generic
-- labels: altri
-- surfaces: altri (1)
 - grouped: no
 
 ## amore
@@ -4001,43 +4035,43 @@
 - grouped: no
 
 ## chi affattura
-- type: generic
+- type: deictic
 - labels: chi affattura
 - surfaces: chi (1)
 - grouped: no
 
 ## chi conduce
-- type: individual
+- type: deictic
 - labels: chi conduce
 - surfaces: chi (1)
 - grouped: no
 
 ## chi creda
-- type: generic
+- type: deictic
 - labels: chi creda
 - surfaces: chi (1)
 - grouped: no
 
 ## chi l'avea temperato con sua lima
-- type: hypothetical-simile
+- type: deictic
 - labels: chi l'avea temperato con sua lima
 - surfaces: colui (1)
 - grouped: no
 
 ## chi la 'ntende
-- type: generic
+- type: deictic
 - labels: chi la 'ntende
 - surfaces: chi (1)
 - grouped: no
 
 ## chi lo scrisse
-- type: generic
+- type: deictic
 - labels: chi lo scrisse
 - surfaces: chi (1)
 - grouped: no
 
 ## chi sù fosse
-- type: hypothetical-simile
+- type: deictic
 - labels: chi sù fosse
 - surfaces: chi (1)
 - grouped: no
@@ -4061,7 +4095,7 @@
 - grouped: no
 
 ## ciò
-- type: non-person
+- type: deictic
 - labels: ciò
 - surfaces: c' (1)
 - grouped: no
@@ -4073,25 +4107,25 @@
 - grouped: no
 
 ## colui che 'n lui fida
-- type: generic
+- type: deictic
 - labels: colui che 'n lui fida
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che mal volontier vegghia
-- type: generic
+- type: deictic
 - labels: colui che mal volontier vegghia
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che perde
-- type: generic
+- type: deictic
 - labels: colui che perde
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che venire sente 'l porco e la caccia a la sua posta
-- type: hypothetical-simile
+- type: deictic
 - labels: colui che venire sente 'l porco e la caccia a la sua posta
 - surfaces: colui (1)
 - grouped: no
@@ -4356,12 +4390,6 @@
 - type: class
 - labels: i dèi | dèi
 - surfaces: dèi (1)
-- grouped: no
-
-## i figli
-- type: class
-- labels: i figli | figli
-- surfaces: figli (1)
 - grouped: no
 
 ## i figli di Israèl
@@ -4712,11 +4740,15 @@
 - surfaces: la mattia (1)
 - grouped: no
 
-## la moglie di Potifare, Sinone
+## la moglie di Potifare
 - type: individual
-- labels: la moglie di Potifare, Sinone
+- labels: la moglie di Potifare
 - surfaces: lor (1)
 - grouped: no
+
+## la moglie di Potifare, Sinone
+- type: set
+- members: la moglie di Potifare | Sinone
 
 ## la morte mia
 - type: non-person
@@ -4872,6 +4904,12 @@
 - type: non-person
 - labels: le letane
 - surfaces: le letane (1)
+- grouped: no
+
+## le ombre di Limbo
+- type: class
+- labels: le ombre di Limbo
+- surfaces: ci (1)
 - grouped: no
 
 ## le parole dell'anima
@@ -5096,12 +5134,6 @@
 - surfaces: quella (1)
 - grouped: no
 
-## lor frate
-- type: individual
-- labels: lor frate
-- surfaces: lor frate (1)
-- grouped: no
-
 ## lor parenti
 - type: class
 - labels: lor parenti
@@ -5136,12 +5168,6 @@
 - type: non-person
 - labels: membra
 - surfaces: si (1)
-- grouped: no
-
-## messer Guido
-- type: individual
-- labels: messer Guido
-- surfaces: messer Guido (1)
 - grouped: no
 
 ## mille anime distrutte
@@ -5206,6 +5232,12 @@
 - type: class
 - labels: nemici cotanti
 - surfaces: nemici cotanti (1)
+- grouped: no
+
+## noble souls of Limbo
+- type: class
+- labels: noble souls of Limbo
+- surfaces: voi (1)
 - grouped: no
 
 ## nostre spoglie
@@ -5383,37 +5415,37 @@
 - grouped: no
 
 ## quei c'ha mala luce
-- type: individual
+- type: deictic
 - labels: quei c'ha mala luce
 - surfaces: quei (1)
 - grouped: no
 
 ## quei cui l'ira dentro fiacca
-- type: generic
+- type: deictic
 - labels: quei cui l'ira dentro fiacca
 - surfaces: quei (1)
 - grouped: no
 
 ## quel ch'i' ho di lui nel cielo udito
-- type: individual
+- type: deictic
 - labels: quel ch'i' ho di lui nel cielo udito
 - surfaces: quel (1)
 - grouped: no
 
 ## quel che fidanza non imborsa
-- type: generic
+- type: deictic
 - labels: quel che fidanza non imborsa
 - surfaces: quel (1)
 - grouped: no
 
 ## quel di Brescia
-- type: individual
+- type: deictic
 - labels: quel di Brescia
 - surfaces: quel (1)
 - grouped: no
 
 ## quel vento
-- type: non-person
+- type: deictic
 - labels: quel vento
 - surfaces: quel vento (1)
 - grouped: no
@@ -5425,13 +5457,13 @@
 - grouped: no
 
 ## quella compagna
-- type: individual
+- type: deictic
 - labels: quella compagna
 - surfaces: quella compagna (1)
 - grouped: no
 
 ## quella lettura
-- type: non-person
+- type: deictic
 - labels: quella lettura
 - surfaces: ella (1)
 - grouped: no
@@ -5449,37 +5481,37 @@
 - grouped: no
 
 ## questa cruda e tristissima copia
-- type: class
+- type: deictic
 - labels: questa cruda e tristissima copia
 - surfaces: questa cruda e tristissima copia (1)
 - grouped: no
 
 ## questa gente sconcia
-- type: class
+- type: deictic
 - labels: questa gente sconcia
 - surfaces: questa gente sconcia (1)
 - grouped: no
 
 ## questa risma
-- type: class
+- type: deictic
 - labels: questa risma
 - surfaces: questa risma (1)
 - grouped: no
 
 ## questi coi crin mozzi
-- type: individual
+- type: deictic
 - labels: questi coi crin mozzi
 - surfaces: questi (1)
 - grouped: no
 
 ## questi col pugno chiuso
-- type: individual
+- type: deictic
 - labels: questi col pugno chiuso
 - surfaces: questi (1)
 - grouped: no
 
 ## questi felli
-- type: class
+- type: deictic
 - labels: questi felli
 - surfaces: questi felli (1)
 - grouped: no
@@ -5616,6 +5648,12 @@
 - surfaces: color (1)
 - grouped: no
 
+## their brother
+- type: individual
+- labels: their brother
+- surfaces: lui (1)
+- grouped: no
+
 ## tre anime fiorentine
 - type: class
 - labels: tre anime fiorentine
@@ -5626,12 +5664,6 @@
 - type: class
 - labels: troiane
 - surfaces: troiane (1)
-- grouped: no
-
-## tutti li altri
-- type: class
-- labels: tutti li altri
-- surfaces: tutti li altri (1)
 - grouped: no
 
 ## tutti li maschi

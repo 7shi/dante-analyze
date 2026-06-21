@@ -32,7 +32,7 @@
 ## anime
 - type: class
 - labels: anime | le anime | L'anime | l'anime | Anime
-- surfaces: elli (15), voi (7), si (5), color (4), l'anime (4), anime (3), chi (3), lor (3), vi (3), Voi (2), costor (2), Anime (1), L'anime (1), anime fortunate (1), beati (1), due (1), ei (1), esse (1), essi (1), io (1), loro (1), noi (1), s' (1), sé (1), v' (1)
+- surfaces: elli (16), voi (7), noi (6), si (5), chi (4), color (4), l'anime (4), anime (3), lor (3), vi (3), Voi (2), costor (2), Anime (1), L'anime (1), anime fortunate (1), beati (1), ci (1), due (1), ei (1), esse (1), essi (1), io (1), loro (1), s' (1), sé (1), v' (1)
 - grouped: no
 
 ## Forese
@@ -207,6 +207,11 @@
 - labels: Maria
 - surfaces: Maria (9), tu (2), Dolce Maria (1), Regina (1), ancilla (1), ella (1), quella (1)
 
+## Spirto
+- type: generic
+- labels: Spirto | lo spirto | spirto
+- surfaces: tu (3), Chi (1), Io (1), Spirto (1), ei (1), io (1), l'alma (1), l'altra (1), lo spirto (1), m' (1), mi (1), ne (1), quella creatura (1), t' (1)
+
 ## i superbi
 - type: class
 - labels: i superbi
@@ -233,11 +238,6 @@
 - type: individual
 - labels: Pier della Vigna
 - surfaces: io (9), m' (2), Pier (1), i' (1), l'altro (1), mi (1)
-
-## Spirto
-- type: generic
-- labels: Spirto | lo spirto | spirto
-- surfaces: tu (3), Chi (1), Io (1), Spirto (1), ei (1), io (1), l'alma (1), l'altra (1), lo spirto (1), m' (1), mi (1), quella creatura (1), t' (1)
 
 ## Virgilio, Dante
 - type: set
@@ -283,7 +283,7 @@
 - grouped: no
 
 ## colui che perde
-- type: generic
+- type: deictic
 - labels: colui che perde
 - surfaces: el (6), si (2), colui (1), il (1), li (1), s' (1)
 - grouped: no
@@ -345,10 +345,22 @@
 - surfaces: li angeli (3), elli (2), io (1), l'altro (1), l'uno (1), li astor celestïali (1)
 - grouped: no
 
+## ninfe
+- type: class
+- labels: ninfe | le ninfe
+- surfaces: ninfe (2), noi (2), Noi (1), ancelle (1), elli (1), si (1), stelle (1)
+- grouped: no
+
 ## virtù
 - type: non-person
 - labels: virtù | la Virtù
 - surfaces: ella (3), si (2), la Virtù (1), s' (1), ti (1), virtù (1)
+- grouped: no
+
+## 'l buon Gherardo
+- type: individual
+- labels: 'l buon Gherardo
+- surfaces: 'l buon Gherardo (1), del buon Gherardo (1), li (1), lor (1), qual Gherardo (1), quel (1), saggio (1), tre vecchi (1)
 - grouped: no
 
 ## Cristiani
@@ -389,16 +401,22 @@
 - surfaces: noi (3), Noi (1), elli (1), n' (1), ne (1), peccatori (1)
 - grouped: no
 
+## le donne
+- type: class
+- labels: le donne | donne | Donne
+- surfaces: donne (2), le donne (2), Donne (1), il benedetto carco (1), quelle (1), si (1)
+- grouped: no
+
 ## lo glorïoso essercito
 - type: class
 - labels: lo glorïoso essercito
 - surfaces: ella (3), sé (2), lo glorïoso essercito (1), quella milizia (1), schiera (1)
 - grouped: no
 
-## ninfe
-- type: class
-- labels: ninfe
-- surfaces: ninfe (2), noi (2), Noi (1), ancelle (1), si (1), stelle (1)
+## quella gente
+- type: deictic
+- labels: quella gente
+- surfaces: quella gente (3), voi (2), Noi (1), elli (1), spiriti lenti (1)
 - grouped: no
 
 ## Achille
@@ -456,22 +474,10 @@
 - surfaces: ella (2), la sua madre (1), le (1), lei (1), misera (1), sua madre (1)
 - grouped: no
 
-## le donne
-- type: class
-- labels: le donne | donne | Donne
-- surfaces: donne (2), le donne (2), Donne (1), quelle (1), si (1)
-- grouped: no
-
 ## natura
 - type: non-person
 - labels: natura | la natura
 - surfaces: natura (4), ella (1), la natura (1), si (1)
-- grouped: no
-
-## quella gente
-- type: class
-- labels: quella gente
-- surfaces: quella gente (3), voi (2), elli (1), spiriti lenti (1)
 - grouped: no
 
 ## un superbo
@@ -559,6 +565,12 @@
 - surfaces: ella (3), La prima voce (1), allungarsi (1), si (1)
 - grouped: no
 
+## le grandi ombre
+- type: class
+- labels: le grandi ombre
+- surfaces: elli (1), esse (1), gente (1), le grandi ombre (1), lor (1), si (1)
+- grouped: no
+
 ## le sfacciate donne fiorentine
 - type: class
 - labels: le sfacciate donne fiorentine
@@ -619,12 +631,6 @@
 - surfaces: ella (2), Ella (1), le (1), lei (1), una de l'alme (1)
 - grouped: no
 
-## 'l buon Gherardo
-- type: individual
-- labels: 'l buon Gherardo
-- surfaces: 'l buon Gherardo (1), del buon Gherardo (1), qual Gherardo (1), quel (1), saggio (1)
-- grouped: no
-
 ## Alagia
 - type: individual
 - labels: Alagia
@@ -665,7 +671,7 @@
 - surfaces: ella (2), I' (1), Oreste (1), s' (1)
 
 ## Quel che par sì membruto
-- type: individual
+- type: deictic
 - labels: Quel che par sì membruto
 - surfaces: lui (2), Quel (1), ei (1), s' (1)
 - grouped: no
@@ -682,7 +688,7 @@
 - grouped: no
 
 ## chi volesse salir di notte
-- type: hypothetical-simile
+- type: deictic
 - labels: chi volesse salir di notte
 - surfaces: elli (3), Chi (1), si (1)
 - grouped: no
@@ -766,7 +772,7 @@
 - grouped: no
 
 ## quel feroce drudo
-- type: individual
+- type: deictic
 - labels: quel feroce drudo
 - surfaces: ei (4), quel feroce drudo (1)
 - grouped: no
@@ -878,6 +884,12 @@
 - labels: Tarpëa
 - surfaces: Tarpëa (1), ella (1), le (1), si (1)
 
+## Tutta esta gente
+- type: class
+- labels: Tutta esta gente
+- surfaces: Tutta esta gente (1), ci (1), ella (1), si (1)
+- grouped: no
+
 ## abate di San Zeno
 - type: individual
 - labels: abate di San Zeno
@@ -894,6 +906,12 @@
 - type: generic
 - labels: alcuno esser
 - surfaces: alcuno esser (1), s' (1), si (1), sé (1)
+- grouped: no
+
+## avari e prodighi
+- type: class
+- labels: avari e prodighi
+- surfaces: ci (1), l'altro (1), l'uno (1), si (1)
 - grouped: no
 
 ## cento spirti
@@ -980,15 +998,15 @@
 - surfaces: ella (1), la tua Roma (1), m' (1), vedova e sola (1)
 - grouped: no
 
+## le anime beate
+- type: class
+- labels: le anime beate
+- surfaces: elli (2), noi (2)
+- grouped: no
+
 ## le anime, Statius
 - type: set
 - members: le anime | Statius
-
-## le grandi ombre
-- type: class
-- labels: le grandi ombre
-- surfaces: elli (1), esse (1), le grandi ombre (1), lor (1)
-- grouped: no
 
 ## li abitator
 - type: class
@@ -1045,25 +1063,25 @@
 - grouped: no
 
 ## quei che più n'ha colpa
-- type: generic
+- type: deictic
 - labels: quei che più n'ha colpa
 - surfaces: ei (1), il (1), quei (1), si (1)
 - grouped: no
 
 ## quel popol
-- type: class
+- type: deictic
 - labels: quel popol
 - surfaces: elli (2), quel popol (1), si (1)
 - grouped: no
 
 ## quella gente degna
-- type: class
+- type: deictic
 - labels: quella gente degna
 - surfaces: voi (2), loro (1), quella gente degna (1)
 - grouped: no
 
 ## questa gente
-- type: class
+- type: deictic
 - labels: questa gente | Questa gente
 - surfaces: Questa gente (1), ella (1), elli (1), questa gente (1)
 - grouped: no
@@ -1078,6 +1096,12 @@
 - type: class
 - labels: spiriti eletti
 - surfaces: voi (2), ben finiti (1), spiriti eletti (1)
+- grouped: no
+
+## the poets who preceded Guido
+- type: class
+- labels: the poets who preceded Guido
+- surfaces: l'altro (2), l'uno (2)
 - grouped: no
 
 ## un altro pomo
@@ -1218,12 +1242,6 @@
 - labels: Tamiri
 - surfaces: Tamiri (1), elli (1), io (1)
 
-## Tutta esta gente
-- type: class
-- labels: Tutta esta gente
-- surfaces: Tutta esta gente (1), ella (1), si (1)
-- grouped: no
-
 ## Venere
 - type: individual
 - labels: Venere
@@ -1239,12 +1257,6 @@
 - type: class
 - labels: anima gentil
 - surfaces: ella (2), anima gentil (1)
-- grouped: no
-
-## avari e prodighi
-- type: class
-- labels: avari e prodighi
-- surfaces: l'altro (1), l'uno (1), si (1)
 - grouped: no
 
 ## ciascun' ombra
@@ -1391,10 +1403,10 @@
 - surfaces: lei (2), la vedova frasca (1)
 - grouped: no
 
-## le anime beate
+## le anime degli invidiosi
 - type: class
-- labels: le anime beate
-- surfaces: elli (2), noi (1)
+- labels: le anime degli invidiosi
+- surfaces: noi (2), questi (1)
 - grouped: no
 
 ## le divote ombre
@@ -1488,7 +1500,7 @@
 - grouped: no
 
 ## quei che va di notte
-- type: hypothetical-simile
+- type: deictic
 - labels: quei che va di notte
 - surfaces: sé (2), quei (1)
 - grouped: no
@@ -1500,7 +1512,7 @@
 - grouped: no
 
 ## quella turba
-- type: class
+- type: deictic
 - labels: quella turba
 - surfaces: chi (1), quella turba (1), se (1)
 - grouped: no
@@ -1865,10 +1877,8 @@
 - grouped: no
 
 ## Virgilio, Persio, Terenzio, Cecilio, Plauto, Varrone, other poets of Limbo
-- type: class
-- labels: Virgilio, Persio, Terenzio, Cecilio, Plauto, Varrone, other poets of Limbo
-- surfaces: noi (2)
-- grouped: no
+- type: set
+- members: Virgilio | Persio | Terenzio | Cecilio | Plauto | Varrone | other poets of Limbo
 
 ## Virgilio, Statio
 - type: set
@@ -1929,49 +1939,49 @@
 - grouped: no
 
 ## chi da colpa si dislega
-- type: hypothetical-simile
+- type: deictic
 - labels: chi da colpa si dislega
 - surfaces: chi (1), si (1)
 - grouped: no
 
 ## chi n'ha colpa
-- type: generic
+- type: deictic
 - labels: chi n'ha colpa
 - surfaces: chi (1), ei (1)
 - grouped: no
 
 ## chi più di gir s'affanna
-- type: generic
+- type: deictic
 - labels: chi più di gir s'affanna
 - surfaces: chi (1), s' (1)
 - grouped: no
 
 ## chi va dinanzi a gente per iscorta
-- type: generic
+- type: deictic
 - labels: chi va dinanzi a gente per iscorta
 - surfaces: chi (1), egli (1)
 - grouped: no
 
 ## colui ch'a dicer s'argomenta
-- type: generic
+- type: deictic
 - labels: colui ch'a dicer s'argomenta
 - surfaces: colui (1), s' (1)
 - grouped: no
 
 ## colui ch'ascolta
-- type: generic
+- type: deictic
 - labels: colui ch'ascolta
 - surfaces: colui (1), l' (1)
 - grouped: no
 
 ## colui che l'ha di pensier carca
-- type: individual
+- type: deictic
 - labels: colui che l'ha di pensier carca
 - surfaces: colui (1), sé (1)
 - grouped: no
 
 ## colui che mo si consola con nanna
-- type: individual
+- type: deictic
 - labels: colui che mo si consola con nanna
 - surfaces: colui (1), si (1)
 - grouped: no
@@ -2136,6 +2146,12 @@
 - surfaces: el (1), elli (1)
 - grouped: no
 
+## l sonno
+- type: non-person
+- labels: l sonno
+- surfaces: l sonno (1), se (1)
+- grouped: no
+
 ## l'aere vicin
 - type: non-person
 - labels: l'aere vicin
@@ -2250,12 +2266,6 @@
 - surfaces: elle (1), le Romane antiche (1)
 - grouped: no
 
-## le anime degli invidiosi
-- type: class
-- labels: le anime degli invidiosi
-- surfaces: noi (1), questi (1)
-- grouped: no
-
 ## le volpi
 - type: non-person
 - labels: le volpi
@@ -2338,6 +2348,12 @@
 - surfaces: lor (1), ombre vane (1)
 - grouped: no
 
+## other poets of Limbo
+- type: class
+- labels: other poets of Limbo
+- surfaces: noi (2)
+- grouped: no
+
 ## pauperes
 - type: class
 - labels: pauperes
@@ -2369,31 +2385,31 @@
 - grouped: no
 
 ## quei che diceva pria
-- type: individual
+- type: deictic
 - labels: quei che diceva pria
 - surfaces: ei (1), quei (1)
 - grouped: no
 
 ## quei che le tre sante virtù non si vestiro
-- type: class
+- type: deictic
 - labels: quei che le tre sante virtù non si vestiro
 - surfaces: quei (1), si (1)
 - grouped: no
 
 ## quei che notan sempre dietro a le note de li etterni giri
-- type: class
+- type: deictic
 - labels: quei che notan sempre dietro a le note de li etterni giri
 - surfaces: elli (1), quei (1)
 - grouped: no
 
 ## quel da Esti
-- type: individual
+- type: deictic
 - labels: quel da Esti
 - surfaces: egli (1), quel (1)
 - grouped: no
 
 ## quel mal voler
-- type: non-person
+- type: deictic
 - labels: quel mal voler
 - surfaces: lui (1), quel mal voler (1)
 - grouped: no
@@ -2405,19 +2421,19 @@
 - grouped: no
 
 ## quella gente vana
-- type: class
+- type: deictic
 - labels: quella gente vana
 - surfaces: elli (1), quella gente vana (1)
 - grouped: no
 
 ## quelle dee
-- type: individual
+- type: deictic
 - labels: quelle dee
 - surfaces: loro (1), quelle dee (1)
 - grouped: no
 
 ## quelle genti elette
-- type: class
+- type: deictic
 - labels: quelle genti elette
 - surfaces: lor (1), quelle genti elette (1)
 - grouped: no
@@ -2452,6 +2468,12 @@
 - surfaces: ei (1), spirito novo (1)
 - grouped: no
 
+## suocero
+- type: individual
+- labels: suocero
+- surfaces: elli (1), suocero (1)
+- grouped: no
+
 ## sùbita voce
 - type: non-person
 - labels: sùbita voce
@@ -2462,12 +2484,6 @@
 - type: non-person
 - labels: tante umilitadi
 - surfaces: loro (1), tante umilitadi (1)
-- grouped: no
-
-## the poets who preceded Guido
-- type: class
-- labels: the poets who preceded Guido
-- surfaces: l'altro (1), l'uno (1)
 - grouped: no
 
 ## triforme amor
@@ -2953,10 +2969,8 @@
 - members: Forese | Tutta esta gente
 
 ## Forese, anime penitenti
-- type: class
-- labels: Forese, anime penitenti
-- surfaces: voi (1)
-- grouped: no
+- type: set
+- members: Forese | anime penitenti
 
 ## Franco Bolognese
 - type: individual
@@ -3479,10 +3493,8 @@
 - surfaces: Varro (1)
 
 ## Virgilio, l'altre genti
-- type: class
-- labels: Virgilio, l'altre genti
-- surfaces: voi (1)
-- grouped: no
+- type: set
+- members: Virgilio | l'altre genti
 
 ## Virum
 - type: class
@@ -3603,6 +3615,12 @@
 - surfaces: costor (1)
 - grouped: no
 
+## anime penitenti
+- type: class
+- labels: anime penitenti
+- surfaces: voi (1)
+- grouped: no
+
 ## anime purganti
 - type: class
 - labels: anime purganti
@@ -3656,31 +3674,31 @@
 - grouped: no
 
 ## chi dietro a li uccellin sua vita perde
-- type: hypothetical-simile
+- type: deictic
 - labels: chi dietro a li uccellin sua vita perde
 - surfaces: chi (1)
 - grouped: no
 
 ## chi guarda pur con l'occhio che non vede
-- type: generic
+- type: deictic
 - labels: chi guarda pur con l'occhio che non vede
 - surfaces: chi (1)
 - grouped: no
 
 ## chi più sa
-- type: generic
+- type: deictic
 - labels: chi più sa
 - surfaces: chi (1)
 - grouped: no
 
 ## chi va suso
-- type: generic
+- type: deictic
 - labels: chi va suso
 - surfaces: chi (1)
 - grouped: no
 
 ## chi vuole andar per pace
-- type: generic
+- type: deictic
 - labels: chi vuole andar per pace
 - surfaces: chi (1)
 - grouped: no
@@ -3698,19 +3716,19 @@
 - grouped: no
 
 ## colui ch'a morte vada
-- type: generic
+- type: deictic
 - labels: colui ch'a morte vada
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che ne la fossa è messo
-- type: generic
+- type: deictic
 - labels: colui che ne la fossa è messo
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che nove cose assaggia
-- type: individual
+- type: deictic
 - labels: colui che nove cose assaggia
 - surfaces: colui (1)
 - grouped: no
@@ -3728,7 +3746,7 @@
 - grouped: no
 
 ## costoro
-- type: class
+- type: deictic
 - labels: costoro
 - surfaces: tutti costoro (1)
 - grouped: no
@@ -4044,12 +4062,6 @@
 - surfaces: l savio (1)
 - grouped: no
 
-## l sonno
-- type: non-person
-- labels: l sonno
-- surfaces: l sonno (1)
-- grouped: no
-
 ## l'Imperatore, il Papa
 - type: set
 - members: l'Imperatore | il Papa
@@ -4082,6 +4094,12 @@
 - type: class
 - labels: l'altre
 - surfaces: l'altre (1)
+- grouped: no
+
+## l'altre genti
+- type: class
+- labels: l'altre genti
+- surfaces: voi (1)
 - grouped: no
 
 ## l'altre schiave
@@ -4825,37 +4843,37 @@
 - grouped: no
 
 ## quei c'hanno al voler buona radice
-- type: class
+- type: deictic
 - labels: quei c'hanno al voler buona radice
 - surfaces: quei (1)
 - grouped: no
 
 ## quei ch'un muro e una fossa serra
-- type: class
+- type: deictic
 - labels: quei ch'un muro e una fossa serra
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che ci ama
-- type: individual
+- type: deictic
 - labels: quei che ci ama
 - surfaces: quei (1)
 - grouped: no
 
 ## quei di paradiso
-- type: class
+- type: deictic
 - labels: quei di paradiso
 - surfaces: quei (1)
 - grouped: no
 
 ## quel Segnor
-- type: individual
+- type: deictic
 - labels: quel Segnor
 - surfaces: quel Segnor (1)
 - grouped: no
 
 ## quel gigante
-- type: individual
+- type: deictic
 - labels: quel gigante
 - surfaces: quel gigante (1)
 - grouped: no
@@ -4873,31 +4891,31 @@
 - grouped: no
 
 ## quella che mostrò Langia
-- type: individual
+- type: deictic
 - labels: quella che mostrò Langia
 - surfaces: quella (1)
 - grouped: no
 
 ## quella masnada fresca
-- type: class
+- type: deictic
 - labels: quella masnada fresca
 - surfaces: quella masnada fresca (1)
 - grouped: no
 
 ## quelle genti degne
-- type: class
+- type: deictic
 - labels: quelle genti degne
 - surfaces: quelle genti degne (1)
 - grouped: no
 
 ## quelle prime creature
-- type: class
+- type: deictic
 - labels: quelle prime creature
 - surfaces: quelle prime creature (1)
 - grouped: no
 
 ## questa vera carne
-- type: non-person
+- type: deictic
 - labels: questa vera carne
 - surfaces: questa vera carne (1)
 - grouped: no
@@ -4960,12 +4978,6 @@
 - type: individual
 - labels: suo maggior
 - surfaces: suo maggior (1)
-- grouped: no
-
-## suocero
-- type: individual
-- labels: suocero
-- surfaces: suocero (1)
 - grouped: no
 
 ## testimonio

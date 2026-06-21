@@ -16,9 +16,9 @@
 {"id": "lettore", "type": "generic", "members": null}
 {"id": "mortali", "type": "class", "members": null}
 {"id": "Cesare", "type": "individual", "members": null}
+{"id": "i beati", "type": "class", "members": null}
 {"id": "Tommaso d'Aquino", "type": "individual", "members": null}
 {"id": "amor", "type": "non-person", "members": null}
-{"id": "i beati", "type": "class", "members": null}
 {"id": "Iustinïano", "type": "individual", "members": null}
 {"id": "San Benedetto", "type": "individual", "members": null}
 {"id": "gente", "type": "generic", "members": null}
@@ -52,6 +52,8 @@
 {"id": "Raab", "type": "individual", "members": null}
 {"id": "San Paolo", "type": "individual", "members": null}
 {"id": "Sigieri", "type": "individual", "members": null}
+{"id": "figlio", "type": "individual", "members": null}
+{"id": "il Padre", "type": "individual", "members": null}
 {"id": "l'anima", "type": "generic", "members": null}
 {"id": "l'umana creatura", "type": "generic", "members": null}
 {"id": "Appollo", "type": "individual", "members": null}
@@ -59,14 +61,12 @@
 {"id": "Giustiniano", "type": "individual", "members": null}
 {"id": "Pietro Damiano", "type": "individual", "members": null}
 {"id": "beato spirto", "type": "generic", "members": null}
-{"id": "colui che se n'alluma retro", "type": "individual", "members": null}
+{"id": "colui che se n'alluma retro", "type": "deictic", "members": null}
 {"id": "faville vive", "type": "class", "members": null}
-{"id": "figlio", "type": "individual", "members": null}
-{"id": "il Padre", "type": "individual", "members": null}
 {"id": "l'alma", "type": "generic", "members": null}
 {"id": "la lumera", "type": "non-person", "members": null}
 {"id": "lo Spirito Santo", "type": "individual", "members": null}
-{"id": "tale uccel", "type": "non-person", "members": null}
+{"id": "tale uccel", "type": "deictic", "members": null}
 {"id": "uomini", "type": "class", "members": null}
 {"id": "virtù", "type": "non-person", "members": null}
 {"id": "Apostoli", "type": "class", "members": null}
@@ -78,6 +78,7 @@
 {"id": "Troni del divino aspetto", "type": "class", "members": null}
 {"id": "bisavol", "type": "individual", "members": null}
 {"id": "creatura", "type": "generic", "members": null}
+{"id": "i Serafin", "type": "class", "members": null}
 {"id": "il sommo bene", "type": "non-person", "members": null}
 {"id": "l'altra", "type": "generic", "members": null}
 {"id": "la donna sua più cara", "type": "individual", "members": null}
@@ -85,7 +86,7 @@
 {"id": "le donne", "type": "class", "members": null}
 {"id": "le genti", "type": "class", "members": null}
 {"id": "prefetto", "type": "individual", "members": null}
-{"id": "quei che 'n sé repreme la punta del disio", "type": "class", "members": null}
+{"id": "quei che 'n sé repreme la punta del disio", "type": "deictic", "members": null}
 {"id": "quest' alme", "type": "class", "members": null}
 {"id": "'l mondo", "type": "non-person", "members": null}
 {"id": "Adamo", "type": "individual", "members": null}
@@ -93,7 +94,7 @@
 {"id": "Carlo Magno", "type": "individual", "members": null}
 {"id": "L'altro", "type": "individual", "members": null}
 {"id": "Qual", "type": "hypothetical-simile", "members": null}
-{"id": "Questi ordini di sù", "type": "class", "members": null}
+{"id": "Questi ordini di sù", "type": "deictic", "members": null}
 {"id": "Timeo", "type": "individual", "members": null}
 {"id": "collegio", "type": "non-person", "members": null}
 {"id": "dal muto", "type": "individual", "members": null}
@@ -106,6 +107,7 @@
 {"id": "li agni", "type": "non-person", "members": null}
 {"id": "li angeli", "type": "class", "members": null}
 {"id": "li moderni pastori", "type": "class", "members": null}
+{"id": "questi spirti", "type": "deictic", "members": null}
 {"id": "sodalizio eletto", "type": "class", "members": null}
 {"id": "somma luce", "type": "individual", "members": null}
 {"id": "tanta moltitudine volante", "type": "class", "members": null}
@@ -154,9 +156,9 @@
 {"id": "parvoletti", "type": "class", "members": null}
 {"id": "perpetüi fiori", "type": "non-person", "members": null}
 {"id": "primo", "type": "generic", "members": null}
-{"id": "quei candori", "type": "class", "members": null}
-{"id": "quel serafin", "type": "individual", "members": null}
-{"id": "questi spirti", "type": "class", "members": null}
+{"id": "quei candori", "type": "deictic", "members": null}
+{"id": "quel serafin", "type": "deictic", "members": null}
+{"id": "umanità", "type": "non-person", "members": null}
 {"id": "velocissime faville", "type": "non-person", "members": null}
 {"id": "vere sustanze", "type": "non-person", "members": null}
 {"id": "vergine lieta", "type": "individual", "members": null}
@@ -182,7 +184,7 @@
 {"id": "Pietro, Paolo", "type": "set", "members": ["Pietro", "Paolo"]}
 {"id": "Povertà", "type": "non-person", "members": null}
 {"id": "Que' glorïosi", "type": "class", "members": null}
-{"id": "Questa cara gioia", "type": "non-person", "members": null}
+{"id": "Questa cara gioia", "type": "deictic", "members": null}
 {"id": "Rifëo Troiano", "type": "individual", "members": null}
 {"id": "Salomone", "type": "individual", "members": null}
 {"id": "Serafi, Cherubi", "type": "set", "members": ["Serafi", "Cherubi"]}
@@ -194,22 +196,21 @@
 {"id": "amore angelico", "type": "non-person", "members": null}
 {"id": "arche ricchissime", "type": "class", "members": null}
 {"id": "beati motor", "type": "individual", "members": null}
-{"id": "chi ad altro pensa", "type": "generic", "members": null}
-{"id": "chi cercasse a foglio a foglio", "type": "hypothetical-simile", "members": null}
-{"id": "chi non credette", "type": "generic", "members": null}
-{"id": "chi prende sua croce", "type": "generic", "members": null}
+{"id": "chi ad altro pensa", "type": "deictic", "members": null}
+{"id": "chi cercasse a foglio a foglio", "type": "deictic", "members": null}
+{"id": "chi non credette", "type": "deictic", "members": null}
+{"id": "chi prende sua croce", "type": "deictic", "members": null}
 {"id": "ciascuna sposa", "type": "generic", "members": null}
 {"id": "color che sono in terra", "type": "generic", "members": null}
-{"id": "coloro che si fanno grassi stando a consistoro", "type": "class", "members": null}
-{"id": "colui ch'a tutto 'l mondo fé paura", "type": "individual", "members": null}
-{"id": "colui che più al becco mi s'accosta", "type": "individual", "members": null}
+{"id": "coloro che si fanno grassi stando a consistoro", "type": "deictic", "members": null}
+{"id": "colui ch'a tutto 'l mondo fé paura", "type": "deictic", "members": null}
+{"id": "colui che più al becco mi s'accosta", "type": "deictic", "members": null}
 {"id": "divina virtù", "type": "non-person", "members": null}
 {"id": "divina volontate", "type": "non-person", "members": null}
 {"id": "fantin", "type": "generic", "members": null}
 {"id": "filosofi", "type": "class", "members": null}
 {"id": "generic person/hypothetical \"one\"", "type": "generic", "members": null}
 {"id": "i Francescani", "type": "class", "members": null}
-{"id": "i Serafin", "type": "class", "members": null}
 {"id": "il baccialier", "type": "individual", "members": null}
 {"id": "il loglio", "type": "class", "members": null}
 {"id": "il nostro Sire", "type": "individual", "members": null}
@@ -221,6 +222,7 @@
 {"id": "l'alto Padre", "type": "individual", "members": null}
 {"id": "l'oltracotata schiatta", "type": "class", "members": null}
 {"id": "l'ombra", "type": "generic", "members": null}
+{"id": "la Fede", "type": "non-person", "members": null}
 {"id": "la Veronica", "type": "non-person", "members": null}
 {"id": "la bella image", "type": "non-person", "members": null}
 {"id": "la compagnia malvagia e scempia", "type": "class", "members": null}
@@ -245,27 +247,31 @@
 {"id": "morsi", "type": "non-person", "members": null}
 {"id": "pastor", "type": "generic", "members": null}
 {"id": "persone", "type": "class", "members": null}
+{"id": "primi scalzi poverelli", "type": "class", "members": null}
 {"id": "que' flailli", "type": "class", "members": null}
-{"id": "quella viva luce", "type": "individual", "members": null}
-{"id": "quelle altr' ombre", "type": "class", "members": null}
-{"id": "quelle anime liete", "type": "class", "members": null}
-{"id": "quelle sustanze", "type": "class", "members": null}
+{"id": "quel di Portogallo", "type": "deictic", "members": null}
+{"id": "quella viva luce", "type": "deictic", "members": null}
+{"id": "quelle altr' ombre", "type": "deictic", "members": null}
+{"id": "quelle anime liete", "type": "deictic", "members": null}
+{"id": "quelle sustanze", "type": "deictic", "members": null}
 {"id": "quelli spirti pii", "type": "class", "members": null}
-{"id": "questa festinata gente", "type": "class", "members": null}
-{"id": "queste genti", "type": "class", "members": null}
+{"id": "questa festinata gente", "type": "deictic", "members": null}
+{"id": "queste genti", "type": "deictic", "members": null}
 {"id": "real manto", "type": "non-person", "members": null}
 {"id": "scole", "type": "non-person", "members": null}
 {"id": "sembiante", "type": "non-person", "members": null}
 {"id": "servants/attendants of the modern clergy", "type": "class", "members": null}
+{"id": "spedito duce", "type": "individual", "members": null}
 {"id": "spiriti ascolti", "type": "class", "members": null}
 {"id": "spirito", "type": "generic", "members": null}
 {"id": "tal signore", "type": "generic", "members": null}
-{"id": "umanità", "type": "non-person", "members": null}
+{"id": "trïunfanti", "type": "class", "members": null}
 {"id": "un altro di quelli splendori", "type": "generic", "members": null}
 {"id": "uno", "type": "generic", "members": null}
 {"id": "vittima", "type": "generic", "members": null}
 {"id": "vostra veduta", "type": "non-person", "members": null}
 {"id": "vostra vita", "type": "non-person", "members": null}
+{"id": "' Fabi", "type": "class", "members": null}
 {"id": "'l gratular", "type": "class", "members": null}
 {"id": "Albero", "type": "non-person", "members": null}
 {"id": "Almeone", "type": "individual", "members": null}
@@ -306,8 +312,8 @@
 {"id": "Ordine domenicano", "type": "class", "members": null}
 {"id": "Po", "type": "non-person", "members": null}
 {"id": "Quattro figlie", "type": "class", "members": null}
-{"id": "Quel sol", "type": "non-person", "members": null}
-{"id": "Quelle tre donne", "type": "individual", "members": null}
+{"id": "Quel sol", "type": "deictic", "members": null}
+{"id": "Quelle tre donne", "type": "deictic", "members": null}
 {"id": "Quirino", "type": "individual", "members": null}
 {"id": "Ramondo Beringhiere", "type": "individual", "members": null}
 {"id": "Rebecca", "type": "individual", "members": null}
@@ -324,17 +330,17 @@
 {"id": "anima beata", "type": "generic", "members": null}
 {"id": "beato coro", "type": "class", "members": null}
 {"id": "buon sartore", "type": "generic", "members": null}
-{"id": "chi 'l s'appropria", "type": "generic", "members": null}
-{"id": "chi a lui s'oppone", "type": "generic", "members": null}
-{"id": "chi nol sa", "type": "generic", "members": null}
-{"id": "chi più si falli", "type": "generic", "members": null}
-{"id": "chi umilmente", "type": "generic", "members": null}
-{"id": "chi vuol grazia", "type": "generic", "members": null}
+{"id": "chi 'l s'appropria", "type": "deictic", "members": null}
+{"id": "chi a lui s'oppone", "type": "deictic", "members": null}
+{"id": "chi nol sa", "type": "deictic", "members": null}
+{"id": "chi più si falli", "type": "deictic", "members": null}
+{"id": "chi umilmente", "type": "deictic", "members": null}
+{"id": "chi vuol grazia", "type": "deictic", "members": null}
 {"id": "chiostro", "type": "non-person", "members": null}
 {"id": "ciascuno", "type": "generic", "members": null}
 {"id": "color ch'a quel tempo eran ivi", "type": "class", "members": null}
 {"id": "color che sanno il nome tuo", "type": "class", "members": null}
-{"id": "colui ch'adocchia", "type": "generic", "members": null}
+{"id": "colui ch'adocchia", "type": "deictic", "members": null}
 {"id": "convenienza", "type": "non-person", "members": null}
 {"id": "cupidigia", "type": "non-person", "members": null}
 {"id": "difesa di Dio", "type": "non-person", "members": null}
@@ -344,7 +350,10 @@
 {"id": "empio suo pastor", "type": "individual", "members": null}
 {"id": "essa sustanza", "type": "non-person", "members": null}
 {"id": "filosofi, predicanti", "type": "set", "members": ["filosofi", "predicanti"]}
+{"id": "fratel", "type": "individual", "members": null}
 {"id": "gran barone", "type": "generic", "members": null}
+{"id": "i Catellini", "type": "class", "members": null}
+{"id": "i Deci", "type": "class", "members": null}
 {"id": "i Serafin, Moïsè, Samuel, Giovanni, Maria", "type": "set", "members": ["i Serafin", "Moïsè", "Samuel", "Giovanni", "Maria"]}
 {"id": "i barbari", "type": "class", "members": null}
 {"id": "i corpi morti", "type": "class", "members": null}
@@ -399,6 +408,7 @@
 {"id": "le schiatte", "type": "class", "members": null}
 {"id": "le suore", "type": "class", "members": null}
 {"id": "li 'ntelletti", "type": "class", "members": null}
+{"id": "li Ughi", "type": "class", "members": null}
 {"id": "li alimenti, quelle cose che di lor si fanno", "type": "non-person", "members": null}
 {"id": "li padri", "type": "class", "members": null}
 {"id": "liber' omo", "type": "generic", "members": null}
@@ -418,23 +428,22 @@
 {"id": "parenti", "type": "class", "members": null}
 {"id": "persona", "type": "generic", "members": null}
 {"id": "più folgór vivi e vincenti", "type": "hypothetical-simile", "members": null}
-{"id": "primi scalzi poverelli", "type": "class", "members": null}
 {"id": "primo amore", "type": "individual", "members": null}
 {"id": "principi celesti", "type": "class", "members": null}
 {"id": "pubblico segno", "type": "non-person", "members": null}
 {"id": "quadrel", "type": "non-person", "members": null}
-{"id": "quei ch'a Cristo venuto ebber li visi", "type": "class", "members": null}
-{"id": "quei che la cosa per nome apprende ben", "type": "generic", "members": null}
-{"id": "quei che vanno a rota", "type": "class", "members": null}
-{"id": "quei lucenti incendi", "type": "class", "members": null}
-{"id": "quei lumi divini", "type": "class", "members": null}
-{"id": "quei santi lumi", "type": "class", "members": null}
-{"id": "quel ch'era dentro al sol", "type": "individual", "members": null}
-{"id": "quel corno d'Ausonia", "type": "individual", "members": null}
+{"id": "quei ch'a Cristo venuto ebber li visi", "type": "deictic", "members": null}
+{"id": "quei che la cosa per nome apprende ben", "type": "deictic", "members": null}
+{"id": "quei che vanno a rota", "type": "deictic", "members": null}
+{"id": "quei lucenti incendi", "type": "deictic", "members": null}
+{"id": "quei lumi divini", "type": "deictic", "members": null}
+{"id": "quei santi lumi", "type": "deictic", "members": null}
+{"id": "quel ch'era dentro al sol", "type": "deictic", "members": null}
+{"id": "quel corno d'Ausonia", "type": "deictic", "members": null}
 {"id": "quel di Portogallo, di Norvegia", "type": "set", "members": ["quel di Portogallo", "di Norvegia"]}
 {"id": "quell' angel", "type": "individual", "members": null}
 {"id": "quell'amor", "type": "non-person", "members": null}
-{"id": "quella di più carezza", "type": "individual", "members": null}
+{"id": "quella di più carezza", "type": "deictic", "members": null}
 {"id": "quelli ardenti soli", "type": "class", "members": null}
 {"id": "quelli ch'usurpa in terra", "type": "class", "members": null}
 {"id": "quindici stelle", "type": "non-person", "members": null}
@@ -445,18 +454,16 @@
 {"id": "sante creature", "type": "class", "members": null}
 {"id": "scintille", "type": "non-person", "members": null}
 {"id": "serve", "type": "class", "members": null}
-{"id": "spedito duce", "type": "individual", "members": null}
 {"id": "spiriti chiamati", "type": "class", "members": null}
 {"id": "suo fattore", "type": "individual", "members": null}
+{"id": "suoi consorti", "type": "class", "members": null}
 {"id": "tai Cristian", "type": "class", "members": null}
 {"id": "terreni animali", "type": "non-person", "members": null}
 {"id": "trina luce", "type": "non-person", "members": null}
-{"id": "trïunfanti", "type": "class", "members": null}
 {"id": "tutti li altri", "type": "class", "members": null}
 {"id": "un'anima tra i Francescani", "type": "generic", "members": null}
 {"id": "visïone", "type": "non-person", "members": null}
 {"id": "voi che prima a Roma s'offerie", "type": "class", "members": null}
-{"id": "' Fabi", "type": "class", "members": null}
 {"id": "'l Caponsacco", "type": "individual", "members": null}
 {"id": "'l Giudeo", "type": "generic", "members": null}
 {"id": "'l Guasco", "type": "individual", "members": null}
@@ -521,7 +528,7 @@
 {"id": "Dante, Beatrice, San Pietro", "type": "set", "members": ["Dante", "Beatrice", "San Pietro"]}
 {"id": "Dante, Beatrice, San Pietro, San Giacomo, San Giovanni", "type": "set", "members": ["Dante", "Beatrice", "San Pietro", "San Giacomo", "San Giovanni"]}
 {"id": "Dante, Enrico VII", "type": "set", "members": ["Dante", "Enrico VII"]}
-{"id": "Dante, i fedeli", "type": "class", "members": null}
+{"id": "Dante, i fedeli", "type": "set", "members": ["Dante", "i fedeli"]}
 {"id": "Dante, suoi consorti", "type": "set", "members": ["Dante", "suoi consorti"]}
 {"id": "Dante, trïunfanti", "type": "set", "members": ["Dante", "trïunfanti"]}
 {"id": "Dante, umanità", "type": "set", "members": ["Dante", "umanità"]}
@@ -634,7 +641,7 @@
 {"id": "Pompeo", "type": "individual", "members": null}
 {"id": "Principati", "type": "class", "members": null}
 {"id": "Pïo", "type": "individual", "members": null}
-{"id": "Quel de la Pressa", "type": "individual", "members": null}
+{"id": "Quel de la Pressa", "type": "deictic", "members": null}
 {"id": "Quinzio", "type": "individual", "members": null}
 {"id": "Rabano", "type": "individual", "members": null}
 {"id": "Rachel", "type": "individual", "members": null}
@@ -717,19 +724,19 @@
 {"id": "buon principio", "type": "non-person", "members": null}
 {"id": "cesare, poeta", "type": "set", "members": ["cesare", "poeta"]}
 {"id": "ch'è da sermone", "type": "non-person", "members": null}
-{"id": "chi di lei ben ode", "type": "generic", "members": null}
-{"id": "chi la giustizia e lui diparte", "type": "generic", "members": null}
-{"id": "chi pesca per lo vero e non ha l'arte", "type": "hypothetical-simile", "members": null}
+{"id": "chi di lei ben ode", "type": "deictic", "members": null}
+{"id": "chi la giustizia e lui diparte", "type": "deictic", "members": null}
+{"id": "chi pesca per lo vero e non ha l'arte", "type": "deictic", "members": null}
 {"id": "ciascuno artista", "type": "generic", "members": null}
 {"id": "cibo rigido", "type": "non-person", "members": null}
 {"id": "circular natura", "type": "non-person", "members": null}
 {"id": "col baiulo", "type": "generic", "members": null}
 {"id": "collegi", "type": "class", "members": null}
-{"id": "coloro che questo tempo chiameranno antico", "type": "class", "members": null}
+{"id": "coloro che questo tempo chiameranno antico", "type": "deictic", "members": null}
 {"id": "colpa", "type": "non-person", "members": null}
-{"id": "colui che forse di Croazia", "type": "individual", "members": null}
-{"id": "colui che la fascia col fregio", "type": "individual", "members": null}
-{"id": "colui che non intende e ode", "type": "generic", "members": null}
+{"id": "colui che forse di Croazia", "type": "deictic", "members": null}
+{"id": "colui che la fascia col fregio", "type": "deictic", "members": null}
+{"id": "colui che non intende e ode", "type": "deictic", "members": null}
 {"id": "colüi che sognando vede", "type": "hypothetical-simile", "members": null}
 {"id": "concordi numi", "type": "class", "members": null}
 {"id": "conte Guido", "type": "individual", "members": null}
@@ -748,7 +755,6 @@
 {"id": "fatto cólto", "type": "generic", "members": null}
 {"id": "favilla", "type": "non-person", "members": null}
 {"id": "fior venusto", "type": "non-person", "members": null}
-{"id": "fratel", "type": "individual", "members": null}
 {"id": "general human soul/observer", "type": "generic", "members": null}
 {"id": "generanti", "type": "class", "members": null}
 {"id": "gente antica e in novella", "type": "class", "members": null}
@@ -758,8 +764,6 @@
 {"id": "grato", "type": "generic", "members": null}
 {"id": "humans/mankind", "type": "class", "members": null}
 {"id": "hypothetical guide", "type": "hypothetical-simile", "members": null}
-{"id": "i Catellini", "type": "class", "members": null}
-{"id": "i Deci", "type": "class", "members": null}
 {"id": "i Filippi", "type": "class", "members": null}
 {"id": "i Greci", "type": "class", "members": null}
 {"id": "i Serafin, Moïsè, Samuel, Giovanni, Maria, questi spirti", "type": "set", "members": ["i Serafin", "Moïsè", "Samuel", "Giovanni", "Maria", "questi spirti"]}
@@ -767,6 +771,7 @@
 {"id": "i cardinali", "type": "class", "members": null}
 {"id": "i dottor magni", "type": "class", "members": null}
 {"id": "i due collegi", "type": "class", "members": null}
+{"id": "i fedeli", "type": "class", "members": null}
 {"id": "i fiorentini", "type": "class", "members": null}
 {"id": "i folli", "type": "class", "members": null}
 {"id": "i frati di Casal e Acquasparta", "type": "class", "members": null}
@@ -827,7 +832,6 @@
 {"id": "l'ordine francescano", "type": "class", "members": null}
 {"id": "l'umana spece", "type": "class", "members": null}
 {"id": "l'un", "type": "generic", "members": null}
-{"id": "la Fede", "type": "non-person", "members": null}
 {"id": "la Sannella", "type": "class", "members": null}
 {"id": "la Trinità", "type": "individual", "members": null}
 {"id": "la barca", "type": "non-person", "members": null}
@@ -875,7 +879,6 @@
 {"id": "letizia", "type": "non-person", "members": null}
 {"id": "li Ebrei", "type": "class", "members": null}
 {"id": "li Perse", "type": "class", "members": null}
-{"id": "li Ughi", "type": "class", "members": null}
 {"id": "li Ughi, i Catellini, Filippi, Greci, Ormanni, Alberichi", "type": "set", "members": ["li Ughi", "i Catellini", "Filippi", "Greci", "Ormanni", "Alberichi"]}
 {"id": "li alti Fiorentini", "type": "class", "members": null}
 {"id": "li alti Serafini", "type": "class", "members": null}
@@ -940,46 +943,45 @@
 {"id": "qual segue lui", "type": "generic", "members": null}
 {"id": "qual si fa danno del ben fare altrui", "type": "hypothetical-simile", "members": null}
 {"id": "qualunque", "type": "generic", "members": null}
-{"id": "quei ch'arrossan per lo staio", "type": "class", "members": null}
-{"id": "quei ch'or son vivi", "type": "class", "members": null}
-{"id": "quei che corre il vostro annüal gioco", "type": "class", "members": null}
-{"id": "quei che credettero in Cristo venturo", "type": "class", "members": null}
-{"id": "quei che guarda l'isola del foco", "type": "individual", "members": null}
-{"id": "quei che son disfatti per lor superbia", "type": "class", "members": null}
-{"id": "quei che stima le biade in campo pria che sien mature", "type": "hypothetical-simile", "members": null}
-{"id": "quei che vede e puote", "type": "generic", "members": null}
-{"id": "quei cotali", "type": "generic", "members": null}
-{"id": "quei de la Pera", "type": "class", "members": null}
-{"id": "quei fuochi pii", "type": "non-person", "members": null}
-{"id": "quei lumi", "type": "class", "members": null}
-{"id": "quel ch'ode", "type": "generic", "members": null}
-{"id": "quel che morrà di colpo di cotenna", "type": "individual", "members": null}
-{"id": "quel che pate", "type": "generic", "members": null}
-{"id": "quel che sforza", "type": "generic", "members": null}
-{"id": "quel d'i Nerli", "type": "individual", "members": null}
-{"id": "quel da Signa", "type": "individual", "members": null}
-{"id": "quel de l'Arca", "type": "individual", "members": null}
-{"id": "quel de la Sannella", "type": "individual", "members": null}
-{"id": "quel del Vecchio", "type": "individual", "members": null}
-{"id": "quel di Boemme", "type": "individual", "members": null}
-{"id": "quel di Portogallo", "type": "individual", "members": null}
-{"id": "quel di Rascia", "type": "individual", "members": null}
-{"id": "quel di Spagna", "type": "individual", "members": null}
+{"id": "quei ch'arrossan per lo staio", "type": "deictic", "members": null}
+{"id": "quei ch'or son vivi", "type": "deictic", "members": null}
+{"id": "quei che corre il vostro annüal gioco", "type": "deictic", "members": null}
+{"id": "quei che credettero in Cristo venturo", "type": "deictic", "members": null}
+{"id": "quei che guarda l'isola del foco", "type": "deictic", "members": null}
+{"id": "quei che son disfatti per lor superbia", "type": "deictic", "members": null}
+{"id": "quei che stima le biade in campo pria che sien mature", "type": "deictic", "members": null}
+{"id": "quei che vede e puote", "type": "deictic", "members": null}
+{"id": "quei cotali", "type": "deictic", "members": null}
+{"id": "quei de la Pera", "type": "deictic", "members": null}
+{"id": "quei fuochi pii", "type": "deictic", "members": null}
+{"id": "quei lumi", "type": "deictic", "members": null}
+{"id": "quel ch'ode", "type": "deictic", "members": null}
+{"id": "quel che morrà di colpo di cotenna", "type": "deictic", "members": null}
+{"id": "quel che pate", "type": "deictic", "members": null}
+{"id": "quel che sforza", "type": "deictic", "members": null}
+{"id": "quel d'i Nerli", "type": "deictic", "members": null}
+{"id": "quel da Signa", "type": "deictic", "members": null}
+{"id": "quel de l'Arca", "type": "deictic", "members": null}
+{"id": "quel de la Sannella", "type": "deictic", "members": null}
+{"id": "quel del Vecchio", "type": "deictic", "members": null}
+{"id": "quel di Boemme", "type": "deictic", "members": null}
+{"id": "quel di Rascia", "type": "deictic", "members": null}
+{"id": "quel di Spagna", "type": "deictic", "members": null}
 {"id": "quell' ombra", "type": "individual", "members": null}
-{"id": "quella Rodopëa", "type": "individual", "members": null}
-{"id": "quella creatura", "type": "individual", "members": null}
-{"id": "quella famiglia", "type": "class", "members": null}
-{"id": "quella gente", "type": "class", "members": null}
-{"id": "quella terra", "type": "non-person", "members": null}
-{"id": "quelle c'hanno intelletto e amore", "type": "class", "members": null}
-{"id": "quelle genti", "type": "class", "members": null}
+{"id": "quella Rodopëa", "type": "deictic", "members": null}
+{"id": "quella creatura", "type": "deictic", "members": null}
+{"id": "quella famiglia", "type": "deictic", "members": null}
+{"id": "quella gente", "type": "deictic", "members": null}
+{"id": "quella terra", "type": "deictic", "members": null}
+{"id": "quelle c'hanno intelletto e amore", "type": "deictic", "members": null}
+{"id": "quelle genti", "type": "deictic", "members": null}
 {"id": "quelli spirti", "type": "class", "members": null}
 {"id": "quelli stolti", "type": "class", "members": null}
-{"id": "questi altri beati", "type": "class", "members": null}
-{"id": "questi corpi levi", "type": "class", "members": null}
-{"id": "questi ordini", "type": "class", "members": null}
-{"id": "questi segni", "type": "non-person", "members": null}
-{"id": "questo mondo", "type": "non-person", "members": null}
+{"id": "questi altri beati", "type": "deictic", "members": null}
+{"id": "questi corpi levi", "type": "deictic", "members": null}
+{"id": "questi ordini", "type": "deictic", "members": null}
+{"id": "questi segni", "type": "deictic", "members": null}
+{"id": "questo mondo", "type": "deictic", "members": null}
 {"id": "ricchi e mendici", "type": "class", "members": null}
 {"id": "saggi", "type": "class", "members": null}
 {"id": "salma", "type": "non-person", "members": null}
@@ -998,7 +1000,6 @@
 {"id": "stelle", "type": "non-person", "members": null}
 {"id": "suo sire", "type": "individual", "members": null}
 {"id": "suocero", "type": "individual", "members": null}
-{"id": "suoi consorti", "type": "class", "members": null}
 {"id": "suoi conti", "type": "class", "members": null}
 {"id": "tempio", "type": "non-person", "members": null}
 {"id": "tesoro", "type": "non-person", "members": null}

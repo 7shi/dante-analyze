@@ -94,6 +94,12 @@
 - labels: Cesare | cesare
 - surfaces: ei (7), elli (7), si (3), Cesare (2), cesare (1), costui (1), quel (1)
 
+## i beati
+- type: class
+- labels: i beati | beati
+- surfaces: elli (3), li (3), noi (3), si (2), voi (2), Quelli (1), ci (1), egli (1), la carne glorïosa e santa (1), la nostra persona (1), lor (1), quanti beati (1), sé (1), tutti (1)
+- grouped: no
+
 ## Tommaso d'Aquino
 - type: individual
 - labels: Tommaso d'Aquino
@@ -104,12 +110,6 @@
 - type: non-person
 - labels: amor | l'amor | Amor
 - surfaces: amor (5), io (3), tu (3), l'amor (2), me (2), Amor (1), ei (1), i' (1), m' (1), mi (1)
-- grouped: no
-
-## i beati
-- type: class
-- labels: i beati | beati
-- surfaces: elli (3), li (3), si (2), voi (2), Quelli (1), ci (1), egli (1), la carne glorïosa e santa (1), la nostra persona (1), lor (1), noi (1), quanti beati (1), sé (1), tutti (1)
 - grouped: no
 
 ## Iustinïano
@@ -291,6 +291,18 @@
 - labels: Sigieri
 - surfaces: Questi (1), Sigieri (1), ei (1), essa (1), l lume (1), la luce etterna (1), li (1), uno spirto (1)
 
+## figlio
+- type: individual
+- labels: figlio | Figlio | 'l figlio
+- surfaces: Figlio (2), figlio (2), 'l figlio (1), del figlio (1), l'altro (1), lor (1)
+- grouped: no
+
+## il Padre
+- type: individual
+- labels: il Padre | 'l padre | Padre | padre
+- surfaces: 'l padre (1), Padre (1), egli (1), l'uno (1), lo primo e ineffabile Valore (1), lor (1), lui (1), padre (1)
+- grouped: no
+
 ## l'anima
 - type: generic
 - labels: l'anima | anima
@@ -331,7 +343,7 @@
 - grouped: no
 
 ## colui che se n'alluma retro
-- type: individual
+- type: deictic
 - labels: colui che se n'alluma retro
 - surfaces: ei (3), colui (1), li (1), se (1), sé (1)
 - grouped: no
@@ -340,18 +352,6 @@
 - type: class
 - labels: faville vive
 - surfaces: elli (2), faville vive (1), si (1), sé (1), un'altra (1), una (1)
-- grouped: no
-
-## figlio
-- type: individual
-- labels: figlio | Figlio | 'l figlio
-- surfaces: Figlio (2), figlio (2), 'l figlio (1), del figlio (1), l'altro (1)
-- grouped: no
-
-## il Padre
-- type: individual
-- labels: il Padre | 'l padre | Padre | padre
-- surfaces: 'l padre (1), Padre (1), egli (1), l'uno (1), lo primo e ineffabile Valore (1), lui (1), padre (1)
 - grouped: no
 
 ## l'alma
@@ -373,7 +373,7 @@
 - grouped: no
 
 ## tale uccel
-- type: non-person
+- type: deictic
 - labels: tale uccel
 - surfaces: ei (1), el (1), il (1), on (1), s' (1), si (1), tale uccel (1)
 - grouped: no
@@ -439,6 +439,12 @@
 - surfaces: creatura (3), l' (1), la creatura (1), si (1)
 - grouped: no
 
+## i Serafin
+- type: class
+- labels: i Serafin
+- surfaces: elli (3), colui (1), i Serafin (1), s' (1)
+- grouped: no
+
 ## il sommo bene
 - type: non-person
 - labels: il sommo bene
@@ -482,7 +488,7 @@
 - grouped: no
 
 ## quei che 'n sé repreme la punta del disio
-- type: class
+- type: deictic
 - labels: quei che 'n sé repreme la punta del disio
 - surfaces: ei (2), quei (1), s' (1), si (1), sé (1)
 - grouped: no
@@ -525,7 +531,7 @@
 - surfaces: ei (3), si (2)
 
 ## Questi ordini di sù
-- type: class
+- type: deictic
 - labels: Questi ordini di sù
 - surfaces: elli (3), Questi ordini di sù (1), s' (1)
 - grouped: no
@@ -599,6 +605,12 @@
 - type: class
 - labels: li moderni pastori
 - surfaces: elli (2), li (2), li moderni pastori (1)
+- grouped: no
+
+## questi spirti
+- type: deictic
+- labels: questi spirti
+- surfaces: elli (2), lor (1), questi spirti (1), si (1)
 - grouped: no
 
 ## sodalizio eletto
@@ -876,21 +888,21 @@
 - grouped: no
 
 ## quei candori
-- type: class
+- type: deictic
 - labels: quei candori
 - surfaces: elli (2), quei candori (1), si (1)
 - grouped: no
 
 ## quel serafin
-- type: individual
+- type: deictic
 - labels: quel serafin
 - surfaces: ei (1), quel serafin (1), quell' alma (1), si (1)
 - grouped: no
 
-## questi spirti
-- type: class
-- labels: questi spirti
-- surfaces: elli (1), lor (1), questi spirti (1), si (1)
+## umanità
+- type: non-person
+- labels: umanità | l'umanità
+- surfaces: ci (1), noi (1), si (1), voi (1)
 - grouped: no
 
 ## velocissime faville
@@ -1024,7 +1036,7 @@
 - grouped: no
 
 ## Questa cara gioia
-- type: non-person
+- type: deictic
 - labels: Questa cara gioia
 - surfaces: ella (2), Questa cara gioia (1)
 - grouped: no
@@ -1090,25 +1102,25 @@
 - grouped: no
 
 ## chi ad altro pensa
-- type: generic
+- type: deictic
 - labels: chi ad altro pensa
 - surfaces: chi (1), egli (1), si (1)
 - grouped: no
 
 ## chi cercasse a foglio a foglio
-- type: hypothetical-simile
+- type: deictic
 - labels: chi cercasse a foglio a foglio
 - surfaces: ei (2), chi (1)
 - grouped: no
 
 ## chi non credette
-- type: generic
+- type: deictic
 - labels: chi non credette
 - surfaces: chi (1), el (1), si (1)
 - grouped: no
 
 ## chi prende sua croce
-- type: generic
+- type: deictic
 - labels: chi prende sua croce
 - surfaces: ei (2), chi (1)
 - grouped: no
@@ -1126,19 +1138,19 @@
 - grouped: no
 
 ## coloro che si fanno grassi stando a consistoro
-- type: class
+- type: deictic
 - labels: coloro che si fanno grassi stando a consistoro
 - surfaces: coloro (1), elli (1), si (1)
 - grouped: no
 
 ## colui ch'a tutto 'l mondo fé paura
-- type: individual
+- type: deictic
 - labels: colui ch'a tutto 'l mondo fé paura
 - surfaces: ch' (1), colui (1), ei (1)
 - grouped: no
 
 ## colui che più al becco mi s'accosta
-- type: individual
+- type: deictic
 - labels: colui che più al becco mi s'accosta
 - surfaces: colui (1), elli (1), s' (1)
 - grouped: no
@@ -1177,12 +1189,6 @@
 - type: class
 - labels: i Francescani | Francescani
 - surfaces: La sua famiglia (1), poveri giusti (1), si (1)
-- grouped: no
-
-## i Serafin
-- type: class
-- labels: i Serafin
-- surfaces: colui (1), i Serafin (1), s' (1)
 - grouped: no
 
 ## il baccialier
@@ -1249,6 +1255,12 @@
 - type: generic
 - labels: l'ombra
 - surfaces: l'ombra (2), s' (1)
+- grouped: no
+
+## la Fede
+- type: non-person
+- labels: la Fede
+- surfaces: elli (1), la Fede (1), si (1)
 - grouped: no
 
 ## la Veronica
@@ -1395,32 +1407,44 @@
 - surfaces: le persone (1), persone (1), queste (1)
 - grouped: no
 
+## primi scalzi poverelli
+- type: class
+- labels: primi scalzi poverelli
+- surfaces: elli (1), primi scalzi poverelli (1), si (1)
+- grouped: no
+
 ## que' flailli
 - type: class
 - labels: que' flailli
 - surfaces: elli (1), que' flailli (1), spirto sol di pensier santi (1)
 - grouped: no
 
+## quel di Portogallo
+- type: deictic
+- labels: quel di Portogallo
+- surfaces: elli (1), quel (1), si (1)
+- grouped: no
+
 ## quella viva luce
-- type: individual
+- type: deictic
 - labels: quella viva luce
 - surfaces: ella (1), quella viva luce (1), si (1)
 - grouped: no
 
 ## quelle altr' ombre
-- type: class
+- type: deictic
 - labels: quelle altr' ombre
 - surfaces: ci (1), noi (1), quelle altr' ombre (1)
 - grouped: no
 
 ## quelle anime liete
-- type: class
+- type: deictic
 - labels: quelle anime liete
 - surfaces: elli (1), quelle anime liete (1), si (1)
 - grouped: no
 
 ## quelle sustanze
-- type: class
+- type: deictic
 - labels: quelle sustanze
 - surfaces: elle (1), le (1), quelle sustanze (1)
 - grouped: no
@@ -1432,13 +1456,13 @@
 - grouped: no
 
 ## questa festinata gente
-- type: class
+- type: deictic
 - labels: questa festinata gente
 - surfaces: ella (1), questa festinata gente (1), sé (1)
 - grouped: no
 
 ## queste genti
-- type: class
+- type: deictic
 - labels: queste genti
 - surfaces: queste genti (2), esse (1)
 - grouped: no
@@ -1467,6 +1491,12 @@
 - surfaces: chi (3)
 - grouped: no
 
+## spedito duce
+- type: individual
+- labels: spedito duce
+- surfaces: Noi (1), egli (1), spedito duce (1)
+- grouped: no
+
 ## spiriti ascolti
 - type: class
 - labels: spiriti ascolti
@@ -1485,10 +1515,10 @@
 - surfaces: lui (2), tal (1)
 - grouped: no
 
-## umanità
-- type: non-person
-- labels: umanità | l'umanità
-- surfaces: ci (1), si (1), voi (1)
+## trïunfanti
+- type: class
+- labels: trïunfanti
+- surfaces: i suoi sembianti (1), noi (1), trïunfanti (1)
 - grouped: no
 
 ## un altro di quelli splendori
@@ -1519,6 +1549,12 @@
 - type: non-person
 - labels: vostra vita
 - surfaces: ella (1), la (1), vostra vita (1)
+- grouped: no
+
+## ' Fabi
+- type: class
+- labels: ' Fabi
+- surfaces:  ' Fabi (1), elli (1)
 - grouped: no
 
 ## 'l gratular
@@ -1724,13 +1760,13 @@
 - grouped: no
 
 ## Quel sol
-- type: non-person
+- type: deictic
 - labels: Quel sol
 - surfaces: Quel sol (1), ei (1)
 - grouped: no
 
 ## Quelle tre donne
-- type: individual
+- type: deictic
 - labels: Quelle tre donne
 - surfaces: Quelle tre donne (1), li (1)
 - grouped: no
@@ -1819,37 +1855,37 @@
 - grouped: no
 
 ## chi 'l s'appropria
-- type: generic
+- type: deictic
 - labels: chi 'l s'appropria
 - surfaces: chi (1), s' (1)
 - grouped: no
 
 ## chi a lui s'oppone
-- type: generic
+- type: deictic
 - labels: chi a lui s'oppone
 - surfaces: chi (1), s' (1)
 - grouped: no
 
 ## chi nol sa
-- type: generic
+- type: deictic
 - labels: chi nol sa
 - surfaces: chi (1), elli (1)
 - grouped: no
 
 ## chi più si falli
-- type: generic
+- type: deictic
 - labels: chi più si falli
 - surfaces: chi (1), si (1)
 - grouped: no
 
 ## chi umilmente
-- type: generic
+- type: deictic
 - labels: chi umilmente
 - surfaces: chi (1), s' (1)
 - grouped: no
 
 ## chi vuol grazia
-- type: generic
+- type: deictic
 - labels: chi vuol grazia
 - surfaces: chi (1), elli (1)
 - grouped: no
@@ -1879,7 +1915,7 @@
 - grouped: no
 
 ## colui ch'adocchia
-- type: generic
+- type: deictic
 - labels: colui ch'adocchia
 - surfaces: colui (1), s' (1)
 - grouped: no
@@ -1936,10 +1972,28 @@
 - type: set
 - members: filosofi | predicanti
 
+## fratel
+- type: individual
+- labels: fratel
+- surfaces: del fratel (1), elli (1)
+- grouped: no
+
 ## gran barone
 - type: generic
 - labels: gran barone
 - surfaces: del gran barone (1), esso (1)
+- grouped: no
+
+## i Catellini
+- type: class
+- labels: i Catellini
+- surfaces: i Catellini (1), illustri cittadini (1)
+- grouped: no
+
+## i Deci
+- type: class
+- labels: i Deci
+- surfaces: elli (1), i Deci (1)
 - grouped: no
 
 ## i Serafin, Moïsè, Samuel, Giovanni, Maria
@@ -2262,6 +2316,12 @@
 - surfaces: li (1), li 'ntelletti (1)
 - grouped: no
 
+## li Ughi
+- type: class
+- labels: li Ughi
+- surfaces: illustri cittadini (1), li Ughi (1)
+- grouped: no
+
 ## li alimenti, quelle cose che di lor si fanno
 - type: non-person
 - labels: li alimenti, quelle cose che di lor si fanno
@@ -2376,12 +2436,6 @@
 - surfaces: più folgór vivi e vincenti (1), sé (1)
 - grouped: no
 
-## primi scalzi poverelli
-- type: class
-- labels: primi scalzi poverelli
-- surfaces: primi scalzi poverelli (1), si (1)
-- grouped: no
-
 ## primo amore
 - type: individual
 - labels: primo amore
@@ -2407,49 +2461,49 @@
 - grouped: no
 
 ## quei ch'a Cristo venuto ebber li visi
-- type: class
+- type: deictic
 - labels: quei ch'a Cristo venuto ebber li visi
 - surfaces: quei (1), si (1)
 - grouped: no
 
 ## quei che la cosa per nome apprende ben
-- type: generic
+- type: deictic
 - labels: quei che la cosa per nome apprende ben
 - surfaces: egli (1), quei (1)
 - grouped: no
 
 ## quei che vanno a rota
-- type: class
+- type: deictic
 - labels: quei che vanno a rota
 - surfaces: elli (1), quei (1)
 - grouped: no
 
 ## quei lucenti incendi
-- type: class
+- type: deictic
 - labels: quei lucenti incendi
 - surfaces: quei lucenti incendi (1), si (1)
 - grouped: no
 
 ## quei lumi divini
-- type: class
+- type: deictic
 - labels: quei lumi divini
 - surfaces: quei (1), quei lumi divini (1)
 - grouped: no
 
 ## quei santi lumi
-- type: class
+- type: deictic
 - labels: quei santi lumi
 - surfaces: quei santi lumi (1), sé (1)
 - grouped: no
 
 ## quel ch'era dentro al sol
-- type: individual
+- type: deictic
 - labels: quel ch'era dentro al sol
 - surfaces: quel (1), sé (1)
 - grouped: no
 
 ## quel corno d'Ausonia
-- type: individual
+- type: deictic
 - labels: quel corno d'Ausonia
 - surfaces: quel corno d'Ausonia (1), s' (1)
 - grouped: no
@@ -2471,7 +2525,7 @@
 - grouped: no
 
 ## quella di più carezza
-- type: individual
+- type: deictic
 - labels: quella di più carezza
 - surfaces: ella (1), quella (1)
 - grouped: no
@@ -2536,12 +2590,6 @@
 - surfaces: ci (1), serve (1)
 - grouped: no
 
-## spedito duce
-- type: individual
-- labels: spedito duce
-- surfaces: egli (1), spedito duce (1)
-- grouped: no
-
 ## spiriti chiamati
 - type: class
 - labels: spiriti chiamati
@@ -2552,6 +2600,12 @@
 - type: individual
 - labels: suo fattore
 - surfaces: suo fattore (2)
+- grouped: no
+
+## suoi consorti
+- type: class
+- labels: suoi consorti
+- surfaces: suoi consorti (1), v' (1)
 - grouped: no
 
 ## tai Cristian
@@ -2570,12 +2624,6 @@
 - type: non-person
 - labels: trina luce
 - surfaces: trina luce (1), tu (1)
-- grouped: no
-
-## trïunfanti
-- type: class
-- labels: trïunfanti
-- surfaces: i suoi sembianti (1), trïunfanti (1)
 - grouped: no
 
 ## tutti li altri
@@ -2600,12 +2648,6 @@
 - type: class
 - labels: voi che prima a Roma s'offerie
 - surfaces: s' (1), voi (1)
-- grouped: no
-
-## ' Fabi
-- type: class
-- labels: ' Fabi
-- surfaces:  ' Fabi (1)
 - grouped: no
 
 ## 'l Caponsacco
@@ -2925,10 +2967,8 @@
 - members: Dante | Enrico VII
 
 ## Dante, i fedeli
-- type: class
-- labels: Dante, i fedeli
-- surfaces: ci (1)
-- grouped: no
+- type: set
+- members: Dante | i fedeli
 
 ## Dante, suoi consorti
 - type: set
@@ -3491,7 +3531,7 @@
 - surfaces: Pïo (1)
 
 ## Quel de la Pressa
-- type: individual
+- type: deictic
 - labels: Quel de la Pressa
 - surfaces: Quel (1)
 - grouped: no
@@ -3932,19 +3972,19 @@
 - grouped: no
 
 ## chi di lei ben ode
-- type: generic
+- type: deictic
 - labels: chi di lei ben ode
 - surfaces: chi (1)
 - grouped: no
 
 ## chi la giustizia e lui diparte
-- type: generic
+- type: deictic
 - labels: chi la giustizia e lui diparte
 - surfaces: chi (1)
 - grouped: no
 
 ## chi pesca per lo vero e non ha l'arte
-- type: hypothetical-simile
+- type: deictic
 - labels: chi pesca per lo vero e non ha l'arte
 - surfaces: chi (1)
 - grouped: no
@@ -3980,7 +4020,7 @@
 - grouped: no
 
 ## coloro che questo tempo chiameranno antico
-- type: class
+- type: deictic
 - labels: coloro che questo tempo chiameranno antico
 - surfaces: coloro (1)
 - grouped: no
@@ -3992,19 +4032,19 @@
 - grouped: no
 
 ## colui che forse di Croazia
-- type: individual
+- type: deictic
 - labels: colui che forse di Croazia
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che la fascia col fregio
-- type: individual
+- type: deictic
 - labels: colui che la fascia col fregio
 - surfaces: colui (1)
 - grouped: no
 
 ## colui che non intende e ode
-- type: generic
+- type: deictic
 - labels: colui che non intende e ode
 - surfaces: colui (1)
 - grouped: no
@@ -4117,12 +4157,6 @@
 - surfaces: questo fior venusto (1)
 - grouped: no
 
-## fratel
-- type: individual
-- labels: fratel
-- surfaces: del fratel (1)
-- grouped: no
-
 ## general human soul/observer
 - type: generic
 - labels: general human soul/observer
@@ -4177,18 +4211,6 @@
 - surfaces: chi (1)
 - grouped: no
 
-## i Catellini
-- type: class
-- labels: i Catellini
-- surfaces: i Catellini (1)
-- grouped: no
-
-## i Deci
-- type: class
-- labels: i Deci
-- surfaces: i Deci (1)
-- grouped: no
-
 ## i Filippi
 - type: class
 - labels: i Filippi | Filippi
@@ -4227,6 +4249,12 @@
 - type: class
 - labels: i due collegi
 - surfaces: si (1)
+- grouped: no
+
+## i fedeli
+- type: class
+- labels: i fedeli
+- surfaces: ci (1)
 - grouped: no
 
 ## i fiorentini
@@ -4587,12 +4615,6 @@
 - surfaces: l'un (1)
 - grouped: no
 
-## la Fede
-- type: non-person
-- labels: la Fede
-- surfaces: la Fede (1)
-- grouped: no
-
 ## la Sannella
 - type: class
 - labels: la Sannella
@@ -4873,12 +4895,6 @@
 - type: class
 - labels: li Perse
 - surfaces: elli (1)
-- grouped: no
-
-## li Ughi
-- type: class
-- labels: li Ughi
-- surfaces: li Ughi (1)
 - grouped: no
 
 ## li Ughi, i Catellini, Filippi, Greci, Ormanni, Alberichi
@@ -5262,151 +5278,145 @@
 - grouped: no
 
 ## quei ch'arrossan per lo staio
-- type: class
+- type: deictic
 - labels: quei ch'arrossan per lo staio
 - surfaces: quei (1)
 - grouped: no
 
 ## quei ch'or son vivi
-- type: class
+- type: deictic
 - labels: quei ch'or son vivi
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che corre il vostro annüal gioco
-- type: class
+- type: deictic
 - labels: quei che corre il vostro annüal gioco
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che credettero in Cristo venturo
-- type: class
+- type: deictic
 - labels: quei che credettero in Cristo venturo
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che guarda l'isola del foco
-- type: individual
+- type: deictic
 - labels: quei che guarda l'isola del foco
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che son disfatti per lor superbia
-- type: class
+- type: deictic
 - labels: quei che son disfatti per lor superbia
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che stima le biade in campo pria che sien mature
-- type: hypothetical-simile
+- type: deictic
 - labels: quei che stima le biade in campo pria che sien mature
 - surfaces: quei (1)
 - grouped: no
 
 ## quei che vede e puote
-- type: generic
+- type: deictic
 - labels: quei che vede e puote
 - surfaces: quei (1)
 - grouped: no
 
 ## quei cotali
-- type: generic
+- type: deictic
 - labels: quei cotali
 - surfaces: quei cotali (1)
 - grouped: no
 
 ## quei de la Pera
-- type: class
+- type: deictic
 - labels: quei de la Pera
 - surfaces: quei (1)
 - grouped: no
 
 ## quei fuochi pii
-- type: non-person
+- type: deictic
 - labels: quei fuochi pii
 - surfaces: quei fuochi pii (1)
 - grouped: no
 
 ## quei lumi
-- type: class
+- type: deictic
 - labels: quei lumi
 - surfaces: quei lumi (1)
 - grouped: no
 
 ## quel ch'ode
-- type: generic
+- type: deictic
 - labels: quel ch'ode
 - surfaces: quel (1)
 - grouped: no
 
 ## quel che morrà di colpo di cotenna
-- type: individual
+- type: deictic
 - labels: quel che morrà di colpo di cotenna
 - surfaces: quel (1)
 - grouped: no
 
 ## quel che pate
-- type: generic
+- type: deictic
 - labels: quel che pate
 - surfaces: quel (1)
 - grouped: no
 
 ## quel che sforza
-- type: generic
+- type: deictic
 - labels: quel che sforza
 - surfaces: quel (1)
 - grouped: no
 
 ## quel d'i Nerli
-- type: individual
+- type: deictic
 - labels: quel d'i Nerli
 - surfaces: quel (1)
 - grouped: no
 
 ## quel da Signa
-- type: individual
+- type: deictic
 - labels: quel da Signa
 - surfaces: quel (1)
 - grouped: no
 
 ## quel de l'Arca
-- type: individual
+- type: deictic
 - labels: quel de l'Arca
 - surfaces: quel (1)
 - grouped: no
 
 ## quel de la Sannella
-- type: individual
+- type: deictic
 - labels: quel de la Sannella
 - surfaces: quel (1)
 - grouped: no
 
 ## quel del Vecchio
-- type: individual
+- type: deictic
 - labels: quel del Vecchio
 - surfaces: quel (1)
 - grouped: no
 
 ## quel di Boemme
-- type: individual
+- type: deictic
 - labels: quel di Boemme
 - surfaces: quel (1)
 - grouped: no
 
-## quel di Portogallo
-- type: individual
-- labels: quel di Portogallo
-- surfaces: quel (1)
-- grouped: no
-
 ## quel di Rascia
-- type: individual
+- type: deictic
 - labels: quel di Rascia
 - surfaces: quel (1)
 - grouped: no
 
 ## quel di Spagna
-- type: individual
+- type: deictic
 - labels: quel di Spagna
 - surfaces: quel (1)
 - grouped: no
@@ -5418,43 +5428,43 @@
 - grouped: no
 
 ## quella Rodopëa
-- type: individual
+- type: deictic
 - labels: quella Rodopëa
 - surfaces: quella Rodopëa (1)
 - grouped: no
 
 ## quella creatura
-- type: individual
+- type: deictic
 - labels: quella creatura
 - surfaces: quella creatura (1)
 - grouped: no
 
 ## quella famiglia
-- type: class
+- type: deictic
 - labels: quella famiglia
 - surfaces: quella famiglia (1)
 - grouped: no
 
 ## quella gente
-- type: class
+- type: deictic
 - labels: quella gente
 - surfaces: quella gente (1)
 - grouped: no
 
 ## quella terra
-- type: non-person
+- type: deictic
 - labels: quella terra
 - surfaces: quella terra (1)
 - grouped: no
 
 ## quelle c'hanno intelletto e amore
-- type: class
+- type: deictic
 - labels: quelle c'hanno intelletto e amore
 - surfaces: quelle (1)
 - grouped: no
 
 ## quelle genti
-- type: class
+- type: deictic
 - labels: quelle genti
 - surfaces: quelle genti (1)
 - grouped: no
@@ -5472,31 +5482,31 @@
 - grouped: no
 
 ## questi altri beati
-- type: class
+- type: deictic
 - labels: questi altri beati
 - surfaces: questi altri beati (1)
 - grouped: no
 
 ## questi corpi levi
-- type: class
+- type: deictic
 - labels: questi corpi levi
 - surfaces: questi corpi levi (1)
 - grouped: no
 
 ## questi ordini
-- type: class
+- type: deictic
 - labels: questi ordini
 - surfaces: elli (1)
 - grouped: no
 
 ## questi segni
-- type: non-person
+- type: deictic
 - labels: questi segni
 - surfaces: questi segni (1)
 - grouped: no
 
 ## questo mondo
-- type: non-person
+- type: deictic
 - labels: questo mondo
 - surfaces: ci (1)
 - grouped: no
@@ -5605,12 +5615,6 @@
 - type: individual
 - labels: suocero | il suocero
 - surfaces: il suocero (1)
-- grouped: no
-
-## suoi consorti
-- type: class
-- labels: suoi consorti
-- surfaces: suoi consorti (1)
 - grouped: no
 
 ## suoi conti

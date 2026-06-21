@@ -47,9 +47,12 @@
 {"id": "l'anima feroce", "type": "generic", "members": null}
 {"id": "l'uom", "type": "generic", "members": null}
 {"id": "lettor", "type": "generic", "members": null}
+{"id": "spiriti", "type": "class", "members": null}
 {"id": "Frate Gomita", "type": "individual", "members": null}
 {"id": "Nicola III", "type": "individual", "members": null}
 {"id": "Pier della Vigna", "type": "individual", "members": null}
+{"id": "li altri", "type": "generic", "members": null}
+{"id": "morte", "type": "non-person", "members": null}
 {"id": "Bertram dal Bornio", "type": "individual", "members": null}
 {"id": "Bocca", "type": "individual", "members": null}
 {"id": "Capocchio", "type": "individual", "members": null}
@@ -58,7 +61,6 @@
 {"id": "Minotauro", "type": "individual", "members": null}
 {"id": "Pier da Medicina", "type": "individual", "members": null}
 {"id": "Virgilio, Dante", "type": "set", "members": ["Virgilio", "Dante"]}
-{"id": "morte", "type": "non-person", "members": null}
 {"id": "natura", "type": "non-person", "members": null}
 {"id": "Enea", "type": "individual", "members": null}
 {"id": "Giove", "type": "individual", "members": null}
@@ -68,7 +70,6 @@
 {"id": "Sinon", "type": "individual", "members": null}
 {"id": "Sinone", "type": "individual", "members": null}
 {"id": "l tronco", "type": "non-person", "members": null}
-{"id": "spiriti", "type": "class", "members": null}
 {"id": "un de' tristi", "type": "generic", "members": null}
 {"id": "Albero", "type": "non-person", "members": null}
 {"id": "Camiscion de' Pazzi", "type": "individual", "members": null}
@@ -81,6 +82,7 @@
 {"id": "demoni", "type": "class", "members": null}
 {"id": "frate Alberigo", "type": "individual", "members": null}
 {"id": "i peccatori", "type": "class", "members": null}
+{"id": "il serpente", "type": "non-person", "members": null}
 {"id": "l capo tronco", "type": "non-person", "members": null}
 {"id": "l'ombra che morde", "type": "individual", "members": null}
 {"id": "Alberigo", "type": "individual", "members": null}
@@ -93,12 +95,12 @@
 {"id": "Mosca", "type": "individual", "members": null}
 {"id": "Taïde", "type": "individual", "members": null}
 {"id": "cherci", "type": "class", "members": null}
+{"id": "compagni", "type": "class", "members": null}
 {"id": "due becchi", "type": "non-person", "members": null}
 {"id": "i Giganti", "type": "class", "members": null}
 {"id": "il mal seme d'Adamo", "type": "class", "members": null}
 {"id": "la madre", "type": "individual", "members": null}
 {"id": "le genti", "type": "class", "members": null}
-{"id": "li altri", "type": "generic", "members": null}
 {"id": "un'ombra", "type": "generic", "members": null}
 {"id": "Atamante", "type": "individual", "members": null}
 {"id": "Caifasse", "type": "individual", "members": null}
@@ -107,14 +109,13 @@
 {"id": "Omero", "type": "individual", "members": null}
 {"id": "Omero, Orazio, Ovidio, Lucano, Virgilio", "type": "set", "members": ["Omero", "Orazio", "Ovidio", "Lucano", "Virgilio"]}
 {"id": "arcivescovo Ruggieri", "type": "individual", "members": null}
-{"id": "compagni", "type": "class", "members": null}
 {"id": "i fiorentini", "type": "class", "members": null}
 {"id": "ignavi", "type": "class", "members": null}
 {"id": "l'ombra", "type": "generic", "members": null}
 {"id": "la terra", "type": "non-person", "members": null}
 {"id": "mastino sciolto", "type": "non-person", "members": null}
-{"id": "quei de la palude pingue", "type": "class", "members": null}
-{"id": "quel peccator", "type": "generic", "members": null}
+{"id": "quei de la palude pingue", "type": "deictic", "members": null}
+{"id": "quel peccator", "type": "deictic", "members": null}
 {"id": "quest' anime stanche", "type": "class", "members": null}
 {"id": "ser Brunetto", "type": "individual", "members": null}
 {"id": "the soul in the second flame", "type": "individual", "members": null}
@@ -132,6 +133,7 @@
 {"id": "Minosse", "type": "individual", "members": null}
 {"id": "Nembrotto", "type": "individual", "members": null}
 {"id": "Ovidio", "type": "individual", "members": null}
+{"id": "Rubicante pazzo", "type": "individual", "members": null}
 {"id": "San Pietro", "type": "individual", "members": null}
 {"id": "Sassol Mascheroni", "type": "individual", "members": null}
 {"id": "Viniziani", "type": "class", "members": null}
@@ -140,13 +142,14 @@
 {"id": "cacciati del ciel", "type": "class", "members": null}
 {"id": "centauri", "type": "class", "members": null}
 {"id": "l'imperador", "type": "individual", "members": null}
+{"id": "la falsa", "type": "individual", "members": null}
 {"id": "la parte selvaggia", "type": "non-person", "members": null}
 {"id": "li spirti", "type": "class", "members": null}
 {"id": "lo spaürato", "type": "individual", "members": null}
 {"id": "orrevol gente", "type": "class", "members": null}
 {"id": "persona orgogliosa", "type": "generic", "members": null}
-{"id": "quel cane", "type": "individual", "members": null}
-{"id": "quel grande", "type": "individual", "members": null}
+{"id": "quel cane", "type": "deictic", "members": null}
+{"id": "quel grande", "type": "deictic", "members": null}
 {"id": "simoniaci", "type": "class", "members": null}
 {"id": "tre furïe infernal", "type": "class", "members": null}
 {"id": "un gran pruno", "type": "non-person", "members": null}
@@ -165,7 +168,6 @@
 {"id": "Megera, Alecto, Tesifone", "type": "set", "members": ["Megera", "Alecto", "Tesifone"]}
 {"id": "Mirra", "type": "individual", "members": null}
 {"id": "Omero, Orazio, Ovidio, Lucano", "type": "set", "members": ["Omero", "Orazio", "Ovidio", "Lucano"]}
-{"id": "Rubicante pazzo", "type": "individual", "members": null}
 {"id": "Ser Brunetto Latino", "type": "individual", "members": null}
 {"id": "demonio", "type": "generic", "members": null}
 {"id": "fra Dolcin", "type": "individual", "members": null}
@@ -173,7 +175,7 @@
 {"id": "l'anima, il serpente", "type": "set", "members": ["l'anima", "il serpente"]}
 {"id": "la porta dell'Inferno", "type": "non-person", "members": null}
 {"id": "li ammalati", "type": "class", "members": null}
-{"id": "quel cattivo coro de li angeli", "type": "class", "members": null}
+{"id": "quel cattivo coro de li angeli", "type": "deictic", "members": null}
 {"id": "quell' anime", "type": "class", "members": null}
 {"id": "ser Branca Doria", "type": "individual", "members": null}
 {"id": "spirito incarcerato", "type": "generic", "members": null}
@@ -190,6 +192,7 @@
 {"id": "Briareo", "type": "individual", "members": null}
 {"id": "Cagnazzo", "type": "individual", "members": null}
 {"id": "Caron", "type": "individual", "members": null}
+{"id": "Cirïatto sannuto", "type": "individual", "members": null}
 {"id": "Clemente V", "type": "individual", "members": null}
 {"id": "Didone", "type": "individual", "members": null}
 {"id": "Eretici", "type": "class", "members": null}
@@ -211,20 +214,21 @@
 {"id": "Pisa", "type": "non-person", "members": null}
 {"id": "Simon mago, miseri seguaci", "type": "set", "members": ["Simon mago", "miseri seguaci"]}
 {"id": "Tiresia", "type": "individual", "members": null}
-{"id": "Ulisse, i suoi compagni", "type": "individual", "members": null}
+{"id": "Ulisse, i suoi compagni", "type": "set", "members": ["Ulisse", "i suoi compagni"]}
 {"id": "Vulcano", "type": "individual", "members": null}
 {"id": "alcun", "type": "generic", "members": null}
 {"id": "anime mal nate", "type": "class", "members": null}
 {"id": "anime prave", "type": "class", "members": null}
 {"id": "cittadini", "type": "class", "members": null}
-{"id": "colui che suo dannaggio sogna", "type": "hypothetical-simile", "members": null}
+{"id": "colui che suo dannaggio sogna", "type": "deictic", "members": null}
 {"id": "cotesti due", "type": "individual", "members": null}
 {"id": "crucifisso", "type": "non-person", "members": null}
 {"id": "figlio", "type": "individual", "members": null}
+{"id": "i figli di Ugolino", "type": "class", "members": null}
 {"id": "i figliuoli di Ugolino", "type": "class", "members": null}
 {"id": "i peccator carnali", "type": "class", "members": null}
+{"id": "i suoi compagni", "type": "individual", "members": null}
 {"id": "il peccatore padovano", "type": "individual", "members": null}
-{"id": "il serpente", "type": "non-person", "members": null}
 {"id": "incontinenti", "type": "class", "members": null}
 {"id": "l serpente", "type": "non-person", "members": null}
 {"id": "l'altra parte", "type": "non-person", "members": null}
@@ -234,11 +238,14 @@
 {"id": "le cose", "type": "non-person", "members": null}
 {"id": "li maggior", "type": "class", "members": null}
 {"id": "lo sciagurato", "type": "individual", "members": null}
+{"id": "messer Guido", "type": "individual", "members": null}
 {"id": "nemici", "type": "class", "members": null}
-{"id": "quei che volontieri acquista", "type": "class", "members": null}
-{"id": "quei più che cagion fu del difetto", "type": "individual", "members": null}
-{"id": "quelle genti", "type": "class", "members": null}
-{"id": "questa fiamma", "type": "non-person", "members": null}
+{"id": "prossimo", "type": "generic", "members": null}
+{"id": "quattro visi", "type": "non-person", "members": null}
+{"id": "quei che volontieri acquista", "type": "deictic", "members": null}
+{"id": "quei più che cagion fu del difetto", "type": "deictic", "members": null}
+{"id": "quelle genti", "type": "deictic", "members": null}
+{"id": "questa fiamma", "type": "deictic", "members": null}
 {"id": "scornati", "type": "class", "members": null}
 {"id": "seminator di scandalo e di scisma", "type": "class", "members": null}
 {"id": "tre spiriti", "type": "individual", "members": null}
@@ -252,14 +259,13 @@
 {"id": "Attila", "type": "individual", "members": null}
 {"id": "Azzolino", "type": "individual", "members": null}
 {"id": "Celestino V", "type": "individual", "members": null}
-{"id": "Cirïatto sannuto", "type": "individual", "members": null}
 {"id": "Costantino", "type": "individual", "members": null}
 {"id": "Dante, Virgilio, Nesso", "type": "set", "members": ["Dante", "Virgilio", "Nesso"]}
 {"id": "Dite", "type": "non-person", "members": null}
 {"id": "Dïascoride", "type": "individual", "members": null}
 {"id": "Ercule", "type": "individual", "members": null}
 {"id": "Farinata, Tegghiaio, Iacopo Rusticucci, Arrigo, Mosca", "type": "set", "members": ["Farinata", "Tegghiaio", "Iacopo Rusticucci", "Arrigo", "Mosca"]}
-{"id": "Farinata, le anime dell'Inferno", "type": "class", "members": null}
+{"id": "Farinata, le anime dell'Inferno", "type": "set", "members": ["Farinata", "le anime dell'Inferno"]}
 {"id": "Filosofia", "type": "non-person", "members": null}
 {"id": "Flegeo", "type": "individual", "members": null}
 {"id": "Fra Alberigo", "type": "individual", "members": null}
@@ -270,6 +276,7 @@
 {"id": "Iacopo", "type": "individual", "members": null}
 {"id": "La meretrice", "type": "generic", "members": null}
 {"id": "Lancialotto", "type": "individual", "members": null}
+{"id": "Li miei compagni", "type": "class", "members": null}
 {"id": "Lo maggior corno", "type": "non-person", "members": null}
 {"id": "Medea", "type": "individual", "members": null}
 {"id": "Michel Zanche", "type": "individual", "members": null}
@@ -279,7 +286,7 @@
 {"id": "Paolo", "type": "individual", "members": null}
 {"id": "Pistoia", "type": "non-person", "members": null}
 {"id": "Puccio Sciancato", "type": "individual", "members": null}
-{"id": "Questi sciaurati", "type": "class", "members": null}
+{"id": "Questi sciaurati", "type": "deictic", "members": null}
 {"id": "Scarmiglione", "type": "individual", "members": null}
 {"id": "Tegghiaio Aldobrandi", "type": "individual", "members": null}
 {"id": "Tidëo", "type": "individual", "members": null}
@@ -291,11 +298,10 @@
 {"id": "barrattori", "type": "class", "members": null}
 {"id": "chiunque entri nell'Inferno", "type": "generic", "members": null}
 {"id": "color che 'n sé assanna", "type": "class", "members": null}
-{"id": "colui che va giuso", "type": "individual", "members": null}
+{"id": "colui che va giuso", "type": "deictic", "members": null}
 {"id": "drudo suo", "type": "individual", "members": null}
 {"id": "genti fangose", "type": "class", "members": null}
 {"id": "i campion", "type": "class", "members": null}
-{"id": "i figli di Ugolino", "type": "class", "members": null}
 {"id": "i miseri profani", "type": "class", "members": null}
 {"id": "il Padre", "type": "individual", "members": null}
 {"id": "il padoano", "type": "individual", "members": null}
@@ -310,6 +316,7 @@
 {"id": "la fiamma", "type": "non-person", "members": null}
 {"id": "la meretrice di Babilonia", "type": "individual", "members": null}
 {"id": "la moglie", "type": "generic", "members": null}
+{"id": "le anime dell'Inferno", "type": "class", "members": null}
 {"id": "le brutte Arpie", "type": "class", "members": null}
 {"id": "le genti antiche", "type": "class", "members": null}
 {"id": "le triste", "type": "class", "members": null}
@@ -317,15 +324,16 @@
 {"id": "li frodolenti", "type": "class", "members": null}
 {"id": "li sferzati", "type": "class", "members": null}
 {"id": "messer Guido, Angiolello", "type": "set", "members": ["messer Guido", "Angiolello"]}
+{"id": "miser", "type": "generic", "members": null}
 {"id": "persona", "type": "generic", "members": null}
-{"id": "quattro visi", "type": "non-person", "members": null}
-{"id": "quei ch'adopera ed estima", "type": "class", "members": null}
-{"id": "quella gente stanca", "type": "class", "members": null}
+{"id": "quei ch'adopera ed estima", "type": "deictic", "members": null}
+{"id": "quella gente stanca", "type": "deictic", "members": null}
 {"id": "quelli che muoion ne l'ira di Dio", "type": "class", "members": null}
-{"id": "queste misere carni", "type": "non-person", "members": null}
+{"id": "queste misere carni", "type": "deictic", "members": null}
 {"id": "ruffiani e seduttori", "type": "class", "members": null}
 {"id": "serpe", "type": "non-person", "members": null}
 {"id": "serpenti", "type": "non-person", "members": null}
+{"id": "the second spirit who was transformed", "type": "individual", "members": null}
 {"id": "tre fiorentini", "type": "class", "members": null}
 {"id": "tre ombre", "type": "class", "members": null}
 {"id": "un diavol nero", "type": "generic", "members": null}
@@ -357,7 +365,7 @@
 {"id": "Davìd", "type": "individual", "members": null}
 {"id": "Deïdamìa", "type": "individual", "members": null}
 {"id": "Dio Padre", "type": "individual", "members": null}
-{"id": "Dio, sé, prossimo", "type": "generic", "members": null}
+{"id": "Dio, sé, prossimo", "type": "set", "members": ["Dio", "sé", "prossimo"]}
 {"id": "Draghignazzo", "type": "individual", "members": null}
 {"id": "Enëa", "type": "individual", "members": null}
 {"id": "Eretico", "type": "class", "members": null}
@@ -371,14 +379,13 @@
 {"id": "Genovesi", "type": "class", "members": null}
 {"id": "Gianni de' Soldanier", "type": "individual", "members": null}
 {"id": "Giovanni Vangelista", "type": "individual", "members": null}
-{"id": "Guido, Alessandro, il fratello", "type": "individual", "members": null}
+{"id": "Guido, Alessandro, il fratello", "type": "set", "members": ["Guido", "Alessandro", "il fratello"]}
 {"id": "Isifile", "type": "individual", "members": null}
 {"id": "Isopo", "type": "individual", "members": null}
 {"id": "Iunone", "type": "individual", "members": null}
 {"id": "Lavina", "type": "individual", "members": null}
 {"id": "Learco", "type": "individual", "members": null}
 {"id": "Li altri due", "type": "individual", "members": null}
-{"id": "Li miei compagni", "type": "class", "members": null}
 {"id": "Lo caldo sghermitor", "type": "individual", "members": null}
 {"id": "Malatesta Vecchio, Malatesta Giovane", "type": "set", "members": ["Malatesta Vecchio", "Malatesta Giovane"]}
 {"id": "Matia", "type": "individual", "members": null}
@@ -395,18 +402,19 @@
 {"id": "Satàn", "type": "individual", "members": null}
 {"id": "Vitalïano", "type": "individual", "members": null}
 {"id": "a' marinar", "type": "class", "members": null}
+{"id": "altri", "type": "generic", "members": null}
 {"id": "anima fella", "type": "generic", "members": null}
 {"id": "cani", "type": "non-person", "members": null}
 {"id": "cavalier", "type": "hypothetical-simile", "members": null}
-{"id": "chi guarda sottilmente", "type": "generic", "members": null}
-{"id": "chi non si pente", "type": "class", "members": null}
+{"id": "chi guarda sottilmente", "type": "deictic", "members": null}
+{"id": "chi non si pente", "type": "deictic", "members": null}
 {"id": "ciascun", "type": "generic", "members": null}
 {"id": "color che non veggion pur l'ovra", "type": "class", "members": null}
 {"id": "color che son contenti nel foco", "type": "class", "members": null}
-{"id": "coloro che corrono a Verona", "type": "class", "members": null}
+{"id": "coloro che corrono a Verona", "type": "deictic", "members": null}
 {"id": "colpa", "type": "non-person", "members": null}
-{"id": "colui che 'l mondo schiara", "type": "individual", "members": null}
-{"id": "colui che sì presso ha 'l riprezzo de la quartana", "type": "individual", "members": null}
+{"id": "colui che 'l mondo schiara", "type": "deictic", "members": null}
+{"id": "colui che sì presso ha 'l riprezzo de la quartana", "type": "deictic", "members": null}
 {"id": "d'anime una schiera", "type": "class", "members": null}
 {"id": "dio d'oro e d'argento", "type": "non-person", "members": null}
 {"id": "due ghiacciati", "type": "class", "members": null}
@@ -419,10 +427,12 @@
 {"id": "i Troiani", "type": "class", "members": null}
 {"id": "i cattivi", "type": "class", "members": null}
 {"id": "i falsador", "type": "class", "members": null}
+{"id": "i figli", "type": "class", "members": null}
 {"id": "i morti", "type": "class", "members": null}
 {"id": "il Batista", "type": "individual", "members": null}
 {"id": "il Sole", "type": "non-person", "members": null}
 {"id": "il diavolo", "type": "individual", "members": null}
+{"id": "il fratello", "type": "individual", "members": null}
 {"id": "il messaggero", "type": "individual", "members": null}
 {"id": "il padre di Cavalcante della Scala", "type": "individual", "members": null}
 {"id": "il padre, 'l figlio", "type": "set", "members": ["il padre", "'l figlio"]}
@@ -449,7 +459,6 @@
 {"id": "la bufera infernal", "type": "non-person", "members": null}
 {"id": "la divina giustizia", "type": "non-person", "members": null}
 {"id": "la donna", "type": "generic", "members": null}
-{"id": "la falsa", "type": "individual", "members": null}
 {"id": "la fiamma cornuta", "type": "non-person", "members": null}
 {"id": "la gente mesta", "type": "class", "members": null}
 {"id": "la lupa", "type": "non-person", "members": null}
@@ -471,20 +480,19 @@
 {"id": "lingua", "type": "non-person", "members": null}
 {"id": "lo furo", "type": "generic", "members": null}
 {"id": "lonza", "type": "non-person", "members": null}
-{"id": "miser", "type": "generic", "members": null}
+{"id": "lor frate", "type": "individual", "members": null}
 {"id": "molta gente", "type": "class", "members": null}
 {"id": "muse", "type": "class", "members": null}
 {"id": "nvidia", "type": "non-person", "members": null}
 {"id": "plebe", "type": "class", "members": null}
-{"id": "prossimo", "type": "generic", "members": null}
 {"id": "que' cittadin", "type": "class", "members": null}
 {"id": "que' nostri avversari", "type": "class", "members": null}
-{"id": "quei che 'l fenno", "type": "class", "members": null}
-{"id": "quei che con lena affannata, uscito fuor del pelago a la riva", "type": "class", "members": null}
-{"id": "quei che disvuol ciò che volle", "type": "class", "members": null}
-{"id": "quei che scommettendo acquistan carco", "type": "class", "members": null}
-{"id": "quel caduto", "type": "individual", "members": null}
-{"id": "questa gente maladetta", "type": "class", "members": null}
+{"id": "quei che 'l fenno", "type": "deictic", "members": null}
+{"id": "quei che con lena affannata, uscito fuor del pelago a la riva", "type": "deictic", "members": null}
+{"id": "quei che disvuol ciò che volle", "type": "deictic", "members": null}
+{"id": "quei che scommettendo acquistan carco", "type": "deictic", "members": null}
+{"id": "quel caduto", "type": "deictic", "members": null}
+{"id": "questa gente maladetta", "type": "deictic", "members": null}
 {"id": "ruscelletto", "type": "non-person", "members": null}
 {"id": "serpente, spirito", "type": "set", "members": ["serpente", "spirito"]}
 {"id": "simile", "type": "non-person", "members": null}
@@ -492,14 +500,15 @@
 {"id": "spirito", "type": "generic", "members": null}
 {"id": "spirti maladetti", "type": "class", "members": null}
 {"id": "suo compagno", "type": "individual", "members": null}
+{"id": "sé", "type": "individual", "members": null}
 {"id": "the event involving Florence and Prato", "type": "non-person", "members": null}
-{"id": "the second spirit who was transformed", "type": "individual", "members": null}
 {"id": "tiranni", "type": "class", "members": null}
 {"id": "tormenti", "type": "non-person", "members": null}
 {"id": "tre Frison", "type": "class", "members": null}
 {"id": "tu che leggi", "type": "generic", "members": null}
 {"id": "tuoi cittadini", "type": "class", "members": null}
 {"id": "turbo", "type": "non-person", "members": null}
+{"id": "tutti li altri", "type": "class", "members": null}
 {"id": "umana gente", "type": "class", "members": null}
 {"id": "un busto sanza capo", "type": "generic", "members": null}
 {"id": "un che 'ntese la parola tosca", "type": "generic", "members": null}
@@ -565,7 +574,7 @@
 {"id": "Costantin", "type": "individual", "members": null}
 {"id": "Curïo", "type": "individual", "members": null}
 {"id": "Dante, Guido Guerra, Tegghiaio Aldobrandi, Iacopo Rusticucci", "type": "set", "members": ["Dante", "Guido Guerra", "Tegghiaio Aldobrandi", "Iacopo Rusticucci"]}
-{"id": "Dante, noble souls of Limbo", "type": "class", "members": null}
+{"id": "Dante, noble souls of Limbo", "type": "set", "members": ["Dante", "noble souls of Limbo"]}
 {"id": "Dedalo", "type": "hypothetical-simile", "members": null}
 {"id": "Deianira", "type": "individual", "members": null}
 {"id": "Democrito", "type": "individual", "members": null}
@@ -611,7 +620,7 @@
 {"id": "Guido Bonatti", "type": "individual", "members": null}
 {"id": "Guido Guerra, Tegghiaio Aldobrandi", "type": "set", "members": ["Guido Guerra", "Tegghiaio Aldobrandi"]}
 {"id": "Guido, Alessandro, lor frate", "type": "set", "members": ["Guido", "Alessandro", "lor frate"]}
-{"id": "Guido, Alessandro, their brother", "type": "individual", "members": null}
+{"id": "Guido, Alessandro, their brother", "type": "set", "members": ["Guido", "Alessandro", "their brother"]}
 {"id": "Inferno", "type": "non-person", "members": null}
 {"id": "Ipocràte", "type": "individual", "members": null}
 {"id": "Isacco", "type": "individual", "members": null}
@@ -690,7 +699,7 @@
 {"id": "Socrate, Platone", "type": "set", "members": ["Socrate", "Platone"]}
 {"id": "Spirto", "type": "generic", "members": null}
 {"id": "Stricca", "type": "individual", "members": null}
-{"id": "Tale", "type": "individual", "members": null}
+{"id": "Tale", "type": "deictic", "members": null}
 {"id": "Tarquino", "type": "individual", "members": null}
 {"id": "Tartari, Turchi", "type": "set", "members": ["Tartari", "Turchi"]}
 {"id": "Tebaldello", "type": "individual", "members": null}
@@ -714,7 +723,7 @@
 {"id": "Ulisse, li miei compagni", "type": "set", "members": ["Ulisse", "li miei compagni"]}
 {"id": "Vecchia fama", "type": "non-person", "members": null}
 {"id": "Virgilio, altri", "type": "set", "members": ["Virgilio", "altri"]}
-{"id": "Virgilio, le ombre di Limbo", "type": "individual", "members": null}
+{"id": "Virgilio, le ombre di Limbo", "type": "set", "members": ["Virgilio", "le ombre di Limbo"]}
 {"id": "Zenone", "type": "individual", "members": null}
 {"id": "abitanti", "type": "class", "members": null}
 {"id": "al re giovane", "type": "individual", "members": null}
@@ -727,7 +736,6 @@
 {"id": "allegrezza", "type": "non-person", "members": null}
 {"id": "alto ingegno", "type": "non-person", "members": null}
 {"id": "altra schiera", "type": "class", "members": null}
-{"id": "altri", "type": "generic", "members": null}
 {"id": "amore", "type": "non-person", "members": null}
 {"id": "anima buona", "type": "generic", "members": null}
 {"id": "anime di serpi", "type": "class", "members": null}
@@ -743,22 +751,22 @@
 {"id": "bolognese", "type": "generic", "members": null}
 {"id": "cavalieri", "type": "class", "members": null}
 {"id": "che gent'", "type": "generic", "members": null}
-{"id": "chi affattura", "type": "generic", "members": null}
-{"id": "chi conduce", "type": "individual", "members": null}
-{"id": "chi creda", "type": "generic", "members": null}
-{"id": "chi l'avea temperato con sua lima", "type": "hypothetical-simile", "members": null}
-{"id": "chi la 'ntende", "type": "generic", "members": null}
-{"id": "chi lo scrisse", "type": "generic", "members": null}
-{"id": "chi sù fosse", "type": "hypothetical-simile", "members": null}
+{"id": "chi affattura", "type": "deictic", "members": null}
+{"id": "chi conduce", "type": "deictic", "members": null}
+{"id": "chi creda", "type": "deictic", "members": null}
+{"id": "chi l'avea temperato con sua lima", "type": "deictic", "members": null}
+{"id": "chi la 'ntende", "type": "deictic", "members": null}
+{"id": "chi lo scrisse", "type": "deictic", "members": null}
+{"id": "chi sù fosse", "type": "deictic", "members": null}
 {"id": "ciascun Pugliese", "type": "generic", "members": null}
 {"id": "ciascun uom", "type": "generic", "members": null}
 {"id": "cieca cupidigia, ira folle", "type": "non-person", "members": null}
-{"id": "ciò", "type": "non-person", "members": null}
+{"id": "ciò", "type": "deictic", "members": null}
 {"id": "color che son sospesi", "type": "class", "members": null}
-{"id": "colui che 'n lui fida", "type": "generic", "members": null}
-{"id": "colui che mal volontier vegghia", "type": "generic", "members": null}
-{"id": "colui che perde", "type": "generic", "members": null}
-{"id": "colui che venire sente 'l porco e la caccia a la sua posta", "type": "hypothetical-simile", "members": null}
+{"id": "colui che 'n lui fida", "type": "deictic", "members": null}
+{"id": "colui che mal volontier vegghia", "type": "deictic", "members": null}
+{"id": "colui che perde", "type": "deictic", "members": null}
+{"id": "colui che venire sente 'l porco e la caccia a la sua posta", "type": "deictic", "members": null}
 {"id": "cor gentil", "type": "non-person", "members": null}
 {"id": "corridor", "type": "hypothetical-simile", "members": null}
 {"id": "cotal famiglia", "type": "class", "members": null}
@@ -803,7 +811,6 @@
 {"id": "i cardinali", "type": "class", "members": null}
 {"id": "i costruttori dei castelli", "type": "class", "members": null}
 {"id": "i dèi", "type": "class", "members": null}
-{"id": "i figli", "type": "class", "members": null}
 {"id": "i figli di Israèl", "type": "class", "members": null}
 {"id": "i figliuoi", "type": "class", "members": null}
 {"id": "i maladetti", "type": "class", "members": null}
@@ -862,7 +869,8 @@
 {"id": "la leonessa", "type": "non-person", "members": null}
 {"id": "la mamma", "type": "generic", "members": null}
 {"id": "la mattia", "type": "generic", "members": null}
-{"id": "la moglie di Potifare, Sinone", "type": "individual", "members": null}
+{"id": "la moglie di Potifare", "type": "individual", "members": null}
+{"id": "la moglie di Potifare, Sinone", "type": "set", "members": ["la moglie di Potifare", "Sinone"]}
 {"id": "la morte mia", "type": "non-person", "members": null}
 {"id": "la nimica podesta", "type": "individual", "members": null}
 {"id": "la nostra imagine", "type": "non-person", "members": null}
@@ -889,6 +897,7 @@
 {"id": "le fata", "type": "hypothetical-simile", "members": null}
 {"id": "le genti dolorose", "type": "class", "members": null}
 {"id": "le letane", "type": "non-person", "members": null}
+{"id": "le ombre di Limbo", "type": "class", "members": null}
 {"id": "le parole dell'anima", "type": "non-person", "members": null}
 {"id": "le turbe", "type": "class", "members": null}
 {"id": "legno", "type": "non-person", "members": null}
@@ -926,14 +935,12 @@
 {"id": "lo scoperto fondo", "type": "non-person", "members": null}
 {"id": "lo stuolo", "type": "class", "members": null}
 {"id": "loco vòto", "type": "non-person", "members": null}
-{"id": "lor frate", "type": "individual", "members": null}
 {"id": "lor parenti", "type": "class", "members": null}
 {"id": "lor seguaci", "type": "class", "members": null}
 {"id": "mar", "type": "non-person", "members": null}
 {"id": "marchese", "type": "generic", "members": null}
 {"id": "maschi", "type": "class", "members": null}
 {"id": "membra", "type": "non-person", "members": null}
-{"id": "messer Guido", "type": "individual", "members": null}
 {"id": "mille anime distrutte", "type": "class", "members": null}
 {"id": "mio annunzio", "type": "non-person", "members": null}
 {"id": "miseri", "type": "class", "members": null}
@@ -945,6 +952,7 @@
 {"id": "montagna", "type": "non-person", "members": null}
 {"id": "muse, alto ingegno", "type": "set", "members": ["muse", "alto ingegno"]}
 {"id": "nemici cotanti", "type": "class", "members": null}
+{"id": "noble souls of Limbo", "type": "class", "members": null}
 {"id": "nostre spoglie", "type": "non-person", "members": null}
 {"id": "nostro ponte", "type": "non-person", "members": null}
 {"id": "novi frustatori", "type": "class", "members": null}
@@ -974,23 +982,23 @@
 {"id": "qual di questa greggia", "type": "generic", "members": null}
 {"id": "qualunque", "type": "generic", "members": null}
 {"id": "qualunque trade", "type": "generic", "members": null}
-{"id": "quei c'ha mala luce", "type": "individual", "members": null}
-{"id": "quei cui l'ira dentro fiacca", "type": "generic", "members": null}
-{"id": "quel ch'i' ho di lui nel cielo udito", "type": "individual", "members": null}
-{"id": "quel che fidanza non imborsa", "type": "generic", "members": null}
-{"id": "quel di Brescia", "type": "individual", "members": null}
-{"id": "quel vento", "type": "non-person", "members": null}
+{"id": "quei c'ha mala luce", "type": "deictic", "members": null}
+{"id": "quei cui l'ira dentro fiacca", "type": "deictic", "members": null}
+{"id": "quel ch'i' ho di lui nel cielo udito", "type": "deictic", "members": null}
+{"id": "quel che fidanza non imborsa", "type": "deictic", "members": null}
+{"id": "quel di Brescia", "type": "deictic", "members": null}
+{"id": "quel vento", "type": "deictic", "members": null}
 {"id": "quell' altro foco", "type": "non-person", "members": null}
-{"id": "quella compagna", "type": "individual", "members": null}
-{"id": "quella lettura", "type": "non-person", "members": null}
+{"id": "quella compagna", "type": "deictic", "members": null}
+{"id": "quella lettura", "type": "deictic", "members": null}
 {"id": "quelli a cui fu rotto il petto", "type": "class", "members": null}
 {"id": "quelli che vince", "type": "class", "members": null}
-{"id": "questa cruda e tristissima copia", "type": "class", "members": null}
-{"id": "questa gente sconcia", "type": "class", "members": null}
-{"id": "questa risma", "type": "class", "members": null}
-{"id": "questi coi crin mozzi", "type": "individual", "members": null}
-{"id": "questi col pugno chiuso", "type": "individual", "members": null}
-{"id": "questi felli", "type": "class", "members": null}
+{"id": "questa cruda e tristissima copia", "type": "deictic", "members": null}
+{"id": "questa gente sconcia", "type": "deictic", "members": null}
+{"id": "questa risma", "type": "deictic", "members": null}
+{"id": "questi coi crin mozzi", "type": "deictic", "members": null}
+{"id": "questi col pugno chiuso", "type": "deictic", "members": null}
+{"id": "questi felli", "type": "deictic", "members": null}
 {"id": "quinc' entro", "type": "class", "members": null}
 {"id": "ragazzo", "type": "generic", "members": null}
 {"id": "re Tebaldo", "type": "individual", "members": null}
@@ -1013,9 +1021,9 @@
 {"id": "the act of granting a request", "type": "non-person", "members": null}
 {"id": "the journey/the act of descent", "type": "non-person", "members": null}
 {"id": "the suffering spirits", "type": "class", "members": null}
+{"id": "their brother", "type": "individual", "members": null}
 {"id": "tre anime fiorentine", "type": "class", "members": null}
 {"id": "troiane", "type": "class", "members": null}
-{"id": "tutti li altri", "type": "class", "members": null}
 {"id": "tutti li maschi", "type": "class", "members": null}
 {"id": "tutti suoi seguaci", "type": "class", "members": null}
 {"id": "umanità", "type": "non-person", "members": null}
