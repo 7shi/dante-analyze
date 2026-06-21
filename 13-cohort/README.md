@@ -171,8 +171,9 @@ resolves `anima mal nata` from the residual (`llm`).
   used to be one `class` node that flowed through `11-presence` into a cohort line, absorbing the
   individual. `Nodes._gather` (`mixed_bundle_pieces`) now promotes the lowercase collective remainder
   to its own node, so the bundle resolves as a `set` — the individual rejoins its own node and the
-  collective becomes its own `class` cohort candidate (see `KG-PROBLEM.md` "Resolved"). Demonstrative
-  /periphrastic labels (`quel X`, `colui che …`) are likewise typed `deictic` upstream and excluded
+  collective becomes its own `class` cohort candidate (see `ARCHITECTURE.md` and
+  `05-registry/README.md`). Demonstrative/periphrastic labels (`quel X`, `colui che …`) are likewise
+  typed `deictic` upstream and excluded
   from the candidate pool. This pass still consumes its inputs as given and does not hand-correct them.
 - `14-lock` (the pure-code join of all layers plus the KG into the per-canto lock) is the next and
   final pass.

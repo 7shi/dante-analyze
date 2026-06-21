@@ -50,8 +50,8 @@ for the completed KG.
 - ~~`class`-typed individual+collective bundles~~ (RESOLVED): `Dante, noble souls of Limbo`-style
   bundles are now split at node construction — `Nodes._gather` promotes the lowercase collective
   remainder to its own node so the label resolves as a `set` (the individual rejoins its own node,
-  the collective becomes its own `class` node). See `KG-PROBLEM.md` "Resolved" and
-  `13-cohort/README.md` "Notes".
+  the collective becomes its own `class` node). See `ARCHITECTURE.md` and `13-cohort/README.md`
+  "Notes".
 
 ## Rules to keep
 
