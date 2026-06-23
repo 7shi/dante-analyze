@@ -159,4 +159,7 @@ granular-invalidation problem are tracked in [`KG-PROBLEM.md`](KG-PROBLEM.md).
 
 Complete and committed for all three canticles (100 cantos) through 15-digest; the digest stays
 within the lock vocabulary 99.5% of the time, with every residual non-name material. Optional next
-directions are listed in [`PLAN.md`](PLAN.md).
+directions are listed in [`PLAN.md`](PLAN.md). A proposed re-architecture that consolidates the
+fifteen passes into a single grammatical-analysis foundation (typed entities + relations extracted
+in one pass, coreference resolved up front, granular invalidation) is sketched in
+[`REARCHITECTURE.md`](REARCHITECTURE.md) (design-only, not yet implemented).
