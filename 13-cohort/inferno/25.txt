@@ -19,7 +19,7 @@
 - cohort: spiriti | source: code | basis: 40-43
 
 ## Scene 46-60: The Initial Entwining
-- cohort: anime | source: llm | basis: 49-51
+- cohort: anime | source: llm | basis: 49-60
 
 ## Scene 61-66: The Melting of the Forms
 - cohort: l'anima | source: code | basis: 61-63

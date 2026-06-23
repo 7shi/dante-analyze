@@ -76,11 +76,10 @@ lines = "22-33"
 title = "Virgil's Explanation of the Shade's Arrival"
 location = "'mpacciata via"
 region = "quinto giro"
-cohort = ["un angel"]
 cast = [
   { who = "Stazio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "un angel", status = "present" },
+  { who = "un angel", status = "mentioned" },
   { who = "coi buon", status = "mentioned" },
   { who = "Cloto", status = "mentioned" },
   { who = "Virgilio", status = "present" },
@@ -159,7 +158,6 @@ cast = [
   { who = "Stazio", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "li pii spiriti", status = "mentioned" },
-  { who = "quel Segnor", status = "mentioned" },
 ]
 basis = "67-72"
 
@@ -206,7 +204,7 @@ region = "quinto giro"
 cast = [
   { who = "Tito", status = "mentioned" },
   { who = "sommo rege", status = "mentioned" },
-  { who = "Giuda", status = "mentioned" },
+  { who = "Giuda Scarïotto", status = "mentioned" },
   { who = "Stazio", status = "present" },
 ]
 speech = [
@@ -221,7 +219,6 @@ title = "The Praise of the Poet"
 location = "'mpacciata via"
 region = "quinto giro"
 cast = [
-  { who = "mio vocale spirto", status = "present" },
   { who = "Stazio", status = "present" },
   { who = "gente", status = "mentioned" },
   { who = "Achille", status = "mentioned" },
@@ -328,14 +325,13 @@ lines = "133-136"
 title = "The Weight of Love"
 location = "'mpacciata via"
 region = "quinto giro"
-cohort = ["l'ombre"]
 cast = [
   { who = "Stazio", status = "present" },
   { who = "Virgilio", status = "mentioned" },
-  { who = "l'ombre", status = "present" },
+  { who = "l'ombre", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "21:133", lines = "133-136", speaker = "Stazio", addressee = "l'ombre", source = "code" },
+  { quote_id = "21:133", lines = "133-136", speaker = "Stazio", addressee = "(none)", source = "none" },
 ]
 relations = [
   { subj = "Stazio", predicate = "speaks-to", obj = "Virgilio", lines = "133-136" },

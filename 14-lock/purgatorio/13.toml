@@ -139,7 +139,7 @@ cast = [
   { who = "Maria", status = "mentioned" },
   { who = "le anime degli invidiosi", status = "present" },
   { who = "Michele", status = "mentioned" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
   { who = "Tutti santi", status = "mentioned" },
 ]
 relations = [
@@ -377,7 +377,6 @@ cast = [
   { who = "Dio", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "miei propinqui", status = "mentioned" },
-  { who = "quella gente vana", status = "mentioned" },
   { who = "li ammiragli", status = "mentioned" },
 ]
 speech = [

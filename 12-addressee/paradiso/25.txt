@@ -22,13 +22,13 @@
 - 25:52 lines 52-63 | speaker: Beatrice | addressee: Dante | source: llm | basis: 60-60
 
 ## Scene 64-78: Dante's Scholarly Response
-- 25:67B lines 67-78 | speaker: Dante | addressee: Giacomo il Maggiore | source: code | basis: 67-78
+- 25:67B lines 67-78 | speaker: Dante | addressee: Giacomo il Maggiore | source: llm | basis: 67-75
 
 ## Scene 79-87: The Third Light's Command
-- 25:82 lines 82-87 | speaker: Giovanni | addressee: Dante | source: code | basis: 82-87
+- 25:82 lines 82-87 | speaker: San Giovanni | addressee: Dante | source: code | basis: 82-87
 
 ## Scene 88-96: Scriptural Identification of Hope
-- 25:88 lines 88-96 | speaker: Dante | addressee: Dante, i fedeli | source: code | basis: 88-96
+- 25:88 lines 88-96 | speaker: Dante | addressee: (none) | source: none | basis: 88-96
 
 ## Scene 97-99: The Heavenly Response
 # (no attributed speech in this scene)

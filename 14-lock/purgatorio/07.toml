@@ -58,7 +58,6 @@ cast = [
   { who = "Virgilio", status = "present" },
   { who = "Sordello", status = "mentioned" },
   { who = "pargoli innocenti", status = "mentioned" },
-  { who = "quei che le tre sante virtù non si vestiro", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 speech = [
@@ -115,7 +114,7 @@ location = ""
 region = "a l'ombra dietro al sasso"
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "Sordello", status = "mentioned" },
+  { who = "Sordello", status = "present" },
   { who = "anime", status = "mentioned" },
 ]
 basis = "61-63"
@@ -183,7 +182,7 @@ location = ""
 region = "fianco de la lacca"
 cast = [
   { who = "Ottacchero", status = "present" },
-  { who = "Rodolfo", status = "present" },
+  { who = "Rodolfo", status = "mentioned" },
   { who = "Vincislao", status = "mentioned" },
 ]
 basis = "97-102"
@@ -210,8 +209,8 @@ cast = [
   { who = "L'altro", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "il Padre", status = "mentioned" },
-  { who = "suocero", status = "mentioned" },
+  { who = "il Padre", status = "present" },
+  { who = "suocero", status = "present" },
 ]
 refer = [
   { phrase = "Padre", line = 109, resolves = "il Padre" },
@@ -227,7 +226,6 @@ title = "The Virtuous Kings"
 location = ""
 region = "fianco de la lacca"
 cast = [
-  { who = "Quel che par sì membruto", status = "present" },
   { who = "Ottocar", status = "present" },
   { who = "lo giovanetto", status = "present" },
   { who = "Iacomo", status = "mentioned" },
@@ -271,7 +269,7 @@ region = "fianco de la lacca"
 cast = [
   { who = "Beatrice", status = "mentioned" },
   { who = "Margherita", status = "mentioned" },
-  { who = "Costanza", status = "mentioned" },
+  { who = "Costanza imperadrice", status = "mentioned" },
   { who = "Enrico VI", status = "mentioned" },
 ]
 basis = "127-129"

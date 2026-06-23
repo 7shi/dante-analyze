@@ -16,8 +16,8 @@
 - 7:37 lines 37-39 | speaker: Dante | addressee: Virgilio | source: llm | basis: 37-37
 
 ## Scene 49-66: The Futility of Wealth
-- 7:49 lines 49-51 | speaker: Dante | addressee: Virgilio | source: code | basis: 49-51
-- 7:52 lines 52-66 | speaker: Virgilio | addressee: Dante | source: code | basis: 52-66
+- 7:49 lines 49-51 | speaker: Dante | addressee: Virgilio | source: llm | basis: 49-49
+- 7:52 lines 52-66 | speaker: Virgilio | addressee: Dante | source: llm | basis: 61-61
 
 ## Scene 67-84: The Doctrine of Fortune
 - 7:67B lines 67-69 | speaker: Dante | addressee: Virgilio | source: code | basis: 67-69

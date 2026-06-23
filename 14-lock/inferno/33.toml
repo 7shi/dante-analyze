@@ -6,9 +6,8 @@ lines = "1-9"
 title = "The Sinner’s Pause"
 location = ""
 region = "lago"
-cohort = ["quel peccator", "al traditor"]
+cohort = ["al traditor"]
 cast = [
-  { who = "quel peccator", status = "present" },
   { who = "Dante", status = "present" },
   { who = "al traditor", status = "present" },
 ]
@@ -43,14 +42,14 @@ title = "The Imprisonment"
 location = ""
 region = "lago"
 cast = [
-  { who = "Ruggieri", status = "mentioned" },
-  { who = "Ugolino", status = "present" },
+  { who = "arcivescovo Ruggieri", status = "mentioned" },
+  { who = "conte Ugolino", status = "present" },
   { who = "Dante", status = "present" },
   { who = "altrui", status = "mentioned" },
 ]
 relations = [
-  { subj = "Ugolino", predicate = "tells", obj = "Dante", lines = "19-19" },
-  { subj = "Ugolino", predicate = "tells", obj = "Dante", lines = "21-21" },
+  { subj = "conte Ugolino", predicate = "tells", obj = "Dante", lines = "19-19" },
+  { subj = "conte Ugolino", predicate = "tells", obj = "Dante", lines = "21-21" },
 ]
 basis = "16-27"
 
@@ -61,12 +60,12 @@ location = ""
 region = "lago"
 cohort = ["i figli"]
 cast = [
-  { who = "Ruggieri", status = "mentioned" },
-  { who = "Ugolino", status = "present" },
+  { who = "arcivescovo Ruggieri", status = "present" },
+  { who = "conte Ugolino", status = "present" },
   { who = "i Pisan", status = "mentioned" },
-  { who = "Gualandi", status = "present" },
-  { who = "Sismondi", status = "present" },
-  { who = "Lanfranchi", status = "present" },
+  { who = "Gualandi", status = "mentioned" },
+  { who = "Sismondi", status = "mentioned" },
+  { who = "Lanfranchi", status = "mentioned" },
   { who = "i figli", status = "present" },
 ]
 refer = [
@@ -82,13 +81,13 @@ location = ""
 region = "lago"
 cohort = ["i figliuoli di Ugolino"]
 cast = [
-  { who = "Ugolino", status = "present" },
+  { who = "conte Ugolino", status = "present" },
   { who = "i figliuoli di Ugolino", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Anselmuccio", status = "present" },
 ]
 relations = [
-  { subj = "Ugolino", predicate = "rebukes", obj = "Dante", lines = "40-42" },
+  { subj = "conte Ugolino", predicate = "rebukes", obj = "Dante", lines = "40-42" },
 ]
 basis = "37-54"
 
@@ -98,13 +97,13 @@ title = "The Terrible Choice"
 location = ""
 region = "lago"
 cast = [
-  { who = "Ugolino", status = "present" },
+  { who = "conte Ugolino", status = "present" },
   { who = "Anselmuccio", status = "present" },
 ]
 relations = [
-  { subj = "Ugolino", predicate = "sees", obj = "quattro visi", lines = "56-57" },
-  { subj = "Anselmuccio", predicate = "addresses", obj = "Ugolino", lines = "60-61" },
-  { subj = "Ugolino", predicate = "calls", obj = "dura terra", lines = "66-66" },
+  { subj = "conte Ugolino", predicate = "sees", obj = "quattro visi", lines = "56-57" },
+  { subj = "Anselmuccio", predicate = "addresses", obj = "conte Ugolino", lines = "60-61" },
+  { subj = "conte Ugolino", predicate = "calls", obj = "dura terra", lines = "66-66" },
 ]
 basis = "55-66"
 
@@ -115,16 +114,16 @@ location = ""
 region = "lago"
 cohort = ["i figli di Ugolino"]
 cast = [
-  { who = "Ugolino", status = "present" },
   { who = "i figli di Ugolino", status = "present" },
   { who = "Gaddo", status = "present" },
+  { who = "conte Ugolino", status = "present" },
   { who = "Dante", status = "present" },
 ]
 speech = [
-  { quote_id = "33:69", lines = "69-69", speaker = "Gaddo", addressee = "Ugolino", source = "llm" },
+  { quote_id = "33:69", lines = "69-69", speaker = "Gaddo", addressee = "conte Ugolino", source = "llm" },
 ]
 relations = [
-  { subj = "Dante", predicate = "sees", obj = "Ugolino", lines = "70-70" },
+  { subj = "Dante", predicate = "sees", obj = "conte Ugolino", lines = "70-70" },
 ]
 basis = "67-75"
 
@@ -134,7 +133,7 @@ title = "Resumption of the Feast"
 location = ""
 region = "lago"
 cast = [
-  { who = "Ugolino", status = "present" },
+  { who = "conte Ugolino", status = "present" },
 ]
 basis = "76-78"
 
@@ -277,7 +276,7 @@ location = "Tolomea"
 region = "Tolomea"
 cast = [
   { who = "Genovesi", status = "mentioned" },
-  { who = "peggiore spirto di Romagna", status = "present" },
+  { who = "peggiore spirto di Romagna", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Alberigo", status = "present" },
 ]

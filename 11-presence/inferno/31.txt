@@ -18,7 +18,7 @@
 - who: Virgilio | status: present | basis: 21-22
 
 ## Scene 28-33: The Truth of the Giants
-- who: Virgilio | status: present | basis: 28-29
+- who: Virgilio | status: present | basis: 29-29
 - who: Dante | status: present | basis: 28-30
 - who: i Giganti | status: present | basis: 31-33
 
@@ -34,13 +34,12 @@
 
 ## Scene 49-57: Nature's Weapons
 - who: i Giganti | status: mentioned | basis: 50-51
-- who: chi guarda sottilmente | status: mentioned | basis: 53-53
 - who: gente | status: mentioned | basis: 57-57
 
 ## Scene 58-66: Massive Proportions
-- who: Dante | status: present | basis: 58-65
+- who: Dante | status: present | basis: 58-66
 - who: San Pietro | status: mentioned | basis: 59-59
-- who: Anteo | status: present | basis: 58-63
+- who: Anteo | status: present | basis: 58-66
 - who: tre Frison | status: mentioned | basis: 64-64
 - who: l'omo | status: mentioned | basis: 66-66
 
@@ -51,19 +50,19 @@
 ## Scene 70-75: Virgil's Rebuke
 - who: Virgilio | status: present | basis: 70-70
 - who: Dante | status: present | basis: 70-70
-- who: un gigante | status: present | basis: 70-75
+- who: un gigante | status: present | basis: 70-70
 
 ## Scene 76-81: The Identity of Nembrot
 - who: Virgilio | status: present | basis: 76-76
 - who: Dante | status: present | basis: 76-76
 - who: Nembrotto | status: present | basis: 77-77
-- who: i Giganti | status: mentioned | basis: 81-81
+- who: i Giganti | status: present | basis: 76-77
 
 ## Scene 82-90: The Second Giant
 - who: Dante | status: present | basis: 82-86
 - who: Virgilio | status: present | basis: 82-85
-- who: Anteo | status: present | basis: 82-82
-- who: Nimrod | status: present | basis: 84-84
+- who: Anteo | status: present | basis: 87-87
+- who: Nimrod | status: present | basis: 84-90
 
 ## Scene 91-96: The Fall of Fialte
 - who: Fïalte | status: present | basis: 91-96
@@ -77,35 +76,35 @@
 - who: Brïareo | status: mentioned | basis: 98-98
 
 ## Scene 100-105: The Promise of Antaeus
-- who: Virgilio | status: present | basis: 100-105
-- who: Dante | status: present | basis: 100-103
+- who: Virgilio | status: present | basis: 100-100
+- who: Dante | status: present | basis: 100-100
 - who: Anteo | status: mentioned | basis: 100-100
 - who: ogne reo | status: mentioned | basis: 102-102
-- who: Briareo | status: mentioned | basis: 103-105
-- who: Fialte | status: mentioned | basis: 102-102
+- who: Briareo | status: mentioned | basis: 103-103
+- who: Fialte | status: present | basis: 104-104
 
 ## Scene 106-111: The Earth Shaking
 - who: Fïalte | status: present | basis: 108-108
 - who: Dante | status: present | basis: 109-111
 
 ## Scene 112-114: The Arrival of Antaeus
-- who: Dante | status: present | basis: 112-113
-- who: Virgilio | status: present | basis: 112-113
+- who: Dante | status: present | basis: 112-112
+- who: Virgilio | status: present | basis: 112-112
 - who: Anteo | status: present | basis: 113-114
 
 ## Scene 115-129: Virgil's Diplomacy
-- who: Anteo | status: present | basis: 115-115
+- who: Anteo | status: present | basis: 115-129
 - who: Scipïon | status: mentioned | basis: 116-116
 - who: Anibàl | status: mentioned | basis: 117-117
-- who: i Giganti | status: mentioned | basis: 120-124
+- who: i Giganti | status: mentioned | basis: 120-121
 - who: Tizio | status: mentioned | basis: 124-124
-- who: Dante | status: present | basis: 122-122
+- who: Dante | status: present | basis: 122-129
 - who: l'imperador | status: mentioned | basis: 116-116
 
 ## Scene 130-132: The Giant's Obedience
 - who: Virgilio | status: present | basis: 130-131
 - who: Anteo | status: present | basis: 130-131
-- who: Ercule | status: present | basis: 132-132
+- who: Ercule | status: mentioned | basis: 132-132
 
 ## Scene 133-135: Securing the Poet
 - who: Virgilio | status: present | basis: 133-135
@@ -118,7 +117,7 @@
 
 ## Scene 142-145: Reaching the Abyss
 - who: Lucifero | status: mentioned | basis: 143-143
-- who: Giuda | status: mentioned | basis: 143-143
+- who: Giuda Scarïotto | status: mentioned | basis: 143-143
 - who: Dante | status: present | basis: 143-143
 - who: Virgilio | status: present | basis: 143-143
 - who: Anteo | status: present | basis: 143-145

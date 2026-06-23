@@ -10,7 +10,7 @@ cohort = ["molt' ombre"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Stazio", status = "mentioned" },
+  { who = "Stazio", status = "present" },
   { who = "molt' ombre", status = "present" },
 ]
 speech = [
@@ -71,8 +71,8 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "lussuriosi", status = "present" },
   { who = "gente", status = "present" },
-  { who = "Virgilio", status = "present" },
-  { who = "Stazio", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Stazio", status = "mentioned" },
 ]
 relations = [
   { subj = "lussuriosi", predicate = "speaks-to", obj = "Dante", lines = "25-25" },
@@ -110,7 +110,7 @@ lines = "37-42"
 title = "The Divided Proclamations"
 location = "l'orlo"
 region = "scala"
-cohort = ["lussuriosi"]
+cohort = ["la nova gente"]
 cast = [
   { who = "lussuriosi", status = "present" },
   { who = "la nova gente", status = "present" },
@@ -154,15 +154,14 @@ lines = "52-66"
 title = "Dante's Explanation"
 location = "l'orlo"
 region = "scala"
-cohort = ["anime", "quella turba"]
+cohort = ["anime"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "anime", status = "present" },
   { who = "Beatrice", status = "mentioned" },
-  { who = "quella turba", status = "present" },
 ]
 speech = [
-  { quote_id = "26:53", lines = "53-66", speaker = "Dante", addressee = "anime", source = "llm" },
+  { quote_id = "26:53", lines = "53-66", speaker = "Dante", addressee = "anime", source = "code" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "anime", lines = "52-52" },
@@ -178,8 +177,8 @@ location = "l'orlo"
 region = "scala"
 cohort = ["ciascun' ombra"]
 cast = [
-  { who = "Virgilio", status = "present" },
-  { who = "Dante", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
+  { who = "Dante", status = "mentioned" },
   { who = "ciascun' ombra", status = "present" },
 ]
 relations = [
@@ -196,7 +195,7 @@ cohort = ["the first group of souls"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Guido da Montefeltro", status = "present" },
-  { who = "gente", status = "mentioned" },
+  { who = "gente", status = "present" },
   { who = "the first group of souls", status = "present" },
   { who = "Cesar", status = "mentioned" },
   { who = "Regina", status = "mentioned" },
@@ -347,15 +346,16 @@ lines = "133-135"
 title = "The Disappearance of Guido"
 location = "l'orlo"
 region = "scala"
+cohort = ["lussuriosi"]
 cast = [
-  { who = "lussuriosi", status = "mentioned" },
-  { who = "Guido", status = "present" },
+  { who = "lussuriosi", status = "present" },
+  { who = "Guido Guinizzelli", status = "present" },
 ]
 refer = [
   { phrase = "i lussuriosi", line = 133, resolves = "lussuriosi" },
 ]
 relations = [
-  { subj = "Guido", predicate = "relates-to", obj = "lussuriosi", lines = "133-134" },
+  { subj = "Guido Guinizzelli", predicate = "relates-to", obj = "lussuriosi", lines = "133-134" },
 ]
 basis = "133-135"
 
@@ -369,7 +369,7 @@ cast = [
   { who = "Arnaut Daniel", status = "present" },
 ]
 speech = [
-  { quote_id = "26:140", lines = "140-147", speaker = "Arnaut", addressee = "Dante", source = "llm" },
+  { quote_id = "26:140", lines = "140-147", speaker = "Arnaut Daniel", addressee = "Dante", source = "code" },
 ]
 relations = [
   { subj = "Dante", predicate = "meets", obj = "Arnaut Daniel", lines = "136-136" },
@@ -383,10 +383,10 @@ title = "Arnaut's Lament and Departure"
 location = "l'orlo"
 region = "scala"
 cast = [
-  { who = "Arnaut", status = "present" },
+  { who = "Arnaut Daniel", status = "present" },
   { who = "Dante", status = "present" },
 ]
 relations = [
-  { subj = "Arnaut", predicate = "pleads-with", obj = "Dante", lines = "145-145" },
+  { subj = "Arnaut Daniel", predicate = "pleads-with", obj = "Dante", lines = "145-145" },
 ]
 basis = "142-148"

@@ -1,61 +1,61 @@
 # Canto 15 — The Encounter with Brunetto Latino
 
 ## Scene 1-12: The Simile of the Flooding Banks
-en: *Dante* and *Virgilio* walk along the *margini*, where the smoke shields them from the fire. These banks are likened to those of the *Fiamminghi*, though they lack the grandeur that *Dio* would have fashioned.
-ja: DanteとVirgilioは、煙が火から彼らを遮る岸辺に沿って歩む。その岸辺はFiamminghiの地に似ているが、Dioが創り出されたであろう壮麗さには欠けている。
+en: *Dante* and *Virgilio* walk along the *margini* in the *bosco*, where the banks protect them from the fire. These barriers are compared to those built by the *Fiamminghi*, though they are not as vast as if *Dio* had designed them.
+ja: DanteとVirgilioは森の縁に沿って歩む。彼らを火から守るその土手は、Fiamminghiが築いた障壁に比肩するものの、Dioが設計したほどに広大なものではなかった。
 
 ## Scene 13-21: The Approaching Procession
-en: *Dante* and *Virgilio* have moved so far from the *bosco* that *Dante* could no longer see it, and while on *l'argine*, they encounter *d'anime una schiera*. These souls squint at them as *uno altro* might under a new moon or as *l vecchio sartor* does with a needle.
-ja: DanteとVirgilioは、Danteにそれがもう見えなくなるほど森から遠ざかり、堤防の上でd'anime una schieraに出会った。その魂たちは、新月の下にあるuno altroのように、あるいは針を扱うl vecchio sartorのように、彼らをじっと凝視していた。
+en: *Dante* and *Virgilio* have moved far from the *bosco* and are now on *l'argine*, where they encounter *d'anime una schiera*. These souls squinted at them as if observing *uno altro* under a new moon or as *l vecchio sartor* peers at a needle's eye.
+ja: 森を遠く離れ、岸辺へと至ったDanteとVirgilioは、そこでd'anime una schieraに出会った。その魂たちは、新月の下でuno altroを凝視するか、あるいはl vecchio sartorが針の穴を覗き込むかのように、目を細めて二人を眺めた。
 
 ## Scene 22-30: The Recognition of Dante
-en: While on *l'argine*, *ser Brunetto* recognizes *Dante* among *cotal famiglia* and seizes him in surprise. Looking closely at the burnt face, *Dante* recognizes and greets *ser Brunetto*.
-ja: 岸辺にて、ser Brunetto は cotal famiglia の中に Dante を見出し、不意に彼を掴んだ。焼けただれた顔を凝視した Dante は、それが ser Brunetto であると気づき、挨拶を交わした。
+en: On *l'argine*, a member of *cotal famiglia* recognizes *Dante* and seizes him in surprise. *Dante* peers at the man's scorched face and recognizes him as *ser Brunetto*.
+ja: 堤防の上で、cotal famigliaの一人がDanteに気づき、不意に彼を捕らえた。Danteがその男の焼けただれた顔を凝視すると、それがser Brunettoであることに気づいた。
 
 ## Scene 31-42: Brunetto's Instructions
-en: On *l'argine*, *Brunetto Latino* asks to walk with *Dante*, who agrees if *Virgilio* permits. Warning that anyone among *qual di questa greggia* who stops remains stationary for a century before the fire strikes, *Brunetto Latino* urges *Dante* to proceed while he follows briefly.
-ja: 堤防の上で、Brunetto LatinoがDanteに同行を請うと、DanteはVirgilioの許しがあるならと同意した。qual di questa greggiaの中で立ち止まった者は火に焼かれるまで一世紀の間その場に留まることになると警告したBrunetto Latinoは、Danteに先へ進むよう促し、自らはしばしその後に続いた。
+en: On *l'argine*, *Brunetto Latino* asks to walk with *Dante*, and *Dante* agrees provided *Virgilio* permits it. *Brunetto Latino* warns that any of *qual di questa greggia* who stops will be scorched for a hundred years, so he urges *Dante* to keep moving while he follows briefly.
+ja: 岸辺にて、Brunetto LatinoがDanteに同行を願い、DanteはVirgilioが許すのであればと同意した。Brunetto Latinoは、qual di questa greggiaの者が立ち止まれば百年にわたって焼かれると警告し、自らが短く付き添う間、Danteに歩き続けるよう促した。
 
 ## Scene 43-54: Dante's Explanation of his Descent
-en: On `*la strada*`, `*Dante*` keeps his head bowed like `*l'uom*` in reverence for `*Brunetto Latino*`, who asks what fortune has brought him and who `*Virgilio*` is. `*Dante*` explains that `*Virgilio*` appeared to him when he was lost and guided him along this path.
-ja: 道の上で、DanteはBrunetto Latinoへの敬意からl'uomのように頭を垂れていた。どのような運命が彼をここへ導いたのか、そしてVirgilioは何者なのかという問いに、Danteは、道に迷っていた自分にVirgilioが現れ、この道へと導いてくれたのだと説明した。
+en: On *la strada*, *Dante* walks with his head bowed like *l'uom* mentioned as reverent, prompting *Brunetto Latino* to ask what brought him here and who *Virgilio* is. *Dante* explains that *Virgilio* found him lost and guided him along this path.
+ja: 道の上で、Danteが敬虔なl'uomのように深く頭を垂れて歩く姿を見たBrunetto Latinoは、何が彼をここへ導いたのか、そしてVirgilioとは誰なのかと問いかけた。Danteは、迷っていた自分をVirgilioが見つけ出し、この道へと導いてくれたのだと説明した。
 
 ## Scene 55-60: The Promise of Destiny
-en: On *la strada*, *Brunetto Latino* tells *Dante* that following his star will lead him to a glorious port, lamenting that his own death prevents him from supporting *Dante*'s work.
-ja: 道すがら、Brunetto Latino は Dante に、自らの星に従えば栄光ある港へと辿り着けると説き、自らの死ゆえに Dante の業を支えられないことを嘆いた。
+en: On *la strada*, *Brunetto Latino* tells *Dante* that he will reach a glorious destination if he follows his star. He adds that he would have supported *Dante* in his work had he not died, noting how favored *Dante* is.
+ja: 道すがら、Brunetto Latinoは、自らの星に従えば栄光ある目的地に到達できるだろうとDanteに告げた。そして、もし自分が死んでいなければその業を支えていたはずだと付け加え、Danteがいかに恵まれているかを説いた。
 
 ## Scene 61-69: The Warning Against Fiesole
-en: On *la strada*, *Dante* is warned that *i fiorentini* will become his enemies and is urged to cleanse himself of their greedy, envious, and proud customs.
-ja: 道の途上で、Danteはi fiorentiniが敵となるであろうと警告され、彼らの強欲や嫉妬、傲慢といった習性に染まらぬよう、自らを清めることを促された。
+en: On *la strada*, *Dante* is warned that *i fiorentini* will become his enemies due to their greed and pride. He is urged to distance himself from the customs of *i fiorentini*.
+ja: 道すがら、Danteは、i fiorentiniが強欲と傲慢さゆえに自らの敵となるだろうと警告され、彼らの風習から距離を置くよう促された。
 
 ## Scene 70-78: The Prophecy of the Holy Seed
-en: On *la strada*, *Dante* is told that his honor will be such that his enemies hunger for him, though it is hoped the city's malice will not destroy the virtuous seed of his ancestors.
-ja: 道すがら、Danteは、その誉れがあまりに高いために敵たちが彼を渇望するようになるだろうと告げられるが、都市の悪意が、先祖から受け継いだ徳高き血統を滅ぼさぬことが願われていた。
+en: On *la strada*, *Dante* is told that he will be honored and kept safe from those who hunger for him, while the corrupt are urged to consume only themselves.
+ja: la stradaにて、Danteは、自らを渇望する者たちから守られ、敬われることになると告げられる。一方、堕落した者たちは、ただ己のみを食らえと促される。
 
 ## Scene 79-87: Dante's Tribute to his Teacher
-en: On `*la strada*`, `*Dante*` expresses his deep respect for `*Brunetto Latino*`, recalling how he taught him how `*l'uom*` might become eternal and vowing to honor his memory in his poetry.
-ja: 道の上で、DanteはBrunetto Latinoに深い敬意を表した。l'uomがいかにして永遠となり得るかを彼に教わったことを回想し、その記憶を詩に刻んで称えることを誓ったのである。
+en: On *la strada*, *Dante* expresses his deep gratitude to *Brunetto Latino*, recalling the paternal image of the man who taught him how *l'uom* might become eternal. He vows that as long as he lives, he will honor *Brunetto Latino* in his writings.
+ja: 道の上で、Danteはl'uomがいかにして永遠になり得るかを説いた父のような彼の面影を回想し、Brunetto Latinoに深い感謝を捧げた。そして、生きている限り、自らの著作においてBrunetto Latinoを称え続けることを誓った。
 
 ## Scene 88-96: Acceptance of Fortune
-en: On *la strada*, *Dante* tells *Brunetto Latino* that he is recording these words to potentially share with *Beatrice*. He declares his willingness to accept whatever fate is decreed, observing that while destiny turns its wheel, *l villan* continues his toil.
-ja: 道の上で、Danteは、いつかBeatriceに伝えるかもしれないため、今の言葉を書き留めているのだとBrunetto Latinoに告げた。運命の輪が巡ろうともl villanは労苦を続けるものであると述べ、彼は定められたいかなる運命をも受け入れる覚悟を表明した。
+en: On *la strada*, *Dante* tells *Brunetto Latino* that he is recording these words to share with *Beatrice* if he ever reaches her. He declares his resignation to his fate, noting that the world turns as it will and *l villan* continues to toil.
+ja: 道すがら、DanteはBrunetto Latinoに、いつかBeatriceに辿り着いた際に伝えるため、今これらの言葉を記録しているのだと語った。彼は自らの運命への諦念を口にし、世界はただあるがままに回り続け、l villanは絶えず苦役に励むのだと述べた。
 
 ## Scene 97-99: Virgil's Instruction
-en: On *la gota*, *Virgilio* turns back to look at *Dante* and tells him to listen carefully to the note.
-ja: la gotaにて、Virgilioは振り返ってDanteを見つめ、その音に注意深く耳を傾けるよう告げた。
+en: On *la gota*, *Virgilio* turns back to look at *Dante* and instructs him to listen carefully to the signal.
+ja: la gotaにて、VirgilioはDanteを振り返り、合図を注意深く聞くようにと指示した。
 
 ## Scene 100-105: Dante's Inquiry
-en: On *la gota*, *Dante* asks *Ser Brunetto Latino* about the most distinguished among *li suoi compagni*, but *Ser Brunetto Latino* replies that while knowing one person is fine, it is better to remain silent about the others because time is too short.
-ja: 痛風について、Danteはli suoi compagniの中で最も高名な者は誰かとSer Brunetto Latinoに尋ねたが、Ser Brunetto Latinoは、一人の名を知る分には構わないものの、他について語るには時間が足りぬため、口を閉ざしておく方がよいと答えた。
+en: On *la gota*, *Dante* asks *Ser Brunetto Latino* about the identity of *li suoi compagni* who are most distinguished. *Ser Brunetto Latino* replies that knowing about him is enough, as the time available is too short to name the others.
+ja: その滴において、DanteはSer Brunetto Latinoに、最も著名なli suoi compagniが誰であるかを尋ねた。Ser Brunetto Latinoは、他の者たちの名を挙げるには時間が足りないため、自分について知るだけで十分であると答えた。
 
 ## Scene 106-114: The Catalog of Scholars
-en: On *la gota*, *Dante* is told that the *cherci* are all once-famous scholars, including *Priscian* and *Francesco d'Accorso*, and that *Adriano V* is also spoken of as being among them.
-ja: その溝のところで、Danteは、cherciが皆かつて名声を博した学者たちであり、そこにはPriscianやFrancesco d'Accorsoが含まれていること、そしてAdriano Vもまた彼らのなかにいると語られていることを聞かされる。
+en: On *la gota*, one of the *cherci* informs *Dante* that all the *cherci* are sinners, specifically naming *Priscian* and *Francesco d'Accorso* and mentioning the presence of *Adriano V*.
+ja: その雫の上で、cherciの一人がDanteに、cherciはみな罪人であると告げ、具体的にPriscianとFrancesco d'Accorsoの名を挙げ、さらにAdriano Vの存在についても言及した。
 
 ## Scene 115-120: The Interrupted Farewell
-en: On *la gota*, *Dante* halts his speech upon seeing new *gente* arrive and realizing he must depart. He bids a final, affectionate farewell to *Ser Brunetto Latino*, honoring him as the treasure whose lessons he still lives by.
-ja: 雫の上で、新たなgenteが到着したのを見てDanteは去るべき時だと悟り、話を切り上げた。彼は、今もなおその教えを指針として生きる宝としてSer Brunetto Latinoを敬い、親愛を込めて最期の別れを告げた。
+en: On *la gota*, *Dante* wishes to speak further but must depart as new *gente* approach. He bids a final, affectionate farewell to *Ser Brunetto Latino*, whose guidance he still treasures.
+ja: その場所で、Danteはさらに語らいたいと願ったが、新たなgenteが近づいてきたため、立ち去らねばならなかった。彼は、今なおその導きを大切にしているSer Brunetto Latinoに、親愛の情を込めて最後の別れを告げた。
 
 ## Scene 121-124: The Final Simile
-en: On *la gota*, *Brunetto Latino* turns away, appearing like *coloro che corrono a Verona*; he seems to be *quelli che vince*, not *colui che perde*.
-ja: la gotaの上で、Brunetto Latinoは背を向けた。その姿はあたかもcoloro che corrono a Veronaのようであり、colui che perdeではなく、quelli che vinceであるかのように見えた。
+en: On *la gota*, *Brunetto Latino* turns away, appearing like *quelli che vince* rather than one who loses.
+ja: その雫の上で、Brunetto Latinoは身を翻した。その姿は敗者というよりも、むしろquelli che vinceのように見えた。

@@ -69,7 +69,7 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Fabrizio", status = "present" },
   { who = "Ugo Ciappetta", status = "present" },
-  { who = "Niccolò", status = "mentioned" },
+  { who = "Niccolò III", status = "mentioned" },
   { who = "le pulcelle", status = "mentioned" },
 ]
 relations = [
@@ -131,7 +131,7 @@ cast = [
   { who = "un beccaio", status = "mentioned" },
   { who = "li regi antichi", status = "mentioned" },
   { who = "la corona vedova", status = "mentioned" },
-  { who = "Ugo Capeto", status = "mentioned" },
+  { who = "Ugo Capeto", status = "present" },
 ]
 basis = "49-60"
 
@@ -153,7 +153,7 @@ region = "quinto giro"
 cast = [
   { who = "Carlo", status = "mentioned" },
   { who = "Curradino", status = "mentioned" },
-  { who = "Tommaso", status = "mentioned" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
   { who = "Ugo Ciappetta", status = "present" },
   { who = "l'altro Carlo", status = "mentioned" },
 ]
@@ -172,7 +172,7 @@ location = ""
 region = "quinto giro"
 cast = [
   { who = "l'altro Carlo", status = "mentioned" },
-  { who = "Giuda", status = "mentioned" },
+  { who = "Giuda Scarïotto", status = "mentioned" },
 ]
 basis = "73-78"
 
@@ -183,7 +183,7 @@ location = ""
 region = "quinto giro"
 cast = [
   { who = "L'altro", status = "present" },
-  { who = "Ugo Ciappetta", status = "present" },
+  { who = "Ugo Ciappetta", status = "mentioned" },
   { who = "sua figlia", status = "present" },
   { who = "i corsar", status = "mentioned" },
   { who = "l'altre schiave", status = "mentioned" },
@@ -285,7 +285,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Ugo Ciappetta", status = "mentioned" },
-  { who = "colui ch'a morte vada", status = "mentioned" },
   { who = "Latona", status = "mentioned" },
 ]
 relations = [

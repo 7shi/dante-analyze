@@ -99,7 +99,6 @@ title = "The Prediction of Exile"
 location = ""
 region = "ella"
 cast = [
-  { who = "Ipolito", status = "mentioned" },
   { who = "Ipolito d'Atene", status = "mentioned" },
   { who = "Fedra", status = "mentioned" },
   { who = "Dante", status = "present" },
@@ -212,7 +211,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Cacciaguida", status = "present" },
   { who = "Beatrice", status = "mentioned" },
-  { who = "coloro che questo tempo chiameranno antico", status = "mentioned" },
 ]
 speech = [
   { quote_id = "17:106", lines = "106-120", speaker = "Dante", addressee = "Cacciaguida", source = "code" },
@@ -243,11 +241,9 @@ lines = "136-142"
 title = "The Purpose of the Vision"
 location = ""
 region = "ella"
-cohort = ["quel ch'ode"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "anime", status = "mentioned" },
-  { who = "quel ch'ode", status = "present" },
 ]
 refer = [
   { phrase = "l'anime", line = 136, resolves = "anime" },

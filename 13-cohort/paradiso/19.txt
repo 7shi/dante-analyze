@@ -37,7 +37,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 100-102: The Stabilization of the Spirit
-- cohort: quei lucenti incendi | source: code | basis: 100-100
+# (no soul-class present in this scene)
 
 ## Scene 103-111: The Requirement of Faith
 # (no soul-class present in this scene)

@@ -16,7 +16,7 @@
 - 22:52 lines 52-60 | speaker: Dante | addressee: San Benedetto | source: code | basis: 52-60
 
 ## Scene 61-69: Description of the Empyrean
-- 22:61 lines 61-96 | speaker: Benedetto | addressee: Dante | source: llm | basis: 61-61
+- 22:61 lines 61-96 | speaker: San Benedetto | addressee: Dante | source: code | basis: 61-96
 
 ## Scene 70-84: The Decay of Monastic Discipline
 # (no attributed speech in this scene)

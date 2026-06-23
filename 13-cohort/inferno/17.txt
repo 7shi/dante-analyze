@@ -16,10 +16,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 34-42: The Decision to Investigate
-- cohort: gente | source: code | basis: 35-36
+- cohort: gente | source: code | basis: 36-36
 
 ## Scene 43-51: The Agony of the Souls
-- cohort: la gente mesta | source: code | basis: 45-47
+- cohort: la gente mesta | source: code | basis: 45-48
 
 ## Scene 52-57: The Symbolic Pouches
 - cohort: anime | source: code | basis: 52-57

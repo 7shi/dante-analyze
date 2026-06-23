@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 17-24: Encounter with the Guide
-- cohort: le anime beate | source: code | basis: 19-20
+- cohort: le anime beate | source: code | basis: 19-21
 
 ## Scene 25-33: Beatrice's Reassurance
 # (no soul-class present in this scene)
@@ -19,16 +19,16 @@
 # (no soul-class present in this scene)
 
 ## Scene 50-57: Piccarda's Status
-- cohort: questi altri beati | source: code | basis: 50-50
+# (no soul-class present in this scene)
 
 ## Scene 58-66: Dante's Inquiry
 # (no soul-class present in this scene)
 
 ## Scene 67-78: The Constraint of Charity
-- cohort: quelle altr' ombre | source: code | basis: 67-67
+# (no soul-class present in this scene)
 
 ## Scene 79-87: The Harmony of Wills
-- cohort: beato | source: code | basis: 79-79
+- cohort: beato | source: code | basis: 79-82
 
 ## Scene 88-96: Dante's Epiphany
 # (no soul-class present in this scene)

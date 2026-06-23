@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 10-15: The Sound of Sorrow
-- cohort: l'ombre | source: code | basis: 10-15
+- cohort: l'ombre | source: code | basis: 10-14
 
 ## Scene 16-24: The Emaciated Crowd
 - cohort: d'anime turba tacita e devota | source: code | basis: 20-21
@@ -28,7 +28,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 61-75: The Cause of Torment
-- cohort: Tutta esta gente | source: code | basis: 64-64
+- cohort: Tutta esta gente | source: code | basis: 64-73
 
 ## Scene 76-84: A Question of Time
 # (no soul-class present in this scene)
@@ -37,13 +37,13 @@
 # (no soul-class present in this scene)
 
 ## Scene 97-114: A Prophecy of Florence
-- cohort: questa gente | source: code | basis: 113-114
+# (no soul-class present in this scene)
 
 ## Scene 115-123: Explaining the Companions
 # (no soul-class present in this scene)
 
 ## Scene 124-129: Dante's Destination
-- cohort: Forese, anime penitenti | source: code | basis: 124-126
+- cohort: anime penitenti | source: code | basis: 126-126
 
 ## Scene 130-133: Identifying the Guides
 # (no soul-class present in this scene)

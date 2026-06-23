@@ -6,28 +6,28 @@
 
 ## etterne rote
 - en: eternal spheres
-- cohort: anima degna (1), anyone (1), beato (1), Cristiani (1), l'ombra (1), le anime beate (1), luci (1), quelle altr' ombre (1), quest' alme (1), questi altri beati (1), questi corpi levi (1), questi spirti (1), Voialtri pochi (1)
+- cohort: anima degna (1), anyone (1), beato (1), l'ombra (1), le anime beate (1), le anime di Mercurio (1), luci (1), Voialtri pochi (1)
 
 ## ella
 - en: the celestial rose
-- cohort: le donne (2), altre luci (1), anime (1), beato spirto (1), ciascuno (1), concordi numi (1), frati suoi (1), gente (1), i beati (1), l'anima (1), l'anima santa (1), l'un (1), l'uno e l'altro coro (1), la quarta famiglia (1), la sua famiglia (1), le anime beate (1), le anime beate del quarto cielo (1), le anime di Venere (1), le luci nove (1), le sue donne (1), li sterpi eretici (1), primi scalzi poverelli (1), quei lumi (1), quei lumi divini (1), quei santi lumi (1), quel ch'ode (1), quella famiglia (1), quelli ardenti soli (1), quelli spirti (1), un altro di quelli splendori (1)
+- cohort: altre luci (1), anime (1), beato spirto (1), ciascuno (1), concordi numi (1), frati suoi (1), general human soul/observer (1), gente (1), i beati (1), l'anima (1), l'anima santa (1), l'un (1), l'uno e l'altro coro (1), la quarta famiglia (1), la sua famiglia (1), le anime beate (1), le anime beate del quarto cielo (1), le anime di Venere (1), le donne (1), le luci nove (1), le sue donne (1), li sterpi eretici (1), quelli ardenti soli (1), quelli spirti (1), un altro di quelli splendori (1)
 
 ## temprata stella sesta
 - en: tempered sixth star
-- cohort: altre luci (1), Dei cinque (1), l'anime conserte (1), le anime beate (1), li beati (1), luci (1), milizia del ciel (1), quei lucenti incendi (1), sante creature (1)
+- cohort: altre luci (1), Dei cinque (1), i beati (1), l'anime conserte (1), le anime beate (1), li beati (1), luci (1), milizia del ciel (1), sante creature (1)
 
 ## settimo splendore
 - en: seventh splendor
-- cohort: li frati miei (1), serve (1), uomini (1)
+- cohort: le anime beate (1), li frati miei (1), uomini (1)
 
 ## quella scala
 - en: that stairway
-- cohort: arche ricchissime (1), le anime beate (1), quei candori (1), quelle anime liete (1), sodalizio eletto (1), tutti e sette (1), tutti li altri lumi (1)
+- cohort: arche ricchissime (1), le anime beate (1), sodalizio eletto (1), tutti e sette (1), tutti li altri lumi (1)
 
 ## ramo
 - en: branch
-- cohort: 'l gratular (1), beato coro (1), Dante, i fedeli (1), i beati (1), li altri (1), trïunfanti (1), tutte le carole (1)
+- cohort: 'l gratular (1), beato coro (1), i beati (1), li altri (1), trïunfanti (1), tutte le carole (1)
 
 ## qua sù
 - en: here above
-- cohort: i beati (5), altri (1), Ebree (1), faville vive (1), gente antica e in novella (1), l convento de le bianche stole (1), l'altre dee (1), l'angelica natura (1), la milizia santa (1), le genti glorïose (1), le menti sante (1), mille angeli festanti (1), quei ch'a Cristo venuto ebber li visi (1), quei che credettero in Cristo venturo (1), questa festinata gente (1), questi ordini (1), Questi ordini di sù (1), spiriti ascolti (1), spiriti chiamati (1), tanta moltitudine volante (1), Troni del divino aspetto (1), tutti li altri santi (1)
+- cohort: i beati (5), altri (1), Ebree (1), faville vive (1), gente antica e in novella (1), l convento de le bianche stole (1), l'angelica natura (1), la milizia santa (1), le genti glorïose (1), le menti sante (1), mille angeli festanti (1), spiriti ascolti (1), spiriti chiamati (1), tanta moltitudine volante (1), Troni del divino aspetto (1), tutti li altri santi (1)

@@ -94,8 +94,8 @@ location = "quinta soglia de l'albero che vive de la cima"
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Iosuè", status = "present" },
-  { who = "Macabeo", status = "present" },
+  { who = "Iosuè", status = "mentioned" },
+  { who = "Macabeo", status = "mentioned" },
 ]
 basis = "37-42"
 
@@ -124,7 +124,7 @@ cast = [
   { who = "altre luci", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Cacciaguida", status = "present" },
-  { who = "i cantor", status = "mentioned" },
+  { who = "i cantor", status = "present" },
 ]
 relations = [
   { subj = "Cacciaguida", predicate = "shows", obj = "Dante", lines = "50-50" },
@@ -177,7 +177,7 @@ region = "ella"
 cast = [
   { who = "bianca donna", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "Giove", status = "present" },
+  { who = "Giove", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "compares", obj = "bianca donna", lines = "64-67" },
@@ -238,9 +238,10 @@ lines = "88-93"
 title = "The Inscribed Words"
 location = "quinta soglia de l'albero che vive de la cima"
 region = "temprata stella sesta"
+cohort = ["i beati"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "i beati", status = "mentioned" },
+  { who = "i beati", status = "present" },
 ]
 refer = [
   { phrase = "beati", line = 89, resolves = "i beati" },
@@ -262,7 +263,7 @@ title = "The Letter M"
 location = "quinta soglia de l'albero che vive de la cima"
 region = "temprata stella sesta"
 cast = [
-  { who = "Giove", status = "present" },
+  { who = "Giove", status = "mentioned" },
 ]
 basis = "94-96"
 
@@ -299,7 +300,7 @@ location = "quinta soglia de l'albero che vive de la cima"
 region = "temprata stella sesta"
 cast = [
   { who = "l'imperador", status = "present" },
-  { who = "Beatrice", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
 ]
 relations = [
   { subj = "hypothetical guide", predicate = "guides", obj = "l'imperador", lines = "109-109" },
@@ -328,8 +329,8 @@ location = "quinta soglia de l'albero che vive de la cima"
 region = "temprata stella sesta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Dio", status = "present" },
-  { who = "Beatrice", status = "mentioned" },
+  { who = "Dio", status = "mentioned" },
+  { who = "Beatrice", status = "present" },
 ]
 relations = [
   { subj = "Dante", predicate = "pleads-with", obj = "Dio", lines = "118-118" },
@@ -362,7 +363,7 @@ location = "quinta soglia de l'albero che vive de la cima"
 region = "temprata stella sesta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
   { who = "Paulo", status = "mentioned" },
 ]
 speech = [

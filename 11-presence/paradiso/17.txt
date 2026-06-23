@@ -2,10 +2,10 @@
 
 ## Scene 1-6: The Mythological Parallel
 - who: Climenè | status: mentioned | basis: 1-1
-- who: Faetone | status: mentioned | basis: 1-3
+- who: Faetone | status: mentioned | basis: 3-3
 - who: li padri | status: mentioned | basis: 3-3
 - who: ai figli | status: mentioned | basis: 3-3
-- who: Dante | status: present | basis: 4-6
+- who: Dante | status: present | basis: 4-4
 - who: Beatrice | status: mentioned | basis: 5-5
 
 ## Scene 7-12: Beatrice's Instruction
@@ -24,7 +24,7 @@
 - who: Dante | status: present | basis: 28-30
 - who: Beatrice | status: mentioned | basis: 30-30
 - who: la gente folle | status: mentioned | basis: 31-32
-- who: l'Agnel di Dio | status: mentioned | basis: 32-33
+- who: l'Agnel di Dio | status: mentioned | basis: 33-33
 - who: Cacciaguida | status: present | basis: 28-36
 
 ## Scene 37-45: The Theology of Contingency
@@ -32,11 +32,10 @@
 - who: Dante | status: present | basis: 38-45
 
 ## Scene 46-54: The Prediction of Exile
-- who: Ipolito | status: mentioned | basis: 46-46
 - who: Ipolito d'Atene | status: mentioned | basis: 46-46
 - who: Fedra | status: mentioned | basis: 47-47
 - who: Dante | status: present | basis: 48-48
-- who: Neri | status: mentioned | basis: 49-50
+- who: Neri | status: mentioned | basis: 53-53
 - who: Cristo | status: mentioned | basis: 51-51
 - who: mercatanti e cittadini di Fiorenza | status: mentioned | basis: 50-51
 
@@ -45,7 +44,7 @@
 - who: la compagnia malvagia e scempia | status: mentioned | basis: 62-67
 
 ## Scene 70-75: The First Refuge
-- who: Enrico VII | status: mentioned | basis: 71-72
+- who: Enrico VII | status: mentioned | basis: 71-74
 - who: Dante | status: present | basis: 70-75
 
 ## Scene 76-84: The Rise of the Virtuous Leader
@@ -55,35 +54,33 @@
 - who: 'l Guasco | status: mentioned | basis: 82-82
 
 ## Scene 85-93: The Global Impact of the Leader
-- who: nemici | status: mentioned | basis: 86-87
+- who: nemici | status: mentioned | basis: 86-86
 - who: Enrico VII | status: mentioned | basis: 85-92
 - who: Dante | status: present | basis: 88-93
 - who: molta gente | status: mentioned | basis: 89-89
 - who: ricchi e mendici | status: mentioned | basis: 90-90
 - who: Cacciaguida | status: present | basis: 92-92
-- who: Beatrice | status: mentioned | basis: 85-93
+- who: Beatrice | status: mentioned | basis: 92-93
 
 ## Scene 94-99: A Warning Against Envy
-- who: Cacciaguida | status: present | basis: 94-94
-- who: Dante | status: present | basis: 94-94
+- who: Cacciaguida | status: present | basis: 94-99
+- who: Dante | status: present | basis: 94-99
 - who: vicini | status: mentioned | basis: 97-99
 
 ## Scene 100-105: Dante's Request for Counsel
-- who: Beatrice | status: mentioned | basis: 105-105
+- who: Beatrice | status: mentioned | basis: 104-105
 - who: Dante | status: present | basis: 102-103
-- who: Cacciaguida | status: present | basis: 100-105
+- who: Cacciaguida | status: present | basis: 100-101
 
 ## Scene 106-120: Dante's Existential Fear
 - who: Dante | status: present | basis: 106-120
 - who: Cacciaguida | status: present | basis: 106-106
 - who: Beatrice | status: mentioned | basis: 114-114
-- who: coloro che questo tempo chiameranno antico | status: mentioned | basis: 119-120
 
 ## Scene 121-135: The Necessity of Bitter Truth
 - who: Beatrice | status: present | basis: 121-135
-- who: Dante | status: present | basis: 122-133
+- who: Dante | status: present | basis: 122-135
 
 ## Scene 136-142: The Purpose of the Vision
-- who: Dante | status: present | basis: 136-136
+- who: Dante | status: present | basis: 136-139
 - who: anime | status: mentioned | basis: 138-138
-- who: quel ch'ode | status: present | basis: 139-139

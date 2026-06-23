@@ -40,7 +40,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 106-117: Dante’s Second Rebuttal
-- cohort: simoniaci | source: code | basis: 106-117
+- cohort: simoniaci | source: code | basis: 106-114
 
 ## Scene 118-123: Virgil’s Silent Approval
 # (no soul-class present in this scene)

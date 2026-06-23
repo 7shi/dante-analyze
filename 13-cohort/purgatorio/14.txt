@@ -19,13 +19,13 @@
 # (no soul-class present in this scene)
 
 ## Scene 55-66: The Prophecy of the Hunter
-- cohort: Spirto | source: code | basis: 55-58
+- cohort: Spirto | source: code | basis: 55-66
 
 ## Scene 67-72: The Second Spirit's Grief
 # (no soul-class present in this scene)
 
 ## Scene 73-84: Guido's Introduction
-- cohort: Spirto | source: code | basis: 76-77
+- cohort: Spirto | source: code | basis: 76-76
 
 ## Scene 85-96: The Blight of Lineage
 # (no soul-class present in this scene)

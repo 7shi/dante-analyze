@@ -161,7 +161,7 @@ location = "fossa"
 region = "fossa"
 cohort = ["l'anime lasse"]
 cast = [
-  { who = "il peccatore padovano", status = "mentioned" },
+  { who = "il peccatore padovano", status = "present" },
   { who = "Dante", status = "present" },
   { who = "l'anime lasse", status = "present" },
 ]
@@ -195,7 +195,6 @@ title = "Dante's Internal Terror"
 location = "fossa"
 region = "fossa"
 cast = [
-  { who = "colui che sì presso ha 'l riprezzo de la quartana", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "mentioned" },
 ]

@@ -1,11 +1,11 @@
 # Canto 09 — The Prophecies of the Two Celestial Lights
 
 ## Scene 1-6: Memory of Carlo
-- who: Carlo | status: mentioned | basis: 1-4
+- who: Carlo Magno | status: mentioned | basis: 1-4
 - who: Dante | status: present | basis: 2-5
 
 ## Scene 7-12: Condemnation of Vanity
-- who: Sibilla | status: mentioned | basis: 7-7
+- who: Sibilla Cumana | status: present | basis: 7-9
 - who: anime ingannate e fatture empie | status: mentioned | basis: 10-12
 
 ## Scene 13-18: Arrival of the First Light
@@ -15,12 +15,12 @@
 
 ## Scene 19-24: Dante's Request
 - who: beato spirto | status: present | basis: 20-24
-- who: Dante | status: present | basis: 19-21
+- who: Dante | status: present | basis: 19-22
 
 ## Scene 25-42: The Tale of Cunizza
 - who: Cunizza | status: present | basis: 32-32
 - who: vostro vulgo | status: mentioned | basis: 36-36
-- who: Dante | status: present | basis: 36-36
+- who: Dante | status: present | basis: 36-41
 - who: omo eccellente | status: mentioned | basis: 41-41
 
 ## Scene 43-51: Prophecy of Shifting Waters
@@ -30,12 +30,12 @@
 
 ## Scene 52-63: Warning of Clerical Corruption
 - who: empio suo pastor | status: mentioned | basis: 53-58
-- who: Dante | status: present | basis: 62-63
+- who: Dante | status: present | basis: 61-63
 - who: le anime beate | status: present | basis: 61-61
 - who: Dio giudicante | status: mentioned | basis: 62-62
 
 ## Scene 64-66: The Spirit's Reversion
-- who: Cunizza | status: present | basis: 64-66
+- who: Cunizza | status: mentioned | basis: 65-65
 
 ## Scene 67-72: Appearance of the Second Light
 - who: Beatrice | status: present | basis: 67-68
@@ -44,19 +44,17 @@
 ## Scene 73-81: Dante's Dialogue
 - who: Dio | status: mentioned | basis: 73-73
 - who: Dante | status: present | basis: 74-74
-- who: Cunizza | status: present | basis: 73-81
+- who: Cunizza | status: present | basis: 74-81
 
 ## Scene 82-93: The Geography of the Great Valley
 - who: Cunizza | status: mentioned | basis: 90-90
 
 ## Scene 94-108: Identity and Divine Purpose
-- who: Folco | status: mentioned | basis: 94-94
-- who: Cunizza | status: present | basis: 94-108
-- who: quella gente | status: mentioned | basis: 94-94
-- who: la figlia di Belo | status: mentioned | basis: 97-97
+- who: Folco | status: present | basis: 94-94
+- who: Cunizza | status: present | basis: 97-108
+- who: la figlia di Belo | status: present | basis: 97-97
 - who: Sicheo | status: mentioned | basis: 98-98
 - who: Creusa | status: mentioned | basis: 98-98
-- who: quella Rodopëa | status: mentioned | basis: 100-100
 - who: Demofoonte | status: mentioned | basis: 101-101
 - who: Alcide | status: mentioned | basis: 101-101
 - who: Iole | status: mentioned | basis: 102-102
@@ -64,7 +62,7 @@
 ## Scene 109-126: The Legacy of Raab
 - who: Dante | status: present | basis: 109-112
 - who: Raab | status: present | basis: 112-117
-- who: Cunizza | status: mentioned | basis: 116-116
+- who: Cunizza | status: present | basis: 111-116
 - who: l'ombra | status: mentioned | basis: 118-118
 - who: altr' alma | status: mentioned | basis: 119-119
 - who: Cristo | status: mentioned | basis: 120-120
@@ -80,5 +78,5 @@
 - who: i cardinali | status: mentioned | basis: 136-136
 - who: Gabrïello | status: mentioned | basis: 138-138
 - who: la milizia | status: mentioned | basis: 141-141
-- who: Pietro | status: mentioned | basis: 141-141
+- who: San Pietro | status: mentioned | basis: 141-141
 - who: l'avoltero | status: mentioned | basis: 142-142

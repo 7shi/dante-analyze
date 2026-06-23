@@ -1,85 +1,85 @@
 # Canto 24 — Recognition of Souls and the Warning of the Tree
 
 ## Scene 1-6: The Watching Souls
-en: Conversing as they walk, *Dante, Virgilio, Statio*, and *Forese* make fast progress through *l'alber*. *l'ombre* watch them with curiosity, recognizing that *Dante* is a living man.
-ja: 歩きながら語らい、Dante, Virgilio, Statio, そして Forese は森の中を速い足取りで進んでいった。l'ombre は Dante が生身の人間であることに気づき、好奇心を持って彼らを見つめていた。
+en: Talking with *Forese* did not slow their progress, and *Dante*, *Virgilio*, and *Statio* moved swiftly through *l'alber* like a ship driven by a fair wind. Around them, *l'ombre* gazed at *Dante* with wonder, realizing he was still living.
+ja: Foreseとの語らいで歩みが遅ることはなく、Dante, Virgilio, Statioの三人は、追い風を受けた船のごとく速やかに大樹の中を進んでいった。周囲のl'ombreたちは、彼がいまだ生者であることに気づき、驚嘆のまなざしでDanteを見つめていた。
 
 ## Scene 7-12: Inquiry about Piccarda
-en: *Dante* asks *Forese* if he knows where *Piccarda* is, suggesting she might be ascending more slowly than usual, and inquires if any of those staring at him in *l'alber* are noteworthy.
-ja: DanteはForeseにPiccardaの行方を尋ね、彼女はいつもより緩やかに昇っているのかもしれないと口にした。あわせて、l'alberの中で自分を凝視している者たちの中に、特筆すべき者がいるかどうかも問いかけた。
+en: Continuing his speech in *l'alber*, *Dante* asks *Forese* if *Piccarda Donati* is ascending more slowly than usual and whether any of the souls watching him are noteworthy.
+ja: l'alberにて言葉を継いだDanteは、Piccarda Donatiがいつもより緩やかに昇っているのか、また自分を見守る魂の中に特筆すべき者がいるのかをForeseに尋ねた。
 
 ## Scene 13-24: News of Piccarda and Bonagiunta
-en: *Forese* reports that *Piccarda* is already triumphant above and that in *l'alber* it is permitted to name *ciascun*. He then identifies *Bonagiunta da Lucca* and a woman *dal Torso*, who is purging her luxury associated with *Torso*.
-ja: Foreseは、Piccardaがすでに天上にて栄光に浴しており、森の中では ciascun の名を呼ぶことが許されていると告げる。そして彼は、Bonagiunta da Lucca と、Torsoにまつわる贅沢の罪を浄化している dal Torso の女を指し示した。
+en: *Forese* reveals that *Piccarda Donati* is already in Paradise and explains that *ciascun* may be named in *l'alber*, identifying *Bonagiunta da Lucca* and *dal Torso*.
+ja: Foreseは、Piccarda Donatiがすでに楽園にいることを明かし、ciascunがその木に名を連ねている可能性があると説明して、Bonagiunta da Luccaとdal Torsoを挙げた。
 
 ## Scene 25-33: The List of Notable Souls
-en: *Forese* names more *anime* in *l'alber*, who are all glad to be recognized, while *Dante* observes *Ubaldin da la Pila* and *Bonifazio* gnashing their teeth from hunger and notices the insatiable *messer Marchese*.
-ja: Foreseが木々の間にいるさらなるanimeたちの名を挙げ、彼らは皆、認められたことに喜びを覚えた。一方、Danteは飢えに歯ぎしりするUbaldin da la PilaとBonifazioを眺め、そして貪欲なmesser Marcheseの存在に気づいた。
+en: *Forese* named many more of the *anime*, who seemed pleased by the recognition, and *Dante* noticed none among them were displeased. In *l'alber*, *Dante* saw *Ubaldin da la Pila*, *Bonifazio*, and *messer Marchese*, all consumed by a gnawing hunger.
+ja: Foreseがさらに多くのanimeの名を挙げると、彼らは己が認められたことを喜んでいる様子で、Danteはその中に不満げな者は一人もいないことに気づいた。その木の中では、Ubaldin da la Pila、Bonifazio、そしてmesser Marcheseが、身を削るような飢えに苛まれていた。
 
 ## Scene 34-42: The Muttering Soul
-en: In *l'alber*, *Dante* notices *Bonagiunta da Lucca* observing him with curiosity and muttering a name that sounds like *Gentucca*. *Dante* urges *Bonagiunta da Lucca* to speak clearly so that he may understand and they both may be satisfied.
-ja: その木陰で、DanteはBonagiunta da Luccaが好奇心に満ちた様子で自分を眺め、Gentuccaに似た名前を呟いていることに気づいた。Danteは、自分が理解し、互いに納得できるよう、はっきりと話すようにBonagiunta da Luccaに促した。
+en: In *l'alber*, *Dante* notices *Bonagiunta da Lucca* watching him and muttering the name *Gentucca*, prompting *Dante* to ask him to speak clearly so they may understand one another.
+ja: l'alberにて、DanteはBonagiunta da Luccaが自分を凝視しながらGentuccaの名を呟いていることに気づき、互いに意思疎通ができるよう、はっきりと話してほしいと彼に求めた。
 
 ## Scene 43-51: The Poet's Identity and Inquiry
-en: In *l'alber*, *Bonagiunta da Lucca* prophecies to *Dante* about a young *Femmina* and an *om* who will reclaim his city, then asks if *Dante* is the poet who wrote the rhymes addressed to *le donne*.
-ja: その木の中で、Bonagiunta da LuccaはDanteに、若きFemminaと、自らの街を取り戻すであろうomについて予言し、続けてDanteがle donneに捧げられた韻文を綴った詩人であるかを問いかけた。
+en: In *l'alber*, *Bonagiunta da Lucca* speaks of a *Femmina* and an *om* in a prophecy about the city, then asks *Dante* if he is the author of the verses addressed to *le donne*.
+ja: その木の下で、Bonagiunta da Lucca はある都市の予言に登場する *Femmina* と *om* について語り、次いで *Dante* に対し、*le donne* へ向けられた詩の作者が彼であるのかを問いかけた。
 
 ## Scene 52-63: The Knot of Poets
-en: In *l'alber*, *Dante* describes his poetic inspiration to *Bonagiunta da Lucca*, who recognizes him as a fellow *poeta*. *Bonagiunta da Lucca* observes that *Dante* follows *al dittator*, breaking the stylistic knot that once bound him, *'l Notaro*, and *Guittone*.
-ja: l'alberにて、Danteは自らの詩的霊感についてBonagiunta da Luccaに語り、彼はDanteを同じpoetaとして認めた。Bonagiunta da Luccaは、Danteがal dittatorに従うことで、かつて自身や'l Notaro、そしてGuittoneを縛っていた様式の結び目を解いたのだと述べた。
+en: In *l'alber*, *Dante* describes his poetic process, and *Bonagiunta da Lucca* recognizes him as a brother who follows *al dittator*. *Bonagiunta da Lucca* observes that this style differs from the restrictive knot that bound him, *'l Notaro*, and *Guittone d'Arezzo*, warning that a *poeta* who tries to exceed these bounds loses their way.
+ja: 樹の下でDanteが自らの詩作の過程を語ると、Bonagiunta da Luccaは彼をal dittatorに従う同胞として認めた。Bonagiunta da Luccaは、この様式が彼自身や'l Notaro、そしてGuittone d'Arezzoを縛っていた窮屈な結び目とは異なるものであると指摘し、その境界を越えようとするpoetaは道を見失うことになると警告した。
 
 ## Scene 64-69: The Simile of the Geese
-en: Like migratory birds, `*tutta la gente*` in `*l'alber*` alternates between moving in clusters and in a line, slowing their pace as they turn their faces, hindered by their emaciation and a desire for ease.
-ja: 渡り鳥のように、`l'alber`にいる`tutta la gente`は、群れをなしたり列を成したりすることを繰り返し、痩せさらばえた身体と安息への切望に妨げられ、顔を向けるたびにその歩みを緩めていた。
+en: In `*l'alber*`, `*tutta la gente*` shifts their formation and slows their pace as they turn their faces, constrained by their emaciation and a desire to move with less effort.
+ja: その木において、`tutta la gente`は、痩せさらばえた身体と少ない労力で動きたいという願いに縛られ、顔を向けながら隊列を変え、その歩みを緩めた。
 
 ## Scene 70-75: Forese Departs
-en: In `*l'alber*`, `*Forese*` lets `*la santa greggia*` pass him by—like a tired `*l'uom*` who allows `*li compagni*` to move ahead—so that he may walk with `*Dante*` and ask when they will see each other again.
-ja: `l'alber`において、`Forese`は疲れ切った`l'uom`が`li compagni`を先に進ませるかのように、`la santa greggia`をやり過ごした。そうして`Dante`と共に歩み、いつ再び会えるのかを尋ねたのである。
+en: Similar to a tired `*l'uom*` letting `*li compagni*` move on, `*Forese*` allows `*la santa greggia*` to pass him in `*l'alber*` so that he may walk behind `*Dante*` and ask when they will meet again.
+ja: 疲れ果てた l'uom が li compagni に先を行かせるように、Forese は木の下で la santa greggia に道を譲った。それは Dante の後ろを歩き、次なる再会はいつになるのかを問いかけるためであった。
 
 ## Scene 76-81: Dialogue with Forese
-en: In `*l'alber*`, `*Dante*` tells `*Forese*` that he does not know how much longer he will live, but he does not expect to return as a soul soon, as he intends to reach the shore first while his home city descends into ruin.
-ja: その木の下で、DanteはForeseに、自分がいつまで生きるかは分からないが、すぐに魂となって戻ってくるとは思っていないと語った。故郷の街が破滅へと向かうなか、まずは岸辺に辿り着きたいと考えていたからである。
+en: In *l'alber*, *Dante* tells *Forese* that he does not know how much longer he has to live, but he does not expect to return soon as he intends to reach the shore first, noting that the place where he lives is decaying daily toward a sad ruin.
+ja: その木にて、DanteはForeseに、自身にどれほどの寿命が残されているかは分からないが、まずは岸に辿り着くつもりであり、すぐに戻ることはないだろうと語った。あわせて、自らが住まう場所が、日に日に悲しき廃墟へと朽ち果てつつあることを告げた。
 
 ## Scene 82-93: Forese's Ominous Warning
-en: In `*l'alber*`, `*Forese*` urges `*Dante*` to move on, sharing a vision of `*quei che più n'ha colpa*` being dragged by a beast to a valley and crushed. He tells `*Dante*` the meaning will soon be clear and bids him farewell to avoid wasting further time in this realm.
-ja: その木の下で、ForeseはDanteに先へ進むよう促し、quei che più n'ha colpaが獣に引きずられて谷へと運ばれ、砕かれる光景を語った。その意味は間もなく明らかになるとDanteに告げると、彼はこの領域でこれ以上時間を浪費せぬよう、別れを告げた。
+en: In *l'alber*, *Forese* warns *Dante* of a vision in which the most guilty are dragged and crushed by a beast, promising that the meaning will soon become clear. He then bids *Dante* farewell, explaining that time in this realm is too precious to spend walking side by side.
+ja: l'alberにて、ForeseはDanteに、最も罪深い者たちが獣に引きずられ押し潰されるという幻視を伝え、その意味はまもなく明らかになると約束した。そして、この領域における時間はあまりに貴重であり、寄り添って歩くことに費やすべきではないと説いて、Danteに別れを告げた。
 
 ## Scene 94-97: The Knight's Departure
-en: In *l'alber*, *Forese* departs from *Dante*, *Virgilio*, and *Stazio* with a sudden, spirited stride, as if charging forward in battle to win honor.
-ja: l'alberにおいて、ForeseはDante、Virgilio、Stazioから離れ、あたかも名誉を勝ち取るべく戦場へと突き進むかのような、不意に勇ましい足取りで歩き出した。
+en: Like a knight charging ahead to win honor, *Forese* departs from *Dante*, *Virgilio*, and *Stazio* in *l'alber* with a spirited stride.
+ja: 名誉を勝ち取らんとして突き進む騎士のごとく、Foreseは勇ましい足取りで、その木にいたDante, Virgilio, Stazioのもとを去っていった。
 
 ## Scene 98-111: Vision of the Hungry Souls
-en: *Dante* remains on the *via* with *Virgilio* and *Stazio* as *Forese* moves ahead, where he sees *gente* reaching up and crying out toward the branches of a fruit-laden tree that holds its bounty high to intensify their longing.
-ja: DanteはVirgilioとStazioと共に道に留まり、先行したForeseは、果実がたわわに実った木の枝へと手を伸ばし叫ぶgenteを目にする。その木は、彼らの切望をいっそう募らせるため、豊かな実を高く掲げていた。
+en: Remaining on the *via* with *Virgilio* and *Stazio* as *Forese* moves ahead, *Dante* sees *gente* reaching and shouting toward a fruit-laden tree like hungry children, while the tree holds its bounty high to sharpen their longing.
+ja: Foreseが先へ進むなか、DanteはVirgilioとStazioと共に道に留まり、飢えた子供のように果実のたわわな木に向かって手を伸ばし叫ぶgenteの姿を眺めていた。木はその恵みを高く掲げ、彼らの切望をいっそう募らせていた。
 
 ## Scene 112-120: Warning Near the Tree
-en: *Dante*, *Virgilio*, and *Stazio* reach the *grande arbore*, where a mysterious voice warns them to keep their distance, explaining that the tree grew from the wood *Eva* bit. Unable to identify the speaker, *Dante*, *Virgilio*, and *Stazio* proceed past the tree.
-ja: Dante, Virgilio, Stazioが大樹に辿り着くと、謎の声が、この木はEvaが齧った木から成長したものだとして、近づかぬよう警告した。声の主を特定できぬまま、Dante, Virgilio, Stazioはそのまま木を通り過ぎていった。
+en: As the `*gente*` departs, `*Dante*`, `*Virgilio*`, and `*Stazio*` approach the `*grande arbore*`, where a voice warns them to keep their distance, explaining that this tree grew from the one bitten by `*Eva*`. Not knowing who speaks, the three stay close together and move past the tree on the ascending side of `*l'alber*`.
+ja: `gente` が立ち去った後、`Dante`、`Virgilio`、`Stazio` の三人が大樹に近づくと、そこである声が、この木は `Eva` が齧った木から生えたものであると告げ、近づくなと警告した。声の主が誰であるか分からぬまま、三人は互いに身を寄せ合い、木の登り側に沿ってそこを通り過ぎた。
 
 ## Scene 121-126: Mythological Allusions
-en: At the *grande arbore*, *Dante* is warned through the examples of *i maladetti* who hindered *Tesëo* and *li Ebrei* whom *Gedeon* refused as *compagni*.
-ja: 巨大な樹の下で、Tesëoを妨げたi maladettiや、Gedeonがcompagniとして拒絶したli Ebreiの例を通じ、Danteは警告を受ける。
+en: In the `*grande arbore*`, a voice warns `*Dante*` by recounting how `*i maladetti*` became weak, leaving `*Tesëo*` to fight alone, and how `*Gedeon*` dismissed certain `*compagni*` among `*li Ebrei*` for showing softness.
+ja: `grande arbore`において、ある声が`Dante`に警告を発した。その声は、`i maladetti`が弱り`Tesëo`が独りで戦うこととなったこと、そして`Gedeon`が`li Ebrei`の中の`compagni`の一部を心弱さゆえに退けたことを語った。
 
 ## Scene 127-132: Passing the Thickets
-en: *Dante* and *Virgilio* pass by the *vivagni*, hearing faults of the throat, and then walk a thousand paces in silence, while *Statio* is mentioned.
-ja: DanteとVirgilioはvivagniを通り過ぎ、喉から漏れる不協和音を耳にした。その後、Statioの名が挙げられるなか、二人は静寂に包まれて千歩を歩いた。
+en: *Dante* and *Virgilio* pass through the *vivagni*, hearing laments of gluttony and avarice, before walking for over a thousand paces in total silence.
+ja: DanteとVirgilioは、暴食と強欲の嘆きを聞きながらvivagniを通り抜け、その後、完全なる沈黙の中で千歩以上を歩み進めた。
 
 ## Scene 133-136: A Sudden Interruption
-en: A sudden voice interrupts the silence in the *vivagni*, asking what *Dante*, *Virgilio*, and *Statio* are thinking. Startled like a frightened animal, *Dante* looks up to see who has spoken.
-ja: vivagniの静寂を突如としてある声が破り、Dante, Virgilio, Statioが何を考えているのかと問いかけた。怯えた獣のようにぎくりとしたDanteは、誰が話したのかを確かめようと顔を上げた。
+en: A sudden voice interrupts *Dante*, *Virgilio*, and *Statio* in the *vivagni*, asking what they are thinking and startling *Dante*, who looks up to see who spoke.
+ja: 突然の声が、生ける炎の中にいた Dante, Virgilio, Statio の間に割り込み、彼らが何を考えているのかを問いかけた。不意を突かれた Dante は、誰が口にしたのかを確かめるべく、顔を上げた。
 
 ## Scene 137-141: The Brilliant Figure's Warning
-en: In the *vivagni*, *Dante* sees an *anima lucente e rossa* who tells him, *Virgilio*, and *Stazio* to turn here if they wish to ascend, for this is the way for *chi vuole andar per pace*.
-ja: 炎の中で、Danteは一人のanima lucente e rossaに出会う。その魂は、上昇することを望むのであればこちらへ向かうようにとDante、Virgilio、Stazioに告げ、こここそがchi vuole andar per paceのための道であると説いた。
+en: In the *vivagni*, *Dante* sees an *anima lucente e rossa* glowing more intensely than molten glass or metal, who tells *Dante*, *Virgilio*, and *Stazio* that they must turn here to continue their ascent toward peace.
+ja: 炎の池の中で、Danteは溶けたガラスや金属よりも激しく輝くanima lucente e rossaを目にする。その魂は、Dante、Virgilio、そしてStazioに、平和への上昇を続けるためにはここで方向を変えねばならないと告げた。
 
 ## Scene 142-144: Dante's Reaction
-en: Blinded by the brilliance in the *vivagni*, *Dante* turns back toward his *dottori*, like an *om* who walks guided by the directions of those he hears.
-ja: 炎の輝きに目を眩ませたDanteは、耳に届く導きに従って歩むomのように、dottoriの方へと振り返った。
+en: Blinded by the brilliance, *Dante* turns back toward his *dottori* in the *vivagni*, like an *om* who walks according to what he hears.
+ja: 眩い輝きに目を眩ませ、Danteは、聞こえる声に従って歩むomのように、vivagniにいるdottoriの方へと振り返った。
 
 ## Scene 145-150: The May Breeze
-en: In the *vivagni*, *Dante* feels a breeze brush across his forehead like a May wind, smelling of ambrosia and moving the feather upon his head.
-ja: vivagniにおいて、Danteは五月の風のように額をなでるそよ風を感じた。それはアンブロシアの香りを漂わせ、彼の頭上の羽を揺らしていた。
+en: In the *vivagni*, *Dante* feels a breeze on his forehead that smells of ambrosia and carries the floral fragrance of May.
+ja: 青々とした草地の中で、Danteは額に、アンブロシアの香りと五月の花々の芳香を運ぶそよ風を感じる。
 
 ## Scene 151-154: The Benediction
-en: In the *vivagni*, *Dante* hears a voice proclaim that *i beati* are those blessed with enough grace to ensure their desire for taste remains just rather than excessive.
-ja: 生ける炎の中、Danteはある声が、i beatiとは味覚への欲求を過剰にせず節度あるままでいさせるに十分な恩寵を授かった人々であると告げるのを耳にする。
+en: In the *vivagni*, *Dante* hears a voice declare that *i beati* are blessed when grace ensures that the love of taste does not fuel excessive desire, but rather a hunger that is always just.
+ja: 生ける炎の中で、Danteはある声が告げるのを耳にする。i beatiが祝福されるのは、恩寵によって味覚への愛が過剰な欲望を煽ることなく、常に正当な飢えとなる時である、と。

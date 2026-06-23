@@ -25,14 +25,15 @@ lines = "13-24"
 title = "Dante's Dread of the Demons"
 location = ""
 region = "sopra 'l fosso"
+cohort = ["Malebranche"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Malebranche", status = "mentioned" },
+  { who = "Malebranche", status = "present" },
   { who = "Virgilio", status = "present" },
 ]
 speech = [
-  { quote_id = "23:13", lines = "13-18", speaker = "Dante", addressee = "Virgilio", source = "code" },
-  { quote_id = "23:21", lines = "21-24", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "23:13", lines = "13-18", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+  { quote_id = "23:21", lines = "21-24", speaker = "Dante", addressee = "Virgilio", source = "llm" },
 ]
 refer = [
   { phrase = "i Malebranche", line = 13, resolves = "Malebranche" },
@@ -114,7 +115,7 @@ cast = [
   { who = "Virgilio", status = "present" },
   { who = "una gente dipinta", status = "present" },
   { who = "li monaci", status = "mentioned" },
-  { who = "observers/onlookers", status = "present" },
+  { who = "observers/onlookers", status = "mentioned" },
   { who = "Federigo", status = "mentioned" },
 ]
 relations = [
@@ -127,11 +128,9 @@ lines = "67-72"
 title = "The Burden of the Cloaks"
 location = "letto del fondo giù"
 region = "letto del fondo giù"
-cohort = ["quella gente stanca"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "quella gente stanca", status = "present" },
 ]
 relations = [
   { subj = "Dante, Virgilio", predicate = "follows", obj = "quella gente stanca", lines = "68-69" },
@@ -163,7 +162,7 @@ cast = [
   { who = "un che 'ntese la parola tosca", status = "present" },
 ]
 speech = [
-  { quote_id = "23:77", lines = "77-79", speaker = "un che 'ntese la parola tosca", addressee = "Virgilio", source = "llm" },
+  { quote_id = "23:77", lines = "77-79", speaker = "un che 'ntese la parola tosca", addressee = "Dante", source = "llm" },
 ]
 relations = [
   { subj = "un che 'ntese la parola tosca", predicate = "calls", obj = "Dante, Virgilio", lines = "77-77" },
@@ -282,8 +281,8 @@ location = "collegio de l'ipocriti"
 region = "via stretta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Catalano", status = "present" },
-  { who = "Loderingo", status = "present" },
+  { who = "Catalano", status = "mentioned" },
+  { who = "Loderingo", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "addresses", obj = "Catalano, Loderingo", lines = "109-109" },
@@ -371,11 +370,10 @@ lines = "139-141"
 title = "The Error of the Demon"
 location = "collegio de l'ipocriti"
 region = "via stretta"
-cohort = ["un peccator"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dio", status = "mentioned" },
-  { who = "un peccator", status = "present" },
+  { who = "un peccator", status = "mentioned" },
 ]
 refer = [
   { phrase = "i peccator", line = 141, resolves = "un peccator" },
@@ -411,8 +409,8 @@ region = "via stretta"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Catalano", status = "mentioned" },
-  { who = "Loderingo", status = "mentioned" },
+  { who = "Catalano", status = "present" },
+  { who = "Loderingo", status = "present" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "145-145" },

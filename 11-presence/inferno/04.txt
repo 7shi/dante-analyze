@@ -31,11 +31,11 @@
 ## Scene 43-50: Dante's Inquiry
 - who: Dante | status: present | basis: 43-50
 - who: gente di molto valore | status: mentioned | basis: 44-45
-- who: Virgilio | status: present | basis: 46-46
+- who: Virgilio | status: present | basis: 43-50
 
 ## Scene 51-63: The Descent of the Patriarchs
 - who: Virgilio | status: present | basis: 51-51
-- who: Virgilio, le ombre di Limbo | status: present | basis: 51-52
+- who: le ombre di Limbo | status: present | basis: 51-52
 - who: Cristo | status: mentioned | basis: 53-54
 - who: Abèl | status: mentioned | basis: 56-56
 - who: Noè | status: mentioned | basis: 56-56
@@ -62,8 +62,8 @@
 
 ## Scene 79-81: The Divine Voice
 - who: Dante | status: present | basis: 79-79
-- who: Dante, noble souls of Limbo | status: present | basis: 79-80
-- who: Virgilio | status: present | basis: 81-81
+- who: noble souls of Limbo | status: present | basis: 80-80
+- who: Virgilio | status: mentioned | basis: 80-81
 
 ## Scene 82-93: The Meeting of the Great Poets
 - who: Dante | status: present | basis: 83-83
@@ -75,15 +75,15 @@
 
 ## Scene 94-102: The Assembly of Wisdom
 - who: Dante | status: present | basis: 94-102
-- who: Omero | status: present | basis: 95-98
+- who: Omero | status: present | basis: 94-102
 - who: Orazio | status: present | basis: 94-102
 - who: Ovidio | status: present | basis: 94-102
 - who: Lucano | status: present | basis: 94-102
 - who: Virgilio | status: present | basis: 99-99
 
 ## Scene 103-111: The Noble Castle
-- who: Dante | status: present | basis: 110-110
-- who: Virgilio | status: present | basis: 103-103
+- who: Dante | status: present | basis: 103-111
+- who: Virgilio | status: present | basis: 103-111
 - who: Omero | status: present | basis: 110-110
 - who: Orazio | status: present | basis: 110-110
 - who: Ovidio | status: present | basis: 110-110
@@ -107,7 +107,7 @@
 - who: Cesare | status: present | basis: 123-123
 - who: Cammilla | status: present | basis: 124-124
 - who: Pantasilea | status: present | basis: 124-124
-- who: Latino | status: present | basis: 125-125
+- who: Latino | status: present | basis: 125-126
 - who: Lavina | status: present | basis: 126-126
 - who: Bruto | status: present | basis: 127-127
 - who: Tarquino | status: mentioned | basis: 127-127
@@ -119,14 +119,13 @@
 
 ## Scene 130-144: The School of Philosophers
 - who: Dante | status: present | basis: 130-130
-- who: Aristotele | status: present | basis: 131-133
+- who: Aristotele | status: present | basis: 131-132
 - who: filosofica famiglia | status: present | basis: 132-132
-- who: Socrate | status: present | basis: 134-135
-- who: Platone | status: present | basis: 134-135
+- who: Socrate | status: present | basis: 134-134
+- who: Platone | status: present | basis: 134-134
 - who: Democrito | status: present | basis: 136-136
 - who: Dïogenès | status: present | basis: 137-137
 - who: Anassagora | status: present | basis: 137-137
-- who: Tale | status: present | basis: 137-137
 - who: Empedoclès | status: present | basis: 138-138
 - who: Eraclito | status: present | basis: 138-138
 - who: Zenone | status: present | basis: 138-138

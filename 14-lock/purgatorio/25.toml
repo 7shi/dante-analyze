@@ -27,7 +27,6 @@ location = ""
 region = "scala"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "colui ch'a dicer s'argomenta", status = "mentioned" },
 ]
 simile = [
   { lines = "10-13", vehicle = "il cicognin" },
@@ -177,8 +176,9 @@ lines = "85-90"
 title = "The Expansion of Virtue"
 location = ""
 region = "scala"
+cohort = ["l'anima"]
 cast = [
-  { who = "l'anima", status = "mentioned" },
+  { who = "l'anima", status = "present" },
 ]
 basis = "85-90"
 
@@ -234,7 +234,7 @@ region = "scala"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Stazio", status = "present" },
+  { who = "Stazio", status = "mentioned" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "warns", obj = "Dante, Stazio", lines = "118-120" },
@@ -297,8 +297,9 @@ lines = "136-139"
 title = "The Purpose of the Ritual"
 location = "loco"
 region = "scala"
+cohort = ["lussuriosi"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "lussuriosi", status = "mentioned" },
+  { who = "lussuriosi", status = "present" },
 ]
 basis = "136-139"

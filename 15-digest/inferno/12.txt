@@ -1,101 +1,101 @@
 # Canto 12 — The Descent into the Valley of Violence and the Encounter with the Centaurs
 
 ## Scene 1-15: The Ruin and the Minotaur
-en: *Dante* and *Virgilio* arrive at *lo loco ov' a scender la riva venimmo*, where they encounter the *Minotauro*. Born from *la falsa vacca*, the *Minotauro* bites himself in a fit of rage, similar to *quei cui l'ira dentro fiacca*.
-ja: DanteとVirgilioが岸を下りて辿り着いた場所で、彼らはMinotauroに遭遇した。la falsa vaccaから生まれたMinotauroは、quei cui l'ira dentro fiaccaのごとく、激昂して自らを噛んでいた。
+en: *Dante* and *Virgilio* arrive at *lo loco ov' a scender la riva venimmo*, a steep and ruined cliff. Upon seeing them, the *Minotauro*—conceived through *la falsa vacca*—bites himself in a fit of rage.
+ja: DanteとVirgilioは、岸を降りて切り立ち崩れかけた崖に辿り着いた。二人の姿を見たMinotauroは――la falsa vaccaによって産まれた彼は――激昂のあまり、自らの身を噛んだ。
 
 ## Scene 16-21: Virgil's Rebuke
-en: At *lo loco ov' a scender la riva venimmo*, *Virgilio* shouts at the *Minotauro*, clarifying that he is not *Teseo*. He tells the beast to step aside, for *Dante* was not trained by *la tua sorella* but has come to witness the punishments.
-ja: lo loco ov' a scender la riva venimmoへと降り立った際、Virgilioは自分がTeseoではないことを告げてMinotauroに怒鳴りつけ、道をあけるよう命じた。Danteはla tua sorellaに導かれたのではなく、ただ罰の様を見届けるために来たのだから。
+en: At *lo loco ov' a scender la riva venimmo*, *Virgilio* shouts at *Minotauro*, asserting that he is not *Teseo* and that *Dante* has not been trained by *la tua sorella* but has come to see the punishments.
+ja: 岸辺を下りて至ったその場所で、VirgilioはMinotauroに向かって、自分はTeseoではないこと、そしてDanteはla tua sorellaに導かれたのではなく、ただ罰を目の当たりにするためにやって来たのだと叫んだ。
 
 ## Scene 22-27: The Frenzy of the Bull
-en: At *lo loco ov' a scender la riva venimmo*, *Dante* sees the *Minotauro* leaping frantically like a mortally wounded bull. *Virgilio* urges *Dante* to hurry through the gap and descend while the *Minotauro* is consumed by its rage.
-ja: 岸を下りる場所に辿り着いたとき、Danteは致命傷を負った牡牛のごとく狂乱して跳ね回るMinotauroを目にした。Virgilioは、Minotauroが怒りに囚われている隙に、急いでその突破口を通り抜け下りるようDanteに促した。
+en: At *lo loco ov' a scender la riva venimmo*, *Dante* observes the *Minotauro* leaping erratically like a mortally wounded bull. Seizing the moment, *Virgilio* urges *Dante* to hurry to the gap and descend while the beast is in a frenzy.
+ja: 「lo loco ov' a scender la riva venimmo」の場面で、Danteは致命傷を負った雄牛のごとく不規則に跳ね回るMinotauroを目にする。その機を逃さず、Virgilioは怪物が狂乱に陥っている間に急いで隙間へ向かい、降りるようDanteに促した。
 
 ## Scene 28-30: The Descent
-en: *Dante* and *Virgilio* make their way down *lo scarco di quelle pietre* in *lo loco ov' a scender la riva venimmo*, where the stones shift beneath *Dante*'s feet as he descends.
-ja: DanteとVirgilioは、岸へと降りてきたあの場所、lo scarco di quelle pietre in lo loco ov' a scender la riva venimmoを下っていく。降りゆくDanteの足元では、石がさらさらと崩れ動いていた。
+en: *Dante* and *Virgilio* descend *lo scarco di quelle pietre*, where the stones frequently shift beneath *Dante*'s feet under his weight.
+ja: DanteとVirgilioがその石の斜面を降りていくと、Danteの体重に押され、足元の石がたびたびずれた。
 
 ## Scene 31-45: The Earthquake and the Fall
-en: At *lo scarco di quelle pietre* in *lo loco ov' a scender la riva venimmo*, *Virgilio* tells *Dante* that the rocks collapsed during a great earthquake shortly before the time *Lucifero* is spoken of as bringing the great prey down, a tremor that would lead *chi creda* to believe the world had returned to chaos.
-ja: *lo loco ov' a scender la riva venimmo*における*lo scarco di quelle pietre*について、VirgilioはDanteに、Luciferoが偉大なる獲物を連れ落としたと言い伝えられる時期の直前に起きた大地震で岩が崩落したのだと語る。それは、chi credaに世界が混沌へと回帰したと思わせるほどの震動であった。
+en: At *lo scarco di quelle pietre*, *Virgilio* tells the pensive *Dante* that these ruins did not exist during his last visit, but collapsed during a massive earthquake that occurred shortly before the descent of *Lucifero*.
+ja: それらの岩の急斜面にて、Virgilioは物思いに沈むDanteに、この廃墟は前回の訪れには存在せず、Luciferoが降臨する直前に起きた大地震によって崩落したものだと語った。
 
 ## Scene 46-48: The River of Blood
-en: At *lo scarco di quelle pietre*, *Dante* is told to look down toward the river of blood where those who used violence to harm others boil.
-ja: 岩の切り立った端に立ったDanteは、他者に暴力を振るった者たちが煮え滾る血の河を、眼下に見下ろすよう告げられた。
+en: At *lo scarco di quelle pietre*, *Dante* is told to look down toward the valley, as they approach the river of boiling blood where those who committed violence against others are punished.
+ja: lo scarco di quelle pietreに至り、他者に暴力を振るった者が罰せられる煮えたぎる血の川へと近づくなか、Danteは谷の方を見下ろすよう促された。
 
 ## Scene 49-51: Dante's Moral Reflection
-en: At *lo scarco di quelle pietre*, *Dante* reflects on the blind greed and foolish anger that spur short lives and lead to eternal sacrifice.
-ja: あの石が崩れ落ちる場所で、Danteは、短き生を駆り立て、永遠の犠牲へと導く盲目的な強欲と愚かな怒りに思いを馳せた。
+en: At *lo scarco di quelle pietre*, *Dante* reflects on how blind greed and foolish anger spur people during their short lives and lead to their eternal sacrifice.
+ja: それらの石を降ろす場面で、Danteは、盲目的な強欲と愚かな怒りが人の短き生をいかに駆り立て、そして永遠の犠牲へと導くのかに思いを馳せる。
 
 ## Scene 52-57: The Centaurs' Patrol
-en: At *lo scarco di quelle pietre*, *Dante* sees the wide, curved ditch *Virgilio* had mentioned and observes *centauri* armed with arrows patrolling the area as they used to hunt in the world.
-ja: 岩の斜面を下りきったところで、DanteはVirgilioが語っていた幅広く湾曲した溝を目にし、かつて現世で狩りに勤しんでいたときのように、矢を携えて辺りを巡回するcentauriたちの姿を眺めた。
+en: At `*lo scarco di quelle pietre*`, `*Dante*` observes a wide, curved ditch as `*Virgilio*` had mentioned, and sees `*centauri*` armed with arrows patrolling the area as they once did when hunting in the world.
+ja: それらの岩が降り積もる場所で、DanteはVirgilioが述べていた通りに幅広く湾曲した溝を目にし、かつて地上で狩りをしていた時のように、矢を構えて辺りを巡回するcentauriの姿を見た。
 
 ## Scene 58-63: The Centaurs' Challenge
-en: As *Dante* and *Virgilio* descend *la costa* in *lo loco ov' a scender la riva venimmo*, the *schiera* halts and three *centauri* detach themselves with bows. *Un centauro* shouts a threat, demanding to know what torment brings them there or he will shoot.
-ja: Dante と Virgilio が岸辺を下っていると、schiera が足を止め、弓を手にした 3 体の centauri が分かれて出てきた。un centauro が、どのような苦しみに導かれてここへ来たのかと問い詰め、答えなければ射抜くと脅し声を上げた。
+en: Seeing `*Dante*` and `*Virgilio*` descend `*la costa*`, three `*centauri*` separate from the `*schiera*` with bows and quivers. `*un centauro*` shouts to them to reveal what brings them there, threatening to shoot if they do not answer.
+ja: `Dante` と `Virgilio` が斜面を降りてくるのが見えると、弓と矢筒を携えた三体の `centauri` が `schiera` から離れてやってきた。`un centauro` が、ここへ何用で来たのか答えよと叫び、さもなくば射抜くと彼らを脅した。
 
 ## Scene 64-66: Virgil's Strategy
-en: At *la costa*, *Virgilio* tells *Dante* they will give their answer to the mentioned *Chirón* once they are close, remarking on the habitual rashness of the figure spoken of.
-ja: 海岸にて、VirgilioはDanteに、例のChirónへの返答は近づいてからにしようと告げ、その人物のいつもの軽率さについて言及した。
+en: At *la costa*, *Virgilio* tells *Dante* that they will answer *Chirón* once they are closer, remarking that *Chirón* was always too hasty.
+ja: la costaにて、VirgilioはDanteに、もっと近づいてからChirónに答えようと告げ、Chirónはいつも気が急ぎすぎると付け加えた。
 
 ## Scene 67-72: Identification of the Centaurs
-en: At *la costa*, *Virgilio* identifies the three figures for *Dante*: *Nesso*, who died because of *Deianira* and took revenge on himself; *Chirón*, who once nourished *Achille*; and *Folo*, who was consumed by anger.
-ja: la costaにて、VirgilioはDanteに三人の正体を説いた。Deianiraによって死し、自らに復讐したNesso、かつてAchilleを育てたChirón、そして怒りに呑まれたFoloである。
+en: At *la costa*, *Virgilio* identifies for *Dante* the three centaurs: *Nesso*, who died because of the mentioned *Deianira*; *Chirón*, who once nourished the mentioned *Achille*; and the rage-filled *Folo*.
+ja: 岸辺において、VirgilioはDanteに三人のケンタウロスを指し示した。前述のDeianiraによって命を落としたNesso、かつて前述のAchilleを育てたChirón、そして怒りに満ちたFoloである。
 
 ## Scene 73-75: The Rain of Arrows
-en: At *la costa* in *lo loco ov' a scender la riva venimmo*, *centauri* patrol in great numbers, shooting any *l'anima* that attempts to rise from the blood higher than their guilt allows.
-ja: 岸を下りたその場所の海岸では、大勢の centauri が巡回しており、自らの罪が許す以上の高さまで血の中から昇ろうとする l'anima を矢で射抜いていた。
+en: At `*la costa*`, the `*centauri*` patrol in their thousands, shooting any `*l'anima*` that attempts to rise higher than its sin allows.
+ja: `la costa`では数千の`centauri`が巡回し、己の罪が許す高さを超えて昇ろうとする`l'anima`を射抜いている。
 
 ## Scene 76-79: The Inspection
-en: At *la costa*, *Dante* and *Virgilio* approach the *centauri*, and *Chirón* nocks an arrow and draws his bow, opening his great mouth wide.
-ja: 海岸にて、DanteとVirgilioがcentauriに近づくと、Chirónは大口を開け、矢を番えて弓を引き絞った。
+en: As *Dante* and *Virgilio* approach the *centauri* at *la costa*, *Chirón* nocks an arrow and draws it back past his jaws, exposing his wide mouth.
+ja: DanteとVirgilioが海岸のcentauriに近づくと、Chirónは矢を番えて顎の先まで引き絞り、大きく開いた口を露わにした。
 
 ## Scene 80-82: Chiron's Suspicion
-en: At *la costa*, *Chirone* asks *Nesso* and *Folo* if they have noticed that *Dante* moves his feet upon contact with the ground, observing that *i morti* do not typically behave in such a way.
-ja: la costaにおいて、ChironeはNessoとFoloに、Danteが地面に足をつけるたびに足を動かしていることに気づいたかと問いかけ、通常i mortiがそのような振る舞いをすることはないと指摘した。
+en: At *la costa*, *Chirone* asks *Nesso* and *Folo* if they notice that *Dante* moves his feet as he walks, observing that this is not how *i morti* usually behave.
+ja: la costaにて、ChironeはDanteが歩く際に足を動かしていることに気づいているかとNessoとFoloに問いかけ、そのような振る舞いはi mortiの常ではないと指摘した。
 
 ## Scene 83-96: Virgil's Plea for Passage
-en: On the *selvaggia strada* in *lo loco ov' a scender la riva venimmo*, *Virgilio* explains to *Chirone* that *Dante* is alive and was sent by the spoken-of *Beatrice*. He asks *Chirone* to assign *un centauro* to lead them to the crossing and carry *Dante* on its back.
-ja: 川岸を下りたあの荒々しい道にて、VirgilioはChironeに対し、Danteが生きており、前述のBeatriceによって遣わされたのだと説明した。そして、渡河点まで彼らを導き、Danteを背に載せて運ぶためのun centauroを付けてほしいとChironeに求めた。
+en: On the *selvaggia strada*, *Virgilio* explains to *Chirone* that *Dante* is alive and that the mentioned *Beatrice* entrusted him with this necessary journey. He asks *Chirone* to assign *un centauro* to guide them to the crossing and carry *Dante* on its back, as he is not a spirit.
+ja: 険しい道にて、VirgilioはChironeに、Danteが生きていること、そしてBeatriceがこの不可欠な旅を彼に託したことを説明した。また、Danteは霊ではないため、渡し場まで彼らを導き、その背にDanteを乗せて運ぶun centauroを配属するようChironeに求めた。
 
 ## Scene 97-99: The Order to Guide
-en: On the *selvaggia strada*, *Chirone* turns to *Nesso* and orders him to turn back and guide *Dante* and *Virgilio*, instructing him to halt the spoken-of *altra schiera* if they should encounter them.
-ja: 荒れ果てた道にて、ChironeはNessoに向き、引き返してDanteとVirgilioを導くよう命じるとともに、もし例のaltra schieraに遭遇したならば彼らを制止するようにと指示した。
+en: On the *selvaggia strada*, *Chirone* turns to *Nesso* and orders him to go back and guide *Dante* and *Virgilio*, instructing him to halt any *altra schiera* they may encounter.
+ja: selvaggia stradaにて、ChironeはNessoに向き、引き返してDanteとVirgilioを案内し、行く手に現れるいかなるaltra schieraをも制止するようにと命じた。
 
 ## Scene 100-102: The Boiling Blood
-en: *Dante* and *Virgilio* move along *la proda del bollor vermiglio*, with the spoken-of *Nesso* as their escort, while *i bolliti* raise loud cries.
-ja: 前述のNessoを案内役に、DanteとVirgilioは朱色の沸き立つ岸辺を進み、その傍らではi bollitiが激しく叫んでいた。
+en: *Dante* and *Virgilio* move along *la proda del bollor vermiglio* escorted by *Nesso*, where *i bolliti* let out loud cries.
+ja: DanteとVirgilioはNessoに導かれ、i bollitiが激しく叫ぶ朱色の沸き立つ岸辺を進んでゆく。
 
 ## Scene 103-112: The Tyrants in the Blood
-en: At *la proda del bollor vermiglio*, *Dante* looks upon the *tiranni*, and *Nesso* identifies *Alessandro* and *Dïonisio*, who caused pain to the spoken-of *Cicilia*. *Nesso* then points out *Azzolino* and *Opizzo da Esti*, noting that the latter was slain by the spoken-of *figliastro*.
-ja: 真紅に沸き立つ岸辺で、Danteがtiranniに目を向けると、Nessoは先に語られたCiciliaを苦しめたAlessandroとDïonisioを指し示した。続いてNessoはAzzolinoとOpizzo da Estiを挙げ、後者が例のfigliastroによって殺害されたことを告げた。
+en: At *la proda del bollor vermiglio*, *Dante* observes the *tiranni* immersed in blood, whom *Nesso* identifies as *Alessandro* and *Dïonisio*, the latter spoken of for the pain he caused *Cicilia*. *Nesso* also points out *Azzolino* and *Opizzo da Esti*, noting that the latter was killed by his mentioned *figliastro*.
+ja: la proda del bollor vermiglioにて、Danteは血に浸るtiranniを目の当たりにする。Nessoは彼らをAlessandroとDïonisioであると告げ、後者がCiciliaに与えた苦しみに言及すると、さらにAzzolinoとOpizzo da Estiを指し示し、後者はそのfigliastroに殺されたことを語った。
 
 ## Scene 113-114: Dante's Turn
-en: At *la proda del bollor vermiglio*, *Dante* turns to *Virgilio* and suggests that *Nesso* should lead the way, and that he himself should follow.
-ja: la proda del bollor vermiglio のほとりで、Dante は Virgilio に、Nesso に先導させ、自分はそれに続こうと提案した。
+en: At *la proda del bollor vermiglio*, *Dante* turns to *Virgilio* and suggests that *Nesso* be the first in their order, followed by *Virgilio* and then himself.
+ja: 緋色の沸騰する岸辺にて、DanteはVirgilioに向き直り、Nessoを先頭とし、次にVirgilio、そして最後に自分が続く順序にすることを提案した。
 
 ## Scene 115-120: The Shadow of the Thames
-en: At *la proda del bollor vermiglio*, *Nesso* stops before the *gente* and points out *un'ombra*, declaring that this soul pierced the heart of the spoken-of *Dio*.
-ja: 紅き沸騰の岸辺にて、Nessoはgenteの前で立ち止まり、あるun'ombraを指し示して、この魂が語られたDioの心を貫いたのだと宣言した。
+en: At *la proda del bollor vermiglio*, *Nesso* halts before *gente* submerged in the boiling blood and points out *un'ombra*. He declares that *un'ombra* pierced the heart of *Dio* and that the blood of that heart still drips.
+ja: 沸き立つ深紅の岸辺にて、Nessoは沸騰する血に浸かるgenteの前で足を止め、あるun'ombraを指し示した。彼は、un'ombraがDioの心臓を貫いたため、今もなおその心臓から血が滴っているのだと告げた。
 
 ## Scene 121-123: The Severed Heads
-en: At *la proda del bollor vermiglio*, *Dante* sees *gente* who keep their heads and necks above the river, and he recognizes many among them.
-ja: 深紅に煮えたぎる岸辺にて、Danteは川に頭と首を出しているgenteを目にし、その中の多くに心当たりがあった。
+en: At *la proda del bollor vermiglio*, *Dante* observes *gente* who keep their heads and necks above the river, recognizing many among them.
+ja: 真紅に沸き立つ岸辺で、Danteは川の上に頭と首だけを出しているgenteを眺め、そのなかの多くの者を識別した。
 
 ## Scene 124-126: The Rising Tide
-en: At *la proda del bollor vermiglio*, the blood grew shallower and shallower until it only reached the feet, and then the ditch was left behind.
-ja: *la proda del bollor vermiglio*にて、血は次第に浅くなり、ついには足元を浸らすのみとなって、その溝を後にした。
+en: The blood gradually receded until it reached only the feet, and then the ditch was exited at *la proda del bollor vermiglio*.
+ja: 血は次第に引き、ついには足元までしか浸らなくなった。そして la proda del bollor vermiglio に至り、その溝を脱した。
 
 ## Scene 127-132: The Depths of Tyranny
-en: At *la proda del bollor vermiglio*, *Nesso* explains to *Dante* that while the blood is shallowing on their side, it sinks deeper and deeper on the opposite bank until it reaches the lowest depths.
-ja: 真紅に沸き立つ岸辺にて、NessoはDanteに、自分たちの側で血の流れが浅くなっている一方で、対岸では血はますます深く沈み込み、ついには最深の底にまで達するのであると説明した。
+en: At `*la proda del bollor vermiglio*`, `*Nesso*` explains to `*Dante*` that the boiling blood shallows on their side but deepens on the opposite side until it reaches the lowest depths.
+ja: `la proda del bollor vermiglio`にて、`Nesso`は`Dante`に、沸き立つ血は彼らのいる側では浅いが、対岸に向かって深まり、やがて最深部へと至るのだと説明した。
 
 ## Scene 133-138: The Scourge of Attila
-en: At *la proda del bollor vermiglio*, *Attila*, *Pirro*, *Sesto*, *Rinier da Corneto*, and *Rinier Pazzo* are eternally tormented by the extraction of their tears for the wars they waged.
-ja: la proda del bollor vermiglioのほとりで、Attila, Pirro, Sesto, Rinier da Corneto, そして Rinier Pazzoは、自らが惹き起こした戦いの報いとして、永遠に涙を絞り出されるという責め苦に苛まれている。
+en: At *la proda del bollor vermiglio*, divine justice eternally extracts tears from *Attila*, *Pirro*, and *Sesto*. This same punishment befalls *Rinier da Corneto* and *Rinier Pazzo* for the wars they waged in the streets.
+ja: 真紅に煮え立つ岸辺にて、神の正義はAttila、Pirro、そしてSestoから永遠に涙を絞り出している。市街で戦を繰り広げたRinier da CornetoとRinier Pazzoにも、同じ罰が下されていた。
 
 ## Scene 139-139: Departure
-en: At *la proda del bollor vermiglio*, *Dante* and *Virgilio* turned and waded back through the shallow water.
-ja: 真紅に沸き立つ岸辺にて、DanteとVirgilioは向きを転じ、浅瀬をかき分けて戻っていった。
+en: At *la proda del bollor vermiglio*, *Dante*, *Virgilio*, and *Nesso* turn around and retrace their steps through the shallows.
+ja: 真紅に沸き立つ岸辺で、Dante、Virgilio、Nessoは向きを変え、浅瀬を辿って引き返した。

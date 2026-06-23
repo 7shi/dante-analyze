@@ -4,7 +4,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 13-24: The Movement of the Heavenly Host
-- cohort: lo glorïoso essercito | source: code | basis: 16-23
+- cohort: lo glorïoso essercito | source: code | basis: 16-24
 
 ## Scene 25-33: The Descent of the Griffin
 - cohort: le donne | source: code | basis: 25-25
@@ -34,7 +34,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 82-90: The Reencounter with Beatrice
-- cohort: la compagnia | source: code | basis: 88-90
+- cohort: la compagnia | source: code | basis: 88-89
 
 ## Scene 91-93: The Closed Senses
 # (no soul-class present in this scene)
@@ -67,7 +67,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 148-153: The Proximity of the Giant
-- cohort: una puttana sciolta | source: llm | basis: 149-149
+- cohort: un gigante | source: llm | basis: 152-152
 
 ## Scene 154-160: The Final Violence
 # (no soul-class present in this scene)

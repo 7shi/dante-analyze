@@ -201,11 +201,11 @@ title = "The Voice of Angelic Love"
 location = ""
 region = "quella scala"
 cast = [
-  { who = "Maria", status = "mentioned" },
+  { who = "Maria", status = "present" },
   { who = "Cristo", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "23:103", lines = "103-108", speaker = "amore angelico", addressee = "(none)", source = "none" },
+  { quote_id = "23:103", lines = "103-108", speaker = "amore angelico", addressee = "Maria", source = "code" },
 ]
 relations = [
   { subj = "amore angelico", predicate = "addresses", obj = "Maria", lines = "106-106" },
@@ -250,11 +250,9 @@ lines = "121-129"
 title = "The Simile of the Infants"
 location = ""
 region = "quella scala"
-cohort = ["quei candori"]
 cast = [
   { who = "fantolin", status = "mentioned" },
   { who = "la mamma", status = "mentioned" },
-  { who = "quei candori", status = "present" },
   { who = "Maria", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
@@ -276,7 +274,7 @@ region = "quella scala"
 cohort = ["arche ricchissime"]
 cast = [
   { who = "arche ricchissime", status = "present" },
-  { who = "Cristo", status = "mentioned" },
+  { who = "Cristo", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "Maria", status = "mentioned" },
   { who = "San Pietro", status = "present" },

@@ -7,7 +7,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 16-24: The Riddle of the Arno
-- 14:16 lines 16-21 | speaker: Dante | addressee: quei che diceva pria | source: code | basis: 16-21
+- 14:16 lines 16-21 | speaker: Dante | addressee: (none) | source: none | basis: 16-21
 
 ## Scene 25-27: The Second Spirit's Query
 # (no attributed speech in this scene)
@@ -25,7 +25,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 73-84: Guido's Introduction
-# (no attributed speech in this scene)
+- 14:77 lines 77-126 | speaker: Guido del Duca | addressee: Dante | source: llm | basis: 77-78
 
 ## Scene 85-96: The Blight of Lineage
 # (no attributed speech in this scene)
@@ -43,7 +43,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 127-135: The Thunderous Voice
-- 14:133 lines 133-133 | speaker: la voce | addressee: Virgilio | source: llm | basis: 133-133
+- 14:133 lines 133-133 | speaker: la voce | addressee: Dante | source: llm | basis: 133-133
 
 ## Scene 136-139: The Appearance of Aglauro
 - 14:139 lines 139-139 | speaker: Aglauro | addressee: (none) | source: none | basis: 139-139

@@ -17,7 +17,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 37-39: The Soul of Mirra
-- cohort: alchimista | source: code | basis: 37-37
+- cohort: alchimista | source: code | basis: 37-38
 
 ## Scene 40-45: The Soul of Buoso Donati
 # (no soul-class present in this scene)
@@ -44,7 +44,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 82-87: The Difficulty of Movement
-- cohort: questa gente sconcia | source: code | basis: 85-87
+# (no soul-class present in this scene)
 
 ## Scene 88-90: The Motive for Counterfeiting
 - cohort: sì fatta famiglia | source: code | basis: 88-88

@@ -10,7 +10,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 31-36: The Theology of the Two Guides
-# (no attributed speech in this scene)
+- 12:31 lines 31-145 | speaker: San Domenico | addressee: Beatrice | source: llm | basis: 32-33
 
 ## Scene 37-45: The Allegory of the Church's Defense
 # (no attributed speech in this scene)
@@ -19,7 +19,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 61-78: The Vision and Signs of Sanctity
-- 12:78 lines 78-78 | speaker: Domenico | addressee: (none) | source: none | basis: 78-78
+- 12:78 lines 78-78 | speaker: San Domenico | addressee: (none) | source: none | basis: 78-78
 
 ## Scene 79-87: The Rapid Growth of the Doctor
 # (no attributed speech in this scene)

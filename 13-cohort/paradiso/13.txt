@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 25-30: The Song of the Trinity
-- cohort: quei santi lumi | source: code | basis: 29-29
+# (no soul-class present in this scene)
 
 ## Scene 31-36: The Metaphor of the Wheat
 - cohort: concordi numi | source: code | basis: 31-31

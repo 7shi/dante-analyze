@@ -13,7 +13,7 @@ cast = [
 ]
 speech = [
   { quote_id = "25:3", lines = "3-3", speaker = "Vanni Fucci", addressee = "Dante", source = "code" },
-  { quote_id = "25:6", lines = "6-6", speaker = "serpe", addressee = "Vanni Fucci", source = "llm" },
+  { quote_id = "25:6", lines = "6-6", speaker = "serpe", addressee = "Dante", source = "llm" },
 ]
 relations = [
   { subj = "serpe", predicate = "touches", obj = "Vanni Fucci", lines = "5-5" },
@@ -305,7 +305,7 @@ cohort = ["l'anima"]
 cast = [
   { who = "l'anima", status = "present" },
   { who = "L'altro", status = "present" },
-  { who = "Buoso", status = "mentioned" },
+  { who = "Buoso Donati", status = "mentioned" },
 ]
 speech = [
   { quote_id = "25:140", lines = "140-141", speaker = "l'anima", addressee = "L'altro", source = "code" },
@@ -345,7 +345,7 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Puccio Sciancato", status = "present" },
   { who = "Agnel", status = "present" },
-  { who = "the second spirit who was transformed", status = "mentioned" },
+  { who = "the second spirit who was transformed", status = "present" },
   { who = "Gaville", status = "present" },
 ]
 relations = [

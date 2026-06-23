@@ -4,7 +4,7 @@
 - cohort: i beati | source: code | basis: 10-10
 
 ## Scene 19-39: The Prayer of Petition
-- cohort: i beati | source: code | basis: 38-38
+- cohort: i beati | source: code | basis: 38-39
 
 ## Scene 40-45: Divine Response
 # (no soul-class present in this scene)

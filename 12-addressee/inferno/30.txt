@@ -52,14 +52,14 @@
 # (no attributed speech in this scene)
 
 ## Scene 94-99: The Accuser and the Deceiver
-- 30:94 lines 94-94 | speaker: Maestro Adam | addressee: (none) | source: none | basis: 94-94
-- 30:95 lines 95-99 | speaker: Maestro Adam | addressee: (none) | source: none | basis: 95-99
+- 30:94 lines 94-94 | speaker: Maestro Adam | addressee: la falsa | source: llm | basis: 94-94
+- 30:95 lines 95-99 | speaker: Maestro Adam | addressee: la falsa | source: llm | basis: 97-97
 
 ## Scene 100-103: The Physical Strike
 # (no attributed speech in this scene)
 
 ## Scene 104-108: Adam's Counter-strike
-- 30:106 lines 106-108 | speaker: Mastro Adamo | addressee: Sinon | source: code | basis: 106-108
+- 30:106 lines 106-108 | speaker: Maestro Adamo | addressee: Sinon | source: code | basis: 106-108
 
 ## Scene 109-111: The Coinage Insult
 # (no attributed speech in this scene)
@@ -78,7 +78,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 124-129: The Narcissus Insult
-- 30:124 lines 124-129 | speaker: Maestro Adamo | addressee: (none) | source: none | basis: 124-129
+- 30:124 lines 124-129 | speaker: Maestro Adamo | addressee: Sinon | source: code | basis: 124-129
 
 ## Scene 130-132: Virgil's Warning
 - 30:131 lines 131-132 | speaker: Virgilio | addressee: Dante | source: llm | basis: 131-132

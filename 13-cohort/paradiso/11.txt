@@ -31,7 +31,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 85-93: Francis's Early Mission and Recognition
-- cohort: quella famiglia | source: code | basis: 86-86
+# (no soul-class present in this scene)
 
 ## Scene 94-99: The Growth of the Order
 # (no soul-class present in this scene)

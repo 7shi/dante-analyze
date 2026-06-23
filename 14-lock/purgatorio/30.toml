@@ -21,11 +21,11 @@ lines = "10-12"
 title = "The Herald's Cry"
 location = "primo cielo"
 region = "L'acqua"
-cohort = ["un di loro", "tutti li altri"]
+cohort = ["la gente verace"]
 cast = [
   { who = "la gente verace", status = "present" },
   { who = "un di loro", status = "present" },
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
   { who = "tutti li altri", status = "present" },
 ]
 relations = [
@@ -38,9 +38,8 @@ lines = "13-21"
 title = "The Anthem of the Blessed"
 location = "divina basterna"
 region = "L'acqua"
-cohort = ["i beati"]
 cast = [
-  { who = "i beati", status = "present" },
+  { who = "i beati", status = "mentioned" },
   { who = "Beatrice", status = "present" },
 ]
 basis = "13-21"
@@ -225,10 +224,8 @@ lines = "85-99"
 title = "The Release of Tears"
 location = "chiaro fonte"
 region = "chiaro fonte"
-cohort = ["quei che notan sempre dietro a le note de li etterni giri"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei che notan sempre dietro a le note de li etterni giri", status = "present" },
   { who = "Beatrice", status = "mentioned" },
 ]
 basis = "85-99"
@@ -242,10 +239,10 @@ cohort = ["le sustanze pie"]
 cast = [
   { who = "Beatrice", status = "present" },
   { who = "le sustanze pie", status = "present" },
-  { who = "Dante", status = "mentioned" },
+  { who = "Dante", status = "present" },
 ]
 speech = [
-  { quote_id = "30:103", lines = "103-145", speaker = "Beatrice", addressee = "le sustanze pie", source = "code" },
+  { quote_id = "30:103", lines = "103-145", speaker = "Beatrice", addressee = "le sustanze pie", source = "llm" },
 ]
 relations = [
   { subj = "Beatrice", predicate = "addresses", obj = "le sustanze pie", lines = "102-103" },

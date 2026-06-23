@@ -1,49 +1,49 @@
 # Canto 20 — The Vision of the Distorted Souls and the Legend of Mantua
 
 ## Scene 1-3: Metapoetic Prologue
-en: At *l'argine quarto*, *Dante* reflects on the need to compose new verses for this canto, which belongs to the first part of his poem concerning *i sommersi*.
-ja: 第四の岸辺にて、Danteは i sommersi に関する詩の第一部に属するこの歌のために、新たな詩句を綴る必要について思いを巡らせた。
+en: At *l'argine quarto*, *Dante* notes that he must now compose verses regarding a new punishment for the twentieth canto of the song about *i sommersi*.
+ja: 第四の岸辺にて、Danteは、i sommersiについて語る歌の第二十歌に向けて、新たな罰に関する詩を綴らねばならないと記している。
 
 ## Scene 4-18: The Procession of the Distorted
-en: At *l'argine quarto*, *Dante* observes *gente* walking backward with their heads twisted, moving in a slow, weeping procession. He considers whether *alcun* might have been completely overturned by this distortion, though he believes he saw no such instance.
-ja: l'argine quartoにて、Danteは首をねじり、嘆きながら緩やかな列をなして後退して歩くgenteの姿を目にする。この歪みによってalcunが完全に転倒してしまったのではないかと彼は考えたが、そのような例は見当たらなかったように思う。
+en: At *l'argine quarto*, *Dante* watches *gente* processing slowly with their heads twisted backward, forcing them to walk in reverse. He wonders if *alcun* might have been completely overturned, though he does not believe it to be so.
+ja: 第四の岸辺にて、Danteは頭が後ろにねじ曲がったために後ずさりしてゆっくりと進むgenteを眺めていた。中には完全にひっくり返ってしまったalcunがいるのではないかと思いつつも、彼はそうではないと考えていた。
 
 ## Scene 19-24: Dante's Grief
-en: At *l'argine quarto*, *Dante* asks the *lettor*, if *Dio* permits, to consider how he could keep his face dry while seeing the human image so distorted that tears ran down to the buttocks.
-ja: 第四の堤において、Danteはlettorに、Dioが許してくださるならば、涙が臀部まで流れ落ちるほどに人間としての姿が歪んでしまった様を目の当たりにしながら、いかにして己の頬を濡らさずにいられたかを考えてみてほしいと請う。
+en: At *l'argine quarto*, *Dante* asks that *Dio* allow the *lettor* to consider how he could maintain his composure while seeing the human image so distorted that tears flowed down the buttocks.
+ja: 第四の岸辺にて、Danteは、人間の姿がひどく歪み涙が臀部を流れ落ちるさまを目にして、どうして自分が平静を保てたのかをlettorに考察することをDioが許してくださるよう願う。
 
 ## Scene 25-36: Virgil's Rebuke
-en: Leaning against a *duro scoglio* in *l'argine quarto*, *Dante* weeps, prompting *Virgilio* to rebuke him for being like *li altri sciocchi* and to look upon *Anfïarao*, whom *i Teban* saw swallowed by the earth and cast down to *Minòs*.
-ja: 第四の堤防の硬い岩に寄りかかり、Danteが涙を流していると、Virgilioは彼が li altri sciocchi のようだと叱咤し、i Tebanが大地に飲み込まれMinòsへと突き落とされるのを見たAnfïaraoに目を向けるよう促した。
+en: At the `*duro scoglio*` in `*l'argine quarto*`, `*Dante*` weeps, but `*Virgilio*` rebukes him for acting like `*li altri sciocchi*` by feeling pity. `*Virgilio*` directs his gaze to `*Anfïarao*`, who was called by `*i Teban*` as he fell down to `*Minòs*`.
+ja: 第四の堤防の険しい岩場にてDanteが涙を流すと、Virgilioは憐れみを抱いてli altri sciocchiのように振る舞う彼を叱った。そしてVirgilioは、Minòsへと堕ちゆく際にi Tebanに呼ばれたAnfïaraoへと視線を向けた。
 
 ## Scene 37-45: Examples of Transformation
-en: At the *duro scoglio*, *Dante* observes how *Anfiarao*'s chest has been turned into his back and how *Tiresia* once transformed from male to female and back again.
-ja: 硬き岩場にて、DanteはAnfiaraoの胸が背中へと反転している様を、そしてTiresiaがかつて男から女へ、そして再び男へと姿を変えたことを目の当たりにする。
+en: At the *duro scoglio*, *Dante* is shown *Anfiarao*, whose chest has replaced his back, and *Tiresia*, who once transformed from male to female and back again.
+ja: duro scoglioにて、Danteは、胸と背中が入れ替わったAnfiaraoと、かつて男から女へ、そして再び男へと姿を変えたTiresiaを目にする。
 
 ## Scene 46-60: The Legend of Manto
-en: At the *duro scoglio*, *Virgilio* identifies *Aronta*, who lived near *lo Carrarese*, and *Manto*, whose distorted form exposes her to *Dante*. *Virgilio* describes how *Manto* lived in his own home city after the death of *Tiresia* and expresses a wish to speak with her.
-ja: 険しい岩場にて、Virgilioはlo Carrareseの近辺に住んでいたArontaと、歪んだ姿をDanteにさらしているMantoを指し示した。VirgilioはTiresiaの死後、Mantoが彼の故郷の街でいかに暮らしたかを語り、彼女と話したいという願いを口にした。
+en: At the *duro scoglio*, *Virgilio* identifies *Aronta*, who boasts over *le anime della quarta bolgia* and once lived near where *lo Carrarese* is spoken of. He then describes *Manto*'s distorted form to *Dante*, explaining that she wandered the world after the death of *Tiresia*.
+ja: 険しい岩場にて、Virgilioはle anime della quarta bolgiaを相手に豪語し、かつてlo Carrareseが語られる地の近くに住んでいたArontaを識別した。次いで彼は、Tiresiaの死後に世界を彷徨ったというMantoの歪んだ姿についてDanteに説いた。
 
 ## Scene 61-78: Geography of Lake Garda
-en: At the *duro scoglio*, *Virgilio* describes the geography of a lake and the river that flows from it, noting that *'l trentino*, *quel di Brescia*, and *'l veronese* could mark the lake's center if a path were made.
-ja: 硬い岩場にて、Virgilioは湖の地形とそこから流れ出る川について説明し、もし道が作られれば、'l trentino、quel di Brescia、そして'l veroneseがその湖の中心を指し示すことになるだろうと語った。
+en: At the *duro scoglio*, *Virgilio* describes the geography of a lake and the river it feeds, mentioning how *'l trentino* and *'l veronese* might mark the lake's center.
+ja: 硬い岩のところで、Virgilioは湖の地形とそこから流れ出る川について説明し、'l trentinoと'l veroneseが湖の中心をなしているのではないかと語った。
 
 ## Scene 79-87: Formation of the Marshland
-en: At the *duro scoglio*, *Manto* is described as having found a wild land devoid of *abitanti* in the middle of a marsh. There, *Manto* lived and died with *suoi servi* while practicing her arts.
-ja: 硬い岩場において、Mantoは沼地のただ中にabitantiのいない荒野を見出したと伝えられている。そこでMantoはsuoi serviと共に自らの術を研鑽し、生き、そして死んだ。
+en: At the *duro scoglio*, it is recounted how a river forms a marsh where *Manto*, fleeing all *abitanti*, settled with *suoi servi* to practice her arts and remained until her death.
+ja: 険しい岩礁にて、ある川が沼をなしており、そこにあらゆるabitantiから逃れたMantoがsuoi serviと共に定住して芸を磨き、最期まで留まったと伝えられている。
 
 ## Scene 88-99: The Foundation of Mantua
-en: At the `*duro scoglio*`, `*Virgilio*` tells `*Dante*` how `*Li uomini*` settled the land chosen by `*Manto*` and named their city after her, noting that `*le genti*` had multiplied before `*la mattia*` was deceived by `*Pinamonte*`. He asserts to `*Dante*` that this account is the truth, regardless of any other versions.
-ja: 険しい岩場にて、`Virgilio`は`Dante`に、`Manto`が選んだ地に`Li uomini`が定住し、彼女の名を冠して都市を名付けた経緯を語った。また、`Pinamonte`が`la mattia`を欺く前に`le genti`が数多く増えていたことも付け加え、他にどのような説があろうとも、この話こそが真実であると`Dante`に断言した。
+en: At the `*duro scoglio*`, `*Virgilio*` explains to `*Dante*` that `*Li uomini*` founded a city over the remains of `*Manto*` and named it for her, noting that `*le genti*` grew until `*la mattia*` was deceived by `*Pinamonte*`. He cautions `*Dante*` that this is the only true account of the city's origin.
+ja: 険しい岩場にて、VirgilioはDanteに、Li uominiがMantoの遺骸の上に街を築いて彼女の名を冠し、le gentiが繁栄した末にla mattiaがPinamonteに欺かれたのだと語った。そして、これこそが街の起源に関する唯一の真実であると、彼はDanteに説いた。
 
 ## Scene 100-105: Dante's Inquiry
-en: At the *duro scoglio*, *Dante* affirms his complete trust in *Virgilio*'s explanations and asks if any of the *gente* are worthy of note.
-ja: 険しい岩場にて、DanteはVirgilioの説明に全幅の信頼を寄せ、そこに集うgenteの中に注目すべき者がいるかを問いかけた。
+en: At the *duro scoglio*, *Dante* tells *Virgilio* that his words are entirely convincing and asks if any of the *gente* are noteworthy.
+ja: 硬い岩場にて、DanteはVirgilioに、その言葉に完全に納得したと伝え、genteの中に注目すべき者がいるかを尋ねた。
 
 ## Scene 106-123: Virgil's Catalog of Souls
-en: At the *duro scoglio*, *Virgilio* identifies *Euripilo* for *Dante*, mentioning the *maschi* and *Calcanta*. He further points out *Michele Scotto*, *Guido Bonatti*, and *Asdente*, as well as the group known as *le triste*.
-ja: 険しい岩場にて、VirgilioはDanteにEuripiloを教え、maschiやCalcantaについても言及した。さらに彼は、Michele Scotto、Guido Bonatti、Asdente、そしてle tristeとして知られる人々を指し示した。
+en: At the *duro scoglio*, *Virgilio* identifies *Euripilo*, who once worked with the mentioned *Calcanta* when the mentioned *maschi* were few, and points out *Michele Scotto*, *Guido Bonatti*, and *Asdente*. He then directs *Dante*'s gaze toward *le triste*, who abandoned their domestic tools to practice the magical arts.
+ja: 硬い岩場において、Virgilioは、前述のmaschiが少なかった時代に前述のCalcantaと共に活動したEuripiloを特定し、さらにMichele Scotto、Guido Bonatti、Asdenteを指し示した。続いて彼は、家事の道具を捨てて魔術に耽ったle tristeへと、Danteの視線を向けさせた。
 
 ## Scene 124-130: Closing Exhortation
-en: At the *duro scoglio*, *Virgilio* urges *Dante* to move on, mentioning *Caino* to describe the current state of the heavens and recalling how a full moon once aided *Dante*. Then, *Virgilio* and *Dante* walk away together.
-ja: 険しい岩場で、VirgilioはCainoの名を挙げて天の現状を説き、かつて満月がDanteを助けたことを思い出させながら、前へ進むよう促した。そして、VirgilioとDanteは共に歩き出した。
+en: At the *duro scoglio*, *Virgilio* urges *Dante* to move on, referencing *Caino* to mark the moon's position and reminding *Dante* how the full moon once aided him in the deep forest. The two then continue their journey together.
+ja: 険しい岩場にて、VirgilioはCainoを指して月の位置を示し、かつて深い森の中で満月が彼を助けたことを思い出させながら、Danteに先へ進むよう促した。そして二人は、共に旅を続けた。

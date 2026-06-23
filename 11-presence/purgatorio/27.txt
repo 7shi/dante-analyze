@@ -15,7 +15,6 @@
 
 ## Scene 14-18: Dante's Terror
 - who: Dante | status: present | basis: 14-18
-- who: colui che ne la fossa è messo | status: mentioned | basis: 15-15
 
 ## Scene 19-32: Virgil's Reassurance
 - who: Dante | status: present | basis: 19-20
@@ -41,14 +40,14 @@
 - who: Stazio | status: present | basis: 47-48
 
 ## Scene 49-54: The Intensity of the Flame
-- who: Dante | status: present | basis: 49-51
-- who: Virgilio | status: present | basis: 52-54
+- who: Dante | status: present | basis: 49-49
+- who: Virgilio | status: present | basis: 52-52
 - who: Beatrice | status: mentioned | basis: 53-54
 
 ## Scene 55-63: The Heavenly Voice
-- who: Dante | status: present | basis: 55-60
-- who: Virgilio | status: present | basis: 55-57
-- who: Statio | status: present | basis: 58-58
+- who: Dante | status: present | basis: 55-62
+- who: Virgilio | status: present | basis: 55-62
+- who: Statio | status: mentioned | basis: 58-58
 - who: Patris | status: mentioned | basis: 58-58
 
 ## Scene 64-69: The Upward Climb
@@ -72,9 +71,9 @@
 - who: Dante | status: present | basis: 89-92
 
 ## Scene 94-108: The Dream of Lia
-- who: Dante | status: present | basis: 97-97
-- who: Lia | status: present | basis: 97-102
-- who: Rachel | status: mentioned | basis: 104-104
+- who: Dante | status: present | basis: 94-98
+- who: Lia | status: present | basis: 97-108
+- who: Rachel | status: mentioned | basis: 104-108
 
 ## Scene 109-114: The Dawn of Awakening
 - who: Dante | status: present | basis: 113-113
@@ -90,14 +89,14 @@
 - who: Dante | status: present | basis: 121-123
 
 ## Scene 124-132: The Limit of Virgil's Guidance
-- who: Dante | status: present | basis: 124-132
-- who: Virgilio | status: present | basis: 124-132
+- who: Dante | status: present | basis: 124-131
+- who: Virgilio | status: present | basis: 124-130
 - who: Stazio | status: present | basis: 124-125
 
 ## Scene 133-138: The Beauty of the Paradise
 - who: Dante | status: present | basis: 133-138
 - who: Beatrice | status: present | basis: 133-138
-- who: Virgilio | status: mentioned | basis: 136-137
+- who: Virgilio | status: present | basis: 133-138
 
 ## Scene 139-142: The Granting of Free Will
 - who: Dante | status: present | basis: 139-142

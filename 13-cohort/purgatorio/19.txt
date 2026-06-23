@@ -46,10 +46,10 @@
 - cohort: gente | source: code | basis: 71-72
 
 ## Scene 73-75: The Audible Grief
-- cohort: gli avarizi e i prodighi | source: code | basis: 73-74
+- cohort: gli avarizi e i prodighi | source: code | basis: 74-74
 
 ## Scene 76-78: The Prayer for Ascent
-- cohort: anime degli avidi e dei prodighi | source: code | basis: 76-78
+- cohort: anime degli avidi e dei prodighi | source: code | basis: 78-78
 
 ## Scene 79-81: Virgil's Instruction
 # (no soul-class present in this scene)

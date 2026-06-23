@@ -16,7 +16,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 52-63: The Sinner's Confession
-# (no soul-class present in this scene)
+- cohort: bolognese | source: code | basis: 58-59
 
 ## Scene 64-66: The Demon's Interruption
 - cohort: demonio | source: code | basis: 64-65
@@ -34,11 +34,10 @@
 - cohort: color che 'n sé assanna | source: code | basis: 97-99
 
 ## Scene 100-108: The Foul Junction
-- cohort: gente | source: code | basis: 103-105
+# (no soul-class present in this scene)
 
 ## Scene 109-114: The Sinner in the Filth
 - cohort: gente attuffata | source: llm | basis: 113-113
-- cohort: li uman privadi | source: llm | basis: 114-114
 
 ## Scene 115-123: Recognition of Alessio Interminei
 # (no soul-class present in this scene)

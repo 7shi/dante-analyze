@@ -1,65 +1,67 @@
 # Canto 21 — The Celestial Ladder and the Prophecy of the Corrupt Church
 
 ## Scene 1-18: Beatrice's Warning
-en: In the *settimo splendore*, *Beatrice* warns *Dante* that her increasing radiance would consume him as *Semelè* was consumed, and she urges him to focus his mind on the vision to come.
-ja: 第七の輝きの中で、Beatriceは、自らの増しゆく光輝がかつてのSemelèのように彼を焼き尽くしてしまうだろうとDanteに警告し、これから訪れる幻視に心を集中させるよう促した。
+en: In the *settimo splendore*, *Beatrice* warns *Dante* that her radiant beauty would consume him as it did *Semelè* if she were to smile. She then tells him to prepare his mind to perceive the vision that is about to appear.
+ja: 第七の輝きの中で、Beatriceは、もし自分が微笑めばその眩い美しさがSemelèを焼き尽くしたときと同様にDanteをも飲み込んでしまうだろうと警告した。そして、まもなく現れる幻視を捉えるため、心を整えるよう彼に促した。
 
 ## Scene 19-24: Dante's Obedience
-en: In the *settimo splendore*, *Dante* reflects on the profound gladness he felt in obeying the guidance of *Beatrice*.
-ja: 第七の輝きの中で、DanteはBeatriceの導きに従った際に感じた深い喜びに、静かに思いを馳せていた。
+en: In the *settimo splendore*, *Dante* reflects on the deep satisfaction he felt in obeying the guidance of *Beatrice*, shifting his attention away from her radiant face toward a new concern.
+ja: 第七の輝きの中で、DanteはBeatriceの導きに従ったことに深い満足感を覚えた。そして、彼は彼女の眩いばかりの光り輝く顔に注いでいた視線を、新たな懸念事項へと移した。
+
+第七の輝きの中で、DanteはBeatriceの導きに従ったことに深い満足感を覚え、その眩い顔から視線を外し、新たな懸念へと意識を向けた。
 
 ## Scene 25-33: Vision of the Golden Ladder
-en: Within the *cristallo*, *Dante* sees a golden ladder reaching so high that his gaze cannot follow it, while a multitude of lights descend the steps from the sphere moved by *Cristo*.
-ja: 水晶天の中に、Danteは視線が及ばぬほど高くそびえる黄金の梯子を見た。そこでは、Cristoが動かす天球から、無数の光が階段を降りてきていた。
+en: Within the *cristallo*, governed by the mentioned *Cristo*, *Dante* beholds a golden ladder ascending beyond the reach of his vision, while countless lights descend its steps.
+ja: 前述のCristoが統べるcristalloの中で、Danteは視界の及ばぬ高みへと昇る黄金の梯子と、その段を降りてくる無数の光を目の当たりにする。
 
 ## Scene 34-42: The Analogy of the Sun
-en: Within the *cristallo*, *Dante* compares the shimmering, restless movement of the lights to the natural behavior of birds at the break of day.
-ja: cristalloの中で、Danteは煌めきながら絶えず揺れ動く光々のさまを、夜明けの鳥たちが示す自然な振る舞いに例えた。
+en: In the *cristallo* of the *settimo splendore*, *Dante* compares the shimmering movement of the lights to the natural way a flock of birds stirs, departs, and circles at the break of day.
+ja: settimo splendore の cristallo のなかで、Dante は光たちの揺らめく動きを、夜明けに鳥の群れがざわめき、飛び立ち、そして円を描いて舞う自然なありさまになぞらえている。
 
 ## Scene 43-48: Dante's Hesitation
-en: Within the *cristallo*, *Dante* reflects on the love of *Beatrice* but suppresses his urge to ask questions, remaining silent as he awaits a signal from the mentioned figure.
-ja: 水晶の圏内で、DanteはBeatriceへの愛に思いを馳せながらも、問いかけたい衝動を抑え、例の人物からの合図を待って沈黙を守っていた。
+en: Within the *cristallo* of the *settimo splendore*, *Dante* is captivated by the clarity of the vision and, acknowledging the love of *Beatrice* and her silence, he suppresses his desire to ask questions.
+ja: settimo splendoreのcristalloの中で、Danteはその視界の澄明さに心を奪われていた。Beatriceの愛と、その沈黙を悟った彼は、問いを投げかけたいという衝動を静かに抑え込んだ。
 
 ## Scene 49-60: The Inquiry of Silence
-en: Noticing *Dante*'s silence as he gazes upon the mentioned *Dio*, *Beatrice* urges him to express his desire. *Dante* humbly asks *Beatrice* why she stands so near him and why the sweet symphony of paradise is silent in *questa rota*.
-ja: DanteがDioを凝視して沈黙していることに気づいたBeatriceは、彼にその望みを口にするよう促した。Danteは、なぜBeatriceがこれほど近くに寄り添っているのか、そしてなぜ楽園の甘美な調べがこの円環の中では途絶えているのかを、慎み深く問いかけた。
+en: Observing *Dante*'s silence while he gazes upon *Dio*, *Beatrice* urges him to express his desire, and *Dante* asks her why she has drawn so near and why the heavenly symphony is silent in *questa rota*.
+ja: Dioを凝視し沈黙するDanteに、Beatriceは己が望みを口にするよう促した。Danteは彼女に、なぜここまで近づいたのか、そしてなぜこの輪の中では天上の交響曲が静まり返っているのかを問いかけた。
 
 ## Scene 61-72: Beatrice's Explanation
-en: In `*questa rota*`, *Beatrice* explains to *Dante* that his mortal senses cannot bear her smile and that she descended to bring him joy, while observing how the `*serve*` are organized.
-ja: この円環の中で、`Beatrice`は`Dante`に、死すべき身である彼の感覚では彼女の微笑みに耐えられないこと、そして`serve`がどのように組織されているかを観察しながら、彼に喜びをもたらすために降りてきたことを語った。
+en: *Beatrice* tells *Dante* that his mortal senses cannot endure the music of her smile and that she descended to bring him joy with her light. She explains that the order of the lights in *questa rota* is determined by a high charity that makes the *serve* servants of the counsel governing the world.
+ja: BeatriceはDanteに、死すべき身である彼の感覚では彼女の微笑みが奏でる音楽に耐えられないこと、そして自らの光で彼に喜びをもたらすために降りてきたことを告げた。また、この円環における光の秩序は崇高な慈愛によって定められており、それこそがserveを世界を統べる導きの僕とするのだと説いた。
 
 ## Scene 73-78: The Question of Predestination
-en: In *questa corte*, *Dante* acknowledges the harmony between free love and divine providence, but he asks *Beatrice* why she alone was predestined for her mission among *le tue consorte*.
-ja: この宮廷において、Danteは自由な愛と神の摂理の調和を認めるが、同時にBeatriceに対し、le tue consorteの中でなぜ彼女だけがその使命を宿命づけられたのかを問いかける。
+en: In *questa corte*, *Dante* acknowledges how free love aligns with eternal providence, but he asks *Beatrice* why she alone was predestined for the task of guiding him among *le tue consorte*.
+ja: この宮廷で、Danteは自由な愛がいかに永遠の摂理と調和しているかを認めるが、le tue consorteの中で、なぜBeatriceだけが彼を導くという役割をあらかじめ定められていたのかを彼女に問いかける。
 
 ## Scene 79-87: The Light's Response
-en: In *questa corte*, the light of *Beatrice* spins like a wheel, and the *amor* within her speaks to explain how the light of *Dio* penetrates *Beatrice* to elevate *amor* until it can behold the essence of *Dio*.
-ja: この宮廷にて、Beatriceの光は車輪のように巡り、彼女の内なるamorが、Dioの光がいかにBeatriceを貫き、amorを昇華させてDioの真髄を観照し得させるのかを説く。
+en: In *questa corte*, *Dante* observes a rapid whirling before *amor* speaks, explaining that the light of *Dio* penetrates *Beatrice* to elevate *amor* to the vision of *Dio*.
+ja: この宮廷でDanteが激しい旋回を目にしていると、amorが語り始め、Dioの光がBeatriceを貫くことでamorをDioの幻視へと高めるのだと説いた。
 
 ## Scene 88-102: The Limitation of Inquiry
-en: In `*questa corte*`, `*Dante*` is told that even the mentioned `*quel serafin*` cannot reveal the eternal statute, and he is urged to report the limits of presumption because the mind is smoky below but clear here.
-ja: `questa corte` において `Dante` は、例の `quel serafin` でさえも永遠なる法を明かすことはできないと告げられ、下では霞んでいた精神がここでは澄み渡っているため、自らの思い上がりが至る限界を報告するよう促される。
+en: In *questa corte*, *Dante* is informed that the eternal divine decree is inaccessible to any created sight, even the most enlightened. He is charged with warning the mortal world that the human mind is too clouded on earth to presume such knowledge.
+ja: この宮廷にて、Danteは、永遠なる神の定めとは、たとえ最高に啓蒙された者であっても、創造されたあらゆる者の眼には映らぬものであると告げられた。そして彼は、地上における人間の心はあまりに曇っており、そのような知恵を手にできると過信してはならないことを、現世の人々に警告する使命を帯びた。
 
 ## Scene 103-105: Dante's Pivot
-en: In *questa corte*, *Dante* obeys the words of *Beatrice*, abandoning his question to humbly ask who *Beatrice* was.
-ja: この宮廷にて、DanteはBeatriceの言葉に従い、自らの問いを捨てて、Beatriceが何者であるかを謙虚に問いかけた。
+en: In *questa corte*, *Dante* obeys the words spoken to him and abandons his question, humbly asking for the identity of the one mentioned as *Beatrice*.
+ja: この宮廷にて、Danteは自分に告げられた言葉に従って問いを切り上げ、Beatriceとして語られた人物が誰であるのかを、謙虚に問いかけた。
 
 ## Scene 106-111: The Prophecy of Catria
-en: In `*questa corte*`, a distant mountain peak and a secluded hermitage dedicated to exclusive worship are described as being near a certain homeland.
-ja: `questa corte`においては、遥か遠き山頂と、ひたすら礼拝に捧げられた人里離れた隠れ家が、ある故郷の近くにあると記されている。
+en: In `*questa corte*`, a voice describes a rocky peak and a secluded hermitage located beneath it.
+ja: `questa corte`にて、ある声が切り立った岩山と、その麓にひっそりと佇む人里離れた庵について語っている。
 
 ## Scene 112-120: The Monk's Recollection
-en: In `*questa corte*`, *Monaco di Catria* describes to *Dante* his steadfast ascetic devotion to *Dio* and the peace he found in contemplation, though he laments that his once-fruitful cloister has since become desolate.
-ja: `questa corte`にて、Monaco di CatriaはDanteに、Dioへの揺るぎない禁欲的な献身と観想の中で見出した平安を語るが、同時に、かつては実り豊かであった自らの修道院が今は荒廃してしまったことを嘆いた。
+en: In *questa corte*, *Monaco di Catria* recalls to *Dante* his austere devotion to *Dio* and his contentment in contemplation, contrasting this with the now-deserted state of his former sanctuary.
+ja: この宮廷で、Monaco di CatriaはDioへの厳格な献身と観照に浸る充足感をDanteに語り聞かせ、それを今は人影も絶えたかつての聖域のあり様と対比させた。
 
 ## Scene 121-126: The Revelation of Identity
-en: In *questa corte*, *Pietro Damiano* reveals his identity, recalling his devotion in the house of *Nostra Donna* and his late-life appointment to a cardinal's hat that has since deteriorated from bad to worse.
-ja: この法廷にて、Pietro Damianoは自らの正体を明かす。Nostra Donnaの家で捧げた献身に思いを馳せ、晩年に授かった枢機卿の帽子がその後いかに悪化の一途を辿ったかを、彼は回想するのである。
+en: In *questa corte*, *Pietro Damiano* reveals his identity and recalls his time at the home of *Nostra Donna*, while lamenting the corruption of the high office he was called to occupy near the end of his life.
+ja: この宮廷において、Pietro Damianoは自らの正体を明かし、Nostra Donnaの家で過ごした日々を回想しながら、人生の晩年に就くこととなった高位の職に蔓延る腐敗を嘆く。
 
 ## Scene 127-135: Lament for the Church
-en: In *questa corte*, it is spoken how the humble *Cefàs* and *Paolo*, the vessel of *lo Spirito Santo*, contrast with the obese *li moderni pastori*, who are so heavy they must be pushed and pulled by *servants/attendants of the modern clergy*.
-ja: この宮廷では、謙虚なCefàsとlo Spirito Santoの器であるPaoloが、あまりの肥満ゆえにservants/attendants of the modern clergyに押され、また引かれなければならないli moderni pastoriと、対照的な姿にあると語られている。
+en: In *questa corte*, the humble poverty of *Cefàs* and *San Paolo*, the vessel of *lo Spirito Santo*, is contrasted with the gluttony of *li moderni pastori*, who are so obese that *servants/attendants of the modern clergy* must push and pull them along.
+ja: この宮廷において、Cefàsと、lo Spirito Santoの器であるSan Paoloの慎ましき貧しさは、li moderni pastoriの暴食と対照をなしている。彼らはあまりに肥満しているため、servants/attendants of the modern clergyが彼らを押し引きして運ばねばならないほどであった。
 
 ## Scene 136-142: The Celestial Shout
-en: In *questa corte* within the *settimo splendore*, *Dante* sees lights descending and whirling together to let out a shout of such thunderous volume that he cannot understand the words.
-ja: settimo splendoreにあるquesta corteにて、Danteは光たちが舞い降り、互いに渦を巻いて雷鳴のごとき轟音で叫ぶのを目の当たりにする。しかし、そのあまりの音量に、言葉を理解することはできなかった。
+en: In `*questa corte*`, `*Dante*` watches as descending flames whirl and gather to let out a shout so thunderous that he is unable to understand it.
+ja: この法廷で、`Dante`は降り注ぐ炎が渦を巻いて集まり、理解し得ぬほどに轟く叫び声を上げるのを目の当たりにした。

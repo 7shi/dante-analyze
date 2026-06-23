@@ -2,7 +2,7 @@
 
 ## Scene 1-9: The Thief's Struggle
 - 25:3 lines 3-3 | speaker: Vanni Fucci | addressee: Dante | source: code | basis: 3-3
-- 25:6 lines 6-6 | speaker: serpe | addressee: Vanni Fucci | source: llm | basis: 6-6
+- 25:6 lines 6-6 | speaker: serpe | addressee: Dante | source: llm | basis: 6-6
 
 ## Scene 10-16: Dante's Lament and the Centaur
 # (no attributed speech in this scene)

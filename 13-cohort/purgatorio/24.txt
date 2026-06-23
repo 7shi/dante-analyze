@@ -7,10 +7,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 13-24: News of Piccarda and Bonagiunta
-# (no soul-class present in this scene)
+- cohort: ciascun | source: code | basis: 17-17
 
 ## Scene 25-33: The List of Notable Souls
-- cohort: anime | source: code | basis: 26-26
+- cohort: anime | source: code | basis: 25-28
 
 ## Scene 34-42: The Muttering Soul
 # (no soul-class present in this scene)
@@ -40,7 +40,7 @@
 - cohort: gente | source: code | basis: 106-106
 
 ## Scene 112-120: Warning Near the Tree
-# (no soul-class present in this scene)
+- cohort: gente | source: code | basis: 112-118
 
 ## Scene 121-126: Mythological Allusions
 # (no soul-class present in this scene)
@@ -52,7 +52,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 137-141: The Brilliant Figure's Warning
-- cohort: anima lucente e rossa | source: code | basis: 139-139
+- cohort: anima lucente e rossa | source: code | basis: 138-141
 
 ## Scene 142-144: Dante's Reaction
 - cohort: dottori | source: code | basis: 143-143

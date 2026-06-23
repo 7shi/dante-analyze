@@ -260,9 +260,7 @@ location = "la gota"
 region = "la strada"
 cast = [
   { who = "Brunetto Latino", status = "present" },
-  { who = "coloro che corrono a Verona", status = "mentioned" },
   { who = "quelli che vince", status = "mentioned" },
-  { who = "colui che perde", status = "mentioned" },
 ]
 simile = [
   { lines = "121-121", vehicle = "coloro che corrono a Verona" },

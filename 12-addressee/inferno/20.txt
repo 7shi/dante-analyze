@@ -28,7 +28,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 100-105: Dante's Inquiry
-- 20:100 lines 100-105 | speaker: Dante | addressee: Virgilio | source: llm | basis: 100-100
+- 20:100 lines 100-105 | speaker: Dante | addressee: Virgilio | source: code | basis: 100-105
 
 ## Scene 106-123: Virgil's Catalog of Souls
 # (no attributed speech in this scene)

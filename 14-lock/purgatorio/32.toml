@@ -8,7 +8,6 @@ location = ""
 region = "al petto del grifon"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quelle dee", status = "present" },
 ]
 relations = [
   { subj = "quelle dee", predicate = "touches", obj = "Dante", lines = "7-8" },
@@ -128,7 +127,6 @@ location = "dintorno a l'albero robusto"
 region = "l'alta selva vòta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quella gente", status = "mentioned" },
   { who = "Siringa", status = "mentioned" },
   { who = "pintor", status = "mentioned" },
 ]
@@ -142,8 +140,8 @@ region = "l'alta selva vòta"
 cast = [
   { who = "Dante", status = "present" },
   { who = "li angeli", status = "mentioned" },
-  { who = "Pietro", status = "present" },
-  { who = "Giovanni", status = "present" },
+  { who = "San Pietro", status = "present" },
+  { who = "San Giovanni", status = "present" },
   { who = "Iacopo", status = "present" },
 ]
 basis = "70-78"
@@ -154,8 +152,6 @@ title = "The Diminished School"
 location = "dintorno a l'albero robusto"
 region = "l'alta selva vòta"
 cast = [
-  { who = "Pietro", status = "present" },
-  { who = "Giovanni", status = "present" },
   { who = "Moïsè", status = "mentioned" },
   { who = "Elia", status = "mentioned" },
   { who = "Virgilio", status = "present" },
@@ -320,7 +316,7 @@ lines = "148-153"
 title = "The Proximity of the Giant"
 location = "dintorno a l'albero robusto"
 region = "l'alta selva vòta"
-cohort = ["una puttana sciolta"]
+cohort = ["un gigante"]
 cast = [
   { who = "una puttana sciolta", status = "present" },
   { who = "Dante", status = "present" },
@@ -343,7 +339,6 @@ location = "dintorno a l'albero robusto"
 region = "l'alta selva vòta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quel feroce drudo", status = "present" },
   { who = "la puttana", status = "present" },
   { who = "il mostro", status = "present" },
 ]

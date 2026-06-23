@@ -302,7 +302,7 @@ cast = [
   { who = "Marco Lombardo", status = "present" },
   { who = "Dante", status = "present" },
   { who = "li figli di Levì", status = "mentioned" },
-  { who = "Gherardo", status = "mentioned" },
+  { who = "'l buon Gherardo", status = "mentioned" },
 ]
 speech = [
   { quote_id = "16:130B", lines = "130-135", speaker = "Dante", addressee = "Marco Lombardo", source = "code" },
@@ -323,7 +323,7 @@ region = "l'altro girone"
 cast = [
   { who = "Marco Lombardo", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Gherardo", status = "mentioned" },
+  { who = "'l buon Gherardo", status = "mentioned" },
   { who = "Gaia", status = "mentioned" },
 ]
 speech = [

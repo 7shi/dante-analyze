@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 19-24: Simile of the Two Princes
-- cohort: i beati | source: code | basis: 23-24
+- cohort: i beati | source: code | basis: 22-24
 
 ## Scene 25-33: Beatrice's Invocation of Hope
 - cohort: 'l gratular | source: code | basis: 25-25
@@ -28,7 +28,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 88-96: Scriptural Identification of Hope
-- cohort: Dante, i fedeli | source: code | basis: 96-96
+# (no soul-class present in this scene)
 
 ## Scene 97-99: The Heavenly Response
 - cohort: tutte le carole | source: code | basis: 99-99

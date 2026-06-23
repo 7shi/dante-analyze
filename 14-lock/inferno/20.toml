@@ -40,7 +40,7 @@ location = ""
 region = "l'argine quarto"
 cast = [
   { who = "Dio", status = "mentioned" },
-  { who = "lettor", status = "present" },
+  { who = "lettor", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 relations = [
@@ -101,7 +101,7 @@ cast = [
   { who = "Manto", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Tiresia", status = "mentioned" },
+  { who = "Tiresia", status = "present" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "Manto", lines = "53-53" },
@@ -117,7 +117,6 @@ region = "l'argine quarto"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "'l trentino", status = "mentioned" },
-  { who = "quel di Brescia", status = "mentioned" },
   { who = "'l veronese", status = "mentioned" },
 ]
 basis = "61-78"
@@ -158,14 +157,13 @@ lines = "100-105"
 title = "Dante's Inquiry"
 location = "duro scoglio"
 region = "l'argine quarto"
-cohort = ["gente"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "gente", status = "present" },
+  { who = "gente", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "20:100", lines = "100-105", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+  { quote_id = "20:100", lines = "100-105", speaker = "Dante", addressee = "Virgilio", source = "code" },
 ]
 refer = [
   { phrase = "la gente", line = 104, resolves = "gente" },

@@ -113,7 +113,6 @@ location = "la proda"
 region = "ripa"
 cast = [
   { who = "i Giganti", status = "mentioned" },
-  { who = "chi guarda sottilmente", status = "mentioned" },
   { who = "gente", status = "mentioned" },
 ]
 refer = [
@@ -185,11 +184,12 @@ lines = "76-81"
 title = "The Identity of Nembrot"
 location = "la ripa"
 region = "ripa"
+cohort = ["i Giganti"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Nembrotto", status = "present" },
-  { who = "i Giganti", status = "mentioned" },
+  { who = "i Giganti", status = "present" },
 ]
 refer = [
   { phrase = "giganti", line = 79, resolves = "i Giganti" },
@@ -261,7 +261,7 @@ cast = [
   { who = "Anteo", status = "mentioned" },
   { who = "ogne reo", status = "mentioned" },
   { who = "Briareo", status = "mentioned" },
-  { who = "Fialte", status = "mentioned" },
+  { who = "Fialte", status = "present" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "100-100" },
@@ -318,7 +318,7 @@ region = "ripa"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Anteo", status = "present" },
-  { who = "Ercule", status = "present" },
+  { who = "Ercule", status = "mentioned" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "speaks-to", obj = "Anteo", lines = "130-130" },
@@ -370,7 +370,7 @@ location = "fondo"
 region = "ripa"
 cast = [
   { who = "Lucifero", status = "mentioned" },
-  { who = "Giuda", status = "mentioned" },
+  { who = "Giuda Scarïotto", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Anteo", status = "present" },

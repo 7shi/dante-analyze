@@ -6,27 +6,26 @@
 
 ## Scene 7-21: Historical Precedents of Violence
 - who: Livïo | status: mentioned | basis: 12-12
-- who: gente | status: mentioned | basis: 7-7
+- who: gente | status: mentioned | basis: 7-10
 - who: Ruberto Guiscardo | status: mentioned | basis: 14-14
-- who: ciascun Pugliese | status: mentioned | basis: 17-17
+- who: ciascun Pugliese | status: mentioned | basis: 16-16
 - who: il vecchio Alardo | status: mentioned | basis: 18-18
 
 ## Scene 22-33: The Vision of Muhammad
-- who: Dante | status: present | basis: 22-23
+- who: Dante | status: present | basis: 22-30
 - who: Mäometto | status: present | basis: 22-31
 - who: Alì | status: mentioned | basis: 32-33
 
 ## Scene 34-45: The Proclamation of Schism
 - who: tutti li altri | status: present | basis: 34-34
 - who: Dante | status: present | basis: 43-43
-- who: seminator di scandalo e di scisma | status: present | basis: 35-36
+- who: seminator di scandalo e di scisma | status: present | basis: 35-35
 - who: il diavolo | status: present | basis: 37-37
-- who: questa risma | status: present | basis: 39-39
-- who: Maometto | status: present | basis: 34-45
+- who: Maometto | status: present | basis: 34-34
 - who: altri | status: mentioned | basis: 42-42
 
 ## Scene 46-51: Virgil's Explanation
-- who: Dante | status: present | basis: 47-51
+- who: Dante | status: present | basis: 51-51
 - who: Virgilio | status: present | basis: 47-51
 - who: Maometto | status: mentioned | basis: 46-49
 
@@ -35,14 +34,14 @@
 - who: Più fuor di cento | status: present | basis: 52-54
 - who: fra Dolcin | status: mentioned | basis: 55-57
 - who: Noarese | status: mentioned | basis: 59-59
-- who: Mäometto | status: present | basis: 62-63
+- who: Mäometto | status: present | basis: 52-63
 - who: Dante | status: present | basis: 53-62
 
 ## Scene 64-75: The Second Mutilated Soul
-- who: L'altro | status: present | basis: 64-70
+- who: L'altro | status: present | basis: 64-75
 - who: li altri | status: present | basis: 68-68
-- who: Dante | status: present | basis: 70-70
-- who: Pier da Medicina | status: mentioned | basis: 73-73
+- who: Dante | status: present | basis: 70-75
+- who: Pier da Medicina | status: present | basis: 73-73
 
 ## Scene 76-90: The Maritime Prophecy
 - who: Pier da Medicina | status: present | basis: 76-90
@@ -55,15 +54,15 @@
 - who: Dante | status: present | basis: 76-90
 
 ## Scene 91-99: The Identification of Curio
-- who: Dante | status: present | basis: 91-91
+- who: Dante | status: present | basis: 91-93
 - who: Pier da Medicina | status: present | basis: 91-96
-- who: Curio | status: present | basis: 94-96
+- who: Curio | status: present | basis: 94-97
 - who: Cesare | status: mentioned | basis: 98-98
 
 ## Scene 100-111: The Encounter with the Severed Hands
 - who: Dante | status: present | basis: 100-109
 - who: Curïo | status: present | basis: 100-102
-- who: Mosca | status: mentioned | basis: 106-106
+- who: Mosca | status: mentioned | basis: 106-108
 
 ## Scene 112-126: The Human Lantern
 - who: Dante | status: present | basis: 112-112
@@ -75,9 +74,9 @@
 - who: Dio | status: mentioned | basis: 126-126
 
 ## Scene 127-142: The Confession of Bertram
-- who: Bertram dal Bornio | status: present | basis: 127-128
-- who: Dante | status: present | basis: 130-131
-- who: i morti | status: present | basis: 131-131
+- who: Bertram dal Bornio | status: present | basis: 127-142
+- who: Dante | status: present | basis: 130-133
+- who: i morti | status: mentioned | basis: 131-131
 - who: al re giovane | status: mentioned | basis: 135-135
 - who: il Padre | status: mentioned | basis: 136-136
 - who: figlio | status: mentioned | basis: 136-136

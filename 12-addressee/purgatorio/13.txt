@@ -60,7 +60,7 @@
 - 13:133B lines 133-138 | speaker: Dante | addressee: (none) | source: none | basis: 133-138
 
 ## Scene 139-144: The Living Traveler
-- 13:141 lines 141-144 | speaker: Dante | addressee: le anime degli invidiosi | source: llm | basis: 143-143
+- 13:141 lines 141-144 | speaker: Dante | addressee: le anime degli invidiosi | source: llm | basis: 142-143
 
 ## Scene 145-154: The Prophecy of Tuscany
 - 13:146 lines 146-154 | speaker: Sapia | addressee: Dante | source: code | basis: 146-154

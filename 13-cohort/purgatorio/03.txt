@@ -20,7 +20,7 @@
 - cohort: anime | source: llm | basis: 59-59
 
 ## Scene 67-72: The Gathering Crowd
-- cohort: quel popol | source: code | basis: 67-71
+# (no soul-class present in this scene)
 
 ## Scene 73-78: Virgil’s Appeal
 - cohort: spiriti eletti | source: code | basis: 73-73
@@ -32,10 +32,10 @@
 - cohort: tutti li altri | source: llm | basis: 92-92
 
 ## Scene 94-99: The Reason for Darkness
-- cohort: anime | source: code | basis: 94-99
+# (no soul-class present in this scene)
 
 ## Scene 100-108: The Encounter
-- cohort: quella gente degna | source: llm | basis: 100-100
+- cohort: Manfredi | source: code | basis: 103-108
 
 ## Scene 109-111: The Wound Revealed
 # (no soul-class present in this scene)
@@ -44,7 +44,7 @@
 - cohort: Manfredi | source: code | basis: 112-112
 
 ## Scene 124-135: Manfred's History
-- cohort: Manfredi | source: code | basis: 124-135
+- cohort: Manfredi | source: code | basis: 125-135
 
 ## Scene 136-141: The Doctrine of Schism
 # (no soul-class present in this scene)

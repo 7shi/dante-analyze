@@ -22,7 +22,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 67-75: The Reunion of Virgil and Sordello
-- 6:74 lines 74-75 | speaker: Sordello | addressee: Virgilio | source: llm | basis: 74-75
+- 6:74 lines 74-75 | speaker: Sordello | addressee: Virgilio | source: llm | basis: 74-74
 
 ## Scene 76-84: The Lament for Italy
 # (no attributed speech in this scene)

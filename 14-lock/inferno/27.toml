@@ -75,7 +75,7 @@ title = "The Geography of the Region"
 location = ""
 region = "'l ponte"
 cast = [
-  { who = "il lïoncel", status = "present" },
+  { who = "il lïoncel", status = "mentioned" },
   { who = "il Savio", status = "mentioned" },
   { who = "Guido da Montefeltro", status = "present" },
   { who = "Dante", status = "present" },
@@ -182,7 +182,6 @@ cast = [
   { who = "l'anima", status = "present" },
   { who = "un d'i neri cherubini", status = "present" },
   { who = "i miei meschini", status = "mentioned" },
-  { who = "chi non si pente", status = "mentioned" },
 ]
 speech = [
   { quote_id = "27:114", lines = "114-120", speaker = "un d'i neri cherubini", addressee = "Francesco", source = "llm" },
@@ -221,7 +220,6 @@ region = "'l ponte"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "quei che scommettendo acquistan carco", status = "mentioned" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "guides", obj = "Dante", lines = "133-133" },

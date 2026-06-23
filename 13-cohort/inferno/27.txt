@@ -4,7 +4,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 16-30: The Inquiry of the Soul
-- cohort: l'anima | source: code | basis: 16-30
+- cohort: l'anima | source: code | basis: 19-30
 
 ## Scene 31-48: Dante's Political Report
 - cohort: l'anima | source: code | basis: 33-36
@@ -28,7 +28,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 112-123: The Cherub's Intervention
-- cohort: l'anima | source: llm | basis: 112-121
+- cohort: l'anima | source: llm | basis: 115-117
 
 ## Scene 124-129: The Judgment of Minos
 # (no soul-class present in this scene)

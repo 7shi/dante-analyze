@@ -37,10 +37,10 @@
 # (no attributed speech in this scene)
 
 ## Scene 82-93: The Widow's Lament
-- 10:83 lines 83-84 | speaker: la miserella | addressee: Traiano | source: llm | basis: 83-83
-- 10:85 lines 85-86 | speaker: Traiano | addressee: la miserella | source: llm | basis: 85-85
-- 10:88B lines 88-89 | speaker: Traiano | addressee: la miserella | source: llm | basis: 88-89
-- 10:91 lines 91-93 | speaker: Traiano | addressee: la miserella | source: llm | basis: 91-91
+- 10:83 lines 83-84 | speaker: la miserella | addressee: Traiano imperadore | source: code | basis: 83-84
+- 10:85 lines 85-86 | speaker: Traiano imperadore | addressee: la miserella | source: code | basis: 85-86
+- 10:88B lines 88-89 | speaker: Traiano imperadore | addressee: la miserella | source: code | basis: 88-89
+- 10:91 lines 91-93 | speaker: Traiano imperadore | addressee: la miserella | source: code | basis: 91-93
 
 ## Scene 94-105: Wonder at the Artistry
 # (no attributed speech in this scene)

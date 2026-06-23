@@ -22,8 +22,8 @@
 # (no attributed speech in this scene)
 
 ## Scene 58-72: The Nature of Divine Love
-- 15:58 lines 58-58 | speaker: Dante | addressee: Virgilio | source: code | basis: 58-58
-- 15:59 lines 59-63 | speaker: Dante | addressee: Virgilio | source: code | basis: 59-63
+- 15:58 lines 58-58 | speaker: Dante | addressee: (none) | source: none | basis: 58-58
+- 15:59 lines 59-63 | speaker: Dante | addressee: (none) | source: none | basis: 59-63
 
 ## Scene 73-78: The Promise of Beatrice
 # (no attributed speech in this scene)
@@ -32,8 +32,8 @@
 # (no attributed speech in this scene)
 
 ## Scene 82-93: The Vision of the Mother
-- 15:82 lines 82-82 | speaker: Dante | addressee: la madre | source: llm | basis: 82-82
-- 15:89 lines 89-92 | speaker: la madre | addressee: Dante | source: llm | basis: 89-89
+- 15:82 lines 82-82 | speaker: Dante | addressee: persone | source: llm | basis: 82-82
+- 15:89 lines 89-92 | speaker: la madre | addressee: Dante | source: llm | basis: 89-92
 
 ## Scene 94-101: The Vision of the Trojan Widow
 # (no attributed speech in this scene)

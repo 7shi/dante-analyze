@@ -34,10 +34,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 70-75: Virgil's Rebuke
-- cohort: un gigante | source: code | basis: 70-75
+- cohort: un gigante | source: code | basis: 70-70
 
 ## Scene 76-81: The Identity of Nembrot
-# (no soul-class present in this scene)
+- cohort: i Giganti | source: code | basis: 76-77
 
 ## Scene 82-90: The Second Giant
 # (no soul-class present in this scene)

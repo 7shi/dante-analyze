@@ -40,13 +40,13 @@
 # (no soul-class present in this scene)
 
 ## Scene 121-126: The Hierarchy of the Remaining Angels
-- cohort: l'altre dee | source: llm | basis: 121-121
+# (no soul-class present in this scene)
 
 ## Scene 127-129: The Universal Influence of the Spheres
-- cohort: Questi ordini di sù | source: code | basis: 127-129
+# (no soul-class present in this scene)
 
 ## Scene 130-135: Dionysius and Gregory
-- cohort: questi ordini | source: code | basis: 131-132
+# (no soul-class present in this scene)
 
 ## Scene 136-139: The Final Revelation
 # (no soul-class present in this scene)

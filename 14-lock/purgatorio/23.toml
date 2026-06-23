@@ -253,13 +253,10 @@ lines = "97-114"
 title = "A Prophecy of Florence"
 location = ""
 region = "l'alber"
-cohort = ["questa gente"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Forese", status = "present" },
   { who = "le sfacciate donne fiorentine", status = "mentioned" },
-  { who = "colui che mo si consola con nanna", status = "mentioned" },
-  { who = "questa gente", status = "present" },
 ]
 relations = [
   { subj = "Forese", predicate = "addresses", obj = "Dante", lines = "97-97" },
@@ -299,11 +296,12 @@ lines = "124-129"
 title = "Dante's Destination"
 location = ""
 region = "l'alber"
-cohort = ["Forese, anime penitenti"]
+cohort = ["anime penitenti"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Forese, anime penitenti", status = "present" },
-  { who = "Virgilio", status = "present" },
+  { who = "Forese", status = "present" },
+  { who = "anime penitenti", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
   { who = "Beatrice", status = "mentioned" },
 ]
 relations = [

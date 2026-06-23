@@ -19,7 +19,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 61-72: Beatrice's Explanation
-- cohort: serve | source: code | basis: 70-70
+# (no soul-class present in this scene)
 
 ## Scene 73-78: The Question of Predestination
 # (no soul-class present in this scene)

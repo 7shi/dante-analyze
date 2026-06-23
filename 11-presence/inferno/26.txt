@@ -6,12 +6,11 @@
 - who: tuoi cittadini | status: mentioned | basis: 4-5
 
 ## Scene 13-24: The Ascent and Reflection
-- who: Dante | status: present | basis: 13-24
+- who: Dante | status: present | basis: 13-15
 - who: Virgilio | status: present | basis: 13-15
 
 ## Scene 25-33: The Sight of the Eighth Bolgia
 - who: 'l villan | status: mentioned | basis: 25-25
-- who: colui che 'l mondo schiara | status: mentioned | basis: 26-26
 - who: Dante | status: present | basis: 32-33
 
 ## Scene 34-42: The Motion of the Flames
@@ -22,11 +21,11 @@
 ## Scene 43-48: Virgil's Explanation
 - who: Dante | status: present | basis: 43-46
 - who: Virgilio | status: present | basis: 46-47
-- who: li spirti | status: present | basis: 43-48
+- who: li spirti | status: mentioned | basis: 47-48
 
 ## Scene 49-63: The Inquiry of the Trojan Heroes
-- who: Virgilio | status: present | basis: 49-63
-- who: Dante | status: present | basis: 49-63
+- who: Virgilio | status: present | basis: 49-55
+- who: Dante | status: present | basis: 49-55
 - who: Ulisse | status: mentioned | basis: 56-56
 - who: Dïomede | status: mentioned | basis: 56-56
 - who: Eteòcle | status: mentioned | basis: 54-54
@@ -38,13 +37,13 @@
 ## Scene 64-75: Dante's Request and Virgil's Warning
 - who: Ulisse | status: mentioned | basis: 75-75
 - who: Dante | status: present | basis: 65-65
-- who: Virgilio | status: present | basis: 70-70
+- who: Virgilio | status: present | basis: 65-65
 - who: i Greci | status: mentioned | basis: 75-75
 
 ## Scene 76-84: The Voice from the Flame
 - who: Virgilio | status: present | basis: 77-84
 - who: Dante | status: present | basis: 77-78
-- who: Ulisse | status: present | basis: 79-79
+- who: Ulisse | status: present | basis: 79-84
 
 ## Scene 85-99: Ulysses's Wandering Impulse
 - who: Ulisse | status: present | basis: 85-90
@@ -55,16 +54,15 @@
 - who: Penelopè | status: mentioned | basis: 96-96
 
 ## Scene 100-105: The Voyage Through the Mediterranean
-- who: Ulisse | status: present | basis: 100-103
-- who: quella compagna | status: present | basis: 101-102
+- who: Ulisse | status: present | basis: 100-105
 
 ## Scene 106-120: The Pillars of Hercules and the Great Exhortation
 - who: Ulisse | status: present | basis: 106-120
 - who: compagni | status: present | basis: 106-120
 - who: Ercule | status: mentioned | basis: 108-108
 - who: l'uom | status: mentioned | basis: 109-109
-- who: Sibilia | status: mentioned | basis: 110-110
-- who: Setta | status: mentioned | basis: 111-111
+- who: Sibilia | status: present | basis: 110-110
+- who: Setta | status: present | basis: 111-111
 
 ## Scene 121-126: The Flight of the Crew
 - who: Li miei compagni | status: present | basis: 121-126
@@ -72,8 +70,8 @@
 
 ## Scene 127-132: Descent into the Southern Seas
 - who: Ulisse | status: present | basis: 128-132
-- who: Ulisse, i suoi compagni | status: present | basis: 132-132
+- who: i suoi compagni | status: present | basis: 132-132
 
 ## Scene 133-142: The Final Storm and Shipwreck
 - who: Ulisse | status: present | basis: 134-142
-- who: Ulisse, i suoi compagni | status: present | basis: 136-142
+- who: i suoi compagni | status: present | basis: 136-142

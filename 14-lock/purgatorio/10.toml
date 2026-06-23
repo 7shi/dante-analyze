@@ -157,7 +157,7 @@ location = "cornice"
 region = "cornice"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Micòl", status = "mentioned" },
+  { who = "Micòl", status = "present" },
   { who = "Gregorio", status = "mentioned" },
   { who = "Traiano imperadore", status = "mentioned" },
   { who = "la vedovella", status = "mentioned" },
@@ -178,28 +178,26 @@ lines = "82-93"
 title = "The Widow's Lament"
 location = "cornice"
 region = "cornice"
-cohort = ["costoro"]
 cast = [
   { who = "la miserella", status = "present" },
-  { who = "costoro", status = "present" },
-  { who = "Traiano", status = "present" },
+  { who = "Traiano imperadore", status = "present" },
   { who = "mio figliuol", status = "mentioned" },
   { who = "persona", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "10:83", lines = "83-84", speaker = "la miserella", addressee = "Traiano", source = "llm" },
-  { quote_id = "10:85", lines = "85-86", speaker = "Traiano", addressee = "la miserella", source = "llm" },
-  { quote_id = "10:88B", lines = "88-89", speaker = "Traiano", addressee = "la miserella", source = "llm" },
-  { quote_id = "10:91", lines = "91-93", speaker = "Traiano", addressee = "la miserella", source = "llm" },
+  { quote_id = "10:83", lines = "83-84", speaker = "la miserella", addressee = "Traiano imperadore", source = "code" },
+  { quote_id = "10:85", lines = "85-86", speaker = "Traiano imperadore", addressee = "la miserella", source = "code" },
+  { quote_id = "10:88B", lines = "88-89", speaker = "Traiano imperadore", addressee = "la miserella", source = "code" },
+  { quote_id = "10:91", lines = "91-93", speaker = "Traiano imperadore", addressee = "la miserella", source = "code" },
 ]
 relations = [
-  { subj = "la miserella", predicate = "pleads-with", obj = "Traiano", lines = "83-84" },
-  { subj = "Traiano", predicate = "answers", obj = "la miserella", lines = "85-86" },
-  { subj = "la miserella", predicate = "addresses", obj = "Traiano", lines = "86-86" },
-  { subj = "la miserella", predicate = "asks", obj = "Traiano", lines = "87-88" },
-  { subj = "Traiano", predicate = "answers", obj = "la miserella", lines = "88-89" },
-  { subj = "la miserella", predicate = "asks", obj = "Traiano", lines = "89-90" },
-  { subj = "Traiano", predicate = "answers", obj = "la miserella", lines = "91-91" },
+  { subj = "la miserella", predicate = "pleads-with", obj = "Traiano imperadore", lines = "83-84" },
+  { subj = "Traiano imperadore", predicate = "answers", obj = "la miserella", lines = "85-86" },
+  { subj = "la miserella", predicate = "addresses", obj = "Traiano imperadore", lines = "86-86" },
+  { subj = "la miserella", predicate = "asks", obj = "Traiano imperadore", lines = "87-88" },
+  { subj = "Traiano imperadore", predicate = "answers", obj = "la miserella", lines = "88-89" },
+  { subj = "la miserella", predicate = "asks", obj = "Traiano imperadore", lines = "89-90" },
+  { subj = "Traiano imperadore", predicate = "answers", obj = "la miserella", lines = "91-91" },
 ]
 basis = "82-93"
 

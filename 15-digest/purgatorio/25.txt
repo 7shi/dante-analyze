@@ -1,81 +1,81 @@
 # Canto 25 — The Encounter with Statius and the Metaphysics of the Soul
 
 ## Scene 1-9: The Ascent of the Path
-en: *Dante* and *Virgilio* enter the *strada sola*, ascending in single file. They move with the resolve of *l'uom* who presses forward regardless of obstacles, unlike a *storpio* who would not wish to climb.
-ja: DanteとVirgilioは孤独な道へと入り、一列に連なって登っていった。その歩みは、登ることを厭うstorpioとは対照的に、いかなる障害をも突き進むl'uomの決意に満ちていた。
+en: *Dante* and *Virgilio* enter the *strada sola* and begin a steep climb, driven by a necessity like that of the mentioned *l'uom* and unlike the reluctance of the mentioned *storpio*.
+ja: Dante と Virgilio は孤独な道へと入り、険しい登りを始めた。前述の storpio が抱いたためらいとは対照的に、彼らは前述の l'uom と同様の必然性に突き動かされていた。
 
 ## Scene 10-15: Dante's Hesitation
-en: On the *scala*, *Dante* experiences a conflicting desire to speak, nearly reaching the point of action that defines *colui ch'a dicer s'argomenta*, but he hesitates and remains silent.
-ja: 階段の上で、Danteは口を開きたいという葛藤に揺れ、colui ch'a dicer s'argomentaを定義づける行動にまで至りそうになるが、結局はためらい、沈黙を守った。
+en: On the *scala*, *Dante* hesitates to speak, caught between a burning desire to ask a question and a sudden reluctance, like a young stork that lifts its wing only to let it fall.
+ja: 階段の上で、Danteは口を開こうとしてためらった。問いかけたいという切なる願いと不意の躊躇との間で揺れるそのさまは、あたかも羽を上げた途端にそのまま落としてしまう、若きコウノトリのようであった。
 
 ## Scene 16-18: Virgil's Encouragement
-en: Despite their rapid pace on the *scala*, *Virgilio* encourages *Dante* to finally speak, urging him to release the bow of speech he has already drawn back.
-ja: 階段を急ぎ足で登りながらも、VirgilioはDanteについに口を開くよう促し、すでに引き絞った言葉という弓を放てと急かした。
+en: Despite their rapid ascent of the *scala*, *Virgilio* urges *Dante* to release the bow of speech that he has already drawn back to the point.
+ja: scalaを急速に登るなか、Virgilioは、Danteがすでに限界まで引き絞っていた言葉の弓を放つよう促した。
 
 ## Scene 19-21: The Central Question
-en: On the *scala*, *Dante* asks how the *anime* can grow thin in a place where the need for nourishment does not exist.
-ja: 階段の上で、Danteは、糧を必要としない場所において、いかにしてanimeが痩せ細ることがあり得るのかと問いかける。
+en: On the *scala*, *Dante* finally speaks, asking how the *anime* can grow thin in a place where there is no need for nourishment.
+ja: 階段の上で、Danteはようやく口を開き、糧を必要としないこの場所で、いかにしてanimeが痩せ細ることがあり得るのかと問いかけた。
 
 ## Scene 22-30: The Introduction of Statius
-en: On the *scala*, *Virgilio* uses the example of *Meleagro* and the nature of reflections to answer *Dante*, then calls *Stazio* to act as a healer for *Dante*'s doubts.
-ja: 階段の上で、VirgilioはMeleagroの例と反射の性質を用いてDanteに答え、次いでDanteの疑念を癒やす者としてStazioを呼び寄せる。
+en: On the *scala*, *Virgilio* uses a mirror and the example of *Meleagro* to explain the nature of spiritual weight to *Dante*, before calling upon *Stazio* to serve as the healer of *Dante*'s confusion.
+ja: scalaにおいて、Virgilioは鏡とMeleagroの例を用いて霊的な重みの本質をDanteに説いた後、Danteの混乱を癒やすべくStazioを呼び寄せた。
 
 ## Scene 31-33: Statius's Consent
-en: On the *scala*, *Stazio* agrees to address *Dante*'s query but asks for indulgence if he is unable to provide a full explanation.
-ja: scalaの上で、StazioはDanteの問いに答えることに同意したが、もし十分に説明しきれないことがあっても、どうか寛大な心で許してほしいと請うた。
+en: On the *scala*, *Stazio* responds by asking *Dante* to excuse him if he finds himself unable to provide a full explanation.
+ja: 階段の上で、Stazioは、たとえ十分な説明ができなくともどうか容赦してほしいとDanteに答えた。
 
 ## Scene 34-42: The Power of Blood
-en: On the *scala*, *Stazio* promises to enlighten *Dante*, explaining that a divine blood provides the spiritual nourishment and virtue needed to transform the soul, just as food sustains the physical body.
-ja: 階段の上で、StazioはDanteに教えを授けることを約束し、食物が肉体を養うように、神聖なる血が魂を変容させるために必要な霊的な糧と徳をもたらすのだと説いた。
+en: On the *scala*, *Stazio* promises *Dante* a clear explanation, likening the purifying influence of a perfect blood to the way food provides essential nourishment to the body's members.
+ja: 階段の上で、StazioはDanteに明快な説明をすることを約束し、完全なる血がもたらす浄化の作用を、食物が身体の各部位に不可欠な栄養を与える様子になぞらえた。
 
 ## Scene 43-51: Digestion and Coagulation
-en: On the *scala*, *l'uno e l'altro* meet within a natural vessel, where one is disposed to suffer and the other to act, together coagulating to bring life to the body.
-ja: 階段の上、l'uno e l'altroは自然なる器の中で出会い、一方が受苦し、他方が作用することで、共に凝固して身体に生命を宿らせる。
+en: On the *scala*, *l'uno e l'altro* are gathered together, one to suffer and the other to act, until they coagulate and provide life.
+ja: scalaの上で、l'uno e l'altroは共に集い、一方は苦しみ、もう一方は行動する。それは、二つが凝固し、生命がもたらされるその時まで。
 
 ## Scene 52-66: The Evolution of Life
-en: On the *scala*, *Dante* is told how *l'anima* develops the body from the *generante*, though the transition to becoming *un fante* remains a mystery that led *Aristotele* to separate the possible intellect from *l'anima*.
-ja: 階段の上で、Danteはl'animaがgeneranteからいかにして肉体を形成させるかを説かれるが、un fanteへと至る移行は依然として謎であり、それがAristoteleにl'animaから可能知性を分かつに至らせたのである。
+en: On the `*scala*`, `*Dante*` learns how `*l'anima*` evolves from the `*generante*` until it becomes `*un fante*`, and why `*Aristotele*` erroneously separated the possible intellect from the soul.
+ja: その梯子の上で、Danteはl'animaがgeneranteからun fanteへと至る変容の過程と、Aristoteleがなぜ可能知性を魂から切り離すという誤りを犯したのかを学ぶ。
 
 ## Scene 67-75: The Development of the Spirit
-en: On the *scala*, *Dante* is told that *lo motor primo* breathes a *spirito novo* into the developed brain, which draws in the active elements of the body to form *un'alma sola* that lives, feels, and reflects.
-ja: *scala*において、Danteは、*lo motor primo*が発達した脳に*spirito novo*を吹き込み、それが身体の能動的な要素を引き寄せることで、生き、感じ、思索する*un'alma sola*が形成されるのだと告げられた。
+en: On the *scala*, *Dante* is told how *lo motor primo* breathes a *spirito novo* into the body to create *un'alma sola*, a unified soul that lives, feels, and reflects upon itself.
+ja: 階段の上で、Danteは、lo motor primoが身体にspirito novoを吹き込むことで、生き、感じ、そして自らを省みる統合された魂、un'alma solaが創り出されることを聞かされる。
 
 ## Scene 76-84: The Thread of Fate
-en: On the *scala*, *Dante* is urged to consider how the sun transforms *omor* into wine as an analogy for how *l'anima* departs the flesh once *Làchesis* has run out of linen, leaving the soul's faculties more acute than before.
-ja: 階段の上でDanteは、太陽がomorをワインへと変えるさまを、Làchesisがリネンを使い果たしl'animaが肉体を離れる際の比喩として省みるよう促され、それによって魂の機能は以前よりもいっそう鋭敏なものとなる。
+en: On the *scala*, *Dante* is told to consider how the sun transforms the *omor* of the vine, just as *l'anima* is released from the flesh when *Làchesis* has run out of linen, emerging with mental faculties more acute than before.
+ja: 階段の上でDanteは、太陽が葡萄のomorを変容させるありようを省みるよう促される。それは、Làchesisが亜麻布を使い果たしたとき、l'animaが肉体から解き放たれ、以前にも増して鋭敏な精神を携えて現れるのと同様であった。
 
 ## Scene 85-90: The Expansion of Virtue
-en: On the `*scala*`, it is explained how `*l'anima*` falls to the shores of the afterlife, where its formative virtue radiates to organize its spiritual form just as it once had the physical limbs.
-ja: `scala`においては、`l'anima`がいかにして来世の岸辺へと降り立ち、かつて肉体の肢体を形作ったときと同様に、その形成の力が放射されることで霊的な形態を整えるかが語られている。
+en: On the `*scala*`, `*l'anima*` descends rapidly to the shores of the afterlife to find its way, where its formative virtue begins to radiate through its spiritual members.
+ja: 階梯を降り、l'animaは己が道を探して死後の世界の岸辺へと速やかに降りてゆく。そこで、その形成的な徳が霊的な肢体を通じて光を放ち始める。
 
 ## Scene 91-102: The Metaphor of Light and Shadow
-en: On the `*scala*`, it is explained how a `*Spirto*` attracts the surrounding air to create a spiritual envelope, much like light colors the atmosphere. This resulting form is called `*l'ombra*`, which serves as the medium for all sensory perception, including sight.
-ja: 階段の上では、光が大気を彩るように、`Spirto` が周囲の空気を引き寄せて霊的な外殻を形成することが説かれている。こうして形作られたものは `l'ombra` と呼ばれ、視覚を含むあらゆる感覚知覚の媒介となるのである。
+en: On the `*scala*`, it is explained how a `*Spirto*` creates a visible form by gathering the surrounding air, allowing it to be called `*l'ombra*` and to experience sensory perception.
+ja: 階段の上では、`Spirto`が周囲の空気を集めていかにして可視的な形態を創り出し、`l'ombra`として感覚的な知覚を得るに至るのかが説かれている。
 
 ## Scene 103-108: The Cause of the Souls' Cries
-en: On the *scala*, *Dante* is told that *l'ombra* is spoken of as the means by which internal desires and affections manifest as the speech, laughter, and tears he observes.
-ja: 階段の上で、Danteは、l'ombraこそが内なる欲望や情愛を、彼が目にしている言葉や笑い、そして涙として現れさせるための手段であるのだと告げられた。
+en: On the *scala*, *Dante* is told that the ability to speak, laugh, and weep results from how *l'ombra* is spoken of as taking a form that reflects the soul's internal desires and affections.
+ja: 階段の上で、Danteは、話し、笑い、そして涙を流すことができるのは、l'ombraが魂の内なる欲望や情愛を反映した姿を成すとされているからであると告げられた。
 
 ## Scene 109-117: Navigating the Abyss
-en: At the *ultima tortura*, *Virgilio* leads the way through a narrow passage where fire shoots from the rock, pushed back by an upward draft. Moving in single file, *Dante* trembles between the threat of the flames and the fear of falling.
-ja: 最後なる拷問の地にて、Virgilioは岩から火が吹き出し、上昇気流に押し戻されている狭い通路を先導して進む。一列に並んで歩くDanteは、炎の脅威と転落への恐怖に身を震わせていた。
+en: At the *ultima tortura* on the *scala*, *Virgilio* leads the way by turning to the right. *Dante* navigates a narrow opening, fearing both the flames on one side and the danger of falling on the other.
+ja: 階段にある最後の拷問の地で、Virgilioは右に曲がって先導した。Danteは、片側の炎と、もう片側の転落の危険に怯えながら、狭い隙間を通り抜けていった。
 
 ## Scene 118-120: Virgil's Warning
-en: In the *loco*, *Virgilio* warns *Dante* and *Stazio* to keep a tight rein on their gaze, for in this place, even a slight error could be perilous.
-ja: その場所で、VirgilioはDanteとStazioに、視線を厳しく律するようにと警告した。ここでは、わずかな過ちさえも危うい結果を招きかねないからである。
+en: *Virgilio* warns *Dante* that in this *loco*, one must keep a tight rein on the eyes, for the slightest error could be disastrous.
+ja: VirgilioはDanteに、この地では視線を厳しく律せねばならないと警告した。些細な過ちが、破滅的な結果を招きかねないからである。
 
 ## Scene 121-126: The Hymn of Mercy
-en: In the *loco*, *Dante* hears a hymn dedicated to *Deus* and sees *spirti* walking through the fire, alternating his gaze between the *spirti* and his own footing.
-ja: その場所でDanteは、Deusに捧げられた賛美歌を耳にし、自らの足元とspirtiの間を交互に見やりながら、火の中を歩むspirtiの姿を眺めていた。
+en: In the *loco*, *Dante* hears a hymn sung to the mentioned *Deus* and sees *spirti* walking through the flames. He alternates his gaze between these *spirti* and his own steps to navigate the danger.
+ja: その地で、Danteは前述のDeusに捧げられた賛美歌を耳にし、炎の中を歩むspirtiたちの姿を目にする。彼は危険を回避するため、spirtiたちと自らの足元に交互に視線を向けた。
 
 ## Scene 127-132: The Choral Interruptions
-en: In the *loco*, the *anime* interrupt their hymn with shouts, renouncing the *Virum* and recalling a soul cast out because of *Venere*.
-ja: その地で、animeたちは叫び声を上げて賛歌を遮り、Virumを拒絶して、Venereによって追放された魂を思い起こした。
+en: In the `*loco*`, the `*anime*` interrupt their hymn with loud cries, declaring they do not know `*Virum*` and recounting how one was cast out for having felt the sting of `*Venere*`.
+ja: その場所で、`anime`たちは賛美歌を大声の叫びで遮り、自分たちは`Virum`など知らぬと宣言して、`Venere`の刺に打たれたある者がいかにして追放されたかを語った。
 
 ## Scene 133-135: Cries of the Chastity
-en: In the *loco*, the *anime* return to their singing, and then *le donne* and *mariti* shout to proclaim the chastity required by virtue and marriage.
-ja: その場所でanimeたちは再び歌い出し、続いてle donneとmaritiが、徳と婚姻に求められる純潔を称えて声を張り上げた。
+en: In the *loco*, the *anime* return to their singing, and then *le donne* and *mariti* cry out that they were chaste as virtue and marriage required.
+ja: その場所でanimeたちが再び歌い始めると、le donneとmaritiが、徳と婚姻が求める通りに自らは貞節であったと声を上げた。
 
 ## Scene 136-139: The Purpose of the Ritual
-en: In the *loco*, *Dante* considers the ritual sufficient for the *lussuriosi* for as long as the fire burns them, likening this spiritual care to the treatment needed to heal a deep wound.
-ja: その場所で、Dante は火に焼かれ続ける限りその儀式こそが lussuriosi にとって十分なものであると考え、この霊的な手当てを、深い傷を癒やすために必要な治療になぞらえた。
+en: In the *loco*, *Dante* believes the ritual is sufficient for the *lussuriosi* for as long as the fire burns them, comparing this spiritual care to the treatment needed to heal a deep wound.
+ja: その場所において、Danteは火に焼かれ続ける限りその儀式はlussuriosiにとって十分な救いになると信じ、この精神的な処置を深い傷を癒やすための治療になぞらえた。

@@ -34,14 +34,15 @@ lines = "10-15"
 title = "Dante's Awe"
 location = "malacòth"
 region = "etterne rote"
+cohort = ["le anime di Mercurio"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "le anime di Mercurio", status = "mentioned" },
-  { who = "Beatrice", status = "present" },
+  { who = "le anime di Mercurio", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
   { who = "l'uom", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "7:11B", lines = "11-12", speaker = "Dante", addressee = "Beatrice", source = "code" },
+  { quote_id = "7:11B", lines = "11-12", speaker = "Dante", addressee = "le anime di Mercurio", source = "code" },
 ]
 relations = [
   { subj = "Dante", predicate = "relates-to", obj = "Beatrice", lines = "14-14" },

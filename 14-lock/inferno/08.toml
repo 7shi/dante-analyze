@@ -19,7 +19,6 @@ location = ""
 region = "una via diversa"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei che 'l fenno", status = "mentioned" },
   { who = "Virgilio", status = "present" },
 ]
 relations = [

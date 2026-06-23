@@ -94,7 +94,7 @@ region = "giro"
 cohort = ["Sirena"]
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
   { who = "Sirena", status = "present" },
   { who = "Dante", status = "present" },
 ]
@@ -146,7 +146,6 @@ region = "giro"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "colui che l'ha di pensier carca", status = "mentioned" },
   { who = "uno impersonale", status = "mentioned" },
 ]
 relations = [
@@ -214,7 +213,7 @@ region = "giro"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "quell'antica strega", status = "mentioned" },
+  { who = "quell'antica strega", status = "present" },
   { who = "l'uom", status = "mentioned" },
   { who = "al logoro", status = "present" },
   { who = "lo rege etterno", status = "mentioned" },
@@ -228,7 +227,6 @@ location = "tra due pareti del duro macigno"
 region = "giro"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "chi va suso", status = "mentioned" },
 ]
 basis = "64-69"
 
@@ -337,7 +335,7 @@ region = "quinto giro"
 cast = [
   { who = "Vescovo di Savona", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
 ]
 speech = [
   { quote_id = "19:97", lines = "97-126", speaker = "Vescovo di Savona", addressee = "Dante", source = "code" },

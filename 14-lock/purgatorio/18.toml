@@ -356,10 +356,11 @@ lines = "139-145"
 title = "Dante's Drift into Sleep"
 location = "giron"
 region = "giro"
+cohort = ["l'ombre"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "l'ombre", status = "mentioned" },
+  { who = "l'ombre", status = "present" },
 ]
 refer = [
   { phrase = "ombre", line = 139, resolves = "l'ombre" },

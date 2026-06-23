@@ -3,9 +3,8 @@
 ## Scene 1-15: The Ruin and the Minotaur
 - who: Dante | status: present | basis: 2-14
 - who: Virgilio | status: present | basis: 2-14
-- who: Minotauro | status: present | basis: 12-14
+- who: Minotauro | status: present | basis: 12-15
 - who: la falsa vacca | status: mentioned | basis: 13-13
-- who: quei cui l'ira dentro fiacca | status: mentioned | basis: 15-15
 
 ## Scene 16-21: Virgil's Rebuke
 - who: Virgilio | status: present | basis: 16-16
@@ -16,7 +15,7 @@
 
 ## Scene 22-27: The Frenzy of the Bull
 - who: Dante | status: present | basis: 25-27
-- who: Minotauro | status: present | basis: 25-27
+- who: Minotauro | status: present | basis: 25-25
 - who: Virgilio | status: present | basis: 26-27
 
 ## Scene 28-30: The Descent
@@ -27,7 +26,6 @@
 - who: Dante | status: present | basis: 31-31
 - who: Virgilio | status: present | basis: 31-31
 - who: Lucifero | status: mentioned | basis: 39-39
-- who: chi creda | status: mentioned | basis: 42-42
 
 ## Scene 46-48: The River of Blood
 - who: Dante | status: present | basis: 46-46
@@ -42,7 +40,7 @@
 
 ## Scene 58-63: The Centaurs' Challenge
 - who: schiera | status: present | basis: 59-59
-- who: centauri | status: present | basis: 58-60
+- who: centauri | status: present | basis: 58-59
 - who: Dante | status: present | basis: 58-62
 - who: Virgilio | status: present | basis: 58-62
 - who: un centauro | status: present | basis: 61-63
@@ -80,10 +78,10 @@
 
 ## Scene 83-96: Virgil's Plea for Passage
 - who: Virgilio | status: present | basis: 83-96
-- who: Chirone | status: present | basis: 83-96
+- who: Chirone | status: present | basis: 83-93
 - who: Dante | status: present | basis: 83-96
 - who: Beatrice | status: mentioned | basis: 88-89
-- who: un centauro | status: present | basis: 83-96
+- who: un centauro | status: present | basis: 83-93
 
 ## Scene 97-99: The Order to Guide
 - who: Chirone | status: present | basis: 97-98
@@ -95,7 +93,7 @@
 ## Scene 100-102: The Boiling Blood
 - who: Dante | status: present | basis: 100-100
 - who: Virgilio | status: present | basis: 100-100
-- who: Nesso | status: mentioned | basis: 100-100
+- who: Nesso | status: present | basis: 100-100
 - who: i bolliti | status: present | basis: 102-102
 
 ## Scene 103-112: The Tyrants in the Blood
@@ -105,17 +103,17 @@
 - who: Alessandro | status: present | basis: 107-107
 - who: Dïonisio | status: present | basis: 107-107
 - who: Cicilia | status: mentioned | basis: 108-108
-- who: Azzolino | status: present | basis: 109-110
-- who: Opizzo da Esti | status: present | basis: 110-111
+- who: Azzolino | status: present | basis: 110-110
+- who: Opizzo da Esti | status: present | basis: 111-111
 - who: figliastro | status: mentioned | basis: 112-112
 
 ## Scene 113-114: Dante's Turn
-- who: Dante | status: present | basis: 113-114
+- who: Dante | status: present | basis: 113-113
 - who: Virgilio | status: present | basis: 113-114
-- who: Nesso | status: present | basis: 114-114
+- who: Nesso | status: mentioned | basis: 114-114
 
 ## Scene 115-120: The Shadow of the Thames
-- who: Nesso | status: present | basis: 115-115
+- who: Nesso | status: present | basis: 115-118
 - who: gente | status: present | basis: 116-117
 - who: un'ombra | status: present | basis: 118-118
 - who: Dio | status: mentioned | basis: 119-119
@@ -129,16 +127,16 @@
 
 ## Scene 127-132: The Depths of Tyranny
 - who: Dante | status: present | basis: 127-129
-- who: Nesso | status: present | basis: 129-129
+- who: Nesso | status: mentioned | basis: 129-129
 
 ## Scene 133-138: The Scourge of Attila
 - who: Attila | status: present | basis: 133-134
-- who: Pirro | status: present | basis: 133-135
-- who: Sesto | status: present | basis: 133-135
-- who: Rinier da Corneto | status: present | basis: 133-137
-- who: Rinier Pazzo | status: present | basis: 133-137
+- who: Pirro | status: present | basis: 135-135
+- who: Sesto | status: present | basis: 135-135
+- who: Rinier da Corneto | status: present | basis: 135-137
+- who: Rinier Pazzo | status: present | basis: 135-137
 
 ## Scene 139-139: Departure
 - who: Dante | status: present | basis: 139-139
 - who: Virgilio | status: present | basis: 139-139
-- who: Nesso | status: mentioned | basis: 139-139
+- who: Nesso | status: present | basis: 139-139

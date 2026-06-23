@@ -32,8 +32,8 @@
 - who: Dio | status: mentioned | basis: 44-44
 
 ## Scene 46-48: Virgil's Direction
-- who: Virgilio | status: present | basis: 46-47
-- who: Dante | status: present | basis: 47-48
+- who: Virgilio | status: present | basis: 47-47
+- who: Dante | status: present | basis: 46-48
 
 ## Scene 49-54: Shifting Perspective
 - who: Dante | status: present | basis: 49-53
@@ -43,31 +43,30 @@
 ## Scene 55-66: The Procession of the Ark
 - who: gente | status: mentioned | basis: 58-58
 - who: sette cori | status: mentioned | basis: 59-59
-- who: Dante | status: present | basis: 59-63
+- who: Dante | status: present | basis: 59-59
 - who: Davide | status: mentioned | basis: 65-66
 
 ## Scene 67-69: The Figure of Michal
 - who: Micòl | status: present | basis: 68-69
 
 ## Scene 70-81: The Imperial Carving
-- who: Dante | status: present | basis: 70-71
-- who: Micòl | status: mentioned | basis: 72-72
+- who: Dante | status: present | basis: 70-70
+- who: Micòl | status: present | basis: 72-72
 - who: Gregorio | status: mentioned | basis: 75-75
 - who: Traiano imperadore | status: mentioned | basis: 76-76
 - who: la vedovella | status: mentioned | basis: 77-78
-- who: cavalieri | status: mentioned | basis: 79-80
+- who: cavalieri | status: mentioned | basis: 80-80
 
 ## Scene 82-93: The Widow's Lament
-- who: la miserella | status: present | basis: 82-90
-- who: costoro | status: present | basis: 82-82
-- who: Traiano | status: present | basis: 83-93
+- who: la miserella | status: present | basis: 82-93
+- who: Traiano imperadore | status: present | basis: 83-93
 - who: mio figliuol | status: mentioned | basis: 84-84
 - who: persona | status: mentioned | basis: 87-87
 
 ## Scene 94-105: Wonder at the Artistry
 - who: Dio | status: mentioned | basis: 94-99
 - who: Dante | status: present | basis: 97-105
-- who: Virgilio | status: present | basis: 101-105
+- who: Virgilio | status: present | basis: 100-105
 - who: molte genti | status: present | basis: 100-102
 
 ## Scene 106-111: A Warning to the Reader
@@ -77,16 +76,16 @@
 
 ## Scene 112-120: The Hidden Torment
 - who: Dante | status: present | basis: 112-112
-- who: Virgilio | status: present | basis: 115-115
-- who: i superbi | status: present | basis: 113-120
+- who: Virgilio | status: present | basis: 112-112
+- who: i superbi | status: present | basis: 113-113
 
 ## Scene 121-129: The Sermon to Christians
 - who: superbi cristian | status: mentioned | basis: 121-129
 
 ## Scene 130-135: The Corbel Metaphor
-- who: una figura | status: mentioned | basis: 131-134
+- who: una figura | status: mentioned | basis: 131-133
 - who: Dante | status: present | basis: 135-135
-- who: i superbi | status: present | basis: 135-135
+- who: i superbi | status: present | basis: 134-135
 
 ## Scene 136-139: The Weight of Pain
 - who: i superbi | status: present | basis: 136-137

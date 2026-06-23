@@ -60,13 +60,12 @@ lines = "34-45"
 title = "The Proclamation of Schism"
 location = "la dolente strada"
 region = "l'altr' arco"
-cohort = ["tutti li altri", "seminator di scandalo e di scisma", "questa risma"]
+cohort = ["seminator di scandalo e di scisma"]
 cast = [
   { who = "tutti li altri", status = "present" },
   { who = "Dante", status = "present" },
   { who = "seminator di scandalo e di scisma", status = "present" },
   { who = "il diavolo", status = "present" },
-  { who = "questa risma", status = "present" },
   { who = "Maometto", status = "present" },
   { who = "altri", status = "mentioned" },
 ]
@@ -127,7 +126,7 @@ cast = [
   { who = "L'altro", status = "present" },
   { who = "li altri", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Pier da Medicina", status = "mentioned" },
+  { who = "Pier da Medicina", status = "present" },
 ]
 refer = [
   { phrase = "Un altro", line = 67, resolves = "L'altro" },
@@ -236,11 +235,10 @@ lines = "127-142"
 title = "The Confession of Bertram"
 location = "piè del ponte"
 region = "piè del ponte"
-cohort = ["i morti"]
 cast = [
   { who = "Bertram dal Bornio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "i morti", status = "present" },
+  { who = "i morti", status = "mentioned" },
   { who = "al re giovane", status = "mentioned" },
   { who = "il Padre", status = "mentioned" },
   { who = "figlio", status = "mentioned" },
@@ -249,7 +247,7 @@ cast = [
   { who = "Davìd", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "28:130", lines = "130-142", speaker = "Bertram dal Bornio", addressee = "Dante", source = "llm" },
+  { quote_id = "28:130", lines = "130-142", speaker = "Bertram dal Bornio", addressee = "Dante", source = "code" },
 ]
 refer = [
   { phrase = "il padre", line = 136, resolves = "il Padre" },

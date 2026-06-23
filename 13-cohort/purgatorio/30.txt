@@ -4,11 +4,10 @@
 - cohort: la gente verace | source: code | basis: 7-9
 
 ## Scene 10-12: The Herald's Cry
-- cohort: un di loro | source: llm | basis: 10-10
-- cohort: tutti li altri | source: llm | basis: 12-12
+- cohort: la gente verace | source: llm | basis: 10-12
 
 ## Scene 13-21: The Anthem of the Blessed
-- cohort: i beati | source: code | basis: 16-21
+# (no soul-class present in this scene)
 
 ## Scene 22-33: The Appearance of the Lady
 # (no soul-class present in this scene)
@@ -35,10 +34,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 82-84: Interrupted Song
-- cohort: li angeli | source: code | basis: 82-82
+- cohort: li angeli | source: code | basis: 82-84
 
 ## Scene 85-99: The Release of Tears
-- cohort: quei che notan sempre dietro a le note de li etterni giri | source: code | basis: 92-96
+# (no soul-class present in this scene)
 
 ## Scene 100-117: Theology of Grace
 - cohort: le sustanze pie | source: code | basis: 101-103

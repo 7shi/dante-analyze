@@ -5,12 +5,12 @@
 - who: Virgilio | status: present | basis: 10-12
 
 ## Scene 13-18: A Sudden Light Appears
-- who: Dante | status: present | basis: 13-16
+- who: Dante | status: present | basis: 16-16
 
 ## Scene 19-36: Description of the Angelic Wings
-- who: Dante | status: present | basis: 19-19
-- who: Virgilio | status: present | basis: 25-28
-- who: l'angel di Dio | status: present | basis: 26-29
+- who: Dante | status: present | basis: 19-28
+- who: Virgilio | status: present | basis: 20-36
+- who: l'angel di Dio | status: present | basis: 21-36
 
 ## Scene 37-45: The Vessel Approaches
 - who: Dante | status: present | basis: 37-40
@@ -23,7 +23,6 @@
 
 ## Scene 52-60: The Souls Seek Guidance
 - who: La turba | status: present | basis: 52-60
-- who: colui che nove cose assaggia | status: mentioned | basis: 54-54
 - who: Dante | status: present | basis: 59-59
 - who: Virgilio | status: present | basis: 59-59
 
@@ -41,32 +40,30 @@
 ## Scene 76-84: The Physical Embrace
 - who: Dante | status: present | basis: 76-84
 - who: l'ombra | status: present | basis: 76-84
-- who: ombre vane | status: mentioned | basis: 79-79
+- who: ombre vane | status: present | basis: 76-79
 
 ## Scene 85-90: Recognition of Casella
 - who: Casella | status: present | basis: 85-90
 - who: Dante | status: present | basis: 85-90
 
 ## Scene 91-105: Dialogue with Casella
-- who: Casella | status: present | basis: 91-105
+- who: Casella | status: present | basis: 91-94
 - who: Dante | status: present | basis: 91-94
 - who: l'angelo | status: mentioned | basis: 92-92
 - who: anime | status: mentioned | basis: 99-105
 
 ## Scene 106-114: The Sweetness of the Song
-- who: Dante | status: present | basis: 106-111
-- who: Casella | status: present | basis: 112-113
+- who: Dante | status: present | basis: 106-114
+- who: Casella | status: present | basis: 106-113
 
 ## Scene 115-123: The Pilot's Interruption
-- who: Virgilio | status: present | basis: 115-118
+- who: Virgilio | status: present | basis: 115-116
 - who: Dante | status: present | basis: 115-118
-- who: quella gente | status: present | basis: 115-118
-- who: Casella | status: present | basis: 119-119
+- who: Casella | status: present | basis: 115-119
 - who: Catone | status: present | basis: 119-123
 - who: Dio | status: mentioned | basis: 123-123
 
 ## Scene 124-133: The Dispersal of the Souls
 - who: li colombi | status: mentioned | basis: 124-129
 - who: Dante | status: present | basis: 130-133
-- who: quella masnada fresca | status: present | basis: 130-131
 - who: om | status: mentioned | basis: 132-132

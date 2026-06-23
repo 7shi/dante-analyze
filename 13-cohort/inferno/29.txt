@@ -1,7 +1,7 @@
 # Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
 
 ## Scene 1-12: Virgil's Reprimand
-- cohort: molta gente | source: code | basis: 1-2
+- cohort: molta gente | source: code | basis: 1-1
 
 ## Scene 13-21: The Memory of Geri
 # (no soul-class present in this scene)
@@ -22,11 +22,10 @@
 - cohort: I falsari | source: code | basis: 73-82
 
 ## Scene 85-96: The Greeting to the Souls
-- cohort: alcun Latino | source: llm | basis: 88-91
-- cohort: quinc' entro | source: llm | basis: 89-89
+- cohort: quinc' entro | source: code | basis: 89-89
 
 ## Scene 97-108: The Inquiry of the Living
-- cohort: I falsari | source: code | basis: 97-108
+- cohort: I falsari | source: code | basis: 98-108
 
 ## Scene 109-120: The Tale of the Alchemist
 - cohort: l'un | source: code | basis: 110-110

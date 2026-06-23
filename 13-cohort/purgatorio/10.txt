@@ -37,7 +37,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 82-93: The Widow's Lament
-- cohort: costoro | source: code | basis: 82-82
+# (no soul-class present in this scene)
 
 ## Scene 94-105: Wonder at the Artistry
 - cohort: molte genti | source: code | basis: 100-102
@@ -46,13 +46,13 @@
 # (no soul-class present in this scene)
 
 ## Scene 112-120: The Hidden Torment
-- cohort: i superbi | source: code | basis: 113-120
+- cohort: i superbi | source: code | basis: 113-113
 
 ## Scene 121-129: The Sermon to Christians
 # (no soul-class present in this scene)
 
 ## Scene 130-135: The Corbel Metaphor
-- cohort: i superbi | source: code | basis: 135-135
+- cohort: i superbi | source: code | basis: 134-135
 
 ## Scene 136-139: The Weight of Pain
-- cohort: i superbi | source: llm | basis: 136-139
+- cohort: i superbi | source: llm | basis: 136-137

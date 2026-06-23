@@ -49,7 +49,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 128-132: Beatrice Points to the Assembly
-- cohort: l convento de le bianche stole | source: code | basis: 129-131
+- cohort: l convento de le bianche stole | source: code | basis: 129-129
 
 ## Scene 133-138: The Prophecy of Henry VII
 # (no soul-class present in this scene)

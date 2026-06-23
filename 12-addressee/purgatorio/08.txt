@@ -28,7 +28,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 109-120: The Identification of Currado
-- 8:115 lines 115-120 | speaker: Currado Malaspina | addressee: Dante | source: llm | basis: 115-117
+- 8:115 lines 115-120 | speaker: Currado Malaspina | addressee: Dante | source: llm | basis: 117-117
 
 ## Scene 121-132: Praise for the Malaspina
 - 8:121B lines 121-132 | speaker: Dante | addressee: Currado Malaspina | source: code | basis: 121-132

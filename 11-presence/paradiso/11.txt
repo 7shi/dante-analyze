@@ -6,29 +6,29 @@
 
 ## Scene 10-12: Memory of Celestial Glory
 - who: Beatrice | status: present | basis: 11-11
-- who: Dante | status: present | basis: 10-12
+- who: Dante | status: present | basis: 11-12
 
 ## Scene 13-27: Beatrice's Clarification
 - who: ciascuno | status: present | basis: 13-15
 - who: Dante | status: present | basis: 16-24
-- who: Tommaso d'Aquino | status: mentioned | basis: 25-26
+- who: Tommaso d'Aquino | status: mentioned | basis: 25-25
 - who: il secondo | status: mentioned | basis: 26-26
 
 ## Scene 28-36: The Divine Plan for the Virgin
-- who: Maria | status: mentioned | basis: 32-32
+- who: Maria | status: mentioned | basis: 31-36
 - who: Cristo | status: mentioned | basis: 31-34
 - who: due principi | status: mentioned | basis: 35-36
 
 ## Scene 37-42: The Two Celestial Guides
-- who: Francesco | status: mentioned | basis: 37-37
-- who: Domenico | status: mentioned | basis: 38-38
-- who: Tommaso | status: mentioned | basis: 38-38
+- who: San Francesco | status: mentioned | basis: 37-37
+- who: San Domenico | status: mentioned | basis: 38-38
+- who: Tommaso d'Aquino | status: mentioned | basis: 38-38
 - who: principe | status: mentioned | basis: 38-38
 - who: un uomo | status: mentioned | basis: 41-41
 
 ## Scene 43-54: Geography of the Rising Sun
 - who: Beato Ubaldo | status: mentioned | basis: 44-44
-- who: Francesco | status: mentioned | basis: 50-50
+- who: Francesco d'Assisi | status: mentioned | basis: 50-50
 
 ## Scene 55-63: The Virgin's Early Life
 - who: Francesco d'Assisi | status: mentioned | basis: 56-63
@@ -36,57 +36,55 @@
 - who: Dio Padre | status: mentioned | basis: 59-62
 
 ## Scene 64-72: The Sorrow of the Virgin
-- who: Maria | status: mentioned | basis: 64-72
-- who: Cristo | status: mentioned | basis: 66-72
-- who: Francesco | status: mentioned | basis: 64-72
-- who: colui ch'a tutto 'l mondo fé paura | status: mentioned | basis: 69-69
+- who: Maria | status: mentioned | basis: 71-71
+- who: Cristo | status: mentioned | basis: 72-72
+- who: Francesco d'Assisi | status: mentioned | basis: 64-72
 - who: Amiclate | status: mentioned | basis: 68-68
 
 ## Scene 73-78: The Introduction of Francis and Poverty
-- who: Tommaso | status: mentioned | basis: 73-73
-- who: Francesco | status: mentioned | basis: 74-74
+- who: Tommaso d'Aquino | status: mentioned | basis: 73-73
+- who: Francesco d'Assisi | status: mentioned | basis: 74-74
 - who: Dante | status: present | basis: 75-75
 
 ## Scene 79-84: The Joy of the Saints
-- who: Bernardo | status: present | basis: 79-81
+- who: San Bernardo | status: present | basis: 79-81
 - who: Egidio | status: present | basis: 83-83
 - who: Silvestro | status: present | basis: 83-83
-- who: Francesco | status: present | basis: 84-84
+- who: Francesco d'Assisi | status: present | basis: 84-84
 
 ## Scene 85-93: Francis's Early Mission and Recognition
-- who: Francesco | status: present | basis: 85-93
-- who: quella famiglia | status: present | basis: 86-86
+- who: San Francesco | status: present | basis: 85-93
 - who: Pietro Bernardone | status: mentioned | basis: 89-89
 - who: Innocenzio | status: present | basis: 92-92
 
 ## Scene 94-99: The Growth of the Order
 - who: la gente poverella | status: mentioned | basis: 94-94
-- who: Francesco | status: mentioned | basis: 95-99
+- who: San Francesco | status: mentioned | basis: 95-99
 - who: Onorio | status: mentioned | basis: 98-98
 
 ## Scene 100-108: The Martyrdom of Francis
-- who: Soldan | status: mentioned | basis: 101-101
+- who: l Soldan | status: mentioned | basis: 101-101
 - who: Cristo | status: mentioned | basis: 102-107
 - who: li altri | status: mentioned | basis: 102-102
-- who: Francesco | status: mentioned | basis: 100-108
-- who: gente | status: mentioned | basis: 104-104
+- who: San Francesco | status: mentioned | basis: 100-108
+- who: gente | status: mentioned | basis: 103-104
 
 ## Scene 109-117: Francis's Final Testament
-- who: Francesco | status: present | basis: 109-117
+- who: San Francesco | status: present | basis: 109-117
 - who: frati suoi | status: present | basis: 112-114
 - who: la donna sua più cara | status: mentioned | basis: 113-114
 
 ## Scene 118-123: The Pattern of the True Shepherd
 - who: Dante | status: present | basis: 118-123
-- who: Bonaventura | status: mentioned | basis: 118-121
-- who: Pietro | status: mentioned | basis: 120-120
+- who: San Bonaventura | status: mentioned | basis: 118-121
+- who: San Pietro | status: mentioned | basis: 120-120
 - who: qual segue lui | status: mentioned | basis: 122-122
 
 ## Scene 124-132: The Wandering Sheep
-- who: Bonaventura | status: mentioned | basis: 127-132
+- who: San Bonaventura | status: mentioned | basis: 130-131
 
 ## Scene 133-139: Beatrice's Final Exhortation
-- who: Dante | status: present | basis: 134-134
+- who: Dante | status: present | basis: 134-138
 - who: l'ordine francescano | status: mentioned | basis: 137-137
 - who: San Bonaventura | status: mentioned | basis: 138-138
 - who: uno | status: mentioned | basis: 139-139

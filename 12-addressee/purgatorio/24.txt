@@ -7,7 +7,7 @@
 - 24:8 lines 8-12 | speaker: Dante | addressee: Forese | source: code | basis: 8-12
 
 ## Scene 13-24: News of Piccarda and Bonagiunta
-- 24:13 lines 13-15 | speaker: Forese | addressee: Bonagiunta da Lucca | source: llm | basis: 13-15
+- 24:13 lines 13-15 | speaker: Forese | addressee: ciascun | source: llm | basis: 13-15
 
 ## Scene 25-33: The List of Notable Souls
 # (no attributed speech in this scene)

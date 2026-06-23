@@ -4,7 +4,7 @@
 - 10:4 lines 4-5 | speaker: Dante | addressee: Virgilio | source: code | basis: 4-5
 
 ## Scene 10-18: The Epicurean’s Reply
-- 10:10 lines 10-18 | speaker: Eretico | addressee: Dante | source: llm | basis: 16-18
+- 10:10 lines 10-18 | speaker: Eretico | addressee: Dante | source: code | basis: 10-18
 
 ## Scene 19-27: Virgil’s Admonition
 - 10:19 lines 19-21 | speaker: Dante | addressee: Virgilio | source: code | basis: 19-21
@@ -26,7 +26,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 61-66: The Reference to Guido
-- 10:61 lines 61-63 | speaker: Dante | addressee: il padre di Cavalcante della Scala | source: llm | basis: 61-61
+- 10:61 lines 61-63 | speaker: Dante | addressee: Virgilio | source: code | basis: 61-63
 
 ## Scene 67-72: The Shadow’s Grief
 # (no attributed speech in this scene)
@@ -51,7 +51,7 @@
 - 10:110 lines 110-114 | speaker: Dante | addressee: Farinata | source: code | basis: 110-114
 
 ## Scene 115-120: Virgil’s List of Souls
-- 10:118 lines 118-120 | speaker: Farinata | addressee: Dante | source: llm | basis: 118-118
+- 10:118 lines 118-120 | speaker: Farinata | addressee: Dante | source: llm | basis: 118-120
 
 ## Scene 121-126: Virgil’s Question to Dante
 # (no attributed speech in this scene)

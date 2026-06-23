@@ -10,8 +10,8 @@
 # (no soul-class present in this scene)
 
 ## Scene 37-51: The History of the Monastery
-- cohort: uomini | source: llm | basis: 47-47
-- cohort: li frati miei | source: llm | basis: 50-50
+- cohort: uomini | source: llm | basis: 46-48
+- cohort: li frati miei | source: llm | basis: 50-51
 
 ## Scene 52-60: Dante's Request
 # (no soul-class present in this scene)
@@ -29,7 +29,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 100-105: Dante's Rapid Ascent
-# (no soul-class present in this scene)
+- cohort: le anime beate | source: code | basis: 100-100
 
 ## Scene 106-120: The Sign of Taurus
 # (no soul-class present in this scene)

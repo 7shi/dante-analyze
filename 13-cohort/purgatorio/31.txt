@@ -28,7 +28,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 76-84: The Vision of Beatrice
-- cohort: quelle prime creature | source: code | basis: 77-78
+# (no soul-class present in this scene)
 
 ## Scene 85-90: The Sting of Repentance
 # (no soul-class present in this scene)

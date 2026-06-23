@@ -6,20 +6,19 @@
 
 ## Scene 7-15: The First Spirit's Greeting
 - who: due spirti | status: present | basis: 7-10
-- who: Dante | status: present | basis: 8-15
+- who: Dante | status: present | basis: 8-14
 
 ## Scene 16-24: The Riddle of the Arno
-- who: Dante | status: present | basis: 16-21
-- who: quei che diceva pria | status: present | basis: 22-24
+- who: Dante | status: present | basis: 16-24
 
 ## Scene 25-27: The Second Spirit's Query
 - who: L'altro | status: present | basis: 25-25
-- who: Dante | status: present | basis: 25-26
+- who: Dante | status: present | basis: 25-27
 - who: om | status: mentioned | basis: 27-27
 
 ## Scene 28-51: The Corruption of the Valley
 - who: l'ombra | status: present | basis: 28-29
-- who: li abitator | status: mentioned | basis: 41-42
+- who: li abitator | status: mentioned | basis: 40-41
 - who: Circe | status: mentioned | basis: 42-42
 - who: Botoli | status: mentioned | basis: 46-46
 
@@ -27,18 +26,17 @@
 # (no person figure named in this scene)
 
 ## Scene 55-66: The Prophecy of the Hunter
-- who: Spirto | status: present | basis: 55-58
+- who: Spirto | status: present | basis: 55-66
 - who: Dante | status: present | basis: 56-58
 - who: vero spirto | status: mentioned | basis: 57-57
 
 ## Scene 67-72: The Second Spirit's Grief
-- who: colui ch'ascolta | status: mentioned | basis: 68-68
 - who: Dante | status: present | basis: 70-70
 - who: l'altr' anima | status: present | basis: 70-72
 
 ## Scene 73-84: Guido's Introduction
-- who: Guido | status: present | basis: 81-84
-- who: Spirto | status: present | basis: 76-77
+- who: Guido del Duca | status: present | basis: 81-81
+- who: Spirto | status: present | basis: 76-76
 - who: Dante | status: present | basis: 74-75
 - who: Dio | status: mentioned | basis: 79-79
 - who: l'uom | status: mentioned | basis: 83-83
@@ -47,7 +45,7 @@
 - who: Guido del Duca | status: present | basis: 85-96
 - who: gente umana | status: mentioned | basis: 86-86
 - who: consorte | status: mentioned | basis: 87-87
-- who: Rinier | status: present | basis: 88-88
+- who: Rinier Pazzo | status: present | basis: 88-88
 
 ## Scene 97-102: Lament for Romagna
 - who: Lizio | status: mentioned | basis: 97-97
@@ -72,7 +70,7 @@
 - who: i Pagan | status: mentioned | basis: 118-118
 - who: demonio | status: mentioned | basis: 118-118
 - who: testimonio | status: mentioned | basis: 120-120
-- who: Ugolin de' Fantolin | status: present | basis: 121-121
+- who: Ugolin de' Fantolin | status: mentioned | basis: 121-123
 
 ## Scene 124-126: Guido's Exhaustion
 - who: Dante | status: present | basis: 124-124
@@ -81,8 +79,7 @@
 ## Scene 127-135: The Thunderous Voice
 - who: Dante | status: present | basis: 127-130
 - who: Virgilio | status: present | basis: 127-130
-- who: Guido del Duca | status: present | basis: 132-134
-- who: Rinier | status: mentioned | basis: 127-129
+- who: Guido del Duca | status: present | basis: 132-133
 
 ## Scene 136-139: The Appearance of Aglauro
 - who: Aglauro | status: present | basis: 137-139
@@ -92,9 +89,9 @@
 - who: Dante | status: present | basis: 140-141
 
 ## Scene 142-151: Aglauro's Warning
-- who: Aglauro | status: present | basis: 143-151
+- who: Aglauro | status: present | basis: 143-143
 - who: Dante | status: present | basis: 143-151
 - who: l'uom | status: mentioned | basis: 144-144
-- who: Virgilio | status: present | basis: 143-151
+- who: Virgilio | status: present | basis: 145-151
 - who: l'antico avversaro | status: mentioned | basis: 146-146
-- who: Dio | status: mentioned | basis: 148-151
+- who: Dio | status: mentioned | basis: 151-151

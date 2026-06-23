@@ -1,65 +1,65 @@
 # Canto 08 — The Approach to the City of Dis and the Encounter with Filippo Argenti
 
 ## Scene 1-6: Observation of the Flames
-en: As *Dante* and *Virgilio* travel along *una via diversa*, they look up at the summit of a high tower and spot two small flames, as well as a third signaling from afar.
-ja: DanteとVirgilioが別の道を辿って歩いていると、二人は高い塔の頂に目をやり、そこに灯る二つの小さな炎と、遠方から合図を送る三つ目の炎を見つけた。
+en: While traveling on *una via diversa*, *Dante* and *Virgilio* look up toward the top of a tower and spot two small flames, along with a third signaling from a distance.
+ja: ある別の道を辿っていたDanteとVirgilioが塔の頂へと目を向けると、そこには二つの小さな炎が、そして遠方には合図を送る三つ目の炎が見えた。
 
 ## Scene 7-12: Inquiry of the Flames
-en: On *una via diversa*, *Dante* asks *Virgilio* about the signaling flames and *quei che 'l fenno*. *Virgilio* replies that *Dante* can now see what is expected, provided the smoke does not obscure it.
-ja: 別の道へと進むなか、Danteは合図の炎とquei che 'l fennoについてVirgilioに問いかけた。Virgilioは、煙が視界を遮らぬ限り、今や見るべきものが眼前に現れているはずだと答えた。
+en: On *una via diversa*, *Dante* asks *Virgilio* about the meaning of the flames and who created them, and *Virgilio* tells him to look toward what awaits them across the waves if the smoke does not hide it.
+ja: 別の道へと進むなか、DanteはVirgilioに、あの炎が何を意味し、誰によって創られたのかを尋ねた。Virgilioは、もし煙が視界を遮っていないのであれば、波の向こうに待ち受けるものを見るがよいと告げた。
 
 ## Scene 13-18: The Approach of the Boat
-en: *Dante* sees a small boat approach him and *Virgilio* rapidly on *una via diversa*. *Flegeo* steers the craft and cries out to an *anima fella* that he has now arrived.
-ja: Danteは、一艘の小舟が異なる道を通り、自分とVirgilioの方へ急速に近づいてくるのを目にした。舟を操るFlegeoが、anima fellaに向かって、今到着したと叫んだ。
+en: On *una via diversa*, *Dante* sees *Flegeo* rapidly approach him and *Virgilio* in a small boat, shouting to the *anima fella* that the boat has arrived.
+ja: 別の道にて、Danteは小舟に乗ったFlegeoが自分とVirgilioの方へ急速に近づいてくるのを目にする。Flegeoはanima fellaに対し、舟が到着したことを叫んでいた。
 
 ## Scene 19-24: The Quarrel with Flegias
-en: On *una via diversa*, *Virgilio* tells *Flegïàs* that his shouting is in vain once the crossing is done. This causes *Flegïàs* to react with rage, like a man who realizes he has been deceived.
-ja: 別の道にて、Virgilioは渡し終えてしまえば叫んだところで無駄であるとFlegïàsに告げる。これを聞いたFlegïàsは、自らが欺かれたことを悟った者のように激しく憤った。
+en: On *una via diversa*, *Virgilio* tells *Flegïàs* that his shouting is in vain and that he has no power over *Dante* and himself beyond the crossing. *Flegïàs* is then seized by rage, like one who realizes he has been deceived.
+ja: *una via diversa*にて、VirgilioはFlegïàsに、その叫びは無駄であり、渡河した後はDanteと自分に対して何の権能も持たないと告げた。するとFlegïàsは、欺かれたと悟った者のように、激しい怒りに駆られた。
 
 ## Scene 25-30: Boarding the Vessel
-en: On *una via diversa*, *Virgilio* descends into the boat and has *Dante* follow him; the vessel only seems fully laden once *Dante* boards, and it then cuts through the water more deeply than it usually does.
-ja: 別の道を辿り、Virgilioは舟に降りてDanteを後に従わせた。Danteが乗り込んだことでようやく舟は満載となったかのように見え、それは通常よりも深く水面を切り裂いて進んでいった。
+en: On *una via diversa*, *Virgilio* boards the boat and directs *Dante* to follow him, noting that the vessel only seems burdened once *Dante* has entered. The boat then sets off, cutting through the water more deeply than it usually does.
+ja: 別の路にて、Virgilioは舟に乗り込み、Danteにそれに続くよう促したが、Danteが乗り込んだことで初めて舟に重みが加わったようだと述べた。やがて舟は漕ぎ出し、通常よりも深く水を切って進んでいった。
 
 ## Scene 31-39: The Encounter with the Muddy Spirit
-en: While crossing *la morta gora*, *Filippo Argenti* rises from the mud to question them. *Dante* recognizes him and tells the wretched spirit to remain in his filth and sorrow.
-ja: la morta goraを渡る途上、Filippo Argentiが泥の中から身を起こして彼らに問いかける。Danteは彼であることに気づき、その惨めな霊に、汚泥と悲しみの中に留まるがいいと告げた。
+en: While *Dante* and *Virgilio* traverse *la morta gora*, *Filippo Argenti* rises from the mud and asks who is approaching. *Dante* recognizes *Filippo Argenti* and tells him to remain in his weeping and filth.
+ja: DanteとVirgilioが死の山を辿っていると、泥の中からFilippo Argentiが身を起こし、誰が近づいているのかと問いかけた。DanteはそれがFilippo Argentiであると気づき、そのまま嘆きと汚れの中に留まっていろと告げた。
 
 ## Scene 40-51: The Spirit's Monologue on Pride
-en: On *la morta gora*, *Virgilio* pushes *Filippo Argenti* away, but *Filippo Argenti* seizes *Dante* and insults him by referencing *persona orgogliosa*, warning that *Quanti* who hold *gran regi* will eventually share this wretched state.
-ja: 死の岸辺にて、VirgilioはFilippo Argentiを突き放したが、Filippo ArgentiはDanteを捕らえてpersona orgogliosaと侮辱し、gran regiを統べるQuantiもいずれはこの惨めな境遇を辿ることになると警告した。
+en: In *la morta gora*, *Filippo Argenti* is repelled by *Virgilio* but manages to grab *Dante* and insult both him and the *persona orgogliosa*. He then speaks of *Quanti* who currently hold *gran regi* but will one day share this miserable state.
+ja: 淀んだ流れの中で、Filippo ArgentiはVirgilioに退けられたが、それでもDanteを掴み取り、彼とpersona orgogliosaを侮辱した。次いで彼は、現在はgran regiを手にしていながら、いつの日かこの惨めな境遇を共にすることになるQuantiについて語った。
 
 ## Scene 52-57: Dante's Desire for Retribution
-en: *Dante* tells *Virgilio* that he would love to see *Filippo Argenti* sink back into the mud of the *lago* before they leave. *Virgilio* assures him that he will be satisfied before they reach the shore and should enjoy this desire.
-ja: Danteは、ここを去る前にFilippo Argentiが再び湖の泥の中へと沈みゆくさまをぜひ見ていたいとVirgilioに告げた。Virgilioは、岸に辿り着くまでにその願いは叶うだろうと請け合い、今はその切望を楽しむがいいと諭した。
+en: In the *lago* of *la morta gora*, *Dante* tells *Virgilio* he would like to see *Filippo Argenti* sink back into the mud before they depart, and *Virgilio* assures him that this desire will be satisfied before they reach the shore.
+ja: 死の山の湖にて、Danteは出発する前にFilippo Argentiが再び泥の中へと沈みゆく様を見たいとVirgilioに伝え、Virgilioは岸に辿り着くまでにその願いは叶うだろうと彼に確約した。
 
 ## Scene 58-64: The Torment of Filippo Argenti
-en: *Dante* watches *le fangose genti* attack *Filippo Argenti* in the *lago*, an event for which *Dante* praises and thanks *Dio*. As *Filippo Argenti* curls into himself in agony, *Dante* and *Virgilio* leave him behind.
-ja: Danteは、湖でle fangose gentiがFilippo Argentiを襲うさまを眺め、その出来事にDioへの賛美と感謝を捧げた。苦悶に身をよじり丸まるFilippo Argentiを後にし、DanteとVirgilioはその場を立ち去った。
+en: In the *lago* of *la morta gora*, *Dante* praises *Dio* as *le fangose genti* swarm and torment *Filippo Argenti*, who curls into himself in rage and pain. *Dante* and *Virgilio* then depart, leaving *Filippo Argenti* to his misery.
+ja: 死の山の湖にて、le fangose gentiが群がって怒りと苦痛に身を丸めるFilippo Argentiを苛むなか、DanteはDioを讃えた。その後、DanteとVirgilioは、Filippo Argentiをその悲惨な境遇に置き去りにして立ち去った。
 
 ## Scene 65-78: Arrival at the Walls of Dis
-en: At the *lago* in *la morta gora*, *Dante* hears cries of grief and *Virgilio* describes the *gravi cittadin*. *Dante* observes the glow of eternal fire on walls that appear to be made of iron.
-ja: 死の山の湖にて、Danteは悲嘆の叫びを耳にし、Virgilioは gravi cittadin について語る。Danteは、鉄でできているかのような壁に、永遠の火の輝きが映し出されているのを眺めた。
+en: In the *lago* of *la morta gora*, *Dante* hears cries of grief and *Virgilio* tells him of the *gravi cittadin* as they approach high, red walls of iron glowing with eternal fire.
+ja: 死の山の湖にて、Danteは悲痛な叫びを耳にする。永遠の火に焼かれ赤く光る高く険しい鉄の壁へと近づきながら、Virgilioは彼にgravi cittadinについて語った。
 
 ## Scene 79-93: Challenge at the Gates
-en: At *l'intrata*, *Flegeo* tells *Dante* and *Virgilio* to disembark, where they are confronted by angry *demoni* who question why a living man has entered their realm. The *demoni* agree to speak with *Virgilio* privately, but only if *Dante* is sent back the way he came.
-ja: 入り口にて、Flegeoに下船を促されたDanteとVirgilioは、怒りに満ちたdemoniに遭遇し、なぜ生者がこの領域に立ち入ったのかと問い詰められた。demoniは、Danteを来た道へと追い返すのであれば、Virgilioとだけ密談に応じると告げた。
+en: At *l'intrata*, *Flegeo* tells *Dante* and *Virgilio* to disembark, where they are confronted by angry *demoni* who demand why a living man has entered. The *demoni* agree to speak privately with *Virgilio* on the condition that *Dante* is sent back the way he came.
+ja: 入口にて、Flegeoに促されて下船したDanteとVirgilioの前に、なぜ生者がここへ入り込んだのかと激しく問い詰める怒れるdemoniたちが立ちはだかった。demoniは、Danteを来た道へと追い返すことを条件に、Virgilioとのみ密かに話し合うことに同意した。
 
 ## Scene 94-102: Dante's Terror
-en: At *l'intrata*, *Dante* speaks to the *lettor* regarding his terror and begs *Virgilio* not to abandon him, suggesting they retrace their steps together if they are forbidden from passing further.
-ja: Danteは入口にて、自らが抱く恐怖についてlettorに語り、Virgilioに自分を見捨てないよう懇願した。そして、もしこれ以上先へ進むことが禁じられているのであれば、共に来た道を戻ろうと提案した。
+en: At `*l'intrata*`, `*Dante*` asks the `*lettor*` to consider his despair and begs `*Virgilio*` not to abandon him, suggesting they retrace their steps together if further progress is denied.
+ja: `l'intrata` に至った `Dante` は、`lettor` に自らの絶望に思いを馳せるよう求め、`Virgilio` には自分を見捨てないよう切に願い、もしこれ以上の前進が叶わないのであれば、共に来た道を戻ろうと提案した。
 
 ## Scene 103-108: Virgil's Reassurance
-en: At *l'intrata*, *Virgilio* tells *Dante* not to fear because their path is protected, urging him to wait and sustain himself with hope while promising not to abandon him.
-ja: 入り口にて、VirgilioはDanteに、彼らの道は守られているから恐れることはないと告げ、希望を糧に待ち耐えるよう促しながら、決して彼を見捨てないことを約束した。
+en: At *l'intrata*, *Virgilio* reassures *Dante* that their path is divinely ordained and cannot be stopped, urging him to wait with hope and promising not to abandon him in the lower world.
+ja: 入り口にて、Virgilioは、彼らの歩む道は神によって定められた不可避のものであるとDanteを安心させた。そして希望を持って待つよう促し、下界において彼を見捨てないことを約束した。
 
 ## Scene 109-114: Separation at the Gate
-en: At *l'intrata*, *Virgilio* leaves *Dante* in a state of anxious uncertainty to negotiate with the *demoni*. *Dante* cannot hear their conversation, and the *demoni* soon withdraw back inside.
-ja: 入口にて、Virgilioは不安と当惑に包まれたDanteを後にし、demoniとの交渉に当たった。Danteにその会話は聞こえず、demoniたちはすぐに内部へと退いていった。
+en: At *l'intrata*, *Virgilio* leaves *Dante* behind to negotiate with the *demoni*, leaving *Dante* in a state of anxious uncertainty. *Dante* cannot hear the exchange, but the *demoni* soon retreat inside after *Virgilio*'s brief address.
+ja: 入り口にて、Virgilioがdemoniと交渉すべくDanteを後に残すと、Danteは心許ない不安に包まれた。やり取りの内容は聞こえなかったが、Virgilioが短く語りかけると、demoniはすぐに中へと退いた。
 
 ## Scene 115-120: Virgil's Despair
-en: At *l'intrata*, *Virgilio* returns to *Dante* with a defeated air and downcast eyes, sighing that *que' nostri avversari* have shut the gates against him. He laments in despair that he has been denied entry.
-ja: 入り口にて、Virgilioは打ちひしがれた様子で目を伏せ、que' nostri avversariに門を閉ざされたと嘆息しながらDanteのもとへ戻ってきた。彼は、進入を拒まれたことに絶望し、嘆き悲しんだ。
+en: At *l'intrata*, *Virgilio* returns to *Dante* defeated and humbled after *que' nostri avversari* are mentioned as having shut the gates against him, leaving *Virgilio* to lament his denied entry.
+ja: 入口で、que' nostri avversariに門を閉ざされたVirgilioは、打ちひしがれ、意気消沈した様子でDanteのもとへと戻り、入城を拒まれたことを嘆き悲しんだ。
 
 ## Scene 121-130: The Secret Path Revealed
-en: At *l'intrata*, *Virgilio* tells *Dante* not to be dismayed, explaining that the arrogance of the *demoni* is nothing new. He reveals a secret, unlocked gate that allows them to descend through the circles without the need for a *scorta*.
-ja: 入り口にて、Virgilioはdemoniの傲慢さはありふれたことだと説き、Danteに動揺せぬよう諭した。そして、scortaを必要とせずに円環を降りていける、解錠された秘密の門を彼に示した。
+en: At `*l'intrata*`, `*Virgilio*` reassures `*Dante*` and promises to overcome the `*demoni*` by guiding him through a secret, unlocked gate that allows them to descend without a `*scorta*`.
+ja: 入り口にて、VirgilioはDanteを安心させ、scortaを伴わずに降下できる鍵のかかっていない秘密の門へと導くことで、demoniを切り抜けてみせると約束した。

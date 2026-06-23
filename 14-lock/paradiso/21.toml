@@ -102,14 +102,13 @@ lines = "61-72"
 title = "Beatrice's Explanation"
 location = "questa rota"
 region = "settimo splendore"
-cohort = ["serve"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Beatrice", status = "mentioned" },
-  { who = "serve", status = "present" },
+  { who = "Beatrice", status = "present" },
+  { who = "serve", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "21:62", lines = "62-72", speaker = "Beatrice", addressee = "Dante", source = "llm" },
+  { quote_id = "21:62", lines = "62-72", speaker = "Beatrice", addressee = "Dante", source = "code" },
 ]
 relations = [
   { subj = "Beatrice", predicate = "answers", obj = "Dante", lines = "62-62" },
@@ -143,11 +142,11 @@ location = "questa corte"
 region = "settimo splendore"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "21:83", lines = "83-102", speaker = "amor", addressee = "Dante", source = "llm" },
+  { quote_id = "21:83", lines = "83-102", speaker = "amor", addressee = "Dante", source = "code" },
 ]
 refer = [
   { phrase = "l'amor", line = 82, resolves = "amor" },
@@ -166,7 +165,6 @@ title = "The Limitation of Inquiry"
 location = "questa corte"
 region = "settimo splendore"
 cast = [
-  { who = "quel serafin", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 refer = [
@@ -239,7 +237,7 @@ location = "questa corte"
 region = "settimo splendore"
 cast = [
   { who = "Cefàs", status = "mentioned" },
-  { who = "Paolo", status = "mentioned" },
+  { who = "San Paolo", status = "mentioned" },
   { who = "lo Spirito Santo", status = "mentioned" },
   { who = "servants/attendants of the modern clergy", status = "mentioned" },
   { who = "li moderni pastori", status = "mentioned" },

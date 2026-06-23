@@ -1,7 +1,7 @@
 # Canto 32 — St. Bernard's Vision of the Celestial Rose and the Identification of the Blessed
 
 ## Scene 1-9: The Arrangement of the Matriarchs
-- 32:4 lines 4-87 | speaker: Bernardo | addressee: Dante | source: llm | basis: 9-9
+- 32:4 lines 4-87 | speaker: San Bernardo | addressee: Dante | source: llm | basis: 9-9
 
 ## Scene 10-15: The Lineage of the Hebrew Mothers
 # (no attributed speech in this scene)
@@ -37,10 +37,10 @@
 # (no attributed speech in this scene)
 
 ## Scene 100-105: A Question of Love
-- 32:100 lines 100-105 | speaker: Dante | addressee: Bernardo | source: llm | basis: 100-100
+- 32:100 lines 100-105 | speaker: Dante | addressee: San Bernardo | source: llm | basis: 100-100
 
 ## Scene 106-114: Identification of the Angel
-- 32:109 lines 109-150 | speaker: Bernardo | addressee: Dante | source: llm | basis: 109-109
+- 32:109 lines 109-150 | speaker: San Bernardo | addressee: Dante | source: code | basis: 109-150
 
 ## Scene 115-120: The Roots of the Rose
 # (no attributed speech in this scene)

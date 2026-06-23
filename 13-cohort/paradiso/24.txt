@@ -4,7 +4,7 @@
 - cohort: sodalizio eletto | source: llm | basis: 1-1
 
 ## Scene 10-18: The Celestial Dance
-- cohort: quelle anime liete | source: code | basis: 10-18
+# (no soul-class present in this scene)
 
 ## Scene 19-27: The Appearance of the Flame
 # (no soul-class present in this scene)

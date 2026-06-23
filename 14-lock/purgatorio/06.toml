@@ -7,7 +7,6 @@ title = "The Dice Simile"
 location = ""
 region = "a l'ombra dietro al sasso"
 cast = [
-  { who = "colui che perde", status = "mentioned" },
   { who = "il vincitore", status = "mentioned" },
   { who = "tutta la gente", status = "mentioned" },
 ]
@@ -175,10 +174,9 @@ location = ""
 region = "a l'ombra dietro al sasso"
 cast = [
   { who = "nocchiere", status = "mentioned" },
-  { who = "Sordello", status = "mentioned" },
+  { who = "Sordello", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "li vivi tuoi", status = "mentioned" },
-  { who = "quei ch'un muro e una fossa serra", status = "mentioned" },
 ]
 relations = [
   { subj = "Sordello", predicate = "praises", obj = "Virgilio", lines = "79-81" },
@@ -205,7 +203,7 @@ title = "The Condemnation of Albert"
 location = ""
 region = "a l'ombra dietro al sasso"
 cast = [
-  { who = "Alberto", status = "present" },
+  { who = "Alberto I d'Asburgo", status = "present" },
   { who = "'l tuo successor", status = "mentioned" },
   { who = "Rodolfo", status = "mentioned" },
 ]

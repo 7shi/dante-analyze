@@ -28,7 +28,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 88-96: The Souls' Greeting
-- 5:88 lines 88-107 | speaker: Francesca | addressee: Dante | source: llm | basis: 88-93
+- 5:88 lines 88-107 | speaker: Francesca | addressee: Dante | source: llm | basis: 88-89
 
 ## Scene 97-107: The Tale of Dido
 # (no attributed speech in this scene)

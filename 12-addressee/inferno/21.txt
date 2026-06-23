@@ -61,14 +61,14 @@
 # (no attributed speech in this scene)
 
 ## Scene 106-117: Malacoda's news
-- 21:106 lines 106-117 | speaker: Malacoda | addressee: Virgilio | source: llm | basis: 106-106
+- 21:106 lines 106-117 | speaker: Malacoda | addressee: Virgilio | source: llm | basis: 106-117
 
 ## Scene 118-126: The deployment of the demons
 # (no attributed speech in this scene)
 
 ## Scene 127-132: Dante's growing anxiety
 - 21:127 lines 127-127 | speaker: Dante | addressee: Virgilio | source: llm | basis: 127-127
-- 21:128 lines 128-132 | speaker: Dante | addressee: Virgilio | source: llm | basis: 130-130
+- 21:128 lines 128-132 | speaker: Dante | addressee: Virgilio | source: llm | basis: 129-131
 
 ## Scene 133-139: Malacoda's reassurance and the demons' exit
 # (no attributed speech in this scene)

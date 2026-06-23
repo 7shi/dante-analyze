@@ -1,7 +1,7 @@
 # Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
 
 ## Scene 1-12: The Appearance of the Wounded Souls
-- cohort: tre ombre | source: llm | basis: 4-4
+- cohort: tre ombre | source: llm | basis: 4-6
 - cohort: una torma | source: llm | basis: 5-6
 
 ## Scene 13-18: Virgil's Instruction
@@ -20,7 +20,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 64-72: The Souls' Inquiry
-- cohort: tre anime fiorentine | source: code | basis: 68-71
+- cohort: tre anime fiorentine | source: code | basis: 65-71
 
 ## Scene 73-75: Dante's Political Rebuke
 # (no soul-class present in this scene)

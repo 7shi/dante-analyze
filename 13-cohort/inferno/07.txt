@@ -18,7 +18,7 @@
 - cohort: i cardinali | source: llm | basis: 47-47
 
 ## Scene 49-66: The Futility of Wealth
-# (no soul-class present in this scene)
+- cohort: quest' anime stanche | source: code | basis: 49-66
 
 ## Scene 67-84: The Doctrine of Fortune
 # (no soul-class present in this scene)

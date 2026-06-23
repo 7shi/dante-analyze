@@ -13,8 +13,7 @@
 - cohort: che gent' | source: code | basis: 25-33
 
 ## Scene 34-42: The Origin of the Uncommitted
-- cohort: l'anime triste di coloro che visser sanza 'nfamia e sanza lodo | source: llm | basis: 34-36
-- cohort: quel cattivo coro de li angeli | source: llm | basis: 37-39
+- cohort: l'anime triste di coloro che visser sanza 'nfamia e sanza lodo | source: code | basis: 34-36
 
 ## Scene 43-51: The Fate of the Neutral
 - cohort: ignavi | source: code | basis: 44-51
@@ -26,16 +25,16 @@
 - cohort: i cattivi | source: code | basis: 62-62
 
 ## Scene 64-69: The Torment of the Souls
-- cohort: Questi sciaurati | source: code | basis: 64-69
+# (no soul-class present in this scene)
 
 ## Scene 70-78: Approaching the River
-- cohort: le genti | source: code | basis: 71-75
+- cohort: le genti | source: code | basis: 71-71
 
 ## Scene 79-81: Dante's Shame
 # (no soul-class present in this scene)
 
 ## Scene 82-89: The Arrival of Charon
-- cohort: anime prave | source: code | basis: 84-84
+- cohort: anime prave | source: code | basis: 84-89
 
 ## Scene 90-99: Virgil Silences the Ferryman
 # (no soul-class present in this scene)

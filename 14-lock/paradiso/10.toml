@@ -110,7 +110,6 @@ title = "The Radiance of the Sun"
 location = "dentro al sol"
 region = "ella"
 cast = [
-  { who = "quel ch'era dentro al sol", status = "present" },
   { who = "Dante", status = "present" },
 ]
 relations = [
@@ -234,10 +233,8 @@ lines = "70-75"
 title = "The Heavenly Court"
 location = "dentro al sol"
 region = "ella"
-cohort = ["quei lumi"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei lumi", status = "present" },
   { who = "dal muto", status = "mentioned" },
 ]
 basis = "70-75"
@@ -312,7 +309,7 @@ location = "dentro al sol"
 region = "ella"
 cast = [
   { who = "Pietro Damiano", status = "present" },
-  { who = "Domenico", status = "mentioned" },
+  { who = "San Domenico", status = "mentioned" },
 ]
 basis = "94-96"
 
@@ -358,9 +355,10 @@ title = "The Treasure of Peter"
 location = "dentro al sol"
 region = "ella"
 cast = [
-  { who = "Pietro Damian", status = "present" },
+  { who = "Pietro Damiano", status = "present" },
 ]
 refer = [
+  { phrase = "Pietro Damian", line = 107, resolves = "Pietro Damiano" },
   { phrase = "Santa Chiesa", line = 107, resolves = "la Santa Chiesa" },
 ]
 basis = "106-108"
@@ -385,7 +383,7 @@ location = "dentro al sol"
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Francesco", status = "present" },
+  { who = "San Francesco", status = "present" },
   { who = "l'angelica natura", status = "mentioned" },
 ]
 basis = "115-117"
@@ -418,7 +416,6 @@ region = "ella"
 cohort = ["l'anima santa"]
 cast = [
   { who = "l'anima santa", status = "present" },
-  { who = "chi di lei ben ode", status = "present" },
 ]
 basis = "124-126"
 
@@ -453,11 +450,11 @@ location = "dentro al sol"
 region = "ella"
 cast = [
   { who = "Sigieri", status = "present" },
-  { who = "Tommaso", status = "present" },
+  { who = "Tommaso d'Aquino", status = "present" },
   { who = "invidïosi", status = "mentioned" },
 ]
 relations = [
-  { subj = "Tommaso", predicate = "names", obj = "Sigieri", lines = "136-136" },
+  { subj = "Tommaso d'Aquino", predicate = "names", obj = "Sigieri", lines = "136-136" },
 ]
 basis = "133-138"
 

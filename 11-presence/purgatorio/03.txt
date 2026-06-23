@@ -2,15 +2,15 @@
 
 ## Scene 1-9: Dante's Internal Turmoil
 - who: anime | status: present | basis: 2-2
-- who: Dante | status: present | basis: 4-6
+- who: Dante | status: present | basis: 4-7
 - who: Virgilio | status: present | basis: 4-7
 
 ## Scene 10-15: The Widening View
 - who: Dante | status: present | basis: 12-14
 
 ## Scene 16-30: The Obscured Sun
-- who: Dante | status: present | basis: 17-24
-- who: Virgilio | status: present | basis: 22-28
+- who: Dante | status: present | basis: 17-21
+- who: Virgilio | status: present | basis: 22-24
 
 ## Scene 31-45: The Limits of Reason
 - who: umana gente | status: mentioned | basis: 37-37
@@ -19,26 +19,24 @@
 - who: Maria | status: mentioned | basis: 39-39
 - who: Aristotile | status: mentioned | basis: 43-43
 - who: Plato | status: mentioned | basis: 43-43
-- who: Virgilio | status: present | basis: 31-45
+- who: Virgilio | status: present | basis: 33-34
 
 ## Scene 46-54: The Steep Ascent
 - who: Dante | status: present | basis: 46-47
 - who: Virgilio | status: present | basis: 46-54
 
 ## Scene 55-66: The Approaching Souls
-- who: Virgilio | status: present | basis: 55-65
+- who: Virgilio | status: present | basis: 55-66
 - who: Dante | status: present | basis: 57-66
 - who: gente | status: present | basis: 58-60
-- who: anime | status: present | basis: 59-59
+- who: anime | status: present | basis: 59-60
 
 ## Scene 67-72: The Gathering Crowd
-- who: quel popol | status: present | basis: 67-71
 - who: Dante | status: present | basis: 68-68
 
 ## Scene 73-78: Virgil’s Appeal
 - who: spiriti eletti | status: present | basis: 73-73
 - who: Virgilio | status: present | basis: 74-74
-- who: chi più sa | status: mentioned | basis: 78-78
 
 ## Scene 79-87: The Sheep Simile
 - who: Dante | status: present | basis: 85-85
@@ -51,11 +49,10 @@
 
 ## Scene 94-99: The Reason for Darkness
 - who: Dante | status: present | basis: 94-97
-- who: anime | status: present | basis: 94-99
+- who: anime | status: mentioned | basis: 95-95
 
 ## Scene 100-108: The Encounter
 - who: Virgilio | status: present | basis: 100-102
-- who: quella gente degna | status: present | basis: 100-103
 - who: Dante | status: present | basis: 104-106
 - who: Manfredi | status: present | basis: 103-108
 
@@ -67,12 +64,11 @@
 - who: Manfredi | status: present | basis: 112-112
 - who: Costanza imperadrice | status: mentioned | basis: 113-113
 - who: Dante | status: present | basis: 114-114
-- who: Costanza | status: mentioned | basis: 115-115
 - who: Cicilia | status: mentioned | basis: 116-116
 
 ## Scene 124-135: Manfred's History
 - who: 'l pastor di Cosenza | status: mentioned | basis: 124-124
-- who: Manfredi | status: present | basis: 124-135
+- who: Manfredi | status: present | basis: 125-135
 - who: Clemente | status: mentioned | basis: 125-125
 - who: Dio | status: mentioned | basis: 126-126
 
@@ -82,4 +78,4 @@
 ## Scene 142-145: The Final Request
 - who: Dante | status: present | basis: 142-144
 - who: Manfredi | status: present | basis: 142-145
-- who: Costanza | status: mentioned | basis: 143-143
+- who: Costanza imperadrice | status: mentioned | basis: 143-143

@@ -1,81 +1,81 @@
 # Canto 04 — The Ascent of the Mountain and the Encounter with Belacqua
 
 ## Scene 1-12: Philosophical Prologue
-en: At the `*piè del monte*`, there is a meditation on how `*l'uom*` loses all sense of time when `*l'anima*` is absorbed in pleasure or pain. This refutes the error that `*un'anima*` could exist separately from another within `*l'uom*`.
-ja: `piè del monte`において、`l'anima`が快楽や苦痛に没頭するとき、`l'uom`がいかに時の感覚をすべて失うかという思索が綴られている。これは、`l'uom`の中に`un'anima`が他から切り離されて存在しうるという誤謬を退けるものである。
+en: At the *piè del monte*, it is reflected that when *l'anima* focuses its power, *l'uom* loses track of time, refuting the error that one *un'anima* could ignite another.
+ja: 山の麓にて、l'animaがその力を凝らし、l'uomが時の流れを忘れるとき、一つのun'animaが他方に火を灯しうるという誤謬は覆される。
 
 ## Scene 13-18: The Voice in the Dark
-en: At the *piè del monte*, *Dante* is so absorbed in observing *Belacqua* that he loses track of time until he and *Virgilio* are hailed by *quell' anime*, who announce they have reached their destination.
-ja: 山の麓にて、DanteはBelacquaを観察することに没頭し、時の経過を忘れていた。そこにquell' animeが彼とVirgilioに声をかけ、目的地に到着したことを告げた。
+en: At the *piè del monte*, *Dante* is so absorbed in listening to *Belacqua* that he fails to notice the sun rising fifty degrees. This distraction ends when he and *Virgilio* reach a place where *quell' anime* shout that they have arrived at their destination.
+ja: 山のふもとで、DanteはBelacquaの話にすっかり聞き入っていたため、太陽が五十度も昇ったことに気づかなかった。彼とVirgilioがある場所に辿り着き、quell' animeが目的地に到着したと叫んだことで、ようやくその心酔は解かれた。
 
 ## Scene 19-24: The Simile of the Vineyard
-en: *Dante* evokes the image of how *l'uom de la villa* prunes grapes as he and *Virgilio* proceed along *la calla*, now that the *schiera* has parted from them.
-ja: schieraが彼らのもとを去り、DanteとVirgilioが路地を進むなか、Danteはl'uom de la villaが葡萄を剪定するさまに思いを馳せた。
+en: Drawing a comparison to the way `*l'uom de la villa*` tends grapes, `*Virgilio*` and `*Dante*` proceed alone along `*la calla*` as the `*schiera*` parts from them.
+ja: `l'uom de la villa`が葡萄の手入れをするかのごとく、`schiera`が分かれて道を開けるなか、`Virgilio`と`Dante`はただ二人でその道を歩み進んでいった。
 
 ## Scene 25-30: The Flight of Desire
-en: Contrasting his former earthly journeys on foot, *Dante* now ascends *la calla* propelled by the wings of great desire, following *Virgilio*, who offers him hope and light.
-ja: かつての地上での歩みとは対照的に、Dante は今、強き切望という翼に運ばれ、希望と光を授ける Virgilio に続いてカラーの道を昇りゆく。
+en: Reflecting on his earthly travels, *Dante* realizes that on *la calla* he must fly with the wings of great desire, following *Virgilio*, who offers him hope and light.
+ja: 地上での旅路を振り返り、Danteは、希望と光を授けるVirgilioに従い、カラーの花の上を大いなる切望の翼で飛ぶべきなのだと悟った。
 
 ## Scene 31-35: The Difficult Climb
-en: *Dante* and *Virgilio* scramble through the *sasso rotto*, using both hands and feet to navigate the narrow cliffs until they reach the upper edge and emerge onto an open slope.
-ja: DanteとVirgilioは、手足をついて狭い崖をよじ登り、砕けた岩場を通り抜けて上端に達すると、開けた斜面へと出た。
+en: Scrambling through the *sasso rotto* with hands and feet as the narrow cliffs press in, *Dante* and *Virgilio* eventually reach the summit's open slope.
+ja: 狭い崖に圧迫されながら、手足を使って砕けた岩場を這い上がった Dante と Virgilio は、ついに山頂の開けた斜面へと辿り着いた。
 
 ## Scene 36-39: Virgil's Command
-en: At the *sasso rotto* on *l'orlo suppremo de l'alta ripa*, *Dante* asks *Virgilio* which way they should go, but *Virgilio* tells him to simply follow him up the mountain until *alcuna scorta saggia* appears.
-ja: 高い岸の最上端にある砕けた岩場にて、Danteはどちらへ進むべきかをVirgilioに尋ねたが、Virgilioはalcuna scorta saggiaが現れるまで、ただ自分に従って山を登るようにと告げた。
+en: In the *sasso rotto*, *Dante* asks *Virgilio* which way they should go, and *Virgilio* instructs him to simply follow behind until *alcuna scorta saggia* appears.
+ja: 砕けた岩場にて、Danteがどちらへ進むべきかを尋ねると、Virgilioはalcuna scorta saggiaが現れるまで、ただ後ろについてくるようにと指示した。
 
 ## Scene 40-48: The Exhausted Climber
-en: Exhausted by the steep slope at the *sasso rotto* on *l'orlo suppremo de l'alta ripa*, *Dante* calls out to *Virgilio* for support. *Virgilio* encourages him to persevere until he reaches a ledge where the path turns.
-ja: 高い岸壁の最上端、崩れた岩場の急斜面に疲れ果てた Dante は、支えを求めて Virgilio に声を上げた。Virgilio は、道が折れ曲がる棚に辿り着くまで諦めずに進むよう、彼を鼓舞した。
+en: In the *sasso rotto*, *Dante* falters under the steepness of the ascent and calls to *Virgilio*, fearing he has been left behind in his exhaustion. *Virgilio* encourages him to press on toward a ledge slightly further up the slope.
+ja: sasso rottoの険しい登りにDanteはたじろぎ、疲労のあまり取り残されたのではないかと恐れてVirgilioを呼ぶ。Virgilioは、斜面の少し先にある岩棚を目指して突き進むよう彼を励ました。
 
 ## Scene 49-54: The Rest on the Summit
-en: Motivated by the words of *Virgilio*, *Dante* struggles upward until he catches up to him on the *sasso rotto*. There, *Dante* and *Virgilio* sit and face east, gazing back upon the path they have climbed.
-ja: Virgilioの言葉に励まされ、Danteはsasso rottoで彼に追いつくまで、もがきながら上へと登った。そこでDanteとVirgilioは東を向き、自分たちが登ってきた道を振り返りながら、腰を下ろした。
+en: Spurred by the words of *Virgilio*, *Dante* catches up to him in the *sasso rotto* at *l'orlo suppremo de l'alta ripa*. Together, they sit and look back toward the east, finding comfort in the view of their ascent.
+ja: Virgilioの言葉に促され、Danteは高い崖の最上端にある砕けた岩場で彼に追いついた。二人は共に腰を下ろして東の方を振り返り、自らが登ってきた道の景色に安らぎを見出した。
 
 ## Scene 55-60: Observing the Sun
-en: At the *sasso rotto*, *Dante* looks first to the low shores and then to the sun, noting that the light strikes them from the left. *Virgilio* observes that *Dante* is completely mesmerized by the radiance of the light.
-ja: 砕かれた岩のところで、Danteはまず低い海岸に、そして太陽に目を向け、光が左側から差し込んでいることに気づく。Virgilioは、Danteがその光の輝きにすっかり心を奪われている様子を見守っていた。
+en: At *l'orlo suppremo de l'alta ripa* in the *sasso rotto*, *Dante* gazes at the sun and is struck by the light hitting them from the left. *Virgilio* observes that *Dante* stands completely mesmerized by the radiance.
+ja: 切り立った崖の最上端、砕けた岩場にて、Danteは太陽を凝視し、左から二人を照らす光に打たれた。その眩い輝きに完全に心を奪われて立ち尽くすDanteの姿を、Virgilioは見守っていた。
 
 ## Scene 61-75: The Astronomical Lecture
-en: At the *sasso rotto*, *Virgilio* explains the celestial movements to *Dante*, referencing *Castore* and *Poluce* to illustrate the Zodiac's rotation. To clarify the sun's trajectory, *Virgilio* contrasts the orderly heavens with the chaotic path of *Fetòn*.
-ja: sasso rottoにおいて、VirgilioはCastoreとPoluceを引き合いに黄道帯の回転を説き、Danteに天体の運行を詳述した。さらに、太陽の軌道を明確にするべく、秩序ある天界とFetònの混沌たる道筋を対比させて見せた。
+en: At *l'orlo suppremo de l'alta ripa* in the *sasso rotto*, *Virgilio* explains the solar trajectory to *Dante*, mentioning *Castore* and *Poluce* and contrasting the sun's orderly path with that of *Fetòn*.
+ja: 切り立った崖の最上端、砕かれた岩場において、VirgilioはCastoreとPoluceの名を挙げながらDanteに太陽の軌道を説き、その秩序ある運行をFetònのそれと対比させた。
 
 ## Scene 76-84: Dante's Astronomical Observation
-en: At the *sasso rotto*, *Dante* tells *Virgilio* that he now perceives the movements of the heavens with a clarity he once lacked, explaining the position of the middle circle in relation to how it was observed by *li Ebrei*.
-ja: 砕かれた岩のところで、DanteはVirgilioに、かつては欠けていた明晰さをもって今は天の運行を捉えていると語り、li Ebreiによる観測に照らして中圏の位置を説明した。
+en: At `*l'orlo suppremo de l'alta ripa*` in the `*sasso rotto*`, `*Dante*` tells `*Virgilio*` that he now clearly perceives the middle circle of the celestial motion, citing the perspective of the mentioned `*li Ebrei*`.
+ja: `sasso rotto`にある`l'orlo suppremo de l'alta ripa`において、`Dante`は前述の`li Ebrei`の視点を引き合いに出しながら、天球運動の中央の円を今や明確に捉えていることを`Virgilio`に語った。
 
 ## Scene 85-87: A Request for Guidance
-en: At the *sasso rotto*, *Dante* asks *Virgilio* how much further they have to travel, noting that the mountain rises higher than his eyes can see.
-ja: sasso rottoにて、Danteは山が目の届かぬほど高くそびえ立っていることに気づき、あとどれほど進まねばならぬのかをVirgilioに問いかけた。
+en: At *l'orlo suppremo de l'alta ripa* in the *sasso rotto*, *Dante* asks *Virgilio* how much further they must go, for the slope rises higher than his eyes can see.
+ja: 砕け散った岩に囲まれた高い岸壁の最上端で、DanteはVirgilioに、あとどれほど先まで行かねばならないのかと問う。目の前の斜面は、視界の及ばぬほど高く切り立っていた。
 
 ## Scene 88-96: The Nature of the Mountain
-en: At the *sasso rotto* on *l'orlo suppremo de l'alta ripa*, *Virgilio* explains to *Dante* that the mountain becomes easier to climb as the *om* ascends, and that *Dante* will reach the end of the path when the effort feels as light as sailing downstream.
-ja: 高い岸の最上端にある砕かれた岩にて、VirgilioはDanteに、omが登れば登るほど山は登りやすくなり、その労苦が川を下る帆走のように軽やかに感じられたとき、Danteは道の終わりに辿り着くのだと説いた。
+en: At *l'orlo suppremo de l'alta ripa* in the *sasso rotto*, *Virgilio* explains to *Dante* that the mountain becomes easier the higher *om* ascends. He tells *Dante* that once the climb feels effortless, he will have reached the end of the path.
+ja: l'orlo suppremo de l'alta ripa in the sasso rottoにて、VirgilioはDanteに、omが登れば登るほど山道は容易になると説いた。そして、登ることに苦労を感じなくなったとき、道の終わりに辿り着いたのだとDanteに告げた。
 
 ## Scene 97-102: A Voice from the Shadows
-en: As soon as *Virgilio* finishes speaking, *Belacqua* calls out from nearby, questioning if *Dante* has finally finished sitting. At the sound of the voice, *Dante* and *Virgilio* turn to discover a great boulder at the *sasso rotto* that they had not previously noticed.
-ja: Virgilioが話し終えるとすぐに、近くからBelacquaが、Danteはようやく座り終えたのかと声をかけてきた。その声にDanteとVirgilioが振り返ると、そこにはそれまで気づかなかった、砕けた岩場の巨岩があった。
+en: As soon as `*Virgilio*` finishes speaking at `*l'orlo suppremo de l'alta ripa*` in the `*sasso rotto*`, `*Belacqua*` calls out to `*Dante*` about his sitting, leading `*Dante*` and `*Virgilio*` to discover a large boulder they had previously overlooked.
+ja: `sasso rotto` の `l'orlo suppremo de l'alta ripa` にて `Virgilio` が語り終えた途端、`Belacqua` が座っている `Dante` に声をかけたことで、`Dante` と `Virgilio` はそれまで見落としていた大きな岩に気づくこととなった。
 
 ## Scene 103-108: The Slumbering Figure
-en: *Dante* and *Virgilio* move *a l'ombra dietro al sasso* and find *persone* resting as the mentioned *l'uom* would out of laziness. Among them, *Belacqua* sits huddled with his face tucked low between his knees.
-ja: DanteとVirgilioが岩の背後の陰へと進むと、そこには先ほどのl'uomのように怠惰に身を休めるpersoneたちがいた。その中に、Belacquaが膝の間に顔を深く埋め、身を縮めて座り込んでいた。
+en: *Dante* and *Virgilio* move *a l'ombra dietro al sasso*, where they encounter *persone* lounging as *l'uom* might do out of laziness. Among them is a weary *Belacqua*, sitting with his face tucked between his knees.
+ja: DanteとVirgilioが岩の背後の陰へ進むと、そこにはl'uomが怠惰ゆえにそうするように、だらしなくくつろぐpersoneたちがいた。その中には、疲れ切って顔を膝の間にうずめて座り込むBelacquaの姿があった。
 
 ## Scene 109-114: The Recognition of Belacqua
-en: *A l'ombra dietro al sasso*, *Dante* asks *Virgilio* to observe the extreme indolence of *Belacqua*. *Belacqua* looks up and dismissively tells *Dante* to continue his ascent, since he is so capable.
-ja: 岩の陰で、DanteはBelacquaの極端な怠惰ぶりをVirgilioに見てほしいと求めた。顔を上げたBelacquaは、それほど有能なのだからそのまま登り続けろと、Danteを突き放すように言い放った。
+en: At *a l'ombra dietro al sasso*, *Dante* draws *Virgilio*'s attention to the profoundly negligent *Belacqua*, who looks up only to dismissively tell *Dante* to press on.
+ja: l'ombra dietro al sasso において、Dante は Virgilio に、ひどく怠慢な Belacqua の存在を気づかせた。Belacqua は顔を上げたが、Dante に先へ進めと突き放すように告げるだけだった。
 
 ## Scene 115-122: The Encounter with Belacqua
-en: At *a l'ombra dietro al sasso*, *Dante* recognizes *Belacqua* and approaches him despite a lingering anxiety. *Belacqua* barely raises his head to ask if *Dante* has noted the sun's position, an act of indolence that brings a slight smile to *Dante*'s lips.
-ja: 岩の背後の陰で、DanteはBelacquaを認め、拭いきれぬ不安を抱えながらも彼へと近づいた。Belacquaはかろうじて頭を上げ、太陽の位置に気づいたかを問いかけたが、その怠惰な振る舞いにDanteの唇にはかすかな微笑みが浮かんだ。
+en: At *a l'ombra dietro al sasso*, *Dante* recognizes *Belacqua* and approaches him despite his own lingering anxiety. *Belacqua* barely raises his head to ask a curt question about the sun, and *Dante* is moved to a slight smile by his profound indolence.
+ja: l'ombra dietro al sassoにて、DanteはBelacquaに気づき、拭いきれぬ不安を抱えながらも彼へと歩み寄った。Belacquaはかろうじて頭を上げ、太陽についてぶっきらぼうに問いかけたが、その底知れぬ怠惰さに、Danteはふとわずかな微笑みを浮かべた。
 
 ## Scene 123-126: Questioning the Sloth
-en: At *a l'ombra dietro al sasso*, *Dante* tells *Belacqua* he no longer feels pity for him and asks why he remains huddled, wondering if he awaits an escort or has simply returned to his habitual indolence.
-ja: 岩の背後の陰で、DanteはBelacquaにもはや憐れみなど感じないと告げ、なぜ縮こまったままでいるのか、案内人を待っているのか、あるいは単にいつもの怠惰に戻っただけなのかと問いかけた。
+en: At *a l'ombra dietro al sasso*, *Dante* tells *Belacqua* that he no longer feels pity for him and asks whether he sits curled up awaiting an escort or has simply reverted to his habitual indolence.
+ja: l'ombra dietro al sassoにて、DanteはBelacquaに、もはや貴様に憐れみなど感じないと言い放った。そして、案内人を待って丸まっているのか、あるいは単にいつもの怠惰に身を任せているだけなのかと問いかけた。
 
 ## Scene 127-135: Belacqua's Excuse
-en: At *a l'ombra dietro al sasso*, *Belacqua* tells *Dante* that *l'angel di Dio* bars him from the ascent until the heavens have turned for a time equal to the life he wasted in indolence, noting that prayers not offered in grace are unheard in heaven.
-ja: 岩の裏の陰にて、BelacquaはDanteに、怠惰に費やした人生に等しい時間が天を巡るまでl'angel di Dioが昇天を禁じていると告げ、恩寵なき祈りは天に届かぬものであると付け加えた。
+en: At `*a l'ombra dietro al sasso*`, *Belacqua* asks *Dante* why he should ascend, explaining that `*l'angel di Dio*` will not let him pass until he has waited for a duration equal to the time he spent procrastinating in his earthly life.
+ja: `a l'ombra dietro al sasso`にて、BelacquaはDanteに何故登るのかと問い、地上で物事を先延ばしにした時間に等しい期間を待たぬ限り、l'angel di Dioは自分を通さないのだと説明した。
 
 ## Scene 136-139: Resuming the Journey
-en: At *a l'ombra dietro al sasso*, *Virgilio* climbs ahead and urges *Dante* to hurry, noting that it is already midday while night covers *Morrocco*.
-ja: 岩の背後の陰で、Virgilioは先に登り、Morroccoが夜に包まれている一方でこちらはすでに正午であると告げて、Danteに急ぐよう促した。
+en: At *a l'ombra dietro al sasso*, *Virgilio* climbs ahead and urges *Dante* to hurry, noting that it is now midday and night has already reached *Morrocco*.
+ja: 岩の背後の陰で、Virgilioは先を登り、今は正午でありMorroccoにはすでに夜が訪れていると告げて、Danteに急ぐよう促した。

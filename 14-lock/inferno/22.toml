@@ -6,10 +6,9 @@ lines = "1-12"
 title = "The Knightly Vision"
 location = ""
 region = "ripa sesta"
-cohort = ["Aretini"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Aretini", status = "present" },
+  { who = "Aretini", status = "mentioned" },
   { who = "gualdane", status = "mentioned" },
   { who = "pedoni", status = "mentioned" },
 ]
@@ -109,7 +108,7 @@ location = ""
 region = "ripa sesta"
 cohort = ["i maladetti"]
 cast = [
-  { who = "Rubicante", status = "present" },
+  { who = "Rubicante pazzo", status = "present" },
   { who = "lo sciagurato", status = "present" },
   { who = "i maladetti", status = "present" },
   { who = "Dante", status = "present" },
@@ -117,7 +116,7 @@ cast = [
   { who = "li avversari suoi", status = "present" },
 ]
 relations = [
-  { subj = "i maladetti", predicate = "commands", obj = "Rubicante", lines = "40-42" },
+  { subj = "i maladetti", predicate = "commands", obj = "Rubicante pazzo", lines = "40-42" },
   { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "43-45" },
 ]
 basis = "40-45"
@@ -151,11 +150,11 @@ title = "Cirïatto’s Snorting"
 location = ""
 region = "ripa sesta"
 cast = [
-  { who = "Cirïatto", status = "present" },
+  { who = "Cirïatto sannuto", status = "present" },
   { who = "il Navarrese", status = "present" },
 ]
 relations = [
-  { subj = "Cirïatto", predicate = "punishes", obj = "il Navarrese", lines = "57-57" },
+  { subj = "Cirïatto sannuto", predicate = "punishes", obj = "il Navarrese", lines = "57-57" },
 ]
 basis = "55-57"
 
@@ -392,7 +391,7 @@ location = "la ripa"
 region = "ripa sesta"
 cohort = ["Malebranche"]
 cast = [
-  { who = "tu che leggi", status = "present" },
+  { who = "tu che leggi", status = "mentioned" },
   { who = "Malebranche", status = "present" },
 ]
 basis = "118-120"
@@ -406,7 +405,6 @@ cohort = ["Malebranche"]
 cast = [
   { who = "il Navarrese", status = "present" },
   { who = "Malebranche", status = "present" },
-  { who = "quei più che cagion fu del difetto", status = "present" },
 ]
 refer = [
   { phrase = "Lo Navarrese", line = 123, resolves = "il Navarrese" },
@@ -423,9 +421,10 @@ lines = "127-132"
 title = "The Struggle in the Pitch"
 location = "la ripa"
 region = "ripa sesta"
+cohort = ["Malebranche"]
 cast = [
   { who = "il più crudele", status = "present" },
-  { who = "Malebranche", status = "mentioned" },
+  { who = "Malebranche", status = "present" },
   { who = "il Navarrese", status = "present" },
 ]
 simile = [
@@ -482,7 +481,7 @@ cast = [
   { who = "li 'mpaniati", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Calcabrina", status = "present" },
+  { who = "Calcabrina", status = "mentioned" },
 ]
 relations = [
   { subj = "Barbariccia", predicate = "sends", obj = "Malebranche", lines = "146-146" },

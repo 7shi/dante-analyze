@@ -40,7 +40,6 @@ title = "The Swimmer Simile"
 location = "la piaggia diserta"
 region = "piè d'un colle"
 cast = [
-  { who = "quei che con lena affannata, uscito fuor del pelago a la riva", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "persona viva", status = "mentioned" },
 ]
@@ -94,7 +93,6 @@ region = "piè d'un colle"
 cast = [
   { who = "molte genti", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "quei che volontieri acquista", status = "mentioned" },
 ]
 relations = [
   { subj = "la lupa", predicate = "punishes", obj = "molte genti", lines = "51-51" },

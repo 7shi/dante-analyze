@@ -16,7 +16,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 52-63: Dante's Response
-- 16:52 lines 52-63 | speaker: Dante | addressee: Guido Guerra | source: llm | basis: 52-63
+- 16:52 lines 52-63 | speaker: Dante | addressee: Guido Guerra | source: llm | basis: 53-59
 
 ## Scene 64-72: The Souls' Inquiry
 # (no attributed speech in this scene)

@@ -100,11 +100,9 @@ location = ""
 region = "l'alta selva vòta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "chi n'ha colpa", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
   { who = "Beatrice", status = "present" },
   { who = "un cinquecento diece e cinque", status = "mentioned" },
-  { who = "quel gigante", status = "mentioned" },
 ]
 refer = [
   { phrase = "'l serpente", line = 40, resolves = "il serpente" },
@@ -257,8 +255,7 @@ region = "l'alta selva vòta"
 cohort = ["le sette donne"]
 cast = [
   { who = "Beatrice", status = "present" },
-  { who = "lettore", status = "present" },
-  { who = "chi va dinanzi a gente per iscorta", status = "mentioned" },
+  { who = "lettore", status = "mentioned" },
   { who = "gente", status = "mentioned" },
   { who = "le sette donne", status = "present" },
 ]
@@ -310,11 +307,11 @@ title = "Matelda's Revelation"
 location = ""
 region = "l'alta selva vòta"
 cast = [
-  { who = "Matelda", status = "present" },
-  { who = "Dante", status = "mentioned" },
+  { who = "Matelda", status = "mentioned" },
+  { who = "Dante", status = "present" },
 ]
 speech = [
-  { quote_id = "33:121", lines = "121-123", speaker = "Matelda", addressee = "(none)", source = "none" },
+  { quote_id = "33:121", lines = "121-123", speaker = "Matelda", addressee = "Dante", source = "code" },
 ]
 relations = [
   { subj = "Matelda", predicate = "speaks-to", obj = "Dante", lines = "121-123" },

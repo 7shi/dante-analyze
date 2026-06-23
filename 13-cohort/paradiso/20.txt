@@ -19,7 +19,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 43-48: The Second Light: The Widow's Comfort
-- cohort: Dei cinque | source: code | basis: 43-43
+- cohort: Dei cinque | source: code | basis: 43-44
 
 ## Scene 49-54: The Third Light: The Penitent
 # (no soul-class present in this scene)

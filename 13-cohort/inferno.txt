@@ -14,7 +14,7 @@
 
 ## cammino alto e silvestro
 - en: high and wooded path
-- cohort: anime prave (1), che gent' (1), chiunque entri nell'Inferno (1), gente (1), i cattivi (1), ignavi (1), l'anime triste di coloro che visser sanza 'nfamia e sanza lodo (1), le genti (1), quel cattivo coro de li angeli (1), Questi sciaurati (1)
+- cohort: anime prave (1), che gent' (1), chiunque entri nell'Inferno (1), gente (1), i cattivi (1), ignavi (1), l'anime triste di coloro che visser sanza 'nfamia e sanza lodo (1), le genti (1)
 
 ## livida palude
 - en: livid marsh
@@ -26,11 +26,11 @@
 
 ## primo cerchio
 - en: the first circle
-- cohort: le turbe (1), spiriti (1)
+- cohort: femmine (1), infanti (1), le ombre di Limbo (1), le turbe (1), spiriti (1), viri (1)
 
 ## la selva
 - en: the wood
-- cohort: Dante, noble souls of Limbo (1), orrevol gente (1), spiriti (1)
+- cohort: noble souls of Limbo (1), orrevol gente (1), spiriti (1)
 
 ## prato di fresca verdura
 - en: a meadow of fresh greenery
@@ -38,11 +38,11 @@
 
 ## secondo
 - en: second circle
-- cohort: l'ombre (4), anime (2), anima mal nata (1), ciascun (1), gente (1), i miseri profani (1), i peccator carnali (1), li altri ciechi (1), li spirti (1), novi tormentati (1)
+- cohort: l'ombre (4), anime (2), anima mal nata (1), gente (1), i miseri profani (1), i peccator carnali (1), li altri ciechi (1), li spirti (1), novi tormentati (1)
 
 ## la quarta lacca
 - en: the fourth ditch
-- cohort: gente (2), cherci (1), i cardinali (1), papi (1)
+- cohort: gente (2), cherci (1), i cardinali (1), papi (1), quest' anime stanche (1)
 
 ## una via diversa
 - en: a different way
@@ -54,7 +54,7 @@
 
 ## l'intrata
 - en: the entrance
-- cohort: demoni (2), cacciati del ciel (1), mille anime distrutte (1), tre furïe infernal (1), voi ch'avete li 'ntelletti sani (1)
+- cohort: demoni (2), cacciati del ciel (1), mille anime distrutte (1), tre furïe infernal (1)
 
 ## porta
 - en: gate
@@ -62,11 +62,11 @@
 
 ## Dentro
 - en: inside
-- cohort: Eretici (1), i martìri (1), miseri (1), offesi (1)
+- cohort: Eretico (1), i martìri (1), miseri (1), offesi (1)
 
 ## le sepulture
 - en: the tombs
-- cohort: Farinata, le anime dell'Inferno (1), l'ombra (1), un'ombra (1)
+- cohort: l'ombra (1), le anime dell'Inferno (1), un'ombra (1)
 
 ## un sentier
 - en: a path
@@ -74,7 +74,7 @@
 
 ## più crudele stipa
 - en: a more cruel ledge
-- cohort: questi felli (1)
+- cohort: (none)
 
 ## lo loco ov' a scender la riva venimmo
 - en: the place where we came to descend the bank
@@ -106,11 +106,11 @@
 
 ## fossa
 - en: pit
-- cohort: demonio (1), i peccatori (1), l'anime lasse (1), novi frustatori (1), ruffiani e seduttori (1)
+- cohort: bolognese (1), demonio (1), i peccatori (1), l'anime lasse (1), novi frustatori (1), ruffiani e seduttori (1)
 
 ## là dov' el vaneggia di sotto
 - en: where it [the rock] drops down below
-- cohort: color che 'n sé assanna (1), gente (1), gente attuffata (1), li sferzati (1), li uman privadi (1), miseri seguaci (1)
+- cohort: color che 'n sé assanna (1), gente attuffata (1), li sferzati (1), miseri seguaci (1)
 
 ## lo scoglio
 - en: the rock
@@ -118,23 +118,23 @@
 
 ## l'argine quarto
 - en: the fourth ledge
-- cohort: gente (2), Malebranche (2), le anime della quarta bolgia (1), le triste (1), li altri tratti (1), lo furo (1), simoniaci (1), un diavol nero (1), un peccator (1)
+- cohort: Malebranche (2), gente (1), le anime della quarta bolgia (1), le triste (1), li altri tratti (1), simoniaci (1), un diavol nero (1), un peccator (1)
 
 ## ripa sesta
 - en: sixth bank
-- cohort: Malebranche (16), Aretini (1), barrattore (1), gente (1), i maladetti (1), i peccatori (1), l barattier (1), li scheggion (1)
+- cohort: Malebranche (17), barrattore (1), gente (1), i maladetti (1), i peccatori (1), l barattier (1), li scheggion (1)
 
 ## sopra 'l fosso
 - en: above the ditch
-- cohort: li 'mpaniati (1), Malebranche (1)
+- cohort: Malebranche (2), li 'mpaniati (1)
 
 ## letto del fondo giù
 - en: bed of the bottom
-- cohort: Malebranche (1), quella gente stanca (1), un che 'ntese la parola tosca (1), una gente dipinta (1)
+- cohort: Malebranche (1), un che 'ntese la parola tosca (1), una gente dipinta (1)
 
 ## via stretta
 - en: narrow way
-- cohort: ipocriti (3), ipocriti tristi (1), li altri (1), un peccator (1)
+- cohort: ipocriti (3), ipocriti tristi (1), li altri (1)
 
 ## cima d'un ronchione
 - en: top of a block
@@ -146,11 +146,11 @@
 
 ## 'l ponte
 - en: the bridge
-- cohort: l'anima (3), compagni (1), Li miei compagni (1), li spirti (1)
+- cohort: l'anima (3), compagni (1), Li miei compagni (1)
 
 ## l'altr' arco
 - en: the other arch
-- cohort: questa risma (1), seminator di scandalo e di scisma (1), tutti li altri (1)
+- cohort: seminator di scandalo e di scisma (1)
 
 ## lo scoglio #2
 - en: the rock
@@ -162,15 +162,15 @@
 
 ## piè del ponte
 - en: the foot of the bridge
-- cohort: i morti (1), i suoi conversi (1), molta gente (1)
+- cohort: i suoi conversi (1), molta gente (1)
 
 ## ultima riva del lungo scoglio
 - en: last bank of the long rock
-- cohort: I falsari (2), alchimista (1), alcun Latino (1), due figli (1), due ombre smorte e nude (1), i falsador (1), l'un (1), l'un di lor (1), la moglie (1), li altri mal nati (1), li ammalati (1), questa gente sconcia (1), quinc' entro (1), sì fatta famiglia (1)
+- cohort: I falsari (2), alchimista (1), due figli (1), due ombre smorte e nude (1), i falsador (1), l'un (1), l'un di lor (1), la moglie (1), li altri mal nati (1), li ammalati (1), quinc' entro (1), sì fatta famiglia (1)
 
 ## ripa
 - en: bank
-- cohort: i Giganti (1), li orribili giganti (1), un gigante (1)
+- cohort: i Giganti (2), li orribili giganti (1), un gigante (1)
 
 ## pozzo scuro
 - en: dark pit
@@ -178,7 +178,7 @@
 
 ## lago
 - en: lake
-- cohort: il peccatore (2), al traditor (1), due ghiacciati (1), i figli (1), i figli di Ugolino (1), i figliuoli di Ugolino (1), l'ombre dolenti (1), le due ombre (1), quel peccator (1), un de' tristi (1), un'altra gente (1)
+- cohort: il peccatore (2), al traditor (1), due ghiacciati (1), i figli (1), i figli di Ugolino (1), i figliuoli di Ugolino (1), l'ombre dolenti (1), le due ombre (1), quelli a cui fu rotto il petto (1), un de' tristi (1), un'altra gente (1)
 
 ## Tolomea
 - en: Tolomea

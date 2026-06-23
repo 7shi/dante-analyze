@@ -49,10 +49,10 @@
 - 22:99 lines 99-105 | speaker: lo spaürato | addressee: Dante | source: llm | basis: 99-99
 
 ## Scene 106-111: Cagnazzo’s Rebuttal
-- 22:110 lines 110-111 | speaker: il Navarrese | addressee: Cagnazzo | source: llm | basis: 110-110
+- 22:110 lines 110-111 | speaker: il Navarrese | addressee: Cagnazzo | source: llm | basis: 110-111
 
 ## Scene 112-117: Alichin’s Challenge
-- 22:113 lines 113-117 | speaker: Alichin | addressee: il Navarrese | source: llm | basis: 113-113
+- 22:113 lines 113-117 | speaker: Alichin | addressee: il Navarrese | source: llm | basis: 113-117
 
 ## Scene 118-120: The Moment of Tension
 # (no attributed speech in this scene)

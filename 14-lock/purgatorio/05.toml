@@ -6,7 +6,7 @@ lines = "1-6"
 title = "The Sudden Cry"
 location = ""
 region = "a l'ombra dietro al sasso"
-cohort = ["quell' ombre"]
+cohort = ["quell' ombre", "una"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "quell' ombre", status = "present" },
@@ -155,9 +155,7 @@ lines = "43-45"
 title = "The Poet's Warning"
 location = ""
 region = "a l'ombra dietro al sasso"
-cohort = ["questa gente"]
 cast = [
-  { who = "questa gente", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
 ]
@@ -245,7 +243,6 @@ region = "a l'ombra dietro al sasso"
 cast = [
   { who = "Pier della Vigna", status = "present" },
   { who = "li Antenori", status = "mentioned" },
-  { who = "quel da Esti", status = "mentioned" },
   { who = "Orïaco", status = "mentioned" },
 ]
 basis = "73-84"
@@ -257,17 +254,17 @@ location = ""
 region = "a l'ombra dietro al sasso"
 cohort = ["anime"]
 cast = [
-  { who = "Bonconte", status = "present" },
+  { who = "Bonconte di Montefeltro", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Giovanna", status = "mentioned" },
   { who = "anime", status = "present" },
 ]
 speech = [
-  { quote_id = "5:85", lines = "85-90", speaker = "Bonconte", addressee = "Dante", source = "llm" },
+  { quote_id = "5:85", lines = "85-90", speaker = "Bonconte di Montefeltro", addressee = "Dante", source = "llm" },
 ]
 relations = [
-  { subj = "Bonconte", predicate = "speaks-to", obj = "Dante", lines = "85-85" },
-  { subj = "Bonconte", predicate = "pleads-with", obj = "Dante", lines = "87-87" },
+  { subj = "Bonconte di Montefeltro", predicate = "speaks-to", obj = "Dante", lines = "85-85" },
+  { subj = "Bonconte di Montefeltro", predicate = "pleads-with", obj = "Dante", lines = "87-87" },
 ]
 basis = "85-90"
 
@@ -300,7 +297,7 @@ cast = [
 ]
 speech = [
   { quote_id = "5:94B", lines = "94-129", speaker = "Bonconte di Montefeltro", addressee = "Dante", source = "code" },
-  { quote_id = "5:105", lines = "105-108", speaker = "demonio", addressee = "Bonconte di Montefeltro", source = "llm" },
+  { quote_id = "5:105", lines = "105-108", speaker = "demonio", addressee = "Dante", source = "llm" },
 ]
 relations = [
   { subj = "Bonconte di Montefeltro", predicate = "tells", obj = "Dante", lines = "103-103" },

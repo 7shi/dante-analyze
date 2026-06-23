@@ -46,7 +46,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 121-129: The Simile of the Infants
-- cohort: quei candori | source: code | basis: 124-128
+# (no soul-class present in this scene)
 
 ## Scene 130-139: The Triumph of the Saints
-- cohort: arche ricchissime | source: code | basis: 131-131
+- cohort: arche ricchissime | source: code | basis: 131-133

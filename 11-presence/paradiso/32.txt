@@ -1,10 +1,10 @@
 # Canto 32 — St. Bernard's Vision of the Celestial Rose and the Identification of the Blessed
 
 ## Scene 1-9: The Arrangement of the Matriarchs
-- who: Bernardo | status: present | basis: 1-3
+- who: San Bernardo | status: present | basis: 1-3
 - who: Maria | status: mentioned | basis: 4-4
-- who: Eva | status: present | basis: 6-8
-- who: Rachel | status: present | basis: 8-9
+- who: Eva | status: mentioned | basis: 5-6
+- who: Rachel | status: present | basis: 8-8
 - who: Bëatrice | status: present | basis: 9-9
 - who: Dante | status: present | basis: 9-9
 
@@ -15,40 +15,37 @@
 - who: Rut | status: mentioned | basis: 10-11
 - who: Davide | status: mentioned | basis: 11-12
 - who: Dante | status: present | basis: 13-13
-- who: Bernardo | status: present | basis: 14-15
+- who: San Bernardo | status: present | basis: 14-15
 
 ## Scene 16-27: The Structure of the Two Hemispheres
 - who: Cristo | status: mentioned | basis: 20-27
 - who: Ebree | status: present | basis: 17-18
-- who: quei che credettero in Cristo venturo | status: present | basis: 23-24
-- who: quei ch'a Cristo venuto ebber li visi | status: present | basis: 26-27
 
 ## Scene 28-36: The Hierarchy of the Great Doctors
 - who: Maria | status: present | basis: 29-29
-- who: Giovanni | status: present | basis: 31-31
-- who: Francesco | status: present | basis: 35-35
-- who: Benedetto | status: present | basis: 35-35
+- who: San Giovanni | status: present | basis: 31-31
+- who: Francesco d'Assisi | status: present | basis: 35-35
+- who: San Benedetto | status: present | basis: 35-35
 - who: Augustino | status: present | basis: 35-35
 
 ## Scene 37-45: The Principle of Divine Providence
 - who: Dante | status: present | basis: 37-40
-- who: spiriti ascolti | status: present | basis: 44-44
+- who: spiriti ascolti | status: present | basis: 42-45
 
 ## Scene 46-51: A Promise of Clarification
 - who: Dante | status: present | basis: 46-51
 - who: spiriti chiamati | status: present | basis: 46-48
-- who: Bernardo | status: present | basis: 50-50
+- who: San Bernardo | status: present | basis: 50-50
 
 ## Scene 52-66: The Nature of Eternal Joy and Grace
 - who: Dante | status: present | basis: 56-56
-- who: questa festinata gente | status: present | basis: 58-60
 - who: rege | status: mentioned | basis: 61-65
 
 ## Scene 67-75: The Distinction of Divine Gifts
 - who: Esaù | status: mentioned | basis: 68-68
 - who: Rebecca | status: mentioned | basis: 69-69
-- who: l'anima | status: mentioned | basis: 68-68
-- who: i beati | status: present | basis: 74-74
+- who: l'anima | status: present | basis: 67-75
+- who: i beati | status: present | basis: 73-75
 
 ## Scene 76-84: The Evolution of the Covenant
 - who: parenti | status: mentioned | basis: 78-78
@@ -69,57 +66,55 @@
 # (no person figure named in this scene)
 
 ## Scene 100-105: A Question of Love
-- who: Bernardo | status: present | basis: 100-100
+- who: San Bernardo | status: present | basis: 100-100
 - who: Dante | status: present | basis: 100-100
-- who: quell' angel | status: present | basis: 103-103
+- who: quell' angel | status: present | basis: 103-104
 - who: Maria | status: present | basis: 104-104
 
 ## Scene 106-114: Identification of the Angel
 - who: Dante | status: present | basis: 106-109
-- who: San Bernardo | status: present | basis: 109-111
+- who: San Bernardo | status: present | basis: 106-109
 - who: Maria | status: mentioned | basis: 107-113
-- who: l'angelo | status: present | basis: 110-112
+- who: l'angelo | status: mentioned | basis: 110-112
 - who: l'alma | status: mentioned | basis: 110-110
 - who: Dio e i beati | status: mentioned | basis: 111-111
-- who: Figliuol di Dio | status: mentioned | basis: 113-114
+- who: Figliuol di Dio | status: mentioned | basis: 113-113
 
 ## Scene 115-120: The Roots of the Rose
 - who: Dante | status: present | basis: 115-116
-- who: Bernardo | status: present | basis: 115-116
-- who: Pietro | status: present | basis: 118-120
-- who: Paolo | status: present | basis: 118-120
+- who: San Bernardo | status: present | basis: 115-116
 - who: Maria | status: mentioned | basis: 119-119
 
 ## Scene 121-126: The Patriarchs of the Church
-- who: Paolo | status: present | basis: 121-121
+- who: San Paolo | status: present | basis: 121-123
 - who: Maria | status: present | basis: 121-121
 - who: Dante | status: present | basis: 124-124
-- who: Pietro | status: present | basis: 124-125
+- who: San Pietro | status: present | basis: 124-126
 - who: Cristo | status: mentioned | basis: 125-125
 
 ## Scene 127-132: The Great Biblical Figures
 - who: Cristo | status: mentioned | basis: 129-129
-- who: San Paolo | status: present | basis: 127-130
+- who: San Paolo | status: present | basis: 130-130
 - who: San Pietro | status: present | basis: 130-130
-- who: Mosè | status: present | basis: 130-132
+- who: Mosè | status: present | basis: 130-131
 - who: Israeliti | status: mentioned | basis: 131-132
 
 ## Scene 133-138: The Matriarchal Counterparts
-- who: Pietro | status: present | basis: 133-133
+- who: San Pietro | status: present | basis: 133-133
 - who: Dante | status: present | basis: 133-133
 - who: Anna | status: present | basis: 133-133
 - who: Maria | status: present | basis: 134-134
-- who: Paolo | status: present | basis: 136-136
+- who: San Paolo | status: present | basis: 136-136
 - who: Lucia | status: present | basis: 137-137
 - who: Beatrice | status: mentioned | basis: 137-137
 
 ## Scene 139-144: The Final Instruction
-- who: Dante | status: present | basis: 139-143
+- who: Dante | status: present | basis: 139-144
 - who: San Bernardo | status: present | basis: 139-144
 - who: buon sartore | status: mentioned | basis: 140-141
-- who: primo amore | status: mentioned | basis: 142-144
+- who: primo amore | status: present | basis: 142-144
 
 ## Scene 145-151: The Call for Grace
 - who: Dante | status: present | basis: 145-150
 - who: Maria | status: mentioned | basis: 148-148
-- who: Bernardo | status: present | basis: 145-151
+- who: San Bernardo | status: present | basis: 145-151

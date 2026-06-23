@@ -115,9 +115,8 @@ lines = "43-46"
 title = "The demon's departure"
 location = "lo scoglio duro"
 region = "l'argine quarto"
-cohort = ["lo furo"]
 cast = [
-  { who = "lo furo", status = "present" },
+  { who = "lo furo", status = "mentioned" },
 ]
 relations = [
   { subj = "mastino sciolto", predicate = "punishes", obj = "lo furo", lines = "43-43" },

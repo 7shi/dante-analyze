@@ -11,15 +11,15 @@
 
 ## Scene 19-24: Dante's Grief
 - who: Dio | status: mentioned | basis: 19-19
-- who: lettor | status: present | basis: 19-20
+- who: lettor | status: mentioned | basis: 19-20
 - who: Dante | status: present | basis: 21-23
 
 ## Scene 25-36: Virgil's Rebuke
-- who: Dante | status: present | basis: 25-27
-- who: Virgilio | status: present | basis: 26-27
+- who: Dante | status: present | basis: 25-36
+- who: Virgilio | status: present | basis: 26-36
 - who: li altri sciocchi | status: mentioned | basis: 27-27
 - who: i Teban | status: mentioned | basis: 32-33
-- who: Anfïarao | status: mentioned | basis: 34-34
+- who: Anfïarao | status: mentioned | basis: 34-35
 - who: Minòs | status: mentioned | basis: 36-36
 
 ## Scene 37-45: Examples of Transformation
@@ -34,13 +34,12 @@
 - who: Manto | status: present | basis: 52-55
 - who: Dante | status: present | basis: 53-53
 - who: Virgilio | status: present | basis: 56-57
-- who: Tiresia | status: mentioned | basis: 58-58
+- who: Tiresia | status: present | basis: 46-46
 
 ## Scene 61-78: Geography of Lake Garda
 - who: Virgilio | status: present | basis: 64-64
-- who: 'l trentino | status: mentioned | basis: 67-68
-- who: quel di Brescia | status: mentioned | basis: 68-68
-- who: 'l veronese | status: mentioned | basis: 68-68
+- who: 'l trentino | status: mentioned | basis: 67-69
+- who: 'l veronese | status: mentioned | basis: 68-69
 
 ## Scene 79-87: Formation of the Marshland
 - who: Manto | status: mentioned | basis: 85-87
@@ -59,18 +58,18 @@
 ## Scene 100-105: Dante's Inquiry
 - who: Dante | status: present | basis: 100-100
 - who: Virgilio | status: present | basis: 100-100
-- who: gente | status: present | basis: 103-103
+- who: gente | status: mentioned | basis: 103-104
 
 ## Scene 106-123: Virgil's Catalog of Souls
-- who: Dante | status: present | basis: 106-114
-- who: Virgilio | status: present | basis: 106-123
+- who: Dante | status: present | basis: 106-106
+- who: Virgilio | status: present | basis: 106-106
 - who: Euripilo | status: present | basis: 106-112
 - who: maschi | status: mentioned | basis: 108-108
 - who: Calcanta | status: mentioned | basis: 110-110
-- who: Michele Scotto | status: present | basis: 115-117
+- who: Michele Scotto | status: present | basis: 115-116
 - who: Guido Bonatti | status: present | basis: 118-118
-- who: Asdente | status: present | basis: 118-120
-- who: le triste | status: present | basis: 121-123
+- who: Asdente | status: present | basis: 118-118
+- who: le triste | status: present | basis: 121-121
 
 ## Scene 124-130: Closing Exhortation
 - who: Caino | status: mentioned | basis: 126-126

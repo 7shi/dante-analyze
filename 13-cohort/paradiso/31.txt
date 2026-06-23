@@ -7,7 +7,7 @@
 - cohort: tanta moltitudine volante | source: code | basis: 13-21
 
 ## Scene 25-27: The Nature of the Eternal Kingdom
-- cohort: gente antica e in novella | source: code | basis: 26-26
+- cohort: gente antica e in novella | source: code | basis: 26-27
 
 ## Scene 28-42: Dante's Prayer to the Trinity
 # (no soul-class present in this scene)

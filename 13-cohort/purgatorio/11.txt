@@ -4,19 +4,19 @@
 - cohort: le anime dei superbi | source: code | basis: 1-12
 
 ## Scene 13-24: The Souls' Petitions
-- cohort: le anime dei superbi | source: llm | basis: 13-24
+- cohort: le anime dei superbi | source: code | basis: 13-24
 
 ## Scene 25-30: Entering the First Ring
-- cohort: quell' ombre | source: llm | basis: 26-30
+- cohort: quell' ombre | source: code | basis: 25-30
 
 ## Scene 31-36: Thoughts on Divine Intercession
-- cohort: i superbi | source: code | basis: 32-36
+- cohort: uomini | source: code | basis: 31-31
 
 ## Scene 37-45: A Request for Direction
-- cohort: i superbi | source: code | basis: 37-39
+- cohort: i superbi | source: code | basis: 37-42
 
 ## Scene 46-57: Virgil's Guidance
-- cohort: i superbi | source: llm | basis: 53-53
+- cohort: i superbi | source: llm | basis: 49-53
 
 ## Scene 58-72: The Confession of Omberto
 - cohort: ' morti | source: code | basis: 72-72

@@ -20,7 +20,7 @@
 
 ## Scene 40-48: Dante's Invitation
 - who: Matelda | status: present | basis: 40-48
-- who: Dante | status: present | basis: 44-48
+- who: Dante | status: present | basis: 43-48
 
 ## Scene 49-51: A Mythological Comparison
 - who: Matelda | status: present | basis: 49-49
@@ -37,7 +37,7 @@
 ## Scene 61-66: The Radiance of her Eyes
 - who: Matelda | status: present | basis: 61-63
 - who: Dante | status: present | basis: 63-63
-- who: Venere | status: mentioned | basis: 65-65
+- who: Venere | status: mentioned | basis: 64-65
 - who: Cupidino | status: mentioned | basis: 66-66
 
 ## Scene 67-75: Her Joyful Presence
@@ -48,7 +48,7 @@
 - who: Leandro | status: mentioned | basis: 73-73
 
 ## Scene 76-84: The Lady's Greeting
-- who: Dante | status: present | basis: 76-84
+- who: Dante | status: present | basis: 76-82
 - who: Matelda | status: present | basis: 76-84
 
 ## Scene 85-87: Dante's Confusion
@@ -57,7 +57,7 @@
 ## Scene 88-96: The Divine Purpose of the Place
 - who: Matelda | status: present | basis: 88-88
 - who: Dante | status: present | basis: 89-90
-- who: Dio | status: mentioned | basis: 91-93
+- who: Dio | status: mentioned | basis: 91-92
 - who: Adamo | status: mentioned | basis: 92-96
 
 ## Scene 97-102: The Mountain's Ascent
@@ -70,7 +70,7 @@
 # (no person figure named in this scene)
 
 ## Scene 118-120: The Bounty of the Land
-- who: Dante | status: present | basis: 119-119
+- who: Dante | status: present | basis: 118-120
 
 ## Scene 121-126: The Two Springs
 - who: Dante | status: present | basis: 121-121
@@ -91,7 +91,7 @@
 - who: Adamo | status: mentioned | basis: 142-142
 
 ## Scene 145-148: Dante's Reflection
-- who: Dante | status: present | basis: 145-148
-- who: Virgilio | status: present | basis: 146-147
-- who: Stazio | status: present | basis: 146-147
+- who: Dante | status: present | basis: 145-145
+- who: Virgilio | status: present | basis: 146-146
+- who: Stazio | status: present | basis: 146-146
 - who: Matelda | status: present | basis: 148-148

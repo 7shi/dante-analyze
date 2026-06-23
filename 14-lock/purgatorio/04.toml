@@ -36,11 +36,12 @@ lines = "19-24"
 title = "The Simile of the Vineyard"
 location = "la calla"
 region = "piè del monte"
+cohort = ["schiera"]
 cast = [
   { who = "l'uom de la villa", status = "mentioned" },
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "schiera", status = "mentioned" },
+  { who = "schiera", status = "present" },
 ]
 refer = [
   { phrase = "la schiera", line = 24, resolves = "schiera" },

@@ -96,16 +96,16 @@ cohort = ["le genti glorïose"]
 cast = [
   { who = "Dio", status = "mentioned" },
   { who = "Beatrice", status = "mentioned" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Dante", status = "present" },
   { who = "le genti glorïose", status = "present" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "answers", obj = "Dante", lines = "58-58" },
+  { subj = "San Bernardo", predicate = "answers", obj = "Dante", lines = "58-58" },
   { subj = "Dante", predicate = "sees", obj = "Beatrice", lines = "59-59" },
 ]
 simile = [
-  { lines = "61-63", vehicle = "Bernardo" },
+  { lines = "61-63", vehicle = "San Bernardo" },
 ]
 basis = "55-63"
 
@@ -117,15 +117,15 @@ region = "qua sù"
 cast = [
   { who = "Beatrice", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
 ]
 speech = [
-  { quote_id = "31:65", lines = "65-69", speaker = "Bernardo", addressee = "Dante", source = "code" },
+  { quote_id = "31:65", lines = "65-69", speaker = "San Bernardo", addressee = "Dante", source = "code" },
 ]
 relations = [
-  { subj = "Dante", predicate = "asks", obj = "Bernardo", lines = "64-64" },
-  { subj = "Bernardo", predicate = "answers", obj = "Dante", lines = "65-65" },
-  { subj = "Bernardo", predicate = "guides", obj = "Dante", lines = "67-67" },
+  { subj = "Dante", predicate = "asks", obj = "San Bernardo", lines = "64-64" },
+  { subj = "San Bernardo", predicate = "answers", obj = "Dante", lines = "65-65" },
+  { subj = "San Bernardo", predicate = "guides", obj = "Dante", lines = "67-67" },
 ]
 basis = "64-69"
 
@@ -182,15 +182,15 @@ title = "Bernard's Instruction"
 location = "questo giardino"
 region = "qua sù"
 cast = [
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Maria", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "31:95", lines = "95-102", speaker = "Bernardo", addressee = "Dante", source = "code" },
+  { quote_id = "31:95", lines = "95-102", speaker = "San Bernardo", addressee = "Dante", source = "code" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "speaks-to", obj = "Dante", lines = "94-95" },
+  { subj = "San Bernardo", predicate = "speaks-to", obj = "Dante", lines = "94-95" },
 ]
 basis = "94-102"
 
@@ -200,17 +200,19 @@ title = "Dante's Internal Wonder"
 location = "questo giardino"
 region = "qua sù"
 cast = [
-  { who = "colui che forse di Croazia", status = "mentioned" },
-  { who = "Iesù Cristo", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
+]
+refer = [
+  { phrase = "Iesù Cristo", line = 106, resolves = "Cristo" },
 ]
 relations = [
-  { subj = "Dante", predicate = "sees", obj = "Bernardo", lines = "109-110" },
+  { subj = "Dante", predicate = "sees", obj = "San Bernardo", lines = "109-110" },
 ]
 simile = [
   { lines = "103-104", vehicle = "la Veronica" },
-  { lines = "106-108", vehicle = "Iesù Cristo" },
+  { lines = "106-108", vehicle = "Cristo" },
 ]
 basis = "103-111"
 
@@ -221,11 +223,11 @@ location = "questo giardino"
 region = "qua sù"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Maria", status = "mentioned" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "addresses", obj = "Dante", lines = "112-113" },
+  { subj = "San Bernardo", predicate = "addresses", obj = "Dante", lines = "112-113" },
 ]
 basis = "112-117"
 
@@ -263,10 +265,10 @@ title = "Bernard's Shared Devotion"
 location = "questo giardino"
 region = "qua sù"
 cast = [
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Maria", status = "present" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "sees", obj = "Maria", lines = "141-141" },
+  { subj = "San Bernardo", predicate = "sees", obj = "Maria", lines = "141-141" },
 ]
 basis = "139-142"

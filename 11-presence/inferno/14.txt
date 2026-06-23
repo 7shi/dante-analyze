@@ -11,7 +11,7 @@
 - who: Catone | status: mentioned | basis: 15-15
 
 ## Scene 16-21: The Multitude of Souls
-- who: anime nude | status: present | basis: 19-20
+- who: anime nude | status: present | basis: 19-21
 - who: Dante | status: present | basis: 18-19
 
 ## Scene 22-27: The Patterns of Suffering
@@ -26,20 +26,19 @@
 - who: Dante | status: present | basis: 43-43
 - who: Virgilio | status: present | basis: 43-43
 - who: demon duri | status: mentioned | basis: 44-45
-- who: quel grande | status: present | basis: 46-47
 
 ## Scene 49-60: Capaneus's Defiance
-- who: Capaneo | status: present | basis: 49-51
+- who: Capaneo | status: present | basis: 49-60
 - who: Dante | status: present | basis: 50-50
 - who: Virgilio | status: present | basis: 50-50
-- who: Giove | status: mentioned | basis: 52-60
+- who: Giove | status: mentioned | basis: 52-59
 - who: Vulcano | status: mentioned | basis: 52-57
 - who: Ciclopi | status: mentioned | basis: 55-55
 
 ## Scene 61-75: Virgil's Rebuke and Warning
-- who: Virgilio | status: present | basis: 61-75
-- who: Dante | status: present | basis: 62-75
-- who: Capaneo | status: present | basis: 63-66
+- who: Virgilio | status: present | basis: 61-61
+- who: Dante | status: present | basis: 62-62
+- who: Capaneo | status: present | basis: 63-63
 - who: Dio | status: mentioned | basis: 70-70
 
 ## Scene 76-84: The Red Stream
@@ -64,12 +63,12 @@
 - who: Dante | status: present | basis: 120-120
 
 ## Scene 121-129: The Geometry of Hell
-- who: Dante | status: present | basis: 121-129
-- who: Virgilio | status: present | basis: 121-129
+- who: Dante | status: present | basis: 121-124
+- who: Virgilio | status: present | basis: 121-124
 
 ## Scene 130-138: The Nature of the Rivers
-- who: Dante | status: present | basis: 130-130
-- who: Virgilio | status: present | basis: 133-134
+- who: Dante | status: present | basis: 130-132
+- who: Virgilio | status: present | basis: 130-138
 - who: anime | status: mentioned | basis: 137-137
 
 ## Scene 139-142: Leaving the Woods

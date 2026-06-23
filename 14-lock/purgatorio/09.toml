@@ -6,15 +6,15 @@ lines = "1-12"
 title = "The Celestial Setting"
 location = ""
 region = "la picciola vallea"
+cohort = ["La concubina"]
 cast = [
-  { who = "La concubina", status = "mentioned" },
+  { who = "La concubina", status = "present" },
   { who = "Titone", status = "mentioned" },
   { who = "gente", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Sordello", status = "present" },
-  { who = "Nin", status = "present" },
-  { who = "Currado", status = "present" },
+  { who = "Nin", status = "mentioned" },
   { who = "Adamo", status = "mentioned" },
 ]
 relations = [
@@ -94,7 +94,7 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Lucia", status = "mentioned" },
-  { who = "Virgilio, l'altre genti", status = "mentioned" },
+  { who = "l'altre genti", status = "mentioned" },
   { who = "Sordello", status = "mentioned" },
   { who = "Currado Malaspina", status = "mentioned" },
 ]
@@ -271,7 +271,7 @@ cast = [
   { who = "gente", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "9:123", lines = "123-129", speaker = "L'Angelo di Dio", addressee = "Dante", source = "llm" },
+  { quote_id = "9:123", lines = "123-129", speaker = "L'Angelo di Dio", addressee = "Virgilio", source = "llm" },
 ]
 refer = [
   { phrase = "la gente", line = 129, resolves = "gente" },

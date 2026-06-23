@@ -17,13 +17,13 @@
 # (no attributed speech in this scene)
 
 ## Scene 31-42: The Nature of Limbo
-- 4:31 lines 31-42 | speaker: Virgilio | addressee: Dante | source: llm | basis: 31-32
+- 4:31 lines 31-42 | speaker: Virgilio | addressee: Dante | source: llm | basis: 31-31
 
 ## Scene 43-50: Dante's Inquiry
 # (no attributed speech in this scene)
 
 ## Scene 51-63: The Descent of the Patriarchs
-- 4:52 lines 52-63 | speaker: Virgilio | addressee: Dante | source: llm | basis: 62-62
+- 4:52 lines 52-63 | speaker: Virgilio | addressee: Dante | source: llm | basis: 52-52
 
 ## Scene 64-66: Through the Dense Forest
 # (no attributed speech in this scene)

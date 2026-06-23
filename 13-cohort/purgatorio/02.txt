@@ -25,7 +25,7 @@
 - cohort: anime | source: code | basis: 67-75
 
 ## Scene 76-84: The Physical Embrace
-- cohort: l'ombra | source: code | basis: 76-84
+- cohort: ombre vane | source: llm | basis: 79-79
 
 ## Scene 85-90: Recognition of Casella
 # (no soul-class present in this scene)
@@ -37,7 +37,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 115-123: The Pilot's Interruption
-- cohort: quella gente | source: code | basis: 115-118
+# (no soul-class present in this scene)
 
 ## Scene 124-133: The Dispersal of the Souls
-- cohort: quella masnada fresca | source: code | basis: 130-131
+# (no soul-class present in this scene)

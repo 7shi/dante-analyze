@@ -37,7 +37,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 103-108: The Voice of Angelic Love
-- 23:103 lines 103-108 | speaker: amore angelico | addressee: (none) | source: none | basis: 103-108
+- 23:103 lines 103-108 | speaker: amore angelico | addressee: Maria | source: code | basis: 103-108
 
 ## Scene 109-111: The Chorus of Mary
 # (no attributed speech in this scene)

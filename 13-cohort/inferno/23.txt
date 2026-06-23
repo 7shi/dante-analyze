@@ -4,7 +4,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 13-24: Dante's Dread of the Demons
-# (no soul-class present in this scene)
+- cohort: Malebranche | source: code | basis: 23-24
 
 ## Scene 25-33: Virgil's Strategic Plan
 # (no soul-class present in this scene)
@@ -13,19 +13,19 @@
 - cohort: Malebranche | source: code | basis: 35-36
 
 ## Scene 52-57: Reaching the Fifth Bolgia
-- cohort: Malebranche | source: code | basis: 52-53
+- cohort: Malebranche | source: code | basis: 53-53
 
 ## Scene 58-66: The Appearance of the Hypocrites
-- cohort: una gente dipinta | source: llm | basis: 58-66
+- cohort: una gente dipinta | source: code | basis: 58-60
 
 ## Scene 67-72: The Burden of the Cloaks
-- cohort: quella gente stanca | source: code | basis: 69-72
+# (no soul-class present in this scene)
 
 ## Scene 73-75: Dante's Request to Virgil
 # (no soul-class present in this scene)
 
 ## Scene 76-79: The Voice from Behind
-- cohort: un che 'ntese la parola tosca | source: code | basis: 76-77
+- cohort: un che 'ntese la parola tosca | source: code | basis: 76-79
 
 ## Scene 80-81: Virgil's Command
 # (no soul-class present in this scene)
@@ -61,7 +61,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 139-141: The Error of the Demon
-- cohort: un peccator | source: code | basis: 141-141
+# (no soul-class present in this scene)
 
 ## Scene 142-144: The Lie of the Devil
 # (no soul-class present in this scene)

@@ -1,97 +1,97 @@
 # Canto 22 — The Chaos and Combat of the Malebranche
 
 ## Scene 1-12: The Knightly Vision
-en: At the *ripa sesta*, *Dante* recalls the diverse signals he once saw the *Aretini* use during military mobilizations, including those of the *gualdane* and the *pedoni*.
-ja: 第六の岸において、DanteはかつてAretiniが軍事動員に際して用いた多様な合図を思い起こす。そこにはgualdaneやpedoniによるものも含まれていた。
+en: At *ripa sesta*, *Dante* recalls the varied signals used by the *Aretini*, including the *gualdane* and the *pedoni*, noting that he had never seen such a diverse array of summons.
+ja: 第六の岸にて、Danteはgualdaneやpedoniを含むAretiniの多様な合図を思い起こし、これほどまでに多彩な召喚の形式を見たことはなかったと記している。
 
 ## Scene 13-18: Dante’s Observation
-en: *Dante* and *Virgilio* walk with *li diece demoni* at the *ripa sesta*; though *Dante* considers he would rather be in the company of the mentioned *santi* or *ghiottoni*, he keeps his attention on the *gente*.
-ja: DanteとVirgilioは第六の岸をli diece demoniと共に歩いていた。Danteはむしろ、先述のsantiやghiottoniと共にありたいと考えたが、その意識はなおもgenteに向けられていた。
+en: Walking through *ripa sesta* with *li diece demoni*, *Dante* wishes he were instead in the company of the *santi* or the *ghiottoni*. He keeps his gaze fixed on the ledge to observe the bolgia and the suffering of the *gente*.
+ja: *li diece demoni*と共に第六の堤防を歩きながら、*Dante*はむしろ*santi*や*ghiottoni*と共にいたいと願っていた。彼は、溝と*gente*の苦しみを見つめるため、その縁から目を離さなかった。
 
 ## Scene 19-30: Sinners Hiding Like Frogs
-en: At the *ripa sesta*, *i peccatori* occasionally surface like dolphins—who signal to *a' marinar*—or like frogs, but they dive back under the boiling pitch whenever *Barbariccia* approaches.
-ja: ripa sestaでは、i peccatoriが時折、a' marinarに合図を送る海豚や、あるいは蛙のように水面に姿を現すが、Barbaricciaが近づくと、彼らはまたしても煮えたぎる瀝青の下へと潜り込んでいく。
+en: In *ripa sesta*, *i peccatori* surface briefly like frogs or like dolphins signaling *a' marinar*, but they dive back into the boiling pitch the moment *Barbariccia* draws near.
+ja: ripa sestaでは、i peccatoriたちが蛙のごとく、あるいはa' marinarに合図を送る海豚のごとく短く浮上するが、Barbaricciaが近づいた途端、彼らは煮えたぎるピッチの中へと潜り戻る。
 
 ## Scene 31-36: Graffiacan’s Agitation
-en: At the *ripa sesta*, *Dante* watches a *barrattore* wait in the pitch like a frog until *Graffiacan* seizes the sinner's matted hair and pulls him up like an otter.
-ja: 第六の岸にて、Danteはあるbarrattoreが蛙のようにピッチの中で待っているのを眺めていた。するとGraffiacanがその罪人のもつれた髪をひっ掴み、カワウソのように彼を引きずり上げた。
+en: In *ripa sesta*, *Dante* observes a *barrattore* waiting in the pitch until *Graffiacan* seizes the hair of the *barrattore* and hauls him up like an otter.
+ja: 第六の岸にて、Danteはあるbarrattoreがピッチの中で待機しているのを眺めていたが、やがてGraffiacanがそのbarrattoreの髪を掴み、まるでカワウソのように彼を引きずり上げた。
 
 ## Scene 37-39: Dante’s Meta-Commentary
-en: At the *ripa sesta*, *Dante* notes that he knows the names of the *Malebranche*, having observed their selection and listened to how they were called.
-ja: 第六の岸にて、DanteはMalebrancheたちの名を知っていると述べた。彼らが選出される様子を観察し、その呼び名に耳を傾けていたからである。
+en: In *ripa sesta*, *Dante* explains that he already knew the names of the *Malebranche*, having noted them when they were chosen and listened to how they were called.
+ja: 第六の岸にて、DanteはMalebrancheたちの名をすでに知っていたと語る。彼らが選ばれた際にその様子を注視し、いかに呼ばれたかに耳を傾けていたからである。
 
 ## Scene 40-45: The Demand for Hooks
-en: At the *ripa sesta*, *i maladetti* shout for *Rubicante* to claw and skin *lo sciagurato*, while *Dante* asks *Virgilio* to discover the identity of the soul who has fallen into the hands of *li avversari suoi*.
-ja: 第六の岸では、i maladettiがRubicanteにlo sciaguratoの皮を剥ぎ爪で引き裂くよう叫んでおり、一方でDanteは、li avversari suoiの手に落ちたその魂の正体を突き止めるようVirgilioに求めた。
+en: At *ripa sesta*, *i maladetti* urge *Rubicante pazzo* to claw and skin *lo sciagurato*. *Dante* then asks *Virgilio* to identify *lo sciagurato*, who has fallen into the hands of *li avversari suoi*.
+ja: 第六の岸にて、i maladettiはRubicante pazzoに、lo sciaguratoを掻きむしり皮を剥ぐよう促す。Danteは、li avversari suoiの手中に落ちたlo sciaguratoが何者であるかをVirgilioに問いかけた。
 
 ## Scene 46-54: The Navarrese’s Origin
-en: At the *ripa sesta*, *Virgilio* asks *il Navarrese* of his origins, and *il Navarrese* speaks of how *la madre* placed him in the service of *un segnor* because of *un ribaldo*. He further recounts his time serving *re Tebaldo*, where he committed the barratry that now condemns him to the heat.
-ja: ripa sestaにて、Virgilioがil Navarreseにその出自を尋ねると、il Navarreseはun ribaldoのゆえにla madreが自分をun segnorの奉仕につかせた経緯を語った。さらに彼はre Tebaldoに仕えていた頃のことを回想し、今や自分をこの熱き地へと突き落としたあの汚職を犯したことを明かした。
+en: At *ripa sesta*, *Virgilio* asks *il Navarrese* about his identity, and *il Navarrese* explains that *la madre* placed him in the service of *un segnor* because he was fathered by *un ribaldo*. He further recounts how he later served *re Tebaldo*, where he committed the corruption for which he now suffers.
+ja: 第六の岸でVirgilioがil Navarreseにその正体を問うと、il Navarreseは、自分がun ribaldoの子であったためにla madreによってun segnorに仕えさせられたのだと語った。さらに彼は、その後re Tebaldoに仕えた際に、現在の苦しみの原因となる汚職に手を染めたことを明かした。
 
 ## Scene 55-57: Cirïatto’s Snorting
-en: At the *ripa sesta*, *Cirïatto*, whose mouth is filled with pig-like tusks, makes *il Navarrese* feel the scrape of one of them.
-ja: 第六の岸にて、口いっぱいに豚のような牙を並べた Cirïatto が、その牙の一本を il Navarrese に擦りつけた。
+en: At *ripa sesta*, *Cirïatto sannuto*, who has tusks like a pig, lets *il Navarrese* feel one of them scraping against him.
+ja: ripa sestaにて、豚のような牙を持つCirïatto sannutoが、その牙の一本をil Navarreseの体に擦りつけた。
 
 ## Scene 58-63: Barbariccia’s Command
-en: At the *ripa sesta*, *Barbariccia* blocks *Cirïatto* and orders the *Malebranche* to stand back while he torments *il Navarrese*. He then tells *Virgilio* to ask any further questions of *il Navarrese* before the others tear him apart.
-ja: 第六の岸にて、BarbaricciaはCirïattoを阻み、自らがil Navarreseを苛む間、Malebrancheたちに下がるよう命じた。そして、他の者が彼を引き裂く前に、il Navarreseにさらに問いたいことがあれば聞いておくようにとVirgilioに告げた。
+en: At *ripa sesta*, *Barbariccia* blocks *Cirïatto* and orders the *Malebranche* to stay back while he hangs *il Navarrese*. He then tells *Virgilio* to ask any further questions of *il Navarrese* before the others tear him apart.
+ja: ripa sestaにて、BarbaricciaはCirïattoを遮り、il Navarreseを吊るし上げる間は控えていろとMalebrancheに命じた。そして、他の者たちが彼を切り裂く前に、Virgilioにil Navarreseへさらに問い質すよう告げた。
 
 ## Scene 64-69: Searching for Italians
-en: At the *ripa sesta*, *Virgilio* asks *il Navarrese* if he knows any *Latino* submerged in the pitch. *il Navarrese* replies that he was recently near one and wishes he were still covered to avoid the claws.
-ja: ripa sestaにて、Virgilioは瀝青に沈んでいるLatinoを知っているかとil Navarreseに問いかけた。il Navarreseは、つい最近まである一人の傍らにいたが、爪を避けられるよう、彼がまだ瀝青に覆われていればよかったのにと答えた。
+en: At `*ripa sesta*`, `*Virgilio*` asks `*il Navarrese*` if he knows anyone who is `*Latino*`. `*il Navarrese*` replies that he was recently near one such soul and wishes he were still submerged with him to escape the demons' claws.
+ja: `ripa sesta`において、`Virgilio`は`il Navarrese`に`Latino`である者を知らないかと問いかけた。すると`il Navarrese`は、つい先ほどそのような魂の傍らにいたこと、そして悪魔の爪を逃れるためなら、今も彼と共に沈んでいたかっただろうと答えた。
 
 ## Scene 70-75: The Chaos of the Hooks
-en: At the *ripa sesta*, *Libicocco* declares that the *Malebranche* have suffered enough and rips a piece of flesh from the arm of *il Navarrese*. As *Draghignazzo* attempts to seize *il Navarrese* by the legs, *Barbariccia* turns toward them in anger.
-ja: ripa sestaにて、LibicoccoはMalebrancheはもう十分に耐えたと宣言し、il Navarreseの腕から肉の一片をむしり取った。Draghignazzoがil Navarreseの脚を掴もうとしたところ、Barbaricciaが怒りに任せて彼らの方を振り返った。
+en: At *ripa sesta*, *Libicocco* declares that the *Malebranche* have waited too long and rips a piece of flesh from the arm of *il Navarrese*. *Draghignazzo* attempts to seize *il Navarrese* by the legs, causing *Barbariccia* to turn around in anger.
+ja: ripa sestaにて、LibicoccoはMalebrancheは待ちすぎたと宣言し、il Navarreseの腕から肉の一片をむしり取った。Draghignazzoがil Navarreseの脚を掴もうとしたため、Barbaricciaは怒りに任せて振り返った。
 
 ## Scene 76-80: Virgil’s Inquiry
-en: At the *ripa sesta*, once the *Malebranche* have momentarily calmed down, *Virgilio* asks *il Navarrese* to identify *la persona con cui il Navarrese fece mala partita*, the individual with whom he had the conflict that led him to this shore.
-ja: 第六の岸にて、Malebrancheたちが一時的に静まりかえったところ、Virgilioはil Navarreseに対し、彼をこの岸へと導いた争いの相手であるla persona con cui il Navarrese fece mala partitaが誰であるかを問いかけた。
+en: At *ripa sesta*, once the *Malebranche* had calmed down, *Virgilio* asks *il Navarrese* to name *la persona con cui il Navarrese fece mala partita*, the person spoken of whose betrayal led him to this place.
+ja: ripa sestaにて、Malebrancheたちが静まったところで、Virgilioはil Navarreseに、彼をこの地へと至らせた裏切り者、すなわち la persona con cui il Navarrese fece mala partita の名を明かすよう求めた。
 
 ## Scene 81-90: The Denunciation of Gomita
-en: At the *ripa sesta*, *il Navarrese* speaks of *Frate Gomita*, a fraudulent man who took bribes from the *nemici* of his *donno* to set them free. He describes *Frate Gomita* as a supreme barrator who collaborated in incessant scheming with *Michel Zanche*.
-ja: ripa sestaにて、il NavarreseはFrate Gomitaについて語る。自らのdonnoのnemiciから賄賂を受け取り彼らを釈放させたその詐欺的な男を、彼はMichel Zancheと共に絶えず陰謀を企てた稀代の汚職者であると評している。
+en: At *ripa sesta*, *il Navarrese* names *Frate Gomita* as the person who betrayed him, describing how *Frate Gomita* took money from the *nemici* of his *donno* to release them. He further speaks of the great corruption of *Frate Gomita* and his association with *Michel Zanche*.
+ja: ripa sestaにて、il Navarreseは自分を裏切ったのはFrate Gomitaであると名指しし、彼がdonnoのnemiciから金を受け取って彼らを解放した経緯を語った。さらに、Frate Gomitaのひどい腐敗と、Michel Zancheとの結びつきについても語った。
 
 ## Scene 91-93: The Threatening Gaze
-en: At the *ripa sesta*, *il Navarrese* warns *Dante* and *Virgilio* that one of the *Malebranche* is grimacing, and he fears to continue speaking lest the demon scratch his scalp.
-ja: 第六の岸辺にて、il NavarreseはMalebrancheの一人が不気味に顔をしかめているとDanteとVirgilioに警告し、悪魔に頭皮を掻きむしられることを恐れて、それ以上語るのをためらった。
+en: At *ripa sesta*, *il Navarrese* alerts *Dante* and *Virgilio* to one of the *Malebranche* who is grimacing, fearing that the demon is preparing to scratch his scalp.
+ja: ripa sestaにて、il NavarreseはDanteとVirgilioに、あるMalebrancheが顔を歪めていることを知らせた。その悪魔が自分の頭皮をひっかこうとしているのではないかと、彼は恐れていた。
 
 ## Scene 94-96: Addressing Farfarello
-en: At the *ripa sesta*, *Barbariccia* turns to *Farfarello*, who is glaring with rage, and commands the "evil bird" to stand aside.
-ja: ripa sestaにて、Barbaricciaは怒りに満ちて睨みつけるFarfarelloに向き直ると、その「邪悪な鳥」に脇へ退くよう命じた。
+en: At *ripa sesta*, *Barbariccia* turns to *Farfarello*, who is glaring with rage, and commands the "evil bird" to step aside.
+ja: 第六の岸にて、Barbaricciaは怒りに燃えて睨みつけるFarfarelloに向き直り、その「邪悪な鳥」に脇へ退くよう命じた。
 
 ## Scene 97-105: The Prisoner’s Bargain
-en: At the *ripa sesta*, *lo spaürato* offers *Dante* and *Virgilio* to summon *Toschi o Lombardi* to surface, provided the *Malebranche* are kept at a distance to prevent revenge. He explains that he will use a customary signal whenever *alcun* emerges.
-ja: 第六の岸において、lo spaüratoはDanteとVirgilioに、Malebrancheによる復讐を防ぐため彼らを遠ざけておいてくれるなら、Toschi o Lombardiを水面に呼び出すと申し出た。そして、alcunが浮上するたびに、いつもの合図を送ることを説明した。
+en: At *ripa sesta*, *lo spaürato* offers to summon *Toschi o Lombardi* for *Dante* and *Virgilio*, provided the *Malebranche* stay back so those mentioned do not fear revenge. He explains that he can call up seven of them using a signal customary when *alcun* surfaces.
+ja: 第六の岸にて、lo spaüratoは、Malebrancheが身を引いて彼らが報復を恐れずに済むのであれば、DanteとVirgilioのためにToschi o Lombardiを呼び出すと申し出た。彼は、alcunが浮上する際に用いられる慣習的な合図を使えば、彼らのうち七人を呼び寄せられると説明した。
 
 ## Scene 106-111: Cagnazzo’s Rebuttal
-en: At the *ripa sesta*, *Cagnazzo* warns the *Malebranche* that *il Navarrese* has devised a ruse to escape back into the pitch. In response, *il Navarrese* admits he is very cunning when attempting to secure his own safety.
-ja: ripa sestaにおいて、Cagnazzoはil Navarreseが樹脂の中へ逃げ戻るための策を練ったことをMalebrancheに警告した。それに対しil Navarreseは、己の身の安全を確保しようとする際には、自分は至って狡猾な人間であると認めた。
+en: At *ripa sesta*, *Cagnazzo* warns the *Malebranche* that *il Navarrese* is merely using a ruse to dive back into the pitch. *il Navarrese* admits to being cunning, arguing that such trickery is necessary for his own safety.
+ja: 第六の岸辺にて、Cagnazzoは、il Navarreseが再び瀝青の中へ飛び込むための策を弄しているに過ぎないとMalebrancheに警告した。il Navarreseは自らの狡猾さを認めたが、身の安全を確保するにはそのような策略が必要なのだと主張した。
 
 ## Scene 112-117: Alichin’s Challenge
-en: At *la ripa*, *Alichin* taunts *il Navarrese*, stating that if he dives back into the pitch, *Alichin* will not pursue him but will instead hover over the surface. He challenges *il Navarrese* to leave his neck exposed to see if he is more capable than the *Malebranche*.
-ja: la ripa において、Alichin は il Navarrese を嘲笑い、もし再び泥沼に飛び込むというなら追いかけはせず、ただ水面上に留まって見ていようと言い放った。さらに、Malebranche よりも己が優れているか試すべく、うなじを晒してみろと彼に挑んだ。
+en: At *la ripa* in *ripa sesta*, *Alichin* interrupts the other *Malebranche* to challenge *il Navarrese* to dive back into the pitch, daring him to leave his neck exposed to see if he is more valiant than the *Malebranche*.
+ja: la ripa in ripa sestaにおいて、Alichinは他のMalebrancheたちの言葉を遮り、il Navarreseに再び煮えたぎる泥へと飛び込むよう挑みかかった。首をさらけ出す度胸があるか、自分たちMalebrancheよりも勇敢であるかを試そうとしたのである。
 
 ## Scene 118-120: The Moment of Tension
-en: Addressing *tu che leggi*, the narrator announces a new diversion at *la ripa* as the *Malebranche* turn their eyes away, with the cruelest among them being the first to do so.
-ja: 語り手は tu che leggi に語りかけ、岸辺での新たな見世物を告げる。Malebranche たちが視線をそらすなか、なかでも最も残酷な者が真っ先にそうした。
+en: At *la ripa*, the narrator addresses *tu che leggi* regarding a new diversion as the *Malebranche* all turn their eyes away, starting with the cruelest of the *Malebranche*.
+ja: 岸辺にて、最も残酷な Malebranche を皮切りに、Malebranche たちが皆目を逸らすなか、語り手は新たな気晴らしについて tu che leggi に語りかける。
 
 ## Scene 121-126: The Sudden Leap
-en: At *la ripa*, *il Navarrese* seizes the moment, plants his feet, and leaps away to escape the *Malebranche*. While all the demons feel the failure, *quei più che cagion fu del difetto* moves forward and shouts to *il Navarrese* that he has arrived.
-ja: la ripaにおいて、il Navarreseは好機を捉えて足を踏ん張ると、Malebrancheから逃れるべく跳躍した。悪魔たちが一様に失敗を悟るなか、quei più che cagion fu del difettoが前に出、il Navarreseに向かって辿り着いたぞと叫んだ。
+en: At *la ripa* in *ripa sesta*, *il Navarrese* seizes the perfect moment to plant his feet and leap back into the pitch, freeing himself from the *Malebranche*. The *Malebranche* are stung by their error, and the one most to blame shouts a final word to *il Navarrese*.
+ja: 第六の溝の岸辺にて、il Navarreseは絶好の機を捉えて足を踏ん張り、再び瀝青の中へと跳び戻ることでMalebrancheから逃れた。自らの失策に苛立ったMalebrancheの中で、最も責任ある者がil Navarreseに向けて最後の一言を怒鳴りつけた。
 
 ## Scene 127-132: The Struggle in the Pitch
-en: At *la ripa*, the shout of *il più crudele* was in vain, and despite the mentioned *Malebranche*, *il Navarrese* dove into the pitch like a duck escaping a falcon. Consequently, *il più crudele* was left to return to the surface in frustration.
-ja: 岸辺にて、il più crudeleの叫びは虚しく、前述のMalebrancheがいたにもかかわらず、il Navarreseは隼から逃れる鴨のように瀝青の中へと飛び込んだ。その結果、il più crudeleはもどかしさを抱いたまま、表面へと戻るしかなかった。
+en: At *la ripa* in *ripa sesta*, the warning of *il più crudele* is too late to stop *il Navarrese*, who dives into the pitch like a duck escaping a falcon. The *Malebranche* are unable to intercept him, leaving *il più crudele* frustrated and empty-handed.
+ja: la ripa in ripa sestaにおいて、il più crudeleの警告はil Navarreseを止めるには遅すぎた。隼から逃れる鴨のように彼がピッチの中へ飛び込むと、Malebrancheたちはそれを遮ることができず、il più crudeleは苛立ちとともに手ぶらで取り残された。
 
 ## Scene 133-138: Calcabrina’s Entanglement
-en: At *la ripa*, *Calcabrina* flew after *l barattier*, hoping the struggle would continue, but once *l barattier* vanished, *Calcabrina* turned his claws on *suo compagno* and the two were locked in combat above the ditch.
-ja: la ripaにて、Calcabrinaは争いが続くことを願いl barattierを追ったが、l barattierが姿を消すと、その爪をsuo compagnoへと向け、二人は溝の上空で激しく組み合った。
+en: At *la ripa* in *ripa sesta*, *Calcabrina* flies after *l barattier*, but once *l barattier* vanishes, he turns his claws upon *suo compagno* and the two grapple together above the ditch.
+ja: 第六の岸の岸辺で、Calcabrinaはl barattierを追って飛ぶが、l barattierが姿を消すと、彼はsuo compagnoに爪を向け、二人は溝の上でもつれ合った。
 
 ## Scene 139-144: Trapped in the Boiling Bog
-en: At *la ripa*, *L'altro* retaliates by clawing *Calcabrina*, and both plummet into the boiling pitch. *Lo caldo sghermitor* is unable to lift himself out because the sticky pitch has fouled his wings.
-ja: la ripaにて、L'altroはCalcabrinaを爪でひっかいてやり返し、二人はともに煮え滾るピッチの中へと真っ逆さまに落ちた。粘りつくピッチが翼に絡みついたため、Lo caldo sghermitorは自力で這い上がることができなかった。
+en: At *la ripa*, *L'altro* claws *Calcabrina* and both fall into the boiling pitch; once submerged, *Lo caldo sghermitor* is unable to rise because his wings have become stuck.
+ja: la ripaにおいて、L'altroがCalcabrinaに爪を立て、二人はともに煮えたぎるピッチの中へと転落した。ひとたび沈み込むと、Lo caldo sghermitorは翼が張り付いてしまい、もはや浮かび上がることができなかった。
 
 ## Scene 145-151: The Retreat of the Demons
-en: At *la ripa*, *Barbariccia* directs four of the *Malebranche* to attack *li 'mpaniati* on the opposite side, while *Dante* and *Virgilio* depart, leaving *Calcabrina* and another of the *Malebranche* trapped in the pitch.
-ja: 岸辺にて、Barbaricciaが4人のMalebrancheに命じて対岸のli 'mpaniatiを攻撃させる一方、DanteとVirgilioは、Calcabrinaともう一人のMalebrancheを瀝青の中に囚われたままにしてその場を後にした。
+en: At *la ripa*, *Barbariccia* sends four of the *Malebranche* to the opposite side to attack *li 'mpaniati* who have become stuck in the crust. *Dante* and *Virgilio* then depart, leaving behind the trapped demons, including the mentioned *Calcabrina*.
+ja: 岸辺にて、BarbaricciaはMalebrancheの4人を対岸へ遣わし、地殻に囚われたli 'mpaniatiを襲わせた。その後、DanteとVirgilioは、先述のCalcabrinaら、身動きが取れなくなった悪魔たちを後にして立ち去った。

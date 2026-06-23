@@ -31,7 +31,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 94-99: Dante's Wonder
-- 1:97 lines 97-99 | speaker: Dante | addressee: questi corpi levi | source: code | basis: 97-99
+- 1:97 lines 97-99 | speaker: Dante | addressee: (none) | source: none | basis: 97-99
 
 ## Scene 100-108: The Doctrine of Order
 - 1:103 lines 103-141 | speaker: Beatrice | addressee: Dante | source: code | basis: 103-141

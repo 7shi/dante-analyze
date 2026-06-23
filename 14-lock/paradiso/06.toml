@@ -40,8 +40,6 @@ region = "etterne rote"
 cast = [
   { who = "Giustino", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "chi 'l s'appropria", status = "mentioned" },
-  { who = "chi a lui s'oppone", status = "mentioned" },
 ]
 relations = [
   { subj = "Giustino", predicate = "answers", obj = "Dante", lines = "28-29" },
@@ -168,12 +166,9 @@ location = ""
 region = "etterne rote"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei cotali", status = "mentioned" },
   { who = "Giustiniano", status = "mentioned" },
   { who = "Guelfi", status = "mentioned" },
   { who = "li Ghibellin", status = "mentioned" },
-  { who = "chi più si falli", status = "mentioned" },
-  { who = "chi la giustizia e lui diparte", status = "mentioned" },
   { who = "Carlo novello", status = "mentioned" },
   { who = "li figli", status = "mentioned" },
   { who = "il Padre", status = "mentioned" },
@@ -216,6 +211,6 @@ location = ""
 region = "etterne rote"
 cast = [
   { who = "Giustiniano", status = "mentioned" },
-  { who = "Romeo", status = "present" },
+  { who = "Romeo", status = "mentioned" },
 ]
 basis = "136-142"

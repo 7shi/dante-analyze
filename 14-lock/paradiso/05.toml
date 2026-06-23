@@ -139,9 +139,8 @@ lines = "73-84"
 title = "Exhortation to Christians"
 location = ""
 region = "etterne rote"
-cohort = ["Cristiani"]
 cast = [
-  { who = "Cristiani", status = "present" },
+  { who = "Cristiani", status = "mentioned" },
   { who = "'l pastor de la Chiesa", status = "mentioned" },
   { who = "'l Giudeo", status = "mentioned" },
   { who = "Agnel", status = "mentioned" },

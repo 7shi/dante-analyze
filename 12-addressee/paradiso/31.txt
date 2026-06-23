@@ -19,7 +19,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 64-69: The Location of Beatrice
-- 31:65 lines 65-69 | speaker: Bernardo | addressee: Dante | source: code | basis: 65-69
+- 31:65 lines 65-69 | speaker: San Bernardo | addressee: Dante | source: code | basis: 65-69
 
 ## Scene 70-78: A Distant Glimpse of Beatrice
 # (no attributed speech in this scene)
@@ -31,7 +31,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 94-102: Bernard's Instruction
-- 31:95 lines 95-102 | speaker: Bernardo | addressee: Dante | source: code | basis: 95-102
+- 31:95 lines 95-102 | speaker: San Bernardo | addressee: Dante | source: code | basis: 95-102
 
 ## Scene 103-111: Dante's Internal Wonder
 # (no attributed speech in this scene)

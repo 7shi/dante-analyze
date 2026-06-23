@@ -86,12 +86,11 @@ lines = "34-42"
 title = "The Origin of the Uncommitted"
 location = "porta"
 region = "cammino alto e silvestro"
-cohort = ["l'anime triste di coloro che visser sanza 'nfamia e sanza lodo", "quel cattivo coro de li angeli"]
+cohort = ["l'anime triste di coloro che visser sanza 'nfamia e sanza lodo"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "l'anime triste di coloro che visser sanza 'nfamia e sanza lodo", status = "present" },
-  { who = "quel cattivo coro de li angeli", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "rei", status = "mentioned" },
 ]
@@ -167,10 +166,7 @@ lines = "64-69"
 title = "The Torment of the Souls"
 location = "porta"
 region = "cammino alto e silvestro"
-cohort = ["Questi sciaurati"]
-cast = [
-  { who = "Questi sciaurati", status = "present" },
-]
+cast = []
 basis = "64-69"
 
 [[scene]]

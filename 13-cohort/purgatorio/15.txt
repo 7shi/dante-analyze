@@ -10,7 +10,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 25-33: The Angel's Reassurance
-- cohort: messo | source: code | basis: 25-30
+- cohort: messo | source: code | basis: 30-30
 
 ## Scene 34-39: Arrival at the Stairway
 # (no soul-class present in this scene)
@@ -34,10 +34,10 @@
 - cohort: persone | source: code | basis: 87-87
 
 ## Scene 94-101: The Vision of the Trojan Widow
-- cohort: un'altra | source: code | basis: 94-97
+- cohort: un'altra | source: code | basis: 94-101
 
 ## Scene 102-105: The Lord's Gentle Response
-# (no soul-class present in this scene)
+- cohort: i Troiani | source: code | basis: 104-105
 
 ## Scene 106-114: The Vision of the Martyr
 - cohort: un giovinetto | source: llm | basis: 107-114

@@ -5,13 +5,12 @@
 - who: Dante | status: present | basis: 9-9
 
 ## Scene 10-18: The Emergence of Eternal Love
-- who: Beatrice | status: present | basis: 10-11
+- who: Beatrice | status: present | basis: 10-10
 - who: Dante | status: present | basis: 11-11
 - who: Dio | status: mentioned | basis: 13-18
 
 ## Scene 19-30: The Trinity and the Radiance of Being
-- who: Dio | status: mentioned | basis: 21-21
-- who: suo sire | status: mentioned | basis: 28-28
+- who: Dio | status: mentioned | basis: 21-28
 
 ## Scene 31-36: The Structure of Substance
 - who: Dio | status: mentioned | basis: 33-33
@@ -22,10 +21,10 @@
 - who: li scrittor | status: mentioned | basis: 41-41
 - who: lo Spirito Santo | status: mentioned | basis: 41-41
 - who: Dante | status: present | basis: 42-42
-- who: motori | status: mentioned | basis: 44-45
+- who: motori | status: mentioned | basis: 44-44
 
 ## Scene 46-51: The Introduction of the Angelic Orders
-- who: Dante | status: present | basis: 46-49
+- who: Dante | status: present | basis: 46-51
 - who: li angeli | status: mentioned | basis: 50-50
 
 ## Scene 52-66: The Fallen and the Meritorious
@@ -39,13 +38,12 @@
 ## Scene 67-84: The Clarity of Angelic Vision
 - who: Dante | status: present | basis: 68-73
 - who: l'angelica natura | status: present | basis: 67-76
-- who: Beatrice | status: present | basis: 68-84
+- who: Beatrice | status: present | basis: 69-73
 - who: Dio | status: mentioned | basis: 77-78
 
 ## Scene 85-96: The Invention of False Doctrines
 - who: filosofi | status: mentioned | basis: 86-86
 - who: Dio | status: mentioned | basis: 90-90
-- who: chi umilmente | status: mentioned | basis: 93-93
 - who: predicanti | status: mentioned | basis: 96-96
 
 ## Scene 97-108: The Deception of False Miracles
@@ -64,11 +62,11 @@
 - who: altri assai | status: mentioned | basis: 125-125
 
 ## Scene 127-135: The Numerical Mystery of Angels
-- who: Beatrice | status: present | basis: 127-127
-- who: Dante | status: present | basis: 127-127
+- who: Beatrice | status: present | basis: 127-135
+- who: Dante | status: present | basis: 127-133
 - who: Danïel | status: mentioned | basis: 134-134
 
 ## Scene 136-145: The Dispersion of Divine Light
-- who: angeli | status: mentioned | basis: 144-144
+- who: angeli | status: mentioned | basis: 138-144
 - who: Dante | status: present | basis: 142-142
 - who: l'eccelso | status: mentioned | basis: 142-142

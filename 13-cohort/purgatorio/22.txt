@@ -25,10 +25,11 @@
 # (no soul-class present in this scene)
 
 ## Scene 100-114: The Inhabitants of Limbo
-# (no soul-class present in this scene)
+- cohort: other poets of Limbo | source: llm | basis: 100-108
+- cohort: le suore di Deïdamia | source: llm | basis: 114-114
 
 ## Scene 115-126: Realigning the Ascent
-- cohort: le quattro ancelle | source: code | basis: 118-118
+- cohort: le quattro ancelle | source: code | basis: 118-119
 
 ## Scene 127-129: Dante’s Observation
 # (no soul-class present in this scene)

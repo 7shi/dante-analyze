@@ -3,26 +3,25 @@
 ## Scene 1-9: The Departure and Ascent
 - who: un angel | status: present | basis: 1-6
 - who: Dante | status: present | basis: 1-9
-- who: Virgilio | status: present | basis: 1-2
-- who: Stazio | status: present | basis: 1-2
+- who: Virgilio | status: present | basis: 1-5
+- who: Stazio | status: mentioned | basis: 9-9
 - who: li spiriti veloci | status: present | basis: 9-9
 
 ## Scene 10-24: Virgil’s Inquiry
 - who: Virgilio | status: present | basis: 10-10
-- who: gli abitanti del limbo | status: mentioned | basis: 13-13
+- who: gli abitanti del limbo | status: mentioned | basis: 13-14
 - who: Giovenale | status: mentioned | basis: 14-14
-- who: Stazio | status: present | basis: 15-24
+- who: Stazio | status: present | basis: 10-10
 
 ## Scene 25-36: Statius’s Defense
 - who: Stazio | status: present | basis: 25-36
-- who: Virgilio | status: present | basis: 25-36
+- who: Virgilio | status: mentioned | basis: 36-36
 - who: migliaia di lunari | status: mentioned | basis: 36-36
 
 ## Scene 37-54: The Sin of Lukewarmness
 - who: Stazio | status: present | basis: 37-54
-- who: Virgilio | status: present | basis: 38-38
+- who: Virgilio | status: present | basis: 37-54
 - who: mortali | status: mentioned | basis: 41-41
-- who: quella gente | status: mentioned | basis: 52-52
 
 ## Scene 55-63: Dante’s Doubt
 - who: Statio | status: present | basis: 57-57
@@ -31,56 +30,55 @@
 - who: Caronte | status: mentioned | basis: 63-63
 
 ## Scene 64-81: Statius’s Tribute to Virgil
-- who: Stazio | status: present | basis: 64-81
-- who: Virgilio | status: present | basis: 64-81
+- who: Stazio | status: present | basis: 64-64
+- who: Virgilio | status: present | basis: 64-64
 - who: Dio | status: mentioned | basis: 66-66
 - who: Cristo | status: mentioned | basis: 72-72
 - who: Apostoli | status: mentioned | basis: 78-80
 - who: Cristiani | status: mentioned | basis: 73-73
 
 ## Scene 82-93: The Burden of Tepidity
-- who: Cristiani | status: mentioned | basis: 90-90
+- who: Cristiani | status: mentioned | basis: 82-90
 - who: Domiziano | status: mentioned | basis: 83-83
 - who: Stazio | status: present | basis: 82-93
 - who: i Greci | status: mentioned | basis: 88-88
 
 ## Scene 94-99: Dante’s Inquiry into Classical Poets
-- who: Virgilio | status: present | basis: 94-94
-- who: Stazio | status: mentioned | basis: 99-99
-- who: Dante | status: present | basis: 95-95
+- who: Virgilio | status: present | basis: 94-99
+- who: Stazio | status: present | basis: 96-96
+- who: Dante | status: present | basis: 94-99
 - who: Terrenzio | status: mentioned | basis: 97-97
 - who: Cecilio | status: mentioned | basis: 98-98
 - who: Plauto | status: mentioned | basis: 98-98
 - who: Varro | status: mentioned | basis: 98-98
 
 ## Scene 100-114: The Inhabitants of Limbo
-- who: Cecilio | status: mentioned | basis: 100-100
-- who: Plauto | status: mentioned | basis: 100-100
-- who: Persio | status: mentioned | basis: 100-100
+- who: Cecilio | status: present | basis: 100-100
+- who: Plauto | status: present | basis: 100-100
+- who: Persio | status: present | basis: 100-100
 - who: Virgilio | status: present | basis: 100-101
-- who: Virgilio, Persio, Terenzio, Cecilio, Plauto, Varrone, other poets of Limbo | status: mentioned | basis: 100-100
-- who: Omero | status: mentioned | basis: 101-102
+- who: other poets of Limbo | status: present | basis: 100-108
+- who: Omero | status: present | basis: 101-102
 - who: muse | status: mentioned | basis: 102-105
-- who: Euripide | status: mentioned | basis: 106-106
-- who: Antifonte | status: mentioned | basis: 106-106
-- who: Simonide | status: mentioned | basis: 107-107
-- who: Agatone | status: mentioned | basis: 107-107
-- who: Antigone | status: mentioned | basis: 110-110
-- who: Deïfile | status: mentioned | basis: 110-110
-- who: Argia | status: mentioned | basis: 110-110
-- who: Ismene | status: mentioned | basis: 111-111
-- who: quella che mostrò Langia | status: mentioned | basis: 112-112
-- who: Manto | status: mentioned | basis: 113-113
-- who: Teti | status: mentioned | basis: 113-113
-- who: le suore di Deïdamia | status: mentioned | basis: 114-114
-- who: Deïdamia | status: mentioned | basis: 114-114
+- who: Euripide | status: present | basis: 106-106
+- who: Antifonte | status: present | basis: 106-106
+- who: Simonide | status: present | basis: 107-107
+- who: Agatone | status: present | basis: 107-107
+- who: Antigone | status: present | basis: 110-110
+- who: Deïfile | status: present | basis: 110-110
+- who: Argia | status: present | basis: 110-110
+- who: Ismene | status: present | basis: 111-111
+- who: Manto | status: present | basis: 112-113
+- who: Teti | status: present | basis: 113-113
+- who: le suore di Deïdamia | status: present | basis: 114-114
+- who: Deïdamia | status: present | basis: 114-114
 
 ## Scene 115-126: Realigning the Ascent
-- who: Virgilio | status: present | basis: 121-123
-- who: Stazio | status: present | basis: 115-116
-- who: le quattro ancelle | status: present | basis: 118-118
+- who: Virgilio | status: present | basis: 115-126
+- who: Stazio | status: mentioned | basis: 115-115
+- who: le quattro ancelle | status: present | basis: 118-119
 - who: la quinta | status: present | basis: 119-120
-- who: Dante | status: present | basis: 125-125
+- who: Dante | status: present | basis: 115-126
 
 ## Scene 127-129: Dante’s Observation
 - who: Virgilio | status: present | basis: 127-128
@@ -88,21 +86,21 @@
 - who: Dante | status: present | basis: 127-129
 
 ## Scene 130-138: The Discovery of the Tree
-- who: Dante | status: present | basis: 131-136
-- who: Virgilio | status: present | basis: 131-136
-- who: Stazio | status: present | basis: 131-136
+- who: Dante | status: present | basis: 130-136
+- who: Virgilio | status: present | basis: 130-136
+- who: Stazio | status: present | basis: 130-136
 - who: persona | status: mentioned | basis: 135-135
 
 ## Scene 139-141: The Voice’s Invitation
 - who: Virgilio | status: present | basis: 139-139
 - who: Statio | status: present | basis: 139-139
-- who: Dante | status: present | basis: 141-141
+- who: Dante | status: present | basis: 139-141
 
 ## Scene 142-154: The Theology of Fasting
 - who: Maria | status: mentioned | basis: 142-144
 - who: Dante | status: present | basis: 144-144
-- who: Virgilio | status: present | basis: 144-144
+- who: Virgilio | status: present | basis: 142-154
 - who: Stazio | status: present | basis: 142-142
 - who: le Romane antiche | status: mentioned | basis: 145-146
 - who: Danïello | status: mentioned | basis: 146-147
-- who: il Batista | status: mentioned | basis: 152-154
+- who: il Batista | status: mentioned | basis: 152-153

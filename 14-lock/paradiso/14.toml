@@ -8,12 +8,12 @@ location = ""
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Tommaso", status = "mentioned" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
   { who = "Beatrice", status = "mentioned" },
 ]
 relations = [
-  { subj = "Tommaso", predicate = "compares", obj = "Beatrice", lines = "7-8" },
-  { subj = "Beatrice", predicate = "follows", obj = "Tommaso", lines = "9-9" },
+  { subj = "Tommaso d'Aquino", predicate = "compares", obj = "Beatrice", lines = "7-8" },
+  { subj = "Beatrice", predicate = "follows", obj = "Tommaso d'Aquino", lines = "9-9" },
 ]
 basis = "1-9"
 
@@ -24,7 +24,7 @@ location = ""
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Tommaso", status = "present" },
+  { who = "Tommaso d'Aquino", status = "present" },
   { who = "Beatrice", status = "present" },
 ]
 basis = "10-18"
@@ -34,9 +34,7 @@ lines = "19-24"
 title = "The Joy of the Saints"
 location = ""
 region = "ella"
-cast = [
-  { who = "quei che vanno a rota", status = "mentioned" },
-]
+cast = []
 basis = "19-24"
 
 [[scene]]
@@ -229,9 +227,8 @@ title = "The Cruciform Light"
 location = ""
 region = "ella"
 cast = [
-  { who = "Cristo", status = "mentioned" },
+  { who = "Cristo", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "chi prende sua croce", status = "mentioned" },
 ]
 relations = [
   { subj = "chi prende sua croce", predicate = "follows", obj = "Cristo", lines = "106-106" },
@@ -271,7 +268,6 @@ cohort = ["i beati"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "i beati", status = "present" },
-  { who = "colui che non intende e ode", status = "mentioned" },
 ]
 refer = [
   { phrase = "beati", line = 124, resolves = "i beati" },

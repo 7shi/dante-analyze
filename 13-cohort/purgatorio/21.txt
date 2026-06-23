@@ -10,7 +10,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 22-33: Virgil's Explanation of the Shade's Arrival
-- cohort: un angel | source: code | basis: 23-23
+# (no soul-class present in this scene)
 
 ## Scene 34-36: The Inquiry Regarding the Earthquake
 # (no soul-class present in this scene)
@@ -55,4 +55,4 @@
 # (no soul-class present in this scene)
 
 ## Scene 133-136: The Weight of Love
-- cohort: l'ombre | source: code | basis: 136-136
+# (no soul-class present in this scene)

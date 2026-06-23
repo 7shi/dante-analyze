@@ -11,7 +11,7 @@ cast = [
   { who = "un angel", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Stazio", status = "present" },
+  { who = "Stazio", status = "mentioned" },
   { who = "li spiriti veloci", status = "present" },
 ]
 refer = [
@@ -58,11 +58,11 @@ location = "queste scale"
 region = "quinto giro"
 cast = [
   { who = "Stazio", status = "present" },
-  { who = "Virgilio", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
   { who = "migliaia di lunari", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "22:27", lines = "27-54", speaker = "Stazio", addressee = "Virgilio", source = "code" },
+  { quote_id = "22:27", lines = "27-54", speaker = "Stazio", addressee = "(none)", source = "none" },
 ]
 relations = [
   { subj = "Stazio", predicate = "answers", obj = "Virgilio", lines = "26-26" },
@@ -79,7 +79,6 @@ cast = [
   { who = "Stazio", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "mortali", status = "mentioned" },
-  { who = "quella gente", status = "mentioned" },
 ]
 relations = [
   { subj = "Stazio", predicate = "tells", obj = "Virgilio", lines = "49-49" },
@@ -152,7 +151,7 @@ location = "queste scale"
 region = "quinto giro"
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "Stazio", status = "mentioned" },
+  { who = "Stazio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Terrenzio", status = "mentioned" },
   { who = "Cecilio", status = "mentioned" },
@@ -169,30 +168,30 @@ lines = "100-114"
 title = "The Inhabitants of Limbo"
 location = "queste scale"
 region = "quinto giro"
+cohort = ["other poets of Limbo", "le suore di Deïdamia"]
 cast = [
-  { who = "Cecilio", status = "mentioned" },
-  { who = "Plauto", status = "mentioned" },
-  { who = "Persio", status = "mentioned" },
+  { who = "Cecilio", status = "present" },
+  { who = "Plauto", status = "present" },
+  { who = "Persio", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Virgilio, Persio, Terenzio, Cecilio, Plauto, Varrone, other poets of Limbo", status = "mentioned" },
-  { who = "Omero", status = "mentioned" },
+  { who = "other poets of Limbo", status = "present" },
+  { who = "Omero", status = "present" },
   { who = "muse", status = "mentioned" },
-  { who = "Euripide", status = "mentioned" },
-  { who = "Antifonte", status = "mentioned" },
-  { who = "Simonide", status = "mentioned" },
-  { who = "Agatone", status = "mentioned" },
-  { who = "Antigone", status = "mentioned" },
-  { who = "Deïfile", status = "mentioned" },
-  { who = "Argia", status = "mentioned" },
-  { who = "Ismene", status = "mentioned" },
-  { who = "quella che mostrò Langia", status = "mentioned" },
-  { who = "Manto", status = "mentioned" },
-  { who = "Teti", status = "mentioned" },
-  { who = "le suore di Deïdamia", status = "mentioned" },
-  { who = "Deïdamia", status = "mentioned" },
+  { who = "Euripide", status = "present" },
+  { who = "Antifonte", status = "present" },
+  { who = "Simonide", status = "present" },
+  { who = "Agatone", status = "present" },
+  { who = "Antigone", status = "present" },
+  { who = "Deïfile", status = "present" },
+  { who = "Argia", status = "present" },
+  { who = "Ismene", status = "present" },
+  { who = "Manto", status = "present" },
+  { who = "Teti", status = "present" },
+  { who = "le suore di Deïdamia", status = "present" },
+  { who = "Deïdamia", status = "present" },
 ]
 speech = [
-  { quote_id = "22:100", lines = "100-100", speaker = "Virgilio", addressee = "(none)", source = "none" },
+  { quote_id = "22:100", lines = "100-100", speaker = "Virgilio", addressee = "Omero", source = "llm" },
 ]
 refer = [
   { phrase = "le Muse", line = 102, resolves = "muse" },
@@ -224,7 +223,7 @@ region = "quinto giro"
 cohort = ["le quattro ancelle"]
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "Stazio", status = "present" },
+  { who = "Stazio", status = "mentioned" },
   { who = "le quattro ancelle", status = "present" },
   { who = "la quinta", status = "present" },
   { who = "Dante", status = "present" },

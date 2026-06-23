@@ -1,7 +1,7 @@
 # Canto 23 — The Encounter with Forese and the Shadows of Limbo
 
 ## Scene 1-6: The Father's Command
-- who: Dante | status: present | basis: 1-6
+- who: Dante | status: present | basis: 1-4
 - who: Virgilio | status: present | basis: 4-6
 
 ## Scene 7-9: Following the Sages
@@ -13,7 +13,7 @@
 - who: Dio | status: mentioned | basis: 11-11
 - who: Virgilio | status: present | basis: 13-14
 - who: Dante | status: present | basis: 13-14
-- who: l'ombre | status: present | basis: 10-15
+- who: l'ombre | status: present | basis: 10-14
 
 ## Scene 16-24: The Emaciated Crowd
 - who: i peregrin pensosi | status: mentioned | basis: 16-16
@@ -25,7 +25,7 @@
 
 ## Scene 25-30: Reflections on Hunger
 - who: Dante | status: present | basis: 28-28
-- who: Erisittone | status: mentioned | basis: 26-26
+- who: Erisittone | status: mentioned | basis: 25-27
 - who: Maria | status: mentioned | basis: 30-30
 - who: Gesù | status: mentioned | basis: 30-30
 
@@ -40,20 +40,20 @@
 - who: Forese | status: present | basis: 40-48
 
 ## Scene 49-54: Forese's Inquiry
-- who: Dante | status: present | basis: 52-54
+- who: Dante | status: present | basis: 49-54
 - who: Forese | status: present | basis: 49-54
 - who: Virgilio | status: present | basis: 53-53
 - who: Stazio | status: present | basis: 53-53
 
 ## Scene 55-60: Dante's Grief
-- who: Dante | status: present | basis: 57-57
-- who: Forese | status: present | basis: 55-58
+- who: Dante | status: present | basis: 55-60
+- who: Forese | status: present | basis: 55-59
 - who: Dio | status: mentioned | basis: 58-58
 
 ## Scene 61-75: The Cause of Torment
 - who: Forese | status: present | basis: 61-75
 - who: Dante | status: present | basis: 61-61
-- who: Tutta esta gente | status: present | basis: 64-64
+- who: Tutta esta gente | status: present | basis: 64-73
 - who: Cristo | status: mentioned | basis: 74-75
 - who: Dio | status: mentioned | basis: 61-61
 
@@ -63,33 +63,32 @@
 - who: Dio | status: mentioned | basis: 81-81
 
 ## Scene 85-96: The Power of Prayer
-- who: Forese | status: present | basis: 85-85
-- who: Dante | status: present | basis: 85-85
-- who: Nella | status: mentioned | basis: 87-92
+- who: Forese | status: present | basis: 85-96
+- who: Dante | status: present | basis: 85-96
+- who: Nella | status: mentioned | basis: 87-96
 - who: Dio | status: mentioned | basis: 91-91
 - who: le femmine sue | status: mentioned | basis: 95-95
 
 ## Scene 97-114: A Prophecy of Florence
-- who: Dante | status: present | basis: 97-113
+- who: Dante | status: present | basis: 97-114
 - who: Forese | status: present | basis: 97-114
 - who: le sfacciate donne fiorentine | status: mentioned | basis: 101-102
-- who: colui che mo si consola con nanna | status: mentioned | basis: 110-111
-- who: questa gente | status: present | basis: 113-114
 
 ## Scene 115-123: Explaining the Companions
 - who: Dante | status: present | basis: 115-123
-- who: Forese | status: present | basis: 115-116
+- who: Forese | status: present | basis: 115-123
 - who: Virgilio | status: present | basis: 118-123
 - who: la suora di [colui] | status: mentioned | basis: 120-120
 - who: i veri morti | status: mentioned | basis: 122-122
 
 ## Scene 124-129: Dante's Destination
 - who: Dante | status: present | basis: 124-129
-- who: Forese, anime penitenti | status: present | basis: 124-126
-- who: Virgilio | status: present | basis: 127-129
+- who: Forese | status: present | basis: 124-127
+- who: anime penitenti | status: present | basis: 126-126
+- who: Virgilio | status: mentioned | basis: 129-129
 - who: Beatrice | status: mentioned | basis: 128-128
 
 ## Scene 130-133: Identifying the Guides
 - who: Virgilio | status: present | basis: 130-131
-- who: Dante | status: present | basis: 133-133
+- who: Dante | status: present | basis: 130-131
 - who: Stazio | status: present | basis: 131-131

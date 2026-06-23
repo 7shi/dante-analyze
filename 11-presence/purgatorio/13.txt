@@ -8,18 +8,18 @@
 - who: gente | status: mentioned | basis: 10-10
 - who: Virgilio | status: present | basis: 11-11
 - who: Beatrice | status: mentioned | basis: 12-12
-- who: Dante | status: present | basis: 17-18
+- who: Dante | status: present | basis: 17-17
 
 ## Scene 22-27: The Flight of the Spirits
-- who: Dante | status: present | basis: 23-25
-- who: Virgilio | status: present | basis: 23-25
+- who: Dante | status: present | basis: 23-23
+- who: Virgilio | status: present | basis: 23-23
 - who: spiriti | status: present | basis: 25-26
 
 ## Scene 28-33: The First Two Voices
 - who: gli invidiosi | status: present | basis: 28-33
 - who: Dante | status: present | basis: 30-30
 - who: Virgilio | status: present | basis: 30-30
-- who: Oreste | status: present | basis: 32-32
+- who: Oreste | status: present | basis: 32-33
 
 ## Scene 34-36: The Third Voice
 - who: Dante | status: present | basis: 34-35
@@ -27,7 +27,7 @@
 
 ## Scene 37-45: Virgil's Interpretation
 - who: Virgilio | status: present | basis: 37-37
-- who: Dante | status: present | basis: 41-44
+- who: Dante | status: present | basis: 41-43
 - who: gente | status: present | basis: 44-45
 
 ## Scene 46-48: Discovery of the Shadows
@@ -40,11 +40,11 @@
 - who: Maria | status: mentioned | basis: 50-50
 - who: le anime degli invidiosi | status: present | basis: 50-51
 - who: Michele | status: mentioned | basis: 51-51
-- who: Pietro | status: mentioned | basis: 51-51
+- who: San Pietro | status: mentioned | basis: 51-51
 - who: Tutti santi | status: mentioned | basis: 51-51
 
 ## Scene 52-66: The Sight of the Envious
-- who: Dante | status: present | basis: 52-58
+- who: Dante | status: present | basis: 54-58
 - who: l'omo | status: mentioned | basis: 52-53
 - who: gli invidiosi | status: present | basis: 54-60
 - who: li ciechi | status: mentioned | basis: 61-66
@@ -55,22 +55,22 @@
 - who: Dante | status: present | basis: 68-68
 
 ## Scene 73-78: Dante's Anxiety
-- who: Dante | status: present | basis: 73-75
+- who: Dante | status: present | basis: 73-78
 - who: Virgilio | status: present | basis: 75-78
 
 ## Scene 79-84: Virgil's Movement
 - who: Virgilio | status: present | basis: 79-79
-- who: Dante | status: present | basis: 79-82
+- who: Dante | status: present | basis: 79-79
 - who: persona | status: mentioned | basis: 80-80
 - who: le divote ombre | status: present | basis: 82-84
 
 ## Scene 85-93: Dante's Greeting
-- who: Dante | status: present | basis: 85-86
-- who: gente sicura | status: present | basis: 85-85
+- who: Dante | status: present | basis: 85-93
+- who: gente sicura | status: present | basis: 85-92
 - who: l'anima | status: mentioned | basis: 92-93
 
 ## Scene 94-99: The Reply
-- who: Dante | status: present | basis: 97-99
+- who: Dante | status: present | basis: 95-99
 
 ## Scene 100-105: The Interrogation
 - who: Dante | status: present | basis: 100-105
@@ -97,11 +97,10 @@
 ## Scene 139-144: The Living Traveler
 - who: Dante | status: present | basis: 139-144
 - who: Virgilio | status: present | basis: 141-141
-- who: le anime degli invidiosi | status: present | basis: 139-143
+- who: le anime degli invidiosi | status: present | basis: 139-140
 
 ## Scene 145-154: The Prophecy of Tuscany
 - who: Dio | status: mentioned | basis: 146-146
 - who: Dante | status: present | basis: 146-151
-- who: miei propinqui | status: mentioned | basis: 150-150
-- who: quella gente vana | status: mentioned | basis: 151-152
+- who: miei propinqui | status: mentioned | basis: 150-152
 - who: li ammiragli | status: mentioned | basis: 154-154

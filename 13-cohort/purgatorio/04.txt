@@ -7,7 +7,7 @@
 - cohort: quell' anime | source: code | basis: 17-18
 
 ## Scene 19-24: The Simile of the Vineyard
-# (no soul-class present in this scene)
+- cohort: schiera | source: code | basis: 24-24
 
 ## Scene 25-30: The Flight of Desire
 # (no soul-class present in this scene)

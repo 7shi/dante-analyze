@@ -10,7 +10,7 @@
 - who: Dante | status: present | basis: 17-22
 - who: Dio | status: mentioned | basis: 18-18
 - who: l'omo | status: mentioned | basis: 18-18
-- who: le anime beate | status: present | basis: 19-20
+- who: le anime beate | status: present | basis: 19-21
 - who: Beatrice | status: present | basis: 23-24
 
 ## Scene 25-33: Beatrice's Reassurance
@@ -18,7 +18,7 @@
 - who: Beatrice | status: present | basis: 25-26
 
 ## Scene 34-41: Dante's Greeting
-- who: Dante | status: present | basis: 34-41
+- who: Dante | status: present | basis: 34-35
 - who: Piccarda Donati | status: present | basis: 34-41
 - who: l'uom | status: mentioned | basis: 36-36
 
@@ -28,22 +28,20 @@
 - who: Dante | status: present | basis: 47-49
 
 ## Scene 50-57: Piccarda's Status
-- who: questi altri beati | status: present | basis: 50-50
 - who: Piccarda Donati | status: present | basis: 50-51
 - who: lo Spirito Santo | status: mentioned | basis: 53-53
 
 ## Scene 58-66: Dante's Inquiry
-- who: Dante | status: present | basis: 58-58
+- who: Dante | status: present | basis: 58-63
 - who: Piccarda Donati | status: present | basis: 58-66
 
 ## Scene 67-78: The Constraint of Charity
-- who: quelle altr' ombre | status: present | basis: 67-67
 - who: Piccarda Donati | status: present | basis: 67-78
 - who: Dante | status: present | basis: 68-78
 - who: Dio | status: mentioned | basis: 75-75
 
 ## Scene 79-87: The Harmony of Wills
-- who: beato | status: present | basis: 79-79
+- who: beato | status: present | basis: 79-82
 - who: re | status: mentioned | basis: 84-84
 
 ## Scene 88-96: Dante's Epiphany
@@ -51,23 +49,23 @@
 - who: Piccarda Donati | status: present | basis: 95-96
 
 ## Scene 97-108: The Tale of the Nun
-- who: Maria | status: mentioned | basis: 98-98
-- who: Dante | status: present | basis: 98-99
-- who: Piccarda Donati | status: present | basis: 98-98
-- who: Cristo | status: mentioned | basis: 101-102
+- who: Maria | status: mentioned | basis: 98-105
+- who: Dante | status: present | basis: 97-108
+- who: Piccarda Donati | status: present | basis: 97-108
+- who: Cristo | status: mentioned | basis: 101-101
 - who: uomini | status: mentioned | basis: 106-107
 - who: Iddio | status: mentioned | basis: 108-108
 
 ## Scene 109-120: The Tale of the Sister
 - who: Dante | status: present | basis: 109-109
 - who: Constanza | status: present | basis: 109-118
-- who: Piccarda Donati | status: present | basis: 109-112
+- who: Piccarda Donati | status: present | basis: 110-112
 
 ## Scene 121-123: The Fading Vision
-- who: Piccarda Donati | status: present | basis: 121-122
-- who: Maria | status: mentioned | basis: 122-122
+- who: Piccarda Donati | status: present | basis: 121-123
+- who: Maria | status: mentioned | basis: 121-122
 
 ## Scene 124-130: The Blinding Glory
 - who: Piccarda Donati | status: mentioned | basis: 124-125
-- who: Beatrice | status: present | basis: 127-128
+- who: Beatrice | status: present | basis: 127-129
 - who: Dante | status: present | basis: 124-130

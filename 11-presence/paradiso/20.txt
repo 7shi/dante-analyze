@@ -9,22 +9,21 @@
 - who: Dante | status: present | basis: 17-17
 
 ## Scene 19-27: The Sound of the Stream
-- who: Dante | status: present | basis: 19-27
+- who: Dante | status: present | basis: 19-26
 
 ## Scene 28-30: The Emergence of the Voice
 - who: Dante | status: present | basis: 30-30
 
 ## Scene 31-36: The First Light: The Holy Spirit's Cantor
-- who: Dante | status: present | basis: 32-33
+- who: Dante | status: present | basis: 32-32
 
 ## Scene 37-42: The Glory of the Cantor
-- who: Gregorio | status: present | basis: 37-42
+- who: Gregorio | status: present | basis: 37-40
 
 ## Scene 43-48: The Second Light: The Widow's Comfort
-- who: Dei cinque | status: present | basis: 43-43
-- who: Dante | status: present | basis: 43-48
-- who: colui che più al becco mi s'accosta | status: present | basis: 44-44
-- who: la vedovella | status: mentioned | basis: 45-46
+- who: Dei cinque | status: present | basis: 43-44
+- who: Dante | status: present | basis: 43-44
+- who: la vedovella | status: present | basis: 45-46
 - who: figlio | status: mentioned | basis: 45-45
 - who: Cristo | status: mentioned | basis: 47-47
 
@@ -32,17 +31,17 @@
 - who: la terza luce | status: present | basis: 49-54
 
 ## Scene 55-60: The Fourth Light: The Good Intention
-- who: L'altro | status: present | basis: 55-60
+- who: L'altro | status: present | basis: 55-55
 - who: pastor | status: mentioned | basis: 57-57
 
 ## Scene 61-66: The Fifth Light: The Just King
-- who: Guiglielmo | status: present | basis: 61-62
+- who: Guiglielmo | status: present | basis: 61-66
 - who: Dante | status: present | basis: 61-61
 - who: Carlo | status: mentioned | basis: 63-63
 - who: Federigo | status: mentioned | basis: 63-63
 
 ## Scene 67-72: The Fifth Light Revealed: Rifeyo
-- who: Rifëo Troiano | status: present | basis: 68-69
+- who: Rifëo Troiano | status: present | basis: 68-72
 
 ## Scene 73-78: Analogy of the Satisfied Bird
 - who: Dante | status: present | basis: 76-76
@@ -53,15 +52,14 @@
 
 ## Scene 85-93: The Mystery of Essence
 - who: Dante | status: present | basis: 86-91
-- who: quei che la cosa per nome apprende ben | status: mentioned | basis: 91-92
 
 ## Scene 94-99: The Paradox of Divine Will
 - who: l'omo | status: mentioned | basis: 97-97
 - who: om | status: mentioned | basis: 97-97
 
 ## Scene 100-105: The Nature of the First and Fifth Lights
-- who: Gregorio | status: mentioned | basis: 100-105
-- who: Resso | status: mentioned | basis: 100-105
+- who: Gregorio | status: mentioned | basis: 100-100
+- who: Resso | status: mentioned | basis: 100-100
 - who: Dante | status: present | basis: 101-103
 - who: li angeli | status: mentioned | basis: 102-102
 - who: Gentili | status: mentioned | basis: 104-104
@@ -69,8 +67,8 @@
 - who: i passuri | status: mentioned | basis: 105-105
 
 ## Scene 106-117: The Story of the First Light's Rebirth
-- who: L'anima glorïosa | status: mentioned | basis: 112-117
-- who: una de lo 'nferno | status: mentioned | basis: 106-107
+- who: L'anima glorïosa | status: mentioned | basis: 112-112
+- who: una de lo 'nferno | status: mentioned | basis: 106-106
 - who: Dio | status: mentioned | basis: 110-110
 
 ## Scene 118-126: The Story of the Second Light's Conversion
@@ -80,7 +78,6 @@
 - who: le genti perverse | status: mentioned | basis: 126-126
 
 ## Scene 127-129: The Identity of the Three Women
-- who: Quelle tre donne | status: mentioned | basis: 127-128
 - who: Dante | status: present | basis: 128-128
 
 ## Scene 130-132: A Lament on Predestination

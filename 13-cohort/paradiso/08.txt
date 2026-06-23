@@ -7,10 +7,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 22-30: The Descent of the Spirits
-- cohort: quei lumi divini | source: code | basis: 25-28
+# (no soul-class present in this scene)
 
 ## Scene 31-39: The Approach of the Spirit
-- cohort: le anime di Venere | source: llm | basis: 32-39
+- cohort: le anime di Venere | source: llm | basis: 32-34
 
 ## Scene 40-48: The Encounter with Beatrice
 # (no soul-class present in this scene)

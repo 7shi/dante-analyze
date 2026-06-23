@@ -22,7 +22,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 76-90: The Aristotelian Defense
-- cohort: questi felli | source: code | basis: 88-88
+# (no soul-class present in this scene)
 
 ## Scene 91-96: Dante's Request for Reversal
 # (no soul-class present in this scene)

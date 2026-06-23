@@ -10,7 +10,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 28-33: Dante’s Prayer and the Flame’s Turn
-- 24:28 lines 28-30 | speaker: Dante | addressee: Beatrice | source: llm | basis: 28-29
+- 24:28 lines 28-30 | speaker: Dante | addressee: Beatrice | source: llm | basis: 28-28
 
 ## Scene 34-45: The Flame’s Address to Beatrice
 # (no attributed speech in this scene)
@@ -25,16 +25,16 @@
 - 24:58 lines 58-58 | speaker: Dante | addressee: (none) | source: none | basis: 58-58
 
 ## Scene 61-66: Defining Faith
-- 24:61 lines 61-66 | speaker: Dante | addressee: San Francesco | source: code | basis: 61-66
+- 24:61 lines 61-66 | speaker: Dante | addressee: (none) | source: none | basis: 61-66
 
 ## Scene 67-78: The Logic of Belief
-- 24:70 lines 70-78 | speaker: Dante | addressee: (none) | source: none | basis: 70-78
+- 24:70 lines 70-78 | speaker: Dante | addressee: San Paolo | source: code | basis: 70-78
 
 ## Scene 79-81: The Warning Against Sophistry
 # (no attributed speech in this scene)
 
 ## Scene 82-87: The Test of the Purse
-- 24:86 lines 86-87 | speaker: Dante | addressee: Francesco | source: code | basis: 86-87
+- 24:86 lines 86-87 | speaker: Dante | addressee: (none) | source: none | basis: 86-87
 
 ## Scene 88-96: The Source of Joy
 - 24:91 lines 91-96 | speaker: Dante | addressee: San Francesco | source: code | basis: 91-96

@@ -49,7 +49,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 70-75: The Heavenly Court
-- cohort: quei lumi | source: code | basis: 73-73
+# (no soul-class present in this scene)
 
 ## Scene 76-78: The Orbiting Suns
 - cohort: quelli ardenti soli | source: code | basis: 76-77
@@ -58,7 +58,7 @@
 - cohort: le donne | source: code | basis: 79-81
 
 ## Scene 82-90: Theology of Grace
-- cohort: l'un | source: code | basis: 82-90
+- cohort: l'un | source: code | basis: 82-82
 
 ## Scene 91-93: The Floral Garland
 # (no soul-class present in this scene)
@@ -91,7 +91,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 124-126: The Truth of the Soul
-- cohort: l'anima santa | source: llm | basis: 124-125
+- cohort: l'anima santa | source: code | basis: 124-126
 
 ## Scene 127-129: The Earthly Body
 # (no soul-class present in this scene)

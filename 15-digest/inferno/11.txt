@@ -1,45 +1,45 @@
 # Canto 11 — The Hierarchy of Sin and the Classification of Fraud and Violence
 
 ## Scene 1-9: The Inscription at the Abyss
-en: Reaching the *estremità d'un'alta ripa* on *un sentier*, *Dante* and *Virgilio* recoil from a foul stench against a tomb, where *Dante* reads an inscription mentioning *Anastasio papa* and *Fotin*.
-ja: 小道を通って高い崖の端に辿り着いたDanteとVirgilioは、ある墓から漂う酷い悪臭にたじろいだ。そこでDanteは、Anastasio papaとFotinの名が刻まれた銘文を読み取った。
+en: *Dante* and *Virgilio* arrive at the *estremità d'un'alta ripa* and, repulsed by a foul stench, lean against a tomb. There, *Dante* reads an inscription that mentions *Anastasio papa* and *Fotin*.
+ja: DanteとVirgilioは高い崖の端へと辿り着いたが、立ち込める酷い悪臭に耐えかねて、ある墓に寄りかかった。そこでDanteは、Anastasio papaとFotinの名が記された碑文を目にした。
 
 ## Scene 10-15: Preparing for the Descent
-en: At the *estremità d'un'alta ripa*, *Virgilio* suggests they descend slowly to acclimate their senses to the foul air, though *Dante* urges him to ensure the time is not wasted. *Virgilio* responds that he is already considering how to make their wait productive.
-ja: 切り立った崖の端に立ったVirgilioは、不快な空気に感覚を慣らすためゆっくりと降りることを提案したが、Danteは時間を無駄にしてはならないと急かした。Virgilioは、この待ち時間をいかに有意義なものにするか、既に思案していると答えた。
+en: At the *estremità d'un'alta ripa*, *Virgilio* advises a slow descent to let their senses adjust to the foul air, and when *Dante* urges him not to waste time, *Virgilio* assures him that he is already considering how to do so.
+ja: 高い岸の端にて、Virgilioは不快な空気に感覚を慣らすため、ゆっくりと降りることを勧めた。時間を浪費すべきではないと促すDanteに対し、Virgilioはその方法をすでに考えていると告げた。
 
 ## Scene 16-27: Overview of the Circles
-en: At the *estremità d'un'alta ripa*, *Virgilio* explains to *Dante* that the circles ahead are filled with *spirti maladetti*. He notes that because fraud is a proper evil of *l'uom*, it is more offensive to *Dio*, and therefore *li frodolenti* are placed deeper and suffer more.
-ja: 高い崖の端にて、VirgilioはDanteに、この先に広がる円環がspirti maladettiで満ちていることを説いた。詐欺とはl'uomならではの悪であり、それゆえにDioにとってより忌まわしいため、li frodolentiはより深き底へと落とされ、より重き苦しみを味わうのだ。
+en: At the *estremità d'un'alta ripa*, *Virgilio* explains to *Dante* that the three circles ahead are filled with *spirti maladetti*. He notes that because fraud is the specific evil of *l'uom* and more offensive to *Dio*, *li frodolenti* are cast deeper and suffer greater pain.
+ja: 高い崖の端で、VirgilioはDanteに、前方の三つの円がspirti maladettiで満たされていることを説いた。欺瞞はl'uom固有の悪であり、Dioにとってより忌まわしいため、li frodolentiはより深くへと落とされ、より激しい苦痛に苛まれるのだという。
 
 ## Scene 28-39: The Circle of Violence
-en: At the *estremità d'un'alta ripa* in the *più crudele stipa*, *Virgilio* explains to *Dante* that the *vïolenti* are divided into three rings because force may be directed at *Dio*, sé, or the *prossimo*. He details how the first ring punishes those violent toward the *prossimo*, specifically *omicide*, *guastatori*, and *predon*.
-ja: 高い岸の端、最も残酷な領域において、Virgilio は Dante に、vïolenti が Dio、sé、あるいは prossimo のいずれに向けられた力かによって三つの輪に分かれていることを説いた。そして、第一の輪では prossimo に暴力を振るった者たち、すなわち omicide、guastatori、そして predon が罰せられていることを詳しく語った。
+en: At the *estremità d'un'alta ripa*, *Virgilio* explains to *Dante* that the circle for the *vïolenti* is divided into three rings depending on whether violence was directed at *Dio*, *sé*, or the *prossimo*. He notes that the first ring punishes those violent toward the *prossimo*, including *omicide*, *guastatori*, and *predon*.
+ja: 高い崖の端で、VirgilioはDanteに、vïolentiの円環は暴力がDio、sé、あるいはprossimoのいずれに向けられたかによって三つの輪に分かれていることを説明した。また、第一の輪はprossimoに対して暴力的であった者を罰する場所であり、そこにはomicideやguastatori、predonが含まれていると述べた。
 
 ## Scene 40-51: Violence Against Self and God
-en: At the `*estremità d'un'alta ripa*` in the `*più crudele stipa*`, it is explained that `*l'omo*` may turn violence against himself or against `*Dio*`, with each sin consigned to its own respective ring of punishment.
-ja: `estremità d'un'alta ripa`にある、最も残酷な`più crudele stipa`において、`l'omo`が己自身あるいは`Dio`へと向けし暴力の罪が、それぞれ相応の処罰の圏へと配されていることが説かれる。
+en: At the *estremità d'un'alta ripa*, the explanation continues, describing the ways *l'omo* may turn violence upon himself or against *Dio*.
+ja: 高い崖の端にて、解説は続き、l'omoが自らに、あるいはDioに対していかなる暴力を振るい得るのかが詳述される。
 
 ## Scene 52-66: The Circle of Fraud
-en: At the *estremità d'un'alta ripa* in the *più crudele stipa*, it is explained that *l'omo* may commit fraud against either *colui che 'n lui fida* or *quel che fidanza non imborsa*. This distinction separates the sins of *chi affattura*, *ruffian*, and *baratti* from the treachery of *qualunque trade*.
-ja: 最も残酷な区画にある高き岸の端にて、l'omo は colui che 'n lui fida、あるいは quel che fidanza non imborsa のいずれかに対して欺瞞を働くことがあると説かれている。この区別によって、chi affattura や ruffian、baratti の罪は、あらゆる qualunque trade の裏切りから切り離されるのである。
+en: At the `*estremità d'un'alta ripa*` in the `*più crudele stipa*`, it is explained how `*l'omo*` may employ fraud against those who do not trust, such as the `*ruffian*` and `*baratti*`, or against those who do, which eternally consumes `*qualunque trade*`.
+ja: 高い岸壁の端にある最も残酷な類において、`l'omo`が`ruffian`や`baratti`といった信じぬ者、あるいは信頼を寄せる者に対していかに欺瞞を用いるか、そしてそれが如何にして`qualunque trade`を永遠に蝕み続けるかが説かれている。
 
 ## Scene 67-75: Dante's Inquiry
-en: At the *estremità d'un'alta ripa* in the *più crudele stipa*, *Dante* accepts *Virgilio*'s reasoning but asks why *quei de la palude pingue* are not punished within the city if *Dio* is angry with them, or why they suffer if he is not.
-ja: 最も残酷な地にそびえる高い岸辺の端で、DanteはVirgilioの理屈に納得しつつも、もしDioが怒っておられるのなら、なぜquei de la palude pingueは市の中で罰せられていないのか、あるいは、もし怒っておられないのなら、なぜ彼らが苦しんでいるのかと問いかけた。
+en: At the *estremità d'un'alta ripa*, *Dante* acknowledges the clarity of *Virgilio*'s reasoning and asks why some are punished as they are, questioning the anger of *Dio*.
+ja: 高い崖の端で、DanteはVirgilioの論理の明快さを認め、なぜある人々がそのような罰を受けているのかと、Dioの怒りに疑問を呈した。
 
 ## Scene 76-90: The Aristotelian Defense
-en: At the *estremità d'un'alta ripa*, *Virgilio* asks *Dante* why he has forgotten the classification of sin, explaining that the *incontinenti* are less offensive to *Dio*. He reasons that this is why those souls are separated from *questi felli* and endure a lighter punishment.
-ja: 高い崖の端で、VirgilioはDanteに、なぜ罪の区分を忘れてしまったのかと問いかけ、incontinentiはDioにとってそれほど不快ではないのだと説明した。それゆえに、彼らの魂はquesti felliから隔てられ、より軽い罰を受けるのだと彼は説いた。
+en: At the *estremità d'un'alta ripa*, *Virgilio* reminds *Dante* that the *incontinenti* are less offensive to *Dio* and therefore suffer a less severe punishment.
+ja: 高い崖の端で、VirgilioはDanteに、incontinentiはDioに対する罪が浅いため、受ける罰もそれほど厳しくはないことを説いた。
 
 ## Scene 91-96: Dante's Request for Reversal
-en: At the `*estremità d'un'alta ripa*` in the `*più crudele stipa*`, `*Dante*` praises `*Virgilio*` for resolving his confusion and asks him to backtrack to clarify how usury offends the divine goodness.
-ja: `estremità d'un'alta ripa`の`più crudele stipa`において、Danteは自らの困惑を解いてくれたVirgilioを称え、高利貸しがいかに神の善性に背くものであるかを明らかにするため、話を戻して説明するよう彼に求めた。
+en: At the *estremità d'un'alta ripa*, *Dante* praises *Virgilio* for his illuminating clarity and asks him to backtrack to explain why usury offends divine goodness.
+ja: 高い崖の端にいたDanteは、Virgilioの明快な導きに称賛を送り、高利貸しがなぜ神の善性に背くのかを説明するため、話を戻してほしいと請うた。
 
 ## Scene 97-111: The Theology of Usury
-en: At the *estremità d'un'alta ripa* in the *più crudele stipa*, *Virgilio* explains to *Dante* that while *chi la 'ntende* recognizes how nature follows the intellect of *Dio* and human art follows nature as *'l discente* follows a master, *l'usuriere* rejects this divine order. By seeking profit through unnatural means, *l'usuriere* is said to despise both nature and the art that follows it.
-ja: 最も残酷な列にある高い岸の端にて、VirgilioはDanteに、chi la 'ntendeが自然はDioの知性に、そして人間の術は'l discenteが師に倣うように自然に倣うものであると認める一方で、l'usuriereはこの神聖な秩序を拒絶しているのだと説いた。不自然な手段で利益を追求することで、l'usuriereは自然と、それに従う術の双方を蔑んでいるとされる。
+en: At the *estremità d'un'alta ripa*, *Virgilio* explains to *Dante* that while *'l discente* follows the order established by *Dio*, *l'usuriere* rejects this path to pursue sterile gain.
+ja: 高い崖の端にて、VirgilioはDanteに説いた。'l discenteがDioの定めた秩序に従う一方で、l'usuriereはこの道を拒み、不毛な利得を追い求めたのだと。
 
 ## Scene 112-115: Celestial Navigation
-en: At the *estremità d'un'alta ripa* in the *più crudele stipa*, *Virgilio* tells *Dante* to follow him, observing that the alignment of the stars now makes it the right time to leap down.
-ja: 最も残酷な種族がひしめく高い崖の端で、Virgilioは星々の巡りが今こそ飛び降りるに適した時であると説き、Danteに自分に続くよう促した。
+en: At the *estremità d'un'alta ripa*, *Virgilio* tells *Dante* to follow him, noting that the celestial alignment indicates it is now time to leap down.
+ja: 高い崖の端に立ったVirgilioは、天体の配置が今こそ飛び降りる時であることを示していると伝え、Danteに自分に従うよう促した。

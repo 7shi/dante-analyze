@@ -6,8 +6,8 @@
 
 ## Scene 7-15: The Process of Judgment
 - who: Dante | status: mentioned | basis: 7-7
-- who: anima mal nata | status: present | basis: 7-12
-- who: Minosse | status: present | basis: 8-13
+- who: anima mal nata | status: present | basis: 7-8
+- who: Minosse | status: present | basis: 9-12
 - who: anime mal nate | status: present | basis: 13-15
 
 ## Scene 16-24: Minos's Warning
@@ -31,44 +31,44 @@
 ## Scene 52-69: The Catalogue of Lovers
 - who: Semiramìs | status: present | basis: 52-60
 - who: l'ombre | status: present | basis: 68-68
-- who: Dante | status: present | basis: 52-69
+- who: Dante | status: present | basis: 53-68
 - who: Virgilio | status: present | basis: 52-69
 - who: Nino | status: mentioned | basis: 59-59
 - who: l Soldan | status: mentioned | basis: 60-60
-- who: Didone | status: present | basis: 61-62
+- who: Didone | status: present | basis: 61-61
 - who: Sicheo | status: mentioned | basis: 62-62
 - who: Cleopatràs | status: present | basis: 63-63
 - who: Elena | status: present | basis: 64-64
-- who: Achille | status: present | basis: 65-66
+- who: Achille | status: present | basis: 65-65
 - who: Parìs | status: present | basis: 67-67
 - who: Tristano | status: present | basis: 67-67
 
 ## Scene 70-78: A Request for Dialogue
-- who: Dante | status: present | basis: 70-78
-- who: Virgilio | status: present | basis: 70-78
+- who: Dante | status: present | basis: 70-76
+- who: Virgilio | status: present | basis: 70-76
 - who: le donne antiche | status: mentioned | basis: 71-71
 - who: cavalieri | status: mentioned | basis: 71-71
-- who: Francesca | status: present | basis: 74-78
-- who: Paolo | status: present | basis: 74-78
+- who: Francesca | status: present | basis: 74-75
+- who: Paolo | status: present | basis: 74-75
 
 ## Scene 79-87: The Approach of the Souls
-- who: Dante | status: present | basis: 79-86
-- who: Virgilio | status: present | basis: 79-86
-- who: Francesca | status: present | basis: 79-86
-- who: Paolo | status: present | basis: 79-86
+- who: Dante | status: present | basis: 80-80
+- who: Virgilio | status: present | basis: 80-80
+- who: Francesca | status: present | basis: 85-86
+- who: Paolo | status: present | basis: 85-86
 - who: Dido | status: mentioned | basis: 85-85
 
 ## Scene 88-96: The Souls' Greeting
 - who: Dante | status: present | basis: 88-95
-- who: Francesca | status: present | basis: 90-96
-- who: Paolo | status: present | basis: 90-96
+- who: Francesca | status: present | basis: 90-95
+- who: Paolo | status: present | basis: 90-95
 - who: il re de l'universo | status: mentioned | basis: 91-92
 - who: Virgilio | status: present | basis: 94-95
 
 ## Scene 97-107: The Tale of Dido
-- who: Francesca | status: present | basis: 97-97
+- who: Francesca | status: present | basis: 97-107
 - who: seguaci | status: mentioned | basis: 99-99
-- who: Paolo | status: present | basis: 101-101
+- who: Paolo | status: present | basis: 101-106
 - who: nullo amato | status: mentioned | basis: 103-103
 - who: Dante | status: present | basis: 105-105
 - who: Gianciotto | status: mentioned | basis: 107-107
@@ -76,23 +76,22 @@
 ## Scene 108-114: Dante's Grief
 - who: Francesca | status: present | basis: 108-114
 - who: Paolo | status: present | basis: 108-114
-- who: Dante | status: present | basis: 109-112
+- who: Dante | status: present | basis: 109-114
 - who: Virgilio | status: present | basis: 111-111
 
 ## Scene 115-126: An Inquiry to Francesca
-- who: Dante | status: present | basis: 115-126
-- who: Francesca | status: present | basis: 115-126
-- who: Paolo | status: present | basis: 115-126
+- who: Dante | status: present | basis: 115-115
+- who: Francesca | status: present | basis: 116-116
+- who: Paolo | status: present | basis: 115-115
 - who: Virgilio | status: mentioned | basis: 123-123
 
 ## Scene 127-138: The Lancelot Legend
-- who: Francesca | status: present | basis: 127-127
-- who: Paolo | status: present | basis: 135-135
+- who: Francesca | status: present | basis: 127-138
+- who: Paolo | status: present | basis: 127-138
 - who: Lancialotto | status: mentioned | basis: 128-128
 - who: Galeotto | status: mentioned | basis: 137-137
-- who: chi lo scrisse | status: mentioned | basis: 137-137
 
 ## Scene 139-142: Dante's Collapse
-- who: Francesca | status: present | basis: 139-139
-- who: Paolo | status: present | basis: 140-140
+- who: Francesca | status: present | basis: 139-140
+- who: Paolo | status: present | basis: 139-140
 - who: Dante | status: present | basis: 141-142

@@ -89,7 +89,7 @@ location = "tal nube"
 region = "bassi lidi"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Virgilio", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "47-47" },

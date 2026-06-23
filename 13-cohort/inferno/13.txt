@@ -31,7 +31,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 85-90: The Request for Knowledge
-- cohort: spirito incarcerato | source: code | basis: 87-87
+- cohort: spirito incarcerato | source: code | basis: 85-89
 
 ## Scene 91-108: The Fate of the Suicides
 # (no soul-class present in this scene)
@@ -43,7 +43,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 124-129: The Attack of the Hounds
-- cohort: miser | source: code | basis: 127-129
+- cohort: miser | source: code | basis: 127-128
 
 ## Scene 130-135: The Wounded Bush
 # (no soul-class present in this scene)

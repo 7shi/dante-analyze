@@ -1,15 +1,14 @@
 # Canto 06 — The Encounter with Sordello and the Lament for Italy
 
 ## Scene 1-9: The Dice Simile
-- who: colui che perde | status: mentioned | basis: 2-2
 - who: il vincitore | status: mentioned | basis: 4-4
 - who: tutta la gente | status: mentioned | basis: 4-4
 
 ## Scene 10-24: The Catalog of the Crowd
-- who: Dante | status: present | basis: 10-10
+- who: Dante | status: present | basis: 10-12
 - who: turba spessa | status: present | basis: 10-10
 - who: Aretin | status: present | basis: 13-13
-- who: Ghin di Tacco | status: mentioned | basis: 14-14
+- who: Ghin di Tacco | status: mentioned | basis: 13-14
 - who: ch'annegò correndo in caccia | status: present | basis: 15-15
 - who: Federigo Novello | status: present | basis: 16-17
 - who: da Pisa | status: present | basis: 17-17
@@ -19,8 +18,8 @@
 - who: la donna di Brabante | status: present | basis: 22-23
 
 ## Scene 25-33: Dante's Inquiry
-- who: Dante | status: present | basis: 25-33
-- who: quell' ombre | status: mentioned | basis: 25-32
+- who: Dante | status: present | basis: 25-28
+- who: quell' ombre | status: mentioned | basis: 26-32
 - who: Virgilio | status: present | basis: 28-33
 
 ## Scene 34-48: Virgil's Theological Answer
@@ -30,7 +29,7 @@
 - who: osservatore | status: mentioned | basis: 36-36
 - who: anima in Purgatorio | status: mentioned | basis: 39-39
 - who: Dio | status: mentioned | basis: 42-42
-- who: Beatrice | status: mentioned | basis: 46-46
+- who: Beatrice | status: mentioned | basis: 44-48
 
 ## Scene 49-51: Dante's Urgency
 - who: Dante | status: present | basis: 49-51
@@ -48,15 +47,14 @@
 
 ## Scene 67-75: The Reunion of Virgil and Sordello
 - who: Virgilio | status: present | basis: 67-75
-- who: Sordello | status: present | basis: 72-75
+- who: Sordello | status: present | basis: 73-75
 - who: Dante | status: present | basis: 70-71
 
 ## Scene 76-84: The Lament for Italy
 - who: nocchiere | status: mentioned | basis: 77-77
-- who: Sordello | status: mentioned | basis: 79-79
+- who: Sordello | status: present | basis: 79-81
 - who: Virgilio | status: present | basis: 76-84
 - who: li vivi tuoi | status: mentioned | basis: 82-83
-- who: quei ch'un muro e una fossa serra | status: mentioned | basis: 83-84
 
 ## Scene 85-96: The Failure of Law
 - who: Iustinïano | status: mentioned | basis: 89-90
@@ -65,12 +63,12 @@
 - who: Dio | status: mentioned | basis: 93-93
 
 ## Scene 97-105: The Condemnation of Albert
-- who: Alberto | status: present | basis: 97-97
+- who: Alberto I d'Asburgo | status: present | basis: 97-97
 - who: 'l tuo successor | status: mentioned | basis: 102-102
 - who: Rodolfo | status: mentioned | basis: 103-103
 
 ## Scene 106-117: The Chaos of Cities
-- who: Alberto I d'Asburgo | status: mentioned | basis: 107-117
+- who: Alberto I d'Asburgo | status: mentioned | basis: 114-114
 - who: Montecchi | status: mentioned | basis: 106-106
 - who: Cappelletti | status: mentioned | basis: 106-106
 - who: Monaldi | status: mentioned | basis: 107-107
@@ -80,10 +78,10 @@
 
 ## Scene 118-126: An Appeal to Divine Justice
 - who: Dante | status: present | basis: 118-118
-- who: Cristo | status: mentioned | basis: 118-122
+- who: Cristo | status: mentioned | basis: 118-119
 - who: tiranni | status: mentioned | basis: 124-125
 - who: Marcel | status: mentioned | basis: 125-125
-- who: ogne villan | status: mentioned | basis: 126-126
+- who: ogne villan | status: mentioned | basis: 125-126
 
 ## Scene 127-138: The Unrest of Florence
 - who: popol tuo | status: mentioned | basis: 129-135

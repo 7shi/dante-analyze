@@ -38,10 +38,8 @@ lines = "22-30"
 title = "The Descent of the Spirits"
 location = ""
 region = "ella"
-cohort = ["quei lumi divini"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei lumi divini", status = "present" },
   { who = "Beatrice", status = "present" },
   { who = "li alti Serafini", status = "mentioned" },
 ]
@@ -100,15 +98,15 @@ title = "The Spirit's Earthly Connection"
 location = ""
 region = "ella"
 cast = [
-  { who = "Sibilla", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
 ]
 speech = [
-  { quote_id = "8:49", lines = "49-84", speaker = "Sibilla", addressee = "Dante", source = "llm" },
+  { quote_id = "8:49", lines = "49-84", speaker = "Sibilla Cumana", addressee = "Dante", source = "llm" },
 ]
 relations = [
-  { subj = "Sibilla", predicate = "answers", obj = "Dante", lines = "49-49" },
+  { subj = "Sibilla Cumana", predicate = "answers", obj = "Dante", lines = "49-49" },
 ]
 basis = "49-57"
 
@@ -119,8 +117,7 @@ location = ""
 region = "ella"
 cast = [
   { who = "segnore", status = "mentioned" },
-  { who = "Sibilla", status = "present" },
-  { who = "quel corno d'Ausonia", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "present" },
 ]
 basis = "58-66"
 
@@ -132,7 +129,7 @@ region = "ella"
 cast = [
   { who = "Tifeo", status = "mentioned" },
   { who = "li suoi regi", status = "mentioned" },
-  { who = "Sibilla", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "mentioned" },
   { who = "Carlo", status = "mentioned" },
   { who = "Ridolfo", status = "mentioned" },
 ]
@@ -155,15 +152,15 @@ location = ""
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Sibilla", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
 ]
 speech = [
   { quote_id = "8:85", lines = "85-93", speaker = "Dante", addressee = "(none)", source = "none" },
 ]
 relations = [
-  { subj = "Dante", predicate = "speaks-to", obj = "Sibilla", lines = "85-93" },
-  { subj = "Dante", predicate = "addresses", obj = "Sibilla", lines = "86-86" },
+  { subj = "Dante", predicate = "speaks-to", obj = "Sibilla Cumana", lines = "85-93" },
+  { subj = "Dante", predicate = "addresses", obj = "Sibilla Cumana", lines = "86-86" },
   { subj = "Dante", predicate = "sees", obj = "Dio", lines = "90-90" },
 ]
 basis = "85-93"
@@ -175,7 +172,7 @@ location = "regno"
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Sibilla Cumana", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "li 'ntelletti", status = "mentioned" },
 ]
@@ -196,7 +193,7 @@ location = "regno"
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Sibilla", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "mentioned" },
   { who = "l'omo", status = "mentioned" },
   { who = "Virgilio", status = "present" },
 ]
@@ -208,9 +205,9 @@ refer = [
   { phrase = "la natura", line = 113, resolves = "natura" },
 ]
 relations = [
-  { subj = "Dante", predicate = "answers", obj = "Sibilla", lines = "113-113" },
-  { subj = "Sibilla", predicate = "asks", obj = "Dante", lines = "115-116" },
-  { subj = "Dante", predicate = "answers", obj = "Sibilla", lines = "117-117" },
+  { subj = "Dante", predicate = "answers", obj = "Sibilla Cumana", lines = "113-113" },
+  { subj = "Sibilla Cumana", predicate = "asks", obj = "Dante", lines = "115-116" },
+  { subj = "Dante", predicate = "answers", obj = "Sibilla Cumana", lines = "117-117" },
 ]
 basis = "113-120"
 
@@ -220,7 +217,7 @@ title = "The Diversity of Human Destinies"
 location = "regno"
 region = "ella"
 cast = [
-  { who = "Sibilla", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "mentioned" },
   { who = "Solone", status = "mentioned" },
   { who = "Serse", status = "mentioned" },
   { who = "Melchisedèch", status = "mentioned" },
@@ -256,7 +253,7 @@ location = "regno"
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Sibilla Cumana", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "present" },
   { who = "gente", status = "mentioned" },
   { who = "nato a cignersi la spada", status = "mentioned" },
   { who = "re", status = "mentioned" },

@@ -170,10 +170,8 @@ lines = "100-102"
 title = "The Stabilization of the Spirit"
 location = ""
 region = "temprata stella sesta"
-cohort = ["quei lucenti incendi"]
 cast = [
-  { who = "quei lucenti incendi", status = "present" },
-  { who = "lo Spirito Santo", status = "mentioned" },
+  { who = "lo Spirito Santo", status = "present" },
 ]
 basis = "100-102"
 
@@ -183,7 +181,6 @@ title = "The Requirement of Faith"
 location = ""
 region = "temprata stella sesta"
 cast = [
-  { who = "chi non credette", status = "mentioned" },
   { who = "Cristo", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "l'Etïòpe", status = "mentioned" },
@@ -204,12 +201,9 @@ region = "temprata stella sesta"
 cast = [
   { who = "regi", status = "mentioned" },
   { who = "li Perse", status = "mentioned" },
-  { who = "Alberto", status = "mentioned" },
-  { who = "quel che morrà di colpo di cotenna", status = "mentioned" },
+  { who = "Alberto di Cologna", status = "mentioned" },
   { who = "lo Scotto", status = "mentioned" },
   { who = "l'Inghilese", status = "mentioned" },
-  { who = "quel di Spagna", status = "mentioned" },
-  { who = "quel di Boemme", status = "mentioned" },
 ]
 basis = "112-126"
 
@@ -221,7 +215,6 @@ region = "temprata stella sesta"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Ciotto di Ierusalemme", status = "mentioned" },
-  { who = "quei che guarda l'isola del foco", status = "mentioned" },
   { who = "Anchise", status = "mentioned" },
   { who = "Bonifacio VIII", status = "mentioned" },
   { who = "fratel", status = "mentioned" },
@@ -233,9 +226,5 @@ lines = "139-148"
 title = "Prophecies of the North and East"
 location = ""
 region = "temprata stella sesta"
-cast = [
-  { who = "quel di Portogallo", status = "mentioned" },
-  { who = "quel di Portogallo, di Norvegia", status = "mentioned" },
-  { who = "quel di Rascia", status = "mentioned" },
-]
+cast = []
 basis = "139-148"

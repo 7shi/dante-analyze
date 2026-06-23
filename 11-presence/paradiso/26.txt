@@ -1,12 +1,12 @@
 # Canto 26 — The Voice of the Spirit and the Vision of Beatrice
 
 ## Scene 1-12: The Voice’s Command
-- who: Dante | status: present | basis: 1-3
+- who: Dante | status: present | basis: 1-9
 - who: Beatrice | status: mentioned | basis: 10-11
 - who: Anania | status: mentioned | basis: 12-12
 
 ## Scene 13-18: Dante’s Response
-- who: Dante | status: present | basis: 13-13
+- who: Dante | status: present | basis: 13-18
 - who: Beatrice | status: mentioned | basis: 15-15
 - who: Dio | status: mentioned | basis: 13-17
 
@@ -15,9 +15,9 @@
 - who: Beatrice | status: present | basis: 19-22
 
 ## Scene 25-45: Dante’s Philosophical Defense
-- who: Dante | status: present | basis: 25-25
-- who: Dio | status: mentioned | basis: 31-41
-- who: la voce del verace autore | status: mentioned | basis: 40-40
+- who: Dante | status: present | basis: 25-45
+- who: Dio | status: mentioned | basis: 31-40
+- who: la voce del verace autore | status: mentioned | basis: 40-41
 - who: Moïsè | status: mentioned | basis: 41-41
 
 ## Scene 46-51: The Voice’s Second Question
@@ -25,11 +25,10 @@
 - who: Dio | status: mentioned | basis: 48-50
 
 ## Scene 52-66: Dante’s Declaration of Intent
-- who: Cristo | status: mentioned | basis: 53-53
-- who: Dante | status: present | basis: 55-55
+- who: Cristo | status: mentioned | basis: 53-59
+- who: Dante | status: present | basis: 53-65
 - who: Dio | status: mentioned | basis: 56-56
 - who: ogne fedel | status: mentioned | basis: 60-60
-- who: l'ortolano etterno | status: mentioned | basis: 65-65
 
 ## Scene 67-79: Beatrice’s Radiant Appearance
 - who: Dante | status: present | basis: 67-79
@@ -40,9 +39,6 @@
 ## Scene 80-84: The Vision of the Fourth Light
 - who: Dante | status: present | basis: 80-81
 - who: Beatrice | status: present | basis: 82-82
-- who: Pietro | status: present | basis: 81-81
-- who: Giacomo | status: present | basis: 81-81
-- who: Giovanni | status: present | basis: 81-81
 - who: l'anima prima | status: present | basis: 81-83
 
 ## Scene 85-90: Dante’s Physical Reaction
@@ -50,8 +46,8 @@
 - who: Beatrice | status: present | basis: 88-88
 
 ## Scene 91-96: Dante’s Prayerful Plea
-- who: Dante | status: present | basis: 91-91
-- who: padre antico | status: mentioned | basis: 92-92
+- who: Dante | status: present | basis: 91-96
+- who: padre antico | status: mentioned | basis: 92-95
 - who: ciascuna sposa | status: mentioned | basis: 93-93
 
 ## Scene 97-102: The Analogy of Hidden Desire
@@ -60,19 +56,19 @@
 
 ## Scene 103-114: The Spirit’s Promise
 - who: la prima anima | status: present | basis: 103-103
-- who: Dante | status: present | basis: 104-104
+- who: Dante | status: present | basis: 104-111
 - who: Dio | status: mentioned | basis: 109-109
-- who: Beatrice | status: present | basis: 110-110
+- who: Beatrice | status: mentioned | basis: 110-111
 
 ## Scene 115-117: The Cause of the Journey
 - who: Dante | status: present | basis: 115-115
-- who: Cristo | status: mentioned | basis: 117-117
+- who: Cristo | status: mentioned | basis: 115-117
 
 ## Scene 118-123: The History of Virgil
 - who: Beatrice | status: mentioned | basis: 118-118
-- who: Virgilio | status: mentioned | basis: 118-121
-- who: la prima anima | status: present | basis: 120-123
-- who: Dante | status: present | basis: 118-118
+- who: Virgilio | status: mentioned | basis: 118-122
+- who: la prima anima | status: present | basis: 118-123
+- who: Dante | status: present | basis: 118-123
 
 ## Scene 124-132: Reflections on Human Speech
 - who: First Soul | status: present | basis: 124-124

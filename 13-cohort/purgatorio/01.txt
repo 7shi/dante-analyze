@@ -1,7 +1,7 @@
 # Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
 
 ## Scene 1-12: The Poet’s Prologue
-- cohort: sante Muse | source: code | basis: 8-8
+# (no soul-class present in this scene)
 
 ## Scene 13-21: The Awakening Sky
 # (no soul-class present in this scene)

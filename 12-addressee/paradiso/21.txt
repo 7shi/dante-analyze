@@ -19,14 +19,14 @@
 - 21:52 lines 52-60 | speaker: Dante | addressee: Beatrice | source: code | basis: 52-60
 
 ## Scene 61-72: Beatrice's Explanation
-- 21:62 lines 62-72 | speaker: Beatrice | addressee: Dante | source: llm | basis: 62-62
+- 21:62 lines 62-72 | speaker: Beatrice | addressee: Dante | source: code | basis: 62-72
 
 ## Scene 73-78: The Question of Predestination
 - 21:73A lines 73-73 | speaker: Dante | addressee: Beatrice | source: code | basis: 73-73
 - 21:73B lines 73-78 | speaker: Dante | addressee: Beatrice | source: code | basis: 73-78
 
 ## Scene 79-87: The Light's Response
-- 21:83 lines 83-102 | speaker: amor | addressee: Dante | source: llm | basis: 83-87
+- 21:83 lines 83-102 | speaker: amor | addressee: Dante | source: code | basis: 83-102
 
 ## Scene 88-102: The Limitation of Inquiry
 # (no attributed speech in this scene)

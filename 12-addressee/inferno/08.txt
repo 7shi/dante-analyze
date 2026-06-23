@@ -16,9 +16,9 @@
 # (no attributed speech in this scene)
 
 ## Scene 31-39: The Encounter with the Muddy Spirit
-- 8:34 lines 34-35 | speaker: Dante | addressee: Filippo Argenti | source: llm | basis: 35-35
+- 8:34 lines 34-35 | speaker: Dante | addressee: Filippo Argenti | source: llm | basis: 34-35
 - 8:36 lines 36-36 | speaker: Filippo Argenti | addressee: Dante | source: llm | basis: 36-36
-- 8:37 lines 37-39 | speaker: Dante | addressee: Filippo Argenti | source: llm | basis: 38-39
+- 8:37 lines 37-39 | speaker: Dante | addressee: Filippo Argenti | source: llm | basis: 37-38
 
 ## Scene 40-51: The Spirit's Monologue on Pride
 # (no attributed speech in this scene)

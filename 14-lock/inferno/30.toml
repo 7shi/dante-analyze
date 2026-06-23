@@ -37,7 +37,7 @@ location = ""
 region = "ultima riva del lungo scoglio"
 cast = [
   { who = "Priamo", status = "mentioned" },
-  { who = "Ecuba", status = "mentioned" },
+  { who = "Ecuba", status = "present" },
   { who = "Polissena", status = "mentioned" },
   { who = "Polidoro", status = "mentioned" },
 ]
@@ -127,9 +127,9 @@ title = "The Soul of Buoso Donati"
 location = ""
 region = "ultima riva del lungo scoglio"
 cast = [
-  { who = "Mirra", status = "mentioned" },
+  { who = "Mirra", status = "present" },
   { who = "Cinyras", status = "mentioned" },
-  { who = "Gianni Schicchi", status = "present" },
+  { who = "Gianni Schicchi", status = "mentioned" },
   { who = "la donna", status = "mentioned" },
   { who = "Buoso Donati", status = "mentioned" },
 ]
@@ -198,7 +198,7 @@ title = "The Vision of the Arno"
 location = ""
 region = "ultima riva del lungo scoglio"
 cast = [
-  { who = "Mastro Adamo", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
 ]
 basis = "64-69"
 
@@ -219,7 +219,7 @@ title = "Fear of the Great Fraudsters"
 location = ""
 region = "ultima riva del lungo scoglio"
 cast = [
-  { who = "Maestro Adam", status = "present" },
+  { who = "Maestro Adam", status = "mentioned" },
   { who = "Guido", status = "mentioned" },
   { who = "Alessandro", status = "mentioned" },
   { who = "lor frate", status = "mentioned" },
@@ -244,11 +244,11 @@ lines = "82-87"
 title = "The Difficulty of Movement"
 location = ""
 region = "ultima riva del lungo scoglio"
-cohort = ["questa gente sconcia"]
 cast = [
   { who = "Maestro Adamo", status = "present" },
-  { who = "Guido, Alessandro, their brother", status = "present" },
-  { who = "questa gente sconcia", status = "present" },
+  { who = "Guido", status = "present" },
+  { who = "Alessandro", status = "present" },
+  { who = "their brother", status = "present" },
 ]
 basis = "82-87"
 
@@ -260,7 +260,9 @@ region = "ultima riva del lungo scoglio"
 cohort = ["sì fatta famiglia"]
 cast = [
   { who = "Maestro Adamo", status = "present" },
-  { who = "Guido, Alessandro, il fratello", status = "mentioned" },
+  { who = "Guido", status = "present" },
+  { who = "Alessandro", status = "present" },
+  { who = "il fratello", status = "present" },
   { who = "sì fatta famiglia", status = "present" },
 ]
 basis = "88-90"
@@ -272,13 +274,17 @@ location = ""
 region = "ultima riva del lungo scoglio"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Mastro Adamo", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
   { who = "li due tapini", status = "present" },
 ]
+refer = [
+  { phrase = "Mastro Adamo", line = 91, resolves = "Maestro Adamo" },
+  { phrase = "Mastro Adamo", line = 93, resolves = "Maestro Adamo" },
+]
 relations = [
-  { subj = "Dante", predicate = "asks", obj = "Mastro Adamo", lines = "91-93" },
+  { subj = "Dante", predicate = "asks", obj = "Maestro Adamo", lines = "91-93" },
   { subj = "Dante", predicate = "sees", obj = "li due tapini", lines = "91-93" },
-  { subj = "li due tapini", predicate = "relates-to", obj = "Mastro Adamo", lines = "93-93" },
+  { subj = "li due tapini", predicate = "relates-to", obj = "Maestro Adamo", lines = "93-93" },
 ]
 basis = "91-93"
 
@@ -289,13 +295,13 @@ location = "greppo"
 region = "ultima riva del lungo scoglio"
 cast = [
   { who = "Maestro Adam", status = "present" },
-  { who = "la falsa", status = "mentioned" },
-  { who = "Sinon", status = "mentioned" },
+  { who = "la falsa", status = "present" },
+  { who = "Sinon", status = "present" },
   { who = "Gioseppo", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "30:94", lines = "94-94", speaker = "Maestro Adam", addressee = "(none)", source = "none" },
-  { quote_id = "30:95", lines = "95-99", speaker = "Maestro Adam", addressee = "(none)", source = "none" },
+  { quote_id = "30:94", lines = "94-94", speaker = "Maestro Adam", addressee = "la falsa", source = "llm" },
+  { quote_id = "30:95", lines = "95-99", speaker = "Maestro Adam", addressee = "la falsa", source = "llm" },
 ]
 basis = "94-99"
 
@@ -307,11 +313,15 @@ region = "ultima riva del lungo scoglio"
 cohort = ["l'un di lor"]
 cast = [
   { who = "l'un di lor", status = "present" },
-  { who = "la moglie di Potifare, Sinone", status = "mentioned" },
-  { who = "Mastro Adamo", status = "present" },
+  { who = "la moglie di Potifare", status = "mentioned" },
+  { who = "Sinone", status = "mentioned" },
+  { who = "Maestro Adamo", status = "present" },
+]
+refer = [
+  { phrase = "Mastro Adamo", line = 102, resolves = "Maestro Adamo" },
 ]
 relations = [
-  { subj = "l'un di lor", predicate = "strikes", obj = "Mastro Adamo", lines = "102-102" },
+  { subj = "l'un di lor", predicate = "strikes", obj = "Maestro Adamo", lines = "102-102" },
 ]
 basis = "100-103"
 
@@ -321,19 +331,19 @@ title = "Adam's Counter-strike"
 location = "greppo"
 region = "ultima riva del lungo scoglio"
 cast = [
-  { who = "Mastro Adamo", status = "present" },
+  { who = "Maestro Adamo", status = "present" },
   { who = "Sinon", status = "present" },
 ]
 speech = [
-  { quote_id = "30:106", lines = "106-108", speaker = "Mastro Adamo", addressee = "Sinon", source = "code" },
+  { quote_id = "30:106", lines = "106-108", speaker = "Maestro Adamo", addressee = "Sinon", source = "code" },
 ]
 refer = [
-  { phrase = "mastro Adamo", line = 104, resolves = "Mastro Adamo" },
-  { phrase = "mastro Adamo", line = 106, resolves = "Mastro Adamo" },
+  { phrase = "mastro Adamo", line = 104, resolves = "Maestro Adamo" },
+  { phrase = "mastro Adamo", line = 106, resolves = "Maestro Adamo" },
 ]
 relations = [
-  { subj = "Mastro Adamo", predicate = "strikes", obj = "Sinon", lines = "104-104" },
-  { subj = "Mastro Adamo", predicate = "speaks-to", obj = "Sinon", lines = "106-106" },
+  { subj = "Maestro Adamo", predicate = "strikes", obj = "Sinon", lines = "104-104" },
+  { subj = "Maestro Adamo", predicate = "speaks-to", obj = "Sinon", lines = "106-106" },
 ]
 basis = "104-108"
 
@@ -357,14 +367,19 @@ title = "The Witness Accusation"
 location = "greppo"
 region = "ultima riva del lungo scoglio"
 cast = [
-  { who = "Mastro Adamo", status = "present" },
-  { who = "Sinone", status = "mentioned" },
+  { who = "Maestro Adamo", status = "present" },
+  { who = "Sinone", status = "present" },
+]
+refer = [
+  { phrase = "Mastro Adamo", line = 112, resolves = "Maestro Adamo" },
+  { phrase = "Mastro Adamo", line = 113, resolves = "Maestro Adamo" },
+  { phrase = "Mastro Adamo", line = 114, resolves = "Maestro Adamo" },
 ]
 relations = [
-  { subj = "Mastro Adamo", predicate = "commands", obj = "Sinone", lines = "112-112" },
-  { subj = "Mastro Adamo", predicate = "rebukes", obj = "Sinone", lines = "113-114" },
-  { subj = "Mastro Adamo", predicate = "rebukes", obj = "Sinone", lines = "113-113" },
-  { subj = "Mastro Adamo", predicate = "rebukes", obj = "Sinone", lines = "114-114" },
+  { subj = "Maestro Adamo", predicate = "commands", obj = "Sinone", lines = "112-112" },
+  { subj = "Maestro Adamo", predicate = "rebukes", obj = "Sinone", lines = "113-114" },
+  { subj = "Maestro Adamo", predicate = "rebukes", obj = "Sinone", lines = "113-113" },
+  { subj = "Maestro Adamo", predicate = "rebukes", obj = "Sinone", lines = "114-114" },
 ]
 basis = "112-114"
 
@@ -425,11 +440,11 @@ location = "greppo"
 region = "ultima riva del lungo scoglio"
 cast = [
   { who = "Maestro Adamo", status = "present" },
-  { who = "Sinon", status = "mentioned" },
+  { who = "Sinon", status = "present" },
   { who = "Narcisso", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "30:124", lines = "124-129", speaker = "Maestro Adamo", addressee = "(none)", source = "none" },
+  { quote_id = "30:124", lines = "124-129", speaker = "Maestro Adamo", addressee = "Sinon", source = "code" },
 ]
 relations = [
   { subj = "Maestro Adamo", predicate = "answers", obj = "Sinon", lines = "124-129" },
@@ -443,8 +458,7 @@ title = "Virgil's Warning"
 location = "greppo"
 region = "ultima riva del lungo scoglio"
 cast = [
-  { who = "Mastro Adamo", status = "present" },
-  { who = "Sinon", status = "mentioned" },
+  { who = "Sinon", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
 ]

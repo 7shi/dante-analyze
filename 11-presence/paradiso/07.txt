@@ -8,8 +8,8 @@
 
 ## Scene 10-15: Dante's Awe
 - who: Dante | status: present | basis: 10-15
-- who: le anime di Mercurio | status: mentioned | basis: 14-14
-- who: Beatrice | status: present | basis: 11-14
+- who: le anime di Mercurio | status: present | basis: 10-11
+- who: Beatrice | status: mentioned | basis: 11-14
 - who: l'uom | status: mentioned | basis: 15-15
 
 ## Scene 16-24: Beatrice's Promise
@@ -25,23 +25,23 @@
 - who: Beatrice | status: present | basis: 34-34
 
 ## Scene 40-48: The Justice of the Cross
-- who: Cristo | status: mentioned | basis: 41-47
+- who: Cristo | status: mentioned | basis: 40-47
 - who: Dio | status: mentioned | basis: 47-47
 
 ## Scene 49-54: Dante's Lingering Doubt
-- who: Dante | status: present | basis: 49-52
-- who: Beatrice | status: present | basis: 52-52
+- who: Dante | status: present | basis: 49-54
+- who: Beatrice | status: present | basis: 49-54
 
 ## Scene 55-63: The Hidden Decree
 - who: Dante | status: present | basis: 55-58
 - who: Dio | status: mentioned | basis: 56-56
-- who: Beatrice | status: present | basis: 55-63
+- who: Beatrice | status: present | basis: 58-63
 
 ## Scene 64-75: The Radiance of Divine Goodness
 # (no person figure named in this scene)
 
 ## Scene 76-84: The Impact of Sin
-- who: l'umana creatura | status: mentioned | basis: 77-84
+- who: l'umana creatura | status: mentioned | basis: 77-82
 
 ## Scene 85-93: The Necessity of a Way Back
 - who: Dante | status: present | basis: 85-88
@@ -50,7 +50,7 @@
 
 ## Scene 94-102: The Limits of Human Effort
 - who: Dante | status: present | basis: 94-96
-- who: un uomo | status: mentioned | basis: 97-102
+- who: un uomo | status: mentioned | basis: 97-101
 
 ## Scene 103-114: The Beauty of God's Plan
 - who: Dio | status: mentioned | basis: 103-103
@@ -70,7 +70,7 @@
 - who: Dante | status: present | basis: 124-124
 
 ## Scene 130-138: The Hierarchy of Creation
-- who: li angeli | status: mentioned | basis: 130-130
+- who: li angeli | status: mentioned | basis: 130-138
 - who: Dante | status: present | basis: 130-133
 - who: Li angeli, il paese sincero | status: mentioned | basis: 130-131
 

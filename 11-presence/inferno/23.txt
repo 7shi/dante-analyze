@@ -1,14 +1,14 @@
 # Canto 23 — The Flight from the Malebranche and the Encounter with the Hypocrites
 
 ## Scene 1-12: The Fable of the Frog and the Mouse
-- who: Dante | status: present | basis: 1-12
+- who: Dante | status: present | basis: 1-2
 - who: Virgilio | status: present | basis: 1-2
 - who: frati minor | status: mentioned | basis: 3-3
-- who: Isopo | status: mentioned | basis: 4-6
+- who: Isopo | status: mentioned | basis: 4-4
 
 ## Scene 13-24: Dante's Dread of the Demons
 - who: Dante | status: present | basis: 13-24
-- who: Malebranche | status: mentioned | basis: 13-24
+- who: Malebranche | status: present | basis: 23-24
 - who: Virgilio | status: present | basis: 21-22
 
 ## Scene 25-33: Virgil's Strategic Plan
@@ -16,29 +16,28 @@
 - who: Dante | status: present | basis: 26-33
 
 ## Scene 34-51: The Rapid Descent
-- who: Dante | status: present | basis: 35-50
+- who: Dante | status: present | basis: 35-51
 - who: Malebranche | status: present | basis: 35-36
-- who: Virgilio | status: present | basis: 37-50
+- who: Virgilio | status: present | basis: 37-51
 - who: la madre | status: mentioned | basis: 38-42
 - who: figlio | status: mentioned | basis: 40-51
 
 ## Scene 52-57: Reaching the Fifth Bolgia
 - who: Dante | status: present | basis: 54-54
 - who: Virgilio | status: present | basis: 54-54
-- who: Malebranche | status: present | basis: 52-53
+- who: Malebranche | status: present | basis: 53-53
 
 ## Scene 58-66: The Appearance of the Hypocrites
 - who: Dante | status: present | basis: 58-58
 - who: Virgilio | status: present | basis: 58-58
 - who: una gente dipinta | status: present | basis: 58-60
 - who: li monaci | status: mentioned | basis: 63-63
-- who: observers/onlookers | status: present | basis: 58-58
+- who: observers/onlookers | status: mentioned | basis: 64-64
 - who: Federigo | status: mentioned | basis: 66-66
 
 ## Scene 67-72: The Burden of the Cloaks
 - who: Dante | status: present | basis: 68-72
 - who: Virgilio | status: present | basis: 68-72
-- who: quella gente stanca | status: present | basis: 69-72
 
 ## Scene 73-75: Dante's Request to Virgil
 - who: Dante | status: present | basis: 73-73
@@ -48,14 +47,14 @@
 ## Scene 76-79: The Voice from Behind
 - who: Dante | status: present | basis: 77-79
 - who: Virgilio | status: present | basis: 77-78
-- who: un che 'ntese la parola tosca | status: present | basis: 76-77
+- who: un che 'ntese la parola tosca | status: present | basis: 76-79
 
 ## Scene 80-81: Virgil's Command
 - who: Virgilio | status: present | basis: 80-80
 - who: ipocrita | status: mentioned | basis: 80-81
 
 ## Scene 82-84: The Approaching Figures
-- who: Dante | status: present | basis: 82-82
+- who: Dante | status: present | basis: 82-83
 - who: ipocriti | status: present | basis: 82-84
 
 ## Scene 85-90: The Recognition of the Living
@@ -79,13 +78,13 @@
 
 ## Scene 109-113: The Sight of the Crucifix
 - who: Dante | status: present | basis: 109-112
-- who: Catalano | status: present | basis: 109-109
-- who: Loderingo | status: present | basis: 109-109
+- who: Catalano | status: mentioned | basis: 109-109
+- who: Loderingo | status: mentioned | basis: 109-109
 
 ## Scene 114-123: The Monk's Explanation
 - who: l frate Catalan | status: present | basis: 114-114
-- who: Dante | status: present | basis: 115-115
-- who: Caifasse | status: present | basis: 115-115
+- who: Dante | status: present | basis: 115-119
+- who: Caifasse | status: present | basis: 115-121
 - who: i Farisei | status: mentioned | basis: 116-116
 - who: l'uom | status: mentioned | basis: 117-117
 - who: lo popolo | status: mentioned | basis: 117-117
@@ -99,9 +98,9 @@
 - who: Caifa | status: present | basis: 125-125
 
 ## Scene 127-132: Virgil's Plea for an Exit
-- who: Virgilio | status: present | basis: 127-127
-- who: Catalano | status: present | basis: 127-127
-- who: Loderingo | status: present | basis: 127-127
+- who: Virgilio | status: present | basis: 127-130
+- who: Catalano | status: present | basis: 128-128
+- who: Loderingo | status: present | basis: 127-128
 - who: Dante | status: present | basis: 128-130
 - who: Malebranche | status: mentioned | basis: 131-131
 
@@ -111,16 +110,16 @@
 - who: Dante | status: present | basis: 133-137
 
 ## Scene 139-141: The Error of the Demon
-- who: Virgilio | status: present | basis: 139-141
-- who: Dio | status: mentioned | basis: 140-140
-- who: un peccator | status: present | basis: 141-141
+- who: Virgilio | status: present | basis: 139-140
+- who: Dio | status: mentioned | basis: 141-141
+- who: un peccator | status: mentioned | basis: 141-141
 
 ## Scene 142-144: The Lie of the Devil
-- who: Catalano | status: mentioned | basis: 143-143
+- who: Catalano | status: mentioned | basis: 143-144
 - who: Lucifero | status: mentioned | basis: 143-144
 
 ## Scene 145-148: The Departure
 - who: Virgilio | status: present | basis: 145-146
-- who: Dante | status: present | basis: 147-147
-- who: Catalano | status: mentioned | basis: 147-147
-- who: Loderingo | status: mentioned | basis: 147-147
+- who: Dante | status: present | basis: 145-147
+- who: Catalano | status: present | basis: 147-147
+- who: Loderingo | status: present | basis: 147-147

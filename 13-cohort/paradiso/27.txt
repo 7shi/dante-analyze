@@ -4,7 +4,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 10-27: The Angelic Transformation
-- cohort: beato coro | source: code | basis: 17-17
+- cohort: beato coro | source: code | basis: 17-18
 
 ## Scene 28-36: The Celestial Eclipse
 # (no soul-class present in this scene)

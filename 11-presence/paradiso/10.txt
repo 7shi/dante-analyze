@@ -12,7 +12,7 @@
 - who: Dio | status: mentioned | basis: 11-12
 
 ## Scene 13-21: The Mechanics of the Planets
-- who: lettore | status: mentioned | basis: 13-13
+- who: lettore | status: mentioned | basis: 15-15
 
 ## Scene 22-27: A Message to the Reader
 - who: lettor | status: present | basis: 22-25
@@ -23,14 +23,13 @@
 
 ## Scene 34-36: The Unexpected Ascent
 - who: Dante | status: present | basis: 34-35
-- who: Beatrice | status: present | basis: 34-36
+- who: Beatrice | status: present | basis: 34-34
 - who: l'uom | status: mentioned | basis: 35-35
 
 ## Scene 37-39: Beatrice's Vision
 - who: Beatrice | status: present | basis: 37-39
 
 ## Scene 40-42: The Radiance of the Sun
-- who: quel ch'era dentro al sol | status: present | basis: 41-41
 - who: Dante | status: present | basis: 41-41
 
 ## Scene 43-45: The Limits of Intellect
@@ -42,7 +41,7 @@
 
 ## Scene 49-51: The Fourth Family
 - who: la quarta famiglia | status: present | basis: 49-49
-- who: l'alto Padre | status: mentioned | basis: 50-51
+- who: l'alto Padre | status: mentioned | basis: 50-50
 
 ## Scene 52-54: Beatrice's Command
 - who: Beatrice | status: present | basis: 52-52
@@ -51,7 +50,7 @@
 
 ## Scene 55-60: Dante's Devotion
 - who: mortal | status: mentioned | basis: 55-55
-- who: Dio | status: mentioned | basis: 56-59
+- who: Dio | status: mentioned | basis: 56-56
 - who: Dante | status: present | basis: 58-59
 - who: Bëatrice | status: mentioned | basis: 60-60
 
@@ -67,7 +66,6 @@
 
 ## Scene 70-75: The Heavenly Court
 - who: Dante | status: present | basis: 70-70
-- who: quei lumi | status: present | basis: 73-73
 - who: dal muto | status: mentioned | basis: 75-75
 
 ## Scene 76-78: The Orbiting Suns
@@ -80,30 +78,30 @@
 - who: Dante | status: present | basis: 79-79
 
 ## Scene 82-90: Theology of Grace
-- who: l'un | status: present | basis: 82-90
-- who: Dante | status: present | basis: 82-90
+- who: l'un | status: present | basis: 82-82
+- who: Dante | status: present | basis: 82-89
 
 ## Scene 91-93: The Floral Garland
-- who: Dante | status: present | basis: 91-91
-- who: Beatrice | status: present | basis: 92-93
+- who: Dante | status: present | basis: 91-93
+- who: Beatrice | status: present | basis: 91-93
 
 ## Scene 94-96: The Lambs of the Flock
 - who: Pietro Damiano | status: present | basis: 94-94
-- who: Domenico | status: mentioned | basis: 95-95
+- who: San Domenico | status: mentioned | basis: 95-95
 
 ## Scene 97-99: The Presence of Albert the Great
-- who: Alberto di Cologna | status: present | basis: 97-98
+- who: Alberto di Cologna | status: present | basis: 97-99
 - who: Thomas d'Aquino | status: present | basis: 99-99
 
 ## Scene 100-102: Scanning the Circle
 - who: li altri | status: mentioned | basis: 100-100
-- who: Dante | status: present | basis: 100-102
+- who: Dante | status: present | basis: 101-102
 
 ## Scene 103-105: The Light of Gratian
 - who: Grazïan | status: present | basis: 103-104
 
 ## Scene 106-108: The Treasure of Peter
-- who: Pietro Damian | status: present | basis: 106-107
+- who: Pietro Damiano | status: present | basis: 106-107
 
 ## Scene 109-114: The Fifth Light
 - who: Aristotele | status: present | basis: 109-112
@@ -112,7 +110,7 @@
 
 ## Scene 115-117: The Angelic Vision
 - who: Dante | status: present | basis: 115-115
-- who: Francesco | status: present | basis: 115-116
+- who: San Francesco | status: present | basis: 115-116
 - who: l'angelica natura | status: mentioned | basis: 117-117
 
 ## Scene 118-120: The Light of Augustine
@@ -123,7 +121,6 @@
 
 ## Scene 124-126: The Truth of the Soul
 - who: l'anima santa | status: present | basis: 124-126
-- who: chi di lei ben ode | status: present | basis: 126-126
 
 ## Scene 127-129: The Earthly Body
 - who: Santa Caterina | status: present | basis: 127-129
@@ -131,13 +128,13 @@
 ## Scene 130-132: The Scholars of the Spirit
 - who: Dante | status: present | basis: 130-130
 - who: Isidoro | status: present | basis: 130-131
-- who: Beda | status: present | basis: 131-131
-- who: Riccardo | status: present | basis: 131-132
+- who: Beda | status: present | basis: 130-131
+- who: Riccardo | status: present | basis: 130-132
 - who: viro | status: mentioned | basis: 132-132
 
 ## Scene 133-138: The Light of Siger
 - who: Sigieri | status: present | basis: 133-136
-- who: Tommaso | status: present | basis: 133-133
+- who: Tommaso d'Aquino | status: present | basis: 133-133
 - who: invidïosi | status: mentioned | basis: 138-138
 
 ## Scene 139-144: The Striking Clock

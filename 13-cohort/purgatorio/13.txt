@@ -37,7 +37,7 @@
 - cohort: le divote ombre | source: code | basis: 82-84
 
 ## Scene 85-93: Dante's Greeting
-- cohort: gente sicura | source: code | basis: 85-85
+- cohort: gente sicura | source: code | basis: 85-92
 
 ## Scene 94-99: The Reply
 # (no soul-class present in this scene)
@@ -58,7 +58,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 139-144: The Living Traveler
-- cohort: le anime degli invidiosi | source: code | basis: 139-143
+- cohort: le anime degli invidiosi | source: code | basis: 139-140
 
 ## Scene 145-154: The Prophecy of Tuscany
 # (no soul-class present in this scene)

@@ -40,7 +40,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 100-117: Theology of Grace
-- 30:103 lines 103-145 | speaker: Beatrice | addressee: le sustanze pie | source: code | basis: 103-145
+- 30:103 lines 103-145 | speaker: Beatrice | addressee: le sustanze pie | source: llm | basis: 103-103
 
 ## Scene 118-126: The Metaphor of the Uncultivated Soil
 # (no attributed speech in this scene)

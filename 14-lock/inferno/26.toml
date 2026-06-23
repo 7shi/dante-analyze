@@ -43,7 +43,6 @@ location = "le scalee"
 region = "l'ottava ripa"
 cast = [
   { who = "'l villan", status = "mentioned" },
-  { who = "colui che 'l mondo schiara", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 simile = [
@@ -73,11 +72,10 @@ lines = "43-48"
 title = "Virgil's Explanation"
 location = "'l ponte"
 region = "'l ponte"
-cohort = ["li spirti"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "li spirti", status = "present" },
+  { who = "li spirti", status = "mentioned" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "sees", obj = "Dante", lines = "46-46" },
@@ -195,7 +193,6 @@ location = "'l ponte"
 region = "'l ponte"
 cast = [
   { who = "Ulisse", status = "present" },
-  { who = "quella compagna", status = "present" },
 ]
 basis = "100-105"
 
@@ -210,8 +207,8 @@ cast = [
   { who = "compagni", status = "present" },
   { who = "Ercule", status = "mentioned" },
   { who = "l'uom", status = "mentioned" },
-  { who = "Sibilia", status = "mentioned" },
-  { who = "Setta", status = "mentioned" },
+  { who = "Sibilia", status = "present" },
+  { who = "Setta", status = "present" },
 ]
 relations = [
   { subj = "Ercule", predicate = "warns", obj = "l'uom", lines = "108-109" },
@@ -240,7 +237,7 @@ location = "'l ponte"
 region = "'l ponte"
 cast = [
   { who = "Ulisse", status = "present" },
-  { who = "Ulisse, i suoi compagni", status = "present" },
+  { who = "i suoi compagni", status = "present" },
 ]
 basis = "127-132"
 
@@ -251,6 +248,6 @@ location = "'l ponte"
 region = "'l ponte"
 cast = [
   { who = "Ulisse", status = "present" },
-  { who = "Ulisse, i suoi compagni", status = "present" },
+  { who = "i suoi compagni", status = "present" },
 ]
 basis = "133-142"

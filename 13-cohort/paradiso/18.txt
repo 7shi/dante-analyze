@@ -22,7 +22,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 49-51: The Identity of the Singer
-- cohort: altre luci | source: code | basis: 49-49
+- cohort: altre luci | source: llm | basis: 49-49
 
 ## Scene 52-57: Beatrice's Radiance
 # (no soul-class present in this scene)
@@ -43,7 +43,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 88-93: The Inscribed Words
-# (no soul-class present in this scene)
+- cohort: i beati | source: code | basis: 88-88
 
 ## Scene 94-96: The Letter M
 # (no soul-class present in this scene)
@@ -64,7 +64,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 124-129: The Critique of Modernity
-- cohort: milizia del ciel | source: code | basis: 124-124
+- cohort: milizia del ciel | source: code | basis: 124-125
 
 ## Scene 130-136: A Warning to the Poet
 # (no soul-class present in this scene)

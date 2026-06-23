@@ -10,7 +10,6 @@
 - who: Dante | status: present | basis: 20-21
 
 ## Scene 22-30: The Swimmer Simile
-- who: quei che con lena affannata, uscito fuor del pelago a la riva | status: mentioned | basis: 22-24
 - who: Dante | status: present | basis: 25-30
 - who: persona viva | status: mentioned | basis: 27-27
 
@@ -26,27 +25,26 @@
 ## Scene 49-60: The Appearance of the She-Wolf
 - who: molte genti | status: mentioned | basis: 51-51
 - who: Dante | status: present | basis: 52-60
-- who: quei che volontieri acquista | status: mentioned | basis: 55-57
 
 ## Scene 61-66: A Shadow in the Desert
 - who: Dante | status: present | basis: 61-65
-- who: Virgilio | status: present | basis: 62-66
+- who: Virgilio | status: present | basis: 63-66
 
 ## Scene 67-75: Virgil's Introduction
-- who: Virgilio | status: present | basis: 67-67
+- who: Virgilio | status: present | basis: 67-75
 - who: l'omo | status: mentioned | basis: 67-67
-- who: li parenti miei | status: mentioned | basis: 68-68
+- who: li parenti miei | status: mentioned | basis: 68-69
 - who: Iulio | status: mentioned | basis: 70-70
 - who: Augusto | status: mentioned | basis: 71-71
 - who: li dèi | status: mentioned | basis: 72-72
 - who: Enea | status: mentioned | basis: 73-74
 
 ## Scene 76-78: The Challenge to Ascend
-- who: Dante | status: present | basis: 76-78
+- who: Dante | status: present | basis: 76-77
 
 ## Scene 79-81: Dante's Recognition
 - who: Virgilio | status: present | basis: 79-81
-- who: Dante | status: present | basis: 81-81
+- who: Dante | status: present | basis: 79-81
 
 ## Scene 82-90: A Plea for Guidance
 - who: Virgilio | status: present | basis: 82-90
@@ -54,8 +52,8 @@
 
 ## Scene 91-99: The Nature of the She-Wolf
 - who: Dante | status: present | basis: 91-94
-- who: Virgilio | status: present | basis: 91-92
-- who: altrui | status: mentioned | basis: 95-95
+- who: Virgilio | status: present | basis: 92-92
+- who: altrui | status: mentioned | basis: 95-96
 
 ## Scene 100-105: The Prophecy of the Veltro
 # (no person figure named in this scene)
@@ -68,7 +66,7 @@
 
 ## Scene 112-120: The Plan for the Journey
 - who: Virgilio | status: present | basis: 112-114
-- who: Dante | status: present | basis: 112-114
+- who: Dante | status: present | basis: 112-118
 - who: li antichi spiriti dolenti | status: mentioned | basis: 116-117
 - who: color che son contenti nel foco | status: mentioned | basis: 118-119
 - who: le beate genti | status: mentioned | basis: 120-120
@@ -76,7 +74,7 @@
 ## Scene 121-129: The Prohibition of the Ascent
 - who: Dante | status: present | basis: 121-123
 - who: Beatrice | status: mentioned | basis: 122-123
-- who: Virgilio | status: present | basis: 121-129
+- who: Virgilio | status: present | basis: 122-126
 - who: l'imperador | status: mentioned | basis: 124-129
 
 ## Scene 130-135: Dante's Acceptance

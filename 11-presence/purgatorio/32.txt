@@ -2,23 +2,22 @@
 
 ## Scene 1-12: The Sensory Blindness
 - who: Dante | status: present | basis: 1-12
-- who: quelle dee | status: present | basis: 8-9
 
 ## Scene 13-24: The Movement of the Heavenly Host
 - who: Dante | status: present | basis: 13-16
-- who: lo glorïoso essercito | status: present | basis: 16-23
+- who: lo glorïoso essercito | status: present | basis: 16-24
 
 ## Scene 25-33: The Descent of the Griffin
 - who: le donne | status: present | basis: 25-25
 - who: Dante | status: present | basis: 29-29
-- who: Beatrice | status: present | basis: 26-28
+- who: Beatrice | status: present | basis: 28-28
 - who: Stazio | status: present | basis: 29-29
 - who: Eva | status: mentioned | basis: 32-32
 
 ## Scene 34-36: Beatrice's Descent
 - who: Bëatrice | status: present | basis: 36-36
-- who: Dante | status: present | basis: 35-35
-- who: Statio | status: present | basis: 35-35
+- who: Dante | status: present | basis: 35-36
+- who: Statio | status: present | basis: 35-36
 
 ## Scene 37-42: The Bare Tree
 - who: Dante | status: present | basis: 37-37
@@ -33,24 +32,21 @@
 - who: la vedova frasca | status: present | basis: 50-51
 
 ## Scene 52-60: The Transformation of the Tree
-- who: Adamo | status: mentioned | basis: 52-52
+- who: Adamo | status: mentioned | basis: 59-60
 
 ## Scene 61-69: The Limits of Description
 - who: Dante | status: present | basis: 61-68
-- who: quella gente | status: mentioned | basis: 62-62
 - who: Siringa | status: mentioned | basis: 65-65
 - who: pintor | status: mentioned | basis: 67-67
 
 ## Scene 70-78: The Awakening of the Apostles
 - who: Dante | status: present | basis: 70-72
 - who: li angeli | status: mentioned | basis: 74-74
-- who: Pietro | status: present | basis: 76-77
-- who: Giovanni | status: present | basis: 76-77
-- who: Iacopo | status: present | basis: 76-77
+- who: San Pietro | status: present | basis: 76-78
+- who: San Giovanni | status: present | basis: 76-78
+- who: Iacopo | status: present | basis: 76-78
 
 ## Scene 79-81: The Diminished School
-- who: Pietro | status: present | basis: 79-79
-- who: Giovanni | status: present | basis: 79-79
 - who: Moïsè | status: mentioned | basis: 80-80
 - who: Elia | status: mentioned | basis: 80-80
 - who: Virgilio | status: present | basis: 79-79
@@ -59,7 +55,7 @@
 - who: Dante | status: present | basis: 82-85
 - who: conducitrice | status: present | basis: 82-86
 - who: Beatrice | status: present | basis: 86-88
-- who: la compagnia | status: present | basis: 88-90
+- who: la compagnia | status: present | basis: 88-89
 
 ## Scene 91-93: The Closed Senses
 - who: Dante | status: present | basis: 92-93
@@ -71,7 +67,7 @@
 
 ## Scene 100-105: Beatrice's Command
 - who: Dante | status: present | basis: 100-105
-- who: Beatrice | status: present | basis: 100-105
+- who: Beatrice | status: present | basis: 101-101
 - who: Cristo | status: mentioned | basis: 102-102
 
 ## Scene 106-108: Dante's Devotion
@@ -105,7 +101,6 @@
 - who: un gigante | status: present | basis: 152-153
 
 ## Scene 154-160: The Final Violence
-- who: Dante | status: present | basis: 154-159
-- who: quel feroce drudo | status: present | basis: 155-159
+- who: Dante | status: present | basis: 155-159
 - who: la puttana | status: present | basis: 156-160
 - who: il mostro | status: present | basis: 158-160

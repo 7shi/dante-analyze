@@ -7,7 +7,7 @@ title = "The Vision of the Fifteen Stars"
 location = ""
 region = "ella"
 cast = [
-  { who = "lettore", status = "present" },
+  { who = "lettore", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 relations = [
@@ -38,15 +38,13 @@ lines = "25-30"
 title = "The Song of the Trinity"
 location = ""
 region = "ella"
-cohort = ["quei santi lumi"]
 cast = [
   { who = "Bacco", status = "mentioned" },
-  { who = "la Trinità", status = "mentioned" },
-  { who = "Cristo", status = "mentioned" },
+  { who = "la Trinità", status = "present" },
+  { who = "Cristo", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
   { who = "San Domenico", status = "present" },
-  { who = "quei santi lumi", status = "present" },
 ]
 relations = [
   { subj = "quei santi lumi", predicate = "praises", obj = "la Trinità", lines = "25-26" },
@@ -64,7 +62,7 @@ cohort = ["concordi numi"]
 cast = [
   { who = "Beatrice", status = "present" },
   { who = "concordi numi", status = "present" },
-  { who = "Francesco", status = "mentioned" },
+  { who = "Francesco d'Assisi", status = "mentioned" },
 ]
 relations = [
   { subj = "Beatrice", predicate = "speaks-to", obj = "concordi numi", lines = "31-31" },
@@ -98,7 +96,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
   { who = "il nostro Sire", status = "mentioned" },
-  { who = "quella viva luce", status = "mentioned" },
 ]
 relations = [
   { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "49-49" },
@@ -130,7 +127,7 @@ location = ""
 region = "ella"
 cast = [
   { who = "Maria", status = "mentioned" },
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
   { who = "Cristo", status = "mentioned" },
 ]
 basis = "79-87"

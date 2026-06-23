@@ -25,7 +25,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 73-84: Exhortation to Christians
-- cohort: Cristiani | source: code | basis: 73-73
+# (no soul-class present in this scene)
 
 ## Scene 85-93: Movement to the Second Heaven
 # (no soul-class present in this scene)
@@ -34,13 +34,13 @@
 # (no soul-class present in this scene)
 
 ## Scene 100-108: The Arrival of the Spirits
-- cohort: l'ombra | source: code | basis: 107-108
+- cohort: l'ombra | source: code | basis: 107-107
 
 ## Scene 109-114: Dante's Desire for Knowledge
 # (no soul-class present in this scene)
 
 ## Scene 115-120: The Greeting of the Spirit
-- cohort: luci | source: code | basis: 119-119
+- cohort: luci | source: code | basis: 119-120
 
 ## Scene 121-123: Beatrice's Command
 # (no soul-class present in this scene)

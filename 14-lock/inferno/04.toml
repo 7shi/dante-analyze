@@ -70,7 +70,7 @@ lines = "25-30"
 title = "The Sighing Spirits"
 location = "la proda"
 region = "primo cerchio"
-cohort = ["le turbe"]
+cohort = ["le turbe", "infanti", "femmine", "viri"]
 cast = [
   { who = "le turbe", status = "present" },
   { who = "infanti", status = "present" },
@@ -122,9 +122,10 @@ lines = "51-63"
 title = "The Descent of the Patriarchs"
 location = "la proda"
 region = "primo cerchio"
+cohort = ["le ombre di Limbo"]
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "Virgilio, le ombre di Limbo", status = "present" },
+  { who = "le ombre di Limbo", status = "present" },
   { who = "Cristo", status = "mentioned" },
   { who = "Abèl", status = "mentioned" },
   { who = "Noè", status = "mentioned" },
@@ -188,11 +189,11 @@ lines = "79-81"
 title = "The Divine Voice"
 location = "la selva"
 region = "la selva"
-cohort = ["Dante, noble souls of Limbo"]
+cohort = ["noble souls of Limbo"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Dante, noble souls of Limbo", status = "present" },
-  { who = "Virgilio", status = "present" },
+  { who = "noble souls of Limbo", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
 ]
 basis = "79-81"
 
@@ -336,7 +337,6 @@ cast = [
   { who = "Democrito", status = "present" },
   { who = "Dïogenès", status = "present" },
   { who = "Anassagora", status = "present" },
-  { who = "Tale", status = "present" },
   { who = "Empedoclès", status = "present" },
   { who = "Eraclito", status = "present" },
   { who = "Zenone", status = "present" },

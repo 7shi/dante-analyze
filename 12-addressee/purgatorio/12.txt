@@ -28,7 +28,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 85-96: The arrival of the angel
-- 12:92 lines 92-96 | speaker: la creatura bella | addressee: Dante | source: llm | basis: 92-96
+- 12:92 lines 92-96 | speaker: la creatura bella | addressee: Dante | source: llm | basis: 95-96
 
 ## Scene 97-108: The difficult climb
 # (no attributed speech in this scene)

@@ -28,16 +28,16 @@ lines = "10-18"
 title = "The Epicurean’s Reply"
 location = "secreto calle"
 region = "Dentro"
-cohort = ["Eretici"]
+cohort = ["Eretico"]
 cast = [
-  { who = "Eretici", status = "present" },
+  { who = "Eretici", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Epicuro", status = "mentioned" },
   { who = "tutti suoi seguaci", status = "mentioned" },
-  { who = "Eretico", status = "mentioned" },
+  { who = "Eretico", status = "present" },
 ]
 speech = [
-  { quote_id = "10:10", lines = "10-18", speaker = "Eretico", addressee = "Dante", source = "llm" },
+  { quote_id = "10:10", lines = "10-18", speaker = "Eretico", addressee = "Dante", source = "code" },
 ]
 relations = [
   { subj = "Eretici", predicate = "answers", obj = "Dante", lines = "10-10" },
@@ -167,12 +167,12 @@ location = "piè de la sua tomba"
 region = "le sepulture"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "il padre di Cavalcante della Scala", status = "present" },
+  { who = "il padre di Cavalcante della Scala", status = "mentioned" },
   { who = "Virgilio", status = "present" },
   { who = "Guido da Montefeltro", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "10:61", lines = "61-63", speaker = "Dante", addressee = "il padre di Cavalcante della Scala", source = "llm" },
+  { quote_id = "10:61", lines = "61-63", speaker = "Dante", addressee = "Virgilio", source = "code" },
 ]
 relations = [
   { subj = "Dante", predicate = "answers", obj = "il padre di Cavalcante della Scala", lines = "61-61" },
@@ -272,11 +272,10 @@ lines = "100-108"
 title = "The Limitation of Hell’s Vision"
 location = "piè de la sua tomba"
 region = "le sepulture"
-cohort = ["Farinata, le anime dell'Inferno"]
+cohort = ["le anime dell'Inferno"]
 cast = [
-  { who = "Farinata, le anime dell'Inferno", status = "present" },
-  { who = "quei c'ha mala luce", status = "mentioned" },
   { who = "Farinata", status = "present" },
+  { who = "le anime dell'Inferno", status = "present" },
   { who = "il sommo duce", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
@@ -297,7 +296,6 @@ region = "le sepulture"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Farinata", status = "present" },
-  { who = "quel caduto", status = "mentioned" },
   { who = "Cavalcante della Scala", status = "mentioned" },
   { who = "vivi", status = "mentioned" },
 ]

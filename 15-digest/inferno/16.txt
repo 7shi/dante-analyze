@@ -1,61 +1,61 @@
 # Canto 16 — The Encounter with the Three Florentine Souls and the Approaching Figure
 
 ## Scene 1-12: The Appearance of the Wounded Souls
-en: While on *la strada*, *Dante* and *Virgilio* are approached by *tre ombre* who have separated themselves from *una torma*. Recognizing *Dante*'s clothing, *tre ombre* speak to him, and *Dante* is deeply moved by the sight of their fire-scorched wounds.
-ja: 道を歩んでいたDanteとVirgilioのもとに、una tormaから離れたtre ombreが近づいてきた。Danteの服装に気づいたtre ombreが彼に話しかけると、Danteはその火に焼かれた傷跡を目の当たりにし、深く心を揺さぶられた。
+en: While traveling along *la strada*, *Dante* and *Virgilio* are approached by *tre ombre* who break away from *una torma*. Recognizing *Dante* by his clothing, the *tre ombre* call out to him, leaving *Dante* pained by the sight of their fire-seared wounds.
+ja: 道をゆくDanteとVirgilioのもとに、una tormaから離れたtre ombreが近づいてきた。その装束からDanteであることに気づいたtre ombreが彼に呼びかけるが、火に焼かれた傷跡を目の当たりにしたDanteは、深い痛みに襲われた。
 
 ## Scene 13-18: Virgil's Instruction
-en: *Virgilio* listens to the cries of *i fiorentini* and tells *Dante* to wait and be courteous to them. He remarks that, were it not for the rain of fire on *la strada*, *Dante* should be in more of a hurry than *i fiorentini*.
-ja: Virgilioはi fiorentiniの叫びに耳を傾け、Danteに待って礼儀正しく接するように告げた。道に降る火の雨さえなければ、i fiorentiniよりもむしろDanteこそが急ぐべきである、と彼は述べた。
+en: *Virgilio* tells *Dante* to wait and be courteous to *i fiorentini*, noting that if it were not for the raining fire on *la strada*, *Dante* should be the one in more of a hurry.
+ja: VirgilioはDanteに、待ってi fiorentiniに礼儀正しく接するように諭した。道に火が降り注いでさえいなければ、むしろ急ぐべきはDanteの方なのだ、と。
 
 ## Scene 19-27: The Rotation of the Three
-en: *Virgilio* and *Dante* resume their way on *la strada*, where the *tre fiorentini* join them and circle around them like *i campion*, each keeping their eyes fixed on *Dante*.
-ja: VirgilioとDanteが再び道を進むと、tre fiorentiniが合流し、i campionのように彼らの周囲を巡りながら、それぞれがDanteに視線を据えていた。
+en: *Virgilio* resumes his way on *la strada*, and as the *tre fiorentini* reach them, they circle *Dante* and *Virgilio* like *i campion* are said to do, each keeping its gaze fixed on *Dante*.
+ja: Virgilioが再び道を歩み出すと、追いついたtre fiorentiniは、i campionがそうすると言われるようにDanteとVirgilioの周囲を巡り、それぞれがDanteをじっと見据えた。
 
 ## Scene 28-45: The Identification of the Souls
-en: On *la strada*, *Iacopo Rusticucci* asks *Dante* to identify himself and introduces his companions, *Guido Guerra*—a grandson of *Gualdrada*—and *Tegghiaio Aldobrandi*. *Iacopo Rusticucci* then names himself, lamenting that *la fiera moglie* causes him more harm than anything else.
-ja: 道すがら、Iacopo RusticucciはDanteに名乗るよう求め、連れのGuido Guerra――Gualdradaの孫である――とTegghiaio Aldobrandiを紹介した。そしてIacopo Rusticucciは自らも名乗り、la fiera moglieが何よりも自分に害をもたらしていると嘆いた。
+en: On *la strada*, *Iacopo Rusticucci* asks *Dante* for his identity and introduces his companions: *Guido Guerra*, grandson of *Gualdrada*, and *Tegghiaio Aldobrandi*. *Iacopo Rusticucci* then identifies himself, lamenting that *la fiera moglie* causes him more harm than any other.
+ja: 道の上で、Iacopo RusticucciはDanteに正体を問い、同行者であるGualdradaの孫のGuido GuerraとTegghiaio Aldobrandiを紹介した。続いてIacopo Rusticucciは自らの正体を明かし、la fiera moglieが誰よりも自分を苦しめていると嘆いた。
 
 ## Scene 46-51: Dante's Hesitation
-en: On *la strada*, *Dante* longs to embrace *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci*, but the fear of being burned outweighs his desire. He reflects that *Virgilio* would have permitted such an encounter had he already been subject to the fire.
-ja: la stradaにおいて、DanteはGuido Guerra、Tegghiaio Aldobrandi、そしてIacopo Rusticucciを抱きしめたいと切望したが、火に焼かれることへの恐怖がその想いに勝った。もし自分がすでに火に焼かれていたならば、Virgilioもこのような邂逅を許してくれただろうと彼は考える。
+en: *Dante* longs to embrace *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* on *la strada*, but fear of the fire overcomes his will. He believes *Virgilio* would have permitted such an embrace had he already been cast down among them.
+ja: Danteは la stradaにて Guido Guerra, Tegghiaio Aldobrandi, そして Iacopo Rusticucci を抱きしめたいと切望したが、炎への恐怖がその意志を屈服させた。もし自分がすでに彼らと共に投げ落とされていたならば、Virgilioもそのような抱擁を許してくれただろうと彼は考えた。
 
 ## Scene 52-63: Dante's Response
-en: On *la strada*, *Dante* tells *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* that his silence was caused by pity for their condition and his admiration for their names. He explains that although *Virgilio* has promised him sweet fruits, he must first descend to the center.
-ja: la stradaにて、DanteはGuido Guerra、Tegghiaio Aldobrandi、そしてIacopo Rusticucciに、自らが沈黙していたのは彼らの境遇への哀れみと、その名への敬愛ゆえであったと告げた。また、Virgilioに甘き果実を約束されてはいるが、まずは中心へと降りなくてはならないことを説明した。
+en: On *la strada*, *Dante* tells *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* that his hesitation was born of pity for their condition, not disdain. He expresses his lifelong admiration for them and explains that although *Virgilio* has promised him sweetness, he must first descend to the very center.
+ja: 道の上で、DanteはGuido Guerra、Tegghiaio Aldobrandi、そしてIacopo Rusticucciに、自らのためらいは軽蔑ではなく彼らの境遇への憐れみから生じたものであると告げた。彼は彼らへの終生の敬慕を伝え、Virgilioに甘美なる約束をされたとはいえ、まずは最深部へと降りなくてはならないことを語った。
 
 ## Scene 64-72: The Souls' Inquiry
-en: On *la strada*, *Iacopo Rusticucci* asks *Dante* if he is still alive and if courtesy and valor still reside in their city, explaining that the reports of *Guiglielmo Borsiere*—who often returns to his *compagni*—have brought great distress to the *tre anime fiorentine*.
-ja: 道の上で、Iacopo RusticucciはDanteに、彼がまだ生きているのか、そして彼らの街に今も礼節と勇気が残っているのかを尋ねた。よくcompagniのもとへ戻るGuiglielmo Borsiereの報告が、tre anime fiorentineに大きな苦しみをもたらしていたためである。
+en: On *la strada*, *Iacopo Rusticucci* asks *Dante* if he is still alive and if their city still possesses courtesy and valor, explaining that the reports of *Guiglielmo Borsiere*, who associates with his *compagni*, have distressed the *tre anime fiorentine*.
+ja: 道の上で、Iacopo RusticucciはDanteに、彼がまだ生きているのか、そして彼らの街に今も礼節と勇気が残っているのかを問いかけた。compagniと共に過ごすGuiglielmo Borsiereの知らせが、tre anime fiorentineを深く憂慮させているのだと説明しながらのことだった。
 
 ## Scene 73-75: Dante's Political Rebuke
-en: On `*la strada*`, the speaker explains that `*La gente nuova*` and sudden gains have bred pride and excess in the city, which is told it should already be weeping.
-ja: 道すがら語り手は、`La gente nuova`と不意の富が街に慢心と贅沢をもたらしたと説く。その街は、いまや涙を流すべき時にあるという。
+en: On *la strada*, he declares that *La gente nuova* and sudden wealth have bred pride and excess, leaving the city to weep.
+ja: 通りにて、彼は La gente nuova と突然の富が傲慢と贅沢をはびこらせ、街を嘆き悲しませていると断じた。
 
 ## Scene 76-85: The Request for Remembrance
-en: On *la strada*, *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* look at one another after *Dante*'s frank response and, praising his honesty, urge him to speak of them to the *gente* should he return to the world above.
-ja: la stradaにおいて、Danteの率直な答えを受けたGuido Guerra、Tegghiaio Aldobrandi、そしてIacopo Rusticucciは互いに顔を見合わせ、その誠実さを称えながら、もし上の世界に戻ることがあればgenteに自分たちのことを伝えてほしいと彼に請うた。
+en: On *la strada*, after *Dante* speaks his mind, *one of the three Florentine souls* and *another of the three Florentine souls* exchange glances. *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* then urge *Dante*, if he should return to the stars, to speak of them to the *gente*.
+ja: Danteが本心を語った後、道の上でone of the three Florentine soulsとanother of the three Florentine soulsが視線を交わした。そしてGuido Guerra、Tegghiaio Aldobrandi、Iacopo Rusticucciの三人は、もしDanteが星々へと帰るならば、自分たちのことをgenteに伝えてほしいと彼に請うた。
 
 ## Scene 86-90: The Departure of the Souls
-en: On *la strada*, *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* suddenly break their circle and vanish so quickly that no final word can be exchanged with *Dante*, leading *Virgilio* to decide that it is time for them to depart.
-ja: la stradaにて、Guido Guerra、Tegghiaio Aldobrandi、そして Iacopo Rusticucciが突如としてその輪を破り、Danteが最後の一言を交わす間もなく瞬く間に消え去った。これを受けてVirgilioは、いまこそ出発の時であると判断した。
+en: On *la strada*, *Guido Guerra*, *Tegghiaio Aldobrandi*, and *Iacopo Rusticucci* suddenly break their circle and flee so rapidly that they vanish before any final word can be spoken to *Dante*, prompting *Virgilio* to decide it is time to move on.
+ja: 道の上で、Guido Guerra, Tegghiaio Aldobrandi, そして Iacopo Rusticucci は突如としてその輪をほどき、Danteに最後の一言をかける間もなく急速に逃げ去って姿を消した。それを見た Virgilio は、もう先へ進む時だと判断した。
 
 ## Scene 91-105: The Sound of the Water
-en: On *la strada*, *Dante* and *Virgilio* are followed by a roar of water so loud that it nearly drowns out their speech. They eventually reach a steep slope where they encounter the sound of blood-tinted water thundering below.
-ja: 道を行くDanteとVirgilioの背後から、二人の話し声さえかき消さんばかりに激しい水の轟音が迫る。やがて彼らが辿り着いた急斜面の下からは、血に染まった水が猛烈に唸る音が響き渡っていた。
+en: *Dante* follows *Virgilio* along *la strada*, but the roar of nearby water soon becomes so loud that they can barely hear one another. They reach a steep drop where the sound of the tinted water thunders with an intensity that threatens to deafen them.
+ja: Danteは道を辿りVirgilioの後をついていくが、やがて近くの水の轟音が激しくなり、互いの声がほとんど聞こえなくなる。彼らが辿り着いた切り立った崖では、色づいた水の音が耳をつんざくほどの激しさで轟いていた。
 
 ## Scene 106-114: The Use of the Rope
-en: On the *sponda*, *Dante* unties the rope around his waist—which he had once thought of using to capture a beast—and hands it to *Virgilio*, who throws it down into the ravine.
-ja: 岸辺で Dante は、かつて獣を捕らえるために使おうと考えていた腰の縄を解いて Virgilio に手渡した。Virgilio はそれを、谷底へと投げ捨てた。
+en: On the *sponda*, *Dante* unties a rope he had been carrying and hands it to *Virgilio*, who throws it down into the depths.
+ja: 岸辺でDanteは携えていた紐をほどいてVirgilioに渡し、Virgilioはそれを深淵へと投げ入れた。
 
 ## Scene 115-120: Dante's Reflection on Prudence
-en: On the *sponda*, *Dante* tells himself he must respond to a new sign from *Virgilio* and reflects on how cautious *li uomini* should be when facing *color che non veggion pur l'ovra*.
-ja: 岸辺にて、DanteはVirgilioからの新たな合図に応じねばならないと自らに言い聞かせ、color che non veggion pur l'ovraと対峙する際、li uominiがいかに慎重であるべきかと思索した。
+en: On the *sponda*, *Dante* tells himself he must respond to the new sign *Virgilio* signals with his eye. He reflects that *Li uomini* should be cautious around *color che non veggion pur l'ovra*, who perceive a person's inner thoughts rather than just their outward deeds.
+ja: 岸辺で、DanteはVirgilioが視線で送った新たな合図に応じねばならないと自らに言い聞かせた。そして、外面的な行いではなく人の内心を見通すcolor che non veggion pur l'ovraに対し、Li uominiは慎重であるべきだと彼は考えた。
 
 ## Scene 121-126: Virgil's Warning
-en: On the *sponda*, *Virgilio* tells *Dante* that what he awaits will soon be revealed, warning that `*l'uom*` should remain silent when the truth appears to be a lie to avoid undue shame.
-ja: 岸辺にてVirgilioはDanteに、待ち望んでいたものは間もなく明らかになると告げた。そして真実が嘘に見えるときは、不必要な恥を避けるためl'uomは沈黙を守るべきだと警告した。
+en: On the *sponda*, *Virgilio* tells *Dante* that what he expects and *Dante* anticipates will soon be revealed, warning that *l'uom* should remain silent when truth looks like a lie to avoid shame.
+ja: 岸辺にて、VirgilioはDanteに、彼が期待しDanteが予期していることが間もなく明らかになると告げ、恥をさらさぬよう、真実が嘘のように見えるときこそl'uomは沈黙を守るべきだと諭した。
 
 ## Scene 127-136: The Approaching Figure
-en: On the *sponda*, *Dante* swears to the *lettor* that he witnessed *Gerione* swimming upward through the thick air, moving like *colui che va giuso* as he ascends from the sea.
-ja: 岸辺に立つDanteは、Gerioneが濃い空気の中を上方へ泳ぎ上がるさまを、まるで海から浮上するcolui che va giusoのように動いていたとlettorに誓う。
+en: On the *sponda*, *Dante* swears to the *lettor* that he witnessed *Gerione* swimming upward through the thick, dark air like a diver returning to the surface.
+ja: 岸辺に立つDanteは、Gerioneが水面へと戻る潜水士のように、濃く暗い空気の中を上方へと泳ぎ上がるのを目の当たりにしたとlettorに誓っている。

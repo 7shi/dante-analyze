@@ -76,7 +76,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "demon duri", status = "mentioned" },
-  { who = "quel grande", status = "present" },
 ]
 relations = [
   { subj = "Dante", predicate = "addresses", obj = "Virgilio", lines = "43-43" },

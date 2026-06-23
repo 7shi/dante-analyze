@@ -31,10 +31,10 @@
 # (no attributed speech in this scene)
 
 ## Scene 94-99: The Reason for Darkness
-- 3:94 lines 94-99 | speaker: Dante | addressee: anime | source: code | basis: 94-99
+- 3:94 lines 94-99 | speaker: Dante | addressee: (none) | source: none | basis: 94-99
 
 ## Scene 100-108: The Encounter
-- 3:103 lines 103-105 | speaker: Manfredi | addressee: Dante | source: llm | basis: 103-105
+- 3:103 lines 103-105 | speaker: Manfredi | addressee: Dante | source: llm | basis: 104-104
 
 ## Scene 109-111: The Wound Revealed
 # (no attributed speech in this scene)

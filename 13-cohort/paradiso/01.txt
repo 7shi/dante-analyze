@@ -31,7 +31,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 94-99: Dante's Wonder
-- cohort: questi corpi levi | source: code | basis: 99-99
+# (no soul-class present in this scene)
 
 ## Scene 100-108: The Doctrine of Order
 # (no soul-class present in this scene)

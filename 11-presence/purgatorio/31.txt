@@ -1,12 +1,12 @@
 # Canto 31 — The Sphinx's Instruction and the Celestial Dance
 
 ## Scene 1-6: The Sphinx's Accusation
-- who: Dante | status: present | basis: 2-6
-- who: Beatrice | status: present | basis: 1-1
+- who: Dante | status: present | basis: 1-6
+- who: Beatrice | status: present | basis: 1-6
 
 ## Scene 7-15: Dante's Hesitant Response
-- who: Beatrice | status: present | basis: 10-12
-- who: Dante | status: present | basis: 7-15
+- who: Beatrice | status: present | basis: 10-11
+- who: Dante | status: present | basis: 7-14
 
 ## Scene 16-21: The Burst of Sorrow
 - who: Dante | status: present | basis: 19-21
@@ -21,7 +21,7 @@
 
 ## Scene 37-48: The Command to Listen
 - who: Beatrice | status: present | basis: 37-37
-- who: Dante | status: present | basis: 37-48
+- who: Dante | status: present | basis: 38-48
 - who: Dio | status: mentioned | basis: 39-39
 
 ## Scene 49-63: The Vanity of Earthly Beauty
@@ -30,20 +30,19 @@
 
 ## Scene 64-69: A Call to Courage
 - who: fanciulli | status: mentioned | basis: 64-66
-- who: Dante | status: present | basis: 67-67
-- who: Beatrice | status: present | basis: 67-67
+- who: Dante | status: present | basis: 67-69
+- who: Beatrice | status: present | basis: 67-69
 
 ## Scene 70-75: The Simile of the Stripped Tree
 - who: men di resistenza | status: mentioned | basis: 70-70
 - who: Iarba | status: mentioned | basis: 72-72
 - who: Dante | status: present | basis: 73-75
-- who: Beatrice | status: present | basis: 71-71
+- who: Beatrice | status: present | basis: 70-75
 
 ## Scene 76-84: The Vision of Beatrice
-- who: quelle prime creature | status: present | basis: 77-78
 - who: Dante | status: present | basis: 76-83
-- who: Beatrice | status: present | basis: 80-82
-- who: Cristo | status: present | basis: 80-81
+- who: Beatrice | status: present | basis: 80-84
+- who: Cristo | status: mentioned | basis: 81-81
 
 ## Scene 85-90: The Sting of Repentance
 - who: Dante | status: present | basis: 85-90
@@ -81,9 +80,9 @@
 
 ## Scene 133-138: The Song of the Nymphs
 - who: Beatrice | status: present | basis: 133-133
-- who: Dante | status: mentioned | basis: 134-135
+- who: Dante | status: mentioned | basis: 134-137
 - who: le quattro anime beate | status: present | basis: 134-136
 
 ## Scene 139-145: Hymn to Eternal Light
 - who: Beatrice | status: present | basis: 139-145
-- who: Dante | status: present | basis: 139-145
+- who: Dante | status: mentioned | basis: 140-143

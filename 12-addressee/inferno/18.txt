@@ -16,7 +16,7 @@
 - 18:42 lines 42-42 | speaker: Dante | addressee: Virgilio | source: llm | basis: 42-42
 
 ## Scene 52-63: The Sinner's Confession
-- 18:52 lines 52-63 | speaker: Caccianemico | addressee: Dante | source: code | basis: 52-63
+- 18:52 lines 52-63 | speaker: Caccianemico | addressee: Dante | source: llm | basis: 52-53
 
 ## Scene 64-66: The Demon's Interruption
 # (no attributed speech in this scene)
@@ -47,4 +47,4 @@
 - 18:125 lines 125-126 | speaker: Alessio Interminei | addressee: (none) | source: none | basis: 125-126
 
 ## Scene 127-136: The Observation of Taïde
-- 18:134 lines 134-135 | speaker: drudo suo | addressee: Taïde | source: llm | basis: 134-135
+- 18:134 lines 134-135 | speaker: drudo suo | addressee: Taïde | source: llm | basis: 134-134

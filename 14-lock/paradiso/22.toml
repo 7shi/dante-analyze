@@ -35,7 +35,6 @@ region = "settimo splendore"
 cast = [
   { who = "Beatrice", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "quei che 'n sé repreme la punta del disio", status = "mentioned" },
   { who = "la maggiore e la più luculenta di quelle margherite", status = "present" },
 ]
 relations = [
@@ -117,7 +116,7 @@ cast = [
   { who = "tutti li altri", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "22:61", lines = "61-96", speaker = "Benedetto", addressee = "Dante", source = "llm" },
+  { quote_id = "22:61", lines = "61-96", speaker = "San Benedetto", addressee = "Dante", source = "code" },
 ]
 relations = [
   { subj = "San Benedetto", predicate = "speaks-to", obj = "Dante", lines = "61-69" },
@@ -146,13 +145,13 @@ region = "settimo splendore"
 cast = [
   { who = "mortali", status = "mentioned" },
   { who = "Pier", status = "mentioned" },
-  { who = "Benedetto", status = "present" },
-  { who = "Francesco", status = "mentioned" },
+  { who = "San Benedetto", status = "mentioned" },
+  { who = "Francesco d'Assisi", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
 ]
 relations = [
-  { subj = "Benedetto", predicate = "tells", obj = "Dante", lines = "85-96" },
+  { subj = "San Benedetto", predicate = "tells", obj = "Dante", lines = "85-96" },
 ]
 basis = "85-96"
 
@@ -175,9 +174,10 @@ lines = "100-105"
 title = "Dante's Rapid Ascent"
 location = "cielo"
 region = "settimo splendore"
+cohort = ["le anime beate"]
 cast = [
   { who = "Beatrice", status = "present" },
-  { who = "le anime beate", status = "mentioned" },
+  { who = "le anime beate", status = "present" },
   { who = "Dante", status = "present" },
 ]
 relations = [
@@ -193,7 +193,7 @@ location = "cielo"
 region = "quella scala"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "lettore", status = "mentioned" },
+  { who = "lettore", status = "present" },
   { who = "padre d'ogne mortal vita", status = "mentioned" },
 ]
 relations = [
@@ -241,7 +241,6 @@ location = "cielo"
 region = "quella scala"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "chi ad altro pensa", status = "mentioned" },
 ]
 relations = [
   { subj = "chi ad altro pensa", predicate = "names", obj = "chi ad altro pensa", lines = "138-138" },

@@ -11,7 +11,7 @@
 - cohort: gente | source: llm | basis: 33-33
 
 ## Scene 37-45: Sordello's Warning
-- cohort: le grandi ombre | source: llm | basis: 44-44
+# (no soul-class present in this scene)
 
 ## Scene 46-55: Meeting the Gentle Judge
 # (no soul-class present in this scene)

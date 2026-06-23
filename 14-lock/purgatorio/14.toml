@@ -45,10 +45,9 @@ location = ""
 region = "cornice"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei che diceva pria", status = "present" },
 ]
 speech = [
-  { quote_id = "14:16", lines = "16-21", speaker = "Dante", addressee = "quei che diceva pria", source = "code" },
+  { quote_id = "14:16", lines = "16-21", speaker = "Dante", addressee = "(none)", source = "none" },
 ]
 relations = [
   { subj = "Dante", predicate = "answers", obj = "quei che diceva pria", lines = "16-21" },
@@ -126,7 +125,6 @@ title = "The Second Spirit's Grief"
 location = ""
 region = "cornice"
 cast = [
-  { who = "colui ch'ascolta", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "l'altr' anima", status = "present" },
 ]
@@ -145,21 +143,24 @@ location = ""
 region = "cornice"
 cohort = ["Spirto"]
 cast = [
-  { who = "Guido", status = "present" },
+  { who = "Guido del Duca", status = "present" },
   { who = "Spirto", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "l'uom", status = "mentioned" },
+]
+speech = [
+  { quote_id = "14:77", lines = "77-126", speaker = "Guido del Duca", addressee = "Dante", source = "llm" },
 ]
 refer = [
   { phrase = "lo spirto", line = 73, resolves = "Spirto" },
   { phrase = "uom", line = 83, resolves = "l'uom" },
 ]
 relations = [
-  { subj = "Dante", predicate = "hears", obj = "Guido", lines = "73-74" },
+  { subj = "Dante", predicate = "hears", obj = "Guido del Duca", lines = "73-74" },
   { subj = "Dante", predicate = "sees", obj = "Spirto", lines = "73-74" },
-  { subj = "Dante", predicate = "asks", obj = "Guido", lines = "75-76" },
-  { subj = "Guido", predicate = "speaks-to", obj = "Dante", lines = "77-77" },
+  { subj = "Dante", predicate = "asks", obj = "Guido del Duca", lines = "75-76" },
+  { subj = "Guido del Duca", predicate = "speaks-to", obj = "Dante", lines = "77-77" },
 ]
 basis = "73-84"
 
@@ -172,13 +173,13 @@ cast = [
   { who = "Guido del Duca", status = "present" },
   { who = "gente umana", status = "mentioned" },
   { who = "consorte", status = "mentioned" },
-  { who = "Rinier", status = "present" },
+  { who = "Rinier Pazzo", status = "present" },
 ]
 relations = [
   { subj = "Guido del Duca", predicate = "addresses", obj = "gente umana", lines = "86-86" },
   { subj = "Guido del Duca", predicate = "asks", obj = "gente umana", lines = "86-87" },
-  { subj = "Guido del Duca", predicate = "names", obj = "Rinier", lines = "88-88" },
-  { subj = "Guido del Duca", predicate = "praises", obj = "Rinier", lines = "88-88" },
+  { subj = "Guido del Duca", predicate = "names", obj = "Rinier Pazzo", lines = "88-88" },
+  { subj = "Guido del Duca", predicate = "praises", obj = "Rinier Pazzo", lines = "88-88" },
 ]
 basis = "85-96"
 
@@ -227,7 +228,7 @@ cast = [
   { who = "i Pagan", status = "mentioned" },
   { who = "demonio", status = "mentioned" },
   { who = "testimonio", status = "mentioned" },
-  { who = "Ugolin de' Fantolin", status = "present" },
+  { who = "Ugolin de' Fantolin", status = "mentioned" },
 ]
 refer = [
   { phrase = "'l demonio", line = 118, resolves = "demonio" },
@@ -258,10 +259,9 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Guido del Duca", status = "present" },
-  { who = "Rinier", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "14:133", lines = "133-133", speaker = "la voce", addressee = "Virgilio", source = "llm" },
+  { quote_id = "14:133", lines = "133-133", speaker = "la voce", addressee = "Dante", source = "llm" },
 ]
 refer = [
   { phrase = "voce", line = 132, resolves = "la voce" },

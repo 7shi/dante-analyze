@@ -1,20 +1,20 @@
 # Canto 18 — The Vision of the Celestial Lights and the Inscription of Justice
 
 ## Scene 1-6: Beatrice's Command
-- who: Beatrice | status: present | basis: 4-5
-- who: Dante | status: present | basis: 2-2
+- who: Beatrice | status: present | basis: 4-6
+- who: Dante | status: present | basis: 2-5
 - who: Dio | status: mentioned | basis: 4-6
 
 ## Scene 7-18: Dante's Emotional Response
-- who: Dante | status: present | basis: 7-7
-- who: Bëatrice | status: present | basis: 17-17
+- who: Dante | status: present | basis: 7-18
+- who: Bëatrice | status: present | basis: 8-18
 
 ## Scene 19-21: Beatrice's Second Instruction
 - who: Dante | status: present | basis: 19-20
 - who: Beatrice | status: present | basis: 19-21
 
 ## Scene 22-27: The Spirit's Presence
-- who: Dante | status: present | basis: 26-26
+- who: Dante | status: present | basis: 26-27
 - who: Cacciaguida | status: present | basis: 26-27
 
 ## Scene 28-36: The Threshold and the Cross
@@ -26,12 +26,12 @@
 
 ## Scene 37-42: The Procession of Heroes
 - who: Dante | status: present | basis: 37-41
-- who: Iosuè | status: present | basis: 37-38
-- who: Macabeo | status: present | basis: 40-41
+- who: Iosuè | status: mentioned | basis: 38-38
+- who: Macabeo | status: mentioned | basis: 40-40
 
 ## Scene 43-48: The Continued Parade
-- who: Carlo Magno | status: present | basis: 43-44
-- who: Orlando | status: present | basis: 43-44
+- who: Carlo Magno | status: present | basis: 43-43
+- who: Orlando | status: present | basis: 43-43
 - who: Guiglielmo | status: present | basis: 46-46
 - who: Rinoardo | status: present | basis: 46-46
 - who: duca Gottifredi | status: present | basis: 47-47
@@ -41,20 +41,20 @@
 - who: altre luci | status: present | basis: 49-49
 - who: Dante | status: present | basis: 50-50
 - who: Cacciaguida | status: present | basis: 49-50
-- who: i cantor | status: mentioned | basis: 51-51
+- who: i cantor | status: present | basis: 49-51
 
 ## Scene 52-57: Beatrice's Radiance
-- who: Dante | status: present | basis: 52-52
-- who: Beatrice | status: present | basis: 53-53
+- who: Dante | status: present | basis: 52-55
+- who: Beatrice | status: present | basis: 53-56
 
 ## Scene 58-63: The Growth of Virtue
-- who: l'uom | status: mentioned | basis: 59-59
+- who: l'uom | status: mentioned | basis: 59-60
 - who: Dante | status: present | basis: 61-63
 
 ## Scene 64-69: The Metaphor of Transformation
-- who: bianca donna | status: mentioned | basis: 65-66
+- who: bianca donna | status: mentioned | basis: 65-65
 - who: Dante | status: present | basis: 67-69
-- who: Giove | status: present | basis: 68-69
+- who: Giove | status: mentioned | basis: 68-69
 
 ## Scene 70-78: The Formation of Letters
 - who: Dante | status: present | basis: 70-72
@@ -70,14 +70,14 @@
 - who: Dante | status: present | basis: 85-86
 
 ## Scene 88-93: The Inscribed Words
-- who: Dante | status: present | basis: 89-90
-- who: i beati | status: mentioned | basis: 91-93
+- who: Dante | status: present | basis: 89-89
+- who: i beati | status: present | basis: 88-88
 
 ## Scene 94-96: The Letter M
-- who: Giove | status: present | basis: 95-96
+- who: Giove | status: mentioned | basis: 95-96
 
 ## Scene 97-99: The Descent of Light
-- who: Dante | status: present | basis: 97-99
+- who: Dante | status: present | basis: 97-97
 - who: altre luci | status: present | basis: 97-98
 
 ## Scene 100-108: The Explosion of Sparks
@@ -85,25 +85,25 @@
 - who: Dante | status: present | basis: 107-107
 
 ## Scene 109-114: The Divine Designer
-- who: l'imperador | status: present | basis: 112-114
-- who: Beatrice | status: mentioned | basis: 112-112
+- who: l'imperador | status: present | basis: 109-110
+- who: Beatrice | status: present | basis: 112-114
 
 ## Scene 115-117: Prayer for Justice
 - who: Beatrice | status: present | basis: 115-117
 - who: Dante | status: present | basis: 116-116
 
 ## Scene 118-123: Prayer against Greed
-- who: Dante | status: present | basis: 118-123
-- who: Dio | status: present | basis: 118-121
-- who: Beatrice | status: mentioned | basis: 119-119
+- who: Dante | status: present | basis: 118-118
+- who: Dio | status: mentioned | basis: 118-118
+- who: Beatrice | status: present | basis: 119-120
 
 ## Scene 124-129: The Critique of Modernity
-- who: milizia del ciel | status: present | basis: 124-124
+- who: milizia del ciel | status: present | basis: 124-125
 - who: Dante | status: present | basis: 124-124
 - who: color che sono in terra | status: mentioned | basis: 125-125
 - who: l pïo Padre | status: mentioned | basis: 129-129
 
 ## Scene 130-136: A Warning to the Poet
 - who: Dante | status: present | basis: 130-136
-- who: Pietro | status: mentioned | basis: 131-136
+- who: San Pietro | status: mentioned | basis: 131-136
 - who: Paulo | status: mentioned | basis: 131-136

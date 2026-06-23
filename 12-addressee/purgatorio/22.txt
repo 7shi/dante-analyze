@@ -7,7 +7,7 @@
 - 22:10 lines 10-24 | speaker: Virgilio | addressee: Stazio | source: code | basis: 10-24
 
 ## Scene 25-36: Statius’s Defense
-- 22:27 lines 27-54 | speaker: Stazio | addressee: Virgilio | source: code | basis: 27-54
+- 22:27 lines 27-54 | speaker: Stazio | addressee: (none) | source: none | basis: 27-54
 
 ## Scene 37-54: The Sin of Lukewarmness
 # (no attributed speech in this scene)
@@ -25,10 +25,10 @@
 # (no attributed speech in this scene)
 
 ## Scene 100-114: The Inhabitants of Limbo
-- 22:100 lines 100-100 | speaker: Virgilio | addressee: (none) | source: none | basis: 100-100
+- 22:100 lines 100-100 | speaker: Virgilio | addressee: Omero | source: llm | basis: 100-100
 
 ## Scene 115-126: Realigning the Ascent
-- 22:121 lines 121-123 | speaker: Virgilio | addressee: Dante | source: llm | basis: 121-123
+- 22:121 lines 121-123 | speaker: Virgilio | addressee: Dante | source: llm | basis: 122-123
 
 ## Scene 127-129: Dante’s Observation
 # (no attributed speech in this scene)

@@ -160,14 +160,12 @@ lines = "94-99"
 title = "Dante's Wonder"
 location = "etterne rote"
 region = "etterne rote"
-cohort = ["questi corpi levi"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "mentioned" },
-  { who = "questi corpi levi", status = "present" },
 ]
 speech = [
-  { quote_id = "1:97", lines = "97-99", speaker = "Dante", addressee = "questi corpi levi", source = "code" },
+  { quote_id = "1:97", lines = "97-99", speaker = "Dante", addressee = "(none)", source = "none" },
 ]
 basis = "94-99"
 
@@ -205,10 +203,9 @@ title = "The Mechanics of the Spheres"
 location = "etterne rote"
 region = "etterne rote"
 cast = [
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
   { who = "tutte nature", status = "mentioned" },
   { who = "le creature", status = "mentioned" },
-  { who = "quelle c'hanno intelletto e amore", status = "mentioned" },
 ]
 basis = "109-120"
 
@@ -240,6 +237,6 @@ location = "etterne rote"
 region = "etterne rote"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
 ]
 basis = "136-142"

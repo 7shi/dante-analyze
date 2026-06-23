@@ -104,14 +104,15 @@ lines = "52-63"
 title = "The Sinner's Confession"
 location = "lo sasso tetro"
 region = "fossa"
+cohort = ["bolognese"]
 cast = [
   { who = "Caccianemico", status = "present" },
   { who = "Dante", status = "present" },
   { who = "marchese", status = "mentioned" },
-  { who = "bolognese", status = "mentioned" },
+  { who = "bolognese", status = "present" },
 ]
 speech = [
-  { quote_id = "18:52", lines = "52-63", speaker = "Caccianemico", addressee = "Dante", source = "code" },
+  { quote_id = "18:52", lines = "52-63", speaker = "Caccianemico", addressee = "Dante", source = "llm" },
 ]
 relations = [
   { subj = "Caccianemico", predicate = "answers", obj = "Dante", lines = "52-52" },
@@ -210,11 +211,10 @@ lines = "100-108"
 title = "The Foul Junction"
 location = "lo stretto calle con l'argine secondo s'incrocicchia"
 region = "là dov' el vaneggia di sotto"
-cohort = ["gente"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "gente", status = "present" },
+  { who = "gente", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante, Virgilio", predicate = "hears", obj = "gente", lines = "103-103" },
@@ -228,7 +228,7 @@ lines = "109-114"
 title = "The Sinner in the Filth"
 location = "dosso de l'arco"
 region = "là dov' el vaneggia di sotto"
-cohort = ["gente attuffata", "li uman privadi"]
+cohort = ["gente attuffata"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },

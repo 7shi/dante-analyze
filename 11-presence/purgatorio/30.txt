@@ -7,15 +7,15 @@
 ## Scene 10-12: The Herald's Cry
 - who: la gente verace | status: present | basis: 10-12
 - who: un di loro | status: present | basis: 10-12
-- who: Beatrice | status: present | basis: 11-11
+- who: Beatrice | status: mentioned | basis: 11-11
 - who: tutti li altri | status: present | basis: 12-12
 
 ## Scene 13-21: The Anthem of the Blessed
-- who: i beati | status: present | basis: 16-21
+- who: i beati | status: mentioned | basis: 13-13
 - who: Beatrice | status: present | basis: 19-19
 
 ## Scene 22-33: The Appearance of the Lady
-- who: Dante | status: present | basis: 22-32
+- who: Dante | status: present | basis: 22-22
 - who: Beatrice | status: present | basis: 31-33
 
 ## Scene 34-39: Spiritual Recognition
@@ -25,20 +25,20 @@
 ## Scene 40-48: Dante's Trembling
 - who: Dante | status: present | basis: 40-48
 - who: Beatrice | status: present | basis: 40-41
-- who: fantolin | status: mentioned | basis: 44-45
+- who: fantolin | status: mentioned | basis: 44-44
 - who: la mamma | status: mentioned | basis: 44-44
 - who: Virgilio | status: present | basis: 46-46
 
 ## Scene 49-54: Lament for Virgil
-- who: Virgilio | status: mentioned | basis: 49-52
-- who: Dante | status: present | basis: 49-54
+- who: Virgilio | status: mentioned | basis: 49-51
+- who: Dante | status: present | basis: 53-54
 
 ## Scene 55-57: Virgil's Warning
 - who: Dante | status: present | basis: 55-57
 - who: Virgilio | status: mentioned | basis: 55-55
 
 ## Scene 58-66: Beatrice's Gaze
-- who: ammiraglio | status: mentioned | basis: 58-60
+- who: ammiraglio | status: mentioned | basis: 58-58
 - who: gente | status: mentioned | basis: 59-59
 - who: Dante | status: present | basis: 62-66
 - who: Beatrice | status: present | basis: 64-66
@@ -51,38 +51,37 @@
 
 ## Scene 76-81: Dante's Shame
 - who: Dante | status: present | basis: 76-80
-- who: la madre | status: mentioned | basis: 79-81
+- who: la madre | status: mentioned | basis: 79-79
 - who: al figlio | status: mentioned | basis: 79-79
 - who: Beatrice | status: present | basis: 80-80
 
 ## Scene 82-84: Interrupted Song
 - who: Beatrice | status: present | basis: 82-82
-- who: li angeli | status: present | basis: 82-82
+- who: li angeli | status: present | basis: 82-84
 - who: Domine | status: mentioned | basis: 83-83
 
 ## Scene 85-99: The Release of Tears
 - who: Dante | status: present | basis: 91-99
-- who: quei che notan sempre dietro a le note de li etterni giri | status: present | basis: 92-96
 - who: Beatrice | status: mentioned | basis: 96-96
 
 ## Scene 100-117: Theology of Grace
 - who: Beatrice | status: present | basis: 100-102
 - who: le sustanze pie | status: present | basis: 101-103
-- who: Dante | status: mentioned | basis: 107-107
+- who: Dante | status: present | basis: 107-107
 
 ## Scene 118-126: The Metaphor of the Uncultivated Soil
 - who: 'l terren | status: mentioned | basis: 119-120
-- who: Beatrice | status: present | basis: 121-125
+- who: Beatrice | status: present | basis: 121-126
 - who: Dante | status: present | basis: 121-126
 
 ## Scene 127-138: The Descent into Error
-- who: Beatrice | status: present | basis: 129-138
-- who: Dante | status: present | basis: 128-138
+- who: Beatrice | status: present | basis: 128-135
+- who: Dante | status: present | basis: 129-138
 - who: le perdute genti | status: mentioned | basis: 138-138
 
 ## Scene 139-145: The Necessity of Repentance
 - who: Beatrice | status: present | basis: 139-145
 - who: i morti | status: mentioned | basis: 139-139
 - who: Virgilio | status: mentioned | basis: 140-140
-- who: Dante | status: present | basis: 140-140
+- who: Dante | status: present | basis: 139-141
 - who: Dio | status: mentioned | basis: 142-142

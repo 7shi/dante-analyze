@@ -13,7 +13,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 25-30: The Sighing Spirits
-- cohort: le turbe | source: llm | basis: 29-30
+- cohort: le turbe | source: llm | basis: 29-29
+- cohort: infanti | source: llm | basis: 30-30
+- cohort: femmine | source: llm | basis: 30-30
+- cohort: viri | source: llm | basis: 30-30
 
 ## Scene 31-42: The Nature of Limbo
 - cohort: spiriti | source: code | basis: 32-32
@@ -22,7 +25,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 51-63: The Descent of the Patriarchs
-# (no soul-class present in this scene)
+- cohort: le ombre di Limbo | source: code | basis: 51-52
 
 ## Scene 64-66: Through the Dense Forest
 - cohort: spiriti | source: code | basis: 66-66
@@ -31,7 +34,7 @@
 - cohort: orrevol gente | source: code | basis: 72-76
 
 ## Scene 79-81: The Divine Voice
-- cohort: Dante, noble souls of Limbo | source: code | basis: 79-80
+- cohort: noble souls of Limbo | source: code | basis: 80-80
 
 ## Scene 82-93: The Meeting of the Great Poets
 # (no soul-class present in this scene)

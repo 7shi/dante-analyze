@@ -1,18 +1,18 @@
 # Canto 25 — The Metamorphosis of the Seventh Weight
 
 ## Scene 1-9: The Thief's Struggle
-- who: Vanni Fucci | status: present | basis: 1-3
+- who: Vanni Fucci | status: present | basis: 1-9
 - who: Dio | status: mentioned | basis: 3-3
 - who: Dante | status: present | basis: 4-4
 
 ## Scene 10-16: Dante's Lament and the Centaur
 - who: Dante | status: present | basis: 10-16
-- who: Vanni Fucci | status: present | basis: 14-16
+- who: Vanni Fucci | status: present | basis: 16-16
 - who: Dio | status: mentioned | basis: 14-14
 - who: Capaneo | status: mentioned | basis: 15-15
 
 ## Scene 17-24: The Dragon's Presence
-- who: Dante | status: present | basis: 17-21
+- who: Dante | status: present | basis: 17-19
 - who: un centauro | status: present | basis: 17-22
 - who: Vanni Fucci | status: mentioned | basis: 18-18
 - who: qualunque | status: mentioned | basis: 24-24
@@ -24,10 +24,10 @@
 - who: Ercule | status: mentioned | basis: 32-32
 
 ## Scene 34-39: The Arrival of Three Spirits
-- who: Virgilio | status: present | basis: 36-36
+- who: Virgilio | status: present | basis: 35-39
 - who: Caco | status: present | basis: 34-34
-- who: tre spiriti | status: present | basis: 35-37
-- who: Dante | status: present | basis: 36-39
+- who: tre spiriti | status: present | basis: 35-39
+- who: Dante | status: present | basis: 35-39
 
 ## Scene 40-45: The Conversation of the Spirits
 - who: Dante | status: present | basis: 40-45
@@ -39,36 +39,36 @@
 - who: lettore | status: mentioned | basis: 46-46
 - who: Dante | status: present | basis: 47-49
 - who: l'anima | status: present | basis: 51-60
-- who: anime | status: present | basis: 49-51
+- who: anime | status: present | basis: 49-49
 
 ## Scene 61-66: The Melting of the Forms
 - who: l'anima | status: present | basis: 61-63
 
 ## Scene 67-72: The Loss of Individuality
 - who: Li altri due | status: present | basis: 67-68
-- who: Agnel | status: present | basis: 68-69
+- who: Agnel | status: present | basis: 67-72
 
 ## Scene 73-78: The Grotesque Fusion
 - who: Agnel | status: present | basis: 73-78
 
 ## Scene 79-87: The Attack of the Small Serpent
-- who: anime | status: present | basis: 82-86
-- who: l'anima | status: present | basis: 82-86
+- who: anime | status: present | basis: 82-83
+- who: l'anima | status: present | basis: 86-87
 
 ## Scene 88-93: The Reaction of the Wound
 - who: Lo trafitto | status: present | basis: 88-93
 
 ## Scene 94-102: A Literary Comparison
-- who: Lucano | status: present | basis: 94-94
+- who: Lucano | status: present | basis: 94-96
 - who: misero Sabello | status: present | basis: 95-95
 - who: Nasidio | status: present | basis: 95-95
-- who: Cadmo | status: mentioned | basis: 97-97
-- who: Aretusa | status: mentioned | basis: 97-97
-- who: Ovidio | status: mentioned | basis: 97-97
-- who: Dante | status: present | basis: 94-96
+- who: Cadmo | status: mentioned | basis: 97-98
+- who: Aretusa | status: mentioned | basis: 97-98
+- who: Ovidio | status: mentioned | basis: 97-99
+- who: Dante | status: present | basis: 99-99
 
 ## Scene 103-111: The Structural Reorganization
-- who: 'l feruto | status: present | basis: 105-108
+- who: 'l feruto | status: present | basis: 105-105
 
 ## Scene 112-117: The Alteration of Limbs
 - who: Dante | status: present | basis: 112-112
@@ -87,14 +87,14 @@
 ## Scene 136-141: The Departure of the Spirits
 - who: l'anima | status: present | basis: 136-137
 - who: L'altro | status: present | basis: 138-140
-- who: Buoso | status: mentioned | basis: 140-140
+- who: Buoso Donati | status: mentioned | basis: 140-140
 
 ## Scene 142-144: Dante's Commentary
 - who: Dante | status: present | basis: 142-143
 
 ## Scene 145-151: The Identification of the Survivors
-- who: Dante | status: present | basis: 145-148
+- who: Dante | status: present | basis: 145-151
 - who: Puccio Sciancato | status: present | basis: 148-148
 - who: Agnel | status: present | basis: 151-151
-- who: the second spirit who was transformed | status: mentioned | basis: 149-150
+- who: the second spirit who was transformed | status: present | basis: 151-151
 - who: Gaville | status: present | basis: 151-151

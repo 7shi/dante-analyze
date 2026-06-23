@@ -91,7 +91,6 @@ region = "là 've la rugiada pugna col sole"
 cohort = ["La turba"]
 cast = [
   { who = "La turba", status = "present" },
-  { who = "colui che nove cose assaggia", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
 ]
@@ -151,11 +150,11 @@ lines = "76-84"
 title = "The Physical Embrace"
 location = "piaggia"
 region = "là 've la rugiada pugna col sole"
-cohort = ["l'ombra"]
+cohort = ["ombre vane"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "l'ombra", status = "present" },
-  { who = "ombre vane", status = "mentioned" },
+  { who = "ombre vane", status = "present" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "l'ombra", lines = "76-76" },
@@ -241,11 +240,9 @@ lines = "115-123"
 title = "The Pilot's Interruption"
 location = "piaggia"
 region = "là 've la rugiada pugna col sole"
-cohort = ["quella gente"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "quella gente", status = "present" },
   { who = "Casella", status = "present" },
   { who = "Catone", status = "present" },
   { who = "Dio", status = "mentioned" },
@@ -263,11 +260,9 @@ lines = "124-133"
 title = "The Dispersal of the Souls"
 location = "piaggia"
 region = "là 've la rugiada pugna col sole"
-cohort = ["quella masnada fresca"]
 cast = [
   { who = "li colombi", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "quella masnada fresca", status = "present" },
   { who = "om", status = "mentioned" },
 ]
 relations = [

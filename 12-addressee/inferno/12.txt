@@ -25,7 +25,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 58-63: The Centaurs' Challenge
-- 12:61 lines 61-63 | speaker: un centauro | addressee: Virgilio | source: llm | basis: 61-63
+- 12:61 lines 61-63 | speaker: un centauro | addressee: Dante | source: llm | basis: 61-63
 
 ## Scene 64-66: Virgil's Strategy
 # (no attributed speech in this scene)
@@ -55,7 +55,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 113-114: Dante's Turn
-- 12:114 lines 114-114 | speaker: Dante | addressee: Virgilio | source: llm | basis: 114-114
+- 12:114 lines 114-114 | speaker: Dante | addressee: Virgilio | source: code | basis: 114-114
 
 ## Scene 115-120: The Shadow of the Thames
 # (no attributed speech in this scene)

@@ -25,7 +25,7 @@
 - cohort: anime | source: code | basis: 83-83
 
 ## Scene 85-96: The Lament of Emperor Rudolf
-- cohort: anime | source: code | basis: 87-93
+- cohort: anime | source: code | basis: 87-90
 
 ## Scene 97-102: The Story of Ottacchero
 # (no soul-class present in this scene)

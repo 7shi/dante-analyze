@@ -4,8 +4,8 @@
 # (no attributed speech in this scene)
 
 ## Scene 13-24: Dante's Dread of the Demons
-- 23:13 lines 13-18 | speaker: Dante | addressee: Virgilio | source: code | basis: 13-18
-- 23:21 lines 21-24 | speaker: Dante | addressee: Virgilio | source: code | basis: 21-24
+- 23:13 lines 13-18 | speaker: Dante | addressee: Virgilio | source: llm | basis: 13-18
+- 23:21 lines 21-24 | speaker: Dante | addressee: Virgilio | source: llm | basis: 21-21
 
 ## Scene 25-33: Virgil's Strategic Plan
 - 23:25 lines 25-33 | speaker: Virgilio | addressee: Dante | source: code | basis: 25-33
@@ -26,7 +26,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 76-79: The Voice from Behind
-- 23:77 lines 77-79 | speaker: un che 'ntese la parola tosca | addressee: Virgilio | source: llm | basis: 77-79
+- 23:77 lines 77-79 | speaker: un che 'ntese la parola tosca | addressee: Dante | source: llm | basis: 79-79
 
 ## Scene 80-81: Virgil's Command
 # (no attributed speech in this scene)

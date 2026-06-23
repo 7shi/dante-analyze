@@ -10,7 +10,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 34-48: The Furies revealed
-- cohort: tre furïe infernal | source: code | basis: 37-42
+- cohort: tre furïe infernal | source: code | basis: 37-48
 
 ## Scene 49-54: The Furies' frenzy
 # (no soul-class present in this scene)
@@ -19,7 +19,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 61-63: An authorial aside
-- cohort: voi ch'avete li 'ntelletti sani | source: code | basis: 61-61
+# (no soul-class present in this scene)
 
 ## Scene 64-72: A violent disturbance
 # (no soul-class present in this scene)
@@ -31,7 +31,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 88-99: Charon’s reprimand
-- cohort: cacciati del ciel | source: code | basis: 91-98
+- cohort: cacciati del ciel | source: code | basis: 91-96
 
 ## Scene 100-105: The poets advance
 # (no soul-class present in this scene)

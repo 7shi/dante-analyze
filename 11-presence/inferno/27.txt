@@ -9,7 +9,7 @@
 ## Scene 16-30: The Inquiry of the Soul
 - who: Dante | status: present | basis: 19-19
 - who: Virgilio | status: present | basis: 19-19
-- who: l'anima | status: present | basis: 16-30
+- who: l'anima | status: present | basis: 19-30
 
 ## Scene 31-48: Dante's Political Report
 - who: Dante | status: present | basis: 31-35
@@ -17,17 +17,17 @@
 - who: l'anima | status: present | basis: 33-36
 - who: tiranni | status: mentioned | basis: 38-38
 - who: Franceschi | status: mentioned | basis: 44-44
-- who: Malatesta Vecchio | status: mentioned | basis: 46-48
-- who: Malatesta Giovane | status: mentioned | basis: 46-48
+- who: Malatesta Vecchio | status: mentioned | basis: 46-46
+- who: Malatesta Giovane | status: mentioned | basis: 46-46
 
 ## Scene 49-57: The Geography of the Region
-- who: il lïoncel | status: present | basis: 50-50
+- who: il lïoncel | status: mentioned | basis: 50-50
 - who: il Savio | status: mentioned | basis: 52-52
-- who: Guido da Montefeltro | status: present | basis: 49-57
-- who: Dante | status: present | basis: 55-57
+- who: Guido da Montefeltro | status: present | basis: 55-57
+- who: Dante | status: present | basis: 55-56
 
 ## Scene 58-66: The Flame's Vow of Truth
-- who: Dante | status: present | basis: 66-66
+- who: Dante | status: present | basis: 62-66
 
 ## Scene 67-78: The Nature of the Deceiver
 - who: l'anima della seconda fiamma | status: present | basis: 67-78
@@ -49,23 +49,21 @@
 - who: Celestino V | status: mentioned | basis: 105-105
 
 ## Scene 106-111: The Dangerous Advice
-- who: Guido da Montefeltro | status: present | basis: 106-108
+- who: Guido da Montefeltro | status: present | basis: 106-111
 - who: Bonifacio VIII | status: present | basis: 108-111
 
 ## Scene 112-123: The Cherub's Intervention
 - who: Francesco | status: present | basis: 112-114
-- who: l'anima | status: present | basis: 112-123
+- who: l'anima | status: present | basis: 121-123
 - who: un d'i neri cherubini | status: present | basis: 113-123
 - who: i miei meschini | status: mentioned | basis: 115-115
-- who: chi non si pente | status: mentioned | basis: 118-118
 
 ## Scene 124-129: The Judgment of Minos
 - who: Minòs | status: present | basis: 124-127
-- who: l'anima della seconda fiamma | status: present | basis: 124-129
+- who: l'anima della seconda fiamma | status: present | basis: 127-129
 - who: i rei del foco | status: mentioned | basis: 127-127
-- who: Dante | status: present | basis: 128-128
+- who: Dante | status: present | basis: 124-128
 
 ## Scene 130-136: The Departure of the Flame
 - who: Dante | status: present | basis: 133-133
 - who: Virgilio | status: present | basis: 133-133
-- who: quei che scommettendo acquistan carco | status: mentioned | basis: 135-136

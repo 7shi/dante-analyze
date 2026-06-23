@@ -1,7 +1,6 @@
 # Canto 33 — The Tale of Count Ugolino and the Frozen Souls
 
 ## Scene 1-9: The Sinner’s Pause
-- who: quel peccator | status: present | basis: 1-4
 - who: Dante | status: present | basis: 4-9
 - who: al traditor | status: present | basis: 1-8
 
@@ -11,43 +10,43 @@
 - who: arcivescovo Ruggieri | status: present | basis: 14-15
 
 ## Scene 16-27: The Imprisonment
-- who: Ruggieri | status: mentioned | basis: 16-21
-- who: Ugolino | status: present | basis: 17-27
+- who: arcivescovo Ruggieri | status: mentioned | basis: 16-21
+- who: conte Ugolino | status: present | basis: 17-27
 - who: Dante | status: present | basis: 19-21
 - who: altrui | status: mentioned | basis: 24-24
 
 ## Scene 28-36: The Prison Landscape
-- who: Ruggieri | status: mentioned | basis: 29-29
-- who: Ugolino | status: present | basis: 28-35
+- who: arcivescovo Ruggieri | status: present | basis: 28-28
+- who: conte Ugolino | status: present | basis: 29-35
 - who: i Pisan | status: mentioned | basis: 30-30
-- who: Gualandi | status: present | basis: 32-32
-- who: Sismondi | status: present | basis: 32-32
-- who: Lanfranchi | status: present | basis: 32-32
-- who: i figli | status: present | basis: 35-35
+- who: Gualandi | status: mentioned | basis: 32-32
+- who: Sismondi | status: mentioned | basis: 32-32
+- who: Lanfranchi | status: mentioned | basis: 32-32
+- who: i figli | status: present | basis: 29-35
 
 ## Scene 37-54: The Morning of Hunger
-- who: Ugolino | status: present | basis: 37-54
+- who: conte Ugolino | status: present | basis: 37-54
 - who: i figliuoli di Ugolino | status: present | basis: 38-50
 - who: Dante | status: present | basis: 40-42
 - who: Anselmuccio | status: present | basis: 50-51
 
 ## Scene 55-66: The Terrible Choice
-- who: Ugolino | status: present | basis: 56-65
+- who: conte Ugolino | status: present | basis: 56-65
 - who: Anselmuccio | status: present | basis: 57-65
 
 ## Scene 67-75: The Death of the Children
-- who: Ugolino | status: present | basis: 68-74
-- who: i figli di Ugolino | status: present | basis: 68-74
+- who: i figli di Ugolino | status: present | basis: 67-74
 - who: Gaddo | status: present | basis: 68-70
+- who: conte Ugolino | status: present | basis: 67-75
 - who: Dante | status: present | basis: 70-70
 
 ## Scene 76-78: Resumption of the Feast
-- who: Ugolino | status: present | basis: 76-78
+- who: conte Ugolino | status: present | basis: 76-78
 
 ## Scene 79-90: The Curse on Pisa
 - who: vicini | status: mentioned | basis: 81-81
 - who: ogne persona | status: mentioned | basis: 84-84
-- who: conte Ugolino | status: present | basis: 79-90
+- who: conte Ugolino | status: present | basis: 85-85
 - who: i figliuoi | status: mentioned | basis: 87-87
 - who: Uguiccione | status: mentioned | basis: 89-89
 - who: la brigata | status: mentioned | basis: 89-89
@@ -55,18 +54,18 @@
 - who: Gaddo | status: mentioned | basis: 90-90
 
 ## Scene 91-108: Entering Cocytus
-- who: Dante | status: present | basis: 91-107
+- who: Dante | status: present | basis: 91-108
 - who: Virgilio | status: present | basis: 91-108
 - who: un'altra gente | status: present | basis: 92-99
-- who: Lucifero | status: mentioned | basis: 104-108
+- who: Lucifero | status: mentioned | basis: 108-108
 
 ## Scene 109-117: The Cry for Unmasking
 - who: un de' tristi | status: present | basis: 109-114
-- who: Dante | status: present | basis: 110-117
+- who: Dante | status: present | basis: 115-117
 - who: Virgilio | status: present | basis: 110-110
 
 ## Scene 118-126: The Identity of Alberigo
-- who: frate Alberigo | status: present | basis: 118-122
+- who: frate Alberigo | status: present | basis: 118-126
 - who: Dante | status: present | basis: 121-122
 - who: l'anima | status: mentioned | basis: 125-125
 - who: Atropòs | status: mentioned | basis: 126-126
@@ -74,9 +73,9 @@
 ## Scene 127-138: The Mechanics of the Tolomea
 - who: Dante | status: present | basis: 127-136
 - who: Fra Alberigo | status: present | basis: 127-135
-- who: l'anima | status: mentioned | basis: 129-129
+- who: l'anima | status: mentioned | basis: 129-133
 - who: demonio | status: mentioned | basis: 131-131
-- who: ser Branca Doria | status: present | basis: 134-138
+- who: ser Branca Doria | status: present | basis: 134-137
 
 ## Scene 139-150: The Dispute with Alberigo
 - who: Dante | status: present | basis: 139-149
@@ -89,6 +88,6 @@
 
 ## Scene 151-157: The Curse on Genoa
 - who: Genovesi | status: mentioned | basis: 151-153
-- who: peggiore spirto di Romagna | status: present | basis: 151-157
+- who: peggiore spirto di Romagna | status: mentioned | basis: 154-154
 - who: Dante | status: present | basis: 151-157
 - who: Alberigo | status: present | basis: 151-157

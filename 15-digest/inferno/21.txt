@@ -1,97 +1,97 @@
 # Canto 21 — The Encounter with the Malebranche and Malacoda
 
 ## Scene 1-6: Arrival at the new, dark ditch
-en: Crossing the *ponte* on *l'argine quarto*, *Virgilio* speaks on matters other than the poem as he and *Dante* reach the next fissure. Stopping to look, *Dante* observes that the ditch is remarkably dark.
-ja: 第四の堤防の橋を渡る間、Virgilioは詩とは別の話題について語っていたが、やがて二人は次の裂け目に辿り着いた。足を止めて覗き込んだDanteは、その溝がひどく暗いことに気づいた。
+en: Moving across the *ponte* in *l'argine quarto*, *Virgilio* speaks of other matters until they stop to look into the next gap, which *Dante* finds remarkably dark.
+ja: 第四の堤防の橋を渡りながら、Virgilioは別の事柄について語っていたが、やがて二人は足を止め、次の裂け目を覗き込んだ。Danteの目に、そこは驚くほど暗く映った。
 
 ## Scene 7-18: The Venetian shipyard simile
-en: On *la ripa* in *l'argine quarto*, thick pitch boils by divine art, evoking the winter shipyard labors of the mentioned *Viniziani*.
-ja: 第四の堤防の岸辺では、神の術によって濃厚なピッチが煮え立ち、それは前述のVinizianiたちが冬の造船所で送った労働の日々を彷彿とさせていた。
+en: In *l'argine quarto*, a thick layer of pitch boils by divine art at *la ripa*, clinging to the banks. This is compared to the winter labor of the *Viniziani*, who boil pitch to repair their ships.
+ja: 第四の堤防の岸辺では、神の術によって厚い瀝青の層が煮え立ち、岸にまとわりついている。その様は、船を修理するために瀝青を煮上げる Viniziani の冬の仕事に例えられていた。
 
 ## Scene 19-21: Observing the boiling pitch
-en: On *la ripa* in *l'argine quarto*, *Dante* observes the boiling pitch, though the churning bubbles prevent him from seeing into its depths.
-ja: la ripa in l'argine quartoにて、Danteは煮えたぎるピッチを眺めていたが、激しく沸き立つ泡に遮られ、その深奥までは見通せなかった。
+en: At *la ripa* in *l'argine quarto*, *Dante* observes the pitch, but the swelling bubbles produced by the boiling prevent him from seeing within it.
+ja: 第四の堤の岸辺にて、Danteはピッチを見つめるが、沸騰して膨らむ気泡に遮られ、その内部を覗き見ることはできなかった。
 
 ## Scene 22-24: Virgil pulls Dante away
-en: As *Dante* gazes intently down on *la ripa* in *l'argine quarto*, *Virgilio* warns him to look and pulls him away from where he stood.
-ja: Danteがla ripa in l'argine quartoをじっと見下ろしていると、Virgilioは彼に注意を促し、立っていた場所から彼を引き離した。
+en: While *Dante* stared fixedly down at *la ripa* in *l'argine quarto*, *Virgilio* urged him to look and pulled him away from where he stood.
+ja: Danteが第四の堤の岸辺をじっと見下ろしていると、Virgilioは彼に促し、立っていた場所から引き離した。
 
 ## Scene 25-33: The appearance of the demon
-en: Comparing himself to *l'uom* who flees in sudden fear, *Dante* turns to see *un diavol nero* running toward him and *Virgilio* on *lo scoglio*. The demon appears fierce and agile, charging with open wings.
-ja: 突然の恐怖に駆られて逃げ出す l'uom に自らを重ね、Dante が振り返ると、そこにはこちらへ向かって走ってくる un diavol nero と、岩の上に立つ Virgilio の姿があった。その悪魔は猛々しくしなやかな様子で、翼を広げて突進してくる。
+en: At *lo scoglio*, *Dante* turns around with the sudden fear of *l'uom* who must flee, seeing *un diavol nero* running toward him and *Virgilio* with a fierce expression and open wings.
+ja: 岩場にて、逃げ出さねばならぬ l'uom が抱く不意の恐怖に駆られて Dante が振り返ると、そこには自分へと駆け寄ってくる un diavol nero と、険しい表情で翼を広げた Virgilio の姿があった。
 
 ## Scene 34-36: The demon's physical ferocity
-en: On *lo scoglio*, a member of the *Malebranche* uses his sharp shoulders and flanks to hoist up *un peccator*, gripping the soul firmly by the tendons of the feet.
-ja: 岩の上で、Malebrancheの一人が鋭い肩と脇を用いてun peccatorを吊り上げ、その足の腱をしっかりと掴んでいた。
+en: At *lo scoglio*, *Malebranche* uses his sharp and haughty shoulder and both flanks to hoist up *un peccator*, gripping him by the tendons of the feet.
+ja: 岩場にて、Malebrancheは鋭く不遜な肩と両脇を使い、un peccatorの足の腱を掴んで吊り上げた。
 
 ## Scene 37-42: The demon's declaration
-en: On `*lo scoglio*`, the `*demonio*` urges the `*Malebranche*` to seize `*Dante*` and `*Virgilio*`, mockingly identifying them as corrupt officials. He claims that everyone in their land is a barrator, except for the mentioned `*Bonturo*`.
-ja: 岩の上で、`demonio` は `Malebranche` に `Dante` と `Virgilio` を捕らえるよう促し、二人を汚職役人であると嘲笑った。彼は、例の `Bonturo` を除けば、彼らの地の者は皆贈賄者なのだと主張した。
+en: At *lo scoglio*, the *demonio* calls to the *Malebranche*, mocking *Dante* and *Virgilio* and urging the demons to cast them down. He remarks that nearly everyone in their home is corrupt, save for the mentioned *Bonturo*.
+ja: lo scoglioにて、demonioはMalebrancheに呼びかけ、DanteとVirgilioを嘲笑いながら、彼らを突き落とすよう促した。そして、例のBonturoを除けば、自分たちの住まう地の者はほぼすべてが堕落していると彼は述べた。
 
 ## Scene 43-46: The demon's departure
-en: On `*lo scoglio duro*` in `*l'argine quarto*`, a demon flings `*lo furo*` down and dives after him like a loose mastiff, eventually twisting back up to the surface.
-ja: `l'argine quarto`の`lo scoglio duro`にて、ある悪魔が`lo furo`を突き落とし、解き放たれたマスティフのように後を追って潜ると、やがて身をよじって水面へと浮上した。
+en: He drops him at `*lo scoglio duro*` in `*l'argine quarto*` and dives back down with the haste of one pursuing `*lo furo*`, only to resurface.
+ja: 彼は`l'argine quarto`の`lo scoglio duro`に彼を降ろすと、`lo furo`を追う者の如き急ぎ足で再び深く潜り、そしてまた浮かび上がった。
 
 ## Scene 47-54: Warnings from the bridge demons
-en: On *lo scoglio duro*, the *Malebranche* shout that *Dante* and *Virgilio* are not welcome and warn *Dante* not to lean too far over the edge if he wishes to avoid their scratches. Snapping at him, the *Malebranche* advise *Dante* to keep covered and sneak away if possible.
-ja: lo scoglio duroにて、MalebrancheはDanteとVirgilioを拒絶し、爪でひっかかれたくなければ身を乗り出しすぎるなとDanteに警告した。彼らは激しい口調で、身を隠して可能な限り密かに立ち去るようDanteに促した。
+en: At *lo scoglio duro*, the *Malebranche* shout that *Dante* and *Virgilio* have no place there and warn *Dante* not to lean too far over the edge if he wishes to avoid their claws. Snapping at him, they urge *Dante* to stay hidden and sneak away if possible.
+ja: 硬い岩場にて、MalebrancheはDanteとVirgilioにここはお前たちの居場所ではないと叫び、爪に捉えられたくなければ端に身を乗り出しすぎるなとDanteに警告した。彼らは激しく怒鳴りつけ、身を隠したまま、可能であれば密かに立ち去るようDanteに促した。
 
 ## Scene 55-57: The cooking simile
-en: On *lo scoglio duro*, the mentioned *Malebranche* are likened to cooks who use hooks to push meat down into a pot, ensuring the mentioned *barattieri* do not float to the surface.
-ja: lo scoglio duroにおいて、前述のMalebrancheは、barattieriが表面に浮かび上がらぬよう、鉤を使って肉を鍋の底へと押し込む料理人に例えられている。
+en: At *lo scoglio duro*, the *Malebranche* are likened to cooks who use hooks to push meat down into a boiling cauldron to prevent the *barattieri* from floating to the surface.
+ja: lo scoglio duroにおいて、Malebrancheは、煮えたぎる大釜の中に肉を押し込む料理人のごとく、鉤爪を用いてbarattieriが水面に浮かび上がるのを阻んでいる。
 
 ## Scene 58-63: Virgil's advice to Dante
-en: On `*lo scoglio duro*` in `*l'argine quarto*`, `*Virgilio*` tells `*Dante*` to crouch behind a rock for cover and reassures him not to fear any offense, for `*Virgilio*` has navigated such dealings before.
-ja: `l'argine quarto` の `lo scoglio duro` において、`Virgilio` は `Dante` に岩陰に身を潜めるよう促し、自分は以前にもこうしたやり取りを経験しているため、危害を受けることを恐れる必要はないと彼を安心させた。
+en: At *lo scoglio duro* in *l'argine quarto*, *Virgilio* tells *Dante* to crouch behind a rock fragment to remain hidden. He urges *Dante* not to fear any offense directed at him, as *Virgilio* has handled such exchanges before.
+ja: 第四の堤防にある硬い岩のところで、Virgilioは身を隠すために岩の破片の後ろに身を潜めるようDanteに告げた。自分はこれまでにもこうしたやり取りを経験してきたため、向けられるいかなる侮辱も恐れることはないと、彼はDanteを促した。
 
 ## Scene 64-66: Virgil crosses the bridge
-en: *Virgilio* crosses the *co del ponte* in *l'argine quarto*, where he must remain vigilant upon reaching the opposite bank.
-ja: Virgilioは第四の堤防にある橋を渡るが、対岸に辿り着いた際には、細心の注意を払い警戒し続けなければならない。
+en: `*Virgilio*` crosses the `*co del ponte*` and, upon arriving at the sixth bank, finds it necessary to remain vigilant.
+ja: Virgilioは橋を渡り、六番目の岸に辿り着くと、警戒を怠ってはならないと心得た。
 
 ## Scene 67-75: The demon attack and Virgil's challenge
-en: Like dogs attacking a mentioned *poverello*, the *Malebranche* rush from beneath the *co del ponte* and turn their hooks against *Virgilio*. *Virgilio* shouts for them to stop and demands that one of the *Malebranche* step forward to listen to him before they attempt to hook him.
-ja: 例の poverello に襲いかかる犬のごとく、Malebranche たちが橋の下からなだれ込み、Virgilio に鉤爪を向けた。Virgilio は彼らに止まれと叫び、自分を捕らえる前に Malebranche の誰か一人が前に出て話を聞くよう要求した。
+en: Like dogs attacking a mentioned *poverello*, the *Malebranche* rush from under the *co del ponte* and aim their hooks at *Virgilio*. *Virgilio* shouts for them to hold back and demands that one of the *Malebranche* step forward to listen to him before they attack.
+ja: 例のpoverelloに群がる犬のごとく、Malebrancheたちが橋の下からなだれ込み、Virgilioに鉤爪を突きつけた。Virgilioは彼らを制して叫び、襲いかかる前にMalebrancheの一人が前へ出て、自分の話を聞くよう命じた。
 
 ## Scene 76-78: The selection of Malacoda
-en: At the *co del ponte* in *ripa sesta*, the others shout for *Malacoda* to step forward; he separates from them and approaches *Virgilio*, asking what brings him there.
-ja: 第六の岸の橋の袂で、他の者たちがMalacodaに前に出るよう叫ぶと、彼は彼らから離れてVirgilioに近づき、何ゆえにここへ来たのかと問いかけた。
+en: At *co del ponte*, *Malacoda* steps forward as he is called and approaches *Virgilio*, questioning what brings him there.
+ja: 橋のところで、呼ばれた Malacoda が前へ歩み出て Virgilio に近づき、何ゆえにここへ来たのかと問いかけた。
 
 ## Scene 79-84: Virgil's rebuttal
-en: At the *co del ponte*, *Virgilio* asks *Malacoda* if he believes they arrived without divine will and fate, then commands the *Malebranche* to let them pass as heaven wills that he show the way.
-ja: co del ponteにて、VirgilioはMalacodaに、自分たちが神の意志と運命なしにここに辿り着いたと思うかと問いかけ、天が自らに道を導くよう望んでいるのだから通せとMalebrancheに命じた。
+en: At *co del ponte*, *Virgilio* asks *Malacoda* if he believes his arrival was not ordained by divine will and fate, then commands the *Malebranche* to let them pass.
+ja: 橋のところで、VirgilioはMalacodaに、自らの到来が神の意志と運命によって定められたものではないと思うのかと問いかけ、そしてMalebrancheに道をあけるよう命じた。
 
 ## Scene 85-87: The demons' submission
-en: At the *co del ponte* in *ripa sesta*, *Malacoda*'s pride collapses, and he lets his hook fall to his feet. He then tells the *Malebranche* that no further harm should be done.
-ja: 第六岸の橋のたもとにて、Malacodaの矜持は崩れ、手にした鉤を足元に落とした。そして彼はMalebrancheに対し、もはやこれ以上の危害は加えるなと告げた。
+en: At *co del ponte*, *Malacoda*'s pride vanishes, and he lets his hook fall to his feet. He then tells the *Malebranche* that the others should no longer be harmed.
+ja: 橋のところで、Malacodaは誇りを失い、鉤爪を足元に落とした。そして、もはや他者を傷つけるべきではないとMalebrancheに告げた。
 
 ## Scene 88-90: Virgil's second command to Dante
-en: At *li scheggion del ponte*, *Virgilio* tells *Dante*, who is crouching among *li scheggion*, that he may now safely return to him.
-ja: li scheggion del ponteにて、li scheggionの間にうずくまっていたDanteに、Virgilioはもう安全に自分のもとへ戻ってきてよいと告げる。
+en: At *li scheggion del ponte*, *Virgilio* tells *Dante*, who is hiding among *li scheggion*, that it is now safe for him to return.
+ja: li scheggion del ponteにて、li scheggionの間に身を潜めていたDanteに、Virgilioはもはや戻っても安全であると告げた。
 
 ## Scene 91-96: The travelers' encirclement
-en: *Dante* quickly approaches *Virgilio* at *li scheggion del ponte*, but the *Malebranche* advance, making him fear they have made a secret pact. He likens this dread to that of the mentioned *li fanti* upon seeing *nemici cotanti*.
-ja: Danteは橋の破片にて急ぎVirgilioへと歩み寄るが、Malebrancheが迫り来る様子に、彼らが密約を交わしたのではないかという不安に駆られた。その恐れは、先に述べられたli fantiがnemici cotantiを目の当たりにした際に抱いた恐怖に似ていた。
+en: At *li scheggion del ponte*, *Dante* quickly approaches *Virgilio*, but the *Malebranche* advance to surround them. This fills *Dante* with a fear like that once felt by *li fanti* when faced with *nemici cotanti*.
+ja: 橋の破片があるところで、Danteが急いでVirgilioに歩み寄ると、Malebrancheが彼らを包囲しようと迫り出した。そのときDanteは、かつてのli fantiがnemici cotantiに直面した際に抱いたような恐怖に打ち震えた。
 
 ## Scene 97-102: The demons' taunts
-en: At *li scheggion del ponte*, *Dante* presses close to *Virgilio* while staring at the menacing expressions of the *Malebranche*. The *Malebranche* whisper among themselves, mockingly debating whether one of them should plant a hook in *Dante*'s rump.
-ja: 橋の張り出しところで、DanteはMalebrancheたちの威圧的な表情を凝視しながら、Virgilioに身を寄せた。Malebrancheたちは互いに囁き合い、誰がDanteの尻に鉤を突き立てるべきか、嘲笑混じりに議論していた。
+en: At *li scheggion del ponte*, *Dante* draws close to *Virgilio* while staring at the menacing *Malebranche*, who lower their hooks and whisper among themselves about whether to snag *Dante* on his rump.
+ja: 橋の破片が転がる場所で、DanteはVirgilioに身を寄せながら、脅威を漂わせるMalebrancheを凝視していた。彼らは鉤爪を下げ、Danteの尻をひっかけようかと密かに囁き合っている。
 
 ## Scene 103-105: Malacoda's interruption
-en: At *li scheggion del ponte*, *Malacoda* turns away from his conversation with *Virgilio* and sharply commands *Scarmiglione* to stop.
-ja: 橋の破片のところで、MalacodaはVirgilioとの会話を切り上げ、Scarmiglioneに止まるよう鋭く命じた。
+en: At *li scheggion del ponte*, *Malacoda* quickly turns away from his conversation with *Virgilio* and orders *Scarmiglione* to hold back.
+ja: li scheggion del ponteにて、Malacodaは素早くVirgilioとの会話を切り上げ、Scarmiglioneに待機するよう命じた。
 
 ## Scene 106-117: Malacoda's news
-en: On the *iscoglio*, *Malacoda* informs *Dante* and *Virgilio* that the bridge is broken and directs them through a grotto, sending some *Malebranche* to see if *alcun* is attempting to escape. He invites *Dante* and *Virgilio* to accompany the *Malebranche*, assuring them that they will not be harmful.
-ja: 岩の上で、MalacodaはDanteとVirgilioに橋が壊れていることを伝え、彼らを洞窟へと導き、alcunが脱走を図っていないか確かめるため数人のMalebrancheを送り出した。そして、彼らが危害を加えることはないと保証し、DanteとVirgilioにMalebrancheへ同行するように促した。
+en: *Malacoda* informs *Dante* and *Virgilio* that the *iscoglio* is impassable due to a collapsed bridge and directs them toward a grotto. He suggests they accompany the *Malebranche* who are checking to see if *alcun* is trying to climb out.
+ja: Malacodaは、橋の崩落により岩礁が通行不能であることをDanteとVirgilioに告げ、彼らを洞窟へと導いた。そして、alcunが外へ這い上がろうとしていないか見張っているMalebrancheに同行することを提案した。
 
 ## Scene 118-126: The deployment of the demons
-en: On the *iscoglio*, *Malacoda* summons *Alichino*, *Calcabrina*, *Cagnazzo*, *Barbariccia*, *Libicocco*, *Draghignazzo*, *Cirïatto sannuto*, *Graffiacane*, *Farfarello*, and *Rubicante pazzo*, appointing *Barbariccia* as leader. He orders them to patrol the boiling pitch and ensure that *Dante* and *Virgilio* remain safe until they reach the next ledge.
-ja: 岩場にて、MalacodaはAlichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Cirïatto sannuto, Graffiacane, Farfarello, そして Rubicante pazzoを呼び集め、Barbaricciaをリーダーに指名した。そして彼らに、煮えたぎる瀝青を巡回し、DanteとVirgilioが次の岩棚に辿り着くまでその安全を確保するよう命じた。
+en: At the *iscoglio*, *Malacoda* summons *Alichino*, *Calcabrina*, *Cagnazzo*, *Barbariccia*, *Libicocco*, *Draghignazzo*, *Cirïatto sannuto*, *Graffiacane*, *Farfarello*, and *Rubicante pazzo*. He appoints *Barbariccia* as leader and instructs them to patrol the boiling pitch while ensuring the safety of *Dante* and *Virgilio* until they reach the next ledge.
+ja: iscoglioにて、MalacodaはAlichino、Calcabrina、Cagnazzo、Barbariccia、Libicocco、Draghignazzo、Cirïatto sannuto、Graffiacane、Farfarello、そしてRubicante pazzoを呼び寄せた。彼はBarbaricciaをリーダーに指名し、DanteとVirgilioが次の棚に辿り着くまで、二人の安全を確保しながら沸き立つ瀝青を巡回するよう命じた。
 
 ## Scene 127-132: Dante's growing anxiety
-en: On the *iscoglio*, *Dante* expresses his anxiety to *Virgilio*, urging him to lead the way alone if he knows how, as he sees the *Malebranche* grinding their teeth and threatening them with menacing glares.
-ja: 岩場で、DanteはVirgilioに不安を吐露し、歯を食いしばり恐ろしい眼差しで威嚇するMalebrancheの姿に怯えながら、もし道がわかるのであれば一人で先導してほしいと促した。
+en: At the *iscoglio*, *Dante* expresses his anxiety to *Virgilio* and asks if they can proceed alone, noting that the *Malebranche* are grinding their teeth and threatening them with menacing looks.
+ja: 岩場に立ったDanteは、Malebrancheたちが歯ぎしりをしながら険しい視線で威嚇していることに気づき、Virgilioに不安を漏らして、二人だけで先へ進めるのかと問いかけた。
 
 ## Scene 133-139: Malacoda's reassurance and the demons' exit
-en: On the *iscoglio*, *Malacoda* tells *Dante* not to fear the *Malebranche*, claiming their menacing expressions are intended for the mentioned *li lessi dolenti*. As they turn to lead the way, the *Malebranche* secretly signal *Barbariccia* by biting their tongues and making noises with their rear ends.
-ja: 岩場でMalacodaは、Malebrancheの険しい表情は先ほど述べたli lessi dolentiに向けられたものに過ぎないとして、Danteに彼らを恐れるなと告げた。案内しようと背を向けた際、Malebrancheは舌を噛み、尻で音を鳴らすことで、密かにBarbaricciaに合図を送った。
+en: At the *iscoglio*, *Malacoda* tells *Dante* not to be afraid, claiming the *Malebranche* grind their teeth only because of the mentioned *li lessi dolenti*. As they lead the way, the *Malebranche* signal to *Barbariccia* by biting their tongues and farting.
+ja: 岩場にてMalacodaは、Malebrancheが歯ぎしりをしているのは例のli lessi dolentiのせいなだけだと語り、Danteに恐れるなと告げた。先導するMalebrancheたちは、舌を噛み、屁をこくことでBarbaricciaに合図を送った。

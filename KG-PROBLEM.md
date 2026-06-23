@@ -1,47 +1,20 @@
 # Node identity — open problems
 
-> **Status.** The identity-resolution *mechanism* is complete and documented where it lives, not here:
-> Fix 1 (deterministic alias merge) and Fix 2 (per-tag coreference overlay) in `05-registry/README.md`
-> ("Identity resolution beyond fold_key"); the `deictic` type and the individual+collective bundle
-> split in `04-tags/README.md` (typing), `05-registry/README.md`, `ARCHITECTURE.md`, and the
-> `11-presence` / `13-cohort` READMEs. **This document tracks only the identity problems still open**,
-> plus the propagation reality that makes any node-set change a coarse, manual rebuild.
->
-> **Scope.** Node identity only; other deferred quality work (pronoun-layer marking, diff-only
-> storage, digest follow-ups) lives in `PLAN.md` §2 "Deferred quality work".
+> **Scope.** The identity-resolution *mechanism* lives where it is used, not here: Fix 1 (deterministic
+> alias merge) and Fix 2 (per-tag coreference overlay) in `05-registry/README.md` ("Identity resolution
+> beyond fold_key"); the `deictic` type and the individual+collective bundle split in `04-tags/README.md`
+> (typing), `05-registry/README.md`, `ARCHITECTURE.md`, and the `11-presence` / `13-cohort` READMEs.
+> Other deferred quality work (pronoun-layer marking, diff-only storage, digest follow-ups) lives in
+> `PLAN.md` §2 "Deferred quality work". **This document tracks the one remaining open problem below.**
 
-## Why node identity matters
-
-Two requirements drive the knowledge graph:
-
-1. **Accurate character listing** — one node per actual figure, no duplicates, no phantom entries.
-2. **Person-centric dynamics extraction** — querying a figure returns *all* of its edges, nothing
-   silently missing.
-
-Both depend on **node identity**. If one person is split across two nodes (bare `Guido` vs.
-`Guido da Montefeltro`), the listing over-counts and a query on either node returns a partial view.
-`04-tags` resolves each tag *per scene* and never cross-links tags across scenes; `fold_key` in the
-registry merges only cosmetic drift (case, articles, elision); the identity layers on top (see Status)
-close most of the rest.
-
-## The constraint any identity fix must respect
-
-Steps `06`–`08` and `11`/`13` join to the registry by `fold_key → canonical` (`raw_to_canonical`).
-This map is **global**: it cannot route one surface form to two different nodes. So a per-tag identity
-decision **cannot** be expressed as a registry edit — it must make the *label itself* identity-first,
-applied at the one place every consumer reads tags (`load_tags`). Once labels are identity-first, the
-existing join folds each tag onto the right node with **no change to the join or to 06/08/11**. Any
-future identity work has to live at this layer (a `load_tags` overlay) or earlier (node construction /
-typing), never as a downstream filter.
-
----
-
-## Open problem 1 — no granular invalidation
+## Open problem — no granular invalidation
 
 A correct node set is necessary but its propagation is **not free**. The passes that consume identity
 are spread across the pipeline, some cache their LLM output, and there is **no granular
 invalidation** — a node-set change does not automatically re-run the passes that depended on the old
 identities, and the LLM passes that cache finished scenes will **silently skip** the ones that changed.
+The safe fallback is a full clean (`make clean && make` across 11→15), which regenerates all 100 cantos
+and is always correct but coarse.
 
 ### How a node-set change reaches each pass
 
@@ -94,3 +67,34 @@ change actually touched.
 mechanism — record which cantos a node-set change touched and clear exactly those caches — would make
 a rebuild incremental instead of coarse. Optional; it lowers rebuild cost, it does not affect
 correctness.
+
+### Feasibility (assessed, not yet built)
+
+A targeted invalidator is **feasible and structurally easy** — not a research problem, roughly a
+single helper script. The key enabler is the output layout: each caching pass stores **one file per
+canto** (`11-presence/<canticle>/NN.txt`, etc.) and derives its resume set *from that file itself*
+(`done_scene_ends(path)` reads the scene-ends already present in the canto's own output — the
+checkpoint **is** the cache, there is no separate opaque cache to surgically edit). So invalidating a
+canto is just `rm <pass>/<canticle>/NN.txt`; the existing resume regenerates only the missing cantos.
+The pipeline is already canto-granular by construction.
+
+Three mechanical ingredients, all deterministic (no LLM):
+
+1. **Touched-canto computation.** A coreference-overlay edit is a `coref.txt` diff whose keys already
+   carry `canticle/canto/s/e`, so the touched cantos fall out directly; a typing/registry change is a
+   `types.txt` / node-set diff joined through the tags to the cantos where the changed nodes appear.
+2. **Invalidation = file delete.** `rm` the per-canto checkpoint for each touched canto in each
+   affected pass.
+3. **Dependency fan-out.** A small fixed graph (`registry → 11/13`, `11 → 12`, `14 → 15`): a canto
+   invalidated upstream propagates to its downstream passes.
+
+**The one real risk is under-invalidation (completeness), not difficulty.** A merge can affect a
+canto whose text never contains the changed label but whose roster/addressee referenced it
+transitively; if the touched set misses it, that canto is **silently stale** — strictly worse than a
+full clean, which is always correct. So the touched-canto computation must be **conservative
+(over-include)**, and the safe fallback (`make clean`) must stay the documented escape hatch.
+
+**Why it stays deferred:** the full-clean fallback is always correct, so this is a pure cost
+optimization. It becomes worth building only if node-set changes become frequent enough that
+regenerating all 100 cantos per change is the dominant cost. Effort is small (≈ a day); priority is
+low until rebuild frequency justifies it.

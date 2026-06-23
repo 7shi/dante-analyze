@@ -16,7 +16,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 34-42: The Decision to Investigate
-- 17:39 lines 39-42 | speaker: Virgilio | addressee: Dante | source: llm | basis: 39-41
+- 17:39 lines 39-42 | speaker: Virgilio | addressee: Dante | source: llm | basis: 39-42
 
 ## Scene 43-51: The Agony of the Souls
 # (no attributed speech in this scene)
@@ -34,7 +34,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 79-84: Mounting the Beast
-- 17:81 lines 81-84 | speaker: Virgilio | addressee: Dante | source: llm | basis: 81-83
+- 17:81 lines 81-84 | speaker: Virgilio | addressee: Dante | source: llm | basis: 81-81
 
 ## Scene 85-90: Dante's Internal Terror
 # (no attributed speech in this scene)

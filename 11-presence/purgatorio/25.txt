@@ -2,17 +2,16 @@
 
 ## Scene 1-9: The Ascent of the Path
 - who: storpio | status: mentioned | basis: 1-1
-- who: l'uom | status: mentioned | basis: 4-4
+- who: l'uom | status: mentioned | basis: 4-6
 - who: Dante | status: present | basis: 7-8
 - who: Virgilio | status: present | basis: 7-8
 
 ## Scene 10-15: Dante's Hesitation
-- who: Dante | status: present | basis: 13-14
-- who: colui ch'a dicer s'argomenta | status: mentioned | basis: 15-15
+- who: Dante | status: present | basis: 13-15
 
 ## Scene 16-18: Virgil's Encouragement
 - who: Virgilio | status: present | basis: 16-17
-- who: Dante | status: present | basis: 16-18
+- who: Dante | status: present | basis: 17-18
 
 ## Scene 19-21: The Central Question
 - who: Dante | status: present | basis: 19-20
@@ -22,11 +21,11 @@
 - who: Virgilio | status: present | basis: 22-30
 - who: Dante | status: present | basis: 22-30
 - who: Meleagro | status: mentioned | basis: 22-23
-- who: Stazio | status: present | basis: 29-30
+- who: Stazio | status: present | basis: 29-29
 
 ## Scene 31-33: Statius's Consent
-- who: Stazio | status: present | basis: 32-32
-- who: Dante | status: present | basis: 32-33
+- who: Stazio | status: present | basis: 32-33
+- who: Dante | status: present | basis: 32-32
 
 ## Scene 34-42: The Power of Blood
 - who: Stazio | status: present | basis: 34-34
@@ -40,22 +39,22 @@
 - who: Dante | status: present | basis: 58-63
 - who: generante | status: mentioned | basis: 59-59
 - who: un fante | status: mentioned | basis: 61-61
-- who: Aristotele | status: mentioned | basis: 63-66
+- who: Aristotele | status: mentioned | basis: 63-64
 
 ## Scene 67-75: The Development of the Spirit
 - who: Dante | status: present | basis: 67-67
 - who: lo motor primo | status: mentioned | basis: 70-70
-- who: spirito novo | status: mentioned | basis: 72-73
+- who: spirito novo | status: mentioned | basis: 72-72
 - who: un'alma sola | status: mentioned | basis: 74-74
 
 ## Scene 76-84: The Thread of Fate
 - who: Dante | status: present | basis: 76-77
 - who: omor | status: mentioned | basis: 78-78
 - who: Làchesis | status: mentioned | basis: 79-79
-- who: l'anima | status: mentioned | basis: 80-81
+- who: l'anima | status: mentioned | basis: 80-84
 
 ## Scene 85-90: The Expansion of Virtue
-- who: l'anima | status: mentioned | basis: 85-88
+- who: l'anima | status: present | basis: 85-90
 
 ## Scene 91-102: The Metaphor of Light and Shadow
 - who: Spirto | status: mentioned | basis: 99-99
@@ -66,13 +65,13 @@
 - who: l'ombra | status: mentioned | basis: 107-107
 
 ## Scene 109-117: Navigating the Abyss
-- who: Virgilio | status: present | basis: 109-111
-- who: Dante | status: present | basis: 109-117
+- who: Virgilio | status: present | basis: 110-115
+- who: Dante | status: present | basis: 110-117
 
 ## Scene 118-120: Virgil's Warning
 - who: Virgilio | status: present | basis: 118-118
 - who: Dante | status: present | basis: 118-118
-- who: Stazio | status: present | basis: 118-118
+- who: Stazio | status: mentioned | basis: 118-120
 
 ## Scene 121-126: The Hymn of Mercy
 - who: Deus | status: mentioned | basis: 121-121
@@ -91,4 +90,4 @@
 
 ## Scene 136-139: The Purpose of the Ritual
 - who: Dante | status: present | basis: 136-136
-- who: lussuriosi | status: mentioned | basis: 136-137
+- who: lussuriosi | status: present | basis: 136-137

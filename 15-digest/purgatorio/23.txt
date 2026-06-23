@@ -1,65 +1,65 @@
 # Canto 23 — The Encounter with Forese and the Shadows of Limbo
 
 ## Scene 1-6: The Father's Command
-en: While *Dante* gazed fixedly at the foliage of *l'alber*, *Virgilio* urged him to move on to make better use of the time allotted to them.
-ja: Danteがその樹の葉をじっと見つめていると、Virgilioは限られた時間を有効に使うため、先へ進むよう彼に促した。
+en: *Dante* stares intently into the greenery of *l'alber*, until *Virgilio* urges him to follow, reminding him that they must use their allotted time more effectively.
+ja: Danteがその木の緑にじっと見入っていると、Virgilioが、与えられた時間をより有効に使うべきだと諭し、ついてくるよう促した。
 
 ## Scene 7-9: Following the Sages
-en: *Dante* turns away from *l'alber* and follows *Virgilio* and *Stazio*, whose conversation makes the journey feel effortless.
-ja: Danteは樹から目を離し、VirgilioとStazioに従った。二人が交わす会話のおかげで、旅路の疲れを感じることはなかった。
+en: *Dante* turns away from *l'alber* to follow *Virgilio* and *Stazio*, whose conversation makes the walk feel effortless.
+ja: Danteはその木を離れ、VirgilioとStazioの後について歩き出した。二人の会話のおかげで、道中の疲れを感じることなく、足取りは軽やかであった。
 
 ## Scene 10-15: The Sound of Sorrow
-en: At *l'alber*, *Dante* hears *l'ombre* singing a prayer to *Dio*, a sound that evokes both pleasure and pain. When *Dante* asks about the noise, *Virgilio* explains that they are *l'ombre* fulfilling their duties.
-ja: その木の下で、Danteはl'ombreがDioに捧げる祈りの歌という、快楽と苦痛を同時に呼び覚ます響きを耳にした。Danteがその音について尋ねると、Virgilioは、彼らこそが己の義務を果たすl'ombreなのだと説明した。
+en: *Dante* hears a poignant song calling to *Dio* and asks *Virgilio* about the sound; *Virgilio* explains that it is the voices of *l'ombre* at *l'alber* fulfilling their duties.
+ja: DanteはDioに呼びかける切ない歌声を耳にし、その音についてVirgilioに問いかけた。Virgilioは、それが樹にて己の務めを果たすl'ombreたちの声であると説いた。
 
 ## Scene 16-24: The Emaciated Crowd
-en: At *l'alber*, *d'anime turba tacita e devota* passes *Dante*, *Virgilio*, and *Statio*, appearing so emaciated that their skin clings to their bones. This encounter is compared to the way *i peregrin pensosi* might observe *gente non nota*.
-ja: Dante、Virgilio、Statioの傍らを、皮膚が骨に張り付くほどに痩せこけたd'anime turba tacita e devotaが、その樹の下で通り過ぎてゆく。この邂逅は、あたかもi peregrin pensosiがgente non notaを眺める様子に例えられている。
+en: Comparing the scene to how *i peregrin pensosi* might encounter *gente non nota*, *Dante* watches *d'anime turba tacita e devota* pass by himself, *Virgilio*, and *Statio* at *l'alber*. These souls are profoundly emaciated, with hollow eyes and skin that clings to their bones.
+ja: i peregrin pensosi が gente non nota に遭遇する様子にこの光景を重ね合わせ、Dante はその木のもとで、自分と Virgilio、そして Statio の傍らを d'anime turba tacita e devota が通り過ぎていくのを眺めていた。それらの魂はひどく痩せさらばえ、目は落ち窪み、皮膚は骨に張り付いていた。
 
 ## Scene 25-30: Reflections on Hunger
-en: At *l'alber*, *Dante* observes that the souls are more withered than *Erisittone* and recalls the moment when *Maria* kissed *Gesù*.
-ja: l'alberにて、Danteは魂たちがErisittoneよりもさらに衰え果てているさまを目の当たりにし、MariaがGesùに接吻したときを思い出した。
+en: At *l'alber*, *Dante* reflects that even the mentioned *Erisittone* was not so emaciated by hunger as these souls, who remind him of the time when *Maria* kissed *Gesù*.
+ja: その木の下で、Danteは、かつて語られたErisittoneでさえ、ここにいる魂たちほど飢えに痩せさらばえてはいなかったと思いを馳せた。その姿は、MariaがGesùに口づけをした時のことを彼に思い出させた。
 
 ## Scene 31-39: The Scent of Temptation
-en: At `*l'alber*`, `*Dante*` reflects that `*un osservatore generico*` would discern the skeletal mark of man in the faces of `*i penitenti*` as a contrast to `*Li uomini*`. He marvels at the scents that incite such hunger, causing the extreme emaciation of `*i penitenti*`.
-ja: `l'alber`にて、`Dante`は、`un osservatore generico`であれば、`Li uomini`とは対照的に`i penitenti`の顔に人間としての骨ばった痕跡を見出すだろうと思索した。そして、`i penitenti`に極限の衰弱をもたらすほどの飢えを煽るその香りに、彼は驚嘆した。
+en: At `*l'alber*`, `*Dante*` notes that `*un osservatore generico*` would find only a skeletal trace of the humanity seen in `*Li uomini*` within the hollow faces of `*i penitenti*`. He marvels at how the scent of fruit and water can drive `*i penitenti*` to such agonizing hunger and shriveled emaciation.
+ja: `l'alber` のもとで、`Dante` は、`i penitenti` の窪んだ面貌の中には、`Li uomini` に見られた人間性の骸骨のような痕跡しか `un osservatore generico` は見出せないだろうと記している。果実と水の香りが、いかにして `i penitenti` をこれほどの激しい飢えと萎びた衰弱へと追い遣るのかと、彼は驚嘆した。
 
 ## Scene 40-48: An Unexpected Encounter
-en: At *l'alber*, *Forese* notices *Dante* and asks what grace has brought him there. Although *Forese* is visually unrecognizable, his voice enables *Dante* to identify *Forese*.
-ja: その樹の下で、ForeseはDanteに気づき、いかなる恩寵に導かれてここへ辿り着いたのかと問いかけた。外見からは判別できなかったが、Danteはその声を聞いて、彼がForeseであると悟った。
+en: At *l'alber*, a shadow looks at *Dante* and speaks in surprise, though *Dante* cannot recognize the ravaged face until the voice reveals it to be *Forese*.
+ja: その樹の下で、ある影がDanteに目を向け、驚きとともに語りかける。Danteはそのむごたらしい顔から正体を判別できなかったが、声を聞いて、それがForeseであることに気づいた。
 
 ## Scene 49-54: Forese's Inquiry
-en: At `*l'alber*`, `*Forese*` begs `*Dante*` not to dwell on his skeletal appearance, pleading instead for the truth about `*Dante*` and the identities of `*Virgilio*` and `*Stazio*`.
-ja: `l'alber`にて、`Forese`は`Dante`に、自身の骸骨のような姿に心を砕かぬよう乞い、代わりに`Dante`自身の正体と、`Virgilio`および`Stazio`が何者であるのかという真実を語るよう懇願した。
+en: At *l'alber*, *Forese* urges *Dante* to look past his emaciated state and reveal the truth about himself and the identities of *Virgilio* and *Stazio*, pleading with *Dante* not to leave without answering.
+ja: その木の下で、ForeseはDanteに、自らの痩せこけた姿に囚われることなく、彼自身の正体とVirgilioおよびStazioが何者であるかを明かすよう促し、答えぬままに立ち去らぬよう懇願した。
 
 ## Scene 55-60: Dante's Grief
-en: At *l'alber*, *Dante* tells *Forese* that seeing his distorted face brings back the pain of *Forese*'s death. Invoking *Dio*, *Dante* asks what has caused such emaciation and explains that he is too overcome with wonder to find his words.
-ja: あの木の下で、DanteはForeseに、その歪んだ面貌を目にするたび、彼が死んだ時の痛みが蘇ると語った。Dioの名を呼び、Danteは何が彼をここまで痩せこけさせたのかを問い、あまりの驚きに言葉を失っていることを伝えた。
+en: *Dante* tells *Forese* that he wept for him in life and weeps again now at *l'alber* seeing his distorted face. Invoking *Dio*, *Dante* asks what caused such emaciation, admitting he is too overcome by wonder to speak clearly.
+ja: DanteはForeseに、生前も彼のために涙を流したが、今またその樹のもとで歪んだ顔を見て涙していると告げる。Dioの名を呼び、Danteはこれほどまでに痩せさらばえた理由を問うが、あまりの驚愕に言葉をうまく紡ぎ出せずにいた。
 
 ## Scene 61-75: The Cause of Torment
-en: At *l'alber*, *Forese* explains to *Dante* that the scents of the tree incite hunger and thirst in *Tutta esta gente* to make them holy. He describes this longing as a pleasure akin to the drive that led *Cristo* to call upon *Dio* and liberate humanity.
-ja: その樹の下で、ForeseはDanteに、漂う香りがTutta esta genteの中に飢えと渇きを呼び起こし、彼らを聖なる存在にするのだと説いた。彼はこの切望を、CristoがDioに呼びかけ人類を解放へと導いたあの衝動にも似た、ひとつの歓喜であると語った。
+en: At *l'alber*, *Forese* explains to *Dante* that *Tutta esta gente* are purged by an irresistible craving for fruit and water. He describes this pain as a pleasure, likening the longing that drives them to the love that led *Cristo* to cry out to *Dio* and liberate humanity.
+ja: その木の下で、ForeseはDanteに、Tutta esta genteが果実と水への抗いがたい渇望によって浄化されているのだと語った。彼はこの苦痛を快楽であると説き、彼らを突き動かす切望を、CristoがDioへと叫び人類を解放へと導いたあの愛になぞらえた。
 
 ## Scene 76-84: A Question of Time
-en: At *l'alber*, *Dante* asks *Forese* how he has ascended so quickly, noting that fewer than five years have passed since his death and return to *Dio*. *Dante* admits he expected to find *Forese* still in the regions far below.
-ja: その木の下で、DanteはForeseに、死してDioのもとへ帰ってから五年も経たぬうちに、どうしてこれほど速く昇れたのかと尋ねた。Danteは、Foreseがまだはるか下の領域に留まっていると考えていたことを認めた。
+en: At *l'alber*, *Dante* asks *Forese* how he has ascended so quickly, as fewer than five years have passed since his death and return to *Dio*. *Dante* admits he expected to find *Forese* much further below.
+ja: その樹の下で、DanteはForeseに、死してDioのもとへ帰ってからまだ五年も経たないうちに、いかにしてこれほど早く昇ってきたのかと問いかけた。Danteは、彼がもっとずっと下の階層にいるだろうと考えていたのだ。
 
 ## Scene 85-96: The Power of Prayer
-en: At *l'alber*, *Forese* tells *Dante* that he was brought up more quickly through the prayers and tears of *Nella*, who is so beloved by *Dio* for her virtue that she is more modest than *le femmine sue*.
-ja: その樹の下で、ForeseはDanteに、自分はNellaの祈りと涙によってより速く昇ることができたのだと語った。Nellaはその徳ゆえにDioに深く愛されており、le femmine sueよりもさらに慎み深いのであった。
+en: At *l'alber*, *Forese* explains to *Dante* that the devoted prayers and weeping of *Nella* have moved *Dio* to hasten his ascent. He praises *Nella*'s singular virtue, asserting that she is more modest than *le femmine sue*.
+ja: その樹の下で、ForeseはDanteに、Nellaの献身的な祈りと涙がDioを動かし、自身の昇天を早めたのだと語った。彼はNellaの類まれなる徳を称え、彼女はle femmine sueよりも慎み深いのだと断言した。
 
 ## Scene 97-114: A Prophecy of Florence
-en: At *l'alber*, *Forese* prophesies a time of forced modesty for *le sfacciate donne fiorentine*, who will suffer before *colui che mo si consola con nanna* grows a beard. He then urges *Dante* to speak, noting that *questa gente* is watching them expectantly.
-ja: l'alberにて、Foreseはle sfacciate donne fiorentineに強制的な慎みが課せられる時が来ると予言し、彼女たちはcolui che mo si consola con nannaが髭を蓄えるまで苦しむことになると告げた。そして、questa genteが期待に満ちて見守っていることを指摘し、Danteに語るよう促した。
+en: At *l'alber*, *Forese* reveals his foresight by prophesying that *le sfacciate donne fiorentine* will be forced to cover their breasts. He then urges *Dante* to stop being secretive and reveal the truth, as everyone around them is watching.
+ja: 木の下で、Foreseはle sfacciate donne fiorentineがやがて胸を覆わざるを得なくなることを予言し、自らの先見性を示した。そして、周囲の者が皆見ているのだから、Danteに口を閉ざすのをやめて真実を明かすよう促した。
 
 ## Scene 115-123: Explaining the Companions
-en: At *l'alber*, *Dante* reminds *Forese* of their past friendship and explains that *Virgilio* has led him through the company of *i veri morti*. He speaks of *la suora di [colui]* while describing his guides and reveals that he still possesses his living flesh.
-ja: その木の下で、DanteはForeseにかつての友情を思い出させ、Virgilioがi veri mortiの連れとともに自分を導いたことを語った。案内人について述べる中でla suora di [colui]についても触れた彼は、自らが今なお生身の肉体を保持していることを明かした。
+en: At *l'alber*, *Dante* reminds *Forese* of their shared past and identifies *Virgilio* as his guide, noting that he arrived when *la suora di [colui]* appeared. He clarifies that he is a living man with true flesh, unlike *i veri morti*.
+ja: その木の下で、DanteはForeseに二人が共有した過去を思い出させ、la suora di [colui]が現れた時に辿り着いたことを伝えながら、Virgilioが自らの案内人であることを示した。さらに、自分はi veri mortiとは異なり、真の肉体を持つ生身の人間であることを明確に告げた。
 
 ## Scene 124-129: Dante's Destination
-en: At *l'alber*, *Dante* explains that *Virgilio*'s guidance has led him up the mountain meant to correct Forese and the anime penitenti, and that *Virgilio* will accompany him until he reaches the mentioned *Beatrice*, after which *Virgilio* must remain behind.
-ja: その木の下で、Danteは、Virgilioの導きによりForeseやanime penitentiを正するための山を登り詰めたこと、そして前述のBeatriceに辿り着くまではVirgilioが同行し、その後はVirgilioがその場に留まることになると説明した。
+en: At *l'alber*, *Dante* tells *Forese* that he is led by the mentioned *Virgilio* up the mountain of the *anime penitenti* toward the mentioned *Beatrice*, though the mentioned *Virgilio* must eventually remain behind.
+ja: その木の下で、DanteはForeseに、前述のVirgilioに導かれてanime penitentiの山を登り、前述のBeatriceへと向かっているが、前述のVirgilioはやがてそこに留まらねばならないことを語った。
 
 ## Scene 130-133: Identifying the Guides
-en: At *l'alber*, *Dante* points to *Virgilio* to identify him and introduces *Stazio* as the shadow who had previously shaken the foliage of the tree.
-ja: l'alberにて、DanteはVirgilioを指し示して彼を認めさせ、先ほど木の葉を揺らしていた影こそがStazioであると紹介した。
+en: At *l'alber*, *Dante* points to *Virgilio* to identify him as the one speaking to him, then introduces *Stazio* as the shadow who had previously caused the foliage of the realm to rustle.
+ja: その木の下で、Danteは自分に語りかけているのがVirgilioであることを示すように彼を指し、続いて、この地の葉をざわめかせた影としてStazioを紹介した。

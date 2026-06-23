@@ -49,7 +49,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 120-123: Matelda's Revelation
-- 33:121 lines 121-123 | speaker: Matelda | addressee: (none) | source: none | basis: 121-123
+- 33:121 lines 121-123 | speaker: Matelda | addressee: Dante | source: code | basis: 121-123
 
 ## Scene 124-129: Beatrice's Instruction to Virgil
 # (no attributed speech in this scene)

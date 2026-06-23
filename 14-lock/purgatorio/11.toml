@@ -32,7 +32,6 @@ cohort = ["le anime dei superbi"]
 cast = [
   { who = "Dio", status = "mentioned" },
   { who = "le anime dei superbi", status = "present" },
-  { who = "chi più di gir s'affanna", status = "present" },
   { who = "Lucifero", status = "mentioned" },
   { who = "color che dietro a noi restaro", status = "mentioned" },
 ]
@@ -54,7 +53,7 @@ cast = [
   { who = "quell' ombre", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "anyone", status = "present" },
+  { who = "anyone", status = "mentioned" },
 ]
 relations = [
   { subj = "quell' ombre", predicate = "commands", obj = "quell' ombre", lines = "25-26" },
@@ -67,11 +66,10 @@ lines = "31-36"
 title = "Thoughts on Divine Intercession"
 location = "prima cornice"
 region = "cornice"
-cohort = ["i superbi"]
+cohort = ["uomini"]
 cast = [
-  { who = "uomini", status = "mentioned" },
-  { who = "i superbi", status = "present" },
-  { who = "quei c'hanno al voler buona radice", status = "mentioned" },
+  { who = "uomini", status = "present" },
+  { who = "i superbi", status = "mentioned" },
 ]
 basis = "31-36"
 

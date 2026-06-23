@@ -2,25 +2,25 @@
 
 ## Scene 1-12: The separation of the travelers
 - who: Dante | status: present | basis: 2-12
-- who: Oderisi | status: present | basis: 1-4
+- who: Oderisi | status: present | basis: 2-4
 - who: Virgilio | status: present | basis: 3-12
 
 ## Scene 13-24: The warning to watch the path
 - who: Virgilio | status: present | basis: 13-13
 - who: Dante | status: present | basis: 13-22
-- who: i sepolti | status: mentioned | basis: 16-18
+- who: i sepolti | status: mentioned | basis: 17-17
 - who: a' pïi | status: mentioned | basis: 21-21
 
 ## Scene 25-36: The sight of the Giants
-- who: Dante | status: present | basis: 25-25
+- who: Dante | status: present | basis: 25-36
 - who: Giove | status: present | basis: 25-27
 - who: altra creatura | status: mentioned | basis: 26-26
 - who: Brïareo | status: present | basis: 28-30
 - who: Timbreo | status: present | basis: 31-33
 - who: Pallade | status: present | basis: 31-33
 - who: i Giganti | status: present | basis: 33-33
-- who: Nembròt | status: present | basis: 34-35
-- who: le genti | status: mentioned | basis: 35-36
+- who: Nembròt | status: present | basis: 34-36
+- who: le genti | status: present | basis: 35-36
 
 ## Scene 37-45: The signs of tragic figures
 - who: Nïobè | status: mentioned | basis: 37-39
@@ -29,12 +29,12 @@
 - who: Saùl | status: mentioned | basis: 40-42
 
 ## Scene 46-54: The symbols of fallen kings
-- who: Roboàm | status: present | basis: 46-48
+- who: Roboàm | status: mentioned | basis: 46-48
 - who: i portatori del carro | status: mentioned | basis: 48-48
 - who: Almeon | status: mentioned | basis: 50-50
 - who: la sua madre | status: mentioned | basis: 50-50
 - who: i figli | status: mentioned | basis: 52-52
-- who: Sennacherìb | status: mentioned | basis: 53-53
+- who: Sennacherìb | status: mentioned | basis: 53-54
 
 ## Scene 55-63: The remnants of war and ruin
 - who: Tamiri | status: mentioned | basis: 56-56
@@ -48,7 +48,7 @@
 - who: l'ombre | status: present | basis: 65-65
 - who: uno ingegno sottile | status: mentioned | basis: 66-66
 - who: li morti | status: present | basis: 67-67
-- who: vivi | status: present | basis: 67-67
+- who: vivi | status: mentioned | basis: 67-67
 - who: Dante | status: present | basis: 68-69
 
 ## Scene 70-78: The command to look upward
@@ -58,31 +58,31 @@
 
 ## Scene 79-84: The approaching messenger
 - who: Dante | status: present | basis: 79-84
-- who: un angel | status: present | basis: 79-80
+- who: un angel | status: present | basis: 79-82
 - who: Virgilio | status: present | basis: 79-84
 - who: l'ancella sesta | status: present | basis: 80-81
 - who: i diletti | status: mentioned | basis: 83-83
 
 ## Scene 85-96: The arrival of the angel
-- who: Dante | status: present | basis: 85-88
-- who: Virgilio | status: present | basis: 85-88
-- who: la creatura bella | status: present | basis: 88-92
+- who: Dante | status: present | basis: 85-92
+- who: Virgilio | status: present | basis: 85-92
+- who: la creatura bella | status: present | basis: 88-96
 - who: gente umana | status: mentioned | basis: 95-96
 - who: molto radi | status: mentioned | basis: 94-94
 
 ## Scene 97-108: The difficult climb
 - who: l'angelo | status: present | basis: 97-99
-- who: Dante | status: present | basis: 97-99
+- who: Dante | status: present | basis: 98-99
 
 ## Scene 109-114: The transition in song
 - who: Dante | status: present | basis: 109-109
 - who: Virgilio | status: present | basis: 109-109
-- who: pauperes | status: present | basis: 110-111
+- who: pauperes | status: mentioned | basis: 110-110
 - who: l'infernali | status: mentioned | basis: 113-113
 
 ## Scene 115-126: The mystery of the weightless ascent
 - who: Dante | status: present | basis: 115-126
-- who: Virgilio | status: present | basis: 115-121
+- who: Virgilio | status: present | basis: 115-126
 - who: i P | status: mentioned | basis: 121-123
 
 ## Scene 127-136: The discovery of the inscription

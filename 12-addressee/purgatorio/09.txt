@@ -47,10 +47,10 @@
 # (no attributed speech in this scene)
 
 ## Scene 121-129: The Porter's Warning
-- 9:123 lines 123-129 | speaker: L'Angelo di Dio | addressee: Dante | source: llm | basis: 123-123
+- 9:123 lines 123-129 | speaker: L'Angelo di Dio | addressee: Virgilio | source: llm | basis: 123-123
 
 ## Scene 130-132: The Command to Enter
-- 9:131 lines 131-132 | speaker: l'angelo | addressee: Dante | source: llm | basis: 131-131
+- 9:131 lines 131-132 | speaker: l'angelo | addressee: Dante | source: llm | basis: 131-132
 
 ## Scene 133-138: The Sound of the Hinges
 # (no attributed speech in this scene)

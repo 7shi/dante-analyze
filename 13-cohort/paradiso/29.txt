@@ -19,7 +19,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 52-66: The Fallen and the Meritorious
-- cohort: i beati | source: llm | basis: 58-58
+- cohort: i beati | source: llm | basis: 58-63
 
 ## Scene 67-84: The Clarity of Angelic Vision
 - cohort: l'angelica natura | source: code | basis: 67-76

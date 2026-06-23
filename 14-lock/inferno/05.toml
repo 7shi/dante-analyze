@@ -274,7 +274,6 @@ cast = [
   { who = "Paolo", status = "present" },
   { who = "Lancialotto", status = "mentioned" },
   { who = "Galeotto", status = "mentioned" },
-  { who = "chi lo scrisse", status = "mentioned" },
 ]
 basis = "127-138"
 

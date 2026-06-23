@@ -24,7 +24,6 @@ title = "The Impermanence of Earthly Desire"
 location = ""
 region = "ella"
 cast = [
-  { who = "quelle sustanze", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "l'anima", status = "mentioned" },
 ]
@@ -140,11 +139,12 @@ lines = "55-60"
 title = "The Equality of Spirits"
 location = "questo lume"
 region = "ella"
+cohort = ["general human soul/observer"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Cacciaguida", status = "present" },
   { who = "primo", status = "mentioned" },
-  { who = "general human soul/observer", status = "mentioned" },
+  { who = "general human soul/observer", status = "present" },
 ]
 relations = [
   { subj = "Cacciaguida", predicate = "tells", obj = "Dante", lines = "55-60" },
@@ -299,10 +299,8 @@ region = "ella"
 cohort = ["le sue donne"]
 cast = [
   { who = "Bellincion Berti", status = "present" },
-  { who = "Cacciaguida", status = "present" },
+  { who = "Cacciaguida", status = "mentioned" },
   { who = "la donna sua", status = "present" },
-  { who = "quel d'i Nerli", status = "present" },
-  { who = "quel del Vecchio", status = "present" },
   { who = "le sue donne", status = "present" },
 ]
 basis = "112-117"
@@ -322,7 +320,7 @@ lines = "121-126"
 title = "Traditional Domestic Life"
 location = "questo lume"
 region = "ella"
-cohort = ["le donne", "la sua famiglia"]
+cohort = ["la sua famiglia"]
 cast = [
   { who = "le donne", status = "present" },
   { who = "i padri", status = "mentioned" },
@@ -350,7 +348,7 @@ title = "The Arrival of Mary"
 location = "questo lume"
 region = "ella"
 cast = [
-  { who = "Maria", status = "mentioned" },
+  { who = "Maria", status = "present" },
   { who = "Cacciaguida", status = "present" },
 ]
 basis = "130-133"
@@ -375,7 +373,7 @@ location = "questo lume"
 region = "ella"
 cast = [
   { who = "Cacciaguida", status = "present" },
-  { who = "lo 'mperador Currado", status = "present" },
+  { who = "lo 'mperador Currado", status = "mentioned" },
 ]
 basis = "139-141"
 

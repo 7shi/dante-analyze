@@ -34,7 +34,6 @@ title = "Virgil’s Climbing Method"
 location = "cima d'un ronchione"
 region = "cima d'un ronchione"
 cast = [
-  { who = "quei ch'adopera ed estima", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
 ]
@@ -130,7 +129,6 @@ cohort = ["genti nude e spaventate"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "questa cruda e tristissima copia", status = "present" },
   { who = "genti nude e spaventate", status = "present" },
 ]
 relations = [

@@ -34,4 +34,4 @@
 - 28:123 lines 123-123 | speaker: l capo tronco | addressee: Dante | source: llm | basis: 123-123
 
 ## Scene 127-142: The Confession of Bertram
-- 28:130 lines 130-142 | speaker: Bertram dal Bornio | addressee: Dante | source: llm | basis: 130-131
+- 28:130 lines 130-142 | speaker: Bertram dal Bornio | addressee: Dante | source: code | basis: 130-142

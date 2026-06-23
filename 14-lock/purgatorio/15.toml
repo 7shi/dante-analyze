@@ -113,11 +113,11 @@ region = "cornice"
 cast = [
   { who = "Dante", status = "present" },
   { who = "più posseditor", status = "mentioned" },
-  { who = "Virgilio", status = "present" },
+  { who = "Virgilio", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "15:58", lines = "58-58", speaker = "Dante", addressee = "Virgilio", source = "code" },
-  { quote_id = "15:59", lines = "59-63", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "15:58", lines = "58-58", speaker = "Dante", addressee = "(none)", source = "none" },
+  { quote_id = "15:59", lines = "59-63", speaker = "Dante", addressee = "(none)", source = "none" },
 ]
 relations = [
   { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "61-63" },
@@ -162,7 +162,7 @@ cast = [
   { who = "lo tuo padre", status = "present" },
 ]
 speech = [
-  { quote_id = "15:82", lines = "82-82", speaker = "Dante", addressee = "la madre", source = "llm" },
+  { quote_id = "15:82", lines = "82-82", speaker = "Dante", addressee = "persone", source = "llm" },
   { quote_id = "15:89", lines = "89-92", speaker = "la madre", addressee = "Dante", source = "llm" },
 ]
 refer = [
@@ -204,13 +204,13 @@ lines = "102-105"
 title = "The Lord's Gentle Response"
 location = "l'altro girone"
 region = "l'altro girone"
+cohort = ["i Troiani"]
 cast = [
   { who = "Pisistrato", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "la donna troiana", status = "present" },
-  { who = "i Troiani", status = "mentioned" },
+  { who = "i Troiani", status = "present" },
   { who = "i Greci", status = "mentioned" },
-  { who = "quei che ci ama", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "Pisistrato", lines = "102-102" },
@@ -292,7 +292,6 @@ region = "l'altro girone"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "chi guarda pur con l'occhio che non vede", status = "mentioned" },
   { who = "i pigri, lenti", status = "mentioned" },
 ]
 speech = [

@@ -9,8 +9,8 @@
 ## Scene 16-24: Beatrice's Proclamation
 - who: attender | status: mentioned | basis: 17-17
 - who: vedere | status: mentioned | basis: 17-17
-- who: Dante | status: present | basis: 17-24
-- who: Bëatrice | status: present | basis: 19-23
+- who: Dante | status: present | basis: 17-17
+- who: Bëatrice | status: present | basis: 19-19
 - who: Cristo | status: mentioned | basis: 20-20
 
 ## Scene 25-33: The Vision of the Sun
@@ -57,7 +57,7 @@
 - who: l'anima | status: mentioned | basis: 98-98
 
 ## Scene 103-108: The Voice of Angelic Love
-- who: Maria | status: mentioned | basis: 104-105
+- who: Maria | status: present | basis: 106-106
 - who: Cristo | status: mentioned | basis: 107-107
 
 ## Scene 109-111: The Chorus of Mary
@@ -66,20 +66,19 @@
 
 ## Scene 112-120: The Distant Shore
 - who: Dio | status: mentioned | basis: 114-114
-- who: uomini | status: mentioned | basis: 112-114
+- who: uomini | status: mentioned | basis: 114-114
 - who: Dante | status: present | basis: 115-118
 - who: la coronata fiamma | status: present | basis: 119-120
 
 ## Scene 121-129: The Simile of the Infants
-- who: fantolin | status: mentioned | basis: 121-123
-- who: la mamma | status: mentioned | basis: 121-122
-- who: quei candori | status: present | basis: 124-128
+- who: fantolin | status: mentioned | basis: 121-121
+- who: la mamma | status: mentioned | basis: 121-121
 - who: Maria | status: mentioned | basis: 126-128
 - who: Dante | status: present | basis: 126-129
 
 ## Scene 130-139: The Triumph of the Saints
-- who: arche ricchissime | status: present | basis: 131-131
-- who: Cristo | status: mentioned | basis: 136-137
+- who: arche ricchissime | status: present | basis: 131-133
+- who: Cristo | status: present | basis: 136-136
 - who: Dio | status: mentioned | basis: 137-137
 - who: Maria | status: mentioned | basis: 137-137
-- who: San Pietro | status: present | basis: 139-139
+- who: San Pietro | status: present | basis: 136-139

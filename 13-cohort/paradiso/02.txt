@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 10-21: The Mythic Precedent
-- cohort: Voialtri pochi | source: code | basis: 10-10
+- cohort: Voialtri pochi | source: code | basis: 10-17
 
 ## Scene 22-30: Beatrice Appears
 # (no soul-class present in this scene)

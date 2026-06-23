@@ -7,24 +7,22 @@
 # (no soul-class present in this scene)
 
 ## Scene 16-27: The Structure of the Two Hemispheres
-- cohort: Ebree | source: llm | basis: 17-17
-- cohort: quei che credettero in Cristo venturo | source: llm | basis: 23-24
-- cohort: quei ch'a Cristo venuto ebber li visi | source: llm | basis: 26-27
+- cohort: Ebree | source: code | basis: 17-18
 
 ## Scene 28-36: The Hierarchy of the Great Doctors
 # (no soul-class present in this scene)
 
 ## Scene 37-45: The Principle of Divine Providence
-- cohort: spiriti ascolti | source: code | basis: 44-44
+- cohort: spiriti ascolti | source: code | basis: 42-45
 
 ## Scene 46-51: A Promise of Clarification
 - cohort: spiriti chiamati | source: code | basis: 46-48
 
 ## Scene 52-66: The Nature of Eternal Joy and Grace
-- cohort: questa festinata gente | source: code | basis: 58-60
+# (no soul-class present in this scene)
 
 ## Scene 67-75: The Distinction of Divine Gifts
-- cohort: i beati | source: code | basis: 74-74
+- cohort: i beati | source: llm | basis: 73-74
 
 ## Scene 76-84: The Evolution of the Covenant
 # (no soul-class present in this scene)

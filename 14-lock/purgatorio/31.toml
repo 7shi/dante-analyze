@@ -148,12 +148,10 @@ lines = "76-84"
 title = "The Vision of Beatrice"
 location = ""
 region = "coscia del carro"
-cohort = ["quelle prime creature"]
 cast = [
-  { who = "quelle prime creature", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
-  { who = "Cristo", status = "present" },
+  { who = "Cristo", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "quelle prime creature", lines = "77-78" },
@@ -314,6 +312,6 @@ location = "beata riva"
 region = "al petto del grifon"
 cast = [
   { who = "Beatrice", status = "present" },
-  { who = "Dante", status = "present" },
+  { who = "Dante", status = "mentioned" },
 ]
 basis = "139-145"

@@ -22,10 +22,10 @@
 - cohort: Malebranche | source: llm | basis: 37-37
 
 ## Scene 43-46: The demon's departure
-- cohort: lo furo | source: code | basis: 45-46
+# (no soul-class present in this scene)
 
 ## Scene 47-54: Warnings from the bridge demons
-- cohort: Malebranche | source: code | basis: 47-53
+- cohort: Malebranche | source: code | basis: 47-54
 
 ## Scene 55-57: The cooking simile
 # (no soul-class present in this scene)
@@ -37,7 +37,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 67-75: The demon attack and Virgil's challenge
-- cohort: Malebranche | source: code | basis: 70-71
+- cohort: Malebranche | source: code | basis: 70-74
 
 ## Scene 76-78: The selection of Malacoda
 # (no soul-class present in this scene)
@@ -52,10 +52,10 @@
 - cohort: li scheggion | source: code | basis: 89-89
 
 ## Scene 91-96: The travelers' encirclement
-- cohort: Malebranche | source: code | basis: 92-93
+- cohort: Malebranche | source: code | basis: 92-92
 
 ## Scene 97-102: The demons' taunts
-- cohort: Malebranche | source: code | basis: 99-102
+- cohort: Malebranche | source: code | basis: 100-102
 
 ## Scene 103-105: Malacoda's interruption
 # (no soul-class present in this scene)

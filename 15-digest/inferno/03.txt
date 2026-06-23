@@ -1,73 +1,73 @@
 # Canto 03 — The Gate of Hell and the Approach to the Acheron
 
 ## Scene 1-9: The Inscription on the Gate
-en: On the *cammino alto e silvestro*, *la porta dell'Inferno* declares that *chiunque entri nell'Inferno* will join *la perduta gente*, having been created by the will of *Dio Padre*, *Dio Figlio*, and *Dio Spirito Santo*. It warns *Dante, Virgilio*, and *chiunque entri nell'Inferno* to abandon all hope.
-ja: 高く木々が茂る道において、la porta dell'Infernoは、Dio Padre、Dio Figlio、そしてDio Spirito Santoの御心により創られたla perduta genteに、chiunque entri nell'Infernoが加わることを宣言している。それはDante、Virgilio、そしてchiunque entri nell'Infernoに対し、あらゆる希望を捨てるよう警告している。
+en: On the `*cammino alto e silvestro*`, `*la porta dell'Inferno*` declares to `*Dante*`, `*Virgilio*`, and `*chiunque entri nell'Inferno*` that it was created by `*Dio Padre*`, `*Dio Figlio*`, and `*Dio Spirito Santo*` to lead to `*la perduta gente*`. `*la porta dell'Inferno*` warns `*chiunque entri nell'Inferno*` to abandon all hope.
+ja: 高く木々に囲まれた道にて、`la porta dell'Inferno` は `Dante`、`Virgilio`、そして `chiunque entri nell'Inferno` に対し、自らが `la perduta gente` へと導くため `Dio Padre`、`Dio Figlio`、`Dio Spirito Santo` によって創られたことを宣言する。そして `la porta dell'Inferno` は、`chiunque entri nell'Inferno` にあらゆる希望を捨てるよう警告するのである。
 
 ## Scene 10-18: Virgil's Interpretation
-en: At the *porta*, *Dante* tells *Virgilio* that the meaning of the words is hard, so *Virgilio* explains that all doubt and cowardice must be left behind. He tells *Dante* that they have arrived at the place where he will see *le genti dolorose*.
-ja: 門において、Danteが言葉の意味の難解さを口にすると、Virgilioはあらゆる疑念と臆病さを捨て去らねばならないと諭した。そして、こここそがle genti doloroseを目にする場所であるとDanteに伝えた。
+en: At the `*porta*` on the `*cammino alto e silvestro*`, `*Dante*` finds the meaning of the words difficult, and `*Virgilio*` tells him to abandon all doubt and cowardice. `*Virgilio*` explains that they have reached the place where `*Dante*` will see *le genti dolorose*.
+ja: 高き森の道の門にて、刻まれた言葉の意味に苦心する`Dante`に対し、`Virgilio`はあらゆる疑念と臆病さを捨て去るよう諭した。そして、こここそが`Dante`が`le genti dolorose`を目にする場所であると、`Virgilio`は告げた。
 
 ## Scene 19-24: Entry into the Underworld
-en: At the *porta*, *Virgilio* takes *Dante* by the hand and leads him inside. Overwhelmed by the sighs and screams echoing through the starless air, *Dante* begins to weep.
-ja: 門にて、VirgilioはDanteの手を取り、中へと導いた。星なき空に響き渡る溜息と叫びに圧倒され、Danteは涙を流し始めた。
+en: *Virgilio* takes *Dante* by the hand and leads him through the *porta*; comforted by *Virgilio*'s joyful face, *Dante* enters and begins to weep at the sounds of sighs and screams echoing through the starless air.
+ja: VirgilioはDanteの手を取り、門へと導いた。Virgilioの晴れやかな表情に心強さを得て中へ入ったDanteは、星のない空に響きわたるため息と叫びの声に、涙を流し始めた。
 
 ## Scene 25-33: The Tumult of Wailing
-en: At the *porta*, *Dante* hears a swirling tumult of diverse languages and cries of pain and anger. Confused, he asks *Virgilio* what these sounds are and who *che gent'* are who seem so defeated by grief.
-ja: 門のところで、Danteは多様な言語が渦巻く喧騒と、苦痛と怒りに満ちた叫び声を耳にする。困惑した彼は、これらの音の正体は何なのか、そして深い悲しみに打ちひしがれているように見えるche gent'とは一体何者なのかをVirgilioに問いかけた。
+en: At the *porta*, a swirling tumult of agonizing voices and cries fills the air, leading a bewildered *Dante* to ask *Virgilio* what he is hearing and who *che gent'* are.
+ja: 門のあたりでは、苦悶に満ちた声と叫びが渦巻く喧騒が辺りに満ちており、当惑したDanteはVirgilioに、今聞こえているのは何なのか、そしてche gent'とは一体何者なのかと問いかけた。
 
 ## Scene 34-42: The Origin of the Uncommitted
-en: At the *porta*, *Virgilio* explains to *Dante* that these sounds come from *l'anime triste di coloro che visser sanza 'nfamia e sanza lodo*, who are mixed with *quel cattivo coro de li angeli* that remained neither rebellious nor faithful to *Dio*. Because they lived only for themselves, they are cast out by heaven and rejected by the *rei*.
-ja: 門のところで、VirgilioはDanteに、これらの音はDioに反逆せずも忠実ではなかった quel cattivo coro de li angeli と混じり合う l'anime triste di coloro che visser sanza 'nfamia e sanza lodo からのものだと説明した。ただ己のためだけに生きたがゆえに、彼らは天国に追放され、reiからも拒絶されたのである。
+en: At the *porta*, *Virgilio* explains to *Dante* that the wailing comes from *l'anime triste di coloro che visser sanza 'nfamia e sanza lodo*, who were cast out by *Dio* and are rejected by the *rei*.
+ja: 門の前で、VirgilioはDanteに、その嘆きの声はDioに追放され、reiに拒絶された l'anime triste di coloro che visser sanza 'nfamia e sanza lodo からのものであると説明した。
 
 ## Scene 43-51: The Fate of the Neutral
-en: At the *porta*, *Dante* asks *Virgilio* why the *ignavi* wail so loudly, and *Virgilio* explains that they are rejected by all and not worth discussing, telling *Dante* to simply observe them and pass by.
-ja: 門に辿り着いたDanteが、なぜignaviがこれほど激しく慟哭しているのかをVirgilioに問うと、Virgilioは、彼らは誰からも拒絶されており語るに値しない者たちであると説明し、ただ彼らを眺めて通り過ぎるようにとDanteに促した。
+en: At the *porta*, *Dante* asks *Virgilio* why the *ignavi* wail so loudly; *Virgilio* explains that these souls are rejected by all and unworthy of discussion, instructing *Dante* to simply look and pass.
+ja: 門にて、Danteはなぜignaviがこれほど激しく嘆き悲しんでいるのかをVirgilioに問うた。Virgilioは、これらの魂は誰からも拒絶されており、語るに値しない存在であると説き、ただ見て通り過ぎるようにとDanteに諭した。
 
 ## Scene 52-57: The Great Procession
-en: At the *porta*, *Dante* sees a rapidly whirling banner followed by such a vast procession of *gente* that he never believed death had claimed so many.
-ja: 門のところでDanteは、激しく翻る旗とそれに続くあまりにも膨大なgenteの行列を目にし、死がこれほど多くの命を奪ったとは信じられなかった。
+en: At the *porta*, *Dante* sees a rapidly spinning banner followed by such a vast procession of *gente* that he never believed death had claimed so many.
+ja: 門のところでDanteは、激しく翻る旗とそれに続く膨大なgenteの行列を目にした。死がこれほどまでに多くの者を奪ったとは、彼は想像だにしていなかった。
 
 ## Scene 58-63: The Shadow of the Great Refuser
-en: At the *porta*, *Dante* recognizes the shadow of *Celestino V* and realizes he has found the sect of *i cattivi*, who are displeasing to *Dio* and hated by their *nemici*.
-ja: 門において、DanteはCelestino Vの影を認め、自身がDioに忌み嫌われnemiciに憎まれるi cattiviの集団に辿り着いたことを悟った。
+en: At the *porta*, *Dante* recognizes the shadow of *Celestino V* and realizes that these are *i cattivi*, who are displeasing to *Dio* and to their *nemici*.
+ja: 門にて、DanteはCelestino Vの影を認め、彼らがDioと自らのnemiciに忌み嫌われるi cattiviであることに気づいた。
 
 ## Scene 64-69: The Torment of the Souls
-en: At the *porta*, *Questi sciaurati* are naked and relentlessly stung by wasps and gadflies. Their blood and tears stream down to their feet, where they are consumed by worms.
-ja: 門のところで、Questi sciauratiは裸にされ、蜂やアブに絶え間なく刺し苛まれている。血と涙は足元へと流れ落ち、そこでは虫たちが彼らを貪り食っていた。
+en: At the *porta*, naked flesh is stung by wasps and gadflies, and blood mixed with tears drips down to be consumed by worms.
+ja: portaにおいて、剥き出しの肉体は蜂やアブに刺され、血と涙が混じり合って滴り落ち、虫たちに貪られている。
 
 ## Scene 70-78: Approaching the River
-en: At the *porta*, *Dante* sees *le genti* on the bank of a great river and asks *Virgilio* who they are and why they seem so eager to cross. *Virgilio* replies that he will explain these things once they reach the riverbank.
-ja: 門のところで、Danteは大河の岸辺にいるle gentiを目にし、彼らが何者なのか、そしてなぜあれほど切に渡ろうとしているのかをVirgilioに尋ねた。Virgilioは、岸辺に辿り着いた際にそれらのことを説明すると答えた。
+en: At the *porta*, *Dante* sees *le genti* on the bank of a great river and asks *Virgilio* who they are and why they seem so eager to cross; *Virgilio* replies that he will tell him once they reach the riverbank.
+ja: 門のところで、Danteは大河の岸辺にいるle gentiを目にし、彼らが何者で、なぜあのように切に渡りたいと願っているのかをVirgilioに尋ねた。Virgilioは、川岸に辿り着けば教えてやろうと答えた。
 
 ## Scene 79-81: Dante's Shame
-en: At the *porta*, *Dante* feels ashamed and fears his words are too bold, remaining silent until they reach the river.
-ja: 門の前でDanteは、自らの言葉があまりに不遜であったのではないかと恥じ入り、川に辿り着くまで沈黙を守っていた。
+en: At the *porta*, *Dante* lowers his eyes in shame and remains silent, fearing his words might be too grave, until he reaches the river.
+ja: 門にいたDanteは、恥じ入って目を伏せ、自らの言葉が重すぎることを恐れて、川に辿り着くまで沈黙を守った。
 
 ## Scene 82-89: The Arrival of Charon
-en: At the *porta*, *Caronte* arrives by boat, shouting to the *anime prave* that they will never see heaven and are bound for eternal darkness. Upon noticing *Dante*, *Caronte* commands him to separate himself from the dead *anime prave*.
-ja: 門に舟で現れたCaronteは、anime praveたちが天国を見ることはなく永遠の闇へ向かうのだと叫ぶ。そしてDanteに気づくと、Caronteは彼に死したanime praveから離れるよう命じた。
+en: At the *porta*, *Caronte* arrives by boat, shouting to the *anime prave* that they are condemned to eternal darkness. He then notices *Dante* and commands him to separate himself from the dead.
+ja: 門にCaronteが舟で到着し、anime praveに永遠の闇へと処せられる運命にあることを叫びつけた。やがて彼はDanteに気づくと、死者たちの群れから離れるよう命じた。
 
 ## Scene 90-99: Virgil Silences the Ferryman
-en: *Caronte* sees that *Dante* does not depart and tells him he must find another way to cross, but *Virgilio* silences *Caronte* by declaring that the journey is willed from above, and *Caronte* falls quiet in the *livida palude*.
-ja: Danteが立ち去ろうとしないのを見たCaronteは、別の渡り方を探せと告げるが、Virgilioがこの旅は天上の意志によるものであると宣言して彼を黙らせると、Caronteはlivida paludeの中で静まり返った。
+en: At the *livida palude*, *Caronte* tells *Dante* that he must seek another way to cross, but *Virgilio* silences him by explaining that *Dante*'s journey is willed by the power above.
+ja: 鉛色の沼にて、CaronteはDanteに別の渡し道を探せと告げたが、VirgilioはDanteの旅が天上の意志によるものであると説き、彼を黙らせた。
 
 ## Scene 100-105: The Wrath of the Damned
-en: In the *livida palude*, *quell' anime* turn pale and chatter their teeth before blaspheming *Dio* and *lor parenti*.
-ja: 蒼白き沼の中で、quell' animeは顔を青ざめさせ、歯をガチガチと鳴らし、Dioとlor parentiを冒涜している。
+en: At the *livida palude*, *quell' anime* turn pale and chatter their teeth in terror, blaspheming *Dio* and *lor parenti* along with the human race and the circumstances of their birth.
+ja: 青ざめた沼にて、quell' animeは恐怖に顔を蒼白にさせ、歯をガチガチと鳴らしながら、Dioとlor parenti、そして人類と自らの出生の境遇を呪い散らしている。
 
 ## Scene 106-108: Retreat to the Shore
-en: In the *livida palude*, the *anime* retreat together, weeping as they return to the shore that awaits *ciascun uom* who does not fear *Dio*.
-ja: 蒼白き沼にて、animeたちは共に啜り泣きながら、Dioを恐れぬciascun uomを待ち受ける岸へと戻っていく。
+en: At the *livida palude*, the *anime* retreat together, weeping loudly, back to the evil shore that awaits *ciascun uom* who does not fear *Dio*.
+ja: 蒼白き沼にて、animeたちは激しくむせび泣きながら、Dioを恐れぬciascun uomを待ち受ける忌まわしき岸辺へと、共に引き返していく。
 
 ## Scene 109-120: The Continuous Flow of Souls
-en: At *quel lito*, *Caron* signals and beats *il mal seme d'Adamo* with his oar, prompting them to cast themselves into his boat like falling leaves. Even as they are ferried across, a new crowd of *il mal seme d'Adamo* gathers on the shore.
-ja: あの岸辺にて、Caronが合図を送り、櫂でil mal seme d'Adamoを打ち据えると、彼らは舞い散る木の葉のごとく舟へと身を投げ出した。彼らが対岸へと運ばれていく間にも、新たなil mal seme d'Adamoの群れが岸辺に押し寄せていた。
+en: At `*quel lito*`, `*Caron*` signals and beats `*il mal seme d'Adamo*` into his boat like autumn leaves. Even as one group is ferried across the `*livida palude*`, a new crowd of `*il mal seme d'Adamo*` gathers.
+ja: `quel lito`にて、`Caron`は合図を送り、`il mal seme d'Adamo`を秋の落葉のごとく舟へと打ち込んでいく。ある一群が`livida palude`を運ばれている間にも、また新たな`il mal seme d'Adamo`の群れが集まっていた。
 
 ## Scene 121-129: Virgil's Final Lesson
-en: At `*quel lito*`, `*Virgilio*` explains to `*Dante*` that `*quelli che muoion ne l'ira di Dio*` are driven by the justice of `*Dio*` to cross the river, a path no `*anima buona*` ever takes. He notes that `*Dante*` can now understand why `*Caron*` complained about him.
-ja: その岸辺で、VirgilioはDanteに、quelli che muoion ne l'ira di DioはDioの正義に突き動かされて川を渡るが、それはanima buonaが決して辿ることのない道であると説いた。そして、Caronがなぜ彼に不満を漏らしたのか、Danteはこれで理解できたはずだと付け加えた。
+en: At *quel lito*, *Virgilio* explains to *Dante* that *quelli che muoion ne l'ira di Dio* gather here from every land and are driven by the justice of *Dio* to cross, as no *anima buona* ever passes this way. This clarifies for *Dante* the reason for the complaints made by *Caron*.
+ja: その岸辺にて、VirgilioはDanteに、あらゆる地から quelli che muoion ne l'ira di Dio が集い、anima buona がここを通ることは決してないため、彼らは Dio の正義に突き動かされて川を渡るのだと説いた。これにより、DanteはCaronが不満を口にしていた理由を悟った。
 
 ## Scene 130-136: The Earthquake and Fainting
-en: A violent earthquake shakes *la buia campagna*, and *Dante* is so terrified that he still sweats at the memory. Then, a flash of red light overcomes him, and *Dante* collapses like *l'uom* seized by sleep.
-ja: 激しい地震が暗き原野を揺らし、Danteは今思い出しても汗がにじむほどに戦慄した。やがて赤い閃光が彼を飲み込み、Danteは眠りに囚われたl'uomのごとく崩れ落ちた。
+en: A violent earthquake shakes *la buia campagna*, and a flash of red light overwhelms *Dante*, causing him to fall like *l'uom* who is seized by sleep.
+ja: 激しい地震が暗き野を揺さぶり、紅い閃光が Dante を飲み込むと、彼は眠りに囚われた l'uom のように崩れ落ちた。

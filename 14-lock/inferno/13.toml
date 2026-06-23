@@ -186,7 +186,7 @@ region = "selva"
 cohort = ["spirito incarcerato"]
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "Dante", status = "present" },
+  { who = "Dante", status = "mentioned" },
   { who = "spirito incarcerato", status = "present" },
   { who = "l'anima", status = "mentioned" },
 ]
@@ -226,7 +226,7 @@ region = "selva"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Pier delle Vigne", status = "mentioned" },
+  { who = "Pier della Vigna", status = "present" },
 ]
 simile = [
   { lines = "111-112", vehicle = "colui che venire sente 'l porco e la caccia a la sua posta" },
@@ -255,7 +255,7 @@ location = "selva"
 region = "selva"
 cohort = ["miser"]
 cast = [
-  { who = "Lano", status = "present" },
+  { who = "Lano", status = "mentioned" },
   { who = "miser", status = "present" },
 ]
 basis = "124-129"

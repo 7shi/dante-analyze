@@ -35,7 +35,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 82-89: The Arrival of Charon
-- 3:84 lines 84-89 | speaker: Caronte | addressee: anime prave | source: llm | basis: 84-84
+- 3:84 lines 84-89 | speaker: Caronte | addressee: anime prave | source: llm | basis: 84-87
 
 ## Scene 90-99: Virgil Silences the Ferryman
 # (no attributed speech in this scene)

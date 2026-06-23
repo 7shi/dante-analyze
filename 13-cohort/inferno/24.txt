@@ -22,7 +22,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 82-96: The Pit of Serpents
-- cohort: genti nude e spaventate | source: llm | basis: 92-92
+- cohort: genti nude e spaventate | source: code | basis: 92-92
 
 ## Scene 97-111: The Phoenix Metaphor
 - cohort: l'anima | source: code | basis: 97-105

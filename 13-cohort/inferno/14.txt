@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 16-21: The Multitude of Souls
-- cohort: anime nude | source: code | basis: 19-20
+- cohort: anime nude | source: code | basis: 19-21
 
 ## Scene 22-27: The Patterns of Suffering
 - cohort: alcuna gente | source: llm | basis: 22-22

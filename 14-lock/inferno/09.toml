@@ -48,7 +48,7 @@ cast = [
   { who = "Eritón", status = "mentioned" },
   { who = "l'ombre", status = "mentioned" },
   { who = "Spirto", status = "mentioned" },
-  { who = "Giuda", status = "mentioned" },
+  { who = "Giuda Scarïotto", status = "mentioned" },
 ]
 speech = [
   { quote_id = "9:20", lines = "20-33", speaker = "Virgilio", addressee = "Dante", source = "code" },
@@ -131,9 +131,8 @@ lines = "61-63"
 title = "An authorial aside"
 location = "fondo de la trista conca"
 region = "l'intrata"
-cohort = ["voi ch'avete li 'ntelletti sani"]
 cast = [
-  { who = "voi ch'avete li 'ntelletti sani", status = "present" },
+  { who = "voi ch'avete li 'ntelletti sani", status = "mentioned" },
 ]
 basis = "61-63"
 
@@ -171,7 +170,7 @@ location = "fondo de la trista conca"
 region = "l'intrata"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Caronte", status = "mentioned" },
+  { who = "Caronte", status = "present" },
   { who = "Virgilio", status = "present" },
 ]
 relations = [
@@ -238,7 +237,6 @@ region = "Dentro"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "quelle genti", status = "mentioned" },
   { who = "li eresïarche", status = "mentioned" },
   { who = "lor seguaci", status = "mentioned" },
 ]

@@ -11,7 +11,6 @@ cast = [
   { who = "Virgilio", status = "present" },
   { who = "Minotauro", status = "present" },
   { who = "la falsa vacca", status = "mentioned" },
-  { who = "quei cui l'ira dentro fiacca", status = "mentioned" },
 ]
 relations = [
   { subj = "Minotauro", predicate = "sees", obj = "Dante, Virgilio", lines = "14-14" },
@@ -78,7 +77,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Lucifero", status = "mentioned" },
-  { who = "chi creda", status = "mentioned" },
 ]
 speech = [
   { quote_id = "12:31", lines = "31-48", speaker = "Virgilio", addressee = "Dante", source = "code" },
@@ -140,7 +138,7 @@ cast = [
   { who = "un centauro", status = "present" },
 ]
 speech = [
-  { quote_id = "12:61", lines = "61-63", speaker = "un centauro", addressee = "Virgilio", source = "llm" },
+  { quote_id = "12:61", lines = "61-63", speaker = "un centauro", addressee = "Dante", source = "llm" },
 ]
 refer = [
   { phrase = "la schiera", line = 58, resolves = "schiera" },
@@ -296,7 +294,7 @@ cohort = ["i bolliti"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Nesso", status = "mentioned" },
+  { who = "Nesso", status = "present" },
   { who = "i bolliti", status = "present" },
 ]
 relations = [
@@ -340,10 +338,10 @@ region = "la proda del bollor vermiglio"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Nesso", status = "present" },
+  { who = "Nesso", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "12:114", lines = "114-114", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+  { quote_id = "12:114", lines = "114-114", speaker = "Dante", addressee = "Virgilio", source = "code" },
 ]
 basis = "113-114"
 
@@ -399,7 +397,7 @@ location = "la proda del bollor vermiglio"
 region = "la proda del bollor vermiglio"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Nesso", status = "present" },
+  { who = "Nesso", status = "mentioned" },
 ]
 speech = [
   { quote_id = "12:129", lines = "129-138", speaker = "Nesso", addressee = "Dante", source = "code" },
@@ -432,6 +430,6 @@ region = "la proda del bollor vermiglio"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Nesso", status = "mentioned" },
+  { who = "Nesso", status = "present" },
 ]
 basis = "139-139"

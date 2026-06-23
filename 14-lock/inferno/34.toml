@@ -74,7 +74,7 @@ cast = [
   { who = "un gigante", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "i Giganti", status = "mentioned" },
-  { who = "lettore", status = "present" },
+  { who = "lettore", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
 ]
 refer = [

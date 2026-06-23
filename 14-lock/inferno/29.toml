@@ -35,7 +35,7 @@ region = "piè del ponte"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Geri", status = "mentioned" },
+  { who = "Geri del Bello", status = "mentioned" },
 ]
 speech = [
   { quote_id = "29:14", lines = "14-15", speaker = "Dante", addressee = "Virgilio", source = "code" },
@@ -142,7 +142,6 @@ cast = [
   { who = "I falsari", status = "present" },
   { who = "ragazzo", status = "mentioned" },
   { who = "segnorso", status = "mentioned" },
-  { who = "colui che mal volontier vegghia", status = "mentioned" },
 ]
 refer = [
   { phrase = "falsari", line = 73, resolves = "I falsari" },
@@ -163,11 +162,11 @@ lines = "85-96"
 title = "The Greeting to the Souls"
 location = "lo tristo calle"
 region = "ultima riva del lungo scoglio"
-cohort = ["alcun Latino", "quinc' entro"]
+cohort = ["quinc' entro"]
 cast = [
   { who = "Latino", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "alcun Latino", status = "present" },
+  { who = "alcun Latino", status = "mentioned" },
   { who = "quinc' entro", status = "present" },
   { who = "Dante", status = "present" },
 ]
@@ -249,7 +248,7 @@ cast = [
   { who = "Capocchio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Stricca", status = "mentioned" },
-  { who = "Niccolò", status = "mentioned" },
+  { who = "Niccolò III", status = "mentioned" },
   { who = "la brigata", status = "mentioned" },
   { who = "l'Abbagliato", status = "mentioned" },
   { who = "i Sanesi", status = "mentioned" },

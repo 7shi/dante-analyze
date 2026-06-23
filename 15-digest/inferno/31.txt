@@ -1,97 +1,97 @@
 # Canto 31 — The Encounter with the Giants and the Descent with Antaeus
 
 ## Scene 1-6: Introductory Metaphor
-en: At the *ultima riva del lungo scoglio*, *Dante* reflects on how a single tongue first brought him pain and then healing, as the spear of *Achille* and *Peleo* once brought both sorrow and a good reward.
-ja: 長い岩礁の最果ての岸辺にて、Danteは、ある一つの舌がまず彼に苦しみをもたらし、やがて癒やしを与えたことを想う。それは、かつてAchilleとPeleoの槍が、悲しみと豊かな報いの双方をもたらしたように。
+en: At the *ultima riva del lungo scoglio*, *Dante* reflects on how a single tongue first brought him sorrow and then healing, comparing this duality to the effects of the spear of *Achille* and *Peleo*.
+ja: 長い岩礁の最果ての岸辺にて、Danteはある一つの舌がいかにしてまず悲しみを、次いで癒やしをもたらしたかに思いを馳せ、その二面性をAchilleとPeleoの槍が及ぼした効力になぞらえた。
 
 ## Scene 7-15: The Horn Blast
-en: *Dante* and *Virgilio* climb the bank of the *misero vallone* in silence, the light so dim that *Dante* can barely see *Virgilio*'s face. A thunderous blast of a horn sounds, causing *Dante* to turn his gaze toward the noise.
-ja: DanteとVirgilioは沈黙の中でmisero valloneの岸を登っていくが、光はあまりに弱く、DanteにはVirgilioの顔さえかろうじて見えるほどであった。そこへ轟くような角笛の音が鳴り響き、Danteはその音のした方へと視線を向けた。
+en: *Dante* and *Virgilio* silently cross the bank of the *misero vallone* under a dim light. Suddenly, a thunderous blast from a horn sounds, causing *Dante* to turn his gaze toward the noise.
+ja: DanteとVirgilioは薄暗い光の中、静かに惨めな谷の岸辺を横切る。不意に角笛の轟音が鳴り響き、Danteはその音のした方へと目を向けた。
 
 ## Scene 16-18: Legendary Echoes
-en: The sound echoing across the *ripa* of the *misero vallone* is more terrifying than the horn sounded by *Orlando* when *Carlo Magno* suffered his great defeat.
-ja: 惨めな谷の岸辺にこだまするその音は、Carlo Magnoが大敗を喫した際にOrlandoが吹き鳴らした角笛よりも、はるかに恐ろしいものであった。
+en: In the *ripa* of the *misero vallone*, the current sound is described as more terrifying than the horn of *Orlando* during the defeat of *Carlo Magno*.
+ja: 悲惨な谷の岸辺に轟く奔流の音は、Carlo Magnoが敗北を喫した際のOrlandoの角笛よりも、なお恐ろしいものとして描かれている。
 
 ## Scene 19-27: The Tower Illusion
-en: Turning his head, *Dante* believes he sees tall towers and asks *Virgilio* what land this is. *Virgilio* explains that the distance and darkness are deceiving his senses, and that he will see the truth once he reaches the edge of the *misero vallone*.
-ja: Danteは顔を向け、高い塔が見えたと思い、ここがどこの地であるかをVirgilioに問いかけた。Virgilioは、距離と暗闇が感覚を欺いているのだと説き、みじめな谷の縁に辿り着けば真実が見えるだろうと告げた。
+en: In the *ripa* of the *misero vallone*, *Dante* believes he sees distant towers and asks *Virgilio* about the land, but *Virgilio* warns him that his senses are being deceived by the darkness and the distance.
+ja: 悲惨な谷の岸辺で、Danteは遠くに塔が見えると思いその地についてVirgilioに尋ねたが、Virgilioは、暗闇と距離に感覚を欺かれているのだと彼に警告した。
 
 ## Scene 28-33: The Truth of the Giants
-en: On the *ripa* of the *misero vallone*, *Virgilio* takes *Dante* by the hand and explains that the shapes he saw are actually *i Giganti*, who are submerged in the pit from the navel down.
-ja: 悲しき谷の岸辺にて、VirgilioはDanteの手を取り、彼が見たあの姿こそがi Gigantiであり、彼らは臍から下を穴に沈めているのだと説明した。
+en: In the *ripa* of the *misero vallone*, *Virgilio* takes *Dante* by the hand and reveals that the perceived towers are actually *i Giganti*, who are submerged in the pit from their navels down.
+ja: 惨めな谷の岸辺で、VirgilioはDanteの手を取り、目に映る塔の正体が、実は臍から下を奈落に沈めたi Gigantiであることを明かした。
 
 ## Scene 34-39: The Clearing Mist
-en: As the mist clears at the *ripa* of the *misero vallone*, a deceptive illusion vanishes and fear grows as the shore draws nearer.
-ja: 悲しき谷の岸辺で霧が晴れると、欺瞞に満ちた幻想は消え去り、岸が近づくにつれて恐怖が募っていく。
+en: As the thick, dark air of the *ripa* in the *misero vallone* clears near the shore, the illusion fades and is replaced by a mounting sense of dread.
+ja: misero vallone の ripa に立ち込めていた濃く暗い空気が岸辺で晴れるにつれ、幻想は消え去り、代わりに募りゆく恐怖が押し寄せてきた。
 
 ## Scene 40-45: The Wall of Giants
-en: Along *la proda* of the *ripa*, *li orribili giganti* tower over the depths like a crown of walls, though they still tremble at the thunder of the mentioned *Giove*.
-ja: 岸辺の縁に沿って、li orribili gigantiが壁の冠のごとく深淵にそびえ立っているが、彼らは今なお、かのGioveの雷鳴に震えていた。
+en: *Li orribili giganti* stand around *la proda* like a crown of towers, still fearing the threats of *Giove* whenever it thunders from the heavens.
+ja: li orribili giganti は、あたかも塔の冠のように岸辺を囲んで立っており、天から雷鳴が轟くたびに、今なお Giove の脅威に怯えている。
 
 ## Scene 46-48: Anatomy of the Giants
-en: On *la proda*, *Dante* observes the face, shoulders, chest, a large part of the belly, and the arms of one of the figures.
-ja: la prodaにて、Danteはある人影の顔、肩、胸、腹の大部分、そして腕をじっと見つめた。
+en: At *la proda*, *Dante* discerns the face, shoulders, chest, and a large part of the belly of one of the figures, as well as its arms hanging down by its sides.
+ja: la prodaにおいて、Danteはある姿の顔、肩、胸、そして腹の大部分を認め、その脇にだらりと垂れ下がった両腕をも目に捉えた。
 
 ## Scene 49-57: Nature's Weapons
-en: On *la proda*, it is reflected that the creation of *i Giganti* was wisely stopped, for *chi guarda sottilmente* understands that combining reason and power would leave *gente* without any defense.
-ja: その岸辺には、i Gigantiの創造が賢明にも打ち切られたことが映し出されている。というのも、chi guarda sottilmenteならば、理性と力が結びつけば、genteには何ひとつ抗う術が残されないことを悟るからである。
+en: At *la proda*, the narrator reflects that Nature acted wisely in ceasing to create *i Giganti*, for their combination of reason, malice, and power would leave *gente* without any means of defense.
+ja: 岸辺において、語り手は自然がi Gigantiの創造を止めたのは賢明な判断であったと思索する。理知と悪意、そして強大な力がひとつに合わされば、genteには抗う術など何ひとつ残されていなかったはずだからだ。
 
 ## Scene 58-66: Massive Proportions
-en: On *la ripa*, *Dante* observes that *Anteo*'s face is as massive as the monument of *San Pietro* and that *tre Frison* would fail to reach the giant's head, noting the distance from where *l'omo* would buckle a cloak.
-ja: 岸辺に立つDanteは、Anteoの顔がSan Pietroの記念碑のごとく巨大であること、そしてtre Frisonを重ねても巨人の頭に届かないことに気づき、l'omoが外套を留める位置からの隔たりに目を向けた。
+en: At *la ripa*, *Dante* observes that the face of *Anteo* is as massive as *San Pietro* and so tall that *tre Frison* would struggle to reach its hair. He notes the immense distance from where *l'omo* would buckle a cloak to the top of the head.
+ja: 岸辺にて、DanteはAnteoの顔がSan Pietroのごとく巨大であり、tre Frisonであってもその髪に届かぬほど高いことに気づいた。l'omoが外套を留める位置から頭頂に至るまで、そこには途方もない距離があることを彼は記した。
 
 ## Scene 67-69: The Unintelligible Cry
-en: On *la ripa*, *Nimrod* shouts a distorted cry mentioning *Raphèl*, though his fierce mouth would have been better suited for sweeter psalms.
-ja: 岸辺にて、NimrodはRaphèlの名を呼び、歪んだ叫び声を上げる。その猛々しい口は、本来ならばより甘美な賛美歌を奏でるにふさわしかったはずである。
+en: At *la ripa*, *Nimrod* lets out a guttural cry that mentions *Raphèl*, though his fierce mouth is far more suited to the singing of sweeter psalms.
+ja: 岸辺にて、NimrodはRaphèlの名を呼ぶしわがれた叫び声を上げたが、その猛々しい口は、本来であればより甘美な賛美歌を歌うのにこそふさわしいはずであった。
 
 ## Scene 70-75: Virgil's Rebuke
-en: On *la ripa*, *Virgilio* rebukes *Dante* as a confused soul, telling him to control his emotions and passions. He points to the rope binding *un gigante* and the creature's immense chest to emphasize its scale.
-ja: 岸辺で、Virgilioは惑う魂であるDanteを叱り、感情と情熱を律するように諭した。そして、un giganteを縛る縄とその巨大な胸を指し示し、その圧倒的な大きさを強調した。
+en: At *la ripa*, *Virgilio* rebukes *Dante* as a foolish soul, telling him to control his passions and instead observe the rope that binds *un gigante* and the creature's immense chest.
+ja: 岸辺にて、VirgilioはDanteを愚かな魂であると叱責し、情熱を抑えて、代わりにun giganteを縛る縄とその怪物の巨大な胸を注視するように諭した。
 
 ## Scene 76-81: The Identity of Nembrot
-en: On *la ripa*, *Virgilio* explains to *Dante* that the giant is *Nembrotto*, who caused the loss of a single world language and now finds every tongue foreign and unintelligible. Consequently, *Virgilio* suggests they let *i Giganti* be and avoid useless speech.
-ja: 岸辺にて、VirgilioはDanteに、その巨人はNembrottoであり、世界共通の言語を失わせたために今やあらゆる言葉を異質で理解不能なものと感じているのだと説明した。そのため、Virgilioはi Gigantiをそのままにしておき、無用な語らいは避けようと提案した。
+en: At *la ripa*, *Virgilio* explains to *Dante* that the Giant is *Nembrotto*, the one responsible for the world's lack of a common language. He advises that they should not attempt to speak to him, as *Nembrotto* finds all languages as unintelligible as his own is to others.
+ja: 岸辺にて、VirgilioはDanteに、その巨人がNembrottoであり、世界から共通の言語を奪った元凶であると説明した。そして、Nembrottoにとってあらゆる言語は、他者が彼の言葉を理解できないのと同様に不可解なものであるため、彼に話しかけようとしてはならないと忠告した。
 
 ## Scene 82-90: The Second Giant
-en: At *la ripa*, *Dante* and *Virgilio* travel to the left and encounter *Anteo*, who is fiercer and larger than *Nimrod*. This giant is bound from the neck down by a massive chain that coils high above.
-ja: la ripaにおいて、DanteとVirgilioは左へと進み、Nimrodよりも獰猛で巨大なAnteoに遭遇した。その巨人の首から下は、高く巻き上がる太い鎖で縛られていた。
+en: At *la ripa*, *Dante* and *Virgilio* travel further left and encounter *Anteo*, who is even more ferocious and larger than *Nimrod*. Bound by a massive chain from the neck down, *Anteo* is coiled high above.
+ja: *la ripa*にて、DanteとVirgilioがさらに左へと進むと、Nimrodよりもさらに凶暴で巨大なAnteoに出会った。首から下を太い鎖で縛られたAnteoは、高くへと身を丸めていた。
 
 ## Scene 91-96: The Fall of Fialte
-en: At *la ripa*, *Virgilio* explains that *Fïalte* is punished for his pride in challenging *i dèi*; as one of *i Giganti* who once terrified *i dèi*, his arms are now eternally motionless.
-ja: 岸辺にて、Virgilioは、Fïalteがi dèiに挑んだ傲慢さゆえに罰を受けているのだと説明する。かつてi dèiを恐怖させたi Gigantiの一人である彼の両腕は、いまや永遠に動かなくなったままである。
+en: At *la ripa*, *Virgilio* explains that *Fïalte* earned his current state by testing his power against the highest authority, recalling how *Fïalte* and *i Giganti* once terrified *i dèi*. Now, the arms that *Fïalte* once wielded are forever motionless.
+ja: 岸辺にてVirgilioは、Fïalteが至高の権威に抗いその力を試みたがゆえに今の境遇に至ったのだと説き、かつてFïalteとi Gigantiがいかにi dèiを恐怖に陥れたかを回想した。今や、Fïalteがかつて振るったその腕が動くことは、永遠にない。
 
 ## Scene 97-99: Dante's Curiosity
-en: At *la ripa*, *Dante* asks *Virgilio* if it is possible for him to see the immeasurable *Brïareo*.
-ja: 岸辺にて、Danteは、計り知れぬ大きさのBrïareoを自分が見ることができるのかとVirgilioに問いかけた。
+en: At *la ripa*, *Dante* asks *Virgilio* if it is possible for him to see the immense *Brïareo*.
+ja: 岸辺にて、DanteはVirgilioに、巨大なBrïareoを目の当たりにすることは可能かと問いかけた。
 
 ## Scene 100-105: The Promise of Antaeus
-en: At *la ripa*, *Virgilio* tells *Dante* that they will encounter *Anteo*, who is unbound and will carry them down to *ogne reo*. He adds that *Briareo* is further away, bound and similar to *Fialte* but with a more ferocious look.
-ja: 川岸にて、VirgilioはDanteに、解き放たれたAnteoに出会い、彼によってogne reoへと運ばれることになると告げた。さらに、もっと先には縛られたBriareoがおり、Fialteに似てはいるが、より凶暴な風貌をしていると付け加えた。
+en: At *la ripa*, *Virgilio* tells *Dante* that the unbound *Anteo* will soon carry them down to *ogne reo*. He explains that *Briareo* is located further away and is bound like *Fialte*, though he appears more ferocious.
+ja: 岸辺にて、VirgilioはDanteに、解き放たれたAnteoが間もなく彼らをogne reoへと運ぶだろうと告げた。また、Briareoはさらに遠方にあり、Fialteのように拘束されているが、その風貌はより凶暴であると説明した。
 
 ## Scene 106-111: The Earth Shaking
-en: At *la ripa*, *Fïalte* shakes himself with a force more violent than any earthquake, filling *Dante* with an intense fear of death. This terror is only mitigated when *Dante* notices the massive chains that keep the giant bound.
-ja: 岸辺にて、Fïalteがいかなる地震よりも激しく身を震わせると、Danteは死への強烈な恐怖に襲われた。その恐怖は、巨人を拘束する巨大な鎖に気づいたときになってようやく和らいだ。
+en: At *la ripa*, *Fïalte* suddenly shakes himself with a violence that evokes a collapsing tower, causing *Dante* to fear for his life until he recalls the coils that keep the Giant bound.
+ja: 岸辺にて、Fïalteが崩落する塔を思わせるほどの激しさで突如として身を震わせたため、Danteは己の命に危うさを感じたが、やがてその巨人を拘束している鎖の巻き付きを思い出した。
 
 ## Scene 112-114: The Arrival of Antaeus
-en: *Dante* and *Virgilio* proceed further along *la ripa* and come upon *Anteo*, whose massive form rises five cubits above the grotto, excluding his head.
-ja: DanteとVirgilioが川岸をさらに進むと、Anteoに出くわした。その巨躯は、頭を除いても洞窟から5キュビットも高くそびえ立っていた。
+en: *Dante* and *Virgilio* proceed further along *la ripa* and arrive at *Anteo*, who emerges from the grotto with five lengths of his body visible beneath his head.
+ja: DanteとVirgilioは岸辺をさらに進み、Anteoのもとへと辿り着いた。Anteoは洞窟から姿を現し、その頭の下には身の長さの五倍もの巨躯が見えていた。
 
 ## Scene 115-129: Virgil's Diplomacy
-en: On *la ripa*, the guide flatters *Anteo* by recalling his help to *Scipïon* against *Anibàl* and his power among *i Giganti*, urging him to carry them down without provoking *Tizio*. He promises that *Dante* can grant *Anteo* fame in the world, provided *l'imperador* does not call him home prematurely.
-ja: la ripaにて、案内人はAnteoがScipïonを助けてAnibàlに抗ったことや、i Gigantiの間での彼の強大さを説いて彼を懐柔し、Tizioを刺激することなく自分たちを底へと運ぶよう促した。そして、l'imperadorが早すぎる帰還を命じない限り、Danteが彼に現世での名声をもたらすと約束した。
+en: At *la ripa*, the guide flatters *Anteo* by recalling his strength during the conflict between *Scipïon* and *Anibàl* and the struggles of *i Giganti*, requesting that he carry them down without provoking *Tizio*. He promises that *Dante* can ensure *Anteo*'s fame among the living, unless *l'imperador* calls him home before his time.
+ja: 岸辺にて、案内人はScipïonとAnibàlの争いやi Gigantiの戦いにおける強さを称えてAnteoに媚び、Tizioを刺激することなく自分たちを下方へ運ぶよう求めた。そして、l'imperadorに早すぎる帰還を命じられない限り、Danteが地上でAnteoの名声を不朽のものにできると約束した。
 
 ## Scene 130-132: The Giant's Obedience
-en: At *la ripa*, *Anteo* quickly extends his hands and picks up *Virgilio*, exerting a grip as tight as the pressure felt by *Ercule*.
-ja: la ripaにて、Anteoは素早く手を伸ばしてVirgilioを抱え上げた。その握りは、かつてErculeが感じたあの圧力に匹敵するほどに強かった。
+en: At *la ripa*, after *Virgilio* speaks, *Anteo* quickly extends his hands and seizes *Virgilio*, exerting a crushing grip that recalls the ordeal of *Ercule*.
+ja: la ripaにて、Virgilioが語り終えると、Anteoは素早く手を伸ばしてVirgilioを捕らえ、かつてのErculeの試練を彷彿とさせるほどの強烈な力で締め付けた。
 
 ## Scene 133-135: Securing the Poet
-en: At *la ripa*, feeling himself being lifted by *Anteo*, *Virgilio* tells *Dante* to move closer so that he may seize him, bundling the two of them together.
-ja: 岸辺にて、Anteoに吊り上げられたと感じたVirgilioは、Danteに近づくよう促し、彼を掴んで二人をひとまとめにした。
+en: At *la ripa*, feeling *Anteo* lift him, *Virgilio* tells *Dante* to move closer so that he may seize him, bundling the two of them together.
+ja: la ripaにて、Anteoが自分を持ち上げるのを感じたVirgilioは、Danteに近く寄るよう促し、彼を掴んで二人をひとまとめにした。
 
 ## Scene 136-141: The Dizzying Descent
-en: On *la ripa*, *Dante* experiences a dizzying sense of vertigo as *Antëo* leans down toward him, feeling such terror that he wishes he were traveling by a different path.
-ja: la ripaにて、Antëoが身を乗り出したとき、Danteは目がくらむような眩暈に襲われ、別の道を辿っていればよかったと願うほどの恐怖に駆られた。
+en: At *la ripa*, the sight of *Antëo* leaning down is so dizzying and overwhelming that *Dante* is seized by dread and wishes he had taken another path.
+ja: la ripaにて、身をかがめるAntëoの姿に目眩を覚えるほどの圧倒的な威圧感に打たれたDanteは、激しい恐怖に囚われ、別の道を選んでいればよかったと願った。
 
 ## Scene 142-145: Reaching the Abyss
-en: *Anteo* gently delivers *Dante* and *Virgilio* to the *fondo*, the abyss spoken of as devouring *Lucifero* and *Giuda*. He then straightens his body and rises up like a ship's mast.
-ja: AnteoはDanteとVirgilioを、LuciferoとGiudaを飲み込んだと言われる深淵の底へと静かに送り届けた。そして彼は身を伸ばし、あたかも船の帆柱のようにそびえ立った。
+en: *Anteo* gently places *Dante* and *Virgilio* at the *fondo* where *Lucifero* and *Giuda Scarïotto* are mentioned to dwell. Having delivered them, *Anteo* does not remain bent over but rises up like a mast on a ship.
+ja: Anteoは、LuciferoとGiuda Scarïottoが住まうと言われる底へと、DanteとVirgilioをそっと降ろした。二人を送り届けたAnteoは、屈んだままでいることなく、船の帆柱のようにすっと身を起こした。

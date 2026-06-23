@@ -6,12 +6,11 @@ lines = "1-12"
 title = "The Poet’s Prologue"
 location = "qui"
 region = "qui"
-cohort = ["sante Muse"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "l'umano spirito", status = "mentioned" },
-  { who = "sante Muse", status = "present" },
-  { who = "Calïopè", status = "present" },
+  { who = "sante Muse", status = "mentioned" },
+  { who = "Calïopè", status = "mentioned" },
   { who = "le Piche misere", status = "mentioned" },
 ]
 relations = [
@@ -31,7 +30,7 @@ location = "qui"
 region = "qui"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Venere", status = "present" },
+  { who = "Venere", status = "mentioned" },
 ]
 basis = "13-21"
 
@@ -156,7 +155,6 @@ cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "primo ministro", status = "mentioned" },
-  { who = "quei di paradiso", status = "mentioned" },
 ]
 speech = [
   { quote_id = "1:85", lines = "85-86", speaker = "Catone", addressee = "Virgilio", source = "llm" },
@@ -185,7 +183,7 @@ title = "The Departure"
 location = "cieco fiume"
 region = "cieco fiume"
 cast = [
-  { who = "Catone", status = "mentioned" },
+  { who = "Catone", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
 ]

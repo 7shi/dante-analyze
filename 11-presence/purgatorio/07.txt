@@ -8,33 +8,32 @@
 - who: Ottavian | status: mentioned | basis: 6-6
 
 ## Scene 10-21: Sordello's Inquiry
-- who: Virgilio | status: present | basis: 14-20
+- who: Virgilio | status: present | basis: 10-21
 - who: Sordello | status: present | basis: 10-21
 
 ## Scene 22-39: Virgil's Description of Limbo
 - who: Virgilio | status: present | basis: 22-39
 - who: Sordello | status: mentioned | basis: 34-36
 - who: pargoli innocenti | status: mentioned | basis: 31-33
-- who: quei che le tre sante virtù non si vestiro | status: mentioned | basis: 34-36
 - who: Dante | status: present | basis: 22-39
 
 ## Scene 40-48: The Difficulty of the Ascent
-- who: Sordello | status: mentioned | basis: 46-48
+- who: Sordello | status: mentioned | basis: 46-46
 - who: Virgilio | status: present | basis: 40-48
 - who: anime | status: mentioned | basis: 46-48
 
 ## Scene 49-60: Sordello's Warning on Night Travel
-- who: Sordello | status: present | basis: 52-53
-- who: Virgilio | status: present | basis: 49-49
+- who: Sordello | status: present | basis: 52-60
+- who: Virgilio | status: present | basis: 49-60
 
 ## Scene 61-63: Agreement to Proceed
 - who: Virgilio | status: present | basis: 61-62
-- who: Sordello | status: mentioned | basis: 62-62
+- who: Sordello | status: present | basis: 61-61
 - who: anime | status: mentioned | basis: 63-63
 
 ## Scene 64-78: The Splendor of the Valley
-- who: Dante | status: present | basis: 64-65
-- who: Virgilio | status: present | basis: 67-67
+- who: Dante | status: present | basis: 64-71
+- who: Virgilio | status: present | basis: 64-71
 - who: Sordello | status: mentioned | basis: 64-64
 
 ## Scene 79-84: The Singing Souls
@@ -43,39 +42,38 @@
 - who: Dante | status: present | basis: 83-83
 
 ## Scene 85-96: The Lament of Emperor Rudolf
-- who: Sordello | status: present | basis: 86-87
+- who: Sordello | status: present | basis: 86-86
 - who: Dante | status: present | basis: 86-89
 - who: Virgilio | status: present | basis: 86-89
-- who: anime | status: present | basis: 87-93
+- who: anime | status: present | basis: 87-90
 - who: Rodolfo | status: present | basis: 91-94
 
 ## Scene 97-102: The Story of Ottacchero
 - who: Ottacchero | status: present | basis: 97-100
-- who: Rodolfo | status: present | basis: 97-102
+- who: Rodolfo | status: mentioned | basis: 97-102
 - who: Vincislao | status: mentioned | basis: 101-102
 
 ## Scene 103-106: The Death of the Young Man
 - who: Vincislao | status: mentioned | basis: 104-104
-- who: Ottocar | status: mentioned | basis: 104-104
+- who: Ottocar | status: mentioned | basis: 105-105
 - who: Dante | status: present | basis: 106-106
-- who: Virgilio | status: present | basis: 103-106
+- who: Virgilio | status: present | basis: 106-106
 
 ## Scene 107-111: The French Ancestors
 - who: L'altro | status: present | basis: 107-108
 - who: Dante | status: present | basis: 107-107
-- who: Virgilio | status: present | basis: 107-107
-- who: il Padre | status: mentioned | basis: 109-111
-- who: suocero | status: mentioned | basis: 109-111
+- who: Virgilio | status: present | basis: 107-111
+- who: il Padre | status: present | basis: 109-111
+- who: suocero | status: present | basis: 109-111
 
 ## Scene 112-120: The Virtuous Kings
-- who: Quel che par sì membruto | status: present | basis: 112-113
-- who: Ottocar | status: present | basis: 112-113
+- who: Ottocar | status: present | basis: 112-114
 - who: lo giovanetto | status: present | basis: 116-116
 - who: Iacomo | status: mentioned | basis: 119-119
 - who: Federigo | status: mentioned | basis: 119-119
 
 ## Scene 121-123: A Reflection on Virtue
-- who: l'anima | status: mentioned | basis: 123-123
+- who: l'anima | status: mentioned | basis: 122-123
 
 ## Scene 124-126: The Mention of Pier
 - who: Ottokar | status: present | basis: 124-124
@@ -84,8 +82,8 @@
 ## Scene 127-129: The Legacy of Constance
 - who: Beatrice | status: mentioned | basis: 128-128
 - who: Margherita | status: mentioned | basis: 128-128
-- who: Costanza | status: mentioned | basis: 129-129
-- who: Enrico VI | status: mentioned | basis: 127-129
+- who: Costanza imperadrice | status: mentioned | basis: 129-129
+- who: Enrico VI | status: mentioned | basis: 129-129
 
 ## Scene 130-132: Henry of England
 - who: Dante | status: present | basis: 130-130

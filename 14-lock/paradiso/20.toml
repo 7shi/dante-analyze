@@ -88,8 +88,7 @@ cohort = ["Dei cinque"]
 cast = [
   { who = "Dei cinque", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "colui che più al becco mi s'accosta", status = "present" },
-  { who = "la vedovella", status = "mentioned" },
+  { who = "la vedovella", status = "present" },
   { who = "figlio", status = "mentioned" },
   { who = "Cristo", status = "mentioned" },
 ]
@@ -195,7 +194,6 @@ location = "questo tondo"
 region = "temprata stella sesta"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "quei che la cosa per nome apprende ben", status = "mentioned" },
 ]
 speech = [
   { quote_id = "20:88", lines = "88-138", speaker = "lo benedetto segno", addressee = "Dante", source = "code" },
@@ -270,7 +268,6 @@ title = "The Identity of the Three Women"
 location = "questo tondo"
 region = "temprata stella sesta"
 cast = [
-  { who = "Quelle tre donne", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 basis = "127-129"

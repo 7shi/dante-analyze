@@ -4,7 +4,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 10-27: The Angelic Transformation
-- 27:19 lines 19-27 | speaker: la prima face | addressee: Dante | source: llm | basis: 20-21
+- 27:19 lines 19-27 | speaker: la prima face | addressee: Dante | source: llm | basis: 20-20
 
 ## Scene 28-36: The Celestial Eclipse
 # (no attributed speech in this scene)

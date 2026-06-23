@@ -70,14 +70,13 @@ lines = "37-45"
 title = "Sordello's Warning"
 location = ""
 region = "fianco de la lacca"
-cohort = ["le grandi ombre"]
 cast = [
-  { who = "angeli", status = "present" },
+  { who = "angeli", status = "mentioned" },
   { who = "Maria", status = "mentioned" },
   { who = "Sordello", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "le grandi ombre", status = "present" },
+  { who = "le grandi ombre", status = "mentioned" },
 ]
 refer = [
   { phrase = "gli angeli", line = 37, resolves = "angeli" },
@@ -141,7 +140,7 @@ cast = [
   { who = "Sordello", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Nin", status = "mentioned" },
-  { who = "Currado", status = "present" },
+  { who = "Currado da Palazzo", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "Giovanna", status = "mentioned" },
@@ -155,7 +154,7 @@ speech = [
 ]
 relations = [
   { subj = "Sordello", predicate = "addresses", obj = "Virgilio", lines = "64-64" },
-  { subj = "Nin", predicate = "calls", obj = "Currado", lines = "64-66" },
+  { subj = "Nin", predicate = "calls", obj = "Currado da Palazzo", lines = "64-66" },
   { subj = "Nin", predicate = "addresses", obj = "Dante", lines = "67-67" },
 ]
 basis = "64-81"
@@ -231,7 +230,6 @@ region = "la picciola vallea"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Currado Malaspina", status = "present" },
-  { who = "Malaspina", status = "mentioned" },
   { who = "i segnori", status = "mentioned" },
   { who = "il capo reo", status = "mentioned" },
 ]
@@ -251,7 +249,6 @@ location = "la picciola vallea"
 region = "la picciola vallea"
 cast = [
   { who = "Nin", status = "mentioned" },
-  { who = "Currado", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 relations = [

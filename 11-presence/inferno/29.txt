@@ -1,19 +1,19 @@
 # Canto 29 — The Tenth Bolgia: The Alchemists and the Italic Souls
 
 ## Scene 1-12: Virgil's Reprimand
-- who: molta gente | status: present | basis: 1-2
+- who: molta gente | status: present | basis: 1-1
 - who: Virgilio | status: present | basis: 4-4
-- who: Dante | status: present | basis: 2-4
+- who: Dante | status: present | basis: 2-5
 
 ## Scene 13-21: The Memory of Geri
-- who: Virgilio | status: present | basis: 13-21
+- who: Virgilio | status: present | basis: 16-21
 - who: Dante | status: present | basis: 13-16
-- who: Geri | status: mentioned | basis: 20-21
+- who: Geri del Bello | status: mentioned | basis: 20-20
 
 ## Scene 22-36: Reflection on Violent Death
 - who: Virgilio | status: present | basis: 22-22
 - who: Geri del Bello | status: mentioned | basis: 27-27
-- who: Dante | status: present | basis: 31-32
+- who: Dante | status: present | basis: 32-32
 - who: Bertram dal Bornio | status: mentioned | basis: 29-29
 
 ## Scene 37-51: Arrival at the Tenth Ditch
@@ -40,18 +40,17 @@
 - who: I falsari | status: present | basis: 73-82
 - who: ragazzo | status: mentioned | basis: 77-77
 - who: segnorso | status: mentioned | basis: 77-77
-- who: colui che mal volontier vegghia | status: mentioned | basis: 78-78
 
 ## Scene 85-96: The Greeting to the Souls
 - who: Latino | status: present | basis: 91-91
-- who: Virgilio | status: present | basis: 86-96
-- who: alcun Latino | status: present | basis: 88-91
+- who: Virgilio | status: present | basis: 86-86
+- who: alcun Latino | status: mentioned | basis: 88-88
 - who: quinc' entro | status: present | basis: 89-89
-- who: Dante | status: present | basis: 86-96
+- who: Dante | status: present | basis: 95-95
 
 ## Scene 97-108: The Inquiry of the Living
 - who: Dante | status: present | basis: 98-108
-- who: I falsari | status: present | basis: 97-108
+- who: I falsari | status: present | basis: 98-108
 - who: Virgilio | status: present | basis: 100-102
 
 ## Scene 109-120: The Tale of the Alchemist
@@ -65,9 +64,9 @@
 
 ## Scene 124-139: The Testimony of Capocchio
 - who: Capocchio | status: present | basis: 124-139
-- who: Dante | status: present | basis: 124-138
+- who: Dante | status: present | basis: 124-139
 - who: Stricca | status: mentioned | basis: 125-126
-- who: Niccolò | status: mentioned | basis: 127-129
+- who: Niccolò III | status: mentioned | basis: 127-129
 - who: la brigata | status: mentioned | basis: 130-132
 - who: l'Abbagliato | status: mentioned | basis: 132-132
 - who: i Sanesi | status: mentioned | basis: 134-134

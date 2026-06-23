@@ -2,11 +2,11 @@
 
 ## Scene 1-6: The Source of Beatrice's Radiance
 - who: Beatrice | status: present | basis: 1-6
-- who: Dante | status: present | basis: 1-4
+- who: Dante | status: present | basis: 1-6
 
 ## Scene 7-15: The Question of Vows
-- who: Beatrice | status: present | basis: 7-15
-- who: l'etterna luce | status: mentioned | basis: 8-12
+- who: Beatrice | status: present | basis: 7-7
+- who: l'etterna luce | status: mentioned | basis: 8-8
 - who: Dante | status: present | basis: 8-13
 
 ## Scene 16-18: Beatrice Begins Her Discourse
@@ -14,19 +14,19 @@
 - who: l'uom | status: mentioned | basis: 17-17
 
 ## Scene 19-33: The Gift of Free Will
-- who: Dio | status: mentioned | basis: 19-28
+- who: Dio | status: mentioned | basis: 19-30
 - who: le creature intelligenti | status: mentioned | basis: 23-24
 - who: Dante | status: present | basis: 25-32
 - who: l'omo | status: mentioned | basis: 28-28
 - who: vittima | status: mentioned | basis: 29-29
-- who: Beatrice | status: present | basis: 30-33
+- who: Beatrice | status: present | basis: 19-33
 
 ## Scene 34-39: The Difficulty of Truth
 - who: Dante | status: present | basis: 34-39
-- who: Beatrice | status: present | basis: 36-36
+- who: Beatrice | status: present | basis: 34-39
 
 ## Scene 40-54: The Nature of Sacrifice
-- who: Dante | status: present | basis: 40-40
+- who: Dante | status: present | basis: 40-42
 - who: Beatrice | status: present | basis: 40-40
 - who: li Ebrei | status: mentioned | basis: 49-49
 - who: Dio | status: mentioned | basis: 48-48
@@ -45,7 +45,7 @@
 - who: fatto cólto | status: mentioned | basis: 72-72
 
 ## Scene 73-84: Exhortation to Christians
-- who: Cristiani | status: present | basis: 73-73
+- who: Cristiani | status: mentioned | basis: 73-73
 - who: 'l pastor de la Chiesa | status: mentioned | basis: 77-77
 - who: 'l Giudeo | status: mentioned | basis: 81-81
 - who: Agnel | status: mentioned | basis: 82-82
@@ -55,14 +55,14 @@
 - who: Dante | status: present | basis: 85-93
 
 ## Scene 94-99: Beatrice's Increasing Brilliance
-- who: Beatrice | status: present | basis: 94-95
+- who: Beatrice | status: present | basis: 94-97
 - who: Dante | status: present | basis: 94-99
-- who: Mercurio | status: mentioned | basis: 96-97
+- who: Mercurio | status: mentioned | basis: 96-96
 
 ## Scene 100-108: The Arrival of the Spirits
 - who: Dante | status: present | basis: 103-103
 - who: Beatrice | status: present | basis: 104-106
-- who: l'ombra | status: present | basis: 107-108
+- who: l'ombra | status: present | basis: 107-107
 
 ## Scene 109-114: Dante's Desire for Knowledge
 - who: lettor | status: present | basis: 109-109
@@ -71,21 +71,21 @@
 
 ## Scene 115-120: The Greeting of the Spirit
 - who: Dante | status: present | basis: 115-120
-- who: luci | status: present | basis: 119-119
+- who: luci | status: present | basis: 119-120
 
 ## Scene 121-123: Beatrice's Command
 - who: quelli spirti pii | status: mentioned | basis: 121-121
 - who: Dante | status: present | basis: 122-123
-- who: Beatrice | status: present | basis: 122-123
+- who: Beatrice | status: present | basis: 122-122
 - who: dii | status: mentioned | basis: 123-123
 
 ## Scene 124-129: Dante's Inquiry
-- who: Dante | status: present | basis: 124-127
+- who: Dante | status: present | basis: 124-124
 - who: anima degna | status: present | basis: 128-128
 - who: mortai | status: mentioned | basis: 129-129
 
 ## Scene 130-132: Beatrice's Radiant Reaction
-- who: Dante | status: present | basis: 130-130
+- who: Dante | status: present | basis: 130-131
 
 ## Scene 133-139: The Elusive Response
 - who: Dante | status: present | basis: 136-138

@@ -2,7 +2,7 @@
 
 ## qui
 - en: here
-- cohort: sante Muse (1), un veglio solo (1)
+- cohort: un veglio solo (1)
 
 ## cieco fiume
 - en: blind river
@@ -14,11 +14,11 @@
 
 ## là 've la rugiada pugna col sole
 - en: where the dew fights the sun
-- cohort: anime (3), cento spirti (2), l'ombra (1), La turba (1), quella gente (1), quella masnada fresca (1)
+- cohort: anime (3), cento spirti (2), La turba (1), ombre vane (1)
 
 ## piè del monte
 - en: foot of the mountain
-- cohort: Manfredi (3), anime (2), gente (1), quel popol (1), quell' anime (1), quella gente degna (1), spiriti eletti (1), tutti li altri (1)
+- cohort: Manfredi (4), anime (1), gente (1), quell' anime (1), schiera (1), spiriti eletti (1), tutti li altri (1)
 
 ## l'orlo suppremo de l'alta ripa
 - en: the highest edge of the high bank
@@ -26,15 +26,15 @@
 
 ## a l'ombra dietro al sasso
 - en: in the shade behind the rock
-- cohort: anime (3), le genti (2), i peccatori (1), persone (1), quell' ombre (1), questa gente (1), spiriti ben nati (1), turba spessa (1), uno (1)
+- cohort: anime (3), le genti (2), i peccatori (1), persone (1), quell' ombre (1), spiriti ben nati (1), turba spessa (1), una (1), uno (1)
 
 ## fianco de la lacca
 - en: the side of the hollow
-- cohort: anime (3), le grandi ombre (2), gente (1), l'altre (1), quell'essercito gentile (1), una de l'alme (1)
+- cohort: anime (3), gente (1), l'altre (1), le grandi ombre (1), quell'essercito gentile (1), una de l'alme (1)
 
 ## la picciola vallea
 - en: the little valley
-- cohort: li angeli (1)
+- cohort: La concubina (1), li angeli (1)
 
 ## lo balzo
 - en: the ledge
@@ -42,11 +42,11 @@
 
 ## cornice
 - en: ledge
-- cohort: i superbi (7), l'ombre (3), le anime degli invidiosi (3), gli invidiosi (2), le anime dei superbi (2), Spirto (2), ' morti (1), costoro (1), due spirti (1), figliuoli d'Eva (1), gente (1), gente sicura (1), i Giganti (1), l'ombra (1), le divote ombre (1), li morti (1), messo (1), molte genti (1), pauperes (1), quell' ombre (1), spiriti (1), spirito (1), un angel (1), un'ombra (1)
+- cohort: i superbi (6), l'ombre (3), le anime degli invidiosi (3), gli invidiosi (2), le anime dei superbi (2), Spirto (2), ' morti (1), due spirti (1), figliuoli d'Eva (1), gente (1), gente sicura (1), i Giganti (1), l'ombra (1), le divote ombre (1), li morti (1), messo (1), molte genti (1), quell' ombre (1), spiriti (1), spirito (1), un angel (1), un'ombra (1), uomini (1)
 
 ## l'altro girone
 - en: the other gyre
-- cohort: gli iracondi (1), persone (1), spirti (1), un giovinetto (1), un'altra (1), uomini (1)
+- cohort: gli iracondi (1), i Troiani (1), persone (1), spirti (1), un giovinetto (1), un'altra (1), uomini (1)
 
 ## bassi lidi
 - en: low shores
@@ -58,11 +58,11 @@
 
 ## giro
 - en: gyre
-- cohort: Sirena (4), gente (2), anime (1), li altri (1), quelli spirti (1), tutta quella turba magna (1), un angel (1), una femmina balba (1)
+- cohort: Sirena (4), gente (2), anime (1), l'ombre (1), li altri (1), quelli spirti (1), tutta quella turba magna (1), un angel (1), una femmina balba (1)
 
 ## quinto giro
 - en: fifth circle
-- cohort: l'ombre (3), gente (2), anime (1), anime degli avidi e dei prodighi (1), avari e prodighi (1), gli avarizi e i prodighi (1), La turba (1), le anime avare e prodigali (1), le anime degli avari e dei prodighi (1), le quattro ancelle (1), li spiriti veloci (1), Spirto (1), un angel (1), vicin (1)
+- cohort: gente (2), l'ombre (2), anime (1), anime degli avidi e dei prodighi (1), avari e prodighi (1), gli avarizi e i prodighi (1), La turba (1), le anime avare e prodigali (1), le anime degli avari e dei prodighi (1), le quattro ancelle (1), le suore di Deïdamia (1), li spiriti veloci (1), other poets of Limbo (1), Spirto (1), vicin (1)
 
 ## mezza strada
 - en: middle of the road
@@ -70,7 +70,7 @@
 
 ## l'alber
 - en: the tree
-- cohort: l'ombre (2), anime (1), d'anime turba tacita e devota (1), Forese, anime penitenti (1), gente (1), i penitenti (1), la santa greggia (1), questa gente (1), Tutta esta gente (1), tutta la gente (1)
+- cohort: gente (2), l'ombre (2), anime (1), anime penitenti (1), ciascun (1), d'anime turba tacita e devota (1), i penitenti (1), la santa greggia (1), Tutta esta gente (1), tutta la gente (1)
 
 ## vivagni
 - en: hedges
@@ -82,7 +82,7 @@
 
 ## scala
 - en: steep climb
-- cohort: lussuriosi (6), anime (3), ciascun' ombra (1), gente (1), l'ombra (1), l'uno e l'altro (1), le donne (1), mariti (1), molt' ombre (1), quella turba (1), spirti (1), the first group of souls (1)
+- cohort: lussuriosi (7), anime (3), ciascun' ombra (1), gente (1), l'anima (1), l'ombra (1), l'uno e l'altro (1), la nova gente (1), le donne (1), mariti (1), molt' ombre (1), spirti (1), the first group of souls (1)
 
 ## là ove si montava
 - en: where one climbed
@@ -114,7 +114,7 @@
 
 ## L'acqua
 - en: the water
-- cohort: quattro (2), due vecchi (1), fiammelle (1), i beati (1), la gente verace (1), le genti (1), primaio stuolo (1), quelle genti degne (1), quelle genti elette (1), serafini (1), Tre donne (1), tutti li altri (1), un di loro (1), un vecchio solo (1), ventiquattro seniori (1)
+- cohort: la gente verace (2), quattro (2), duci (1), due vecchi (1), fiammelle (1), le genti (1), primaio stuolo (1), serafini (1), Tre donne (1), un vecchio solo (1), ventiquattro seniori (1)
 
 ## carro
 - en: chariot
@@ -122,11 +122,11 @@
 
 ## chiaro fonte
 - en: clear fountain
-- cohort: li angeli (1), quei che notan sempre dietro a le note de li etterni giri (1)
+- cohort: li angeli (1)
 
 ## coscia del carro
 - en: the step of the chariot
-- cohort: le sustanze pie (1), quelle prime creature (1)
+- cohort: le sustanze pie (1)
 
 ## beata riva
 - en: blessed shore
@@ -142,4 +142,4 @@
 
 ## l'alta selva vòta
 - en: the high empty forest
-- cohort: l'altre vergini (1), la compagnia (1), le donne (1), le sette donne (1), li altri (1), tutte e sette (1), una puttana sciolta (1)
+- cohort: l'altre vergini (1), la compagnia (1), le donne (1), le sette donne (1), li altri (1), tutte e sette (1), un gigante (1)

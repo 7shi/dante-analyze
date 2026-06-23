@@ -22,10 +22,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 49-54: Recognition of the Scholar
-- cohort: l'anima | source: code | basis: 49-53
+- cohort: l'anima | source: code | basis: 49-54
 
 ## Scene 55-60: The Equality of Spirits
-# (no soul-class present in this scene)
+- cohort: general human soul/observer | source: code | basis: 60-60
 
 ## Scene 61-69: The Mirror of Thought
 # (no soul-class present in this scene)
@@ -61,7 +61,6 @@
 # (no soul-class present in this scene)
 
 ## Scene 121-126: Traditional Domestic Life
-- cohort: le donne | source: llm | basis: 121-126
 - cohort: la sua famiglia | source: llm | basis: 125-125
 
 ## Scene 127-129: The Greatness of Ancestors

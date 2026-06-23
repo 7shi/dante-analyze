@@ -17,7 +17,7 @@
 - who: giunte | status: present | basis: 26-26
 
 ## Scene 31-39: Dante's Inquiry
-- who: Niccolò | status: mentioned | basis: 31-36
+- who: Niccolò III | status: mentioned | basis: 31-36
 - who: Virgilio | status: present | basis: 31-39
 - who: li altri suoi consorti | status: mentioned | basis: 32-32
 - who: Dante | status: present | basis: 31-39
@@ -28,8 +28,8 @@
 - who: Nicola III | status: present | basis: 45-45
 
 ## Scene 46-48: Dante’s Salutation
-- who: Niccolò | status: present | basis: 46-48
-- who: Dante | status: present | basis: 48-48
+- who: Niccolò III | status: present | basis: 46-48
+- who: Dante | status: present | basis: 46-48
 
 ## Scene 49-51: The Confessor Simile
 - who: Dante | status: present | basis: 49-49
@@ -40,7 +40,7 @@
 - who: Nicola III | status: present | basis: 52-52
 - who: Dante | status: present | basis: 52-52
 - who: Bonifazio | status: present | basis: 53-53
-- who: la bella donna | status: mentioned | basis: 57-57
+- who: la bella donna | status: mentioned | basis: 56-57
 
 ## Scene 58-60: Dante’s Bewilderment
 - who: Dante | status: present | basis: 58-58
@@ -53,33 +53,33 @@
 - who: Nicola III | status: mentioned | basis: 62-62
 
 ## Scene 64-78: The Sinner’s Revelation
-- who: Niccolò III | status: present | basis: 73-74
+- who: Niccolò III | status: mentioned | basis: 77-77
 - who: Dante | status: present | basis: 66-68
 - who: li altri tratti | status: present | basis: 73-75
 - who: Bonifacio VIII | status: present | basis: 64-78
 
 ## Scene 79-87: The Prophecy of the Shepherd
-- who: Niccolò III | status: present | basis: 79-80
-- who: Bonifacio VIII | status: mentioned | basis: 81-82
-- who: Clemente V | status: mentioned | basis: 83-83
+- who: Niccolò III | status: present | basis: 79-84
+- who: Bonifacio VIII | status: present | basis: 81-84
+- who: Clemente V | status: mentioned | basis: 83-87
 - who: Iasón | status: mentioned | basis: 85-85
 - who: suo re | status: mentioned | basis: 86-86
 - who: Filippo IV | status: mentioned | basis: 87-87
 
 ## Scene 88-105: Dante’s First Rebuttal
-- who: Dante | status: present | basis: 88-89
-- who: Nicola III | status: present | basis: 89-90
-- who: Nostro Segnore | status: mentioned | basis: 90-91
-- who: San Pietro | status: mentioned | basis: 91-92
+- who: Dante | status: present | basis: 88-88
+- who: Nicola III | status: present | basis: 89-89
+- who: Nostro Segnore | status: mentioned | basis: 91-91
+- who: San Pietro | status: mentioned | basis: 91-94
 - who: li altri | status: mentioned | basis: 94-94
-- who: Matia | status: mentioned | basis: 94-96
+- who: Matia | status: mentioned | basis: 94-95
 - who: Giuda | status: mentioned | basis: 96-96
 - who: Carlo | status: mentioned | basis: 99-99
 - who: i buoni | status: mentioned | basis: 105-105
 - who: i pravi | status: mentioned | basis: 105-105
 
 ## Scene 106-117: Dante’s Second Rebuttal
-- who: simoniaci | status: present | basis: 106-117
+- who: simoniaci | status: present | basis: 106-114
 - who: Giovanni Vangelista | status: mentioned | basis: 106-106
 - who: la meretrice di Babilonia | status: mentioned | basis: 107-110
 - who: regi | status: mentioned | basis: 108-108
@@ -90,11 +90,11 @@
 
 ## Scene 118-123: Virgil’s Silent Approval
 - who: Dante | status: present | basis: 118-118
-- who: Niccolò | status: present | basis: 118-118
+- who: Niccolò III | status: mentioned | basis: 123-123
 - who: Virgilio | status: present | basis: 121-121
 
 ## Scene 124-129: The Ascent
-- who: Virgilio | status: present | basis: 124-128
+- who: Virgilio | status: present | basis: 124-129
 - who: Dante | status: present | basis: 124-128
 
 ## Scene 130-133: Arrival at a New Valley

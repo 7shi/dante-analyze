@@ -9,7 +9,6 @@ region = "qua sù"
 cast = [
   { who = "i miseri mortali", status = "mentioned" },
   { who = "Beatrice", status = "mentioned" },
-  { who = "colui che se n'alluma retro", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 refer = [
@@ -188,14 +187,13 @@ lines = "121-126"
 title = "The Hierarchy of the Remaining Angels"
 location = "miro e angelico templo"
 region = "qua sù"
-cohort = ["l'altre dee"]
 cast = [
-  { who = "l'altre dee", status = "present" },
-  { who = "Dominazioni", status = "present" },
-  { who = "Virtudi", status = "present" },
-  { who = "Podestadi", status = "present" },
-  { who = "Principati", status = "present" },
-  { who = "Arcangeli", status = "present" },
+  { who = "l'altre dee", status = "mentioned" },
+  { who = "Dominazioni", status = "mentioned" },
+  { who = "Virtudi", status = "mentioned" },
+  { who = "Podestadi", status = "mentioned" },
+  { who = "Principati", status = "mentioned" },
+  { who = "Arcangeli", status = "mentioned" },
 ]
 basis = "121-126"
 
@@ -204,9 +202,7 @@ lines = "127-129"
 title = "The Universal Influence of the Spheres"
 location = "miro e angelico templo"
 region = "qua sù"
-cohort = ["Questi ordini di sù"]
 cast = [
-  { who = "Questi ordini di sù", status = "present" },
   { who = "Dio", status = "mentioned" },
 ]
 relations = [
@@ -220,11 +216,9 @@ lines = "130-135"
 title = "Dionysius and Gregory"
 location = "miro e angelico templo"
 region = "qua sù"
-cohort = ["questi ordini"]
 cast = [
   { who = "Dïonisio", status = "present" },
-  { who = "questi ordini", status = "present" },
-  { who = "Dante", status = "mentioned" },
+  { who = "Dante", status = "present" },
   { who = "Gregorio", status = "present" },
 ]
 relations = [

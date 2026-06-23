@@ -9,11 +9,11 @@ region = "ramo"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
   { who = "Beatrice", status = "mentioned" },
 ]
 relations = [
-  { subj = "Pietro", predicate = "praises", obj = "Dante", lines = "12-12" },
+  { subj = "San Pietro", predicate = "praises", obj = "Dante", lines = "12-12" },
 ]
 basis = "1-12"
 
@@ -23,7 +23,7 @@ title = "The Appearance of the Second Light"
 location = ""
 region = "ramo"
 cast = [
-  { who = "Giacomo", status = "present" },
+  { who = "Giacomo il Maggiore", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
   { who = "San Pietro", status = "mentioned" },
@@ -31,13 +31,13 @@ cast = [
   { who = "i vicari suoi", status = "mentioned" },
 ]
 relations = [
-  { subj = "Giacomo", predicate = "meets", obj = "Dante, Beatrice, San Pietro", lines = "13-13" },
+  { subj = "Giacomo il Maggiore", predicate = "meets", obj = "Dante, Beatrice, San Pietro", lines = "13-13" },
   { subj = "Cristo", predicate = "relates-to", obj = "San Pietro", lines = "15-15" },
   { subj = "Cristo", predicate = "relates-to", obj = "i vicari suoi", lines = "15-15" },
   { subj = "Beatrice", predicate = "speaks-to", obj = "Dante", lines = "17-17" },
   { subj = "Beatrice", predicate = "commands", obj = "Dante", lines = "17-17" },
-  { subj = "Beatrice", predicate = "shows", obj = "Giacomo", lines = "17-18" },
-  { subj = "Beatrice", predicate = "names", obj = "Giacomo", lines = "17-18" },
+  { subj = "Beatrice", predicate = "shows", obj = "Giacomo il Maggiore", lines = "17-18" },
+  { subj = "Beatrice", predicate = "names", obj = "Giacomo il Maggiore", lines = "17-18" },
 ]
 basis = "13-18"
 
@@ -49,8 +49,8 @@ region = "ramo"
 cohort = ["i beati"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Giacomo", status = "mentioned" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "Giacomo il Maggiore", status = "present" },
+  { who = "San Pietro", status = "present" },
   { who = "Beatrice", status = "mentioned" },
   { who = "i beati", status = "present" },
 ]
@@ -58,8 +58,8 @@ refer = [
   { phrase = "beati", line = 24, resolves = "i beati" },
 ]
 relations = [
-  { subj = "Dante", predicate = "sees", obj = "Giacomo", lines = "22-22" },
-  { subj = "Pietro", predicate = "meets", obj = "Giacomo", lines = "22-23" },
+  { subj = "Dante", predicate = "sees", obj = "Giacomo il Maggiore", lines = "22-22" },
+  { subj = "San Pietro", predicate = "meets", obj = "Giacomo il Maggiore", lines = "22-23" },
   { subj = "Beatrice", predicate = "gives", obj = "i beati", lines = "24-24" },
 ]
 basis = "19-24"
@@ -76,7 +76,7 @@ cast = [
   { who = "San Pietro", status = "present" },
   { who = "San Giacomo", status = "present" },
   { who = "Bëatrice", status = "present" },
-  { who = "Iesù", status = "mentioned" },
+  { who = "Cristo", status = "mentioned" },
   { who = "San Giovanni", status = "present" },
 ]
 relations = [
@@ -118,7 +118,7 @@ title = "The Nature of Hope in the Church"
 location = ""
 region = "ramo"
 cast = [
-  { who = "Giacomo", status = "present" },
+  { who = "Giacomo il Maggiore", status = "present" },
   { who = "Beatrice", status = "present" },
   { who = "Dante", status = "present" },
   { who = "La Chiesa militante", status = "mentioned" },
@@ -129,7 +129,7 @@ speech = [
 ]
 relations = [
   { subj = "Beatrice", predicate = "guides", obj = "Dante", lines = "49-50" },
-  { subj = "Beatrice", predicate = "answers", obj = "Giacomo", lines = "51-51" },
+  { subj = "Beatrice", predicate = "answers", obj = "Giacomo il Maggiore", lines = "51-51" },
   { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "61-61" },
 ]
 basis = "48-63"
@@ -145,11 +145,10 @@ cast = [
   { who = "Virgilio", status = "mentioned" },
   { who = "Augusto", status = "mentioned" },
   { who = "color che sanno il nome tuo", status = "mentioned" },
-  { who = "Dio", status = "mentioned" },
-  { who = "chi nol sa", status = "mentioned" },
+  { who = "Dio", status = "present" },
 ]
 speech = [
-  { quote_id = "25:67B", lines = "67-78", speaker = "Dante", addressee = "Giacomo il Maggiore", source = "code" },
+  { quote_id = "25:67B", lines = "67-78", speaker = "Dante", addressee = "Giacomo il Maggiore", source = "llm" },
 ]
 relations = [
   { subj = "Dante", predicate = "answers", obj = "Giacomo il Maggiore", lines = "67-67" },
@@ -166,10 +165,10 @@ location = ""
 region = "ramo"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Giovanni", status = "mentioned" },
+  { who = "San Giovanni", status = "present" },
 ]
 speech = [
-  { quote_id = "25:82", lines = "82-87", speaker = "Giovanni", addressee = "Dante", source = "code" },
+  { quote_id = "25:82", lines = "82-87", speaker = "San Giovanni", addressee = "Dante", source = "code" },
 ]
 refer = [
   { phrase = "la virtù", line = 82, resolves = "virtù" },
@@ -177,7 +176,7 @@ refer = [
   { phrase = "la virtù", line = 85, resolves = "virtù" },
 ]
 relations = [
-  { subj = "Giovanni", predicate = "speaks-to", obj = "Dante", lines = "82-87" },
+  { subj = "San Giovanni", predicate = "speaks-to", obj = "Dante", lines = "82-87" },
 ]
 basis = "79-87"
 
@@ -186,17 +185,16 @@ lines = "88-96"
 title = "Scriptural Identification of Hope"
 location = ""
 region = "ramo"
-cohort = ["Dante, i fedeli"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "anime", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
   { who = "Isaia", status = "mentioned" },
   { who = "San Pietro", status = "mentioned" },
-  { who = "Dante, i fedeli", status = "present" },
+  { who = "i fedeli", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "25:88", lines = "88-96", speaker = "Dante", addressee = "Dante, i fedeli", source = "code" },
+  { quote_id = "25:88", lines = "88-96", speaker = "Dante", addressee = "(none)", source = "none" },
 ]
 refer = [
   { phrase = "l'anime", line = 90, resolves = "anime" },
@@ -243,10 +241,8 @@ title = "Beatrice's Identification"
 location = ""
 region = "ramo"
 cast = [
-  { who = "Giovanni", status = "present" },
+  { who = "San Giovanni", status = "present" },
   { who = "Beatrice", status = "present" },
-  { who = "Pietro", status = "present" },
-  { who = "Giacomo", status = "present" },
   { who = "Cristo", status = "mentioned" },
 ]
 relations = [
@@ -273,7 +269,6 @@ title = "The Prophecy of the Two Lights"
 location = ""
 region = "ramo"
 cast = [
-  { who = "colui ch'adocchia", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "San Giovanni", status = "mentioned" },
   { who = "li altri", status = "mentioned" },

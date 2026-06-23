@@ -28,10 +28,10 @@
 # (no soul-class present in this scene)
 
 ## Scene 100-105: Dante's Inquiry
-- cohort: gente | source: code | basis: 103-103
+# (no soul-class present in this scene)
 
 ## Scene 106-123: Virgil's Catalog of Souls
-- cohort: le triste | source: code | basis: 121-123
+- cohort: le triste | source: code | basis: 121-121
 
 ## Scene 124-130: Closing Exhortation
 # (no soul-class present in this scene)

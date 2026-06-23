@@ -32,7 +32,7 @@
 - 19:62 lines 62-62 | speaker: Dante | addressee: Bonifacio VIII | source: llm | basis: 62-62
 
 ## Scene 64-78: The Sinner’s Revelation
-- 19:66 lines 66-87 | speaker: Niccolò III | addressee: Dante | source: llm | basis: 66-68
+- 19:66 lines 66-87 | speaker: Niccolò III | addressee: Dante | source: llm | basis: 66-66
 
 ## Scene 79-87: The Prophecy of the Shepherd
 # (no attributed speech in this scene)

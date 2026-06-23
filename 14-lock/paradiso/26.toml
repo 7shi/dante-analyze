@@ -93,7 +93,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "ogne fedel", status = "mentioned" },
-  { who = "l'ortolano etterno", status = "mentioned" },
 ]
 speech = [
   { quote_id = "26:55", lines = "55-66", speaker = "Dante", addressee = "(none)", source = "none" },
@@ -127,9 +126,6 @@ region = "ramo"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
-  { who = "Pietro", status = "present" },
-  { who = "Giacomo", status = "present" },
-  { who = "Giovanni", status = "present" },
   { who = "l'anima prima", status = "present" },
 ]
 relations = [
@@ -197,7 +193,7 @@ cast = [
   { who = "la prima anima", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
-  { who = "Beatrice", status = "present" },
+  { who = "Beatrice", status = "mentioned" },
 ]
 relations = [
   { subj = "la prima anima", predicate = "speaks-to", obj = "Dante", lines = "103-114" },

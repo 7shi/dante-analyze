@@ -52,7 +52,7 @@ cast = [
   { who = "Pallade", status = "present" },
   { who = "i Giganti", status = "present" },
   { who = "Nembròt", status = "present" },
-  { who = "le genti", status = "mentioned" },
+  { who = "le genti", status = "present" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "Giove", lines = "25-27" },
@@ -99,7 +99,7 @@ title = "The symbols of fallen kings"
 location = ""
 region = "cornice"
 cast = [
-  { who = "Roboàm", status = "present" },
+  { who = "Roboàm", status = "mentioned" },
   { who = "i portatori del carro", status = "mentioned" },
   { who = "Almeon", status = "mentioned" },
   { who = "la sua madre", status = "mentioned" },
@@ -148,7 +148,7 @@ cast = [
   { who = "l'ombre", status = "present" },
   { who = "uno ingegno sottile", status = "mentioned" },
   { who = "li morti", status = "present" },
-  { who = "vivi", status = "present" },
+  { who = "vivi", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 relations = [
@@ -242,11 +242,10 @@ lines = "109-114"
 title = "The transition in song"
 location = "ove la roccia era tagliata"
 region = "cornice"
-cohort = ["pauperes"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "pauperes", status = "present" },
+  { who = "pauperes", status = "mentioned" },
   { who = "l'infernali", status = "mentioned" },
 ]
 relations = [

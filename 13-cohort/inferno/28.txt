@@ -10,9 +10,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 34-45: The Proclamation of Schism
-- cohort: tutti li altri | source: llm | basis: 34-34
-- cohort: seminator di scandalo e di scisma | source: llm | basis: 35-35
-- cohort: questa risma | source: llm | basis: 39-39
+- cohort: seminator di scandalo e di scisma | source: llm | basis: 34-36
 
 ## Scene 46-51: Virgil's Explanation
 # (no soul-class present in this scene)
@@ -37,4 +35,4 @@
 - cohort: la trista greggia | source: llm | basis: 120-120
 
 ## Scene 127-142: The Confession of Bertram
-- cohort: i morti | source: code | basis: 131-131
+# (no soul-class present in this scene)

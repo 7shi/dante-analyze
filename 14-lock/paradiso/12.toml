@@ -7,7 +7,7 @@ title = "The Rotation of the Celestial Gear"
 location = ""
 region = "ella"
 cast = [
-  { who = "Tommaso", status = "mentioned" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
   { who = "muse", status = "mentioned" },
 ]
 basis = "1-9"
@@ -59,6 +59,9 @@ cast = [
   { who = "i beati", status = "mentioned" },
   { who = "Beatrice", status = "present" },
 ]
+speech = [
+  { quote_id = "12:31", lines = "31-145", speaker = "San Domenico", addressee = "Beatrice", source = "llm" },
+]
 refer = [
   { phrase = "beati", line = 33, resolves = "i beati" },
 ]
@@ -74,8 +77,6 @@ location = ""
 region = "ella"
 cast = [
   { who = "Cristo", status = "mentioned" },
-  { who = "Domenico", status = "mentioned" },
-  { who = "Francesco", status = "mentioned" },
 ]
 basis = "37-45"
 
@@ -99,7 +100,7 @@ title = "The Vision and Signs of Sanctity"
 location = ""
 region = "ella"
 cast = [
-  { who = "Domenico", status = "mentioned" },
+  { who = "San Domenico", status = "mentioned" },
   { who = "la donna", status = "mentioned" },
   { who = "il padre di Domenico", status = "mentioned" },
   { who = "spirito", status = "mentioned" },
@@ -107,21 +108,21 @@ cast = [
   { who = "la sua nutrice", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "12:78", lines = "78-78", speaker = "Domenico", addressee = "(none)", source = "none" },
+  { quote_id = "12:78", lines = "78-78", speaker = "San Domenico", addressee = "(none)", source = "none" },
 ]
 relations = [
-  { subj = "Domenico", predicate = "relates-to", obj = "la Fede", lines = "61-62" },
+  { subj = "San Domenico", predicate = "relates-to", obj = "la Fede", lines = "61-62" },
   { subj = "Domenico, la Fede", predicate = "gives", obj = "Domenico, la Fede", lines = "63-63" },
-  { subj = "la donna", predicate = "gives", obj = "Domenico", lines = "64-64" },
+  { subj = "la donna", predicate = "gives", obj = "San Domenico", lines = "64-64" },
   { subj = "il padre di Domenico", predicate = "relates-to", obj = "le rede", lines = "66-66" },
-  { subj = "spirito", predicate = "names", obj = "Domenico", lines = "68-69" },
-  { subj = "Domenico", predicate = "compares", obj = "Domenico", lines = "70-72" },
-  { subj = "Domenico", predicate = "relates-to", obj = "Cristo", lines = "73-73" },
-  { subj = "Cristo", predicate = "gives", obj = "Domenico", lines = "74-75" },
-  { subj = "la sua nutrice", predicate = "meets", obj = "Domenico", lines = "76-77" },
+  { subj = "spirito", predicate = "names", obj = "San Domenico", lines = "68-69" },
+  { subj = "San Domenico", predicate = "compares", obj = "San Domenico", lines = "70-72" },
+  { subj = "San Domenico", predicate = "relates-to", obj = "Cristo", lines = "73-73" },
+  { subj = "Cristo", predicate = "gives", obj = "San Domenico", lines = "74-75" },
+  { subj = "la sua nutrice", predicate = "meets", obj = "San Domenico", lines = "76-77" },
 ]
 simile = [
-  { lines = "71-72", vehicle = "Domenico" },
+  { lines = "71-72", vehicle = "San Domenico" },
 ]
 basis = "61-78"
 
@@ -135,14 +136,14 @@ cast = [
   { who = "Giovanna", status = "mentioned" },
   { who = "Agostino", status = "mentioned" },
   { who = "Taddeo", status = "mentioned" },
-  { who = "Domenico", status = "mentioned" },
+  { who = "San Domenico", status = "mentioned" },
 ]
 refer = [
   { phrase = "lo mondo", line = 82, resolves = "'l mondo" },
 ]
 relations = [
-  { subj = "Domenico", predicate = "praises", obj = "Felice", lines = "79-79" },
-  { subj = "Domenico", predicate = "praises", obj = "Giovanna", lines = "80-80" },
+  { subj = "San Domenico", predicate = "praises", obj = "Felice", lines = "79-79" },
+  { subj = "San Domenico", predicate = "praises", obj = "Giovanna", lines = "80-80" },
 ]
 basis = "79-87"
 
@@ -209,13 +210,12 @@ lines = "127-141"
 title = "The Assembly of the Saints"
 location = ""
 region = "ella"
-cohort = ["primi scalzi poverelli"]
 cast = [
-  { who = "Domenico", status = "mentioned" },
-  { who = "Bonaventura", status = "present" },
+  { who = "San Domenico", status = "present" },
+  { who = "San Bonaventura", status = "present" },
   { who = "Illuminato", status = "present" },
   { who = "Augustin", status = "present" },
-  { who = "primi scalzi poverelli", status = "present" },
+  { who = "primi scalzi poverelli", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
   { who = "Ugo da San Vittore", status = "present" },
   { who = "Pietro Mangiadore", status = "present" },
@@ -235,9 +235,9 @@ title = "The Unified Praise"
 location = ""
 region = "ella"
 cast = [
-  { who = "Francesco", status = "present" },
-  { who = "Domenico", status = "present" },
-  { who = "Tommaso", status = "present" },
+  { who = "San Francesco", status = "present" },
+  { who = "San Domenico", status = "present" },
+  { who = "Tommaso d'Aquino", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "mentioned" },

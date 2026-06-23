@@ -7,13 +7,13 @@ title = "Memory of Carlo"
 location = ""
 region = "ella"
 cast = [
-  { who = "Carlo", status = "mentioned" },
+  { who = "Carlo Magno", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 relations = [
   { subj = "Dante", predicate = "addresses", obj = "Clemenza", lines = "1-1" },
-  { subj = "Carlo", predicate = "tells", obj = "Dante", lines = "1-2" },
-  { subj = "Carlo", predicate = "tells", obj = "Dante", lines = "2-2" },
+  { subj = "Carlo Magno", predicate = "tells", obj = "Dante", lines = "1-2" },
+  { subj = "Carlo Magno", predicate = "tells", obj = "Dante", lines = "2-2" },
   { subj = "Dante", predicate = "prophesies", obj = "Clemenza", lines = "5-6" },
 ]
 basis = "1-6"
@@ -24,7 +24,7 @@ title = "Condemnation of Vanity"
 location = ""
 region = "ella"
 cast = [
-  { who = "Sibilla", status = "mentioned" },
+  { who = "Sibilla Cumana", status = "present" },
   { who = "anime ingannate e fatture empie", status = "mentioned" },
 ]
 refer = [
@@ -33,8 +33,8 @@ refer = [
   { phrase = "Sol", line = 11, resolves = "'l sol" },
 ]
 relations = [
-  { subj = "Sibilla", predicate = "relates-to", obj = "'l sol", lines = "7-8" },
-  { subj = "'l sol", predicate = "relates-to", obj = "Sibilla", lines = "8-8" },
+  { subj = "Sibilla Cumana", predicate = "relates-to", obj = "'l sol", lines = "7-8" },
+  { subj = "'l sol", predicate = "relates-to", obj = "Sibilla Cumana", lines = "8-8" },
   { subj = "anime ingannate e fatture empie", predicate = "opposes", obj = "'l sol", lines = "11-11" },
 ]
 basis = "7-12"
@@ -142,7 +142,7 @@ title = "The Spirit's Reversion"
 location = ""
 region = "ella"
 cast = [
-  { who = "Cunizza", status = "present" },
+  { who = "Cunizza", status = "mentioned" },
 ]
 basis = "64-66"
 
@@ -199,13 +199,11 @@ title = "Identity and Divine Purpose"
 location = "cielo"
 region = "ella"
 cast = [
-  { who = "Folco", status = "mentioned" },
+  { who = "Folco", status = "present" },
   { who = "Cunizza", status = "present" },
-  { who = "quella gente", status = "mentioned" },
-  { who = "la figlia di Belo", status = "mentioned" },
+  { who = "la figlia di Belo", status = "present" },
   { who = "Sicheo", status = "mentioned" },
   { who = "Creusa", status = "mentioned" },
-  { who = "quella Rodopëa", status = "mentioned" },
   { who = "Demofoonte", status = "mentioned" },
   { who = "Alcide", status = "mentioned" },
   { who = "Iole", status = "mentioned" },
@@ -224,7 +222,7 @@ region = "ella"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Raab", status = "present" },
-  { who = "Cunizza", status = "mentioned" },
+  { who = "Cunizza", status = "present" },
   { who = "l'ombra", status = "mentioned" },
   { who = "altr' alma", status = "mentioned" },
   { who = "Cristo", status = "mentioned" },
@@ -252,7 +250,7 @@ cast = [
   { who = "i cardinali", status = "mentioned" },
   { who = "Gabrïello", status = "mentioned" },
   { who = "la milizia", status = "mentioned" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
   { who = "l'avoltero", status = "mentioned" },
 ]
 basis = "127-142"

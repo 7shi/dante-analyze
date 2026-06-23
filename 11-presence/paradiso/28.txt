@@ -2,8 +2,7 @@
 
 ## Scene 1-12: The Mirror of Memory
 - who: i miseri mortali | status: mentioned | basis: 2-2
-- who: Beatrice | status: mentioned | basis: 3-11
-- who: colui che se n'alluma retro | status: mentioned | basis: 5-5
+- who: Beatrice | status: mentioned | basis: 1-11
 - who: Dante | status: present | basis: 3-12
 
 ## Scene 13-30: The Radiant Point and Concentric Spheres
@@ -25,8 +24,8 @@
 # (no person figure named in this scene)
 
 ## Scene 61-78: The Principle of Divine Proportion
-- who: Beatrice | status: present | basis: 61-62
-- who: Dante | status: present | basis: 62-76
+- who: Beatrice | status: present | basis: 61-78
+- who: Dante | status: present | basis: 62-75
 
 ## Scene 79-87: Clarity of Understanding
 - who: Dante | status: present | basis: 85-85
@@ -54,21 +53,19 @@
 - who: tre melode | status: present | basis: 119-119
 
 ## Scene 121-126: The Hierarchy of the Remaining Angels
-- who: l'altre dee | status: present | basis: 121-121
-- who: Dominazioni | status: present | basis: 122-122
-- who: Virtudi | status: present | basis: 122-122
-- who: Podestadi | status: present | basis: 123-123
-- who: Principati | status: present | basis: 125-125
-- who: Arcangeli | status: present | basis: 125-125
+- who: l'altre dee | status: mentioned | basis: 121-121
+- who: Dominazioni | status: mentioned | basis: 122-122
+- who: Virtudi | status: mentioned | basis: 122-122
+- who: Podestadi | status: mentioned | basis: 123-123
+- who: Principati | status: mentioned | basis: 125-125
+- who: Arcangeli | status: mentioned | basis: 125-125
 
 ## Scene 127-129: The Universal Influence of the Spheres
-- who: Questi ordini di sù | status: present | basis: 127-129
 - who: Dio | status: mentioned | basis: 128-128
 
 ## Scene 130-135: Dionysius and Gregory
 - who: Dïonisio | status: present | basis: 130-132
-- who: questi ordini | status: present | basis: 131-132
-- who: Dante | status: mentioned | basis: 132-132
+- who: Dante | status: present | basis: 132-132
 - who: Gregorio | status: present | basis: 133-135
 
 ## Scene 136-139: The Final Revelation

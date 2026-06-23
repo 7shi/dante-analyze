@@ -128,7 +128,7 @@ cohort = ["tre anime fiorentine"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Iacopo Rusticucci", status = "present" },
-  { who = "Guiglielmo Borsiere", status = "present" },
+  { who = "Guiglielmo Borsiere", status = "mentioned" },
   { who = "tre anime fiorentine", status = "present" },
   { who = "compagni", status = "mentioned" },
 ]
@@ -270,7 +270,6 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "lettor", status = "mentioned" },
   { who = "Gerione", status = "present" },
-  { who = "colui che va giuso", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "addresses", obj = "lettor", lines = "128-128" },

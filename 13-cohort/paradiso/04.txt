@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 25-39: The Hierarchy of the First Heaven
-- cohort: questi spirti | source: code | basis: 32-37
+# (no soul-class present in this scene)
 
 ## Scene 40-48: The Use of Anthropomorphism in Scripture
 # (no soul-class present in this scene)
@@ -19,7 +19,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 73-87: The Distinction Between Will and Force
-- cohort: quest' alme | source: code | basis: 75-81
+# (no soul-class present in this scene)
 
 ## Scene 88-99: The Paradox of Piccarda and Costanza
 # (no soul-class present in this scene)

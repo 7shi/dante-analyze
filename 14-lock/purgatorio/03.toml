@@ -113,9 +113,7 @@ lines = "67-72"
 title = "The Gathering Crowd"
 location = "piè del monte"
 region = "piè del monte"
-cohort = ["quel popol"]
 cast = [
-  { who = "quel popol", status = "present" },
   { who = "Dante", status = "present" },
 ]
 simile = [
@@ -132,7 +130,6 @@ cohort = ["spiriti eletti"]
 cast = [
   { who = "spiriti eletti", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "chi più sa", status = "mentioned" },
 ]
 speech = [
   { quote_id = "3:74", lines = "74-78", speaker = "Virgilio", addressee = "spiriti eletti", source = "code" },
@@ -184,13 +181,12 @@ lines = "94-99"
 title = "The Reason for Darkness"
 location = "piè del monte"
 region = "piè del monte"
-cohort = ["anime"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "anime", status = "present" },
+  { who = "anime", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "3:94", lines = "94-99", speaker = "Dante", addressee = "anime", source = "code" },
+  { quote_id = "3:94", lines = "94-99", speaker = "Dante", addressee = "(none)", source = "none" },
 ]
 basis = "94-99"
 
@@ -199,10 +195,9 @@ lines = "100-108"
 title = "The Encounter"
 location = "piè del monte"
 region = "piè del monte"
-cohort = ["quella gente degna"]
+cohort = ["Manfredi"]
 cast = [
   { who = "Virgilio", status = "present" },
-  { who = "quella gente degna", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Manfredi", status = "present" },
 ]
@@ -243,7 +238,6 @@ cast = [
   { who = "Manfredi", status = "present" },
   { who = "Costanza imperadrice", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "Costanza", status = "mentioned" },
   { who = "Cicilia", status = "mentioned" },
 ]
 speech = [
@@ -285,6 +279,6 @@ cohort = ["Manfredi"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Manfredi", status = "present" },
-  { who = "Costanza", status = "mentioned" },
+  { who = "Costanza imperadrice", status = "mentioned" },
 ]
 basis = "142-145"

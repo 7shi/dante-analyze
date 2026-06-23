@@ -1,15 +1,15 @@
 # Canto 01 — The Ascent to Purgatory and the Encounter with the Guardian
 
 ## Scene 1-12: The Poet’s Prologue
-- who: Dante | status: present | basis: 1-12
+- who: Dante | status: present | basis: 1-10
 - who: l'umano spirito | status: mentioned | basis: 5-5
-- who: sante Muse | status: present | basis: 8-8
-- who: Calïopè | status: present | basis: 9-9
-- who: le Piche misere | status: mentioned | basis: 11-12
+- who: sante Muse | status: mentioned | basis: 8-8
+- who: Calïopè | status: mentioned | basis: 9-9
+- who: le Piche misere | status: mentioned | basis: 11-11
 
 ## Scene 13-21: The Awakening Sky
 - who: Dante | status: present | basis: 16-18
-- who: Venere | status: present | basis: 19-21
+- who: Venere | status: mentioned | basis: 19-19
 
 ## Scene 22-27: The Four Stars
 - who: Dante | status: present | basis: 22-23
@@ -22,14 +22,14 @@
 - who: alcun figliuolo | status: mentioned | basis: 33-33
 
 ## Scene 40-48: Virgil’s Inquiry
-- who: Dante | status: present | basis: 40-48
-- who: Virgilio | status: present | basis: 40-48
-- who: il vecchio | status: present | basis: 40-48
+- who: Dante | status: present | basis: 40-41
+- who: Virgilio | status: present | basis: 40-41
+- who: il vecchio | status: present | basis: 42-42
 
 ## Scene 49-51: The Guide’s Gesture
 - who: Virgilio | status: present | basis: 49-51
 - who: Dante | status: present | basis: 49-51
-- who: il vecchio | status: present | basis: 51-51
+- who: il vecchio | status: present | basis: 50-51
 
 ## Scene 52-66: The Explanation of the Mission
 - who: Virgilio | status: present | basis: 52-52
@@ -37,30 +37,29 @@
 - who: Beatrice | status: mentioned | basis: 53-53
 - who: il guardiano | status: present | basis: 55-55
 - who: tutta la gente ria | status: mentioned | basis: 64-64
-- who: quelli spirti | status: mentioned | basis: 65-66
+- who: quelli spirti | status: mentioned | basis: 65-65
 
 ## Scene 67-84: The Plea for Passage
-- who: Virgilio | status: present | basis: 67-67
-- who: Dante | status: present | basis: 67-67
-- who: Catone | status: present | basis: 67-67
+- who: Virgilio | status: present | basis: 67-84
+- who: Dante | status: present | basis: 67-84
+- who: Catone | status: present | basis: 67-84
 - who: Minòs | status: mentioned | basis: 77-77
-- who: Marzia | status: mentioned | basis: 79-79
+- who: Marzia | status: mentioned | basis: 78-83
 
 ## Scene 85-99: The Guardian’s Mandate
-- who: Marzïa | status: mentioned | basis: 85-88
-- who: Catone | status: present | basis: 85-99
-- who: Beatrice | status: mentioned | basis: 91-93
+- who: Marzïa | status: mentioned | basis: 85-85
+- who: Catone | status: present | basis: 86-86
+- who: Beatrice | status: mentioned | basis: 91-91
 - who: Virgilio | status: present | basis: 91-94
-- who: Dante | status: present | basis: 94-97
+- who: Dante | status: present | basis: 94-94
 - who: primo ministro | status: mentioned | basis: 98-99
-- who: quei di paradiso | status: mentioned | basis: 99-99
 
 ## Scene 100-108: The Isle of Reeds
-- who: Virgilio | status: present | basis: 106-108
-- who: Dante | status: present | basis: 106-108
+- who: Virgilio | status: present | basis: 106-107
+- who: Dante | status: present | basis: 106-107
 
 ## Scene 109-114: The Departure
-- who: Catone | status: mentioned | basis: 109-109
+- who: Catone | status: present | basis: 109-109
 - who: Dante | status: present | basis: 109-112
 - who: Virgilio | status: present | basis: 111-113
 
@@ -70,7 +69,7 @@
 - who: om | status: mentioned | basis: 119-120
 
 ## Scene 121-129: The Light of Revelation
-- who: Dante | status: present | basis: 121-127
+- who: Dante | status: present | basis: 121-129
 - who: Virgilio | status: present | basis: 121-128
 
 ## Scene 130-136: Arrival at the Shore

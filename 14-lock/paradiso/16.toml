@@ -83,10 +83,8 @@ region = "ella"
 cast = [
   { who = "Li antichi miei", status = "mentioned" },
   { who = "Cacciaguida", status = "present" },
-  { who = "quei che corre il vostro annüal gioco", status = "mentioned" },
   { who = "color ch'a quel tempo eran ivi", status = "mentioned" },
   { who = "l Batista", status = "mentioned" },
-  { who = "quei ch'or son vivi", status = "mentioned" },
 ]
 basis = "40-48"
 
@@ -97,10 +95,8 @@ location = "qua giù"
 region = "ella"
 cast = [
   { who = "ultimo artista", status = "mentioned" },
-  { who = "quelle genti", status = "mentioned" },
   { who = "Cacciaguida", status = "present" },
   { who = "villan d'Aguglion", status = "mentioned" },
-  { who = "quel da Signa", status = "mentioned" },
 ]
 basis = "49-57"
 
@@ -169,9 +165,7 @@ cast = [
   { who = "i Greci", status = "mentioned" },
   { who = "Ormanni", status = "mentioned" },
   { who = "Alberichi", status = "mentioned" },
-  { who = "quel de la Sannella", status = "mentioned" },
   { who = "la Sannella", status = "mentioned" },
-  { who = "quel de l'Arca", status = "mentioned" },
   { who = "Soldanieri", status = "mentioned" },
   { who = "Ardinghi", status = "mentioned" },
   { who = "Bostichi", status = "mentioned" },
@@ -190,7 +184,6 @@ region = "ella"
 cast = [
   { who = "conte Guido", status = "mentioned" },
   { who = "Bellincione", status = "mentioned" },
-  { who = "Quel de la Pressa", status = "mentioned" },
   { who = "Galigaio", status = "mentioned" },
   { who = "Vaio", status = "mentioned" },
   { who = "Sacchetti", status = "mentioned" },
@@ -198,7 +191,6 @@ cast = [
   { who = "Fifanti", status = "mentioned" },
   { who = "Barucci", status = "mentioned" },
   { who = "Galli", status = "mentioned" },
-  { who = "quei ch'arrossan per lo staio", status = "mentioned" },
   { who = "Calfucci", status = "mentioned" },
   { who = "Sizii", status = "mentioned" },
   { who = "Arrigucci", status = "mentioned" },
@@ -212,9 +204,7 @@ location = "qua giù"
 region = "ella"
 cast = [
   { who = "Cacciaguida", status = "present" },
-  { who = "quei che son disfatti per lor superbia", status = "mentioned" },
   { who = "i padri", status = "mentioned" },
-  { who = "coloro che si fanno grassi stando a consistoro", status = "mentioned" },
   { who = "l'oltracotata schiatta", status = "mentioned" },
 ]
 basis = "109-118"
@@ -228,11 +218,10 @@ cast = [
   { who = "Ubertin Donato", status = "mentioned" },
   { who = "suocero", status = "mentioned" },
   { who = "'l Caponsacco", status = "mentioned" },
-  { who = "Giuda", status = "mentioned" },
   { who = "Infangato", status = "mentioned" },
+  { who = "Giuda Scarïotto", status = "mentioned" },
   { who = "Cacciaguida", status = "present" },
   { who = "buon cittadino", status = "mentioned" },
-  { who = "quei de la Pera", status = "mentioned" },
 ]
 refer = [
   { phrase = "il suocero", line = 120, resolves = "suocero" },
@@ -246,9 +235,8 @@ location = "qua giù"
 region = "ella"
 cast = [
   { who = "gran barone", status = "mentioned" },
-  { who = "Tommaso", status = "mentioned" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
   { who = "Ciascun che de la bella insegna porta", status = "mentioned" },
-  { who = "colui che la fascia col fregio", status = "mentioned" },
   { who = "Gualterotti", status = "mentioned" },
   { who = "Importuni", status = "mentioned" },
   { who = "novi vicin", status = "mentioned" },
@@ -275,7 +263,6 @@ title = "The Vision of a Lost Peace"
 location = "qua giù"
 region = "ella"
 cast = [
-  { who = "queste genti", status = "mentioned" },
   { who = "Cacciaguida", status = "present" },
   { who = "il popol suo", status = "mentioned" },
 ]

@@ -10,7 +10,7 @@
 - who: Virgilio | status: present | basis: 9-9
 
 ## Scene 10-18: Virgil's Interpretation
-- who: Dante | status: present | basis: 11-13
+- who: Dante | status: present | basis: 11-12
 - who: Virgilio | status: present | basis: 12-13
 - who: le genti dolorose | status: mentioned | basis: 17-18
 
@@ -27,7 +27,6 @@
 - who: Virgilio | status: present | basis: 34-34
 - who: Dante | status: present | basis: 34-34
 - who: l'anime triste di coloro che visser sanza 'nfamia e sanza lodo | status: present | basis: 34-36
-- who: quel cattivo coro de li angeli | status: present | basis: 37-39
 - who: Dio | status: mentioned | basis: 39-39
 - who: rei | status: mentioned | basis: 42-42
 
@@ -48,11 +47,11 @@
 - who: nemici | status: mentioned | basis: 63-63
 
 ## Scene 64-69: The Torment of the Souls
-- who: Questi sciaurati | status: present | basis: 64-69
+# (no person figure named in this scene)
 
 ## Scene 70-78: Approaching the River
-- who: Dante | status: present | basis: 70-78
-- who: le genti | status: present | basis: 71-75
+- who: Dante | status: present | basis: 70-77
+- who: le genti | status: present | basis: 71-71
 - who: Virgilio | status: present | basis: 72-78
 
 ## Scene 79-81: Dante's Shame
@@ -61,13 +60,13 @@
 ## Scene 82-89: The Arrival of Charon
 - who: Dante | status: present | basis: 82-88
 - who: Virgilio | status: present | basis: 82-82
-- who: Caronte | status: present | basis: 83-83
-- who: anime prave | status: present | basis: 84-84
+- who: Caronte | status: present | basis: 82-89
+- who: anime prave | status: present | basis: 84-89
 
 ## Scene 90-99: Virgil Silences the Ferryman
-- who: Caronte | status: present | basis: 91-91
+- who: Caronte | status: present | basis: 90-99
 - who: Dante | status: present | basis: 90-90
-- who: Virgilio | status: present | basis: 94-94
+- who: Virgilio | status: present | basis: 94-96
 
 ## Scene 100-105: The Wrath of the Damned
 - who: quell' anime | status: present | basis: 100-103
@@ -85,7 +84,7 @@
 
 ## Scene 121-129: Virgil's Final Lesson
 - who: Dante | status: present | basis: 121-129
-- who: Virgilio | status: present | basis: 121-129
+- who: Virgilio | status: present | basis: 121-121
 - who: quelli che muoion ne l'ira di Dio | status: mentioned | basis: 122-126
 - who: Dio | status: mentioned | basis: 122-122
 - who: anima buona | status: mentioned | basis: 127-127

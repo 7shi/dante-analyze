@@ -124,9 +124,7 @@ lines = "50-57"
 title = "Piccarda's Status"
 location = "spera più tarda"
 region = "etterne rote"
-cohort = ["questi altri beati"]
 cast = [
-  { who = "questi altri beati", status = "present" },
   { who = "Piccarda Donati", status = "present" },
   { who = "lo Spirito Santo", status = "mentioned" },
 ]
@@ -158,9 +156,7 @@ lines = "67-78"
 title = "The Constraint of Charity"
 location = "spera più tarda"
 region = "etterne rote"
-cohort = ["quelle altr' ombre"]
 cast = [
-  { who = "quelle altr' ombre", status = "present" },
   { who = "Piccarda Donati", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },

@@ -13,10 +13,10 @@
 - cohort: gente | source: llm | basis: 29-29
 
 ## Scene 31-36: The Swarming Shadows
-- cohort: l'ombra | source: code | basis: 32-32
+- cohort: l'ombra | source: code | basis: 31-34
 
 ## Scene 37-42: The Divided Proclamations
-- cohort: lussuriosi | source: llm | basis: 42-42
+- cohort: la nova gente | source: llm | basis: 40-40
 
 ## Scene 43-48: The Parting of the Souls
 - cohort: lussuriosi | source: code | basis: 46-48
@@ -25,14 +25,13 @@
 - cohort: lussuriosi | source: code | basis: 49-51
 
 ## Scene 52-66: Dante's Explanation
-- cohort: anime | source: llm | basis: 53-53
-- cohort: quella turba | source: llm | basis: 65-65
+- cohort: anime | source: code | basis: 53-53
 
 ## Scene 67-72: The Shadows' Confusion
-- cohort: ciascun' ombra | source: code | basis: 70-72
+- cohort: ciascun' ombra | source: code | basis: 70-71
 
 ## Scene 73-87: Guido's Identification
-- cohort: the first group of souls | source: code | basis: 73-87
+- cohort: the first group of souls | source: llm | basis: 73-87
 
 ## Scene 88-93: The Pride of the Poet
 - cohort: anime | source: code | basis: 88-89
@@ -56,7 +55,7 @@
 - cohort: lussuriosi | source: code | basis: 131-132
 
 ## Scene 133-135: The Disappearance of Guido
-# (no soul-class present in this scene)
+- cohort: lussuriosi | source: code | basis: 133-134
 
 ## Scene 136-141: The Arrival of Arnaut Daniel
 # (no soul-class present in this scene)

@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 10-15: Dante's Awe
-# (no soul-class present in this scene)
+- cohort: le anime di Mercurio | source: code | basis: 10-11
 
 ## Scene 16-24: Beatrice's Promise
 # (no soul-class present in this scene)

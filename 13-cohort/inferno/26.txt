@@ -13,7 +13,7 @@
 - cohort: il peccatore | source: code | basis: 42-42
 
 ## Scene 43-48: Virgil's Explanation
-- cohort: li spirti | source: code | basis: 43-48
+# (no soul-class present in this scene)
 
 ## Scene 49-63: The Inquiry of the Trojan Heroes
 # (no soul-class present in this scene)
@@ -31,7 +31,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 106-120: The Pillars of Hercules and the Great Exhortation
-- cohort: compagni | source: code | basis: 106-120
+- cohort: compagni | source: llm | basis: 106-106
 
 ## Scene 121-126: The Flight of the Crew
 - cohort: Li miei compagni | source: code | basis: 121-126

@@ -1,65 +1,65 @@
 # Canto 18 — The Descent into the First Bolgia of Malebolge
 
 ## Scene 1-18: The Topography of Malebolge
-en: *Dante* describes the layout of the *fossa*, which is divided into ten trenches surrounding a central pit. He compares this architecture to the way *i costruttori dei castelli* would design fortified walls and moats.
-ja: Danteは、中央の穴を十本の溝が囲む掘り割りの構造について述べ、その造りをi costruttori dei castelliが城壁や堀を設計する手法になぞらえている。
+en: *Dante* describes the iron-colored stone of the *fossa*, noting how it is divided into ten trenches surrounding a central pit. He explains that the layout mirrors the designs of *i costruttori dei castelli*, who create fortifications with moats and bridges.
+ja: Danteは、中央の穴を囲む十本の溝に分かれた、その窪地の鉄色の石について描写した。その配置は、堀と橋を備えた要塞を築くi costruttori dei castelliの設計を模したものなのだと、彼は説明した。
 
 ## Scene 19-24: Arrival in the First Bolgia
-en: *Dante* shakes himself from the back of *Gerïon* in the *fossa*. *Virgilio* guides him to the left, and *Dante* beholds new torments and the *novi frustatori*.
-ja: Danteは穴の中でGerïonの背から降りた。Virgilioに左へと導かれ、Danteは新たな苦しみとnovi frustatoriを目の当たりにする。
+en: After *Dante* shakes himself off the back of *Gerïon*, *Virgilio* guides him forward, keeping him safely to the left. To his right, *Dante* beholds new torments and the *novi frustatori* within the *fossa*.
+ja: DanteがGerïonの背から降りると、Virgilioは彼を安全な左側へと寄せながら前へと導いた。その右手に、Danteは溝の中で繰り広げられる新たな責め苦とnovi frustatoriの姿を目にした。
 
 ## Scene 25-33: The Flow of Sinners
-en: In the *fossa*, *Dante* and *Virgilio* observe *i peccatori* moving in two opposite directions, a flow that recalls how the *gente* are said to travel toward *Santo Pietro*.
-ja: その穴の中で、DanteとVirgilioは、i peccatoriが二つの相反する方向へと流れていくさまを眺めていた。その流れは、genteがSanto Pietroへと向かうと言い伝えられている様子を彷彿とさせた。
+en: Within the *fossa*, *Dante* and *Virgilio* observe naked *i peccatori* streaming in opposite directions, a movement *Dante* likens to the *gente* mentioned as crossing toward *Santo Pietro*.
+ja: その穴の内で、DanteとVirgilioは、裸のi peccatoriが互い反対方向へと流れゆく様を眺めていた。Danteはその動きを、Santo Pietroへと渡るとされるgenteになぞらえた。
 
 ## Scene 34-39: The Brutal Tormentors
-en: Upon *lo sasso tetro*, *Dante* observes *demoni cornuti* brutally lashing the *ruffiani e seduttori* from behind. The blows are so powerful that the *ruffiani e seduttori* leap upward at the very first strike.
-ja: 陰鬱な岩の上で、Danteはdemoni cornutiがruffiani e seduttoriを背後から残酷に鞭打つ光景を目にする。その打撃はあまりに凄まじく、ruffiani e seduttoriは最初の一撃で高く跳ね上がった。
+en: Across *lo sasso tetro*, *Dante* observes *demoni cornuti* brutally beating the *ruffiani e seduttori* from behind. The strikes are so violent that the *ruffiani e seduttori* leap upward upon the very first blow.
+ja: 陰鬱な岩場の向こうで、demoni cornutiがruffiani e seduttoriを背後から残酷に打ち据える様子をDanteは目の当たりにする。その打撃はあまりに激しく、ruffiani e seduttoriは最初の一撃で宙に跳ね上がった。
 
 ## Scene 40-51: Recognition of Caccianemico
-en: On *lo sasso tetro* in the *fossa*, *Dante* recognizes *Caccianemico* and stops to look at him, while *Virgilio* advises him to step back. *Caccianemico* attempts to hide his face, but *Dante* identifies him and asks what has brought him to this place.
-ja: 溝の中の陰鬱な岩の上で、DanteはCaccianemicoに気づいて足を止め彼を見つめ、その傍らでVirgilioは下がるよう彼に促した。Caccianemicoは顔を隠そうとしたが、Danteは彼であることを見抜き、何が彼をこの場所へ導いたのかを問いかけた。
+en: While walking on *lo sasso tetro*, *Dante* recognizes a soul and stops, with *Virgilio* advising him to step back. The man tries to conceal his face, but *Dante* identifies him as *Caccianemico* and asks what brought him to this place of suffering.
+ja: 陰鬱な岩場を歩いていたDanteはある魂に気づいて足を止めたが、Virgilioは彼に下がるよう促した。男は顔を隠そうとしたものの、Danteは彼がCaccianemicoであることを見抜き、何が彼をこの苦しみの地へと導いたのかを問いかけた。
 
 ## Scene 52-63: The Sinner's Confession
-en: On *lo sasso tetro*, *Caccianemico* reluctantly admits to *Dante* that he procured a woman for the *marchese*. He adds that the *fossa* is crowded with other *bolognese*, reflecting the greed of their people.
-ja: 陰鬱な岩の上で、Caccianemicoはしぶしぶながらmarcheseのために女をあてがったことをDanteに認めた。さらに、その溝には他のbologneseたちがひしめいており、それが彼らの民の強欲さを物語っているのだと付け加えた。
+en: Compelled by the words of *Dante*, *Caccianemico* confesses on *lo sasso tetro* that he served the desires of the *marchese* and remarks that many fellow *bolognese* suffer alongside him in the *fossa*.
+ja: Danteの言葉に促されたCaccianemicoは、陰鬱な岩の上で自らがmarcheseの欲望に従ったことを告白し、多くのbologneseたちが自分と共にこの坑で苦しんでいると語った。
 
 ## Scene 64-66: The Demon's Interruption
-en: On *lo sasso tetro* in the *fossa*, a *demonio* strikes *Caccianemico* with a lash, ordering him to move and mocking him that there are no *femmine* here.
-ja: fossa の底にある陰鬱な岩の上で、demonio が Caccianemico を鞭で打ち据え、動くよう命じながら、ここには femmine などはいないのだと嘲笑った。
+en: On *lo sasso tetro*, a *demonio* strikes *Caccianemico* and tells him to move along, mocking that there are no *femmine* here.
+ja: その陰鬱な岩の上で、demonioはCaccianemicoを打ち据え、ここにはfemmineなどいないと嘲笑いながら、先へ進むよう追い立てた。
 
 ## Scene 67-72: Moving Along the Rim
-en: *Dante* rejoins *Virgilio*, and they walk a few steps to a protruding rock on *lo sasso tetro* in the *fossa*. They climb the ledge and turn to the right to depart from the outer circles.
-ja: DanteはVirgilioと合流し、数歩歩いて奈落にある陰鬱な岩の突き出した場所へと辿り着いた。二人はその岩棚を登り、外圏を離れるため右へと曲がった。
+en: *Dante* reunites with *Virgilio* on *lo sasso tetro*, and after a few steps, they climb a protruding rock on the bank. Turning to the right, they move along the ledge and depart from the outer circles of the *fossa*.
+ja: Danteは陰鬱な岩の上でVirgilioと再会し、数歩歩いてから岸辺に突き出た岩を登った。右へ向きを変えて岩棚に沿って進み、二人は奈落の外周の円から離れていった。
 
 ## Scene 73-78: Virgil's Warning
-en: Upon reaching *là dov' el vaneggia di sotto*, *Virgilio* warns *Dante* to keep his distance and observe the faces of the *li sferzati* who have been moving alongside them.
-ja: là dov' el vaneggia di sotto に辿り着くと、Virgilio は Dante に、距離を保ちつつ、これまで傍らを行く li sferzati たちの顔を観察するようにと警告した。
+en: When *Dante* and *Virgilio* reach *là dov' el vaneggia di sotto*, *Virgilio* warns *Dante* to stay back and observe *li sferzati*, noting that he has not yet seen the faces of those who have been moving alongside them.
+ja: DanteとVirgilioがlà dov' el vaneggia di sottoに辿り着いたとき、Virgilioは、これまで傍らを歩んでいた者たちの顔をまだ見ていないことに気づき、Danteに身を引きli sferzatiを観察するよう警告した。
 
 ## Scene 79-81: Watching the Bridge
-en: At *là dov' el vaneggia di sotto*, *Dante* and *Virgilio* watch the flow coming from the other side of the bridge, driven forward by lashes.
-ja: 下で彼がうわごとをいう場所で、DanteとVirgilioは、鞭に打たれて橋の向こう側から押し寄せくる流れを眺めていた。
+en: At *là dov' el vaneggia di sotto*, *Dante* and *Virgilio* watch those approaching from the opposite side, driven forward by the same lashes.
+ja: 下でうわごとを口にするその場所で、DanteとVirgilioは、同じ鞭に追い立てられて反対側から近づいてくる者たちを眺めていた。
 
 ## Scene 82-99: The Tragedy of Jason
-en: At `*là dov' el vaneggia di sotto*`, `*Virgilio*` identifies `*Iasón*` for `*Dante*`, recounting how he deceived `*Isifile*` among `*l'ardite femmine spietate*` who had killed `*tutti li maschi*`, and noting that his suffering now avenges `*Medea*`. Such is the fate of all `*color che 'n sé assanna*` in this place.
-ja: あの下でうわごとを言う場所にて、`Virgilio`は`Dante`に`Iasón`の正体を明かし、彼が`tutti li maschi`を殺戮した`l'ardite femmine spietate`の間でいかに`Isifile`を欺いたかを語るとともに、現在の彼の苦しみは`Medea`の復讐なのだと説いた。これこそが、この地の`color che 'n sé assanna`すべてに待ち受ける宿命であった。
+en: At `*là dov' el vaneggia di sotto*`, `*Virgilio*` points out the royal bearing of `*Iasón*` to `*Dante*`, recounting how he deceived `*Isifile*` after `*l'ardite femmine spietate*` had killed `*tutti li maschi*`. This torment serves as vengeance for `*Medea*` and is the common fate of `*color che 'n sé assanna*`.
+ja: 下で彼がうわごとを言っているその場所において、`Virgilio`は`Dante`に`Iasón`の王者の佇まいを指し示し、`l'ardite femmine spietate`が`tutti li maschi`を皆殺しにした後、彼がいかにして`Isifile`を欺いたかを語る。この責め苦は`Medea`への復讐であり、`color che 'n sé assanna`に共通する宿命なのである。
 
 ## Scene 100-108: The Foul Junction
-en: At *lo stretto calle con l'argine secondo s'incrocicchia*, *Dante* and *Virgilio* hear the *gente* cowering and striking themselves while a foul stench rising from below assaults their eyes and noses.
-ja: 第二の堤防が交差する狭い小道にて、DanteとVirgilioは、身をすくめて自らを打ち据えるgenteの声を耳にした。同時に、下から立ち昇るひどい悪臭が、彼らの目と鼻を激しく襲った。
+en: At *lo stretto calle con l'argine secondo s'incrocicchia* within the region of *là dov' el vaneggia di sotto*, *Dante* and *Virgilio* hear the sounds of the mentioned *gente* and encounter a foul, moldy stench that irritates their eyes and noses.
+ja: 第二の堤防が交差する狭い路地、下の者が狂乱する領域において、DanteとVirgilioは例のgenteの声を耳にし、目と鼻を刺激する不快でカビ臭い悪臭に襲われた。
 
 ## Scene 109-114: The Sinner in the Filth
-en: Upon the *dosso de l'arco* in *là dov' el vaneggia di sotto*, *Dante* and *Virgilio* ascend to gain a vantage point, where *Dante* beholds *gente attuffata* immersed in filth that appears to have come from *li uman privadi*.
-ja: 下方に張り出したアーチの背に、DanteとVirgilioは視界を確保するためへと登り、そこでDanteは、li uman privadiから出たと思われる汚物に浸かったgente attuffataの姿を目にする。
+en: *Dante* and *Virgilio* climb to the *dosso de l'arco* to gain a better view of the depths, where *Dante* observes the *gente attuffata* immersed in filth that seems to have come from *li uman privadi*.
+ja: DanteとVirgilioは、深淵をより見渡そうとしてdosso de l'arcoへと登り、そこでDanteは、li uman privadiから出たと思われる汚物に浸ったgente attuffataの姿を目にした。
 
 ## Scene 115-123: Recognition of Alessio Interminei
-en: Upon the *dosso de l'arco* in *là dov' el vaneggia di sotto*, *Dante* fixes his gaze on a soul so soiled that its status is unclear, prompting the man to ask why *Dante* watches him more than *li altri brutti*. *Dante* recognizes the figure as *Alessio Interminei* and explains that he stares because he remembers him from when his hair was still clean.
-ja: アーチの盛り上がり、その下が突き出した場所にて、Danteは汚れきって正体も判然としないある魂を凝視していた。その男が、なぜli altri bruttiよりも自分をじっと見るのかと問いかけると、Danteは彼がAlessio Intermineiであることに気づき、髪がまだ清らかだった頃の姿を覚えているからだと語った。
+en: At the *dosso de l'arco*, *Dante* notices *Alessio Interminei*, who is so soiled that his status is initially unclear. When *Alessio Interminei* asks why he is being watched more than *li altri brutti*, *Dante* explains that he recognizes him from a time when his hair was still clean.
+ja: dosso de l'arcoにて、DanteはAlessio Intermineiに気づくが、あまりの汚れに最初は正体が判然としなかった。Alessio Intermineiが、なぜli altri bruttiよりも注視されているのかと尋ねると、Danteは、髪がまだ清潔であった頃の彼を覚えているのだと説明した。
 
 ## Scene 124-126: The Flattery of the Sinner
-en: Upon the *dosso de l'arco* in *là dov' el vaneggia di sotto*, *Alessio Interminei* strikes his head and explains that he is now submerged in the flattery his tongue never ceased to produce in life.
-ja: 下方にうねりを描くdosso de l'arcoの上で、Alessio Intermineiは自らの頭を打ちつけ、生前その舌が絶えず紡ぎ出したお世辞のなかに、今は自ら沈んでいるのだと語った。
+en: At the *dosso de l'arco*, *Alessio Interminei* strikes his head and explains that he is submerged in the flattery he used so relentlessly in life.
+ja: dosso de l'arcoにて、Alessio Intermineiは自らの頭を打ちつけ、生前あれほど執拗に弄した追従の言葉に、いまや自らが溺れているのだと語る。
 
 ## Scene 127-136: The Observation of Taïde
-en: Upon the *dosso de l'arco*, *Virgilio* directs *Dante* to observe *Taïde*, a disheveled woman scratching herself in the filth, identifying her as a prostitute who once flattered her *drudo suo*.
-ja: 弓形の盛り上がりの上で、VirgilioはDanteに、汚れにまみれて身なりを乱し自らを掻きむしるTaïdeを注視させ、彼女がかつてdrudo suoに媚を売った娼婦であると告げた。
+en: At the *dosso de l'arco*, *Virgilio* tells *Dante* to lean forward to better observe *Taïde*, a disheveled woman crouching and standing in the filth. *Virgilio* identifies *Taïde* as a prostitute who once gave marvelous flattery to her *drudo suo*.
+ja: 弓なりの盛り上がりにて、VirgilioはDanteに、汚れの中でしゃがんだり立ち上がったりしている身なりの乱れた女、Taïdeをよく見るよう身を乗り出すように促す。Virgilioは、Taïdeがかつて自らのdrudo suoに絶妙な媚び口をささやいた娼婦であることを明かした。

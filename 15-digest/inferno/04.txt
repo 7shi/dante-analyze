@@ -1,77 +1,77 @@
 # Canto 04 — The Limbo and the Great Hall of Heroes
 
 ## Scene 1-6: The Awakening
-en: In *la buia campagna*, a heavy thunder jolts *Dante* awake like a *persona* forced from sleep, and he looks around to discover where he is.
-ja: 暗き野辺にて、激しい雷鳴が眠りから無理やり引きずり出された persona のように Dante を叩き起こした。彼は自分がどこにいるのかを確かめるべく、辺りを見回した。
+en: A heavy thunder jolts *Dante* awake in *la buia campagna*, as if he were a *persona* forced from sleep, and he gazes around to identify his location.
+ja: 激しい雷鳴が、暗い野原にいた Dante を叩き起こした。まるで眠りから無理やり引きずり出された persona のように、彼は自らの居場所を確かめようと辺りを見回した。
 
 ## Scene 7-12: The Valley of Sorrow
-en: On *la proda* in *la buia campagna*, *Dante* overlooks a dark and foggy valley of abyss that welcomes infinite sorrow, its depths so obscure that he cannot discern anything.
-ja: la proda in la buia campagnaにて、Danteは無限の悲しみを湛えた暗く霧深い深淵の谷を見下ろしていたが、その底はあまりに昏く、何も見分けがつかなかった。
+en: On *la proda*, *Dante* finds a sorrowful valley of the abyss that welcomes infinite woes. It is so dark, deep, and misty that he cannot discern anything at the bottom.
+ja: la prodaにて、Danteは無限の悲哀を迎え入れる深淵の悲しき谷を見出す。そこはあまりに深く暗く、濃い霧に覆われていたため、底に何があるのかを判別することさえできなかった。
 
 ## Scene 13-18: The Command to Descend
-en: On *la proda*, a pale *Virgilio* tells *Dante* that they must descend, with *Virgilio* leading the way. Noticing his guide's apprehension, *Dante* asks how he can find comfort if *Virgilio* is afraid.
-ja: 岸辺にて、青ざめたVirgilioはDanteに、彼らが降りていかなければならないと告げ、自ら先導した。案内人の不安に気づいたDanteは、Virgilioが恐れているのであれば、どうして自分に安らぎがあり得ようかと問いかけた。
+en: On *la proda*, *Virgilio* announces their descent into the depths, stating he shall lead and *Dante* shall follow. Noticing *Virgilio*'s pale countenance, *Dante* questions how he can find comfort if his guide appears afraid.
+ja: 岸辺にて、Virgilioは深淵へと降りゆくことを告げ、自らが先導しDanteがそれに従うのだと述べた。しかし、Virgilioの青ざめた面持ちに気づいたDanteは、導き手が恐れているように見えては、どうして自分が安らぎを得られようか、と問いかけた。
 
 ## Scene 19-24: Entering the First Circle
-en: On *la proda*, *Virgilio* explains to *Dante* that his expression reflects the anguish of *le genti*, and then leads him further down.
-ja: 岸辺にて、VirgilioはDanteの表情がle gentiの苦悶を映し出していることを説き、彼をさらに下方へと導いた。
+en: On *la proda*, *Virgilio* explains to *Dante* that his pale expression reflects the pity he feels for *le genti*, then leads *Dante* into the first circle.
+ja: 岸辺にて、VirgilioはDanteに、自らの青ざめた表情はle gentiへの哀れみの表れであると説明し、彼を第一円へと導いた。
 
 ## Scene 25-30: The Sighing Spirits
-en: On *la proda* in the *primo cerchio*, the air trembles with the sighs of *le turbe* who endure a sorrow without torment. These vast crowds consist of *infanti*, *femmine*, and *viri*.
-ja: primo cerchioのla prodaでは、責め苦なき悲しみに耐えるle turbeの嘆息に、空気が震えていた。その膨大な群衆は、infanti、femmine、そしてviriから成っていた。
+en: On *la proda*, no weeping is heard, only sighs that make the eternal air tremble, born of a sorrow without torment felt by *le turbe* of *infanti*, *femmine*, and *viri*.
+ja: la prodaに啜り泣く声は聞こえず、ただle turbeなるinfanti, femmine, viriが抱く責め苦なき悲しみから出た溜息だけが、永遠の空気を震わせていた。
 
 ## Scene 31-42: The Nature of Limbo
-en: On *la proda*, *Virgilio* explains to *Dante* that the *spiriti* here are not sinners, but because they lacked baptism or failed to worship *Dio*, they—including *Virgilio* himself—are condemned to live in longing without hope.
-ja: 岸辺で、VirgilioはDanteに説明する。ここにいるspiritiは罪人ではないが、洗礼を受けなかったか、あるいはDioを崇拝しなかったため、Virgilio自身も含め、希望なき切望の中で生きる運命にあるのだと。
+en: On *la proda*, *Virgilio* informs *Dante* that the *spiriti*, including *Virgilio* himself, did not sin but are here for lacking baptism or for not duly worshipping *Dio*. Thus, these *spiriti* live without hope in a state of eternal desire.
+ja: 岸辺にて、VirgilioはDanteに、Virgilio自身を含むspiritiは罪を犯したのではなく、洗礼を受けなかったか、あるいはDioを正しく崇めなかったためにここにいるのだと告げた。それゆえ、これらのspiritiは希望を失い、永遠の渇望の中で生きている。
 
 ## Scene 43-50: Dante's Inquiry
-en: On *la proda*, *Dante* is overcome with grief for the *gente di molto valore* spoken of by his guide. He asks *Virgilio* if any soul has ever left this place to achieve beatitude.
-ja: その岸辺で、Danteは案内人が語ったgente di molto valoreを想い、深い悲しみに打ちひしがれていた。彼はVirgilioに、至福を得てこの地を去った魂が果たして存在したのかを問いかけた。
+en: On *la proda* in the *primo cerchio*, *Dante* feels deep sorrow for the mentioned *gente di molto valore* and asks *Virgilio* if any soul has ever escaped this place to achieve beatitude.
+ja: 第一円の岸辺にて、Danteは語られたgente di molto valoreに深い悲しみを覚え、この場所を脱して至福に至った魂が果たしてかつていたのかをVirgilioに問いかけた。
 
 ## Scene 51-63: The Descent of the Patriarchs
-en: On *la proda*, *Virgilio* tells *Dante* how he once witnessed *Cristo* descend to lead *i patriarchi*—including *Abèl*, *Noè*, *Moïsè*, *Abraàm*, *Davìd*, *Israèl*, *Isacco*, *i figli di Israèl*, and *Rachele*—to beatitude. He explains that before this event, no *spiriti umani* had ever been saved.
-ja: 岸辺にて、VirgilioはDanteに、かつてCristoが降臨し、Abèl、Noè、Moïsè、Abraàm、Davìd、Israèl、Isacco、i figli di Israèl、そしてRacheleらi patriarchiを至福へと導くさまを目撃したことを語った。そして、この出来事以前には、一人として救われたspiriti umaniはいなかったのだと彼は説明した。
+en: On *la proda*, *Virgilio* informs *Dante* that he once saw *Cristo* descend to rescue *i patriarchi*—including *Abèl*, *Noè*, *Moïsè*, *Abraàm*, *Davìd*, *Israèl*, *Isacco*, *i figli di Israèl*, and *Rachele*. He clarifies that until that moment, no *spiriti umani* had ever been saved.
+ja: 岸辺にて、VirgilioはDanteに、かつてCristoが降臨して、Abèl、Noè、Moïsè、Abraàm、Davìd、Israèl、Isacco、i figli di Israèl、そしてRacheleを含むi patriarchiを救い出したのを目の当たりにしたと語った。それまで、救いを得たspiriti umaniは一人としていなかったのだという。
 
 ## Scene 64-66: Through the Dense Forest
-en: *Dante* and *Virgilio* continue walking through *la selva* while *Virgilio* speaks, passing through the dense forest of *spiriti*.
-ja: DanteとVirgilioは、Virgilioが語りかけるなか森の中を歩み続け、spiritiのひしめく鬱蒼とした森を通り抜けていった。
+en: *Dante* and *Virgilio* continued to walk through *la selva* while *Virgilio* spoke, passing through the dense crowd of *spiriti*.
+ja: Virgilioが語りかけるなか、DanteとVirgilioは密集したspiritiの群れを通り抜け、森の中を歩き続けた。
 
 ## Scene 67-78: The Discovery of the Light
-en: In *la selva*, *Dante* sees a light illuminating the *orrevol gente* and asks *Virgilio* why they are held in such high esteem. *Virgilio* explains that the fame they earned during their lives has granted them grace.
-ja: 森の中で、Danteはorrevol genteを照らす光を目にし、なぜ彼らがそれほど尊ばれているのかをVirgilioに問いかけた。するとVirgilioは、彼らが生前に得た名声が彼らに恩寵をもたらしたのだと説いた。
+en: In `*la selva*`, `*Dante*` sees a light and notices the `*orrevol gente*` who dwell there. He asks `*Virgilio*` why they are so honored, and `*Virgilio*` replies that their earthly fame earned them grace in heaven.
+ja: 森の中で光を目にした`Dante`は、そこに住まう`orrevol gente`に気づき、なぜ彼らがこれほどまでに崇敬されているのかを`Virgilio`に問いかけた。すると`Virgilio`は、地上の名声があったからこそ、彼らは天上の恩寵を得たのだと答えた。
 
 ## Scene 79-81: The Divine Voice
-en: In *la selva*, a voice is heard by *Dante*, commanding *Dante, noble souls of Limbo* to honor *Virgilio* as his shadow returns.
-ja: 森の中でDanteはある声を聞いた。その声は、Virgilioの影が戻るにあたり、Danteとnoble souls of Limboに彼を敬うよう命じていた。
+en: In *la selva*, *Dante* hears a voice that commands him and the *noble souls of Limbo* to honor *Virgilio*, announcing that his shadow is returning.
+ja: 森の中で、Danteはある声を聞いた。その声は、Virgilioの影が戻ることを告げ、彼とnoble souls of LimboにVirgilioを敬うよう命じていた。
 
 ## Scene 82-93: The Meeting of the Great Poets
-en: In *la selva*, *Omero*, *Orazio*, *Ovidio*, and *Lucano* approach *Dante* and *Virgilio*. *Virgilio* introduces them to *Dante* and explains that they gather to honor him.
-ja: 森の中で、Omero、Orazio、Ovidio、LucanoがDanteとVirgilioに近づいた。Virgilioは彼らをDanteに紹介し、彼らがDanteを称えるために集まったのだと説明した。
+en: In *la selva*, *Dante* sees four shadows approach him and *Virgilio*, who identifies them as *Omero*, *Orazio*, *Ovidio*, and *Lucano*. They gather around *Virgilio* to honor him.
+ja: 森の中で、Danteは四つの影が自分とVirgilioに近づいてくるのを目にした。Virgilioが彼らをOmero, Orazio, Ovidio, Lucanoであると告げると、彼らはVirgilioに敬意を表してその周囲に集まった。
 
 ## Scene 94-102: The Assembly of Wisdom
-en: In *la selva*, *Dante* watches as *Omero*, *Orazio*, *Ovidio*, *Lucano*, and *Virgilio* gather together, with *Omero* presiding over the group. After a brief exchange, *Omero* welcomes *Dante* with a sign, and the poets invite *Dante* into their ranks, making him the sixth among them.
-ja: 森の中で、DanteはOmeroを中心にOrazio、Ovidio、Lucano、Virgilioが集っている様子を眺めていた。短い言葉を交わした後、Omeroが合図でDanteを迎え入れると、詩人たちは彼を仲間に招き入れ、Danteは六人目のひとりとなった。
+en: In *la selva*, *Dante* watches as *Omero*, *Orazio*, *Ovidio*, and *Lucano* assemble; *Omero* welcomes him with a gesture and *Virgilio* smiles as *Dante* is admitted among them as the sixth member.
+ja: la selvaにて、DanteはOmero, Orazio, Ovidio, Lucanoが集まるさまを見つめていた。Omeroが身振りで彼を歓迎し、Danteが六人目の仲間として迎え入れられると、Virgilioは微笑んだ。
 
 ## Scene 103-111: The Noble Castle
-en: In *la selva*, *Dante*, *Virgilio*, *Omero*, *Orazio*, *Ovidio*, and *Lucano* discuss profound matters as they cross a stream and seven gates to reach a lush green meadow.
-ja: la selvaにて、Dante, Virgilio, Omero, Orazio, Ovidio, Lucanoは深遠なる事柄について語らいながら、小川と七つの門を越えて青々と茂る草原へと辿り着いた。
+en: In *la selva*, *Dante*, *Virgilio*, *Omero*, *Orazio*, *Ovidio*, and *Lucano* walk together in conversation toward a light. They cross a small river and pass through seven gates of a noble castle to reach a fresh green meadow.
+ja: 森の中で、Dante, Virgilio, Omero, Orazio, Ovidio, Lucanoは語らいながら共に光の方へと歩んでいく。彼らは小さな川を渡り、気品ある城の七つの門をくぐり抜けて、青々と茂る草原へと辿り着いた。
 
 ## Scene 112-117: The Meadow of Spirits
-en: In the *prato di fresca verdura* of *la selva*, *Dante*, *Virgilio*, *Omero*, *Orazio*, *Ovidio*, and *Lucano* encounter *le genti*, who possess authoritative appearances and speak in soft, infrequent voices. The group moves to an open, luminous height where all present are visible to one another.
-ja: la selvaのprato di fresca verduraにて、Dante, Virgilio, Omero, Orazio, Ovidio, そしてLucanoは、威厳ある風貌で静かに控えめに語るle gentiに出会った。一行は、そこに集う誰もが互いの姿を見渡せる、開けた光り輝く高台へと移動した。
+en: In the *prato di fresca verdura* within *la selva*, *le genti* possess a grave authority and speak in soft, sparse voices. *Dante*, *Virgilio*, *Omero*, *Orazio*, *Ovidio*, and *Lucano* move to a bright, elevated spot so that everyone can see one another.
+ja: 森の中の青々とした草原では、le genti が厳かな威厳を湛え、静かに、途切れ途切れに語り合っていた。Dante, Virgilio, Omero, Orazio, Ovidio, そして Lucano は、互いの姿が見えるよう、明るい高台へと移動した。
 
 ## Scene 118-129: The Hall of Heroes
-en: In the *prato di fresca verdura* of *la selva*, *Dante* is shown *li spiriti magni*, identifying *Eletra*, *Ettòr*, *Enea*, *Cesare*, *Cammilla*, and *Pantasilea*. He recognizes *Latino* and *Lavina*, *Bruto* who drove out the mentioned *Tarquino*, *Lucrezia*, *Iulia*, *Marzïa*, and *Corniglia*, as well as *Saladino* standing apart.
-ja: 森の青々とした草地にて、Danteはli spiriti magniを案内され、Eletra、Ettòr、Enea、Cesare、Cammilla、そしてPantasileaを識別した。さらに、LatinoとLavina、前述のTarquinoを追放したBruto、Lucrezia、Iulia、Marzïa、Corniglia、そして離れて佇むSaladinoの姿をも認める。
+en: In the *prato di fresca verdura* within *la selva*, *Dante* is shown *li spiriti magni* and recognizes *Eletra*, *Ettòr*, *Enea*, *Cesare*, *Cammilla*, *Pantasilea*, *Latino*, and *Lavina*. He also identifies *Bruto*—who had expelled *Tarquino*—along with *Lucrezia*, *Iulia*, *Marzïa*, *Corniglia*, and the solitary *Saladino*.
+ja: la selvaの中のprato di fresca verduraにおいて、Danteはli spiriti magniを目の当たりにし、Eletra、Ettòr、Enea、Cesare、Cammilla、Pantasilea、Latino、そしてLavinaを認める。さらに、Tarquinoを追放したBrutoとともに、Lucrezia、Iulia、Marzïa、Corniglia、そして孤独なSaladinoの姿をも見出した。
 
 ## Scene 130-144: The School of Philosophers
-en: In the *prato di fresca verdura* of *la selva*, *Dante* sees *Aristotele* being honored by the *filosofica famiglia*, with *Socrate* and *Platone* standing closest to him. He also identifies *Democrito*, *Dïogenès*, *Anassagora*, *Tale*, *Empedoclès*, *Eraclito*, *Zenone*, *Dïascoride*, *Orfeo*, *Tulïo*, *Lino*, *Seneca*, *Euclide*, *Tolomeo*, *Ipocràte*, *Avicenna*, *Galïeno*, and *Averoìs*.
-ja: 森の新緑の草地にて、Danteはfilosofica famigliaに称えられているAristoteleを目にし、その最も近くにはSocrateとPlatoneが寄り添っていた。また彼は、Democrito, Dïogenès, Anassagora, Tale, Empedoclès, Eraclito, Zenone, Dïascoride, Orfeo, Tulïo, Lino, Seneca, Euclide, Tolomeo, Ipocràte, Avicenna, Galïeno, Averoìsの姿をも認めた。
+en: In the *prato di fresca verdura* within *la selva*, *Dante* watches the *filosofica famiglia* pay honor to *Aristotele*. He recognizes among them *Socrate, Platone*, *Democrito*, *Dïogenès*, *Anassagora*, *Empedoclès*, *Eraclito*, *Zenone*, *Dïascoride*, *Orfeo*, *Tulïo*, *Lino*, *Seneca*, *Euclide*, *Tolomeo*, *Ipocràte*, *Avicenna*, *Galïeno*, and *Averoìs*.
+ja: 森の中の青々とした草原で、Danteはfilosofica famigliaがAristoteleに敬意を捧げる様子を眺めていた。彼はその中に、Socrate, Platone, Democrito, Dïogenès, Anassagora, Empedoclès, Eraclito, Zenone, Dïascoride, Orfeo, Tulïo, Lino, Seneca, Euclide, Tolomeo, Ipocràte, Avicenna, Galïeno, そしてAveroìsの姿を見出した。
 
 ## Scene 145-147: The Poet's Limitation
-en: In the `*prato di fresca verdura*` of `*la selva*`, `*Dante*` admits that he cannot fully describe every soul present, as the vastness of the subject pushes him forward and his words often fall short.
-ja: 森の青々とした草原にて、`Dante` はそこに集うあらゆる魂を十分に描写することはできないと認めている。語るべき事柄があまりに膨大で、言葉が追いつかぬまま先に進まされるからである。
+en: In the *prato di fresca verdura* within *la selva*, *Dante* admits that he cannot fully describe everyone present, as the vast scope of the subject drives him forward and his words often fall short of the facts.
+ja: 森の中の青々とした草原において、Danteは、そこに集うすべての人々を詳らかに記すことは叶わないと認める。語るべき事柄があまりに膨大であり、言葉が事実に及ばぬまま、彼はただ前へと急かされるのである。
 
 ## Scene 148-151: Moving Toward the Light
-en: In the *prato di fresca verdura* of *la selva*, the company of six splits, and *Virgilio* leads *Dante* away from the quiet and back into the trembling air toward a place of light.
-ja: 森の青々とした草原にて、6人の一行は分かれた。VirgilioはDanteを静寂から連れ出し、震える空気の中、光あふれる場所へと再び導いてゆく。
+en: In the *prato di fresca verdura* within *la selva*, *Virgilio* leads *Dante* away from the quietude and back into the trembling air, until *Dante* arrives in a place of light.
+ja: 森の中の青々とした草原にて、VirgilioはDanteを静寂から連れ出し、震える大気の中へと導き、ついにはDanteを光あふれる場所へと到達させた。

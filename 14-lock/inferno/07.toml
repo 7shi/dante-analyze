@@ -105,17 +105,16 @@ lines = "49-66"
 title = "The Futility of Wealth"
 location = "questa roccia"
 region = "la quarta lacca"
+cohort = ["quest' anime stanche"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "quest' anime stanche", status = "mentioned" },
-  { who = "questi col pugno chiuso", status = "mentioned" },
-  { who = "questi coi crin mozzi", status = "mentioned" },
+  { who = "quest' anime stanche", status = "present" },
   { who = "umana gente", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "7:49", lines = "49-51", speaker = "Dante", addressee = "Virgilio", source = "code" },
-  { quote_id = "7:52", lines = "52-66", speaker = "Virgilio", addressee = "Dante", source = "code" },
+  { quote_id = "7:49", lines = "49-51", speaker = "Dante", addressee = "Virgilio", source = "llm" },
+  { quote_id = "7:52", lines = "52-66", speaker = "Virgilio", addressee = "Dante", source = "llm" },
 ]
 relations = [
   { subj = "Dante", predicate = "speaks-to", obj = "Virgilio", lines = "49-49" },
@@ -133,7 +132,6 @@ cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
-  { who = "chi conduce", status = "mentioned" },
 ]
 speech = [
   { quote_id = "7:67B", lines = "67-69", speaker = "Dante", addressee = "Virgilio", source = "code" },

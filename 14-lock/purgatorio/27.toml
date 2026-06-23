@@ -42,7 +42,6 @@ location = "in su la riva"
 region = "scala"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "colui che ne la fossa è messo", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "umani corpi", lines = "17-18" },
@@ -159,7 +158,7 @@ region = "scala"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Statio", status = "present" },
+  { who = "Statio", status = "mentioned" },
   { who = "Patris", status = "mentioned" },
 ]
 refer = [
@@ -330,7 +329,7 @@ region = "la terra"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Beatrice", status = "present" },
-  { who = "Virgilio", status = "mentioned" },
+  { who = "Virgilio", status = "present" },
 ]
 basis = "133-138"
 

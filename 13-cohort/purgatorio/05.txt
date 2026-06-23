@@ -2,6 +2,7 @@
 
 ## Scene 1-6: The Sudden Cry
 - cohort: quell' ombre | source: llm | basis: 1-1
+- cohort: una | source: llm | basis: 4-4
 
 ## Scene 7-9: Dante's Distraction
 # (no soul-class present in this scene)
@@ -25,13 +26,13 @@
 # (no soul-class present in this scene)
 
 ## Scene 43-45: The Poet's Warning
-- cohort: questa gente | source: code | basis: 43-44
+# (no soul-class present in this scene)
 
 ## Scene 46-57: The Collective Plea
-- cohort: i peccatori | source: code | basis: 48-57
+- cohort: i peccatori | source: code | basis: 48-56
 
 ## Scene 58-63: Dante's Vow
-- cohort: spiriti ben nati | source: code | basis: 60-60
+- cohort: spiriti ben nati | source: code | basis: 58-61
 
 ## Scene 64-72: The First Soul's Request
 - cohort: uno | source: code | basis: 64-72

@@ -16,7 +16,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 49-57: The Spirit's Earthly Connection
-- 8:49 lines 49-84 | speaker: Sibilla | addressee: Dante | source: llm | basis: 49-49
+- 8:49 lines 49-84 | speaker: Sibilla Cumana | addressee: Dante | source: llm | basis: 49-49
 
 ## Scene 58-66: Prophecy of the Northern and Central Lands
 # (no attributed speech in this scene)

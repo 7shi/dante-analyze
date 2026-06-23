@@ -52,7 +52,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 133-138: The Celestial Shout
-- cohort: vicin | source: code | basis: 137-137
+- cohort: vicin | source: code | basis: 136-137
 
 ## Scene 139-144: Resuming the Path
 - cohort: l'ombre | source: code | basis: 143-144

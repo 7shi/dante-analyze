@@ -36,7 +36,7 @@ cast = [
   { who = "plebe", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "Anteo", status = "present" },
+  { who = "Anteo", status = "mentioned" },
   { who = "fratei miseri lassi", status = "present" },
 ]
 relations = [
@@ -94,15 +94,16 @@ lines = "52-69"
 title = "The Deaf Sinner’s Revelation"
 location = "ghiaccia"
 region = "lago"
+cohort = ["quelli a cui fu rotto il petto"]
 cast = [
   { who = "Camiscion de' Pazzi", status = "present" },
-  { who = "l'ombre", status = "mentioned" },
+  { who = "l'ombre", status = "present" },
   { who = "Dante", status = "present" },
   { who = "cotesti due", status = "present" },
   { who = "Bisenzo", status = "mentioned" },
   { who = "Alberto", status = "mentioned" },
-  { who = "l'ombra", status = "mentioned" },
-  { who = "quelli a cui fu rotto il petto", status = "mentioned" },
+  { who = "l'ombra", status = "present" },
+  { who = "quelli a cui fu rotto il petto", status = "present" },
   { who = "Artù", status = "mentioned" },
   { who = "Sassol Mascheroni", status = "present" },
   { who = "Carlin", status = "mentioned" },
@@ -167,20 +168,20 @@ region = "lago"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Ugolino", status = "present" },
+  { who = "conte Ugolino", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "32:91", lines = "91-91", speaker = "Dante", addressee = "Ugolino", source = "llm" },
-  { quote_id = "32:92", lines = "92-93", speaker = "Dante", addressee = "Ugolino", source = "llm" },
-  { quote_id = "32:94", lines = "94-96", speaker = "Ugolino", addressee = "Dante", source = "llm" },
+  { quote_id = "32:91", lines = "91-91", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "32:92", lines = "92-93", speaker = "Dante", addressee = "Virgilio", source = "code" },
+  { quote_id = "32:94", lines = "94-96", speaker = "conte Ugolino", addressee = "Dante", source = "llm" },
 ]
 relations = [
-  { subj = "Dante", predicate = "speaks-to", obj = "Ugolino", lines = "85-85" },
-  { subj = "Dante", predicate = "asks", obj = "Ugolino", lines = "87-87" },
-  { subj = "Ugolino", predicate = "answers", obj = "Dante", lines = "88-88" },
-  { subj = "Dante", predicate = "answers", obj = "Ugolino", lines = "91-91" },
-  { subj = "Ugolino", predicate = "tells", obj = "Dante", lines = "94-94" },
-  { subj = "Ugolino", predicate = "commands", obj = "Dante", lines = "95-95" },
+  { subj = "Dante", predicate = "speaks-to", obj = "conte Ugolino", lines = "85-85" },
+  { subj = "Dante", predicate = "asks", obj = "conte Ugolino", lines = "87-87" },
+  { subj = "conte Ugolino", predicate = "answers", obj = "Dante", lines = "88-88" },
+  { subj = "Dante", predicate = "answers", obj = "conte Ugolino", lines = "91-91" },
+  { subj = "conte Ugolino", predicate = "tells", obj = "Dante", lines = "94-94" },
+  { subj = "conte Ugolino", predicate = "commands", obj = "Dante", lines = "95-95" },
 ]
 basis = "85-96"
 

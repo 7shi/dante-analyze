@@ -1,26 +1,26 @@
 # Canto 10 — The Encounter with Farinata and the Shadows of Dis
 
 ## Scene 1-9: Dante’s Inquiry
-- who: Virgilio | status: present | basis: 1-3
+- who: Virgilio | status: present | basis: 1-4
 - who: Dante | status: present | basis: 3-6
-- who: li empi | status: mentioned | basis: 4-4
+- who: li empi | status: mentioned | basis: 4-7
 
 ## Scene 10-18: The Epicurean’s Reply
-- who: Eretici | status: present | basis: 10-18
+- who: Eretici | status: mentioned | basis: 10-12
 - who: Dante | status: present | basis: 10-18
 - who: Epicuro | status: mentioned | basis: 14-14
 - who: tutti suoi seguaci | status: mentioned | basis: 14-15
-- who: Eretico | status: mentioned | basis: 14-14
+- who: Eretico | status: present | basis: 10-18
 
 ## Scene 19-27: Virgil’s Admonition
-- who: Dante | status: present | basis: 19-27
+- who: Dante | status: present | basis: 19-22
 - who: Virgilio | status: present | basis: 19-27
-- who: l'anima epicurea | status: mentioned | basis: 24-24
+- who: l'anima epicurea | status: mentioned | basis: 22-22
 
 ## Scene 28-33: The Voice from the Tomb
 - who: Dante | status: present | basis: 29-31
 - who: Virgilio | status: present | basis: 30-31
-- who: Farinata | status: present | basis: 32-33
+- who: Farinata | status: present | basis: 32-32
 
 ## Scene 34-39: The Defiance of Farinata
 - who: Dante | status: present | basis: 34-38
@@ -40,14 +40,14 @@
 - who: Ghibellini | status: mentioned | basis: 51-51
 
 ## Scene 52-60: The Emergence of the Shadow
-- who: un'ombra | status: present | basis: 53-58
+- who: un'ombra | status: present | basis: 52-58
 - who: Dante | status: present | basis: 54-60
 - who: Cavalcante della Scala | status: mentioned | basis: 60-60
 
 ## Scene 61-66: The Reference to Guido
-- who: Dante | status: present | basis: 61-66
-- who: il padre di Cavalcante della Scala | status: present | basis: 61-66
-- who: Virgilio | status: present | basis: 62-63
+- who: Dante | status: present | basis: 61-61
+- who: il padre di Cavalcante della Scala | status: mentioned | basis: 61-66
+- who: Virgilio | status: present | basis: 62-62
 - who: Guido da Montefeltro | status: mentioned | basis: 63-63
 
 ## Scene 67-72: The Shadow’s Grief
@@ -57,7 +57,7 @@
 
 ## Scene 73-84: Farinata’s Question on Impiety
 - who: Farinata | status: present | basis: 73-84
-- who: Dante | status: present | basis: 74-83
+- who: Dante | status: present | basis: 73-84
 - who: Guelfi | status: mentioned | basis: 83-83
 - who: la donna | status: mentioned | basis: 80-80
 
@@ -71,25 +71,23 @@
 ## Scene 94-99: Dante’s Request for Prophecy
 - who: vostra semenza | status: mentioned | basis: 94-94
 - who: Dante | status: present | basis: 95-95
-- who: Farinata | status: present | basis: 95-97
+- who: Farinata | status: present | basis: 94-99
 
 ## Scene 100-108: The Limitation of Hell’s Vision
-- who: Farinata, le anime dell'Inferno | status: present | basis: 100-107
-- who: quei c'ha mala luce | status: mentioned | basis: 100-100
 - who: Farinata | status: present | basis: 101-101
+- who: le anime dell'Inferno | status: present | basis: 100-107
 - who: il sommo duce | status: mentioned | basis: 102-102
 - who: Dante | status: present | basis: 105-106
 
 ## Scene 109-114: Dante’s Apology
 - who: Dante | status: present | basis: 109-114
 - who: Farinata | status: present | basis: 110-114
-- who: quel caduto | status: mentioned | basis: 110-110
-- who: Cavalcante della Scala | status: mentioned | basis: 111-111
+- who: Cavalcante della Scala | status: mentioned | basis: 110-110
 - who: vivi | status: mentioned | basis: 111-111
 
 ## Scene 115-120: Virgil’s List of Souls
 - who: Virgilio | status: present | basis: 115-115
-- who: Dante | status: present | basis: 115-116
+- who: Dante | status: present | basis: 115-117
 - who: Farinata | status: present | basis: 116-118
 - who: Eretici | status: mentioned | basis: 118-118
 - who: Federico II | status: mentioned | basis: 119-119
@@ -103,7 +101,7 @@
 ## Scene 127-132: The Command regarding Beatrice
 - who: Dante | status: present | basis: 128-128
 - who: Virgilio | status: present | basis: 127-132
-- who: Beatrice | status: mentioned | basis: 131-132
+- who: Beatrice | status: mentioned | basis: 131-131
 
 ## Scene 133-136: Departure into the Valley
 - who: Virgilio | status: present | basis: 133-134

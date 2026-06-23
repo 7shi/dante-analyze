@@ -166,7 +166,6 @@ region = "qua sù"
 cast = [
   { who = "Dio", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "quella creatura", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "calls", obj = "Dio", lines = "97-97" },

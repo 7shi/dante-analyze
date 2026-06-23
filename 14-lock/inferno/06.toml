@@ -75,7 +75,6 @@ location = "terzo cerchio"
 region = "secondo"
 cohort = ["anime"]
 cast = [
-  { who = "quel cane", status = "mentioned" },
   { who = "Cerbero", status = "present" },
   { who = "anime", status = "present" },
 ]
@@ -209,7 +208,7 @@ cast = [
   { who = "Farinata", status = "mentioned" },
   { who = "Tegghiaio", status = "mentioned" },
   { who = "Iacopo Rusticucci", status = "mentioned" },
-  { who = "Arrigo", status = "mentioned" },
+  { who = "Arrigo Mainardi", status = "mentioned" },
   { who = "Mosca", status = "mentioned" },
   { who = "li altri", status = "mentioned" },
 ]
@@ -221,7 +220,7 @@ relations = [
   { subj = "Dante", predicate = "names", obj = "Farinata", lines = "79-79" },
   { subj = "Dante", predicate = "names", obj = "Tegghiaio", lines = "79-79" },
   { subj = "Dante", predicate = "names", obj = "Iacopo Rusticucci", lines = "80-80" },
-  { subj = "Dante", predicate = "names", obj = "Arrigo", lines = "80-80" },
+  { subj = "Dante", predicate = "names", obj = "Arrigo Mainardi", lines = "80-80" },
   { subj = "Dante", predicate = "names", obj = "Mosca", lines = "80-80" },
   { subj = "Dante", predicate = "names", obj = "li altri", lines = "81-81" },
   { subj = "Dante", predicate = "asks", obj = "Ciacco", lines = "82-82" },
@@ -238,7 +237,6 @@ cast = [
   { who = "Farinata", status = "mentioned" },
   { who = "Tegghiaio", status = "mentioned" },
   { who = "Iacopo Rusticucci", status = "mentioned" },
-  { who = "Arrigo", status = "mentioned" },
   { who = "Mosca", status = "mentioned" },
   { who = "anime", status = "mentioned" },
   { who = "Dante", status = "present" },
@@ -273,13 +271,12 @@ lines = "94-99"
 title = "The Prophecy of Judgment"
 location = "terzo cerchio"
 region = "secondo"
-cohort = ["ciascun"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Ciacco", status = "present" },
   { who = "la nimica podesta", status = "mentioned" },
-  { who = "ciascun", status = "present" },
+  { who = "ciascun", status = "mentioned" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "94-94" },
@@ -311,7 +308,6 @@ region = "secondo"
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "questa gente maladetta", status = "mentioned" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "106-106" },

@@ -34,7 +34,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 73-75: The Rain of Arrows
-- cohort: l'anima | source: llm | basis: 74-75
+- cohort: l'anima | source: llm | basis: 74-74
 
 ## Scene 76-79: The Inspection
 - cohort: centauri | source: code | basis: 76-76
@@ -43,7 +43,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 83-96: Virgil's Plea for Passage
-- cohort: un centauro | source: code | basis: 83-96
+- cohort: un centauro | source: code | basis: 83-93
 
 ## Scene 97-99: The Order to Guide
 # (no soul-class present in this scene)

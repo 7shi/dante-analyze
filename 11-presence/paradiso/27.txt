@@ -7,18 +7,18 @@
 - who: Dante | status: present | basis: 3-6
 
 ## Scene 10-27: The Angelic Transformation
-- who: Iove | status: mentioned | basis: 14-14
-- who: beato coro | status: present | basis: 17-17
-- who: Dante | status: present | basis: 10-10
-- who: quelli ch'usurpa in terra | status: mentioned | basis: 22-22
+- who: Iove | status: mentioned | basis: 14-15
+- who: beato coro | status: present | basis: 17-18
+- who: Dante | status: present | basis: 10-19
+- who: quelli ch'usurpa in terra | status: mentioned | basis: 22-25
 - who: Figliuol di Dio | status: mentioned | basis: 24-24
-- who: l perverso | status: mentioned | basis: 26-26
+- who: l perverso | status: mentioned | basis: 26-27
 
 ## Scene 28-36: The Celestial Eclipse
-- who: Dante | status: present | basis: 30-30
-- who: donna onesta | status: mentioned | basis: 31-31
+- who: Dante | status: present | basis: 30-35
+- who: donna onesta | status: mentioned | basis: 31-33
 - who: Beatrice | status: present | basis: 34-34
-- who: Cristo | status: mentioned | basis: 35-36
+- who: Cristo | status: mentioned | basis: 28-28
 
 ## Scene 37-54: The Critique of the Papacy
 - who: San Pietro | status: present | basis: 37-54
@@ -38,10 +38,10 @@
 - who: Guaschi | status: mentioned | basis: 58-58
 - who: Scipio | status: mentioned | basis: 61-61
 - who: San Pietro | status: mentioned | basis: 59-59
-- who: Dante | status: present | basis: 64-65
+- who: Dante | status: present | basis: 64-66
 
 ## Scene 67-75: The Vapor Metaphor
-- who: Dante | status: present | basis: 70-75
+- who: Dante | status: present | basis: 70-73
 - who: trïunfanti | status: present | basis: 71-75
 - who: San Pietro | status: present | basis: 71-75
 
@@ -73,9 +73,9 @@
 - who: parvoletti | status: mentioned | basis: 128-128
 
 ## Scene 130-138: The Perversion of Nature
-- who: parvoletti | status: mentioned | basis: 130-133
+- who: parvoletti | status: mentioned | basis: 130-135
 - who: la madre sua | status: mentioned | basis: 134-135
-- who: la bella figlia | status: present | basis: 137-137
+- who: la bella figlia | status: present | basis: 136-138
 
 ## Scene 139-148: The Prophecy of Renewal
 - who: Dante | status: present | basis: 139-139

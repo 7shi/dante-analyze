@@ -47,15 +47,13 @@ lines = "25-39"
 title = "The Hierarchy of the First Heaven"
 location = ""
 region = "etterne rote"
-cohort = ["questi spirti"]
 cast = [
   { who = "Beatrice", status = "present" },
   { who = "i Serafin", status = "mentioned" },
   { who = "Moïsè", status = "mentioned" },
   { who = "Samuel", status = "mentioned" },
-  { who = "Giovanni", status = "mentioned" },
+  { who = "San Giovanni", status = "mentioned" },
   { who = "Maria", status = "mentioned" },
-  { who = "questi spirti", status = "present" },
   { who = "Dante", status = "present" },
 ]
 relations = [
@@ -63,7 +61,7 @@ relations = [
   { subj = "Beatrice", predicate = "names", obj = "i Serafin", lines = "28-28" },
   { subj = "Beatrice", predicate = "names", obj = "Moïsè", lines = "29-29" },
   { subj = "Beatrice", predicate = "names", obj = "Samuel", lines = "29-29" },
-  { subj = "Beatrice", predicate = "names", obj = "Giovanni", lines = "29-29" },
+  { subj = "Beatrice", predicate = "names", obj = "San Giovanni", lines = "29-29" },
   { subj = "Beatrice", predicate = "names", obj = "Maria", lines = "30-30" },
   { subj = "questi spirti", predicate = "shows", obj = "Dante", lines = "32-32" },
   { subj = "questi spirti", predicate = "shows", obj = "questi spirti", lines = "37-37" },
@@ -123,11 +121,8 @@ lines = "73-87"
 title = "The Distinction Between Will and Force"
 location = ""
 region = "etterne rote"
-cohort = ["quest' alme"]
 cast = [
-  { who = "quel che pate", status = "mentioned" },
-  { who = "quel che sforza", status = "mentioned" },
-  { who = "quest' alme", status = "present" },
+  { who = "quest' alme", status = "mentioned" },
   { who = "Lorenzo", status = "mentioned" },
   { who = "Muzio", status = "mentioned" },
 ]
@@ -143,8 +138,8 @@ cast = [
   { who = "dei", status = "mentioned" },
   { who = "Beatrice", status = "present" },
   { who = "alma beata", status = "mentioned" },
-  { who = "Piccarda", status = "mentioned" },
-  { who = "Costanza", status = "mentioned" },
+  { who = "Piccarda Donati", status = "mentioned" },
+  { who = "Costanza imperadrice", status = "mentioned" },
 ]
 relations = [
   { subj = "Beatrice", predicate = "tells", obj = "Dante", lines = "94-94" },
@@ -163,7 +158,7 @@ cast = [
   { who = "padre suo", status = "mentioned" },
   { who = "la propria madre", status = "mentioned" },
   { who = "Beatrice", status = "present" },
-  { who = "Piccarda", status = "mentioned" },
+  { who = "Piccarda Donati", status = "mentioned" },
 ]
 relations = [
   { subj = "Beatrice", predicate = "addresses", obj = "Dante", lines = "100-100" },
@@ -187,7 +182,6 @@ region = "etterne rote"
 cast = [
   { who = "Beatrice", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "quei che vede e puote", status = "mentioned" },
 ]
 speech = [
   { quote_id = "4:119", lines = "119-138", speaker = "Dante", addressee = "Beatrice", source = "code" },

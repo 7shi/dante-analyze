@@ -11,7 +11,7 @@
 - who: Dante | status: present | basis: 22-24
 
 ## Scene 25-33: The Angel's Reassurance
-- who: messo | status: present | basis: 25-30
+- who: messo | status: present | basis: 30-30
 - who: Virgilio | status: present | basis: 25-33
 - who: Dante | status: present | basis: 25-33
 - who: un uomo | status: mentioned | basis: 30-30
@@ -24,37 +24,37 @@
 ## Scene 40-45: Dante's Query on Political Terms
 - who: Virgilio | status: present | basis: 40-43
 - who: Dante | status: present | basis: 40-43
-- who: Aglauro | status: mentioned | basis: 44-44
+- who: Aglauro | status: mentioned | basis: 44-45
 
 ## Scene 46-57: The Paradox of Divine Distribution
-- who: Aglauro | status: mentioned | basis: 46-46
-- who: Dante | status: present | basis: 46-46
+- who: Aglauro | status: mentioned | basis: 46-48
+- who: Dante | status: present | basis: 46-54
 - who: l'antico avversario | status: mentioned | basis: 51-51
-- who: i beati | status: mentioned | basis: 55-56
+- who: i beati | status: mentioned | basis: 55-57
 
 ## Scene 58-72: The Nature of Divine Love
 - who: Dante | status: present | basis: 58-64
 - who: più posseditor | status: mentioned | basis: 62-62
-- who: Virgilio | status: present | basis: 64-64
+- who: Virgilio | status: mentioned | basis: 65-65
 
 ## Scene 73-78: The Promise of Beatrice
 - who: quanta gente | status: mentioned | basis: 73-75
 - who: Dante | status: present | basis: 76-78
-- who: Beatrice | status: mentioned | basis: 77-78
+- who: Beatrice | status: mentioned | basis: 77-77
 
 ## Scene 79-81: The Closing of the Wounds
 - who: Dante | status: present | basis: 79-81
 
 ## Scene 82-93: The Vision of the Mother
-- who: Dante | status: present | basis: 82-86
+- who: Dante | status: present | basis: 82-92
 - who: Virgilio | status: mentioned | basis: 82-82
 - who: persone | status: present | basis: 87-87
-- who: la madre | status: present | basis: 88-92
+- who: la madre | status: present | basis: 88-91
 - who: lo tuo padre | status: present | basis: 91-91
 
 ## Scene 94-101: The Vision of the Trojan Widow
 - who: Dante | status: present | basis: 94-94
-- who: un'altra | status: present | basis: 94-97
+- who: un'altra | status: present | basis: 94-101
 - who: ne' dèi | status: mentioned | basis: 98-98
 - who: nostra figlia | status: mentioned | basis: 101-101
 
@@ -62,9 +62,8 @@
 - who: Pisistrato | status: mentioned | basis: 105-105
 - who: Dante | status: present | basis: 102-102
 - who: la donna troiana | status: present | basis: 103-103
-- who: i Troiani | status: mentioned | basis: 104-105
+- who: i Troiani | status: present | basis: 104-105
 - who: i Greci | status: mentioned | basis: 104-104
-- who: quei che ci ama | status: mentioned | basis: 105-105
 
 ## Scene 106-114: The Vision of the Martyr
 - who: Dante | status: present | basis: 106-106
@@ -78,15 +77,14 @@
 - who: om | status: mentioned | basis: 119-119
 
 ## Scene 124-126: Dante's Report
-- who: Virgilio | status: present | basis: 124-124
+- who: Virgilio | status: present | basis: 124-126
 - who: Dante | status: present | basis: 125-125
 
 ## Scene 127-138: Virgil's Explanation of the Trance
 - who: Virgilio | status: present | basis: 127-127
-- who: Dante | status: present | basis: 127-136
-- who: chi guarda pur con l'occhio che non vede | status: mentioned | basis: 134-134
+- who: Dante | status: present | basis: 127-127
 - who: i pigri, lenti | status: mentioned | basis: 137-137
 
 ## Scene 139-145: The Encroaching Darkness
-- who: Dante | status: present | basis: 139-139
-- who: Virgilio | status: present | basis: 139-139
+- who: Dante | status: present | basis: 139-145
+- who: Virgilio | status: present | basis: 139-145

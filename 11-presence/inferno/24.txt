@@ -8,8 +8,7 @@
 - who: Virgilio | status: present | basis: 16-24
 
 ## Scene 25-30: Virgil’s Climbing Method
-- who: quei ch'adopera ed estima | status: mentioned | basis: 25-25
-- who: Dante | status: present | basis: 27-27
+- who: Dante | status: present | basis: 27-30
 - who: Virgilio | status: present | basis: 27-30
 
 ## Scene 31-45: The Difficult Descent
@@ -17,8 +16,8 @@
 - who: Virgilio | status: present | basis: 32-36
 
 ## Scene 46-60: Virgil’s Exhortation
-- who: Dante | status: present | basis: 58-60
-- who: Virgilio | status: present | basis: 47-47
+- who: Dante | status: present | basis: 46-60
+- who: Virgilio | status: present | basis: 46-57
 - who: ipocriti | status: mentioned | basis: 56-56
 
 ## Scene 61-78: The Angry Voice
@@ -32,7 +31,6 @@
 ## Scene 82-96: The Pit of Serpents
 - who: Virgilio | status: present | basis: 84-84
 - who: Dante | status: present | basis: 82-82
-- who: questa cruda e tristissima copia | status: present | basis: 91-91
 - who: genti nude e spaventate | status: present | basis: 92-92
 
 ## Scene 97-111: The Phoenix Metaphor
@@ -52,7 +50,7 @@
 ## Scene 127-139: The Confession of Theft
 - who: Dante | status: present | basis: 127-127
 - who: Virgilio | status: present | basis: 127-127
-- who: Vanni Fucci | status: present | basis: 130-133
+- who: Vanni Fucci | status: present | basis: 130-139
 
 ## Scene 140-151: The Prophecy of War
 - who: Dante | status: present | basis: 140-151

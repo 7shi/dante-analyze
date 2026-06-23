@@ -7,7 +7,7 @@
 - cohort: gente | source: code | basis: 16-16
 
 ## Scene 22-30: The Voice Emerges
-- cohort: le luci nove | source: code | basis: 28-28
+- cohort: le luci nove | source: code | basis: 24-28
 
 ## Scene 31-36: The Theology of the Two Guides
 # (no soul-class present in this scene)
@@ -34,7 +34,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 127-141: The Assembly of the Saints
-- cohort: primi scalzi poverelli | source: code | basis: 130-131
+# (no soul-class present in this scene)
 
 ## Scene 142-145: The Unified Praise
 # (no soul-class present in this scene)

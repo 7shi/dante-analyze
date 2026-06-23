@@ -7,18 +7,18 @@ title = "The Arrangement of the Matriarchs"
 location = ""
 region = "qua sù"
 cast = [
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Maria", status = "mentioned" },
-  { who = "Eva", status = "present" },
+  { who = "Eva", status = "mentioned" },
   { who = "Rachel", status = "present" },
   { who = "Bëatrice", status = "present" },
   { who = "Dante", status = "present" },
 ]
 speech = [
-  { quote_id = "32:4", lines = "4-87", speaker = "Bernardo", addressee = "Dante", source = "llm" },
+  { quote_id = "32:4", lines = "4-87", speaker = "San Bernardo", addressee = "Dante", source = "llm" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "speaks-to", obj = "Dante", lines = "3-3" },
+  { subj = "San Bernardo", predicate = "speaks-to", obj = "Dante", lines = "3-3" },
 ]
 basis = "1-9"
 
@@ -34,14 +34,14 @@ cast = [
   { who = "Rut", status = "mentioned" },
   { who = "Davide", status = "mentioned" },
   { who = "Dante", status = "present" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "names", obj = "Sarra", lines = "10-10" },
-  { subj = "Bernardo", predicate = "names", obj = "Rebecca", lines = "10-10" },
-  { subj = "Bernardo", predicate = "names", obj = "Iudìt", lines = "10-10" },
-  { subj = "Bernardo", predicate = "names", obj = "Rut", lines = "10-11" },
-  { subj = "Bernardo", predicate = "compares", obj = "Dante", lines = "13-15" },
+  { subj = "San Bernardo", predicate = "names", obj = "Sarra", lines = "10-10" },
+  { subj = "San Bernardo", predicate = "names", obj = "Rebecca", lines = "10-10" },
+  { subj = "San Bernardo", predicate = "names", obj = "Iudìt", lines = "10-10" },
+  { subj = "San Bernardo", predicate = "names", obj = "Rut", lines = "10-11" },
+  { subj = "San Bernardo", predicate = "compares", obj = "Dante", lines = "13-15" },
 ]
 basis = "10-15"
 
@@ -50,12 +50,10 @@ lines = "16-27"
 title = "The Structure of the Two Hemispheres"
 location = "la rosa"
 region = "qua sù"
-cohort = ["Ebree", "quei che credettero in Cristo venturo", "quei ch'a Cristo venuto ebber li visi"]
+cohort = ["Ebree"]
 cast = [
   { who = "Cristo", status = "mentioned" },
   { who = "Ebree", status = "present" },
-  { who = "quei che credettero in Cristo venturo", status = "present" },
-  { who = "quei ch'a Cristo venuto ebber li visi", status = "present" },
 ]
 basis = "16-27"
 
@@ -66,9 +64,9 @@ location = "la rosa"
 region = "qua sù"
 cast = [
   { who = "Maria", status = "present" },
-  { who = "Giovanni", status = "present" },
-  { who = "Francesco", status = "present" },
-  { who = "Benedetto", status = "present" },
+  { who = "San Giovanni", status = "present" },
+  { who = "Francesco d'Assisi", status = "present" },
+  { who = "San Benedetto", status = "present" },
   { who = "Augustino", status = "present" },
 ]
 basis = "28-36"
@@ -94,7 +92,7 @@ cohort = ["spiriti chiamati"]
 cast = [
   { who = "Dante", status = "present" },
   { who = "spiriti chiamati", status = "present" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
 ]
 basis = "46-51"
 
@@ -103,10 +101,8 @@ lines = "52-66"
 title = "The Nature of Eternal Joy and Grace"
 location = "questo giardino"
 region = "qua sù"
-cohort = ["questa festinata gente"]
 cast = [
   { who = "Dante", status = "present" },
-  { who = "questa festinata gente", status = "present" },
   { who = "rege", status = "mentioned" },
 ]
 refer = [
@@ -123,7 +119,7 @@ cohort = ["i beati"]
 cast = [
   { who = "Esaù", status = "mentioned" },
   { who = "Rebecca", status = "mentioned" },
-  { who = "l'anima", status = "mentioned" },
+  { who = "l'anima", status = "present" },
   { who = "i beati", status = "present" },
 ]
 refer = [
@@ -187,16 +183,16 @@ title = "A Question of Love"
 location = "questo giardino"
 region = "qua sù"
 cast = [
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Dante", status = "present" },
   { who = "quell' angel", status = "present" },
   { who = "Maria", status = "present" },
 ]
 speech = [
-  { quote_id = "32:100", lines = "100-105", speaker = "Dante", addressee = "Bernardo", source = "llm" },
+  { quote_id = "32:100", lines = "100-105", speaker = "Dante", addressee = "San Bernardo", source = "llm" },
 ]
 relations = [
-  { subj = "Dante", predicate = "asks", obj = "Bernardo", lines = "100-105" },
+  { subj = "Dante", predicate = "asks", obj = "San Bernardo", lines = "100-105" },
 ]
 basis = "100-105"
 
@@ -209,13 +205,13 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "San Bernardo", status = "present" },
   { who = "Maria", status = "mentioned" },
-  { who = "l'angelo", status = "present" },
+  { who = "l'angelo", status = "mentioned" },
   { who = "l'alma", status = "mentioned" },
   { who = "Dio e i beati", status = "mentioned" },
   { who = "Figliuol di Dio", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "32:109", lines = "109-150", speaker = "Bernardo", addressee = "Dante", source = "llm" },
+  { quote_id = "32:109", lines = "109-150", speaker = "San Bernardo", addressee = "Dante", source = "code" },
 ]
 refer = [
   { phrase = "angelo", line = 112, resolves = "l'angelo" },
@@ -233,9 +229,7 @@ location = "questo giardino"
 region = "qua sù"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Bernardo", status = "present" },
-  { who = "Pietro", status = "present" },
-  { who = "Paolo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Maria", status = "mentioned" },
 ]
 basis = "115-120"
@@ -246,17 +240,17 @@ title = "The Patriarchs of the Church"
 location = "questo giardino"
 region = "qua sù"
 cast = [
-  { who = "Paolo", status = "present" },
+  { who = "San Paolo", status = "present" },
   { who = "Maria", status = "present" },
   { who = "Dante", status = "present" },
-  { who = "Pietro", status = "present" },
+  { who = "San Pietro", status = "present" },
   { who = "Cristo", status = "mentioned" },
 ]
 refer = [
   { phrase = "Santa Chiesa", line = 124, resolves = "la Santa Chiesa" },
 ]
 relations = [
-  { subj = "Dante", predicate = "sees", obj = "Pietro", lines = "124-124" },
+  { subj = "Dante", predicate = "sees", obj = "San Pietro", lines = "124-124" },
 ]
 basis = "121-126"
 
@@ -280,21 +274,21 @@ title = "The Matriarchal Counterparts"
 location = "questo giardino"
 region = "qua sù"
 cast = [
-  { who = "Pietro", status = "present" },
+  { who = "San Pietro", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Anna", status = "present" },
   { who = "Maria", status = "present" },
-  { who = "Paolo", status = "present" },
+  { who = "San Paolo", status = "present" },
   { who = "Lucia", status = "present" },
   { who = "Beatrice", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "Anna", lines = "133-133" },
-  { subj = "Anna", predicate = "relates-to", obj = "Pietro", lines = "133-133" },
+  { subj = "Anna", predicate = "relates-to", obj = "San Pietro", lines = "133-133" },
   { subj = "Anna", predicate = "sees", obj = "Maria", lines = "134-134" },
   { subj = "Maria", predicate = "relates-to", obj = "Anna", lines = "134-134" },
   { subj = "Dante", predicate = "sees", obj = "Lucia", lines = "136-137" },
-  { subj = "Lucia", predicate = "relates-to", obj = "Paolo", lines = "136-137" },
+  { subj = "Lucia", predicate = "relates-to", obj = "San Paolo", lines = "136-137" },
   { subj = "Beatrice", predicate = "relates-to", obj = "Dante", lines = "137-137" },
 ]
 basis = "133-138"
@@ -308,7 +302,7 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "San Bernardo", status = "present" },
   { who = "buon sartore", status = "mentioned" },
-  { who = "primo amore", status = "mentioned" },
+  { who = "primo amore", status = "present" },
 ]
 simile = [
   { lines = "140-141", vehicle = "buon sartore" },
@@ -323,10 +317,10 @@ region = "qua sù"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Maria", status = "mentioned" },
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
 ]
 relations = [
-  { subj = "Bernardo", predicate = "warns", obj = "Dante", lines = "145-146" },
-  { subj = "Bernardo", predicate = "commands", obj = "Dante", lines = "149-150" },
+  { subj = "San Bernardo", predicate = "warns", obj = "Dante", lines = "145-146" },
+  { subj = "San Bernardo", predicate = "commands", obj = "Dante", lines = "149-150" },
 ]
 basis = "145-151"

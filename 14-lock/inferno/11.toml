@@ -63,8 +63,8 @@ location = "estremità d'un'alta ripa"
 region = "più crudele stipa"
 cast = [
   { who = "vïolenti", status = "mentioned" },
-  { who = "Dio, sé, prossimo", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
+  { who = "sé", status = "mentioned" },
   { who = "prossimo", status = "mentioned" },
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
@@ -99,9 +99,6 @@ location = "estremità d'un'alta ripa"
 region = "più crudele stipa"
 cast = [
   { who = "l'omo", status = "mentioned" },
-  { who = "colui che 'n lui fida", status = "mentioned" },
-  { who = "quel che fidanza non imborsa", status = "mentioned" },
-  { who = "chi affattura", status = "mentioned" },
   { who = "ruffian", status = "mentioned" },
   { who = "baratti", status = "mentioned" },
   { who = "qualunque trade", status = "mentioned" },
@@ -116,7 +113,6 @@ region = "più crudele stipa"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "quei de la palude pingue", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
 ]
 relations = [
@@ -130,13 +126,11 @@ lines = "76-90"
 title = "The Aristotelian Defense"
 location = "estremità d'un'alta ripa"
 region = "più crudele stipa"
-cohort = ["questi felli"]
 cast = [
   { who = "Virgilio", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Dio", status = "mentioned" },
   { who = "incontinenti", status = "mentioned" },
-  { who = "questi felli", status = "present" },
 ]
 relations = [
   { subj = "Virgilio", predicate = "speaks-to", obj = "Dante", lines = "76-76" },
@@ -172,7 +166,6 @@ region = "più crudele stipa"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
-  { who = "chi la 'ntende", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
   { who = "'l discente", status = "mentioned" },
   { who = "l'usuriere", status = "mentioned" },

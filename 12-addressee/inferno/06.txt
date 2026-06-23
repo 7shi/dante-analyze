@@ -28,7 +28,7 @@
 - 6:43 lines 43-48 | speaker: Dante | addressee: Ciacco | source: code | basis: 43-48
 
 ## Scene 49-57: Ciacco's Identification
-- 6:49 lines 49-57 | speaker: Ciacco | addressee: Dante | source: llm | basis: 49-54
+- 6:49 lines 49-57 | speaker: Ciacco | addressee: Dante | source: llm | basis: 49-49
 
 ## Scene 58-63: The Inquiry about Florence
 - 6:58 lines 58-63 | speaker: Dante | addressee: Ciacco | source: code | basis: 58-63

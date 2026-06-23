@@ -64,9 +64,9 @@ title = "The Two Celestial Guides"
 location = "punto del cerchio"
 region = "ella"
 cast = [
-  { who = "Francesco", status = "mentioned" },
-  { who = "Domenico", status = "mentioned" },
-  { who = "Tommaso", status = "mentioned" },
+  { who = "San Francesco", status = "mentioned" },
+  { who = "San Domenico", status = "mentioned" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
   { who = "principe", status = "mentioned" },
   { who = "un uomo", status = "mentioned" },
 ]
@@ -74,7 +74,7 @@ refer = [
   { phrase = "uomo", line = 41, resolves = "un uomo" },
 ]
 relations = [
-  { subj = "Tommaso", predicate = "relates-to", obj = "Francesco", lines = "40-40" },
+  { subj = "Tommaso d'Aquino", predicate = "relates-to", obj = "San Francesco", lines = "40-40" },
 ]
 basis = "37-42"
 
@@ -85,7 +85,7 @@ location = "punto del cerchio"
 region = "ella"
 cast = [
   { who = "Beato Ubaldo", status = "mentioned" },
-  { who = "Francesco", status = "mentioned" },
+  { who = "Francesco d'Assisi", status = "mentioned" },
 ]
 basis = "43-54"
 
@@ -115,8 +115,7 @@ region = "ella"
 cast = [
   { who = "Maria", status = "mentioned" },
   { who = "Cristo", status = "mentioned" },
-  { who = "Francesco", status = "mentioned" },
-  { who = "colui ch'a tutto 'l mondo fé paura", status = "mentioned" },
+  { who = "Francesco d'Assisi", status = "mentioned" },
   { who = "Amiclate", status = "mentioned" },
 ]
 basis = "64-72"
@@ -127,12 +126,12 @@ title = "The Introduction of Francis and Poverty"
 location = "punto del cerchio"
 region = "ella"
 cast = [
-  { who = "Tommaso", status = "mentioned" },
-  { who = "Francesco", status = "mentioned" },
+  { who = "Tommaso d'Aquino", status = "mentioned" },
+  { who = "Francesco d'Assisi", status = "mentioned" },
   { who = "Dante", status = "present" },
 ]
 relations = [
-  { subj = "Tommaso", predicate = "commands", obj = "Dante", lines = "74-75" },
+  { subj = "Tommaso d'Aquino", predicate = "commands", obj = "Dante", lines = "74-75" },
 ]
 basis = "73-78"
 
@@ -142,10 +141,10 @@ title = "The Joy of the Saints"
 location = "punto del cerchio"
 region = "ella"
 cast = [
-  { who = "Bernardo", status = "present" },
+  { who = "San Bernardo", status = "present" },
   { who = "Egidio", status = "present" },
   { who = "Silvestro", status = "present" },
-  { who = "Francesco", status = "present" },
+  { who = "Francesco d'Assisi", status = "present" },
 ]
 basis = "79-84"
 
@@ -154,10 +153,8 @@ lines = "85-93"
 title = "Francis's Early Mission and Recognition"
 location = "punto del cerchio"
 region = "ella"
-cohort = ["quella famiglia"]
 cast = [
-  { who = "Francesco", status = "present" },
-  { who = "quella famiglia", status = "present" },
+  { who = "San Francesco", status = "present" },
   { who = "Pietro Bernardone", status = "mentioned" },
   { who = "Innocenzio", status = "present" },
 ]
@@ -170,7 +167,7 @@ location = "punto del cerchio"
 region = "ella"
 cast = [
   { who = "la gente poverella", status = "mentioned" },
-  { who = "Francesco", status = "mentioned" },
+  { who = "San Francesco", status = "mentioned" },
   { who = "Onorio", status = "mentioned" },
 ]
 basis = "94-99"
@@ -181,10 +178,10 @@ title = "The Martyrdom of Francis"
 location = "punto del cerchio"
 region = "ella"
 cast = [
-  { who = "Soldan", status = "mentioned" },
+  { who = "l Soldan", status = "mentioned" },
   { who = "Cristo", status = "mentioned" },
   { who = "li altri", status = "mentioned" },
-  { who = "Francesco", status = "mentioned" },
+  { who = "San Francesco", status = "mentioned" },
   { who = "gente", status = "mentioned" },
 ]
 basis = "100-108"
@@ -196,7 +193,7 @@ location = "punto del cerchio"
 region = "ella"
 cohort = ["frati suoi"]
 cast = [
-  { who = "Francesco", status = "present" },
+  { who = "San Francesco", status = "present" },
   { who = "frati suoi", status = "present" },
   { who = "la donna sua più cara", status = "mentioned" },
 ]
@@ -204,7 +201,7 @@ relations = [
   { subj = "frati suoi", predicate = "speaks-to", obj = "frati suoi", lines = "112-113" },
   { subj = "frati suoi", predicate = "relates-to", obj = "la donna sua più cara", lines = "113-113" },
   { subj = "frati suoi", predicate = "commands", obj = "frati suoi", lines = "114-114" },
-  { subj = "la donna sua più cara", predicate = "relates-to", obj = "Francesco", lines = "117-117" },
+  { subj = "la donna sua più cara", predicate = "relates-to", obj = "San Francesco", lines = "117-117" },
 ]
 basis = "109-117"
 
@@ -215,8 +212,8 @@ location = "punto del cerchio"
 region = "ella"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Bonaventura", status = "mentioned" },
-  { who = "Pietro", status = "mentioned" },
+  { who = "San Bonaventura", status = "mentioned" },
+  { who = "San Pietro", status = "mentioned" },
   { who = "qual segue lui", status = "mentioned" },
 ]
 basis = "118-123"
@@ -227,7 +224,7 @@ title = "The Wandering Sheep"
 location = "punto del cerchio"
 region = "ella"
 cast = [
-  { who = "Bonaventura", status = "mentioned" },
+  { who = "San Bonaventura", status = "mentioned" },
 ]
 basis = "124-132"
 

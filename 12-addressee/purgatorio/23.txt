@@ -42,8 +42,8 @@
 # (no attributed speech in this scene)
 
 ## Scene 115-123: Explaining the Companions
-- 23:115 lines 115-120 | speaker: Dante | addressee: Forese | source: llm | basis: 115-115
-- 23:121 lines 121-130 | speaker: Dante | addressee: Forese | source: llm | basis: 121-121
+- 23:115 lines 115-120 | speaker: Dante | addressee: Forese | source: llm | basis: 115-116
+- 23:121 lines 121-130 | speaker: Dante | addressee: Forese | source: llm | basis: 121-123
 
 ## Scene 124-129: Dante's Destination
 # (no attributed speech in this scene)

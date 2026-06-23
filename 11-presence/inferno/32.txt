@@ -11,28 +11,28 @@
 - who: plebe | status: present | basis: 13-14
 - who: Dante | status: present | basis: 16-21
 - who: Virgilio | status: present | basis: 13-21
-- who: Anteo | status: present | basis: 17-17
-- who: fratei miseri lassi | status: present | basis: 21-21
+- who: Anteo | status: mentioned | basis: 17-17
+- who: fratei miseri lassi | status: present | basis: 20-21
 
 ## Scene 22-30: The Frozen Lake of Cocytus
 - who: Dante | status: present | basis: 22-23
 
 ## Scene 31-39: The Sinners in the Ice
-- who: la villana | status: mentioned | basis: 33-33
-- who: l'ombre dolenti | status: present | basis: 35-39
+- who: la villana | status: mentioned | basis: 32-33
+- who: l'ombre dolenti | status: present | basis: 34-39
 
 ## Scene 40-51: The Two Intertwined Sinners
 - who: Dante | status: present | basis: 40-45
 
 ## Scene 52-69: The Deaf Sinner’s Revelation
-- who: Camiscion de' Pazzi | status: present | basis: 52-69
-- who: l'ombre | status: mentioned | basis: 59-59
-- who: Dante | status: present | basis: 54-66
+- who: Camiscion de' Pazzi | status: present | basis: 52-68
+- who: l'ombre | status: present | basis: 59-59
+- who: Dante | status: present | basis: 54-54
 - who: cotesti due | status: present | basis: 55-55
 - who: Bisenzo | status: mentioned | basis: 56-56
 - who: Alberto | status: mentioned | basis: 57-57
-- who: l'ombra | status: mentioned | basis: 61-61
-- who: quelli a cui fu rotto il petto | status: mentioned | basis: 61-61
+- who: l'ombra | status: present | basis: 61-61
+- who: quelli a cui fu rotto il petto | status: present | basis: 61-61
 - who: Artù | status: mentioned | basis: 62-62
 - who: Sassol Mascheroni | status: present | basis: 63-65
 - who: Carlin | status: mentioned | basis: 69-69
@@ -42,21 +42,21 @@
 - who: Virgilio | status: present | basis: 73-73
 
 ## Scene 79-84: The Scolding Sinner
-- who: il peccatore | status: present | basis: 79-81
+- who: il peccatore | status: present | basis: 79-83
 - who: Dante | status: present | basis: 79-84
 - who: Virgilio | status: present | basis: 82-84
 
 ## Scene 85-96: The Verbal Dispute
 - who: Virgilio | status: present | basis: 85-85
-- who: Dante | status: present | basis: 85-96
-- who: Ugolino | status: present | basis: 85-96
+- who: Dante | status: present | basis: 85-85
+- who: conte Ugolino | status: mentioned | basis: 88-88
 
 ## Scene 97-105: The Physical Altercation
-- who: Dante | status: present | basis: 97-104
+- who: Dante | status: present | basis: 97-105
 - who: il peccatore | status: present | basis: 97-105
 
 ## Scene 106-114: The Interruption by Bocca
-- who: L'altro | status: present | basis: 106-108
+- who: L'altro | status: present | basis: 106-106
 - who: Bocca | status: present | basis: 106-114
 - who: diavol | status: mentioned | basis: 108-108
 - who: Dante | status: present | basis: 109-114
@@ -64,25 +64,25 @@
 ## Scene 115-123: The Catalog of Traitors
 - who: il peccatore | status: mentioned | basis: 116-116
 - who: Franceschi | status: mentioned | basis: 115-115
-- who: Dante | status: present | basis: 116-116
+- who: Dante | status: present | basis: 116-119
 - who: i peccatori | status: mentioned | basis: 117-117
-- who: Beccheria | status: mentioned | basis: 119-119
-- who: Gianni de' Soldanier | status: mentioned | basis: 121-121
-- who: Bocca | status: present | basis: 115-115
+- who: Beccheria | status: mentioned | basis: 119-120
+- who: Gianni de' Soldanier | status: mentioned | basis: 121-122
+- who: Bocca | status: present | basis: 115-123
 - who: Ganellone | status: mentioned | basis: 122-122
-- who: Tebaldello | status: mentioned | basis: 122-122
+- who: Tebaldello | status: mentioned | basis: 122-123
 
 ## Scene 124-132: The Biting Sinners
 - who: Dante | status: present | basis: 124-125
 - who: Virgilio | status: present | basis: 124-124
 - who: Bocca | status: mentioned | basis: 124-124
-- who: due ghiacciati | status: present | basis: 125-125
+- who: due ghiacciati | status: present | basis: 125-126
 - who: 'l sovran | status: present | basis: 128-128
-- who: Tidëo | status: mentioned | basis: 130-130
+- who: Tidëo | status: mentioned | basis: 130-132
 - who: Menalippo | status: mentioned | basis: 131-131
 
 ## Scene 133-139: Dante’s Inquiry into Hatred
-- who: l'ombra che morde | status: present | basis: 133-139
+- who: l'ombra che morde | status: present | basis: 133-133
 - who: l'ombra morsa | status: present | basis: 134-134
 - who: Dante | status: present | basis: 135-135
 - who: le due ombre | status: present | basis: 137-137

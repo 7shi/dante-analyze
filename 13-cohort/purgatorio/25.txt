@@ -34,7 +34,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 85-90: The Expansion of Virtue
-# (no soul-class present in this scene)
+- cohort: l'anima | source: code | basis: 85-90
 
 ## Scene 91-102: The Metaphor of Light and Shadow
 # (no soul-class present in this scene)
@@ -59,4 +59,4 @@
 - cohort: mariti | source: llm | basis: 134-134
 
 ## Scene 136-139: The Purpose of the Ritual
-# (no soul-class present in this scene)
+- cohort: lussuriosi | source: code | basis: 136-137

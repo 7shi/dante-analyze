@@ -4,7 +4,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 10-18: The Epicurean’s Reply
-- cohort: Eretici | source: code | basis: 10-18
+- cohort: Eretico | source: code | basis: 10-18
 
 ## Scene 19-27: Virgil’s Admonition
 # (no soul-class present in this scene)
@@ -22,7 +22,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 52-60: The Emergence of the Shadow
-- cohort: un'ombra | source: code | basis: 53-58
+- cohort: un'ombra | source: code | basis: 52-58
 
 ## Scene 61-66: The Reference to Guido
 # (no soul-class present in this scene)
@@ -43,7 +43,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 100-108: The Limitation of Hell’s Vision
-- cohort: Farinata, le anime dell'Inferno | source: code | basis: 100-107
+- cohort: le anime dell'Inferno | source: code | basis: 100-107
 
 ## Scene 109-114: Dante’s Apology
 # (no soul-class present in this scene)

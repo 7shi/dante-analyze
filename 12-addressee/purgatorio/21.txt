@@ -56,4 +56,4 @@
 # (no attributed speech in this scene)
 
 ## Scene 133-136: The Weight of Love
-- 21:133 lines 133-136 | speaker: Stazio | addressee: l'ombre | source: code | basis: 133-136
+- 21:133 lines 133-136 | speaker: Stazio | addressee: (none) | source: none | basis: 133-136

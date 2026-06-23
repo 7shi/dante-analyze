@@ -59,7 +59,7 @@ title = "Dante's Inquiry"
 location = "la seguente tomba"
 region = "lo scoglio"
 cast = [
-  { who = "Niccolò", status = "mentioned" },
+  { who = "Niccolò III", status = "mentioned" },
   { who = "Virgilio", status = "present" },
   { who = "li altri suoi consorti", status = "mentioned" },
   { who = "Dante", status = "present" },
@@ -70,8 +70,8 @@ speech = [
 ]
 relations = [
   { subj = "Dante", predicate = "asks", obj = "Virgilio", lines = "31-33" },
-  { subj = "Dante", predicate = "asks", obj = "Niccolò", lines = "31-33" },
-  { subj = "Niccolò", predicate = "compares", obj = "li altri suoi consorti", lines = "32-32" },
+  { subj = "Dante", predicate = "asks", obj = "Niccolò III", lines = "31-33" },
+  { subj = "Niccolò III", predicate = "compares", obj = "li altri suoi consorti", lines = "32-32" },
   { subj = "Virgilio", predicate = "answers", obj = "Dante", lines = "34-34" },
   { subj = "Dante", predicate = "answers", obj = "Virgilio", lines = "37-37" },
   { subj = "Virgilio", predicate = "relates-to", obj = "Dante", lines = "38-38" },
@@ -103,14 +103,14 @@ title = "Dante’s Salutation"
 location = "l'argine quarto"
 region = "l'argine quarto"
 cast = [
-  { who = "Niccolò", status = "present" },
+  { who = "Niccolò III", status = "present" },
   { who = "Dante", status = "present" },
 ]
 relations = [
-  { subj = "Dante", predicate = "addresses", obj = "Niccolò", lines = "46-46" },
-  { subj = "Dante", predicate = "addresses", obj = "Niccolò", lines = "47-47" },
-  { subj = "Dante", predicate = "asks", obj = "Niccolò", lines = "48-48" },
-  { subj = "Dante", predicate = "commands", obj = "Niccolò", lines = "48-48" },
+  { subj = "Dante", predicate = "addresses", obj = "Niccolò III", lines = "46-46" },
+  { subj = "Dante", predicate = "addresses", obj = "Niccolò III", lines = "47-47" },
+  { subj = "Dante", predicate = "asks", obj = "Niccolò III", lines = "48-48" },
+  { subj = "Dante", predicate = "commands", obj = "Niccolò III", lines = "48-48" },
 ]
 basis = "46-48"
 
@@ -195,7 +195,7 @@ location = "l'argine quarto"
 region = "l'argine quarto"
 cohort = ["li altri tratti"]
 cast = [
-  { who = "Niccolò III", status = "present" },
+  { who = "Niccolò III", status = "mentioned" },
   { who = "Dante", status = "present" },
   { who = "li altri tratti", status = "present" },
   { who = "Bonifacio VIII", status = "present" },
@@ -215,7 +215,7 @@ location = "l'argine quarto"
 region = "l'argine quarto"
 cast = [
   { who = "Niccolò III", status = "present" },
-  { who = "Bonifacio VIII", status = "mentioned" },
+  { who = "Bonifacio VIII", status = "present" },
   { who = "Clemente V", status = "mentioned" },
   { who = "Iasón", status = "mentioned" },
   { who = "suo re", status = "mentioned" },
@@ -286,11 +286,11 @@ location = "l'argine quarto"
 region = "l'argine quarto"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Niccolò", status = "present" },
+  { who = "Niccolò III", status = "mentioned" },
   { who = "Virgilio", status = "present" },
 ]
 relations = [
-  { subj = "Dante", predicate = "rebukes", obj = "Niccolò", lines = "118-118" },
+  { subj = "Dante", predicate = "rebukes", obj = "Niccolò III", lines = "118-118" },
   { subj = "Dante", predicate = "sees", obj = "Virgilio", lines = "121-121" },
   { subj = "Virgilio", predicate = "hears", obj = "Dante", lines = "122-123" },
 ]

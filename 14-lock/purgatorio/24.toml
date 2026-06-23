@@ -28,7 +28,7 @@ location = ""
 region = "l'alber"
 cast = [
   { who = "Dante", status = "present" },
-  { who = "Piccarda", status = "mentioned" },
+  { who = "Piccarda Donati", status = "mentioned" },
   { who = "Forese", status = "present" },
 ]
 speech = [
@@ -45,16 +45,17 @@ lines = "13-24"
 title = "News of Piccarda and Bonagiunta"
 location = ""
 region = "l'alber"
+cohort = ["ciascun"]
 cast = [
-  { who = "Piccarda", status = "mentioned" },
-  { who = "Forese", status = "present" },
-  { who = "ciascun", status = "mentioned" },
+  { who = "Piccarda Donati", status = "present" },
+  { who = "Forese", status = "mentioned" },
+  { who = "ciascun", status = "present" },
   { who = "Bonagiunta da Lucca", status = "present" },
   { who = "dal Torso", status = "present" },
   { who = "Torso", status = "mentioned" },
 ]
 speech = [
-  { quote_id = "24:13", lines = "13-15", speaker = "Forese", addressee = "Bonagiunta da Lucca", source = "llm" },
+  { quote_id = "24:13", lines = "13-15", speaker = "Forese", addressee = "ciascun", source = "llm" },
 ]
 relations = [
   { subj = "Forese", predicate = "shows", obj = "Bonagiunta da Lucca", lines = "19-19" },
@@ -147,7 +148,7 @@ cast = [
   { who = "Dante", status = "present" },
   { who = "Bonagiunta da Lucca", status = "present" },
   { who = "'l Notaro", status = "mentioned" },
-  { who = "Guittone", status = "mentioned" },
+  { who = "Guittone d'Arezzo", status = "mentioned" },
   { who = "al dittator", status = "mentioned" },
   { who = "poeta", status = "mentioned" },
 ]
@@ -227,7 +228,6 @@ region = "l'alber"
 cast = [
   { who = "Dante", status = "present" },
   { who = "Forese", status = "present" },
-  { who = "quei che più n'ha colpa", status = "mentioned" },
 ]
 speech = [
   { quote_id = "24:82B", lines = "82-88", speaker = "Forese", addressee = "Dante", source = "code" },
@@ -289,8 +289,9 @@ lines = "112-120"
 title = "Warning Near the Tree"
 location = "grande arbore"
 region = "l'alber"
+cohort = ["gente"]
 cast = [
-  { who = "gente", status = "mentioned" },
+  { who = "gente", status = "present" },
   { who = "Dante", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Stazio", status = "present" },
@@ -365,7 +366,6 @@ cast = [
   { who = "anima lucente e rossa", status = "present" },
   { who = "Virgilio", status = "present" },
   { who = "Stazio", status = "present" },
-  { who = "chi vuole andar per pace", status = "mentioned" },
 ]
 relations = [
   { subj = "Dante", predicate = "sees", obj = "anima lucente e rossa", lines = "139-139" },

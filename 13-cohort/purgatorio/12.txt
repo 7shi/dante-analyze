@@ -7,7 +7,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 25-36: The sight of the Giants
-- cohort: i Giganti | source: code | basis: 33-33
+- cohort: i Giganti | source: llm | basis: 33-33
 
 ## Scene 37-45: The signs of tragic figures
 # (no soul-class present in this scene)
@@ -26,7 +26,7 @@
 - cohort: figliuoli d'Eva | source: code | basis: 70-72
 
 ## Scene 79-84: The approaching messenger
-- cohort: un angel | source: code | basis: 79-80
+- cohort: un angel | source: code | basis: 79-82
 
 ## Scene 85-96: The arrival of the angel
 # (no soul-class present in this scene)
@@ -35,7 +35,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 109-114: The transition in song
-- cohort: pauperes | source: code | basis: 110-111
+# (no soul-class present in this scene)
 
 ## Scene 115-126: The mystery of the weightless ascent
 # (no soul-class present in this scene)

@@ -39,7 +39,6 @@ location = "quest' acque"
 region = "qua sù"
 cast = [
   { who = "Dio", status = "mentioned" },
-  { who = "suo sire", status = "mentioned" },
 ]
 basis = "19-30"
 
@@ -123,7 +122,6 @@ region = "qua sù"
 cast = [
   { who = "filosofi", status = "mentioned" },
   { who = "Dio", status = "mentioned" },
-  { who = "chi umilmente", status = "mentioned" },
   { who = "predicanti", status = "mentioned" },
 ]
 basis = "85-96"

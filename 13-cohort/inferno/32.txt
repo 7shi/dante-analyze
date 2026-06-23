@@ -4,26 +4,26 @@
 # (no soul-class present in this scene)
 
 ## Scene 13-21: The Descent into the Pit
-- cohort: plebe | source: llm | basis: 13-13
+- cohort: plebe | source: llm | basis: 13-14
 - cohort: fratei miseri lassi | source: llm | basis: 21-21
 
 ## Scene 22-30: The Frozen Lake of Cocytus
 # (no soul-class present in this scene)
 
 ## Scene 31-39: The Sinners in the Ice
-- cohort: l'ombre dolenti | source: code | basis: 35-39
+- cohort: l'ombre dolenti | source: code | basis: 34-39
 
 ## Scene 40-51: The Two Intertwined Sinners
 # (no soul-class present in this scene)
 
 ## Scene 52-69: The Deaf Sinner’s Revelation
-# (no soul-class present in this scene)
+- cohort: quelli a cui fu rotto il petto | source: llm | basis: 61-61
 
 ## Scene 70-78: Walking through the Frozen Multitude
 # (no soul-class present in this scene)
 
 ## Scene 79-84: The Scolding Sinner
-- cohort: il peccatore | source: code | basis: 79-81
+- cohort: il peccatore | source: code | basis: 79-83
 
 ## Scene 85-96: The Verbal Dispute
 # (no soul-class present in this scene)
@@ -38,7 +38,7 @@
 # (no soul-class present in this scene)
 
 ## Scene 124-132: The Biting Sinners
-- cohort: due ghiacciati | source: code | basis: 125-125
+- cohort: due ghiacciati | source: code | basis: 125-126
 
 ## Scene 133-139: Dante’s Inquiry into Hatred
 - cohort: le due ombre | source: code | basis: 137-137

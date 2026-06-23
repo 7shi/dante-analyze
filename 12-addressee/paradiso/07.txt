@@ -7,7 +7,7 @@
 # (no attributed speech in this scene)
 
 ## Scene 10-15: Dante's Awe
-- 7:11B lines 11-12 | speaker: Dante | addressee: Beatrice | source: code | basis: 11-12
+- 7:11B lines 11-12 | speaker: Dante | addressee: le anime di Mercurio | source: code | basis: 11-12
 
 ## Scene 16-24: Beatrice's Promise
 - 7:19 lines 19-148 | speaker: Beatrice | addressee: Dante | source: code | basis: 19-148
