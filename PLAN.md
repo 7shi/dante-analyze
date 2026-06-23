@@ -39,7 +39,8 @@ in `15-digest/README.md` and the README "Digest edition"). These optional refine
 ### 2. Deferred quality work
 
 These items are intentionally parked. They improve polish or storage, but they are not prerequisites
-for the completed KG.
+for the completed KG. A separate optional direction — automating the manual cache invalidation a
+node-set change requires — is tracked in `KG-PROBLEM.md`.
 
 - Pronoun-layer marking quality: current local models still make clause-level and category errors on
   supplied pronouns.
@@ -47,11 +48,6 @@ for the completed KG.
   pronoun validation both need a reliable pronoun lexicon.
 - Diff-only storage: store only additions relative to the source token list instead of full marked-up
   text.
-- ~~`class`-typed individual+collective bundles~~ (RESOLVED): `Dante, noble souls of Limbo`-style
-  bundles are now split at node construction — `Nodes._gather` promotes the lowercase collective
-  remainder to its own node so the label resolves as a `set` (the individual rejoins its own node,
-  the collective becomes its own `class` node). See `ARCHITECTURE.md` and `13-cohort/README.md`
-  "Notes".
 
 ## Rules to keep
 
