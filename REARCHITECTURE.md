@@ -42,8 +42,10 @@ proposes; code checks, normalizes, joins, resumes* — but the model's proposal 
 **interpretation** of an already-parsed scene, not a re-reading of raw text.
 
 ```
-corpus parse ──> [A] Scene interpretation (per scene, LLM)  ── the only interpretive pass
-   (given)            │  reading (deliberation) → interpretive layer (checked)
+corpus parse ──────┐
+   (given)         ▼
+01-scenes ──> [A] Scene interpretation (per scene, LLM)  ── the only interpretive pass
+ (partition)          │  reading (deliberation) → interpretive layer (checked)
                       │  entity typing + coref referents + relation/frame + setting
                       ▼
                [B] Consolidation (code-first, LLM on residual)
@@ -58,8 +60,10 @@ corpus parse ──> [A] Scene interpretation (per scene, LLM)  ── the only 
 
 ### Stage A — scene interpretation (the one interpretive pass)
 
-A single LLM conversation per scene, consuming the corpus parse and producing the interpretive
-layer that the corpus deliberately omits. It replaces `02-markup` + `03-reading` + `04-tags` +
+A single LLM conversation per scene, consuming the corpus parse **sliced by the `01-scenes`
+partition** (the corpus is line-addressed; scene boundaries are this repo's, and `01-scenes`
+survives as Stage A's second input) and producing the interpretive layer that the corpus
+deliberately omits. It replaces `02-markup` + `03-reading` + `04-tags` +
 `07-relations` (and absorbs the `coref.txt` overlay). Two turns, reusing the existing "split
 deliberation from final output" rule:
 
@@ -78,7 +82,11 @@ deliberation from final output" rule:
   - **Coreference referents**: link each entity mention (name / epithet / pronoun / pro-drop
     subject — forms the corpus already distinguishes via morphology + role) to a scene-local
     **referent id** carrying its most-specific identity in source spelling, or `(unknown)`.
-    Pronouns/pro-drop/epithets resolve *here*, up front. (subsumes `04-tags` + `coref.txt`.)
+    A referent is an individual **or a set** with an explicit member list — plural first persons
+    (`noi`, plural pro-drop) are the common case and resolve to their members where the reading
+    determines them (this is what Stage B's `split_set` folds; distinct from any census-earned
+    `group` kind for genuine collectives). Pronouns/pro-drop/epithets resolve *here*, up front.
+    (subsumes `04-tags` + `coref.txt`.)
   - **Relation classification**: take each corpus predicate-argument skeleton tuple and add the
     interpretation the skeleton lacks — map the predicate onto the closed
     `measure.CLOSED_VOCAB ∪ {relates-to}`, attach a `frame ∈ {literal, simile, prophecy,
@@ -94,10 +102,13 @@ deliberation from final output" rule:
 because the corpus already guarantees spans):
 1. **Coverage**: every corpus entity-candidate NP receives a typing decision; every entity mention
    has a referent; no referent is empty; every referent kind is in the closed type vocabulary; a
-   pronoun referent does not echo its own surface (today's `_is_echo`, generalized).
+   set referent's members exist as referents in the scene; a pronoun referent does not echo its own
+   surface (today's `_is_echo`, generalized).
 2. **Relation validity**: every classified tuple cites an existing corpus skeleton tuple; predicate
    ∈ vocab; frame ∈ set; argument referent ids exist in the scene (today's `check_relations`,
-   re-expressed over referents).
+   re-expressed over referents). A tuple whose subject and object resolve to the **same referent**
+   is flagged at generation time (the `[1] meets [2]` both-Dante case KG-en.md deferred to Step 4):
+   re-asked once, then accepted as flagged data if the model insists.
 3. **Setting validity**: each setting flag points to a referent typed `place`.
 4. **Partial-accept retry**: validated typings/referents/relations are kept; only failed items are
    re-asked in-conversation. The artifact is bigger than any single old output, so this is
@@ -128,6 +139,12 @@ This keeps typing empirical and transferable (the Premise: no external canon —
 from the poem's own nouns), and bounds the current effort to person + place while leaving the
 vocabulary open to grow from evidence.
 
+The **predicate vocabulary gets the same treatment**: `CLOSED_VOCAB` was measured from the
+*English readings'* `-s` verbs, but Stage A classifies *Italian lemmas* from the corpus skeleton —
+an implicit cross-language mapping. Before freezing Stage A, re-run the measure over the corpus
+Layer-5 predicate-lemma census and validate (or revise) `CLOSED_VOCAB` against it: same
+measure-then-freeze method, better substrate.
+
 ### Stage B — consolidation (code-first)
 
 All pure derivations of Stage A's referents and classified relations; reuse existing primitives.
@@ -135,16 +152,26 @@ All pure derivations of Stage A's referents and classified relations; reuse exis
 - **Entities / registry** (replaces `05-registry` + typing): fold referent identities across all
   canticles via `fold_key`/`Nodes`, choose canonical spelling, apply the deterministic
   `aliases.txt`. **Type comes from A**, so `node_types.py`'s separate classification pass is gone —
-  registry only *reconciles* the per-scene kinds onto one node. Persons and places fold through the
+  registry only *reconciles* the per-scene kinds onto one node. Reconciliation is explicit, not
+  assumed: unanimous per-scene kinds → the node's type; a conflict → a flagged residual (LLM pick
+  from the closed vocabulary over the node's scene evidence), with the disagreement rate reported
+  as measurement. This deliberately reverses the documented node-level-typing decision (KG-en.md:
+  "the type is a node property, not a tag property"): typing moves per-scene because it now binds
+  to reading-anchored referents rather than bare labels, so the inconsistency node-level typing
+  avoided becomes a measurable signal instead of a silent risk. Persons and places fold through the
   same machinery, partitioned by entity kind. Coreference is *already* resolved in A, so the
   `coref.txt` overlay disappears — its job moved into the checked artifact. Any residual cross-scene
   merge that is genuinely ambiguous becomes an explicit, flagged residual (LLM pick from a closed
   candidate set), not a silent human overlay.
 - **Relation + speech graph** (replaces `06-speech` + `08-kg`): map each classified tuple's referent
   ids → canonical nodes; recover the asserter for `reported/prophecy/simile` from quote nesting
-  (the corpus quote-span tree). Speaker attribution is direct: A already resolved the first-person
-  referent, so `06-speech`'s geometric first-person bucketing collapses to a lookup
-  (`quotespans.own_region` + the resolved referent). Emit `nodes/edges/speech_edges.jsonl` as today.
+  (the corpus quote-span tree). Speaker attribution is direct **where a first-person referent
+  exists**: A already resolved it (including pro-drop), so `06-speech`'s geometric first-person
+  bucketing collapses to a lookup (`quotespans.own_region` + the resolved referent). Expect
+  coverage to rise sharply — today 734 of 1,222 spans are `(unattributed)` because only explicit
+  tags count, while A resolves pro-drop first persons too — but a span with no first-person
+  mention at all still yields `(unattributed)`, kept as measured data, never force-resolved.
+  Emit `nodes/edges/speech_edges.jsonl` as today.
 - **Topography** (replaces `10-topography`): fold A's setting-flagged `place` referents into
   canonical regions (positional walk; LLM only on the same/new boundary, as today), with the *same*
   `fold_key`/`Nodes` machinery as persons.
@@ -155,8 +182,11 @@ Because coreference and presence are decided in A, most of `11–13` becomes cod
 
 - **Location** per scene: read directly from A's setting-flagged `place` referents (no separate LLM
   pass).
-- **Presence**: a referent that is a relation argument (acts/speaks/is addressed) is `present`; one
-  only mentioned is `mentioned` — derivable from A. LLM only on a true residual.
+- **Presence**: frame-filtered — a referent that is an argument of a **`literal`-frame** relation
+  (acts/speaks/is addressed), or a resolved speaker/addressee, is `present`; a referent appearing
+  only inside `reported`/`prophecy`/`simile` frames is `mentioned` (Augusto in Virgilio's reported
+  speech is not in the dark wood), and `hypothetical-simile`-typed referents are never `present` —
+  derivable from A. LLM only on a true residual.
 - **Addressee**: candidate pool = present cast − speaker, both already in A; resolve in code when
   ≤1, LLM pick when ≥2 (unchanged residual rule).
 - **Cohort**: present cast filtered to `class/generic`; same residual rule.
@@ -201,7 +231,8 @@ With a single source of truth, granular invalidation becomes structural instead 
 
 - The **unit** is the per-scene interpretation artifact. Each derived output records a content hash
   of the inputs it depends on (the scene artifact + the **corpus parse version** it annotated + the
-  registry node-set it canonicalized against).
+  **`01-scenes` partition** that sliced it + the registry node-set it canonicalized against). A
+  re-segmentation therefore invalidates exactly the affected scenes, like any other input change.
 - On rerun, a derived unit recomputes iff its dependency hash changed. Stage B/C code passes
   recompute for free; the only cached LLM work (Stage A scenes, B/C residual picks, topography
   boundary, digest) is re-run **exactly** for the changed scenes — no more silent skipping, no more
@@ -221,7 +252,8 @@ replacing it. Build alongside, gate on metrics, then cut over.
    NP enumeration). Propose and human-curate the closed kind list (person + place fleshed out;
    other kinds only where the census earns them), freeze it in `dante_analyze/grammar.py`. This must
    happen before any Stage A prompting, mirroring how `CLOSED_VOCAB` is frozen before
-   `07-relations`.
+   `07-relations`. In the same step, re-measure `CLOSED_VOCAB` against the corpus Layer-5
+   predicate-lemma census (see *Preprocessing*) and freeze the validated list.
 1. **Spike Stage A on one canto** (e.g. Inferno I). Consume the parse; produce the artifact; confirm
    coverage/relation/setting checks pass and partial-retry works. Compare its referents/typings/
    relations against the existing `04-tags`/`07-relations` outputs for that canto.
@@ -240,8 +272,9 @@ replacing it. Build alongside, gate on metrics, then cut over.
 **ARCHITECTURE.md amendment.** The "keep model jobs narrow — one call, one job, one check" rule must
 be restated: the *interpretive* job is now deliberately one larger call, and narrowness is enforced
 by (a) the grammatical substrate being given (not re-derived here), (b) independent code checks per
-interpretive facet, and (c) every non-interpretive layer being code-first. Document this so the
-consolidation is not mistaken for a violation of the spine.
+interpretive facet, and (c) every non-interpretive layer being code-first. The same amendment
+records the deliberate reversal of the node-level-typing decision (Stage B above) with its
+rationale. Document this so the consolidation is not mistaken for a violation of the spine.
 
 ---
 
